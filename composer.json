@@ -9,7 +9,7 @@
       "email": "rahasistiyak.official@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": "^7.2|^8.0|^8.1|^8.2|^8.3|^8.4",
     "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
@@ -17,7 +17,7 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5|^10.0",
-    "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0"
+    "orchestra/testbench": "^7.0|^8.0|^9.0"
   },
   "autoload": {
     "psr-4": {
@@ -35,5 +35,9 @@
         "RahasIstiyak\\GeoData\\GeoDataServiceProvider"
       ]
     }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist"
   }
 }
