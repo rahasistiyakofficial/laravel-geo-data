@@ -4,34 +4,33 @@ namespace RahasIstiyak\GeoData\Models;
 
 use Illuminate\Support\Facades\Cache;
 use InvalidArgumentException;
+use Illuminate\Support\Collection;
 
 class City
 {
     protected static $configKey = 'cities';
 
     /**
-     * Get all cities for a given country code.
+     * Get all cities for a given country code as a collection of objects.
      *
      * @param string $countryCode
-     * @return array
+     * @return Collection
      */
     public static function getCities($countryCode)
     {
-        // Return empty if data is not enabled in config
         if (!config('geo-data.enabled_data.' . static::$configKey, true)) {
-            return [];
+            return collect([]);
         }
 
-        // Load data from cache or file for the given country code
-        return static::loadData($countryCode);
+        return collect(static::loadData($countryCode))->flatten(1)->map(fn($item) => (object) $item);
     }
 
     /**
-     * Get a specific city by country code and city ID.
+     * Get a specific city by country code and city ID as an object.
      *
      * @param string $countryCode
      * @param int $id
-     * @return array|null
+     * @return Collection|null
      */
     public static function getCityById($countryCode, $id)
     {
@@ -39,47 +38,34 @@ class City
             return null;
         }
 
-        $data = static::loadData($countryCode);
-
-        // Loop through and find the city with the matching ID
-        foreach ($data as $chunk) {
-            foreach ($chunk as $city) {
-                // Ensure $city is an array before accessing its keys
-                if (is_array($city) && isset($city['id']) && $city['id'] == $id) {
-                    return $city;
-                }
-            }
-        }
-
-        return null;
+        $data = collect(static::loadData($countryCode, true))->map(fn($item) => (object) $item);
+        return isset($data[$id]) ? (object)$data[$id] : null;
     }
 
     /**
-     * Get a dropdown list of cities for a given country code.
+     * Get a dropdown list of cities for a given country code as a collection of objects.
      *
      * @param string $countryCode
      * @param array $fields
      * @param string $sortBy
-     * @return array
+     * @return Collection
      */
     public static function getCityDropdown($countryCode, $fields = ['id', 'name'], $sortBy = 'name')
     {
         if (!config('geo-data.enabled_data.' . static::$configKey, true)) {
-            return [];
+            return collect([]);
         }
 
-        $data = static::loadData($countryCode);
+        $data = collect(static::loadData($countryCode));
 
-        // Efficiently extract and map data fields
-        $dropdown = array_merge([], ...array_map(function ($city) use ($fields) {
-            return array_intersect_key($city, array_flip($fields));
-        }, array_merge(...$data)));
+        $dropdown = $data->flatMap(function ($chunk) use ($fields) {
+            return array_map(function ($city) use ($fields) {
+                return (object) array_intersect_key($city, array_flip($fields));
+            }, $chunk);
+        })->values();
 
-        // Sort by specified field (e.g. name)
         if ($sortBy) {
-            usort($dropdown, function ($a, $b) use ($sortBy) {
-                return strcmp($a[$sortBy] ?? '', $b[$sortBy] ?? '');
-            });
+            $dropdown = $dropdown->sortBy($sortBy);
         }
 
         return $dropdown;
@@ -89,9 +75,10 @@ class City
      * Load and cache data for cities from the specific country code file.
      *
      * @param string $countryCode
+     * @param bool $indexById
      * @return array
      */
-    protected static function loadData($countryCode)
+    protected static function loadData($countryCode, $indexById = false)
     {
         $dataFilePath = __DIR__ . '/../data/cities/' . strtoupper($countryCode) . '.php';
 
@@ -100,10 +87,21 @@ class City
             return [];
         }
 
-        // Cache the data in chunks for large datasets to prevent MySQL packet size issues
-        $cacheKey = 'geo-data.cities.' . strtoupper($countryCode);
+        $data = static::cacheInChunks($dataFilePath);
 
-        return static::cacheInChunks($dataFilePath);
+        if ($indexById) {
+            $indexed = [];
+            foreach ($data as $chunk) {
+                foreach ($chunk as $city) {
+                    if (isset($city['id'])) {
+                        $indexed[$city['id']] = $city;
+                    }
+                }
+            }
+            return $indexed;
+        }
+
+        return $data;
     }
 
     /**
@@ -114,51 +112,42 @@ class City
      */
     protected static function cacheInChunks($dataFilePath)
     {
-        // Include the data file (returns an array of cities)
         $cities = include $dataFilePath;
 
-        // Ensure data is in the expected format
         if (!is_array($cities)) {
-            \Log::error("Cities data is not an array: " . print_r($cities, true));
+            \Log::error('Cities data is not an array: ' . print_r($cities, true));
             return [];
         }
 
-        $chunkSize = 50; // Set chunk size to 50 cities
+        $chunkSize = 100;
         $chunkedData = array_chunk($cities, $chunkSize);
 
-        // Cache each chunk separately to avoid large single cache items
         $allCacheKeys = [];
         foreach ($chunkedData as $index => $chunk) {
-            // Ensure each chunk is an array
             if (!is_array($chunk)) {
-                \Log::error("Invalid chunk detected: " . print_r($chunk, true));
+                \Log::error('Invalid chunk detected: ' . print_r($chunk, true));
                 continue;
             }
 
-            $chunkCacheKey = $dataFilePath . '.chunk.' . $index;
+            $chunkCacheKey = 'geo-data.cities.chunk.' . md5($dataFilePath . $index);
 
-            // Cache the chunk using Cache::remember with 12 hours duration
             Cache::remember($chunkCacheKey, now()->addHours(12), function () use ($chunk) {
                 return $chunk;
             });
 
-            // Add the chunk cache key to the list
             $allCacheKeys[] = $chunkCacheKey;
         }
 
-        // Efficiently combine chunks from the cache
         $allCities = [];
         foreach ($allCacheKeys as $chunkCacheKey) {
             $chunkData = Cache::get($chunkCacheKey);
 
-            // Validate if the cached data is an array
             if (is_array($chunkData)) {
-                $allCities = array_merge($allCities, $chunkData); // Combine chunks from cache
+                $allCities[] = $chunkData;
             } else {
-                \Log::error("Invalid data found in cache for key: " . $chunkCacheKey);
+                \Log::error('Invalid data found in cache for key: ' . $chunkCacheKey);
             }
         }
-
 
         return $allCities;
     }

@@ -9,19 +9,21 @@ class Country extends BaseGeoModel
 
     public static function byCode($code)
     {
-        $data = static::loadData();
-        foreach ($data as $country) {
-            if ($country['code'] === $code || $country['iso3'] === $code) {
-                return $country;
-            }
-        }
-        return null;
+        return static::loadData()
+            ->mapInto(\Illuminate\Support\Fluent::class) // More readable than casting to (object)
+            ->first(function ($country) use ($code) {
+                return $country->code === $code || $country->iso3 === $code;
+            }, null)?->tap(function ($country) {
+                $country->translations = json_decode($country->translations, true);
+            });
     }
+
 
     public static function byRegion($regionId)
     {
-        return array_filter(static::loadData(), function ($country) use ($regionId) {
-            return $country['region_id'] === $regionId;
-        });
+        return static::loadData()
+            ->map(fn($item) => (object) $item)
+            ->filter(fn($country) => $country->region_id === $regionId)
+            ->values();
     }
 }

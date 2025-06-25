@@ -24,3 +24,7 @@
 ### Changes Made:
 - **Optimized Chunked Caching** for large city datasets to handle **database cache driver** more effectively.
 - **Duplicate City Removal**: Remove Duplicate Cities from Dataset.
+
+## [2.3.0] - 2025-06-28
+### Changes Made:
+- **All Data Return Types Array to Collection** Use $data->name insted of $data['name']
