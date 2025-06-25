@@ -44,7 +44,8 @@ class City
         // Loop through and find the city with the matching ID
         foreach ($data as $chunk) {
             foreach ($chunk as $city) {
-                if ($city['id'] == $id) {
+                // Ensure $city is an array before accessing its keys
+                if (is_array($city) && isset($city['id']) && $city['id'] == $id) {
                     return $city;
                 }
             }
@@ -102,7 +103,6 @@ class City
         // Cache the data in chunks for large datasets to prevent MySQL packet size issues
         $cacheKey = 'geo-data.cities.' . strtoupper($countryCode);
 
-        // Return the cached data from database cache driver
         return static::cacheInChunks($dataFilePath);
     }
 
@@ -117,22 +117,48 @@ class City
         // Include the data file (returns an array of cities)
         $cities = include $dataFilePath;
 
+        // Ensure data is in the expected format
+        if (!is_array($cities)) {
+            \Log::error("Cities data is not an array: " . print_r($cities, true));
+            return [];
+        }
+
         $chunkSize = 50; // Set chunk size to 50 cities
         $chunkedData = array_chunk($cities, $chunkSize);
 
         // Cache each chunk separately to avoid large single cache items
         $allCacheKeys = [];
         foreach ($chunkedData as $index => $chunk) {
+            // Ensure each chunk is an array
+            if (!is_array($chunk)) {
+                \Log::error("Invalid chunk detected: " . print_r($chunk, true));
+                continue;
+            }
+
             $chunkCacheKey = $dataFilePath . '.chunk.' . $index;
-            Cache::put($chunkCacheKey, $chunk, now()->addHours(12)); // Cache each chunk for 12 hours
+
+            // Cache the chunk using Cache::remember with 12 hours duration
+            Cache::remember($chunkCacheKey, now()->addHours(12), function () use ($chunk) {
+                return $chunk;
+            });
+
+            // Add the chunk cache key to the list
             $allCacheKeys[] = $chunkCacheKey;
         }
 
-        // Efficiently combine chunks
+        // Efficiently combine chunks from the cache
         $allCities = [];
         foreach ($allCacheKeys as $chunkCacheKey) {
-            $allCities = array_merge($allCities, Cache::get($chunkCacheKey)); // Combine chunks from cache
+            $chunkData = Cache::get($chunkCacheKey);
+
+            // Validate if the cached data is an array
+            if (is_array($chunkData)) {
+                $allCities = array_merge($allCities, $chunkData); // Combine chunks from cache
+            } else {
+                \Log::error("Invalid data found in cache for key: " . $chunkCacheKey);
+            }
         }
+
 
         return $allCities;
     }
