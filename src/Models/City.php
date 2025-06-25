@@ -120,7 +120,7 @@ class City
         // Include the data file (returns an array of cities)
         $cities = include $dataFilePath;
 
-        $chunkSize = 200; // Set chunk size to 200 cities (adjust this based on data size)
+        $chunkSize = 50; // Set chunk size to 50 cities
         $chunkedData = array_chunk($cities, $chunkSize);
 
         // Cache each chunk separately to avoid large single cache items
@@ -140,3 +140,4 @@ class City
         return $allCities;
     }
 }
+
