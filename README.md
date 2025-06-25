@@ -1,4 +1,3 @@
-````markdown
 # Laravel Geo Data
 
 An optimized Laravel package for accessing region, country, phone code, city, and currency data.
