@@ -1,10 +1,11 @@
+````markdown
 # Laravel Geo Data
 
 An optimized Laravel package for accessing region, country, phone code, city, and currency data.
 
 ## Compatibility
 
-* **PHP**: 7.2+, 8.0+
+* **PHP**: 7.3+, 8.0+
 * **Laravel**: 6.x, 7.x, 8.x, 9.x, 10.x, 11.x, 12.x
 
 ## Installation
@@ -13,7 +14,7 @@ To install the package, run the following command:
 
 ```bash
 composer require rahasistiyak/laravel-geo-data
-```
+````
 
 The package will be auto-discovered by Laravel.
 
@@ -50,8 +51,8 @@ You can interact with the **countries** model as follows:
 use RahasIstiyak\GeoData\Models\Country;
 
 $countries = Country::all(); // All countries
-$dropdown = Country::dropdown(['id', 'name', 'iso2']); // Custom fields
-$country = Country::byCode('AF'); // By ISO2 or ISO3
+$dropdown = Country::dropdown(['id', 'name', 'code']); // Custom fields default if no parameter ['id','name']- if you need more data then send it in parameter
+$country = Country::byCode('AF'); // By ISO2/code or ISO3
 $country = Country::byId(1); // By ID
 $regionCountries = Country::byRegion(3); // By region ID
 $page = Country::paginate(10, 1); // Paginated results
@@ -77,12 +78,12 @@ You can interact with the **cities** model as follows:
 ```php
 use RahasIstiyak\GeoData\Models\City;
 
-$cities = City::all(); // All cities
-$dropdown = City::dropdown(); // ['id', 'name']
-$city = City::byId(1); // By ID
-$countryCities = City::byCountryId(1); // By country ID
-$countryCities = City::byCountryCode('AF'); // By country code
-$page = City::paginate(100, 1); // Paginated results
+$cities = City::getCities('US'); // All cities in the United States
+$dropdown = City::getCityDropdown('US'); // Dropdown ['id', 'name'] for the United States
+// If you need more data, send parameters like ['id', 'name', 'latitude']
+$dropdownWithAdditionalFields = City::getCityDropdown('US', ['id', 'name', 'latitude']); // Additional fields
+
+$city = City::getCityById('US', 1); // Get city with ID 1 in the United States
 ```
 
 ### Currencies
@@ -126,11 +127,12 @@ use RahasIstiyak\GeoData\Models\City;
 
 Route::get('/test-geo', function () {
     return response()->json([
-        'countries' => Country::dropdown(['id', 'name', 'iso2']),
+        'countries' => Country::dropdown(),// you can send parameter for custom fields eg: ['id', 'name', 'code']
         'country_af' => Country::byCode('AF'),
         'country_1' => Country::byId(1),
-        'cities_af' => City::byCountryId(1),
-        'cities_paginated' => City::paginate(100, 1),
+        'cities_us' => City::getCities('US'), // Cities for the United States
+        'city_1_us' => City::getCityById('US', 1), // City with ID 1 for US
+       
     ]);
 });
 ```
@@ -158,3 +160,11 @@ This package is open-source and available under the **MIT License**.
 
 For any questions or support, you can reach us at:
 **Email**: [rahasistiyak.official@gmail.com](mailto:rahasistiyak.official@gmail.com)
+
+```
+
+### Changes Made:
+
+- Updated the **Cities** section to include the new functions `getCityDropdown()` with parameters like `['id', 'name', 'latitude']`, and to reflect `getCityById()` and `getCities()`.
+- Provided additional usage examples showing how to use the new parameters in the `City::getCityDropdown()` method.
+```
