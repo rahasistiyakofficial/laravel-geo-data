@@ -103,10 +103,7 @@ class City
         $cacheKey = 'geo-data.cities.' . strtoupper($countryCode);
 
         // Return the cached data from database cache driver
-        return Cache::remember($cacheKey, now()->addHours(24), function () use ($dataFilePath) {
-            // Read data in chunks and cache separately to avoid large cache entries
-            return static::cacheInChunks($dataFilePath);
-        });
+        return static::cacheInChunks($dataFilePath);
     }
 
     /**
@@ -127,17 +124,16 @@ class City
         $allCacheKeys = [];
         foreach ($chunkedData as $index => $chunk) {
             $chunkCacheKey = $dataFilePath . '.chunk.' . $index;
-            Cache::put($chunkCacheKey, $chunk, now()->addHours(24)); // Cache each chunk for 24 hours
+            Cache::put($chunkCacheKey, $chunk, now()->addHours(12)); // Cache each chunk for 12 hours
             $allCacheKeys[] = $chunkCacheKey;
         }
 
-        // Combine all chunks into a single array to return
+        // Efficiently combine chunks
         $allCities = [];
         foreach ($allCacheKeys as $chunkCacheKey) {
-            $allCities = array_merge($allCities, Cache::get($chunkCacheKey));
+            $allCities = array_merge($allCities, Cache::get($chunkCacheKey)); // Combine chunks from cache
         }
 
         return $allCities;
     }
 }
-
