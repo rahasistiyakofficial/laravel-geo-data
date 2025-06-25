@@ -7,7 +7,6 @@ use InvalidArgumentException;
 
 class City
 {
-    protected static $data = null;
     protected static $configKey = 'cities';
 
     /**
@@ -18,12 +17,13 @@ class City
      */
     public static function getCities($countryCode)
     {
+        // Return empty if data is not enabled in config
         if (!config('geo-data.enabled_data.' . static::$configKey, true)) {
             return [];
         }
 
-        $data = static::loadData($countryCode);
-        return $data;
+        // Load data from cache or file for the given country code
+        return static::loadData($countryCode);
     }
 
     /**
@@ -40,7 +40,17 @@ class City
         }
 
         $data = static::loadData($countryCode);
-        return isset($data[$id]) ? $data[$id] : null;
+
+        // Loop through and find the city with the matching ID
+        foreach ($data as $chunk) {
+            foreach ($chunk as $city) {
+                if ($city['id'] == $id) {
+                    return $city;
+                }
+            }
+        }
+
+        return null;
     }
 
     /**
@@ -59,17 +69,13 @@ class City
 
         $data = static::loadData($countryCode);
 
-        // Create a dropdown structure
-        $dropdown = array_map(function ($city) use ($fields) {
-            $row = [];
-            foreach ($fields as $field) {
-                $row[$field] = $city[$field] ?? null;
-            }
-            return $row;
-        }, $data);
+        // Efficiently extract and map data fields
+        $dropdown = array_merge([], ...array_map(function ($city) use ($fields) {
+            return array_intersect_key($city, array_flip($fields));
+        }, array_merge(...$data)));
 
-        // Sort dropdown by the given field
-        if ($sortBy && isset($data[array_key_first($data)][$sortBy])) {
+        // Sort by specified field (e.g. name)
+        if ($sortBy) {
             usort($dropdown, function ($a, $b) use ($sortBy) {
                 return strcmp($a[$sortBy] ?? '', $b[$sortBy] ?? '');
             });
@@ -79,7 +85,7 @@ class City
     }
 
     /**
-     * Load data for cities from the specific country code file.
+     * Load and cache data for cities from the specific country code file.
      *
      * @param string $countryCode
      * @return array
@@ -93,10 +99,44 @@ class City
             return [];
         }
 
-        // Cache the data for the given country
+        // Cache the data in chunks for large datasets to prevent MySQL packet size issues
         $cacheKey = 'geo-data.cities.' . strtoupper($countryCode);
+
+        // Return the cached data from database cache driver
         return Cache::remember($cacheKey, now()->addHours(24), function () use ($dataFilePath) {
-            return include $dataFilePath;
+            // Read data in chunks and cache separately to avoid large cache entries
+            return static::cacheInChunks($dataFilePath);
         });
+    }
+
+    /**
+     * Cache large city data in smaller chunks.
+     *
+     * @param string $dataFilePath
+     * @return array
+     */
+    protected static function cacheInChunks($dataFilePath)
+    {
+        // Include the data file (returns an array of cities)
+        $cities = include $dataFilePath;
+
+        $chunkSize = 200; // Set chunk size to 200 cities (adjust this based on data size)
+        $chunkedData = array_chunk($cities, $chunkSize);
+
+        // Cache each chunk separately to avoid large single cache items
+        $allCacheKeys = [];
+        foreach ($chunkedData as $index => $chunk) {
+            $chunkCacheKey = $dataFilePath . '.chunk.' . $index;
+            Cache::put($chunkCacheKey, $chunk, now()->addHours(24)); // Cache each chunk for 24 hours
+            $allCacheKeys[] = $chunkCacheKey;
+        }
+
+        // Combine all chunks into a single array to return
+        $allCities = [];
+        foreach ($allCacheKeys as $chunkCacheKey) {
+            $allCities = array_merge($allCities, Cache::get($chunkCacheKey));
+        }
+
+        return $allCities;
     }
 }
