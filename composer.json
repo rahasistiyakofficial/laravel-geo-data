@@ -1,0 +1,39 @@
+{
+  "name": "rahasistiyak/laravel-geo-data",
+  "description": "A Laravel package providing optimized access to region, country, phone code, city, and currency data",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rahas Istiyak",
+      "email": "rahasistiyak.official@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.2|^8.0|^8.1|^8.2|^8.3|^8.4",
+    "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/cache": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5|^10.0",
+    "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RahasIstiyak\\GeoData\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "RahasIstiyak\\GeoData\\Tests\\": "tests/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "RahasIstiyak\\GeoData\\GeoDataServiceProvider"
+      ]
+    }
+  }
+}
