@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -660,15 +660,6 @@ return array (
   ),
   73 => 
   array (
-    'id' => 19344,
-    'name' => 'Binzhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 45.75281,
-    'longitude' => 127.47986,
-  ),
-  74 => 
-  array (
     'id' => 19345,
     'name' => 'Biyong',
     'country_id' => 45,
@@ -676,7 +667,7 @@ return array (
     'latitude' => 27.18722,
     'longitude' => 109.51,
   ),
-  75 => 
+  74 => 
   array (
     'id' => 19346,
     'name' => 'Bojia',
@@ -685,7 +676,7 @@ return array (
     'latitude' => 26.46722,
     'longitude' => 111.96806,
   ),
-  76 => 
+  75 => 
   array (
     'id' => 19347,
     'name' => 'Boli',
@@ -694,7 +685,7 @@ return array (
     'latitude' => 45.75279,
     'longitude' => 130.57211,
   ),
-  77 => 
+  76 => 
   array (
     'id' => 19348,
     'name' => 'Boshan',
@@ -703,7 +694,7 @@ return array (
     'latitude' => 36.48333,
     'longitude' => 117.83333,
   ),
-  78 => 
+  77 => 
   array (
     'id' => 19349,
     'name' => 'Botou',
@@ -712,7 +703,7 @@ return array (
     'latitude' => 38.06667,
     'longitude' => 116.5666,
   ),
-  79 => 
+  78 => 
   array (
     'id' => 19350,
     'name' => 'Boyang',
@@ -721,7 +712,7 @@ return array (
     'latitude' => 26.21167,
     'longitude' => 109.52056,
   ),
-  80 => 
+  79 => 
   array (
     'id' => 19351,
     'name' => 'Bozhou',
@@ -730,16 +721,7 @@ return array (
     'latitude' => 33.87722,
     'longitude' => 115.77028,
   ),
-  81 => 
-  array (
-    'id' => 19352,
-    'name' => 'Bozhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 27.37889,
-    'longitude' => 109.27778,
-  ),
-  82 => 
+  80 => 
   array (
     'id' => 19353,
     'name' => 'Buhe',
@@ -748,7 +730,7 @@ return array (
     'latitude' => 30.28757,
     'longitude' => 112.22979,
   ),
-  83 => 
+  81 => 
   array (
     'id' => 19354,
     'name' => 'Burang',
@@ -757,7 +739,7 @@ return array (
     'latitude' => 30.29559,
     'longitude' => 81.17511,
   ),
-  84 => 
+  82 => 
   array (
     'id' => 19355,
     'name' => 'Caidian',
@@ -766,7 +748,7 @@ return array (
     'latitude' => 30.58333,
     'longitude' => 114.03333,
   ),
-  85 => 
+  83 => 
   array (
     'id' => 19356,
     'name' => 'Caijia',
@@ -775,7 +757,7 @@ return array (
     'latitude' => 28.90889,
     'longitude' => 106.3404,
   ),
-  86 => 
+  84 => 
   array (
     'id' => 19357,
     'name' => 'Cangzhou',
@@ -784,7 +766,7 @@ return array (
     'latitude' => 38.31667,
     'longitude' => 116.86667,
   ),
-  87 => 
+  85 => 
   array (
     'id' => 19358,
     'name' => 'Cangzhou Shi',
@@ -793,7 +775,7 @@ return array (
     'latitude' => 38.31,
     'longitude' => 116.86,
   ),
-  88 => 
+  86 => 
   array (
     'id' => 19359,
     'name' => 'Caohe',
@@ -802,7 +784,7 @@ return array (
     'latitude' => 30.2297,
     'longitude' => 115.43346,
   ),
-  89 => 
+  87 => 
   array (
     'id' => 19360,
     'name' => 'Chadian',
@@ -811,7 +793,7 @@ return array (
     'latitude' => 27.58194,
     'longitude' => 109.13278,
   ),
-  90 => 
+  88 => 
   array (
     'id' => 19361,
     'name' => 'Chaihe',
@@ -820,7 +802,7 @@ return array (
     'latitude' => 44.7598,
     'longitude' => 129.67826,
   ),
-  91 => 
+  89 => 
   array (
     'id' => 19362,
     'name' => 'Changchi',
@@ -829,7 +811,7 @@ return array (
     'latitude' => 32.16377,
     'longitude' => 106.65814,
   ),
-  92 => 
+  90 => 
   array (
     'id' => 19363,
     'name' => 'Changchun',
@@ -838,7 +820,7 @@ return array (
     'latitude' => 43.88,
     'longitude' => 125.32278,
   ),
-  93 => 
+  91 => 
   array (
     'id' => 19364,
     'name' => 'Changde',
@@ -847,7 +829,7 @@ return array (
     'latitude' => 29.04638,
     'longitude' => 111.6783,
   ),
-  94 => 
+  92 => 
   array (
     'id' => 19365,
     'name' => 'Changji',
@@ -856,7 +838,7 @@ return array (
     'latitude' => 44.00782,
     'longitude' => 87.30461,
   ),
-  95 => 
+  93 => 
   array (
     'id' => 19366,
     'name' => 'Changji Huizu Zizhizhou',
@@ -865,7 +847,7 @@ return array (
     'latitude' => 44.01667,
     'longitude' => 87.31667,
   ),
-  96 => 
+  94 => 
   array (
     'id' => 19367,
     'name' => 'Changleng',
@@ -874,7 +856,7 @@ return array (
     'latitude' => 28.7,
     'longitude' => 115.81667,
   ),
-  97 => 
+  95 => 
   array (
     'id' => 19368,
     'name' => 'Changli',
@@ -883,7 +865,7 @@ return array (
     'latitude' => 39.70417,
     'longitude' => 119.15056,
   ),
-  98 => 
+  96 => 
   array (
     'id' => 19369,
     'name' => 'Changling',
@@ -892,7 +874,7 @@ return array (
     'latitude' => 44.26532,
     'longitude' => 124.00045,
   ),
-  99 => 
+  97 => 
   array (
     'id' => 19370,
     'name' => 'Changping',
@@ -901,7 +883,7 @@ return array (
     'latitude' => 40.21612,
     'longitude' => 116.23471,
   ),
-  100 => 
+  98 => 
   array (
     'id' => 19371,
     'name' => 'Changqiao',
@@ -910,7 +892,7 @@ return array (
     'latitude' => 26.82139,
     'longitude' => 118.84361,
   ),
-  101 => 
+  99 => 
   array (
     'id' => 19372,
     'name' => 'Changqing',
@@ -919,7 +901,7 @@ return array (
     'latitude' => 36.5575,
     'longitude' => 116.72722,
   ),
-  102 => 
+  100 => 
   array (
     'id' => 19373,
     'name' => 'Changsha',
@@ -928,16 +910,7 @@ return array (
     'latitude' => 28.68778,
     'longitude' => 105.98972,
   ),
-  103 => 
-  array (
-    'id' => 19374,
-    'name' => 'Changsha',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 28.19874,
-    'longitude' => 112.97087,
-  ),
-  104 => 
+  101 => 
   array (
     'id' => 19375,
     'name' => 'Changsha Shi',
@@ -946,7 +919,7 @@ return array (
     'latitude' => 28.14582,
     'longitude' => 113.22967,
   ),
-  105 => 
+  102 => 
   array (
     'id' => 19376,
     'name' => 'Changshu City',
@@ -955,7 +928,7 @@ return array (
     'latitude' => 31.64615,
     'longitude' => 120.74221,
   ),
-  106 => 
+  103 => 
   array (
     'id' => 19377,
     'name' => 'Changtu',
@@ -964,7 +937,7 @@ return array (
     'latitude' => 42.77884,
     'longitude' => 124.09545,
   ),
-  107 => 
+  104 => 
   array (
     'id' => 19378,
     'name' => 'Changzhi',
@@ -973,7 +946,7 @@ return array (
     'latitude' => 36.18389,
     'longitude' => 113.10528,
   ),
-  108 => 
+  105 => 
   array (
     'id' => 19379,
     'name' => 'Changzhou',
@@ -982,7 +955,7 @@ return array (
     'latitude' => 31.77359,
     'longitude' => 119.95401,
   ),
-  109 => 
+  106 => 
   array (
     'id' => 19380,
     'name' => 'Chaohu',
@@ -991,7 +964,7 @@ return array (
     'latitude' => 31.6,
     'longitude' => 117.86667,
   ),
-  110 => 
+  107 => 
   array (
     'id' => 19381,
     'name' => 'Chaoyang',
@@ -1000,16 +973,7 @@ return array (
     'latitude' => 42.66223,
     'longitude' => 126.0263,
   ),
-  111 => 
-  array (
-    'id' => 19382,
-    'name' => 'Chaoyang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 41.57028,
-    'longitude' => 120.45861,
-  ),
-  112 => 
+  108 => 
   array (
     'id' => 19383,
     'name' => 'Chaozhou',
@@ -1018,7 +982,7 @@ return array (
     'latitude' => 23.65396,
     'longitude' => 116.62262,
   ),
-  113 => 
+  109 => 
   array (
     'id' => 19384,
     'name' => 'Chatian',
@@ -1027,7 +991,7 @@ return array (
     'latitude' => 27.80222,
     'longitude' => 109.37361,
   ),
-  114 => 
+  110 => 
   array (
     'id' => 19385,
     'name' => 'Chengde',
@@ -1036,7 +1000,7 @@ return array (
     'latitude' => 40.9519,
     'longitude' => 117.95883,
   ),
-  115 => 
+  111 => 
   array (
     'id' => 19386,
     'name' => 'Chengde Prefecture',
@@ -1045,7 +1009,7 @@ return array (
     'latitude' => 40.97,
     'longitude' => 117.93,
   ),
-  116 => 
+  112 => 
   array (
     'id' => 19387,
     'name' => 'Chengdu',
@@ -1054,7 +1018,7 @@ return array (
     'latitude' => 30.66667,
     'longitude' => 104.06667,
   ),
-  117 => 
+  113 => 
   array (
     'id' => 19388,
     'name' => 'Chengguan',
@@ -1063,7 +1027,7 @@ return array (
     'latitude' => 35.45861,
     'longitude' => 113.79778,
   ),
-  118 => 
+  114 => 
   array (
     'id' => 19389,
     'name' => 'Chenghua',
@@ -1072,7 +1036,7 @@ return array (
     'latitude' => 23.46132,
     'longitude' => 116.77007,
   ),
-  119 => 
+  115 => 
   array (
     'id' => 19390,
     'name' => 'Chengjiao',
@@ -1081,7 +1045,7 @@ return array (
     'latitude' => 35.40495,
     'longitude' => 114.06043,
   ),
-  120 => 
+  116 => 
   array (
     'id' => 19391,
     'name' => 'Chengmen',
@@ -1090,7 +1054,7 @@ return array (
     'latitude' => 25.99339,
     'longitude' => 119.36136,
   ),
-  121 => 
+  117 => 
   array (
     'id' => 19392,
     'name' => 'Chengqu',
@@ -1099,7 +1063,7 @@ return array (
     'latitude' => 36.9106,
     'longitude' => 121.52504,
   ),
-  122 => 
+  118 => 
   array (
     'id' => 19393,
     'name' => 'Chengtangcun',
@@ -1108,7 +1072,7 @@ return array (
     'latitude' => 35.08357,
     'longitude' => 117.19071,
   ),
-  123 => 
+  119 => 
   array (
     'id' => 19394,
     'name' => 'Chengxiang',
@@ -1117,7 +1081,7 @@ return array (
     'latitude' => 31.44778,
     'longitude' => 121.09389,
   ),
-  124 => 
+  120 => 
   array (
     'id' => 19395,
     'name' => 'Chengyang',
@@ -1126,7 +1090,7 @@ return array (
     'latitude' => 35.57944,
     'longitude' => 118.83278,
   ),
-  125 => 
+  121 => 
   array (
     'id' => 19396,
     'name' => 'Chengzhong',
@@ -1135,7 +1099,7 @@ return array (
     'latitude' => 30.94454,
     'longitude' => 113.55284,
   ),
-  126 => 
+  122 => 
   array (
     'id' => 19397,
     'name' => 'Chengzihe',
@@ -1144,7 +1108,7 @@ return array (
     'latitude' => 45.33333,
     'longitude' => 131.06667,
   ),
-  127 => 
+  123 => 
   array (
     'id' => 19398,
     'name' => 'Chenzhou',
@@ -1153,7 +1117,7 @@ return array (
     'latitude' => 25.8,
     'longitude' => 113.03333,
   ),
-  128 => 
+  124 => 
   array (
     'id' => 19399,
     'name' => 'Chifeng',
@@ -1162,7 +1126,7 @@ return array (
     'latitude' => 42.26833,
     'longitude' => 118.96361,
   ),
-  129 => 
+  125 => 
   array (
     'id' => 19400,
     'name' => 'Chixi',
@@ -1171,7 +1135,7 @@ return array (
     'latitude' => 26.91111,
     'longitude' => 119.48306,
   ),
-  130 => 
+  126 => 
   array (
     'id' => 19401,
     'name' => 'Chizhou',
@@ -1180,7 +1144,7 @@ return array (
     'latitude' => 30.66134,
     'longitude' => 117.47783,
   ),
-  131 => 
+  127 => 
   array (
     'id' => 19402,
     'name' => 'Chizhou Shi',
@@ -1189,7 +1153,7 @@ return array (
     'latitude' => 30.30431,
     'longitude' => 117.41388,
   ),
-  132 => 
+  128 => 
   array (
     'id' => 19403,
     'name' => 'Chonglong',
@@ -1198,7 +1162,7 @@ return array (
     'latitude' => 29.78062,
     'longitude' => 104.85224,
   ),
-  133 => 
+  129 => 
   array (
     'id' => 19404,
     'name' => 'Chongqing',
@@ -1207,7 +1171,7 @@ return array (
     'latitude' => 29.56278,
     'longitude' => 106.55278,
   ),
-  134 => 
+  130 => 
   array (
     'id' => 19405,
     'name' => 'Chongru',
@@ -1216,7 +1180,7 @@ return array (
     'latitude' => 26.95111,
     'longitude' => 119.92528,
   ),
-  135 => 
+  131 => 
   array (
     'id' => 19406,
     'name' => 'Chongshan',
@@ -1225,7 +1189,7 @@ return array (
     'latitude' => 18.78229,
     'longitude' => 109.5013,
   ),
-  136 => 
+  132 => 
   array (
     'id' => 19407,
     'name' => 'Chongzuo Shi',
@@ -1234,7 +1198,7 @@ return array (
     'latitude' => 22.46541,
     'longitude' => 107.39622,
   ),
-  137 => 
+  133 => 
   array (
     'id' => 19408,
     'name' => 'Chumi',
@@ -1243,7 +1207,7 @@ return array (
     'latitude' => 28.23361,
     'longitude' => 106.83278,
   ),
-  138 => 
+  134 => 
   array (
     'id' => 19409,
     'name' => 'Chuxiong Yizu Zizhizhou',
@@ -1252,7 +1216,7 @@ return array (
     'latitude' => 25.43204,
     'longitude' => 101.70479,
   ),
-  139 => 
+  135 => 
   array (
     'id' => 19410,
     'name' => 'Chuzhou',
@@ -1261,7 +1225,7 @@ return array (
     'latitude' => 32.32194,
     'longitude' => 118.29778,
   ),
-  140 => 
+  136 => 
   array (
     'id' => 19411,
     'name' => 'Chuzhou Shi',
@@ -1270,7 +1234,7 @@ return array (
     'latitude' => 32.60084,
     'longitude' => 118.08813,
   ),
-  141 => 
+  137 => 
   array (
     'id' => 19412,
     'name' => 'Dabachang',
@@ -1279,7 +1243,7 @@ return array (
     'latitude' => 27.7425,
     'longitude' => 108.34333,
   ),
-  142 => 
+  138 => 
   array (
     'id' => 19413,
     'name' => 'Dabaozi',
@@ -1288,7 +1252,7 @@ return array (
     'latitude' => 26.69556,
     'longitude' => 109.44778,
   ),
-  143 => 
+  139 => 
   array (
     'id' => 19414,
     'name' => 'Dadeng',
@@ -1297,7 +1261,7 @@ return array (
     'latitude' => 24.54386,
     'longitude' => 118.32753,
   ),
-  144 => 
+  140 => 
   array (
     'id' => 19415,
     'name' => 'Dadonghai',
@@ -1306,7 +1270,7 @@ return array (
     'latitude' => 18.22056,
     'longitude' => 109.51028,
   ),
-  145 => 
+  141 => 
   array (
     'id' => 19416,
     'name' => 'Dadukou',
@@ -1315,7 +1279,7 @@ return array (
     'latitude' => 26.5479,
     'longitude' => 101.70539,
   ),
-  146 => 
+  142 => 
   array (
     'id' => 19417,
     'name' => 'Daixi',
@@ -1324,7 +1288,7 @@ return array (
     'latitude' => 26.8125,
     'longitude' => 119.11417,
   ),
-  147 => 
+  143 => 
   array (
     'id' => 19418,
     'name' => 'Dalai',
@@ -1333,7 +1297,7 @@ return array (
     'latitude' => 45.5,
     'longitude' => 124.3,
   ),
-  148 => 
+  144 => 
   array (
     'id' => 19419,
     'name' => 'Dali',
@@ -1342,7 +1306,7 @@ return array (
     'latitude' => 25.58474,
     'longitude' => 100.21229,
   ),
-  149 => 
+  145 => 
   array (
     'id' => 19420,
     'name' => 'Dali Baizu Zizhizhou',
@@ -1351,7 +1315,7 @@ return array (
     'latitude' => 25.68548,
     'longitude' => 100.13104,
   ),
-  150 => 
+  146 => 
   array (
     'id' => 19421,
     'name' => 'Dalian',
@@ -1360,7 +1324,7 @@ return array (
     'latitude' => 38.91222,
     'longitude' => 121.60222,
   ),
-  151 => 
+  147 => 
   array (
     'id' => 19422,
     'name' => 'Daliang',
@@ -1369,7 +1333,7 @@ return array (
     'latitude' => 22.84067,
     'longitude' => 113.2503,
   ),
-  152 => 
+  148 => 
   array (
     'id' => 19423,
     'name' => 'Dalianwan',
@@ -1378,7 +1342,7 @@ return array (
     'latitude' => 39.02861,
     'longitude' => 121.695,
   ),
-  153 => 
+  149 => 
   array (
     'id' => 19424,
     'name' => 'Dandong',
@@ -1387,7 +1351,7 @@ return array (
     'latitude' => 40.12917,
     'longitude' => 124.39472,
   ),
-  154 => 
+  150 => 
   array (
     'id' => 19425,
     'name' => 'Danjiangkou',
@@ -1396,7 +1360,7 @@ return array (
     'latitude' => 32.54278,
     'longitude' => 111.50861,
   ),
-  155 => 
+  151 => 
   array (
     'id' => 19426,
     'name' => 'Danshui',
@@ -1405,7 +1369,7 @@ return array (
     'latitude' => 22.7984,
     'longitude' => 114.46716,
   ),
-  156 => 
+  152 => 
   array (
     'id' => 19427,
     'name' => 'Danyang',
@@ -1414,7 +1378,7 @@ return array (
     'latitude' => 26.35102,
     'longitude' => 119.4803,
   ),
-  157 => 
+  153 => 
   array (
     'id' => 19428,
     'name' => 'Daokou',
@@ -1423,7 +1387,7 @@ return array (
     'latitude' => 35.56389,
     'longitude' => 114.50583,
   ),
-  158 => 
+  154 => 
   array (
     'id' => 19429,
     'name' => 'Daqiao',
@@ -1432,7 +1396,7 @@ return array (
     'latitude' => 26.615,
     'longitude' => 118.90639,
   ),
-  159 => 
+  155 => 
   array (
     'id' => 19430,
     'name' => 'Daqing',
@@ -1441,7 +1405,7 @@ return array (
     'latitude' => 46.58333,
     'longitude' => 125.0,
   ),
-  160 => 
+  156 => 
   array (
     'id' => 19431,
     'name' => 'Darong',
@@ -1450,7 +1414,7 @@ return array (
     'latitude' => 25.785,
     'longitude' => 108.864,
   ),
-  161 => 
+  157 => 
   array (
     'id' => 19432,
     'name' => 'Dasha',
@@ -1459,7 +1423,7 @@ return array (
     'latitude' => 23.11037,
     'longitude' => 113.4418,
   ),
-  162 => 
+  158 => 
   array (
     'id' => 19433,
     'name' => 'Dashiqiao',
@@ -1468,7 +1432,7 @@ return array (
     'latitude' => 40.63732,
     'longitude' => 122.50251,
   ),
-  163 => 
+  159 => 
   array (
     'id' => 19434,
     'name' => 'Dashitou',
@@ -1477,7 +1441,7 @@ return array (
     'latitude' => 43.30667,
     'longitude' => 128.51139,
   ),
-  164 => 
+  160 => 
   array (
     'id' => 19435,
     'name' => 'Datong',
@@ -1486,16 +1450,7 @@ return array (
     'latitude' => 32.62082,
     'longitude' => 117.06319,
   ),
-  165 => 
-  array (
-    'id' => 19436,
-    'name' => 'Datong',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 40.09361,
-    'longitude' => 113.29139,
-  ),
-  166 => 
+  161 => 
   array (
     'id' => 19437,
     'name' => 'Datong Shi',
@@ -1504,7 +1459,7 @@ return array (
     'latitude' => 40.10484,
     'longitude' => 113.63334,
   ),
-  167 => 
+  162 => 
   array (
     'id' => 19438,
     'name' => 'Dawukou',
@@ -1513,7 +1468,7 @@ return array (
     'latitude' => 39.04194,
     'longitude' => 106.39583,
   ),
-  168 => 
+  163 => 
   array (
     'id' => 19439,
     'name' => 'Daxing',
@@ -1522,7 +1477,7 @@ return array (
     'latitude' => 39.74025,
     'longitude' => 116.32693,
   ),
-  169 => 
+  164 => 
   array (
     'id' => 19440,
     'name' => 'Daye',
@@ -1531,7 +1486,7 @@ return array (
     'latitude' => 30.08333,
     'longitude' => 114.95,
   ),
-  170 => 
+  165 => 
   array (
     'id' => 19441,
     'name' => 'Dazhai',
@@ -1540,7 +1495,7 @@ return array (
     'latitude' => 25.8098,
     'longitude' => 110.15,
   ),
-  171 => 
+  166 => 
   array (
     'id' => 19442,
     'name' => 'Dazhong',
@@ -1549,7 +1504,7 @@ return array (
     'latitude' => 33.19973,
     'longitude' => 120.4578,
   ),
-  172 => 
+  167 => 
   array (
     'id' => 19443,
     'name' => 'Dazhou',
@@ -1558,7 +1513,7 @@ return array (
     'latitude' => 31.21592,
     'longitude' => 107.50092,
   ),
-  173 => 
+  168 => 
   array (
     'id' => 19444,
     'name' => 'Dazuo',
@@ -1567,7 +1522,7 @@ return array (
     'latitude' => 24.88616,
     'longitude' => 118.96433,
   ),
-  174 => 
+  169 => 
   array (
     'id' => 19445,
     'name' => 'Dehang',
@@ -1576,7 +1531,7 @@ return array (
     'latitude' => 28.3071,
     'longitude' => 109.79668,
   ),
-  175 => 
+  170 => 
   array (
     'id' => 19446,
     'name' => 'Dehong Daizu Jingpozu Zizhizhou',
@@ -1585,7 +1540,7 @@ return array (
     'latitude' => 24.66347,
     'longitude' => 98.03964,
   ),
-  176 => 
+  171 => 
   array (
     'id' => 19447,
     'name' => 'Dehui',
@@ -1594,7 +1549,7 @@ return array (
     'latitude' => 44.53333,
     'longitude' => 125.7,
   ),
-  177 => 
+  172 => 
   array (
     'id' => 19448,
     'name' => 'Delingha',
@@ -1603,7 +1558,7 @@ return array (
     'latitude' => 37.376,
     'longitude' => 97.37457,
   ),
-  178 => 
+  173 => 
   array (
     'id' => 19449,
     'name' => 'Dengjiapu',
@@ -1612,7 +1567,7 @@ return array (
     'latitude' => 26.90444,
     'longitude' => 110.92,
   ),
-  179 => 
+  174 => 
   array (
     'id' => 19450,
     'name' => 'Dengying',
@@ -1621,7 +1576,7 @@ return array (
     'latitude' => 36.13889,
     'longitude' => 120.57417,
   ),
-  180 => 
+  175 => 
   array (
     'id' => 19451,
     'name' => 'Dengyuantai',
@@ -1630,7 +1585,7 @@ return array (
     'latitude' => 26.68806,
     'longitude' => 110.54222,
   ),
-  181 => 
+  176 => 
   array (
     'id' => 19452,
     'name' => 'Dengzhou',
@@ -1639,7 +1594,7 @@ return array (
     'latitude' => 37.80822,
     'longitude' => 120.75908,
   ),
-  182 => 
+  177 => 
   array (
     'id' => 19453,
     'name' => 'Deqing',
@@ -1648,7 +1603,7 @@ return array (
     'latitude' => 30.54485,
     'longitude' => 119.9599,
   ),
-  183 => 
+  178 => 
   array (
     'id' => 19454,
     'name' => 'Deyang',
@@ -1657,7 +1612,7 @@ return array (
     'latitude' => 31.13019,
     'longitude' => 104.38198,
   ),
-  184 => 
+  179 => 
   array (
     'id' => 19455,
     'name' => 'Dezhou',
@@ -1666,7 +1621,7 @@ return array (
     'latitude' => 37.45127,
     'longitude' => 116.31046,
   ),
-  185 => 
+  180 => 
   array (
     'id' => 19456,
     'name' => 'Dingcheng',
@@ -1675,7 +1630,7 @@ return array (
     'latitude' => 32.12722,
     'longitude' => 115.03944,
   ),
-  186 => 
+  181 => 
   array (
     'id' => 19457,
     'name' => 'Dinghaicun',
@@ -1684,7 +1639,7 @@ return array (
     'latitude' => 26.28022,
     'longitude' => 119.78964,
   ),
-  187 => 
+  182 => 
   array (
     'id' => 19458,
     'name' => 'Dingtao',
@@ -1693,7 +1648,7 @@ return array (
     'latitude' => 35.07436,
     'longitude' => 115.56582,
   ),
-  188 => 
+  183 => 
   array (
     'id' => 19459,
     'name' => 'Dingtoucun',
@@ -1702,7 +1657,7 @@ return array (
     'latitude' => 26.83977,
     'longitude' => 119.66111,
   ),
-  189 => 
+  184 => 
   array (
     'id' => 19460,
     'name' => 'Dingxi Shi',
@@ -1711,7 +1666,7 @@ return array (
     'latitude' => 35.0371,
     'longitude' => 104.38623,
   ),
-  190 => 
+  185 => 
   array (
     'id' => 19461,
     'name' => 'Dingzhou',
@@ -1720,7 +1675,7 @@ return array (
     'latitude' => 38.51306,
     'longitude' => 114.99556,
   ),
-  191 => 
+  186 => 
   array (
     'id' => 19462,
     'name' => 'Dongchongcun',
@@ -1729,7 +1684,7 @@ return array (
     'latitude' => 26.54001,
     'longitude' => 119.83257,
   ),
-  192 => 
+  187 => 
   array (
     'id' => 19463,
     'name' => 'Dongcun',
@@ -1738,7 +1693,7 @@ return array (
     'latitude' => 36.77667,
     'longitude' => 121.15972,
   ),
-  193 => 
+  188 => 
   array (
     'id' => 19464,
     'name' => 'Dongdai',
@@ -1747,7 +1702,7 @@ return array (
     'latitude' => 26.24366,
     'longitude' => 119.61566,
   ),
-  194 => 
+  189 => 
   array (
     'id' => 19465,
     'name' => 'Dongdu',
@@ -1756,7 +1711,7 @@ return array (
     'latitude' => 35.85,
     'longitude' => 117.7,
   ),
-  195 => 
+  190 => 
   array (
     'id' => 19466,
     'name' => 'Dongfeng',
@@ -1765,7 +1720,7 @@ return array (
     'latitude' => 42.64031,
     'longitude' => 125.51176,
   ),
-  196 => 
+  191 => 
   array (
     'id' => 19467,
     'name' => 'Dongguan',
@@ -1774,7 +1729,7 @@ return array (
     'latitude' => 23.01797,
     'longitude' => 113.74866,
   ),
-  197 => 
+  192 => 
   array (
     'id' => 19468,
     'name' => 'Donghai',
@@ -1783,7 +1738,7 @@ return array (
     'latitude' => 22.94593,
     'longitude' => 115.64204,
   ),
-  198 => 
+  193 => 
   array (
     'id' => 19469,
     'name' => 'Donghu',
@@ -1792,7 +1747,7 @@ return array (
     'latitude' => 26.23453,
     'longitude' => 119.5143,
   ),
-  199 => 
+  194 => 
   array (
     'id' => 19470,
     'name' => 'Dongkan',
@@ -1801,7 +1756,7 @@ return array (
     'latitude' => 33.99972,
     'longitude' => 119.83083,
   ),
-  200 => 
+  195 => 
   array (
     'id' => 19471,
     'name' => 'Dongling',
@@ -1810,16 +1765,7 @@ return array (
     'latitude' => 24.98271,
     'longitude' => 118.8979,
   ),
-  201 => 
-  array (
-    'id' => 19472,
-    'name' => 'Dongling',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 41.81444,
-    'longitude' => 123.57583,
-  ),
-  202 => 
+  196 => 
   array (
     'id' => 19473,
     'name' => 'Dongning',
@@ -1828,7 +1774,7 @@ return array (
     'latitude' => 44.06219,
     'longitude' => 131.12075,
   ),
-  203 => 
+  197 => 
   array (
     'id' => 19474,
     'name' => 'Dongshan Dongzuxiang',
@@ -1837,7 +1783,7 @@ return array (
     'latitude' => 26.595,
     'longitude' => 109.89667,
   ),
-  204 => 
+  198 => 
   array (
     'id' => 19475,
     'name' => 'Dongsheng',
@@ -1846,7 +1792,7 @@ return array (
     'latitude' => 39.81609,
     'longitude' => 109.97763,
   ),
-  205 => 
+  199 => 
   array (
     'id' => 19476,
     'name' => 'Dongta',
@@ -1855,7 +1801,7 @@ return array (
     'latitude' => 38.0814,
     'longitude' => 106.34444,
   ),
-  206 => 
+  200 => 
   array (
     'id' => 19477,
     'name' => 'Dongtai',
@@ -1864,7 +1810,7 @@ return array (
     'latitude' => 32.85231,
     'longitude' => 120.30947,
   ),
-  207 => 
+  201 => 
   array (
     'id' => 19478,
     'name' => 'Dongxi',
@@ -1873,16 +1819,7 @@ return array (
     'latitude' => 32.06577,
     'longitude' => 106.24843,
   ),
-  208 => 
-  array (
-    'id' => 19479,
-    'name' => 'Dongxi',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 28.76139,
-    'longitude' => 106.66111,
-  ),
-  209 => 
+  202 => 
   array (
     'id' => 19480,
     'name' => 'Dongxing',
@@ -1891,7 +1828,7 @@ return array (
     'latitude' => 45.36088,
     'longitude' => 130.78679,
   ),
-  210 => 
+  203 => 
   array (
     'id' => 19481,
     'name' => 'Dongyang',
@@ -1900,7 +1837,7 @@ return array (
     'latitude' => 29.26778,
     'longitude' => 120.22528,
   ),
-  211 => 
+  204 => 
   array (
     'id' => 19482,
     'name' => 'Dongyuan',
@@ -1909,7 +1846,7 @@ return array (
     'latitude' => 24.91738,
     'longitude' => 118.75236,
   ),
-  212 => 
+  205 => 
   array (
     'id' => 19483,
     'name' => 'Ducheng',
@@ -1918,7 +1855,7 @@ return array (
     'latitude' => 23.24212,
     'longitude' => 111.5284,
   ),
-  213 => 
+  206 => 
   array (
     'id' => 19484,
     'name' => 'Dundong',
@@ -1927,7 +1864,7 @@ return array (
     'latitude' => 26.0119,
     'longitude' => 109.141,
   ),
-  214 => 
+  207 => 
   array (
     'id' => 19485,
     'name' => 'Dunhua',
@@ -1936,7 +1873,7 @@ return array (
     'latitude' => 43.3725,
     'longitude' => 128.2425,
   ),
-  215 => 
+  208 => 
   array (
     'id' => 19486,
     'name' => 'Duobao',
@@ -1945,7 +1882,7 @@ return array (
     'latitude' => 30.67,
     'longitude' => 112.68952,
   ),
-  216 => 
+  209 => 
   array (
     'id' => 19487,
     'name' => 'Duyun',
@@ -1954,7 +1891,7 @@ return array (
     'latitude' => 26.26667,
     'longitude' => 107.51667,
   ),
-  217 => 
+  210 => 
   array (
     'id' => 19488,
     'name' => 'Dêqên',
@@ -1963,7 +1900,7 @@ return array (
     'latitude' => 29.96178,
     'longitude' => 90.71875,
   ),
-  218 => 
+  211 => 
   array (
     'id' => 19489,
     'name' => 'Dêqên Tibetan Autonomous Prefecture',
@@ -1972,7 +1909,7 @@ return array (
     'latitude' => 27.91694,
     'longitude' => 99.54841,
   ),
-  219 => 
+  212 => 
   array (
     'id' => 19490,
     'name' => 'Encheng',
@@ -1981,7 +1918,7 @@ return array (
     'latitude' => 22.18659,
     'longitude' => 112.30424,
   ),
-  220 => 
+  213 => 
   array (
     'id' => 19491,
     'name' => 'Enshi',
@@ -1990,7 +1927,7 @@ return array (
     'latitude' => 30.3,
     'longitude' => 109.48333,
   ),
-  221 => 
+  214 => 
   array (
     'id' => 19492,
     'name' => 'Enshi Tujiazu Miaozu Zizhizhou',
@@ -1999,7 +1936,7 @@ return array (
     'latitude' => 30.1981,
     'longitude' => 109.67555,
   ),
-  222 => 
+  215 => 
   array (
     'id' => 19493,
     'name' => 'Erdaojiang',
@@ -2008,7 +1945,7 @@ return array (
     'latitude' => 41.77639,
     'longitude' => 126.03194,
   ),
-  223 => 
+  216 => 
   array (
     'id' => 19494,
     'name' => 'Erenhot',
@@ -2017,7 +1954,7 @@ return array (
     'latitude' => 43.6475,
     'longitude' => 111.97667,
   ),
-  224 => 
+  217 => 
   array (
     'id' => 19495,
     'name' => 'Ezhou',
@@ -2026,7 +1963,7 @@ return array (
     'latitude' => 30.4,
     'longitude' => 114.83333,
   ),
-  225 => 
+  218 => 
   array (
     'id' => 19496,
     'name' => 'Ezhou Shi',
@@ -2035,7 +1972,7 @@ return array (
     'latitude' => 30.48832,
     'longitude' => 114.77979,
   ),
-  226 => 
+  219 => 
   array (
     'id' => 19497,
     'name' => 'E’erguna',
@@ -2044,7 +1981,7 @@ return array (
     'latitude' => 50.22362,
     'longitude' => 120.17092,
   ),
-  227 => 
+  220 => 
   array (
     'id' => 19498,
     'name' => 'Fangchenggang Shi',
@@ -2053,7 +1990,7 @@ return array (
     'latitude' => 21.9358,
     'longitude' => 107.95932,
   ),
-  228 => 
+  221 => 
   array (
     'id' => 19499,
     'name' => 'Fangshan',
@@ -2062,7 +1999,7 @@ return array (
     'latitude' => 39.68699,
     'longitude' => 115.99658,
   ),
-  229 => 
+  222 => 
   array (
     'id' => 19500,
     'name' => 'Fangting',
@@ -2071,7 +2008,7 @@ return array (
     'latitude' => 31.12766,
     'longitude' => 104.16649,
   ),
-  230 => 
+  223 => 
   array (
     'id' => 19501,
     'name' => 'Feicheng',
@@ -2080,7 +2017,7 @@ return array (
     'latitude' => 36.24861,
     'longitude' => 116.76583,
   ),
-  231 => 
+  224 => 
   array (
     'id' => 19502,
     'name' => 'Feiluan',
@@ -2089,7 +2026,7 @@ return array (
     'latitude' => 26.5625,
     'longitude' => 119.5975,
   ),
-  232 => 
+  225 => 
   array (
     'id' => 19503,
     'name' => 'Fendou',
@@ -2098,7 +2035,7 @@ return array (
     'latitude' => 46.64142,
     'longitude' => 124.86283,
   ),
-  233 => 
+  226 => 
   array (
     'id' => 19504,
     'name' => 'Fengcheng',
@@ -2107,7 +2044,7 @@ return array (
     'latitude' => 40.45361,
     'longitude' => 124.07167,
   ),
-  234 => 
+  227 => 
   array (
     'id' => 19505,
     'name' => 'Fenghua',
@@ -2116,7 +2053,7 @@ return array (
     'latitude' => 29.65628,
     'longitude' => 121.4064,
   ),
-  235 => 
+  228 => 
   array (
     'id' => 19506,
     'name' => 'Fenghuang',
@@ -2125,7 +2062,7 @@ return array (
     'latitude' => 27.93557,
     'longitude' => 109.59961,
   ),
-  236 => 
+  229 => 
   array (
     'id' => 19507,
     'name' => 'Fengkou',
@@ -2134,7 +2071,7 @@ return array (
     'latitude' => 30.08268,
     'longitude' => 113.33346,
   ),
-  237 => 
+  230 => 
   array (
     'id' => 19508,
     'name' => 'Fengpu',
@@ -2143,7 +2080,7 @@ return array (
     'latitude' => 26.68276,
     'longitude' => 118.76006,
   ),
-  238 => 
+  231 => 
   array (
     'id' => 19509,
     'name' => 'Fengrun',
@@ -2152,7 +2089,7 @@ return array (
     'latitude' => 39.83333,
     'longitude' => 118.11667,
   ),
-  239 => 
+  232 => 
   array (
     'id' => 19510,
     'name' => 'Fengxian',
@@ -2161,7 +2098,7 @@ return array (
     'latitude' => 34.70388,
     'longitude' => 116.58717,
   ),
-  240 => 
+  233 => 
   array (
     'id' => 19511,
     'name' => 'Fengxiang',
@@ -2170,7 +2107,7 @@ return array (
     'latitude' => 47.57549,
     'longitude' => 130.82306,
   ),
-  241 => 
+  234 => 
   array (
     'id' => 19512,
     'name' => 'Fengzhou',
@@ -2179,7 +2116,7 @@ return array (
     'latitude' => 24.95762,
     'longitude' => 118.53365,
   ),
-  242 => 
+  235 => 
   array (
     'id' => 19513,
     'name' => 'Fenyi',
@@ -2188,7 +2125,7 @@ return array (
     'latitude' => 27.81117,
     'longitude' => 114.66805,
   ),
-  243 => 
+  236 => 
   array (
     'id' => 19514,
     'name' => 'Foshan',
@@ -2197,7 +2134,7 @@ return array (
     'latitude' => 23.02677,
     'longitude' => 113.13148,
   ),
-  244 => 
+  237 => 
   array (
     'id' => 19515,
     'name' => 'Foshan Shi',
@@ -2206,7 +2143,7 @@ return array (
     'latitude' => 23.02264,
     'longitude' => 112.96302,
   ),
-  245 => 
+  238 => 
   array (
     'id' => 19516,
     'name' => 'Fubao',
@@ -2215,7 +2152,7 @@ return array (
     'latitude' => 28.76905,
     'longitude' => 106.07667,
   ),
-  246 => 
+  239 => 
   array (
     'id' => 19517,
     'name' => 'Fuding',
@@ -2224,7 +2161,7 @@ return array (
     'latitude' => 27.32734,
     'longitude' => 120.21399,
   ),
-  247 => 
+  240 => 
   array (
     'id' => 19518,
     'name' => 'Fujin',
@@ -2233,7 +2170,7 @@ return array (
     'latitude' => 47.26,
     'longitude' => 132.03222,
   ),
-  248 => 
+  241 => 
   array (
     'id' => 19519,
     'name' => 'Fukang',
@@ -2242,7 +2179,7 @@ return array (
     'latitude' => 44.15874,
     'longitude' => 87.97418,
   ),
-  249 => 
+  242 => 
   array (
     'id' => 19520,
     'name' => 'Fuli',
@@ -2251,7 +2188,7 @@ return array (
     'latitude' => 46.72167,
     'longitude' => 131.13944,
   ),
-  250 => 
+  243 => 
   array (
     'id' => 19521,
     'name' => 'Fuling',
@@ -2260,7 +2197,7 @@ return array (
     'latitude' => 29.706,
     'longitude' => 107.39575,
   ),
-  251 => 
+  244 => 
   array (
     'id' => 19522,
     'name' => 'Fuqing',
@@ -2269,7 +2206,7 @@ return array (
     'latitude' => 25.725,
     'longitude' => 119.37944,
   ),
-  252 => 
+  245 => 
   array (
     'id' => 19523,
     'name' => 'Fushun',
@@ -2278,7 +2215,7 @@ return array (
     'latitude' => 41.88669,
     'longitude' => 123.94363,
   ),
-  253 => 
+  246 => 
   array (
     'id' => 19524,
     'name' => 'Fuxin',
@@ -2287,7 +2224,7 @@ return array (
     'latitude' => 42.01556,
     'longitude' => 121.65889,
   ),
-  254 => 
+  247 => 
   array (
     'id' => 19525,
     'name' => 'Fuyang',
@@ -2296,16 +2233,7 @@ return array (
     'latitude' => 32.9,
     'longitude' => 115.81667,
   ),
-  255 => 
-  array (
-    'id' => 19526,
-    'name' => 'Fuyang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 30.05333,
-    'longitude' => 119.95194,
-  ),
-  256 => 
+  248 => 
   array (
     'id' => 19527,
     'name' => 'Fuyang Shi',
@@ -2314,7 +2242,7 @@ return array (
     'latitude' => 32.93718,
     'longitude' => 115.70778,
   ),
-  257 => 
+  249 => 
   array (
     'id' => 19528,
     'name' => 'Fuyu',
@@ -2323,16 +2251,7 @@ return array (
     'latitude' => 47.79756,
     'longitude' => 124.45731,
   ),
-  258 => 
-  array (
-    'id' => 19529,
-    'name' => 'Fuyu',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 45.18333,
-    'longitude' => 124.81667,
-  ),
-  259 => 
+  250 => 
   array (
     'id' => 19530,
     'name' => 'Fuyuan',
@@ -2341,7 +2260,7 @@ return array (
     'latitude' => 48.36306,
     'longitude' => 134.28917,
   ),
-  260 => 
+  251 => 
   array (
     'id' => 19531,
     'name' => 'Fuzhou',
@@ -2350,7 +2269,7 @@ return array (
     'latitude' => 26.06139,
     'longitude' => 119.30611,
   ),
-  261 => 
+  252 => 
   array (
     'id' => 19532,
     'name' => 'Fu’an',
@@ -2359,7 +2278,7 @@ return array (
     'latitude' => 27.06372,
     'longitude' => 119.6528,
   ),
-  262 => 
+  253 => 
   array (
     'id' => 19533,
     'name' => 'Gaizhou',
@@ -2368,7 +2287,7 @@ return array (
     'latitude' => 40.39417,
     'longitude' => 122.36861,
   ),
-  263 => 
+  254 => 
   array (
     'id' => 19534,
     'name' => 'Gangdong',
@@ -2377,7 +2296,7 @@ return array (
     'latitude' => 27.91694,
     'longitude' => 110.83417,
   ),
-  264 => 
+  255 => 
   array (
     'id' => 19535,
     'name' => 'Gannan',
@@ -2386,7 +2305,7 @@ return array (
     'latitude' => 47.91472,
     'longitude' => 123.50306,
   ),
-  265 => 
+  256 => 
   array (
     'id' => 19536,
     'name' => 'Ganshui',
@@ -2395,7 +2314,7 @@ return array (
     'latitude' => 28.74222,
     'longitude' => 106.71111,
   ),
-  266 => 
+  257 => 
   array (
     'id' => 19537,
     'name' => 'Gantang',
@@ -2404,7 +2323,7 @@ return array (
     'latitude' => 26.92,
     'longitude' => 119.63333,
   ),
-  267 => 
+  258 => 
   array (
     'id' => 19538,
     'name' => 'Ganzhou',
@@ -2413,7 +2332,7 @@ return array (
     'latitude' => 25.84664,
     'longitude' => 114.9326,
   ),
-  268 => 
+  259 => 
   array (
     'id' => 19539,
     'name' => 'Ganzhou Shi',
@@ -2422,7 +2341,7 @@ return array (
     'latitude' => 25.70387,
     'longitude' => 115.34822,
   ),
-  269 => 
+  260 => 
   array (
     'id' => 19540,
     'name' => 'Gaogou',
@@ -2431,7 +2350,7 @@ return array (
     'latitude' => 34.0175,
     'longitude' => 119.18861,
   ),
-  270 => 
+  261 => 
   array (
     'id' => 19541,
     'name' => 'Gaomi',
@@ -2440,7 +2359,7 @@ return array (
     'latitude' => 36.38333,
     'longitude' => 119.75278,
   ),
-  271 => 
+  262 => 
   array (
     'id' => 19542,
     'name' => 'Gaoniang',
@@ -2449,7 +2368,7 @@ return array (
     'latitude' => 26.8425,
     'longitude' => 109.17889,
   ),
-  272 => 
+  263 => 
   array (
     'id' => 19543,
     'name' => 'Gaoping',
@@ -2458,7 +2377,7 @@ return array (
     'latitude' => 30.77576,
     'longitude' => 106.10294,
   ),
-  273 => 
+  264 => 
   array (
     'id' => 19544,
     'name' => 'Gaoqiao',
@@ -2467,7 +2386,7 @@ return array (
     'latitude' => 26.63361,
     'longitude' => 110.9,
   ),
-  274 => 
+  265 => 
   array (
     'id' => 19545,
     'name' => 'Gaowu',
@@ -2476,7 +2395,7 @@ return array (
     'latitude' => 25.5625,
     'longitude' => 108.908,
   ),
-  275 => 
+  266 => 
   array (
     'id' => 19546,
     'name' => 'Gaoyao',
@@ -2485,7 +2404,7 @@ return array (
     'latitude' => 23.02432,
     'longitude' => 112.44555,
   ),
-  276 => 
+  267 => 
   array (
     'id' => 19547,
     'name' => 'Gaoyi',
@@ -2494,7 +2413,7 @@ return array (
     'latitude' => 26.95944,
     'longitude' => 110.01556,
   ),
-  277 => 
+  268 => 
   array (
     'id' => 19548,
     'name' => 'Gaoyou',
@@ -2503,7 +2422,7 @@ return array (
     'latitude' => 32.78933,
     'longitude' => 119.44182,
   ),
-  278 => 
+  269 => 
   array (
     'id' => 19549,
     'name' => 'Gaozeng',
@@ -2512,7 +2431,7 @@ return array (
     'latitude' => 25.80167,
     'longitude' => 108.9375,
   ),
-  279 => 
+  270 => 
   array (
     'id' => 19550,
     'name' => 'Gaozhou',
@@ -2521,7 +2440,7 @@ return array (
     'latitude' => 21.93924,
     'longitude' => 110.84607,
   ),
-  280 => 
+  271 => 
   array (
     'id' => 19551,
     'name' => 'Garzê Zangzu Zizhizhou',
@@ -2530,7 +2449,7 @@ return array (
     'latitude' => 31.02407,
     'longitude' => 100.40553,
   ),
-  281 => 
+  272 => 
   array (
     'id' => 19552,
     'name' => 'Gejiu',
@@ -2539,7 +2458,7 @@ return array (
     'latitude' => 23.36085,
     'longitude' => 103.15372,
   ),
-  282 => 
+  273 => 
   array (
     'id' => 19553,
     'name' => 'Genhe',
@@ -2548,7 +2467,7 @@ return array (
     'latitude' => 50.78333,
     'longitude' => 121.51667,
   ),
-  283 => 
+  274 => 
   array (
     'id' => 19554,
     'name' => 'Golmud',
@@ -2557,7 +2476,7 @@ return array (
     'latitude' => 36.40672,
     'longitude' => 94.90061,
   ),
-  284 => 
+  275 => 
   array (
     'id' => 19555,
     'name' => 'Golog Tibetan Autonomous Prefecture',
@@ -2566,7 +2485,7 @@ return array (
     'latitude' => 34.08595,
     'longitude' => 99.55181,
   ),
-  285 => 
+  276 => 
   array (
     'id' => 19556,
     'name' => 'Gongchangling',
@@ -2575,7 +2494,7 @@ return array (
     'latitude' => 41.11667,
     'longitude' => 123.45,
   ),
-  286 => 
+  277 => 
   array (
     'id' => 19557,
     'name' => 'Gongzhuling',
@@ -2584,7 +2503,7 @@ return array (
     'latitude' => 43.50075,
     'longitude' => 124.81979,
   ),
-  287 => 
+  278 => 
   array (
     'id' => 19558,
     'name' => 'Guandu',
@@ -2593,7 +2512,7 @@ return array (
     'latitude' => 28.56833,
     'longitude' => 106.10255,
   ),
-  288 => 
+  279 => 
   array (
     'id' => 19559,
     'name' => 'Guangming',
@@ -2602,7 +2521,7 @@ return array (
     'latitude' => 45.33333,
     'longitude' => 122.78333,
   ),
-  289 => 
+  280 => 
   array (
     'id' => 19560,
     'name' => 'Guangshui',
@@ -2611,7 +2530,7 @@ return array (
     'latitude' => 31.6199,
     'longitude' => 113.9978,
   ),
-  290 => 
+  281 => 
   array (
     'id' => 19561,
     'name' => 'Guangyuan',
@@ -2620,7 +2539,7 @@ return array (
     'latitude' => 32.44201,
     'longitude' => 105.823,
   ),
-  291 => 
+  282 => 
   array (
     'id' => 19562,
     'name' => 'Guangzhou',
@@ -2629,7 +2548,7 @@ return array (
     'latitude' => 23.11667,
     'longitude' => 113.25,
   ),
-  292 => 
+  283 => 
   array (
     'id' => 19563,
     'name' => 'Guangzhou Shi',
@@ -2638,7 +2557,7 @@ return array (
     'latitude' => 23.37327,
     'longitude' => 113.51219,
   ),
-  293 => 
+  284 => 
   array (
     'id' => 19564,
     'name' => 'Guang’an',
@@ -2647,7 +2566,7 @@ return array (
     'latitude' => 30.47413,
     'longitude' => 106.63696,
   ),
-  294 => 
+  285 => 
   array (
     'id' => 19565,
     'name' => 'Guankou',
@@ -2656,7 +2575,7 @@ return array (
     'latitude' => 28.15861,
     'longitude' => 113.62709,
   ),
-  295 => 
+  286 => 
   array (
     'id' => 19566,
     'name' => 'Guantou',
@@ -2665,7 +2584,7 @@ return array (
     'latitude' => 26.13593,
     'longitude' => 119.56162,
   ),
-  296 => 
+  287 => 
   array (
     'id' => 19567,
     'name' => 'Gucheng Chengguanzhen',
@@ -2674,7 +2593,7 @@ return array (
     'latitude' => 32.26604,
     'longitude' => 111.63476,
   ),
-  297 => 
+  288 => 
   array (
     'id' => 19568,
     'name' => 'Gufeng',
@@ -2683,7 +2602,7 @@ return array (
     'latitude' => 26.90833,
     'longitude' => 118.98194,
   ),
-  298 => 
+  289 => 
   array (
     'id' => 19569,
     'name' => 'Guigang',
@@ -2692,7 +2611,7 @@ return array (
     'latitude' => 23.09639,
     'longitude' => 109.60917,
   ),
-  299 => 
+  290 => 
   array (
     'id' => 19570,
     'name' => 'Guilin',
@@ -2701,7 +2620,7 @@ return array (
     'latitude' => 25.28194,
     'longitude' => 110.28639,
   ),
-  300 => 
+  291 => 
   array (
     'id' => 19571,
     'name' => 'Guilin Shi',
@@ -2710,7 +2629,7 @@ return array (
     'latitude' => 25.28333,
     'longitude' => 110.28333,
   ),
-  301 => 
+  292 => 
   array (
     'id' => 19572,
     'name' => 'Guiping',
@@ -2719,7 +2638,7 @@ return array (
     'latitude' => 23.39336,
     'longitude' => 110.07437,
   ),
-  302 => 
+  293 => 
   array (
     'id' => 19573,
     'name' => 'Guiren',
@@ -2728,7 +2647,7 @@ return array (
     'latitude' => 33.66972,
     'longitude' => 118.18889,
   ),
-  303 => 
+  294 => 
   array (
     'id' => 19574,
     'name' => 'Guixi',
@@ -2737,7 +2656,7 @@ return array (
     'latitude' => 28.28857,
     'longitude' => 117.21329,
   ),
-  304 => 
+  295 => 
   array (
     'id' => 19575,
     'name' => 'Guiyang',
@@ -2746,7 +2665,7 @@ return array (
     'latitude' => 26.58333,
     'longitude' => 106.71667,
   ),
-  305 => 
+  296 => 
   array (
     'id' => 19576,
     'name' => 'Guli',
@@ -2755,7 +2674,7 @@ return array (
     'latitude' => 28.88162,
     'longitude' => 120.03308,
   ),
-  306 => 
+  297 => 
   array (
     'id' => 19577,
     'name' => 'Guofuchang',
@@ -2764,7 +2683,7 @@ return array (
     'latitude' => 28.85,
     'longitude' => 106.60139,
   ),
-  307 => 
+  298 => 
   array (
     'id' => 19578,
     'name' => 'Guozhen',
@@ -2773,7 +2692,7 @@ return array (
     'latitude' => 34.36591,
     'longitude' => 107.35904,
   ),
-  308 => 
+  299 => 
   array (
     'id' => 19579,
     'name' => 'Gushu',
@@ -2782,7 +2701,7 @@ return array (
     'latitude' => 31.56055,
     'longitude' => 118.48147,
   ),
-  309 => 
+  300 => 
   array (
     'id' => 19580,
     'name' => 'Gutao',
@@ -2791,7 +2710,7 @@ return array (
     'latitude' => 37.2025,
     'longitude' => 112.17806,
   ),
-  310 => 
+  301 => 
   array (
     'id' => 19581,
     'name' => 'Guye',
@@ -2800,7 +2719,7 @@ return array (
     'latitude' => 39.73054,
     'longitude' => 118.44085,
   ),
-  311 => 
+  302 => 
   array (
     'id' => 19582,
     'name' => 'Haibei Tibetan Autonomous Prefecture',
@@ -2809,7 +2728,7 @@ return array (
     'latitude' => 37.71919,
     'longitude' => 100.45656,
   ),
-  312 => 
+  303 => 
   array (
     'id' => 19583,
     'name' => 'Haicheng',
@@ -2818,7 +2737,7 @@ return array (
     'latitude' => 40.85158,
     'longitude' => 122.74754,
   ),
-  313 => 
+  304 => 
   array (
     'id' => 19584,
     'name' => 'Haikou',
@@ -2827,16 +2746,7 @@ return array (
     'latitude' => 20.04583,
     'longitude' => 110.34167,
   ),
-  314 => 
-  array (
-    'id' => 19585,
-    'name' => 'Haikou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 24.77985,
-    'longitude' => 102.57548,
-  ),
-  315 => 
+  305 => 
   array (
     'id' => 19587,
     'name' => 'Hailar',
@@ -2845,7 +2755,7 @@ return array (
     'latitude' => 49.2,
     'longitude' => 119.7,
   ),
-  316 => 
+  306 => 
   array (
     'id' => 19588,
     'name' => 'Hailin',
@@ -2854,7 +2764,7 @@ return array (
     'latitude' => 44.57149,
     'longitude' => 129.38539,
   ),
-  317 => 
+  307 => 
   array (
     'id' => 19589,
     'name' => 'Hailun',
@@ -2863,7 +2773,7 @@ return array (
     'latitude' => 47.4565,
     'longitude' => 126.95368,
   ),
-  318 => 
+  308 => 
   array (
     'id' => 19590,
     'name' => 'Haimen',
@@ -2872,7 +2782,7 @@ return array (
     'latitude' => 23.19346,
     'longitude' => 116.61219,
   ),
-  319 => 
+  309 => 
   array (
     'id' => 19591,
     'name' => 'Haining',
@@ -2881,7 +2791,7 @@ return array (
     'latitude' => 30.53629,
     'longitude' => 120.68638,
   ),
-  320 => 
+  310 => 
   array (
     'id' => 19592,
     'name' => 'Haizhou',
@@ -2890,7 +2800,7 @@ return array (
     'latitude' => 34.57300501,
     'longitude' => 119.16126173,
   ),
-  321 => 
+  311 => 
   array (
     'id' => 19593,
     'name' => 'Hami',
@@ -2899,7 +2809,7 @@ return array (
     'latitude' => 42.83393,
     'longitude' => 93.50601,
   ),
-  322 => 
+  312 => 
   array (
     'id' => 19594,
     'name' => 'Hancheng',
@@ -2908,16 +2818,7 @@ return array (
     'latitude' => 32.51861,
     'longitude' => 112.35222,
   ),
-  323 => 
-  array (
-    'id' => 19595,
-    'name' => 'Hancheng',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 35.46028,
-    'longitude' => 110.42917,
-  ),
-  324 => 
+  313 => 
   array (
     'id' => 19596,
     'name' => 'Hanchuan',
@@ -2926,7 +2827,7 @@ return array (
     'latitude' => 30.65,
     'longitude' => 113.76667,
   ),
-  325 => 
+  314 => 
   array (
     'id' => 19597,
     'name' => 'Handan',
@@ -2935,7 +2836,7 @@ return array (
     'latitude' => 36.60056,
     'longitude' => 114.46778,
   ),
-  326 => 
+  315 => 
   array (
     'id' => 19598,
     'name' => 'Hangzhou',
@@ -2944,7 +2845,7 @@ return array (
     'latitude' => 30.29365,
     'longitude' => 120.16142,
   ),
-  327 => 
+  316 => 
   array (
     'id' => 19599,
     'name' => 'Hanting',
@@ -2953,7 +2854,7 @@ return array (
     'latitude' => 36.77083,
     'longitude' => 119.21083,
   ),
-  328 => 
+  317 => 
   array (
     'id' => 19600,
     'name' => 'Hanzhong',
@@ -2962,7 +2863,7 @@ return array (
     'latitude' => 33.07507,
     'longitude' => 107.02214,
   ),
-  329 => 
+  318 => 
   array (
     'id' => 19601,
     'name' => 'Harbin',
@@ -2971,7 +2872,7 @@ return array (
     'latitude' => 45.75,
     'longitude' => 126.65,
   ),
-  330 => 
+  319 => 
   array (
     'id' => 19602,
     'name' => 'Hebi',
@@ -2980,7 +2881,7 @@ return array (
     'latitude' => 35.89917,
     'longitude' => 114.1925,
   ),
-  331 => 
+  320 => 
   array (
     'id' => 19603,
     'name' => 'Hechi Shi',
@@ -2989,7 +2890,7 @@ return array (
     'latitude' => 24.7,
     'longitude' => 108.03,
   ),
-  332 => 
+  321 => 
   array (
     'id' => 19604,
     'name' => 'Hechuan',
@@ -2998,7 +2899,7 @@ return array (
     'latitude' => 29.99228,
     'longitude' => 106.26461,
   ),
-  333 => 
+  322 => 
   array (
     'id' => 19605,
     'name' => 'Hecun',
@@ -3007,7 +2908,7 @@ return array (
     'latitude' => 36.53333,
     'longitude' => 114.11111,
   ),
-  334 => 
+  323 => 
   array (
     'id' => 19606,
     'name' => 'Hede',
@@ -3016,7 +2917,7 @@ return array (
     'latitude' => 33.7722,
     'longitude' => 120.26176,
   ),
-  335 => 
+  324 => 
   array (
     'id' => 19607,
     'name' => 'Hefei',
@@ -3025,7 +2926,7 @@ return array (
     'latitude' => 31.86389,
     'longitude' => 117.28083,
   ),
-  336 => 
+  325 => 
   array (
     'id' => 19608,
     'name' => 'Hefei Shi',
@@ -3034,7 +2935,7 @@ return array (
     'latitude' => 31.94665,
     'longitude' => 117.27805,
   ),
-  337 => 
+  326 => 
   array (
     'id' => 19609,
     'name' => 'Hegang',
@@ -3043,7 +2944,7 @@ return array (
     'latitude' => 47.35118,
     'longitude' => 130.30012,
   ),
-  338 => 
+  327 => 
   array (
     'id' => 19610,
     'name' => 'Heihe',
@@ -3052,7 +2953,7 @@ return array (
     'latitude' => 50.24413,
     'longitude' => 127.49016,
   ),
-  339 => 
+  328 => 
   array (
     'id' => 19611,
     'name' => 'Heishan',
@@ -3061,7 +2962,7 @@ return array (
     'latitude' => 41.68917,
     'longitude' => 122.11278,
   ),
-  340 => 
+  329 => 
   array (
     'id' => 19612,
     'name' => 'Helong',
@@ -3070,7 +2971,7 @@ return array (
     'latitude' => 42.53974,
     'longitude' => 128.99722,
   ),
-  341 => 
+  330 => 
   array (
     'id' => 19613,
     'name' => 'Hengbanqiao',
@@ -3079,7 +2980,7 @@ return array (
     'latitude' => 27.17167,
     'longitude' => 110.86528,
   ),
-  342 => 
+  331 => 
   array (
     'id' => 19614,
     'name' => 'Hengshui',
@@ -3088,7 +2989,7 @@ return array (
     'latitude' => 37.73222,
     'longitude' => 115.70111,
   ),
-  343 => 
+  332 => 
   array (
     'id' => 19615,
     'name' => 'Hengyang',
@@ -3097,7 +2998,7 @@ return array (
     'latitude' => 26.88946,
     'longitude' => 112.61888,
   ),
-  344 => 
+  333 => 
   array (
     'id' => 19616,
     'name' => 'Hepingjie',
@@ -3106,7 +3007,7 @@ return array (
     'latitude' => 42.05972,
     'longitude' => 126.91583,
   ),
-  345 => 
+  334 => 
   array (
     'id' => 19617,
     'name' => 'Hepo',
@@ -3115,7 +3016,7 @@ return array (
     'latitude' => 23.43077,
     'longitude' => 115.82991,
   ),
-  346 => 
+  335 => 
   array (
     'id' => 19618,
     'name' => 'Hetang',
@@ -3124,7 +3025,7 @@ return array (
     'latitude' => 26.66276,
     'longitude' => 119.11062,
   ),
-  347 => 
+  336 => 
   array (
     'id' => 19619,
     'name' => 'Hexiangqiao',
@@ -3133,7 +3034,7 @@ return array (
     'latitude' => 27.22028,
     'longitude' => 110.96333,
   ),
-  348 => 
+  337 => 
   array (
     'id' => 19620,
     'name' => 'Heyuan',
@@ -3142,7 +3043,7 @@ return array (
     'latitude' => 23.73333,
     'longitude' => 114.68333,
   ),
-  349 => 
+  338 => 
   array (
     'id' => 19621,
     'name' => 'Heze',
@@ -3151,7 +3052,7 @@ return array (
     'latitude' => 35.23929,
     'longitude' => 115.47358,
   ),
-  350 => 
+  339 => 
   array (
     'id' => 19622,
     'name' => 'Hezuo',
@@ -3160,7 +3061,7 @@ return array (
     'latitude' => 34.98556,
     'longitude' => 102.90944,
   ),
-  351 => 
+  340 => 
   array (
     'id' => 19623,
     'name' => 'Hohhot',
@@ -3169,7 +3070,7 @@ return array (
     'latitude' => 40.81056,
     'longitude' => 111.65222,
   ),
-  352 => 
+  341 => 
   array (
     'id' => 19624,
     'name' => 'Honggang',
@@ -3178,7 +3079,7 @@ return array (
     'latitude' => 46.40124,
     'longitude' => 124.88322,
   ),
-  353 => 
+  342 => 
   array (
     'id' => 19625,
     'name' => 'Honghe Hanizu Yizu Zizhizhou',
@@ -3187,7 +3088,7 @@ return array (
     'latitude' => 23.51675,
     'longitude' => 102.97389,
   ),
-  354 => 
+  343 => 
   array (
     'id' => 19626,
     'name' => 'Hongjiang',
@@ -3196,7 +3097,7 @@ return array (
     'latitude' => 27.11,
     'longitude' => 109.99556,
   ),
-  355 => 
+  344 => 
   array (
     'id' => 19627,
     'name' => 'Hongqiao',
@@ -3205,7 +3106,7 @@ return array (
     'latitude' => 26.76837,
     'longitude' => 112.10814,
   ),
-  356 => 
+  345 => 
   array (
     'id' => 19628,
     'name' => 'Hongtang',
@@ -3214,7 +3115,7 @@ return array (
     'latitude' => 26.07056,
     'longitude' => 119.23083,
   ),
-  357 => 
+  346 => 
   array (
     'id' => 19629,
     'name' => 'Hongyang',
@@ -3223,7 +3124,7 @@ return array (
     'latitude' => 26.52861,
     'longitude' => 119.4625,
   ),
-  358 => 
+  347 => 
   array (
     'id' => 19631,
     'name' => 'Hotan',
@@ -3232,7 +3133,7 @@ return array (
     'latitude' => 37.1075,
     'longitude' => 79.93548,
   ),
-  359 => 
+  348 => 
   array (
     'id' => 19632,
     'name' => 'Houyu',
@@ -3241,7 +3142,7 @@ return array (
     'latitude' => 26.05958,
     'longitude' => 119.53502,
   ),
-  360 => 
+  349 => 
   array (
     'id' => 19633,
     'name' => 'Hoxtolgay',
@@ -3250,7 +3151,7 @@ return array (
     'latitude' => 46.51872,
     'longitude' => 86.00214,
   ),
-  361 => 
+  350 => 
   array (
     'id' => 19634,
     'name' => 'Huadian',
@@ -3259,7 +3160,7 @@ return array (
     'latitude' => 42.96333,
     'longitude' => 126.74778,
   ),
-  362 => 
+  351 => 
   array (
     'id' => 19635,
     'name' => 'Huai\\\'an',
@@ -3268,7 +3169,7 @@ return array (
     'latitude' => 33.58861,
     'longitude' => 119.01917,
   ),
-  363 => 
+  352 => 
   array (
     'id' => 19636,
     'name' => 'Huaibei',
@@ -3277,7 +3178,7 @@ return array (
     'latitude' => 33.97444,
     'longitude' => 116.79167,
   ),
-  364 => 
+  353 => 
   array (
     'id' => 19637,
     'name' => 'Huaicheng',
@@ -3286,7 +3187,7 @@ return array (
     'latitude' => 23.91952,
     'longitude' => 112.17629,
   ),
-  365 => 
+  354 => 
   array (
     'id' => 19638,
     'name' => 'Huaidian',
@@ -3295,7 +3196,7 @@ return array (
     'latitude' => 33.43333,
     'longitude' => 115.03333,
   ),
-  366 => 
+  355 => 
   array (
     'id' => 19639,
     'name' => 'Huaihua',
@@ -3304,7 +3205,7 @@ return array (
     'latitude' => 27.56337,
     'longitude' => 110.00404,
   ),
-  367 => 
+  356 => 
   array (
     'id' => 19640,
     'name' => 'Huainan',
@@ -3313,7 +3214,7 @@ return array (
     'latitude' => 32.62639,
     'longitude' => 116.99694,
   ),
-  368 => 
+  357 => 
   array (
     'id' => 19641,
     'name' => 'Huainan Shi',
@@ -3322,7 +3223,7 @@ return array (
     'latitude' => 32.73824,
     'longitude' => 116.78813,
   ),
-  369 => 
+  358 => 
   array (
     'id' => 19642,
     'name' => 'Huaiyuan Chengguanzhen',
@@ -3331,7 +3232,7 @@ return array (
     'latitude' => 32.95893,
     'longitude' => 117.16566,
   ),
-  370 => 
+  359 => 
   array (
     'id' => 19643,
     'name' => 'Huai’an',
@@ -3340,7 +3241,7 @@ return array (
     'latitude' => 26.09899,
     'longitude' => 119.22171,
   ),
-  371 => 
+  360 => 
   array (
     'id' => 19644,
     'name' => 'Huai’an Shi',
@@ -3349,7 +3250,7 @@ return array (
     'latitude' => 33.31162,
     'longitude' => 119.04559,
   ),
-  372 => 
+  361 => 
   array (
     'id' => 19645,
     'name' => 'Huanan',
@@ -3358,7 +3259,7 @@ return array (
     'latitude' => 46.2207,
     'longitude' => 130.525,
   ),
-  373 => 
+  362 => 
   array (
     'id' => 19646,
     'name' => 'Huanggang',
@@ -3367,16 +3268,7 @@ return array (
     'latitude' => 23.67704,
     'longitude' => 116.99961,
   ),
-  374 => 
-  array (
-    'id' => 19647,
-    'name' => 'Huanggang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 30.45143,
-    'longitude' => 114.87035,
-  ),
-  375 => 
+  363 => 
   array (
     'id' => 19648,
     'name' => 'Huangjinjing',
@@ -3385,7 +3277,7 @@ return array (
     'latitude' => 27.58563,
     'longitude' => 110.89133,
   ),
-  376 => 
+  364 => 
   array (
     'id' => 19649,
     'name' => 'Huanglong',
@@ -3394,7 +3286,7 @@ return array (
     'latitude' => 26.54139,
     'longitude' => 110.93444,
   ),
-  377 => 
+  365 => 
   array (
     'id' => 19650,
     'name' => 'Huangmaoyuan',
@@ -3403,7 +3295,7 @@ return array (
     'latitude' => 27.40417,
     'longitude' => 110.47472,
   ),
-  378 => 
+  366 => 
   array (
     'id' => 19651,
     'name' => 'Huangmei',
@@ -3412,7 +3304,7 @@ return array (
     'latitude' => 30.19235,
     'longitude' => 116.02496,
   ),
-  379 => 
+  367 => 
   array (
     'id' => 19652,
     'name' => 'Huangnan Zangzu Zizhizhou',
@@ -3421,7 +3313,7 @@ return array (
     'latitude' => 35.06316,
     'longitude' => 101.65149,
   ),
-  380 => 
+  368 => 
   array (
     'id' => 19653,
     'name' => 'Huangnihe',
@@ -3430,7 +3322,7 @@ return array (
     'latitude' => 43.55833,
     'longitude' => 128.02389,
   ),
-  381 => 
+  369 => 
   array (
     'id' => 19654,
     'name' => 'Huangpi',
@@ -3439,7 +3331,7 @@ return array (
     'latitude' => 30.88453,
     'longitude' => 114.37789,
   ),
-  382 => 
+  370 => 
   array (
     'id' => 19655,
     'name' => 'Huangqiao',
@@ -3448,7 +3340,7 @@ return array (
     'latitude' => 27.02194,
     'longitude' => 110.84056,
   ),
-  383 => 
+  371 => 
   array (
     'id' => 19656,
     'name' => 'Huangshan',
@@ -3457,7 +3349,7 @@ return array (
     'latitude' => 29.71139,
     'longitude' => 118.3125,
   ),
-  384 => 
+  372 => 
   array (
     'id' => 19657,
     'name' => 'Huangshan Shi',
@@ -3466,7 +3358,7 @@ return array (
     'latitude' => 29.89195,
     'longitude' => 118.10553,
   ),
-  385 => 
+  373 => 
   array (
     'id' => 19658,
     'name' => 'Huangshi',
@@ -3475,7 +3367,7 @@ return array (
     'latitude' => 30.24706,
     'longitude' => 115.04814,
   ),
-  386 => 
+  374 => 
   array (
     'id' => 19659,
     'name' => 'Huangtian',
@@ -3484,7 +3376,7 @@ return array (
     'latitude' => 26.43851,
     'longitude' => 118.62398,
   ),
-  387 => 
+  375 => 
   array (
     'id' => 19660,
     'name' => 'Huangtukuang',
@@ -3493,7 +3385,7 @@ return array (
     'latitude' => 26.91528,
     'longitude' => 110.40778,
   ),
-  388 => 
+  376 => 
   array (
     'id' => 19661,
     'name' => 'Huangxikou',
@@ -3502,7 +3394,7 @@ return array (
     'latitude' => 27.71889,
     'longitude' => 110.385,
   ),
-  389 => 
+  377 => 
   array (
     'id' => 19662,
     'name' => 'Huangyan',
@@ -3511,7 +3403,7 @@ return array (
     'latitude' => 28.6501,
     'longitude' => 121.26591,
   ),
-  390 => 
+  378 => 
   array (
     'id' => 19663,
     'name' => 'Huangzhou',
@@ -3520,7 +3412,7 @@ return array (
     'latitude' => 30.45,
     'longitude' => 114.8,
   ),
-  391 => 
+  379 => 
   array (
     'id' => 19664,
     'name' => 'Huanren',
@@ -3529,7 +3421,7 @@ return array (
     'latitude' => 41.26472,
     'longitude' => 125.36667,
   ),
-  392 => 
+  380 => 
   array (
     'id' => 19665,
     'name' => 'Huaqiao',
@@ -3538,7 +3430,7 @@ return array (
     'latitude' => 27.70806,
     'longitude' => 110.14194,
   ),
-  393 => 
+  381 => 
   array (
     'id' => 19666,
     'name' => 'Huaqiu',
@@ -3547,7 +3439,7 @@ return array (
     'latitude' => 28.11665,
     'longitude' => 106.60225,
   ),
-  394 => 
+  382 => 
   array (
     'id' => 19667,
     'name' => 'Huayin',
@@ -3556,7 +3448,7 @@ return array (
     'latitude' => 34.56528,
     'longitude' => 110.06639,
   ),
-  395 => 
+  383 => 
   array (
     'id' => 19668,
     'name' => 'Huayuan',
@@ -3565,7 +3457,7 @@ return array (
     'latitude' => 26.91361,
     'longitude' => 110.53583,
   ),
-  396 => 
+  384 => 
   array (
     'id' => 19669,
     'name' => 'Huazhou',
@@ -3574,16 +3466,7 @@ return array (
     'latitude' => 21.63333,
     'longitude' => 110.58333,
   ),
-  397 => 
-  array (
-    'id' => 19670,
-    'name' => 'Huazhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 32.68222,
-    'longitude' => 112.08194,
-  ),
-  398 => 
+  385 => 
   array (
     'id' => 19671,
     'name' => 'Huichang',
@@ -3592,7 +3475,7 @@ return array (
     'latitude' => 34.90376,
     'longitude' => 112.78426,
   ),
-  399 => 
+  386 => 
   array (
     'id' => 19672,
     'name' => 'Huicheng',
@@ -3601,7 +3484,7 @@ return array (
     'latitude' => 23.03845,
     'longitude' => 116.28988,
   ),
-  400 => 
+  387 => 
   array (
     'id' => 19673,
     'name' => 'Huilong',
@@ -3610,7 +3493,7 @@ return array (
     'latitude' => 31.81111,
     'longitude' => 121.655,
   ),
-  401 => 
+  388 => 
   array (
     'id' => 19674,
     'name' => 'Huinan',
@@ -3619,7 +3502,7 @@ return array (
     'latitude' => 42.6225,
     'longitude' => 126.26139,
   ),
-  402 => 
+  389 => 
   array (
     'id' => 19675,
     'name' => 'Huizhou',
@@ -3628,7 +3511,7 @@ return array (
     'latitude' => 23.11147,
     'longitude' => 114.41523,
   ),
-  403 => 
+  390 => 
   array (
     'id' => 19676,
     'name' => 'Hulan',
@@ -3637,7 +3520,7 @@ return array (
     'latitude' => 45.98333,
     'longitude' => 126.6,
   ),
-  404 => 
+  391 => 
   array (
     'id' => 19677,
     'name' => 'Hulan Ergi',
@@ -3646,7 +3529,7 @@ return array (
     'latitude' => 47.20417,
     'longitude' => 123.63333,
   ),
-  405 => 
+  392 => 
   array (
     'id' => 19678,
     'name' => 'Huludao',
@@ -3655,7 +3538,7 @@ return array (
     'latitude' => 40.75243,
     'longitude' => 120.83552,
   ),
-  406 => 
+  393 => 
   array (
     'id' => 19679,
     'name' => 'Huludao Shi',
@@ -3664,7 +3547,7 @@ return array (
     'latitude' => 40.74528,
     'longitude' => 120.21972,
   ),
-  407 => 
+  394 => 
   array (
     'id' => 19680,
     'name' => 'Hulunbuir Region',
@@ -3673,7 +3556,7 @@ return array (
     'latitude' => 49.70989,
     'longitude' => 121.72176,
   ),
-  408 => 
+  395 => 
   array (
     'id' => 19682,
     'name' => 'Hunchun',
@@ -3682,7 +3565,7 @@ return array (
     'latitude' => 42.8675,
     'longitude' => 130.35806,
   ),
-  409 => 
+  396 => 
   array (
     'id' => 19683,
     'name' => 'Huocheng',
@@ -3691,7 +3574,7 @@ return array (
     'latitude' => 44.05305,
     'longitude' => 80.87173,
   ),
-  410 => 
+  397 => 
   array (
     'id' => 19684,
     'name' => 'Huomachong',
@@ -3700,7 +3583,7 @@ return array (
     'latitude' => 27.88333,
     'longitude' => 110.23,
   ),
-  411 => 
+  398 => 
   array (
     'id' => 19685,
     'name' => 'Huoqiu Chengguanzhen',
@@ -3709,7 +3592,7 @@ return array (
     'latitude' => 32.35473,
     'longitude' => 116.2939,
   ),
-  412 => 
+  399 => 
   array (
     'id' => 19686,
     'name' => 'Huotong',
@@ -3718,7 +3601,7 @@ return array (
     'latitude' => 26.84972,
     'longitude' => 119.41806,
   ),
-  413 => 
+  400 => 
   array (
     'id' => 19687,
     'name' => 'Hushitai',
@@ -3727,7 +3610,7 @@ return array (
     'latitude' => 41.94175,
     'longitude' => 123.50266,
   ),
-  414 => 
+  401 => 
   array (
     'id' => 19688,
     'name' => 'Hutang',
@@ -3736,7 +3619,7 @@ return array (
     'latitude' => 31.53429,
     'longitude' => 119.49,
   ),
-  415 => 
+  402 => 
   array (
     'id' => 19689,
     'name' => 'Huzhou',
@@ -3745,7 +3628,7 @@ return array (
     'latitude' => 30.8703,
     'longitude' => 120.0933,
   ),
-  416 => 
+  403 => 
   array (
     'id' => 19690,
     'name' => 'Ili Kazak Zizhizhou',
@@ -3754,7 +3637,7 @@ return array (
     'latitude' => 43.31211,
     'longitude' => 82.27102,
   ),
-  417 => 
+  404 => 
   array (
     'id' => 19691,
     'name' => 'Jalai Nur',
@@ -3763,7 +3646,7 @@ return array (
     'latitude' => 49.45,
     'longitude' => 117.7,
   ),
-  418 => 
+  405 => 
   array (
     'id' => 19692,
     'name' => 'Jiagedaqi',
@@ -3772,7 +3655,7 @@ return array (
     'latitude' => 50.41667,
     'longitude' => 124.11667,
   ),
-  419 => 
+  406 => 
   array (
     'id' => 19693,
     'name' => 'Jiamaying',
@@ -3781,7 +3664,7 @@ return array (
     'latitude' => 37.20806,
     'longitude' => 115.95,
   ),
-  420 => 
+  407 => 
   array (
     'id' => 19694,
     'name' => 'Jiamusi',
@@ -3790,7 +3673,7 @@ return array (
     'latitude' => 46.79927,
     'longitude' => 130.31633,
   ),
-  421 => 
+  408 => 
   array (
     'id' => 19695,
     'name' => 'Jiancheng',
@@ -3799,7 +3682,7 @@ return array (
     'latitude' => 30.39097,
     'longitude' => 104.54912,
   ),
-  422 => 
+  409 => 
   array (
     'id' => 19696,
     'name' => 'Jiangfang',
@@ -3808,7 +3691,7 @@ return array (
     'latitude' => 26.50158,
     'longitude' => 110.3464,
   ),
-  423 => 
+  410 => 
   array (
     'id' => 19697,
     'name' => 'Jiangkou',
@@ -3817,7 +3700,7 @@ return array (
     'latitude' => 25.48694,
     'longitude' => 119.19834,
   ),
-  424 => 
+  411 => 
   array (
     'id' => 19698,
     'name' => 'Jiangkouxu',
@@ -3826,7 +3709,7 @@ return array (
     'latitude' => 27.69417,
     'longitude' => 109.73583,
   ),
-  425 => 
+  412 => 
   array (
     'id' => 19699,
     'name' => 'Jiangmen',
@@ -3835,7 +3718,7 @@ return array (
     'latitude' => 22.58333,
     'longitude' => 113.08333,
   ),
-  426 => 
+  413 => 
   array (
     'id' => 19700,
     'name' => 'Jiangshi',
@@ -3844,7 +3727,7 @@ return array (
     'latitude' => 27.12333,
     'longitude' => 109.73778,
   ),
-  427 => 
+  414 => 
   array (
     'id' => 19701,
     'name' => 'Jianguang',
@@ -3853,7 +3736,7 @@ return array (
     'latitude' => 28.19377,
     'longitude' => 115.7836,
   ),
-  428 => 
+  415 => 
   array (
     'id' => 19702,
     'name' => 'Jiangyan',
@@ -3862,7 +3745,7 @@ return array (
     'latitude' => 32.50611,
     'longitude' => 120.14278,
   ),
-  429 => 
+  416 => 
   array (
     'id' => 19703,
     'name' => 'Jiangyin',
@@ -3871,7 +3754,7 @@ return array (
     'latitude' => 31.91102,
     'longitude' => 120.26302,
   ),
-  430 => 
+  417 => 
   array (
     'id' => 19704,
     'name' => 'Jiangyou',
@@ -3880,7 +3763,7 @@ return array (
     'latitude' => 31.76667,
     'longitude' => 104.71667,
   ),
-  431 => 
+  418 => 
   array (
     'id' => 19705,
     'name' => 'Jiangzi',
@@ -3889,7 +3772,7 @@ return array (
     'latitude' => 28.92026,
     'longitude' => 89.59956,
   ),
-  432 => 
+  419 => 
   array (
     'id' => 19706,
     'name' => 'Jianjiang',
@@ -3898,7 +3781,7 @@ return array (
     'latitude' => 26.54972,
     'longitude' => 119.755,
   ),
-  433 => 
+  420 => 
   array (
     'id' => 19707,
     'name' => 'Jiannan',
@@ -3907,7 +3790,7 @@ return array (
     'latitude' => 31.34355,
     'longitude' => 104.19588,
   ),
-  434 => 
+  421 => 
   array (
     'id' => 19708,
     'name' => 'Jianshe',
@@ -3916,7 +3799,7 @@ return array (
     'latitude' => 34.2175,
     'longitude' => 113.76889,
   ),
-  435 => 
+  422 => 
   array (
     'id' => 19709,
     'name' => 'Jian’ou',
@@ -3925,7 +3808,7 @@ return array (
     'latitude' => 27.04694,
     'longitude' => 118.32528,
   ),
-  436 => 
+  423 => 
   array (
     'id' => 19710,
     'name' => 'Jiaojiang',
@@ -3934,7 +3817,7 @@ return array (
     'latitude' => 28.69844,
     'longitude' => 121.47331,
   ),
-  437 => 
+  424 => 
   array (
     'id' => 19711,
     'name' => 'Jiaozhou',
@@ -3943,7 +3826,7 @@ return array (
     'latitude' => 36.28389,
     'longitude' => 120.00333,
   ),
-  438 => 
+  425 => 
   array (
     'id' => 19712,
     'name' => 'Jiaozuo',
@@ -3952,7 +3835,7 @@ return array (
     'latitude' => 35.23972,
     'longitude' => 113.23306,
   ),
-  439 => 
+  426 => 
   array (
     'id' => 19713,
     'name' => 'Jiashan',
@@ -3961,7 +3844,7 @@ return array (
     'latitude' => 30.84918,
     'longitude' => 120.92583,
   ),
-  440 => 
+  427 => 
   array (
     'id' => 19714,
     'name' => 'Jiaxing',
@@ -3970,7 +3853,7 @@ return array (
     'latitude' => 30.7522,
     'longitude' => 120.75,
   ),
-  441 => 
+  428 => 
   array (
     'id' => 19715,
     'name' => 'Jiaxing Shi',
@@ -3979,7 +3862,7 @@ return array (
     'latitude' => 30.7707,
     'longitude' => 120.75238,
   ),
-  442 => 
+  429 => 
   array (
     'id' => 19716,
     'name' => 'Jiayuguan',
@@ -3988,7 +3871,7 @@ return array (
     'latitude' => 39.81121,
     'longitude' => 98.28618,
   ),
-  443 => 
+  430 => 
   array (
     'id' => 19717,
     'name' => 'Jiazi',
@@ -3997,7 +3880,7 @@ return array (
     'latitude' => 22.87932,
     'longitude' => 116.07318,
   ),
-  444 => 
+  431 => 
   array (
     'id' => 19718,
     'name' => 'Jidong',
@@ -4006,7 +3889,7 @@ return array (
     'latitude' => 45.21667,
     'longitude' => 131.08333,
   ),
-  445 => 
+  432 => 
   array (
     'id' => 19719,
     'name' => 'Jiehu',
@@ -4015,7 +3898,7 @@ return array (
     'latitude' => 35.54278,
     'longitude' => 118.455,
   ),
-  446 => 
+  433 => 
   array (
     'id' => 19720,
     'name' => 'Jieshi',
@@ -4024,7 +3907,7 @@ return array (
     'latitude' => 22.81027,
     'longitude' => 115.83058,
   ),
-  447 => 
+  434 => 
   array (
     'id' => 19721,
     'name' => 'Jieshou',
@@ -4033,7 +3916,7 @@ return array (
     'latitude' => 33.26338,
     'longitude' => 115.36108,
   ),
-  448 => 
+  435 => 
   array (
     'id' => 19722,
     'name' => 'Jiexiu',
@@ -4042,7 +3925,7 @@ return array (
     'latitude' => 37.02444,
     'longitude' => 111.9125,
   ),
-  449 => 
+  436 => 
   array (
     'id' => 19723,
     'name' => 'Jieyang',
@@ -4051,7 +3934,7 @@ return array (
     'latitude' => 23.5418,
     'longitude' => 116.36581,
   ),
-  450 => 
+  437 => 
   array (
     'id' => 19724,
     'name' => 'Jijiang',
@@ -4060,7 +3943,7 @@ return array (
     'latitude' => 29.28993,
     'longitude' => 106.25001,
   ),
-  451 => 
+  438 => 
   array (
     'id' => 19725,
     'name' => 'Jilin',
@@ -4069,7 +3952,7 @@ return array (
     'latitude' => 43.85083,
     'longitude' => 126.56028,
   ),
-  452 => 
+  439 => 
   array (
     'id' => 19726,
     'name' => 'Jimo',
@@ -4078,7 +3961,7 @@ return array (
     'latitude' => 36.38972,
     'longitude' => 120.46222,
   ),
-  453 => 
+  440 => 
   array (
     'id' => 19727,
     'name' => 'Jinan',
@@ -4087,7 +3970,7 @@ return array (
     'latitude' => 36.66833,
     'longitude' => 116.99722,
   ),
-  454 => 
+  441 => 
   array (
     'id' => 19728,
     'name' => 'Jinchang',
@@ -4096,7 +3979,7 @@ return array (
     'latitude' => 38.50062,
     'longitude' => 102.19379,
   ),
-  455 => 
+  442 => 
   array (
     'id' => 19729,
     'name' => 'Jincheng',
@@ -4105,7 +3988,7 @@ return array (
     'latitude' => 35.50222,
     'longitude' => 112.83278,
   ),
-  456 => 
+  443 => 
   array (
     'id' => 19730,
     'name' => 'Jingdezhen',
@@ -4114,7 +3997,7 @@ return array (
     'latitude' => 29.2947,
     'longitude' => 117.20789,
   ),
-  457 => 
+  444 => 
   array (
     'id' => 19731,
     'name' => 'Jingdezhen Shi',
@@ -4123,7 +4006,7 @@ return array (
     'latitude' => 29.31682,
     'longitude' => 117.24688,
   ),
-  458 => 
+  445 => 
   array (
     'id' => 19732,
     'name' => 'Jingfeng',
@@ -4132,7 +4015,7 @@ return array (
     'latitude' => 24.97441,
     'longitude' => 118.96486,
   ),
-  459 => 
+  446 => 
   array (
     'id' => 19733,
     'name' => 'Jinghong',
@@ -4141,7 +4024,7 @@ return array (
     'latitude' => 21.99102,
     'longitude' => 100.73409,
   ),
-  460 => 
+  447 => 
   array (
     'id' => 19734,
     'name' => 'Jingjiang',
@@ -4150,7 +4033,7 @@ return array (
     'latitude' => 32.01827432,
     'longitude' => 120.27557629,
   ),
-  461 => 
+  448 => 
   array (
     'id' => 19735,
     'name' => 'Jingling',
@@ -4159,7 +4042,7 @@ return array (
     'latitude' => 30.65,
     'longitude' => 113.1,
   ),
-  462 => 
+  449 => 
   array (
     'id' => 19736,
     'name' => 'Jingmen',
@@ -4168,7 +4051,7 @@ return array (
     'latitude' => 31.03361,
     'longitude' => 112.20472,
   ),
-  463 => 
+  450 => 
   array (
     'id' => 19737,
     'name' => 'Jingmen Shi',
@@ -4177,7 +4060,7 @@ return array (
     'latitude' => 31.11244,
     'longitude' => 112.6431,
   ),
-  464 => 
+  451 => 
   array (
     'id' => 19738,
     'name' => 'Jingzhou',
@@ -4186,7 +4069,7 @@ return array (
     'latitude' => 30.35028,
     'longitude' => 112.19028,
   ),
-  465 => 
+  452 => 
   array (
     'id' => 19739,
     'name' => 'Jinhe',
@@ -4195,7 +4078,7 @@ return array (
     'latitude' => 27.71694,
     'longitude' => 109.60472,
   ),
-  466 => 
+  453 => 
   array (
     'id' => 19740,
     'name' => 'Jinhua',
@@ -4204,7 +4087,7 @@ return array (
     'latitude' => 29.10678,
     'longitude' => 119.64421,
   ),
-  467 => 
+  454 => 
   array (
     'id' => 19741,
     'name' => 'Jining',
@@ -4213,16 +4096,7 @@ return array (
     'latitude' => 35.405,
     'longitude' => 116.58139,
   ),
-  468 => 
-  array (
-    'id' => 19742,
-    'name' => 'Jining',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 41.0275,
-    'longitude' => 113.10583,
-  ),
-  469 => 
+  455 => 
   array (
     'id' => 19743,
     'name' => 'Jinji',
@@ -4231,7 +4105,7 @@ return array (
     'latitude' => 23.22806,
     'longitude' => 110.82611,
   ),
-  470 => 
+  456 => 
   array (
     'id' => 19744,
     'name' => 'Jinjiang',
@@ -4240,16 +4114,7 @@ return array (
     'latitude' => 24.81978,
     'longitude' => 118.57415,
   ),
-  471 => 
-  array (
-    'id' => 19745,
-    'name' => 'Jinjiang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 19.72878,
-    'longitude' => 110.00851,
-  ),
-  472 => 
+  457 => 
   array (
     'id' => 19746,
     'name' => 'Jinjing',
@@ -4258,7 +4123,7 @@ return array (
     'latitude' => 24.575,
     'longitude' => 118.59722,
   ),
-  473 => 
+  458 => 
   array (
     'id' => 19747,
     'name' => 'Jinsha',
@@ -4267,7 +4132,7 @@ return array (
     'latitude' => 32.08982,
     'longitude' => 121.07355,
   ),
-  474 => 
+  459 => 
   array (
     'id' => 19748,
     'name' => 'Jinshi',
@@ -4276,7 +4141,7 @@ return array (
     'latitude' => 29.60487,
     'longitude' => 111.87012,
   ),
-  475 => 
+  460 => 
   array (
     'id' => 19749,
     'name' => 'Jinshiqiao',
@@ -4285,7 +4150,7 @@ return array (
     'latitude' => 27.58425,
     'longitude' => 110.93634,
   ),
-  476 => 
+  461 => 
   array (
     'id' => 19750,
     'name' => 'Jinxiang',
@@ -4294,7 +4159,7 @@ return array (
     'latitude' => 27.43265,
     'longitude' => 120.60625,
   ),
-  477 => 
+  462 => 
   array (
     'id' => 19751,
     'name' => 'Jinzhong Shi',
@@ -4303,7 +4168,7 @@ return array (
     'latitude' => 37.43597,
     'longitude' => 113.08783,
   ),
-  478 => 
+  463 => 
   array (
     'id' => 19752,
     'name' => 'Jinzhou',
@@ -4312,7 +4177,7 @@ return array (
     'latitude' => 41.10778,
     'longitude' => 121.14167,
   ),
-  479 => 
+  464 => 
   array (
     'id' => 19753,
     'name' => 'Jishu',
@@ -4321,7 +4186,7 @@ return array (
     'latitude' => 44.31667,
     'longitude' => 126.8,
   ),
-  480 => 
+  465 => 
   array (
     'id' => 19754,
     'name' => 'Jishui',
@@ -4330,7 +4195,7 @@ return array (
     'latitude' => 33.73333,
     'longitude' => 115.4,
   ),
-  481 => 
+  466 => 
   array (
     'id' => 19755,
     'name' => 'Jitoucun',
@@ -4339,7 +4204,7 @@ return array (
     'latitude' => 26.47681,
     'longitude' => 119.60517,
   ),
-  482 => 
+  467 => 
   array (
     'id' => 19756,
     'name' => 'Jiujiang',
@@ -4348,7 +4213,7 @@ return array (
     'latitude' => 29.70475,
     'longitude' => 116.00206,
   ),
-  483 => 
+  468 => 
   array (
     'id' => 19757,
     'name' => 'Jiupu',
@@ -4357,7 +4222,7 @@ return array (
     'latitude' => 41.06667,
     'longitude' => 122.95,
   ),
-  484 => 
+  469 => 
   array (
     'id' => 19758,
     'name' => 'Jiuquan',
@@ -4366,7 +4231,7 @@ return array (
     'latitude' => 39.74318,
     'longitude' => 98.51736,
   ),
-  485 => 
+  470 => 
   array (
     'id' => 19759,
     'name' => 'Jiutai',
@@ -4375,7 +4240,7 @@ return array (
     'latitude' => 44.1525,
     'longitude' => 125.83278,
   ),
-  486 => 
+  471 => 
   array (
     'id' => 19760,
     'name' => 'Jixi',
@@ -4384,7 +4249,7 @@ return array (
     'latitude' => 45.30109,
     'longitude' => 130.95718,
   ),
-  487 => 
+  472 => 
   array (
     'id' => 19761,
     'name' => 'Jiyuan',
@@ -4393,7 +4258,7 @@ return array (
     'latitude' => 35.09,
     'longitude' => 112.58,
   ),
-  488 => 
+  473 => 
   array (
     'id' => 19762,
     'name' => 'Ji’an',
@@ -4402,16 +4267,7 @@ return array (
     'latitude' => 27.11716,
     'longitude' => 114.97927,
   ),
-  489 => 
-  array (
-    'id' => 19763,
-    'name' => 'Ji’an',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 41.12349,
-    'longitude' => 126.17631,
-  ),
-  490 => 
+  474 => 
   array (
     'id' => 19764,
     'name' => 'Juegang',
@@ -4420,7 +4276,7 @@ return array (
     'latitude' => 32.31737,
     'longitude' => 121.18552,
   ),
-  491 => 
+  475 => 
   array (
     'id' => 19765,
     'name' => 'Juye',
@@ -4429,7 +4285,7 @@ return array (
     'latitude' => 35.39472,
     'longitude' => 116.08833,
   ),
-  492 => 
+  476 => 
   array (
     'id' => 19766,
     'name' => 'Kaifeng',
@@ -4438,7 +4294,7 @@ return array (
     'latitude' => 34.7986,
     'longitude' => 114.30742,
   ),
-  493 => 
+  477 => 
   array (
     'id' => 19767,
     'name' => 'Kaihua',
@@ -4447,7 +4303,7 @@ return array (
     'latitude' => 23.3695,
     'longitude' => 104.27721,
   ),
-  494 => 
+  478 => 
   array (
     'id' => 19768,
     'name' => 'Kaitong',
@@ -4456,7 +4312,7 @@ return array (
     'latitude' => 44.81351,
     'longitude' => 123.15,
   ),
-  495 => 
+  479 => 
   array (
     'id' => 19769,
     'name' => 'Kaiyuan',
@@ -4465,25 +4321,7 @@ return array (
     'latitude' => 36.06813,
     'longitude' => 113.82209,
   ),
-  496 => 
-  array (
-    'id' => 19770,
-    'name' => 'Kaiyuan',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 23.69767,
-    'longitude' => 103.30372,
-  ),
-  497 => 
-  array (
-    'id' => 19771,
-    'name' => 'Kaiyuan',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 42.53306,
-    'longitude' => 124.04028,
-  ),
-  498 => 
+  480 => 
   array (
     'id' => 19772,
     'name' => 'Kangding',
@@ -4492,7 +4330,7 @@ return array (
     'latitude' => 30.00222,
     'longitude' => 101.9569,
   ),
-  499 => 
+  481 => 
   array (
     'id' => 19773,
     'name' => 'Karamay',
@@ -4501,7 +4339,7 @@ return array (
     'latitude' => 45.58473,
     'longitude' => 84.88724,
   ),
-  500 => 
+  482 => 
   array (
     'id' => 19774,
     'name' => 'Karamay Shi',
@@ -4510,7 +4348,7 @@ return array (
     'latitude' => 45.49989,
     'longitude' => 84.91683,
   ),
-  501 => 
+  483 => 
   array (
     'id' => 19775,
     'name' => 'Kashgar',
@@ -4519,7 +4357,7 @@ return array (
     'latitude' => 39.47066,
     'longitude' => 75.98951,
   ),
-  502 => 
+  484 => 
   array (
     'id' => 19776,
     'name' => 'Kaxgar Diqu',
@@ -4528,7 +4366,7 @@ return array (
     'latitude' => 39.47543,
     'longitude' => 75.98968,
   ),
-  503 => 
+  485 => 
   array (
     'id' => 19777,
     'name' => 'Kengyuan',
@@ -4537,7 +4375,7 @@ return array (
     'latitude' => 26.33964,
     'longitude' => 119.76476,
   ),
-  504 => 
+  486 => 
   array (
     'id' => 19778,
     'name' => 'Kerencun',
@@ -4546,7 +4384,7 @@ return array (
     'latitude' => 24.58213,
     'longitude' => 118.66046,
   ),
-  505 => 
+  487 => 
   array (
     'id' => 19779,
     'name' => 'Korla',
@@ -4555,7 +4393,7 @@ return array (
     'latitude' => 41.76055,
     'longitude' => 86.15231,
   ),
-  506 => 
+  488 => 
   array (
     'id' => 19780,
     'name' => 'Kuai’an',
@@ -4564,7 +4402,7 @@ return array (
     'latitude' => 26.03417,
     'longitude' => 119.41639,
   ),
-  507 => 
+  489 => 
   array (
     'id' => 19781,
     'name' => 'Kuandian',
@@ -4573,7 +4411,7 @@ return array (
     'latitude' => 40.72861,
     'longitude' => 124.78472,
   ),
-  508 => 
+  490 => 
   array (
     'id' => 19782,
     'name' => 'Kuiju',
@@ -4582,7 +4420,7 @@ return array (
     'latitude' => 36.85361,
     'longitude' => 119.39083,
   ),
-  509 => 
+  491 => 
   array (
     'id' => 19783,
     'name' => 'Kunming',
@@ -4591,7 +4429,7 @@ return array (
     'latitude' => 25.03889,
     'longitude' => 102.71833,
   ),
-  510 => 
+  492 => 
   array (
     'id' => 19784,
     'name' => 'Kunshan',
@@ -4600,7 +4438,7 @@ return array (
     'latitude' => 31.37762,
     'longitude' => 120.95431,
   ),
-  511 => 
+  493 => 
   array (
     'id' => 19785,
     'name' => 'Kunyang',
@@ -4609,7 +4447,7 @@ return array (
     'latitude' => 27.66583,
     'longitude' => 120.56583,
   ),
-  512 => 
+  494 => 
   array (
     'id' => 19786,
     'name' => 'Kuqa',
@@ -4618,7 +4456,7 @@ return array (
     'latitude' => 41.71707,
     'longitude' => 82.93064,
   ),
-  513 => 
+  495 => 
   array (
     'id' => 19787,
     'name' => 'Kutao',
@@ -4627,7 +4465,7 @@ return array (
     'latitude' => 36.145,
     'longitude' => 120.48778,
   ),
-  514 => 
+  496 => 
   array (
     'id' => 19788,
     'name' => 'Kuytun',
@@ -4636,7 +4474,7 @@ return array (
     'latitude' => 44.42707,
     'longitude' => 84.90069,
   ),
-  515 => 
+  497 => 
   array (
     'id' => 19789,
     'name' => 'Laibin',
@@ -4645,7 +4483,7 @@ return array (
     'latitude' => 23.7,
     'longitude' => 109.26667,
   ),
-  516 => 
+  498 => 
   array (
     'id' => 19790,
     'name' => 'Laiwu',
@@ -4654,7 +4492,7 @@ return array (
     'latitude' => 36.19278,
     'longitude' => 117.65694,
   ),
-  517 => 
+  499 => 
   array (
     'id' => 19791,
     'name' => 'Laixi',
@@ -4663,7 +4501,7 @@ return array (
     'latitude' => 36.85917,
     'longitude' => 120.52694,
   ),
-  518 => 
+  500 => 
   array (
     'id' => 19792,
     'name' => 'Laiyang',
@@ -4672,7 +4510,7 @@ return array (
     'latitude' => 36.97583,
     'longitude' => 120.71361,
   ),
-  519 => 
+  501 => 
   array (
     'id' => 19793,
     'name' => 'Laizhou',
@@ -4681,7 +4519,7 @@ return array (
     'latitude' => 37.18073,
     'longitude' => 119.94217,
   ),
-  520 => 
+  502 => 
   array (
     'id' => 19794,
     'name' => 'Langfang',
@@ -4690,7 +4528,7 @@ return array (
     'latitude' => 39.50972,
     'longitude' => 116.69472,
   ),
-  521 => 
+  503 => 
   array (
     'id' => 19795,
     'name' => 'Langfang Shi',
@@ -4699,7 +4537,7 @@ return array (
     'latitude' => 39.51667,
     'longitude' => 116.68333,
   ),
-  522 => 
+  504 => 
   array (
     'id' => 19796,
     'name' => 'Langtoucun',
@@ -4708,7 +4546,7 @@ return array (
     'latitude' => 40.04068,
     'longitude' => 124.33525,
   ),
-  523 => 
+  505 => 
   array (
     'id' => 19797,
     'name' => 'Langxiang',
@@ -4717,7 +4555,7 @@ return array (
     'latitude' => 46.94985,
     'longitude' => 128.86849,
   ),
-  524 => 
+  506 => 
   array (
     'id' => 19798,
     'name' => 'Langzhong',
@@ -4726,7 +4564,7 @@ return array (
     'latitude' => 31.55037,
     'longitude' => 105.99381,
   ),
-  525 => 
+  507 => 
   array (
     'id' => 19799,
     'name' => 'Lanli',
@@ -4735,7 +4573,7 @@ return array (
     'latitude' => 27.88694,
     'longitude' => 109.91861,
   ),
-  526 => 
+  508 => 
   array (
     'id' => 19800,
     'name' => 'Lantian',
@@ -4744,7 +4582,7 @@ return array (
     'latitude' => 27.025,
     'longitude' => 109.29472,
   ),
-  527 => 
+  509 => 
   array (
     'id' => 19801,
     'name' => 'Lanxi',
@@ -4753,16 +4591,7 @@ return array (
     'latitude' => 29.21588,
     'longitude' => 119.47156,
   ),
-  528 => 
-  array (
-    'id' => 19802,
-    'name' => 'Lanxi',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 46.25785,
-    'longitude' => 126.28269,
-  ),
-  529 => 
+  510 => 
   array (
     'id' => 19803,
     'name' => 'Lanzhou',
@@ -4771,7 +4600,7 @@ return array (
     'latitude' => 36.05701,
     'longitude' => 103.83987,
   ),
-  530 => 
+  511 => 
   array (
     'id' => 19804,
     'name' => 'Laocheng',
@@ -4780,7 +4609,7 @@ return array (
     'latitude' => 37.14278,
     'longitude' => 115.88833,
   ),
-  531 => 
+  512 => 
   array (
     'id' => 19805,
     'name' => 'Laohekou',
@@ -4789,7 +4618,7 @@ return array (
     'latitude' => 32.38583,
     'longitude' => 111.66778,
   ),
-  532 => 
+  513 => 
   array (
     'id' => 19806,
     'name' => 'Laojunmiao',
@@ -4798,7 +4627,7 @@ return array (
     'latitude' => 39.83333,
     'longitude' => 97.73333,
   ),
-  533 => 
+  514 => 
   array (
     'id' => 19807,
     'name' => 'Lecheng',
@@ -4807,7 +4636,7 @@ return array (
     'latitude' => 25.128,
     'longitude' => 113.35041,
   ),
-  534 => 
+  515 => 
   array (
     'id' => 19808,
     'name' => 'Leiyang',
@@ -4816,7 +4645,7 @@ return array (
     'latitude' => 26.40238,
     'longitude' => 112.85908,
   ),
-  535 => 
+  516 => 
   array (
     'id' => 19809,
     'name' => 'Lengshuijiang',
@@ -4825,7 +4654,7 @@ return array (
     'latitude' => 27.68806,
     'longitude' => 111.42944,
   ),
-  536 => 
+  517 => 
   array (
     'id' => 19810,
     'name' => 'Lengshuitan',
@@ -4834,7 +4663,7 @@ return array (
     'latitude' => 26.4111,
     'longitude' => 111.59559,
   ),
-  537 => 
+  518 => 
   array (
     'id' => 19811,
     'name' => 'Leshan',
@@ -4843,7 +4672,7 @@ return array (
     'latitude' => 29.56227,
     'longitude' => 103.76386,
   ),
-  538 => 
+  519 => 
   array (
     'id' => 19812,
     'name' => 'Lhasa',
@@ -4852,7 +4681,7 @@ return array (
     'latitude' => 29.65,
     'longitude' => 91.1,
   ),
-  539 => 
+  520 => 
   array (
     'id' => 19813,
     'name' => 'Liangcunchang',
@@ -4861,7 +4690,7 @@ return array (
     'latitude' => 28.40667,
     'longitude' => 106.42444,
   ),
-  540 => 
+  521 => 
   array (
     'id' => 19814,
     'name' => 'Lianghu',
@@ -4870,7 +4699,7 @@ return array (
     'latitude' => 29.99152,
     'longitude' => 120.89845,
   ),
-  541 => 
+  522 => 
   array (
     'id' => 19815,
     'name' => 'Liangping District',
@@ -4879,7 +4708,7 @@ return array (
     'latitude' => 30.67409,
     'longitude' => 107.7938,
   ),
-  542 => 
+  523 => 
   array (
     'id' => 19816,
     'name' => 'Liangshan Yizu Zizhizhou',
@@ -4888,7 +4717,7 @@ return array (
     'latitude' => 27.87644,
     'longitude' => 102.1018,
   ),
-  543 => 
+  524 => 
   array (
     'id' => 19817,
     'name' => 'Liangxiang',
@@ -4897,7 +4726,7 @@ return array (
     'latitude' => 39.73598,
     'longitude' => 116.13295,
   ),
-  544 => 
+  525 => 
   array (
     'id' => 19818,
     'name' => 'Liangyaping',
@@ -4906,7 +4735,7 @@ return array (
     'latitude' => 27.71833,
     'longitude' => 110.67083,
   ),
-  545 => 
+  526 => 
   array (
     'id' => 19819,
     'name' => 'Lianhe',
@@ -4915,7 +4744,7 @@ return array (
     'latitude' => 47.13333,
     'longitude' => 129.27426,
   ),
-  546 => 
+  527 => 
   array (
     'id' => 19820,
     'name' => 'Lianhecun',
@@ -4924,7 +4753,7 @@ return array (
     'latitude' => 24.58932,
     'longitude' => 118.33903,
   ),
-  547 => 
+  528 => 
   array (
     'id' => 19821,
     'name' => 'Lianjiang',
@@ -4933,7 +4762,7 @@ return array (
     'latitude' => 21.64673,
     'longitude' => 110.28172,
   ),
-  548 => 
+  529 => 
   array (
     'id' => 19822,
     'name' => 'Lianran',
@@ -4942,7 +4771,7 @@ return array (
     'latitude' => 24.92271,
     'longitude' => 102.48496,
   ),
-  549 => 
+  530 => 
   array (
     'id' => 19823,
     'name' => 'Lianshan',
@@ -4951,7 +4780,7 @@ return array (
     'latitude' => 40.76432,
     'longitude' => 120.85327,
   ),
-  550 => 
+  531 => 
   array (
     'id' => 19824,
     'name' => 'Lianyuan',
@@ -4960,7 +4789,7 @@ return array (
     'latitude' => 27.68833,
     'longitude' => 111.66417,
   ),
-  551 => 
+  532 => 
   array (
     'id' => 19825,
     'name' => 'Lianyungang Shi',
@@ -4969,7 +4798,7 @@ return array (
     'latitude' => 34.54844,
     'longitude' => 119.11228,
   ),
-  552 => 
+  533 => 
   array (
     'id' => 19826,
     'name' => 'Lianzhou',
@@ -4978,16 +4807,7 @@ return array (
     'latitude' => 24.78186,
     'longitude' => 112.3712,
   ),
-  553 => 
-  array (
-    'id' => 19827,
-    'name' => 'Lianzhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 21.66621,
-    'longitude' => 109.20116,
-  ),
-  554 => 
+  534 => 
   array (
     'id' => 19828,
     'name' => 'Liaocheng',
@@ -4996,7 +4816,7 @@ return array (
     'latitude' => 36.45596,
     'longitude' => 115.97766,
   ),
-  555 => 
+  535 => 
   array (
     'id' => 19829,
     'name' => 'Liaoyang',
@@ -5005,7 +4825,7 @@ return array (
     'latitude' => 41.27194,
     'longitude' => 123.17306,
   ),
-  556 => 
+  536 => 
   array (
     'id' => 19830,
     'name' => 'Liaoyuan',
@@ -5014,7 +4834,7 @@ return array (
     'latitude' => 42.90361,
     'longitude' => 125.13583,
   ),
-  557 => 
+  537 => 
   array (
     'id' => 19831,
     'name' => 'Liaozhong',
@@ -5023,7 +4843,7 @@ return array (
     'latitude' => 41.50611,
     'longitude' => 122.72417,
   ),
-  558 => 
+  538 => 
   array (
     'id' => 19832,
     'name' => 'Licheng',
@@ -5032,16 +4852,7 @@ return array (
     'latitude' => 31.42813,
     'longitude' => 119.48353,
   ),
-  559 => 
-  array (
-    'id' => 19833,
-    'name' => 'Licheng',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 23.29549,
-    'longitude' => 113.82465,
-  ),
-  560 => 
+  539 => 
   array (
     'id' => 19834,
     'name' => 'Lichuan',
@@ -5050,7 +4861,7 @@ return array (
     'latitude' => 30.3,
     'longitude' => 108.85,
   ),
-  561 => 
+  540 => 
   array (
     'id' => 19835,
     'name' => 'Lijiang',
@@ -5059,7 +4870,7 @@ return array (
     'latitude' => 26.86879,
     'longitude' => 100.22072,
   ),
-  562 => 
+  541 => 
   array (
     'id' => 19836,
     'name' => 'Lincang Shi',
@@ -5068,7 +4879,7 @@ return array (
     'latitude' => 23.94803,
     'longitude' => 99.55124,
   ),
-  563 => 
+  542 => 
   array (
     'id' => 19837,
     'name' => 'Lincheng',
@@ -5077,7 +4888,7 @@ return array (
     'latitude' => 19.90778,
     'longitude' => 109.68583,
   ),
-  564 => 
+  543 => 
   array (
     'id' => 19838,
     'name' => 'Linfen',
@@ -5086,7 +4897,7 @@ return array (
     'latitude' => 36.08889,
     'longitude' => 111.51889,
   ),
-  565 => 
+  544 => 
   array (
     'id' => 19839,
     'name' => 'Lingbao Chengguanzhen',
@@ -5095,7 +4906,7 @@ return array (
     'latitude' => 34.51972,
     'longitude' => 110.86444,
   ),
-  566 => 
+  545 => 
   array (
     'id' => 19840,
     'name' => 'Lingcheng',
@@ -5104,7 +4915,7 @@ return array (
     'latitude' => 22.70722,
     'longitude' => 110.34917,
   ),
-  567 => 
+  546 => 
   array (
     'id' => 19841,
     'name' => 'Lingdong',
@@ -5113,7 +4924,7 @@ return array (
     'latitude' => 46.56694,
     'longitude' => 131.14528,
   ),
-  568 => 
+  547 => 
   array (
     'id' => 19842,
     'name' => 'Linghai',
@@ -5122,7 +4933,7 @@ return array (
     'latitude' => 41.16528,
     'longitude' => 121.36667,
   ),
-  569 => 
+  548 => 
   array (
     'id' => 19843,
     'name' => 'Lingyuan',
@@ -5131,7 +4942,7 @@ return array (
     'latitude' => 41.24,
     'longitude' => 119.40111,
   ),
-  570 => 
+  549 => 
   array (
     'id' => 19844,
     'name' => 'Linhai',
@@ -5140,7 +4951,7 @@ return array (
     'latitude' => 28.85535,
     'longitude' => 121.1447,
   ),
-  571 => 
+  550 => 
   array (
     'id' => 19845,
     'name' => 'Linjiang',
@@ -5149,7 +4960,7 @@ return array (
     'latitude' => 41.80694,
     'longitude' => 126.90778,
   ),
-  572 => 
+  551 => 
   array (
     'id' => 19846,
     'name' => 'Linkou',
@@ -5158,16 +4969,7 @@ return array (
     'latitude' => 26.24806,
     'longitude' => 109.86361,
   ),
-  573 => 
-  array (
-    'id' => 19847,
-    'name' => 'Linkou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 45.28606,
-    'longitude' => 130.26151,
-  ),
-  574 => 
+  552 => 
   array (
     'id' => 19848,
     'name' => 'Linping',
@@ -5176,7 +4978,7 @@ return array (
     'latitude' => 30.4225,
     'longitude' => 120.29722,
   ),
-  575 => 
+  553 => 
   array (
     'id' => 19849,
     'name' => 'Linqiong',
@@ -5185,7 +4987,7 @@ return array (
     'latitude' => 30.41587,
     'longitude' => 103.46089,
   ),
-  576 => 
+  554 => 
   array (
     'id' => 19850,
     'name' => 'Linqu',
@@ -5194,7 +4996,7 @@ return array (
     'latitude' => 36.51556,
     'longitude' => 118.53972,
   ),
-  577 => 
+  555 => 
   array (
     'id' => 19851,
     'name' => 'Linshui',
@@ -5203,7 +5005,7 @@ return array (
     'latitude' => 36.42472,
     'longitude' => 114.20472,
   ),
-  578 => 
+  556 => 
   array (
     'id' => 19852,
     'name' => 'Lintong',
@@ -5212,7 +5014,7 @@ return array (
     'latitude' => 34.37803,
     'longitude' => 109.20892,
   ),
-  579 => 
+  557 => 
   array (
     'id' => 19853,
     'name' => 'Linxi',
@@ -5221,7 +5023,7 @@ return array (
     'latitude' => 39.71183,
     'longitude' => 118.44954,
   ),
-  580 => 
+  558 => 
   array (
     'id' => 19854,
     'name' => 'Linxia Chengguanzhen',
@@ -5230,7 +5032,7 @@ return array (
     'latitude' => 35.60028,
     'longitude' => 103.20639,
   ),
-  581 => 
+  559 => 
   array (
     'id' => 19855,
     'name' => 'Linxia Huizu Zizhizhou',
@@ -5239,7 +5041,7 @@ return array (
     'latitude' => 35.66597,
     'longitude' => 103.2408,
   ),
-  582 => 
+  560 => 
   array (
     'id' => 19856,
     'name' => 'Linyi',
@@ -5248,7 +5050,7 @@ return array (
     'latitude' => 35.06306,
     'longitude' => 118.34278,
   ),
-  583 => 
+  561 => 
   array (
     'id' => 19857,
     'name' => 'Lishu',
@@ -5257,7 +5059,7 @@ return array (
     'latitude' => 43.30472,
     'longitude' => 124.32778,
   ),
-  584 => 
+  562 => 
   array (
     'id' => 19858,
     'name' => 'Lishui',
@@ -5266,7 +5068,7 @@ return array (
     'latitude' => 28.46042,
     'longitude' => 119.91029,
   ),
-  585 => 
+  563 => 
   array (
     'id' => 19859,
     'name' => 'Liuduzhai',
@@ -5275,7 +5077,7 @@ return array (
     'latitude' => 27.36611,
     'longitude' => 110.935,
   ),
-  586 => 
+  564 => 
   array (
     'id' => 19860,
     'name' => 'Liuhe',
@@ -5284,7 +5086,7 @@ return array (
     'latitude' => 42.24007,
     'longitude' => 125.71717,
   ),
-  587 => 
+  565 => 
   array (
     'id' => 19861,
     'name' => 'Liupanshui',
@@ -5293,7 +5095,7 @@ return array (
     'latitude' => 26.59444,
     'longitude' => 104.83333,
   ),
-  588 => 
+  566 => 
   array (
     'id' => 19862,
     'name' => 'Liuwudiancun',
@@ -5302,7 +5104,7 @@ return array (
     'latitude' => 24.56923,
     'longitude' => 118.19064,
   ),
-  589 => 
+  567 => 
   array (
     'id' => 19863,
     'name' => 'Liuzhou Shi',
@@ -5311,7 +5113,7 @@ return array (
     'latitude' => 24.31667,
     'longitude' => 109.4,
   ),
-  590 => 
+  568 => 
   array (
     'id' => 19864,
     'name' => 'Lixiqiao',
@@ -5320,7 +5122,7 @@ return array (
     'latitude' => 26.79472,
     'longitude' => 110.41806,
   ),
-  591 => 
+  569 => 
   array (
     'id' => 19865,
     'name' => 'Longfeng',
@@ -5329,7 +5131,7 @@ return array (
     'latitude' => 46.53168,
     'longitude' => 125.1038,
   ),
-  592 => 
+  570 => 
   array (
     'id' => 19866,
     'name' => 'Longgang',
@@ -5338,7 +5140,7 @@ return array (
     'latitude' => 37.65181,
     'longitude' => 120.33063,
   ),
-  593 => 
+  571 => 
   array (
     'id' => 19867,
     'name' => 'Longjiang',
@@ -5347,7 +5149,7 @@ return array (
     'latitude' => 47.33072,
     'longitude' => 123.17816,
   ),
-  594 => 
+  572 => 
   array (
     'id' => 19868,
     'name' => 'Longjing',
@@ -5356,7 +5158,7 @@ return array (
     'latitude' => 42.77139,
     'longitude' => 129.42333,
   ),
-  595 => 
+  573 => 
   array (
     'id' => 19869,
     'name' => 'Longlisuo',
@@ -5365,7 +5167,7 @@ return array (
     'latitude' => 26.41417,
     'longitude' => 109.10222,
   ),
-  596 => 
+  574 => 
   array (
     'id' => 19870,
     'name' => 'Longmen',
@@ -5374,7 +5176,7 @@ return array (
     'latitude' => 24.95972,
     'longitude' => 118.08889,
   ),
-  597 => 
+  575 => 
   array (
     'id' => 19871,
     'name' => 'Longnan Shi',
@@ -5383,7 +5185,7 @@ return array (
     'latitude' => 33.53451,
     'longitude' => 105.34947,
   ),
-  598 => 
+  576 => 
   array (
     'id' => 19872,
     'name' => 'Longquan',
@@ -5392,7 +5194,7 @@ return array (
     'latitude' => 24.67193,
     'longitude' => 102.1613,
   ),
-  599 => 
+  577 => 
   array (
     'id' => 19873,
     'name' => 'Longtan',
@@ -5401,7 +5203,7 @@ return array (
     'latitude' => 27.41139,
     'longitude' => 110.53639,
   ),
-  600 => 
+  578 => 
   array (
     'id' => 19874,
     'name' => 'Longtou’an',
@@ -5410,7 +5212,7 @@ return array (
     'latitude' => 27.67028,
     'longitude' => 110.33611,
   ),
-  601 => 
+  579 => 
   array (
     'id' => 19875,
     'name' => 'Longyan',
@@ -5419,7 +5221,7 @@ return array (
     'latitude' => 25.10722,
     'longitude' => 117.0225,
   ),
-  602 => 
+  580 => 
   array (
     'id' => 19876,
     'name' => 'Loudi',
@@ -5428,7 +5230,7 @@ return array (
     'latitude' => 27.73444,
     'longitude' => 111.99444,
   ),
-  603 => 
+  581 => 
   array (
     'id' => 19877,
     'name' => 'Loushanguan',
@@ -5437,7 +5239,7 @@ return array (
     'latitude' => 28.1368,
     'longitude' => 106.822,
   ),
-  604 => 
+  582 => 
   array (
     'id' => 19878,
     'name' => 'Luancheng',
@@ -5446,7 +5248,7 @@ return array (
     'latitude' => 37.87917,
     'longitude' => 114.65167,
   ),
-  605 => 
+  583 => 
   array (
     'id' => 19879,
     'name' => 'Lubu',
@@ -5455,7 +5257,7 @@ return array (
     'latitude' => 23.17233,
     'longitude' => 112.28298,
   ),
-  606 => 
+  584 => 
   array (
     'id' => 19880,
     'name' => 'Lucheng',
@@ -5464,7 +5266,7 @@ return array (
     'latitude' => 31.23357,
     'longitude' => 117.28057,
   ),
-  607 => 
+  585 => 
   array (
     'id' => 19881,
     'name' => 'Luocheng',
@@ -5473,16 +5275,7 @@ return array (
     'latitude' => 22.76953,
     'longitude' => 111.56882,
   ),
-  608 => 
-  array (
-    'id' => 19882,
-    'name' => 'Luocheng',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 30.98021,
-    'longitude' => 104.28081,
-  ),
-  609 => 
+  586 => 
   array (
     'id' => 19883,
     'name' => 'Luohe',
@@ -5491,7 +5284,7 @@ return array (
     'latitude' => 33.56394,
     'longitude' => 114.04272,
   ),
-  610 => 
+  587 => 
   array (
     'id' => 19884,
     'name' => 'Luohe Shi',
@@ -5500,7 +5293,7 @@ return array (
     'latitude' => 33.68806,
     'longitude' => 113.91306,
   ),
-  611 => 
+  588 => 
   array (
     'id' => 19885,
     'name' => 'Luojiu',
@@ -5509,7 +5302,7 @@ return array (
     'latitude' => 27.51583,
     'longitude' => 109.80889,
   ),
-  612 => 
+  589 => 
   array (
     'id' => 19886,
     'name' => 'Luoqiao',
@@ -5518,7 +5311,7 @@ return array (
     'latitude' => 26.47265,
     'longitude' => 119.00392,
   ),
-  613 => 
+  590 => 
   array (
     'id' => 19887,
     'name' => 'Luorong',
@@ -5527,7 +5320,7 @@ return array (
     'latitude' => 24.40583,
     'longitude' => 109.60861,
   ),
-  614 => 
+  591 => 
   array (
     'id' => 19888,
     'name' => 'Luoyang',
@@ -5536,25 +5329,7 @@ return array (
     'latitude' => 23.16244,
     'longitude' => 114.27342,
   ),
-  615 => 
-  array (
-    'id' => 19889,
-    'name' => 'Luoyang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 34.68361,
-    'longitude' => 112.45361,
-  ),
-  616 => 
-  array (
-    'id' => 19890,
-    'name' => 'Luoyang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 24.95938,
-    'longitude' => 118.683,
-  ),
-  617 => 
+  592 => 
   array (
     'id' => 19891,
     'name' => 'Luqiao',
@@ -5563,7 +5338,7 @@ return array (
     'latitude' => 28.58023,
     'longitude' => 121.37491,
   ),
-  618 => 
+  593 => 
   array (
     'id' => 19892,
     'name' => 'Luxia',
@@ -5572,7 +5347,7 @@ return array (
     'latitude' => 26.93,
     'longitude' => 118.80722,
   ),
-  619 => 
+  594 => 
   array (
     'id' => 19893,
     'name' => 'Luyang',
@@ -5581,7 +5356,7 @@ return array (
     'latitude' => 27.62389,
     'longitude' => 110.09889,
   ),
-  620 => 
+  595 => 
   array (
     'id' => 19894,
     'name' => 'Luzhou',
@@ -5590,7 +5365,7 @@ return array (
     'latitude' => 28.8903,
     'longitude' => 105.42575,
   ),
-  621 => 
+  596 => 
   array (
     'id' => 19895,
     'name' => 'Lu’an',
@@ -5599,7 +5374,7 @@ return array (
     'latitude' => 31.73561,
     'longitude' => 116.51688,
   ),
-  622 => 
+  597 => 
   array (
     'id' => 19896,
     'name' => 'Lüliang',
@@ -5608,7 +5383,7 @@ return array (
     'latitude' => 37.73563,
     'longitude' => 111.30538,
   ),
-  623 => 
+  598 => 
   array (
     'id' => 19897,
     'name' => 'Lüshun',
@@ -5617,7 +5392,7 @@ return array (
     'latitude' => 38.8,
     'longitude' => 121.26667,
   ),
-  624 => 
+  599 => 
   array (
     'id' => 19898,
     'name' => 'Maba',
@@ -5626,7 +5401,7 @@ return array (
     'latitude' => 24.68413,
     'longitude' => 113.59839,
   ),
-  625 => 
+  600 => 
   array (
     'id' => 19899,
     'name' => 'Mabai',
@@ -5635,7 +5410,7 @@ return array (
     'latitude' => 23.01279,
     'longitude' => 104.45081,
   ),
-  626 => 
+  601 => 
   array (
     'id' => 19900,
     'name' => 'Macheng',
@@ -5644,7 +5419,7 @@ return array (
     'latitude' => 31.18013,
     'longitude' => 115.02213,
   ),
-  627 => 
+  602 => 
   array (
     'id' => 19901,
     'name' => 'Majie',
@@ -5653,7 +5428,7 @@ return array (
     'latitude' => 25.0319,
     'longitude' => 102.638,
   ),
-  628 => 
+  603 => 
   array (
     'id' => 19902,
     'name' => 'Malin',
@@ -5662,7 +5437,7 @@ return array (
     'latitude' => 26.455,
     'longitude' => 110.64167,
   ),
-  629 => 
+  604 => 
   array (
     'id' => 19903,
     'name' => 'Manzhouli',
@@ -5671,7 +5446,7 @@ return array (
     'latitude' => 49.6,
     'longitude' => 117.43333,
   ),
-  630 => 
+  605 => 
   array (
     'id' => 19904,
     'name' => 'Maoming',
@@ -5680,7 +5455,7 @@ return array (
     'latitude' => 21.65,
     'longitude' => 110.9,
   ),
-  631 => 
+  606 => 
   array (
     'id' => 19905,
     'name' => 'Maoping',
@@ -5689,16 +5464,7 @@ return array (
     'latitude' => 26.51972,
     'longitude' => 110.41194,
   ),
-  632 => 
-  array (
-    'id' => 19906,
-    'name' => 'Maoping',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 26.73694,
-    'longitude' => 109.22111,
-  ),
-  633 => 
+  607 => 
   array (
     'id' => 19907,
     'name' => 'Maping',
@@ -5707,7 +5473,7 @@ return array (
     'latitude' => 24.68722,
     'longitude' => 118.55278,
   ),
-  634 => 
+  608 => 
   array (
     'id' => 19908,
     'name' => 'Mawu',
@@ -5716,7 +5482,7 @@ return array (
     'latitude' => 34.42639,
     'longitude' => 104.91472,
   ),
-  635 => 
+  609 => 
   array (
     'id' => 19909,
     'name' => 'Ma’an',
@@ -5725,7 +5491,7 @@ return array (
     'latitude' => 26.9775,
     'longitude' => 110.72111,
   ),
-  636 => 
+  610 => 
   array (
     'id' => 19910,
     'name' => 'Meihekou',
@@ -5734,7 +5500,7 @@ return array (
     'latitude' => 42.52722,
     'longitude' => 125.67528,
   ),
-  637 => 
+  611 => 
   array (
     'id' => 19911,
     'name' => 'Meipu',
@@ -5743,7 +5509,7 @@ return array (
     'latitude' => 26.2112,
     'longitude' => 118.89561,
   ),
-  638 => 
+  612 => 
   array (
     'id' => 19912,
     'name' => 'Meishan Shi',
@@ -5752,7 +5518,7 @@ return array (
     'latitude' => 30.03,
     'longitude' => 104.04,
   ),
-  639 => 
+  613 => 
   array (
     'id' => 19913,
     'name' => 'Meizhou',
@@ -5761,7 +5527,7 @@ return array (
     'latitude' => 24.28859,
     'longitude' => 116.11768,
   ),
-  640 => 
+  614 => 
   array (
     'id' => 19914,
     'name' => 'Mengcheng Chengguanzhen',
@@ -5770,7 +5536,7 @@ return array (
     'latitude' => 33.26611,
     'longitude' => 116.56605,
   ),
-  641 => 
+  615 => 
   array (
     'id' => 19915,
     'name' => 'Mengyin',
@@ -5779,7 +5545,7 @@ return array (
     'latitude' => 35.70694,
     'longitude' => 117.92639,
   ),
-  642 => 
+  616 => 
   array (
     'id' => 19916,
     'name' => 'Mentougou',
@@ -5788,7 +5554,7 @@ return array (
     'latitude' => 39.93819,
     'longitude' => 116.09307,
   ),
-  643 => 
+  617 => 
   array (
     'id' => 19917,
     'name' => 'Mianyang',
@@ -5797,7 +5563,7 @@ return array (
     'latitude' => 31.46784,
     'longitude' => 104.68168,
   ),
-  644 => 
+  618 => 
   array (
     'id' => 19918,
     'name' => 'Minggang',
@@ -5806,7 +5572,7 @@ return array (
     'latitude' => 32.45861,
     'longitude' => 114.04861,
   ),
-  645 => 
+  619 => 
   array (
     'id' => 19919,
     'name' => 'Mingguang',
@@ -5815,7 +5581,7 @@ return array (
     'latitude' => 32.78017,
     'longitude' => 117.96378,
   ),
-  646 => 
+  620 => 
   array (
     'id' => 19920,
     'name' => 'Mingshui',
@@ -5824,16 +5590,7 @@ return array (
     'latitude' => 36.71667,
     'longitude' => 117.5,
   ),
-  647 => 
-  array (
-    'id' => 19921,
-    'name' => 'Mingshui',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 47.1815,
-    'longitude' => 125.90027,
-  ),
-  648 => 
+  621 => 
   array (
     'id' => 19922,
     'name' => 'Mingyue',
@@ -5842,7 +5599,7 @@ return array (
     'latitude' => 43.10694,
     'longitude' => 128.92167,
   ),
-  649 => 
+  622 => 
   array (
     'id' => 19923,
     'name' => 'Minzhu',
@@ -5851,7 +5608,7 @@ return array (
     'latitude' => 43.72145,
     'longitude' => 127.33401,
   ),
-  650 => 
+  623 => 
   array (
     'id' => 19924,
     'name' => 'Min’an',
@@ -5860,7 +5617,7 @@ return array (
     'latitude' => 26.04962,
     'longitude' => 119.49964,
   ),
-  651 => 
+  624 => 
   array (
     'id' => 19925,
     'name' => 'Mishan',
@@ -5869,7 +5626,7 @@ return array (
     'latitude' => 45.55,
     'longitude' => 131.88333,
   ),
-  652 => 
+  625 => 
   array (
     'id' => 19926,
     'name' => 'Miyang',
@@ -5878,7 +5635,7 @@ return array (
     'latitude' => 24.40417,
     'longitude' => 103.44278,
   ),
-  653 => 
+  626 => 
   array (
     'id' => 19927,
     'name' => 'Mizhou',
@@ -5887,7 +5644,7 @@ return array (
     'latitude' => 35.99472,
     'longitude' => 119.3975,
   ),
-  654 => 
+  627 => 
   array (
     'id' => 19928,
     'name' => 'Mositai',
@@ -5896,7 +5653,7 @@ return array (
     'latitude' => 45.53538,
     'longitude' => 119.66698,
   ),
-  655 => 
+  628 => 
   array (
     'id' => 19929,
     'name' => 'Mudanjiang',
@@ -5905,7 +5662,7 @@ return array (
     'latitude' => 44.58333,
     'longitude' => 129.6,
   ),
-  656 => 
+  629 => 
   array (
     'id' => 19930,
     'name' => 'Mudu',
@@ -5914,7 +5671,7 @@ return array (
     'latitude' => 31.25597,
     'longitude' => 120.51857,
   ),
-  657 => 
+  630 => 
   array (
     'id' => 19931,
     'name' => 'Mujiayingzi',
@@ -5923,7 +5680,7 @@ return array (
     'latitude' => 42.11667,
     'longitude' => 118.78333,
   ),
-  658 => 
+  631 => 
   array (
     'id' => 19932,
     'name' => 'Nada',
@@ -5932,7 +5689,7 @@ return array (
     'latitude' => 19.52257,
     'longitude' => 109.5786,
   ),
-  659 => 
+  632 => 
   array (
     'id' => 19933,
     'name' => 'Nagqu',
@@ -5941,7 +5698,7 @@ return array (
     'latitude' => 31.47678,
     'longitude' => 92.05729,
   ),
-  660 => 
+  633 => 
   array (
     'id' => 19934,
     'name' => 'Nagqu Diqu',
@@ -5950,7 +5707,7 @@ return array (
     'latitude' => 32.66357,
     'longitude' => 88.93146,
   ),
-  661 => 
+  634 => 
   array (
     'id' => 19935,
     'name' => 'Nanchang',
@@ -5959,7 +5716,7 @@ return array (
     'latitude' => 28.68396,
     'longitude' => 115.85306,
   ),
-  662 => 
+  635 => 
   array (
     'id' => 19936,
     'name' => 'Nanchong',
@@ -5968,7 +5725,7 @@ return array (
     'latitude' => 30.79508,
     'longitude' => 106.08473,
   ),
-  663 => 
+  636 => 
   array (
     'id' => 19937,
     'name' => 'Nanding',
@@ -5977,7 +5734,7 @@ return array (
     'latitude' => 36.74833,
     'longitude' => 118.05583,
   ),
-  664 => 
+  637 => 
   array (
     'id' => 19938,
     'name' => 'Nandu',
@@ -5986,7 +5743,7 @@ return array (
     'latitude' => 22.8525,
     'longitude' => 110.82333,
   ),
-  665 => 
+  638 => 
   array (
     'id' => 19939,
     'name' => 'Nanfeng',
@@ -5995,7 +5752,7 @@ return array (
     'latitude' => 23.72695,
     'longitude' => 111.79723,
   ),
-  666 => 
+  639 => 
   array (
     'id' => 19940,
     'name' => 'Nangong',
@@ -6004,7 +5761,7 @@ return array (
     'latitude' => 37.35806,
     'longitude' => 115.37444,
   ),
-  667 => 
+  640 => 
   array (
     'id' => 19941,
     'name' => 'Nanjing',
@@ -6013,7 +5770,7 @@ return array (
     'latitude' => 32.06167,
     'longitude' => 118.77778,
   ),
-  668 => 
+  641 => 
   array (
     'id' => 19942,
     'name' => 'Nanlong',
@@ -6022,7 +5779,7 @@ return array (
     'latitude' => 31.35333,
     'longitude' => 106.06309,
   ),
-  669 => 
+  642 => 
   array (
     'id' => 19943,
     'name' => 'Nanma',
@@ -6031,7 +5788,7 @@ return array (
     'latitude' => 36.18478,
     'longitude' => 118.15486,
   ),
-  670 => 
+  643 => 
   array (
     'id' => 19944,
     'name' => 'Nanmuping',
@@ -6040,7 +5797,7 @@ return array (
     'latitude' => 27.31111,
     'longitude' => 109.67861,
   ),
-  671 => 
+  644 => 
   array (
     'id' => 19945,
     'name' => 'Nanning',
@@ -6049,7 +5806,7 @@ return array (
     'latitude' => 22.81667,
     'longitude' => 108.31667,
   ),
-  672 => 
+  645 => 
   array (
     'id' => 19946,
     'name' => 'Nanpiao',
@@ -6058,7 +5815,7 @@ return array (
     'latitude' => 41.09822,
     'longitude' => 120.74792,
   ),
-  673 => 
+  646 => 
   array (
     'id' => 19947,
     'name' => 'Nanping',
@@ -6067,7 +5824,7 @@ return array (
     'latitude' => 26.645,
     'longitude' => 118.17361,
   ),
-  674 => 
+  647 => 
   array (
     'id' => 19948,
     'name' => 'Nantai',
@@ -6076,7 +5833,7 @@ return array (
     'latitude' => 40.9241,
     'longitude' => 122.80437,
   ),
-  675 => 
+  648 => 
   array (
     'id' => 19949,
     'name' => 'Nantong',
@@ -6085,7 +5842,7 @@ return array (
     'latitude' => 32.03028,
     'longitude' => 120.87472,
   ),
-  676 => 
+  649 => 
   array (
     'id' => 19950,
     'name' => 'Nanyang',
@@ -6094,7 +5851,7 @@ return array (
     'latitude' => 32.99472,
     'longitude' => 112.53278,
   ),
-  677 => 
+  650 => 
   array (
     'id' => 19951,
     'name' => 'Nanzhang Chengguanzhen',
@@ -6103,7 +5860,7 @@ return array (
     'latitude' => 31.78394,
     'longitude' => 111.82752,
   ),
-  678 => 
+  651 => 
   array (
     'id' => 19952,
     'name' => 'Nanzhou',
@@ -6112,7 +5869,7 @@ return array (
     'latitude' => 29.35955,
     'longitude' => 112.40243,
   ),
-  679 => 
+  652 => 
   array (
     'id' => 19953,
     'name' => 'Nehe',
@@ -6121,7 +5878,7 @@ return array (
     'latitude' => 48.48333,
     'longitude' => 124.83333,
   ),
-  680 => 
+  653 => 
   array (
     'id' => 19954,
     'name' => 'Neijiang',
@@ -6130,7 +5887,7 @@ return array (
     'latitude' => 29.58354,
     'longitude' => 105.06216,
   ),
-  681 => 
+  654 => 
   array (
     'id' => 19955,
     'name' => 'Neikeng',
@@ -6139,7 +5896,7 @@ return array (
     'latitude' => 24.78544,
     'longitude' => 118.46037,
   ),
-  682 => 
+  655 => 
   array (
     'id' => 19956,
     'name' => 'Nenjiang',
@@ -6148,7 +5905,7 @@ return array (
     'latitude' => 49.17414,
     'longitude' => 125.21774,
   ),
-  683 => 
+  656 => 
   array (
     'id' => 19957,
     'name' => 'Ngari Diqu',
@@ -6157,7 +5914,7 @@ return array (
     'latitude' => 33.21836,
     'longitude' => 82.57507,
   ),
-  684 => 
+  657 => 
   array (
     'id' => 19958,
     'name' => 'Nianzishan',
@@ -6166,7 +5923,7 @@ return array (
     'latitude' => 47.51667,
     'longitude' => 122.88333,
   ),
-  685 => 
+  658 => 
   array (
     'id' => 19959,
     'name' => 'Ningbo',
@@ -6175,7 +5932,7 @@ return array (
     'latitude' => 29.87819,
     'longitude' => 121.54945,
   ),
-  686 => 
+  659 => 
   array (
     'id' => 19960,
     'name' => 'Ningde',
@@ -6184,7 +5941,7 @@ return array (
     'latitude' => 26.66167,
     'longitude' => 119.52278,
   ),
-  687 => 
+  660 => 
   array (
     'id' => 19961,
     'name' => 'Ninghai',
@@ -6193,16 +5950,7 @@ return array (
     'latitude' => 29.28917,
     'longitude' => 121.42472,
   ),
-  688 => 
-  array (
-    'id' => 19962,
-    'name' => 'Ninghai',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 37.38422,
-    'longitude' => 121.60859,
-  ),
-  689 => 
+  661 => 
   array (
     'id' => 19963,
     'name' => 'Ningyang',
@@ -6211,7 +5959,7 @@ return array (
     'latitude' => 35.76417,
     'longitude' => 116.79139,
   ),
-  690 => 
+  662 => 
   array (
     'id' => 19964,
     'name' => 'Ning’an',
@@ -6220,7 +5968,7 @@ return array (
     'latitude' => 44.34395,
     'longitude' => 129.46556,
   ),
-  691 => 
+  663 => 
   array (
     'id' => 19965,
     'name' => 'Nujiang Lisuzu Zizhizhou',
@@ -6229,7 +5977,7 @@ return array (
     'latitude' => 26.61738,
     'longitude' => 99.14062,
   ),
-  692 => 
+  664 => 
   array (
     'id' => 19966,
     'name' => 'Nyingchi Prefecture',
@@ -6238,7 +5986,7 @@ return array (
     'latitude' => 29.60092,
     'longitude' => 94.42406,
   ),
-  693 => 
+  665 => 
   array (
     'id' => 19967,
     'name' => 'Ordos',
@@ -6247,7 +5995,7 @@ return array (
     'latitude' => 39.6086,
     'longitude' => 109.78157,
   ),
-  694 => 
+  666 => 
   array (
     'id' => 19968,
     'name' => 'Ordos Shi',
@@ -6256,7 +6004,7 @@ return array (
     'latitude' => 39.46142,
     'longitude' => 108.80946,
   ),
-  695 => 
+  667 => 
   array (
     'id' => 19969,
     'name' => 'Oroqen Zizhiqi',
@@ -6265,7 +6013,7 @@ return array (
     'latitude' => 50.56667,
     'longitude' => 123.71667,
   ),
-  696 => 
+  668 => 
   array (
     'id' => 19970,
     'name' => 'Ouyang',
@@ -6274,7 +6022,7 @@ return array (
     'latitude' => 26.4191,
     'longitude' => 109.216,
   ),
-  697 => 
+  669 => 
   array (
     'id' => 19971,
     'name' => 'Pandu',
@@ -6283,7 +6031,7 @@ return array (
     'latitude' => 26.23639,
     'longitude' => 119.45026,
   ),
-  698 => 
+  670 => 
   array (
     'id' => 19972,
     'name' => 'Panjin Shi',
@@ -6292,7 +6040,7 @@ return array (
     'latitude' => 41.13167,
     'longitude' => 121.99361,
   ),
-  699 => 
+  671 => 
   array (
     'id' => 19973,
     'name' => 'Panshan',
@@ -6301,7 +6049,7 @@ return array (
     'latitude' => 41.18806,
     'longitude' => 122.04944,
   ),
-  700 => 
+  672 => 
   array (
     'id' => 19974,
     'name' => 'Panshi',
@@ -6310,7 +6058,7 @@ return array (
     'latitude' => 42.94222,
     'longitude' => 126.05611,
   ),
-  701 => 
+  673 => 
   array (
     'id' => 19975,
     'name' => 'Panzhihua',
@@ -6319,7 +6067,7 @@ return array (
     'latitude' => 26.58509,
     'longitude' => 101.71276,
   ),
-  702 => 
+  674 => 
   array (
     'id' => 19976,
     'name' => 'Pengcheng',
@@ -6328,7 +6076,7 @@ return array (
     'latitude' => 36.43111,
     'longitude' => 114.17,
   ),
-  703 => 
+  675 => 
   array (
     'id' => 19977,
     'name' => 'Pingdingshan',
@@ -6337,7 +6085,7 @@ return array (
     'latitude' => 33.73847,
     'longitude' => 113.30119,
   ),
-  704 => 
+  676 => 
   array (
     'id' => 19978,
     'name' => 'Pingdu',
@@ -6346,7 +6094,7 @@ return array (
     'latitude' => 36.78444,
     'longitude' => 119.94639,
   ),
-  705 => 
+  677 => 
   array (
     'id' => 19979,
     'name' => 'Pingjiang',
@@ -6355,7 +6103,7 @@ return array (
     'latitude' => 25.97056,
     'longitude' => 108.39528,
   ),
-  706 => 
+  678 => 
   array (
     'id' => 19980,
     'name' => 'Pingliang',
@@ -6364,7 +6112,7 @@ return array (
     'latitude' => 35.53917,
     'longitude' => 106.68611,
   ),
-  707 => 
+  679 => 
   array (
     'id' => 19981,
     'name' => 'Pingnan',
@@ -6373,7 +6121,7 @@ return array (
     'latitude' => 23.54218,
     'longitude' => 110.38946,
   ),
-  708 => 
+  680 => 
   array (
     'id' => 19982,
     'name' => 'Pingshan',
@@ -6382,7 +6130,7 @@ return array (
     'latitude' => 22.99376,
     'longitude' => 114.71311,
   ),
-  709 => 
+  681 => 
   array (
     'id' => 19983,
     'name' => 'Pingxiang',
@@ -6391,7 +6139,7 @@ return array (
     'latitude' => 27.61672,
     'longitude' => 113.85353,
   ),
-  710 => 
+  682 => 
   array (
     'id' => 19984,
     'name' => 'Pingyi',
@@ -6400,7 +6148,7 @@ return array (
     'latitude' => 35.50056,
     'longitude' => 117.63083,
   ),
-  711 => 
+  683 => 
   array (
     'id' => 19985,
     'name' => 'Pingyin',
@@ -6409,7 +6157,7 @@ return array (
     'latitude' => 36.28306,
     'longitude' => 116.44528,
   ),
-  712 => 
+  684 => 
   array (
     'id' => 19986,
     'name' => 'Pingzhuang',
@@ -6418,7 +6166,7 @@ return array (
     'latitude' => 42.03722,
     'longitude' => 119.28889,
   ),
-  713 => 
+  685 => 
   array (
     'id' => 19987,
     'name' => 'Pizhou',
@@ -6427,7 +6175,7 @@ return array (
     'latitude' => 34.31139,
     'longitude' => 117.95028,
   ),
-  714 => 
+  686 => 
   array (
     'id' => 19988,
     'name' => 'Poyang',
@@ -6436,7 +6184,7 @@ return array (
     'latitude' => 28.99242,
     'longitude' => 116.66754,
   ),
-  715 => 
+  687 => 
   array (
     'id' => 19989,
     'name' => 'Prefecture of Chenzhou',
@@ -6445,7 +6193,7 @@ return array (
     'latitude' => 25.84347,
     'longitude' => 113.05378,
   ),
-  716 => 
+  688 => 
   array (
     'id' => 19990,
     'name' => 'Pucheng',
@@ -6454,7 +6202,7 @@ return array (
     'latitude' => 27.92333,
     'longitude' => 118.53333,
   ),
-  717 => 
+  689 => 
   array (
     'id' => 19991,
     'name' => 'Puhechang',
@@ -6463,7 +6211,7 @@ return array (
     'latitude' => 28.9525,
     'longitude' => 106.83111,
   ),
-  718 => 
+  690 => 
   array (
     'id' => 19992,
     'name' => 'Puji',
@@ -6472,7 +6220,7 @@ return array (
     'latitude' => 32.23908,
     'longitude' => 106.45478,
   ),
-  719 => 
+  691 => 
   array (
     'id' => 19993,
     'name' => 'Pukou',
@@ -6481,7 +6229,7 @@ return array (
     'latitude' => 26.52222,
     'longitude' => 109.55583,
   ),
-  720 => 
+  692 => 
   array (
     'id' => 19994,
     'name' => 'Pulandian',
@@ -6490,7 +6238,7 @@ return array (
     'latitude' => 39.39528,
     'longitude' => 121.96694,
   ),
-  721 => 
+  693 => 
   array (
     'id' => 19995,
     'name' => 'Pumiao',
@@ -6499,7 +6247,7 @@ return array (
     'latitude' => 22.75867,
     'longitude' => 108.48111,
   ),
-  722 => 
+  694 => 
   array (
     'id' => 19996,
     'name' => 'Puning',
@@ -6508,7 +6256,7 @@ return array (
     'latitude' => 23.31072,
     'longitude' => 116.16869,
   ),
-  723 => 
+  695 => 
   array (
     'id' => 19997,
     'name' => 'Puqi',
@@ -6517,7 +6265,7 @@ return array (
     'latitude' => 29.71667,
     'longitude' => 113.88333,
   ),
-  724 => 
+  696 => 
   array (
     'id' => 19998,
     'name' => 'Putian',
@@ -6526,7 +6274,7 @@ return array (
     'latitude' => 25.43944,
     'longitude' => 119.01028,
   ),
-  725 => 
+  697 => 
   array (
     'id' => 19999,
     'name' => 'Puyang',
@@ -6535,7 +6283,7 @@ return array (
     'latitude' => 29.45679,
     'longitude' => 119.88872,
   ),
-  726 => 
+  698 => 
   array (
     'id' => 20000,
     'name' => 'Puyang Chengguanzhen',
@@ -6544,7 +6292,7 @@ return array (
     'latitude' => 35.70506,
     'longitude' => 115.01409,
   ),
-  727 => 
+  699 => 
   array (
     'id' => 20001,
     'name' => 'Puyang Shi',
@@ -6553,7 +6301,7 @@ return array (
     'latitude' => 35.81333,
     'longitude' => 115.155,
   ),
-  728 => 
+  700 => 
   array (
     'id' => 20002,
     'name' => 'Puzi',
@@ -6562,7 +6310,7 @@ return array (
     'latitude' => 26.98639,
     'longitude' => 109.77639,
   ),
-  729 => 
+  701 => 
   array (
     'id' => 20003,
     'name' => 'Qamdo',
@@ -6571,7 +6319,7 @@ return array (
     'latitude' => 31.1304,
     'longitude' => 97.17982,
   ),
-  730 => 
+  702 => 
   array (
     'id' => 20004,
     'name' => 'Qamdo Shi',
@@ -6580,7 +6328,7 @@ return array (
     'latitude' => 31.5837,
     'longitude' => 97.22304,
   ),
-  731 => 
+  703 => 
   array (
     'id' => 20005,
     'name' => 'Qapqal',
@@ -6589,7 +6337,7 @@ return array (
     'latitude' => 43.80194,
     'longitude' => 81.08722,
   ),
-  732 => 
+  704 => 
   array (
     'id' => 20006,
     'name' => 'Qiancheng',
@@ -6598,7 +6346,7 @@ return array (
     'latitude' => 27.18501,
     'longitude' => 109.76543,
   ),
-  733 => 
+  705 => 
   array (
     'id' => 20007,
     'name' => 'Qiandongnan Miao and Dong Autonomous Prefecture',
@@ -6607,7 +6355,7 @@ return array (
     'latitude' => 26.5738,
     'longitude' => 108.59914,
   ),
-  734 => 
+  706 => 
   array (
     'id' => 20008,
     'name' => 'Qianjiang',
@@ -6616,7 +6364,7 @@ return array (
     'latitude' => 30.421,
     'longitude' => 112.8919,
   ),
-  735 => 
+  707 => 
   array (
     'id' => 20009,
     'name' => 'Qianxinan Bouyeizu Miaozu Zizhizhou',
@@ -6625,7 +6373,7 @@ return array (
     'latitude' => 25.38808,
     'longitude' => 105.3874,
   ),
-  736 => 
+  708 => 
   array (
     'id' => 20010,
     'name' => 'Qianzhou',
@@ -6634,7 +6382,7 @@ return array (
     'latitude' => 28.31925,
     'longitude' => 109.73346,
   ),
-  737 => 
+  709 => 
   array (
     'id' => 20011,
     'name' => 'Qiaojiang',
@@ -6643,7 +6391,7 @@ return array (
     'latitude' => 27.93722,
     'longitude' => 110.67639,
   ),
-  738 => 
+  710 => 
   array (
     'id' => 20012,
     'name' => 'Qibu',
@@ -6652,7 +6400,7 @@ return array (
     'latitude' => 26.5075,
     'longitude' => 119.545,
   ),
-  739 => 
+  711 => 
   array (
     'id' => 20013,
     'name' => 'Qidu',
@@ -6661,7 +6409,7 @@ return array (
     'latitude' => 26.76528,
     'longitude' => 119.54722,
   ),
-  740 => 
+  712 => 
   array (
     'id' => 20014,
     'name' => 'Qimeng',
@@ -6670,7 +6418,7 @@ return array (
     'latitude' => 26.48472,
     'longitude' => 108.99944,
   ),
-  741 => 
+  713 => 
   array (
     'id' => 20015,
     'name' => 'Qincheng',
@@ -6679,7 +6427,7 @@ return array (
     'latitude' => 34.58028,
     'longitude' => 105.72722,
   ),
-  742 => 
+  714 => 
   array (
     'id' => 20016,
     'name' => 'Qingdao',
@@ -6688,7 +6436,7 @@ return array (
     'latitude' => 36.06488,
     'longitude' => 120.38042,
   ),
-  743 => 
+  715 => 
   array (
     'id' => 20017,
     'name' => 'Qinggang',
@@ -6697,7 +6445,7 @@ return array (
     'latitude' => 46.68469,
     'longitude' => 126.10595,
   ),
-  744 => 
+  716 => 
   array (
     'id' => 20018,
     'name' => 'Qingjiangqiao',
@@ -6706,7 +6454,7 @@ return array (
     'latitude' => 26.60444,
     'longitude' => 110.98528,
   ),
-  745 => 
+  717 => 
   array (
     'id' => 20019,
     'name' => 'Qinglang',
@@ -6715,7 +6463,7 @@ return array (
     'latitude' => 27.12472,
     'longitude' => 108.73278,
   ),
-  746 => 
+  718 => 
   array (
     'id' => 20020,
     'name' => 'Qingnian',
@@ -6724,7 +6472,7 @@ return array (
     'latitude' => 36.84032,
     'longitude' => 115.71183,
   ),
-  747 => 
+  719 => 
   array (
     'id' => 20021,
     'name' => 'Qingping',
@@ -6733,7 +6481,7 @@ return array (
     'latitude' => 34.53656,
     'longitude' => 113.37526,
   ),
-  748 => 
+  720 => 
   array (
     'id' => 20022,
     'name' => 'Qingquan',
@@ -6742,7 +6490,7 @@ return array (
     'latitude' => 30.45113,
     'longitude' => 115.25593,
   ),
-  749 => 
+  721 => 
   array (
     'id' => 20023,
     'name' => 'Qingshancun',
@@ -6751,7 +6499,7 @@ return array (
     'latitude' => 36.15415,
     'longitude' => 120.6824,
   ),
-  750 => 
+  722 => 
   array (
     'id' => 20024,
     'name' => 'Qingxi',
@@ -6760,7 +6508,7 @@ return array (
     'latitude' => 26.43114,
     'longitude' => 110.35489,
   ),
-  751 => 
+  723 => 
   array (
     'id' => 20025,
     'name' => 'Qingyang',
@@ -6769,7 +6517,7 @@ return array (
     'latitude' => 37.49583,
     'longitude' => 121.25806,
   ),
-  752 => 
+  724 => 
   array (
     'id' => 20026,
     'name' => 'Qingyang Shi',
@@ -6778,7 +6526,7 @@ return array (
     'latitude' => 36.23598,
     'longitude' => 107.58113,
   ),
-  753 => 
+  725 => 
   array (
     'id' => 20027,
     'name' => 'Qingyuan',
@@ -6787,7 +6535,7 @@ return array (
     'latitude' => 23.7,
     'longitude' => 113.03333,
   ),
-  754 => 
+  726 => 
   array (
     'id' => 20028,
     'name' => 'Qingzhou',
@@ -6796,7 +6544,7 @@ return array (
     'latitude' => 36.69667,
     'longitude' => 118.47972,
   ),
-  755 => 
+  727 => 
   array (
     'id' => 20029,
     'name' => 'Qinhuangdao',
@@ -6805,7 +6553,7 @@ return array (
     'latitude' => 39.93167,
     'longitude' => 119.58833,
   ),
-  756 => 
+  728 => 
   array (
     'id' => 20030,
     'name' => 'Qinnan',
@@ -6814,7 +6562,7 @@ return array (
     'latitude' => 33.25306,
     'longitude' => 119.91333,
   ),
-  757 => 
+  729 => 
   array (
     'id' => 20031,
     'name' => 'Qinzhou',
@@ -6823,7 +6571,7 @@ return array (
     'latitude' => 21.97296,
     'longitude' => 108.62612,
   ),
-  758 => 
+  730 => 
   array (
     'id' => 20032,
     'name' => 'Qionghai',
@@ -6832,7 +6580,7 @@ return array (
     'latitude' => 19.2425,
     'longitude' => 110.46417,
   ),
-  759 => 
+  731 => 
   array (
     'id' => 20033,
     'name' => 'Qionghu',
@@ -6841,7 +6589,7 @@ return array (
     'latitude' => 28.84061,
     'longitude' => 112.37399,
   ),
-  760 => 
+  732 => 
   array (
     'id' => 20034,
     'name' => 'Qiongshan',
@@ -6850,7 +6598,7 @@ return array (
     'latitude' => 20.00583,
     'longitude' => 110.35417,
   ),
-  761 => 
+  733 => 
   array (
     'id' => 20035,
     'name' => 'Qiqihar',
@@ -6859,7 +6607,7 @@ return array (
     'latitude' => 47.34088,
     'longitude' => 123.96045,
   ),
-  762 => 
+  734 => 
   array (
     'id' => 20036,
     'name' => 'Quanzhou',
@@ -6868,7 +6616,7 @@ return array (
     'latitude' => 24.91389,
     'longitude' => 118.58583,
   ),
-  763 => 
+  735 => 
   array (
     'id' => 20037,
     'name' => 'Qufu',
@@ -6877,7 +6625,7 @@ return array (
     'latitude' => 35.59667,
     'longitude' => 116.99111,
   ),
-  764 => 
+  736 => 
   array (
     'id' => 20038,
     'name' => 'Qujing',
@@ -6886,7 +6634,7 @@ return array (
     'latitude' => 25.48333,
     'longitude' => 103.78333,
   ),
-  765 => 
+  737 => 
   array (
     'id' => 20039,
     'name' => 'Quzhou',
@@ -6895,7 +6643,7 @@ return array (
     'latitude' => 28.95944,
     'longitude' => 118.86861,
   ),
-  766 => 
+  738 => 
   array (
     'id' => 20040,
     'name' => 'Renqiu',
@@ -6904,7 +6652,7 @@ return array (
     'latitude' => 38.69889,
     'longitude' => 116.09361,
   ),
-  767 => 
+  739 => 
   array (
     'id' => 20041,
     'name' => 'Rikaze',
@@ -6913,7 +6661,7 @@ return array (
     'latitude' => 29.25,
     'longitude' => 88.88333,
   ),
-  768 => 
+  740 => 
   array (
     'id' => 20042,
     'name' => 'Rizhao',
@@ -6922,7 +6670,7 @@ return array (
     'latitude' => 35.4275,
     'longitude' => 119.45528,
   ),
-  769 => 
+  741 => 
   array (
     'id' => 20043,
     'name' => 'Rong’an',
@@ -6931,7 +6679,7 @@ return array (
     'latitude' => 26.12472,
     'longitude' => 119.12139,
   ),
-  770 => 
+  742 => 
   array (
     'id' => 20044,
     'name' => 'Rucheng',
@@ -6940,7 +6688,7 @@ return array (
     'latitude' => 32.38833,
     'longitude' => 120.55528,
   ),
-  771 => 
+  743 => 
   array (
     'id' => 20045,
     'name' => 'Runing',
@@ -6949,7 +6697,7 @@ return array (
     'latitude' => 33.00111,
     'longitude' => 114.35417,
   ),
-  772 => 
+  744 => 
   array (
     'id' => 20046,
     'name' => 'Runsong',
@@ -6958,7 +6706,7 @@ return array (
     'latitude' => 26.87,
     'longitude' => 109.097,
   ),
-  773 => 
+  745 => 
   array (
     'id' => 20047,
     'name' => 'Ruoshui',
@@ -6967,7 +6715,7 @@ return array (
     'latitude' => 27.00194,
     'longitude' => 109.96667,
   ),
-  774 => 
+  746 => 
   array (
     'id' => 20048,
     'name' => 'Ruzhou',
@@ -6976,7 +6724,7 @@ return array (
     'latitude' => 34.16167,
     'longitude' => 112.82972,
   ),
-  775 => 
+  747 => 
   array (
     'id' => 20049,
     'name' => 'Saga',
@@ -6985,7 +6733,7 @@ return array (
     'latitude' => 29.32367,
     'longitude' => 85.22601,
   ),
-  776 => 
+  748 => 
   array (
     'id' => 20050,
     'name' => 'Salaqi',
@@ -6994,7 +6742,7 @@ return array (
     'latitude' => 40.54139,
     'longitude' => 110.51083,
   ),
-  777 => 
+  749 => 
   array (
     'id' => 20051,
     'name' => 'Sanchahe',
@@ -7003,7 +6751,7 @@ return array (
     'latitude' => 28.49528,
     'longitude' => 106.42833,
   ),
-  778 => 
+  750 => 
   array (
     'id' => 20052,
     'name' => 'Sanchazi',
@@ -7012,7 +6760,7 @@ return array (
     'latitude' => 42.08167,
     'longitude' => 126.60028,
   ),
-  779 => 
+  751 => 
   array (
     'id' => 20053,
     'name' => 'Sangmu',
@@ -7021,7 +6769,7 @@ return array (
     'latitude' => 28.21528,
     'longitude' => 106.26889,
   ),
-  780 => 
+  752 => 
   array (
     'id' => 20054,
     'name' => 'Sanmao',
@@ -7030,7 +6778,7 @@ return array (
     'latitude' => 32.23931,
     'longitude' => 119.81536,
   ),
-  781 => 
+  753 => 
   array (
     'id' => 20055,
     'name' => 'Sanming',
@@ -7039,7 +6787,7 @@ return array (
     'latitude' => 26.24861,
     'longitude' => 117.61861,
   ),
-  782 => 
+  754 => 
   array (
     'id' => 20056,
     'name' => 'Sansha',
@@ -7048,7 +6796,7 @@ return array (
     'latitude' => 16.83387,
     'longitude' => 112.33435,
   ),
-  783 => 
+  755 => 
   array (
     'id' => 20057,
     'name' => 'Sanshui',
@@ -7057,7 +6805,7 @@ return array (
     'latitude' => 23.15486,
     'longitude' => 112.89161,
   ),
-  784 => 
+  756 => 
   array (
     'id' => 20058,
     'name' => 'Sanya',
@@ -7066,7 +6814,7 @@ return array (
     'latitude' => 18.24306,
     'longitude' => 109.505,
   ),
-  785 => 
+  757 => 
   array (
     'id' => 20059,
     'name' => 'Shache',
@@ -7075,7 +6823,7 @@ return array (
     'latitude' => 38.41667,
     'longitude' => 77.24056,
   ),
-  786 => 
+  758 => 
   array (
     'id' => 20060,
     'name' => 'Shahecheng',
@@ -7084,7 +6832,7 @@ return array (
     'latitude' => 36.93833,
     'longitude' => 114.50583,
   ),
-  787 => 
+  759 => 
   array (
     'id' => 20061,
     'name' => 'Shajiang',
@@ -7093,7 +6841,7 @@ return array (
     'latitude' => 26.7825,
     'longitude' => 119.96694,
   ),
-  788 => 
+  760 => 
   array (
     'id' => 20062,
     'name' => 'Shancheng',
@@ -7102,7 +6850,7 @@ return array (
     'latitude' => 34.79528,
     'longitude' => 116.08167,
   ),
-  789 => 
+  761 => 
   array (
     'id' => 20063,
     'name' => 'Shanghai',
@@ -7111,7 +6859,7 @@ return array (
     'latitude' => 31.22222,
     'longitude' => 121.45806,
   ),
-  790 => 
+  762 => 
   array (
     'id' => 20064,
     'name' => 'Shangjie',
@@ -7120,7 +6868,7 @@ return array (
     'latitude' => 26.08679,
     'longitude' => 119.18494,
   ),
-  791 => 
+  763 => 
   array (
     'id' => 20065,
     'name' => 'Shangmei',
@@ -7129,7 +6877,7 @@ return array (
     'latitude' => 27.74278,
     'longitude' => 111.29556,
   ),
-  792 => 
+  764 => 
   array (
     'id' => 20066,
     'name' => 'Shangqiu',
@@ -7138,7 +6886,7 @@ return array (
     'latitude' => 34.45,
     'longitude' => 115.65,
   ),
-  793 => 
+  765 => 
   array (
     'id' => 20067,
     'name' => 'Shangrao',
@@ -7147,7 +6895,7 @@ return array (
     'latitude' => 28.45179,
     'longitude' => 117.94287,
   ),
-  794 => 
+  766 => 
   array (
     'id' => 20068,
     'name' => 'Shangri-La',
@@ -7156,7 +6904,7 @@ return array (
     'latitude' => 27.82511,
     'longitude' => 99.70779,
   ),
-  795 => 
+  767 => 
   array (
     'id' => 20069,
     'name' => 'Shangyu',
@@ -7165,7 +6913,7 @@ return array (
     'latitude' => 30.01556,
     'longitude' => 120.87111,
   ),
-  796 => 
+  768 => 
   array (
     'id' => 20070,
     'name' => 'Shangzhi',
@@ -7174,7 +6922,7 @@ return array (
     'latitude' => 45.21406,
     'longitude' => 127.97426,
   ),
-  797 => 
+  769 => 
   array (
     'id' => 20071,
     'name' => 'Shanhaiguan',
@@ -7183,7 +6931,7 @@ return array (
     'latitude' => 40.0025,
     'longitude' => 119.74889,
   ),
-  798 => 
+  770 => 
   array (
     'id' => 20072,
     'name' => 'Shanhecun',
@@ -7192,7 +6940,7 @@ return array (
     'latitude' => 45.71131,
     'longitude' => 128.58029,
   ),
-  799 => 
+  771 => 
   array (
     'id' => 20073,
     'name' => 'Shanmen',
@@ -7201,7 +6949,7 @@ return array (
     'latitude' => 27.225,
     'longitude' => 110.69278,
   ),
-  800 => 
+  772 => 
   array (
     'id' => 20074,
     'name' => 'Shannan Diqu',
@@ -7210,7 +6958,7 @@ return array (
     'latitude' => 28.5563,
     'longitude' => 92.55684,
   ),
-  801 => 
+  773 => 
   array (
     'id' => 20075,
     'name' => 'Shanting',
@@ -7219,7 +6967,7 @@ return array (
     'latitude' => 35.07528,
     'longitude' => 117.45778,
   ),
-  802 => 
+  774 => 
   array (
     'id' => 20076,
     'name' => 'Shantou',
@@ -7228,7 +6976,7 @@ return array (
     'latitude' => 23.36814,
     'longitude' => 116.71479,
   ),
-  803 => 
+  775 => 
   array (
     'id' => 20077,
     'name' => 'Shanwei',
@@ -7237,7 +6985,7 @@ return array (
     'latitude' => 22.78199,
     'longitude' => 115.3475,
   ),
-  804 => 
+  776 => 
   array (
     'id' => 20078,
     'name' => 'Shanxia',
@@ -7246,7 +6994,7 @@ return array (
     'latitude' => 24.93802,
     'longitude' => 118.8817,
   ),
-  805 => 
+  777 => 
   array (
     'id' => 20079,
     'name' => 'Shanyang',
@@ -7255,7 +7003,7 @@ return array (
     'latitude' => 26.67019,
     'longitude' => 119.20509,
   ),
-  806 => 
+  778 => 
   array (
     'id' => 20080,
     'name' => 'Shaoguan',
@@ -7264,7 +7012,7 @@ return array (
     'latitude' => 24.8,
     'longitude' => 113.58333,
   ),
-  807 => 
+  779 => 
   array (
     'id' => 20081,
     'name' => 'Shaowu',
@@ -7273,7 +7021,7 @@ return array (
     'latitude' => 27.34089,
     'longitude' => 117.4831,
   ),
-  808 => 
+  780 => 
   array (
     'id' => 20082,
     'name' => 'Shaoxing',
@@ -7282,7 +7030,7 @@ return array (
     'latitude' => 30.00237,
     'longitude' => 120.57864,
   ),
-  809 => 
+  781 => 
   array (
     'id' => 20083,
     'name' => 'Shaping',
@@ -7291,7 +7039,7 @@ return array (
     'latitude' => 22.77019,
     'longitude' => 112.95776,
   ),
-  810 => 
+  782 => 
   array (
     'id' => 20084,
     'name' => 'Shapingba District',
@@ -7300,7 +7048,7 @@ return array (
     'latitude' => 29.54166,
     'longitude' => 106.45547,
   ),
-  811 => 
+  783 => 
   array (
     'id' => 20085,
     'name' => 'Shashi',
@@ -7309,7 +7057,7 @@ return array (
     'latitude' => 30.30722,
     'longitude' => 112.24472,
   ),
-  812 => 
+  784 => 
   array (
     'id' => 20086,
     'name' => 'Shazikou',
@@ -7318,7 +7066,7 @@ return array (
     'latitude' => 36.115,
     'longitude' => 120.53722,
   ),
-  813 => 
+  785 => 
   array (
     'id' => 20087,
     'name' => 'Shengli',
@@ -7327,7 +7075,7 @@ return array (
     'latitude' => 37.46271,
     'longitude' => 118.49165,
   ),
-  814 => 
+  786 => 
   array (
     'id' => 20088,
     'name' => 'Shenjiamen',
@@ -7336,7 +7084,7 @@ return array (
     'latitude' => 29.95763,
     'longitude' => 122.29802,
   ),
-  815 => 
+  787 => 
   array (
     'id' => 20089,
     'name' => 'Shennongjia',
@@ -7345,7 +7093,7 @@ return array (
     'latitude' => 31.58339,
     'longitude' => 110.4972,
   ),
-  816 => 
+  788 => 
   array (
     'id' => 20090,
     'name' => 'Shenyang',
@@ -7354,7 +7102,7 @@ return array (
     'latitude' => 41.79222,
     'longitude' => 123.43278,
   ),
-  817 => 
+  789 => 
   array (
     'id' => 20091,
     'name' => 'Shenzhen',
@@ -7363,7 +7111,7 @@ return array (
     'latitude' => 22.55653,
     'longitude' => 113.9859,
   ),
-  818 => 
+  790 => 
   array (
     'id' => 20092,
     'name' => 'Shiguai',
@@ -7372,7 +7120,7 @@ return array (
     'latitude' => 40.70583,
     'longitude' => 110.28556,
   ),
-  819 => 
+  791 => 
   array (
     'id' => 20093,
     'name' => 'Shihezi',
@@ -7381,7 +7129,7 @@ return array (
     'latitude' => 44.3023,
     'longitude' => 86.03694,
   ),
-  820 => 
+  792 => 
   array (
     'id' => 20094,
     'name' => 'Shijiang',
@@ -7390,7 +7138,7 @@ return array (
     'latitude' => 27.08194,
     'longitude' => 110.79333,
   ),
-  821 => 
+  793 => 
   array (
     'id' => 20095,
     'name' => 'Shijiaochang',
@@ -7399,7 +7147,7 @@ return array (
     'latitude' => 28.92444,
     'longitude' => 106.75611,
   ),
-  822 => 
+  794 => 
   array (
     'id' => 20096,
     'name' => 'Shijiazhuang',
@@ -7408,7 +7156,7 @@ return array (
     'latitude' => 38.04139,
     'longitude' => 114.47861,
   ),
-  823 => 
+  795 => 
   array (
     'id' => 20097,
     'name' => 'Shijiazhuang Shi',
@@ -7417,7 +7165,7 @@ return array (
     'latitude' => 38.04,
     'longitude' => 114.47,
   ),
-  824 => 
+  796 => 
   array (
     'id' => 20098,
     'name' => 'Shijing',
@@ -7426,7 +7174,7 @@ return array (
     'latitude' => 24.61956,
     'longitude' => 118.42437,
   ),
-  825 => 
+  797 => 
   array (
     'id' => 20099,
     'name' => 'Shilaorencun',
@@ -7435,7 +7183,7 @@ return array (
     'latitude' => 36.09723,
     'longitude' => 120.4891,
   ),
-  826 => 
+  798 => 
   array (
     'id' => 20100,
     'name' => 'Shilin',
@@ -7444,7 +7192,7 @@ return array (
     'latitude' => 24.81878,
     'longitude' => 103.33237,
   ),
-  827 => 
+  799 => 
   array (
     'id' => 20101,
     'name' => 'Shilong',
@@ -7453,7 +7201,7 @@ return array (
     'latitude' => 23.11444,
     'longitude' => 113.84722,
   ),
-  828 => 
+  800 => 
   array (
     'id' => 20102,
     'name' => 'Shima',
@@ -7462,7 +7210,7 @@ return array (
     'latitude' => 24.44647,
     'longitude' => 117.81216,
   ),
-  829 => 
+  801 => 
   array (
     'id' => 20103,
     'name' => 'Shiqi',
@@ -7471,7 +7219,7 @@ return array (
     'latitude' => 22.51682,
     'longitude' => 113.38521,
   ),
-  830 => 
+  802 => 
   array (
     'id' => 20104,
     'name' => 'Shiqian',
@@ -7480,7 +7228,7 @@ return array (
     'latitude' => 27.5225,
     'longitude' => 108.22806,
   ),
-  831 => 
+  803 => 
   array (
     'id' => 20105,
     'name' => 'Shiqiao',
@@ -7489,7 +7237,7 @@ return array (
     'latitude' => 22.9464,
     'longitude' => 113.35769,
   ),
-  832 => 
+  804 => 
   array (
     'id' => 20106,
     'name' => 'Shitanjing',
@@ -7498,7 +7246,7 @@ return array (
     'latitude' => 39.23417,
     'longitude' => 106.34389,
   ),
-  833 => 
+  805 => 
   array (
     'id' => 20107,
     'name' => 'Shiwan',
@@ -7507,7 +7255,7 @@ return array (
     'latitude' => 23.00107,
     'longitude' => 113.077,
   ),
-  834 => 
+  806 => 
   array (
     'id' => 20108,
     'name' => 'Shixing',
@@ -7516,7 +7264,7 @@ return array (
     'latitude' => 24.94824,
     'longitude' => 114.06572,
   ),
-  835 => 
+  807 => 
   array (
     'id' => 20109,
     'name' => 'Shiyan',
@@ -7525,7 +7273,7 @@ return array (
     'latitude' => 32.6475,
     'longitude' => 110.77806,
   ),
-  836 => 
+  808 => 
   array (
     'id' => 20110,
     'name' => 'Shizilu',
@@ -7534,7 +7282,7 @@ return array (
     'latitude' => 35.17111,
     'longitude' => 118.82889,
   ),
-  837 => 
+  809 => 
   array (
     'id' => 20111,
     'name' => 'Shizuishan',
@@ -7543,7 +7291,7 @@ return array (
     'latitude' => 39.23333,
     'longitude' => 106.76944,
   ),
-  838 => 
+  810 => 
   array (
     'id' => 20112,
     'name' => 'Shouguang',
@@ -7552,7 +7300,7 @@ return array (
     'latitude' => 36.88,
     'longitude' => 118.7375,
   ),
-  839 => 
+  811 => 
   array (
     'id' => 20113,
     'name' => 'Shoushan',
@@ -7561,7 +7309,7 @@ return array (
     'latitude' => 26.96444,
     'longitude' => 119.16167,
   ),
-  840 => 
+  812 => 
   array (
     'id' => 20114,
     'name' => 'Shuangcheng',
@@ -7570,7 +7318,7 @@ return array (
     'latitude' => 45.35,
     'longitude' => 126.28333,
   ),
-  841 => 
+  813 => 
   array (
     'id' => 20115,
     'name' => 'Shuanghejiedao',
@@ -7579,7 +7327,7 @@ return array (
     'latitude' => 30.37448,
     'longitude' => 106.77266,
   ),
-  842 => 
+  814 => 
   array (
     'id' => 20116,
     'name' => 'Shuangjiang',
@@ -7588,7 +7336,7 @@ return array (
     'latitude' => 26.15467,
     'longitude' => 109.7138,
   ),
-  843 => 
+  815 => 
   array (
     'id' => 20117,
     'name' => 'Shuangxi',
@@ -7597,16 +7345,7 @@ return array (
     'latitude' => 27.22833,
     'longitude' => 109.85583,
   ),
-  844 => 
-  array (
-    'id' => 20118,
-    'name' => 'Shuangxi',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 27.02248,
-    'longitude' => 119.0414,
-  ),
-  845 => 
+  816 => 
   array (
     'id' => 20119,
     'name' => 'Shuangyang',
@@ -7615,7 +7354,7 @@ return array (
     'latitude' => 43.52417,
     'longitude' => 125.67361,
   ),
-  846 => 
+  817 => 
   array (
     'id' => 20120,
     'name' => 'Shuangyashan',
@@ -7624,7 +7363,7 @@ return array (
     'latitude' => 46.63611,
     'longitude' => 131.15389,
   ),
-  847 => 
+  818 => 
   array (
     'id' => 20121,
     'name' => 'Shuangzhu',
@@ -7633,7 +7372,7 @@ return array (
     'latitude' => 26.63114,
     'longitude' => 118.6457,
   ),
-  848 => 
+  819 => 
   array (
     'id' => 20122,
     'name' => 'Shuiche',
@@ -7642,7 +7381,7 @@ return array (
     'latitude' => 27.68694,
     'longitude' => 110.99972,
   ),
-  849 => 
+  820 => 
   array (
     'id' => 20123,
     'name' => 'Shuidatian',
@@ -7651,7 +7390,7 @@ return array (
     'latitude' => 27.85222,
     'longitude' => 109.60472,
   ),
-  850 => 
+  821 => 
   array (
     'id' => 20124,
     'name' => 'Shuikou',
@@ -7660,7 +7399,7 @@ return array (
     'latitude' => 26.3836,
     'longitude' => 118.73027,
   ),
-  851 => 
+  822 => 
   array (
     'id' => 20125,
     'name' => 'Shulan',
@@ -7669,7 +7408,7 @@ return array (
     'latitude' => 44.41667,
     'longitude' => 126.95,
   ),
-  852 => 
+  823 => 
   array (
     'id' => 20126,
     'name' => 'Shunyi',
@@ -7678,7 +7417,7 @@ return array (
     'latitude' => 40.12175,
     'longitude' => 116.64783,
   ),
-  853 => 
+  824 => 
   array (
     'id' => 20127,
     'name' => 'Shuozhou',
@@ -7687,7 +7426,7 @@ return array (
     'latitude' => 39.31583,
     'longitude' => 112.4225,
   ),
-  854 => 
+  825 => 
   array (
     'id' => 20128,
     'name' => 'Simenqian',
@@ -7696,7 +7435,7 @@ return array (
     'latitude' => 27.48722,
     'longitude' => 110.88611,
   ),
-  855 => 
+  826 => 
   array (
     'id' => 20129,
     'name' => 'Siping',
@@ -7705,7 +7444,7 @@ return array (
     'latitude' => 43.16143,
     'longitude' => 124.37785,
   ),
-  856 => 
+  827 => 
   array (
     'id' => 20130,
     'name' => 'Sishilichengzi',
@@ -7714,7 +7453,7 @@ return array (
     'latitude' => 41.96194,
     'longitude' => 86.47667,
   ),
-  857 => 
+  828 => 
   array (
     'id' => 20131,
     'name' => 'Sishui',
@@ -7723,7 +7462,7 @@ return array (
     'latitude' => 35.64889,
     'longitude' => 117.27583,
   ),
-  858 => 
+  829 => 
   array (
     'id' => 20132,
     'name' => 'Songjiang',
@@ -7732,7 +7471,7 @@ return array (
     'latitude' => 31.03595,
     'longitude' => 121.2146,
   ),
-  859 => 
+  830 => 
   array (
     'id' => 20133,
     'name' => 'Songjianghe',
@@ -7741,7 +7480,7 @@ return array (
     'latitude' => 42.1859,
     'longitude' => 127.47895,
   ),
-  860 => 
+  831 => 
   array (
     'id' => 20134,
     'name' => 'Songkan',
@@ -7750,7 +7489,7 @@ return array (
     'latitude' => 28.54972,
     'longitude' => 106.85972,
   ),
-  861 => 
+  832 => 
   array (
     'id' => 20135,
     'name' => 'Songling',
@@ -7759,16 +7498,7 @@ return array (
     'latitude' => 40.29303,
     'longitude' => 118.26908,
   ),
-  862 => 
-  array (
-    'id' => 20136,
-    'name' => 'Songling',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 31.1933,
-    'longitude' => 120.71758,
-  ),
-  863 => 
+  833 => 
   array (
     'id' => 20137,
     'name' => 'Songyang',
@@ -7777,7 +7507,7 @@ return array (
     'latitude' => 34.45528,
     'longitude' => 113.02806,
   ),
-  864 => 
+  834 => 
   array (
     'id' => 20138,
     'name' => 'Songyuan',
@@ -7786,7 +7516,7 @@ return array (
     'latitude' => 45.12902,
     'longitude' => 124.82769,
   ),
-  865 => 
+  835 => 
   array (
     'id' => 20139,
     'name' => 'Suicheng',
@@ -7795,7 +7525,7 @@ return array (
     'latitude' => 33.8963,
     'longitude' => 117.93307,
   ),
-  866 => 
+  836 => 
   array (
     'id' => 20140,
     'name' => 'Suifenhe',
@@ -7804,7 +7534,7 @@ return array (
     'latitude' => 44.39982,
     'longitude' => 131.14775,
   ),
-  867 => 
+  837 => 
   array (
     'id' => 20141,
     'name' => 'Suihua',
@@ -7813,7 +7543,7 @@ return array (
     'latitude' => 46.63954,
     'longitude' => 126.99508,
   ),
-  868 => 
+  838 => 
   array (
     'id' => 20142,
     'name' => 'Suileng',
@@ -7822,7 +7552,7 @@ return array (
     'latitude' => 47.24805,
     'longitude' => 127.09535,
   ),
-  869 => 
+  839 => 
   array (
     'id' => 20143,
     'name' => 'Suining',
@@ -7831,7 +7561,7 @@ return array (
     'latitude' => 30.50802,
     'longitude' => 105.57332,
   ),
-  870 => 
+  840 => 
   array (
     'id' => 20144,
     'name' => 'Suixi',
@@ -7840,7 +7570,7 @@ return array (
     'latitude' => 33.89067,
     'longitude' => 116.77473,
   ),
-  871 => 
+  841 => 
   array (
     'id' => 20145,
     'name' => 'Suizhou',
@@ -7849,7 +7579,7 @@ return array (
     'latitude' => 31.71111,
     'longitude' => 113.36306,
   ),
-  872 => 
+  842 => 
   array (
     'id' => 20146,
     'name' => 'Sujiatun',
@@ -7858,7 +7588,7 @@ return array (
     'latitude' => 41.65917,
     'longitude' => 123.33917,
   ),
-  873 => 
+  843 => 
   array (
     'id' => 20147,
     'name' => 'Suohe',
@@ -7867,7 +7597,7 @@ return array (
     'latitude' => 34.78722,
     'longitude' => 113.35806,
   ),
-  874 => 
+  844 => 
   array (
     'id' => 20148,
     'name' => 'Suozhen',
@@ -7876,7 +7606,7 @@ return array (
     'latitude' => 36.95389,
     'longitude' => 118.10472,
   ),
-  875 => 
+  845 => 
   array (
     'id' => 20149,
     'name' => 'Suzhou',
@@ -7885,16 +7615,7 @@ return array (
     'latitude' => 33.63611,
     'longitude' => 116.97889,
   ),
-  876 => 
-  array (
-    'id' => 20150,
-    'name' => 'Suzhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 31.30408,
-    'longitude' => 120.59538,
-  ),
-  877 => 
+  846 => 
   array (
     'id' => 20151,
     'name' => 'Suzhou Shi',
@@ -7903,7 +7624,7 @@ return array (
     'latitude' => 33.8697,
     'longitude' => 117.20569,
   ),
-  878 => 
+  847 => 
   array (
     'id' => 20152,
     'name' => 'Tacheng',
@@ -7912,7 +7633,7 @@ return array (
     'latitude' => 46.74535,
     'longitude' => 82.95847,
   ),
-  879 => 
+  848 => 
   array (
     'id' => 20153,
     'name' => 'Tacheng Diqu',
@@ -7921,7 +7642,7 @@ return array (
     'latitude' => 46.75,
     'longitude' => 82.95,
   ),
-  880 => 
+  849 => 
   array (
     'id' => 20154,
     'name' => 'Tahe',
@@ -7930,7 +7651,7 @@ return array (
     'latitude' => 52.33333,
     'longitude' => 124.73333,
   ),
-  881 => 
+  850 => 
   array (
     'id' => 20155,
     'name' => 'Taihe',
@@ -7939,7 +7660,7 @@ return array (
     'latitude' => 30.87123,
     'longitude' => 105.38454,
   ),
-  882 => 
+  851 => 
   array (
     'id' => 20156,
     'name' => 'Taihecun',
@@ -7948,7 +7669,7 @@ return array (
     'latitude' => 45.76347,
     'longitude' => 130.85048,
   ),
-  883 => 
+  852 => 
   array (
     'id' => 20157,
     'name' => 'Taikang',
@@ -7957,7 +7678,7 @@ return array (
     'latitude' => 46.86135,
     'longitude' => 124.442,
   ),
-  884 => 
+  853 => 
   array (
     'id' => 20158,
     'name' => 'Tailai',
@@ -7966,7 +7687,7 @@ return array (
     'latitude' => 46.38909,
     'longitude' => 123.41371,
   ),
-  885 => 
+  854 => 
   array (
     'id' => 20159,
     'name' => 'Taiping',
@@ -7975,7 +7696,7 @@ return array (
     'latitude' => 28.14083,
     'longitude' => 106.03771,
   ),
-  886 => 
+  855 => 
   array (
     'id' => 20160,
     'name' => 'Taishan',
@@ -7984,7 +7705,7 @@ return array (
     'latitude' => 22.25135,
     'longitude' => 112.7799,
   ),
-  887 => 
+  856 => 
   array (
     'id' => 20161,
     'name' => 'Taixing',
@@ -7993,7 +7714,7 @@ return array (
     'latitude' => 32.16667,
     'longitude' => 120.01361,
   ),
-  888 => 
+  857 => 
   array (
     'id' => 20162,
     'name' => 'Taiyuan',
@@ -8002,7 +7723,7 @@ return array (
     'latitude' => 37.86944,
     'longitude' => 112.56028,
   ),
-  889 => 
+  858 => 
   array (
     'id' => 20163,
     'name' => 'Taizhou',
@@ -8011,16 +7732,7 @@ return array (
     'latitude' => 32.49069,
     'longitude' => 119.90812,
   ),
-  890 => 
-  array (
-    'id' => 20164,
-    'name' => 'Taizhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 28.66266,
-    'longitude' => 121.43312,
-  ),
-  891 => 
+  859 => 
   array (
     'id' => 20165,
     'name' => 'Tai’an',
@@ -8029,7 +7741,7 @@ return array (
     'latitude' => 36.18528,
     'longitude' => 117.12,
   ),
-  892 => 
+  860 => 
   array (
     'id' => 20166,
     'name' => 'Tanbei',
@@ -8038,7 +7750,7 @@ return array (
     'latitude' => 35.08806,
     'longitude' => 112.93944,
   ),
-  893 => 
+  861 => 
   array (
     'id' => 20167,
     'name' => 'Tangjiafang',
@@ -8047,7 +7759,7 @@ return array (
     'latitude' => 26.84,
     'longitude' => 110.36472,
   ),
-  894 => 
+  862 => 
   array (
     'id' => 20168,
     'name' => 'Tangjiazhuang',
@@ -8056,7 +7768,7 @@ return array (
     'latitude' => 39.74326,
     'longitude' => 118.45099,
   ),
-  895 => 
+  863 => 
   array (
     'id' => 20169,
     'name' => 'Tangkou',
@@ -8065,7 +7777,7 @@ return array (
     'latitude' => 26.95417,
     'longitude' => 119.01278,
   ),
-  896 => 
+  864 => 
   array (
     'id' => 20170,
     'name' => 'Tangping',
@@ -8074,7 +7786,7 @@ return array (
     'latitude' => 22.03177,
     'longitude' => 111.93537,
   ),
-  897 => 
+  865 => 
   array (
     'id' => 20171,
     'name' => 'Tangshan',
@@ -8083,7 +7795,7 @@ return array (
     'latitude' => 39.63333,
     'longitude' => 118.18333,
   ),
-  898 => 
+  866 => 
   array (
     'id' => 20172,
     'name' => 'Tangshan Shi',
@@ -8092,7 +7804,7 @@ return array (
     'latitude' => 39.63,
     'longitude' => 118.18,
   ),
-  899 => 
+  867 => 
   array (
     'id' => 20173,
     'name' => 'Tangzhai',
@@ -8101,7 +7813,7 @@ return array (
     'latitude' => 34.43278,
     'longitude' => 116.59111,
   ),
-  900 => 
+  868 => 
   array (
     'id' => 20174,
     'name' => 'Tantou',
@@ -8110,7 +7822,7 @@ return array (
     'latitude' => 26.03033,
     'longitude' => 119.59739,
   ),
-  901 => 
+  869 => 
   array (
     'id' => 20175,
     'name' => 'Tanwan',
@@ -8119,7 +7831,7 @@ return array (
     'latitude' => 27.96639,
     'longitude' => 110.15028,
   ),
-  902 => 
+  870 => 
   array (
     'id' => 20176,
     'name' => 'Taozhuang',
@@ -8128,7 +7840,7 @@ return array (
     'latitude' => 34.85,
     'longitude' => 117.33333,
   ),
-  903 => 
+  871 => 
   array (
     'id' => 20177,
     'name' => 'Tatou',
@@ -8137,7 +7849,7 @@ return array (
     'latitude' => 24.61732,
     'longitude' => 118.52672,
   ),
-  904 => 
+  872 => 
   array (
     'id' => 20178,
     'name' => 'Tianchang',
@@ -8146,7 +7858,7 @@ return array (
     'latitude' => 37.99806,
     'longitude' => 114.01556,
   ),
-  905 => 
+  873 => 
   array (
     'id' => 20179,
     'name' => 'Tianfu',
@@ -8155,7 +7867,7 @@ return array (
     'latitude' => 37.19723,
     'longitude' => 122.05228,
   ),
-  906 => 
+  874 => 
   array (
     'id' => 20180,
     'name' => 'Tianpeng',
@@ -8164,7 +7876,7 @@ return array (
     'latitude' => 30.98664,
     'longitude' => 103.93933,
   ),
-  907 => 
+  875 => 
   array (
     'id' => 20181,
     'name' => 'Tianshui',
@@ -8173,7 +7885,7 @@ return array (
     'latitude' => 34.57952,
     'longitude' => 105.74238,
   ),
-  908 => 
+  876 => 
   array (
     'id' => 20182,
     'name' => 'Tieli',
@@ -8182,7 +7894,7 @@ return array (
     'latitude' => 46.98043,
     'longitude' => 128.04497,
   ),
-  909 => 
+  877 => 
   array (
     'id' => 20183,
     'name' => 'Tieling',
@@ -8191,7 +7903,7 @@ return array (
     'latitude' => 42.29306,
     'longitude' => 123.84139,
   ),
-  910 => 
+  878 => 
   array (
     'id' => 20184,
     'name' => 'Tieling Shi',
@@ -8200,7 +7912,7 @@ return array (
     'latitude' => 42.62583,
     'longitude' => 124.32361,
   ),
-  911 => 
+  879 => 
   array (
     'id' => 20185,
     'name' => 'Tingdong',
@@ -8209,7 +7921,7 @@ return array (
     'latitude' => 25.82444,
     'longitude' => 108.6125,
   ),
-  912 => 
+  880 => 
   array (
     'id' => 20186,
     'name' => 'Tingjiang',
@@ -8218,7 +7930,7 @@ return array (
     'latitude' => 26.07401,
     'longitude' => 119.50574,
   ),
-  913 => 
+  881 => 
   array (
     'id' => 20187,
     'name' => 'Tongchuan',
@@ -8227,7 +7939,7 @@ return array (
     'latitude' => 31.09407,
     'longitude' => 105.08731,
   ),
-  914 => 
+  882 => 
   array (
     'id' => 20188,
     'name' => 'Tongchuanshi',
@@ -8236,7 +7948,7 @@ return array (
     'latitude' => 35.07474,
     'longitude' => 109.08495,
   ),
-  915 => 
+  883 => 
   array (
     'id' => 20189,
     'name' => 'Tonggu',
@@ -8245,7 +7957,7 @@ return array (
     'latitude' => 26.57222,
     'longitude' => 109.30944,
   ),
-  916 => 
+  884 => 
   array (
     'id' => 20190,
     'name' => 'Tonghua',
@@ -8254,7 +7966,7 @@ return array (
     'latitude' => 41.71972,
     'longitude' => 125.92639,
   ),
-  917 => 
+  885 => 
   array (
     'id' => 20191,
     'name' => 'Tonghua Shi',
@@ -8263,7 +7975,7 @@ return array (
     'latitude' => 42.12389,
     'longitude' => 125.84833,
   ),
-  918 => 
+  886 => 
   array (
     'id' => 20192,
     'name' => 'Tongliao',
@@ -8272,7 +7984,7 @@ return array (
     'latitude' => 43.6125,
     'longitude' => 122.26528,
   ),
-  919 => 
+  887 => 
   array (
     'id' => 20193,
     'name' => 'Tongren',
@@ -8281,7 +7993,7 @@ return array (
     'latitude' => 27.71722,
     'longitude' => 109.18528,
   ),
-  920 => 
+  888 => 
   array (
     'id' => 20194,
     'name' => 'Tongren Diqu',
@@ -8290,7 +8002,7 @@ return array (
     'latitude' => 27.74188,
     'longitude' => 109.19312,
   ),
-  921 => 
+  889 => 
   array (
     'id' => 20195,
     'name' => 'Tongshan',
@@ -8299,7 +8011,7 @@ return array (
     'latitude' => 34.18045,
     'longitude' => 117.15707,
   ),
-  922 => 
+  890 => 
   array (
     'id' => 20196,
     'name' => 'Tongwan',
@@ -8308,7 +8020,7 @@ return array (
     'latitude' => 27.58111,
     'longitude' => 110.27722,
   ),
-  923 => 
+  891 => 
   array (
     'id' => 20197,
     'name' => 'Tongzhou',
@@ -8317,7 +8029,7 @@ return array (
     'latitude' => 39.90395,
     'longitude' => 116.66183,
   ),
-  924 => 
+  892 => 
   array (
     'id' => 20198,
     'name' => 'Tumen',
@@ -8326,7 +8038,7 @@ return array (
     'latitude' => 42.96611,
     'longitude' => 129.8425,
   ),
-  925 => 
+  893 => 
   array (
     'id' => 20199,
     'name' => 'Tuokou',
@@ -8335,7 +8047,7 @@ return array (
     'latitude' => 27.12472,
     'longitude' => 109.62472,
   ),
-  926 => 
+  894 => 
   array (
     'id' => 20200,
     'name' => 'Turpan',
@@ -8344,7 +8056,7 @@ return array (
     'latitude' => 42.94769,
     'longitude' => 89.17886,
   ),
-  927 => 
+  895 => 
   array (
     'id' => 20201,
     'name' => 'Turpan Diqu',
@@ -8353,7 +8065,7 @@ return array (
     'latitude' => 42.93333,
     'longitude' => 89.16667,
   ),
-  928 => 
+  896 => 
   array (
     'id' => 20202,
     'name' => 'Tuzhai',
@@ -8362,7 +8074,7 @@ return array (
     'latitude' => 24.98301,
     'longitude' => 118.83194,
   ),
-  929 => 
+  897 => 
   array (
     'id' => 20203,
     'name' => 'Ulanhot',
@@ -8371,7 +8083,7 @@ return array (
     'latitude' => 46.08333,
     'longitude' => 122.08333,
   ),
-  930 => 
+  898 => 
   array (
     'id' => 20204,
     'name' => 'Urumqi Shi',
@@ -8380,7 +8092,7 @@ return array (
     'latitude' => 43.8,
     'longitude' => 87.58333,
   ),
-  931 => 
+  899 => 
   array (
     'id' => 20205,
     'name' => 'Wacheng',
@@ -8389,7 +8101,7 @@ return array (
     'latitude' => 33.78333,
     'longitude' => 114.51667,
   ),
-  932 => 
+  900 => 
   array (
     'id' => 20206,
     'name' => 'Wafangdian',
@@ -8398,7 +8110,7 @@ return array (
     'latitude' => 39.61833,
     'longitude' => 122.00806,
   ),
-  933 => 
+  901 => 
   array (
     'id' => 20207,
     'name' => 'Wangkui',
@@ -8407,7 +8119,7 @@ return array (
     'latitude' => 46.83283,
     'longitude' => 126.47768,
   ),
-  934 => 
+  902 => 
   array (
     'id' => 20208,
     'name' => 'Wangqing',
@@ -8416,7 +8128,7 @@ return array (
     'latitude' => 43.32179,
     'longitude' => 129.76342,
   ),
-  935 => 
+  903 => 
   array (
     'id' => 20209,
     'name' => 'Wanning',
@@ -8425,7 +8137,7 @@ return array (
     'latitude' => 18.79931,
     'longitude' => 110.3841,
   ),
-  936 => 
+  904 => 
   array (
     'id' => 20210,
     'name' => 'Wantouqiao',
@@ -8434,7 +8146,7 @@ return array (
     'latitude' => 26.84111,
     'longitude' => 110.61944,
   ),
-  937 => 
+  905 => 
   array (
     'id' => 20211,
     'name' => 'Wanxian',
@@ -8443,7 +8155,7 @@ return array (
     'latitude' => 30.81544,
     'longitude' => 108.37089,
   ),
-  938 => 
+  906 => 
   array (
     'id' => 20212,
     'name' => 'Wanzhou District',
@@ -8452,7 +8164,7 @@ return array (
     'latitude' => 30.70576,
     'longitude' => 108.40202,
   ),
-  939 => 
+  907 => 
   array (
     'id' => 20213,
     'name' => 'Weifang',
@@ -8461,7 +8173,7 @@ return array (
     'latitude' => 36.71,
     'longitude' => 119.10194,
   ),
-  940 => 
+  908 => 
   array (
     'id' => 20214,
     'name' => 'Weihai',
@@ -8470,7 +8182,7 @@ return array (
     'latitude' => 37.50914,
     'longitude' => 122.11356,
   ),
-  941 => 
+  909 => 
   array (
     'id' => 20215,
     'name' => 'Weinan',
@@ -8479,7 +8191,7 @@ return array (
     'latitude' => 34.50355,
     'longitude' => 109.50891,
   ),
-  942 => 
+  910 => 
   array (
     'id' => 20216,
     'name' => 'Weining',
@@ -8488,7 +8200,7 @@ return array (
     'latitude' => 26.85,
     'longitude' => 104.23333,
   ),
-  943 => 
+  911 => 
   array (
     'id' => 20217,
     'name' => 'Wenchang',
@@ -8497,7 +8209,7 @@ return array (
     'latitude' => 19.6157,
     'longitude' => 110.74894,
   ),
-  944 => 
+  912 => 
   array (
     'id' => 20218,
     'name' => 'Wenlan',
@@ -8506,7 +8218,7 @@ return array (
     'latitude' => 23.36002,
     'longitude' => 103.43684,
   ),
-  945 => 
+  913 => 
   array (
     'id' => 20219,
     'name' => 'Wenling',
@@ -8515,7 +8227,7 @@ return array (
     'latitude' => 28.37524,
     'longitude' => 121.38416,
   ),
-  946 => 
+  914 => 
   array (
     'id' => 20220,
     'name' => 'Wenquan',
@@ -8524,7 +8236,7 @@ return array (
     'latitude' => 47.1756,
     'longitude' => 119.94809,
   ),
-  947 => 
+  915 => 
   array (
     'id' => 20221,
     'name' => 'Wenshan City',
@@ -8533,7 +8245,7 @@ return array (
     'latitude' => 23.36306,
     'longitude' => 104.25047,
   ),
-  948 => 
+  916 => 
   array (
     'id' => 20222,
     'name' => 'Wenshan Zhuangzu Miaozu Zizhizhou',
@@ -8542,7 +8254,7 @@ return array (
     'latitude' => 23.6513,
     'longitude' => 104.7083,
   ),
-  949 => 
+  917 => 
   array (
     'id' => 20223,
     'name' => 'Wenshang',
@@ -8551,7 +8263,7 @@ return array (
     'latitude' => 35.7275,
     'longitude' => 116.49611,
   ),
-  950 => 
+  918 => 
   array (
     'id' => 20224,
     'name' => 'Wenshui',
@@ -8560,7 +8272,7 @@ return array (
     'latitude' => 28.45056,
     'longitude' => 106.52667,
   ),
-  951 => 
+  919 => 
   array (
     'id' => 20225,
     'name' => 'Wenxing',
@@ -8569,7 +8281,7 @@ return array (
     'latitude' => 28.68208,
     'longitude' => 112.87864,
   ),
-  952 => 
+  920 => 
   array (
     'id' => 20226,
     'name' => 'Wenzhou',
@@ -8578,7 +8290,7 @@ return array (
     'latitude' => 27.99942,
     'longitude' => 120.66682,
   ),
-  953 => 
+  921 => 
   array (
     'id' => 20227,
     'name' => 'Wubao',
@@ -8587,7 +8299,7 @@ return array (
     'latitude' => 24.59589,
     'longitude' => 118.55359,
   ),
-  954 => 
+  922 => 
   array (
     'id' => 20228,
     'name' => 'Wuchang',
@@ -8596,7 +8308,7 @@ return array (
     'latitude' => 44.91428,
     'longitude' => 127.15001,
   ),
-  955 => 
+  923 => 
   array (
     'id' => 20229,
     'name' => 'Wucheng',
@@ -8605,7 +8317,7 @@ return array (
     'latitude' => 29.60077,
     'longitude' => 118.17495,
   ),
-  956 => 
+  924 => 
   array (
     'id' => 20230,
     'name' => 'Wuchuan',
@@ -8614,7 +8326,7 @@ return array (
     'latitude' => 21.45713,
     'longitude' => 110.76591,
   ),
-  957 => 
+  925 => 
   array (
     'id' => 20231,
     'name' => 'Wuda',
@@ -8623,7 +8335,7 @@ return array (
     'latitude' => 39.49944,
     'longitude' => 106.71167,
   ),
-  958 => 
+  926 => 
   array (
     'id' => 20232,
     'name' => 'Wuhai',
@@ -8632,7 +8344,7 @@ return array (
     'latitude' => 39.68442,
     'longitude' => 106.81583,
   ),
-  959 => 
+  927 => 
   array (
     'id' => 20233,
     'name' => 'Wuhan',
@@ -8641,7 +8353,7 @@ return array (
     'latitude' => 30.58333,
     'longitude' => 114.26667,
   ),
-  960 => 
+  928 => 
   array (
     'id' => 20234,
     'name' => 'Wuhu',
@@ -8650,7 +8362,7 @@ return array (
     'latitude' => 31.33728,
     'longitude' => 118.37351,
   ),
-  961 => 
+  929 => 
   array (
     'id' => 20235,
     'name' => 'Wulingyuan',
@@ -8659,7 +8371,7 @@ return array (
     'latitude' => 29.34936,
     'longitude' => 110.54407,
   ),
-  962 => 
+  930 => 
   array (
     'id' => 20236,
     'name' => 'Wusong',
@@ -8668,7 +8380,7 @@ return array (
     'latitude' => 30.95,
     'longitude' => 117.78333,
   ),
-  963 => 
+  931 => 
   array (
     'id' => 20237,
     'name' => 'Wuwei',
@@ -8677,7 +8389,7 @@ return array (
     'latitude' => 37.92672,
     'longitude' => 102.63202,
   ),
-  964 => 
+  932 => 
   array (
     'id' => 20238,
     'name' => 'Wuxi',
@@ -8686,16 +8398,7 @@ return array (
     'latitude' => 26.5844,
     'longitude' => 111.859,
   ),
-  965 => 
-  array (
-    'id' => 20239,
-    'name' => 'Wuxi',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 31.56887,
-    'longitude' => 120.28857,
-  ),
-  966 => 
+  933 => 
   array (
     'id' => 20240,
     'name' => 'Wuxue',
@@ -8704,7 +8407,7 @@ return array (
     'latitude' => 29.85058,
     'longitude' => 115.5525,
   ),
-  967 => 
+  934 => 
   array (
     'id' => 20241,
     'name' => 'Wuyang',
@@ -8713,16 +8416,7 @@ return array (
     'latitude' => 31.9925,
     'longitude' => 116.24722,
   ),
-  968 => 
-  array (
-    'id' => 20242,
-    'name' => 'Wuyang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 26.74278,
-    'longitude' => 110.32833,
-  ),
-  969 => 
+  935 => 
   array (
     'id' => 20243,
     'name' => 'Wuyishan',
@@ -8731,7 +8425,7 @@ return array (
     'latitude' => 27.75995,
     'longitude' => 118.03066,
   ),
-  970 => 
+  936 => 
   array (
     'id' => 20244,
     'name' => 'Wuyucun',
@@ -8740,7 +8434,7 @@ return array (
     'latitude' => 24.33551,
     'longitude' => 118.14489,
   ),
-  971 => 
+  937 => 
   array (
     'id' => 20245,
     'name' => 'Wuzhen',
@@ -8749,7 +8443,7 @@ return array (
     'latitude' => 30.74536,
     'longitude' => 120.4851,
   ),
-  972 => 
+  938 => 
   array (
     'id' => 20246,
     'name' => 'Wuzhong',
@@ -8758,7 +8452,7 @@ return array (
     'latitude' => 37.9867,
     'longitude' => 106.201,
   ),
-  973 => 
+  939 => 
   array (
     'id' => 20247,
     'name' => 'Wuzhou',
@@ -8767,7 +8461,7 @@ return array (
     'latitude' => 23.48333,
     'longitude' => 111.31667,
   ),
-  974 => 
+  940 => 
   array (
     'id' => 20248,
     'name' => 'Xiabaishi',
@@ -8776,7 +8470,7 @@ return array (
     'latitude' => 26.81528,
     'longitude' => 119.67917,
   ),
-  975 => 
+  941 => 
   array (
     'id' => 20249,
     'name' => 'Xiahu',
@@ -8785,7 +8479,7 @@ return array (
     'latitude' => 26.61056,
     'longitude' => 119.94833,
   ),
-  976 => 
+  942 => 
   array (
     'id' => 20250,
     'name' => 'Xiajiang',
@@ -8794,7 +8488,7 @@ return array (
     'latitude' => 25.75556,
     'longitude' => 108.69194,
   ),
-  977 => 
+  943 => 
   array (
     'id' => 20251,
     'name' => 'Xialiang',
@@ -8803,7 +8497,7 @@ return array (
     'latitude' => 32.07673,
     'longitude' => 106.77151,
   ),
-  978 => 
+  944 => 
   array (
     'id' => 20252,
     'name' => 'Xiamen',
@@ -8812,7 +8506,7 @@ return array (
     'latitude' => 24.47979,
     'longitude' => 118.08187,
   ),
-  979 => 
+  945 => 
   array (
     'id' => 20253,
     'name' => 'Xiancun',
@@ -8821,7 +8515,7 @@ return array (
     'latitude' => 26.93861,
     'longitude' => 119.36028,
   ),
-  980 => 
+  946 => 
   array (
     'id' => 20254,
     'name' => 'Xiangcheng Chengguanzhen',
@@ -8830,7 +8524,7 @@ return array (
     'latitude' => 33.84703,
     'longitude' => 113.4778,
   ),
-  981 => 
+  947 => 
   array (
     'id' => 20255,
     'name' => 'Xiangtan',
@@ -8839,7 +8533,7 @@ return array (
     'latitude' => 27.85,
     'longitude' => 112.9,
   ),
-  982 => 
+  948 => 
   array (
     'id' => 20256,
     'name' => 'Xiangxi Tujiazu Miaozu Zizhizhou',
@@ -8848,7 +8542,7 @@ return array (
     'latitude' => 28.70573,
     'longitude' => 109.73329,
   ),
-  983 => 
+  949 => 
   array (
     'id' => 20257,
     'name' => 'Xiangxiang',
@@ -8857,7 +8551,7 @@ return array (
     'latitude' => 27.73333,
     'longitude' => 112.53333,
   ),
-  984 => 
+  950 => 
   array (
     'id' => 20258,
     'name' => 'Xiangyang',
@@ -8866,7 +8560,7 @@ return array (
     'latitude' => 32.0422,
     'longitude' => 112.14479,
   ),
-  985 => 
+  951 => 
   array (
     'id' => 20259,
     'name' => 'Xiangyun',
@@ -8875,7 +8569,7 @@ return array (
     'latitude' => 24.97111,
     'longitude' => 118.16028,
   ),
-  986 => 
+  952 => 
   array (
     'id' => 20260,
     'name' => 'Xianju',
@@ -8884,7 +8578,7 @@ return array (
     'latitude' => 28.8547,
     'longitude' => 120.73168,
   ),
-  987 => 
+  953 => 
   array (
     'id' => 20261,
     'name' => 'Xianning',
@@ -8893,7 +8587,7 @@ return array (
     'latitude' => 29.84347,
     'longitude' => 114.32201,
   ),
-  988 => 
+  954 => 
   array (
     'id' => 20262,
     'name' => 'Xianning Prefecture',
@@ -8902,7 +8596,7 @@ return array (
     'latitude' => 29.66609,
     'longitude' => 114.26389,
   ),
-  989 => 
+  955 => 
   array (
     'id' => 20263,
     'name' => 'Xiannü',
@@ -8911,7 +8605,7 @@ return array (
     'latitude' => 32.42806,
     'longitude' => 119.56048,
   ),
-  990 => 
+  956 => 
   array (
     'id' => 20264,
     'name' => 'Xianrenwan',
@@ -8920,7 +8614,7 @@ return array (
     'latitude' => 27.75444,
     'longitude' => 110.32972,
   ),
-  991 => 
+  957 => 
   array (
     'id' => 20265,
     'name' => 'Xiantan',
@@ -8929,7 +8623,7 @@ return array (
     'latitude' => 28.81859,
     'longitude' => 106.1927,
   ),
-  992 => 
+  958 => 
   array (
     'id' => 20266,
     'name' => 'Xiantao',
@@ -8938,7 +8632,7 @@ return array (
     'latitude' => 30.3708,
     'longitude' => 113.44294,
   ),
-  993 => 
+  959 => 
   array (
     'id' => 20267,
     'name' => 'Xianxi',
@@ -8947,7 +8641,7 @@ return array (
     'latitude' => 26.33472,
     'longitude' => 109.64306,
   ),
-  994 => 
+  960 => 
   array (
     'id' => 20268,
     'name' => 'Xianyang',
@@ -8956,7 +8650,7 @@ return array (
     'latitude' => 34.33778,
     'longitude' => 108.70261,
   ),
-  995 => 
+  961 => 
   array (
     'id' => 20269,
     'name' => 'Xiaogan',
@@ -8965,7 +8659,7 @@ return array (
     'latitude' => 30.92689,
     'longitude' => 113.92221,
   ),
-  996 => 
+  962 => 
   array (
     'id' => 20270,
     'name' => 'Xiaohenglong',
@@ -8974,7 +8668,7 @@ return array (
     'latitude' => 27.605,
     'longitude' => 110.51694,
   ),
-  997 => 
+  963 => 
   array (
     'id' => 20271,
     'name' => 'Xiaolingwei',
@@ -8983,7 +8677,7 @@ return array (
     'latitude' => 32.03244,
     'longitude' => 118.854,
   ),
-  998 => 
+  964 => 
   array (
     'id' => 20272,
     'name' => 'Xiaolongmen',
@@ -8992,7 +8686,7 @@ return array (
     'latitude' => 27.80194,
     'longitude' => 110.16056,
   ),
-  999 => 
+  965 => 
   array (
     'id' => 20273,
     'name' => 'Xiaoshajiang',
@@ -9001,7 +8695,7 @@ return array (
     'latitude' => 27.52139,
     'longitude' => 110.74806,
   ),
-  1000 => 
+  966 => 
   array (
     'id' => 20274,
     'name' => 'Xiaoshan',
@@ -9010,7 +8704,7 @@ return array (
     'latitude' => 30.16746,
     'longitude' => 120.25883,
   ),
-  1001 => 
+  967 => 
   array (
     'id' => 20275,
     'name' => 'Xiaoshi',
@@ -9019,7 +8713,7 @@ return array (
     'latitude' => 41.29711,
     'longitude' => 124.12092,
   ),
-  1002 => 
+  968 => 
   array (
     'id' => 20276,
     'name' => 'Xiaoweizhai',
@@ -9028,7 +8722,7 @@ return array (
     'latitude' => 26.19028,
     'longitude' => 107.5125,
   ),
-  1003 => 
+  969 => 
   array (
     'id' => 20277,
     'name' => 'Xiazhen',
@@ -9037,7 +8731,7 @@ return array (
     'latitude' => 34.80222,
     'longitude' => 117.11167,
   ),
-  1004 => 
+  970 => 
   array (
     'id' => 20278,
     'name' => 'Xiazhuang',
@@ -9046,7 +8740,7 @@ return array (
     'latitude' => 34.91611,
     'longitude' => 118.63889,
   ),
-  1005 => 
+  971 => 
   array (
     'id' => 20279,
     'name' => 'Xibing',
@@ -9055,7 +8749,7 @@ return array (
     'latitude' => 26.98139,
     'longitude' => 119.72472,
   ),
-  1006 => 
+  972 => 
   array (
     'id' => 20280,
     'name' => 'Xichang',
@@ -9064,7 +8758,7 @@ return array (
     'latitude' => 27.89642,
     'longitude' => 102.26341,
   ),
-  1007 => 
+  973 => 
   array (
     'id' => 20281,
     'name' => 'Xifeng',
@@ -9073,7 +8767,7 @@ return array (
     'latitude' => 42.73722,
     'longitude' => 124.72222,
   ),
-  1008 => 
+  974 => 
   array (
     'id' => 20282,
     'name' => 'Xihe',
@@ -9082,7 +8776,7 @@ return array (
     'latitude' => 31.68635,
     'longitude' => 113.46585,
   ),
-  1009 => 
+  975 => 
   array (
     'id' => 20283,
     'name' => 'Xiliguantun',
@@ -9091,7 +8785,7 @@ return array (
     'latitude' => 37.07833,
     'longitude' => 115.94139,
   ),
-  1010 => 
+  976 => 
   array (
     'id' => 20284,
     'name' => 'Xilin Gol Meng',
@@ -9100,7 +8794,7 @@ return array (
     'latitude' => 44.85493,
     'longitude' => 115.72789,
   ),
-  1011 => 
+  977 => 
   array (
     'id' => 20285,
     'name' => 'Xilin Hot',
@@ -9109,7 +8803,7 @@ return array (
     'latitude' => 43.96667,
     'longitude' => 116.03333,
   ),
-  1012 => 
+  978 => 
   array (
     'id' => 20286,
     'name' => 'Xiling',
@@ -9118,7 +8812,7 @@ return array (
     'latitude' => 26.81444,
     'longitude' => 119.04722,
   ),
-  1013 => 
+  979 => 
   array (
     'id' => 20287,
     'name' => 'Ximei',
@@ -9127,7 +8821,7 @@ return array (
     'latitude' => 24.98773,
     'longitude' => 118.3858,
   ),
-  1014 => 
+  980 => 
   array (
     'id' => 20288,
     'name' => 'Xinan',
@@ -9136,7 +8830,7 @@ return array (
     'latitude' => 26.72,
     'longitude' => 119.85556,
   ),
-  1015 => 
+  981 => 
   array (
     'id' => 20289,
     'name' => 'Xincheng',
@@ -9145,7 +8839,7 @@ return array (
     'latitude' => 33.63333,
     'longitude' => 115.18333,
   ),
-  1016 => 
+  982 => 
   array (
     'id' => 20290,
     'name' => 'Xindi',
@@ -9154,7 +8848,7 @@ return array (
     'latitude' => 29.81667,
     'longitude' => 113.46667,
   ),
-  1017 => 
+  983 => 
   array (
     'id' => 20291,
     'name' => 'Xindian',
@@ -9163,16 +8857,7 @@ return array (
     'latitude' => 36.7975,
     'longitude' => 118.29444,
   ),
-  1018 => 
-  array (
-    'id' => 20292,
-    'name' => 'Xindian',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 24.61006,
-    'longitude' => 118.24068,
-  ),
-  1019 => 
+  984 => 
   array (
     'id' => 20293,
     'name' => 'Xingcheng',
@@ -9181,7 +8866,7 @@ return array (
     'latitude' => 40.61667,
     'longitude' => 120.71667,
   ),
-  1020 => 
+  985 => 
   array (
     'id' => 20294,
     'name' => 'Xinghua',
@@ -9190,7 +8875,7 @@ return array (
     'latitude' => 32.93917,
     'longitude' => 119.83417,
   ),
-  1021 => 
+  986 => 
   array (
     'id' => 20295,
     'name' => 'Xinglongshan',
@@ -9199,7 +8884,7 @@ return array (
     'latitude' => 43.95611,
     'longitude' => 125.46611,
   ),
-  1022 => 
+  987 => 
   array (
     'id' => 20296,
     'name' => 'Xingning',
@@ -9208,7 +8893,7 @@ return array (
     'latitude' => 24.1483,
     'longitude' => 115.72272,
   ),
-  1023 => 
+  988 => 
   array (
     'id' => 20297,
     'name' => 'Xingtai',
@@ -9217,7 +8902,7 @@ return array (
     'latitude' => 37.06306,
     'longitude' => 114.49417,
   ),
-  1024 => 
+  989 => 
   array (
     'id' => 20298,
     'name' => 'Xinhualu',
@@ -9226,7 +8911,7 @@ return array (
     'latitude' => 34.39633,
     'longitude' => 113.72466,
   ),
-  1025 => 
+  990 => 
   array (
     'id' => 20299,
     'name' => 'Xinhui',
@@ -9235,7 +8920,7 @@ return array (
     'latitude' => 22.456,
     'longitude' => 113.0482,
   ),
-  1026 => 
+  991 => 
   array (
     'id' => 20300,
     'name' => 'Xining',
@@ -9244,7 +8929,7 @@ return array (
     'latitude' => 36.62554,
     'longitude' => 101.75739,
   ),
-  1027 => 
+  992 => 
   array (
     'id' => 20301,
     'name' => 'Xinji',
@@ -9253,7 +8938,7 @@ return array (
     'latitude' => 37.90278,
     'longitude' => 115.20361,
   ),
-  1028 => 
+  993 => 
   array (
     'id' => 20302,
     'name' => 'Xinmin',
@@ -9262,7 +8947,7 @@ return array (
     'latitude' => 41.99083,
     'longitude' => 122.82528,
   ),
-  1029 => 
+  994 => 
   array (
     'id' => 20303,
     'name' => 'Xinpu',
@@ -9271,7 +8956,7 @@ return array (
     'latitude' => 34.59972,
     'longitude' => 119.15944,
   ),
-  1030 => 
+  995 => 
   array (
     'id' => 20304,
     'name' => 'Xinqing',
@@ -9280,7 +8965,7 @@ return array (
     'latitude' => 48.28701,
     'longitude' => 129.52337,
   ),
-  1031 => 
+  996 => 
   array (
     'id' => 20305,
     'name' => 'Xinshi',
@@ -9289,7 +8974,7 @@ return array (
     'latitude' => 31.04704,
     'longitude' => 113.14098,
   ),
-  1032 => 
+  997 => 
   array (
     'id' => 20306,
     'name' => 'Xintai',
@@ -9298,7 +8983,7 @@ return array (
     'latitude' => 35.90056,
     'longitude' => 117.75194,
   ),
-  1033 => 
+  998 => 
   array (
     'id' => 20307,
     'name' => 'Xintian',
@@ -9307,7 +8992,7 @@ return array (
     'latitude' => 35.61358,
     'longitude' => 111.3566,
   ),
-  1034 => 
+  999 => 
   array (
     'id' => 20308,
     'name' => 'Xinxiang',
@@ -9316,7 +9001,7 @@ return array (
     'latitude' => 35.19033,
     'longitude' => 113.80151,
   ),
-  1035 => 
+  1000 => 
   array (
     'id' => 20309,
     'name' => 'Xinxiang Shi',
@@ -9325,7 +9010,7 @@ return array (
     'latitude' => 35.30861,
     'longitude' => 114.05111,
   ),
-  1036 => 
+  1001 => 
   array (
     'id' => 20310,
     'name' => 'Xinxing',
@@ -9334,7 +9019,7 @@ return array (
     'latitude' => 39.86694,
     'longitude' => 124.12304,
   ),
-  1037 => 
+  1002 => 
   array (
     'id' => 20311,
     'name' => 'Xinyang',
@@ -9343,7 +9028,7 @@ return array (
     'latitude' => 32.12278,
     'longitude' => 114.06556,
   ),
-  1038 => 
+  1003 => 
   array (
     'id' => 20312,
     'name' => 'Xinyi',
@@ -9352,7 +9037,7 @@ return array (
     'latitude' => 22.37303,
     'longitude' => 110.94746,
   ),
-  1039 => 
+  1004 => 
   array (
     'id' => 20313,
     'name' => 'Xinyu',
@@ -9361,7 +9046,7 @@ return array (
     'latitude' => 27.80429,
     'longitude' => 114.93335,
   ),
-  1040 => 
+  1005 => 
   array (
     'id' => 20314,
     'name' => 'Xinyuan',
@@ -9370,7 +9055,7 @@ return array (
     'latitude' => 43.42649,
     'longitude' => 83.24959,
   ),
-  1041 => 
+  1006 => 
   array (
     'id' => 20315,
     'name' => 'Xinzhan',
@@ -9379,7 +9064,7 @@ return array (
     'latitude' => 28.38833,
     'longitude' => 106.85667,
   ),
-  1042 => 
+  1007 => 
   array (
     'id' => 20316,
     'name' => 'Xinzhi',
@@ -9388,7 +9073,7 @@ return array (
     'latitude' => 36.49889,
     'longitude' => 111.70472,
   ),
-  1043 => 
+  1008 => 
   array (
     'id' => 20317,
     'name' => 'Xinzhou',
@@ -9397,16 +9082,7 @@ return array (
     'latitude' => 30.86667,
     'longitude' => 114.8,
   ),
-  1044 => 
-  array (
-    'id' => 20318,
-    'name' => 'Xinzhou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 38.40917,
-    'longitude' => 112.73333,
-  ),
-  1045 => 
+  1009 => 
   array (
     'id' => 20319,
     'name' => 'Xiongzhou',
@@ -9415,7 +9091,7 @@ return array (
     'latitude' => 25.11667,
     'longitude' => 114.3,
   ),
-  1046 => 
+  1010 => 
   array (
     'id' => 20320,
     'name' => 'Xireg',
@@ -9424,7 +9100,7 @@ return array (
     'latitude' => 36.91866,
     'longitude' => 98.44463,
   ),
-  1047 => 
+  1011 => 
   array (
     'id' => 20321,
     'name' => 'Xishan',
@@ -9433,16 +9109,7 @@ return array (
     'latitude' => 25.68528,
     'longitude' => 108.96389,
   ),
-  1048 => 
-  array (
-    'id' => 20322,
-    'name' => 'Xishan',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 27.66667,
-    'longitude' => 113.5,
-  ),
-  1049 => 
+  1012 => 
   array (
     'id' => 20323,
     'name' => 'Xiulin',
@@ -9451,7 +9118,7 @@ return array (
     'latitude' => 29.71667,
     'longitude' => 112.4,
   ),
-  1050 => 
+  1013 => 
   array (
     'id' => 20324,
     'name' => 'Xiuyan',
@@ -9460,7 +9127,7 @@ return array (
     'latitude' => 40.29278,
     'longitude' => 123.27444,
   ),
-  1051 => 
+  1014 => 
   array (
     'id' => 20325,
     'name' => 'Xiuying',
@@ -9469,7 +9136,7 @@ return array (
     'latitude' => 20.00073,
     'longitude' => 110.29359,
   ),
-  1052 => 
+  1015 => 
   array (
     'id' => 20326,
     'name' => 'Xixi',
@@ -9478,7 +9145,7 @@ return array (
     'latitude' => 27.69375,
     'longitude' => 110.95333,
   ),
-  1053 => 
+  1016 => 
   array (
     'id' => 20327,
     'name' => 'Xixiang',
@@ -9487,7 +9154,7 @@ return array (
     'latitude' => 35.16278,
     'longitude' => 112.865,
   ),
-  1054 => 
+  1017 => 
   array (
     'id' => 20328,
     'name' => 'Xiyan',
@@ -9496,7 +9163,7 @@ return array (
     'latitude' => 26.61639,
     'longitude' => 110.47361,
   ),
-  1055 => 
+  1018 => 
   array (
     'id' => 20329,
     'name' => 'Xi’an',
@@ -9505,7 +9172,7 @@ return array (
     'latitude' => 34.25833,
     'longitude' => 108.92861,
   ),
-  1056 => 
+  1019 => 
   array (
     'id' => 20330,
     'name' => 'Xuanzhou',
@@ -9514,7 +9181,7 @@ return array (
     'latitude' => 30.9525,
     'longitude' => 118.75528,
   ),
-  1057 => 
+  1020 => 
   array (
     'id' => 20331,
     'name' => 'Xuchang',
@@ -9523,7 +9190,7 @@ return array (
     'latitude' => 34.03189,
     'longitude' => 113.86299,
   ),
-  1058 => 
+  1021 => 
   array (
     'id' => 20332,
     'name' => 'Xuchang Shi',
@@ -9532,7 +9199,7 @@ return array (
     'latitude' => 34.14778,
     'longitude' => 113.71472,
   ),
-  1059 => 
+  1022 => 
   array (
     'id' => 20333,
     'name' => 'Xucheng',
@@ -9541,7 +9208,7 @@ return array (
     'latitude' => 20.32917,
     'longitude' => 110.16712,
   ),
-  1060 => 
+  1023 => 
   array (
     'id' => 20334,
     'name' => 'Xujiaba',
@@ -9550,7 +9217,7 @@ return array (
     'latitude' => 27.88472,
     'longitude' => 108.11361,
   ),
-  1061 => 
+  1024 => 
   array (
     'id' => 20335,
     'name' => 'Xunchang',
@@ -9559,7 +9226,7 @@ return array (
     'latitude' => 28.45433,
     'longitude' => 104.71498,
   ),
-  1062 => 
+  1025 => 
   array (
     'id' => 20336,
     'name' => 'Yakeshi',
@@ -9568,7 +9235,7 @@ return array (
     'latitude' => 49.28333,
     'longitude' => 120.73333,
   ),
-  1063 => 
+  1026 => 
   array (
     'id' => 20337,
     'name' => 'Yakou',
@@ -9577,16 +9244,7 @@ return array (
     'latitude' => 24.67194,
     'longitude' => 118.63722,
   ),
-  1064 => 
-  array (
-    'id' => 20338,
-    'name' => 'Yakou',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 33.29649,
-    'longitude' => 113.52351,
-  ),
-  1065 => 
+  1027 => 
   array (
     'id' => 20339,
     'name' => 'Yanbian Chaoxianzu Zizhizhou',
@@ -9595,7 +9253,7 @@ return array (
     'latitude' => 43.12583,
     'longitude' => 129.12833,
   ),
-  1066 => 
+  1028 => 
   array (
     'id' => 20340,
     'name' => 'Yancheng',
@@ -9604,7 +9262,7 @@ return array (
     'latitude' => 33.3575,
     'longitude' => 120.1573,
   ),
-  1067 => 
+  1029 => 
   array (
     'id' => 20341,
     'name' => 'Yangchun',
@@ -9613,7 +9271,7 @@ return array (
     'latitude' => 22.16667,
     'longitude' => 111.78333,
   ),
-  1068 => 
+  1030 => 
   array (
     'id' => 20342,
     'name' => 'Yanggu',
@@ -9622,7 +9280,7 @@ return array (
     'latitude' => 36.11056,
     'longitude' => 115.77528,
   ),
-  1069 => 
+  1031 => 
   array (
     'id' => 20343,
     'name' => 'Yanghou',
@@ -9631,7 +9289,7 @@ return array (
     'latitude' => 26.64083,
     'longitude' => 118.50806,
   ),
-  1070 => 
+  1032 => 
   array (
     'id' => 20344,
     'name' => 'Yangjiang',
@@ -9640,7 +9298,7 @@ return array (
     'latitude' => 21.85563,
     'longitude' => 111.96272,
   ),
-  1071 => 
+  1033 => 
   array (
     'id' => 20345,
     'name' => 'Yangquan',
@@ -9649,7 +9307,7 @@ return array (
     'latitude' => 37.8575,
     'longitude' => 113.56333,
   ),
-  1072 => 
+  1034 => 
   array (
     'id' => 20346,
     'name' => 'Yangshuo',
@@ -9658,7 +9316,7 @@ return array (
     'latitude' => 24.78081,
     'longitude' => 110.48967,
   ),
-  1073 => 
+  1035 => 
   array (
     'id' => 20347,
     'name' => 'Yangtou',
@@ -9667,7 +9325,7 @@ return array (
     'latitude' => 27.68944,
     'longitude' => 109.41389,
   ),
-  1074 => 
+  1036 => 
   array (
     'id' => 20348,
     'name' => 'Yangzhong',
@@ -9676,7 +9334,7 @@ return array (
     'latitude' => 26.70556,
     'longitude' => 119.37444,
   ),
-  1075 => 
+  1037 => 
   array (
     'id' => 20349,
     'name' => 'Yangzhou',
@@ -9685,7 +9343,7 @@ return array (
     'latitude' => 32.39722,
     'longitude' => 119.43583,
   ),
-  1076 => 
+  1038 => 
   array (
     'id' => 20350,
     'name' => 'Yanji',
@@ -9694,7 +9352,7 @@ return array (
     'latitude' => 42.9075,
     'longitude' => 129.50778,
   ),
-  1077 => 
+  1039 => 
   array (
     'id' => 20351,
     'name' => 'Yanjiang',
@@ -9703,7 +9361,7 @@ return array (
     'latitude' => 30.12108,
     'longitude' => 104.64811,
   ),
-  1078 => 
+  1040 => 
   array (
     'id' => 20352,
     'name' => 'Yanliang',
@@ -9712,7 +9370,7 @@ return array (
     'latitude' => 34.65918,
     'longitude' => 109.22921,
   ),
-  1079 => 
+  1041 => 
   array (
     'id' => 20353,
     'name' => 'Yanmen',
@@ -9721,7 +9379,7 @@ return array (
     'latitude' => 27.855,
     'longitude' => 109.74028,
   ),
-  1080 => 
+  1042 => 
   array (
     'id' => 20354,
     'name' => 'Yanshi Chengguanzhen',
@@ -9730,7 +9388,7 @@ return array (
     'latitude' => 34.71601,
     'longitude' => 112.79568,
   ),
-  1081 => 
+  1043 => 
   array (
     'id' => 20355,
     'name' => 'Yanta',
@@ -9739,7 +9397,7 @@ return array (
     'latitude' => 36.24111,
     'longitude' => 115.66722,
   ),
-  1082 => 
+  1044 => 
   array (
     'id' => 20356,
     'name' => 'Yantai',
@@ -9748,7 +9406,7 @@ return array (
     'latitude' => 37.47649,
     'longitude' => 121.44081,
   ),
-  1083 => 
+  1045 => 
   array (
     'id' => 20357,
     'name' => 'Yantian',
@@ -9757,7 +9415,7 @@ return array (
     'latitude' => 26.85333,
     'longitude' => 119.8575,
   ),
-  1084 => 
+  1046 => 
   array (
     'id' => 20358,
     'name' => 'Yantongshan',
@@ -9766,7 +9424,7 @@ return array (
     'latitude' => 43.29194,
     'longitude' => 126.00944,
   ),
-  1085 => 
+  1047 => 
   array (
     'id' => 20359,
     'name' => 'Yanzhou',
@@ -9775,7 +9433,7 @@ return array (
     'latitude' => 35.55278,
     'longitude' => 116.82861,
   ),
-  1086 => 
+  1048 => 
   array (
     'id' => 20360,
     'name' => 'Yaoshi',
@@ -9784,7 +9442,7 @@ return array (
     'latitude' => 26.29306,
     'longitude' => 110.78917,
   ),
-  1087 => 
+  1049 => 
   array (
     'id' => 20361,
     'name' => 'Yashan',
@@ -9793,7 +9451,7 @@ return array (
     'latitude' => 22.1975,
     'longitude' => 109.94194,
   ),
-  1088 => 
+  1050 => 
   array (
     'id' => 20362,
     'name' => 'Yatou',
@@ -9802,7 +9460,7 @@ return array (
     'latitude' => 37.1566,
     'longitude' => 122.43762,
   ),
-  1089 => 
+  1051 => 
   array (
     'id' => 20363,
     'name' => 'Yatunpu',
@@ -9811,7 +9469,7 @@ return array (
     'latitude' => 26.155,
     'longitude' => 109.62667,
   ),
-  1090 => 
+  1052 => 
   array (
     'id' => 20364,
     'name' => 'Yebaishou',
@@ -9820,7 +9478,7 @@ return array (
     'latitude' => 41.3975,
     'longitude' => 119.64083,
   ),
-  1091 => 
+  1053 => 
   array (
     'id' => 20365,
     'name' => 'Yibin',
@@ -9829,7 +9487,7 @@ return array (
     'latitude' => 28.76667,
     'longitude' => 104.62383,
   ),
-  1092 => 
+  1054 => 
   array (
     'id' => 20366,
     'name' => 'Yichang',
@@ -9838,7 +9496,7 @@ return array (
     'latitude' => 30.71444,
     'longitude' => 111.28472,
   ),
-  1093 => 
+  1055 => 
   array (
     'id' => 20367,
     'name' => 'Yicheng',
@@ -9847,16 +9505,7 @@ return array (
     'latitude' => 31.70472,
     'longitude' => 112.25611,
   ),
-  1094 => 
-  array (
-    'id' => 20368,
-    'name' => 'Yicheng',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 31.36059,
-    'longitude' => 119.82016,
-  ),
-  1095 => 
+  1056 => 
   array (
     'id' => 20369,
     'name' => 'Yichun',
@@ -9865,16 +9514,7 @@ return array (
     'latitude' => 27.83333,
     'longitude' => 114.4,
   ),
-  1096 => 
-  array (
-    'id' => 20370,
-    'name' => 'Yichun',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 47.72143,
-    'longitude' => 128.87529,
-  ),
-  1097 => 
+  1057 => 
   array (
     'id' => 20371,
     'name' => 'Yigou',
@@ -9883,7 +9523,7 @@ return array (
     'latitude' => 35.81139,
     'longitude' => 114.31667,
   ),
-  1098 => 
+  1058 => 
   array (
     'id' => 20372,
     'name' => 'Yilan',
@@ -9892,7 +9532,7 @@ return array (
     'latitude' => 46.31618,
     'longitude' => 129.55455,
   ),
-  1099 => 
+  1059 => 
   array (
     'id' => 20373,
     'name' => 'Yima',
@@ -9901,7 +9541,7 @@ return array (
     'latitude' => 34.73806,
     'longitude' => 111.88389,
   ),
-  1100 => 
+  1060 => 
   array (
     'id' => 20374,
     'name' => 'Yinchuan',
@@ -9910,7 +9550,7 @@ return array (
     'latitude' => 38.46806,
     'longitude' => 106.27306,
   ),
-  1101 => 
+  1061 => 
   array (
     'id' => 20375,
     'name' => 'Yingcheng',
@@ -9919,7 +9559,7 @@ return array (
     'latitude' => 24.16588,
     'longitude' => 113.41267,
   ),
-  1102 => 
+  1062 => 
   array (
     'id' => 20376,
     'name' => 'Yingchuan',
@@ -9928,7 +9568,7 @@ return array (
     'latitude' => 34.16278,
     'longitude' => 113.46389,
   ),
-  1103 => 
+  1063 => 
   array (
     'id' => 20377,
     'name' => 'Yingdu',
@@ -9937,7 +9577,7 @@ return array (
     'latitude' => 24.97167,
     'longitude' => 118.24417,
   ),
-  1104 => 
+  1064 => 
   array (
     'id' => 20378,
     'name' => 'Yingkou',
@@ -9946,7 +9586,7 @@ return array (
     'latitude' => 40.63897,
     'longitude' => 122.24762,
   ),
-  1105 => 
+  1065 => 
   array (
     'id' => 20379,
     'name' => 'Yinglin',
@@ -9955,7 +9595,7 @@ return array (
     'latitude' => 24.63222,
     'longitude' => 118.58056,
   ),
-  1106 => 
+  1066 => 
   array (
     'id' => 20380,
     'name' => 'Yingshang Chengguanzhen',
@@ -9964,7 +9604,7 @@ return array (
     'latitude' => 32.62945,
     'longitude' => 116.27013,
   ),
-  1107 => 
+  1067 => 
   array (
     'id' => 20381,
     'name' => 'Yinzhu',
@@ -9973,7 +9613,7 @@ return array (
     'latitude' => 35.87861,
     'longitude' => 119.97528,
   ),
-  1108 => 
+  1068 => 
   array (
     'id' => 20382,
     'name' => 'Yishui',
@@ -9982,7 +9622,7 @@ return array (
     'latitude' => 35.78472,
     'longitude' => 118.62806,
   ),
-  1109 => 
+  1069 => 
   array (
     'id' => 20383,
     'name' => 'Yiwu',
@@ -9991,7 +9631,7 @@ return array (
     'latitude' => 29.31506,
     'longitude' => 120.07676,
   ),
-  1110 => 
+  1070 => 
   array (
     'id' => 20384,
     'name' => 'Yiyang',
@@ -10000,7 +9640,7 @@ return array (
     'latitude' => 28.58917,
     'longitude' => 112.32833,
   ),
-  1111 => 
+  1071 => 
   array (
     'id' => 20385,
     'name' => 'Yongchuan',
@@ -10009,7 +9649,7 @@ return array (
     'latitude' => 29.35376,
     'longitude' => 105.89392,
   ),
-  1112 => 
+  1072 => 
   array (
     'id' => 20386,
     'name' => 'Yongfeng',
@@ -10018,7 +9658,7 @@ return array (
     'latitude' => 27.42829,
     'longitude' => 112.18338,
   ),
-  1113 => 
+  1073 => 
   array (
     'id' => 20387,
     'name' => 'Yongning',
@@ -10027,7 +9667,7 @@ return array (
     'latitude' => 24.68,
     'longitude' => 118.69,
   ),
-  1114 => 
+  1074 => 
   array (
     'id' => 20388,
     'name' => 'Yongzhou',
@@ -10036,7 +9676,7 @@ return array (
     'latitude' => 26.44014,
     'longitude' => 111.6029,
   ),
-  1115 => 
+  1075 => 
   array (
     'id' => 20389,
     'name' => 'Youhao',
@@ -10045,7 +9685,7 @@ return array (
     'latitude' => 47.85306,
     'longitude' => 128.83565,
   ),
-  1116 => 
+  1076 => 
   array (
     'id' => 20390,
     'name' => 'Youyupu',
@@ -10054,7 +9694,7 @@ return array (
     'latitude' => 27.5517,
     'longitude' => 109.135,
   ),
-  1117 => 
+  1077 => 
   array (
     'id' => 20391,
     'name' => 'Yuanping',
@@ -10063,7 +9703,7 @@ return array (
     'latitude' => 38.71528,
     'longitude' => 112.7575,
   ),
-  1118 => 
+  1078 => 
   array (
     'id' => 20392,
     'name' => 'Yucheng',
@@ -10072,16 +9712,7 @@ return array (
     'latitude' => 29.98521,
     'longitude' => 102.999,
   ),
-  1119 => 
-  array (
-    'id' => 20393,
-    'name' => 'Yucheng',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 34.92889,
-    'longitude' => 116.46528,
-  ),
-  1120 => 
+  1079 => 
   array (
     'id' => 20394,
     'name' => 'Yuci',
@@ -10090,7 +9721,7 @@ return array (
     'latitude' => 37.68028,
     'longitude' => 112.73194,
   ),
-  1121 => 
+  1080 => 
   array (
     'id' => 20395,
     'name' => 'Yudong',
@@ -10099,7 +9730,7 @@ return array (
     'latitude' => 29.385,
     'longitude' => 106.51944,
   ),
-  1122 => 
+  1081 => 
   array (
     'id' => 20396,
     'name' => 'Yueyang',
@@ -10108,7 +9739,7 @@ return array (
     'latitude' => 29.37455,
     'longitude' => 113.09481,
   ),
-  1123 => 
+  1082 => 
   array (
     'id' => 20397,
     'name' => 'Yueyang Shi',
@@ -10117,7 +9748,7 @@ return array (
     'latitude' => 29.32472,
     'longitude' => 113.302,
   ),
-  1124 => 
+  1083 => 
   array (
     'id' => 20398,
     'name' => 'Yulin',
@@ -10126,7 +9757,7 @@ return array (
     'latitude' => 22.63333,
     'longitude' => 110.15,
   ),
-  1125 => 
+  1084 => 
   array (
     'id' => 20399,
     'name' => 'Yulinshi',
@@ -10135,7 +9766,7 @@ return array (
     'latitude' => 38.29181,
     'longitude' => 109.73753,
   ),
-  1126 => 
+  1085 => 
   array (
     'id' => 20400,
     'name' => 'Yuncheng',
@@ -10144,7 +9775,7 @@ return array (
     'latitude' => 35.02306,
     'longitude' => 110.99278,
   ),
-  1127 => 
+  1086 => 
   array (
     'id' => 20401,
     'name' => 'Yunfu',
@@ -10153,7 +9784,7 @@ return array (
     'latitude' => 22.92833,
     'longitude' => 112.03954,
   ),
-  1128 => 
+  1087 => 
   array (
     'id' => 20402,
     'name' => 'Yunmeng Chengguanzhen',
@@ -10162,7 +9793,7 @@ return array (
     'latitude' => 31.06251,
     'longitude' => 113.76545,
   ),
-  1129 => 
+  1088 => 
   array (
     'id' => 20403,
     'name' => 'Yunyang',
@@ -10171,7 +9802,7 @@ return array (
     'latitude' => 33.44743,
     'longitude' => 112.71422,
   ),
-  1130 => 
+  1089 => 
   array (
     'id' => 20404,
     'name' => 'Yushan',
@@ -10180,16 +9811,7 @@ return array (
     'latitude' => 26.90863,
     'longitude' => 118.56713,
   ),
-  1131 => 
-  array (
-    'id' => 20405,
-    'name' => 'Yushan',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 31.67748,
-    'longitude' => 120.80134,
-  ),
-  1132 => 
+  1090 => 
   array (
     'id' => 20406,
     'name' => 'Yushu',
@@ -10198,7 +9820,7 @@ return array (
     'latitude' => 44.8,
     'longitude' => 126.53333,
   ),
-  1133 => 
+  1091 => 
   array (
     'id' => 20407,
     'name' => 'Yushu Zangzu Zizhizhou',
@@ -10207,7 +9829,7 @@ return array (
     'latitude' => 34.39802,
     'longitude' => 94.19021,
   ),
-  1134 => 
+  1092 => 
   array (
     'id' => 20408,
     'name' => 'Yutan',
@@ -10216,7 +9838,7 @@ return array (
     'latitude' => 28.25831,
     'longitude' => 112.56048,
   ),
-  1135 => 
+  1093 => 
   array (
     'id' => 20409,
     'name' => 'Yuxi',
@@ -10225,7 +9847,7 @@ return array (
     'latitude' => 24.355,
     'longitude' => 102.54222,
   ),
-  1136 => 
+  1094 => 
   array (
     'id' => 20410,
     'name' => 'Yuxia',
@@ -10234,7 +9856,7 @@ return array (
     'latitude' => 34.06153,
     'longitude' => 108.62905,
   ),
-  1137 => 
+  1095 => 
   array (
     'id' => 20411,
     'name' => 'Yuyao',
@@ -10243,7 +9865,7 @@ return array (
     'latitude' => 30.05,
     'longitude' => 121.14944,
   ),
-  1138 => 
+  1096 => 
   array (
     'id' => 20412,
     'name' => 'Yuzhong District',
@@ -10252,7 +9874,7 @@ return array (
     'latitude' => 29.55208,
     'longitude' => 106.53814,
   ),
-  1139 => 
+  1097 => 
   array (
     'id' => 20413,
     'name' => 'Zangguy',
@@ -10261,7 +9883,7 @@ return array (
     'latitude' => 37.28333,
     'longitude' => 78.76667,
   ),
-  1140 => 
+  1098 => 
   array (
     'id' => 20414,
     'name' => 'Zaoyang',
@@ -10270,7 +9892,7 @@ return array (
     'latitude' => 32.12722,
     'longitude' => 112.75417,
   ),
-  1141 => 
+  1099 => 
   array (
     'id' => 20415,
     'name' => 'Zaozhuang',
@@ -10279,7 +9901,7 @@ return array (
     'latitude' => 34.86472,
     'longitude' => 117.55417,
   ),
-  1142 => 
+  1100 => 
   array (
     'id' => 20416,
     'name' => 'Zengjia',
@@ -10288,7 +9910,7 @@ return array (
     'latitude' => 32.61957,
     'longitude' => 106.10118,
   ),
-  1143 => 
+  1101 => 
   array (
     'id' => 20417,
     'name' => 'Zhabei',
@@ -10297,7 +9919,7 @@ return array (
     'latitude' => 31.25861,
     'longitude' => 121.45972,
   ),
-  1144 => 
+  1102 => 
   array (
     'id' => 20418,
     'name' => 'Zhaishi Miaozu Dongzuxiang',
@@ -10306,7 +9928,7 @@ return array (
     'latitude' => 26.50083,
     'longitude' => 110.04444,
   ),
-  1145 => 
+  1103 => 
   array (
     'id' => 20419,
     'name' => 'Zhalantun',
@@ -10315,7 +9937,7 @@ return array (
     'latitude' => 48.00945,
     'longitude' => 122.73651,
   ),
-  1146 => 
+  1104 => 
   array (
     'id' => 20420,
     'name' => 'Zhangjiagang',
@@ -10324,7 +9946,7 @@ return array (
     'latitude' => 31.865,
     'longitude' => 120.53889,
   ),
-  1147 => 
+  1105 => 
   array (
     'id' => 20421,
     'name' => 'Zhangjiajie',
@@ -10333,7 +9955,7 @@ return array (
     'latitude' => 29.12944,
     'longitude' => 110.47833,
   ),
-  1148 => 
+  1106 => 
   array (
     'id' => 20422,
     'name' => 'Zhangjiakou',
@@ -10342,7 +9964,7 @@ return array (
     'latitude' => 40.81,
     'longitude' => 114.87944,
   ),
-  1149 => 
+  1107 => 
   array (
     'id' => 20423,
     'name' => 'Zhangjiakou Shi',
@@ -10351,7 +9973,7 @@ return array (
     'latitude' => 40.83333,
     'longitude' => 114.93333,
   ),
-  1150 => 
+  1108 => 
   array (
     'id' => 20424,
     'name' => 'Zhangjiakou Shi Xuanhua Qu',
@@ -10360,7 +9982,7 @@ return array (
     'latitude' => 40.61028,
     'longitude' => 115.04472,
   ),
-  1151 => 
+  1109 => 
   array (
     'id' => 20425,
     'name' => 'Zhangwan',
@@ -10369,7 +9991,7 @@ return array (
     'latitude' => 26.71139,
     'longitude' => 119.59194,
   ),
-  1152 => 
+  1110 => 
   array (
     'id' => 20426,
     'name' => 'Zhangye',
@@ -10378,7 +10000,7 @@ return array (
     'latitude' => 38.93417,
     'longitude' => 100.45167,
   ),
-  1153 => 
+  1111 => 
   array (
     'id' => 20427,
     'name' => 'Zhangye Shi',
@@ -10387,7 +10009,7 @@ return array (
     'latitude' => 39.12183,
     'longitude' => 99.92495,
   ),
-  1154 => 
+  1112 => 
   array (
     'id' => 20428,
     'name' => 'Zhangzhou',
@@ -10396,7 +10018,7 @@ return array (
     'latitude' => 24.51333,
     'longitude' => 117.65556,
   ),
-  1155 => 
+  1113 => 
   array (
     'id' => 20429,
     'name' => 'Zhanjiang',
@@ -10405,7 +10027,7 @@ return array (
     'latitude' => 21.28145,
     'longitude' => 110.34271,
   ),
-  1156 => 
+  1114 => 
   array (
     'id' => 20430,
     'name' => 'Zhaobaoshan',
@@ -10414,7 +10036,7 @@ return array (
     'latitude' => 29.9695,
     'longitude' => 121.68753,
   ),
-  1157 => 
+  1115 => 
   array (
     'id' => 20431,
     'name' => 'Zhaodong',
@@ -10423,7 +10045,7 @@ return array (
     'latitude' => 46.06771,
     'longitude' => 125.98263,
   ),
-  1158 => 
+  1116 => 
   array (
     'id' => 20432,
     'name' => 'Zhaogezhuang',
@@ -10432,7 +10054,7 @@ return array (
     'latitude' => 39.76538,
     'longitude' => 118.41191,
   ),
-  1159 => 
+  1117 => 
   array (
     'id' => 20433,
     'name' => 'Zhaoqing',
@@ -10441,7 +10063,7 @@ return array (
     'latitude' => 23.04893,
     'longitude' => 112.46091,
   ),
-  1160 => 
+  1118 => 
   array (
     'id' => 20434,
     'name' => 'Zhaotong',
@@ -10450,7 +10072,7 @@ return array (
     'latitude' => 27.31667,
     'longitude' => 103.71667,
   ),
-  1161 => 
+  1119 => 
   array (
     'id' => 20435,
     'name' => 'Zhaoyuan',
@@ -10459,16 +10081,7 @@ return array (
     'latitude' => 37.36497,
     'longitude' => 120.40997,
   ),
-  1162 => 
-  array (
-    'id' => 20436,
-    'name' => 'Zhaoyuan',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 45.5,
-    'longitude' => 125.13333,
-  ),
-  1163 => 
+  1120 => 
   array (
     'id' => 20437,
     'name' => 'Zhaozhou',
@@ -10477,7 +10090,7 @@ return array (
     'latitude' => 45.68333,
     'longitude' => 125.31667,
   ),
-  1164 => 
+  1121 => 
   array (
     'id' => 20438,
     'name' => 'Zhengjiatun',
@@ -10486,7 +10099,7 @@ return array (
     'latitude' => 43.50639,
     'longitude' => 123.50639,
   ),
-  1165 => 
+  1122 => 
   array (
     'id' => 20439,
     'name' => 'Zhengzhou',
@@ -10495,7 +10108,7 @@ return array (
     'latitude' => 34.75778,
     'longitude' => 113.64861,
   ),
-  1166 => 
+  1123 => 
   array (
     'id' => 20440,
     'name' => 'Zhenhaicun',
@@ -10504,7 +10117,7 @@ return array (
     'latitude' => 24.25894,
     'longitude' => 118.09186,
   ),
-  1167 => 
+  1124 => 
   array (
     'id' => 20441,
     'name' => 'Zhenjiang',
@@ -10513,7 +10126,7 @@ return array (
     'latitude' => 32.21086,
     'longitude' => 119.45508,
   ),
-  1168 => 
+  1125 => 
   array (
     'id' => 20442,
     'name' => 'Zhenlai',
@@ -10522,7 +10135,7 @@ return array (
     'latitude' => 45.84955,
     'longitude' => 123.2973,
   ),
-  1169 => 
+  1126 => 
   array (
     'id' => 20443,
     'name' => 'Zhenzhou',
@@ -10531,7 +10144,7 @@ return array (
     'latitude' => 32.28034,
     'longitude' => 119.16999,
   ),
-  1170 => 
+  1127 => 
   array (
     'id' => 20444,
     'name' => 'Zhicheng',
@@ -10540,16 +10153,7 @@ return array (
     'latitude' => 31.00751,
     'longitude' => 119.90851,
   ),
-  1171 => 
-  array (
-    'id' => 20445,
-    'name' => 'Zhicheng',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 30.29556,
-    'longitude' => 111.50472,
-  ),
-  1172 => 
+  1128 => 
   array (
     'id' => 20446,
     'name' => 'Zhijiang',
@@ -10558,7 +10162,7 @@ return array (
     'latitude' => 30.42139,
     'longitude' => 111.75333,
   ),
-  1173 => 
+  1129 => 
   array (
     'id' => 20447,
     'name' => 'Zhongba',
@@ -10567,7 +10171,7 @@ return array (
     'latitude' => 31.77819,
     'longitude' => 104.73932,
   ),
-  1174 => 
+  1130 => 
   array (
     'id' => 20448,
     'name' => 'Zhongchao',
@@ -10576,7 +10180,7 @@ return array (
     'latitude' => 26.1375,
     'longitude' => 109.22,
   ),
-  1175 => 
+  1131 => 
   array (
     'id' => 20449,
     'name' => 'Zhongfang',
@@ -10585,16 +10189,7 @@ return array (
     'latitude' => 27.41139,
     'longitude' => 109.93194,
   ),
-  1176 => 
-  array (
-    'id' => 20450,
-    'name' => 'Zhongfang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 26.60083,
-    'longitude' => 119.42583,
-  ),
-  1177 => 
+  1132 => 
   array (
     'id' => 20451,
     'name' => 'Zhongshan',
@@ -10603,7 +10198,7 @@ return array (
     'latitude' => 21.31992,
     'longitude' => 110.5723,
   ),
-  1178 => 
+  1133 => 
   array (
     'id' => 20452,
     'name' => 'Zhongshan Prefecture',
@@ -10612,7 +10207,7 @@ return array (
     'latitude' => 22.55358,
     'longitude' => 113.3755,
   ),
-  1179 => 
+  1134 => 
   array (
     'id' => 20453,
     'name' => 'Zhongshu',
@@ -10621,7 +10216,7 @@ return array (
     'latitude' => 24.51667,
     'longitude' => 103.76667,
   ),
-  1180 => 
+  1135 => 
   array (
     'id' => 20454,
     'name' => 'Zhongwei',
@@ -10630,7 +10225,7 @@ return array (
     'latitude' => 37.51129,
     'longitude' => 105.19067,
   ),
-  1181 => 
+  1136 => 
   array (
     'id' => 20455,
     'name' => 'Zhongxiang',
@@ -10639,7 +10234,7 @@ return array (
     'latitude' => 31.16611,
     'longitude' => 112.58306,
   ),
-  1182 => 
+  1137 => 
   array (
     'id' => 20456,
     'name' => 'Zhongxing',
@@ -10648,7 +10243,7 @@ return array (
     'latitude' => 33.70389,
     'longitude' => 118.67917,
   ),
-  1183 => 
+  1138 => 
   array (
     'id' => 20457,
     'name' => 'Zhongzhai',
@@ -10657,7 +10252,7 @@ return array (
     'latitude' => 27.19528,
     'longitude' => 109.26861,
   ),
-  1184 => 
+  1139 => 
   array (
     'id' => 20458,
     'name' => 'Zhoucheng',
@@ -10666,7 +10261,7 @@ return array (
     'latitude' => 35.91222,
     'longitude' => 116.31167,
   ),
-  1185 => 
+  1140 => 
   array (
     'id' => 20459,
     'name' => 'Zhoucun',
@@ -10675,7 +10270,7 @@ return array (
     'latitude' => 36.81667,
     'longitude' => 117.81667,
   ),
-  1186 => 
+  1141 => 
   array (
     'id' => 20460,
     'name' => 'Zhoukou',
@@ -10684,7 +10279,7 @@ return array (
     'latitude' => 33.63333,
     'longitude' => 114.63333,
   ),
-  1187 => 
+  1142 => 
   array (
     'id' => 20461,
     'name' => 'Zhoushan',
@@ -10693,7 +10288,7 @@ return array (
     'latitude' => 29.98869,
     'longitude' => 122.20488,
   ),
-  1188 => 
+  1143 => 
   array (
     'id' => 20462,
     'name' => 'Zhouzhuang',
@@ -10702,7 +10297,7 @@ return array (
     'latitude' => 31.11788,
     'longitude' => 120.84427,
   ),
-  1189 => 
+  1144 => 
   array (
     'id' => 20463,
     'name' => 'Zhu Cheng City',
@@ -10711,7 +10306,7 @@ return array (
     'latitude' => 35.99502,
     'longitude' => 119.40259,
   ),
-  1190 => 
+  1145 => 
   array (
     'id' => 20464,
     'name' => 'Zhuanghe',
@@ -10720,7 +10315,7 @@ return array (
     'latitude' => 39.70083,
     'longitude' => 122.99111,
   ),
-  1191 => 
+  1146 => 
   array (
     'id' => 20465,
     'name' => 'Zhuangyuan',
@@ -10729,7 +10324,7 @@ return array (
     'latitude' => 37.30553,
     'longitude' => 120.82747,
   ),
-  1192 => 
+  1147 => 
   array (
     'id' => 20466,
     'name' => 'Zhuhai',
@@ -10738,7 +10333,7 @@ return array (
     'latitude' => 22.27694,
     'longitude' => 113.56778,
   ),
-  1193 => 
+  1148 => 
   array (
     'id' => 20467,
     'name' => 'Zhuji',
@@ -10747,7 +10342,7 @@ return array (
     'latitude' => 29.71877,
     'longitude' => 120.24233,
   ),
-  1194 => 
+  1149 => 
   array (
     'id' => 20468,
     'name' => 'Zhujiachang',
@@ -10756,7 +10351,7 @@ return array (
     'latitude' => 27.3575,
     'longitude' => 108.93833,
   ),
-  1195 => 
+  1150 => 
   array (
     'id' => 20469,
     'name' => 'Zhujiajiao',
@@ -10765,7 +10360,7 @@ return array (
     'latitude' => 31.10757,
     'longitude' => 121.05696,
   ),
-  1196 => 
+  1151 => 
   array (
     'id' => 20470,
     'name' => 'Zhumadian',
@@ -10774,7 +10369,7 @@ return array (
     'latitude' => 32.97944,
     'longitude' => 114.02944,
   ),
-  1197 => 
+  1152 => 
   array (
     'id' => 20471,
     'name' => 'Zhumadian Shi',
@@ -10783,7 +10378,7 @@ return array (
     'latitude' => 32.99417,
     'longitude' => 114.06167,
   ),
-  1198 => 
+  1153 => 
   array (
     'id' => 20472,
     'name' => 'Zhuoyang',
@@ -10792,7 +10387,7 @@ return array (
     'latitude' => 26.63003,
     'longitude' => 119.0215,
   ),
-  1199 => 
+  1154 => 
   array (
     'id' => 20473,
     'name' => 'Zhuqi',
@@ -10801,7 +10396,7 @@ return array (
     'latitude' => 26.1486,
     'longitude' => 119.10216,
   ),
-  1200 => 
+  1155 => 
   array (
     'id' => 20474,
     'name' => 'Zhushi',
@@ -10810,7 +10405,7 @@ return array (
     'latitude' => 27.08778,
     'longitude' => 110.67694,
   ),
-  1201 => 
+  1156 => 
   array (
     'id' => 20475,
     'name' => 'Zhuzhou',
@@ -10819,7 +10414,7 @@ return array (
     'latitude' => 27.83333,
     'longitude' => 113.15,
   ),
-  1202 => 
+  1157 => 
   array (
     'id' => 20476,
     'name' => 'Zhuzhou Shi',
@@ -10828,7 +10423,7 @@ return array (
     'latitude' => 27.8245,
     'longitude' => 113.08228,
   ),
-  1203 => 
+  1158 => 
   array (
     'id' => 20477,
     'name' => 'Zhuzhoujiang Miaozuxiang',
@@ -10837,7 +10432,7 @@ return array (
     'latitude' => 26.67528,
     'longitude' => 110.07194,
   ),
-  1204 => 
+  1159 => 
   array (
     'id' => 20478,
     'name' => 'Zibo',
@@ -10846,7 +10441,7 @@ return array (
     'latitude' => 36.79056,
     'longitude' => 118.06333,
   ),
-  1205 => 
+  1160 => 
   array (
     'id' => 20479,
     'name' => 'Zigong',
@@ -10855,7 +10450,7 @@ return array (
     'latitude' => 29.34162,
     'longitude' => 104.77689,
   ),
-  1206 => 
+  1161 => 
   array (
     'id' => 20480,
     'name' => 'Zijinglu',
@@ -10864,7 +10459,7 @@ return array (
     'latitude' => 34.76,
     'longitude' => 112.97139,
   ),
-  1207 => 
+  1162 => 
   array (
     'id' => 20481,
     'name' => 'Zoucheng',
@@ -10873,7 +10468,7 @@ return array (
     'latitude' => 35.40056,
     'longitude' => 116.96556,
   ),
-  1208 => 
+  1163 => 
   array (
     'id' => 20482,
     'name' => 'Zunhua',
@@ -10882,7 +10477,7 @@ return array (
     'latitude' => 40.17917,
     'longitude' => 117.95861,
   ),
-  1209 => 
+  1164 => 
   array (
     'id' => 20483,
     'name' => 'Zunyi',
@@ -10891,7 +10486,7 @@ return array (
     'latitude' => 27.68667,
     'longitude' => 106.90722,
   ),
-  1210 => 
+  1165 => 
   array (
     'id' => 20484,
     'name' => 'Ürümqi',
@@ -10900,7 +10495,7 @@ return array (
     'latitude' => 43.80096,
     'longitude' => 87.60046,
   ),
-  1211 => 
+  1166 => 
   array (
     'id' => 149146,
     'name' => 'Badaogu',
@@ -10909,7 +10504,7 @@ return array (
     'latitude' => 39.47333333,
     'longitude' => 117.32972222,
   ),
-  1212 => 
+  1167 => 
   array (
     'id' => 149147,
     'name' => 'Baijian',
@@ -10918,7 +10513,7 @@ return array (
     'latitude' => 39.99416667,
     'longitude' => 117.20861111,
   ),
-  1213 => 
+  1168 => 
   array (
     'id' => 149148,
     'name' => 'Bamencheng',
@@ -10927,7 +10522,7 @@ return array (
     'latitude' => 39.57777778,
     'longitude' => 117.60527778,
   ),
-  1214 => 
+  1169 => 
   array (
     'id' => 149149,
     'name' => 'Bangjun',
@@ -10936,7 +10531,7 @@ return array (
     'latitude' => 39.98839,
     'longitude' => 117.2685,
   ),
-  1215 => 
+  1170 => 
   array (
     'id' => 149150,
     'name' => 'Beicang',
@@ -10945,7 +10540,7 @@ return array (
     'latitude' => 39.23007,
     'longitude' => 117.11892,
   ),
-  1216 => 
+  1171 => 
   array (
     'id' => 149151,
     'name' => 'Beihuaidian',
@@ -10954,7 +10549,7 @@ return array (
     'latitude' => 39.2622,
     'longitude' => 117.57485,
   ),
-  1217 => 
+  1172 => 
   array (
     'id' => 149152,
     'name' => 'Beilizigu',
@@ -10963,7 +10558,7 @@ return array (
     'latitude' => 39.49138889,
     'longitude' => 117.465,
   ),
-  1218 => 
+  1173 => 
   array (
     'id' => 149153,
     'name' => 'Biaokou',
@@ -10972,7 +10567,7 @@ return array (
     'latitude' => 39.3295,
     'longitude' => 117.56914,
   ),
-  1219 => 
+  1174 => 
   array (
     'id' => 149154,
     'name' => 'Binhai New Area',
@@ -10981,7 +10576,7 @@ return array (
     'latitude' => 39.00333333,
     'longitude' => 117.71083333,
   ),
-  1220 => 
+  1175 => 
   array (
     'id' => 149155,
     'name' => 'Caijiapu',
@@ -10990,7 +10585,7 @@ return array (
     'latitude' => 39.17305556,
     'longitude' => 117.81055556,
   ),
-  1221 => 
+  1176 => 
   array (
     'id' => 149156,
     'name' => 'Caodian',
@@ -10999,7 +10594,7 @@ return array (
     'latitude' => 39.61194444,
     'longitude' => 117.47166667,
   ),
-  1222 => 
+  1177 => 
   array (
     'id' => 149157,
     'name' => 'Chabaihu',
@@ -11008,7 +10603,7 @@ return array (
     'latitude' => 39.46555556,
     'longitude' => 117.14833333,
   ),
-  1223 => 
+  1178 => 
   array (
     'id' => 149158,
     'name' => 'Changtun',
@@ -11017,7 +10612,7 @@ return array (
     'latitude' => 39.44333333,
     'longitude' => 117.07055556,
   ),
-  1224 => 
+  1179 => 
   array (
     'id' => 149159,
     'name' => 'Chengtougu',
@@ -11026,7 +10621,7 @@ return array (
     'latitude' => 39.14,
     'longitude' => 117.77888889,
   ),
-  1225 => 
+  1180 => 
   array (
     'id' => 149160,
     'name' => 'Chitu',
@@ -11035,7 +10630,7 @@ return array (
     'latitude' => 39.20333333,
     'longitude' => 117.40277778,
   ),
-  1226 => 
+  1181 => 
   array (
     'id' => 149161,
     'name' => 'Cuijiamatou',
@@ -11044,7 +10639,7 @@ return array (
     'latitude' => 39.07472222,
     'longitude' => 117.30055556,
   ),
-  1227 => 
+  1182 => 
   array (
     'id' => 149162,
     'name' => 'Dadunqiu',
@@ -11053,7 +10648,7 @@ return array (
     'latitude' => 39.40611111,
     'longitude' => 117.03305556,
   ),
-  1228 => 
+  1183 => 
   array (
     'id' => 149163,
     'name' => 'Dakoutun',
@@ -11062,7 +10657,7 @@ return array (
     'latitude' => 39.58555556,
     'longitude' => 117.23638889,
   ),
-  1229 => 
+  1184 => 
   array (
     'id' => 149164,
     'name' => 'Dashentang',
@@ -11071,7 +10666,7 @@ return array (
     'latitude' => 39.21722222,
     'longitude' => 117.9525,
   ),
-  1230 => 
+  1185 => 
   array (
     'id' => 149165,
     'name' => 'Dawangtai',
@@ -11080,7 +10675,7 @@ return array (
     'latitude' => 39.275,
     'longitude' => 117.485,
   ),
-  1231 => 
+  1186 => 
   array (
     'id' => 149166,
     'name' => 'Daxinzhuang',
@@ -11089,7 +10684,7 @@ return array (
     'latitude' => 39.50361111,
     'longitude' => 117.68611111,
   ),
-  1232 => 
+  1187 => 
   array (
     'id' => 149167,
     'name' => 'Dazhongzhuang',
@@ -11098,7 +10693,7 @@ return array (
     'latitude' => 39.68083333,
     'longitude' => 117.56416667,
   ),
-  1233 => 
+  1188 => 
   array (
     'id' => 149168,
     'name' => 'Dongditou',
@@ -11107,7 +10702,7 @@ return array (
     'latitude' => 39.26638889,
     'longitude' => 117.37277778,
   ),
-  1234 => 
+  1189 => 
   array (
     'id' => 149169,
     'name' => 'Dongshigu',
@@ -11116,7 +10711,7 @@ return array (
     'latitude' => 39.87889,
     'longitude' => 117.33028,
   ),
-  1235 => 
+  1190 => 
   array (
     'id' => 149170,
     'name' => 'Erwangzhuang',
@@ -11125,7 +10720,7 @@ return array (
     'latitude' => 39.39166667,
     'longitude' => 117.35388889,
   ),
-  1236 => 
+  1191 => 
   array (
     'id' => 149171,
     'name' => 'Fanzhuang',
@@ -11134,7 +10729,7 @@ return array (
     'latitude' => 39.19361111,
     'longitude' => 117.335,
   ),
-  1237 => 
+  1192 => 
   array (
     'id' => 149173,
     'name' => 'Fuzhuang',
@@ -11143,7 +10738,7 @@ return array (
     'latitude' => 39.26611111,
     'longitude' => 117.93444444,
   ),
-  1238 => 
+  1193 => 
   array (
     'id' => 149174,
     'name' => 'Gaojingzhuang',
@@ -11152,7 +10747,7 @@ return array (
     'latitude' => 39.41611111,
     'longitude' => 117.63,
   ),
-  1239 => 
+  1194 => 
   array (
     'id' => 149175,
     'name' => 'Hanjiashu',
@@ -11161,7 +10756,7 @@ return array (
     'latitude' => 39.1875,
     'longitude' => 117.07305556,
   ),
-  1240 => 
+  1195 => 
   array (
     'id' => 149176,
     'name' => 'Hebeitun',
@@ -11170,7 +10765,7 @@ return array (
     'latitude' => 39.57472222,
     'longitude' => 117.11333333,
   ),
-  1241 => 
+  1196 => 
   array (
     'id' => 149177,
     'name' => 'Hexiwu',
@@ -11179,7 +10774,7 @@ return array (
     'latitude' => 39.62249,
     'longitude' => 116.95398,
   ),
-  1242 => 
+  1197 => 
   array (
     'id' => 149178,
     'name' => 'Huangcaotuo',
@@ -11188,7 +10783,7 @@ return array (
     'latitude' => 39.17944444,
     'longitude' => 117.32166667,
   ),
-  1243 => 
+  1198 => 
   array (
     'id' => 149179,
     'name' => 'Huantuo',
@@ -11197,7 +10792,7 @@ return array (
     'latitude' => 39.22638889,
     'longitude' => 117.32388889,
   ),
-  1244 => 
+  1199 => 
   array (
     'id' => 149180,
     'name' => 'Huogezhuang',
@@ -11206,7 +10801,7 @@ return array (
     'latitude' => 39.74388889,
     'longitude' => 117.3675,
   ),
-  1245 => 
+  1200 => 
   array (
     'id' => 149181,
     'name' => 'Jiangwakou',
@@ -11215,7 +10810,7 @@ return array (
     'latitude' => 39.5225,
     'longitude' => 117.7025,
   ),
-  1246 => 
+  1201 => 
   array (
     'id' => 149182,
     'name' => 'Zhangjiawo',
@@ -11224,7 +10819,7 @@ return array (
     'latitude' => 39.05675,
     'longitude' => 117.03624,
   ),
-  1247 => 
+  1202 => 
   array (
     'id' => 149183,
     'name' => 'Lianzhuang',
@@ -11233,7 +10828,7 @@ return array (
     'latitude' => 39.41,
     'longitude' => 117.75638889,
   ),
-  1248 => 
+  1203 => 
   array (
     'id' => 149184,
     'name' => 'Lintingkou',
@@ -11242,7 +10837,7 @@ return array (
     'latitude' => 39.63027778,
     'longitude' => 117.50027778,
   ),
-  1249 => 
+  1204 => 
   array (
     'id' => 149185,
     'name' => 'Liujiading',
@@ -11251,7 +10846,7 @@ return array (
     'latitude' => 39.96305556,
     'longitude' => 117.19111111,
   ),
-  1250 => 
+  1205 => 
   array (
     'id' => 149186,
     'name' => 'Liukuaizhuang',
@@ -11260,7 +10855,7 @@ return array (
     'latitude' => 39.24777778,
     'longitude' => 117.33944444,
   ),
-  1251 => 
+  1206 => 
   array (
     'id' => 149187,
     'name' => 'Liuzikou',
@@ -11269,7 +10864,7 @@ return array (
     'latitude' => 39.87027778,
     'longitude' => 117.34666667,
   ),
-  1252 => 
+  1207 => 
   array (
     'id' => 149188,
     'name' => 'Luotuofangzi',
@@ -11278,7 +10873,7 @@ return array (
     'latitude' => 39.08361111,
     'longitude' => 117.37694444,
   ),
-  1253 => 
+  1208 => 
   array (
     'id' => 149189,
     'name' => 'Meichang',
@@ -11287,7 +10882,7 @@ return array (
     'latitude' => 39.36611111,
     'longitude' => 117.18055556,
   ),
-  1254 => 
+  1209 => 
   array (
     'id' => 149190,
     'name' => 'Mengquan',
@@ -11296,7 +10891,7 @@ return array (
     'latitude' => 39.82527778,
     'longitude' => 117.47666667,
   ),
-  1255 => 
+  1210 => 
   array (
     'id' => 149191,
     'name' => 'Panzhuang',
@@ -11305,7 +10900,7 @@ return array (
     'latitude' => 39.33943,
     'longitude' => 117.4682,
   ),
-  1256 => 
+  1211 => 
   array (
     'id' => 149192,
     'name' => 'Qingguang',
@@ -11314,7 +10909,7 @@ return array (
     'latitude' => 39.19668,
     'longitude' => 117.05475,
   ),
-  1257 => 
+  1212 => 
   array (
     'id' => 149193,
     'name' => 'Sangzi',
@@ -11323,7 +10918,7 @@ return array (
     'latitude' => 39.90853,
     'longitude' => 117.16535,
   ),
-  1258 => 
+  1213 => 
   array (
     'id' => 149194,
     'name' => 'Shangcang',
@@ -11332,7 +10927,7 @@ return array (
     'latitude' => 39.90518,
     'longitude' => 117.39553,
   ),
-  1259 => 
+  1214 => 
   array (
     'id' => 149195,
     'name' => 'Shimianzhuang',
@@ -11341,16 +10936,7 @@ return array (
     'latitude' => 39.418,
     'longitude' => 117.1569,
   ),
-  1260 => 
-  array (
-    'id' => 149196,
-    'name' => 'Shuangjiang',
-    'country_id' => 45,
-    'country_code' => 'CN',
-    'latitude' => 39.0419,
-    'longitude' => 117.31235,
-  ),
-  1261 => 
+  1215 => 
   array (
     'id' => 149197,
     'name' => 'Sigaozhuang',
@@ -11359,7 +10945,7 @@ return array (
     'latitude' => 39.46713,
     'longitude' => 117.25554,
   ),
-  1262 => 
+  1216 => 
   array (
     'id' => 149198,
     'name' => 'Tianjin',
@@ -11368,7 +10954,7 @@ return array (
     'latitude' => 39.14666667,
     'longitude' => 117.20555556,
   ),
-  1263 => 
+  1217 => 
   array (
     'id' => 149199,
     'name' => 'Touying',
@@ -11377,7 +10963,7 @@ return array (
     'latitude' => 39.96389,
     'longitude' => 117.21833,
   ),
-  1264 => 
+  1218 => 
   array (
     'id' => 149200,
     'name' => 'Wangqinzhuang',
@@ -11386,7 +10972,7 @@ return array (
     'latitude' => 39.22942,
     'longitude' => 117.08968,
   ),
-  1265 => 
+  1219 => 
   array (
     'id' => 149201,
     'name' => 'Weiwangzhuang',
@@ -11395,7 +10981,7 @@ return array (
     'latitude' => 39.025,
     'longitude' => 117.44083,
   ),
-  1266 => 
+  1220 => 
   array (
     'id' => 149202,
     'name' => 'Xiawuqi',
@@ -11404,7 +10990,7 @@ return array (
     'latitude' => 39.61551,
     'longitude' => 117.05523,
   ),
-  1267 => 
+  1221 => 
   array (
     'id' => 149203,
     'name' => 'Xiditou',
@@ -11413,7 +10999,7 @@ return array (
     'latitude' => 39.2532,
     'longitude' => 117.34709,
   ),
-  1268 => 
+  1222 => 
   array (
     'id' => 149204,
     'name' => 'Xinkaikou',
@@ -11422,7 +11008,7 @@ return array (
     'latitude' => 39.67996,
     'longitude' => 117.18877,
   ),
-  1269 => 
+  1223 => 
   array (
     'id' => 149205,
     'name' => 'Xitazhuang',
@@ -11431,7 +11017,7 @@ return array (
     'latitude' => 39.93306,
     'longitude' => 117.21083,
   ),
-  1270 => 
+  1224 => 
   array (
     'id' => 149206,
     'name' => 'Yangjinzhuang',
@@ -11440,7 +11026,7 @@ return array (
     'latitude' => 39.86645,
     'longitude' => 117.42592,
   ),
-  1271 => 
+  1225 => 
   array (
     'id' => 149207,
     'name' => 'Yangliuqing',
@@ -11449,7 +11035,7 @@ return array (
     'latitude' => 39.1274,
     'longitude' => 117.00885,
   ),
-  1272 => 
+  1226 => 
   array (
     'id' => 149208,
     'name' => 'Yinliu',
@@ -11458,7 +11044,7 @@ return array (
     'latitude' => 39.98349,
     'longitude' => 117.39904,
   ),
-  1273 => 
+  1227 => 
   array (
     'id' => 149209,
     'name' => 'Yixingfu',
@@ -11467,7 +11053,7 @@ return array (
     'latitude' => 39.19917,
     'longitude' => 117.21139,
   ),
-  1274 => 
+  1228 => 
   array (
     'id' => 149210,
     'name' => 'Youguzhuang',
@@ -11476,7 +11062,7 @@ return array (
     'latitude' => 39.90802,
     'longitude' => 117.24576,
   ),
-  1275 => 
+  1229 => 
   array (
     'id' => 149211,
     'name' => 'Yuelongzhuang',
@@ -11485,7 +11071,7 @@ return array (
     'latitude' => 39.56833,
     'longitude' => 117.85417,
   ),
-  1276 => 
+  1230 => 
   array (
     'id' => 149212,
     'name' => 'Yuguzhuang',
@@ -11494,7 +11080,7 @@ return array (
     'latitude' => 39.6429,
     'longitude' => 117.3647,
   ),
-  1277 => 
+  1231 => 
   array (
     'id' => 149213,
     'name' => 'Zaojiacheng',
@@ -11503,7 +11089,7 @@ return array (
     'latitude' => 39.28174,
     'longitude' => 117.42516,
   ),
-  1278 => 
+  1232 => 
   array (
     'id' => 149214,
     'name' => 'Zhaoguli',
@@ -11512,7 +11098,7 @@ return array (
     'latitude' => 39.16673,
     'longitude' => 117.24191,
   ),
-  1279 => 
+  1233 => 
   array (
     'id' => 149263,
     'name' => 'NanJing',
@@ -11521,7 +11107,7 @@ return array (
     'latitude' => 31.32751,
     'longitude' => 118.8921,
   ),
-  1280 => 
+  1234 => 
   array (
     'id' => 149264,
     'name' => 'WuXi',
@@ -11530,7 +11116,7 @@ return array (
     'latitude' => 31.52853,
     'longitude' => 120.28429,
   ),
-  1281 => 
+  1235 => 
   array (
     'id' => 149265,
     'name' => 'XuZhou',
@@ -11539,7 +11125,7 @@ return array (
     'latitude' => 34.28823,
     'longitude' => 117.18554,
   ),
-  1282 => 
+  1236 => 
   array (
     'id' => 149266,
     'name' => 'ChangZhou',
@@ -11548,7 +11134,7 @@ return array (
     'latitude' => 31.72322,
     'longitude' => 119.59794,
   ),
-  1283 => 
+  1237 => 
   array (
     'id' => 149267,
     'name' => 'SuZhou',
@@ -11557,7 +11143,7 @@ return array (
     'latitude' => 31.30227,
     'longitude' => 120.63132,
   ),
-  1284 => 
+  1238 => 
   array (
     'id' => 149268,
     'name' => 'NanTong',
@@ -11566,7 +11152,7 @@ return array (
     'latitude' => 32.00986,
     'longitude' => 120.85737,
   ),
-  1285 => 
+  1239 => 
   array (
     'id' => 149269,
     'name' => 'LianYunGang',
@@ -11575,7 +11161,7 @@ return array (
     'latitude' => 34.84065,
     'longitude' => 119.1773,
   ),
-  1286 => 
+  1240 => 
   array (
     'id' => 149270,
     'name' => 'HuaiAn',
@@ -11584,7 +11170,7 @@ return array (
     'latitude' => 33.29433,
     'longitude' => 118.8735,
   ),
-  1287 => 
+  1241 => 
   array (
     'id' => 149271,
     'name' => 'YanCheng',
@@ -11593,7 +11179,7 @@ return array (
     'latitude' => 33.20107,
     'longitude' => 120.50102,
   ),
-  1288 => 
+  1242 => 
   array (
     'id' => 149272,
     'name' => 'YangZhou',
@@ -11602,7 +11188,7 @@ return array (
     'latitude' => 32.39463,
     'longitude' => 119.43157,
   ),
-  1289 => 
+  1243 => 
   array (
     'id' => 149273,
     'name' => 'ZhenJiang',
@@ -11611,7 +11197,7 @@ return array (
     'latitude' => 32.13188,
     'longitude' => 119.43396,
   ),
-  1290 => 
+  1244 => 
   array (
     'id' => 149274,
     'name' => 'TaiZhou',
@@ -11620,7 +11206,7 @@ return array (
     'latitude' => 32.31841,
     'longitude' => 119.88116,
   ),
-  1291 => 
+  1245 => 
   array (
     'id' => 149275,
     'name' => 'SuQian',

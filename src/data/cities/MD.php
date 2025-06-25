@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -57,15 +57,6 @@ return array (
   ),
   6 => 
   array (
-    'id' => 67277,
-    'name' => 'Briceni',
-    'country_id' => 144,
-    'country_code' => 'MD',
-    'latitude' => 48.35628,
-    'longitude' => 27.70293,
-  ),
-  7 => 
-  array (
     'id' => 67278,
     'name' => 'Bucovăţ',
     'country_id' => 144,
@@ -73,7 +64,7 @@ return array (
     'latitude' => 47.19064,
     'longitude' => 28.45802,
   ),
-  8 => 
+  7 => 
   array (
     'id' => 67279,
     'name' => 'Bugeac',
@@ -82,7 +73,7 @@ return array (
     'latitude' => 46.36554,
     'longitude' => 28.6625,
   ),
-  9 => 
+  8 => 
   array (
     'id' => 67280,
     'name' => 'Bălţi',
@@ -91,7 +82,7 @@ return array (
     'latitude' => 47.76314,
     'longitude' => 27.92932,
   ),
-  10 => 
+  9 => 
   array (
     'id' => 67281,
     'name' => 'Cahul',
@@ -100,7 +91,7 @@ return array (
     'latitude' => 45.90425,
     'longitude' => 28.19929,
   ),
-  11 => 
+  10 => 
   array (
     'id' => 67282,
     'name' => 'Camenca',
@@ -109,7 +100,7 @@ return array (
     'latitude' => 48.03233,
     'longitude' => 28.69899,
   ),
-  12 => 
+  11 => 
   array (
     'id' => 67283,
     'name' => 'Cantemir',
@@ -118,7 +109,7 @@ return array (
     'latitude' => 46.27743,
     'longitude' => 28.2027,
   ),
-  13 => 
+  12 => 
   array (
     'id' => 67284,
     'name' => 'Ceadîr-Lunga',
@@ -127,7 +118,7 @@ return array (
     'latitude' => 46.06169,
     'longitude' => 28.83078,
   ),
-  14 => 
+  13 => 
   array (
     'id' => 67285,
     'name' => 'Chisinau',
@@ -136,7 +127,7 @@ return array (
     'latitude' => 47.00556,
     'longitude' => 28.8575,
   ),
-  15 => 
+  14 => 
   array (
     'id' => 67286,
     'name' => 'Chiţcani',
@@ -145,7 +136,7 @@ return array (
     'latitude' => 46.78296,
     'longitude' => 29.61682,
   ),
-  16 => 
+  15 => 
   array (
     'id' => 67287,
     'name' => 'Cimişlia',
@@ -154,7 +145,7 @@ return array (
     'latitude' => 46.52685,
     'longitude' => 28.76441,
   ),
-  17 => 
+  16 => 
   array (
     'id' => 67288,
     'name' => 'Ciorescu',
@@ -163,7 +154,7 @@ return array (
     'latitude' => 47.13,
     'longitude' => 28.88937,
   ),
-  18 => 
+  17 => 
   array (
     'id' => 67289,
     'name' => 'Cocieri',
@@ -172,7 +163,7 @@ return array (
     'latitude' => 47.3017,
     'longitude' => 29.11755,
   ),
-  19 => 
+  18 => 
   array (
     'id' => 67290,
     'name' => 'Comrat',
@@ -181,7 +172,7 @@ return array (
     'latitude' => 46.29456,
     'longitude' => 28.6565,
   ),
-  20 => 
+  19 => 
   array (
     'id' => 67291,
     'name' => 'Crasnoe',
@@ -190,7 +181,7 @@ return array (
     'latitude' => 46.64844,
     'longitude' => 29.80403,
   ),
-  21 => 
+  20 => 
   array (
     'id' => 67292,
     'name' => 'Cricova',
@@ -199,7 +190,7 @@ return array (
     'latitude' => 47.13835,
     'longitude' => 28.86156,
   ),
-  22 => 
+  21 => 
   array (
     'id' => 67293,
     'name' => 'Criuleni',
@@ -208,7 +199,7 @@ return array (
     'latitude' => 47.21307,
     'longitude' => 29.15926,
   ),
-  23 => 
+  22 => 
   array (
     'id' => 67294,
     'name' => 'Călăraşi',
@@ -217,7 +208,7 @@ return array (
     'latitude' => 47.2556,
     'longitude' => 28.30987,
   ),
-  24 => 
+  23 => 
   array (
     'id' => 67295,
     'name' => 'Căuşeni',
@@ -226,7 +217,7 @@ return array (
     'latitude' => 46.63674,
     'longitude' => 29.41114,
   ),
-  25 => 
+  24 => 
   array (
     'id' => 67296,
     'name' => 'Dancu',
@@ -235,7 +226,7 @@ return array (
     'latitude' => 46.75818,
     'longitude' => 28.20716,
   ),
-  26 => 
+  25 => 
   array (
     'id' => 67297,
     'name' => 'Dnestrovsc',
@@ -244,7 +235,7 @@ return array (
     'latitude' => 46.6164,
     'longitude' => 29.91926,
   ),
-  27 => 
+  26 => 
   array (
     'id' => 67298,
     'name' => 'Donduşeni',
@@ -253,7 +244,7 @@ return array (
     'latitude' => 48.24268,
     'longitude' => 27.6101,
   ),
-  28 => 
+  27 => 
   array (
     'id' => 67299,
     'name' => 'Drochia',
@@ -262,7 +253,7 @@ return array (
     'latitude' => 48.03555,
     'longitude' => 27.81293,
   ),
-  29 => 
+  28 => 
   array (
     'id' => 67300,
     'name' => 'Dubăsari',
@@ -271,7 +262,7 @@ return array (
     'latitude' => 47.26562,
     'longitude' => 29.16667,
   ),
-  30 => 
+  29 => 
   array (
     'id' => 67301,
     'name' => 'Edineţ',
@@ -280,7 +271,7 @@ return array (
     'latitude' => 48.17215,
     'longitude' => 27.30337,
   ),
-  31 => 
+  30 => 
   array (
     'id' => 67302,
     'name' => 'Floreşti',
@@ -289,7 +280,7 @@ return array (
     'latitude' => 47.89137,
     'longitude' => 28.29312,
   ),
-  32 => 
+  31 => 
   array (
     'id' => 67303,
     'name' => 'Fălești',
@@ -298,7 +289,7 @@ return array (
     'latitude' => 47.57667,
     'longitude' => 27.71264,
   ),
-  33 => 
+  32 => 
   array (
     'id' => 67304,
     'name' => 'Ghindești',
@@ -307,7 +298,7 @@ return array (
     'latitude' => 47.85482,
     'longitude' => 28.37679,
   ),
-  34 => 
+  33 => 
   array (
     'id' => 67305,
     'name' => 'Giurgiuleşti',
@@ -316,7 +307,7 @@ return array (
     'latitude' => 45.48167,
     'longitude' => 28.19722,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 67306,
     'name' => 'Glodeni',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 47.77513,
     'longitude' => 27.51891,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 67307,
     'name' => 'Hryhoriopol',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 47.15413,
     'longitude' => 29.30008,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 67308,
     'name' => 'Hînceşti',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 46.83047,
     'longitude' => 28.59064,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 67309,
     'name' => 'Ialoveni',
@@ -352,7 +343,7 @@ return array (
     'latitude' => 46.94346,
     'longitude' => 28.78233,
   ),
-  39 => 
+  38 => 
   array (
     'id' => 67310,
     'name' => 'Iargara',
@@ -361,7 +352,7 @@ return array (
     'latitude' => 46.4252,
     'longitude' => 28.42676,
   ),
-  40 => 
+  39 => 
   array (
     'id' => 67311,
     'name' => 'Maiac',
@@ -370,7 +361,7 @@ return array (
     'latitude' => 47.23727,
     'longitude' => 29.38498,
   ),
-  41 => 
+  40 => 
   array (
     'id' => 67312,
     'name' => 'Mîndreşti',
@@ -379,7 +370,7 @@ return array (
     'latitude' => 47.50525,
     'longitude' => 28.27687,
   ),
-  42 => 
+  41 => 
   array (
     'id' => 67313,
     'name' => 'Mărculeşti',
@@ -388,7 +379,7 @@ return array (
     'latitude' => 47.86897,
     'longitude' => 28.24109,
   ),
-  43 => 
+  42 => 
   array (
     'id' => 67314,
     'name' => 'Nisporeni',
@@ -397,7 +388,7 @@ return array (
     'latitude' => 47.08159,
     'longitude' => 28.17138,
   ),
-  44 => 
+  43 => 
   array (
     'id' => 67315,
     'name' => 'Ocniţa',
@@ -406,7 +397,7 @@ return array (
     'latitude' => 48.38274,
     'longitude' => 27.43805,
   ),
-  45 => 
+  44 => 
   array (
     'id' => 67316,
     'name' => 'Orhei',
@@ -415,7 +406,7 @@ return array (
     'latitude' => 47.38494,
     'longitude' => 28.82446,
   ),
-  46 => 
+  45 => 
   array (
     'id' => 67317,
     'name' => 'Otaci',
@@ -424,7 +415,7 @@ return array (
     'latitude' => 48.43285,
     'longitude' => 27.79912,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 67318,
     'name' => 'Pervomaisc',
@@ -433,7 +424,7 @@ return array (
     'latitude' => 46.73253,
     'longitude' => 29.9617,
   ),
-  48 => 
+  47 => 
   array (
     'id' => 67319,
     'name' => 'Rezina',
@@ -442,7 +433,7 @@ return array (
     'latitude' => 47.74928,
     'longitude' => 28.96583,
   ),
-  49 => 
+  48 => 
   array (
     'id' => 67320,
     'name' => 'Rîbniţa',
@@ -451,7 +442,7 @@ return array (
     'latitude' => 47.76817,
     'longitude' => 29.01,
   ),
-  50 => 
+  49 => 
   array (
     'id' => 67321,
     'name' => 'Rîşcani',
@@ -460,7 +451,7 @@ return array (
     'latitude' => 47.94792,
     'longitude' => 27.56376,
   ),
-  51 => 
+  50 => 
   array (
     'id' => 67322,
     'name' => 'Saharna',
@@ -469,7 +460,7 @@ return array (
     'latitude' => 47.69107,
     'longitude' => 28.97458,
   ),
-  52 => 
+  51 => 
   array (
     'id' => 67323,
     'name' => 'Slobozia',
@@ -478,7 +469,7 @@ return array (
     'latitude' => 46.72927,
     'longitude' => 29.70446,
   ),
-  53 => 
+  52 => 
   array (
     'id' => 67324,
     'name' => 'Soroca',
@@ -487,7 +478,7 @@ return array (
     'latitude' => 48.15659,
     'longitude' => 28.28489,
   ),
-  54 => 
+  53 => 
   array (
     'id' => 67325,
     'name' => 'Strășeni',
@@ -496,7 +487,7 @@ return array (
     'latitude' => 47.14216,
     'longitude' => 28.60774,
   ),
-  55 => 
+  54 => 
   array (
     'id' => 67326,
     'name' => 'Stăuceni',
@@ -505,7 +496,7 @@ return array (
     'latitude' => 47.09643,
     'longitude' => 28.86791,
   ),
-  56 => 
+  55 => 
   array (
     'id' => 67327,
     'name' => 'Sîngera',
@@ -514,7 +505,7 @@ return array (
     'latitude' => 46.91557,
     'longitude' => 28.96673,
   ),
-  57 => 
+  56 => 
   array (
     'id' => 67328,
     'name' => 'Sîngerei',
@@ -523,7 +514,7 @@ return array (
     'latitude' => 47.63632,
     'longitude' => 28.14296,
   ),
-  58 => 
+  57 => 
   array (
     'id' => 67329,
     'name' => 'Taraclia',
@@ -532,7 +523,7 @@ return array (
     'latitude' => 45.90273,
     'longitude' => 28.66816,
   ),
-  59 => 
+  58 => 
   array (
     'id' => 67330,
     'name' => 'Teleneşti',
@@ -541,7 +532,7 @@ return array (
     'latitude' => 47.5011,
     'longitude' => 28.36536,
   ),
-  60 => 
+  59 => 
   array (
     'id' => 67331,
     'name' => 'Tiraspol',
@@ -550,7 +541,7 @@ return array (
     'latitude' => 46.84274,
     'longitude' => 29.62909,
   ),
-  61 => 
+  60 => 
   array (
     'id' => 67332,
     'name' => 'Tiraspolul Nou',
@@ -559,7 +550,7 @@ return array (
     'latitude' => 46.82874,
     'longitude' => 29.52174,
   ),
-  62 => 
+  61 => 
   array (
     'id' => 67333,
     'name' => 'Tvardița',
@@ -568,7 +559,7 @@ return array (
     'latitude' => 46.14826,
     'longitude' => 28.96491,
   ),
-  63 => 
+  62 => 
   array (
     'id' => 67334,
     'name' => 'Ungheni',
@@ -577,7 +568,7 @@ return array (
     'latitude' => 47.21079,
     'longitude' => 27.80047,
   ),
-  64 => 
+  63 => 
   array (
     'id' => 67335,
     'name' => 'Ustia',
@@ -586,7 +577,7 @@ return array (
     'latitude' => 47.25524,
     'longitude' => 29.12406,
   ),
-  65 => 
+  64 => 
   array (
     'id' => 67336,
     'name' => 'Vadul lui Vodă',
@@ -595,7 +586,7 @@ return array (
     'latitude' => 47.09009,
     'longitude' => 29.0757,
   ),
-  66 => 
+  65 => 
   array (
     'id' => 67337,
     'name' => 'Varniţa',
@@ -604,7 +595,7 @@ return array (
     'latitude' => 46.86606,
     'longitude' => 29.46636,
   ),
-  67 => 
+  66 => 
   array (
     'id' => 67338,
     'name' => 'Vatra',
@@ -613,7 +604,7 @@ return array (
     'latitude' => 47.0746,
     'longitude' => 28.73685,
   ),
-  68 => 
+  67 => 
   array (
     'id' => 67339,
     'name' => 'Vişniovca',
@@ -622,7 +613,7 @@ return array (
     'latitude' => 46.3326,
     'longitude' => 28.44797,
   ),
-  69 => 
+  68 => 
   array (
     'id' => 67340,
     'name' => 'Vulcăneşti',
@@ -631,7 +622,7 @@ return array (
     'latitude' => 45.68492,
     'longitude' => 28.40613,
   ),
-  70 => 
+  69 => 
   array (
     'id' => 67341,
     'name' => 'Şoldăneşti',
@@ -640,7 +631,7 @@ return array (
     'latitude' => 47.81608,
     'longitude' => 28.79718,
   ),
-  71 => 
+  70 => 
   array (
     'id' => 67342,
     'name' => 'Ştefan Vodă',

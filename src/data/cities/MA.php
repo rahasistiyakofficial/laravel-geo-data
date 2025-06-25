@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -786,15 +786,6 @@ return array (
   ),
   87 => 
   array (
-    'id' => 67132,
-    'name' => 'Ifrane',
-    'country_id' => 149,
-    'country_code' => 'MA',
-    'latitude' => 33.33333,
-    'longitude' => -5.25,
-  ),
-  88 => 
-  array (
     'id' => 67133,
     'name' => 'Imilchil',
     'country_id' => 149,
@@ -802,7 +793,7 @@ return array (
     'latitude' => 32.15309,
     'longitude' => -5.62453,
   ),
-  89 => 
+  88 => 
   array (
     'id' => 67134,
     'name' => 'Imlili',
@@ -811,7 +802,7 @@ return array (
     'latitude' => 22.6558,
     'longitude' => -15.60719,
   ),
-  90 => 
+  89 => 
   array (
     'id' => 67135,
     'name' => 'Imzouren',
@@ -820,7 +811,7 @@ return array (
     'latitude' => 35.14637,
     'longitude' => -3.85063,
   ),
-  91 => 
+  90 => 
   array (
     'id' => 67136,
     'name' => 'Inezgane',
@@ -829,7 +820,7 @@ return array (
     'latitude' => 30.35535,
     'longitude' => -9.53639,
   ),
-  92 => 
+  91 => 
   array (
     'id' => 67137,
     'name' => 'Inezgane-Ait Melloul',
@@ -838,7 +829,7 @@ return array (
     'latitude' => 30.1,
     'longitude' => -9.03333,
   ),
-  93 => 
+  92 => 
   array (
     'id' => 67138,
     'name' => 'Isseksi',
@@ -847,7 +838,7 @@ return array (
     'latitude' => 32.22981,
     'longitude' => -6.27661,
   ),
-  94 => 
+  93 => 
   array (
     'id' => 67139,
     'name' => 'Itzer',
@@ -856,7 +847,7 @@ return array (
     'latitude' => 32.8783,
     'longitude' => -5.0515,
   ),
-  95 => 
+  94 => 
   array (
     'id' => 67140,
     'name' => 'Jebel Tiskaouine',
@@ -865,7 +856,7 @@ return array (
     'latitude' => 31.02722,
     'longitude' => -5.11643,
   ),
-  96 => 
+  95 => 
   array (
     'id' => 67141,
     'name' => 'Jerada',
@@ -874,7 +865,7 @@ return array (
     'latitude' => 34.23662,
     'longitude' => -2.04284,
   ),
-  97 => 
+  96 => 
   array (
     'id' => 67142,
     'name' => 'Jorf',
@@ -883,7 +874,7 @@ return array (
     'latitude' => 31.49442,
     'longitude' => -4.40598,
   ),
-  98 => 
+  97 => 
   array (
     'id' => 67143,
     'name' => 'Kasba Tadla',
@@ -892,7 +883,7 @@ return array (
     'latitude' => 32.5977,
     'longitude' => -6.26844,
   ),
-  99 => 
+  98 => 
   array (
     'id' => 67144,
     'name' => 'Kelaa-Des-Sraghna',
@@ -901,7 +892,7 @@ return array (
     'latitude' => 32.16667,
     'longitude' => -7.75,
   ),
-  100 => 
+  99 => 
   array (
     'id' => 67145,
     'name' => 'Kelaat Mgouna',
@@ -910,7 +901,7 @@ return array (
     'latitude' => 31.24573,
     'longitude' => -6.1326,
   ),
-  101 => 
+  100 => 
   array (
     'id' => 67146,
     'name' => 'Kenitra',
@@ -919,7 +910,7 @@ return array (
     'latitude' => 34.26101,
     'longitude' => -6.5802,
   ),
-  102 => 
+  101 => 
   array (
     'id' => 67147,
     'name' => 'Kenitra Province',
@@ -928,7 +919,7 @@ return array (
     'latitude' => 34.58333,
     'longitude' => -6.33333,
   ),
-  103 => 
+  102 => 
   array (
     'id' => 67148,
     'name' => 'Kerrouchen',
@@ -937,7 +928,7 @@ return array (
     'latitude' => 32.79639,
     'longitude' => -5.3188,
   ),
-  104 => 
+  103 => 
   array (
     'id' => 67149,
     'name' => 'Khemisset',
@@ -946,7 +937,7 @@ return array (
     'latitude' => 33.66667,
     'longitude' => -6.25,
   ),
-  105 => 
+  104 => 
   array (
     'id' => 67150,
     'name' => 'Khenifra',
@@ -955,7 +946,7 @@ return array (
     'latitude' => 32.93333,
     'longitude' => -5.66667,
   ),
-  106 => 
+  105 => 
   array (
     'id' => 67151,
     'name' => 'Khouribga',
@@ -964,7 +955,7 @@ return array (
     'latitude' => 32.88108,
     'longitude' => -6.9063,
   ),
-  107 => 
+  106 => 
   array (
     'id' => 67152,
     'name' => 'Khouribga Province',
@@ -973,7 +964,7 @@ return array (
     'latitude' => 32.93333,
     'longitude' => -6.6,
   ),
-  108 => 
+  107 => 
   array (
     'id' => 67153,
     'name' => 'Ksar El Kebir',
@@ -982,7 +973,7 @@ return array (
     'latitude' => 35.00044,
     'longitude' => -5.90378,
   ),
-  109 => 
+  108 => 
   array (
     'id' => 67154,
     'name' => 'Laayoune',
@@ -991,7 +982,7 @@ return array (
     'latitude' => 27.83333,
     'longitude' => -12.33333,
   ),
-  110 => 
+  109 => 
   array (
     'id' => 67155,
     'name' => 'Larache',
@@ -1000,7 +991,7 @@ return array (
     'latitude' => 35.16667,
     'longitude' => -5.83333,
   ),
-  111 => 
+  110 => 
   array (
     'id' => 67156,
     'name' => 'M\\\'Diq-Fnideq',
@@ -1009,7 +1000,7 @@ return array (
     'latitude' => 35.85743,
     'longitude' => -5.35858,
   ),
-  112 => 
+  111 => 
   array (
     'id' => 67157,
     'name' => 'Madagh',
@@ -1018,7 +1009,7 @@ return array (
     'latitude' => 35.01032,
     'longitude' => -2.33701,
   ),
-  113 => 
+  112 => 
   array (
     'id' => 67158,
     'name' => 'Marrakech',
@@ -1027,7 +1018,7 @@ return array (
     'latitude' => 31.63623,
     'longitude' => -8.01041,
   ),
-  114 => 
+  113 => 
   array (
     'id' => 67159,
     'name' => 'Marrakesh',
@@ -1036,7 +1027,7 @@ return array (
     'latitude' => 31.63416,
     'longitude' => -7.99994,
   ),
-  115 => 
+  114 => 
   array (
     'id' => 67160,
     'name' => 'Martil',
@@ -1045,7 +1036,7 @@ return array (
     'latitude' => 35.61662,
     'longitude' => -5.27522,
   ),
-  116 => 
+  115 => 
   array (
     'id' => 67161,
     'name' => 'Mechraa Bel Ksiri',
@@ -1054,7 +1045,7 @@ return array (
     'latitude' => 34.57373,
     'longitude' => -5.95585,
   ),
-  117 => 
+  116 => 
   array (
     'id' => 67162,
     'name' => 'Mediouna',
@@ -1063,7 +1054,7 @@ return array (
     'latitude' => 33.52012,
     'longitude' => -7.5035,
   ),
-  118 => 
+  117 => 
   array (
     'id' => 67163,
     'name' => 'Meknes',
@@ -1072,7 +1063,7 @@ return array (
     'latitude' => 33.97761,
     'longitude' => -5.52496,
   ),
-  119 => 
+  118 => 
   array (
     'id' => 67165,
     'name' => 'Mhamid',
@@ -1081,7 +1072,7 @@ return array (
     'latitude' => 29.82,
     'longitude' => -5.72,
   ),
-  120 => 
+  119 => 
   array (
     'id' => 67166,
     'name' => 'Midar',
@@ -1090,7 +1081,7 @@ return array (
     'latitude' => 34.94025,
     'longitude' => -3.53311,
   ),
-  121 => 
+  120 => 
   array (
     'id' => 67167,
     'name' => 'Midelt',
@@ -1099,16 +1090,7 @@ return array (
     'latitude' => 32.6852,
     'longitude' => -4.74512,
   ),
-  122 => 
-  array (
-    'id' => 67168,
-    'name' => 'Midelt',
-    'country_id' => 149,
-    'country_code' => 'MA',
-    'latitude' => 32.68055,
-    'longitude' => -4.73691,
-  ),
-  123 => 
+  121 => 
   array (
     'id' => 67169,
     'name' => 'Missour',
@@ -1117,7 +1099,7 @@ return array (
     'latitude' => 33.04893,
     'longitude' => -3.98947,
   ),
-  124 => 
+  122 => 
   array (
     'id' => 67170,
     'name' => 'Mohammedia',
@@ -1126,7 +1108,7 @@ return array (
     'latitude' => 33.68607,
     'longitude' => -7.38298,
   ),
-  125 => 
+  123 => 
   array (
     'id' => 67171,
     'name' => 'Moulay Bouchta',
@@ -1135,7 +1117,7 @@ return array (
     'latitude' => 34.48922,
     'longitude' => -5.13023,
   ),
-  126 => 
+  124 => 
   array (
     'id' => 67172,
     'name' => 'Moulay-Yacoub',
@@ -1144,7 +1126,7 @@ return array (
     'latitude' => 34.14558,
     'longitude' => -5.10259,
   ),
-  127 => 
+  125 => 
   array (
     'id' => 67173,
     'name' => 'Nador',
@@ -1153,7 +1135,7 @@ return array (
     'latitude' => 35.0,
     'longitude' => -3.0,
   ),
-  128 => 
+  126 => 
   array (
     'id' => 67174,
     'name' => 'Nouaceur',
@@ -1162,7 +1144,7 @@ return array (
     'latitude' => 33.45839,
     'longitude' => -7.64726,
   ),
-  129 => 
+  127 => 
   array (
     'id' => 67175,
     'name' => 'Oualidia',
@@ -1171,7 +1153,7 @@ return array (
     'latitude' => 32.73372,
     'longitude' => -9.03059,
   ),
-  130 => 
+  128 => 
   array (
     'id' => 67176,
     'name' => 'Ouaoula',
@@ -1180,7 +1162,7 @@ return array (
     'latitude' => 31.87,
     'longitude' => -6.75,
   ),
-  131 => 
+  129 => 
   array (
     'id' => 67177,
     'name' => 'Ouarzazat',
@@ -1189,7 +1171,7 @@ return array (
     'latitude' => 30.91894,
     'longitude' => -6.89341,
   ),
-  132 => 
+  130 => 
   array (
     'id' => 67178,
     'name' => 'Ouarzazate',
@@ -1198,7 +1180,7 @@ return array (
     'latitude' => 30.9413,
     'longitude' => -6.90285,
   ),
-  133 => 
+  131 => 
   array (
     'id' => 67179,
     'name' => 'Oued Amlil',
@@ -1207,7 +1189,7 @@ return array (
     'latitude' => 34.2,
     'longitude' => -4.28,
   ),
-  134 => 
+  132 => 
   array (
     'id' => 67180,
     'name' => 'Oued Laou',
@@ -1216,7 +1198,7 @@ return array (
     'latitude' => 35.4484,
     'longitude' => -5.09627,
   ),
-  135 => 
+  133 => 
   array (
     'id' => 67181,
     'name' => 'Oued Zem',
@@ -1225,7 +1207,7 @@ return array (
     'latitude' => 32.8627,
     'longitude' => -6.57359,
   ),
-  136 => 
+  134 => 
   array (
     'id' => 67182,
     'name' => 'Oued-Ed-Dahab',
@@ -1234,7 +1216,7 @@ return array (
     'latitude' => 23.64201,
     'longitude' => -14.44934,
   ),
-  137 => 
+  135 => 
   array (
     'id' => 67183,
     'name' => 'Ouezzane',
@@ -1243,7 +1225,7 @@ return array (
     'latitude' => 34.79584,
     'longitude' => -5.57849,
   ),
-  138 => 
+  136 => 
   array (
     'id' => 67184,
     'name' => 'Ouezzane Province',
@@ -1252,7 +1234,7 @@ return array (
     'latitude' => 34.79759,
     'longitude' => -5.58603,
   ),
-  139 => 
+  137 => 
   array (
     'id' => 67185,
     'name' => 'Ouijjane',
@@ -1261,7 +1243,7 @@ return array (
     'latitude' => 29.62777,
     'longitude' => -9.53959,
   ),
-  140 => 
+  138 => 
   array (
     'id' => 67186,
     'name' => 'Oujda-Angad',
@@ -1270,7 +1252,7 @@ return array (
     'latitude' => 34.236,
     'longitude' => -2.294,
   ),
-  141 => 
+  139 => 
   array (
     'id' => 67187,
     'name' => 'Oukaïmedene',
@@ -1279,7 +1261,7 @@ return array (
     'latitude' => 31.20603,
     'longitude' => -7.86089,
   ),
-  142 => 
+  140 => 
   array (
     'id' => 67188,
     'name' => 'Oulad Frej',
@@ -1288,7 +1270,7 @@ return array (
     'latitude' => 32.95956,
     'longitude' => -8.2274,
   ),
-  143 => 
+  141 => 
   array (
     'id' => 67189,
     'name' => 'Oulad Tayeb',
@@ -1297,7 +1279,7 @@ return array (
     'latitude' => 33.94633,
     'longitude' => -4.99509,
   ),
-  144 => 
+  142 => 
   array (
     'id' => 67190,
     'name' => 'Oulad Teïma',
@@ -1306,7 +1288,7 @@ return array (
     'latitude' => 30.39467,
     'longitude' => -9.20897,
   ),
-  145 => 
+  143 => 
   array (
     'id' => 67191,
     'name' => 'Oulmes',
@@ -1315,7 +1297,7 @@ return array (
     'latitude' => 33.42585,
     'longitude' => -6.00137,
   ),
-  146 => 
+  144 => 
   array (
     'id' => 67192,
     'name' => 'Ourtzagh',
@@ -1324,7 +1306,7 @@ return array (
     'latitude' => 34.53477,
     'longitude' => -4.96878,
   ),
-  147 => 
+  145 => 
   array (
     'id' => 67193,
     'name' => 'Rabat',
@@ -1333,7 +1315,7 @@ return array (
     'latitude' => 34.01325,
     'longitude' => -6.83255,
   ),
-  148 => 
+  146 => 
   array (
     'id' => 67194,
     'name' => 'Reggada',
@@ -1342,7 +1324,7 @@ return array (
     'latitude' => 29.58016,
     'longitude' => -9.70086,
   ),
-  149 => 
+  147 => 
   array (
     'id' => 67195,
     'name' => 'Rehamna',
@@ -1351,7 +1333,7 @@ return array (
     'latitude' => 32.24581,
     'longitude' => -7.93144,
   ),
-  150 => 
+  148 => 
   array (
     'id' => 67196,
     'name' => 'Reçani',
@@ -1360,7 +1342,7 @@ return array (
     'latitude' => 31.28318,
     'longitude' => -4.26565,
   ),
-  151 => 
+  149 => 
   array (
     'id' => 67197,
     'name' => 'Safi',
@@ -1369,7 +1351,7 @@ return array (
     'latitude' => 32.16667,
     'longitude' => -8.83333,
   ),
-  152 => 
+  150 => 
   array (
     'id' => 67198,
     'name' => 'Saidia',
@@ -1378,7 +1360,7 @@ return array (
     'latitude' => 35.08195,
     'longitude' => -2.22897,
   ),
-  153 => 
+  151 => 
   array (
     'id' => 67199,
     'name' => 'Sale',
@@ -1387,7 +1369,7 @@ return array (
     'latitude' => 34.0531,
     'longitude' => -6.79846,
   ),
-  154 => 
+  152 => 
   array (
     'id' => 67200,
     'name' => 'Sefrou',
@@ -1396,7 +1378,7 @@ return array (
     'latitude' => 33.79979,
     'longitude' => -4.68,
   ),
-  155 => 
+  153 => 
   array (
     'id' => 67201,
     'name' => 'Selouane',
@@ -1405,7 +1387,7 @@ return array (
     'latitude' => 35.07313,
     'longitude' => -2.9423,
   ),
-  156 => 
+  154 => 
   array (
     'id' => 67202,
     'name' => 'Senada',
@@ -1414,7 +1396,7 @@ return array (
     'latitude' => 35.07452,
     'longitude' => -4.21583,
   ),
-  157 => 
+  155 => 
   array (
     'id' => 67203,
     'name' => 'Settat',
@@ -1423,7 +1405,7 @@ return array (
     'latitude' => 33.00103,
     'longitude' => -7.61662,
   ),
-  158 => 
+  156 => 
   array (
     'id' => 67204,
     'name' => 'Settat Province',
@@ -1432,7 +1414,7 @@ return array (
     'latitude' => 33.08333,
     'longitude' => -7.41667,
   ),
-  159 => 
+  157 => 
   array (
     'id' => 67205,
     'name' => 'Setti Fatma',
@@ -1441,7 +1423,7 @@ return array (
     'latitude' => 31.22508,
     'longitude' => -7.67751,
   ),
-  160 => 
+  158 => 
   array (
     'id' => 67206,
     'name' => 'Sidi Bennour',
@@ -1450,7 +1432,7 @@ return array (
     'latitude' => 32.64896,
     'longitude' => -8.42686,
   ),
-  161 => 
+  159 => 
   array (
     'id' => 67207,
     'name' => 'Sidi Bousber',
@@ -1459,7 +1441,7 @@ return array (
     'latitude' => 34.56283,
     'longitude' => -5.36208,
   ),
-  162 => 
+  160 => 
   array (
     'id' => 67208,
     'name' => 'Sidi Ifni',
@@ -1468,16 +1450,7 @@ return array (
     'latitude' => 29.37975,
     'longitude' => -10.17299,
   ),
-  163 => 
-  array (
-    'id' => 67209,
-    'name' => 'Sidi Ifni',
-    'country_id' => 149,
-    'country_code' => 'MA',
-    'latitude' => 29.37719,
-    'longitude' => -10.17111,
-  ),
-  164 => 
+  161 => 
   array (
     'id' => 67210,
     'name' => 'Sidi Jaber',
@@ -1486,7 +1459,7 @@ return array (
     'latitude' => 32.38952,
     'longitude' => -6.42095,
   ),
-  165 => 
+  162 => 
   array (
     'id' => 67211,
     'name' => 'Sidi Qacem',
@@ -1495,7 +1468,7 @@ return array (
     'latitude' => 34.22149,
     'longitude' => -5.70775,
   ),
-  166 => 
+  163 => 
   array (
     'id' => 67212,
     'name' => 'Sidi Rahhal',
@@ -1504,7 +1477,7 @@ return array (
     'latitude' => 31.65031,
     'longitude' => -7.47288,
   ),
-  167 => 
+  164 => 
   array (
     'id' => 67213,
     'name' => 'Sidi Redouane',
@@ -1513,7 +1486,7 @@ return array (
     'latitude' => 34.68692,
     'longitude' => -5.44538,
   ),
-  168 => 
+  165 => 
   array (
     'id' => 67214,
     'name' => 'Sidi Slimane',
@@ -1522,7 +1495,7 @@ return array (
     'latitude' => 34.26479,
     'longitude' => -5.92598,
   ),
-  169 => 
+  166 => 
   array (
     'id' => 67215,
     'name' => 'Sidi Smai’il',
@@ -1531,7 +1504,7 @@ return array (
     'latitude' => 32.82461,
     'longitude' => -8.51122,
   ),
-  170 => 
+  167 => 
   array (
     'id' => 67216,
     'name' => 'Sidi Yahia El Gharb',
@@ -1540,7 +1513,7 @@ return array (
     'latitude' => 34.30494,
     'longitude' => -6.30404,
   ),
-  171 => 
+  168 => 
   array (
     'id' => 67217,
     'name' => 'Sidi-Kacem',
@@ -1549,7 +1522,7 @@ return array (
     'latitude' => 34.58333,
     'longitude' => -5.75,
   ),
-  172 => 
+  169 => 
   array (
     'id' => 67218,
     'name' => 'Skhirate',
@@ -1558,7 +1531,7 @@ return array (
     'latitude' => 33.8527,
     'longitude' => -7.03171,
   ),
-  173 => 
+  170 => 
   array (
     'id' => 67219,
     'name' => 'Skhirate-Temara',
@@ -1567,7 +1540,7 @@ return array (
     'latitude' => 33.77,
     'longitude' => -6.87,
   ),
-  174 => 
+  171 => 
   array (
     'id' => 67220,
     'name' => 'Smara',
@@ -1576,7 +1549,7 @@ return array (
     'latitude' => 26.73841,
     'longitude' => -11.67194,
   ),
-  175 => 
+  172 => 
   array (
     'id' => 67221,
     'name' => 'Smimou',
@@ -1585,7 +1558,7 @@ return array (
     'latitude' => 31.21014,
     'longitude' => -9.70863,
   ),
-  176 => 
+  173 => 
   array (
     'id' => 67222,
     'name' => 'Souq Larb’a al Gharb',
@@ -1594,7 +1567,7 @@ return array (
     'latitude' => 34.68664,
     'longitude' => -6.00272,
   ),
-  177 => 
+  174 => 
   array (
     'id' => 67223,
     'name' => 'Tadrart',
@@ -1603,7 +1576,7 @@ return array (
     'latitude' => 30.77477,
     'longitude' => -9.45951,
   ),
-  178 => 
+  175 => 
   array (
     'id' => 67224,
     'name' => 'Tafraout',
@@ -1612,7 +1585,7 @@ return array (
     'latitude' => 29.72449,
     'longitude' => -8.9747,
   ),
-  179 => 
+  176 => 
   array (
     'id' => 67225,
     'name' => 'Taghazout',
@@ -1621,7 +1594,7 @@ return array (
     'latitude' => 30.54259,
     'longitude' => -9.71115,
   ),
-  180 => 
+  177 => 
   array (
     'id' => 67226,
     'name' => 'Tahla',
@@ -1630,7 +1603,7 @@ return array (
     'latitude' => 34.04965,
     'longitude' => -4.42162,
   ),
-  181 => 
+  178 => 
   array (
     'id' => 67227,
     'name' => 'Taliouine',
@@ -1639,7 +1612,7 @@ return array (
     'latitude' => 30.52917,
     'longitude' => -7.91262,
   ),
-  182 => 
+  179 => 
   array (
     'id' => 67228,
     'name' => 'Talzemt',
@@ -1648,7 +1621,7 @@ return array (
     'latitude' => 33.59,
     'longitude' => -4.19,
   ),
-  183 => 
+  180 => 
   array (
     'id' => 67229,
     'name' => 'Tamanar',
@@ -1657,7 +1630,7 @@ return array (
     'latitude' => 31.00087,
     'longitude' => -9.67802,
   ),
-  184 => 
+  181 => 
   array (
     'id' => 67230,
     'name' => 'Tamorot',
@@ -1666,7 +1639,7 @@ return array (
     'latitude' => 34.93632,
     'longitude' => -4.7794,
   ),
-  185 => 
+  182 => 
   array (
     'id' => 67231,
     'name' => 'Tamri',
@@ -1675,7 +1648,7 @@ return array (
     'latitude' => 30.69602,
     'longitude' => -9.82972,
   ),
-  186 => 
+  183 => 
   array (
     'id' => 67232,
     'name' => 'Tan-Tan',
@@ -1684,7 +1657,7 @@ return array (
     'latitude' => 28.08333,
     'longitude' => -11.08333,
   ),
-  187 => 
+  184 => 
   array (
     'id' => 67233,
     'name' => 'Tanalt',
@@ -1693,7 +1666,7 @@ return array (
     'latitude' => 29.77548,
     'longitude' => -9.16796,
   ),
-  188 => 
+  185 => 
   array (
     'id' => 67234,
     'name' => 'Tanger-Assilah',
@@ -1702,7 +1675,7 @@ return array (
     'latitude' => 35.59,
     'longitude' => -5.9,
   ),
-  189 => 
+  186 => 
   array (
     'id' => 67235,
     'name' => 'Tangier',
@@ -1711,7 +1684,7 @@ return array (
     'latitude' => 35.76727,
     'longitude' => -5.79975,
   ),
-  190 => 
+  187 => 
   array (
     'id' => 67236,
     'name' => 'Taouloukoult',
@@ -1720,7 +1693,7 @@ return array (
     'latitude' => 31.22218,
     'longitude' => -9.07943,
   ),
-  191 => 
+  188 => 
   array (
     'id' => 67237,
     'name' => 'Taounate',
@@ -1729,7 +1702,7 @@ return array (
     'latitude' => 34.5,
     'longitude' => -4.83333,
   ),
-  192 => 
+  189 => 
   array (
     'id' => 67238,
     'name' => 'Taourirt',
@@ -1738,7 +1711,7 @@ return array (
     'latitude' => 34.40731,
     'longitude' => -2.89732,
   ),
-  193 => 
+  190 => 
   array (
     'id' => 67239,
     'name' => 'Tarfaya',
@@ -1747,7 +1720,7 @@ return array (
     'latitude' => 27.93901,
     'longitude' => -12.92082,
   ),
-  194 => 
+  191 => 
   array (
     'id' => 67240,
     'name' => 'Targuist',
@@ -1756,7 +1729,7 @@ return array (
     'latitude' => 34.93769,
     'longitude' => -4.31856,
   ),
-  195 => 
+  192 => 
   array (
     'id' => 67241,
     'name' => 'Taroudannt',
@@ -1765,7 +1738,7 @@ return array (
     'latitude' => 30.5,
     'longitude' => -8.41667,
   ),
-  196 => 
+  193 => 
   array (
     'id' => 67242,
     'name' => 'Taroudant',
@@ -1774,7 +1747,7 @@ return array (
     'latitude' => 30.47028,
     'longitude' => -8.87695,
   ),
-  197 => 
+  194 => 
   array (
     'id' => 67243,
     'name' => 'Tarsouat',
@@ -1783,7 +1756,7 @@ return array (
     'latitude' => 29.58153,
     'longitude' => -9.02664,
   ),
-  198 => 
+  195 => 
   array (
     'id' => 67244,
     'name' => 'Tata',
@@ -1792,7 +1765,7 @@ return array (
     'latitude' => 29.66667,
     'longitude' => -7.83333,
   ),
-  199 => 
+  196 => 
   array (
     'id' => 67245,
     'name' => 'Taza',
@@ -1801,7 +1774,7 @@ return array (
     'latitude' => 34.25,
     'longitude' => -3.75,
   ),
-  200 => 
+  197 => 
   array (
     'id' => 67246,
     'name' => 'Taznakht',
@@ -1810,7 +1783,7 @@ return array (
     'latitude' => 30.57836,
     'longitude' => -7.20341,
   ),
-  201 => 
+  198 => 
   array (
     'id' => 67247,
     'name' => 'Telouet',
@@ -1819,7 +1792,7 @@ return array (
     'latitude' => 31.28925,
     'longitude' => -7.23789,
   ),
-  202 => 
+  199 => 
   array (
     'id' => 67248,
     'name' => 'Temara',
@@ -1828,7 +1801,7 @@ return array (
     'latitude' => 33.92866,
     'longitude' => -6.90656,
   ),
-  203 => 
+  200 => 
   array (
     'id' => 67249,
     'name' => 'Teroual',
@@ -1837,7 +1810,7 @@ return array (
     'latitude' => 34.67452,
     'longitude' => -5.27331,
   ),
-  204 => 
+  201 => 
   array (
     'id' => 67250,
     'name' => 'Tetouan',
@@ -1846,7 +1819,7 @@ return array (
     'latitude' => 35.58333,
     'longitude' => -5.5,
   ),
-  205 => 
+  202 => 
   array (
     'id' => 67251,
     'name' => 'Tidili Mesfioua',
@@ -1855,7 +1828,7 @@ return array (
     'latitude' => 31.46586,
     'longitude' => -7.61199,
   ),
-  206 => 
+  203 => 
   array (
     'id' => 67252,
     'name' => 'Tiflet',
@@ -1864,7 +1837,7 @@ return array (
     'latitude' => 33.89469,
     'longitude' => -6.30649,
   ),
-  207 => 
+  204 => 
   array (
     'id' => 67253,
     'name' => 'Timezgadiouine',
@@ -1873,7 +1846,7 @@ return array (
     'latitude' => 30.88366,
     'longitude' => -9.04548,
   ),
-  208 => 
+  205 => 
   array (
     'id' => 67254,
     'name' => 'Timoulilt',
@@ -1882,7 +1855,7 @@ return array (
     'latitude' => 32.20368,
     'longitude' => -6.4666,
   ),
-  209 => 
+  206 => 
   array (
     'id' => 67255,
     'name' => 'Tinghir',
@@ -1891,7 +1864,7 @@ return array (
     'latitude' => 31.51472,
     'longitude' => -5.53278,
   ),
-  210 => 
+  207 => 
   array (
     'id' => 67256,
     'name' => 'Tinghir Province',
@@ -1900,7 +1873,7 @@ return array (
     'latitude' => 31.51965,
     'longitude' => -5.52999,
   ),
-  211 => 
+  208 => 
   array (
     'id' => 67257,
     'name' => 'Tirhanimîne',
@@ -1909,7 +1882,7 @@ return array (
     'latitude' => 35.23619,
     'longitude' => -3.95453,
   ),
-  212 => 
+  209 => 
   array (
     'id' => 67258,
     'name' => 'Tit Mellil',
@@ -1918,7 +1891,7 @@ return array (
     'latitude' => 33.55808,
     'longitude' => -7.48647,
   ),
-  213 => 
+  210 => 
   array (
     'id' => 67259,
     'name' => 'Tiznit',
@@ -1927,7 +1900,7 @@ return array (
     'latitude' => 29.58333,
     'longitude' => -9.5,
   ),
-  214 => 
+  211 => 
   array (
     'id' => 67260,
     'name' => 'Tiztoutine',
@@ -1936,7 +1909,7 @@ return array (
     'latitude' => 34.97159,
     'longitude' => -3.15273,
   ),
-  215 => 
+  212 => 
   array (
     'id' => 67261,
     'name' => 'Tmourghout',
@@ -1945,7 +1918,7 @@ return array (
     'latitude' => 33.9065,
     'longitude' => -4.02696,
   ),
-  216 => 
+  213 => 
   array (
     'id' => 67263,
     'name' => 'Youssoufia',
@@ -1954,7 +1927,7 @@ return array (
     'latitude' => 32.24634,
     'longitude' => -8.52941,
   ),
-  217 => 
+  214 => 
   array (
     'id' => 67264,
     'name' => 'Zagora',
@@ -1963,7 +1936,7 @@ return array (
     'latitude' => 30.34839,
     'longitude' => -5.83649,
   ),
-  218 => 
+  215 => 
   array (
     'id' => 67265,
     'name' => 'Zawyat an Nwaçer',
@@ -1972,7 +1945,7 @@ return array (
     'latitude' => 33.37981,
     'longitude' => -7.61932,
   ),
-  219 => 
+  216 => 
   array (
     'id' => 67266,
     'name' => 'Zawyat ech Cheïkh',
@@ -1981,7 +1954,7 @@ return array (
     'latitude' => 32.64445,
     'longitude' => -5.91826,
   ),
-  220 => 
+  217 => 
   array (
     'id' => 67267,
     'name' => 'Zaïo',
@@ -1990,7 +1963,7 @@ return array (
     'latitude' => 34.94282,
     'longitude' => -2.7329,
   ),
-  221 => 
+  218 => 
   array (
     'id' => 67268,
     'name' => 'Zerkten',
@@ -1999,7 +1972,7 @@ return array (
     'latitude' => 31.4447,
     'longitude' => -7.39224,
   ),
-  222 => 
+  219 => 
   array (
     'id' => 67269,
     'name' => 'Zinat',
@@ -2008,7 +1981,7 @@ return array (
     'latitude' => 35.43,
     'longitude' => -5.4,
   ),
-  223 => 
+  220 => 
   array (
     'id' => 67270,
     'name' => 'Zoumi',

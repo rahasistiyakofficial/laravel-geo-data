@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -993,15 +993,6 @@ return array (
   ),
   110 => 
   array (
-    'id' => 154582,
-    'name' => 'Taveta',
-    'country_id' => 113,
-    'country_code' => 'KE',
-    'latitude' => -3.3988,
-    'longitude' => 37.6834,
-  ),
-  111 => 
-  array (
     'id' => 154583,
     'name' => 'Mwatate',
     'country_id' => 113,
@@ -1009,7 +1000,7 @@ return array (
     'latitude' => -3.5033,
     'longitude' => 38.3812,
   ),
-  112 => 
+  111 => 
   array (
     'id' => 154588,
     'name' => 'Mgange',
@@ -1018,7 +1009,7 @@ return array (
     'latitude' => -3.4,
     'longitude' => 38.3167,
   ),
-  113 => 
+  112 => 
   array (
     'id' => 154589,
     'name' => 'Mwanda',
@@ -1027,25 +1018,7 @@ return array (
     'latitude' => -3.4,
     'longitude' => 38.2833,
   ),
-  114 => 
-  array (
-    'id' => 154622,
-    'name' => 'Voi',
-    'country_id' => 113,
-    'country_code' => 'KE',
-    'latitude' => -3.3961,
-    'longitude' => 38.5563,
-  ),
-  115 => 
-  array (
-    'id' => 154625,
-    'name' => 'Wundanyi',
-    'country_id' => 113,
-    'country_code' => 'KE',
-    'latitude' => -3.4085,
-    'longitude' => 38.3651,
-  ),
-  116 => 
+  113 => 
   array (
     'id' => 154626,
     'name' => 'Bura',
@@ -1054,7 +1027,7 @@ return array (
     'latitude' => -3.5,
     'longitude' => 38.3,
   ),
-  117 => 
+  114 => 
   array (
     'id' => 154627,
     'name' => 'Maktau',
@@ -1063,7 +1036,7 @@ return array (
     'latitude' => -3.4,
     'longitude' => 38.1333,
   ),
-  118 => 
+  115 => 
   array (
     'id' => 154628,
     'name' => 'Wesu',
@@ -1072,7 +1045,7 @@ return array (
     'latitude' => -3.4,
     'longitude' => 38.35,
   ),
-  119 => 
+  116 => 
   array (
     'id' => 154631,
     'name' => 'Chala',
@@ -1081,7 +1054,7 @@ return array (
     'latitude' => -3.3833,
     'longitude' => 37.6833,
   ),
-  120 => 
+  117 => 
   array (
     'id' => 154632,
     'name' => 'Mbale',
@@ -1090,16 +1063,7 @@ return array (
     'latitude' => 0.0708,
     'longitude' => 34.7242,
   ),
-  121 => 
-  array (
-    'id' => 154633,
-    'name' => 'Luanda',
-    'country_id' => 113,
-    'country_code' => 'KE',
-    'latitude' => 0.0043,
-    'longitude' => 34.597,
-  ),
-  122 => 
+  118 => 
   array (
     'id' => 154634,
     'name' => 'Chavakali',
@@ -1108,7 +1072,7 @@ return array (
     'latitude' => 0.1167,
     'longitude' => 34.7,
   ),
-  123 => 
+  119 => 
   array (
     'id' => 154635,
     'name' => 'Majengo',
@@ -1117,7 +1081,7 @@ return array (
     'latitude' => 0.1,
     'longitude' => 34.6167,
   ),
-  124 => 
+  120 => 
   array (
     'id' => 154636,
     'name' => 'Maseno',
@@ -1126,7 +1090,7 @@ return array (
     'latitude' => 0.0,
     'longitude' => 34.6,
   ),
-  125 => 
+  121 => 
   array (
     'id' => 154637,
     'name' => 'Mudete',
@@ -1135,7 +1099,7 @@ return array (
     'latitude' => 0.1333,
     'longitude' => 34.75,
   ),
-  126 => 
+  122 => 
   array (
     'id' => 154638,
     'name' => 'Serem',
@@ -1144,7 +1108,7 @@ return array (
     'latitude' => 0.0833,
     'longitude' => 34.8833,
   ),
-  127 => 
+  123 => 
   array (
     'id' => 154639,
     'name' => 'Kilingili',
@@ -1153,7 +1117,7 @@ return array (
     'latitude' => 0.0833,
     'longitude' => 34.6667,
   ),
-  128 => 
+  124 => 
   array (
     'id' => 154640,
     'name' => 'Gambogi',
@@ -1162,7 +1126,7 @@ return array (
     'latitude' => 0.0833,
     'longitude' => 34.8,
   ),
-  129 => 
+  125 => 
   array (
     'id' => 154641,
     'name' => 'Esabalu',
@@ -1171,25 +1135,7 @@ return array (
     'latitude' => 0.0167,
     'longitude' => 34.6167,
   ),
-  130 => 
-  array (
-    'id' => 154642,
-    'name' => 'Iten',
-    'country_id' => 113,
-    'country_code' => 'KE',
-    'latitude' => 0.6708,
-    'longitude' => 35.5083,
-  ),
-  131 => 
-  array (
-    'id' => 154643,
-    'name' => 'Kapsowar',
-    'country_id' => 113,
-    'country_code' => 'KE',
-    'latitude' => 1.015,
-    'longitude' => 35.5225,
-  ),
-  132 => 
+  126 => 
   array (
     'id' => 154644,
     'name' => 'Tambach',
@@ -1198,7 +1144,7 @@ return array (
     'latitude' => 0.7333,
     'longitude' => 35.5833,
   ),
-  133 => 
+  127 => 
   array (
     'id' => 154645,
     'name' => 'Chebiemit',
@@ -1207,7 +1153,7 @@ return array (
     'latitude' => 1.05,
     'longitude' => 35.4,
   ),
-  134 => 
+  128 => 
   array (
     'id' => 154646,
     'name' => 'Kapcherop',
@@ -1216,7 +1162,7 @@ return array (
     'latitude' => 1.2333,
     'longitude' => 35.3833,
   ),
-  135 => 
+  129 => 
   array (
     'id' => 154647,
     'name' => 'Kaptarakwa',
@@ -1225,7 +1171,7 @@ return array (
     'latitude' => 0.4333,
     'longitude' => 35.5833,
   ),
-  136 => 
+  130 => 
   array (
     'id' => 154648,
     'name' => 'Chepkorio',
@@ -1234,7 +1180,7 @@ return array (
     'latitude' => 0.3833,
     'longitude' => 35.45,
   ),
-  137 => 
+  131 => 
   array (
     'id' => 154649,
     'name' => 'Chesoi',
@@ -1243,7 +1189,7 @@ return array (
     'latitude' => 1.15,
     'longitude' => 35.65,
   ),
-  138 => 
+  132 => 
   array (
     'id' => 154650,
     'name' => 'Chesongoch',
@@ -1252,7 +1198,7 @@ return array (
     'latitude' => 1.0833,
     'longitude' => 35.65,
   ),
-  139 => 
+  133 => 
   array (
     'id' => 154651,
     'name' => 'Kapsait',
@@ -1261,7 +1207,7 @@ return array (
     'latitude' => 1.2167,
     'longitude' => 35.3,
   ),
-  140 => 
+  134 => 
   array (
     'id' => 154652,
     'name' => 'Kaptalamwa',
@@ -1270,7 +1216,7 @@ return array (
     'latitude' => 1.2,
     'longitude' => 35.45,
   ),
-  141 => 
+  135 => 
   array (
     'id' => 154653,
     'name' => 'Kapyego',
@@ -1279,7 +1225,7 @@ return array (
     'latitude' => 1.2333,
     'longitude' => 35.6667,
   ),
-  142 => 
+  136 => 
   array (
     'id' => 154654,
     'name' => 'Kipmwarer',
@@ -1288,7 +1234,7 @@ return array (
     'latitude' => 0.9167,
     'longitude' => 35.5333,
   ),
-  143 => 
+  137 => 
   array (
     'id' => 154655,
     'name' => 'Kocholwo',
@@ -1297,7 +1243,7 @@ return array (
     'latitude' => 0.4167,
     'longitude' => 35.5667,
   ),
-  144 => 
+  138 => 
   array (
     'id' => 154656,
     'name' => 'Flax',

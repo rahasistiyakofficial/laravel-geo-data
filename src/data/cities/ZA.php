@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -1443,15 +1443,6 @@ return array (
   ),
   160 => 
   array (
-    'id' => 131175,
-    'name' => 'Middelburg',
-    'country_id' => 204,
-    'country_code' => 'ZA',
-    'latitude' => -25.77507,
-    'longitude' => 29.46482,
-  ),
-  161 => 
-  array (
     'id' => 131176,
     'name' => 'Midrand',
     'country_id' => 204,
@@ -1459,7 +1450,7 @@ return array (
     'latitude' => -25.98953,
     'longitude' => 28.12843,
   ),
-  162 => 
+  161 => 
   array (
     'id' => 131177,
     'name' => 'Midstream',
@@ -1468,7 +1459,7 @@ return array (
     'latitude' => -25.91849,
     'longitude' => 28.19881,
   ),
-  163 => 
+  162 => 
   array (
     'id' => 131178,
     'name' => 'Mmabatho',
@@ -1477,7 +1468,7 @@ return array (
     'latitude' => -25.85,
     'longitude' => 25.63333,
   ),
-  164 => 
+  163 => 
   array (
     'id' => 131179,
     'name' => 'Modderfontein',
@@ -1486,7 +1477,7 @@ return array (
     'latitude' => -26.08909,
     'longitude' => 28.16534,
   ),
-  165 => 
+  164 => 
   array (
     'id' => 131180,
     'name' => 'Modimolle',
@@ -1495,7 +1486,7 @@ return array (
     'latitude' => -24.7,
     'longitude' => 28.4,
   ),
-  166 => 
+  165 => 
   array (
     'id' => 131181,
     'name' => 'Mokopane',
@@ -1504,7 +1495,7 @@ return array (
     'latitude' => -24.19436,
     'longitude' => 29.00974,
   ),
-  167 => 
+  166 => 
   array (
     'id' => 131182,
     'name' => 'Molteno',
@@ -1513,7 +1504,7 @@ return array (
     'latitude' => -31.39675,
     'longitude' => 26.36246,
   ),
-  168 => 
+  167 => 
   array (
     'id' => 131183,
     'name' => 'Mondlo',
@@ -1522,7 +1513,7 @@ return array (
     'latitude' => -27.98299,
     'longitude' => 30.71769,
   ),
-  169 => 
+  168 => 
   array (
     'id' => 131184,
     'name' => 'Montagu',
@@ -1531,7 +1522,7 @@ return array (
     'latitude' => -33.78664,
     'longitude' => 20.12106,
   ),
-  170 => 
+  169 => 
   array (
     'id' => 131185,
     'name' => 'Mooirivier',
@@ -1540,7 +1531,7 @@ return array (
     'latitude' => -29.20824,
     'longitude' => 29.9946,
   ),
-  171 => 
+  170 => 
   array (
     'id' => 131186,
     'name' => 'Moorreesburg',
@@ -1549,7 +1540,7 @@ return array (
     'latitude' => -33.15388,
     'longitude' => 18.66031,
   ),
-  172 => 
+  171 => 
   array (
     'id' => 131187,
     'name' => 'Mopani District Municipality',
@@ -1558,7 +1549,7 @@ return array (
     'latitude' => -23.76661,
     'longitude' => 30.836,
   ),
-  173 => 
+  172 => 
   array (
     'id' => 131188,
     'name' => 'Mossel Bay',
@@ -1567,7 +1558,7 @@ return array (
     'latitude' => -34.18307,
     'longitude' => 22.14605,
   ),
-  174 => 
+  173 => 
   array (
     'id' => 131189,
     'name' => 'Mpophomeni',
@@ -1576,7 +1567,7 @@ return array (
     'latitude' => -29.56822,
     'longitude' => 30.18618,
   ),
-  175 => 
+  174 => 
   array (
     'id' => 131190,
     'name' => 'Mpumalanga',
@@ -1585,7 +1576,7 @@ return array (
     'latitude' => -29.81292,
     'longitude' => 30.63646,
   ),
-  176 => 
+  175 => 
   array (
     'id' => 131191,
     'name' => 'Mthatha',
@@ -1594,7 +1585,7 @@ return array (
     'latitude' => -31.58893,
     'longitude' => 28.78443,
   ),
-  177 => 
+  176 => 
   array (
     'id' => 131192,
     'name' => 'Mtubatuba',
@@ -1603,7 +1594,7 @@ return array (
     'latitude' => -28.41789,
     'longitude' => 32.18483,
   ),
-  178 => 
+  177 => 
   array (
     'id' => 131193,
     'name' => 'Muldersdriseloop',
@@ -1612,7 +1603,7 @@ return array (
     'latitude' => -26.03673,
     'longitude' => 27.83798,
   ),
-  179 => 
+  178 => 
   array (
     'id' => 131194,
     'name' => 'Musina',
@@ -1621,7 +1612,7 @@ return array (
     'latitude' => -22.34881,
     'longitude' => 30.04074,
   ),
-  180 => 
+  179 => 
   array (
     'id' => 131195,
     'name' => 'Namakwa District Municipality',
@@ -1630,7 +1621,7 @@ return array (
     'latitude' => -30.53561,
     'longitude' => 19.42892,
   ),
-  181 => 
+  180 => 
   array (
     'id' => 131196,
     'name' => 'Ndwedwe',
@@ -1639,7 +1630,7 @@ return array (
     'latitude' => -29.51686,
     'longitude' => 30.92687,
   ),
-  182 => 
+  181 => 
   array (
     'id' => 131197,
     'name' => 'Nelson Mandela Bay Metropolitan Municipality',
@@ -1648,7 +1639,7 @@ return array (
     'latitude' => -33.80399,
     'longitude' => 25.49213,
   ),
-  183 => 
+  182 => 
   array (
     'id' => 131198,
     'name' => 'Nelspruit',
@@ -1657,7 +1648,7 @@ return array (
     'latitude' => -25.47448,
     'longitude' => 30.97033,
   ),
-  184 => 
+  183 => 
   array (
     'id' => 131199,
     'name' => 'Newcastle',
@@ -1666,7 +1657,7 @@ return array (
     'latitude' => -27.75796,
     'longitude' => 29.9318,
   ),
-  185 => 
+  184 => 
   array (
     'id' => 131200,
     'name' => 'Newlands',
@@ -1675,7 +1666,7 @@ return array (
     'latitude' => -33.97846,
     'longitude' => 18.4481,
   ),
-  186 => 
+  185 => 
   array (
     'id' => 131201,
     'name' => 'Ngaka Modiri Molema District Municipality',
@@ -1684,7 +1675,7 @@ return array (
     'latitude' => -25.95559,
     'longitude' => 25.80782,
   ),
-  187 => 
+  186 => 
   array (
     'id' => 131202,
     'name' => 'Nigel',
@@ -1693,7 +1684,7 @@ return array (
     'latitude' => -26.43138,
     'longitude' => 28.47713,
   ),
-  188 => 
+  187 => 
   array (
     'id' => 131203,
     'name' => 'Nkangala District Municipality',
@@ -1702,7 +1693,7 @@ return array (
     'latitude' => -25.71222,
     'longitude' => 29.42431,
   ),
-  189 => 
+  188 => 
   array (
     'id' => 131204,
     'name' => 'Nkowakowa',
@@ -1711,7 +1702,7 @@ return array (
     'latitude' => -23.88782,
     'longitude' => 30.28708,
   ),
-  190 => 
+  189 => 
   array (
     'id' => 131205,
     'name' => 'Noupoort',
@@ -1720,7 +1711,7 @@ return array (
     'latitude' => -31.18736,
     'longitude' => 24.94991,
   ),
-  191 => 
+  190 => 
   array (
     'id' => 131206,
     'name' => 'OR Tambo District Municipality',
@@ -1729,7 +1720,7 @@ return array (
     'latitude' => -31.4674,
     'longitude' => 29.05247,
   ),
-  192 => 
+  191 => 
   array (
     'id' => 131207,
     'name' => 'Orange Farm',
@@ -1738,7 +1729,7 @@ return array (
     'latitude' => -26.48333,
     'longitude' => 27.86667,
   ),
-  193 => 
+  192 => 
   array (
     'id' => 131208,
     'name' => 'Orania',
@@ -1747,7 +1738,7 @@ return array (
     'latitude' => -29.81381,
     'longitude' => 24.41205,
   ),
-  194 => 
+  193 => 
   array (
     'id' => 131209,
     'name' => 'Orkney',
@@ -1756,7 +1747,7 @@ return array (
     'latitude' => -26.98023,
     'longitude' => 26.67272,
   ),
-  195 => 
+  194 => 
   array (
     'id' => 131210,
     'name' => 'Oudtshoorn',
@@ -1765,7 +1756,7 @@ return array (
     'latitude' => -33.60047,
     'longitude' => 22.19955,
   ),
-  196 => 
+  195 => 
   array (
     'id' => 131211,
     'name' => 'Overberg District Municipality',
@@ -1774,7 +1765,7 @@ return array (
     'latitude' => -34.26131,
     'longitude' => 19.93985,
   ),
-  197 => 
+  196 => 
   array (
     'id' => 131212,
     'name' => 'Paarl',
@@ -1783,7 +1774,7 @@ return array (
     'latitude' => -33.73378,
     'longitude' => 18.97523,
   ),
-  198 => 
+  197 => 
   array (
     'id' => 131213,
     'name' => 'Pampierstad',
@@ -1792,7 +1783,7 @@ return array (
     'latitude' => -27.78324,
     'longitude' => 24.68768,
   ),
-  199 => 
+  198 => 
   array (
     'id' => 131214,
     'name' => 'Parys',
@@ -1801,7 +1792,7 @@ return array (
     'latitude' => -26.9033,
     'longitude' => 27.45727,
   ),
-  200 => 
+  199 => 
   array (
     'id' => 131215,
     'name' => 'Phalaborwa',
@@ -1810,7 +1801,7 @@ return array (
     'latitude' => -23.94299,
     'longitude' => 31.14107,
   ),
-  201 => 
+  200 => 
   array (
     'id' => 131216,
     'name' => 'Phuthaditjhaba',
@@ -1819,7 +1810,7 @@ return array (
     'latitude' => -28.52423,
     'longitude' => 28.81582,
   ),
-  202 => 
+  201 => 
   array (
     'id' => 131217,
     'name' => 'Piet Retief',
@@ -1828,7 +1819,7 @@ return array (
     'latitude' => -27.00706,
     'longitude' => 30.81323,
   ),
-  203 => 
+  202 => 
   array (
     'id' => 131218,
     'name' => 'Pietermaritzburg',
@@ -1837,7 +1828,7 @@ return array (
     'latitude' => -29.61679,
     'longitude' => 30.39278,
   ),
-  204 => 
+  203 => 
   array (
     'id' => 131219,
     'name' => 'Piketberg',
@@ -1846,7 +1837,7 @@ return array (
     'latitude' => -32.90323,
     'longitude' => 18.75704,
   ),
-  205 => 
+  204 => 
   array (
     'id' => 131220,
     'name' => 'Pixley ka Seme District Municipality',
@@ -1855,7 +1846,7 @@ return array (
     'latitude' => -30.2892,
     'longitude' => 23.25818,
   ),
-  206 => 
+  205 => 
   array (
     'id' => 131221,
     'name' => 'Plettenberg Bay',
@@ -1864,7 +1855,7 @@ return array (
     'latitude' => -34.05274,
     'longitude' => 23.3716,
   ),
-  207 => 
+  206 => 
   array (
     'id' => 131222,
     'name' => 'Pofadder',
@@ -1873,7 +1864,7 @@ return array (
     'latitude' => -29.1283,
     'longitude' => 19.39492,
   ),
-  208 => 
+  207 => 
   array (
     'id' => 131223,
     'name' => 'Polokwane',
@@ -1882,7 +1873,7 @@ return array (
     'latitude' => -23.90449,
     'longitude' => 29.46885,
   ),
-  209 => 
+  208 => 
   array (
     'id' => 131224,
     'name' => 'Port Alfred',
@@ -1891,7 +1882,7 @@ return array (
     'latitude' => -33.58601,
     'longitude' => 26.88329,
   ),
-  210 => 
+  209 => 
   array (
     'id' => 131225,
     'name' => 'Port Elizabeth',
@@ -1900,7 +1891,7 @@ return array (
     'latitude' => -33.96109,
     'longitude' => 25.61494,
   ),
-  211 => 
+  210 => 
   array (
     'id' => 131226,
     'name' => 'Port Saint John’s',
@@ -1909,7 +1900,7 @@ return array (
     'latitude' => -31.62291,
     'longitude' => 29.54477,
   ),
-  212 => 
+  211 => 
   array (
     'id' => 131227,
     'name' => 'Port Shepstone',
@@ -1918,7 +1909,7 @@ return array (
     'latitude' => -30.74137,
     'longitude' => 30.45499,
   ),
-  213 => 
+  212 => 
   array (
     'id' => 131228,
     'name' => 'Postmasburg',
@@ -1927,7 +1918,7 @@ return array (
     'latitude' => -28.33392,
     'longitude' => 23.06541,
   ),
-  214 => 
+  213 => 
   array (
     'id' => 131229,
     'name' => 'Potchefstroom',
@@ -1936,7 +1927,7 @@ return array (
     'latitude' => -26.71667,
     'longitude' => 27.1,
   ),
-  215 => 
+  214 => 
   array (
     'id' => 131230,
     'name' => 'Pretoria',
@@ -1945,7 +1936,7 @@ return array (
     'latitude' => -25.74486,
     'longitude' => 28.18783,
   ),
-  216 => 
+  215 => 
   array (
     'id' => 131231,
     'name' => 'Prieska',
@@ -1954,7 +1945,7 @@ return array (
     'latitude' => -29.66803,
     'longitude' => 22.74251,
   ),
-  217 => 
+  216 => 
   array (
     'id' => 131232,
     'name' => 'Prince Albert',
@@ -1963,7 +1954,7 @@ return array (
     'latitude' => -33.22476,
     'longitude' => 22.02673,
   ),
-  218 => 
+  217 => 
   array (
     'id' => 131233,
     'name' => 'Queensdale',
@@ -1972,7 +1963,7 @@ return array (
     'latitude' => -31.87101,
     'longitude' => 26.97862,
   ),
-  219 => 
+  218 => 
   array (
     'id' => 131234,
     'name' => 'Queenstown',
@@ -1981,7 +1972,7 @@ return array (
     'latitude' => -31.89756,
     'longitude' => 26.87533,
   ),
-  220 => 
+  219 => 
   array (
     'id' => 131235,
     'name' => 'Randburg',
@@ -1990,7 +1981,7 @@ return array (
     'latitude' => -26.0941,
     'longitude' => 28.00123,
   ),
-  221 => 
+  220 => 
   array (
     'id' => 131236,
     'name' => 'Randfontein',
@@ -1999,7 +1990,7 @@ return array (
     'latitude' => -26.1844,
     'longitude' => 27.70203,
   ),
-  222 => 
+  221 => 
   array (
     'id' => 131237,
     'name' => 'Reitz',
@@ -2008,7 +1999,7 @@ return array (
     'latitude' => -27.80138,
     'longitude' => 28.42726,
   ),
-  223 => 
+  222 => 
   array (
     'id' => 131238,
     'name' => 'Retreat',
@@ -2017,7 +2008,7 @@ return array (
     'latitude' => -34.05515,
     'longitude' => 18.47617,
   ),
-  224 => 
+  223 => 
   array (
     'id' => 131239,
     'name' => 'Richards Bay',
@@ -2026,7 +2017,7 @@ return array (
     'latitude' => -28.78301,
     'longitude' => 32.03768,
   ),
-  225 => 
+  224 => 
   array (
     'id' => 131240,
     'name' => 'Richmond',
@@ -2035,7 +2026,7 @@ return array (
     'latitude' => -29.87196,
     'longitude' => 30.27235,
   ),
-  226 => 
+  225 => 
   array (
     'id' => 131241,
     'name' => 'Ritchie',
@@ -2044,7 +2035,7 @@ return array (
     'latitude' => -29.03801,
     'longitude' => 24.60278,
   ),
-  227 => 
+  226 => 
   array (
     'id' => 131242,
     'name' => 'Riversdale',
@@ -2053,7 +2044,7 @@ return array (
     'latitude' => -34.09345,
     'longitude' => 21.25725,
   ),
-  228 => 
+  227 => 
   array (
     'id' => 131243,
     'name' => 'Robertson',
@@ -2062,7 +2053,7 @@ return array (
     'latitude' => -33.80342,
     'longitude' => 19.88537,
   ),
-  229 => 
+  228 => 
   array (
     'id' => 131244,
     'name' => 'Rondebosch',
@@ -2071,7 +2062,7 @@ return array (
     'latitude' => -33.96333,
     'longitude' => 18.47639,
   ),
-  230 => 
+  229 => 
   array (
     'id' => 131245,
     'name' => 'Roodepoort',
@@ -2080,7 +2071,7 @@ return array (
     'latitude' => -26.1625,
     'longitude' => 27.8725,
   ),
-  231 => 
+  230 => 
   array (
     'id' => 131246,
     'name' => 'Rosebank',
@@ -2089,7 +2080,7 @@ return array (
     'latitude' => -33.95556,
     'longitude' => 18.47417,
   ),
-  232 => 
+  231 => 
   array (
     'id' => 131247,
     'name' => 'Rustenburg',
@@ -2098,7 +2089,7 @@ return array (
     'latitude' => -25.66756,
     'longitude' => 27.24208,
   ),
-  233 => 
+  232 => 
   array (
     'id' => 131248,
     'name' => 'Saldanha',
@@ -2107,7 +2098,7 @@ return array (
     'latitude' => -33.01167,
     'longitude' => 17.9442,
   ),
-  234 => 
+  233 => 
   array (
     'id' => 131249,
     'name' => 'Sasolburg',
@@ -2116,7 +2107,7 @@ return array (
     'latitude' => -26.81358,
     'longitude' => 27.81695,
   ),
-  235 => 
+  234 => 
   array (
     'id' => 131250,
     'name' => 'Schweizer-Reneke',
@@ -2125,7 +2116,7 @@ return array (
     'latitude' => -27.18871,
     'longitude' => 25.32931,
   ),
-  236 => 
+  235 => 
   array (
     'id' => 131251,
     'name' => 'Scottburgh',
@@ -2134,7 +2125,7 @@ return array (
     'latitude' => -30.28666,
     'longitude' => 30.75316,
   ),
-  237 => 
+  236 => 
   array (
     'id' => 131252,
     'name' => 'Secunda',
@@ -2143,7 +2134,7 @@ return array (
     'latitude' => -26.55,
     'longitude' => 29.16667,
   ),
-  238 => 
+  237 => 
   array (
     'id' => 131253,
     'name' => 'Sedibeng District Municipality',
@@ -2152,7 +2143,7 @@ return array (
     'latitude' => -26.56686,
     'longitude' => 28.18277,
   ),
-  239 => 
+  238 => 
   array (
     'id' => 131254,
     'name' => 'Sekhukhune District Municipality',
@@ -2161,7 +2152,7 @@ return array (
     'latitude' => -24.82806,
     'longitude' => 29.83803,
   ),
-  240 => 
+  239 => 
   array (
     'id' => 131255,
     'name' => 'Senekal',
@@ -2170,7 +2161,7 @@ return array (
     'latitude' => -28.31971,
     'longitude' => 27.62082,
   ),
-  241 => 
+  240 => 
   array (
     'id' => 131256,
     'name' => 'Sisonke District Municipality',
@@ -2179,7 +2170,7 @@ return array (
     'latitude' => -30.11082,
     'longitude' => 29.66009,
   ),
-  242 => 
+  241 => 
   array (
     'id' => 131257,
     'name' => 'Siyabuswa',
@@ -2188,7 +2179,7 @@ return array (
     'latitude' => -25.11319,
     'longitude' => 29.04454,
   ),
-  243 => 
+  242 => 
   array (
     'id' => 131258,
     'name' => 'Siyanda District Municipality',
@@ -2197,7 +2188,7 @@ return array (
     'latitude' => -28.00013,
     'longitude' => 21.18459,
   ),
-  244 => 
+  243 => 
   array (
     'id' => 131259,
     'name' => 'Somerset East',
@@ -2206,7 +2197,7 @@ return array (
     'latitude' => -32.72173,
     'longitude' => 25.58804,
   ),
-  245 => 
+  244 => 
   array (
     'id' => 131260,
     'name' => 'Soweto',
@@ -2215,7 +2206,7 @@ return array (
     'latitude' => -26.26781,
     'longitude' => 27.85849,
   ),
-  246 => 
+  245 => 
   array (
     'id' => 131261,
     'name' => 'Springbok',
@@ -2224,7 +2215,7 @@ return array (
     'latitude' => -29.66434,
     'longitude' => 17.8865,
   ),
-  247 => 
+  246 => 
   array (
     'id' => 131262,
     'name' => 'Springs',
@@ -2233,7 +2224,7 @@ return array (
     'latitude' => -26.25,
     'longitude' => 28.4,
   ),
-  248 => 
+  247 => 
   array (
     'id' => 131263,
     'name' => 'Standerton',
@@ -2242,7 +2233,7 @@ return array (
     'latitude' => -26.93366,
     'longitude' => 29.24152,
   ),
-  249 => 
+  248 => 
   array (
     'id' => 131264,
     'name' => 'Stellenbosch',
@@ -2251,7 +2242,7 @@ return array (
     'latitude' => -33.93462,
     'longitude' => 18.86676,
   ),
-  250 => 
+  249 => 
   array (
     'id' => 131265,
     'name' => 'Stilfontein',
@@ -2260,7 +2251,7 @@ return array (
     'latitude' => -26.84493,
     'longitude' => 26.76829,
   ),
-  251 => 
+  250 => 
   array (
     'id' => 131266,
     'name' => 'Stutterheim',
@@ -2269,7 +2260,7 @@ return array (
     'latitude' => -32.57076,
     'longitude' => 27.42396,
   ),
-  252 => 
+  251 => 
   array (
     'id' => 131267,
     'name' => 'Sundumbili',
@@ -2278,7 +2269,7 @@ return array (
     'latitude' => -29.13371,
     'longitude' => 31.39752,
   ),
-  253 => 
+  252 => 
   array (
     'id' => 131268,
     'name' => 'Sunset Beach',
@@ -2287,7 +2278,7 @@ return array (
     'latitude' => -33.85395,
     'longitude' => 18.49231,
   ),
-  254 => 
+  253 => 
   array (
     'id' => 131269,
     'name' => 'Swellendam',
@@ -2296,7 +2287,7 @@ return array (
     'latitude' => -34.02262,
     'longitude' => 20.44171,
   ),
-  255 => 
+  254 => 
   array (
     'id' => 131270,
     'name' => 'Tembisa',
@@ -2305,7 +2296,7 @@ return array (
     'latitude' => -25.99636,
     'longitude' => 28.2268,
   ),
-  256 => 
+  255 => 
   array (
     'id' => 131271,
     'name' => 'Thaba Nchu',
@@ -2314,7 +2305,7 @@ return array (
     'latitude' => -29.20932,
     'longitude' => 26.83898,
   ),
-  257 => 
+  256 => 
   array (
     'id' => 131272,
     'name' => 'Thabazimbi',
@@ -2323,7 +2314,7 @@ return array (
     'latitude' => -24.59165,
     'longitude' => 27.41155,
   ),
-  258 => 
+  257 => 
   array (
     'id' => 131273,
     'name' => 'Thabo Mofutsanyana District Municipality',
@@ -2332,7 +2323,7 @@ return array (
     'latitude' => -28.24378,
     'longitude' => 28.34077,
   ),
-  259 => 
+  258 => 
   array (
     'id' => 131274,
     'name' => 'Theunissen',
@@ -2341,7 +2332,7 @@ return array (
     'latitude' => -28.41098,
     'longitude' => 26.70107,
   ),
-  260 => 
+  259 => 
   array (
     'id' => 131275,
     'name' => 'Thohoyandou',
@@ -2350,7 +2341,7 @@ return array (
     'latitude' => -22.94564,
     'longitude' => 30.48497,
   ),
-  261 => 
+  260 => 
   array (
     'id' => 131276,
     'name' => 'Thulamahashi',
@@ -2359,7 +2350,7 @@ return array (
     'latitude' => -24.72459,
     'longitude' => 31.19939,
   ),
-  262 => 
+  261 => 
   array (
     'id' => 131277,
     'name' => 'Tzaneen',
@@ -2368,7 +2359,7 @@ return array (
     'latitude' => -23.83322,
     'longitude' => 30.16351,
   ),
-  263 => 
+  262 => 
   array (
     'id' => 131278,
     'name' => 'Ugu District Municipality',
@@ -2377,7 +2368,7 @@ return array (
     'latitude' => -30.54365,
     'longitude' => 30.2748,
   ),
-  264 => 
+  263 => 
   array (
     'id' => 131279,
     'name' => 'Uitenhage',
@@ -2386,7 +2377,7 @@ return array (
     'latitude' => -33.75757,
     'longitude' => 25.3971,
   ),
-  265 => 
+  264 => 
   array (
     'id' => 131280,
     'name' => 'Ulundi',
@@ -2395,7 +2386,7 @@ return array (
     'latitude' => -28.33523,
     'longitude' => 31.41617,
   ),
-  266 => 
+  265 => 
   array (
     'id' => 131281,
     'name' => 'Upington',
@@ -2404,7 +2395,7 @@ return array (
     'latitude' => -28.44776,
     'longitude' => 21.25612,
   ),
-  267 => 
+  266 => 
   array (
     'id' => 131282,
     'name' => 'Utrecht',
@@ -2413,7 +2404,7 @@ return array (
     'latitude' => -27.65862,
     'longitude' => 30.32166,
   ),
-  268 => 
+  267 => 
   array (
     'id' => 131283,
     'name' => 'Van Wyksvlei',
@@ -2422,7 +2413,7 @@ return array (
     'latitude' => -30.35101,
     'longitude' => 21.82498,
   ),
-  269 => 
+  268 => 
   array (
     'id' => 131284,
     'name' => 'Vanderbijlpark',
@@ -2431,7 +2422,7 @@ return array (
     'latitude' => -26.71171,
     'longitude' => 27.83795,
   ),
-  270 => 
+  269 => 
   array (
     'id' => 131285,
     'name' => 'Ventersburg',
@@ -2440,7 +2431,7 @@ return array (
     'latitude' => -28.08561,
     'longitude' => 27.13814,
   ),
-  271 => 
+  270 => 
   array (
     'id' => 131286,
     'name' => 'Vereeniging',
@@ -2449,7 +2440,7 @@ return array (
     'latitude' => -26.67313,
     'longitude' => 27.92615,
   ),
-  272 => 
+  271 => 
   array (
     'id' => 131287,
     'name' => 'Vhembe District Municipality',
@@ -2458,7 +2449,7 @@ return array (
     'latitude' => -22.75467,
     'longitude' => 30.1936,
   ),
-  273 => 
+  272 => 
   array (
     'id' => 131288,
     'name' => 'Viljoenskroon',
@@ -2467,7 +2458,7 @@ return array (
     'latitude' => -27.20841,
     'longitude' => 26.94855,
   ),
-  274 => 
+  273 => 
   array (
     'id' => 131289,
     'name' => 'Villiers',
@@ -2476,7 +2467,7 @@ return array (
     'latitude' => -27.03026,
     'longitude' => 28.60061,
   ),
-  275 => 
+  274 => 
   array (
     'id' => 131290,
     'name' => 'Virginia',
@@ -2485,7 +2476,7 @@ return array (
     'latitude' => -28.10391,
     'longitude' => 26.86593,
   ),
-  276 => 
+  275 => 
   array (
     'id' => 131291,
     'name' => 'Volksrust',
@@ -2494,7 +2485,7 @@ return array (
     'latitude' => -27.36541,
     'longitude' => 29.88175,
   ),
-  277 => 
+  276 => 
   array (
     'id' => 131292,
     'name' => 'Vrede',
@@ -2503,7 +2494,7 @@ return array (
     'latitude' => -27.42573,
     'longitude' => 29.16585,
   ),
-  278 => 
+  277 => 
   array (
     'id' => 131293,
     'name' => 'Vredefort',
@@ -2512,7 +2503,7 @@ return array (
     'latitude' => -27.00805,
     'longitude' => 27.3646,
   ),
-  279 => 
+  278 => 
   array (
     'id' => 131294,
     'name' => 'Vredenburg',
@@ -2521,7 +2512,7 @@ return array (
     'latitude' => -32.90719,
     'longitude' => 17.98997,
   ),
-  280 => 
+  279 => 
   array (
     'id' => 131295,
     'name' => 'Vredendal',
@@ -2530,7 +2521,7 @@ return array (
     'latitude' => -31.66833,
     'longitude' => 18.50119,
   ),
-  281 => 
+  280 => 
   array (
     'id' => 131296,
     'name' => 'Vryburg',
@@ -2539,7 +2530,7 @@ return array (
     'latitude' => -26.95659,
     'longitude' => 24.7284,
   ),
-  282 => 
+  281 => 
   array (
     'id' => 131297,
     'name' => 'Vryheid',
@@ -2548,7 +2539,7 @@ return array (
     'latitude' => -27.76952,
     'longitude' => 30.79165,
   ),
-  283 => 
+  282 => 
   array (
     'id' => 131298,
     'name' => 'Warmbaths',
@@ -2557,7 +2548,7 @@ return array (
     'latitude' => -24.88333,
     'longitude' => 28.28333,
   ),
-  284 => 
+  283 => 
   array (
     'id' => 131299,
     'name' => 'Warrenton',
@@ -2566,7 +2557,7 @@ return array (
     'latitude' => -28.11396,
     'longitude' => 24.84753,
   ),
-  285 => 
+  284 => 
   array (
     'id' => 131300,
     'name' => 'Waterberg District Municipality',
@@ -2575,7 +2566,7 @@ return array (
     'latitude' => -24.20514,
     'longitude' => 27.9787,
   ),
-  286 => 
+  285 => 
   array (
     'id' => 131301,
     'name' => 'Welkom',
@@ -2584,7 +2575,7 @@ return array (
     'latitude' => -27.97742,
     'longitude' => 26.73506,
   ),
-  287 => 
+  286 => 
   array (
     'id' => 131302,
     'name' => 'Wellington',
@@ -2593,7 +2584,7 @@ return array (
     'latitude' => -33.63981,
     'longitude' => 19.0112,
   ),
-  288 => 
+  287 => 
   array (
     'id' => 131303,
     'name' => 'Wesselsbron',
@@ -2602,7 +2593,7 @@ return array (
     'latitude' => -27.8549,
     'longitude' => 26.36583,
   ),
-  289 => 
+  288 => 
   array (
     'id' => 131304,
     'name' => 'West Coast District Municipality',
@@ -2611,7 +2602,7 @@ return array (
     'latitude' => -32.09506,
     'longitude' => 18.62695,
   ),
-  290 => 
+  289 => 
   array (
     'id' => 131305,
     'name' => 'West Rand District Municipality',
@@ -2620,7 +2611,7 @@ return array (
     'latitude' => -26.24565,
     'longitude' => 27.55538,
   ),
-  291 => 
+  290 => 
   array (
     'id' => 131306,
     'name' => 'Westonaria',
@@ -2629,7 +2620,7 @@ return array (
     'latitude' => -26.31905,
     'longitude' => 27.6486,
   ),
-  292 => 
+  291 => 
   array (
     'id' => 131307,
     'name' => 'White River',
@@ -2638,7 +2629,7 @@ return array (
     'latitude' => -25.33177,
     'longitude' => 31.01166,
   ),
-  293 => 
+  292 => 
   array (
     'id' => 131308,
     'name' => 'Whittlesea',
@@ -2647,7 +2638,7 @@ return array (
     'latitude' => -32.17588,
     'longitude' => 26.82437,
   ),
-  294 => 
+  293 => 
   array (
     'id' => 131309,
     'name' => 'Willowmore',
@@ -2656,7 +2647,7 @@ return array (
     'latitude' => -33.29265,
     'longitude' => 23.48954,
   ),
-  295 => 
+  294 => 
   array (
     'id' => 131310,
     'name' => 'Winburg',
@@ -2665,7 +2656,7 @@ return array (
     'latitude' => -28.51805,
     'longitude' => 27.00933,
   ),
-  296 => 
+  295 => 
   array (
     'id' => 131311,
     'name' => 'Witbank',
@@ -2674,7 +2665,7 @@ return array (
     'latitude' => -25.87133,
     'longitude' => 29.23323,
   ),
-  297 => 
+  296 => 
   array (
     'id' => 131312,
     'name' => 'Wolmaransstad',
@@ -2683,7 +2674,7 @@ return array (
     'latitude' => -27.1974,
     'longitude' => 25.98311,
   ),
-  298 => 
+  297 => 
   array (
     'id' => 131313,
     'name' => 'Worcester',
@@ -2692,7 +2683,7 @@ return array (
     'latitude' => -33.64651,
     'longitude' => 19.44852,
   ),
-  299 => 
+  298 => 
   array (
     'id' => 131314,
     'name' => 'Xhariep District Municipality',
@@ -2701,7 +2692,7 @@ return array (
     'latitude' => -29.84311,
     'longitude' => 25.83286,
   ),
-  300 => 
+  299 => 
   array (
     'id' => 131315,
     'name' => 'Zastron',
@@ -2710,7 +2701,7 @@ return array (
     'latitude' => -30.30225,
     'longitude' => 27.08395,
   ),
-  301 => 
+  300 => 
   array (
     'id' => 131316,
     'name' => 'Zeerust',
@@ -2719,7 +2710,7 @@ return array (
     'latitude' => -25.53695,
     'longitude' => 26.07512,
   ),
-  302 => 
+  301 => 
   array (
     'id' => 131317,
     'name' => 'Zoar',
@@ -2728,7 +2719,7 @@ return array (
     'latitude' => -33.4956,
     'longitude' => 21.44373,
   ),
-  303 => 
+  302 => 
   array (
     'id' => 131318,
     'name' => 'Zululand District Municipality',
@@ -2737,7 +2728,7 @@ return array (
     'latitude' => -27.81139,
     'longitude' => 31.29426,
   ),
-  304 => 
+  303 => 
   array (
     'id' => 131319,
     'name' => 'eMbalenhle',
@@ -2746,7 +2737,7 @@ return array (
     'latitude' => -26.53333,
     'longitude' => 29.06667,
   ),
-  305 => 
+  304 => 
   array (
     'id' => 131320,
     'name' => 'eMkhomazi',
@@ -2755,7 +2746,7 @@ return array (
     'latitude' => -30.20674,
     'longitude' => 30.79776,
   ),
-  306 => 
+  305 => 
   array (
     'id' => 131321,
     'name' => 'eSikhaleni',
@@ -2764,7 +2755,7 @@ return array (
     'latitude' => -28.87097,
     'longitude' => 31.89961,
   ),
-  307 => 
+  306 => 
   array (
     'id' => 131322,
     'name' => 'eThekwini Metropolitan Municipality',
@@ -2773,7 +2764,7 @@ return array (
     'latitude' => -29.8667,
     'longitude' => 31.0167,
   ),
-  308 => 
+  307 => 
   array (
     'id' => 131323,
     'name' => 'iLembe District Municipality',
@@ -2782,7 +2773,7 @@ return array (
     'latitude' => -29.27326,
     'longitude' => 31.14253,
   ),
-  309 => 
+  308 => 
   array (
     'id' => 131324,
     'name' => 'uMgungundlovu',
@@ -2791,7 +2782,7 @@ return array (
     'latitude' => -29.50927,
     'longitude' => 30.19838,
   ),
-  310 => 
+  309 => 
   array (
     'id' => 131325,
     'name' => 'uMkhanyakude District Municipality',
@@ -2800,7 +2791,7 @@ return array (
     'latitude' => -27.62236,
     'longitude' => 32.32945,
   ),
-  311 => 
+  310 => 
   array (
     'id' => 131326,
     'name' => 'uMzinyathi District Municipality',
@@ -2809,7 +2800,7 @@ return array (
     'latitude' => -28.5857,
     'longitude' => 30.55883,
   ),
-  312 => 
+  311 => 
   array (
     'id' => 131327,
     'name' => 'uThukela District Municipality',
@@ -2818,7 +2809,7 @@ return array (
     'latitude' => -28.7192,
     'longitude' => 29.65799,
   ),
-  313 => 
+  312 => 
   array (
     'id' => 131328,
     'name' => 'uThungulu District Municipality',

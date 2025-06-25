@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -1029,15 +1029,6 @@ return array (
   ),
   114 => 
   array (
-    'id' => 9364,
-    'name' => 'Kiten',
-    'country_id' => 34,
-    'country_code' => 'BG',
-    'latitude' => 43.08333,
-    'longitude' => 27.31667,
-  ),
-  115 => 
-  array (
     'id' => 9365,
     'name' => 'Klisura',
     'country_id' => 34,
@@ -1045,7 +1036,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 24.45,
   ),
-  116 => 
+  115 => 
   array (
     'id' => 9366,
     'name' => 'Knezha',
@@ -1054,7 +1045,7 @@ return array (
     'latitude' => 43.5,
     'longitude' => 24.08333,
   ),
-  117 => 
+  116 => 
   array (
     'id' => 9367,
     'name' => 'Kocherinovo',
@@ -1063,7 +1054,7 @@ return array (
     'latitude' => 42.08439,
     'longitude' => 23.0571,
   ),
-  118 => 
+  117 => 
   array (
     'id' => 9368,
     'name' => 'Kolarovo',
@@ -1072,7 +1063,7 @@ return array (
     'latitude' => 41.36385,
     'longitude' => 23.10669,
   ),
-  119 => 
+  118 => 
   array (
     'id' => 9369,
     'name' => 'Koprivshtitsa',
@@ -1081,7 +1072,7 @@ return array (
     'latitude' => 42.63333,
     'longitude' => 24.35,
   ),
-  120 => 
+  119 => 
   array (
     'id' => 9370,
     'name' => 'Kostinbrod',
@@ -1090,7 +1081,7 @@ return array (
     'latitude' => 42.81667,
     'longitude' => 23.21667,
   ),
-  121 => 
+  120 => 
   array (
     'id' => 9371,
     'name' => 'Kotel',
@@ -1099,7 +1090,7 @@ return array (
     'latitude' => 42.88333,
     'longitude' => 26.45,
   ),
-  122 => 
+  121 => 
   array (
     'id' => 9372,
     'name' => 'Koynare',
@@ -1108,7 +1099,7 @@ return array (
     'latitude' => 43.35,
     'longitude' => 24.13333,
   ),
-  123 => 
+  122 => 
   array (
     'id' => 9373,
     'name' => 'Kozloduy',
@@ -1117,7 +1108,7 @@ return array (
     'latitude' => 43.77864,
     'longitude' => 23.72058,
   ),
-  124 => 
+  123 => 
   array (
     'id' => 9374,
     'name' => 'Kresna',
@@ -1126,7 +1117,7 @@ return array (
     'latitude' => 41.73333,
     'longitude' => 23.15,
   ),
-  125 => 
+  124 => 
   array (
     'id' => 9375,
     'name' => 'Krichim',
@@ -1135,7 +1126,7 @@ return array (
     'latitude' => 42.05,
     'longitude' => 24.46667,
   ),
-  126 => 
+  125 => 
   array (
     'id' => 9376,
     'name' => 'Krivodol',
@@ -1144,7 +1135,7 @@ return array (
     'latitude' => 43.37444,
     'longitude' => 23.48444,
   ),
-  127 => 
+  126 => 
   array (
     'id' => 9377,
     'name' => 'Krumovgrad',
@@ -1153,7 +1144,7 @@ return array (
     'latitude' => 41.47127,
     'longitude' => 25.65485,
   ),
-  128 => 
+  127 => 
   array (
     'id' => 9378,
     'name' => 'Krushari',
@@ -1162,7 +1153,7 @@ return array (
     'latitude' => 43.81675,
     'longitude' => 27.75552,
   ),
-  129 => 
+  128 => 
   array (
     'id' => 9379,
     'name' => 'Kubrat',
@@ -1171,7 +1162,7 @@ return array (
     'latitude' => 43.79658,
     'longitude' => 26.50063,
   ),
-  130 => 
+  129 => 
   array (
     'id' => 9380,
     'name' => 'Kula',
@@ -1180,7 +1171,7 @@ return array (
     'latitude' => 43.88833,
     'longitude' => 22.52139,
   ),
-  131 => 
+  130 => 
   array (
     'id' => 9381,
     'name' => 'Kyustendil',
@@ -1189,7 +1180,7 @@ return array (
     'latitude' => 42.28389,
     'longitude' => 22.69111,
   ),
-  132 => 
+  131 => 
   array (
     'id' => 9382,
     'name' => 'Lakatnik',
@@ -1198,7 +1189,7 @@ return array (
     'latitude' => 43.05,
     'longitude' => 23.4,
   ),
-  133 => 
+  132 => 
   array (
     'id' => 9383,
     'name' => 'Laki',
@@ -1207,7 +1198,7 @@ return array (
     'latitude' => 41.85,
     'longitude' => 24.81667,
   ),
-  134 => 
+  133 => 
   array (
     'id' => 9384,
     'name' => 'Lesichovo',
@@ -1216,7 +1207,7 @@ return array (
     'latitude' => 42.35626,
     'longitude' => 24.1119,
   ),
-  135 => 
+  134 => 
   array (
     'id' => 9385,
     'name' => 'Letnitsa',
@@ -1225,7 +1216,7 @@ return array (
     'latitude' => 43.31167,
     'longitude' => 25.07333,
   ),
-  136 => 
+  135 => 
   array (
     'id' => 9386,
     'name' => 'Levski',
@@ -1234,7 +1225,7 @@ return array (
     'latitude' => 43.36667,
     'longitude' => 25.13333,
   ),
-  137 => 
+  136 => 
   array (
     'id' => 9387,
     'name' => 'Lom',
@@ -1243,7 +1234,7 @@ return array (
     'latitude' => 43.82106,
     'longitude' => 23.23677,
   ),
-  138 => 
+  137 => 
   array (
     'id' => 9388,
     'name' => 'Lovech',
@@ -1252,7 +1243,7 @@ return array (
     'latitude' => 43.13333,
     'longitude' => 24.71667,
   ),
-  139 => 
+  138 => 
   array (
     'id' => 9389,
     'name' => 'Loznitsa',
@@ -1261,7 +1252,7 @@ return array (
     'latitude' => 43.36667,
     'longitude' => 26.6,
   ),
-  140 => 
+  139 => 
   array (
     'id' => 9390,
     'name' => 'Lukovit',
@@ -1270,7 +1261,7 @@ return array (
     'latitude' => 43.2,
     'longitude' => 24.16667,
   ),
-  141 => 
+  140 => 
   array (
     'id' => 9391,
     'name' => 'Lyaskovets',
@@ -1279,7 +1270,7 @@ return array (
     'latitude' => 43.11111,
     'longitude' => 25.72833,
   ),
-  142 => 
+  141 => 
   array (
     'id' => 9392,
     'name' => 'Lyubimets',
@@ -1288,7 +1279,7 @@ return array (
     'latitude' => 41.83333,
     'longitude' => 26.08333,
   ),
-  143 => 
+  142 => 
   array (
     'id' => 9393,
     'name' => 'Madan',
@@ -1297,7 +1288,7 @@ return array (
     'latitude' => 41.49869,
     'longitude' => 24.93973,
   ),
-  144 => 
+  143 => 
   array (
     'id' => 9394,
     'name' => 'Madzharovo',
@@ -1306,7 +1297,7 @@ return array (
     'latitude' => 41.63461,
     'longitude' => 25.86439,
   ),
-  145 => 
+  144 => 
   array (
     'id' => 9395,
     'name' => 'Maglizh',
@@ -1315,7 +1306,7 @@ return array (
     'latitude' => 42.6,
     'longitude' => 25.55,
   ),
-  146 => 
+  145 => 
   array (
     'id' => 9396,
     'name' => 'Makresh',
@@ -1324,7 +1315,7 @@ return array (
     'latitude' => 43.76794,
     'longitude' => 22.66406,
   ),
-  147 => 
+  146 => 
   array (
     'id' => 9397,
     'name' => 'Malko Tarnovo',
@@ -1333,7 +1324,7 @@ return array (
     'latitude' => 41.97958,
     'longitude' => 27.52477,
   ),
-  148 => 
+  147 => 
   array (
     'id' => 9398,
     'name' => 'Medkovets',
@@ -1342,7 +1333,7 @@ return array (
     'latitude' => 43.62403,
     'longitude' => 23.16876,
   ),
-  149 => 
+  148 => 
   array (
     'id' => 9399,
     'name' => 'Medovene',
@@ -1351,7 +1342,7 @@ return array (
     'latitude' => 43.76667,
     'longitude' => 26.51667,
   ),
-  150 => 
+  149 => 
   array (
     'id' => 9400,
     'name' => 'Mezdra',
@@ -1360,7 +1351,7 @@ return array (
     'latitude' => 43.15,
     'longitude' => 23.7,
   ),
-  151 => 
+  150 => 
   array (
     'id' => 9401,
     'name' => 'Mineralni Bani',
@@ -1369,7 +1360,7 @@ return array (
     'latitude' => 41.91667,
     'longitude' => 25.35,
   ),
-  152 => 
+  151 => 
   array (
     'id' => 9402,
     'name' => 'Mirkovo',
@@ -1378,7 +1369,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 23.98333,
   ),
-  153 => 
+  152 => 
   array (
     'id' => 9403,
     'name' => 'Mizia',
@@ -1387,7 +1378,7 @@ return array (
     'latitude' => 43.68623,
     'longitude' => 23.85371,
   ),
-  154 => 
+  153 => 
   array (
     'id' => 9404,
     'name' => 'Montana',
@@ -1396,7 +1387,7 @@ return array (
     'latitude' => 43.4125,
     'longitude' => 23.225,
   ),
-  155 => 
+  154 => 
   array (
     'id' => 9405,
     'name' => 'Nedelino',
@@ -1405,7 +1396,7 @@ return array (
     'latitude' => 41.45602,
     'longitude' => 25.08008,
   ),
-  156 => 
+  155 => 
   array (
     'id' => 9406,
     'name' => 'Nesebar',
@@ -1414,7 +1405,7 @@ return array (
     'latitude' => 42.65921,
     'longitude' => 27.73602,
   ),
-  157 => 
+  156 => 
   array (
     'id' => 9407,
     'name' => 'Nevestino',
@@ -1423,7 +1414,7 @@ return array (
     'latitude' => 42.25551,
     'longitude' => 22.85175,
   ),
-  158 => 
+  157 => 
   array (
     'id' => 9408,
     'name' => 'Nikolaevo',
@@ -1432,7 +1423,7 @@ return array (
     'latitude' => 42.63333,
     'longitude' => 25.8,
   ),
-  159 => 
+  158 => 
   array (
     'id' => 9409,
     'name' => 'Nikopol',
@@ -1441,7 +1432,7 @@ return array (
     'latitude' => 43.70528,
     'longitude' => 24.89521,
   ),
-  160 => 
+  159 => 
   array (
     'id' => 9410,
     'name' => 'Nova Zagora',
@@ -1450,7 +1441,7 @@ return array (
     'latitude' => 42.48333,
     'longitude' => 26.01667,
   ),
-  161 => 
+  160 => 
   array (
     'id' => 9411,
     'name' => 'Novo Selo',
@@ -1459,7 +1450,7 @@ return array (
     'latitude' => 44.16214,
     'longitude' => 22.78376,
   ),
-  162 => 
+  161 => 
   array (
     'id' => 9412,
     'name' => 'Obshtina Aksakovo',
@@ -1468,7 +1459,7 @@ return array (
     'latitude' => 43.31667,
     'longitude' => 27.85,
   ),
-  163 => 
+  162 => 
   array (
     'id' => 9413,
     'name' => 'Obshtina Alfatar',
@@ -1477,7 +1468,7 @@ return array (
     'latitude' => 43.9,
     'longitude' => 27.33333,
   ),
-  164 => 
+  163 => 
   array (
     'id' => 9414,
     'name' => 'Obshtina Anton',
@@ -1486,7 +1477,7 @@ return array (
     'latitude' => 42.76667,
     'longitude' => 24.3,
   ),
-  165 => 
+  164 => 
   array (
     'id' => 9415,
     'name' => 'Obshtina Antonovo',
@@ -1495,7 +1486,7 @@ return array (
     'latitude' => 43.11667,
     'longitude' => 26.2,
   ),
-  166 => 
+  165 => 
   array (
     'id' => 9416,
     'name' => 'Obshtina Ardino',
@@ -1504,7 +1495,7 @@ return array (
     'latitude' => 41.6,
     'longitude' => 25.15,
   ),
-  167 => 
+  166 => 
   array (
     'id' => 9417,
     'name' => 'Obshtina Asenovgrad',
@@ -1513,7 +1504,7 @@ return array (
     'latitude' => 41.95,
     'longitude' => 24.96667,
   ),
-  168 => 
+  167 => 
   array (
     'id' => 9418,
     'name' => 'Obshtina Avren',
@@ -1522,7 +1513,7 @@ return array (
     'latitude' => 43.1,
     'longitude' => 27.71667,
   ),
-  169 => 
+  168 => 
   array (
     'id' => 9419,
     'name' => 'Obshtina Aytos',
@@ -1531,7 +1522,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 27.25,
   ),
-  170 => 
+  169 => 
   array (
     'id' => 9420,
     'name' => 'Obshtina Balchik',
@@ -1540,7 +1531,7 @@ return array (
     'latitude' => 43.5,
     'longitude' => 28.13333,
   ),
-  171 => 
+  170 => 
   array (
     'id' => 9421,
     'name' => 'Obshtina Banite',
@@ -1549,7 +1540,7 @@ return array (
     'latitude' => 41.7,
     'longitude' => 25.0,
   ),
-  172 => 
+  171 => 
   array (
     'id' => 9422,
     'name' => 'Obshtina Bansko',
@@ -1558,7 +1549,7 @@ return array (
     'latitude' => 41.8,
     'longitude' => 23.6,
   ),
-  173 => 
+  172 => 
   array (
     'id' => 9423,
     'name' => 'Obshtina Batak',
@@ -1567,7 +1558,7 @@ return array (
     'latitude' => 41.86667,
     'longitude' => 24.21667,
   ),
-  174 => 
+  173 => 
   array (
     'id' => 9424,
     'name' => 'Obshtina Belene',
@@ -1576,7 +1567,7 @@ return array (
     'latitude' => 43.63333,
     'longitude' => 25.13333,
   ),
-  175 => 
+  174 => 
   array (
     'id' => 9425,
     'name' => 'Obshtina Belitsa',
@@ -1585,7 +1576,7 @@ return array (
     'latitude' => 42.01667,
     'longitude' => 23.58333,
   ),
-  176 => 
+  175 => 
   array (
     'id' => 9426,
     'name' => 'Obshtina Belogradchik',
@@ -1594,7 +1585,7 @@ return array (
     'latitude' => 43.65,
     'longitude' => 22.6,
   ),
-  177 => 
+  176 => 
   array (
     'id' => 9427,
     'name' => 'Obshtina Beloslav',
@@ -1603,7 +1594,7 @@ return array (
     'latitude' => 43.2,
     'longitude' => 27.73333,
   ),
-  178 => 
+  177 => 
   array (
     'id' => 9428,
     'name' => 'Obshtina Belovo',
@@ -1612,7 +1603,7 @@ return array (
     'latitude' => 42.2,
     'longitude' => 23.93333,
   ),
-  179 => 
+  178 => 
   array (
     'id' => 9429,
     'name' => 'Obshtina Blagoevgrad',
@@ -1621,7 +1612,7 @@ return array (
     'latitude' => 42.01667,
     'longitude' => 23.16667,
   ),
-  180 => 
+  179 => 
   array (
     'id' => 9430,
     'name' => 'Obshtina Boboshevo',
@@ -1630,7 +1621,7 @@ return array (
     'latitude' => 42.18333,
     'longitude' => 23.02731,
   ),
-  181 => 
+  180 => 
   array (
     'id' => 9431,
     'name' => 'Obshtina Bobov Dol',
@@ -1639,7 +1630,7 @@ return array (
     'latitude' => 42.31667,
     'longitude' => 22.98333,
   ),
-  182 => 
+  181 => 
   array (
     'id' => 9432,
     'name' => 'Obshtina Bolyarovo',
@@ -1648,7 +1639,7 @@ return array (
     'latitude' => 42.15,
     'longitude' => 26.85,
   ),
-  183 => 
+  182 => 
   array (
     'id' => 9433,
     'name' => 'Obshtina Borino',
@@ -1657,7 +1648,7 @@ return array (
     'latitude' => 41.64834,
     'longitude' => 24.31694,
   ),
-  184 => 
+  183 => 
   array (
     'id' => 9434,
     'name' => 'Obshtina Borovan',
@@ -1666,7 +1657,7 @@ return array (
     'latitude' => 43.43333,
     'longitude' => 23.75,
   ),
-  185 => 
+  184 => 
   array (
     'id' => 9435,
     'name' => 'Obshtina Borovo',
@@ -1675,7 +1666,7 @@ return array (
     'latitude' => 43.6,
     'longitude' => 25.8,
   ),
-  186 => 
+  185 => 
   array (
     'id' => 9436,
     'name' => 'Obshtina Botevgrad',
@@ -1684,7 +1675,7 @@ return array (
     'latitude' => 42.95,
     'longitude' => 23.75,
   ),
-  187 => 
+  186 => 
   array (
     'id' => 9437,
     'name' => 'Obshtina Boychinovtsi',
@@ -1693,7 +1684,7 @@ return array (
     'latitude' => 43.53333,
     'longitude' => 23.43333,
   ),
-  188 => 
+  187 => 
   array (
     'id' => 9438,
     'name' => 'Obshtina Boynitsa',
@@ -1702,7 +1693,7 @@ return array (
     'latitude' => 44.0,
     'longitude' => 22.55,
   ),
-  189 => 
+  188 => 
   array (
     'id' => 9439,
     'name' => 'Obshtina Bozhurishte',
@@ -1711,7 +1702,7 @@ return array (
     'latitude' => 42.78333,
     'longitude' => 23.11667,
   ),
-  190 => 
+  189 => 
   array (
     'id' => 9440,
     'name' => 'Obshtina Bratsigovo',
@@ -1720,7 +1711,7 @@ return array (
     'latitude' => 42.0,
     'longitude' => 24.4,
   ),
-  191 => 
+  190 => 
   array (
     'id' => 9441,
     'name' => 'Obshtina Bratya Daskalovi',
@@ -1729,7 +1720,7 @@ return array (
     'latitude' => 42.3,
     'longitude' => 25.21667,
   ),
-  192 => 
+  191 => 
   array (
     'id' => 9442,
     'name' => 'Obshtina Burgas',
@@ -1738,7 +1729,7 @@ return array (
     'latitude' => 42.5,
     'longitude' => 27.46667,
   ),
-  193 => 
+  192 => 
   array (
     'id' => 9443,
     'name' => 'Obshtina Byala',
@@ -1747,16 +1738,7 @@ return array (
     'latitude' => 43.41667,
     'longitude' => 25.83333,
   ),
-  194 => 
-  array (
-    'id' => 9444,
-    'name' => 'Obshtina Byala',
-    'country_id' => 34,
-    'country_code' => 'BG',
-    'latitude' => 42.88333,
-    'longitude' => 27.81667,
-  ),
-  195 => 
+  193 => 
   array (
     'id' => 9445,
     'name' => 'Obshtina Chavdar',
@@ -1765,7 +1747,7 @@ return array (
     'latitude' => 42.61667,
     'longitude' => 24.08333,
   ),
-  196 => 
+  194 => 
   array (
     'id' => 9446,
     'name' => 'Obshtina Chelopech',
@@ -1774,7 +1756,7 @@ return array (
     'latitude' => 42.71667,
     'longitude' => 24.06667,
   ),
-  197 => 
+  195 => 
   array (
     'id' => 9447,
     'name' => 'Obshtina Chepelare',
@@ -1783,7 +1765,7 @@ return array (
     'latitude' => 41.8,
     'longitude' => 24.68333,
   ),
-  198 => 
+  196 => 
   array (
     'id' => 9448,
     'name' => 'Obshtina Chernoochene',
@@ -1792,7 +1774,7 @@ return array (
     'latitude' => 41.78333,
     'longitude' => 25.25,
   ),
-  199 => 
+  197 => 
   array (
     'id' => 9449,
     'name' => 'Obshtina Cherven Bryag',
@@ -1801,7 +1783,7 @@ return array (
     'latitude' => 43.33333,
     'longitude' => 24.13333,
   ),
-  200 => 
+  198 => 
   array (
     'id' => 9450,
     'name' => 'Obshtina Chiprovtsi',
@@ -1810,7 +1792,7 @@ return array (
     'latitude' => 43.41667,
     'longitude' => 22.9,
   ),
-  201 => 
+  199 => 
   array (
     'id' => 9451,
     'name' => 'Obshtina Chirpan',
@@ -1819,7 +1801,7 @@ return array (
     'latitude' => 42.23333,
     'longitude' => 25.38333,
   ),
-  202 => 
+  200 => 
   array (
     'id' => 9452,
     'name' => 'Obshtina Dalgopol',
@@ -1828,7 +1810,7 @@ return array (
     'latitude' => 43.05,
     'longitude' => 27.35,
   ),
-  203 => 
+  201 => 
   array (
     'id' => 9453,
     'name' => 'Obshtina Devin',
@@ -1837,7 +1819,7 @@ return array (
     'latitude' => 41.74346,
     'longitude' => 24.40192,
   ),
-  204 => 
+  202 => 
   array (
     'id' => 9454,
     'name' => 'Obshtina Devnya',
@@ -1846,7 +1828,7 @@ return array (
     'latitude' => 43.22056,
     'longitude' => 27.60052,
   ),
-  205 => 
+  203 => 
   array (
     'id' => 9455,
     'name' => 'Obshtina Dimitrovgrad',
@@ -1855,7 +1837,7 @@ return array (
     'latitude' => 42.05,
     'longitude' => 25.6,
   ),
-  206 => 
+  204 => 
   array (
     'id' => 9456,
     'name' => 'Obshtina Dimovo',
@@ -1864,7 +1846,7 @@ return array (
     'latitude' => 43.75,
     'longitude' => 22.81667,
   ),
-  207 => 
+  205 => 
   array (
     'id' => 9457,
     'name' => 'Obshtina Dobrich',
@@ -1873,7 +1855,7 @@ return array (
     'latitude' => 43.57763,
     'longitude' => 27.80628,
   ),
-  208 => 
+  206 => 
   array (
     'id' => 9458,
     'name' => 'Obshtina Dobrich-Selska',
@@ -1882,7 +1864,7 @@ return array (
     'latitude' => 43.63333,
     'longitude' => 27.73333,
   ),
-  209 => 
+  207 => 
   array (
     'id' => 9459,
     'name' => 'Obshtina Dolna Banya',
@@ -1891,7 +1873,7 @@ return array (
     'latitude' => 42.3,
     'longitude' => 23.76667,
   ),
-  210 => 
+  208 => 
   array (
     'id' => 9460,
     'name' => 'Obshtina Dolna Mitropolia',
@@ -1900,7 +1882,7 @@ return array (
     'latitude' => 43.58333,
     'longitude' => 24.41667,
   ),
-  211 => 
+  209 => 
   array (
     'id' => 9461,
     'name' => 'Obshtina Dolni Chiflik',
@@ -1909,7 +1891,7 @@ return array (
     'latitude' => 42.96667,
     'longitude' => 27.68333,
   ),
-  212 => 
+  210 => 
   array (
     'id' => 9462,
     'name' => 'Obshtina Dolni Dabnik',
@@ -1918,7 +1900,7 @@ return array (
     'latitude' => 43.36667,
     'longitude' => 24.41667,
   ),
-  213 => 
+  211 => 
   array (
     'id' => 9463,
     'name' => 'Obshtina Dospat',
@@ -1927,7 +1909,7 @@ return array (
     'latitude' => 41.63228,
     'longitude' => 24.18765,
   ),
-  214 => 
+  212 => 
   array (
     'id' => 9464,
     'name' => 'Obshtina Dragoman',
@@ -1936,7 +1918,7 @@ return array (
     'latitude' => 42.93333,
     'longitude' => 22.93333,
   ),
-  215 => 
+  213 => 
   array (
     'id' => 9465,
     'name' => 'Obshtina Dryanovo',
@@ -1945,7 +1927,7 @@ return array (
     'latitude' => 43.0,
     'longitude' => 25.46667,
   ),
-  216 => 
+  214 => 
   array (
     'id' => 9466,
     'name' => 'Obshtina Dulovo',
@@ -1954,7 +1936,7 @@ return array (
     'latitude' => 43.81667,
     'longitude' => 27.08333,
   ),
-  217 => 
+  215 => 
   array (
     'id' => 9467,
     'name' => 'Obshtina Dupnitsa',
@@ -1963,7 +1945,7 @@ return array (
     'latitude' => 42.28333,
     'longitude' => 23.15,
   ),
-  218 => 
+  216 => 
   array (
     'id' => 9468,
     'name' => 'Obshtina Dve Mogili',
@@ -1972,7 +1954,7 @@ return array (
     'latitude' => 43.51667,
     'longitude' => 25.96667,
   ),
-  219 => 
+  217 => 
   array (
     'id' => 9469,
     'name' => 'Obshtina Dzhebel',
@@ -1981,7 +1963,7 @@ return array (
     'latitude' => 41.5,
     'longitude' => 25.26667,
   ),
-  220 => 
+  218 => 
   array (
     'id' => 9470,
     'name' => 'Obshtina Elena',
@@ -1990,7 +1972,7 @@ return array (
     'latitude' => 42.91667,
     'longitude' => 25.95,
   ),
-  221 => 
+  219 => 
   array (
     'id' => 9471,
     'name' => 'Obshtina Elhovo',
@@ -1999,7 +1981,7 @@ return array (
     'latitude' => 42.11667,
     'longitude' => 26.61667,
   ),
-  222 => 
+  220 => 
   array (
     'id' => 9472,
     'name' => 'Obshtina Elin Pelin',
@@ -2008,7 +1990,7 @@ return array (
     'latitude' => 42.66667,
     'longitude' => 23.6,
   ),
-  223 => 
+  221 => 
   array (
     'id' => 9473,
     'name' => 'Obshtina Etropole',
@@ -2017,7 +1999,7 @@ return array (
     'latitude' => 42.85,
     'longitude' => 24.03333,
   ),
-  224 => 
+  222 => 
   array (
     'id' => 9474,
     'name' => 'Obshtina Gabrovo',
@@ -2026,7 +2008,7 @@ return array (
     'latitude' => 42.9,
     'longitude' => 25.3,
   ),
-  225 => 
+  223 => 
   array (
     'id' => 9475,
     'name' => 'Obshtina Galabovo',
@@ -2035,7 +2017,7 @@ return array (
     'latitude' => 42.15,
     'longitude' => 25.96667,
   ),
-  226 => 
+  224 => 
   array (
     'id' => 9476,
     'name' => 'Obshtina Garmen',
@@ -2044,7 +2026,7 @@ return array (
     'latitude' => 41.7,
     'longitude' => 23.85,
   ),
-  227 => 
+  225 => 
   array (
     'id' => 9477,
     'name' => 'Obshtina General Toshevo',
@@ -2053,7 +2035,7 @@ return array (
     'latitude' => 43.73333,
     'longitude' => 28.08333,
   ),
-  228 => 
+  226 => 
   array (
     'id' => 9478,
     'name' => 'Obshtina Georgi Damyanovo',
@@ -2062,7 +2044,7 @@ return array (
     'latitude' => 43.35,
     'longitude' => 23.0,
   ),
-  229 => 
+  227 => 
   array (
     'id' => 9479,
     'name' => 'Obshtina Glavinitsa',
@@ -2071,7 +2053,7 @@ return array (
     'latitude' => 43.95,
     'longitude' => 26.85,
   ),
-  230 => 
+  228 => 
   array (
     'id' => 9480,
     'name' => 'Obshtina Gorna Malina',
@@ -2080,7 +2062,7 @@ return array (
     'latitude' => 42.71667,
     'longitude' => 23.8,
   ),
-  231 => 
+  229 => 
   array (
     'id' => 9481,
     'name' => 'Obshtina Gorna Oryahovitsa',
@@ -2089,7 +2071,7 @@ return array (
     'latitude' => 43.21667,
     'longitude' => 25.75,
   ),
-  232 => 
+  230 => 
   array (
     'id' => 9482,
     'name' => 'Obshtina Gotse Delchev',
@@ -2098,7 +2080,7 @@ return array (
     'latitude' => 41.63333,
     'longitude' => 23.68333,
   ),
-  233 => 
+  231 => 
   array (
     'id' => 9483,
     'name' => 'Obshtina Gramada',
@@ -2107,7 +2089,7 @@ return array (
     'latitude' => 43.83333,
     'longitude' => 22.65,
   ),
-  234 => 
+  232 => 
   array (
     'id' => 9484,
     'name' => 'Obshtina Gulyantsi',
@@ -2116,7 +2098,7 @@ return array (
     'latitude' => 43.68333,
     'longitude' => 24.65,
   ),
-  235 => 
+  233 => 
   array (
     'id' => 9485,
     'name' => 'Obshtina Gurkovo',
@@ -2125,7 +2107,7 @@ return array (
     'latitude' => 42.71667,
     'longitude' => 25.8,
   ),
-  236 => 
+  234 => 
   array (
     'id' => 9486,
     'name' => 'Obshtina Harmanli',
@@ -2134,7 +2116,7 @@ return array (
     'latitude' => 41.93333,
     'longitude' => 25.98333,
   ),
-  237 => 
+  235 => 
   array (
     'id' => 9487,
     'name' => 'Obshtina Haskovo',
@@ -2143,7 +2125,7 @@ return array (
     'latitude' => 41.88333,
     'longitude' => 25.61667,
   ),
-  238 => 
+  236 => 
   array (
     'id' => 9488,
     'name' => 'Obshtina Hayredin',
@@ -2152,7 +2134,7 @@ return array (
     'latitude' => 43.58333,
     'longitude' => 23.66667,
   ),
-  239 => 
+  237 => 
   array (
     'id' => 9489,
     'name' => 'Obshtina Hisarya',
@@ -2161,7 +2143,7 @@ return array (
     'latitude' => 42.5,
     'longitude' => 24.6,
   ),
-  240 => 
+  238 => 
   array (
     'id' => 9490,
     'name' => 'Obshtina Iskar',
@@ -2170,7 +2152,7 @@ return array (
     'latitude' => 43.5,
     'longitude' => 24.28333,
   ),
-  241 => 
+  239 => 
   array (
     'id' => 9491,
     'name' => 'Obshtina Isperih',
@@ -2179,7 +2161,7 @@ return array (
     'latitude' => 43.71667,
     'longitude' => 26.83333,
   ),
-  242 => 
+  240 => 
   array (
     'id' => 9492,
     'name' => 'Obshtina Ivanovo',
@@ -2188,7 +2170,7 @@ return array (
     'latitude' => 43.7,
     'longitude' => 25.98333,
   ),
-  243 => 
+  241 => 
   array (
     'id' => 9493,
     'name' => 'Obshtina Ivaylovgrad',
@@ -2197,7 +2179,7 @@ return array (
     'latitude' => 41.48333,
     'longitude' => 26.0,
   ),
-  244 => 
+  242 => 
   array (
     'id' => 9494,
     'name' => 'Obshtina Kaloyanovo',
@@ -2206,7 +2188,7 @@ return array (
     'latitude' => 42.38333,
     'longitude' => 24.81667,
   ),
-  245 => 
+  243 => 
   array (
     'id' => 9495,
     'name' => 'Obshtina Kameno',
@@ -2215,7 +2197,7 @@ return array (
     'latitude' => 42.51667,
     'longitude' => 27.18333,
   ),
-  246 => 
+  244 => 
   array (
     'id' => 9496,
     'name' => 'Obshtina Kardzhali',
@@ -2224,7 +2206,7 @@ return array (
     'latitude' => 41.68333,
     'longitude' => 25.43333,
   ),
-  247 => 
+  245 => 
   array (
     'id' => 9497,
     'name' => 'Obshtina Karlovo',
@@ -2233,7 +2215,7 @@ return array (
     'latitude' => 42.68333,
     'longitude' => 24.66667,
   ),
-  248 => 
+  246 => 
   array (
     'id' => 9498,
     'name' => 'Obshtina Karnobat',
@@ -2242,7 +2224,7 @@ return array (
     'latitude' => 42.65,
     'longitude' => 26.98333,
   ),
-  249 => 
+  247 => 
   array (
     'id' => 9499,
     'name' => 'Obshtina Kavarna',
@@ -2251,7 +2233,7 @@ return array (
     'latitude' => 43.5,
     'longitude' => 28.38333,
   ),
-  250 => 
+  248 => 
   array (
     'id' => 9500,
     'name' => 'Obshtina Kaynardzha',
@@ -2260,7 +2242,7 @@ return array (
     'latitude' => 43.95,
     'longitude' => 27.53333,
   ),
-  251 => 
+  249 => 
   array (
     'id' => 9501,
     'name' => 'Obshtina Kazanlŭk',
@@ -2269,7 +2251,7 @@ return array (
     'latitude' => 42.61943,
     'longitude' => 25.39885,
   ),
-  252 => 
+  250 => 
   array (
     'id' => 9502,
     'name' => 'Obshtina Kirkovo',
@@ -2278,7 +2260,7 @@ return array (
     'latitude' => 41.35816,
     'longitude' => 25.33731,
   ),
-  253 => 
+  251 => 
   array (
     'id' => 9503,
     'name' => 'Obshtina Knezha',
@@ -2287,7 +2269,7 @@ return array (
     'latitude' => 43.5,
     'longitude' => 24.11667,
   ),
-  254 => 
+  252 => 
   array (
     'id' => 9504,
     'name' => 'Obshtina Kocherinovo',
@@ -2296,7 +2278,7 @@ return array (
     'latitude' => 42.09909,
     'longitude' => 23.02942,
   ),
-  255 => 
+  253 => 
   array (
     'id' => 9505,
     'name' => 'Obshtina Koprivshtitsa',
@@ -2305,7 +2287,7 @@ return array (
     'latitude' => 42.61667,
     'longitude' => 24.38333,
   ),
-  256 => 
+  254 => 
   array (
     'id' => 9506,
     'name' => 'Obshtina Kostenets',
@@ -2314,7 +2296,7 @@ return array (
     'latitude' => 42.3,
     'longitude' => 23.86667,
   ),
-  257 => 
+  255 => 
   array (
     'id' => 9507,
     'name' => 'Obshtina Kostinbrod',
@@ -2323,7 +2305,7 @@ return array (
     'latitude' => 42.88333,
     'longitude' => 23.2,
   ),
-  258 => 
+  256 => 
   array (
     'id' => 9508,
     'name' => 'Obshtina Kotel',
@@ -2332,7 +2314,7 @@ return array (
     'latitude' => 42.88333,
     'longitude' => 26.45,
   ),
-  259 => 
+  257 => 
   array (
     'id' => 9509,
     'name' => 'Obshtina Kovachevtsi',
@@ -2341,7 +2323,7 @@ return array (
     'latitude' => 42.55,
     'longitude' => 22.83333,
   ),
-  260 => 
+  258 => 
   array (
     'id' => 9510,
     'name' => 'Obshtina Kozloduy',
@@ -2350,7 +2332,7 @@ return array (
     'latitude' => 43.71667,
     'longitude' => 23.73333,
   ),
-  261 => 
+  259 => 
   array (
     'id' => 9511,
     'name' => 'Obshtina Kresna',
@@ -2359,7 +2341,7 @@ return array (
     'latitude' => 41.76667,
     'longitude' => 23.23333,
   ),
-  262 => 
+  260 => 
   array (
     'id' => 9512,
     'name' => 'Obshtina Krichim',
@@ -2368,7 +2350,7 @@ return array (
     'latitude' => 42.00439,
     'longitude' => 24.47235,
   ),
-  263 => 
+  261 => 
   array (
     'id' => 9513,
     'name' => 'Obshtina Krivodol',
@@ -2377,7 +2359,7 @@ return array (
     'latitude' => 43.38333,
     'longitude' => 23.48333,
   ),
-  264 => 
+  262 => 
   array (
     'id' => 9514,
     'name' => 'Obshtina Krushari',
@@ -2386,7 +2368,7 @@ return array (
     'latitude' => 43.88333,
     'longitude' => 27.75,
   ),
-  265 => 
+  263 => 
   array (
     'id' => 9515,
     'name' => 'Obshtina Kubrat',
@@ -2395,7 +2377,7 @@ return array (
     'latitude' => 43.86667,
     'longitude' => 26.48333,
   ),
-  266 => 
+  264 => 
   array (
     'id' => 9516,
     'name' => 'Obshtina Kuklen',
@@ -2404,7 +2386,7 @@ return array (
     'latitude' => 42.03725,
     'longitude' => 24.77949,
   ),
-  267 => 
+  265 => 
   array (
     'id' => 9517,
     'name' => 'Obshtina Kula',
@@ -2413,7 +2395,7 @@ return array (
     'latitude' => 43.9,
     'longitude' => 22.56667,
   ),
-  268 => 
+  266 => 
   array (
     'id' => 9518,
     'name' => 'Obshtina Kyustendil',
@@ -2422,7 +2404,7 @@ return array (
     'latitude' => 42.28333,
     'longitude' => 22.68333,
   ),
-  269 => 
+  267 => 
   array (
     'id' => 9519,
     'name' => 'Obshtina Laki',
@@ -2431,7 +2413,7 @@ return array (
     'latitude' => 41.81667,
     'longitude' => 24.85,
   ),
-  270 => 
+  268 => 
   array (
     'id' => 9520,
     'name' => 'Obshtina Lesichovo',
@@ -2440,7 +2422,7 @@ return array (
     'latitude' => 42.36667,
     'longitude' => 24.15,
   ),
-  271 => 
+  269 => 
   array (
     'id' => 9521,
     'name' => 'Obshtina Levski',
@@ -2449,7 +2431,7 @@ return array (
     'latitude' => 43.43333,
     'longitude' => 25.1,
   ),
-  272 => 
+  270 => 
   array (
     'id' => 9522,
     'name' => 'Obshtina Lom',
@@ -2458,7 +2440,7 @@ return array (
     'latitude' => 43.81667,
     'longitude' => 23.23333,
   ),
-  273 => 
+  271 => 
   array (
     'id' => 9523,
     'name' => 'Obshtina Lovech',
@@ -2467,7 +2449,7 @@ return array (
     'latitude' => 43.16667,
     'longitude' => 24.8,
   ),
-  274 => 
+  272 => 
   array (
     'id' => 9524,
     'name' => 'Obshtina Loznitsa',
@@ -2476,7 +2458,7 @@ return array (
     'latitude' => 43.41667,
     'longitude' => 26.58333,
   ),
-  275 => 
+  273 => 
   array (
     'id' => 9525,
     'name' => 'Obshtina Lyaskovets',
@@ -2485,7 +2467,7 @@ return array (
     'latitude' => 43.13333,
     'longitude' => 25.85,
   ),
-  276 => 
+  274 => 
   array (
     'id' => 9526,
     'name' => 'Obshtina Madan',
@@ -2494,7 +2476,7 @@ return array (
     'latitude' => 41.53333,
     'longitude' => 24.96667,
   ),
-  277 => 
+  275 => 
   array (
     'id' => 9527,
     'name' => 'Obshtina Madzharovo',
@@ -2503,7 +2485,7 @@ return array (
     'latitude' => 41.68333,
     'longitude' => 25.9,
   ),
-  278 => 
+  276 => 
   array (
     'id' => 9528,
     'name' => 'Obshtina Maglizh',
@@ -2512,7 +2494,7 @@ return array (
     'latitude' => 42.63333,
     'longitude' => 25.61667,
   ),
-  279 => 
+  277 => 
   array (
     'id' => 9529,
     'name' => 'Obshtina Malko Tarnovo',
@@ -2521,7 +2503,7 @@ return array (
     'latitude' => 42.08333,
     'longitude' => 27.53333,
   ),
-  280 => 
+  278 => 
   array (
     'id' => 9530,
     'name' => 'Obshtina Maritsa',
@@ -2530,7 +2512,7 @@ return array (
     'latitude' => 42.23333,
     'longitude' => 24.8,
   ),
-  281 => 
+  279 => 
   array (
     'id' => 9531,
     'name' => 'Obshtina Mezdra',
@@ -2539,7 +2521,7 @@ return array (
     'latitude' => 43.13333,
     'longitude' => 23.73333,
   ),
-  282 => 
+  280 => 
   array (
     'id' => 9532,
     'name' => 'Obshtina Mineralni Bani',
@@ -2548,7 +2530,7 @@ return array (
     'latitude' => 41.9,
     'longitude' => 25.33333,
   ),
-  283 => 
+  281 => 
   array (
     'id' => 9533,
     'name' => 'Obshtina Mirkovo',
@@ -2557,7 +2539,7 @@ return array (
     'latitude' => 42.66667,
     'longitude' => 23.96667,
   ),
-  284 => 
+  282 => 
   array (
     'id' => 9534,
     'name' => 'Obshtina Mizia',
@@ -2566,7 +2548,7 @@ return array (
     'latitude' => 43.63333,
     'longitude' => 23.85,
   ),
-  285 => 
+  283 => 
   array (
     'id' => 9535,
     'name' => 'Obshtina Momchilgrad',
@@ -2575,7 +2557,7 @@ return array (
     'latitude' => 41.53333,
     'longitude' => 25.5,
   ),
-  286 => 
+  284 => 
   array (
     'id' => 9536,
     'name' => 'Obshtina Montana',
@@ -2584,7 +2566,7 @@ return array (
     'latitude' => 43.46667,
     'longitude' => 23.2,
   ),
-  287 => 
+  285 => 
   array (
     'id' => 9537,
     'name' => 'Obshtina Nedelino',
@@ -2593,7 +2575,7 @@ return array (
     'latitude' => 41.46894,
     'longitude' => 25.09481,
   ),
-  288 => 
+  286 => 
   array (
     'id' => 9538,
     'name' => 'Obshtina Nesebar',
@@ -2602,7 +2584,7 @@ return array (
     'latitude' => 42.78333,
     'longitude' => 27.73333,
   ),
-  289 => 
+  287 => 
   array (
     'id' => 9539,
     'name' => 'Obshtina Nevestino',
@@ -2611,7 +2593,7 @@ return array (
     'latitude' => 42.16667,
     'longitude' => 22.83333,
   ),
-  290 => 
+  288 => 
   array (
     'id' => 9540,
     'name' => 'Obshtina Nikolaevo',
@@ -2620,7 +2602,7 @@ return array (
     'latitude' => 42.6,
     'longitude' => 25.78333,
   ),
-  291 => 
+  289 => 
   array (
     'id' => 9541,
     'name' => 'Obshtina Nikopol',
@@ -2629,7 +2611,7 @@ return array (
     'latitude' => 43.6,
     'longitude' => 24.93333,
   ),
-  292 => 
+  290 => 
   array (
     'id' => 9542,
     'name' => 'Obshtina Nova Zagora',
@@ -2638,7 +2620,7 @@ return array (
     'latitude' => 42.45,
     'longitude' => 26.05,
   ),
-  293 => 
+  291 => 
   array (
     'id' => 9543,
     'name' => 'Obshtina Omurtag',
@@ -2647,7 +2629,7 @@ return array (
     'latitude' => 43.08333,
     'longitude' => 26.48333,
   ),
-  294 => 
+  292 => 
   array (
     'id' => 9544,
     'name' => 'Obshtina Opaka',
@@ -2656,7 +2638,7 @@ return array (
     'latitude' => 43.46667,
     'longitude' => 26.15,
   ),
-  295 => 
+  293 => 
   array (
     'id' => 9545,
     'name' => 'Obshtina Opan',
@@ -2665,7 +2647,7 @@ return array (
     'latitude' => 42.21667,
     'longitude' => 25.7,
   ),
-  296 => 
+  294 => 
   array (
     'id' => 9546,
     'name' => 'Obshtina Oryahovo',
@@ -2674,7 +2656,7 @@ return array (
     'latitude' => 43.69038,
     'longitude' => 23.98643,
   ),
-  297 => 
+  295 => 
   array (
     'id' => 9547,
     'name' => 'Obshtina Panagyurishte',
@@ -2683,7 +2665,7 @@ return array (
     'latitude' => 42.5,
     'longitude' => 24.16667,
   ),
-  298 => 
+  296 => 
   array (
     'id' => 9548,
     'name' => 'Obshtina Parvomay',
@@ -2692,7 +2674,7 @@ return array (
     'latitude' => 42.03333,
     'longitude' => 25.2,
   ),
-  299 => 
+  297 => 
   array (
     'id' => 9549,
     'name' => 'Obshtina Pavel Banya',
@@ -2701,7 +2683,7 @@ return array (
     'latitude' => 42.63333,
     'longitude' => 25.13333,
   ),
-  300 => 
+  298 => 
   array (
     'id' => 9550,
     'name' => 'Obshtina Pavlikeni',
@@ -2710,7 +2692,7 @@ return array (
     'latitude' => 43.28333,
     'longitude' => 25.35,
   ),
-  301 => 
+  299 => 
   array (
     'id' => 9551,
     'name' => 'Obshtina Pazardzhik',
@@ -2719,7 +2701,7 @@ return array (
     'latitude' => 42.2,
     'longitude' => 24.33333,
   ),
-  302 => 
+  300 => 
   array (
     'id' => 9552,
     'name' => 'Obshtina Pernik',
@@ -2728,7 +2710,7 @@ return array (
     'latitude' => 42.61667,
     'longitude' => 23.08333,
   ),
-  303 => 
+  301 => 
   array (
     'id' => 9553,
     'name' => 'Obshtina Perushtitsa',
@@ -2737,7 +2719,7 @@ return array (
     'latitude' => 42.06667,
     'longitude' => 24.55,
   ),
-  304 => 
+  302 => 
   array (
     'id' => 9554,
     'name' => 'Obshtina Peshtera',
@@ -2746,7 +2728,7 @@ return array (
     'latitude' => 42.03333,
     'longitude' => 24.3,
   ),
-  305 => 
+  303 => 
   array (
     'id' => 9555,
     'name' => 'Obshtina Petrich',
@@ -2755,7 +2737,7 @@ return array (
     'latitude' => 41.45,
     'longitude' => 23.16667,
   ),
-  306 => 
+  304 => 
   array (
     'id' => 9556,
     'name' => 'Obshtina Pirdop',
@@ -2764,7 +2746,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 24.23333,
   ),
-  307 => 
+  305 => 
   array (
     'id' => 9557,
     'name' => 'Obshtina Pleven',
@@ -2773,7 +2755,7 @@ return array (
     'latitude' => 43.4,
     'longitude' => 24.7,
   ),
-  308 => 
+  306 => 
   array (
     'id' => 9558,
     'name' => 'Obshtina Plovdiv',
@@ -2782,7 +2764,7 @@ return array (
     'latitude' => 42.15,
     'longitude' => 24.75,
   ),
-  309 => 
+  307 => 
   array (
     'id' => 9559,
     'name' => 'Obshtina Polski Trambesh',
@@ -2791,7 +2773,7 @@ return array (
     'latitude' => 43.35,
     'longitude' => 25.58333,
   ),
-  310 => 
+  308 => 
   array (
     'id' => 9560,
     'name' => 'Obshtina Pomorie',
@@ -2800,7 +2782,7 @@ return array (
     'latitude' => 42.73333,
     'longitude' => 27.55,
   ),
-  311 => 
+  309 => 
   array (
     'id' => 9561,
     'name' => 'Obshtina Popovo',
@@ -2809,7 +2791,7 @@ return array (
     'latitude' => 43.35,
     'longitude' => 26.23333,
   ),
-  312 => 
+  310 => 
   array (
     'id' => 9562,
     'name' => 'Obshtina Pordim',
@@ -2818,7 +2800,7 @@ return array (
     'latitude' => 43.38333,
     'longitude' => 24.9,
   ),
-  313 => 
+  311 => 
   array (
     'id' => 9563,
     'name' => 'Obshtina Pravets',
@@ -2827,7 +2809,7 @@ return array (
     'latitude' => 42.96667,
     'longitude' => 23.98333,
   ),
-  314 => 
+  312 => 
   array (
     'id' => 9564,
     'name' => 'Obshtina Primorsko',
@@ -2836,7 +2818,7 @@ return array (
     'latitude' => 42.25,
     'longitude' => 27.63333,
   ),
-  315 => 
+  313 => 
   array (
     'id' => 9565,
     'name' => 'Obshtina Provadia',
@@ -2845,7 +2827,7 @@ return array (
     'latitude' => 43.18333,
     'longitude' => 27.4,
   ),
-  316 => 
+  314 => 
   array (
     'id' => 9566,
     'name' => 'Obshtina Radnevo',
@@ -2854,7 +2836,7 @@ return array (
     'latitude' => 42.3,
     'longitude' => 25.93333,
   ),
-  317 => 
+  315 => 
   array (
     'id' => 9567,
     'name' => 'Obshtina Radomir',
@@ -2863,7 +2845,7 @@ return array (
     'latitude' => 42.46667,
     'longitude' => 23.01667,
   ),
-  318 => 
+  316 => 
   array (
     'id' => 9568,
     'name' => 'Obshtina Rakitovo',
@@ -2872,7 +2854,7 @@ return array (
     'latitude' => 41.99965,
     'longitude' => 24.10877,
   ),
-  319 => 
+  317 => 
   array (
     'id' => 9569,
     'name' => 'Obshtina Rakovski',
@@ -2881,7 +2863,7 @@ return array (
     'latitude' => 42.26667,
     'longitude' => 24.98333,
   ),
-  320 => 
+  318 => 
   array (
     'id' => 9570,
     'name' => 'Obshtina Razgrad',
@@ -2890,7 +2872,7 @@ return array (
     'latitude' => 43.53333,
     'longitude' => 26.51667,
   ),
-  321 => 
+  319 => 
   array (
     'id' => 9571,
     'name' => 'Obshtina Razlog',
@@ -2899,7 +2881,7 @@ return array (
     'latitude' => 41.95,
     'longitude' => 23.46667,
   ),
-  322 => 
+  320 => 
   array (
     'id' => 9572,
     'name' => 'Obshtina Rila',
@@ -2908,7 +2890,7 @@ return array (
     'latitude' => 42.15,
     'longitude' => 23.31667,
   ),
-  323 => 
+  321 => 
   array (
     'id' => 9573,
     'name' => 'Obshtina Rodopi',
@@ -2917,7 +2899,7 @@ return array (
     'latitude' => 42.03333,
     'longitude' => 24.68333,
   ),
-  324 => 
+  322 => 
   array (
     'id' => 9574,
     'name' => 'Obshtina Roman',
@@ -2926,7 +2908,7 @@ return array (
     'latitude' => 43.15,
     'longitude' => 23.91667,
   ),
-  325 => 
+  323 => 
   array (
     'id' => 9575,
     'name' => 'Obshtina Rudozem',
@@ -2935,7 +2917,7 @@ return array (
     'latitude' => 41.45439,
     'longitude' => 24.8369,
   ),
-  326 => 
+  324 => 
   array (
     'id' => 9576,
     'name' => 'Obshtina Ruse',
@@ -2944,7 +2926,7 @@ return array (
     'latitude' => 43.85,
     'longitude' => 26.08333,
   ),
-  327 => 
+  325 => 
   array (
     'id' => 9577,
     'name' => 'Obshtina Ruzhintsi',
@@ -2953,7 +2935,7 @@ return array (
     'latitude' => 43.65,
     'longitude' => 22.9,
   ),
-  328 => 
+  326 => 
   array (
     'id' => 9578,
     'name' => 'Obshtina Sadovo',
@@ -2962,7 +2944,7 @@ return array (
     'latitude' => 42.13333,
     'longitude' => 25.0,
   ),
-  329 => 
+  327 => 
   array (
     'id' => 9579,
     'name' => 'Obshtina Saedinenie',
@@ -2971,7 +2953,7 @@ return array (
     'latitude' => 42.31667,
     'longitude' => 24.58333,
   ),
-  330 => 
+  328 => 
   array (
     'id' => 9580,
     'name' => 'Obshtina Samokov',
@@ -2980,7 +2962,7 @@ return array (
     'latitude' => 42.33333,
     'longitude' => 23.55,
   ),
-  331 => 
+  329 => 
   array (
     'id' => 9581,
     'name' => 'Obshtina Samuil',
@@ -2989,7 +2971,7 @@ return array (
     'latitude' => 43.6,
     'longitude' => 26.8,
   ),
-  332 => 
+  330 => 
   array (
     'id' => 9582,
     'name' => 'Obshtina Sandanski',
@@ -2998,7 +2980,7 @@ return array (
     'latitude' => 41.56667,
     'longitude' => 23.45,
   ),
-  333 => 
+  331 => 
   array (
     'id' => 9583,
     'name' => 'Obshtina Sapareva Banya',
@@ -3007,7 +2989,7 @@ return array (
     'latitude' => 42.28333,
     'longitude' => 23.31667,
   ),
-  334 => 
+  332 => 
   array (
     'id' => 9584,
     'name' => 'Obshtina Satovcha',
@@ -3016,7 +2998,7 @@ return array (
     'latitude' => 41.59848,
     'longitude' => 24.00781,
   ),
-  335 => 
+  333 => 
   array (
     'id' => 9585,
     'name' => 'Obshtina Septemvri',
@@ -3025,7 +3007,7 @@ return array (
     'latitude' => 42.26667,
     'longitude' => 24.13333,
   ),
-  336 => 
+  334 => 
   array (
     'id' => 9586,
     'name' => 'Obshtina Sevlievo',
@@ -3034,7 +3016,7 @@ return array (
     'latitude' => 43.01667,
     'longitude' => 25.1,
   ),
-  337 => 
+  335 => 
   array (
     'id' => 9587,
     'name' => 'Obshtina Shabla',
@@ -3043,7 +3025,7 @@ return array (
     'latitude' => 43.61667,
     'longitude' => 28.51667,
   ),
-  338 => 
+  336 => 
   array (
     'id' => 9588,
     'name' => 'Obshtina Silistra',
@@ -3052,7 +3034,7 @@ return array (
     'latitude' => 44.03333,
     'longitude' => 27.2,
   ),
-  339 => 
+  337 => 
   array (
     'id' => 9589,
     'name' => 'Obshtina Simitli',
@@ -3061,7 +3043,7 @@ return array (
     'latitude' => 41.88333,
     'longitude' => 23.16667,
   ),
-  340 => 
+  338 => 
   array (
     'id' => 9590,
     'name' => 'Obshtina Sitovo',
@@ -3070,7 +3052,7 @@ return array (
     'latitude' => 44.01667,
     'longitude' => 27.0,
   ),
-  341 => 
+  339 => 
   array (
     'id' => 9591,
     'name' => 'Obshtina Sliven',
@@ -3079,7 +3061,7 @@ return array (
     'latitude' => 42.66667,
     'longitude' => 26.31667,
   ),
-  342 => 
+  340 => 
   array (
     'id' => 9592,
     'name' => 'Obshtina Slivnitsa',
@@ -3088,7 +3070,7 @@ return array (
     'latitude' => 42.85,
     'longitude' => 22.98333,
   ),
-  343 => 
+  341 => 
   array (
     'id' => 9593,
     'name' => 'Obshtina Slivo Pole',
@@ -3097,7 +3079,7 @@ return array (
     'latitude' => 43.96667,
     'longitude' => 26.3,
   ),
-  344 => 
+  342 => 
   array (
     'id' => 9594,
     'name' => 'Obshtina Smolyan',
@@ -3106,7 +3088,7 @@ return array (
     'latitude' => 41.57516,
     'longitude' => 24.71302,
   ),
-  345 => 
+  343 => 
   array (
     'id' => 9595,
     'name' => 'Obshtina Sopot',
@@ -3115,7 +3097,7 @@ return array (
     'latitude' => 42.65214,
     'longitude' => 24.7431,
   ),
-  346 => 
+  344 => 
   array (
     'id' => 9596,
     'name' => 'Obshtina Sozopol',
@@ -3124,7 +3106,7 @@ return array (
     'latitude' => 42.31123,
     'longitude' => 27.51733,
   ),
-  347 => 
+  345 => 
   array (
     'id' => 9597,
     'name' => 'Obshtina Stamboliyski',
@@ -3133,7 +3115,7 @@ return array (
     'latitude' => 42.11667,
     'longitude' => 24.51667,
   ),
-  348 => 
+  346 => 
   array (
     'id' => 9598,
     'name' => 'Obshtina Stambolovo',
@@ -3142,7 +3124,7 @@ return array (
     'latitude' => 41.73333,
     'longitude' => 25.7,
   ),
-  349 => 
+  347 => 
   array (
     'id' => 9599,
     'name' => 'Obshtina Stara Zagora',
@@ -3151,7 +3133,7 @@ return array (
     'latitude' => 42.41667,
     'longitude' => 25.63333,
   ),
-  350 => 
+  348 => 
   array (
     'id' => 9600,
     'name' => 'Obshtina Straldzha',
@@ -3160,7 +3142,7 @@ return array (
     'latitude' => 42.48333,
     'longitude' => 26.78333,
   ),
-  351 => 
+  349 => 
   array (
     'id' => 9601,
     'name' => 'Obshtina Strazhitsa',
@@ -3169,7 +3151,7 @@ return array (
     'latitude' => 43.26667,
     'longitude' => 25.98333,
   ),
-  352 => 
+  350 => 
   array (
     'id' => 9602,
     'name' => 'Obshtina Strelcha',
@@ -3178,7 +3160,7 @@ return array (
     'latitude' => 42.46667,
     'longitude' => 24.36667,
   ),
-  353 => 
+  351 => 
   array (
     'id' => 9603,
     'name' => 'Obshtina Strumyani',
@@ -3187,7 +3169,7 @@ return array (
     'latitude' => 41.63333,
     'longitude' => 23.2,
   ),
-  354 => 
+  352 => 
   array (
     'id' => 9604,
     'name' => 'Obshtina Suhindol',
@@ -3196,7 +3178,7 @@ return array (
     'latitude' => 43.16667,
     'longitude' => 25.2,
   ),
-  355 => 
+  353 => 
   array (
     'id' => 9605,
     'name' => 'Obshtina Sungurlare',
@@ -3205,7 +3187,7 @@ return array (
     'latitude' => 42.83333,
     'longitude' => 26.83333,
   ),
-  356 => 
+  354 => 
   array (
     'id' => 9606,
     'name' => 'Obshtina Suvorovo',
@@ -3214,7 +3196,7 @@ return array (
     'latitude' => 43.33333,
     'longitude' => 27.65,
   ),
-  357 => 
+  355 => 
   array (
     'id' => 9607,
     'name' => 'Obshtina Svilengrad',
@@ -3223,7 +3205,7 @@ return array (
     'latitude' => 41.86667,
     'longitude' => 26.31667,
   ),
-  358 => 
+  356 => 
   array (
     'id' => 9608,
     'name' => 'Obshtina Svishtov',
@@ -3232,7 +3214,7 @@ return array (
     'latitude' => 43.53333,
     'longitude' => 25.35,
   ),
-  359 => 
+  357 => 
   array (
     'id' => 9609,
     'name' => 'Obshtina Svoge',
@@ -3241,7 +3223,7 @@ return array (
     'latitude' => 43.0,
     'longitude' => 23.4,
   ),
-  360 => 
+  358 => 
   array (
     'id' => 9610,
     'name' => 'Obshtina Targovishte',
@@ -3250,7 +3232,7 @@ return array (
     'latitude' => 43.25,
     'longitude' => 26.56667,
   ),
-  361 => 
+  359 => 
   array (
     'id' => 9611,
     'name' => 'Obshtina Tervel',
@@ -3259,7 +3241,7 @@ return array (
     'latitude' => 43.75,
     'longitude' => 27.4,
   ),
-  362 => 
+  360 => 
   array (
     'id' => 9612,
     'name' => 'Obshtina Teteven',
@@ -3268,7 +3250,7 @@ return array (
     'latitude' => 42.91667,
     'longitude' => 24.26667,
   ),
-  363 => 
+  361 => 
   array (
     'id' => 9613,
     'name' => 'Obshtina Topolovgrad',
@@ -3277,7 +3259,7 @@ return array (
     'latitude' => 42.08333,
     'longitude' => 26.33333,
   ),
-  364 => 
+  362 => 
   array (
     'id' => 9614,
     'name' => 'Obshtina Treklyano',
@@ -3286,7 +3268,7 @@ return array (
     'latitude' => 42.55,
     'longitude' => 22.6,
   ),
-  365 => 
+  363 => 
   array (
     'id' => 9615,
     'name' => 'Obshtina Tryavna',
@@ -3295,7 +3277,7 @@ return array (
     'latitude' => 42.85,
     'longitude' => 25.55,
   ),
-  366 => 
+  364 => 
   array (
     'id' => 9616,
     'name' => 'Obshtina Tsar Kaloyan',
@@ -3304,7 +3286,7 @@ return array (
     'latitude' => 43.6,
     'longitude' => 26.21667,
   ),
-  367 => 
+  365 => 
   array (
     'id' => 9617,
     'name' => 'Obshtina Tsenovo',
@@ -3313,7 +3295,7 @@ return array (
     'latitude' => 43.58333,
     'longitude' => 25.61667,
   ),
-  368 => 
+  366 => 
   array (
     'id' => 9618,
     'name' => 'Obshtina Tundzha',
@@ -3322,7 +3304,7 @@ return array (
     'latitude' => 42.35,
     'longitude' => 26.45,
   ),
-  369 => 
+  367 => 
   array (
     'id' => 9619,
     'name' => 'Obshtina Tutrakan',
@@ -3331,7 +3313,7 @@ return array (
     'latitude' => 44.0,
     'longitude' => 26.6,
   ),
-  370 => 
+  368 => 
   array (
     'id' => 9620,
     'name' => 'Obshtina Tvarditsa',
@@ -3340,7 +3322,7 @@ return array (
     'latitude' => 42.73333,
     'longitude' => 26.0,
   ),
-  371 => 
+  369 => 
   array (
     'id' => 9621,
     'name' => 'Obshtina Ugarchin',
@@ -3349,7 +3331,7 @@ return array (
     'latitude' => 43.1,
     'longitude' => 24.41667,
   ),
-  372 => 
+  370 => 
   array (
     'id' => 9622,
     'name' => 'Obshtina Valchedram',
@@ -3358,7 +3340,7 @@ return array (
     'latitude' => 43.71667,
     'longitude' => 23.51667,
   ),
-  373 => 
+  371 => 
   array (
     'id' => 9623,
     'name' => 'Obshtina Valchidol',
@@ -3367,7 +3349,7 @@ return array (
     'latitude' => 43.45,
     'longitude' => 27.5,
   ),
-  374 => 
+  372 => 
   array (
     'id' => 9624,
     'name' => 'Obshtina Varna',
@@ -3376,7 +3358,7 @@ return array (
     'latitude' => 43.21667,
     'longitude' => 27.91667,
   ),
-  375 => 
+  373 => 
   array (
     'id' => 9625,
     'name' => 'Obshtina Varshets',
@@ -3385,7 +3367,7 @@ return array (
     'latitude' => 43.21667,
     'longitude' => 23.33333,
   ),
-  376 => 
+  374 => 
   array (
     'id' => 9626,
     'name' => 'Obshtina Veliko Tŭrnovo',
@@ -3394,7 +3376,7 @@ return array (
     'latitude' => 43.08241,
     'longitude' => 25.63202,
   ),
-  377 => 
+  375 => 
   array (
     'id' => 9627,
     'name' => 'Obshtina Velingrad',
@@ -3403,7 +3385,7 @@ return array (
     'latitude' => 41.96667,
     'longitude' => 23.93333,
   ),
-  378 => 
+  376 => 
   array (
     'id' => 9628,
     'name' => 'Obshtina Vetovo',
@@ -3412,7 +3394,7 @@ return array (
     'latitude' => 43.71667,
     'longitude' => 26.33333,
   ),
-  379 => 
+  377 => 
   array (
     'id' => 9629,
     'name' => 'Obshtina Vetrino',
@@ -3421,7 +3403,7 @@ return array (
     'latitude' => 43.31667,
     'longitude' => 27.43333,
   ),
-  380 => 
+  378 => 
   array (
     'id' => 9630,
     'name' => 'Obshtina Vidin',
@@ -3430,7 +3412,7 @@ return array (
     'latitude' => 44.0,
     'longitude' => 22.83333,
   ),
-  381 => 
+  379 => 
   array (
     'id' => 9631,
     'name' => 'Obshtina Vratsa',
@@ -3439,7 +3421,7 @@ return array (
     'latitude' => 43.28333,
     'longitude' => 23.6,
   ),
-  382 => 
+  380 => 
   array (
     'id' => 9632,
     'name' => 'Obshtina Yakimovo',
@@ -3448,7 +3430,7 @@ return array (
     'latitude' => 43.63333,
     'longitude' => 23.33333,
   ),
-  383 => 
+  381 => 
   array (
     'id' => 9633,
     'name' => 'Obshtina Yakoruda',
@@ -3457,7 +3439,7 @@ return array (
     'latitude' => 42.08333,
     'longitude' => 23.7,
   ),
-  384 => 
+  382 => 
   array (
     'id' => 9634,
     'name' => 'Obshtina Yambol',
@@ -3466,7 +3448,7 @@ return array (
     'latitude' => 42.48333,
     'longitude' => 26.5,
   ),
-  385 => 
+  383 => 
   array (
     'id' => 9635,
     'name' => 'Obshtina Zavet',
@@ -3475,7 +3457,7 @@ return array (
     'latitude' => 43.76667,
     'longitude' => 26.68333,
   ),
-  386 => 
+  384 => 
   array (
     'id' => 9636,
     'name' => 'Obshtina Zemen',
@@ -3484,7 +3466,7 @@ return array (
     'latitude' => 42.55067,
     'longitude' => 22.7144,
   ),
-  387 => 
+  385 => 
   array (
     'id' => 9637,
     'name' => 'Obshtina Zlataritsa',
@@ -3493,7 +3475,7 @@ return array (
     'latitude' => 43.06667,
     'longitude' => 25.98333,
   ),
-  388 => 
+  386 => 
   array (
     'id' => 9638,
     'name' => 'Obshtina Zlatitsa',
@@ -3502,7 +3484,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 24.13333,
   ),
-  389 => 
+  387 => 
   array (
     'id' => 9639,
     'name' => 'Obshtina Zlatograd',
@@ -3511,7 +3493,7 @@ return array (
     'latitude' => 41.40028,
     'longitude' => 25.04591,
   ),
-  390 => 
+  388 => 
   array (
     'id' => 9640,
     'name' => 'Obzor',
@@ -3520,7 +3502,7 @@ return array (
     'latitude' => 42.81998,
     'longitude' => 27.88007,
   ),
-  391 => 
+  389 => 
   array (
     'id' => 9641,
     'name' => 'Omurtag',
@@ -3529,7 +3511,7 @@ return array (
     'latitude' => 43.1,
     'longitude' => 26.41667,
   ),
-  392 => 
+  390 => 
   array (
     'id' => 9642,
     'name' => 'Opaka',
@@ -3538,7 +3520,7 @@ return array (
     'latitude' => 43.45,
     'longitude' => 26.16667,
   ),
-  393 => 
+  391 => 
   array (
     'id' => 9643,
     'name' => 'Oryahovo',
@@ -3547,7 +3529,7 @@ return array (
     'latitude' => 43.73618,
     'longitude' => 23.96052,
   ),
-  394 => 
+  392 => 
   array (
     'id' => 9644,
     'name' => 'Panagyurishte',
@@ -3556,7 +3538,7 @@ return array (
     'latitude' => 42.49518,
     'longitude' => 24.19021,
   ),
-  395 => 
+  393 => 
   array (
     'id' => 9645,
     'name' => 'Parvomay',
@@ -3565,7 +3547,7 @@ return array (
     'latitude' => 42.1,
     'longitude' => 25.21667,
   ),
-  396 => 
+  394 => 
   array (
     'id' => 9646,
     'name' => 'Parvomaytsi',
@@ -3574,7 +3556,7 @@ return array (
     'latitude' => 43.15,
     'longitude' => 25.65,
   ),
-  397 => 
+  395 => 
   array (
     'id' => 9647,
     'name' => 'Pavel Banya',
@@ -3583,7 +3565,7 @@ return array (
     'latitude' => 42.6,
     'longitude' => 25.2,
   ),
-  398 => 
+  396 => 
   array (
     'id' => 9648,
     'name' => 'Pavlikeni',
@@ -3592,7 +3574,7 @@ return array (
     'latitude' => 43.24278,
     'longitude' => 25.32194,
   ),
-  399 => 
+  397 => 
   array (
     'id' => 9649,
     'name' => 'Pazardzhik',
@@ -3601,7 +3583,7 @@ return array (
     'latitude' => 42.2,
     'longitude' => 24.33333,
   ),
-  400 => 
+  398 => 
   array (
     'id' => 9650,
     'name' => 'Pernik',
@@ -3610,7 +3592,7 @@ return array (
     'latitude' => 42.6,
     'longitude' => 23.03333,
   ),
-  401 => 
+  399 => 
   array (
     'id' => 9651,
     'name' => 'Perushtitsa',
@@ -3619,7 +3601,7 @@ return array (
     'latitude' => 42.05,
     'longitude' => 24.55,
   ),
-  402 => 
+  400 => 
   array (
     'id' => 9652,
     'name' => 'Peshtera',
@@ -3628,7 +3610,7 @@ return array (
     'latitude' => 42.03372,
     'longitude' => 24.29995,
   ),
-  403 => 
+  401 => 
   array (
     'id' => 9653,
     'name' => 'Petrich',
@@ -3637,7 +3619,7 @@ return array (
     'latitude' => 41.39846,
     'longitude' => 23.20702,
   ),
-  404 => 
+  402 => 
   array (
     'id' => 9654,
     'name' => 'Pirdop',
@@ -3646,7 +3628,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 24.18333,
   ),
-  405 => 
+  403 => 
   array (
     'id' => 9655,
     'name' => 'Pleven',
@@ -3655,7 +3637,7 @@ return array (
     'latitude' => 43.41667,
     'longitude' => 24.61667,
   ),
-  406 => 
+  404 => 
   array (
     'id' => 9656,
     'name' => 'Plovdiv',
@@ -3664,7 +3646,7 @@ return array (
     'latitude' => 42.15,
     'longitude' => 24.75,
   ),
-  407 => 
+  405 => 
   array (
     'id' => 9657,
     'name' => 'Polski Trambesh',
@@ -3673,7 +3655,7 @@ return array (
     'latitude' => 43.37233,
     'longitude' => 25.63525,
   ),
-  408 => 
+  406 => 
   array (
     'id' => 9658,
     'name' => 'Pomorie',
@@ -3682,7 +3664,7 @@ return array (
     'latitude' => 42.56326,
     'longitude' => 27.62986,
   ),
-  409 => 
+  407 => 
   array (
     'id' => 9659,
     'name' => 'Popovo',
@@ -3691,7 +3673,7 @@ return array (
     'latitude' => 43.35,
     'longitude' => 26.23333,
   ),
-  410 => 
+  408 => 
   array (
     'id' => 9660,
     'name' => 'Pordim',
@@ -3700,7 +3682,7 @@ return array (
     'latitude' => 43.38333,
     'longitude' => 24.85,
   ),
-  411 => 
+  409 => 
   array (
     'id' => 9661,
     'name' => 'Pravets',
@@ -3709,7 +3691,7 @@ return array (
     'latitude' => 42.88333,
     'longitude' => 23.91667,
   ),
-  412 => 
+  410 => 
   array (
     'id' => 9662,
     'name' => 'Primorsko',
@@ -3718,7 +3700,7 @@ return array (
     'latitude' => 42.26791,
     'longitude' => 27.75611,
   ),
-  413 => 
+  411 => 
   array (
     'id' => 9663,
     'name' => 'Provadia',
@@ -3727,7 +3709,7 @@ return array (
     'latitude' => 43.18333,
     'longitude' => 27.43333,
   ),
-  414 => 
+  412 => 
   array (
     'id' => 9664,
     'name' => 'Radnevo',
@@ -3736,7 +3718,7 @@ return array (
     'latitude' => 42.3,
     'longitude' => 25.93333,
   ),
-  415 => 
+  413 => 
   array (
     'id' => 9665,
     'name' => 'Radomir',
@@ -3745,7 +3727,7 @@ return array (
     'latitude' => 42.54565,
     'longitude' => 22.96553,
   ),
-  416 => 
+  414 => 
   array (
     'id' => 9666,
     'name' => 'Rakitovo',
@@ -3754,7 +3736,7 @@ return array (
     'latitude' => 41.99012,
     'longitude' => 24.0873,
   ),
-  417 => 
+  415 => 
   array (
     'id' => 9667,
     'name' => 'Rakovski',
@@ -3763,7 +3745,7 @@ return array (
     'latitude' => 42.27408,
     'longitude' => 24.94083,
   ),
-  418 => 
+  416 => 
   array (
     'id' => 9668,
     'name' => 'Ravda',
@@ -3772,7 +3754,7 @@ return array (
     'latitude' => 42.64185,
     'longitude' => 27.67713,
   ),
-  419 => 
+  417 => 
   array (
     'id' => 9669,
     'name' => 'Razgrad',
@@ -3781,7 +3763,7 @@ return array (
     'latitude' => 43.53333,
     'longitude' => 26.51667,
   ),
-  420 => 
+  418 => 
   array (
     'id' => 9670,
     'name' => 'Razlog',
@@ -3790,7 +3772,7 @@ return array (
     'latitude' => 41.8863,
     'longitude' => 23.46714,
   ),
-  421 => 
+  419 => 
   array (
     'id' => 9671,
     'name' => 'Rila',
@@ -3799,7 +3781,7 @@ return array (
     'latitude' => 42.13333,
     'longitude' => 23.13333,
   ),
-  422 => 
+  420 => 
   array (
     'id' => 9672,
     'name' => 'Roman',
@@ -3808,7 +3790,7 @@ return array (
     'latitude' => 43.15,
     'longitude' => 23.91667,
   ),
-  423 => 
+  421 => 
   array (
     'id' => 9673,
     'name' => 'Rudozem',
@@ -3817,7 +3799,7 @@ return array (
     'latitude' => 41.48751,
     'longitude' => 24.84945,
   ),
-  424 => 
+  422 => 
   array (
     'id' => 9674,
     'name' => 'Ruen',
@@ -3826,7 +3808,7 @@ return array (
     'latitude' => 42.8,
     'longitude' => 27.28333,
   ),
-  425 => 
+  423 => 
   array (
     'id' => 9675,
     'name' => 'Ruse',
@@ -3835,7 +3817,7 @@ return array (
     'latitude' => 43.84872,
     'longitude' => 25.9534,
   ),
-  426 => 
+  424 => 
   array (
     'id' => 9676,
     'name' => 'Ruzhintsi',
@@ -3844,7 +3826,7 @@ return array (
     'latitude' => 43.62179,
     'longitude' => 22.83286,
   ),
-  427 => 
+  425 => 
   array (
     'id' => 9677,
     'name' => 'Sadovo',
@@ -3853,7 +3835,7 @@ return array (
     'latitude' => 42.13178,
     'longitude' => 24.93999,
   ),
-  428 => 
+  426 => 
   array (
     'id' => 9678,
     'name' => 'Saedinenie',
@@ -3862,7 +3844,7 @@ return array (
     'latitude' => 42.26667,
     'longitude' => 24.55,
   ),
-  429 => 
+  427 => 
   array (
     'id' => 9679,
     'name' => 'Samokov',
@@ -3871,7 +3853,7 @@ return array (
     'latitude' => 42.337,
     'longitude' => 23.5528,
   ),
-  430 => 
+  428 => 
   array (
     'id' => 9680,
     'name' => 'Samuil',
@@ -3880,7 +3862,7 @@ return array (
     'latitude' => 43.51667,
     'longitude' => 26.75,
   ),
-  431 => 
+  429 => 
   array (
     'id' => 9681,
     'name' => 'Sandanski',
@@ -3889,7 +3871,7 @@ return array (
     'latitude' => 41.56667,
     'longitude' => 23.28333,
   ),
-  432 => 
+  430 => 
   array (
     'id' => 9682,
     'name' => 'Sapareva Banya',
@@ -3898,7 +3880,7 @@ return array (
     'latitude' => 42.28333,
     'longitude' => 23.26667,
   ),
-  433 => 
+  431 => 
   array (
     'id' => 9683,
     'name' => 'Sarafovo',
@@ -3907,7 +3889,7 @@ return array (
     'latitude' => 42.56079,
     'longitude' => 27.52195,
   ),
-  434 => 
+  432 => 
   array (
     'id' => 9684,
     'name' => 'Sarnitsa',
@@ -3916,7 +3898,7 @@ return array (
     'latitude' => 41.73835,
     'longitude' => 24.02435,
   ),
-  435 => 
+  433 => 
   array (
     'id' => 9685,
     'name' => 'Sarnitsa Obshtina',
@@ -3925,7 +3907,7 @@ return array (
     'latitude' => 41.73333,
     'longitude' => 24.03333,
   ),
-  436 => 
+  434 => 
   array (
     'id' => 9686,
     'name' => 'Satovcha',
@@ -3934,7 +3916,7 @@ return array (
     'latitude' => 41.61667,
     'longitude' => 23.98333,
   ),
-  437 => 
+  435 => 
   array (
     'id' => 9687,
     'name' => 'Senovo',
@@ -3943,7 +3925,7 @@ return array (
     'latitude' => 43.65,
     'longitude' => 26.36667,
   ),
-  438 => 
+  436 => 
   array (
     'id' => 9688,
     'name' => 'Septemvri',
@@ -3952,7 +3934,7 @@ return array (
     'latitude' => 42.21138,
     'longitude' => 24.12946,
   ),
-  439 => 
+  437 => 
   array (
     'id' => 9689,
     'name' => 'Sevlievo',
@@ -3961,7 +3943,7 @@ return array (
     'latitude' => 43.02583,
     'longitude' => 25.11361,
   ),
-  440 => 
+  438 => 
   array (
     'id' => 9690,
     'name' => 'Shabla',
@@ -3970,7 +3952,7 @@ return array (
     'latitude' => 43.53983,
     'longitude' => 28.53429,
   ),
-  441 => 
+  439 => 
   array (
     'id' => 9691,
     'name' => 'Shipka',
@@ -3979,7 +3961,7 @@ return array (
     'latitude' => 42.71667,
     'longitude' => 25.33333,
   ),
-  442 => 
+  440 => 
   array (
     'id' => 9692,
     'name' => 'Silistra',
@@ -3988,7 +3970,7 @@ return array (
     'latitude' => 44.1171,
     'longitude' => 27.26056,
   ),
-  443 => 
+  441 => 
   array (
     'id' => 9693,
     'name' => 'Simeonovgrad',
@@ -3997,7 +3979,7 @@ return array (
     'latitude' => 42.03333,
     'longitude' => 25.83333,
   ),
-  444 => 
+  442 => 
   array (
     'id' => 9694,
     'name' => 'Simitli',
@@ -4006,7 +3988,7 @@ return array (
     'latitude' => 41.88333,
     'longitude' => 23.11667,
   ),
-  445 => 
+  443 => 
   array (
     'id' => 9695,
     'name' => 'Sitovo',
@@ -4015,7 +3997,7 @@ return array (
     'latitude' => 44.0273,
     'longitude' => 27.01982,
   ),
-  446 => 
+  444 => 
   array (
     'id' => 9696,
     'name' => 'Slavyanovo',
@@ -4024,7 +4006,7 @@ return array (
     'latitude' => 43.46667,
     'longitude' => 24.86667,
   ),
-  447 => 
+  445 => 
   array (
     'id' => 9697,
     'name' => 'Sliven',
@@ -4033,7 +4015,7 @@ return array (
     'latitude' => 42.68583,
     'longitude' => 26.32917,
   ),
-  448 => 
+  446 => 
   array (
     'id' => 9698,
     'name' => 'Slivnitsa',
@@ -4042,7 +4024,7 @@ return array (
     'latitude' => 42.85182,
     'longitude' => 23.03792,
   ),
-  449 => 
+  447 => 
   array (
     'id' => 9699,
     'name' => 'Slivo Pole',
@@ -4051,7 +4033,7 @@ return array (
     'latitude' => 43.94248,
     'longitude' => 26.20464,
   ),
-  450 => 
+  448 => 
   array (
     'id' => 9700,
     'name' => 'Smolyan',
@@ -4060,7 +4042,7 @@ return array (
     'latitude' => 41.57439,
     'longitude' => 24.71204,
   ),
-  451 => 
+  449 => 
   array (
     'id' => 9701,
     'name' => 'Sofia',
@@ -4069,7 +4051,7 @@ return array (
     'latitude' => 42.69751,
     'longitude' => 23.32415,
   ),
-  452 => 
+  450 => 
   array (
     'id' => 9702,
     'name' => 'Sozopol',
@@ -4078,7 +4060,7 @@ return array (
     'latitude' => 42.41801,
     'longitude' => 27.6956,
   ),
-  453 => 
+  451 => 
   array (
     'id' => 9703,
     'name' => 'Sredets',
@@ -4087,7 +4069,7 @@ return array (
     'latitude' => 42.34747,
     'longitude' => 27.17898,
   ),
-  454 => 
+  452 => 
   array (
     'id' => 9704,
     'name' => 'Stamboliyski',
@@ -4096,7 +4078,7 @@ return array (
     'latitude' => 42.13333,
     'longitude' => 24.53333,
   ),
-  455 => 
+  453 => 
   array (
     'id' => 9705,
     'name' => 'Stara Kresna',
@@ -4105,7 +4087,7 @@ return array (
     'latitude' => 41.8,
     'longitude' => 23.18333,
   ),
-  456 => 
+  454 => 
   array (
     'id' => 9706,
     'name' => 'Stara Zagora',
@@ -4114,7 +4096,7 @@ return array (
     'latitude' => 42.43278,
     'longitude' => 25.64194,
   ),
-  457 => 
+  455 => 
   array (
     'id' => 9707,
     'name' => 'Stolichna Obshtina',
@@ -4123,7 +4105,7 @@ return array (
     'latitude' => 42.68647,
     'longitude' => 23.30561,
   ),
-  458 => 
+  456 => 
   array (
     'id' => 9708,
     'name' => 'Straldzha',
@@ -4132,7 +4114,7 @@ return array (
     'latitude' => 42.6,
     'longitude' => 26.68333,
   ),
-  459 => 
+  457 => 
   array (
     'id' => 9709,
     'name' => 'Strazhitsa',
@@ -4141,7 +4123,7 @@ return array (
     'latitude' => 43.23333,
     'longitude' => 25.96667,
   ),
-  460 => 
+  458 => 
   array (
     'id' => 9710,
     'name' => 'Strelcha',
@@ -4150,7 +4132,7 @@ return array (
     'latitude' => 42.5,
     'longitude' => 24.31667,
   ),
-  461 => 
+  459 => 
   array (
     'id' => 9711,
     'name' => 'Strumyani',
@@ -4159,7 +4141,7 @@ return array (
     'latitude' => 41.63333,
     'longitude' => 23.2,
   ),
-  462 => 
+  460 => 
   array (
     'id' => 9712,
     'name' => 'Suhindol',
@@ -4168,7 +4150,7 @@ return array (
     'latitude' => 43.19167,
     'longitude' => 25.18111,
   ),
-  463 => 
+  461 => 
   array (
     'id' => 9713,
     'name' => 'Sungurlare',
@@ -4177,7 +4159,7 @@ return array (
     'latitude' => 42.76667,
     'longitude' => 26.78333,
   ),
-  464 => 
+  462 => 
   array (
     'id' => 9714,
     'name' => 'Suvorovo',
@@ -4186,7 +4168,7 @@ return array (
     'latitude' => 43.33058,
     'longitude' => 27.59908,
   ),
-  465 => 
+  463 => 
   array (
     'id' => 9715,
     'name' => 'Sveti Vlas',
@@ -4195,7 +4177,7 @@ return array (
     'latitude' => 42.7136,
     'longitude' => 27.75867,
   ),
-  466 => 
+  464 => 
   array (
     'id' => 9716,
     'name' => 'Svilengrad',
@@ -4204,7 +4186,7 @@ return array (
     'latitude' => 41.76667,
     'longitude' => 26.2,
   ),
-  467 => 
+  465 => 
   array (
     'id' => 9717,
     'name' => 'Svishtov',
@@ -4213,7 +4195,7 @@ return array (
     'latitude' => 43.61875,
     'longitude' => 25.35033,
   ),
-  468 => 
+  466 => 
   array (
     'id' => 9718,
     'name' => 'Svoge',
@@ -4222,7 +4204,7 @@ return array (
     'latitude' => 42.96667,
     'longitude' => 23.35,
   ),
-  469 => 
+  467 => 
   array (
     'id' => 9719,
     'name' => 'Targovishte',
@@ -4231,7 +4213,7 @@ return array (
     'latitude' => 43.2512,
     'longitude' => 26.57215,
   ),
-  470 => 
+  468 => 
   array (
     'id' => 9720,
     'name' => 'Tervel',
@@ -4240,7 +4222,7 @@ return array (
     'latitude' => 43.74789,
     'longitude' => 27.40911,
   ),
-  471 => 
+  469 => 
   array (
     'id' => 9721,
     'name' => 'Teteven',
@@ -4249,7 +4231,7 @@ return array (
     'latitude' => 42.91667,
     'longitude' => 24.26667,
   ),
-  472 => 
+  470 => 
   array (
     'id' => 9722,
     'name' => 'Topolovgrad',
@@ -4258,7 +4240,7 @@ return array (
     'latitude' => 42.08333,
     'longitude' => 26.33333,
   ),
-  473 => 
+  471 => 
   array (
     'id' => 9723,
     'name' => 'Topolovo',
@@ -4267,7 +4249,7 @@ return array (
     'latitude' => 41.9,
     'longitude' => 25.0,
   ),
-  474 => 
+  472 => 
   array (
     'id' => 9724,
     'name' => 'Tran',
@@ -4276,7 +4258,7 @@ return array (
     'latitude' => 42.83528,
     'longitude' => 22.65167,
   ),
-  475 => 
+  473 => 
   array (
     'id' => 9725,
     'name' => 'Troyan',
@@ -4285,7 +4267,7 @@ return array (
     'latitude' => 42.89427,
     'longitude' => 24.71589,
   ),
-  476 => 
+  474 => 
   array (
     'id' => 9726,
     'name' => 'Tryavna',
@@ -4294,7 +4276,7 @@ return array (
     'latitude' => 42.86667,
     'longitude' => 25.5,
   ),
-  477 => 
+  475 => 
   array (
     'id' => 9727,
     'name' => 'Tsar Kaloyan',
@@ -4303,7 +4285,7 @@ return array (
     'latitude' => 43.61667,
     'longitude' => 26.25,
   ),
-  478 => 
+  476 => 
   array (
     'id' => 9728,
     'name' => 'Tsarevo',
@@ -4312,7 +4294,7 @@ return array (
     'latitude' => 42.16955,
     'longitude' => 27.84541,
   ),
-  479 => 
+  477 => 
   array (
     'id' => 9729,
     'name' => 'Tsenovo',
@@ -4321,7 +4303,7 @@ return array (
     'latitude' => 43.53588,
     'longitude' => 25.65764,
   ),
-  480 => 
+  478 => 
   array (
     'id' => 9730,
     'name' => 'Tutrakan',
@@ -4330,7 +4312,7 @@ return array (
     'latitude' => 44.04906,
     'longitude' => 26.61206,
   ),
-  481 => 
+  479 => 
   array (
     'id' => 9731,
     'name' => 'Tvarditsa',
@@ -4339,7 +4321,7 @@ return array (
     'latitude' => 42.7,
     'longitude' => 25.9,
   ),
-  482 => 
+  480 => 
   array (
     'id' => 9732,
     'name' => 'Ugarchin',
@@ -4348,7 +4330,7 @@ return array (
     'latitude' => 43.1,
     'longitude' => 24.41667,
   ),
-  483 => 
+  481 => 
   array (
     'id' => 9733,
     'name' => 'Valchedram',
@@ -4357,7 +4339,7 @@ return array (
     'latitude' => 43.69281,
     'longitude' => 23.44518,
   ),
-  484 => 
+  482 => 
   array (
     'id' => 9734,
     'name' => 'Valchidol',
@@ -4366,7 +4348,7 @@ return array (
     'latitude' => 43.4,
     'longitude' => 27.55,
   ),
-  485 => 
+  483 => 
   array (
     'id' => 9735,
     'name' => 'Varna',
@@ -4375,7 +4357,7 @@ return array (
     'latitude' => 43.21667,
     'longitude' => 27.91667,
   ),
-  486 => 
+  484 => 
   array (
     'id' => 9736,
     'name' => 'Varshets',
@@ -4384,7 +4366,7 @@ return array (
     'latitude' => 43.19356,
     'longitude' => 23.2868,
   ),
-  487 => 
+  485 => 
   array (
     'id' => 9737,
     'name' => 'Veliko Tŭrnovo',
@@ -4393,7 +4375,7 @@ return array (
     'latitude' => 43.08124,
     'longitude' => 25.62904,
   ),
-  488 => 
+  486 => 
   array (
     'id' => 9738,
     'name' => 'Velingrad',
@@ -4402,7 +4384,7 @@ return array (
     'latitude' => 42.02754,
     'longitude' => 23.99155,
   ),
-  489 => 
+  487 => 
   array (
     'id' => 9739,
     'name' => 'Vetovo',
@@ -4411,7 +4393,7 @@ return array (
     'latitude' => 43.7,
     'longitude' => 26.26667,
   ),
-  490 => 
+  488 => 
   array (
     'id' => 9740,
     'name' => 'Vetrino',
@@ -4420,7 +4402,7 @@ return array (
     'latitude' => 43.31667,
     'longitude' => 27.43333,
   ),
-  491 => 
+  489 => 
   array (
     'id' => 9741,
     'name' => 'Vidin',
@@ -4429,7 +4411,7 @@ return array (
     'latitude' => 43.99159,
     'longitude' => 22.88236,
   ),
-  492 => 
+  490 => 
   array (
     'id' => 9742,
     'name' => 'Vratsa',
@@ -4438,7 +4420,7 @@ return array (
     'latitude' => 43.21,
     'longitude' => 23.5625,
   ),
-  493 => 
+  491 => 
   array (
     'id' => 9743,
     'name' => 'Yablanitsa',
@@ -4447,7 +4429,7 @@ return array (
     'latitude' => 43.03139,
     'longitude' => 24.11278,
   ),
-  494 => 
+  492 => 
   array (
     'id' => 9744,
     'name' => 'Yakimovo',
@@ -4456,7 +4438,7 @@ return array (
     'latitude' => 43.63472,
     'longitude' => 23.3535,
   ),
-  495 => 
+  493 => 
   array (
     'id' => 9745,
     'name' => 'Yakoruda',
@@ -4465,7 +4447,7 @@ return array (
     'latitude' => 42.02528,
     'longitude' => 23.68417,
   ),
-  496 => 
+  494 => 
   array (
     'id' => 9746,
     'name' => 'Yambol',
@@ -4474,7 +4456,7 @@ return array (
     'latitude' => 42.48333,
     'longitude' => 26.5,
   ),
-  497 => 
+  495 => 
   array (
     'id' => 9747,
     'name' => 'Zavet',
@@ -4483,7 +4465,7 @@ return array (
     'latitude' => 43.76036,
     'longitude' => 26.68063,
   ),
-  498 => 
+  496 => 
   array (
     'id' => 9748,
     'name' => 'Zemen',
@@ -4492,7 +4474,7 @@ return array (
     'latitude' => 42.47889,
     'longitude' => 22.74917,
   ),
-  499 => 
+  497 => 
   array (
     'id' => 9749,
     'name' => 'Zlataritsa',
@@ -4501,7 +4483,7 @@ return array (
     'latitude' => 43.05,
     'longitude' => 25.9,
   ),
-  500 => 
+  498 => 
   array (
     'id' => 9750,
     'name' => 'Zlatitsa',
@@ -4510,7 +4492,7 @@ return array (
     'latitude' => 42.71667,
     'longitude' => 24.13333,
   ),
-  501 => 
+  499 => 
   array (
     'id' => 9751,
     'name' => 'Zlatni Pyasatsi',
@@ -4519,7 +4501,7 @@ return array (
     'latitude' => 43.285,
     'longitude' => 28.0418,
   ),
-  502 => 
+  500 => 
   array (
     'id' => 9752,
     'name' => 'Zlatograd',
@@ -4528,7 +4510,7 @@ return array (
     'latitude' => 41.3795,
     'longitude' => 25.09605,
   ),
-  503 => 
+  501 => 
   array (
     'id' => 146184,
     'name' => 'Shumen',

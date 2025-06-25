@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -201,15 +201,6 @@ return array (
   ),
   22 => 
   array (
-    'id' => 63151,
-    'name' => 'Aţ Ţayyibah',
-    'country_id' => 111,
-    'country_code' => 'JO',
-    'latitude' => 32.54304,
-    'longitude' => 35.71756,
-  ),
-  23 => 
-  array (
     'id' => 63152,
     'name' => 'Aţ Ţurrah',
     'country_id' => 111,
@@ -217,7 +208,7 @@ return array (
     'latitude' => 32.63979,
     'longitude' => 35.98943,
   ),
-  24 => 
+  23 => 
   array (
     'id' => 63153,
     'name' => 'Balīlā',
@@ -226,7 +217,7 @@ return array (
     'latitude' => 32.39109,
     'longitude' => 35.93832,
   ),
-  25 => 
+  24 => 
   array (
     'id' => 63154,
     'name' => 'Bayt Yāfā',
@@ -235,7 +226,7 @@ return array (
     'latitude' => 32.52253,
     'longitude' => 35.78618,
   ),
-  26 => 
+  25 => 
   array (
     'id' => 63155,
     'name' => 'Bayt Īdis',
@@ -244,7 +235,7 @@ return array (
     'latitude' => 32.43775,
     'longitude' => 35.69765,
   ),
-  27 => 
+  26 => 
   array (
     'id' => 63156,
     'name' => 'Burmā',
@@ -253,7 +244,7 @@ return array (
     'latitude' => 32.2193,
     'longitude' => 35.78507,
   ),
-  28 => 
+  27 => 
   array (
     'id' => 63157,
     'name' => 'Buşayrā',
@@ -262,7 +253,7 @@ return array (
     'latitude' => 30.73256,
     'longitude' => 35.60943,
   ),
-  29 => 
+  28 => 
   array (
     'id' => 63158,
     'name' => 'Dayr Yūsuf',
@@ -271,7 +262,7 @@ return array (
     'latitude' => 32.48701,
     'longitude' => 35.79635,
   ),
-  30 => 
+  29 => 
   array (
     'id' => 63159,
     'name' => 'Irbid',
@@ -280,7 +271,7 @@ return array (
     'latitude' => 32.55556,
     'longitude' => 35.85,
   ),
-  31 => 
+  30 => 
   array (
     'id' => 63160,
     'name' => 'Jarash',
@@ -289,7 +280,7 @@ return array (
     'latitude' => 32.28082,
     'longitude' => 35.89929,
   ),
-  32 => 
+  31 => 
   array (
     'id' => 63161,
     'name' => 'Judita',
@@ -298,7 +289,7 @@ return array (
     'latitude' => 32.40792,
     'longitude' => 35.70802,
   ),
-  33 => 
+  32 => 
   array (
     'id' => 63162,
     'name' => 'Jāwā',
@@ -307,7 +298,7 @@ return array (
     'latitude' => 31.85247,
     'longitude' => 35.93928,
   ),
-  34 => 
+  33 => 
   array (
     'id' => 63163,
     'name' => 'Kafr Abīl',
@@ -316,7 +307,7 @@ return array (
     'latitude' => 32.41752,
     'longitude' => 35.66305,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 63164,
     'name' => 'Kafr Asad',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 32.598,
     'longitude' => 35.71266,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 63165,
     'name' => 'Kafr Sawm',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 32.68527,
     'longitude' => 35.80102,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 63166,
     'name' => 'Karak City',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 31.16368,
     'longitude' => 35.76204,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 63167,
     'name' => 'Kharjā',
@@ -352,7 +343,7 @@ return array (
     'latitude' => 32.65988,
     'longitude' => 35.88782,
   ),
-  39 => 
+  38 => 
   array (
     'id' => 63168,
     'name' => 'Kitim',
@@ -361,7 +352,7 @@ return array (
     'latitude' => 32.43834,
     'longitude' => 35.89677,
   ),
-  40 => 
+  39 => 
   array (
     'id' => 63169,
     'name' => 'Kurayyimah',
@@ -370,7 +361,7 @@ return array (
     'latitude' => 32.27639,
     'longitude' => 35.59938,
   ),
-  41 => 
+  40 => 
   array (
     'id' => 63170,
     'name' => 'Ma\\\'an',
@@ -379,7 +370,7 @@ return array (
     'latitude' => 30.19624,
     'longitude' => 35.73405,
   ),
-  42 => 
+  41 => 
   array (
     'id' => 63171,
     'name' => 'Mafraq',
@@ -388,7 +379,7 @@ return array (
     'latitude' => 32.34289,
     'longitude' => 36.20804,
   ),
-  43 => 
+  42 => 
   array (
     'id' => 63172,
     'name' => 'Malkā',
@@ -397,7 +388,7 @@ return array (
     'latitude' => 32.67645,
     'longitude' => 35.74851,
   ),
-  44 => 
+  43 => 
   array (
     'id' => 63173,
     'name' => 'Mādabā',
@@ -406,7 +397,7 @@ return array (
     'latitude' => 31.71599,
     'longitude' => 35.79392,
   ),
-  45 => 
+  44 => 
   array (
     'id' => 63174,
     'name' => 'Petra',
@@ -415,7 +406,7 @@ return array (
     'latitude' => 30.32096,
     'longitude' => 35.47895,
   ),
-  46 => 
+  45 => 
   array (
     'id' => 63175,
     'name' => 'Qafqafā',
@@ -424,7 +415,7 @@ return array (
     'latitude' => 32.34851,
     'longitude' => 35.93864,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 63176,
     'name' => 'Qumaym',
@@ -433,7 +424,7 @@ return array (
     'latitude' => 32.57174,
     'longitude' => 35.73452,
   ),
-  48 => 
+  47 => 
   array (
     'id' => 63177,
     'name' => 'Qīr Moāv',
@@ -442,7 +433,7 @@ return array (
     'latitude' => 31.18248,
     'longitude' => 35.69999,
   ),
-  49 => 
+  48 => 
   array (
     'id' => 63178,
     'name' => 'Raymūn',
@@ -451,7 +442,7 @@ return array (
     'latitude' => 32.28202,
     'longitude' => 35.82779,
   ),
-  50 => 
+  49 => 
   array (
     'id' => 63179,
     'name' => 'Rehab',
@@ -460,7 +451,7 @@ return array (
     'latitude' => 32.32341,
     'longitude' => 36.09087,
   ),
-  51 => 
+  50 => 
   array (
     'id' => 63180,
     'name' => 'Rukban',
@@ -469,7 +460,7 @@ return array (
     'latitude' => 33.31405,
     'longitude' => 38.70342,
   ),
-  52 => 
+  51 => 
   array (
     'id' => 63181,
     'name' => 'Russeifa',
@@ -478,7 +469,7 @@ return array (
     'latitude' => 32.01778,
     'longitude' => 36.04639,
   ),
-  53 => 
+  52 => 
   array (
     'id' => 63182,
     'name' => 'Safi',
@@ -487,7 +478,7 @@ return array (
     'latitude' => 31.03608,
     'longitude' => 35.46544,
   ),
-  54 => 
+  53 => 
   array (
     'id' => 63183,
     'name' => 'Sakib',
@@ -496,7 +487,7 @@ return array (
     'latitude' => 32.28431,
     'longitude' => 35.80909,
   ),
-  55 => 
+  54 => 
   array (
     'id' => 63184,
     'name' => 'Saḩam al Kaffārāt',
@@ -505,7 +496,7 @@ return array (
     'latitude' => 32.69848,
     'longitude' => 35.77438,
   ),
-  56 => 
+  55 => 
   array (
     'id' => 63185,
     'name' => 'Saḩāb',
@@ -514,7 +505,7 @@ return array (
     'latitude' => 31.87032,
     'longitude' => 36.00479,
   ),
-  57 => 
+  56 => 
   array (
     'id' => 63186,
     'name' => 'Sāl',
@@ -523,7 +514,7 @@ return array (
     'latitude' => 32.56897,
     'longitude' => 35.91185,
   ),
-  58 => 
+  57 => 
   array (
     'id' => 63187,
     'name' => 'Sūf',
@@ -532,7 +523,7 @@ return array (
     'latitude' => 32.31372,
     'longitude' => 35.83713,
   ),
-  59 => 
+  58 => 
   array (
     'id' => 63188,
     'name' => 'Tala Bay',
@@ -541,7 +532,7 @@ return array (
     'latitude' => 29.40842,
     'longitude' => 34.97918,
   ),
-  60 => 
+  59 => 
   array (
     'id' => 63189,
     'name' => 'Tibnah',
@@ -550,7 +541,7 @@ return array (
     'latitude' => 32.47521,
     'longitude' => 35.73056,
   ),
-  61 => 
+  60 => 
   array (
     'id' => 63190,
     'name' => 'Umm Qays',
@@ -559,7 +550,7 @@ return array (
     'latitude' => 32.65348,
     'longitude' => 35.68457,
   ),
-  62 => 
+  61 => 
   array (
     'id' => 63191,
     'name' => 'Umm al Qiţţayn',
@@ -568,7 +559,7 @@ return array (
     'latitude' => 32.31449,
     'longitude' => 36.62826,
   ),
-  63 => 
+  62 => 
   array (
     'id' => 63192,
     'name' => 'Umm as Summāq',
@@ -577,7 +568,7 @@ return array (
     'latitude' => 31.88542,
     'longitude' => 35.8543,
   ),
-  64 => 
+  63 => 
   array (
     'id' => 63193,
     'name' => 'Waqqāş',
@@ -586,7 +577,7 @@ return array (
     'latitude' => 32.54214,
     'longitude' => 35.60508,
   ),
-  65 => 
+  64 => 
   array (
     'id' => 63194,
     'name' => 'Wādī as Sīr',
@@ -595,7 +586,7 @@ return array (
     'latitude' => 31.9545,
     'longitude' => 35.81831,
   ),
-  66 => 
+  65 => 
   array (
     'id' => 63195,
     'name' => 'Yarqā',
@@ -604,7 +595,7 @@ return array (
     'latitude' => 31.97583,
     'longitude' => 35.69638,
   ),
-  67 => 
+  66 => 
   array (
     'id' => 63196,
     'name' => 'Zarqa',
@@ -613,7 +604,7 @@ return array (
     'latitude' => 32.07275,
     'longitude' => 36.08796,
   ),
-  68 => 
+  67 => 
   array (
     'id' => 63197,
     'name' => 'Zaḩar',
@@ -622,7 +613,7 @@ return array (
     'latitude' => 32.5667,
     'longitude' => 35.77811,
   ),
-  69 => 
+  68 => 
   array (
     'id' => 63198,
     'name' => 'Şabḩā',
@@ -631,7 +622,7 @@ return array (
     'latitude' => 32.32696,
     'longitude' => 36.50159,
   ),
-  70 => 
+  69 => 
   array (
     'id' => 63199,
     'name' => 'Şakhrah',
@@ -640,7 +631,7 @@ return array (
     'latitude' => 32.37087,
     'longitude' => 35.84267,
   ),
-  71 => 
+  70 => 
   array (
     'id' => 63200,
     'name' => 'Şammā',
@@ -649,7 +640,7 @@ return array (
     'latitude' => 32.57102,
     'longitude' => 35.68984,
   ),
-  72 => 
+  71 => 
   array (
     'id' => 63201,
     'name' => 'Ḩakamā',
@@ -658,7 +649,7 @@ return array (
     'latitude' => 32.59354,
     'longitude' => 35.8832,
   ),
-  73 => 
+  72 => 
   array (
     'id' => 63202,
     'name' => 'Ḩalāwah',
@@ -667,7 +658,7 @@ return array (
     'latitude' => 32.38433,
     'longitude' => 35.66167,
   ),
-  74 => 
+  73 => 
   array (
     'id' => 63203,
     'name' => 'Ḩayy al Bunayyāt',
@@ -676,7 +667,7 @@ return array (
     'latitude' => 31.89603,
     'longitude' => 35.88465,
   ),
-  75 => 
+  74 => 
   array (
     'id' => 63204,
     'name' => 'Ḩayy al Quwaysimah',
@@ -685,7 +676,7 @@ return array (
     'latitude' => 31.91037,
     'longitude' => 35.94975,
   ),
-  76 => 
+  75 => 
   array (
     'id' => 63205,
     'name' => 'Ḩātim',
@@ -694,7 +685,7 @@ return array (
     'latitude' => 32.64492,
     'longitude' => 35.77771,
   ),
-  77 => 
+  76 => 
   array (
     'id' => 63206,
     'name' => '‘Ajlūn',
@@ -703,7 +694,7 @@ return array (
     'latitude' => 32.33326,
     'longitude' => 35.75279,
   ),
-  78 => 
+  77 => 
   array (
     'id' => 63207,
     'name' => '‘Anjarah',
@@ -712,7 +703,7 @@ return array (
     'latitude' => 32.3063,
     'longitude' => 35.75653,
   ),
-  79 => 
+  78 => 
   array (
     'id' => 63208,
     'name' => '‘Ayn Jannah',
@@ -721,7 +712,7 @@ return array (
     'latitude' => 32.33466,
     'longitude' => 35.7637,
   ),
-  80 => 
+  79 => 
   array (
     'id' => 63209,
     'name' => '‘Ayy',
@@ -730,7 +721,7 @@ return array (
     'latitude' => 31.13371,
     'longitude' => 35.64375,
   ),
-  81 => 
+  80 => 
   array (
     'id' => 63210,
     'name' => '‘Izrā',

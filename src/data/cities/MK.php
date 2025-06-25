@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -408,15 +408,6 @@ return array (
   ),
   45 => 
   array (
-    'id' => 67431,
-    'name' => 'Gorno Orizari',
-    'country_id' => 129,
-    'country_code' => 'MK',
-    'latitude' => 41.68583,
-    'longitude' => 21.73475,
-  ),
-  46 => 
-  array (
     'id' => 67432,
     'name' => 'Gorobinci',
     'country_id' => 129,
@@ -424,7 +415,7 @@ return array (
     'latitude' => 41.87507,
     'longitude' => 21.87599,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 67433,
     'name' => 'Gostivar',
@@ -433,7 +424,7 @@ return array (
     'latitude' => 41.79601,
     'longitude' => 20.90819,
   ),
-  48 => 
+  47 => 
   array (
     'id' => 67434,
     'name' => 'Gradec',
@@ -442,16 +433,7 @@ return array (
     'latitude' => 41.89611,
     'longitude' => 20.90417,
   ),
-  49 => 
-  array (
-    'id' => 67435,
-    'name' => 'Gradec',
-    'country_id' => 129,
-    'country_code' => 'MK',
-    'latitude' => 41.85068,
-    'longitude' => 22.51132,
-  ),
-  50 => 
+  48 => 
   array (
     'id' => 67436,
     'name' => 'Gradsko',
@@ -460,7 +442,7 @@ return array (
     'latitude' => 41.5775,
     'longitude' => 21.94278,
   ),
-  51 => 
+  49 => 
   array (
     'id' => 67437,
     'name' => 'Grnčari',
@@ -469,7 +451,7 @@ return array (
     'latitude' => 41.01722,
     'longitude' => 21.05333,
   ),
-  52 => 
+  50 => 
   array (
     'id' => 67438,
     'name' => 'Grčec',
@@ -478,7 +460,7 @@ return array (
     'latitude' => 41.98806,
     'longitude' => 21.33028,
   ),
-  53 => 
+  51 => 
   array (
     'id' => 67439,
     'name' => 'Gurgurnica',
@@ -487,7 +469,7 @@ return array (
     'latitude' => 41.84508,
     'longitude' => 21.10538,
   ),
-  54 => 
+  52 => 
   array (
     'id' => 67440,
     'name' => 'Ilinden',
@@ -496,7 +478,7 @@ return array (
     'latitude' => 41.99451,
     'longitude' => 21.58002,
   ),
-  55 => 
+  53 => 
   array (
     'id' => 67441,
     'name' => 'Ilovica',
@@ -505,7 +487,7 @@ return array (
     'latitude' => 41.47224,
     'longitude' => 22.8048,
   ),
-  56 => 
+  54 => 
   array (
     'id' => 67442,
     'name' => 'Ivankovci',
@@ -514,7 +496,7 @@ return array (
     'latitude' => 41.84889,
     'longitude' => 21.82028,
   ),
-  57 => 
+  55 => 
   array (
     'id' => 67443,
     'name' => 'Izvor',
@@ -523,7 +505,7 @@ return array (
     'latitude' => 42.20322,
     'longitude' => 21.57812,
   ),
-  58 => 
+  56 => 
   array (
     'id' => 67444,
     'name' => 'Jankovec',
@@ -532,7 +514,7 @@ return array (
     'latitude' => 41.11028,
     'longitude' => 21.01139,
   ),
-  59 => 
+  57 => 
   array (
     'id' => 67445,
     'name' => 'Jegunovce',
@@ -541,7 +523,7 @@ return array (
     'latitude' => 42.07238,
     'longitude' => 21.12367,
   ),
-  60 => 
+  58 => 
   array (
     'id' => 67446,
     'name' => 'Kadino',
@@ -550,7 +532,7 @@ return array (
     'latitude' => 41.96889,
     'longitude' => 21.60139,
   ),
-  61 => 
+  59 => 
   array (
     'id' => 67447,
     'name' => 'Kamenjane',
@@ -559,7 +541,7 @@ return array (
     'latitude' => 41.94568,
     'longitude' => 20.92894,
   ),
-  62 => 
+  60 => 
   array (
     'id' => 67448,
     'name' => 'Kanatlarci',
@@ -568,7 +550,7 @@ return array (
     'latitude' => 41.21028,
     'longitude' => 21.50333,
   ),
-  63 => 
+  61 => 
   array (
     'id' => 67449,
     'name' => 'Karbinci',
@@ -577,7 +559,7 @@ return array (
     'latitude' => 41.81758,
     'longitude' => 22.23529,
   ),
-  64 => 
+  62 => 
   array (
     'id' => 67450,
     'name' => 'Kavadarci',
@@ -586,7 +568,7 @@ return array (
     'latitude' => 41.43306,
     'longitude' => 22.01194,
   ),
-  65 => 
+  63 => 
   array (
     'id' => 67451,
     'name' => 'Kisela Voda',
@@ -595,7 +577,7 @@ return array (
     'latitude' => 41.94889,
     'longitude' => 21.50278,
   ),
-  66 => 
+  64 => 
   array (
     'id' => 67452,
     'name' => 'Kičevo',
@@ -604,7 +586,7 @@ return array (
     'latitude' => 41.51267,
     'longitude' => 20.95886,
   ),
-  67 => 
+  65 => 
   array (
     'id' => 67453,
     'name' => 'Kochani',
@@ -613,7 +595,7 @@ return array (
     'latitude' => 41.91639,
     'longitude' => 22.41278,
   ),
-  68 => 
+  66 => 
   array (
     'id' => 67454,
     'name' => 'Kondovo',
@@ -622,7 +604,7 @@ return array (
     'latitude' => 42.01167,
     'longitude' => 21.31361,
   ),
-  69 => 
+  67 => 
   array (
     'id' => 67455,
     'name' => 'Konče',
@@ -631,7 +613,7 @@ return array (
     'latitude' => 41.49511,
     'longitude' => 22.38359,
   ),
-  70 => 
+  68 => 
   array (
     'id' => 67456,
     'name' => 'Kosel',
@@ -640,7 +622,7 @@ return array (
     'latitude' => 41.17444,
     'longitude' => 20.83556,
   ),
-  71 => 
+  69 => 
   array (
     'id' => 67457,
     'name' => 'Krani',
@@ -649,7 +631,7 @@ return array (
     'latitude' => 40.93934,
     'longitude' => 21.10911,
   ),
-  72 => 
+  70 => 
   array (
     'id' => 67458,
     'name' => 'Kratovo',
@@ -658,7 +640,7 @@ return array (
     'latitude' => 42.07838,
     'longitude' => 22.1807,
   ),
-  73 => 
+  71 => 
   array (
     'id' => 67459,
     'name' => 'Kriva Palanka',
@@ -667,7 +649,7 @@ return array (
     'latitude' => 42.20088,
     'longitude' => 22.33244,
   ),
-  74 => 
+  72 => 
   array (
     'id' => 67460,
     'name' => 'Krivogashtani',
@@ -676,7 +658,7 @@ return array (
     'latitude' => 41.33611,
     'longitude' => 21.33306,
   ),
-  75 => 
+  73 => 
   array (
     'id' => 67461,
     'name' => 'Krusevo',
@@ -685,7 +667,7 @@ return array (
     'latitude' => 41.36889,
     'longitude' => 21.24889,
   ),
-  76 => 
+  74 => 
   array (
     'id' => 67462,
     'name' => 'Krušopek',
@@ -694,7 +676,7 @@ return array (
     'latitude' => 41.97833,
     'longitude' => 21.35444,
   ),
-  77 => 
+  75 => 
   array (
     'id' => 67463,
     'name' => 'Kuklis',
@@ -703,7 +685,7 @@ return array (
     'latitude' => 41.40528,
     'longitude' => 22.66528,
   ),
-  78 => 
+  76 => 
   array (
     'id' => 67464,
     'name' => 'Kukurečani',
@@ -712,7 +694,7 @@ return array (
     'latitude' => 41.09562,
     'longitude' => 21.32454,
   ),
-  79 => 
+  77 => 
   array (
     'id' => 67465,
     'name' => 'Kumanovo',
@@ -721,7 +703,7 @@ return array (
     'latitude' => 42.13222,
     'longitude' => 21.71444,
   ),
-  80 => 
+  78 => 
   array (
     'id' => 67466,
     'name' => 'Labunista',
@@ -730,7 +712,7 @@ return array (
     'latitude' => 41.26861,
     'longitude' => 20.59611,
   ),
-  81 => 
+  79 => 
   array (
     'id' => 67467,
     'name' => 'Larce',
@@ -739,7 +721,7 @@ return array (
     'latitude' => 41.93319,
     'longitude' => 21.12628,
   ),
-  82 => 
+  80 => 
   array (
     'id' => 67468,
     'name' => 'Lažani',
@@ -748,7 +730,7 @@ return array (
     'latitude' => 41.44222,
     'longitude' => 21.31583,
   ),
-  83 => 
+  81 => 
   array (
     'id' => 67469,
     'name' => 'Lipkovo',
@@ -757,7 +739,7 @@ return array (
     'latitude' => 42.15639,
     'longitude' => 21.58528,
   ),
-  84 => 
+  82 => 
   array (
     'id' => 67470,
     'name' => 'Lisičani',
@@ -766,7 +748,7 @@ return array (
     'latitude' => 41.46139,
     'longitude' => 21.05444,
   ),
-  85 => 
+  83 => 
   array (
     'id' => 67471,
     'name' => 'Ljubin',
@@ -775,7 +757,7 @@ return array (
     'latitude' => 42.00139,
     'longitude' => 21.30917,
   ),
-  86 => 
+  84 => 
   array (
     'id' => 67472,
     'name' => 'Logovardi',
@@ -784,7 +766,7 @@ return array (
     'latitude' => 41.03096,
     'longitude' => 21.40967,
   ),
-  87 => 
+  85 => 
   array (
     'id' => 67473,
     'name' => 'Lojane',
@@ -793,7 +775,7 @@ return array (
     'latitude' => 42.23276,
     'longitude' => 21.6655,
   ),
-  88 => 
+  86 => 
   array (
     'id' => 67474,
     'name' => 'Lozovo',
@@ -802,7 +784,7 @@ return array (
     'latitude' => 41.78389,
     'longitude' => 21.90556,
   ),
-  89 => 
+  87 => 
   array (
     'id' => 67475,
     'name' => 'Lukovo',
@@ -811,7 +793,7 @@ return array (
     'latitude' => 41.35339,
     'longitude' => 20.60637,
   ),
-  90 => 
+  88 => 
   array (
     'id' => 67476,
     'name' => 'Makedonska Kamenica',
@@ -820,7 +802,7 @@ return array (
     'latitude' => 42.02079,
     'longitude' => 22.5876,
   ),
-  91 => 
+  89 => 
   array (
     'id' => 67477,
     'name' => 'Makedonski Brod',
@@ -829,7 +811,7 @@ return array (
     'latitude' => 41.51361,
     'longitude' => 21.21528,
   ),
-  92 => 
+  90 => 
   array (
     'id' => 67478,
     'name' => 'Marino',
@@ -838,7 +820,7 @@ return array (
     'latitude' => 41.98776,
     'longitude' => 21.59148,
   ),
-  93 => 
+  91 => 
   array (
     'id' => 67479,
     'name' => 'Markov Grad',
@@ -847,7 +829,7 @@ return array (
     'latitude' => 41.35722,
     'longitude' => 21.5325,
   ),
-  94 => 
+  92 => 
   array (
     'id' => 67480,
     'name' => 'Matejce',
@@ -856,7 +838,7 @@ return array (
     'latitude' => 42.12556,
     'longitude' => 21.59778,
   ),
-  95 => 
+  93 => 
   array (
     'id' => 67481,
     'name' => 'Mešeišta',
@@ -865,7 +847,7 @@ return array (
     'latitude' => 41.23814,
     'longitude' => 20.77414,
   ),
-  96 => 
+  94 => 
   array (
     'id' => 67482,
     'name' => 'Miladinovci',
@@ -874,7 +856,7 @@ return array (
     'latitude' => 41.98029,
     'longitude' => 21.64982,
   ),
-  97 => 
+  95 => 
   array (
     'id' => 67483,
     'name' => 'Miletino',
@@ -883,7 +865,7 @@ return array (
     'latitude' => 41.90753,
     'longitude' => 21.01601,
   ),
-  98 => 
+  96 => 
   array (
     'id' => 67484,
     'name' => 'Miravci',
@@ -892,7 +874,7 @@ return array (
     'latitude' => 41.30925,
     'longitude' => 22.43641,
   ),
-  99 => 
+  97 => 
   array (
     'id' => 67485,
     'name' => 'Mislesevo',
@@ -901,7 +883,7 @@ return array (
     'latitude' => 41.185,
     'longitude' => 20.70861,
   ),
-  100 => 
+  98 => 
   array (
     'id' => 67486,
     'name' => 'Mogila',
@@ -910,7 +892,7 @@ return array (
     'latitude' => 41.10833,
     'longitude' => 21.37861,
   ),
-  101 => 
+  99 => 
   array (
     'id' => 67487,
     'name' => 'Morani',
@@ -919,7 +901,7 @@ return array (
     'latitude' => 41.90978,
     'longitude' => 21.54997,
   ),
-  102 => 
+  100 => 
   array (
     'id' => 67488,
     'name' => 'Murtino',
@@ -928,7 +910,7 @@ return array (
     'latitude' => 41.41537,
     'longitude' => 22.72589,
   ),
-  103 => 
+  101 => 
   array (
     'id' => 67489,
     'name' => 'Negotino',
@@ -937,16 +919,7 @@ return array (
     'latitude' => 41.87792,
     'longitude' => 20.88389,
   ),
-  104 => 
-  array (
-    'id' => 67490,
-    'name' => 'Negotino',
-    'country_id' => 129,
-    'country_code' => 'MK',
-    'latitude' => 41.48456,
-    'longitude' => 22.09056,
-  ),
-  105 => 
+  102 => 
   array (
     'id' => 67491,
     'name' => 'Nerašte',
@@ -955,7 +928,7 @@ return array (
     'latitude' => 42.10711,
     'longitude' => 21.1081,
   ),
-  106 => 
+  103 => 
   array (
     'id' => 67492,
     'name' => 'Novaci',
@@ -964,7 +937,7 @@ return array (
     'latitude' => 41.04197,
     'longitude' => 21.45866,
   ),
-  107 => 
+  104 => 
   array (
     'id' => 67493,
     'name' => 'Novo Selo',
@@ -973,7 +946,7 @@ return array (
     'latitude' => 41.41486,
     'longitude' => 22.88164,
   ),
-  108 => 
+  105 => 
   array (
     'id' => 67494,
     'name' => 'Oblesevo',
@@ -982,7 +955,7 @@ return array (
     'latitude' => 41.88333,
     'longitude' => 22.33389,
   ),
-  109 => 
+  106 => 
   array (
     'id' => 67495,
     'name' => 'Obršani',
@@ -991,7 +964,7 @@ return array (
     'latitude' => 41.28168,
     'longitude' => 21.3615,
   ),
-  110 => 
+  107 => 
   array (
     'id' => 67496,
     'name' => 'Ohrid',
@@ -1000,7 +973,7 @@ return array (
     'latitude' => 41.11722,
     'longitude' => 20.80194,
   ),
-  111 => 
+  108 => 
   array (
     'id' => 67497,
     'name' => 'Ohrid Opština',
@@ -1009,7 +982,7 @@ return array (
     'latitude' => 41.16667,
     'longitude' => 20.83333,
   ),
-  112 => 
+  109 => 
   array (
     'id' => 67498,
     'name' => 'Oktisi',
@@ -1018,7 +991,7 @@ return array (
     'latitude' => 41.2325,
     'longitude' => 20.60722,
   ),
-  113 => 
+  110 => 
   array (
     'id' => 67499,
     'name' => 'Oraovica',
@@ -1027,7 +1000,7 @@ return array (
     'latitude' => 41.62583,
     'longitude' => 22.51333,
   ),
-  114 => 
+  111 => 
   array (
     'id' => 67500,
     'name' => 'Orashac',
@@ -1036,7 +1009,7 @@ return array (
     'latitude' => 42.0625,
     'longitude' => 21.79972,
   ),
-  115 => 
+  112 => 
   array (
     'id' => 67501,
     'name' => 'Orizari',
@@ -1045,7 +1018,7 @@ return array (
     'latitude' => 41.92262,
     'longitude' => 22.44628,
   ),
-  116 => 
+  113 => 
   array (
     'id' => 67502,
     'name' => 'Otlja',
@@ -1054,7 +1027,7 @@ return array (
     'latitude' => 42.14315,
     'longitude' => 21.58675,
   ),
-  117 => 
+  114 => 
   array (
     'id' => 67503,
     'name' => 'Pehčevo',
@@ -1063,7 +1036,7 @@ return array (
     'latitude' => 41.76226,
     'longitude' => 22.88921,
   ),
-  118 => 
+  115 => 
   array (
     'id' => 67504,
     'name' => 'Pirava',
@@ -1072,7 +1045,7 @@ return array (
     'latitude' => 41.32042,
     'longitude' => 22.53047,
   ),
-  119 => 
+  116 => 
   array (
     'id' => 67505,
     'name' => 'Pirok',
@@ -1081,7 +1054,7 @@ return array (
     'latitude' => 41.91083,
     'longitude' => 20.91056,
   ),
-  120 => 
+  117 => 
   array (
     'id' => 67506,
     'name' => 'Plasnica',
@@ -1090,7 +1063,7 @@ return array (
     'latitude' => 41.46722,
     'longitude' => 21.12306,
   ),
-  121 => 
+  118 => 
   array (
     'id' => 67507,
     'name' => 'Podareš',
@@ -1099,7 +1072,7 @@ return array (
     'latitude' => 41.61389,
     'longitude' => 22.54222,
   ),
-  122 => 
+  119 => 
   array (
     'id' => 67508,
     'name' => 'Poroj',
@@ -1108,7 +1081,7 @@ return array (
     'latitude' => 42.02913,
     'longitude' => 20.99266,
   ),
-  123 => 
+  120 => 
   array (
     'id' => 67509,
     'name' => 'Prilep',
@@ -1117,7 +1090,7 @@ return array (
     'latitude' => 41.34514,
     'longitude' => 21.55504,
   ),
-  124 => 
+  121 => 
   array (
     'id' => 67510,
     'name' => 'Probishtip',
@@ -1126,7 +1099,7 @@ return array (
     'latitude' => 42.00306,
     'longitude' => 22.17861,
   ),
-  125 => 
+  122 => 
   array (
     'id' => 67511,
     'name' => 'Pršovce',
@@ -1135,7 +1108,7 @@ return array (
     'latitude' => 42.08336,
     'longitude' => 21.05994,
   ),
-  126 => 
+  123 => 
   array (
     'id' => 67512,
     'name' => 'Radishani',
@@ -1144,7 +1117,7 @@ return array (
     'latitude' => 42.06111,
     'longitude' => 21.44778,
   ),
-  127 => 
+  124 => 
   array (
     'id' => 67513,
     'name' => 'Radolista',
@@ -1153,7 +1126,7 @@ return array (
     'latitude' => 41.16417,
     'longitude' => 20.62333,
   ),
-  128 => 
+  125 => 
   array (
     'id' => 67514,
     'name' => 'Radovis',
@@ -1162,7 +1135,7 @@ return array (
     'latitude' => 41.63833,
     'longitude' => 22.46472,
   ),
-  129 => 
+  126 => 
   array (
     'id' => 67515,
     'name' => 'Resen',
@@ -1171,7 +1144,7 @@ return array (
     'latitude' => 41.08934,
     'longitude' => 21.01092,
   ),
-  130 => 
+  127 => 
   array (
     'id' => 67516,
     'name' => 'Romanovci',
@@ -1180,7 +1153,7 @@ return array (
     'latitude' => 42.09472,
     'longitude' => 21.69306,
   ),
-  131 => 
+  128 => 
   array (
     'id' => 67517,
     'name' => 'Rosoman',
@@ -1189,7 +1162,7 @@ return array (
     'latitude' => 41.51671,
     'longitude' => 21.94585,
   ),
-  132 => 
+  129 => 
   array (
     'id' => 67518,
     'name' => 'Rostusa',
@@ -1198,7 +1171,7 @@ return array (
     'latitude' => 41.61,
     'longitude' => 20.6,
   ),
-  133 => 
+  130 => 
   array (
     'id' => 67519,
     'name' => 'Rusinovo',
@@ -1207,7 +1180,7 @@ return array (
     'latitude' => 41.68728,
     'longitude' => 22.80849,
   ),
-  134 => 
+  131 => 
   array (
     'id' => 67520,
     'name' => 'Samokov',
@@ -1216,7 +1189,7 @@ return array (
     'latitude' => 41.68331,
     'longitude' => 21.14625,
   ),
-  135 => 
+  132 => 
   array (
     'id' => 67521,
     'name' => 'Saraj',
@@ -1225,7 +1198,7 @@ return array (
     'latitude' => 42.0,
     'longitude' => 21.32778,
   ),
-  136 => 
+  133 => 
   array (
     'id' => 67522,
     'name' => 'Sedlarevo',
@@ -1234,7 +1207,7 @@ return array (
     'latitude' => 41.88306,
     'longitude' => 21.1275,
   ),
-  137 => 
+  134 => 
   array (
     'id' => 67523,
     'name' => 'Sekirnik',
@@ -1243,7 +1216,7 @@ return array (
     'latitude' => 41.43999,
     'longitude' => 22.79536,
   ),
-  138 => 
+  135 => 
   array (
     'id' => 67524,
     'name' => 'Selce',
@@ -1252,7 +1225,7 @@ return array (
     'latitude' => 42.03482,
     'longitude' => 20.94035,
   ),
-  139 => 
+  136 => 
   array (
     'id' => 67525,
     'name' => 'Shtip',
@@ -1261,7 +1234,7 @@ return array (
     'latitude' => 41.74583,
     'longitude' => 22.19583,
   ),
-  140 => 
+  137 => 
   array (
     'id' => 67526,
     'name' => 'Skopje',
@@ -1270,7 +1243,7 @@ return array (
     'latitude' => 41.99646,
     'longitude' => 21.43141,
   ),
-  141 => 
+  138 => 
   array (
     'id' => 67527,
     'name' => 'Slatino',
@@ -1279,7 +1252,7 @@ return array (
     'latitude' => 42.06784,
     'longitude' => 21.03902,
   ),
-  142 => 
+  139 => 
   array (
     'id' => 67528,
     'name' => 'Slepče',
@@ -1288,7 +1261,7 @@ return array (
     'latitude' => 41.23333,
     'longitude' => 21.175,
   ),
-  143 => 
+  140 => 
   array (
     'id' => 67529,
     'name' => 'Sopotnica',
@@ -1297,7 +1270,7 @@ return array (
     'latitude' => 41.29594,
     'longitude' => 21.15357,
   ),
-  144 => 
+  141 => 
   array (
     'id' => 67530,
     'name' => 'Srbica',
@@ -1306,7 +1279,7 @@ return array (
     'latitude' => 41.58672,
     'longitude' => 21.03027,
   ),
-  145 => 
+  142 => 
   array (
     'id' => 67531,
     'name' => 'Srbinovo',
@@ -1315,7 +1288,7 @@ return array (
     'latitude' => 41.70586,
     'longitude' => 20.95859,
   ),
-  146 => 
+  143 => 
   array (
     'id' => 67532,
     'name' => 'Sredno Konjare',
@@ -1324,7 +1297,7 @@ return array (
     'latitude' => 41.95743,
     'longitude' => 21.71494,
   ),
-  147 => 
+  144 => 
   array (
     'id' => 67533,
     'name' => 'Star Dojran',
@@ -1333,7 +1306,7 @@ return array (
     'latitude' => 41.18647,
     'longitude' => 22.7203,
   ),
-  148 => 
+  145 => 
   array (
     'id' => 67534,
     'name' => 'Stojakovo',
@@ -1342,7 +1315,7 @@ return array (
     'latitude' => 41.15556,
     'longitude' => 22.5775,
   ),
-  149 => 
+  146 => 
   array (
     'id' => 67535,
     'name' => 'Strelci',
@@ -1351,7 +1324,7 @@ return array (
     'latitude' => 41.54046,
     'longitude' => 21.00563,
   ),
-  150 => 
+  147 => 
   array (
     'id' => 67536,
     'name' => 'Strimnica',
@@ -1360,7 +1333,7 @@ return array (
     'latitude' => 41.96719,
     'longitude' => 21.03598,
   ),
-  151 => 
+  148 => 
   array (
     'id' => 67537,
     'name' => 'Struga',
@@ -1369,7 +1342,7 @@ return array (
     'latitude' => 41.17799,
     'longitude' => 20.67784,
   ),
-  152 => 
+  149 => 
   array (
     'id' => 67538,
     'name' => 'Strumica',
@@ -1378,7 +1351,7 @@ return array (
     'latitude' => 41.4375,
     'longitude' => 22.64333,
   ),
-  153 => 
+  150 => 
   array (
     'id' => 67539,
     'name' => 'Studeničane',
@@ -1387,7 +1360,7 @@ return array (
     'latitude' => 41.92208,
     'longitude' => 21.53483,
   ),
-  154 => 
+  151 => 
   array (
     'id' => 67540,
     'name' => 'Sušica',
@@ -1396,7 +1369,7 @@ return array (
     'latitude' => 41.43982,
     'longitude' => 22.83676,
   ),
-  155 => 
+  152 => 
   array (
     'id' => 67541,
     'name' => 'Sveti Nikole',
@@ -1405,7 +1378,7 @@ return array (
     'latitude' => 41.86956,
     'longitude' => 21.95274,
   ),
-  156 => 
+  153 => 
   array (
     'id' => 67542,
     'name' => 'Tearce',
@@ -1414,7 +1387,7 @@ return array (
     'latitude' => 42.07666,
     'longitude' => 21.0531,
   ),
-  157 => 
+  154 => 
   array (
     'id' => 67543,
     'name' => 'Tetovo',
@@ -1423,7 +1396,7 @@ return array (
     'latitude' => 42.00973,
     'longitude' => 20.97155,
   ),
-  158 => 
+  155 => 
   array (
     'id' => 67544,
     'name' => 'Topolčani',
@@ -1432,7 +1405,7 @@ return array (
     'latitude' => 41.22772,
     'longitude' => 21.43113,
   ),
-  159 => 
+  156 => 
   array (
     'id' => 67545,
     'name' => 'Tuin',
@@ -1441,7 +1414,7 @@ return array (
     'latitude' => 41.61944,
     'longitude' => 21.04528,
   ),
-  160 => 
+  157 => 
   array (
     'id' => 67546,
     'name' => 'Usje',
@@ -1450,7 +1423,7 @@ return array (
     'latitude' => 41.95871,
     'longitude' => 21.45835,
   ),
-  161 => 
+  158 => 
   array (
     'id' => 67547,
     'name' => 'Vaksince',
@@ -1459,7 +1432,7 @@ return array (
     'latitude' => 42.20611,
     'longitude' => 21.66306,
   ),
-  162 => 
+  159 => 
   array (
     'id' => 67548,
     'name' => 'Valandovo',
@@ -1468,7 +1441,7 @@ return array (
     'latitude' => 41.31744,
     'longitude' => 22.56002,
   ),
-  163 => 
+  160 => 
   array (
     'id' => 67549,
     'name' => 'Vasilevo',
@@ -1477,7 +1450,7 @@ return array (
     'latitude' => 41.47408,
     'longitude' => 22.64301,
   ),
-  164 => 
+  161 => 
   array (
     'id' => 67550,
     'name' => 'Vataša',
@@ -1486,7 +1459,7 @@ return array (
     'latitude' => 41.41694,
     'longitude' => 22.01889,
   ),
-  165 => 
+  162 => 
   array (
     'id' => 67551,
     'name' => 'Veles',
@@ -1495,7 +1468,7 @@ return array (
     'latitude' => 41.71556,
     'longitude' => 21.77556,
   ),
-  166 => 
+  163 => 
   array (
     'id' => 67552,
     'name' => 'Velesta',
@@ -1504,7 +1477,7 @@ return array (
     'latitude' => 41.24083,
     'longitude' => 20.64389,
   ),
-  167 => 
+  164 => 
   array (
     'id' => 67553,
     'name' => 'Veljusa',
@@ -1513,7 +1486,7 @@ return array (
     'latitude' => 41.47611,
     'longitude' => 22.5675,
   ),
-  168 => 
+  165 => 
   array (
     'id' => 67554,
     'name' => 'Vevčani',
@@ -1522,7 +1495,7 @@ return array (
     'latitude' => 41.24056,
     'longitude' => 20.59333,
   ),
-  169 => 
+  166 => 
   array (
     'id' => 67555,
     'name' => 'Vinica',
@@ -1531,7 +1504,7 @@ return array (
     'latitude' => 41.88278,
     'longitude' => 22.50917,
   ),
-  170 => 
+  167 => 
   array (
     'id' => 67556,
     'name' => 'Vladimirovo',
@@ -1540,7 +1513,7 @@ return array (
     'latitude' => 41.71,
     'longitude' => 22.79278,
   ),
-  171 => 
+  168 => 
   array (
     'id' => 67557,
     'name' => 'Vraneštica',
@@ -1549,7 +1522,7 @@ return array (
     'latitude' => 41.44496,
     'longitude' => 21.02683,
   ),
-  172 => 
+  169 => 
   array (
     'id' => 67558,
     'name' => 'Vrapčište',
@@ -1558,7 +1531,7 @@ return array (
     'latitude' => 41.83439,
     'longitude' => 20.88563,
   ),
-  173 => 
+  170 => 
   array (
     'id' => 67559,
     'name' => 'Vratnica',
@@ -1567,7 +1540,7 @@ return array (
     'latitude' => 42.14333,
     'longitude' => 21.11694,
   ),
-  174 => 
+  171 => 
   array (
     'id' => 67560,
     'name' => 'Vrutok',
@@ -1576,7 +1549,7 @@ return array (
     'latitude' => 41.76861,
     'longitude' => 20.83917,
   ),
-  175 => 
+  172 => 
   array (
     'id' => 67561,
     'name' => 'Zajas',
@@ -1585,7 +1558,7 @@ return array (
     'latitude' => 41.60722,
     'longitude' => 20.93833,
   ),
-  176 => 
+  173 => 
   array (
     'id' => 67562,
     'name' => 'Zelenikovo',
@@ -1594,7 +1567,7 @@ return array (
     'latitude' => 41.88413,
     'longitude' => 21.58848,
   ),
-  177 => 
+  174 => 
   array (
     'id' => 67563,
     'name' => 'Zelino',
@@ -1603,7 +1576,7 @@ return array (
     'latitude' => 41.98028,
     'longitude' => 21.06417,
   ),
-  178 => 
+  175 => 
   array (
     'id' => 67564,
     'name' => 'Zletovo',
@@ -1612,7 +1585,7 @@ return array (
     'latitude' => 41.98861,
     'longitude' => 22.23611,
   ),
-  179 => 
+  176 => 
   array (
     'id' => 67565,
     'name' => 'Zrnovci',
@@ -1621,7 +1594,7 @@ return array (
     'latitude' => 41.85417,
     'longitude' => 22.44444,
   ),
-  180 => 
+  177 => 
   array (
     'id' => 67566,
     'name' => 'Čair',
@@ -1630,7 +1603,7 @@ return array (
     'latitude' => 42.01528,
     'longitude' => 21.44111,
   ),
-  181 => 
+  178 => 
   array (
     'id' => 67567,
     'name' => 'Čaška',
@@ -1639,7 +1612,7 @@ return array (
     'latitude' => 41.65056,
     'longitude' => 21.66222,
   ),
-  182 => 
+  179 => 
   array (
     'id' => 67568,
     'name' => 'Čelopek',
@@ -1648,7 +1621,7 @@ return array (
     'latitude' => 41.93167,
     'longitude' => 21.01333,
   ),
-  183 => 
+  180 => 
   array (
     'id' => 67569,
     'name' => 'Češinovo',
@@ -1657,7 +1630,7 @@ return array (
     'latitude' => 41.87148,
     'longitude' => 22.28961,
   ),
-  184 => 
+  181 => 
   array (
     'id' => 67570,
     'name' => 'Šipkovica',
@@ -1666,7 +1639,7 @@ return array (
     'latitude' => 42.035,
     'longitude' => 20.91556,
   ),
-  185 => 
+  182 => 
   array (
     'id' => 67571,
     'name' => 'Šuto Orizare',
@@ -1675,7 +1648,7 @@ return array (
     'latitude' => 42.04,
     'longitude' => 21.425,
   ),
-  186 => 
+  183 => 
   array (
     'id' => 67572,
     'name' => 'Žitoše',
@@ -1684,7 +1657,7 @@ return array (
     'latitude' => 41.41991,
     'longitude' => 21.29078,
   ),
-  187 => 
+  184 => 
   array (
     'id' => 67573,
     'name' => 'Јурумлери',
@@ -1693,7 +1666,7 @@ return array (
     'latitude' => 41.96722,
     'longitude' => 21.55694,
   ),
-  188 => 
+  185 => 
   array (
     'id' => 67574,
     'name' => 'Арачиново',
@@ -1702,7 +1675,7 @@ return array (
     'latitude' => 42.02639,
     'longitude' => 21.56194,
   ),
-  189 => 
+  186 => 
   array (
     'id' => 67575,
     'name' => 'Идризово',
@@ -1711,7 +1684,7 @@ return array (
     'latitude' => 41.96083,
     'longitude' => 21.57556,
   ),
-  190 => 
+  187 => 
   array (
     'id' => 67576,
     'name' => 'Клечовце',
@@ -1720,7 +1693,7 @@ return array (
     'latitude' => 42.11611,
     'longitude' => 21.85722,
   ),
-  191 => 
+  188 => 
   array (
     'id' => 67577,
     'name' => 'Петровец',
@@ -1729,7 +1702,7 @@ return array (
     'latitude' => 41.93889,
     'longitude' => 21.615,
   ),
-  192 => 
+  189 => 
   array (
     'id' => 67578,
     'name' => 'Ранковце',
@@ -1738,7 +1711,7 @@ return array (
     'latitude' => 42.16964,
     'longitude' => 22.11617,
   ),
-  193 => 
+  190 => 
   array (
     'id' => 67579,
     'name' => 'Слупчане',
@@ -1747,7 +1720,7 @@ return array (
     'latitude' => 42.17333,
     'longitude' => 21.62778,
   ),
-  194 => 
+  191 => 
   array (
     'id' => 67580,
     'name' => 'Сопиште',
@@ -1756,7 +1729,7 @@ return array (
     'latitude' => 41.95472,
     'longitude' => 21.4275,
   ),
-  195 => 
+  192 => 
   array (
     'id' => 67581,
     'name' => 'Старо Нагоричане',
@@ -1765,7 +1738,7 @@ return array (
     'latitude' => 42.19806,
     'longitude' => 21.82861,
   ),
-  196 => 
+  193 => 
   array (
     'id' => 67582,
     'name' => 'Чучер - Сандево',

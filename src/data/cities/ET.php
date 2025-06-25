@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -921,15 +921,6 @@ return array (
   ),
   102 => 
   array (
-    'id' => 38687,
-    'name' => 'North Shewa Zone',
-    'country_id' => 70,
-    'country_code' => 'ET',
-    'latitude' => 9.66915,
-    'longitude' => 38.8124,
-  ),
-  103 => 
-  array (
     'id' => 38688,
     'name' => 'North Wollo Zone',
     'country_id' => 70,
@@ -937,7 +928,7 @@ return array (
     'latitude' => 11.92,
     'longitude' => 39.1,
   ),
-  104 => 
+  103 => 
   array (
     'id' => 38689,
     'name' => 'Robīt',
@@ -946,7 +937,7 @@ return array (
     'latitude' => 12.01667,
     'longitude' => 39.63333,
   ),
-  105 => 
+  104 => 
   array (
     'id' => 38690,
     'name' => 'Sebeta',
@@ -955,7 +946,7 @@ return array (
     'latitude' => 8.91667,
     'longitude' => 38.61667,
   ),
-  106 => 
+  105 => 
   array (
     'id' => 38691,
     'name' => 'Semera',
@@ -964,7 +955,7 @@ return array (
     'latitude' => 11.79342,
     'longitude' => 41.00578,
   ),
-  107 => 
+  106 => 
   array (
     'id' => 38692,
     'name' => 'Sendafa',
@@ -973,7 +964,7 @@ return array (
     'latitude' => 9.15203,
     'longitude' => 39.02335,
   ),
-  108 => 
+  107 => 
   array (
     'id' => 38693,
     'name' => 'Shakiso',
@@ -982,7 +973,7 @@ return array (
     'latitude' => 5.76494,
     'longitude' => 38.91006,
   ),
-  109 => 
+  108 => 
   array (
     'id' => 38694,
     'name' => 'Shambu',
@@ -991,7 +982,7 @@ return array (
     'latitude' => 9.56667,
     'longitude' => 37.1,
   ),
-  110 => 
+  109 => 
   array (
     'id' => 38695,
     'name' => 'Shashemenē',
@@ -1000,7 +991,7 @@ return array (
     'latitude' => 7.2,
     'longitude' => 38.6,
   ),
-  111 => 
+  110 => 
   array (
     'id' => 38696,
     'name' => 'Sheka Zone',
@@ -1009,7 +1000,7 @@ return array (
     'latitude' => 7.56166,
     'longitude' => 35.40174,
   ),
-  112 => 
+  111 => 
   array (
     'id' => 38697,
     'name' => 'Shinile Zone',
@@ -1018,7 +1009,7 @@ return array (
     'latitude' => 10.17097,
     'longitude' => 41.83748,
   ),
-  113 => 
+  112 => 
   array (
     'id' => 38698,
     'name' => 'Sidama Zone',
@@ -1027,7 +1018,7 @@ return array (
     'latitude' => 6.718,
     'longitude' => 38.448,
   ),
-  114 => 
+  113 => 
   array (
     'id' => 38699,
     'name' => 'Sirre',
@@ -1036,7 +1027,7 @@ return array (
     'latitude' => 8.31667,
     'longitude' => 39.48333,
   ),
-  115 => 
+  114 => 
   array (
     'id' => 38700,
     'name' => 'Sodo',
@@ -1045,7 +1036,7 @@ return array (
     'latitude' => 6.86,
     'longitude' => 37.76159,
   ),
-  116 => 
+  115 => 
   array (
     'id' => 38701,
     'name' => 'South Gondar Zone',
@@ -1054,7 +1045,7 @@ return array (
     'latitude' => 11.8385,
     'longitude' => 38.09954,
   ),
-  117 => 
+  116 => 
   array (
     'id' => 38702,
     'name' => 'South Wollo Zone',
@@ -1063,7 +1054,7 @@ return array (
     'latitude' => 11.0,
     'longitude' => 39.25,
   ),
-  118 => 
+  117 => 
   array (
     'id' => 38703,
     'name' => 'Southeastern Tigray Zone',
@@ -1072,7 +1063,7 @@ return array (
     'latitude' => 13.24797,
     'longitude' => 39.53156,
   ),
-  119 => 
+  118 => 
   array (
     'id' => 38704,
     'name' => 'Southern Tigray Zone',
@@ -1081,7 +1072,7 @@ return array (
     'latitude' => 12.96033,
     'longitude' => 39.52831,
   ),
-  120 => 
+  119 => 
   array (
     'id' => 38705,
     'name' => 'Tippi',
@@ -1090,7 +1081,7 @@ return array (
     'latitude' => 7.2,
     'longitude' => 35.45,
   ),
-  121 => 
+  120 => 
   array (
     'id' => 38706,
     'name' => 'Tulu Bolo',
@@ -1099,7 +1090,7 @@ return array (
     'latitude' => 8.66667,
     'longitude' => 38.21667,
   ),
-  122 => 
+  121 => 
   array (
     'id' => 38707,
     'name' => 'Turmi',
@@ -1108,7 +1099,7 @@ return array (
     'latitude' => 4.96667,
     'longitude' => 36.48333,
   ),
-  123 => 
+  122 => 
   array (
     'id' => 38708,
     'name' => 'Wag Hemra Zone',
@@ -1117,7 +1108,7 @@ return array (
     'latitude' => 12.765,
     'longitude' => 38.843,
   ),
-  124 => 
+  123 => 
   array (
     'id' => 38709,
     'name' => 'Waliso',
@@ -1126,7 +1117,7 @@ return array (
     'latitude' => 8.53417,
     'longitude' => 37.96515,
   ),
-  125 => 
+  124 => 
   array (
     'id' => 38710,
     'name' => 'Wendo',
@@ -1135,7 +1126,7 @@ return array (
     'latitude' => 6.6,
     'longitude' => 38.41667,
   ),
-  126 => 
+  125 => 
   array (
     'id' => 38711,
     'name' => 'Wenjī',
@@ -1144,7 +1135,7 @@ return array (
     'latitude' => 8.45,
     'longitude' => 39.28333,
   ),
-  127 => 
+  126 => 
   array (
     'id' => 38712,
     'name' => 'Were Īlu',
@@ -1153,7 +1144,7 @@ return array (
     'latitude' => 10.58964,
     'longitude' => 39.43767,
   ),
-  128 => 
+  127 => 
   array (
     'id' => 38713,
     'name' => 'Werota',
@@ -1162,7 +1153,7 @@ return array (
     'latitude' => 11.91667,
     'longitude' => 37.7,
   ),
-  129 => 
+  128 => 
   array (
     'id' => 38714,
     'name' => 'West Harerghe Zone',
@@ -1171,7 +1162,7 @@ return array (
     'latitude' => 8.67245,
     'longitude' => 40.84885,
   ),
-  130 => 
+  129 => 
   array (
     'id' => 38715,
     'name' => 'West Wellega Zone',
@@ -1180,7 +1171,7 @@ return array (
     'latitude' => 9.17283,
     'longitude' => 35.05279,
   ),
-  131 => 
+  130 => 
   array (
     'id' => 38716,
     'name' => 'Wolayita Zone',
@@ -1189,7 +1180,7 @@ return array (
     'latitude' => 6.84312,
     'longitude' => 37.70051,
   ),
-  132 => 
+  131 => 
   array (
     'id' => 38717,
     'name' => 'Yabēlo',
@@ -1198,7 +1189,7 @@ return array (
     'latitude' => 4.88333,
     'longitude' => 38.08333,
   ),
-  133 => 
+  132 => 
   array (
     'id' => 38718,
     'name' => 'Yem',
@@ -1207,7 +1198,7 @@ return array (
     'latitude' => 7.83333,
     'longitude' => 37.5,
   ),
-  134 => 
+  133 => 
   array (
     'id' => 38719,
     'name' => 'Yirga ‘Alem',
@@ -1216,7 +1207,7 @@ return array (
     'latitude' => 6.75,
     'longitude' => 38.41667,
   ),
-  135 => 
+  134 => 
   array (
     'id' => 38720,
     'name' => 'Ziway',
@@ -1225,7 +1216,7 @@ return array (
     'latitude' => 7.93333,
     'longitude' => 38.71667,
   ),
-  136 => 
+  135 => 
   array (
     'id' => 38721,
     'name' => 'Ādīgrat',
@@ -1234,7 +1225,7 @@ return array (
     'latitude' => 14.277,
     'longitude' => 39.462,
   ),
-  137 => 
+  136 => 
   array (
     'id' => 38722,
     'name' => 'Ādīs Zemen',
@@ -1243,7 +1234,7 @@ return array (
     'latitude' => 12.11667,
     'longitude' => 37.78333,
   ),
-  138 => 
+  137 => 
   array (
     'id' => 38723,
     'name' => 'Ādīs ‘Alem',
@@ -1252,7 +1243,7 @@ return array (
     'latitude' => 9.03333,
     'longitude' => 38.4,
   ),
-  139 => 
+  138 => 
   array (
     'id' => 38724,
     'name' => 'Āgaro',
@@ -1261,7 +1252,7 @@ return array (
     'latitude' => 7.85,
     'longitude' => 36.65,
   ),
-  140 => 
+  139 => 
   array (
     'id' => 38725,
     'name' => 'Āreka',
@@ -1270,7 +1261,7 @@ return array (
     'latitude' => 7.06667,
     'longitude' => 37.7,
   ),
-  141 => 
+  140 => 
   array (
     'id' => 38726,
     'name' => 'Āsasa',
@@ -1279,7 +1270,7 @@ return array (
     'latitude' => 7.1,
     'longitude' => 39.2,
   ),
-  142 => 
+  141 => 
   array (
     'id' => 38727,
     'name' => 'Āsbe Teferī',
@@ -1288,7 +1279,7 @@ return array (
     'latitude' => 9.08569,
     'longitude' => 40.86708,
   ),
-  143 => 
+  142 => 
   array (
     'id' => 38729,
     'name' => 'Āwash',

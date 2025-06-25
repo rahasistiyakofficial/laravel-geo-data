@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -111,15 +111,6 @@ return array (
   ),
   12 => 
   array (
-    'id' => 103000,
-    'name' => 'Anderstorp',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 58.88333,
-    'longitude' => 14.28333,
-  ),
-  13 => 
-  array (
     'id' => 103001,
     'name' => 'Aneby',
     'country_id' => 213,
@@ -127,7 +118,7 @@ return array (
     'latitude' => 57.83895,
     'longitude' => 14.81016,
   ),
-  14 => 
+  13 => 
   array (
     'id' => 103003,
     'name' => 'Angered',
@@ -136,7 +127,7 @@ return array (
     'latitude' => 57.78628,
     'longitude' => 12.09852,
   ),
-  15 => 
+  14 => 
   array (
     'id' => 103004,
     'name' => 'Ankarsrum',
@@ -145,7 +136,7 @@ return array (
     'latitude' => 57.69896,
     'longitude' => 16.33407,
   ),
-  16 => 
+  15 => 
   array (
     'id' => 103005,
     'name' => 'Anneberg',
@@ -154,7 +145,7 @@ return array (
     'latitude' => 60.24167,
     'longitude' => 18.41667,
   ),
-  17 => 
+  16 => 
   array (
     'id' => 103006,
     'name' => 'Annelund',
@@ -163,7 +154,7 @@ return array (
     'latitude' => 57.98843,
     'longitude' => 13.07483,
   ),
-  18 => 
+  17 => 
   array (
     'id' => 103007,
     'name' => 'Arboga',
@@ -172,7 +163,7 @@ return array (
     'latitude' => 59.39387,
     'longitude' => 15.83882,
   ),
-  19 => 
+  18 => 
   array (
     'id' => 103009,
     'name' => 'Arbrå',
@@ -181,7 +172,7 @@ return array (
     'latitude' => 61.46667,
     'longitude' => 16.38333,
   ),
-  20 => 
+  19 => 
   array (
     'id' => 103010,
     'name' => 'Arjeplog',
@@ -190,7 +181,7 @@ return array (
     'latitude' => 66.05173,
     'longitude' => 17.88606,
   ),
-  21 => 
+  20 => 
   array (
     'id' => 103012,
     'name' => 'Arlöv',
@@ -199,7 +190,7 @@ return array (
     'latitude' => 55.63248,
     'longitude' => 13.07141,
   ),
-  22 => 
+  21 => 
   array (
     'id' => 103013,
     'name' => 'Arnö',
@@ -208,16 +199,7 @@ return array (
     'latitude' => 58.72675,
     'longitude' => 17.02322,
   ),
-  23 => 
-  array (
-    'id' => 103014,
-    'name' => 'Arnö',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 60.11667,
-    'longitude' => 18.63333,
-  ),
-  24 => 
+  22 => 
   array (
     'id' => 103015,
     'name' => 'Arvidsjaur',
@@ -226,7 +208,7 @@ return array (
     'latitude' => 65.59033,
     'longitude' => 19.16682,
   ),
-  25 => 
+  23 => 
   array (
     'id' => 103017,
     'name' => 'Arvika',
@@ -235,7 +217,7 @@ return array (
     'latitude' => 59.65528,
     'longitude' => 12.58518,
   ),
-  26 => 
+  24 => 
   array (
     'id' => 103019,
     'name' => 'Askersund',
@@ -244,7 +226,7 @@ return array (
     'latitude' => 58.87988,
     'longitude' => 14.9023,
   ),
-  27 => 
+  25 => 
   array (
     'id' => 103021,
     'name' => 'Asmundtorp',
@@ -253,7 +235,7 @@ return array (
     'latitude' => 55.88333,
     'longitude' => 12.93333,
   ),
-  28 => 
+  26 => 
   array (
     'id' => 103022,
     'name' => 'Avesta',
@@ -262,7 +244,7 @@ return array (
     'latitude' => 60.14274,
     'longitude' => 16.16295,
   ),
-  29 => 
+  27 => 
   array (
     'id' => 103024,
     'name' => 'Axvall',
@@ -271,7 +253,7 @@ return array (
     'latitude' => 58.38333,
     'longitude' => 13.56667,
   ),
-  30 => 
+  28 => 
   array (
     'id' => 103025,
     'name' => 'Backa',
@@ -280,7 +262,7 @@ return array (
     'latitude' => 64.98333,
     'longitude' => 21.06667,
   ),
-  31 => 
+  29 => 
   array (
     'id' => 103026,
     'name' => 'Bankeryd',
@@ -289,7 +271,7 @@ return array (
     'latitude' => 57.86021,
     'longitude' => 14.124,
   ),
-  32 => 
+  30 => 
   array (
     'id' => 103027,
     'name' => 'Bara',
@@ -298,16 +280,7 @@ return array (
     'latitude' => 58.68333,
     'longitude' => 17.06667,
   ),
-  33 => 
-  array (
-    'id' => 103028,
-    'name' => 'Bara',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 55.58155,
-    'longitude' => 13.17862,
-  ),
-  34 => 
+  31 => 
   array (
     'id' => 103029,
     'name' => 'Barkarö',
@@ -316,7 +289,7 @@ return array (
     'latitude' => 59.54935,
     'longitude' => 16.5074,
   ),
-  35 => 
+  32 => 
   array (
     'id' => 103030,
     'name' => 'Bengtsfors',
@@ -325,7 +298,7 @@ return array (
     'latitude' => 59.02912,
     'longitude' => 12.23207,
   ),
-  36 => 
+  33 => 
   array (
     'id' => 103032,
     'name' => 'Berg',
@@ -334,7 +307,7 @@ return array (
     'latitude' => 58.48831,
     'longitude' => 15.52969,
   ),
-  37 => 
+  34 => 
   array (
     'id' => 103033,
     'name' => 'Bergby',
@@ -343,7 +316,7 @@ return array (
     'latitude' => 60.92931,
     'longitude' => 17.04194,
   ),
-  38 => 
+  35 => 
   array (
     'id' => 103034,
     'name' => 'Bergeforsen',
@@ -352,7 +325,7 @@ return array (
     'latitude' => 62.53074,
     'longitude' => 17.38123,
   ),
-  39 => 
+  36 => 
   array (
     'id' => 103035,
     'name' => 'Bergkvara',
@@ -361,7 +334,7 @@ return array (
     'latitude' => 56.39063,
     'longitude' => 16.07274,
   ),
-  40 => 
+  37 => 
   array (
     'id' => 103036,
     'name' => 'Bergnäset',
@@ -370,7 +343,7 @@ return array (
     'latitude' => 65.57791,
     'longitude' => 22.10844,
   ),
-  41 => 
+  38 => 
   array (
     'id' => 103037,
     'name' => 'Bergshamra',
@@ -379,7 +352,7 @@ return array (
     'latitude' => 59.38083,
     'longitude' => 18.03427,
   ),
-  42 => 
+  39 => 
   array (
     'id' => 103038,
     'name' => 'Bergsjö',
@@ -388,7 +361,7 @@ return array (
     'latitude' => 61.98253,
     'longitude' => 17.06368,
   ),
-  43 => 
+  40 => 
   array (
     'id' => 103039,
     'name' => 'Bergsviken',
@@ -397,7 +370,7 @@ return array (
     'latitude' => 65.3,
     'longitude' => 21.38333,
   ),
-  44 => 
+  41 => 
   array (
     'id' => 103040,
     'name' => 'Billdal',
@@ -406,7 +379,7 @@ return array (
     'latitude' => 57.56667,
     'longitude' => 11.93333,
   ),
-  45 => 
+  42 => 
   array (
     'id' => 103041,
     'name' => 'Billeberga',
@@ -415,7 +388,7 @@ return array (
     'latitude' => 55.88333,
     'longitude' => 13.0,
   ),
-  46 => 
+  43 => 
   array (
     'id' => 103042,
     'name' => 'Billesholm',
@@ -424,7 +397,7 @@ return array (
     'latitude' => 56.05,
     'longitude' => 13.0,
   ),
-  47 => 
+  44 => 
   array (
     'id' => 103043,
     'name' => 'Billingsfors',
@@ -433,7 +406,7 @@ return array (
     'latitude' => 58.98333,
     'longitude' => 12.25,
   ),
-  48 => 
+  45 => 
   array (
     'id' => 103044,
     'name' => 'Bjurholm',
@@ -442,7 +415,7 @@ return array (
     'latitude' => 63.93027,
     'longitude' => 19.21369,
   ),
-  49 => 
+  46 => 
   array (
     'id' => 103046,
     'name' => 'Bjursås',
@@ -451,7 +424,7 @@ return array (
     'latitude' => 60.73726,
     'longitude' => 15.45291,
   ),
-  50 => 
+  47 => 
   array (
     'id' => 103047,
     'name' => 'Bjuv',
@@ -460,7 +433,7 @@ return array (
     'latitude' => 56.08372,
     'longitude' => 12.91914,
   ),
-  51 => 
+  48 => 
   array (
     'id' => 103049,
     'name' => 'Bjärnum',
@@ -469,7 +442,7 @@ return array (
     'latitude' => 56.29032,
     'longitude' => 13.71128,
   ),
-  52 => 
+  49 => 
   array (
     'id' => 103050,
     'name' => 'Bjärred',
@@ -478,7 +451,7 @@ return array (
     'latitude' => 55.71667,
     'longitude' => 13.01667,
   ),
-  53 => 
+  50 => 
   array (
     'id' => 103051,
     'name' => 'Bjästa',
@@ -487,7 +460,7 @@ return array (
     'latitude' => 63.2,
     'longitude' => 18.5,
   ),
-  54 => 
+  51 => 
   array (
     'id' => 103052,
     'name' => 'Björboholm',
@@ -496,7 +469,7 @@ return array (
     'latitude' => 57.87096,
     'longitude' => 12.32546,
   ),
-  55 => 
+  52 => 
   array (
     'id' => 103053,
     'name' => 'Björklinge',
@@ -505,7 +478,7 @@ return array (
     'latitude' => 60.03004,
     'longitude' => 17.55203,
   ),
-  56 => 
+  53 => 
   array (
     'id' => 103054,
     'name' => 'Björkskatan',
@@ -514,7 +487,7 @@ return array (
     'latitude' => 65.61373,
     'longitude' => 22.17702,
   ),
-  57 => 
+  54 => 
   array (
     'id' => 103055,
     'name' => 'Björkö',
@@ -523,7 +496,7 @@ return array (
     'latitude' => 57.73221,
     'longitude' => 11.67916,
   ),
-  58 => 
+  55 => 
   array (
     'id' => 103056,
     'name' => 'Björlanda',
@@ -532,7 +505,7 @@ return array (
     'latitude' => 57.76667,
     'longitude' => 11.83333,
   ),
-  59 => 
+  56 => 
   array (
     'id' => 103057,
     'name' => 'Björneborg',
@@ -541,7 +514,7 @@ return array (
     'latitude' => 59.24122,
     'longitude' => 14.24942,
   ),
-  60 => 
+  57 => 
   array (
     'id' => 103058,
     'name' => 'Blentarp',
@@ -550,7 +523,7 @@ return array (
     'latitude' => 55.58333,
     'longitude' => 13.6,
   ),
-  61 => 
+  58 => 
   array (
     'id' => 103059,
     'name' => 'Blomstermåla',
@@ -559,7 +532,7 @@ return array (
     'latitude' => 56.98333,
     'longitude' => 16.33333,
   ),
-  62 => 
+  59 => 
   array (
     'id' => 103060,
     'name' => 'Bodafors',
@@ -568,7 +541,7 @@ return array (
     'latitude' => 57.5,
     'longitude' => 14.7,
   ),
-  63 => 
+  60 => 
   array (
     'id' => 103061,
     'name' => 'Boden',
@@ -577,7 +550,7 @@ return array (
     'latitude' => 65.82518,
     'longitude' => 21.68864,
   ),
-  64 => 
+  61 => 
   array (
     'id' => 103063,
     'name' => 'Boliden',
@@ -586,7 +559,7 @@ return array (
     'latitude' => 64.86667,
     'longitude' => 20.38333,
   ),
-  65 => 
+  62 => 
   array (
     'id' => 103064,
     'name' => 'Bollebygd',
@@ -595,7 +568,7 @@ return array (
     'latitude' => 57.66866,
     'longitude' => 12.57272,
   ),
-  66 => 
+  63 => 
   array (
     'id' => 103066,
     'name' => 'Bollmora',
@@ -604,7 +577,7 @@ return array (
     'latitude' => 59.24196,
     'longitude' => 18.22762,
   ),
-  67 => 
+  64 => 
   array (
     'id' => 103067,
     'name' => 'Bollnäs',
@@ -613,7 +586,7 @@ return array (
     'latitude' => 61.34817,
     'longitude' => 16.39464,
   ),
-  68 => 
+  65 => 
   array (
     'id' => 103069,
     'name' => 'Bollstabruk',
@@ -622,7 +595,7 @@ return array (
     'latitude' => 62.99777,
     'longitude' => 17.67348,
   ),
-  69 => 
+  66 => 
   array (
     'id' => 103070,
     'name' => 'Boo',
@@ -631,7 +604,7 @@ return array (
     'latitude' => 59.33333,
     'longitude' => 18.28333,
   ),
-  70 => 
+  67 => 
   array (
     'id' => 103071,
     'name' => 'Bor',
@@ -640,7 +613,7 @@ return array (
     'latitude' => 57.11667,
     'longitude' => 14.16667,
   ),
-  71 => 
+  68 => 
   array (
     'id' => 103072,
     'name' => 'Borensberg',
@@ -649,7 +622,7 @@ return array (
     'latitude' => 58.56667,
     'longitude' => 15.28333,
   ),
-  72 => 
+  69 => 
   array (
     'id' => 103073,
     'name' => 'Borgholm',
@@ -658,7 +631,7 @@ return array (
     'latitude' => 56.8793,
     'longitude' => 16.65634,
   ),
-  73 => 
+  70 => 
   array (
     'id' => 103075,
     'name' => 'Borlänge',
@@ -667,7 +640,7 @@ return array (
     'latitude' => 60.4858,
     'longitude' => 15.43714,
   ),
-  74 => 
+  71 => 
   array (
     'id' => 103077,
     'name' => 'Borås',
@@ -676,7 +649,7 @@ return array (
     'latitude' => 57.73783,
     'longitude' => 12.94076,
   ),
-  75 => 
+  72 => 
   array (
     'id' => 103079,
     'name' => 'Boxholm',
@@ -685,7 +658,7 @@ return array (
     'latitude' => 58.19719,
     'longitude' => 15.05376,
   ),
-  76 => 
+  73 => 
   array (
     'id' => 103081,
     'name' => 'Brastad',
@@ -694,7 +667,7 @@ return array (
     'latitude' => 58.38333,
     'longitude' => 11.48333,
   ),
-  77 => 
+  74 => 
   array (
     'id' => 103082,
     'name' => 'Braås',
@@ -703,7 +676,7 @@ return array (
     'latitude' => 57.06667,
     'longitude' => 15.05,
   ),
-  78 => 
+  75 => 
   array (
     'id' => 103083,
     'name' => 'Bredaryd',
@@ -712,7 +685,7 @@ return array (
     'latitude' => 57.17343,
     'longitude' => 13.73789,
   ),
-  79 => 
+  76 => 
   array (
     'id' => 103084,
     'name' => 'Bredbyn',
@@ -721,7 +694,7 @@ return array (
     'latitude' => 63.44655,
     'longitude' => 18.11019,
   ),
-  80 => 
+  77 => 
   array (
     'id' => 103085,
     'name' => 'Brevik',
@@ -730,7 +703,7 @@ return array (
     'latitude' => 59.35,
     'longitude' => 18.2,
   ),
-  81 => 
+  78 => 
   array (
     'id' => 103086,
     'name' => 'Bro',
@@ -739,7 +712,7 @@ return array (
     'latitude' => 59.51667,
     'longitude' => 17.63333,
   ),
-  82 => 
+  79 => 
   array (
     'id' => 103087,
     'name' => 'Broby',
@@ -748,7 +721,7 @@ return array (
     'latitude' => 56.25521,
     'longitude' => 14.07797,
   ),
-  83 => 
+  80 => 
   array (
     'id' => 103088,
     'name' => 'Bromma',
@@ -757,7 +730,7 @@ return array (
     'latitude' => 59.34,
     'longitude' => 17.94,
   ),
-  84 => 
+  81 => 
   array (
     'id' => 103089,
     'name' => 'Bromölla',
@@ -766,7 +739,7 @@ return array (
     'latitude' => 56.07551,
     'longitude' => 14.46958,
   ),
-  85 => 
+  82 => 
   array (
     'id' => 103091,
     'name' => 'Brunn',
@@ -775,7 +748,7 @@ return array (
     'latitude' => 59.28,
     'longitude' => 18.43,
   ),
-  86 => 
+  83 => 
   array (
     'id' => 103092,
     'name' => 'Brunna',
@@ -784,16 +757,7 @@ return array (
     'latitude' => 59.51667,
     'longitude' => 17.75,
   ),
-  87 => 
-  array (
-    'id' => 103093,
-    'name' => 'Brunna',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 60.26255,
-    'longitude' => 16.01034,
-  ),
-  88 => 
+  84 => 
   array (
     'id' => 103094,
     'name' => 'Bräkne-Hoby',
@@ -802,7 +766,7 @@ return array (
     'latitude' => 56.23333,
     'longitude' => 15.11667,
   ),
-  89 => 
+  85 => 
   array (
     'id' => 103095,
     'name' => 'Brålanda',
@@ -811,7 +775,7 @@ return array (
     'latitude' => 58.56344,
     'longitude' => 12.34923,
   ),
-  90 => 
+  86 => 
   array (
     'id' => 103096,
     'name' => 'Bua',
@@ -820,7 +784,7 @@ return array (
     'latitude' => 57.2378,
     'longitude' => 12.12187,
   ),
-  91 => 
+  87 => 
   array (
     'id' => 103097,
     'name' => 'Bunkeflostrand',
@@ -829,7 +793,7 @@ return array (
     'latitude' => 55.54478,
     'longitude' => 12.92375,
   ),
-  92 => 
+  88 => 
   array (
     'id' => 103098,
     'name' => 'Bureå',
@@ -838,7 +802,7 @@ return array (
     'latitude' => 64.61667,
     'longitude' => 21.2,
   ),
-  93 => 
+  89 => 
   array (
     'id' => 103100,
     'name' => 'Burträsk',
@@ -847,7 +811,7 @@ return array (
     'latitude' => 64.51667,
     'longitude' => 20.65,
   ),
-  94 => 
+  90 => 
   array (
     'id' => 103101,
     'name' => 'Byske',
@@ -856,7 +820,7 @@ return array (
     'latitude' => 64.95258,
     'longitude' => 21.2058,
   ),
-  95 => 
+  91 => 
   array (
     'id' => 103102,
     'name' => 'Bälinge',
@@ -865,7 +829,7 @@ return array (
     'latitude' => 59.95,
     'longitude' => 17.53333,
   ),
-  96 => 
+  92 => 
   array (
     'id' => 103103,
     'name' => 'Bålsta',
@@ -874,7 +838,7 @@ return array (
     'latitude' => 59.5671,
     'longitude' => 17.52781,
   ),
-  97 => 
+  93 => 
   array (
     'id' => 103104,
     'name' => 'Bårslöv',
@@ -883,7 +847,7 @@ return array (
     'latitude' => 56.0091,
     'longitude' => 12.8058,
   ),
-  98 => 
+  94 => 
   array (
     'id' => 103105,
     'name' => 'Båstad',
@@ -892,7 +856,7 @@ return array (
     'latitude' => 56.42689,
     'longitude' => 12.85339,
   ),
-  99 => 
+  95 => 
   array (
     'id' => 103107,
     'name' => 'Charlottenberg',
@@ -901,7 +865,7 @@ return array (
     'latitude' => 59.88422,
     'longitude' => 12.30398,
   ),
-  100 => 
+  96 => 
   array (
     'id' => 103108,
     'name' => 'Dalarö',
@@ -910,7 +874,7 @@ return array (
     'latitude' => 59.13306,
     'longitude' => 18.40639,
   ),
-  101 => 
+  97 => 
   array (
     'id' => 103109,
     'name' => 'Dalby',
@@ -919,7 +883,7 @@ return array (
     'latitude' => 55.66655,
     'longitude' => 13.34976,
   ),
-  102 => 
+  98 => 
   array (
     'id' => 103110,
     'name' => 'Dals Långed',
@@ -928,7 +892,7 @@ return array (
     'latitude' => 58.92555,
     'longitude' => 12.30865,
   ),
-  103 => 
+  99 => 
   array (
     'id' => 103112,
     'name' => 'Dalsjöfors',
@@ -937,7 +901,7 @@ return array (
     'latitude' => 57.71667,
     'longitude' => 13.08333,
   ),
-  104 => 
+  100 => 
   array (
     'id' => 103114,
     'name' => 'Degeberga',
@@ -946,7 +910,7 @@ return array (
     'latitude' => 55.83333,
     'longitude' => 14.08333,
   ),
-  105 => 
+  101 => 
   array (
     'id' => 103115,
     'name' => 'Degerfors',
@@ -955,7 +919,7 @@ return array (
     'latitude' => 59.23797,
     'longitude' => 14.43077,
   ),
-  106 => 
+  102 => 
   array (
     'id' => 103117,
     'name' => 'Deje',
@@ -964,7 +928,7 @@ return array (
     'latitude' => 59.603,
     'longitude' => 13.472,
   ),
-  107 => 
+  103 => 
   array (
     'id' => 103118,
     'name' => 'Delsbo',
@@ -973,7 +937,7 @@ return array (
     'latitude' => 61.80104,
     'longitude' => 16.55571,
   ),
-  108 => 
+  104 => 
   array (
     'id' => 103119,
     'name' => 'Dingtuna',
@@ -982,7 +946,7 @@ return array (
     'latitude' => 59.57279,
     'longitude' => 16.38722,
   ),
-  109 => 
+  105 => 
   array (
     'id' => 103120,
     'name' => 'Diseröd',
@@ -991,7 +955,7 @@ return array (
     'latitude' => 57.92636,
     'longitude' => 12.02598,
   ),
-  110 => 
+  106 => 
   array (
     'id' => 103121,
     'name' => 'Djursholm',
@@ -1000,7 +964,7 @@ return array (
     'latitude' => 59.39926,
     'longitude' => 18.05619,
   ),
-  111 => 
+  107 => 
   array (
     'id' => 103122,
     'name' => 'Djurås',
@@ -1009,7 +973,7 @@ return array (
     'latitude' => 60.56061,
     'longitude' => 15.13281,
   ),
-  112 => 
+  108 => 
   array (
     'id' => 103123,
     'name' => 'Djurö',
@@ -1018,7 +982,7 @@ return array (
     'latitude' => 59.32653,
     'longitude' => 18.71152,
   ),
-  113 => 
+  109 => 
   array (
     'id' => 103124,
     'name' => 'Donsö',
@@ -1027,7 +991,7 @@ return array (
     'latitude' => 57.6,
     'longitude' => 11.79917,
   ),
-  114 => 
+  110 => 
   array (
     'id' => 103125,
     'name' => 'Dorotea',
@@ -1036,7 +1000,7 @@ return array (
     'latitude' => 64.26185,
     'longitude' => 16.41306,
   ),
-  115 => 
+  111 => 
   array (
     'id' => 103127,
     'name' => 'Ed',
@@ -1045,7 +1009,7 @@ return array (
     'latitude' => 58.91247,
     'longitude' => 11.93308,
   ),
-  116 => 
+  112 => 
   array (
     'id' => 103129,
     'name' => 'Edsbyn',
@@ -1054,7 +1018,7 @@ return array (
     'latitude' => 61.37692,
     'longitude' => 15.81747,
   ),
-  117 => 
+  113 => 
   array (
     'id' => 103130,
     'name' => 'Ekeby',
@@ -1063,7 +1027,7 @@ return array (
     'latitude' => 56.0,
     'longitude' => 12.96667,
   ),
-  118 => 
+  114 => 
   array (
     'id' => 103131,
     'name' => 'Ekeby-Almby',
@@ -1072,7 +1036,7 @@ return array (
     'latitude' => 59.26,
     'longitude' => 15.33,
   ),
-  119 => 
+  115 => 
   array (
     'id' => 103132,
     'name' => 'Ekenässjön',
@@ -1081,7 +1045,7 @@ return array (
     'latitude' => 57.49175,
     'longitude' => 15.02226,
   ),
-  120 => 
+  116 => 
   array (
     'id' => 103133,
     'name' => 'Ekerö',
@@ -1090,7 +1054,7 @@ return array (
     'latitude' => 59.291,
     'longitude' => 17.81212,
   ),
-  121 => 
+  117 => 
   array (
     'id' => 103135,
     'name' => 'Ekshärad',
@@ -1099,7 +1063,7 @@ return array (
     'latitude' => 60.17275,
     'longitude' => 13.49647,
   ),
-  122 => 
+  118 => 
   array (
     'id' => 103136,
     'name' => 'Eksjö',
@@ -1108,7 +1072,7 @@ return array (
     'latitude' => 57.66643,
     'longitude' => 14.97205,
   ),
-  123 => 
+  119 => 
   array (
     'id' => 103138,
     'name' => 'Ekängen',
@@ -1117,7 +1081,7 @@ return array (
     'latitude' => 58.46667,
     'longitude' => 15.63333,
   ),
-  124 => 
+  120 => 
   array (
     'id' => 103139,
     'name' => 'Ellös',
@@ -1126,7 +1090,7 @@ return array (
     'latitude' => 58.18333,
     'longitude' => 11.46667,
   ),
-  125 => 
+  121 => 
   array (
     'id' => 103140,
     'name' => 'Emmaboda',
@@ -1135,7 +1099,7 @@ return array (
     'latitude' => 56.63268,
     'longitude' => 15.53648,
   ),
-  126 => 
+  122 => 
   array (
     'id' => 103142,
     'name' => 'Enbacka',
@@ -1144,7 +1108,7 @@ return array (
     'latitude' => 60.40993,
     'longitude' => 15.59575,
   ),
-  127 => 
+  123 => 
   array (
     'id' => 103143,
     'name' => 'Enebyberg',
@@ -1153,7 +1117,7 @@ return array (
     'latitude' => 59.43333,
     'longitude' => 18.05,
   ),
-  128 => 
+  124 => 
   array (
     'id' => 103144,
     'name' => 'Enhagen-Ekbacken',
@@ -1162,7 +1126,7 @@ return array (
     'latitude' => 59.56543,
     'longitude' => 16.53045,
   ),
-  129 => 
+  125 => 
   array (
     'id' => 103145,
     'name' => 'Enköping',
@@ -1171,7 +1135,7 @@ return array (
     'latitude' => 59.63607,
     'longitude' => 17.07768,
   ),
-  130 => 
+  126 => 
   array (
     'id' => 103147,
     'name' => 'Eriksberg',
@@ -1180,7 +1144,7 @@ return array (
     'latitude' => 59.24241,
     'longitude' => 17.81631,
   ),
-  131 => 
+  127 => 
   array (
     'id' => 103148,
     'name' => 'Eriksbo',
@@ -1189,7 +1153,7 @@ return array (
     'latitude' => 57.77141,
     'longitude' => 12.04183,
   ),
-  132 => 
+  128 => 
   array (
     'id' => 103149,
     'name' => 'Ersmark',
@@ -1198,7 +1162,7 @@ return array (
     'latitude' => 63.88333,
     'longitude' => 20.31667,
   ),
-  133 => 
+  129 => 
   array (
     'id' => 103150,
     'name' => 'Eskilstuna',
@@ -1207,7 +1171,7 @@ return array (
     'latitude' => 59.36661,
     'longitude' => 16.5077,
   ),
-  134 => 
+  130 => 
   array (
     'id' => 103152,
     'name' => 'Eslöv',
@@ -1216,7 +1180,7 @@ return array (
     'latitude' => 55.83928,
     'longitude' => 13.30393,
   ),
-  135 => 
+  131 => 
   array (
     'id' => 103155,
     'name' => 'Fagersta',
@@ -1225,7 +1189,7 @@ return array (
     'latitude' => 60.00418,
     'longitude' => 15.79316,
   ),
-  136 => 
+  132 => 
   array (
     'id' => 103157,
     'name' => 'Falkenberg',
@@ -1234,7 +1198,7 @@ return array (
     'latitude' => 56.90552,
     'longitude' => 12.49118,
   ),
-  137 => 
+  133 => 
   array (
     'id' => 103159,
     'name' => 'Falköping',
@@ -1243,7 +1207,7 @@ return array (
     'latitude' => 58.17347,
     'longitude' => 13.55068,
   ),
-  138 => 
+  134 => 
   array (
     'id' => 103162,
     'name' => 'Falun',
@@ -1252,7 +1216,7 @@ return array (
     'latitude' => 60.60357,
     'longitude' => 15.62597,
   ),
-  139 => 
+  135 => 
   array (
     'id' => 103163,
     'name' => 'Fellingsbro',
@@ -1261,7 +1225,7 @@ return array (
     'latitude' => 59.43333,
     'longitude' => 15.58333,
   ),
-  140 => 
+  136 => 
   array (
     'id' => 103164,
     'name' => 'Filipstad',
@@ -1270,7 +1234,7 @@ return array (
     'latitude' => 59.71236,
     'longitude' => 14.16831,
   ),
-  141 => 
+  137 => 
   array (
     'id' => 103166,
     'name' => 'Finspång',
@@ -1279,7 +1243,7 @@ return array (
     'latitude' => 58.70578,
     'longitude' => 15.76739,
   ),
-  142 => 
+  138 => 
   array (
     'id' => 103168,
     'name' => 'Fisksätra',
@@ -1288,7 +1252,7 @@ return array (
     'latitude' => 59.29153,
     'longitude' => 18.2549,
   ),
-  143 => 
+  139 => 
   array (
     'id' => 103169,
     'name' => 'Fittja',
@@ -1297,7 +1261,7 @@ return array (
     'latitude' => 59.24868,
     'longitude' => 17.85991,
   ),
-  144 => 
+  140 => 
   array (
     'id' => 103170,
     'name' => 'Fjugesta',
@@ -1306,7 +1270,7 @@ return array (
     'latitude' => 59.17375,
     'longitude' => 14.87227,
   ),
-  145 => 
+  141 => 
   array (
     'id' => 103171,
     'name' => 'Fjälkinge',
@@ -1315,7 +1279,7 @@ return array (
     'latitude' => 56.04364,
     'longitude' => 14.27562,
   ),
-  146 => 
+  142 => 
   array (
     'id' => 103172,
     'name' => 'Fjärås kyrkby',
@@ -1324,7 +1288,7 @@ return array (
     'latitude' => 57.45913,
     'longitude' => 12.17508,
   ),
-  147 => 
+  143 => 
   array (
     'id' => 103173,
     'name' => 'Flen',
@@ -1333,7 +1297,7 @@ return array (
     'latitude' => 59.05834,
     'longitude' => 16.58781,
   ),
-  148 => 
+  144 => 
   array (
     'id' => 103175,
     'name' => 'Floby',
@@ -1342,7 +1306,7 @@ return array (
     'latitude' => 58.13333,
     'longitude' => 13.33333,
   ),
-  149 => 
+  145 => 
   array (
     'id' => 103176,
     'name' => 'Forsbacka',
@@ -1351,16 +1315,7 @@ return array (
     'latitude' => 64.76667,
     'longitude' => 20.5,
   ),
-  150 => 
-  array (
-    'id' => 103177,
-    'name' => 'Forsbacka',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 60.61667,
-    'longitude' => 16.88333,
-  ),
-  151 => 
+  146 => 
   array (
     'id' => 103178,
     'name' => 'Forserum',
@@ -1369,7 +1324,7 @@ return array (
     'latitude' => 57.7,
     'longitude' => 14.46667,
   ),
-  152 => 
+  147 => 
   array (
     'id' => 103179,
     'name' => 'Forshaga',
@@ -1378,7 +1333,7 @@ return array (
     'latitude' => 59.52541,
     'longitude' => 13.48127,
   ),
-  153 => 
+  148 => 
   array (
     'id' => 103181,
     'name' => 'Forsheda',
@@ -1387,7 +1342,7 @@ return array (
     'latitude' => 57.16415,
     'longitude' => 13.83016,
   ),
-  154 => 
+  149 => 
   array (
     'id' => 103182,
     'name' => 'Frillesås',
@@ -1396,7 +1351,7 @@ return array (
     'latitude' => 57.31667,
     'longitude' => 12.16667,
   ),
-  155 => 
+  150 => 
   array (
     'id' => 103183,
     'name' => 'Fristad',
@@ -1405,7 +1360,7 @@ return array (
     'latitude' => 57.82483,
     'longitude' => 13.01064,
   ),
-  156 => 
+  151 => 
   array (
     'id' => 103184,
     'name' => 'Fritsla',
@@ -1414,7 +1369,7 @@ return array (
     'latitude' => 57.55655,
     'longitude' => 12.78457,
   ),
-  157 => 
+  152 => 
   array (
     'id' => 103185,
     'name' => 'Fränsta',
@@ -1423,7 +1378,7 @@ return array (
     'latitude' => 62.49855,
     'longitude' => 16.17016,
   ),
-  158 => 
+  153 => 
   array (
     'id' => 103186,
     'name' => 'Frösakull',
@@ -1432,7 +1387,7 @@ return array (
     'latitude' => 56.68333,
     'longitude' => 12.73333,
   ),
-  159 => 
+  154 => 
   array (
     'id' => 103187,
     'name' => 'Frövi',
@@ -1441,7 +1396,7 @@ return array (
     'latitude' => 59.46667,
     'longitude' => 15.36667,
   ),
-  160 => 
+  155 => 
   array (
     'id' => 103188,
     'name' => 'Furulund',
@@ -1450,16 +1405,7 @@ return array (
     'latitude' => 55.7738,
     'longitude' => 13.09022,
   ),
-  161 => 
-  array (
-    'id' => 103189,
-    'name' => 'Furulund',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 57.71667,
-    'longitude' => 12.13333,
-  ),
-  162 => 
+  156 => 
   array (
     'id' => 103190,
     'name' => 'Fyllinge',
@@ -1468,7 +1414,7 @@ return array (
     'latitude' => 56.65,
     'longitude' => 12.91667,
   ),
-  163 => 
+  157 => 
   array (
     'id' => 103191,
     'name' => 'Färgelanda',
@@ -1477,7 +1423,7 @@ return array (
     'latitude' => 58.56816,
     'longitude' => 11.99235,
   ),
-  164 => 
+  158 => 
   array (
     'id' => 103193,
     'name' => 'Färila',
@@ -1486,7 +1432,7 @@ return array (
     'latitude' => 61.80011,
     'longitude' => 15.84422,
   ),
-  165 => 
+  159 => 
   array (
     'id' => 103194,
     'name' => 'Färjestaden',
@@ -1495,7 +1441,7 @@ return array (
     'latitude' => 56.6499,
     'longitude' => 16.46859,
   ),
-  166 => 
+  160 => 
   array (
     'id' => 103195,
     'name' => 'Färlöv',
@@ -1504,7 +1450,7 @@ return array (
     'latitude' => 56.06667,
     'longitude' => 14.08333,
   ),
-  167 => 
+  161 => 
   array (
     'id' => 103196,
     'name' => 'Förslöv',
@@ -1513,7 +1459,7 @@ return array (
     'latitude' => 56.35,
     'longitude' => 12.81667,
   ),
-  168 => 
+  162 => 
   array (
     'id' => 103197,
     'name' => 'Gagnef',
@@ -1522,7 +1468,7 @@ return array (
     'latitude' => 60.59856,
     'longitude' => 15.07745,
   ),
-  169 => 
+  163 => 
   array (
     'id' => 103199,
     'name' => 'Gamla Stan',
@@ -1531,7 +1477,7 @@ return array (
     'latitude' => 59.32627,
     'longitude' => 18.07251,
   ),
-  170 => 
+  164 => 
   array (
     'id' => 103200,
     'name' => 'Gamla Uppsala',
@@ -1540,7 +1486,7 @@ return array (
     'latitude' => 59.89817,
     'longitude' => 17.63386,
   ),
-  171 => 
+  165 => 
   array (
     'id' => 103201,
     'name' => 'Gamleby',
@@ -1549,7 +1495,7 @@ return array (
     'latitude' => 57.89485,
     'longitude' => 16.40508,
   ),
-  172 => 
+  166 => 
   array (
     'id' => 103202,
     'name' => 'Gammelstad',
@@ -1558,7 +1504,7 @@ return array (
     'latitude' => 65.63931,
     'longitude' => 22.01145,
   ),
-  173 => 
+  167 => 
   array (
     'id' => 103203,
     'name' => 'Gantofta',
@@ -1567,7 +1513,7 @@ return array (
     'latitude' => 55.98729,
     'longitude' => 12.80482,
   ),
-  174 => 
+  168 => 
   array (
     'id' => 103204,
     'name' => 'Garphyttan',
@@ -1576,7 +1522,7 @@ return array (
     'latitude' => 59.30429,
     'longitude' => 14.94623,
   ),
-  175 => 
+  169 => 
   array (
     'id' => 103205,
     'name' => 'Gemla',
@@ -1585,7 +1531,7 @@ return array (
     'latitude' => 56.86753,
     'longitude' => 14.64379,
   ),
-  176 => 
+  170 => 
   array (
     'id' => 103206,
     'name' => 'Genarp',
@@ -1594,7 +1540,7 @@ return array (
     'latitude' => 55.59907,
     'longitude' => 13.3982,
   ),
-  177 => 
+  171 => 
   array (
     'id' => 103207,
     'name' => 'Getinge',
@@ -1603,7 +1549,7 @@ return array (
     'latitude' => 56.81667,
     'longitude' => 12.73333,
   ),
-  178 => 
+  172 => 
   array (
     'id' => 103208,
     'name' => 'Gimo',
@@ -1612,7 +1558,7 @@ return array (
     'latitude' => 60.17304,
     'longitude' => 18.18507,
   ),
-  179 => 
+  173 => 
   array (
     'id' => 103209,
     'name' => 'Gislaved',
@@ -1621,7 +1567,7 @@ return array (
     'latitude' => 57.3044,
     'longitude' => 13.54078,
   ),
-  180 => 
+  174 => 
   array (
     'id' => 103211,
     'name' => 'Glimåkra',
@@ -1630,7 +1576,7 @@ return array (
     'latitude' => 56.3,
     'longitude' => 14.13333,
   ),
-  181 => 
+  175 => 
   array (
     'id' => 103212,
     'name' => 'Glommen',
@@ -1639,7 +1585,7 @@ return array (
     'latitude' => 56.93333,
     'longitude' => 12.35,
   ),
-  182 => 
+  176 => 
   array (
     'id' => 103213,
     'name' => 'Glumslöv',
@@ -1648,7 +1594,7 @@ return array (
     'latitude' => 55.94091,
     'longitude' => 12.80929,
   ),
-  183 => 
+  177 => 
   array (
     'id' => 103214,
     'name' => 'Gnarp',
@@ -1657,7 +1603,7 @@ return array (
     'latitude' => 62.04874,
     'longitude' => 17.25858,
   ),
-  184 => 
+  178 => 
   array (
     'id' => 103215,
     'name' => 'Gnesta',
@@ -1666,7 +1612,7 @@ return array (
     'latitude' => 59.04751,
     'longitude' => 17.31191,
   ),
-  185 => 
+  179 => 
   array (
     'id' => 103217,
     'name' => 'Gnosjö',
@@ -1675,7 +1621,7 @@ return array (
     'latitude' => 57.3585,
     'longitude' => 13.73686,
   ),
-  186 => 
+  180 => 
   array (
     'id' => 103219,
     'name' => 'Gotland',
@@ -1684,7 +1630,7 @@ return array (
     'latitude' => 57.5,
     'longitude' => 18.5,
   ),
-  187 => 
+  181 => 
   array (
     'id' => 103220,
     'name' => 'Grebbestad',
@@ -1693,7 +1639,7 @@ return array (
     'latitude' => 58.70248,
     'longitude' => 11.25738,
   ),
-  188 => 
+  182 => 
   array (
     'id' => 103221,
     'name' => 'Grebo',
@@ -1702,7 +1648,7 @@ return array (
     'latitude' => 58.30145,
     'longitude' => 15.87085,
   ),
-  189 => 
+  183 => 
   array (
     'id' => 103222,
     'name' => 'Grillby',
@@ -1711,7 +1657,7 @@ return array (
     'latitude' => 59.62603,
     'longitude' => 17.25787,
   ),
-  190 => 
+  184 => 
   array (
     'id' => 103223,
     'name' => 'Grums',
@@ -1720,7 +1666,7 @@ return array (
     'latitude' => 59.35141,
     'longitude' => 13.11105,
   ),
-  191 => 
+  185 => 
   array (
     'id' => 103225,
     'name' => 'Grycksbo',
@@ -1729,7 +1675,7 @@ return array (
     'latitude' => 60.68751,
     'longitude' => 15.48507,
   ),
-  192 => 
+  186 => 
   array (
     'id' => 103226,
     'name' => 'Grängesberg',
@@ -1738,7 +1684,7 @@ return array (
     'latitude' => 60.07465,
     'longitude' => 15.00784,
   ),
-  193 => 
+  187 => 
   array (
     'id' => 103227,
     'name' => 'Gränna',
@@ -1747,7 +1693,7 @@ return array (
     'latitude' => 58.01667,
     'longitude' => 14.46667,
   ),
-  194 => 
+  188 => 
   array (
     'id' => 103228,
     'name' => 'Grästorp',
@@ -1756,7 +1702,7 @@ return array (
     'latitude' => 58.33219,
     'longitude' => 12.68122,
   ),
-  195 => 
+  189 => 
   array (
     'id' => 103230,
     'name' => 'Gråbo',
@@ -1765,7 +1711,7 @@ return array (
     'latitude' => 57.83625,
     'longitude' => 12.29954,
   ),
-  196 => 
+  190 => 
   array (
     'id' => 103231,
     'name' => 'Gullbrandstorp',
@@ -1774,7 +1720,7 @@ return array (
     'latitude' => 56.7,
     'longitude' => 12.73333,
   ),
-  197 => 
+  191 => 
   array (
     'id' => 103232,
     'name' => 'Gullspång',
@@ -1783,7 +1729,7 @@ return array (
     'latitude' => 58.98615,
     'longitude' => 14.09644,
   ),
-  198 => 
+  192 => 
   array (
     'id' => 103234,
     'name' => 'Gunnebo',
@@ -1792,7 +1738,7 @@ return array (
     'latitude' => 57.71667,
     'longitude' => 16.53333,
   ),
-  199 => 
+  193 => 
   array (
     'id' => 103235,
     'name' => 'Gustavsberg',
@@ -1801,7 +1747,7 @@ return array (
     'latitude' => 59.32684,
     'longitude' => 18.38975,
   ),
-  200 => 
+  194 => 
   array (
     'id' => 103236,
     'name' => 'Gusum',
@@ -1810,7 +1756,7 @@ return array (
     'latitude' => 58.2688,
     'longitude' => 16.49894,
   ),
-  201 => 
+  195 => 
   array (
     'id' => 103237,
     'name' => 'Gällivare',
@@ -1819,7 +1765,7 @@ return array (
     'latitude' => 67.13387,
     'longitude' => 20.65278,
   ),
-  202 => 
+  196 => 
   array (
     'id' => 103239,
     'name' => 'Gärsnäs',
@@ -1828,7 +1774,7 @@ return array (
     'latitude' => 55.54949,
     'longitude' => 14.17923,
   ),
-  203 => 
+  197 => 
   array (
     'id' => 103240,
     'name' => 'Gävle',
@@ -1837,7 +1783,7 @@ return array (
     'latitude' => 60.67452,
     'longitude' => 17.14174,
   ),
-  204 => 
+  198 => 
   array (
     'id' => 103242,
     'name' => 'Gånghester',
@@ -1846,7 +1792,7 @@ return array (
     'latitude' => 57.7,
     'longitude' => 13.01667,
   ),
-  205 => 
+  199 => 
   array (
     'id' => 103243,
     'name' => 'Gårdsten',
@@ -1855,7 +1801,7 @@ return array (
     'latitude' => 57.8048,
     'longitude' => 12.02883,
   ),
-  206 => 
+  200 => 
   array (
     'id' => 103244,
     'name' => 'Göta',
@@ -1864,7 +1810,7 @@ return array (
     'latitude' => 58.10617,
     'longitude' => 12.15254,
   ),
-  207 => 
+  201 => 
   array (
     'id' => 103245,
     'name' => 'Göteborg',
@@ -1873,7 +1819,7 @@ return array (
     'latitude' => 57.70716,
     'longitude' => 11.96679,
   ),
-  208 => 
+  202 => 
   array (
     'id' => 103246,
     'name' => 'Göteborgs stad',
@@ -1882,7 +1828,7 @@ return array (
     'latitude' => 57.72288,
     'longitude' => 11.94577,
   ),
-  209 => 
+  203 => 
   array (
     'id' => 103247,
     'name' => 'Götene',
@@ -1891,7 +1837,7 @@ return array (
     'latitude' => 58.52824,
     'longitude' => 13.49458,
   ),
-  210 => 
+  204 => 
   array (
     'id' => 103249,
     'name' => 'Habo',
@@ -1900,7 +1846,7 @@ return array (
     'latitude' => 57.91185,
     'longitude' => 14.07444,
   ),
-  211 => 
+  205 => 
   array (
     'id' => 103251,
     'name' => 'Hagfors',
@@ -1909,7 +1855,7 @@ return array (
     'latitude' => 60.02378,
     'longitude' => 13.67214,
   ),
-  212 => 
+  206 => 
   array (
     'id' => 103253,
     'name' => 'Hallsberg',
@@ -1918,7 +1864,7 @@ return array (
     'latitude' => 59.06463,
     'longitude' => 15.10993,
   ),
-  213 => 
+  207 => 
   array (
     'id' => 103255,
     'name' => 'Hallstahammar',
@@ -1927,7 +1873,7 @@ return array (
     'latitude' => 59.61395,
     'longitude' => 16.22846,
   ),
-  214 => 
+  208 => 
   array (
     'id' => 103257,
     'name' => 'Hallstavik',
@@ -1936,7 +1882,7 @@ return array (
     'latitude' => 60.05,
     'longitude' => 18.6,
   ),
-  215 => 
+  209 => 
   array (
     'id' => 103258,
     'name' => 'Halmstad',
@@ -1945,7 +1891,7 @@ return array (
     'latitude' => 56.67446,
     'longitude' => 12.85676,
   ),
-  216 => 
+  210 => 
   array (
     'id' => 103260,
     'name' => 'Hammar',
@@ -1954,7 +1900,7 @@ return array (
     'latitude' => 56.01667,
     'longitude' => 14.21667,
   ),
-  217 => 
+  211 => 
   array (
     'id' => 103261,
     'name' => 'Hammarkullen',
@@ -1963,7 +1909,7 @@ return array (
     'latitude' => 57.78049,
     'longitude' => 12.03604,
   ),
-  218 => 
+  212 => 
   array (
     'id' => 103263,
     'name' => 'Hanaskog',
@@ -1972,7 +1918,7 @@ return array (
     'latitude' => 56.16061,
     'longitude' => 14.09307,
   ),
-  219 => 
+  213 => 
   array (
     'id' => 103264,
     'name' => 'Handen',
@@ -1981,7 +1927,7 @@ return array (
     'latitude' => 59.16809,
     'longitude' => 18.13796,
   ),
-  220 => 
+  214 => 
   array (
     'id' => 103265,
     'name' => 'Haninge',
@@ -1990,7 +1936,7 @@ return array (
     'latitude' => 59.16775,
     'longitude' => 18.14478,
   ),
-  221 => 
+  215 => 
   array (
     'id' => 103267,
     'name' => 'Haparanda',
@@ -1999,7 +1945,7 @@ return array (
     'latitude' => 65.83549,
     'longitude' => 24.13676,
   ),
-  222 => 
+  216 => 
   array (
     'id' => 103269,
     'name' => 'Harplinge',
@@ -2008,7 +1954,7 @@ return array (
     'latitude' => 56.74491,
     'longitude' => 12.72758,
   ),
-  223 => 
+  217 => 
   array (
     'id' => 103270,
     'name' => 'Hasslö',
@@ -2017,7 +1963,7 @@ return array (
     'latitude' => 56.11667,
     'longitude' => 15.48333,
   ),
-  224 => 
+  218 => 
   array (
     'id' => 103271,
     'name' => 'Haverdal',
@@ -2026,7 +1972,7 @@ return array (
     'latitude' => 56.72222,
     'longitude' => 12.67194,
   ),
-  225 => 
+  219 => 
   array (
     'id' => 103272,
     'name' => 'Heby',
@@ -2035,7 +1981,7 @@ return array (
     'latitude' => 59.93815,
     'longitude' => 16.86217,
   ),
-  226 => 
+  220 => 
   array (
     'id' => 103274,
     'name' => 'Hedemora',
@@ -2044,7 +1990,7 @@ return array (
     'latitude' => 60.27973,
     'longitude' => 15.98855,
   ),
-  227 => 
+  221 => 
   array (
     'id' => 103276,
     'name' => 'Hedesunda',
@@ -2053,7 +1999,7 @@ return array (
     'latitude' => 60.4,
     'longitude' => 17.0,
   ),
-  228 => 
+  222 => 
   array (
     'id' => 103277,
     'name' => 'Helsingborg',
@@ -2062,7 +2008,7 @@ return array (
     'latitude' => 56.05648,
     'longitude' => 12.78718,
   ),
-  229 => 
+  223 => 
   array (
     'id' => 103278,
     'name' => 'Hemmesta',
@@ -2071,7 +2017,7 @@ return array (
     'latitude' => 59.32273,
     'longitude' => 18.48675,
   ),
-  230 => 
+  224 => 
   array (
     'id' => 103279,
     'name' => 'Hemse',
@@ -2080,7 +2026,7 @@ return array (
     'latitude' => 57.23788,
     'longitude' => 18.37443,
   ),
-  231 => 
+  225 => 
   array (
     'id' => 103280,
     'name' => 'Henån',
@@ -2089,7 +2035,7 @@ return array (
     'latitude' => 58.23848,
     'longitude' => 11.67598,
   ),
-  232 => 
+  226 => 
   array (
     'id' => 103281,
     'name' => 'Herrestad',
@@ -2098,7 +2044,7 @@ return array (
     'latitude' => 58.38333,
     'longitude' => 14.8,
   ),
-  233 => 
+  227 => 
   array (
     'id' => 103282,
     'name' => 'Herrljunga',
@@ -2107,7 +2053,7 @@ return array (
     'latitude' => 58.07739,
     'longitude' => 13.02662,
   ),
-  234 => 
+  228 => 
   array (
     'id' => 103284,
     'name' => 'Hestra',
@@ -2116,7 +2062,7 @@ return array (
     'latitude' => 57.44232,
     'longitude' => 13.59575,
   ),
-  235 => 
+  229 => 
   array (
     'id' => 103285,
     'name' => 'Hillerstorp',
@@ -2125,7 +2071,7 @@ return array (
     'latitude' => 57.31293,
     'longitude' => 13.88437,
   ),
-  236 => 
+  230 => 
   array (
     'id' => 103286,
     'name' => 'Hindås',
@@ -2134,7 +2080,7 @@ return array (
     'latitude' => 57.70338,
     'longitude' => 12.44657,
   ),
-  237 => 
+  231 => 
   array (
     'id' => 103287,
     'name' => 'Hittarp',
@@ -2143,7 +2089,7 @@ return array (
     'latitude' => 56.1,
     'longitude' => 12.63333,
   ),
-  238 => 
+  232 => 
   array (
     'id' => 103288,
     'name' => 'Hjo',
@@ -2152,7 +2098,7 @@ return array (
     'latitude' => 58.30133,
     'longitude' => 14.28784,
   ),
-  239 => 
+  233 => 
   array (
     'id' => 103290,
     'name' => 'Hjuvik',
@@ -2161,7 +2107,7 @@ return array (
     'latitude' => 57.70167,
     'longitude' => 11.71639,
   ),
-  240 => 
+  234 => 
   array (
     'id' => 103291,
     'name' => 'Hjärnarp',
@@ -2170,7 +2116,7 @@ return array (
     'latitude' => 56.31667,
     'longitude' => 12.91667,
   ),
-  241 => 
+  235 => 
   array (
     'id' => 103292,
     'name' => 'Hjärup',
@@ -2179,7 +2125,7 @@ return array (
     'latitude' => 55.6688,
     'longitude' => 13.13931,
   ),
-  242 => 
+  236 => 
   array (
     'id' => 103293,
     'name' => 'Hofors',
@@ -2188,7 +2134,7 @@ return array (
     'latitude' => 60.54573,
     'longitude' => 16.28668,
   ),
-  243 => 
+  237 => 
   array (
     'id' => 103295,
     'name' => 'Hofterup',
@@ -2197,7 +2143,7 @@ return array (
     'latitude' => 55.80485,
     'longitude' => 12.9797,
   ),
-  244 => 
+  238 => 
   array (
     'id' => 103296,
     'name' => 'Holmsund',
@@ -2206,7 +2152,7 @@ return array (
     'latitude' => 63.70602,
     'longitude' => 20.36409,
   ),
-  245 => 
+  239 => 
   array (
     'id' => 103297,
     'name' => 'Horndal',
@@ -2215,7 +2161,7 @@ return array (
     'latitude' => 60.3,
     'longitude' => 16.41667,
   ),
-  246 => 
+  240 => 
   array (
     'id' => 103298,
     'name' => 'Horred',
@@ -2224,7 +2170,7 @@ return array (
     'latitude' => 57.35475,
     'longitude' => 12.47777,
   ),
-  247 => 
+  241 => 
   array (
     'id' => 103299,
     'name' => 'Hortlax',
@@ -2233,7 +2179,7 @@ return array (
     'latitude' => 65.28188,
     'longitude' => 21.40544,
   ),
-  248 => 
+  242 => 
   array (
     'id' => 103300,
     'name' => 'Hova',
@@ -2242,7 +2188,7 @@ return array (
     'latitude' => 58.85363,
     'longitude' => 14.21914,
   ),
-  249 => 
+  243 => 
   array (
     'id' => 103301,
     'name' => 'Hovmantorp',
@@ -2251,7 +2197,7 @@ return array (
     'latitude' => 56.78685,
     'longitude' => 15.14023,
   ),
-  250 => 
+  244 => 
   array (
     'id' => 103302,
     'name' => 'Hovsta',
@@ -2260,7 +2206,7 @@ return array (
     'latitude' => 59.35,
     'longitude' => 15.21667,
   ),
-  251 => 
+  245 => 
   array (
     'id' => 103303,
     'name' => 'Huddinge',
@@ -2269,7 +2215,7 @@ return array (
     'latitude' => 59.23705,
     'longitude' => 17.98192,
   ),
-  252 => 
+  246 => 
   array (
     'id' => 103305,
     'name' => 'Hudiksvall',
@@ -2278,7 +2224,7 @@ return array (
     'latitude' => 61.72744,
     'longitude' => 17.10558,
   ),
-  253 => 
+  247 => 
   array (
     'id' => 103307,
     'name' => 'Hultsfred',
@@ -2287,7 +2233,7 @@ return array (
     'latitude' => 57.48815,
     'longitude' => 15.84357,
   ),
-  254 => 
+  248 => 
   array (
     'id' => 103309,
     'name' => 'Hunnebostrand',
@@ -2296,7 +2242,7 @@ return array (
     'latitude' => 58.44127,
     'longitude' => 11.3032,
   ),
-  255 => 
+  249 => 
   array (
     'id' => 103310,
     'name' => 'Huskvarna',
@@ -2305,7 +2251,7 @@ return array (
     'latitude' => 57.78596,
     'longitude' => 14.30214,
   ),
-  256 => 
+  250 => 
   array (
     'id' => 103311,
     'name' => 'Husum',
@@ -2314,7 +2260,7 @@ return array (
     'latitude' => 63.33333,
     'longitude' => 19.16667,
   ),
-  257 => 
+  251 => 
   array (
     'id' => 103312,
     'name' => 'Hyllinge',
@@ -2323,7 +2269,7 @@ return array (
     'latitude' => 56.1,
     'longitude' => 12.85,
   ),
-  258 => 
+  252 => 
   array (
     'id' => 103314,
     'name' => 'Hyltebruk',
@@ -2332,7 +2278,7 @@ return array (
     'latitude' => 56.99892,
     'longitude' => 13.23958,
   ),
-  259 => 
+  253 => 
   array (
     'id' => 103315,
     'name' => 'Häljarp',
@@ -2341,7 +2287,7 @@ return array (
     'latitude' => 55.85,
     'longitude' => 12.91667,
   ),
-  260 => 
+  254 => 
   array (
     'id' => 103316,
     'name' => 'Hällabrottet',
@@ -2350,7 +2296,7 @@ return array (
     'latitude' => 59.11667,
     'longitude' => 15.2,
   ),
-  261 => 
+  255 => 
   array (
     'id' => 103317,
     'name' => 'Hällbybrunn',
@@ -2359,7 +2305,7 @@ return array (
     'latitude' => 59.39152,
     'longitude' => 16.42229,
   ),
-  262 => 
+  256 => 
   array (
     'id' => 103318,
     'name' => 'Hällefors',
@@ -2368,7 +2314,7 @@ return array (
     'latitude' => 59.78388,
     'longitude' => 14.52197,
   ),
-  263 => 
+  257 => 
   array (
     'id' => 103320,
     'name' => 'Hälleforsnäs',
@@ -2377,7 +2323,7 @@ return array (
     'latitude' => 59.15208,
     'longitude' => 16.497,
   ),
-  264 => 
+  258 => 
   array (
     'id' => 103321,
     'name' => 'Hällevik',
@@ -2386,7 +2332,7 @@ return array (
     'latitude' => 56.01667,
     'longitude' => 14.7,
   ),
-  265 => 
+  259 => 
   array (
     'id' => 103322,
     'name' => 'Härnösand',
@@ -2395,7 +2341,7 @@ return array (
     'latitude' => 62.63228,
     'longitude' => 17.93794,
   ),
-  266 => 
+  260 => 
   array (
     'id' => 103325,
     'name' => 'Hässleholm',
@@ -2404,7 +2350,7 @@ return array (
     'latitude' => 56.15905,
     'longitude' => 13.76638,
   ),
-  267 => 
+  261 => 
   array (
     'id' => 103327,
     'name' => 'Hästveda',
@@ -2413,7 +2359,7 @@ return array (
     'latitude' => 56.28468,
     'longitude' => 13.93547,
   ),
-  268 => 
+  262 => 
   array (
     'id' => 103329,
     'name' => 'Höganäs',
@@ -2422,7 +2368,7 @@ return array (
     'latitude' => 56.19971,
     'longitude' => 12.55795,
   ),
-  269 => 
+  263 => 
   array (
     'id' => 103331,
     'name' => 'Högsby',
@@ -2431,7 +2377,7 @@ return array (
     'latitude' => 57.16597,
     'longitude' => 16.02562,
   ),
-  270 => 
+  264 => 
   array (
     'id' => 103333,
     'name' => 'Hökåsen',
@@ -2440,7 +2386,7 @@ return array (
     'latitude' => 59.66667,
     'longitude' => 16.58333,
   ),
-  271 => 
+  265 => 
   array (
     'id' => 103334,
     'name' => 'Hököpinge',
@@ -2449,7 +2395,7 @@ return array (
     'latitude' => 55.49411,
     'longitude' => 13.00782,
   ),
-  272 => 
+  266 => 
   array (
     'id' => 103335,
     'name' => 'Höllviken',
@@ -2458,7 +2404,7 @@ return array (
     'latitude' => 55.40982,
     'longitude' => 12.9558,
   ),
-  273 => 
+  267 => 
   array (
     'id' => 103336,
     'name' => 'Hölö',
@@ -2467,7 +2413,7 @@ return array (
     'latitude' => 59.01667,
     'longitude' => 17.53333,
   ),
-  274 => 
+  268 => 
   array (
     'id' => 103337,
     'name' => 'Hönö',
@@ -2476,7 +2422,7 @@ return array (
     'latitude' => 57.68972,
     'longitude' => 11.64972,
   ),
-  275 => 
+  269 => 
   array (
     'id' => 103338,
     'name' => 'Hörby',
@@ -2485,7 +2431,7 @@ return array (
     'latitude' => 55.85238,
     'longitude' => 13.66094,
   ),
-  276 => 
+  270 => 
   array (
     'id' => 103340,
     'name' => 'Hörnefors',
@@ -2494,7 +2440,7 @@ return array (
     'latitude' => 63.62312,
     'longitude' => 19.90856,
   ),
-  277 => 
+  271 => 
   array (
     'id' => 103341,
     'name' => 'Höviksnäs',
@@ -2503,7 +2449,7 @@ return array (
     'latitude' => 58.03333,
     'longitude' => 11.76667,
   ),
-  278 => 
+  272 => 
   array (
     'id' => 103342,
     'name' => 'Höör',
@@ -2512,7 +2458,7 @@ return array (
     'latitude' => 55.93444,
     'longitude' => 13.5385,
   ),
-  279 => 
+  273 => 
   array (
     'id' => 103344,
     'name' => 'Iggesund',
@@ -2521,7 +2467,7 @@ return array (
     'latitude' => 61.64219,
     'longitude' => 17.07477,
   ),
-  280 => 
+  274 => 
   array (
     'id' => 103345,
     'name' => 'Ingared',
@@ -2530,7 +2476,7 @@ return array (
     'latitude' => 57.85989,
     'longitude' => 12.45161,
   ),
-  281 => 
+  275 => 
   array (
     'id' => 103346,
     'name' => 'Ingelstad',
@@ -2539,7 +2485,7 @@ return array (
     'latitude' => 56.75,
     'longitude' => 14.91667,
   ),
-  282 => 
+  276 => 
   array (
     'id' => 103347,
     'name' => 'Insjön',
@@ -2548,16 +2494,7 @@ return array (
     'latitude' => 60.67688,
     'longitude' => 15.09487,
   ),
-  283 => 
-  array (
-    'id' => 103348,
-    'name' => 'Insjön',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 64.4,
-    'longitude' => 17.48333,
-  ),
-  284 => 
+  277 => 
   array (
     'id' => 103349,
     'name' => 'Irsta',
@@ -2566,16 +2503,7 @@ return array (
     'latitude' => 59.6,
     'longitude' => 16.7,
   ),
-  285 => 
-  array (
-    'id' => 103350,
-    'name' => 'Irsta',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 59.7,
-    'longitude' => 16.93333,
-  ),
-  286 => 
+  278 => 
   array (
     'id' => 103351,
     'name' => 'Jakobsberg',
@@ -2584,7 +2512,7 @@ return array (
     'latitude' => 59.42268,
     'longitude' => 17.83508,
   ),
-  287 => 
+  279 => 
   array (
     'id' => 103352,
     'name' => 'Johannedal',
@@ -2593,7 +2521,7 @@ return array (
     'latitude' => 62.43424,
     'longitude' => 17.37273,
   ),
-  288 => 
+  280 => 
   array (
     'id' => 103353,
     'name' => 'Jokkmokk',
@@ -2602,7 +2530,7 @@ return array (
     'latitude' => 66.60665,
     'longitude' => 19.82324,
   ),
-  289 => 
+  281 => 
   array (
     'id' => 103355,
     'name' => 'Jonstorp',
@@ -2611,16 +2539,7 @@ return array (
     'latitude' => 58.0,
     'longitude' => 12.71667,
   ),
-  290 => 
-  array (
-    'id' => 103356,
-    'name' => 'Jonstorp',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 56.2338,
-    'longitude' => 12.67184,
-  ),
-  291 => 
+  282 => 
   array (
     'id' => 103357,
     'name' => 'Jordbro',
@@ -2629,7 +2548,7 @@ return array (
     'latitude' => 59.14972,
     'longitude' => 18.11667,
   ),
-  292 => 
+  283 => 
   array (
     'id' => 103358,
     'name' => 'Jursla',
@@ -2638,7 +2557,7 @@ return array (
     'latitude' => 58.66667,
     'longitude' => 16.18333,
   ),
-  293 => 
+  284 => 
   array (
     'id' => 103359,
     'name' => 'Jämjö',
@@ -2647,7 +2566,7 @@ return array (
     'latitude' => 56.19187,
     'longitude' => 15.84115,
   ),
-  294 => 
+  285 => 
   array (
     'id' => 103360,
     'name' => 'Jämshög',
@@ -2656,7 +2575,7 @@ return array (
     'latitude' => 56.23333,
     'longitude' => 14.51667,
   ),
-  295 => 
+  286 => 
   array (
     'id' => 103361,
     'name' => 'Järbo',
@@ -2665,7 +2584,7 @@ return array (
     'latitude' => 60.71667,
     'longitude' => 16.6,
   ),
-  296 => 
+  287 => 
   array (
     'id' => 103363,
     'name' => 'Järna',
@@ -2674,16 +2593,7 @@ return array (
     'latitude' => 59.09165,
     'longitude' => 17.56615,
   ),
-  297 => 
-  array (
-    'id' => 103364,
-    'name' => 'Järna',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 60.53333,
-    'longitude' => 14.36667,
-  ),
-  298 => 
+  288 => 
   array (
     'id' => 103365,
     'name' => 'Järvsö',
@@ -2692,7 +2602,7 @@ return array (
     'latitude' => 61.71667,
     'longitude' => 16.16667,
   ),
-  299 => 
+  289 => 
   array (
     'id' => 103366,
     'name' => 'Jönköping',
@@ -2701,7 +2611,7 @@ return array (
     'latitude' => 57.78145,
     'longitude' => 14.15618,
   ),
-  300 => 
+  290 => 
   array (
     'id' => 103368,
     'name' => 'Jörlanda',
@@ -2710,7 +2620,7 @@ return array (
     'latitude' => 57.9863,
     'longitude' => 11.82943,
   ),
-  301 => 
+  291 => 
   array (
     'id' => 103369,
     'name' => 'Kalix',
@@ -2719,7 +2629,7 @@ return array (
     'latitude' => 65.85298,
     'longitude' => 23.15645,
   ),
-  302 => 
+  292 => 
   array (
     'id' => 103371,
     'name' => 'Kallinge',
@@ -2728,7 +2638,7 @@ return array (
     'latitude' => 56.24841,
     'longitude' => 15.28721,
   ),
-  303 => 
+  293 => 
   array (
     'id' => 103372,
     'name' => 'Kalmar',
@@ -2737,7 +2647,7 @@ return array (
     'latitude' => 56.66157,
     'longitude' => 16.36163,
   ),
-  304 => 
+  294 => 
   array (
     'id' => 103374,
     'name' => 'Karlholmsbruk',
@@ -2746,7 +2656,7 @@ return array (
     'latitude' => 60.52091,
     'longitude' => 17.63152,
   ),
-  305 => 
+  295 => 
   array (
     'id' => 103375,
     'name' => 'Karlsborg',
@@ -2755,7 +2665,7 @@ return array (
     'latitude' => 58.53724,
     'longitude' => 14.5047,
   ),
-  306 => 
+  296 => 
   array (
     'id' => 103377,
     'name' => 'Karlshamn',
@@ -2764,7 +2674,7 @@ return array (
     'latitude' => 56.1706,
     'longitude' => 14.86188,
   ),
-  307 => 
+  297 => 
   array (
     'id' => 103379,
     'name' => 'Karlskoga',
@@ -2773,7 +2683,7 @@ return array (
     'latitude' => 59.32667,
     'longitude' => 14.52386,
   ),
-  308 => 
+  298 => 
   array (
     'id' => 103381,
     'name' => 'Karlskrona',
@@ -2782,7 +2692,7 @@ return array (
     'latitude' => 56.16156,
     'longitude' => 15.58661,
   ),
-  309 => 
+  299 => 
   array (
     'id' => 103383,
     'name' => 'Karlstad',
@@ -2791,7 +2701,7 @@ return array (
     'latitude' => 59.3793,
     'longitude' => 13.50357,
   ),
-  310 => 
+  300 => 
   array (
     'id' => 103385,
     'name' => 'Katrineholm',
@@ -2800,7 +2710,7 @@ return array (
     'latitude' => 58.99587,
     'longitude' => 16.20721,
   ),
-  311 => 
+  301 => 
   array (
     'id' => 103387,
     'name' => 'Kaxholmen',
@@ -2809,7 +2719,7 @@ return array (
     'latitude' => 57.85345,
     'longitude' => 14.30457,
   ),
-  312 => 
+  302 => 
   array (
     'id' => 103388,
     'name' => 'Kil',
@@ -2818,7 +2728,7 @@ return array (
     'latitude' => 59.50234,
     'longitude' => 13.31277,
   ),
-  313 => 
+  303 => 
   array (
     'id' => 103389,
     'name' => 'Kilafors',
@@ -2827,7 +2737,7 @@ return array (
     'latitude' => 61.23333,
     'longitude' => 16.56667,
   ),
-  314 => 
+  304 => 
   array (
     'id' => 103391,
     'name' => 'Kimstad',
@@ -2836,7 +2746,7 @@ return array (
     'latitude' => 58.54967,
     'longitude' => 15.96296,
   ),
-  315 => 
+  305 => 
   array (
     'id' => 103393,
     'name' => 'Kinna',
@@ -2845,7 +2755,7 @@ return array (
     'latitude' => 57.50728,
     'longitude' => 12.69463,
   ),
-  316 => 
+  306 => 
   array (
     'id' => 103394,
     'name' => 'Kiruna',
@@ -2854,7 +2764,7 @@ return array (
     'latitude' => 67.85572,
     'longitude' => 20.22513,
   ),
-  317 => 
+  307 => 
   array (
     'id' => 103396,
     'name' => 'Kisa',
@@ -2863,7 +2773,7 @@ return array (
     'latitude' => 57.98781,
     'longitude' => 15.63303,
   ),
-  318 => 
+  308 => 
   array (
     'id' => 103397,
     'name' => 'Kista',
@@ -2872,7 +2782,7 @@ return array (
     'latitude' => 59.40316,
     'longitude' => 17.94479,
   ),
-  319 => 
+  309 => 
   array (
     'id' => 103398,
     'name' => 'Klintehamn',
@@ -2881,7 +2791,7 @@ return array (
     'latitude' => 57.38667,
     'longitude' => 18.20371,
   ),
-  320 => 
+  310 => 
   array (
     'id' => 103399,
     'name' => 'Klippan',
@@ -2890,7 +2800,7 @@ return array (
     'latitude' => 56.13559,
     'longitude' => 13.13086,
   ),
-  321 => 
+  311 => 
   array (
     'id' => 103401,
     'name' => 'Klågerup',
@@ -2899,7 +2809,7 @@ return array (
     'latitude' => 55.59416,
     'longitude' => 13.24574,
   ),
-  322 => 
+  312 => 
   array (
     'id' => 103402,
     'name' => 'Knislinge',
@@ -2908,7 +2818,7 @@ return array (
     'latitude' => 56.18333,
     'longitude' => 14.08333,
   ),
-  323 => 
+  313 => 
   array (
     'id' => 103403,
     'name' => 'Knivsta',
@@ -2917,7 +2827,7 @@ return array (
     'latitude' => 59.72564,
     'longitude' => 17.78753,
   ),
-  324 => 
+  314 => 
   array (
     'id' => 103405,
     'name' => 'Knäred',
@@ -2926,7 +2836,7 @@ return array (
     'latitude' => 56.51861,
     'longitude' => 13.32423,
   ),
-  325 => 
+  315 => 
   array (
     'id' => 103406,
     'name' => 'Kode',
@@ -2935,7 +2845,7 @@ return array (
     'latitude' => 57.94263,
     'longitude' => 11.85051,
   ),
-  326 => 
+  316 => 
   array (
     'id' => 103407,
     'name' => 'Kolbäck',
@@ -2944,7 +2854,7 @@ return array (
     'latitude' => 59.56516,
     'longitude' => 16.23037,
   ),
-  327 => 
+  317 => 
   array (
     'id' => 103408,
     'name' => 'Kolsva',
@@ -2953,7 +2863,7 @@ return array (
     'latitude' => 59.6,
     'longitude' => 15.83333,
   ),
-  328 => 
+  318 => 
   array (
     'id' => 103409,
     'name' => 'Kopparberg',
@@ -2962,7 +2872,7 @@ return array (
     'latitude' => 59.87597,
     'longitude' => 14.99436,
   ),
-  329 => 
+  319 => 
   array (
     'id' => 103410,
     'name' => 'Kopparmora',
@@ -2971,7 +2881,7 @@ return array (
     'latitude' => 59.33306,
     'longitude' => 18.58306,
   ),
-  330 => 
+  320 => 
   array (
     'id' => 103411,
     'name' => 'Kramfors',
@@ -2980,7 +2890,7 @@ return array (
     'latitude' => 62.93161,
     'longitude' => 17.77646,
   ),
-  331 => 
+  321 => 
   array (
     'id' => 103413,
     'name' => 'Kristdala',
@@ -2989,7 +2899,7 @@ return array (
     'latitude' => 57.4007,
     'longitude' => 16.20496,
   ),
-  332 => 
+  322 => 
   array (
     'id' => 103414,
     'name' => 'Kristianstad',
@@ -2998,7 +2908,7 @@ return array (
     'latitude' => 56.03129,
     'longitude' => 14.15242,
   ),
-  333 => 
+  323 => 
   array (
     'id' => 103416,
     'name' => 'Kristinehamn',
@@ -3007,7 +2917,7 @@ return array (
     'latitude' => 59.30978,
     'longitude' => 14.10808,
   ),
-  334 => 
+  324 => 
   array (
     'id' => 103418,
     'name' => 'Krokek',
@@ -3016,7 +2926,7 @@ return array (
     'latitude' => 58.67231,
     'longitude' => 16.36741,
   ),
-  335 => 
+  325 => 
   array (
     'id' => 103419,
     'name' => 'Krylbo',
@@ -3025,7 +2935,7 @@ return array (
     'latitude' => 60.13333,
     'longitude' => 16.21667,
   ),
-  336 => 
+  326 => 
   array (
     'id' => 103420,
     'name' => 'Kumla',
@@ -3034,7 +2944,7 @@ return array (
     'latitude' => 59.1277,
     'longitude' => 15.14341,
   ),
-  337 => 
+  327 => 
   array (
     'id' => 103422,
     'name' => 'Kummelnäs',
@@ -3043,7 +2953,7 @@ return array (
     'latitude' => 59.35,
     'longitude' => 18.28333,
   ),
-  338 => 
+  328 => 
   array (
     'id' => 103423,
     'name' => 'Kungsbacka',
@@ -3052,7 +2962,7 @@ return array (
     'latitude' => 57.48719,
     'longitude' => 12.07612,
   ),
-  339 => 
+  329 => 
   array (
     'id' => 103425,
     'name' => 'Kungshamn',
@@ -3061,7 +2971,7 @@ return array (
     'latitude' => 58.36305,
     'longitude' => 11.25938,
   ),
-  340 => 
+  330 => 
   array (
     'id' => 103426,
     'name' => 'Kungsholmen',
@@ -3070,7 +2980,7 @@ return array (
     'latitude' => 59.33183,
     'longitude' => 18.04118,
   ),
-  341 => 
+  331 => 
   array (
     'id' => 103427,
     'name' => 'Kungsängen',
@@ -3079,7 +2989,7 @@ return array (
     'latitude' => 59.47857,
     'longitude' => 17.74834,
   ),
-  342 => 
+  332 => 
   array (
     'id' => 103428,
     'name' => 'Kungsör',
@@ -3088,7 +2998,7 @@ return array (
     'latitude' => 59.42245,
     'longitude' => 16.09656,
   ),
-  343 => 
+  333 => 
   array (
     'id' => 103430,
     'name' => 'Kungälv',
@@ -3097,7 +3007,7 @@ return array (
     'latitude' => 57.87096,
     'longitude' => 11.98054,
   ),
-  344 => 
+  334 => 
   array (
     'id' => 103432,
     'name' => 'Kvicksund',
@@ -3106,7 +3016,7 @@ return array (
     'latitude' => 59.45099,
     'longitude' => 16.32131,
   ),
-  345 => 
+  335 => 
   array (
     'id' => 103433,
     'name' => 'Kvidinge',
@@ -3115,7 +3025,7 @@ return array (
     'latitude' => 56.13386,
     'longitude' => 13.04678,
   ),
-  346 => 
+  336 => 
   array (
     'id' => 103434,
     'name' => 'Kvissleby',
@@ -3124,7 +3034,7 @@ return array (
     'latitude' => 62.29361,
     'longitude' => 17.375,
   ),
-  347 => 
+  337 => 
   array (
     'id' => 103435,
     'name' => 'Kvänum',
@@ -3133,7 +3043,7 @@ return array (
     'latitude' => 58.3,
     'longitude' => 13.18333,
   ),
-  348 => 
+  338 => 
   array (
     'id' => 103436,
     'name' => 'Källby',
@@ -3142,7 +3052,7 @@ return array (
     'latitude' => 58.50999,
     'longitude' => 13.30582,
   ),
-  349 => 
+  339 => 
   array (
     'id' => 103437,
     'name' => 'Kävlinge',
@@ -3151,7 +3061,7 @@ return array (
     'latitude' => 55.79188,
     'longitude' => 13.11021,
   ),
-  350 => 
+  340 => 
   array (
     'id' => 103439,
     'name' => 'Kåge',
@@ -3160,7 +3070,7 @@ return array (
     'latitude' => 64.83571,
     'longitude' => 20.98453,
   ),
-  351 => 
+  341 => 
   array (
     'id' => 103440,
     'name' => 'Kågeröd',
@@ -3169,7 +3079,7 @@ return array (
     'latitude' => 55.99976,
     'longitude' => 13.08795,
   ),
-  352 => 
+  342 => 
   array (
     'id' => 103441,
     'name' => 'Kållered',
@@ -3178,7 +3088,7 @@ return array (
     'latitude' => 57.60992,
     'longitude' => 12.05106,
   ),
-  353 => 
+  343 => 
   array (
     'id' => 103442,
     'name' => 'Köping',
@@ -3187,7 +3097,7 @@ return array (
     'latitude' => 59.51404,
     'longitude' => 15.99255,
   ),
-  354 => 
+  344 => 
   array (
     'id' => 103443,
     'name' => 'Köpingebro',
@@ -3196,7 +3106,7 @@ return array (
     'latitude' => 55.45526,
     'longitude' => 13.93453,
   ),
-  355 => 
+  345 => 
   array (
     'id' => 103445,
     'name' => 'Köpmanholmen',
@@ -3205,7 +3115,7 @@ return array (
     'latitude' => 63.16667,
     'longitude' => 18.56667,
   ),
-  356 => 
+  346 => 
   array (
     'id' => 103446,
     'name' => 'Lagan',
@@ -3214,7 +3124,7 @@ return array (
     'latitude' => 56.91667,
     'longitude' => 13.98333,
   ),
-  357 => 
+  347 => 
   array (
     'id' => 103447,
     'name' => 'Laholm',
@@ -3223,7 +3133,7 @@ return array (
     'latitude' => 56.51207,
     'longitude' => 13.04371,
   ),
-  358 => 
+  348 => 
   array (
     'id' => 103449,
     'name' => 'Lammhult',
@@ -3232,7 +3142,7 @@ return array (
     'latitude' => 57.16667,
     'longitude' => 14.58333,
   ),
-  359 => 
+  349 => 
   array (
     'id' => 103450,
     'name' => 'Landsbro',
@@ -3241,7 +3151,7 @@ return array (
     'latitude' => 57.36667,
     'longitude' => 14.9,
   ),
-  360 => 
+  350 => 
   array (
     'id' => 103451,
     'name' => 'Landskrona',
@@ -3250,7 +3160,7 @@ return array (
     'latitude' => 55.8862,
     'longitude' => 12.8588,
   ),
-  361 => 
+  351 => 
   array (
     'id' => 103452,
     'name' => 'Landvetter',
@@ -3259,7 +3169,7 @@ return array (
     'latitude' => 57.68665,
     'longitude' => 12.21169,
   ),
-  362 => 
+  352 => 
   array (
     'id' => 103453,
     'name' => 'Laxå',
@@ -3268,7 +3178,7 @@ return array (
     'latitude' => 58.9863,
     'longitude' => 14.61904,
   ),
-  363 => 
+  353 => 
   array (
     'id' => 103456,
     'name' => 'Leksand',
@@ -3277,7 +3187,7 @@ return array (
     'latitude' => 60.7303,
     'longitude' => 14.99994,
   ),
-  364 => 
+  354 => 
   array (
     'id' => 103458,
     'name' => 'Lenhovda',
@@ -3286,7 +3196,7 @@ return array (
     'latitude' => 57.0,
     'longitude' => 15.28333,
   ),
-  365 => 
+  355 => 
   array (
     'id' => 103459,
     'name' => 'Lerum',
@@ -3295,7 +3205,7 @@ return array (
     'latitude' => 57.77051,
     'longitude' => 12.26904,
   ),
-  366 => 
+  356 => 
   array (
     'id' => 103461,
     'name' => 'Lessebo',
@@ -3304,7 +3214,7 @@ return array (
     'latitude' => 56.75185,
     'longitude' => 15.26969,
   ),
-  367 => 
+  357 => 
   array (
     'id' => 103463,
     'name' => 'Lidingö',
@@ -3313,7 +3223,7 @@ return array (
     'latitude' => 59.36303,
     'longitude' => 18.15096,
   ),
-  368 => 
+  358 => 
   array (
     'id' => 103464,
     'name' => 'Lidköping',
@@ -3322,7 +3232,7 @@ return array (
     'latitude' => 58.50517,
     'longitude' => 13.15765,
   ),
-  369 => 
+  359 => 
   array (
     'id' => 103466,
     'name' => 'Lilla Edet',
@@ -3331,7 +3241,7 @@ return array (
     'latitude' => 58.13333,
     'longitude' => 12.13333,
   ),
-  370 => 
+  360 => 
   array (
     'id' => 103468,
     'name' => 'Limmared',
@@ -3340,7 +3250,7 @@ return array (
     'latitude' => 57.53592,
     'longitude' => 13.35566,
   ),
-  371 => 
+  361 => 
   array (
     'id' => 103469,
     'name' => 'Lindesberg',
@@ -3349,7 +3259,7 @@ return array (
     'latitude' => 59.59202,
     'longitude' => 15.2304,
   ),
-  372 => 
+  362 => 
   array (
     'id' => 103471,
     'name' => 'Lindholmen',
@@ -3358,7 +3268,7 @@ return array (
     'latitude' => 59.58333,
     'longitude' => 18.1,
   ),
-  373 => 
+  363 => 
   array (
     'id' => 103472,
     'name' => 'Lindome',
@@ -3367,7 +3277,7 @@ return array (
     'latitude' => 57.56667,
     'longitude' => 12.08333,
   ),
-  374 => 
+  364 => 
   array (
     'id' => 103473,
     'name' => 'Lindsdal',
@@ -3376,7 +3286,7 @@ return array (
     'latitude' => 56.73333,
     'longitude' => 16.3,
   ),
-  375 => 
+  365 => 
   array (
     'id' => 103474,
     'name' => 'Lindö',
@@ -3385,7 +3295,7 @@ return array (
     'latitude' => 58.61667,
     'longitude' => 16.25,
   ),
-  376 => 
+  366 => 
   array (
     'id' => 103475,
     'name' => 'Linghem',
@@ -3394,7 +3304,7 @@ return array (
     'latitude' => 58.43333,
     'longitude' => 15.78333,
   ),
-  377 => 
+  367 => 
   array (
     'id' => 103476,
     'name' => 'Linköping',
@@ -3403,7 +3313,7 @@ return array (
     'latitude' => 58.41086,
     'longitude' => 15.62157,
   ),
-  378 => 
+  368 => 
   array (
     'id' => 103478,
     'name' => 'Ljungby',
@@ -3412,7 +3322,7 @@ return array (
     'latitude' => 56.83324,
     'longitude' => 13.94082,
   ),
-  379 => 
+  369 => 
   array (
     'id' => 103480,
     'name' => 'Ljungbyhed',
@@ -3421,7 +3331,7 @@ return array (
     'latitude' => 56.07437,
     'longitude' => 13.2401,
   ),
-  380 => 
+  370 => 
   array (
     'id' => 103481,
     'name' => 'Ljungbyholm',
@@ -3430,7 +3340,7 @@ return array (
     'latitude' => 56.63333,
     'longitude' => 16.16667,
   ),
-  381 => 
+  371 => 
   array (
     'id' => 103482,
     'name' => 'Ljunghusen',
@@ -3439,7 +3349,7 @@ return array (
     'latitude' => 55.39793,
     'longitude' => 12.92486,
   ),
-  382 => 
+  372 => 
   array (
     'id' => 103483,
     'name' => 'Ljungsbro',
@@ -3448,7 +3358,7 @@ return array (
     'latitude' => 58.51667,
     'longitude' => 15.5,
   ),
-  383 => 
+  373 => 
   array (
     'id' => 103484,
     'name' => 'Ljungskile',
@@ -3457,7 +3367,7 @@ return array (
     'latitude' => 58.22452,
     'longitude' => 11.92014,
   ),
-  384 => 
+  374 => 
   array (
     'id' => 103485,
     'name' => 'Ljusdal',
@@ -3466,7 +3376,7 @@ return array (
     'latitude' => 61.82883,
     'longitude' => 16.09126,
   ),
-  385 => 
+  375 => 
   array (
     'id' => 103488,
     'name' => 'Ljusne',
@@ -3475,7 +3385,7 @@ return array (
     'latitude' => 61.2117,
     'longitude' => 17.1279,
   ),
-  386 => 
+  376 => 
   array (
     'id' => 103489,
     'name' => 'Lomma',
@@ -3484,7 +3394,7 @@ return array (
     'latitude' => 55.67244,
     'longitude' => 13.06849,
   ),
-  387 => 
+  377 => 
   array (
     'id' => 103491,
     'name' => 'Ludvika',
@@ -3493,7 +3403,7 @@ return array (
     'latitude' => 60.14959,
     'longitude' => 15.18776,
   ),
-  388 => 
+  378 => 
   array (
     'id' => 103493,
     'name' => 'Luleå',
@@ -3502,7 +3412,7 @@ return array (
     'latitude' => 65.58415,
     'longitude' => 22.15465,
   ),
-  389 => 
+  379 => 
   array (
     'id' => 103495,
     'name' => 'Lund',
@@ -3511,7 +3421,7 @@ return array (
     'latitude' => 55.70584,
     'longitude' => 13.19321,
   ),
-  390 => 
+  380 => 
   array (
     'id' => 103497,
     'name' => 'Lycksele',
@@ -3520,7 +3430,7 @@ return array (
     'latitude' => 64.59537,
     'longitude' => 18.67351,
   ),
-  391 => 
+  381 => 
   array (
     'id' => 103499,
     'name' => 'Lysekil',
@@ -3529,7 +3439,7 @@ return array (
     'latitude' => 58.27429,
     'longitude' => 11.43576,
   ),
-  392 => 
+  382 => 
   array (
     'id' => 103501,
     'name' => 'Länghem',
@@ -3538,7 +3448,7 @@ return array (
     'latitude' => 57.6,
     'longitude' => 13.23333,
   ),
-  393 => 
+  383 => 
   array (
     'id' => 103502,
     'name' => 'Långsele',
@@ -3547,16 +3457,7 @@ return array (
     'latitude' => 63.18333,
     'longitude' => 17.06667,
   ),
-  394 => 
-  array (
-    'id' => 103503,
-    'name' => 'Långsele',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 64.81667,
-    'longitude' => 20.25,
-  ),
-  395 => 
+  384 => 
   array (
     'id' => 103504,
     'name' => 'Långshyttan',
@@ -3565,7 +3466,7 @@ return array (
     'latitude' => 60.45238,
     'longitude' => 16.03831,
   ),
-  396 => 
+  385 => 
   array (
     'id' => 103505,
     'name' => 'Långvik',
@@ -3574,7 +3475,7 @@ return array (
     'latitude' => 59.24583,
     'longitude' => 18.51667,
   ),
-  397 => 
+  386 => 
   array (
     'id' => 103506,
     'name' => 'Löberöd',
@@ -3583,7 +3484,7 @@ return array (
     'latitude' => 55.7761,
     'longitude' => 13.52414,
   ),
-  398 => 
+  387 => 
   array (
     'id' => 103507,
     'name' => 'Löddeköpinge',
@@ -3592,7 +3493,7 @@ return array (
     'latitude' => 55.76667,
     'longitude' => 13.01667,
   ),
-  399 => 
+  388 => 
   array (
     'id' => 103508,
     'name' => 'Lödöse',
@@ -3601,7 +3502,7 @@ return array (
     'latitude' => 58.02994,
     'longitude' => 12.15934,
   ),
-  400 => 
+  389 => 
   array (
     'id' => 103509,
     'name' => 'Lönsboda',
@@ -3610,7 +3511,7 @@ return array (
     'latitude' => 56.4,
     'longitude' => 14.31667,
   ),
-  401 => 
+  390 => 
   array (
     'id' => 103510,
     'name' => 'Lövgärdet',
@@ -3619,7 +3520,7 @@ return array (
     'latitude' => 57.81555,
     'longitude' => 12.03861,
   ),
-  402 => 
+  391 => 
   array (
     'id' => 103511,
     'name' => 'Lövstalöt',
@@ -3628,7 +3529,7 @@ return array (
     'latitude' => 59.9574,
     'longitude' => 17.57826,
   ),
-  403 => 
+  392 => 
   array (
     'id' => 103512,
     'name' => 'Majorna',
@@ -3637,7 +3538,7 @@ return array (
     'latitude' => 57.69195,
     'longitude' => 11.91605,
   ),
-  404 => 
+  393 => 
   array (
     'id' => 103513,
     'name' => 'Malmberget',
@@ -3646,7 +3547,7 @@ return array (
     'latitude' => 67.17529,
     'longitude' => 20.65495,
   ),
-  405 => 
+  394 => 
   array (
     'id' => 103514,
     'name' => 'Malmbäck',
@@ -3655,7 +3556,7 @@ return array (
     'latitude' => 57.57667,
     'longitude' => 14.4617,
   ),
-  406 => 
+  395 => 
   array (
     'id' => 103515,
     'name' => 'Malmköping',
@@ -3664,7 +3565,7 @@ return array (
     'latitude' => 59.13333,
     'longitude' => 16.73333,
   ),
-  407 => 
+  396 => 
   array (
     'id' => 103516,
     'name' => 'Malmslätt',
@@ -3673,7 +3574,7 @@ return array (
     'latitude' => 58.41102,
     'longitude' => 15.51647,
   ),
-  408 => 
+  397 => 
   array (
     'id' => 103517,
     'name' => 'Malmö',
@@ -3682,7 +3583,7 @@ return array (
     'latitude' => 55.60587,
     'longitude' => 13.00073,
   ),
-  409 => 
+  398 => 
   array (
     'id' => 103518,
     'name' => 'Malung',
@@ -3691,7 +3592,7 @@ return array (
     'latitude' => 60.68329,
     'longitude' => 13.71542,
   ),
-  410 => 
+  399 => 
   array (
     'id' => 103520,
     'name' => 'Malå',
@@ -3700,7 +3601,7 @@ return array (
     'latitude' => 65.18501,
     'longitude' => 18.74243,
   ),
-  411 => 
+  400 => 
   array (
     'id' => 103522,
     'name' => 'Mantorp',
@@ -3709,7 +3610,7 @@ return array (
     'latitude' => 58.35,
     'longitude' => 15.28333,
   ),
-  412 => 
+  401 => 
   array (
     'id' => 103523,
     'name' => 'Mariannelund',
@@ -3718,7 +3619,7 @@ return array (
     'latitude' => 57.61667,
     'longitude' => 15.56667,
   ),
-  413 => 
+  402 => 
   array (
     'id' => 103524,
     'name' => 'Marieberg',
@@ -3727,7 +3628,7 @@ return array (
     'latitude' => 60.23333,
     'longitude' => 18.5,
   ),
-  414 => 
+  403 => 
   array (
     'id' => 103525,
     'name' => 'Mariefred',
@@ -3736,7 +3637,7 @@ return array (
     'latitude' => 59.25963,
     'longitude' => 17.223,
   ),
-  415 => 
+  404 => 
   array (
     'id' => 103526,
     'name' => 'Marieholm',
@@ -3745,16 +3646,7 @@ return array (
     'latitude' => 57.38333,
     'longitude' => 13.85,
   ),
-  416 => 
-  array (
-    'id' => 103527,
-    'name' => 'Marieholm',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 55.86667,
-    'longitude' => 13.15,
-  ),
-  417 => 
+  405 => 
   array (
     'id' => 103528,
     'name' => 'Marielund',
@@ -3763,7 +3655,7 @@ return array (
     'latitude' => 65.85307,
     'longitude' => 24.10486,
   ),
-  418 => 
+  406 => 
   array (
     'id' => 103529,
     'name' => 'Mariestad',
@@ -3772,7 +3664,7 @@ return array (
     'latitude' => 58.70971,
     'longitude' => 13.82367,
   ),
-  419 => 
+  407 => 
   array (
     'id' => 103531,
     'name' => 'Markaryd',
@@ -3781,7 +3673,7 @@ return array (
     'latitude' => 56.46135,
     'longitude' => 13.59644,
   ),
-  420 => 
+  408 => 
   array (
     'id' => 103534,
     'name' => 'Matfors',
@@ -3790,7 +3682,7 @@ return array (
     'latitude' => 62.34864,
     'longitude' => 17.03173,
   ),
-  421 => 
+  409 => 
   array (
     'id' => 103535,
     'name' => 'Mellbystrand',
@@ -3799,7 +3691,7 @@ return array (
     'latitude' => 56.48561,
     'longitude' => 12.93958,
   ),
-  422 => 
+  410 => 
   array (
     'id' => 103536,
     'name' => 'Mellerud',
@@ -3808,7 +3700,7 @@ return array (
     'latitude' => 58.69979,
     'longitude' => 12.45312,
   ),
-  423 => 
+  411 => 
   array (
     'id' => 103538,
     'name' => 'Mjällby',
@@ -3817,16 +3709,7 @@ return array (
     'latitude' => 56.68333,
     'longitude' => 12.76667,
   ),
-  424 => 
-  array (
-    'id' => 103539,
-    'name' => 'Mjällby',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 56.05,
-    'longitude' => 14.68333,
-  ),
-  425 => 
+  412 => 
   array (
     'id' => 103540,
     'name' => 'Mjölby',
@@ -3835,7 +3718,7 @@ return array (
     'latitude' => 58.32595,
     'longitude' => 15.12365,
   ),
-  426 => 
+  413 => 
   array (
     'id' => 103542,
     'name' => 'Mockfjärd',
@@ -3844,7 +3727,7 @@ return array (
     'latitude' => 60.5,
     'longitude' => 14.96667,
   ),
-  427 => 
+  414 => 
   array (
     'id' => 103543,
     'name' => 'Moheda',
@@ -3853,7 +3736,7 @@ return array (
     'latitude' => 57.0,
     'longitude' => 14.56667,
   ),
-  428 => 
+  415 => 
   array (
     'id' => 103544,
     'name' => 'Molkom',
@@ -3862,7 +3745,7 @@ return array (
     'latitude' => 59.60057,
     'longitude' => 13.72115,
   ),
-  429 => 
+  416 => 
   array (
     'id' => 103545,
     'name' => 'Mora',
@@ -3871,7 +3754,7 @@ return array (
     'latitude' => 61.00704,
     'longitude' => 14.54316,
   ),
-  430 => 
+  417 => 
   array (
     'id' => 103547,
     'name' => 'Morgongåva',
@@ -3880,7 +3763,7 @@ return array (
     'latitude' => 59.93395,
     'longitude' => 16.96353,
   ),
-  431 => 
+  418 => 
   array (
     'id' => 103548,
     'name' => 'Motala',
@@ -3889,7 +3772,7 @@ return array (
     'latitude' => 58.53706,
     'longitude' => 15.03649,
   ),
-  432 => 
+  419 => 
   array (
     'id' => 103550,
     'name' => 'Mullsjö',
@@ -3898,7 +3781,7 @@ return array (
     'latitude' => 57.9171,
     'longitude' => 13.87831,
   ),
-  433 => 
+  420 => 
   array (
     'id' => 103552,
     'name' => 'Munka-Ljungby',
@@ -3907,7 +3790,7 @@ return array (
     'latitude' => 56.25,
     'longitude' => 12.96667,
   ),
-  434 => 
+  421 => 
   array (
     'id' => 103553,
     'name' => 'Munkedal',
@@ -3916,7 +3799,7 @@ return array (
     'latitude' => 58.46634,
     'longitude' => 11.67345,
   ),
-  435 => 
+  422 => 
   array (
     'id' => 103555,
     'name' => 'Munkfors',
@@ -3925,7 +3808,7 @@ return array (
     'latitude' => 59.83856,
     'longitude' => 13.54361,
   ),
-  436 => 
+  423 => 
   array (
     'id' => 103557,
     'name' => 'Myggenäs',
@@ -3934,7 +3817,7 @@ return array (
     'latitude' => 58.06176,
     'longitude' => 11.74936,
   ),
-  437 => 
+  424 => 
   array (
     'id' => 103558,
     'name' => 'Märsta',
@@ -3943,7 +3826,7 @@ return array (
     'latitude' => 59.62157,
     'longitude' => 17.85476,
   ),
-  438 => 
+  425 => 
   array (
     'id' => 103559,
     'name' => 'Målilla',
@@ -3952,7 +3835,7 @@ return array (
     'latitude' => 57.38773,
     'longitude' => 15.80675,
   ),
-  439 => 
+  426 => 
   array (
     'id' => 103560,
     'name' => 'Mölltorp',
@@ -3961,7 +3844,7 @@ return array (
     'latitude' => 58.5,
     'longitude' => 14.4,
   ),
-  440 => 
+  427 => 
   array (
     'id' => 103561,
     'name' => 'Mölnbo',
@@ -3970,7 +3853,7 @@ return array (
     'latitude' => 59.05,
     'longitude' => 17.41667,
   ),
-  441 => 
+  428 => 
   array (
     'id' => 103562,
     'name' => 'Mölndal',
@@ -3979,7 +3862,7 @@ return array (
     'latitude' => 57.6554,
     'longitude' => 12.01378,
   ),
-  442 => 
+  429 => 
   array (
     'id' => 103564,
     'name' => 'Mölnlycke',
@@ -3988,7 +3871,7 @@ return array (
     'latitude' => 57.65893,
     'longitude' => 12.11792,
   ),
-  443 => 
+  430 => 
   array (
     'id' => 103565,
     'name' => 'Mönsterås',
@@ -3997,7 +3880,7 @@ return array (
     'latitude' => 57.04134,
     'longitude' => 16.44463,
   ),
-  444 => 
+  431 => 
   array (
     'id' => 103567,
     'name' => 'Mörarp',
@@ -4006,7 +3889,7 @@ return array (
     'latitude' => 56.05749,
     'longitude' => 12.88018,
   ),
-  445 => 
+  432 => 
   array (
     'id' => 103568,
     'name' => 'Mörbylånga',
@@ -4015,7 +3898,7 @@ return array (
     'latitude' => 56.5248,
     'longitude' => 16.37877,
   ),
-  446 => 
+  433 => 
   array (
     'id' => 103570,
     'name' => 'Mörrum',
@@ -4024,7 +3907,7 @@ return array (
     'latitude' => 56.19281,
     'longitude' => 14.74739,
   ),
-  447 => 
+  434 => 
   array (
     'id' => 103571,
     'name' => 'Mörtnäs',
@@ -4033,7 +3916,7 @@ return array (
     'latitude' => 59.31862,
     'longitude' => 18.44312,
   ),
-  448 => 
+  435 => 
   array (
     'id' => 103572,
     'name' => 'Nacka',
@@ -4042,7 +3925,7 @@ return array (
     'latitude' => 59.31053,
     'longitude' => 18.16372,
   ),
-  449 => 
+  436 => 
   array (
     'id' => 103574,
     'name' => 'Njurundabommen',
@@ -4051,7 +3934,7 @@ return array (
     'latitude' => 62.26339,
     'longitude' => 17.38354,
   ),
-  450 => 
+  437 => 
   array (
     'id' => 103575,
     'name' => 'Nolby',
@@ -4060,7 +3943,7 @@ return array (
     'latitude' => 62.2875,
     'longitude' => 17.36917,
   ),
-  451 => 
+  438 => 
   array (
     'id' => 103576,
     'name' => 'Nolvik',
@@ -4069,7 +3952,7 @@ return array (
     'latitude' => 57.775,
     'longitude' => 11.83333,
   ),
-  452 => 
+  439 => 
   array (
     'id' => 103577,
     'name' => 'Nora',
@@ -4078,7 +3961,7 @@ return array (
     'latitude' => 59.51926,
     'longitude' => 15.03979,
   ),
-  453 => 
+  440 => 
   array (
     'id' => 103579,
     'name' => 'Norberg',
@@ -4087,7 +3970,7 @@ return array (
     'latitude' => 60.06505,
     'longitude' => 15.92366,
   ),
-  454 => 
+  441 => 
   array (
     'id' => 103582,
     'name' => 'Nordmaling',
@@ -4096,7 +3979,7 @@ return array (
     'latitude' => 63.56852,
     'longitude' => 19.50244,
   ),
-  455 => 
+  442 => 
   array (
     'id' => 103584,
     'name' => 'Norra Åsum',
@@ -4105,7 +3988,7 @@ return array (
     'latitude' => 55.98333,
     'longitude' => 14.15,
   ),
-  456 => 
+  443 => 
   array (
     'id' => 103585,
     'name' => 'Norrfjärden',
@@ -4114,7 +3997,7 @@ return array (
     'latitude' => 65.41805,
     'longitude' => 21.50151,
   ),
-  457 => 
+  444 => 
   array (
     'id' => 103586,
     'name' => 'Norrköping',
@@ -4123,7 +4006,7 @@ return array (
     'latitude' => 58.59419,
     'longitude' => 16.1826,
   ),
-  458 => 
+  445 => 
   array (
     'id' => 103588,
     'name' => 'Norrtälje',
@@ -4132,7 +4015,7 @@ return array (
     'latitude' => 59.75799,
     'longitude' => 18.70496,
   ),
-  459 => 
+  446 => 
   array (
     'id' => 103590,
     'name' => 'Norsjö',
@@ -4141,7 +4024,7 @@ return array (
     'latitude' => 64.91206,
     'longitude' => 19.48153,
   ),
-  460 => 
+  447 => 
   array (
     'id' => 103592,
     'name' => 'Nossebro',
@@ -4150,7 +4033,7 @@ return array (
     'latitude' => 58.18808,
     'longitude' => 12.71599,
   ),
-  461 => 
+  448 => 
   array (
     'id' => 103593,
     'name' => 'Nybro',
@@ -4159,7 +4042,7 @@ return array (
     'latitude' => 56.74461,
     'longitude' => 15.90714,
   ),
-  462 => 
+  449 => 
   array (
     'id' => 103595,
     'name' => 'Nyhammar',
@@ -4168,7 +4051,7 @@ return array (
     'latitude' => 60.28333,
     'longitude' => 14.96667,
   ),
-  463 => 
+  450 => 
   array (
     'id' => 103596,
     'name' => 'Nykvarn',
@@ -4177,7 +4060,7 @@ return array (
     'latitude' => 59.8,
     'longitude' => 18.3,
   ),
-  464 => 
+  451 => 
   array (
     'id' => 103598,
     'name' => 'Nyköping',
@@ -4186,7 +4069,7 @@ return array (
     'latitude' => 58.753,
     'longitude' => 17.00788,
   ),
-  465 => 
+  452 => 
   array (
     'id' => 103600,
     'name' => 'Nynäshamn',
@@ -4195,7 +4078,7 @@ return array (
     'latitude' => 58.90337,
     'longitude' => 17.94793,
   ),
-  466 => 
+  453 => 
   array (
     'id' => 103602,
     'name' => 'Nässjö',
@@ -4204,7 +4087,7 @@ return array (
     'latitude' => 57.65307,
     'longitude' => 14.69676,
   ),
-  467 => 
+  454 => 
   array (
     'id' => 103604,
     'name' => 'Näsum',
@@ -4213,7 +4096,7 @@ return array (
     'latitude' => 56.17693,
     'longitude' => 14.49706,
   ),
-  468 => 
+  455 => 
   array (
     'id' => 103605,
     'name' => 'Nättraby',
@@ -4222,7 +4105,7 @@ return array (
     'latitude' => 56.2,
     'longitude' => 15.51667,
   ),
-  469 => 
+  456 => 
   array (
     'id' => 103606,
     'name' => 'Obbola',
@@ -4231,7 +4114,7 @@ return array (
     'latitude' => 63.7,
     'longitude' => 20.31667,
   ),
-  470 => 
+  457 => 
   array (
     'id' => 103607,
     'name' => 'Ockelbo',
@@ -4240,7 +4123,7 @@ return array (
     'latitude' => 60.8912,
     'longitude' => 16.71846,
   ),
-  471 => 
+  458 => 
   array (
     'id' => 103609,
     'name' => 'Odensbacken',
@@ -4249,7 +4132,7 @@ return array (
     'latitude' => 59.16667,
     'longitude' => 15.53333,
   ),
-  472 => 
+  459 => 
   array (
     'id' => 103610,
     'name' => 'Odensjö',
@@ -4258,7 +4141,7 @@ return array (
     'latitude' => 57.71667,
     'longitude' => 14.16667,
   ),
-  473 => 
+  460 => 
   array (
     'id' => 103611,
     'name' => 'Olofstorp',
@@ -4267,7 +4150,7 @@ return array (
     'latitude' => 57.80444,
     'longitude' => 12.17131,
   ),
-  474 => 
+  461 => 
   array (
     'id' => 103612,
     'name' => 'Olofström',
@@ -4276,7 +4159,7 @@ return array (
     'latitude' => 56.2773,
     'longitude' => 14.53402,
   ),
-  475 => 
+  462 => 
   array (
     'id' => 103614,
     'name' => 'Olstorp',
@@ -4285,16 +4168,7 @@ return array (
     'latitude' => 58.81667,
     'longitude' => 16.63333,
   ),
-  476 => 
-  array (
-    'id' => 103615,
-    'name' => 'Olstorp',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 57.82277,
-    'longitude' => 12.27696,
-  ),
-  477 => 
+  463 => 
   array (
     'id' => 103616,
     'name' => 'Onsala',
@@ -4303,7 +4177,7 @@ return array (
     'latitude' => 57.42531,
     'longitude' => 12.02903,
   ),
-  478 => 
+  464 => 
   array (
     'id' => 103617,
     'name' => 'Ornäs',
@@ -4312,7 +4186,7 @@ return array (
     'latitude' => 60.50944,
     'longitude' => 15.54128,
   ),
-  479 => 
+  465 => 
   array (
     'id' => 103618,
     'name' => 'Orsa',
@@ -4321,7 +4195,7 @@ return array (
     'latitude' => 61.12034,
     'longitude' => 14.6155,
   ),
-  480 => 
+  466 => 
   array (
     'id' => 103620,
     'name' => 'Orust',
@@ -4330,7 +4204,7 @@ return array (
     'latitude' => 58.18025,
     'longitude' => 11.63419,
   ),
-  481 => 
+  467 => 
   array (
     'id' => 103621,
     'name' => 'Osby',
@@ -4339,7 +4213,7 @@ return array (
     'latitude' => 56.38165,
     'longitude' => 13.99364,
   ),
-  482 => 
+  468 => 
   array (
     'id' => 103623,
     'name' => 'Oskarshamn',
@@ -4348,7 +4222,7 @@ return array (
     'latitude' => 57.26455,
     'longitude' => 16.44837,
   ),
-  483 => 
+  469 => 
   array (
     'id' => 103625,
     'name' => 'Oskarström',
@@ -4357,7 +4231,7 @@ return array (
     'latitude' => 56.8,
     'longitude' => 12.96667,
   ),
-  484 => 
+  470 => 
   array (
     'id' => 103627,
     'name' => 'Oxelösund',
@@ -4366,7 +4240,7 @@ return array (
     'latitude' => 58.67057,
     'longitude' => 17.10152,
   ),
-  485 => 
+  471 => 
   array (
     'id' => 103629,
     'name' => 'Oxie',
@@ -4375,7 +4249,7 @@ return array (
     'latitude' => 55.54014,
     'longitude' => 13.09605,
   ),
-  486 => 
+  472 => 
   array (
     'id' => 103630,
     'name' => 'Pajala',
@@ -4384,7 +4258,7 @@ return array (
     'latitude' => 67.21284,
     'longitude' => 23.36607,
   ),
-  487 => 
+  473 => 
   array (
     'id' => 103632,
     'name' => 'Partille',
@@ -4393,7 +4267,7 @@ return array (
     'latitude' => 57.7395,
     'longitude' => 12.10642,
   ),
-  488 => 
+  474 => 
   array (
     'id' => 103634,
     'name' => 'Pershagen',
@@ -4402,7 +4276,7 @@ return array (
     'latitude' => 59.15494,
     'longitude' => 17.6534,
   ),
-  489 => 
+  475 => 
   array (
     'id' => 103635,
     'name' => 'Perstorp',
@@ -4411,7 +4285,7 @@ return array (
     'latitude' => 56.13829,
     'longitude' => 13.39476,
   ),
-  490 => 
+  476 => 
   array (
     'id' => 103637,
     'name' => 'Piteå',
@@ -4420,7 +4294,7 @@ return array (
     'latitude' => 65.31717,
     'longitude' => 21.47944,
   ),
-  491 => 
+  477 => 
   array (
     'id' => 103639,
     'name' => 'Påarp',
@@ -4429,7 +4303,7 @@ return array (
     'latitude' => 56.03333,
     'longitude' => 12.81667,
   ),
-  492 => 
+  478 => 
   array (
     'id' => 103640,
     'name' => 'Pålsboda',
@@ -4438,7 +4312,7 @@ return array (
     'latitude' => 59.06565,
     'longitude' => 15.33747,
   ),
-  493 => 
+  479 => 
   array (
     'id' => 103641,
     'name' => 'Påskallavik',
@@ -4447,7 +4321,7 @@ return array (
     'latitude' => 57.16667,
     'longitude' => 16.45,
   ),
-  494 => 
+  480 => 
   array (
     'id' => 103642,
     'name' => 'Ramnäs',
@@ -4456,7 +4330,7 @@ return array (
     'latitude' => 59.76667,
     'longitude' => 16.2,
   ),
-  495 => 
+  481 => 
   array (
     'id' => 103643,
     'name' => 'Rannebergen',
@@ -4465,7 +4339,7 @@ return array (
     'latitude' => 57.80236,
     'longitude' => 12.07131,
   ),
-  496 => 
+  482 => 
   array (
     'id' => 103644,
     'name' => 'Reftele',
@@ -4474,7 +4348,7 @@ return array (
     'latitude' => 57.17467,
     'longitude' => 13.59498,
   ),
-  497 => 
+  483 => 
   array (
     'id' => 103645,
     'name' => 'Resarö',
@@ -4483,7 +4357,7 @@ return array (
     'latitude' => 59.4291,
     'longitude' => 18.33386,
   ),
-  498 => 
+  484 => 
   array (
     'id' => 103646,
     'name' => 'Rimbo',
@@ -4492,7 +4366,7 @@ return array (
     'latitude' => 59.75,
     'longitude' => 18.36667,
   ),
-  499 => 
+  485 => 
   array (
     'id' => 103647,
     'name' => 'Rimforsa',
@@ -4501,7 +4375,7 @@ return array (
     'latitude' => 58.13624,
     'longitude' => 15.6865,
   ),
-  500 => 
+  486 => 
   array (
     'id' => 103648,
     'name' => 'Rindö',
@@ -4510,7 +4384,7 @@ return array (
     'latitude' => 59.39688,
     'longitude' => 18.39434,
   ),
-  501 => 
+  487 => 
   array (
     'id' => 103649,
     'name' => 'Rinkabyholm',
@@ -4519,7 +4393,7 @@ return array (
     'latitude' => 56.64972,
     'longitude' => 16.26667,
   ),
-  502 => 
+  488 => 
   array (
     'id' => 103650,
     'name' => 'Robertsfors',
@@ -4528,7 +4402,7 @@ return array (
     'latitude' => 64.19324,
     'longitude' => 20.84806,
   ),
-  503 => 
+  489 => 
   array (
     'id' => 103652,
     'name' => 'Roknäs',
@@ -4537,7 +4411,7 @@ return array (
     'latitude' => 65.35,
     'longitude' => 21.2,
   ),
-  504 => 
+  490 => 
   array (
     'id' => 103653,
     'name' => 'Rolfs',
@@ -4546,7 +4420,7 @@ return array (
     'latitude' => 65.85,
     'longitude' => 23.11667,
   ),
-  505 => 
+  491 => 
   array (
     'id' => 103654,
     'name' => 'Romme',
@@ -4555,7 +4429,7 @@ return array (
     'latitude' => 60.43333,
     'longitude' => 15.5,
   ),
-  506 => 
+  492 => 
   array (
     'id' => 103655,
     'name' => 'Ronneby',
@@ -4564,7 +4438,7 @@ return array (
     'latitude' => 56.20999,
     'longitude' => 15.27602,
   ),
-  507 => 
+  493 => 
   array (
     'id' => 103657,
     'name' => 'Rosersberg',
@@ -4573,7 +4447,7 @@ return array (
     'latitude' => 59.58333,
     'longitude' => 17.88333,
   ),
-  508 => 
+  494 => 
   array (
     'id' => 103658,
     'name' => 'Rosvik',
@@ -4582,7 +4456,7 @@ return array (
     'latitude' => 65.43333,
     'longitude' => 21.7,
   ),
-  509 => 
+  495 => 
   array (
     'id' => 103659,
     'name' => 'Rottne',
@@ -4591,7 +4465,7 @@ return array (
     'latitude' => 57.01667,
     'longitude' => 14.9,
   ),
-  510 => 
+  496 => 
   array (
     'id' => 103660,
     'name' => 'Ryd',
@@ -4600,16 +4474,7 @@ return array (
     'latitude' => 56.46667,
     'longitude' => 14.68333,
   ),
-  511 => 
-  array (
-    'id' => 103661,
-    'name' => 'Ryd',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 58.66667,
-    'longitude' => 15.08333,
-  ),
-  512 => 
+  497 => 
   array (
     'id' => 103662,
     'name' => 'Rydaholm',
@@ -4618,7 +4483,7 @@ return array (
     'latitude' => 56.98388,
     'longitude' => 14.30849,
   ),
-  513 => 
+  498 => 
   array (
     'id' => 103663,
     'name' => 'Rydebäck',
@@ -4627,7 +4492,7 @@ return array (
     'latitude' => 55.96667,
     'longitude' => 12.76667,
   ),
-  514 => 
+  499 => 
   array (
     'id' => 103664,
     'name' => 'Rydsgård',
@@ -4636,7 +4501,7 @@ return array (
     'latitude' => 55.47285,
     'longitude' => 13.58829,
   ),
-  515 => 
+  500 => 
   array (
     'id' => 103665,
     'name' => 'Rättvik',
@@ -4645,7 +4510,7 @@ return array (
     'latitude' => 60.88632,
     'longitude' => 15.11787,
   ),
-  516 => 
+  501 => 
   array (
     'id' => 103667,
     'name' => 'Rävlanda',
@@ -4654,7 +4519,7 @@ return array (
     'latitude' => 57.65338,
     'longitude' => 12.49791,
   ),
-  517 => 
+  502 => 
   array (
     'id' => 103668,
     'name' => 'Råneå',
@@ -4663,7 +4528,7 @@ return array (
     'latitude' => 65.85482,
     'longitude' => 22.29126,
   ),
-  518 => 
+  503 => 
   array (
     'id' => 103669,
     'name' => 'Råsunda',
@@ -4672,7 +4537,7 @@ return array (
     'latitude' => 59.36588,
     'longitude' => 17.99569,
   ),
-  519 => 
+  504 => 
   array (
     'id' => 103670,
     'name' => 'Råtorp',
@@ -4681,7 +4546,7 @@ return array (
     'latitude' => 59.40197,
     'longitude' => 13.49144,
   ),
-  520 => 
+  505 => 
   array (
     'id' => 103671,
     'name' => 'Röbäck',
@@ -4690,7 +4555,7 @@ return array (
     'latitude' => 63.80879,
     'longitude' => 20.18901,
   ),
-  521 => 
+  506 => 
   array (
     'id' => 103672,
     'name' => 'Rödeby',
@@ -4699,7 +4564,7 @@ return array (
     'latitude' => 56.26078,
     'longitude' => 15.62143,
   ),
-  522 => 
+  507 => 
   array (
     'id' => 103673,
     'name' => 'Rönninge',
@@ -4708,7 +4573,7 @@ return array (
     'latitude' => 59.2,
     'longitude' => 17.73333,
   ),
-  523 => 
+  508 => 
   array (
     'id' => 103674,
     'name' => 'Rönnäng',
@@ -4717,7 +4582,7 @@ return array (
     'latitude' => 57.93333,
     'longitude' => 11.58333,
   ),
-  524 => 
+  509 => 
   array (
     'id' => 103675,
     'name' => 'Sala',
@@ -4726,7 +4591,7 @@ return array (
     'latitude' => 59.91993,
     'longitude' => 16.60655,
   ),
-  525 => 
+  510 => 
   array (
     'id' => 103678,
     'name' => 'Saltsjöbaden',
@@ -4735,7 +4600,7 @@ return array (
     'latitude' => 59.28333,
     'longitude' => 18.3,
   ),
-  526 => 
+  511 => 
   array (
     'id' => 103679,
     'name' => 'Sandared',
@@ -4744,7 +4609,7 @@ return array (
     'latitude' => 57.70992,
     'longitude' => 12.79238,
   ),
-  527 => 
+  512 => 
   array (
     'id' => 103680,
     'name' => 'Sandarne',
@@ -4753,7 +4618,7 @@ return array (
     'latitude' => 61.25893,
     'longitude' => 17.15284,
   ),
-  528 => 
+  513 => 
   array (
     'id' => 103681,
     'name' => 'Sandviken',
@@ -4762,7 +4627,7 @@ return array (
     'latitude' => 60.61667,
     'longitude' => 16.76667,
   ),
-  529 => 
+  514 => 
   array (
     'id' => 103683,
     'name' => 'Saxtorpsskogen',
@@ -4771,7 +4636,7 @@ return array (
     'latitude' => 55.83208,
     'longitude' => 12.94429,
   ),
-  530 => 
+  515 => 
   array (
     'id' => 103684,
     'name' => 'Segeltorp',
@@ -4780,7 +4645,7 @@ return array (
     'latitude' => 59.27597,
     'longitude' => 17.93072,
   ),
-  531 => 
+  516 => 
   array (
     'id' => 103685,
     'name' => 'Sibbhult',
@@ -4789,7 +4654,7 @@ return array (
     'latitude' => 56.26667,
     'longitude' => 14.2,
   ),
-  532 => 
+  517 => 
   array (
     'id' => 103686,
     'name' => 'Sigtuna',
@@ -4798,7 +4663,7 @@ return array (
     'latitude' => 59.61731,
     'longitude' => 17.72361,
   ),
-  533 => 
+  518 => 
   array (
     'id' => 103688,
     'name' => 'Siljansnäs',
@@ -4807,7 +4672,7 @@ return array (
     'latitude' => 60.78333,
     'longitude' => 14.85,
   ),
-  534 => 
+  519 => 
   array (
     'id' => 103689,
     'name' => 'Simrishamn',
@@ -4816,7 +4681,7 @@ return array (
     'latitude' => 55.55653,
     'longitude' => 14.35037,
   ),
-  535 => 
+  520 => 
   array (
     'id' => 103691,
     'name' => 'Sjuntorp',
@@ -4825,7 +4690,7 @@ return array (
     'latitude' => 58.2,
     'longitude' => 12.21667,
   ),
-  536 => 
+  521 => 
   array (
     'id' => 103692,
     'name' => 'Sjöbo',
@@ -4834,7 +4699,7 @@ return array (
     'latitude' => 55.63135,
     'longitude' => 13.70622,
   ),
-  537 => 
+  522 => 
   array (
     'id' => 103694,
     'name' => 'Sjömarken',
@@ -4843,7 +4708,7 @@ return array (
     'latitude' => 57.71533,
     'longitude' => 12.83495,
   ),
-  538 => 
+  523 => 
   array (
     'id' => 103695,
     'name' => 'Skanör med Falsterbo',
@@ -4852,7 +4717,7 @@ return array (
     'latitude' => 55.4,
     'longitude' => 12.85,
   ),
-  539 => 
+  524 => 
   array (
     'id' => 103696,
     'name' => 'Skara',
@@ -4861,7 +4726,7 @@ return array (
     'latitude' => 58.38659,
     'longitude' => 13.43836,
   ),
-  540 => 
+  525 => 
   array (
     'id' => 103698,
     'name' => 'Skattkärr',
@@ -4870,7 +4735,7 @@ return array (
     'latitude' => 59.41208,
     'longitude' => 13.67078,
   ),
-  541 => 
+  526 => 
   array (
     'id' => 103699,
     'name' => 'Skegrie',
@@ -4879,7 +4744,7 @@ return array (
     'latitude' => 55.40633,
     'longitude' => 13.07693,
   ),
-  542 => 
+  527 => 
   array (
     'id' => 103700,
     'name' => 'Skelleftehamn',
@@ -4888,7 +4753,7 @@ return array (
     'latitude' => 64.68333,
     'longitude' => 21.23333,
   ),
-  543 => 
+  528 => 
   array (
     'id' => 103701,
     'name' => 'Skellefteå',
@@ -4897,7 +4762,7 @@ return array (
     'latitude' => 64.75067,
     'longitude' => 20.95279,
   ),
-  544 => 
+  529 => 
   array (
     'id' => 103703,
     'name' => 'Skepplanda',
@@ -4906,7 +4771,7 @@ return array (
     'latitude' => 57.98333,
     'longitude' => 12.2,
   ),
-  545 => 
+  530 => 
   array (
     'id' => 103704,
     'name' => 'Skillingaryd',
@@ -4915,7 +4780,7 @@ return array (
     'latitude' => 57.43044,
     'longitude' => 14.09383,
   ),
-  546 => 
+  531 => 
   array (
     'id' => 103705,
     'name' => 'Skinnskatteberg',
@@ -4924,7 +4789,7 @@ return array (
     'latitude' => 59.83028,
     'longitude' => 15.69337,
   ),
-  547 => 
+  532 => 
   array (
     'id' => 103707,
     'name' => 'Skivarp',
@@ -4933,7 +4798,7 @@ return array (
     'latitude' => 55.41667,
     'longitude' => 13.56667,
   ),
-  548 => 
+  533 => 
   array (
     'id' => 103708,
     'name' => 'Skoghall',
@@ -4942,7 +4807,7 @@ return array (
     'latitude' => 59.32324,
     'longitude' => 13.46552,
   ),
-  549 => 
+  534 => 
   array (
     'id' => 103709,
     'name' => 'Skogstorp',
@@ -4951,7 +4816,7 @@ return array (
     'latitude' => 59.32472,
     'longitude' => 16.48284,
   ),
-  550 => 
+  535 => 
   array (
     'id' => 103710,
     'name' => 'Skottsund',
@@ -4960,7 +4825,7 @@ return array (
     'latitude' => 62.29056,
     'longitude' => 17.38694,
   ),
-  551 => 
+  536 => 
   array (
     'id' => 103711,
     'name' => 'Skrea',
@@ -4969,7 +4834,7 @@ return array (
     'latitude' => 56.88333,
     'longitude' => 12.56667,
   ),
-  552 => 
+  537 => 
   array (
     'id' => 103712,
     'name' => 'Skultorp',
@@ -4978,7 +4843,7 @@ return array (
     'latitude' => 58.35,
     'longitude' => 13.83333,
   ),
-  553 => 
+  538 => 
   array (
     'id' => 103713,
     'name' => 'Skultuna',
@@ -4987,7 +4852,7 @@ return array (
     'latitude' => 59.71667,
     'longitude' => 16.41667,
   ),
-  554 => 
+  539 => 
   array (
     'id' => 103714,
     'name' => 'Skurup',
@@ -4996,7 +4861,7 @@ return array (
     'latitude' => 55.47839,
     'longitude' => 13.50186,
   ),
-  555 => 
+  540 => 
   array (
     'id' => 103716,
     'name' => 'Skutskär',
@@ -5005,7 +4870,7 @@ return array (
     'latitude' => 60.62507,
     'longitude' => 17.41552,
   ),
-  556 => 
+  541 => 
   array (
     'id' => 103717,
     'name' => 'Skänninge',
@@ -5014,16 +4879,7 @@ return array (
     'latitude' => 59.93333,
     'longitude' => 18.48333,
   ),
-  557 => 
-  array (
-    'id' => 103718,
-    'name' => 'Skänninge',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 58.39427,
-    'longitude' => 15.08659,
-  ),
-  558 => 
+  542 => 
   array (
     'id' => 103719,
     'name' => 'Skärblacka',
@@ -5032,7 +4888,7 @@ return array (
     'latitude' => 58.56667,
     'longitude' => 15.9,
   ),
-  559 => 
+  543 => 
   array (
     'id' => 103720,
     'name' => 'Skärhamn',
@@ -5041,7 +4897,7 @@ return array (
     'latitude' => 57.98665,
     'longitude' => 11.55742,
   ),
-  560 => 
+  544 => 
   array (
     'id' => 103721,
     'name' => 'Skåre',
@@ -5050,16 +4906,7 @@ return array (
     'latitude' => 55.38333,
     'longitude' => 13.05,
   ),
-  561 => 
-  array (
-    'id' => 103722,
-    'name' => 'Skåre',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 59.43333,
-    'longitude' => 13.43333,
-  ),
-  562 => 
+  545 => 
   array (
     'id' => 103723,
     'name' => 'Sköllersta',
@@ -5068,7 +4915,7 @@ return array (
     'latitude' => 59.13738,
     'longitude' => 15.3394,
   ),
-  563 => 
+  546 => 
   array (
     'id' => 103724,
     'name' => 'Skövde',
@@ -5077,7 +4924,7 @@ return array (
     'latitude' => 58.39118,
     'longitude' => 13.84506,
   ),
-  564 => 
+  547 => 
   array (
     'id' => 103726,
     'name' => 'Slottsbron',
@@ -5086,7 +4933,7 @@ return array (
     'latitude' => 59.3227,
     'longitude' => 13.10268,
   ),
-  565 => 
+  548 => 
   array (
     'id' => 103727,
     'name' => 'Smedby',
@@ -5095,16 +4942,7 @@ return array (
     'latitude' => 56.67413,
     'longitude' => 16.2432,
   ),
-  566 => 
-  array (
-    'id' => 103728,
-    'name' => 'Smedby',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 60.7,
-    'longitude' => 15.05,
-  ),
-  567 => 
+  549 => 
   array (
     'id' => 103729,
     'name' => 'Smedjebacken',
@@ -5113,7 +4951,7 @@ return array (
     'latitude' => 60.14181,
     'longitude' => 15.41416,
   ),
-  568 => 
+  550 => 
   array (
     'id' => 103731,
     'name' => 'Smygehamn',
@@ -5122,7 +4960,7 @@ return array (
     'latitude' => 55.34337,
     'longitude' => 13.36989,
   ),
-  569 => 
+  551 => 
   array (
     'id' => 103732,
     'name' => 'Smålandsstenar',
@@ -5131,7 +4969,7 @@ return array (
     'latitude' => 57.16241,
     'longitude' => 13.41212,
   ),
-  570 => 
+  552 => 
   array (
     'id' => 103733,
     'name' => 'Smögen',
@@ -5140,7 +4978,7 @@ return array (
     'latitude' => 58.35593,
     'longitude' => 11.22411,
   ),
-  571 => 
+  553 => 
   array (
     'id' => 103734,
     'name' => 'Sollebrunn',
@@ -5149,7 +4987,7 @@ return array (
     'latitude' => 58.11667,
     'longitude' => 12.53333,
   ),
-  572 => 
+  554 => 
   array (
     'id' => 103735,
     'name' => 'Sollefteå',
@@ -5158,7 +4996,7 @@ return array (
     'latitude' => 63.16667,
     'longitude' => 17.26667,
   ),
-  573 => 
+  555 => 
   array (
     'id' => 103737,
     'name' => 'Sollentuna',
@@ -5167,7 +5005,7 @@ return array (
     'latitude' => 59.42804,
     'longitude' => 17.95093,
   ),
-  574 => 
+  556 => 
   array (
     'id' => 103739,
     'name' => 'Solna',
@@ -5176,7 +5014,7 @@ return array (
     'latitude' => 59.36004,
     'longitude' => 18.00086,
   ),
-  575 => 
+  557 => 
   array (
     'id' => 103741,
     'name' => 'Sorsele',
@@ -5185,7 +5023,7 @@ return array (
     'latitude' => 65.53484,
     'longitude' => 17.53702,
   ),
-  576 => 
+  558 => 
   array (
     'id' => 103744,
     'name' => 'Staffanstorp',
@@ -5194,7 +5032,7 @@ return array (
     'latitude' => 55.64277,
     'longitude' => 13.20638,
   ),
-  577 => 
+  559 => 
   array (
     'id' => 103746,
     'name' => 'Stallarholmen',
@@ -5203,7 +5041,7 @@ return array (
     'latitude' => 59.36667,
     'longitude' => 17.2,
   ),
-  578 => 
+  560 => 
   array (
     'id' => 103747,
     'name' => 'Stavsnäs',
@@ -5212,7 +5050,7 @@ return array (
     'latitude' => 59.28333,
     'longitude' => 18.68333,
   ),
-  579 => 
+  561 => 
   array (
     'id' => 103748,
     'name' => 'Stehag',
@@ -5221,7 +5059,7 @@ return array (
     'latitude' => 55.90188,
     'longitude' => 13.39577,
   ),
-  580 => 
+  562 => 
   array (
     'id' => 103749,
     'name' => 'Stenhamra',
@@ -5230,7 +5068,7 @@ return array (
     'latitude' => 59.3344,
     'longitude' => 17.68842,
   ),
-  581 => 
+  563 => 
   array (
     'id' => 103750,
     'name' => 'Steninge',
@@ -5239,7 +5077,7 @@ return array (
     'latitude' => 56.769,
     'longitude' => 12.63034,
   ),
-  582 => 
+  564 => 
   array (
     'id' => 103751,
     'name' => 'Stenkullen',
@@ -5248,7 +5086,7 @@ return array (
     'latitude' => 57.79476,
     'longitude' => 12.31688,
   ),
-  583 => 
+  565 => 
   array (
     'id' => 103752,
     'name' => 'Stenstorp',
@@ -5257,16 +5095,7 @@ return array (
     'latitude' => 58.48333,
     'longitude' => 15.06667,
   ),
-  584 => 
-  array (
-    'id' => 103753,
-    'name' => 'Stenstorp',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 58.27254,
-    'longitude' => 13.71454,
-  ),
-  585 => 
+  566 => 
   array (
     'id' => 103754,
     'name' => 'Stenungsund',
@@ -5275,7 +5104,7 @@ return array (
     'latitude' => 58.07046,
     'longitude' => 11.8181,
   ),
-  586 => 
+  567 => 
   array (
     'id' => 103756,
     'name' => 'Stigtomta',
@@ -5284,7 +5113,7 @@ return array (
     'latitude' => 58.8,
     'longitude' => 16.78333,
   ),
-  587 => 
+  568 => 
   array (
     'id' => 103757,
     'name' => 'Stockaryd',
@@ -5293,7 +5122,7 @@ return array (
     'latitude' => 57.31737,
     'longitude' => 14.59341,
   ),
-  588 => 
+  569 => 
   array (
     'id' => 103758,
     'name' => 'Stockholm',
@@ -5302,7 +5131,7 @@ return array (
     'latitude' => 59.33258,
     'longitude' => 18.0649,
   ),
-  589 => 
+  570 => 
   array (
     'id' => 103760,
     'name' => 'Stockvik',
@@ -5311,7 +5140,7 @@ return array (
     'latitude' => 62.33667,
     'longitude' => 17.36583,
   ),
-  590 => 
+  571 => 
   array (
     'id' => 103761,
     'name' => 'Stora Höga',
@@ -5320,7 +5149,7 @@ return array (
     'latitude' => 58.01667,
     'longitude' => 11.83333,
   ),
-  591 => 
+  572 => 
   array (
     'id' => 103762,
     'name' => 'Storebro',
@@ -5329,7 +5158,7 @@ return array (
     'latitude' => 57.58333,
     'longitude' => 15.85,
   ),
-  592 => 
+  573 => 
   array (
     'id' => 103763,
     'name' => 'Storfors',
@@ -5338,7 +5167,7 @@ return array (
     'latitude' => 59.53183,
     'longitude' => 14.27201,
   ),
-  593 => 
+  574 => 
   array (
     'id' => 103765,
     'name' => 'Storuman',
@@ -5347,7 +5176,7 @@ return array (
     'latitude' => 65.0959,
     'longitude' => 17.11731,
   ),
-  594 => 
+  575 => 
   array (
     'id' => 103767,
     'name' => 'Storvik',
@@ -5356,16 +5185,7 @@ return array (
     'latitude' => 65.15,
     'longitude' => 20.73333,
   ),
-  595 => 
-  array (
-    'id' => 103768,
-    'name' => 'Storvik',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 60.58333,
-    'longitude' => 16.53333,
-  ),
-  596 => 
+  576 => 
   array (
     'id' => 103769,
     'name' => 'Storvreta',
@@ -5374,7 +5194,7 @@ return array (
     'latitude' => 59.95933,
     'longitude' => 17.70588,
   ),
-  597 => 
+  577 => 
   array (
     'id' => 103770,
     'name' => 'Storå',
@@ -5383,7 +5203,7 @@ return array (
     'latitude' => 59.71409,
     'longitude' => 15.13169,
   ),
-  598 => 
+  578 => 
   array (
     'id' => 103771,
     'name' => 'Strängnäs',
@@ -5392,7 +5212,7 @@ return array (
     'latitude' => 59.37741,
     'longitude' => 17.03119,
   ),
-  599 => 
+  579 => 
   array (
     'id' => 103773,
     'name' => 'Strömma',
@@ -5401,7 +5221,7 @@ return array (
     'latitude' => 59.28333,
     'longitude' => 18.53333,
   ),
-  600 => 
+  580 => 
   array (
     'id' => 103774,
     'name' => 'Strömsnäsbruk',
@@ -5410,7 +5230,7 @@ return array (
     'latitude' => 56.55,
     'longitude' => 13.71667,
   ),
-  601 => 
+  581 => 
   array (
     'id' => 103775,
     'name' => 'Strömstad',
@@ -5419,7 +5239,7 @@ return array (
     'latitude' => 58.93945,
     'longitude' => 11.1712,
   ),
-  602 => 
+  582 => 
   array (
     'id' => 103777,
     'name' => 'Strövelstorp',
@@ -5428,7 +5248,7 @@ return array (
     'latitude' => 56.16979,
     'longitude' => 12.83925,
   ),
-  603 => 
+  583 => 
   array (
     'id' => 103778,
     'name' => 'Sturefors',
@@ -5437,7 +5257,7 @@ return array (
     'latitude' => 58.33333,
     'longitude' => 15.73333,
   ),
-  604 => 
+  584 => 
   array (
     'id' => 103779,
     'name' => 'Sturkö',
@@ -5446,7 +5266,7 @@ return array (
     'latitude' => 56.08333,
     'longitude' => 15.7,
   ),
-  605 => 
+  585 => 
   array (
     'id' => 103780,
     'name' => 'Styrsö',
@@ -5455,7 +5275,7 @@ return array (
     'latitude' => 57.61639,
     'longitude' => 11.78556,
   ),
-  606 => 
+  586 => 
   array (
     'id' => 103781,
     'name' => 'Stångby',
@@ -5464,7 +5284,7 @@ return array (
     'latitude' => 55.7503,
     'longitude' => 13.19797,
   ),
-  607 => 
+  587 => 
   array (
     'id' => 103782,
     'name' => 'Stöpen',
@@ -5473,7 +5293,7 @@ return array (
     'latitude' => 58.47802,
     'longitude' => 13.86611,
   ),
-  608 => 
+  588 => 
   array (
     'id' => 103783,
     'name' => 'Sundbyberg',
@@ -5482,7 +5302,7 @@ return array (
     'latitude' => 59.36128,
     'longitude' => 17.97114,
   ),
-  609 => 
+  589 => 
   array (
     'id' => 103785,
     'name' => 'Sundsbruk',
@@ -5491,7 +5311,7 @@ return array (
     'latitude' => 62.45806,
     'longitude' => 17.34889,
   ),
-  610 => 
+  590 => 
   array (
     'id' => 103786,
     'name' => 'Sundsvall',
@@ -5500,7 +5320,7 @@ return array (
     'latitude' => 62.39129,
     'longitude' => 17.3063,
   ),
-  611 => 
+  591 => 
   array (
     'id' => 103788,
     'name' => 'Sunne',
@@ -5509,7 +5329,7 @@ return array (
     'latitude' => 59.83764,
     'longitude' => 13.14302,
   ),
-  612 => 
+  592 => 
   array (
     'id' => 103790,
     'name' => 'Surahammar',
@@ -5518,7 +5338,7 @@ return array (
     'latitude' => 59.70725,
     'longitude' => 16.22188,
   ),
-  613 => 
+  593 => 
   array (
     'id' => 103792,
     'name' => 'Surte',
@@ -5527,7 +5347,7 @@ return array (
     'latitude' => 57.82533,
     'longitude' => 12.01604,
   ),
-  614 => 
+  594 => 
   array (
     'id' => 103793,
     'name' => 'Svalsta',
@@ -5536,7 +5356,7 @@ return array (
     'latitude' => 58.74273,
     'longitude' => 16.86978,
   ),
-  615 => 
+  595 => 
   array (
     'id' => 103794,
     'name' => 'Svalöv',
@@ -5545,7 +5365,7 @@ return array (
     'latitude' => 55.9134,
     'longitude' => 13.10762,
   ),
-  616 => 
+  596 => 
   array (
     'id' => 103796,
     'name' => 'Svanesund',
@@ -5554,7 +5374,7 @@ return array (
     'latitude' => 58.14292,
     'longitude' => 11.81821,
   ),
-  617 => 
+  597 => 
   array (
     'id' => 103797,
     'name' => 'Svedala',
@@ -5563,7 +5383,7 @@ return array (
     'latitude' => 55.50788,
     'longitude' => 13.23515,
   ),
-  618 => 
+  598 => 
   array (
     'id' => 103799,
     'name' => 'Svenljunga',
@@ -5572,7 +5392,7 @@ return array (
     'latitude' => 57.49551,
     'longitude' => 13.11078,
   ),
-  619 => 
+  599 => 
   array (
     'id' => 103801,
     'name' => 'Svängsta',
@@ -5581,7 +5401,7 @@ return array (
     'latitude' => 56.26667,
     'longitude' => 14.76667,
   ),
-  620 => 
+  600 => 
   array (
     'id' => 103802,
     'name' => 'Svärdsjö',
@@ -5590,7 +5410,7 @@ return array (
     'latitude' => 60.74022,
     'longitude' => 15.90173,
   ),
-  621 => 
+  601 => 
   array (
     'id' => 103803,
     'name' => 'Svärtinge',
@@ -5599,7 +5419,7 @@ return array (
     'latitude' => 58.65507,
     'longitude' => 16.02823,
   ),
-  622 => 
+  602 => 
   array (
     'id' => 103804,
     'name' => 'Säffle',
@@ -5608,7 +5428,7 @@ return array (
     'latitude' => 59.13229,
     'longitude' => 12.92888,
   ),
-  623 => 
+  603 => 
   array (
     'id' => 103806,
     'name' => 'Särö',
@@ -5617,7 +5437,7 @@ return array (
     'latitude' => 57.50577,
     'longitude' => 11.9321,
   ),
-  624 => 
+  604 => 
   array (
     'id' => 103807,
     'name' => 'Säter',
@@ -5626,7 +5446,7 @@ return array (
     'latitude' => 60.34778,
     'longitude' => 15.75051,
   ),
-  625 => 
+  605 => 
   array (
     'id' => 103809,
     'name' => 'Sätila',
@@ -5635,7 +5455,7 @@ return array (
     'latitude' => 57.54172,
     'longitude' => 12.43429,
   ),
-  626 => 
+  606 => 
   array (
     'id' => 103810,
     'name' => 'Sätofta',
@@ -5644,7 +5464,7 @@ return array (
     'latitude' => 55.91667,
     'longitude' => 13.55,
   ),
-  627 => 
+  607 => 
   array (
     'id' => 103811,
     'name' => 'Sävar',
@@ -5653,7 +5473,7 @@ return array (
     'latitude' => 63.90383,
     'longitude' => 20.55014,
   ),
-  628 => 
+  608 => 
   array (
     'id' => 103812,
     'name' => 'Sävast',
@@ -5662,7 +5482,7 @@ return array (
     'latitude' => 65.77002,
     'longitude' => 21.73113,
   ),
-  629 => 
+  609 => 
   array (
     'id' => 103813,
     'name' => 'Sävja',
@@ -5671,7 +5491,7 @@ return array (
     'latitude' => 59.81872,
     'longitude' => 17.69958,
   ),
-  630 => 
+  610 => 
   array (
     'id' => 103814,
     'name' => 'Sävsjö',
@@ -5680,7 +5500,7 @@ return array (
     'latitude' => 57.40327,
     'longitude' => 14.66244,
   ),
-  631 => 
+  611 => 
   array (
     'id' => 103816,
     'name' => 'Sålanda',
@@ -5689,7 +5509,7 @@ return array (
     'latitude' => 57.98333,
     'longitude' => 12.21667,
   ),
-  632 => 
+  612 => 
   array (
     'id' => 103817,
     'name' => 'Söderfors',
@@ -5698,16 +5518,7 @@ return array (
     'latitude' => 60.38333,
     'longitude' => 17.23333,
   ),
-  633 => 
-  array (
-    'id' => 103818,
-    'name' => 'Söderfors',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 64.81667,
-    'longitude' => 18.05,
-  ),
-  634 => 
+  613 => 
   array (
     'id' => 103819,
     'name' => 'Söderhamn',
@@ -5716,7 +5527,7 @@ return array (
     'latitude' => 61.30373,
     'longitude' => 17.05921,
   ),
-  635 => 
+  614 => 
   array (
     'id' => 103821,
     'name' => 'Söderköping',
@@ -5725,7 +5536,7 @@ return array (
     'latitude' => 58.48057,
     'longitude' => 16.32221,
   ),
-  636 => 
+  615 => 
   array (
     'id' => 103823,
     'name' => 'Södermalm',
@@ -5734,7 +5545,7 @@ return array (
     'latitude' => 59.31278,
     'longitude' => 18.07577,
   ),
-  637 => 
+  616 => 
   array (
     'id' => 103824,
     'name' => 'Södertälje',
@@ -5743,7 +5554,7 @@ return array (
     'latitude' => 59.19554,
     'longitude' => 17.62525,
   ),
-  638 => 
+  617 => 
   array (
     'id' => 103826,
     'name' => 'Södra Sandby',
@@ -5752,16 +5563,7 @@ return array (
     'latitude' => 55.71677,
     'longitude' => 13.34659,
   ),
-  639 => 
-  array (
-    'id' => 103827,
-    'name' => 'Södra Sandby',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 56.56667,
-    'longitude' => 16.61667,
-  ),
-  640 => 
+  618 => 
   array (
     'id' => 103828,
     'name' => 'Södra Sunderbyn',
@@ -5770,7 +5572,7 @@ return array (
     'latitude' => 65.65983,
     'longitude' => 21.94004,
   ),
-  641 => 
+  619 => 
   array (
     'id' => 103829,
     'name' => 'Södra Vi',
@@ -5779,7 +5581,7 @@ return array (
     'latitude' => 57.73993,
     'longitude' => 15.79391,
   ),
-  642 => 
+  620 => 
   array (
     'id' => 103830,
     'name' => 'Sölvesborg',
@@ -5788,7 +5590,7 @@ return array (
     'latitude' => 56.05205,
     'longitude' => 14.57525,
   ),
-  643 => 
+  621 => 
   array (
     'id' => 103832,
     'name' => 'Sörforsa',
@@ -5797,7 +5599,7 @@ return array (
     'latitude' => 61.73333,
     'longitude' => 16.98333,
   ),
-  644 => 
+  622 => 
   array (
     'id' => 103833,
     'name' => 'Söråker',
@@ -5806,7 +5608,7 @@ return array (
     'latitude' => 62.50561,
     'longitude' => 17.51032,
   ),
-  645 => 
+  623 => 
   array (
     'id' => 103834,
     'name' => 'Sösdala',
@@ -5815,7 +5617,7 @@ return array (
     'latitude' => 56.03992,
     'longitude' => 13.67811,
   ),
-  646 => 
+  624 => 
   array (
     'id' => 103835,
     'name' => 'Taberg',
@@ -5824,7 +5626,7 @@ return array (
     'latitude' => 57.67722,
     'longitude' => 14.08876,
   ),
-  647 => 
+  625 => 
   array (
     'id' => 103836,
     'name' => 'Tallboda',
@@ -5833,7 +5635,7 @@ return array (
     'latitude' => 58.42521,
     'longitude' => 15.68154,
   ),
-  648 => 
+  626 => 
   array (
     'id' => 103838,
     'name' => 'Tanumshede',
@@ -5842,7 +5644,7 @@ return array (
     'latitude' => 58.72385,
     'longitude' => 11.32587,
   ),
-  649 => 
+  627 => 
   array (
     'id' => 103839,
     'name' => 'Teckomatorp',
@@ -5851,7 +5653,7 @@ return array (
     'latitude' => 55.86667,
     'longitude' => 13.08333,
   ),
-  650 => 
+  628 => 
   array (
     'id' => 103840,
     'name' => 'Tenhult',
@@ -5860,7 +5662,7 @@ return array (
     'latitude' => 57.70761,
     'longitude' => 14.32205,
   ),
-  651 => 
+  629 => 
   array (
     'id' => 103841,
     'name' => 'Tensta',
@@ -5869,7 +5671,7 @@ return array (
     'latitude' => 59.3939,
     'longitude' => 17.90111,
   ),
-  652 => 
+  630 => 
   array (
     'id' => 103842,
     'name' => 'Tibro',
@@ -5878,7 +5680,7 @@ return array (
     'latitude' => 58.42453,
     'longitude' => 14.16162,
   ),
-  653 => 
+  631 => 
   array (
     'id' => 103844,
     'name' => 'Tidaholm',
@@ -5887,7 +5689,7 @@ return array (
     'latitude' => 58.18035,
     'longitude' => 13.95824,
   ),
-  654 => 
+  632 => 
   array (
     'id' => 103846,
     'name' => 'Tierp',
@@ -5896,7 +5698,7 @@ return array (
     'latitude' => 60.34269,
     'longitude' => 17.51812,
   ),
-  655 => 
+  633 => 
   array (
     'id' => 103848,
     'name' => 'Tillberga',
@@ -5905,7 +5707,7 @@ return array (
     'latitude' => 59.68333,
     'longitude' => 16.61667,
   ),
-  656 => 
+  634 => 
   array (
     'id' => 103849,
     'name' => 'Timmernabben',
@@ -5914,7 +5716,7 @@ return array (
     'latitude' => 56.96667,
     'longitude' => 16.43333,
   ),
-  657 => 
+  635 => 
   array (
     'id' => 103850,
     'name' => 'Timrå',
@@ -5923,7 +5725,7 @@ return array (
     'latitude' => 62.48654,
     'longitude' => 17.32613,
   ),
-  658 => 
+  636 => 
   array (
     'id' => 103852,
     'name' => 'Tingsryd',
@@ -5932,7 +5734,7 @@ return array (
     'latitude' => 56.5247,
     'longitude' => 14.97902,
   ),
-  659 => 
+  637 => 
   array (
     'id' => 103854,
     'name' => 'Tjuvkil',
@@ -5941,7 +5743,7 @@ return array (
     'latitude' => 57.9,
     'longitude' => 11.73333,
   ),
-  660 => 
+  638 => 
   array (
     'id' => 103856,
     'name' => 'Tollarp',
@@ -5950,7 +5752,7 @@ return array (
     'latitude' => 55.93333,
     'longitude' => 13.98333,
   ),
-  661 => 
+  639 => 
   array (
     'id' => 103857,
     'name' => 'Tollarp1',
@@ -5959,7 +5761,7 @@ return array (
     'latitude' => 56.16667,
     'longitude' => 14.28333,
   ),
-  662 => 
+  640 => 
   array (
     'id' => 103858,
     'name' => 'Tomelilla',
@@ -5968,7 +5770,7 @@ return array (
     'latitude' => 55.54293,
     'longitude' => 13.9546,
   ),
-  663 => 
+  641 => 
   array (
     'id' => 103860,
     'name' => 'Torekov',
@@ -5977,7 +5779,7 @@ return array (
     'latitude' => 56.425,
     'longitude' => 12.63333,
   ),
-  664 => 
+  642 => 
   array (
     'id' => 103861,
     'name' => 'Tormestorp',
@@ -5986,7 +5788,7 @@ return array (
     'latitude' => 56.1135,
     'longitude' => 13.74516,
   ),
-  665 => 
+  643 => 
   array (
     'id' => 103862,
     'name' => 'Torsby',
@@ -5995,7 +5797,7 @@ return array (
     'latitude' => 60.13527,
     'longitude' => 13.0082,
   ),
-  666 => 
+  644 => 
   array (
     'id' => 103864,
     'name' => 'Torshälla',
@@ -6004,7 +5806,7 @@ return array (
     'latitude' => 59.41667,
     'longitude' => 16.46667,
   ),
-  667 => 
+  645 => 
   array (
     'id' => 103865,
     'name' => 'Torslanda',
@@ -6013,7 +5815,7 @@ return array (
     'latitude' => 57.72432,
     'longitude' => 11.77013,
   ),
-  668 => 
+  646 => 
   array (
     'id' => 103866,
     'name' => 'Torsås',
@@ -6022,7 +5824,7 @@ return array (
     'latitude' => 56.41251,
     'longitude' => 15.99844,
   ),
-  669 => 
+  647 => 
   array (
     'id' => 103868,
     'name' => 'Torup',
@@ -6031,7 +5833,7 @@ return array (
     'latitude' => 56.95663,
     'longitude' => 13.07725,
   ),
-  670 => 
+  648 => 
   array (
     'id' => 103869,
     'name' => 'Tranemo',
@@ -6040,7 +5842,7 @@ return array (
     'latitude' => 57.48333,
     'longitude' => 13.35,
   ),
-  671 => 
+  649 => 
   array (
     'id' => 103871,
     'name' => 'Tranås',
@@ -6049,7 +5851,7 @@ return array (
     'latitude' => 58.03717,
     'longitude' => 14.9782,
   ),
-  672 => 
+  650 => 
   array (
     'id' => 103873,
     'name' => 'Trekanten',
@@ -6058,7 +5860,7 @@ return array (
     'latitude' => 56.7,
     'longitude' => 16.11667,
   ),
-  673 => 
+  651 => 
   array (
     'id' => 103874,
     'name' => 'Trelleborg',
@@ -6067,7 +5869,7 @@ return array (
     'latitude' => 55.37514,
     'longitude' => 13.15691,
   ),
-  674 => 
+  652 => 
   array (
     'id' => 103876,
     'name' => 'Trollhättan',
@@ -6076,7 +5878,7 @@ return array (
     'latitude' => 58.21208,
     'longitude' => 12.35033,
   ),
-  675 => 
+  653 => 
   array (
     'id' => 103877,
     'name' => 'Trosa',
@@ -6085,7 +5887,7 @@ return array (
     'latitude' => 58.89621,
     'longitude' => 17.54812,
   ),
-  676 => 
+  654 => 
   array (
     'id' => 103879,
     'name' => 'Träslövsläge',
@@ -6094,7 +5896,7 @@ return array (
     'latitude' => 57.05417,
     'longitude' => 12.27899,
   ),
-  677 => 
+  655 => 
   array (
     'id' => 103880,
     'name' => 'Trönninge',
@@ -6103,7 +5905,7 @@ return array (
     'latitude' => 56.61667,
     'longitude' => 12.93333,
   ),
-  678 => 
+  656 => 
   array (
     'id' => 103881,
     'name' => 'Tullinge',
@@ -6112,7 +5914,7 @@ return array (
     'latitude' => 59.2,
     'longitude' => 17.9,
   ),
-  679 => 
+  657 => 
   array (
     'id' => 103882,
     'name' => 'Tumba',
@@ -6121,7 +5923,7 @@ return array (
     'latitude' => 59.19858,
     'longitude' => 17.83317,
   ),
-  680 => 
+  658 => 
   array (
     'id' => 103883,
     'name' => 'Tvååker',
@@ -6130,7 +5932,7 @@ return array (
     'latitude' => 57.04147,
     'longitude' => 12.3995,
   ),
-  681 => 
+  659 => 
   array (
     'id' => 103884,
     'name' => 'Tygelsjö',
@@ -6139,7 +5941,7 @@ return array (
     'latitude' => 55.51667,
     'longitude' => 13.0,
   ),
-  682 => 
+  660 => 
   array (
     'id' => 103886,
     'name' => 'Tyringe',
@@ -6148,7 +5950,7 @@ return array (
     'latitude' => 56.16037,
     'longitude' => 13.59811,
   ),
-  683 => 
+  661 => 
   array (
     'id' => 103888,
     'name' => 'Täfteå',
@@ -6157,7 +5959,7 @@ return array (
     'latitude' => 63.8397,
     'longitude' => 20.47857,
   ),
-  684 => 
+  662 => 
   array (
     'id' => 103889,
     'name' => 'Tärnsjö',
@@ -6166,7 +5968,7 @@ return array (
     'latitude' => 60.15,
     'longitude' => 16.93333,
   ),
-  685 => 
+  663 => 
   array (
     'id' => 103890,
     'name' => 'Töcksfors',
@@ -6175,7 +5977,7 @@ return array (
     'latitude' => 59.50816,
     'longitude' => 11.84431,
   ),
-  686 => 
+  664 => 
   array (
     'id' => 103891,
     'name' => 'Töre',
@@ -6184,7 +5986,7 @@ return array (
     'latitude' => 65.91243,
     'longitude' => 22.65128,
   ),
-  687 => 
+  665 => 
   array (
     'id' => 103892,
     'name' => 'Töreboda',
@@ -6193,7 +5995,7 @@ return array (
     'latitude' => 58.70739,
     'longitude' => 14.12597,
   ),
-  688 => 
+  666 => 
   array (
     'id' => 103894,
     'name' => 'Uddevalla',
@@ -6202,7 +6004,7 @@ return array (
     'latitude' => 58.34784,
     'longitude' => 11.9424,
   ),
-  689 => 
+  667 => 
   array (
     'id' => 103896,
     'name' => 'Ulricehamn',
@@ -6211,7 +6013,7 @@ return array (
     'latitude' => 57.79159,
     'longitude' => 13.41422,
   ),
-  690 => 
+  668 => 
   array (
     'id' => 103898,
     'name' => 'Umeå',
@@ -6220,7 +6022,7 @@ return array (
     'latitude' => 63.82842,
     'longitude' => 20.25972,
   ),
-  691 => 
+  669 => 
   array (
     'id' => 103900,
     'name' => 'Upplands Väsby',
@@ -6229,7 +6031,7 @@ return array (
     'latitude' => 59.51839,
     'longitude' => 17.91128,
   ),
-  692 => 
+  670 => 
   array (
     'id' => 103903,
     'name' => 'Uppsala',
@@ -6238,7 +6040,7 @@ return array (
     'latitude' => 59.85882,
     'longitude' => 17.63889,
   ),
-  693 => 
+  671 => 
   array (
     'id' => 103906,
     'name' => 'Ursviken',
@@ -6247,7 +6049,7 @@ return array (
     'latitude' => 64.71261,
     'longitude' => 21.1658,
   ),
-  694 => 
+  672 => 
   array (
     'id' => 103907,
     'name' => 'Vadstena',
@@ -6256,7 +6058,7 @@ return array (
     'latitude' => 58.44863,
     'longitude' => 14.88969,
   ),
-  695 => 
+  673 => 
   array (
     'id' => 103909,
     'name' => 'Vaggeryd',
@@ -6265,7 +6067,7 @@ return array (
     'latitude' => 57.49807,
     'longitude' => 14.14842,
   ),
-  696 => 
+  674 => 
   array (
     'id' => 103911,
     'name' => 'Vagnhärad',
@@ -6274,7 +6076,7 @@ return array (
     'latitude' => 58.94587,
     'longitude' => 17.48757,
   ),
-  697 => 
+  675 => 
   array (
     'id' => 103912,
     'name' => 'Valbo',
@@ -6283,7 +6085,7 @@ return array (
     'latitude' => 60.65,
     'longitude' => 17.03333,
   ),
-  698 => 
+  676 => 
   array (
     'id' => 103913,
     'name' => 'Valdemarsvik',
@@ -6292,7 +6094,7 @@ return array (
     'latitude' => 58.2031,
     'longitude' => 16.60225,
   ),
-  699 => 
+  677 => 
   array (
     'id' => 103915,
     'name' => 'Valje',
@@ -6301,7 +6103,7 @@ return array (
     'latitude' => 56.06279,
     'longitude' => 14.54388,
   ),
-  700 => 
+  678 => 
   array (
     'id' => 103916,
     'name' => 'Valla',
@@ -6310,7 +6112,7 @@ return array (
     'latitude' => 59.01667,
     'longitude' => 16.38333,
   ),
-  701 => 
+  679 => 
   array (
     'id' => 103917,
     'name' => 'Vallda',
@@ -6319,7 +6121,7 @@ return array (
     'latitude' => 57.4775,
     'longitude' => 12.00139,
   ),
-  702 => 
+  680 => 
   array (
     'id' => 103918,
     'name' => 'Vallentuna',
@@ -6328,7 +6130,7 @@ return array (
     'latitude' => 59.53436,
     'longitude' => 18.07758,
   ),
-  703 => 
+  681 => 
   array (
     'id' => 103920,
     'name' => 'Vansbro',
@@ -6337,7 +6139,7 @@ return array (
     'latitude' => 60.50893,
     'longitude' => 14.22458,
   ),
-  704 => 
+  682 => 
   array (
     'id' => 103922,
     'name' => 'Vara',
@@ -6346,7 +6148,7 @@ return array (
     'latitude' => 58.26234,
     'longitude' => 12.95413,
   ),
-  705 => 
+  683 => 
   array (
     'id' => 103924,
     'name' => 'Varberg',
@@ -6355,7 +6157,7 @@ return array (
     'latitude' => 57.10557,
     'longitude' => 12.25078,
   ),
-  706 => 
+  684 => 
   array (
     'id' => 103926,
     'name' => 'Vargön',
@@ -6364,7 +6166,7 @@ return array (
     'latitude' => 58.35599,
     'longitude' => 12.3906,
   ),
-  707 => 
+  685 => 
   array (
     'id' => 103927,
     'name' => 'Vasastan',
@@ -6373,7 +6175,7 @@ return array (
     'latitude' => 59.34571,
     'longitude' => 18.04985,
   ),
-  708 => 
+  686 => 
   array (
     'id' => 103928,
     'name' => 'Vattholma',
@@ -6382,7 +6184,7 @@ return array (
     'latitude' => 60.01667,
     'longitude' => 17.73333,
   ),
-  709 => 
+  687 => 
   array (
     'id' => 103929,
     'name' => 'Vaxholm',
@@ -6391,7 +6193,7 @@ return array (
     'latitude' => 59.40225,
     'longitude' => 18.35317,
   ),
-  710 => 
+  688 => 
   array (
     'id' => 103931,
     'name' => 'Veberöd',
@@ -6400,7 +6202,7 @@ return array (
     'latitude' => 55.63333,
     'longitude' => 13.48333,
   ),
-  711 => 
+  689 => 
   array (
     'id' => 103932,
     'name' => 'Veddige',
@@ -6409,7 +6211,7 @@ return array (
     'latitude' => 57.26591,
     'longitude' => 12.3322,
   ),
-  712 => 
+  690 => 
   array (
     'id' => 103933,
     'name' => 'Veinge',
@@ -6418,7 +6220,7 @@ return array (
     'latitude' => 56.55,
     'longitude' => 13.06667,
   ),
-  713 => 
+  691 => 
   array (
     'id' => 103934,
     'name' => 'Vejbystrand',
@@ -6427,7 +6229,7 @@ return array (
     'latitude' => 56.31778,
     'longitude' => 12.76722,
   ),
-  714 => 
+  692 => 
   array (
     'id' => 103935,
     'name' => 'Vellinge',
@@ -6436,7 +6238,7 @@ return array (
     'latitude' => 55.47124,
     'longitude' => 13.01971,
   ),
-  715 => 
+  693 => 
   array (
     'id' => 103937,
     'name' => 'Vetlanda',
@@ -6445,7 +6247,7 @@ return array (
     'latitude' => 57.42887,
     'longitude' => 15.07762,
   ),
-  716 => 
+  694 => 
   array (
     'id' => 103939,
     'name' => 'Vi',
@@ -6454,7 +6256,7 @@ return array (
     'latitude' => 62.43333,
     'longitude' => 17.41667,
   ),
-  717 => 
+  695 => 
   array (
     'id' => 103940,
     'name' => 'Vibble',
@@ -6463,7 +6265,7 @@ return array (
     'latitude' => 57.60452,
     'longitude' => 18.25601,
   ),
-  718 => 
+  696 => 
   array (
     'id' => 103941,
     'name' => 'Vikarbyn',
@@ -6472,7 +6274,7 @@ return array (
     'latitude' => 60.91667,
     'longitude' => 15.01667,
   ),
-  719 => 
+  697 => 
   array (
     'id' => 103942,
     'name' => 'Viken',
@@ -6481,16 +6283,7 @@ return array (
     'latitude' => 64.72587,
     'longitude' => 20.91548,
   ),
-  720 => 
-  array (
-    'id' => 103943,
-    'name' => 'Viken',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 56.15063,
-    'longitude' => 12.57429,
-  ),
-  721 => 
+  698 => 
   array (
     'id' => 103944,
     'name' => 'Vikingstad',
@@ -6499,7 +6292,7 @@ return array (
     'latitude' => 58.38304,
     'longitude' => 15.43201,
   ),
-  722 => 
+  699 => 
   array (
     'id' => 103945,
     'name' => 'Vilhelmina',
@@ -6508,7 +6301,7 @@ return array (
     'latitude' => 64.62417,
     'longitude' => 16.65596,
   ),
-  723 => 
+  700 => 
   array (
     'id' => 103947,
     'name' => 'Vimmerby',
@@ -6517,7 +6310,7 @@ return array (
     'latitude' => 57.66588,
     'longitude' => 15.85515,
   ),
-  724 => 
+  701 => 
   array (
     'id' => 103949,
     'name' => 'Vindeln',
@@ -6526,7 +6319,7 @@ return array (
     'latitude' => 64.20175,
     'longitude' => 19.71945,
   ),
-  725 => 
+  702 => 
   array (
     'id' => 103951,
     'name' => 'Vingåker',
@@ -6535,7 +6328,7 @@ return array (
     'latitude' => 59.0433,
     'longitude' => 15.87374,
   ),
-  726 => 
+  703 => 
   array (
     'id' => 103953,
     'name' => 'Vinninga',
@@ -6544,7 +6337,7 @@ return array (
     'latitude' => 58.45,
     'longitude' => 13.26667,
   ),
-  727 => 
+  704 => 
   array (
     'id' => 103954,
     'name' => 'Vinslöv',
@@ -6553,7 +6346,7 @@ return array (
     'latitude' => 56.1,
     'longitude' => 13.91667,
   ),
-  728 => 
+  705 => 
   array (
     'id' => 103955,
     'name' => 'Vintrosa',
@@ -6562,7 +6355,7 @@ return array (
     'latitude' => 59.25,
     'longitude' => 14.95,
   ),
-  729 => 
+  706 => 
   array (
     'id' => 103956,
     'name' => 'Virserum',
@@ -6571,7 +6364,7 @@ return array (
     'latitude' => 57.31667,
     'longitude' => 15.58333,
   ),
-  730 => 
+  707 => 
   array (
     'id' => 103957,
     'name' => 'Visby',
@@ -6580,7 +6373,7 @@ return array (
     'latitude' => 57.64089,
     'longitude' => 18.29602,
   ),
-  731 => 
+  708 => 
   array (
     'id' => 103958,
     'name' => 'Viskafors',
@@ -6589,7 +6382,7 @@ return array (
     'latitude' => 57.62941,
     'longitude' => 12.8489,
   ),
-  732 => 
+  709 => 
   array (
     'id' => 103959,
     'name' => 'Vislanda',
@@ -6598,7 +6391,7 @@ return array (
     'latitude' => 56.78333,
     'longitude' => 14.45,
   ),
-  733 => 
+  710 => 
   array (
     'id' => 103960,
     'name' => 'Vittsjö',
@@ -6607,7 +6400,7 @@ return array (
     'latitude' => 56.34366,
     'longitude' => 13.66081,
   ),
-  734 => 
+  711 => 
   array (
     'id' => 103961,
     'name' => 'Vrigstad',
@@ -6616,7 +6409,7 @@ return array (
     'latitude' => 57.35,
     'longitude' => 14.46667,
   ),
-  735 => 
+  712 => 
   array (
     'id' => 103962,
     'name' => 'Vänersborg',
@@ -6625,7 +6418,7 @@ return array (
     'latitude' => 58.38075,
     'longitude' => 12.3234,
   ),
-  736 => 
+  713 => 
   array (
     'id' => 103964,
     'name' => 'Vännäs',
@@ -6634,7 +6427,7 @@ return array (
     'latitude' => 63.90676,
     'longitude' => 19.75712,
   ),
-  737 => 
+  714 => 
   array (
     'id' => 103966,
     'name' => 'Vännäsby',
@@ -6643,7 +6436,7 @@ return array (
     'latitude' => 63.91564,
     'longitude' => 19.82438,
   ),
-  738 => 
+  715 => 
   array (
     'id' => 103968,
     'name' => 'Värnamo',
@@ -6652,7 +6445,7 @@ return array (
     'latitude' => 57.18604,
     'longitude' => 14.04001,
   ),
-  739 => 
+  716 => 
   array (
     'id' => 103970,
     'name' => 'Västervik',
@@ -6661,7 +6454,7 @@ return array (
     'latitude' => 57.7584,
     'longitude' => 16.63733,
   ),
-  740 => 
+  717 => 
   array (
     'id' => 103972,
     'name' => 'Västerås',
@@ -6670,7 +6463,7 @@ return array (
     'latitude' => 59.64914,
     'longitude' => 16.56445,
   ),
-  741 => 
+  718 => 
   array (
     'id' => 103973,
     'name' => 'Västra Frölunda',
@@ -6679,7 +6472,7 @@ return array (
     'latitude' => 57.64667,
     'longitude' => 11.92944,
   ),
-  742 => 
+  719 => 
   array (
     'id' => 103974,
     'name' => 'Västra Hagen',
@@ -6688,7 +6481,7 @@ return array (
     'latitude' => 57.42444,
     'longitude' => 11.93583,
   ),
-  743 => 
+  720 => 
   array (
     'id' => 103975,
     'name' => 'Växjö',
@@ -6697,7 +6490,7 @@ return array (
     'latitude' => 56.87767,
     'longitude' => 14.80906,
   ),
-  744 => 
+  721 => 
   array (
     'id' => 103977,
     'name' => 'Vålberg',
@@ -6706,7 +6499,7 @@ return array (
     'latitude' => 59.39145,
     'longitude' => 13.18633,
   ),
-  745 => 
+  722 => 
   array (
     'id' => 103978,
     'name' => 'Vårby',
@@ -6715,7 +6508,7 @@ return array (
     'latitude' => 59.26671,
     'longitude' => 17.88407,
   ),
-  746 => 
+  723 => 
   array (
     'id' => 103979,
     'name' => 'Vårgårda',
@@ -6724,7 +6517,7 @@ return array (
     'latitude' => 58.03706,
     'longitude' => 12.80907,
   ),
-  747 => 
+  724 => 
   array (
     'id' => 103981,
     'name' => 'Vårsta',
@@ -6733,7 +6526,7 @@ return array (
     'latitude' => 59.16528,
     'longitude' => 17.79722,
   ),
-  748 => 
+  725 => 
   array (
     'id' => 103983,
     'name' => 'Ystad',
@@ -6742,7 +6535,7 @@ return array (
     'latitude' => 55.42966,
     'longitude' => 13.82041,
   ),
-  749 => 
+  726 => 
   array (
     'id' => 103985,
     'name' => 'Älmhult',
@@ -6751,7 +6544,7 @@ return array (
     'latitude' => 56.55146,
     'longitude' => 14.13827,
   ),
-  750 => 
+  727 => 
   array (
     'id' => 103987,
     'name' => 'Älmsta',
@@ -6760,7 +6553,7 @@ return array (
     'latitude' => 59.96667,
     'longitude' => 18.8,
   ),
-  751 => 
+  728 => 
   array (
     'id' => 103988,
     'name' => 'Älta',
@@ -6769,7 +6562,7 @@ return array (
     'latitude' => 59.26667,
     'longitude' => 18.18333,
   ),
-  752 => 
+  729 => 
   array (
     'id' => 103989,
     'name' => 'Älvdalen',
@@ -6778,7 +6571,7 @@ return array (
     'latitude' => 61.22774,
     'longitude' => 14.03935,
   ),
-  753 => 
+  730 => 
   array (
     'id' => 103991,
     'name' => 'Älvkarleby',
@@ -6787,7 +6580,7 @@ return array (
     'latitude' => 60.57081,
     'longitude' => 17.44895,
   ),
-  754 => 
+  731 => 
   array (
     'id' => 103993,
     'name' => 'Älvsbyn',
@@ -6796,7 +6589,7 @@ return array (
     'latitude' => 65.67624,
     'longitude' => 21.00162,
   ),
-  755 => 
+  732 => 
   array (
     'id' => 103995,
     'name' => 'Älvängen',
@@ -6805,7 +6598,7 @@ return array (
     'latitude' => 57.95872,
     'longitude' => 12.1235,
   ),
-  756 => 
+  733 => 
   array (
     'id' => 103996,
     'name' => 'Ängelholm',
@@ -6814,7 +6607,7 @@ return array (
     'latitude' => 56.2428,
     'longitude' => 12.86219,
   ),
-  757 => 
+  734 => 
   array (
     'id' => 103998,
     'name' => 'Ärla',
@@ -6823,7 +6616,7 @@ return array (
     'latitude' => 59.27983,
     'longitude' => 16.67896,
   ),
-  758 => 
+  735 => 
   array (
     'id' => 103999,
     'name' => 'Åby',
@@ -6832,7 +6625,7 @@ return array (
     'latitude' => 58.66667,
     'longitude' => 16.18333,
   ),
-  759 => 
+  736 => 
   array (
     'id' => 104000,
     'name' => 'Åhus',
@@ -6841,7 +6634,7 @@ return array (
     'latitude' => 55.91667,
     'longitude' => 14.28333,
   ),
-  760 => 
+  737 => 
   array (
     'id' => 104001,
     'name' => 'Åkarp',
@@ -6850,16 +6643,7 @@ return array (
     'latitude' => 58.23333,
     'longitude' => 13.65,
   ),
-  761 => 
-  array (
-    'id' => 104002,
-    'name' => 'Åkarp',
-    'country_id' => 213,
-    'country_code' => 'SE',
-    'latitude' => 55.65396,
-    'longitude' => 13.11107,
-  ),
-  762 => 
+  738 => 
   array (
     'id' => 104003,
     'name' => 'Åkers Styckebruk',
@@ -6868,7 +6652,7 @@ return array (
     'latitude' => 59.25,
     'longitude' => 17.08333,
   ),
-  763 => 
+  739 => 
   array (
     'id' => 104004,
     'name' => 'Åkersberga',
@@ -6877,7 +6661,7 @@ return array (
     'latitude' => 59.47944,
     'longitude' => 18.29967,
   ),
-  764 => 
+  740 => 
   array (
     'id' => 104005,
     'name' => 'Åled',
@@ -6886,7 +6670,7 @@ return array (
     'latitude' => 56.75,
     'longitude' => 12.93333,
   ),
-  765 => 
+  741 => 
   array (
     'id' => 104006,
     'name' => 'Åmotfors',
@@ -6895,7 +6679,7 @@ return array (
     'latitude' => 59.76191,
     'longitude' => 12.36211,
   ),
-  766 => 
+  742 => 
   array (
     'id' => 104007,
     'name' => 'Åmål',
@@ -6904,7 +6688,7 @@ return array (
     'latitude' => 59.051,
     'longitude' => 12.70492,
   ),
-  767 => 
+  743 => 
   array (
     'id' => 104009,
     'name' => 'Ånge',
@@ -6913,7 +6697,7 @@ return array (
     'latitude' => 62.52495,
     'longitude' => 15.65904,
   ),
-  768 => 
+  744 => 
   array (
     'id' => 104011,
     'name' => 'Årjäng',
@@ -6922,7 +6706,7 @@ return array (
     'latitude' => 59.39217,
     'longitude' => 12.13336,
   ),
-  769 => 
+  745 => 
   array (
     'id' => 104013,
     'name' => 'Årsta',
@@ -6931,7 +6715,7 @@ return array (
     'latitude' => 59.2978,
     'longitude' => 18.0514,
   ),
-  770 => 
+  746 => 
   array (
     'id' => 104014,
     'name' => 'Årsunda',
@@ -6940,7 +6724,7 @@ return array (
     'latitude' => 60.51644,
     'longitude' => 16.73436,
   ),
-  771 => 
+  747 => 
   array (
     'id' => 104015,
     'name' => 'Ås',
@@ -6949,7 +6733,7 @@ return array (
     'latitude' => 63.36667,
     'longitude' => 16.58333,
   ),
-  772 => 
+  748 => 
   array (
     'id' => 104016,
     'name' => 'Åsa',
@@ -6958,7 +6742,7 @@ return array (
     'latitude' => 57.35,
     'longitude' => 12.11667,
   ),
-  773 => 
+  749 => 
   array (
     'id' => 104017,
     'name' => 'Åsbro',
@@ -6967,7 +6751,7 @@ return array (
     'latitude' => 59.0,
     'longitude' => 15.05,
   ),
-  774 => 
+  750 => 
   array (
     'id' => 104018,
     'name' => 'Åseda',
@@ -6976,7 +6760,7 @@ return array (
     'latitude' => 57.1701,
     'longitude' => 15.3443,
   ),
-  775 => 
+  751 => 
   array (
     'id' => 104019,
     'name' => 'Åsele',
@@ -6985,7 +6769,7 @@ return array (
     'latitude' => 64.16026,
     'longitude' => 17.34762,
   ),
-  776 => 
+  752 => 
   array (
     'id' => 104021,
     'name' => 'Åstorp',
@@ -6994,7 +6778,7 @@ return array (
     'latitude' => 56.13566,
     'longitude' => 12.9443,
   ),
-  777 => 
+  753 => 
   array (
     'id' => 104023,
     'name' => 'Åtvidaberg',
@@ -7003,7 +6787,7 @@ return array (
     'latitude' => 58.20152,
     'longitude' => 15.9977,
   ),
-  778 => 
+  754 => 
   array (
     'id' => 104025,
     'name' => 'Öckerö',
@@ -7012,7 +6796,7 @@ return array (
     'latitude' => 57.70814,
     'longitude' => 11.65585,
   ),
-  779 => 
+  755 => 
   array (
     'id' => 104027,
     'name' => 'Ödeshög',
@@ -7021,7 +6805,7 @@ return array (
     'latitude' => 58.22949,
     'longitude' => 14.65294,
   ),
-  780 => 
+  756 => 
   array (
     'id' => 104029,
     'name' => 'Ödsmål',
@@ -7030,7 +6814,7 @@ return array (
     'latitude' => 58.1,
     'longitude' => 11.85,
   ),
-  781 => 
+  757 => 
   array (
     'id' => 104030,
     'name' => 'Ödåkra',
@@ -7039,7 +6823,7 @@ return array (
     'latitude' => 56.10412,
     'longitude' => 12.7477,
   ),
-  782 => 
+  758 => 
   array (
     'id' => 104031,
     'name' => 'Öjersjö',
@@ -7048,7 +6832,7 @@ return array (
     'latitude' => 57.69882,
     'longitude' => 12.13448,
   ),
-  783 => 
+  759 => 
   array (
     'id' => 104032,
     'name' => 'Önnestad',
@@ -7057,7 +6841,7 @@ return array (
     'latitude' => 56.05747,
     'longitude' => 14.02233,
   ),
-  784 => 
+  760 => 
   array (
     'id' => 104033,
     'name' => 'Örbyhus',
@@ -7066,7 +6850,7 @@ return array (
     'latitude' => 60.22407,
     'longitude' => 17.70138,
   ),
-  785 => 
+  761 => 
   array (
     'id' => 104034,
     'name' => 'Örebro',
@@ -7075,7 +6859,7 @@ return array (
     'latitude' => 59.27412,
     'longitude' => 15.2066,
   ),
-  786 => 
+  762 => 
   array (
     'id' => 104036,
     'name' => 'Öregrund',
@@ -7084,7 +6868,7 @@ return array (
     'latitude' => 60.33333,
     'longitude' => 18.43333,
   ),
-  787 => 
+  763 => 
   array (
     'id' => 104037,
     'name' => 'Örkelljunga',
@@ -7093,7 +6877,7 @@ return array (
     'latitude' => 56.28338,
     'longitude' => 13.27773,
   ),
-  788 => 
+  764 => 
   array (
     'id' => 104039,
     'name' => 'Örnsköldsvik',
@@ -7102,7 +6886,7 @@ return array (
     'latitude' => 63.29091,
     'longitude' => 18.71525,
   ),
-  789 => 
+  765 => 
   array (
     'id' => 104041,
     'name' => 'Örsundsbro',
@@ -7111,7 +6895,7 @@ return array (
     'latitude' => 59.73333,
     'longitude' => 17.3,
   ),
-  790 => 
+  766 => 
   array (
     'id' => 104042,
     'name' => 'Ösmo',
@@ -7120,7 +6904,7 @@ return array (
     'latitude' => 58.98333,
     'longitude' => 17.9,
   ),
-  791 => 
+  767 => 
   array (
     'id' => 104043,
     'name' => 'Österbybruk',
@@ -7129,7 +6913,7 @@ return array (
     'latitude' => 60.2,
     'longitude' => 17.9,
   ),
-  792 => 
+  768 => 
   array (
     'id' => 104044,
     'name' => 'Österbymo',
@@ -7138,7 +6922,7 @@ return array (
     'latitude' => 57.82465,
     'longitude' => 15.27357,
   ),
-  793 => 
+  769 => 
   array (
     'id' => 104045,
     'name' => 'Östermalm',
@@ -7147,7 +6931,7 @@ return array (
     'latitude' => 59.33879,
     'longitude' => 18.08487,
   ),
-  794 => 
+  770 => 
   array (
     'id' => 104046,
     'name' => 'Östervåla',
@@ -7156,7 +6940,7 @@ return array (
     'latitude' => 60.18333,
     'longitude' => 17.18333,
   ),
-  795 => 
+  771 => 
   array (
     'id' => 104048,
     'name' => 'Östhammar',
@@ -7165,7 +6949,7 @@ return array (
     'latitude' => 60.25909,
     'longitude' => 18.37408,
   ),
-  796 => 
+  772 => 
   array (
     'id' => 104051,
     'name' => 'Östra Ljungby',
@@ -7174,7 +6958,7 @@ return array (
     'latitude' => 56.19601,
     'longitude' => 13.09199,
   ),
-  797 => 
+  773 => 
   array (
     'id' => 104052,
     'name' => 'Överkalix',
@@ -7183,7 +6967,7 @@ return array (
     'latitude' => 66.32754,
     'longitude' => 22.84414,
   ),
-  798 => 
+  774 => 
   array (
     'id' => 104054,
     'name' => 'Övertorneå',
@@ -7192,7 +6976,7 @@ return array (
     'latitude' => 66.38778,
     'longitude' => 23.65425,
   ),
-  799 => 
+  775 => 
   array (
     'id' => 104056,
     'name' => 'Överum',

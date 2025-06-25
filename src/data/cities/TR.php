@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -174,15 +174,6 @@ return array (
   ),
   19 => 
   array (
-    'id' => 107095,
-    'name' => 'Aksu',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 36.95389,
-    'longitude' => 30.84778,
-  ),
-  20 => 
-  array (
     'id' => 107098,
     'name' => 'Akyaka',
     'country_id' => 225,
@@ -190,7 +181,7 @@ return array (
     'latitude' => 40.74093,
     'longitude' => 43.61432,
   ),
-  21 => 
+  20 => 
   array (
     'id' => 107100,
     'name' => 'Akyazı',
@@ -199,7 +190,7 @@ return array (
     'latitude' => 40.685,
     'longitude' => 30.62222,
   ),
-  22 => 
+  21 => 
   array (
     'id' => 107102,
     'name' => 'Akyurt',
@@ -208,7 +199,7 @@ return array (
     'latitude' => 40.13512,
     'longitude' => 33.08614,
   ),
-  23 => 
+  22 => 
   array (
     'id' => 107104,
     'name' => 'Akçaabat',
@@ -217,7 +208,7 @@ return array (
     'latitude' => 41.0197,
     'longitude' => 39.56293,
   ),
-  24 => 
+  23 => 
   array (
     'id' => 107105,
     'name' => 'Akçadağ',
@@ -226,7 +217,7 @@ return array (
     'latitude' => 38.33899,
     'longitude' => 37.97021,
   ),
-  25 => 
+  24 => 
   array (
     'id' => 107107,
     'name' => 'Akçakale',
@@ -235,7 +226,7 @@ return array (
     'latitude' => 36.71111,
     'longitude' => 38.9475,
   ),
-  26 => 
+  25 => 
   array (
     'id' => 107109,
     'name' => 'Akçakent',
@@ -244,7 +235,7 @@ return array (
     'latitude' => 39.63184,
     'longitude' => 34.08468,
   ),
-  27 => 
+  26 => 
   array (
     'id' => 107110,
     'name' => 'Akçakoca',
@@ -253,7 +244,7 @@ return array (
     'latitude' => 41.08663,
     'longitude' => 31.11623,
   ),
-  28 => 
+  27 => 
   array (
     'id' => 107112,
     'name' => 'Akören',
@@ -262,7 +253,7 @@ return array (
     'latitude' => 37.46265,
     'longitude' => 32.37489,
   ),
-  29 => 
+  28 => 
   array (
     'id' => 107113,
     'name' => 'Akıncılar',
@@ -271,7 +262,7 @@ return array (
     'latitude' => 40.07172,
     'longitude' => 38.3433,
   ),
-  30 => 
+  29 => 
   array (
     'id' => 107115,
     'name' => 'Akşehir',
@@ -280,7 +271,7 @@ return array (
     'latitude' => 38.3575,
     'longitude' => 31.41639,
   ),
-  31 => 
+  30 => 
   array (
     'id' => 107117,
     'name' => 'Alaca',
@@ -289,7 +280,7 @@ return array (
     'latitude' => 40.16833,
     'longitude' => 34.8425,
   ),
-  32 => 
+  31 => 
   array (
     'id' => 107120,
     'name' => 'Aladağ',
@@ -298,7 +289,7 @@ return array (
     'latitude' => 37.55854,
     'longitude' => 35.40196,
   ),
-  33 => 
+  32 => 
   array (
     'id' => 107122,
     'name' => 'Alanya',
@@ -307,7 +298,7 @@ return array (
     'latitude' => 36.54375,
     'longitude' => 31.99982,
   ),
-  34 => 
+  33 => 
   array (
     'id' => 107124,
     'name' => 'Alaplı',
@@ -316,7 +307,7 @@ return array (
     'latitude' => 41.1814,
     'longitude' => 31.38514,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 107126,
     'name' => 'Alaçam',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 41.61563,
     'longitude' => 35.60632,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 107128,
     'name' => 'Alaşehir',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 38.35083,
     'longitude' => 28.51718,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 107130,
     'name' => 'Aliağa',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 38.80078,
     'longitude' => 27.04375,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 107131,
     'name' => 'Almus',
@@ -352,7 +343,7 @@ return array (
     'latitude' => 40.37583,
     'longitude' => 36.90444,
   ),
-  39 => 
+  38 => 
   array (
     'id' => 107133,
     'name' => 'Alpu',
@@ -361,7 +352,7 @@ return array (
     'latitude' => 39.76903,
     'longitude' => 30.9606,
   ),
-  40 => 
+  39 => 
   array (
     'id' => 107136,
     'name' => 'Altunhisar',
@@ -370,7 +361,7 @@ return array (
     'latitude' => 37.99159,
     'longitude' => 34.37334,
   ),
-  41 => 
+  40 => 
   array (
     'id' => 107138,
     'name' => 'Altıeylül',
@@ -379,7 +370,7 @@ return array (
     'latitude' => 39.64099,
     'longitude' => 27.88639,
   ),
-  42 => 
+  41 => 
   array (
     'id' => 107139,
     'name' => 'Altındağ',
@@ -388,7 +379,7 @@ return array (
     'latitude' => 40.0011,
     'longitude' => 32.97022,
   ),
-  43 => 
+  42 => 
   array (
     'id' => 107140,
     'name' => 'Altınekin',
@@ -397,7 +388,7 @@ return array (
     'latitude' => 38.30778,
     'longitude' => 32.86861,
   ),
-  44 => 
+  43 => 
   array (
     'id' => 107144,
     'name' => 'Altınordu',
@@ -406,7 +397,7 @@ return array (
     'latitude' => 40.94879,
     'longitude' => 37.79572,
   ),
-  45 => 
+  44 => 
   array (
     'id' => 107145,
     'name' => 'Altınova',
@@ -415,7 +406,7 @@ return array (
     'latitude' => 40.69495,
     'longitude' => 29.50986,
   ),
-  46 => 
+  45 => 
   array (
     'id' => 107147,
     'name' => 'Altıntaş',
@@ -424,7 +415,7 @@ return array (
     'latitude' => 39.06932,
     'longitude' => 30.12048,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 107148,
     'name' => 'Altınyayla',
@@ -433,16 +424,7 @@ return array (
     'latitude' => 36.99722,
     'longitude' => 29.54579,
   ),
-  48 => 
-  array (
-    'id' => 107149,
-    'name' => 'Altınyayla',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.27249,
-    'longitude' => 36.75098,
-  ),
-  49 => 
+  47 => 
   array (
     'id' => 107152,
     'name' => 'Altınözü',
@@ -451,7 +433,7 @@ return array (
     'latitude' => 36.11244,
     'longitude' => 36.24488,
   ),
-  50 => 
+  48 => 
   array (
     'id' => 107154,
     'name' => 'Alucra',
@@ -460,7 +442,7 @@ return array (
     'latitude' => 40.31924,
     'longitude' => 38.76528,
   ),
-  51 => 
+  49 => 
   array (
     'id' => 107155,
     'name' => 'Amasra',
@@ -469,7 +451,7 @@ return array (
     'latitude' => 41.74633,
     'longitude' => 32.38633,
   ),
-  52 => 
+  50 => 
   array (
     'id' => 107160,
     'name' => 'Anamur',
@@ -478,7 +460,7 @@ return array (
     'latitude' => 36.07508,
     'longitude' => 32.83691,
   ),
-  53 => 
+  51 => 
   array (
     'id' => 107164,
     'name' => 'Andırın',
@@ -487,7 +469,7 @@ return array (
     'latitude' => 37.57757,
     'longitude' => 36.35492,
   ),
-  54 => 
+  52 => 
   array (
     'id' => 107167,
     'name' => 'Antakya',
@@ -496,7 +478,7 @@ return array (
     'latitude' => 36.20655,
     'longitude' => 36.15722,
   ),
-  55 => 
+  53 => 
   array (
     'id' => 107170,
     'name' => 'Araban',
@@ -505,7 +487,7 @@ return array (
     'latitude' => 37.42559,
     'longitude' => 37.78175,
   ),
-  56 => 
+  54 => 
   array (
     'id' => 107171,
     'name' => 'Araklı',
@@ -514,7 +496,7 @@ return array (
     'latitude' => 40.74,
     'longitude' => 39.96,
   ),
-  57 => 
+  55 => 
   array (
     'id' => 107175,
     'name' => 'Arapgir',
@@ -523,7 +505,7 @@ return array (
     'latitude' => 39.04117,
     'longitude' => 38.49516,
   ),
-  58 => 
+  56 => 
   array (
     'id' => 107177,
     'name' => 'Araç',
@@ -532,7 +514,7 @@ return array (
     'latitude' => 41.24222,
     'longitude' => 33.32767,
   ),
-  59 => 
+  57 => 
   array (
     'id' => 107179,
     'name' => 'Merkez',
@@ -541,7 +523,7 @@ return array (
     'latitude' => 41.10871,
     'longitude' => 42.70222,
   ),
-  60 => 
+  58 => 
   array (
     'id' => 107180,
     'name' => 'Ardanuç',
@@ -550,7 +532,7 @@ return array (
     'latitude' => 41.12738,
     'longitude' => 42.06292,
   ),
-  61 => 
+  59 => 
   array (
     'id' => 107182,
     'name' => 'Ardeşen',
@@ -559,7 +541,7 @@ return array (
     'latitude' => 41.19111,
     'longitude' => 40.9875,
   ),
-  62 => 
+  60 => 
   array (
     'id' => 107183,
     'name' => 'Arguvan',
@@ -568,7 +550,7 @@ return array (
     'latitude' => 38.78172,
     'longitude' => 38.26349,
   ),
-  63 => 
+  61 => 
   array (
     'id' => 107184,
     'name' => 'Arhavi',
@@ -577,7 +559,7 @@ return array (
     'latitude' => 41.35121,
     'longitude' => 41.30456,
   ),
-  64 => 
+  62 => 
   array (
     'id' => 107186,
     'name' => 'Arifiye',
@@ -586,7 +568,7 @@ return array (
     'latitude' => 40.71327,
     'longitude' => 30.36128,
   ),
-  65 => 
+  63 => 
   array (
     'id' => 107187,
     'name' => 'Armutlu',
@@ -595,7 +577,7 @@ return array (
     'latitude' => 40.52919,
     'longitude' => 28.83871,
   ),
-  66 => 
+  64 => 
   array (
     'id' => 107188,
     'name' => 'Arnavutköy',
@@ -604,7 +586,7 @@ return array (
     'latitude' => 41.19674,
     'longitude' => 28.73405,
   ),
-  67 => 
+  65 => 
   array (
     'id' => 107189,
     'name' => 'Arpaçay',
@@ -613,7 +595,7 @@ return array (
     'latitude' => 40.84522,
     'longitude' => 43.32747,
   ),
-  68 => 
+  66 => 
   array (
     'id' => 107191,
     'name' => 'Arsin',
@@ -622,7 +604,7 @@ return array (
     'latitude' => 40.86743,
     'longitude' => 39.92938,
   ),
-  69 => 
+  67 => 
   array (
     'id' => 107192,
     'name' => 'Arsuz',
@@ -631,7 +613,7 @@ return array (
     'latitude' => 36.41305,
     'longitude' => 35.89033,
   ),
-  70 => 
+  68 => 
   array (
     'id' => 107193,
     'name' => 'Artova',
@@ -640,7 +622,7 @@ return array (
     'latitude' => 40.11578,
     'longitude' => 36.3001,
   ),
-  71 => 
+  69 => 
   array (
     'id' => 107195,
     'name' => 'Artuklu',
@@ -649,16 +631,7 @@ return array (
     'latitude' => 37.31714,
     'longitude' => 40.72473,
   ),
-  72 => 
-  array (
-    'id' => 107196,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.18161,
-    'longitude' => 41.82172,
-  ),
-  73 => 
+  70 => 
   array (
     'id' => 107197,
     'name' => 'Arıcak',
@@ -667,7 +640,7 @@ return array (
     'latitude' => 38.5634,
     'longitude' => 40.1248,
   ),
-  74 => 
+  71 => 
   array (
     'id' => 107200,
     'name' => 'Asarcık',
@@ -676,7 +649,7 @@ return array (
     'latitude' => 41.03556,
     'longitude' => 36.23556,
   ),
-  75 => 
+  72 => 
   array (
     'id' => 107202,
     'name' => 'Aslanapa',
@@ -685,7 +658,7 @@ return array (
     'latitude' => 39.21581,
     'longitude' => 29.8699,
   ),
-  76 => 
+  73 => 
   array (
     'id' => 107204,
     'name' => 'Atabey',
@@ -694,7 +667,7 @@ return array (
     'latitude' => 37.95083,
     'longitude' => 30.63861,
   ),
-  77 => 
+  74 => 
   array (
     'id' => 107206,
     'name' => 'Atakum',
@@ -703,7 +676,7 @@ return array (
     'latitude' => 41.3473,
     'longitude' => 36.23051,
   ),
-  78 => 
+  75 => 
   array (
     'id' => 107207,
     'name' => 'Ataşehir',
@@ -712,7 +685,7 @@ return array (
     'latitude' => 40.99104,
     'longitude' => 29.13471,
   ),
-  79 => 
+  76 => 
   array (
     'id' => 107208,
     'name' => 'Atkaracalar',
@@ -721,7 +694,7 @@ return array (
     'latitude' => 40.81593,
     'longitude' => 33.07556,
   ),
-  80 => 
+  77 => 
   array (
     'id' => 107211,
     'name' => 'Avanos',
@@ -730,7 +703,7 @@ return array (
     'latitude' => 38.715,
     'longitude' => 34.84667,
   ),
-  81 => 
+  78 => 
   array (
     'id' => 107213,
     'name' => 'Avcılar',
@@ -739,7 +712,7 @@ return array (
     'latitude' => 41.02355,
     'longitude' => 28.7186,
   ),
-  82 => 
+  79 => 
   array (
     'id' => 107217,
     'name' => 'Ayaş',
@@ -748,7 +721,7 @@ return array (
     'latitude' => 40.01933,
     'longitude' => 32.33221,
   ),
-  83 => 
+  80 => 
   array (
     'id' => 107219,
     'name' => 'Aybastı',
@@ -757,7 +730,7 @@ return array (
     'latitude' => 40.6969,
     'longitude' => 37.40794,
   ),
-  84 => 
+  81 => 
   array (
     'id' => 107221,
     'name' => 'Aydıncık',
@@ -766,16 +739,7 @@ return array (
     'latitude' => 36.1437,
     'longitude' => 33.32016,
   ),
-  85 => 
-  array (
-    'id' => 107222,
-    'name' => 'Aydıncık',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.12727,
-    'longitude' => 35.28765,
-  ),
-  86 => 
+  82 => 
   array (
     'id' => 107226,
     'name' => 'Aydıntepe',
@@ -784,7 +748,7 @@ return array (
     'latitude' => 40.38325,
     'longitude' => 40.14272,
   ),
-  87 => 
+  83 => 
   array (
     'id' => 107228,
     'name' => 'Ayrancı',
@@ -793,7 +757,7 @@ return array (
     'latitude' => 37.37111,
     'longitude' => 33.69291,
   ),
-  88 => 
+  84 => 
   array (
     'id' => 107229,
     'name' => 'Ayvacık',
@@ -802,16 +766,7 @@ return array (
     'latitude' => 39.60111,
     'longitude' => 26.40472,
   ),
-  89 => 
-  array (
-    'id' => 107230,
-    'name' => 'Ayvacık',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.99111,
-    'longitude' => 36.63139,
-  ),
-  90 => 
+  85 => 
   array (
     'id' => 107233,
     'name' => 'Ayvalık',
@@ -820,7 +775,7 @@ return array (
     'latitude' => 39.31927,
     'longitude' => 26.69341,
   ),
-  91 => 
+  86 => 
   array (
     'id' => 107235,
     'name' => 'Azdavay',
@@ -829,7 +784,7 @@ return array (
     'latitude' => 41.64267,
     'longitude' => 33.3,
   ),
-  92 => 
+  87 => 
   array (
     'id' => 107237,
     'name' => 'Aziziye',
@@ -838,7 +793,7 @@ return array (
     'latitude' => 39.94028,
     'longitude' => 41.11153,
   ),
-  93 => 
+  88 => 
   array (
     'id' => 107239,
     'name' => 'Ağaçören',
@@ -847,7 +802,7 @@ return array (
     'latitude' => 38.87484,
     'longitude' => 33.91674,
   ),
-  94 => 
+  89 => 
   array (
     'id' => 107241,
     'name' => 'Ağlasun',
@@ -856,7 +811,7 @@ return array (
     'latitude' => 37.64944,
     'longitude' => 30.53417,
   ),
-  95 => 
+  90 => 
   array (
     'id' => 107243,
     'name' => 'Ağlı',
@@ -865,16 +820,7 @@ return array (
     'latitude' => 41.69283,
     'longitude' => 33.54487,
   ),
-  96 => 
-  array (
-    'id' => 107244,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.71944,
-    'longitude' => 43.05139,
-  ),
-  97 => 
+  91 => 
   array (
     'id' => 107246,
     'name' => 'Ağın',
@@ -883,7 +829,7 @@ return array (
     'latitude' => 38.93792,
     'longitude' => 38.71155,
   ),
-  98 => 
+  92 => 
   array (
     'id' => 107250,
     'name' => 'Aşkale',
@@ -892,7 +838,7 @@ return array (
     'latitude' => 39.92083,
     'longitude' => 40.695,
   ),
-  99 => 
+  93 => 
   array (
     'id' => 107252,
     'name' => 'Babadağ',
@@ -901,7 +847,7 @@ return array (
     'latitude' => 37.80764,
     'longitude' => 28.85665,
   ),
-  100 => 
+  94 => 
   array (
     'id' => 107254,
     'name' => 'Babaeski',
@@ -910,7 +856,7 @@ return array (
     'latitude' => 41.4325,
     'longitude' => 27.09306,
   ),
-  101 => 
+  95 => 
   array (
     'id' => 107257,
     'name' => 'Bafra',
@@ -919,7 +865,7 @@ return array (
     'latitude' => 41.46082,
     'longitude' => 35.84435,
   ),
-  102 => 
+  96 => 
   array (
     'id' => 107259,
     'name' => 'Bahçe',
@@ -928,7 +874,7 @@ return array (
     'latitude' => 37.20105,
     'longitude' => 36.57687,
   ),
-  103 => 
+  97 => 
   array (
     'id' => 107261,
     'name' => 'Bahçelievler',
@@ -937,7 +883,7 @@ return array (
     'latitude' => 41.00652,
     'longitude' => 28.84099,
   ),
-  104 => 
+  98 => 
   array (
     'id' => 107262,
     'name' => 'Bahçesaray',
@@ -946,7 +892,7 @@ return array (
     'latitude' => 38.1246,
     'longitude' => 42.79825,
   ),
-  105 => 
+  99 => 
   array (
     'id' => 107264,
     'name' => 'Bahşılı',
@@ -955,7 +901,7 @@ return array (
     'latitude' => 39.80979,
     'longitude' => 33.4408,
   ),
-  106 => 
+  100 => 
   array (
     'id' => 107265,
     'name' => 'Baklan',
@@ -964,7 +910,7 @@ return array (
     'latitude' => 37.97694,
     'longitude' => 29.60861,
   ),
-  107 => 
+  101 => 
   array (
     'id' => 107267,
     'name' => 'Bakırköy',
@@ -973,7 +919,7 @@ return array (
     'latitude' => 40.98388,
     'longitude' => 28.83541,
   ),
-  108 => 
+  102 => 
   array (
     'id' => 107268,
     'name' => 'Bala',
@@ -982,7 +928,7 @@ return array (
     'latitude' => 39.56374,
     'longitude' => 33.12962,
   ),
-  109 => 
+  103 => 
   array (
     'id' => 107273,
     'name' => 'Balya',
@@ -991,7 +937,7 @@ return array (
     'latitude' => 39.74861,
     'longitude' => 27.57889,
   ),
-  110 => 
+  104 => 
   array (
     'id' => 107275,
     'name' => 'Balçova',
@@ -1000,7 +946,7 @@ return array (
     'latitude' => 38.37302,
     'longitude' => 27.08714,
   ),
-  111 => 
+  105 => 
   array (
     'id' => 107279,
     'name' => 'Balışeyh',
@@ -1009,7 +955,7 @@ return array (
     'latitude' => 39.91411,
     'longitude' => 33.72333,
   ),
-  112 => 
+  106 => 
   array (
     'id' => 107281,
     'name' => 'Banaz',
@@ -1018,7 +964,7 @@ return array (
     'latitude' => 38.73707,
     'longitude' => 29.75194,
   ),
-  113 => 
+  107 => 
   array (
     'id' => 107283,
     'name' => 'Bandırma',
@@ -1027,16 +973,7 @@ return array (
     'latitude' => 40.35222,
     'longitude' => 27.97667,
   ),
-  114 => 
-  array (
-    'id' => 107286,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.63583,
-    'longitude' => 32.3375,
-  ),
-  115 => 
+  108 => 
   array (
     'id' => 107288,
     'name' => 'Baskil',
@@ -1045,7 +982,7 @@ return array (
     'latitude' => 38.56866,
     'longitude' => 38.81634,
   ),
-  116 => 
+  109 => 
   array (
     'id' => 107292,
     'name' => 'Battalgazi',
@@ -1054,7 +991,7 @@ return array (
     'latitude' => 38.43932,
     'longitude' => 38.45764,
   ),
-  117 => 
+  110 => 
   array (
     'id' => 107293,
     'name' => 'Bayat',
@@ -1063,25 +1000,7 @@ return array (
     'latitude' => 38.98306,
     'longitude' => 30.92472,
   ),
-  118 => 
-  array (
-    'id' => 107294,
-    'name' => 'Bayat',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.64583,
-    'longitude' => 34.26139,
-  ),
-  119 => 
-  array (
-    'id' => 107297,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.25631,
-    'longitude' => 40.22289,
-  ),
-  120 => 
+  111 => 
   array (
     'id' => 107298,
     'name' => 'Baykan',
@@ -1090,7 +1009,7 @@ return array (
     'latitude' => 38.15754,
     'longitude' => 41.7733,
   ),
-  121 => 
+  112 => 
   array (
     'id' => 107300,
     'name' => 'Bayraklı',
@@ -1099,7 +1018,7 @@ return array (
     'latitude' => 38.46222,
     'longitude' => 27.16667,
   ),
-  122 => 
+  113 => 
   array (
     'id' => 107301,
     'name' => 'Bayramiç',
@@ -1108,7 +1027,7 @@ return array (
     'latitude' => 39.81951,
     'longitude' => 26.6249,
   ),
-  123 => 
+  114 => 
   array (
     'id' => 107302,
     'name' => 'Bayrampaşa',
@@ -1117,7 +1036,7 @@ return array (
     'latitude' => 41.04691,
     'longitude' => 28.90278,
   ),
-  124 => 
+  115 => 
   array (
     'id' => 107303,
     'name' => 'Bayramören',
@@ -1126,7 +1045,7 @@ return array (
     'latitude' => 40.94329,
     'longitude' => 33.203,
   ),
-  125 => 
+  116 => 
   array (
     'id' => 107305,
     'name' => 'Bayındır',
@@ -1135,7 +1054,7 @@ return array (
     'latitude' => 38.21741,
     'longitude' => 27.64744,
   ),
-  126 => 
+  117 => 
   array (
     'id' => 107308,
     'name' => 'Bağcılar',
@@ -1144,7 +1063,7 @@ return array (
     'latitude' => 41.04275,
     'longitude' => 28.83625,
   ),
-  127 => 
+  118 => 
   array (
     'id' => 107309,
     'name' => 'Bağlar',
@@ -1153,7 +1072,7 @@ return array (
     'latitude' => 37.91068,
     'longitude' => 40.22627,
   ),
-  128 => 
+  119 => 
   array (
     'id' => 107312,
     'name' => 'Başakşehir',
@@ -1162,7 +1081,7 @@ return array (
     'latitude' => 41.09203,
     'longitude' => 28.80203,
   ),
-  129 => 
+  120 => 
   array (
     'id' => 107314,
     'name' => 'Başiskele',
@@ -1171,7 +1090,7 @@ return array (
     'latitude' => 40.64574,
     'longitude' => 29.90015,
   ),
-  130 => 
+  121 => 
   array (
     'id' => 107315,
     'name' => 'Başkale',
@@ -1180,7 +1099,7 @@ return array (
     'latitude' => 38.04526,
     'longitude' => 44.01718,
   ),
-  131 => 
+  122 => 
   array (
     'id' => 107318,
     'name' => 'Başmakçı',
@@ -1189,7 +1108,7 @@ return array (
     'latitude' => 37.89722,
     'longitude' => 30.01167,
   ),
-  132 => 
+  123 => 
   array (
     'id' => 107320,
     'name' => 'Başyayla',
@@ -1198,7 +1117,7 @@ return array (
     'latitude' => 36.75337,
     'longitude' => 32.68018,
   ),
-  133 => 
+  124 => 
   array (
     'id' => 107322,
     'name' => 'Başçiftlik',
@@ -1207,7 +1126,7 @@ return array (
     'latitude' => 40.54694,
     'longitude' => 37.16917,
   ),
-  134 => 
+  125 => 
   array (
     'id' => 107326,
     'name' => 'Bekilli',
@@ -1216,7 +1135,7 @@ return array (
     'latitude' => 38.24027,
     'longitude' => 29.42559,
   ),
-  135 => 
+  126 => 
   array (
     'id' => 107328,
     'name' => 'Belen',
@@ -1225,7 +1144,7 @@ return array (
     'latitude' => 36.48866,
     'longitude' => 36.19489,
   ),
-  136 => 
+  127 => 
   array (
     'id' => 107331,
     'name' => 'Bergama',
@@ -1234,7 +1153,7 @@ return array (
     'latitude' => 39.17088,
     'longitude' => 27.18918,
   ),
-  137 => 
+  128 => 
   array (
     'id' => 107332,
     'name' => 'Besni',
@@ -1243,7 +1162,7 @@ return array (
     'latitude' => 37.69278,
     'longitude' => 37.86111,
   ),
-  138 => 
+  129 => 
   array (
     'id' => 107334,
     'name' => 'Beyağaç',
@@ -1252,7 +1171,7 @@ return array (
     'latitude' => 37.24546,
     'longitude' => 28.90041,
   ),
-  139 => 
+  130 => 
   array (
     'id' => 107335,
     'name' => 'Beydağ',
@@ -1261,7 +1180,7 @@ return array (
     'latitude' => 38.08241,
     'longitude' => 28.21609,
   ),
-  140 => 
+  131 => 
   array (
     'id' => 107337,
     'name' => 'Beykoz',
@@ -1270,7 +1189,7 @@ return array (
     'latitude' => 41.13774,
     'longitude' => 29.16932,
   ),
-  141 => 
+  132 => 
   array (
     'id' => 107338,
     'name' => 'Beylikdüzü',
@@ -1279,7 +1198,7 @@ return array (
     'latitude' => 41.00322,
     'longitude' => 28.64067,
   ),
-  142 => 
+  133 => 
   array (
     'id' => 107339,
     'name' => 'Beylikova',
@@ -1288,7 +1207,7 @@ return array (
     'latitude' => 39.68694,
     'longitude' => 31.20556,
   ),
-  143 => 
+  134 => 
   array (
     'id' => 107341,
     'name' => 'Beyoğlu',
@@ -1297,7 +1216,7 @@ return array (
     'latitude' => 41.03786,
     'longitude' => 28.96767,
   ),
-  144 => 
+  135 => 
   array (
     'id' => 107343,
     'name' => 'Beypazarı',
@@ -1306,7 +1225,7 @@ return array (
     'latitude' => 40.1675,
     'longitude' => 31.92111,
   ),
-  145 => 
+  136 => 
   array (
     'id' => 107344,
     'name' => 'Beytüşşebap',
@@ -1315,7 +1234,7 @@ return array (
     'latitude' => 37.57144,
     'longitude' => 43.16515,
   ),
-  146 => 
+  137 => 
   array (
     'id' => 107345,
     'name' => 'Beyşehir',
@@ -1324,7 +1243,7 @@ return array (
     'latitude' => 37.67735,
     'longitude' => 31.72458,
   ),
-  147 => 
+  138 => 
   array (
     'id' => 107348,
     'name' => 'Beşikdüzü',
@@ -1333,7 +1252,7 @@ return array (
     'latitude' => 41.05202,
     'longitude' => 39.23294,
   ),
-  148 => 
+  139 => 
   array (
     'id' => 107349,
     'name' => 'Beşiktaş',
@@ -1342,7 +1261,7 @@ return array (
     'latitude' => 41.07122,
     'longitude' => 29.02321,
   ),
-  149 => 
+  140 => 
   array (
     'id' => 107350,
     'name' => 'Beşiri',
@@ -1351,7 +1270,7 @@ return array (
     'latitude' => 37.91573,
     'longitude' => 41.2865,
   ),
-  150 => 
+  141 => 
   array (
     'id' => 107353,
     'name' => 'Biga',
@@ -1360,7 +1279,7 @@ return array (
     'latitude' => 40.26921,
     'longitude' => 27.20841,
   ),
-  151 => 
+  142 => 
   array (
     'id' => 107354,
     'name' => 'Bigadiç',
@@ -1369,16 +1288,7 @@ return array (
     'latitude' => 39.3925,
     'longitude' => 28.13111,
   ),
-  152 => 
-  array (
-    'id' => 107356,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.14192,
-    'longitude' => 29.97932,
-  ),
-  153 => 
+  143 => 
   array (
     'id' => 107359,
     'name' => 'Birecik',
@@ -1387,7 +1297,7 @@ return array (
     'latitude' => 37.02577,
     'longitude' => 37.97841,
   ),
-  154 => 
+  144 => 
   array (
     'id' => 107362,
     'name' => 'Bismil',
@@ -1396,7 +1306,7 @@ return array (
     'latitude' => 37.84514,
     'longitude' => 40.65931,
   ),
-  155 => 
+  145 => 
   array (
     'id' => 107365,
     'name' => 'Bodrum',
@@ -1405,16 +1315,7 @@ return array (
     'latitude' => 37.065,
     'longitude' => 27.49819,
   ),
-  156 => 
-  array (
-    'id' => 107366,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.73583,
-    'longitude' => 31.60611,
-  ),
-  157 => 
+  146 => 
   array (
     'id' => 107367,
     'name' => 'Bolvadin',
@@ -1423,7 +1324,7 @@ return array (
     'latitude' => 38.71111,
     'longitude' => 31.04861,
   ),
-  158 => 
+  147 => 
   array (
     'id' => 107369,
     'name' => 'Bor',
@@ -1432,7 +1333,7 @@ return array (
     'latitude' => 37.89056,
     'longitude' => 34.55889,
   ),
-  159 => 
+  148 => 
   array (
     'id' => 107370,
     'name' => 'Bornova',
@@ -1441,7 +1342,7 @@ return array (
     'latitude' => 38.48492,
     'longitude' => 27.25235,
   ),
-  160 => 
+  149 => 
   array (
     'id' => 107371,
     'name' => 'Borçka',
@@ -1450,7 +1351,7 @@ return array (
     'latitude' => 41.35792,
     'longitude' => 41.66579,
   ),
-  161 => 
+  150 => 
   array (
     'id' => 107380,
     'name' => 'Bozcaada',
@@ -1459,7 +1360,7 @@ return array (
     'latitude' => 39.82409,
     'longitude' => 26.04069,
   ),
-  162 => 
+  151 => 
   array (
     'id' => 107381,
     'name' => 'Bozdoğan',
@@ -1468,7 +1369,7 @@ return array (
     'latitude' => 37.67134,
     'longitude' => 28.31395,
   ),
-  163 => 
+  152 => 
   array (
     'id' => 107383,
     'name' => 'Bozkurt',
@@ -1477,16 +1378,7 @@ return array (
     'latitude' => 41.95769,
     'longitude' => 34.01087,
   ),
-  164 => 
-  array (
-    'id' => 107384,
-    'name' => 'Bozkurt',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.77583,
-    'longitude' => 29.60811,
-  ),
-  165 => 
+  153 => 
   array (
     'id' => 107386,
     'name' => 'Bozkır',
@@ -1495,7 +1387,7 @@ return array (
     'latitude' => 37.18963,
     'longitude' => 32.24736,
   ),
-  166 => 
+  154 => 
   array (
     'id' => 107388,
     'name' => 'Bozova',
@@ -1504,7 +1396,7 @@ return array (
     'latitude' => 37.3625,
     'longitude' => 38.52667,
   ),
-  167 => 
+  155 => 
   array (
     'id' => 107390,
     'name' => 'Boztepe',
@@ -1513,7 +1405,7 @@ return array (
     'latitude' => 39.27979,
     'longitude' => 34.26657,
   ),
-  168 => 
+  156 => 
   array (
     'id' => 107391,
     'name' => 'Bozyazı',
@@ -1522,7 +1414,7 @@ return array (
     'latitude' => 36.1082,
     'longitude' => 32.96113,
   ),
-  169 => 
+  157 => 
   array (
     'id' => 107393,
     'name' => 'Bozüyük',
@@ -1531,7 +1423,7 @@ return array (
     'latitude' => 39.90778,
     'longitude' => 30.03667,
   ),
-  170 => 
+  158 => 
   array (
     'id' => 107395,
     'name' => 'Boğazkale',
@@ -1540,7 +1432,7 @@ return array (
     'latitude' => 40.03031,
     'longitude' => 34.61745,
   ),
-  171 => 
+  159 => 
   array (
     'id' => 107397,
     'name' => 'Boğazlıyan',
@@ -1549,7 +1441,7 @@ return array (
     'latitude' => 39.19627,
     'longitude' => 35.2542,
   ),
-  172 => 
+  160 => 
   array (
     'id' => 107399,
     'name' => 'Buca',
@@ -1558,7 +1450,7 @@ return array (
     'latitude' => 38.34813,
     'longitude' => 27.25053,
   ),
-  173 => 
+  161 => 
   array (
     'id' => 107400,
     'name' => 'Bucak',
@@ -1567,7 +1459,7 @@ return array (
     'latitude' => 37.45917,
     'longitude' => 30.595,
   ),
-  174 => 
+  162 => 
   array (
     'id' => 107402,
     'name' => 'Buharkent',
@@ -1576,7 +1468,7 @@ return array (
     'latitude' => 37.96397,
     'longitude' => 28.7427,
   ),
-  175 => 
+  163 => 
   array (
     'id' => 107404,
     'name' => 'Bulancak',
@@ -1585,7 +1477,7 @@ return array (
     'latitude' => 40.93805,
     'longitude' => 38.23148,
   ),
-  176 => 
+  164 => 
   array (
     'id' => 107406,
     'name' => 'Bulanık',
@@ -1594,7 +1486,7 @@ return array (
     'latitude' => 39.08656,
     'longitude' => 42.27158,
   ),
-  177 => 
+  165 => 
   array (
     'id' => 107408,
     'name' => 'Buldan',
@@ -1603,7 +1495,7 @@ return array (
     'latitude' => 38.045,
     'longitude' => 28.83056,
   ),
-  178 => 
+  166 => 
   array (
     'id' => 107412,
     'name' => 'Burhaniye',
@@ -1612,7 +1504,7 @@ return array (
     'latitude' => 39.50041,
     'longitude' => 26.97269,
   ),
-  179 => 
+  167 => 
   array (
     'id' => 107416,
     'name' => 'Bünyan',
@@ -1621,7 +1513,7 @@ return array (
     'latitude' => 38.8463,
     'longitude' => 35.86033,
   ),
-  180 => 
+  168 => 
   array (
     'id' => 107419,
     'name' => 'Büyükorhan',
@@ -1630,7 +1522,7 @@ return array (
     'latitude' => 39.78223,
     'longitude' => 28.89338,
   ),
-  181 => 
+  169 => 
   array (
     'id' => 107422,
     'name' => 'Büyükçekmece',
@@ -1639,7 +1531,7 @@ return array (
     'latitude' => 41.04521,
     'longitude' => 28.59573,
   ),
-  182 => 
+  170 => 
   array (
     'id' => 107423,
     'name' => 'Canik',
@@ -1648,7 +1540,7 @@ return array (
     'latitude' => 41.23858,
     'longitude' => 36.33694,
   ),
-  183 => 
+  171 => 
   array (
     'id' => 107427,
     'name' => 'Ceyhan',
@@ -1657,7 +1549,7 @@ return array (
     'latitude' => 37.02472,
     'longitude' => 35.8175,
   ),
-  184 => 
+  172 => 
   array (
     'id' => 107428,
     'name' => 'Ceylanpınar',
@@ -1666,7 +1558,7 @@ return array (
     'latitude' => 36.84722,
     'longitude' => 40.05,
   ),
-  185 => 
+  173 => 
   array (
     'id' => 107430,
     'name' => 'Cide',
@@ -1675,7 +1567,7 @@ return array (
     'latitude' => 41.85583,
     'longitude' => 33.03977,
   ),
-  186 => 
+  174 => 
   array (
     'id' => 107431,
     'name' => 'Cihanbeyli',
@@ -1684,7 +1576,7 @@ return array (
     'latitude' => 38.66072,
     'longitude' => 32.92437,
   ),
-  187 => 
+  175 => 
   array (
     'id' => 107436,
     'name' => 'Cizre',
@@ -1693,7 +1585,7 @@ return array (
     'latitude' => 37.33024,
     'longitude' => 42.18484,
   ),
-  188 => 
+  176 => 
   array (
     'id' => 107438,
     'name' => 'Cumayeri',
@@ -1702,7 +1594,7 @@ return array (
     'latitude' => 40.88176,
     'longitude' => 30.94094,
   ),
-  189 => 
+  177 => 
   array (
     'id' => 107439,
     'name' => 'Daday',
@@ -1711,7 +1603,7 @@ return array (
     'latitude' => 41.47866,
     'longitude' => 33.46667,
   ),
-  190 => 
+  178 => 
   array (
     'id' => 107442,
     'name' => 'Dalaman',
@@ -1720,7 +1612,7 @@ return array (
     'latitude' => 36.81691,
     'longitude' => 28.87815,
   ),
-  191 => 
+  179 => 
   array (
     'id' => 107444,
     'name' => 'Damal',
@@ -1729,7 +1621,7 @@ return array (
     'latitude' => 41.34145,
     'longitude' => 42.8368,
   ),
-  192 => 
+  180 => 
   array (
     'id' => 107447,
     'name' => 'Darende',
@@ -1738,7 +1630,7 @@ return array (
     'latitude' => 38.54583,
     'longitude' => 37.50583,
   ),
-  193 => 
+  181 => 
   array (
     'id' => 107449,
     'name' => 'Dargeçit',
@@ -1747,7 +1639,7 @@ return array (
     'latitude' => 37.54616,
     'longitude' => 41.71652,
   ),
-  194 => 
+  182 => 
   array (
     'id' => 107451,
     'name' => 'Darıca',
@@ -1756,7 +1648,7 @@ return array (
     'latitude' => 40.7678,
     'longitude' => 29.37126,
   ),
-  195 => 
+  183 => 
   array (
     'id' => 107452,
     'name' => 'Datça',
@@ -1765,7 +1657,7 @@ return array (
     'latitude' => 36.73778,
     'longitude' => 27.68417,
   ),
-  196 => 
+  184 => 
   array (
     'id' => 107455,
     'name' => 'Dazkırı',
@@ -1774,7 +1666,7 @@ return array (
     'latitude' => 37.91861,
     'longitude' => 29.86056,
   ),
-  197 => 
+  185 => 
   array (
     'id' => 107458,
     'name' => 'Defne',
@@ -1783,7 +1675,7 @@ return array (
     'latitude' => 36.23739,
     'longitude' => 36.16364,
   ),
-  198 => 
+  186 => 
   array (
     'id' => 107459,
     'name' => 'Delice',
@@ -1792,7 +1684,7 @@ return array (
     'latitude' => 39.95371,
     'longitude' => 34.02587,
   ),
-  199 => 
+  187 => 
   array (
     'id' => 107461,
     'name' => 'Demirci',
@@ -1801,7 +1693,7 @@ return array (
     'latitude' => 39.04607,
     'longitude' => 28.65889,
   ),
-  200 => 
+  188 => 
   array (
     'id' => 107463,
     'name' => 'Demirköy',
@@ -1810,7 +1702,7 @@ return array (
     'latitude' => 41.83567,
     'longitude' => 27.77137,
   ),
-  201 => 
+  189 => 
   array (
     'id' => 107466,
     'name' => 'Demirözü',
@@ -1819,7 +1711,7 @@ return array (
     'latitude' => 40.1656,
     'longitude' => 39.89343,
   ),
-  202 => 
+  190 => 
   array (
     'id' => 107467,
     'name' => 'Demre',
@@ -1828,7 +1720,7 @@ return array (
     'latitude' => 36.24444,
     'longitude' => 29.985,
   ),
-  203 => 
+  191 => 
   array (
     'id' => 107471,
     'name' => 'Derbent',
@@ -1837,7 +1729,7 @@ return array (
     'latitude' => 38.01422,
     'longitude' => 32.01639,
   ),
-  204 => 
+  192 => 
   array (
     'id' => 107473,
     'name' => 'Derebucak',
@@ -1846,7 +1738,7 @@ return array (
     'latitude' => 37.39179,
     'longitude' => 31.50918,
   ),
-  205 => 
+  193 => 
   array (
     'id' => 107475,
     'name' => 'Dereli',
@@ -1855,7 +1747,7 @@ return array (
     'latitude' => 40.613,
     'longitude' => 38.39,
   ),
-  206 => 
+  194 => 
   array (
     'id' => 107478,
     'name' => 'Derik',
@@ -1864,7 +1756,7 @@ return array (
     'latitude' => 37.36431,
     'longitude' => 40.26883,
   ),
-  207 => 
+  195 => 
   array (
     'id' => 107479,
     'name' => 'Derince',
@@ -1873,7 +1765,7 @@ return array (
     'latitude' => 40.75694,
     'longitude' => 29.81472,
   ),
-  208 => 
+  196 => 
   array (
     'id' => 107481,
     'name' => 'Derinkuyu',
@@ -1882,7 +1774,7 @@ return array (
     'latitude' => 38.3751,
     'longitude' => 34.73419,
   ),
-  209 => 
+  197 => 
   array (
     'id' => 107483,
     'name' => 'Dernekpazarı',
@@ -1891,7 +1783,7 @@ return array (
     'latitude' => 40.79658,
     'longitude' => 40.2446,
   ),
-  210 => 
+  198 => 
   array (
     'id' => 107485,
     'name' => 'Develi',
@@ -1900,7 +1792,7 @@ return array (
     'latitude' => 38.26789,
     'longitude' => 35.59161,
   ),
-  211 => 
+  199 => 
   array (
     'id' => 107486,
     'name' => 'Devrek',
@@ -1909,7 +1801,7 @@ return array (
     'latitude' => 41.21917,
     'longitude' => 31.95583,
   ),
-  212 => 
+  200 => 
   array (
     'id' => 107488,
     'name' => 'Devrekani',
@@ -1918,7 +1810,7 @@ return array (
     'latitude' => 41.60303,
     'longitude' => 33.83922,
   ),
-  213 => 
+  201 => 
   array (
     'id' => 107491,
     'name' => 'Dicle',
@@ -1927,7 +1819,7 @@ return array (
     'latitude' => 38.36571,
     'longitude' => 40.0645,
   ),
-  214 => 
+  202 => 
   array (
     'id' => 107493,
     'name' => 'Didim',
@@ -1936,7 +1828,7 @@ return array (
     'latitude' => 37.39305,
     'longitude' => 27.29357,
   ),
-  215 => 
+  203 => 
   array (
     'id' => 107494,
     'name' => 'Digor',
@@ -1945,7 +1837,7 @@ return array (
     'latitude' => 40.37515,
     'longitude' => 43.41361,
   ),
-  216 => 
+  204 => 
   array (
     'id' => 107495,
     'name' => 'Dikili',
@@ -1954,7 +1846,7 @@ return array (
     'latitude' => 39.071,
     'longitude' => 26.89017,
   ),
-  217 => 
+  205 => 
   array (
     'id' => 107497,
     'name' => 'Dilovası',
@@ -1963,7 +1855,7 @@ return array (
     'latitude' => 40.77972,
     'longitude' => 29.535,
   ),
-  218 => 
+  206 => 
   array (
     'id' => 107498,
     'name' => 'Dinar',
@@ -1972,7 +1864,7 @@ return array (
     'latitude' => 38.065,
     'longitude' => 30.16557,
   ),
-  219 => 
+  207 => 
   array (
     'id' => 107500,
     'name' => 'Divriği',
@@ -1981,7 +1873,7 @@ return array (
     'latitude' => 39.371,
     'longitude' => 38.1137,
   ),
-  220 => 
+  208 => 
   array (
     'id' => 107502,
     'name' => 'Diyadin',
@@ -1990,7 +1882,7 @@ return array (
     'latitude' => 39.54056,
     'longitude' => 43.67135,
   ),
-  221 => 
+  209 => 
   array (
     'id' => 107506,
     'name' => 'Dodurga',
@@ -1999,7 +1891,7 @@ return array (
     'latitude' => 40.85489,
     'longitude' => 34.80703,
   ),
-  222 => 
+  210 => 
   array (
     'id' => 107508,
     'name' => 'Domaniç',
@@ -2008,7 +1900,7 @@ return array (
     'latitude' => 39.80194,
     'longitude' => 29.60918,
   ),
-  223 => 
+  211 => 
   array (
     'id' => 107513,
     'name' => 'Doğanhisar',
@@ -2017,7 +1909,7 @@ return array (
     'latitude' => 38.1463,
     'longitude' => 31.67648,
   ),
-  224 => 
+  212 => 
   array (
     'id' => 107516,
     'name' => 'Doğankent',
@@ -2026,7 +1918,7 @@ return array (
     'latitude' => 40.8075,
     'longitude' => 38.91722,
   ),
-  225 => 
+  213 => 
   array (
     'id' => 107520,
     'name' => 'Doğanyol',
@@ -2035,7 +1927,7 @@ return array (
     'latitude' => 38.30746,
     'longitude' => 39.03431,
   ),
-  226 => 
+  214 => 
   array (
     'id' => 107521,
     'name' => 'Doğanyurt',
@@ -2044,7 +1936,7 @@ return array (
     'latitude' => 42.00457,
     'longitude' => 33.46029,
   ),
-  227 => 
+  215 => 
   array (
     'id' => 107523,
     'name' => 'Doğanşar',
@@ -2053,7 +1945,7 @@ return array (
     'latitude' => 40.20841,
     'longitude' => 37.53123,
   ),
-  228 => 
+  216 => 
   array (
     'id' => 107525,
     'name' => 'Doğanşehir',
@@ -2062,7 +1954,7 @@ return array (
     'latitude' => 38.08574,
     'longitude' => 37.87116,
   ),
-  229 => 
+  217 => 
   array (
     'id' => 107527,
     'name' => 'Doğubayazıt',
@@ -2071,7 +1963,7 @@ return array (
     'latitude' => 39.54694,
     'longitude' => 44.08417,
   ),
-  230 => 
+  218 => 
   array (
     'id' => 107529,
     'name' => 'Dulkadiroğlu',
@@ -2080,7 +1972,7 @@ return array (
     'latitude' => 37.58254,
     'longitude' => 36.91973,
   ),
-  231 => 
+  219 => 
   array (
     'id' => 107530,
     'name' => 'Dumlupınar',
@@ -2089,7 +1981,7 @@ return array (
     'latitude' => 38.85408,
     'longitude' => 29.9772,
   ),
-  232 => 
+  220 => 
   array (
     'id' => 107532,
     'name' => 'Dursunbey',
@@ -2098,7 +1990,7 @@ return array (
     'latitude' => 39.58596,
     'longitude' => 28.62568,
   ),
-  233 => 
+  221 => 
   array (
     'id' => 107537,
     'name' => 'Dörtdivan',
@@ -2107,7 +1999,7 @@ return array (
     'latitude' => 40.72052,
     'longitude' => 32.06314,
   ),
-  234 => 
+  222 => 
   array (
     'id' => 107539,
     'name' => 'Dörtyol',
@@ -2116,7 +2008,7 @@ return array (
     'latitude' => 36.83917,
     'longitude' => 36.23025,
   ),
-  235 => 
+  223 => 
   array (
     'id' => 107541,
     'name' => 'Döşemealtı',
@@ -2125,16 +2017,7 @@ return array (
     'latitude' => 37.02366,
     'longitude' => 30.5904,
   ),
-  236 => 
-  array (
-    'id' => 107542,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.83889,
-    'longitude' => 31.16389,
-  ),
-  237 => 
+  224 => 
   array (
     'id' => 107543,
     'name' => 'Düziçi',
@@ -2143,7 +2026,7 @@ return array (
     'latitude' => 37.25062,
     'longitude' => 36.47051,
   ),
-  238 => 
+  225 => 
   array (
     'id' => 107544,
     'name' => 'Düzköy',
@@ -2152,7 +2035,7 @@ return array (
     'latitude' => 40.87461,
     'longitude' => 39.41536,
   ),
-  239 => 
+  226 => 
   array (
     'id' => 107548,
     'name' => 'Eceabat',
@@ -2161,16 +2044,7 @@ return array (
     'latitude' => 40.18416,
     'longitude' => 26.3574,
   ),
-  240 => 
-  array (
-    'id' => 107549,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.67719,
-    'longitude' => 26.55597,
-  ),
-  241 => 
+  227 => 
   array (
     'id' => 107550,
     'name' => 'Edremit',
@@ -2179,16 +2053,7 @@ return array (
     'latitude' => 39.59611,
     'longitude' => 27.02444,
   ),
-  242 => 
-  array (
-    'id' => 107551,
-    'name' => 'Edremit',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.37889,
-    'longitude' => 43.29717,
-  ),
-  243 => 
+  228 => 
   array (
     'id' => 107553,
     'name' => 'Efeler',
@@ -2197,7 +2062,7 @@ return array (
     'latitude' => 37.83835,
     'longitude' => 27.84557,
   ),
-  244 => 
+  229 => 
   array (
     'id' => 107554,
     'name' => 'Eflani',
@@ -2206,7 +2071,7 @@ return array (
     'latitude' => 41.42289,
     'longitude' => 32.95761,
   ),
-  245 => 
+  230 => 
   array (
     'id' => 107556,
     'name' => 'Ekinözü',
@@ -2215,7 +2080,7 @@ return array (
     'latitude' => 38.07007,
     'longitude' => 37.19414,
   ),
-  246 => 
+  231 => 
   array (
     'id' => 107559,
     'name' => 'Elbeyli',
@@ -2224,7 +2089,7 @@ return array (
     'latitude' => 36.67417,
     'longitude' => 37.46667,
   ),
-  247 => 
+  232 => 
   array (
     'id' => 107562,
     'name' => 'Elbistan',
@@ -2233,7 +2098,7 @@ return array (
     'latitude' => 38.20591,
     'longitude' => 37.1983,
   ),
-  248 => 
+  233 => 
   array (
     'id' => 107564,
     'name' => 'Eldivan',
@@ -2242,7 +2107,7 @@ return array (
     'latitude' => 40.52975,
     'longitude' => 33.49903,
   ),
-  249 => 
+  234 => 
   array (
     'id' => 107566,
     'name' => 'Eleşkirt',
@@ -2251,7 +2116,7 @@ return array (
     'latitude' => 39.79803,
     'longitude' => 42.67574,
   ),
-  250 => 
+  235 => 
   array (
     'id' => 107568,
     'name' => 'Elmadağ',
@@ -2260,7 +2125,7 @@ return array (
     'latitude' => 39.92083,
     'longitude' => 33.23083,
   ),
-  251 => 
+  236 => 
   array (
     'id' => 107570,
     'name' => 'Elmalı',
@@ -2269,7 +2134,7 @@ return array (
     'latitude' => 36.73583,
     'longitude' => 29.91775,
   ),
-  252 => 
+  237 => 
   array (
     'id' => 107573,
     'name' => 'Emet',
@@ -2278,7 +2143,7 @@ return array (
     'latitude' => 39.343,
     'longitude' => 29.25847,
   ),
-  253 => 
+  238 => 
   array (
     'id' => 107576,
     'name' => 'Emirdağ',
@@ -2287,7 +2152,7 @@ return array (
     'latitude' => 39.01972,
     'longitude' => 31.15,
   ),
-  254 => 
+  239 => 
   array (
     'id' => 107578,
     'name' => 'Emirgazi',
@@ -2296,7 +2161,7 @@ return array (
     'latitude' => 37.90222,
     'longitude' => 33.83722,
   ),
-  255 => 
+  240 => 
   array (
     'id' => 107580,
     'name' => 'Enez',
@@ -2305,7 +2170,7 @@ return array (
     'latitude' => 40.72472,
     'longitude' => 26.0825,
   ),
-  256 => 
+  241 => 
   array (
     'id' => 107582,
     'name' => 'Erbaa',
@@ -2314,7 +2179,7 @@ return array (
     'latitude' => 40.7139,
     'longitude' => 36.59364,
   ),
-  257 => 
+  242 => 
   array (
     'id' => 107583,
     'name' => 'Erciş',
@@ -2323,7 +2188,7 @@ return array (
     'latitude' => 39.15123,
     'longitude' => 43.33705,
   ),
-  258 => 
+  243 => 
   array (
     'id' => 107584,
     'name' => 'Erdek',
@@ -2332,7 +2197,7 @@ return array (
     'latitude' => 40.3996,
     'longitude' => 27.79348,
   ),
-  259 => 
+  244 => 
   array (
     'id' => 107586,
     'name' => 'Erdemli',
@@ -2341,7 +2206,7 @@ return array (
     'latitude' => 36.60498,
     'longitude' => 34.30836,
   ),
-  260 => 
+  245 => 
   array (
     'id' => 107588,
     'name' => 'Erenler',
@@ -2350,7 +2215,7 @@ return array (
     'latitude' => 40.75564,
     'longitude' => 30.41453,
   ),
-  261 => 
+  246 => 
   array (
     'id' => 107589,
     'name' => 'Ereğli',
@@ -2359,16 +2224,7 @@ return array (
     'latitude' => 37.51333,
     'longitude' => 34.04672,
   ),
-  262 => 
-  array (
-    'id' => 107590,
-    'name' => 'Ereğli',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.23807,
-    'longitude' => 31.60581,
-  ),
-  263 => 
+  247 => 
   array (
     'id' => 107592,
     'name' => 'Ergani',
@@ -2377,7 +2233,7 @@ return array (
     'latitude' => 38.26899,
     'longitude' => 39.75446,
   ),
-  264 => 
+  248 => 
   array (
     'id' => 107594,
     'name' => 'Ergene',
@@ -2386,7 +2242,7 @@ return array (
     'latitude' => 40.85953,
     'longitude' => 27.27081,
   ),
-  265 => 
+  249 => 
   array (
     'id' => 107596,
     'name' => 'Ermenek',
@@ -2395,7 +2251,7 @@ return array (
     'latitude' => 36.64043,
     'longitude' => 32.89179,
   ),
-  266 => 
+  250 => 
   array (
     'id' => 107598,
     'name' => 'Eruh',
@@ -2404,7 +2260,7 @@ return array (
     'latitude' => 37.74183,
     'longitude' => 42.17422,
   ),
-  267 => 
+  251 => 
   array (
     'id' => 107600,
     'name' => 'Erzin',
@@ -2413,16 +2269,7 @@ return array (
     'latitude' => 36.95348,
     'longitude' => 36.19839,
   ),
-  268 => 
-  array (
-    'id' => 107602,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.73919,
-    'longitude' => 39.49015,
-  ),
-  269 => 
+  252 => 
   array (
     'id' => 107604,
     'name' => 'Esenler',
@@ -2431,7 +2278,7 @@ return array (
     'latitude' => 41.07925,
     'longitude' => 28.85235,
   ),
-  270 => 
+  253 => 
   array (
     'id' => 107605,
     'name' => 'Esenyurt',
@@ -2440,7 +2287,7 @@ return array (
     'latitude' => 41.04,
     'longitude' => 28.66161,
   ),
-  271 => 
+  254 => 
   array (
     'id' => 107606,
     'name' => 'Eskil',
@@ -2449,7 +2296,7 @@ return array (
     'latitude' => 38.41158,
     'longitude' => 33.41994,
   ),
-  272 => 
+  255 => 
   array (
     'id' => 107607,
     'name' => 'Eskipazar',
@@ -2458,7 +2305,7 @@ return array (
     'latitude' => 40.95207,
     'longitude' => 32.54604,
   ),
-  273 => 
+  256 => 
   array (
     'id' => 107609,
     'name' => 'Espiye',
@@ -2467,7 +2314,7 @@ return array (
     'latitude' => 40.94705,
     'longitude' => 38.70299,
   ),
-  274 => 
+  257 => 
   array (
     'id' => 107611,
     'name' => 'Etimesgut',
@@ -2476,7 +2323,7 @@ return array (
     'latitude' => 39.96335,
     'longitude' => 32.63744,
   ),
-  275 => 
+  258 => 
   array (
     'id' => 107612,
     'name' => 'Evciler',
@@ -2485,7 +2332,7 @@ return array (
     'latitude' => 38.04139,
     'longitude' => 29.88667,
   ),
-  276 => 
+  259 => 
   array (
     'id' => 107614,
     'name' => 'Evren',
@@ -2494,7 +2341,7 @@ return array (
     'latitude' => 39.02402,
     'longitude' => 33.80626,
   ),
-  277 => 
+  260 => 
   array (
     'id' => 107619,
     'name' => 'Eynesil',
@@ -2503,7 +2350,7 @@ return array (
     'latitude' => 41.06436,
     'longitude' => 39.14274,
   ),
-  278 => 
+  261 => 
   array (
     'id' => 107621,
     'name' => 'Eyyübiye',
@@ -2512,7 +2359,7 @@ return array (
     'latitude' => 37.21434,
     'longitude' => 38.79358,
   ),
-  279 => 
+  262 => 
   array (
     'id' => 107622,
     'name' => 'Eyüpsultan',
@@ -2521,7 +2368,7 @@ return array (
     'latitude' => 41.19904,
     'longitude' => 28.88667,
   ),
-  280 => 
+  263 => 
   array (
     'id' => 107623,
     'name' => 'Ezine',
@@ -2530,7 +2377,7 @@ return array (
     'latitude' => 39.78561,
     'longitude' => 26.34083,
   ),
-  281 => 
+  264 => 
   array (
     'id' => 107625,
     'name' => 'Eğil',
@@ -2539,7 +2386,7 @@ return array (
     'latitude' => 38.25748,
     'longitude' => 40.07435,
   ),
-  282 => 
+  265 => 
   array (
     'id' => 107627,
     'name' => 'Eğirdir',
@@ -2548,7 +2395,7 @@ return array (
     'latitude' => 37.87462,
     'longitude' => 30.85042,
   ),
-  283 => 
+  266 => 
   array (
     'id' => 107629,
     'name' => 'Eşme',
@@ -2557,7 +2404,7 @@ return array (
     'latitude' => 38.39976,
     'longitude' => 28.96905,
   ),
-  284 => 
+  267 => 
   array (
     'id' => 107632,
     'name' => 'Fatih',
@@ -2566,7 +2413,7 @@ return array (
     'latitude' => 41.01746,
     'longitude' => 28.94053,
   ),
-  285 => 
+  268 => 
   array (
     'id' => 107633,
     'name' => 'Fatsa',
@@ -2575,7 +2422,7 @@ return array (
     'latitude' => 41.02778,
     'longitude' => 37.50139,
   ),
-  286 => 
+  269 => 
   array (
     'id' => 107635,
     'name' => 'Feke',
@@ -2584,7 +2431,7 @@ return array (
     'latitude' => 37.82405,
     'longitude' => 35.91826,
   ),
-  287 => 
+  270 => 
   array (
     'id' => 107636,
     'name' => 'Felahiye',
@@ -2593,7 +2440,7 @@ return array (
     'latitude' => 39.09056,
     'longitude' => 35.56722,
   ),
-  288 => 
+  271 => 
   array (
     'id' => 107638,
     'name' => 'Ferizli',
@@ -2602,7 +2449,7 @@ return array (
     'latitude' => 40.94082,
     'longitude' => 30.48583,
   ),
-  289 => 
+  272 => 
   array (
     'id' => 107640,
     'name' => 'Fethiye',
@@ -2611,7 +2458,7 @@ return array (
     'latitude' => 36.64038,
     'longitude' => 29.12758,
   ),
-  290 => 
+  273 => 
   array (
     'id' => 107641,
     'name' => 'Finike',
@@ -2620,7 +2467,7 @@ return array (
     'latitude' => 36.42355,
     'longitude' => 30.06645,
   ),
-  291 => 
+  274 => 
   array (
     'id' => 107642,
     'name' => 'Foça',
@@ -2629,7 +2476,7 @@ return array (
     'latitude' => 38.6703,
     'longitude' => 26.75656,
   ),
-  292 => 
+  275 => 
   array (
     'id' => 107644,
     'name' => 'Fındıklı',
@@ -2638,7 +2485,7 @@ return array (
     'latitude' => 41.2711,
     'longitude' => 41.14449,
   ),
-  293 => 
+  276 => 
   array (
     'id' => 107646,
     'name' => 'Gaziemir',
@@ -2647,7 +2494,7 @@ return array (
     'latitude' => 38.31098,
     'longitude' => 27.15178,
   ),
-  294 => 
+  277 => 
   array (
     'id' => 107647,
     'name' => 'Gaziosmanpaşa',
@@ -2656,7 +2503,7 @@ return array (
     'latitude' => 41.07857,
     'longitude' => 28.89679,
   ),
-  295 => 
+  278 => 
   array (
     'id' => 107648,
     'name' => 'Gazipaşa',
@@ -2665,7 +2512,7 @@ return array (
     'latitude' => 36.26942,
     'longitude' => 32.31792,
   ),
-  296 => 
+  279 => 
   array (
     'id' => 107650,
     'name' => 'Gebze',
@@ -2674,7 +2521,7 @@ return array (
     'latitude' => 40.80276,
     'longitude' => 29.43068,
   ),
-  297 => 
+  280 => 
   array (
     'id' => 107651,
     'name' => 'Gediz',
@@ -2683,7 +2530,7 @@ return array (
     'latitude' => 38.99389,
     'longitude' => 29.39131,
   ),
-  298 => 
+  281 => 
   array (
     'id' => 107653,
     'name' => 'Gelendost',
@@ -2692,7 +2539,7 @@ return array (
     'latitude' => 38.12083,
     'longitude' => 31.01528,
   ),
-  299 => 
+  282 => 
   array (
     'id' => 107655,
     'name' => 'Gelibolu',
@@ -2701,7 +2548,7 @@ return array (
     'latitude' => 40.41028,
     'longitude' => 26.67083,
   ),
-  300 => 
+  283 => 
   array (
     'id' => 107658,
     'name' => 'Gemerek',
@@ -2710,7 +2557,7 @@ return array (
     'latitude' => 39.18342,
     'longitude' => 36.07189,
   ),
-  301 => 
+  284 => 
   array (
     'id' => 107660,
     'name' => 'Gemlik',
@@ -2719,7 +2566,7 @@ return array (
     'latitude' => 40.4351,
     'longitude' => 29.14943,
   ),
-  302 => 
+  285 => 
   array (
     'id' => 107661,
     'name' => 'Genç',
@@ -2728,7 +2575,7 @@ return array (
     'latitude' => 38.74773,
     'longitude' => 40.55343,
   ),
-  303 => 
+  286 => 
   array (
     'id' => 107663,
     'name' => 'Gercüş',
@@ -2737,7 +2584,7 @@ return array (
     'latitude' => 37.59139,
     'longitude' => 41.33278,
   ),
-  304 => 
+  287 => 
   array (
     'id' => 107665,
     'name' => 'Gerede',
@@ -2746,7 +2593,7 @@ return array (
     'latitude' => 40.71364,
     'longitude' => 32.31263,
   ),
-  305 => 
+  288 => 
   array (
     'id' => 107666,
     'name' => 'Gerger',
@@ -2755,7 +2602,7 @@ return array (
     'latitude' => 37.95,
     'longitude' => 39.01667,
   ),
-  306 => 
+  289 => 
   array (
     'id' => 107668,
     'name' => 'Germencik',
@@ -2764,7 +2611,7 @@ return array (
     'latitude' => 37.87056,
     'longitude' => 27.60283,
   ),
-  307 => 
+  290 => 
   array (
     'id' => 107670,
     'name' => 'Gevaş',
@@ -2773,7 +2620,7 @@ return array (
     'latitude' => 38.2921,
     'longitude' => 43.10189,
   ),
-  308 => 
+  291 => 
   array (
     'id' => 107673,
     'name' => 'Geyve',
@@ -2782,7 +2629,7 @@ return array (
     'latitude' => 40.5075,
     'longitude' => 30.2925,
   ),
-  309 => 
+  292 => 
   array (
     'id' => 107681,
     'name' => 'Göksun',
@@ -2791,7 +2638,7 @@ return array (
     'latitude' => 38.02096,
     'longitude' => 36.4973,
   ),
-  310 => 
+  293 => 
   array (
     'id' => 107683,
     'name' => 'Gökçeada',
@@ -2800,7 +2647,7 @@ return array (
     'latitude' => 40.16523,
     'longitude' => 25.85907,
   ),
-  311 => 
+  294 => 
   array (
     'id' => 107684,
     'name' => 'Gökçebey',
@@ -2809,7 +2656,7 @@ return array (
     'latitude' => 41.31339,
     'longitude' => 32.14981,
   ),
-  312 => 
+  295 => 
   array (
     'id' => 107687,
     'name' => 'Gölbaşı',
@@ -2818,16 +2665,7 @@ return array (
     'latitude' => 39.79043,
     'longitude' => 32.80903,
   ),
-  313 => 
-  array (
-    'id' => 107688,
-    'name' => 'Gölbaşı',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.78361,
-    'longitude' => 37.63667,
-  ),
-  314 => 
+  296 => 
   array (
     'id' => 107690,
     'name' => 'Gölcük',
@@ -2836,7 +2674,7 @@ return array (
     'latitude' => 40.70323,
     'longitude' => 29.87216,
   ),
-  315 => 
+  297 => 
   array (
     'id' => 107692,
     'name' => 'Göle',
@@ -2845,7 +2683,7 @@ return array (
     'latitude' => 40.78746,
     'longitude' => 42.60603,
   ),
-  316 => 
+  298 => 
   array (
     'id' => 107695,
     'name' => 'Gölhisar',
@@ -2854,7 +2692,7 @@ return array (
     'latitude' => 37.1459,
     'longitude' => 29.50876,
   ),
-  317 => 
+  299 => 
   array (
     'id' => 107697,
     'name' => 'Gölköy',
@@ -2863,7 +2701,7 @@ return array (
     'latitude' => 40.68726,
     'longitude' => 37.6166,
   ),
-  318 => 
+  300 => 
   array (
     'id' => 107698,
     'name' => 'Gölmarmara',
@@ -2872,7 +2710,7 @@ return array (
     'latitude' => 38.71389,
     'longitude' => 27.91417,
   ),
-  319 => 
+  301 => 
   array (
     'id' => 107700,
     'name' => 'Gölova',
@@ -2881,7 +2719,7 @@ return array (
     'latitude' => 40.06194,
     'longitude' => 38.60667,
   ),
-  320 => 
+  302 => 
   array (
     'id' => 107702,
     'name' => 'Gölpazarı',
@@ -2890,7 +2728,7 @@ return array (
     'latitude' => 40.28472,
     'longitude' => 30.31722,
   ),
-  321 => 
+  303 => 
   array (
     'id' => 107704,
     'name' => 'Gölyaka',
@@ -2899,7 +2737,7 @@ return array (
     'latitude' => 40.78644,
     'longitude' => 31.00276,
   ),
-  322 => 
+  304 => 
   array (
     'id' => 107705,
     'name' => 'Gömeç',
@@ -2908,7 +2746,7 @@ return array (
     'latitude' => 39.39016,
     'longitude' => 26.84127,
   ),
-  323 => 
+  305 => 
   array (
     'id' => 107707,
     'name' => 'Gönen',
@@ -2917,16 +2755,7 @@ return array (
     'latitude' => 37.95639,
     'longitude' => 30.5114,
   ),
-  324 => 
-  array (
-    'id' => 107708,
-    'name' => 'Gönen',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.1049,
-    'longitude' => 27.65399,
-  ),
-  325 => 
+  306 => 
   array (
     'id' => 107711,
     'name' => 'Gördes',
@@ -2935,7 +2764,7 @@ return array (
     'latitude' => 38.93278,
     'longitude' => 28.28942,
   ),
-  326 => 
+  307 => 
   array (
     'id' => 107713,
     'name' => 'Görele',
@@ -2944,7 +2773,7 @@ return array (
     'latitude' => 41.03083,
     'longitude' => 39.00306,
   ),
-  327 => 
+  308 => 
   array (
     'id' => 107716,
     'name' => 'Göynücek',
@@ -2953,7 +2782,7 @@ return array (
     'latitude' => 40.39917,
     'longitude' => 35.525,
   ),
-  328 => 
+  309 => 
   array (
     'id' => 107719,
     'name' => 'Göynük',
@@ -2962,7 +2791,7 @@ return array (
     'latitude' => 40.40028,
     'longitude' => 30.78833,
   ),
-  329 => 
+  310 => 
   array (
     'id' => 107724,
     'name' => 'Güce',
@@ -2971,7 +2800,7 @@ return array (
     'latitude' => 40.89368,
     'longitude' => 38.80855,
   ),
-  330 => 
+  311 => 
   array (
     'id' => 107725,
     'name' => 'Güdül',
@@ -2980,7 +2809,7 @@ return array (
     'latitude' => 40.21051,
     'longitude' => 32.24552,
   ),
-  331 => 
+  312 => 
   array (
     'id' => 107727,
     'name' => 'Gülağaç',
@@ -2989,7 +2818,7 @@ return array (
     'latitude' => 38.40641,
     'longitude' => 34.35071,
   ),
-  332 => 
+  313 => 
   array (
     'id' => 107730,
     'name' => 'Gülnar',
@@ -2998,7 +2827,7 @@ return array (
     'latitude' => 36.34148,
     'longitude' => 33.39921,
   ),
-  333 => 
+  314 => 
   array (
     'id' => 107733,
     'name' => 'Gülyalı',
@@ -3007,7 +2836,7 @@ return array (
     'latitude' => 40.96682,
     'longitude' => 38.05679,
   ),
-  334 => 
+  315 => 
   array (
     'id' => 107734,
     'name' => 'Gülşehir',
@@ -3016,7 +2845,7 @@ return array (
     'latitude' => 38.74594,
     'longitude' => 34.62524,
   ),
-  335 => 
+  316 => 
   array (
     'id' => 107737,
     'name' => 'Gümüşhacıköy',
@@ -3025,7 +2854,7 @@ return array (
     'latitude' => 40.87306,
     'longitude' => 35.21472,
   ),
-  336 => 
+  317 => 
   array (
     'id' => 107739,
     'name' => 'Gümüşova',
@@ -3034,7 +2863,7 @@ return array (
     'latitude' => 40.8564,
     'longitude' => 30.94935,
   ),
-  337 => 
+  318 => 
   array (
     'id' => 107740,
     'name' => 'Gündoğmuş',
@@ -3043,7 +2872,7 @@ return array (
     'latitude' => 36.82446,
     'longitude' => 32.00679,
   ),
-  338 => 
+  319 => 
   array (
     'id' => 107742,
     'name' => 'Güney',
@@ -3052,7 +2881,7 @@ return array (
     'latitude' => 38.16454,
     'longitude' => 29.07324,
   ),
-  339 => 
+  320 => 
   array (
     'id' => 107743,
     'name' => 'Güneysu',
@@ -3061,7 +2890,7 @@ return array (
     'latitude' => 40.9813,
     'longitude' => 40.60465,
   ),
-  340 => 
+  321 => 
   array (
     'id' => 107745,
     'name' => 'Güneysınır',
@@ -3070,7 +2899,7 @@ return array (
     'latitude' => 37.27977,
     'longitude' => 32.73735,
   ),
-  341 => 
+  322 => 
   array (
     'id' => 107746,
     'name' => 'Güngören',
@@ -3079,7 +2908,7 @@ return array (
     'latitude' => 41.01787,
     'longitude' => 28.87882,
   ),
-  342 => 
+  323 => 
   array (
     'id' => 107748,
     'name' => 'Günyüzü',
@@ -3088,7 +2917,7 @@ return array (
     'latitude' => 39.3941,
     'longitude' => 31.814,
   ),
-  343 => 
+  324 => 
   array (
     'id' => 107749,
     'name' => 'Gürgentepe',
@@ -3097,7 +2926,7 @@ return array (
     'latitude' => 40.78567,
     'longitude' => 37.58969,
   ),
-  344 => 
+  325 => 
   array (
     'id' => 107751,
     'name' => 'Güroymak',
@@ -3106,7 +2935,7 @@ return array (
     'latitude' => 38.5758,
     'longitude' => 42.01558,
   ),
-  345 => 
+  326 => 
   array (
     'id' => 107753,
     'name' => 'Gürpınar',
@@ -3115,7 +2944,7 @@ return array (
     'latitude' => 38.32372,
     'longitude' => 43.40991,
   ),
-  346 => 
+  327 => 
   array (
     'id' => 107756,
     'name' => 'Gürsu',
@@ -3124,7 +2953,7 @@ return array (
     'latitude' => 40.25498,
     'longitude' => 29.21183,
   ),
-  347 => 
+  328 => 
   array (
     'id' => 107757,
     'name' => 'Gürün',
@@ -3133,7 +2962,7 @@ return array (
     'latitude' => 38.72225,
     'longitude' => 37.27097,
   ),
-  348 => 
+  329 => 
   array (
     'id' => 107760,
     'name' => 'Güzelbahçe',
@@ -3142,7 +2971,7 @@ return array (
     'latitude' => 38.37046,
     'longitude' => 26.8693,
   ),
-  349 => 
+  330 => 
   array (
     'id' => 107761,
     'name' => 'Güzelyurt',
@@ -3151,7 +2980,7 @@ return array (
     'latitude' => 38.27722,
     'longitude' => 34.37194,
   ),
-  350 => 
+  331 => 
   array (
     'id' => 107763,
     'name' => 'Güçlükonak',
@@ -3160,7 +2989,7 @@ return array (
     'latitude' => 37.47133,
     'longitude' => 41.91298,
   ),
-  351 => 
+  332 => 
   array (
     'id' => 107765,
     'name' => 'Hacıbektaş',
@@ -3169,7 +2998,7 @@ return array (
     'latitude' => 38.94077,
     'longitude' => 34.5577,
   ),
-  352 => 
+  333 => 
   array (
     'id' => 107767,
     'name' => 'Hacılar',
@@ -3178,7 +3007,7 @@ return array (
     'latitude' => 38.64631,
     'longitude' => 35.44937,
   ),
-  353 => 
+  334 => 
   array (
     'id' => 107770,
     'name' => 'Hadim',
@@ -3187,7 +3016,7 @@ return array (
     'latitude' => 36.98776,
     'longitude' => 32.45674,
   ),
-  354 => 
+  335 => 
   array (
     'id' => 107772,
     'name' => 'Hafik',
@@ -3196,16 +3025,7 @@ return array (
     'latitude' => 39.85639,
     'longitude' => 37.38639,
   ),
-  355 => 
-  array (
-    'id' => 107774,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.57444,
-    'longitude' => 43.74083,
-  ),
-  356 => 
+  336 => 
   array (
     'id' => 107775,
     'name' => 'Halfeti',
@@ -3214,7 +3034,7 @@ return array (
     'latitude' => 37.24529,
     'longitude' => 37.86874,
   ),
-  357 => 
+  337 => 
   array (
     'id' => 107777,
     'name' => 'Haliliye',
@@ -3223,7 +3043,7 @@ return array (
     'latitude' => 37.14144,
     'longitude' => 38.79599,
   ),
-  358 => 
+  338 => 
   array (
     'id' => 107778,
     'name' => 'Halkapınar',
@@ -3232,7 +3052,7 @@ return array (
     'latitude' => 37.43394,
     'longitude' => 34.18743,
   ),
-  359 => 
+  339 => 
   array (
     'id' => 107781,
     'name' => 'Hamamözü',
@@ -3241,7 +3061,7 @@ return array (
     'latitude' => 40.79539,
     'longitude' => 35.03367,
   ),
-  360 => 
+  340 => 
   array (
     'id' => 107783,
     'name' => 'Hamur',
@@ -3250,7 +3070,7 @@ return array (
     'latitude' => 39.60561,
     'longitude' => 42.985,
   ),
-  361 => 
+  341 => 
   array (
     'id' => 107786,
     'name' => 'Han',
@@ -3259,7 +3079,7 @@ return array (
     'latitude' => 39.15917,
     'longitude' => 30.86139,
   ),
-  362 => 
+  342 => 
   array (
     'id' => 107788,
     'name' => 'Hanak',
@@ -3268,7 +3088,7 @@ return array (
     'latitude' => 41.23344,
     'longitude' => 42.84037,
   ),
-  363 => 
+  343 => 
   array (
     'id' => 107790,
     'name' => 'Hani',
@@ -3277,7 +3097,7 @@ return array (
     'latitude' => 38.40741,
     'longitude' => 40.38578,
   ),
-  364 => 
+  344 => 
   array (
     'id' => 107793,
     'name' => 'Hanönü',
@@ -3286,7 +3106,7 @@ return array (
     'latitude' => 41.62705,
     'longitude' => 34.46667,
   ),
-  365 => 
+  345 => 
   array (
     'id' => 107795,
     'name' => 'Harmancık',
@@ -3295,7 +3115,7 @@ return array (
     'latitude' => 39.67743,
     'longitude' => 29.15523,
   ),
-  366 => 
+  346 => 
   array (
     'id' => 107796,
     'name' => 'Harran',
@@ -3304,7 +3124,7 @@ return array (
     'latitude' => 36.86,
     'longitude' => 39.03139,
   ),
-  367 => 
+  347 => 
   array (
     'id' => 107798,
     'name' => 'Hasanbeyli',
@@ -3313,7 +3133,7 @@ return array (
     'latitude' => 37.12838,
     'longitude' => 36.54608,
   ),
-  368 => 
+  348 => 
   array (
     'id' => 107800,
     'name' => 'Hasankeyf',
@@ -3322,7 +3142,7 @@ return array (
     'latitude' => 37.70612,
     'longitude' => 41.4048,
   ),
-  369 => 
+  349 => 
   array (
     'id' => 107802,
     'name' => 'Hasköy',
@@ -3331,7 +3151,7 @@ return array (
     'latitude' => 38.68231,
     'longitude' => 41.67851,
   ),
-  370 => 
+  350 => 
   array (
     'id' => 107804,
     'name' => 'Hassa',
@@ -3340,7 +3160,7 @@ return array (
     'latitude' => 36.79944,
     'longitude' => 36.51778,
   ),
-  371 => 
+  351 => 
   array (
     'id' => 107806,
     'name' => 'Havran',
@@ -3349,7 +3169,7 @@ return array (
     'latitude' => 39.55833,
     'longitude' => 27.09833,
   ),
-  372 => 
+  352 => 
   array (
     'id' => 107807,
     'name' => 'Havsa',
@@ -3358,7 +3178,7 @@ return array (
     'latitude' => 41.54898,
     'longitude' => 26.82207,
   ),
-  373 => 
+  353 => 
   array (
     'id' => 107809,
     'name' => 'Havza',
@@ -3367,7 +3187,7 @@ return array (
     'latitude' => 40.97056,
     'longitude' => 35.66222,
   ),
-  374 => 
+  354 => 
   array (
     'id' => 107811,
     'name' => 'Haymana',
@@ -3376,7 +3196,7 @@ return array (
     'latitude' => 39.43212,
     'longitude' => 32.49732,
   ),
-  375 => 
+  355 => 
   array (
     'id' => 107813,
     'name' => 'Hayrabolu',
@@ -3385,7 +3205,7 @@ return array (
     'latitude' => 41.21311,
     'longitude' => 27.10688,
   ),
-  376 => 
+  356 => 
   array (
     'id' => 107815,
     'name' => 'Hayrat',
@@ -3394,7 +3214,7 @@ return array (
     'latitude' => 40.8853,
     'longitude' => 40.36495,
   ),
-  377 => 
+  357 => 
   array (
     'id' => 107817,
     'name' => 'Hazro',
@@ -3403,7 +3223,7 @@ return array (
     'latitude' => 38.24903,
     'longitude' => 40.77129,
   ),
-  378 => 
+  358 => 
   array (
     'id' => 107819,
     'name' => 'Hekimhan',
@@ -3412,7 +3232,7 @@ return array (
     'latitude' => 38.81622,
     'longitude' => 37.92882,
   ),
-  379 => 
+  359 => 
   array (
     'id' => 107821,
     'name' => 'Hemşin',
@@ -3421,7 +3241,7 @@ return array (
     'latitude' => 41.05922,
     'longitude' => 40.9014,
   ),
-  380 => 
+  360 => 
   array (
     'id' => 107822,
     'name' => 'Hendek',
@@ -3430,7 +3250,7 @@ return array (
     'latitude' => 40.79944,
     'longitude' => 30.74806,
   ),
-  381 => 
+  361 => 
   array (
     'id' => 107825,
     'name' => 'Hilvan',
@@ -3439,7 +3259,7 @@ return array (
     'latitude' => 37.58687,
     'longitude' => 38.95505,
   ),
-  382 => 
+  362 => 
   array (
     'id' => 107828,
     'name' => 'Hisarcık',
@@ -3448,7 +3268,7 @@ return array (
     'latitude' => 39.25987,
     'longitude' => 29.24134,
   ),
-  383 => 
+  363 => 
   array (
     'id' => 107829,
     'name' => 'Hizan',
@@ -3457,7 +3277,7 @@ return array (
     'latitude' => 38.22498,
     'longitude' => 42.4183,
   ),
-  384 => 
+  364 => 
   array (
     'id' => 107831,
     'name' => 'Hocalar',
@@ -3466,7 +3286,7 @@ return array (
     'latitude' => 38.57824,
     'longitude' => 29.96768,
   ),
-  385 => 
+  365 => 
   array (
     'id' => 107833,
     'name' => 'Honaz',
@@ -3475,7 +3295,7 @@ return array (
     'latitude' => 37.77146,
     'longitude' => 29.34466,
   ),
-  386 => 
+  366 => 
   array (
     'id' => 107834,
     'name' => 'Hopa',
@@ -3484,7 +3304,7 @@ return array (
     'latitude' => 41.39046,
     'longitude' => 41.41966,
   ),
-  387 => 
+  367 => 
   array (
     'id' => 107836,
     'name' => 'Horasan',
@@ -3493,7 +3313,7 @@ return array (
     'latitude' => 40.03885,
     'longitude' => 42.16366,
   ),
-  388 => 
+  368 => 
   array (
     'id' => 107838,
     'name' => 'Hozat',
@@ -3502,7 +3322,7 @@ return array (
     'latitude' => 39.10029,
     'longitude' => 39.20816,
   ),
-  389 => 
+  369 => 
   array (
     'id' => 107840,
     'name' => 'Hüyük',
@@ -3511,7 +3331,7 @@ return array (
     'latitude' => 37.95388,
     'longitude' => 31.59639,
   ),
-  390 => 
+  370 => 
   array (
     'id' => 107842,
     'name' => 'Hınıs',
@@ -3520,7 +3340,7 @@ return array (
     'latitude' => 39.35766,
     'longitude' => 41.69253,
   ),
-  391 => 
+  371 => 
   array (
     'id' => 107844,
     'name' => 'Ilgaz',
@@ -3529,7 +3349,7 @@ return array (
     'latitude' => 40.92511,
     'longitude' => 33.62586,
   ),
-  392 => 
+  372 => 
   array (
     'id' => 107846,
     'name' => 'Ilgın',
@@ -3538,7 +3358,7 @@ return array (
     'latitude' => 38.27917,
     'longitude' => 31.91389,
   ),
-  393 => 
+  373 => 
   array (
     'id' => 107849,
     'name' => 'İncesu',
@@ -3547,25 +3367,7 @@ return array (
     'latitude' => 38.63789,
     'longitude' => 35.19394,
   ),
-  394 => 
-  array (
-    'id' => 107850,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.76444,
-    'longitude' => 30.55222,
-  ),
-  395 => 
-  array (
-    'id' => 107852,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.92371,
-    'longitude' => 44.045,
-  ),
-  396 => 
+  374 => 
   array (
     'id' => 107855,
     'name' => 'Kabadüz',
@@ -3574,7 +3376,7 @@ return array (
     'latitude' => 40.86096,
     'longitude' => 37.8847,
   ),
-  397 => 
+  375 => 
   array (
     'id' => 107858,
     'name' => 'Kabataş',
@@ -3583,7 +3385,7 @@ return array (
     'latitude' => 40.75,
     'longitude' => 37.45,
   ),
-  398 => 
+  376 => 
   array (
     'id' => 107860,
     'name' => 'Kadirli',
@@ -3592,7 +3394,7 @@ return array (
     'latitude' => 37.37389,
     'longitude' => 36.09611,
   ),
-  399 => 
+  377 => 
   array (
     'id' => 107863,
     'name' => 'Kadıköy',
@@ -3601,7 +3403,7 @@ return array (
     'latitude' => 40.98229,
     'longitude' => 29.09032,
   ),
-  400 => 
+  378 => 
   array (
     'id' => 107864,
     'name' => 'Kadınhanı',
@@ -3610,7 +3412,7 @@ return array (
     'latitude' => 38.23972,
     'longitude' => 32.21139,
   ),
-  401 => 
+  379 => 
   array (
     'id' => 107866,
     'name' => 'Kadışehri',
@@ -3619,7 +3421,7 @@ return array (
     'latitude' => 39.99568,
     'longitude' => 35.79193,
   ),
-  402 => 
+  380 => 
   array (
     'id' => 107868,
     'name' => 'Kahramankazan',
@@ -3628,7 +3430,7 @@ return array (
     'latitude' => 40.16502,
     'longitude' => 32.63904,
   ),
-  403 => 
+  381 => 
   array (
     'id' => 107870,
     'name' => 'Kale',
@@ -3637,16 +3439,7 @@ return array (
     'latitude' => 39.03333,
     'longitude' => 38.0,
   ),
-  404 => 
-  array (
-    'id' => 107871,
-    'name' => 'Kale',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.43917,
-    'longitude' => 28.84528,
-  ),
-  405 => 
+  382 => 
   array (
     'id' => 107874,
     'name' => 'Kalecik',
@@ -3655,7 +3448,7 @@ return array (
     'latitude' => 40.09722,
     'longitude' => 33.40833,
   ),
-  406 => 
+  383 => 
   array (
     'id' => 107877,
     'name' => 'Kalkandere',
@@ -3664,7 +3457,7 @@ return array (
     'latitude' => 40.92143,
     'longitude' => 40.43999,
   ),
-  407 => 
+  384 => 
   array (
     'id' => 107879,
     'name' => 'Kaman',
@@ -3673,7 +3466,7 @@ return array (
     'latitude' => 39.3575,
     'longitude' => 33.72389,
   ),
-  408 => 
+  385 => 
   array (
     'id' => 107881,
     'name' => 'Kandıra',
@@ -3682,7 +3475,7 @@ return array (
     'latitude' => 41.07,
     'longitude' => 30.15262,
   ),
-  409 => 
+  386 => 
   array (
     'id' => 107883,
     'name' => 'Kangal',
@@ -3691,7 +3484,7 @@ return array (
     'latitude' => 39.23354,
     'longitude' => 37.39111,
   ),
-  410 => 
+  387 => 
   array (
     'id' => 107885,
     'name' => 'Kapaklı',
@@ -3700,7 +3493,7 @@ return array (
     'latitude' => 41.32912,
     'longitude' => 27.98064,
   ),
-  411 => 
+  388 => 
   array (
     'id' => 107886,
     'name' => 'Karabağlar',
@@ -3709,7 +3502,7 @@ return array (
     'latitude' => 38.36912,
     'longitude' => 27.12696,
   ),
-  412 => 
+  389 => 
   array (
     'id' => 107887,
     'name' => 'Karaburun',
@@ -3718,16 +3511,7 @@ return array (
     'latitude' => 38.6364,
     'longitude' => 26.51094,
   ),
-  413 => 
-  array (
-    'id' => 107889,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.20488,
-    'longitude' => 32.62768,
-  ),
-  414 => 
+  390 => 
   array (
     'id' => 107890,
     'name' => 'Karacabey',
@@ -3736,7 +3520,7 @@ return array (
     'latitude' => 40.21323,
     'longitude' => 28.3612,
   ),
-  415 => 
+  391 => 
   array (
     'id' => 107893,
     'name' => 'Karacasu',
@@ -3745,7 +3529,7 @@ return array (
     'latitude' => 37.74731,
     'longitude' => 28.59402,
   ),
-  416 => 
+  392 => 
   array (
     'id' => 107894,
     'name' => 'Karahallı',
@@ -3754,7 +3538,7 @@ return array (
     'latitude' => 38.32083,
     'longitude' => 29.53028,
   ),
-  417 => 
+  393 => 
   array (
     'id' => 107896,
     'name' => 'Karaisalı',
@@ -3763,7 +3547,7 @@ return array (
     'latitude' => 37.26655,
     'longitude' => 35.05033,
   ),
-  418 => 
+  394 => 
   array (
     'id' => 107897,
     'name' => 'Karakeçili',
@@ -3772,7 +3556,7 @@ return array (
     'latitude' => 39.59417,
     'longitude' => 33.37778,
   ),
-  419 => 
+  395 => 
   array (
     'id' => 107899,
     'name' => 'Karakoyunlu',
@@ -3781,7 +3565,7 @@ return array (
     'latitude' => 39.87036,
     'longitude' => 43.63014,
   ),
-  420 => 
+  396 => 
   array (
     'id' => 107901,
     'name' => 'Karakoçan',
@@ -3790,7 +3574,7 @@ return array (
     'latitude' => 38.95178,
     'longitude' => 40.02706,
   ),
-  421 => 
+  397 => 
   array (
     'id' => 107903,
     'name' => 'Karaköprü',
@@ -3799,16 +3583,7 @@ return array (
     'latitude' => 37.18029,
     'longitude' => 38.81109,
   ),
-  422 => 
-  array (
-    'id' => 107905,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.18111,
-    'longitude' => 33.215,
-  ),
-  423 => 
+  398 => 
   array (
     'id' => 107906,
     'name' => 'Karamanlı',
@@ -3817,7 +3592,7 @@ return array (
     'latitude' => 37.37301,
     'longitude' => 29.82308,
   ),
-  424 => 
+  399 => 
   array (
     'id' => 107908,
     'name' => 'Karamürsel',
@@ -3826,7 +3601,7 @@ return array (
     'latitude' => 40.69129,
     'longitude' => 29.61649,
   ),
-  425 => 
+  400 => 
   array (
     'id' => 107910,
     'name' => 'Karapürçek',
@@ -3835,7 +3610,7 @@ return array (
     'latitude' => 40.64194,
     'longitude' => 30.53944,
   ),
-  426 => 
+  401 => 
   array (
     'id' => 107912,
     'name' => 'Karapınar',
@@ -3844,7 +3619,7 @@ return array (
     'latitude' => 37.71596,
     'longitude' => 33.55064,
   ),
-  427 => 
+  402 => 
   array (
     'id' => 107915,
     'name' => 'Karasu',
@@ -3853,7 +3628,7 @@ return array (
     'latitude' => 41.09983,
     'longitude' => 30.68241,
   ),
-  428 => 
+  403 => 
   array (
     'id' => 107917,
     'name' => 'Karatay',
@@ -3862,7 +3637,7 @@ return array (
     'latitude' => 37.94001,
     'longitude' => 32.99828,
   ),
-  429 => 
+  404 => 
   array (
     'id' => 107918,
     'name' => 'Karataş',
@@ -3871,7 +3646,7 @@ return array (
     'latitude' => 36.57186,
     'longitude' => 35.36784,
   ),
-  430 => 
+  405 => 
   array (
     'id' => 107919,
     'name' => 'Karayazı',
@@ -3880,7 +3655,7 @@ return array (
     'latitude' => 39.69604,
     'longitude' => 42.14277,
   ),
-  431 => 
+  406 => 
   array (
     'id' => 107921,
     'name' => 'Karaçoban',
@@ -3889,7 +3664,7 @@ return array (
     'latitude' => 39.34364,
     'longitude' => 42.09918,
   ),
-  432 => 
+  407 => 
   array (
     'id' => 107924,
     'name' => 'Kargı',
@@ -3898,7 +3673,7 @@ return array (
     'latitude' => 41.14377,
     'longitude' => 34.49342,
   ),
-  433 => 
+  408 => 
   array (
     'id' => 107925,
     'name' => 'Karkamış',
@@ -3907,7 +3682,7 @@ return array (
     'latitude' => 36.83452,
     'longitude' => 37.9983,
   ),
-  434 => 
+  409 => 
   array (
     'id' => 107927,
     'name' => 'Karlıova',
@@ -3916,7 +3691,7 @@ return array (
     'latitude' => 39.29044,
     'longitude' => 41.00594,
   ),
-  435 => 
+  410 => 
   array (
     'id' => 107929,
     'name' => 'Karpuzlu',
@@ -3925,16 +3700,7 @@ return array (
     'latitude' => 37.55861,
     'longitude' => 27.83528,
   ),
-  436 => 
-  array (
-    'id' => 107931,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.59825,
-    'longitude' => 43.08548,
-  ),
-  437 => 
+  411 => 
   array (
     'id' => 107933,
     'name' => 'Kartal',
@@ -3943,7 +3709,7 @@ return array (
     'latitude' => 40.91197,
     'longitude' => 29.2119,
   ),
-  438 => 
+  412 => 
   array (
     'id' => 107934,
     'name' => 'Kartepe',
@@ -3952,7 +3718,7 @@ return array (
     'latitude' => 40.75246,
     'longitude' => 30.02787,
   ),
-  439 => 
+  413 => 
   array (
     'id' => 107937,
     'name' => 'Karşıyaka',
@@ -3961,16 +3727,7 @@ return array (
     'latitude' => 38.46775,
     'longitude' => 27.11502,
   ),
-  440 => 
-  array (
-    'id' => 107939,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.37805,
-    'longitude' => 33.77528,
-  ),
-  441 => 
+  414 => 
   array (
     'id' => 107940,
     'name' => 'Kavak',
@@ -3979,7 +3736,7 @@ return array (
     'latitude' => 41.07833,
     'longitude' => 36.0425,
   ),
-  442 => 
+  415 => 
   array (
     'id' => 107943,
     'name' => 'Kavaklıdere',
@@ -3988,7 +3745,7 @@ return array (
     'latitude' => 37.43929,
     'longitude' => 28.38402,
   ),
-  443 => 
+  416 => 
   array (
     'id' => 107948,
     'name' => 'Kayapınar',
@@ -3997,7 +3754,7 @@ return array (
     'latitude' => 37.938,
     'longitude' => 40.1731,
   ),
-  444 => 
+  417 => 
   array (
     'id' => 107951,
     'name' => 'Kaynarca',
@@ -4006,7 +3763,7 @@ return array (
     'latitude' => 41.03083,
     'longitude' => 30.3075,
   ),
-  445 => 
+  418 => 
   array (
     'id' => 107953,
     'name' => 'Kaynaşlı',
@@ -4015,7 +3772,7 @@ return array (
     'latitude' => 40.77908,
     'longitude' => 31.31135,
   ),
-  446 => 
+  419 => 
   array (
     'id' => 107958,
     'name' => 'Kazımkarabekir',
@@ -4024,7 +3781,7 @@ return array (
     'latitude' => 37.23028,
     'longitude' => 32.95889,
   ),
-  447 => 
+  420 => 
   array (
     'id' => 107960,
     'name' => 'Kağızman',
@@ -4033,7 +3790,7 @@ return array (
     'latitude' => 40.15669,
     'longitude' => 43.13424,
   ),
-  448 => 
+  421 => 
   array (
     'id' => 107962,
     'name' => 'Kaş',
@@ -4042,7 +3799,7 @@ return array (
     'latitude' => 36.20176,
     'longitude' => 29.63766,
   ),
-  449 => 
+  422 => 
   array (
     'id' => 107964,
     'name' => 'Keban',
@@ -4051,7 +3808,7 @@ return array (
     'latitude' => 38.7938,
     'longitude' => 38.73517,
   ),
-  450 => 
+  423 => 
   array (
     'id' => 107967,
     'name' => 'Keles',
@@ -4060,7 +3817,7 @@ return array (
     'latitude' => 39.91361,
     'longitude' => 29.22944,
   ),
-  451 => 
+  424 => 
   array (
     'id' => 107969,
     'name' => 'Kelkit',
@@ -4069,7 +3826,7 @@ return array (
     'latitude' => 40.12682,
     'longitude' => 39.43424,
   ),
-  452 => 
+  425 => 
   array (
     'id' => 107971,
     'name' => 'Kemah',
@@ -4078,7 +3835,7 @@ return array (
     'latitude' => 39.59606,
     'longitude' => 39.02329,
   ),
-  453 => 
+  426 => 
   array (
     'id' => 107973,
     'name' => 'Kemaliye',
@@ -4087,7 +3844,7 @@ return array (
     'latitude' => 39.26288,
     'longitude' => 38.49674,
   ),
-  454 => 
+  427 => 
   array (
     'id' => 107975,
     'name' => 'Kemalpaşa',
@@ -4096,16 +3853,7 @@ return array (
     'latitude' => 41.48336,
     'longitude' => 41.5275,
   ),
-  455 => 
-  array (
-    'id' => 107976,
-    'name' => 'Kemalpaşa',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.40883,
-    'longitude' => 27.491,
-  ),
-  456 => 
+  428 => 
   array (
     'id' => 107977,
     'name' => 'Kemer',
@@ -4114,16 +3862,7 @@ return array (
     'latitude' => 37.35222,
     'longitude' => 30.06306,
   ),
-  457 => 
-  array (
-    'id' => 107978,
-    'name' => 'Kemer',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 36.59778,
-    'longitude' => 30.56056,
-  ),
-  458 => 
+  429 => 
   array (
     'id' => 107981,
     'name' => 'Kepez',
@@ -4132,7 +3871,7 @@ return array (
     'latitude' => 37.01187,
     'longitude' => 30.75966,
   ),
-  459 => 
+  430 => 
   array (
     'id' => 107982,
     'name' => 'Kepsut',
@@ -4141,7 +3880,7 @@ return array (
     'latitude' => 39.68889,
     'longitude' => 28.15222,
   ),
-  460 => 
+  431 => 
   array (
     'id' => 107985,
     'name' => 'Keskin',
@@ -4150,7 +3889,7 @@ return array (
     'latitude' => 39.67306,
     'longitude' => 33.61361,
   ),
-  461 => 
+  432 => 
   array (
     'id' => 107987,
     'name' => 'Kestel',
@@ -4159,7 +3898,7 @@ return array (
     'latitude' => 40.19828,
     'longitude' => 29.21237,
   ),
-  462 => 
+  433 => 
   array (
     'id' => 107989,
     'name' => 'Keçiborlu',
@@ -4168,7 +3907,7 @@ return array (
     'latitude' => 37.9425,
     'longitude' => 30.30222,
   ),
-  463 => 
+  434 => 
   array (
     'id' => 107991,
     'name' => 'Keçiören',
@@ -4177,7 +3916,7 @@ return array (
     'latitude' => 40.02106,
     'longitude' => 32.83102,
   ),
-  464 => 
+  435 => 
   array (
     'id' => 107992,
     'name' => 'Keşan',
@@ -4186,7 +3925,7 @@ return array (
     'latitude' => 40.85583,
     'longitude' => 26.63028,
   ),
-  465 => 
+  436 => 
   array (
     'id' => 107994,
     'name' => 'Keşap',
@@ -4195,7 +3934,7 @@ return array (
     'latitude' => 40.91387,
     'longitude' => 38.51442,
   ),
-  466 => 
+  437 => 
   array (
     'id' => 107996,
     'name' => 'Kilimli',
@@ -4204,16 +3943,7 @@ return array (
     'latitude' => 41.49111,
     'longitude' => 31.83861,
   ),
-  467 => 
-  array (
-    'id' => 107997,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 36.71611,
-    'longitude' => 37.115,
-  ),
-  468 => 
+  438 => 
   array (
     'id' => 107999,
     'name' => 'Kiraz',
@@ -4222,7 +3952,7 @@ return array (
     'latitude' => 38.23056,
     'longitude' => 28.20444,
   ),
-  469 => 
+  439 => 
   array (
     'id' => 108002,
     'name' => 'Kiğı',
@@ -4231,7 +3961,7 @@ return array (
     'latitude' => 39.30894,
     'longitude' => 40.34995,
   ),
-  470 => 
+  440 => 
   array (
     'id' => 108003,
     'name' => 'Kocaali',
@@ -4240,7 +3970,7 @@ return array (
     'latitude' => 41.05336,
     'longitude' => 30.85278,
   ),
-  471 => 
+  441 => 
   array (
     'id' => 108008,
     'name' => 'Kocaköy',
@@ -4249,7 +3979,7 @@ return array (
     'latitude' => 38.28889,
     'longitude' => 40.49786,
   ),
-  472 => 
+  442 => 
   array (
     'id' => 108010,
     'name' => 'Kocasinan',
@@ -4258,7 +3988,7 @@ return array (
     'latitude' => 38.87959,
     'longitude' => 35.3554,
   ),
-  473 => 
+  443 => 
   array (
     'id' => 108011,
     'name' => 'Kofçaz',
@@ -4267,7 +3997,7 @@ return array (
     'latitude' => 41.94481,
     'longitude' => 27.15829,
   ),
-  474 => 
+  444 => 
   array (
     'id' => 108013,
     'name' => 'Konak',
@@ -4276,7 +4006,7 @@ return array (
     'latitude' => 38.41448,
     'longitude' => 27.14412,
   ),
-  475 => 
+  445 => 
   array (
     'id' => 108017,
     'name' => 'Konyaaltı',
@@ -4285,7 +4015,7 @@ return array (
     'latitude' => 36.86424,
     'longitude' => 30.62714,
   ),
-  476 => 
+  446 => 
   array (
     'id' => 108018,
     'name' => 'Korgan',
@@ -4294,7 +4024,7 @@ return array (
     'latitude' => 40.82472,
     'longitude' => 37.34667,
   ),
-  477 => 
+  447 => 
   array (
     'id' => 108020,
     'name' => 'Korgun',
@@ -4303,7 +4033,7 @@ return array (
     'latitude' => 40.73479,
     'longitude' => 33.51844,
   ),
-  478 => 
+  448 => 
   array (
     'id' => 108022,
     'name' => 'Korkut',
@@ -4312,7 +4042,7 @@ return array (
     'latitude' => 38.7339,
     'longitude' => 41.78396,
   ),
-  479 => 
+  449 => 
   array (
     'id' => 108024,
     'name' => 'Korkuteli',
@@ -4321,7 +4051,7 @@ return array (
     'latitude' => 37.06498,
     'longitude' => 30.19565,
   ),
-  480 => 
+  450 => 
   array (
     'id' => 108027,
     'name' => 'Kovancılar',
@@ -4330,7 +4060,7 @@ return array (
     'latitude' => 38.71882,
     'longitude' => 39.86268,
   ),
-  481 => 
+  451 => 
   array (
     'id' => 108029,
     'name' => 'Koyulhisar',
@@ -4339,7 +4069,7 @@ return array (
     'latitude' => 40.30184,
     'longitude' => 37.82336,
   ),
-  482 => 
+  452 => 
   array (
     'id' => 108032,
     'name' => 'Kozaklı',
@@ -4348,7 +4078,7 @@ return array (
     'latitude' => 39.23204,
     'longitude' => 34.85585,
   ),
-  483 => 
+  453 => 
   array (
     'id' => 108033,
     'name' => 'Kozan',
@@ -4357,7 +4087,7 @@ return array (
     'latitude' => 37.5,
     'longitude' => 35.75,
   ),
-  484 => 
+  454 => 
   array (
     'id' => 108034,
     'name' => 'Kozlu',
@@ -4366,7 +4096,7 @@ return array (
     'latitude' => 41.43194,
     'longitude' => 31.74583,
   ),
-  485 => 
+  455 => 
   array (
     'id' => 108035,
     'name' => 'Kozluk',
@@ -4375,7 +4105,7 @@ return array (
     'latitude' => 38.19249,
     'longitude' => 41.48705,
   ),
-  486 => 
+  456 => 
   array (
     'id' => 108036,
     'name' => 'Koçarlı',
@@ -4384,7 +4114,7 @@ return array (
     'latitude' => 37.76113,
     'longitude' => 27.70583,
   ),
-  487 => 
+  457 => 
   array (
     'id' => 108038,
     'name' => 'Kula',
@@ -4393,7 +4123,7 @@ return array (
     'latitude' => 38.56775,
     'longitude' => 28.64146,
   ),
-  488 => 
+  458 => 
   array (
     'id' => 108040,
     'name' => 'Kulp',
@@ -4402,7 +4132,7 @@ return array (
     'latitude' => 38.49754,
     'longitude' => 41.00668,
   ),
-  489 => 
+  459 => 
   array (
     'id' => 108042,
     'name' => 'Kulu',
@@ -4411,7 +4141,7 @@ return array (
     'latitude' => 39.09513,
     'longitude' => 33.07989,
   ),
-  490 => 
+  460 => 
   array (
     'id' => 108044,
     'name' => 'Kuluncak',
@@ -4420,7 +4150,7 @@ return array (
     'latitude' => 38.87656,
     'longitude' => 37.66279,
   ),
-  491 => 
+  461 => 
   array (
     'id' => 108050,
     'name' => 'Kumlu',
@@ -4429,7 +4159,7 @@ return array (
     'latitude' => 36.36508,
     'longitude' => 36.45526,
   ),
-  492 => 
+  462 => 
   array (
     'id' => 108051,
     'name' => 'Kumluca',
@@ -4438,7 +4168,7 @@ return array (
     'latitude' => 36.58,
     'longitude' => 30.3,
   ),
-  493 => 
+  463 => 
   array (
     'id' => 108052,
     'name' => 'Kumru',
@@ -4447,7 +4177,7 @@ return array (
     'latitude' => 40.87444,
     'longitude' => 37.26389,
   ),
-  494 => 
+  464 => 
   array (
     'id' => 108055,
     'name' => 'Kurtalan',
@@ -4456,7 +4186,7 @@ return array (
     'latitude' => 37.92533,
     'longitude' => 41.68493,
   ),
-  495 => 
+  465 => 
   array (
     'id' => 108057,
     'name' => 'Kurucaşile',
@@ -4465,7 +4195,7 @@ return array (
     'latitude' => 41.83781,
     'longitude' => 32.71621,
   ),
-  496 => 
+  466 => 
   array (
     'id' => 108060,
     'name' => 'Kurşunlu',
@@ -4474,7 +4204,7 @@ return array (
     'latitude' => 40.84101,
     'longitude' => 33.26028,
   ),
-  497 => 
+  467 => 
   array (
     'id' => 108063,
     'name' => 'Kuyucak',
@@ -4483,7 +4213,7 @@ return array (
     'latitude' => 37.9133,
     'longitude' => 28.45917,
   ),
-  498 => 
+  468 => 
   array (
     'id' => 108067,
     'name' => 'Kuşadası',
@@ -4492,7 +4222,7 @@ return array (
     'latitude' => 37.86014,
     'longitude' => 27.25713,
   ),
-  499 => 
+  469 => 
   array (
     'id' => 108069,
     'name' => 'Kâhta',
@@ -4501,7 +4231,7 @@ return array (
     'latitude' => 37.78552,
     'longitude' => 38.6237,
   ),
-  500 => 
+  470 => 
   array (
     'id' => 108071,
     'name' => 'Kâğıthane',
@@ -4510,7 +4240,7 @@ return array (
     'latitude' => 41.08319,
     'longitude' => 28.97826,
   ),
-  501 => 
+  471 => 
   array (
     'id' => 108072,
     'name' => 'Köprübaşı',
@@ -4519,16 +4249,7 @@ return array (
     'latitude' => 38.74972,
     'longitude' => 28.40472,
   ),
-  502 => 
-  array (
-    'id' => 108073,
-    'name' => 'Köprübaşı',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.80692,
-    'longitude' => 40.11439,
-  ),
-  503 => 
+  472 => 
   array (
     'id' => 108076,
     'name' => 'Köprüköy',
@@ -4537,7 +4258,7 @@ return array (
     'latitude' => 39.97178,
     'longitude' => 41.86804,
   ),
-  504 => 
+  473 => 
   array (
     'id' => 108077,
     'name' => 'Körfez',
@@ -4546,7 +4267,7 @@ return array (
     'latitude' => 40.76704,
     'longitude' => 29.78275,
   ),
-  505 => 
+  474 => 
   array (
     'id' => 108079,
     'name' => 'Köse',
@@ -4555,7 +4276,7 @@ return array (
     'latitude' => 40.20692,
     'longitude' => 39.64626,
   ),
-  506 => 
+  475 => 
   array (
     'id' => 108083,
     'name' => 'Köyceğiz',
@@ -4564,7 +4285,7 @@ return array (
     'latitude' => 36.97798,
     'longitude' => 28.72418,
   ),
-  507 => 
+  476 => 
   array (
     'id' => 108084,
     'name' => 'Köşk',
@@ -4573,7 +4294,7 @@ return array (
     'latitude' => 37.85333,
     'longitude' => 28.05167,
   ),
-  508 => 
+  477 => 
   array (
     'id' => 108088,
     'name' => 'Küre',
@@ -4582,7 +4303,7 @@ return array (
     'latitude' => 41.80578,
     'longitude' => 33.71161,
   ),
-  509 => 
+  478 => 
   array (
     'id' => 108090,
     'name' => 'Kürtün',
@@ -4591,16 +4312,7 @@ return array (
     'latitude' => 40.69516,
     'longitude' => 39.09468,
   ),
-  510 => 
-  array (
-    'id' => 108092,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.42417,
-    'longitude' => 29.98333,
-  ),
-  511 => 
+  479 => 
   array (
     'id' => 108095,
     'name' => 'Küçükçekmece',
@@ -4609,7 +4321,7 @@ return array (
     'latitude' => 41.06947,
     'longitude' => 28.76983,
   ),
-  512 => 
+  480 => 
   array (
     'id' => 108096,
     'name' => 'Kıbrıscık',
@@ -4618,7 +4330,7 @@ return array (
     'latitude' => 40.40778,
     'longitude' => 31.85194,
   ),
-  513 => 
+  481 => 
   array (
     'id' => 108101,
     'name' => 'Kınık',
@@ -4627,7 +4339,7 @@ return array (
     'latitude' => 39.08722,
     'longitude' => 27.38333,
   ),
-  514 => 
+  482 => 
   array (
     'id' => 108104,
     'name' => 'Kırkağaç',
@@ -4636,16 +4348,7 @@ return array (
     'latitude' => 39.10638,
     'longitude' => 27.66925,
   ),
-  515 => 
-  array (
-    'id' => 108106,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.73508,
-    'longitude' => 27.22521,
-  ),
-  516 => 
+  483 => 
   array (
     'id' => 108107,
     'name' => 'Kırıkhan',
@@ -4654,25 +4357,7 @@ return array (
     'latitude' => 36.49939,
     'longitude' => 36.35755,
   ),
-  517 => 
-  array (
-    'id' => 108109,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.84528,
-    'longitude' => 33.50639,
-  ),
-  518 => 
-  array (
-    'id' => 108110,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.14583,
-    'longitude' => 34.16389,
-  ),
-  519 => 
+  484 => 
   array (
     'id' => 108113,
     'name' => 'Kızılcahamam',
@@ -4681,7 +4366,7 @@ return array (
     'latitude' => 40.46972,
     'longitude' => 32.65056,
   ),
-  520 => 
+  485 => 
   array (
     'id' => 108118,
     'name' => 'Kızıltepe',
@@ -4690,7 +4375,7 @@ return array (
     'latitude' => 37.18836,
     'longitude' => 40.57723,
   ),
-  521 => 
+  486 => 
   array (
     'id' => 108120,
     'name' => 'Kızılören',
@@ -4699,7 +4384,7 @@ return array (
     'latitude' => 38.25806,
     'longitude' => 30.15167,
   ),
-  522 => 
+  487 => 
   array (
     'id' => 108122,
     'name' => 'Kızılırmak',
@@ -4708,7 +4393,7 @@ return array (
     'latitude' => 40.34556,
     'longitude' => 33.98639,
   ),
-  523 => 
+  488 => 
   array (
     'id' => 108125,
     'name' => 'Ladik',
@@ -4717,7 +4402,7 @@ return array (
     'latitude' => 40.91056,
     'longitude' => 35.89194,
   ),
-  524 => 
+  489 => 
   array (
     'id' => 108127,
     'name' => 'Lapseki',
@@ -4726,7 +4411,7 @@ return array (
     'latitude' => 40.34417,
     'longitude' => 26.68556,
   ),
-  525 => 
+  490 => 
   array (
     'id' => 108128,
     'name' => 'Laçin',
@@ -4735,7 +4420,7 @@ return array (
     'latitude' => 40.77486,
     'longitude' => 34.88068,
   ),
-  526 => 
+  491 => 
   array (
     'id' => 108130,
     'name' => 'Lice',
@@ -4744,7 +4429,7 @@ return array (
     'latitude' => 38.45821,
     'longitude' => 40.63888,
   ),
-  527 => 
+  492 => 
   array (
     'id' => 108133,
     'name' => 'Lâlapaşa',
@@ -4753,7 +4438,7 @@ return array (
     'latitude' => 41.83951,
     'longitude' => 26.73561,
   ),
-  528 => 
+  493 => 
   array (
     'id' => 108136,
     'name' => 'Lüleburgaz',
@@ -4762,7 +4447,7 @@ return array (
     'latitude' => 41.41495,
     'longitude' => 27.37325,
   ),
-  529 => 
+  494 => 
   array (
     'id' => 108137,
     'name' => 'Maden',
@@ -4771,7 +4456,7 @@ return array (
     'latitude' => 38.39354,
     'longitude' => 39.67252,
   ),
-  530 => 
+  495 => 
   array (
     'id' => 108138,
     'name' => 'Mahmudiye',
@@ -4780,7 +4465,7 @@ return array (
     'latitude' => 39.50724,
     'longitude' => 30.99247,
   ),
-  531 => 
+  496 => 
   array (
     'id' => 108142,
     'name' => 'Malazgirt',
@@ -4789,7 +4474,7 @@ return array (
     'latitude' => 39.1465,
     'longitude' => 42.53536,
   ),
-  532 => 
+  497 => 
   array (
     'id' => 108144,
     'name' => 'Malkara',
@@ -4798,7 +4483,7 @@ return array (
     'latitude' => 40.89,
     'longitude' => 26.90111,
   ),
-  533 => 
+  498 => 
   array (
     'id' => 108146,
     'name' => 'Maltepe',
@@ -4807,7 +4492,7 @@ return array (
     'latitude' => 40.9589,
     'longitude' => 29.17866,
   ),
-  534 => 
+  499 => 
   array (
     'id' => 108147,
     'name' => 'Mamak',
@@ -4816,7 +4501,7 @@ return array (
     'latitude' => 39.94587,
     'longitude' => 32.90811,
   ),
-  535 => 
+  500 => 
   array (
     'id' => 108148,
     'name' => 'Manavgat',
@@ -4825,7 +4510,7 @@ return array (
     'latitude' => 36.78667,
     'longitude' => 31.44306,
   ),
-  536 => 
+  501 => 
   array (
     'id' => 108151,
     'name' => 'Manyas',
@@ -4834,7 +4519,7 @@ return array (
     'latitude' => 40.04639,
     'longitude' => 27.97,
   ),
-  537 => 
+  502 => 
   array (
     'id' => 108155,
     'name' => 'Marmara',
@@ -4843,7 +4528,7 @@ return array (
     'latitude' => 40.58633,
     'longitude' => 27.55541,
   ),
-  538 => 
+  503 => 
   array (
     'id' => 108156,
     'name' => 'Marmaraereğlisi',
@@ -4852,7 +4537,7 @@ return array (
     'latitude' => 40.97003,
     'longitude' => 27.95528,
   ),
-  539 => 
+  504 => 
   array (
     'id' => 108160,
     'name' => 'Marmaris',
@@ -4861,7 +4546,7 @@ return array (
     'latitude' => 36.855,
     'longitude' => 28.27417,
   ),
-  540 => 
+  505 => 
   array (
     'id' => 108161,
     'name' => 'Mazgirt',
@@ -4870,7 +4555,7 @@ return array (
     'latitude' => 39.01783,
     'longitude' => 39.60064,
   ),
-  541 => 
+  506 => 
   array (
     'id' => 108163,
     'name' => 'Mazıdağı',
@@ -4879,7 +4564,7 @@ return array (
     'latitude' => 37.47801,
     'longitude' => 40.48152,
   ),
-  542 => 
+  507 => 
   array (
     'id' => 108165,
     'name' => 'Maçka',
@@ -4888,7 +4573,7 @@ return array (
     'latitude' => 40.72127,
     'longitude' => 39.59786,
   ),
-  543 => 
+  508 => 
   array (
     'id' => 108167,
     'name' => 'Mecitözü',
@@ -4897,7 +4582,7 @@ return array (
     'latitude' => 40.52,
     'longitude' => 35.29528,
   ),
-  544 => 
+  509 => 
   array (
     'id' => 108169,
     'name' => 'Melikgazi',
@@ -4906,7 +4591,7 @@ return array (
     'latitude' => 38.77933,
     'longitude' => 35.66076,
   ),
-  545 => 
+  510 => 
   array (
     'id' => 108170,
     'name' => 'Menderes',
@@ -4915,7 +4600,7 @@ return array (
     'latitude' => 38.24963,
     'longitude' => 27.13429,
   ),
-  546 => 
+  511 => 
   array (
     'id' => 108171,
     'name' => 'Menemen',
@@ -4924,7 +4609,7 @@ return array (
     'latitude' => 38.61608,
     'longitude' => 27.06315,
   ),
-  547 => 
+  512 => 
   array (
     'id' => 108172,
     'name' => 'Mengen',
@@ -4933,7 +4618,7 @@ return array (
     'latitude' => 40.93877,
     'longitude' => 32.07642,
   ),
-  548 => 
+  513 => 
   array (
     'id' => 108174,
     'name' => 'Menteşe',
@@ -4942,7 +4627,7 @@ return array (
     'latitude' => 37.21447,
     'longitude' => 28.36168,
   ),
-  549 => 
+  514 => 
   array (
     'id' => 108175,
     'name' => 'Meram',
@@ -4951,7 +4636,7 @@ return array (
     'latitude' => 37.83984,
     'longitude' => 32.47111,
   ),
-  550 => 
+  515 => 
   array (
     'id' => 108176,
     'name' => 'Meriç',
@@ -4960,169 +4645,7 @@ return array (
     'latitude' => 41.19183,
     'longitude' => 26.42097,
   ),
-  551 => 
-  array (
-    'id' => 108178,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.3706,
-    'longitude' => 34.02843,
-  ),
-  552 => 
-  array (
-    'id' => 108179,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.17114,
-    'longitude' => 39.5557,
-  ),
-  553 => 
-  array (
-    'id' => 108180,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.62762,
-    'longitude' => 30.20408,
-  ),
-  554 => 
-  array (
-    'id' => 108181,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.46843,
-    'longitude' => 39.67441,
-  ),
-  555 => 
-  array (
-    'id' => 108182,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.95025,
-    'longitude' => 40.52802,
-  ),
-  556 => 
-  array (
-    'id' => 108183,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.68463,
-    'longitude' => 29.29455,
-  ),
-  557 => 
-  array (
-    'id' => 108184,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.8266,
-    'longitude' => 38.36085,
-  ),
-  558 => 
-  array (
-    'id' => 108185,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.50905,
-    'longitude' => 34.85791,
-  ),
-  559 => 
-  array (
-    'id' => 108186,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.84362,
-    'longitude' => 41.18341,
-  ),
-  560 => 
-  array (
-    'id' => 108187,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.71613,
-    'longitude' => 36.97695,
-  ),
-  561 => 
-  array (
-    'id' => 108188,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.6679,
-    'longitude' => 39.21567,
-  ),
-  562 => 
-  array (
-    'id' => 108189,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.31702,
-    'longitude' => 42.10065,
-  ),
-  563 => 
-  array (
-    'id' => 108190,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.79698,
-    'longitude' => 30.51951,
-  ),
-  564 => 
-  array (
-    'id' => 108191,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.83793,
-    'longitude' => 41.48332,
-  ),
-  565 => 
-  array (
-    'id' => 108192,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 38.60039,
-    'longitude' => 34.68537,
-  ),
-  566 => 
-  array (
-    'id' => 108193,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.05093,
-    'longitude' => 26.49489,
-  ),
-  567 => 
-  array (
-    'id' => 108194,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.74454,
-    'longitude' => 38.26801,
-  ),
-  568 => 
-  array (
-    'id' => 108195,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.61939,
-    'longitude' => 35.87016,
-  ),
-  569 => 
+  516 => 
   array (
     'id' => 108196,
     'name' => 'Merkezefendi',
@@ -5131,7 +4654,7 @@ return array (
     'latitude' => 37.80544,
     'longitude' => 29.04236,
   ),
-  570 => 
+  517 => 
   array (
     'id' => 108200,
     'name' => 'Merzifon',
@@ -5140,7 +4663,7 @@ return array (
     'latitude' => 40.88348,
     'longitude' => 35.47116,
   ),
-  571 => 
+  518 => 
   array (
     'id' => 108201,
     'name' => 'Mesudiye',
@@ -5149,7 +4672,7 @@ return array (
     'latitude' => 40.45446,
     'longitude' => 37.77353,
   ),
-  572 => 
+  519 => 
   array (
     'id' => 108204,
     'name' => 'Mezitli',
@@ -5158,7 +4681,7 @@ return array (
     'latitude' => 36.894,
     'longitude' => 34.42987,
   ),
-  573 => 
+  520 => 
   array (
     'id' => 108206,
     'name' => 'Midyat',
@@ -5167,7 +4690,7 @@ return array (
     'latitude' => 37.41908,
     'longitude' => 41.33909,
   ),
-  574 => 
+  521 => 
   array (
     'id' => 108208,
     'name' => 'Mihalgazi',
@@ -5176,7 +4699,7 @@ return array (
     'latitude' => 40.02621,
     'longitude' => 30.57707,
   ),
-  575 => 
+  522 => 
   array (
     'id' => 108210,
     'name' => 'Mihalıççık',
@@ -5185,7 +4708,7 @@ return array (
     'latitude' => 39.87564,
     'longitude' => 31.50091,
   ),
-  576 => 
+  523 => 
   array (
     'id' => 108211,
     'name' => 'Milas',
@@ -5194,7 +4717,7 @@ return array (
     'latitude' => 37.31639,
     'longitude' => 27.78389,
   ),
-  577 => 
+  524 => 
   array (
     'id' => 108215,
     'name' => 'Mucur',
@@ -5203,7 +4726,7 @@ return array (
     'latitude' => 39.06147,
     'longitude' => 34.38286,
   ),
-  578 => 
+  525 => 
   array (
     'id' => 108217,
     'name' => 'Mudanya',
@@ -5212,7 +4735,7 @@ return array (
     'latitude' => 40.33342,
     'longitude' => 28.77218,
   ),
-  579 => 
+  526 => 
   array (
     'id' => 108218,
     'name' => 'Mudurnu',
@@ -5221,7 +4744,7 @@ return array (
     'latitude' => 40.473,
     'longitude' => 31.20755,
   ),
-  580 => 
+  527 => 
   array (
     'id' => 108220,
     'name' => 'Muradiye',
@@ -5230,7 +4753,7 @@ return array (
     'latitude' => 38.97889,
     'longitude' => 43.75374,
   ),
-  581 => 
+  528 => 
   array (
     'id' => 108223,
     'name' => 'Muratlı',
@@ -5239,7 +4762,7 @@ return array (
     'latitude' => 41.18345,
     'longitude' => 27.51454,
   ),
-  582 => 
+  529 => 
   array (
     'id' => 108224,
     'name' => 'Muratpaşa',
@@ -5248,7 +4771,7 @@ return array (
     'latitude' => 36.89157,
     'longitude' => 30.76498,
   ),
-  583 => 
+  530 => 
   array (
     'id' => 108226,
     'name' => 'Murgul',
@@ -5257,7 +4780,7 @@ return array (
     'latitude' => 41.27937,
     'longitude' => 41.55514,
   ),
-  584 => 
+  531 => 
   array (
     'id' => 108228,
     'name' => 'Musabeyli',
@@ -5266,7 +4789,7 @@ return array (
     'latitude' => 36.88639,
     'longitude' => 36.91861,
   ),
-  585 => 
+  532 => 
   array (
     'id' => 108230,
     'name' => 'Mustafakemalpaşa',
@@ -5275,7 +4798,7 @@ return array (
     'latitude' => 40.03815,
     'longitude' => 28.40866,
   ),
-  586 => 
+  533 => 
   array (
     'id' => 108232,
     'name' => 'Mut',
@@ -5284,7 +4807,7 @@ return array (
     'latitude' => 36.71842,
     'longitude' => 33.38718,
   ),
-  587 => 
+  534 => 
   array (
     'id' => 108233,
     'name' => 'Mutki',
@@ -5293,7 +4816,7 @@ return array (
     'latitude' => 38.40624,
     'longitude' => 41.92018,
   ),
-  588 => 
+  535 => 
   array (
     'id' => 108237,
     'name' => 'Nallıhan',
@@ -5302,7 +4825,7 @@ return array (
     'latitude' => 40.18593,
     'longitude' => 31.35179,
   ),
-  589 => 
+  536 => 
   array (
     'id' => 108240,
     'name' => 'Narlıdere',
@@ -5311,7 +4834,7 @@ return array (
     'latitude' => 38.38957,
     'longitude' => 27.02431,
   ),
-  590 => 
+  537 => 
   array (
     'id' => 108241,
     'name' => 'Narman',
@@ -5320,7 +4843,7 @@ return array (
     'latitude' => 40.34449,
     'longitude' => 41.86088,
   ),
-  591 => 
+  538 => 
   array (
     'id' => 108243,
     'name' => 'Nazilli',
@@ -5329,7 +4852,7 @@ return array (
     'latitude' => 37.9357,
     'longitude' => 28.30609,
   ),
-  592 => 
+  539 => 
   array (
     'id' => 108245,
     'name' => 'Nazımiye',
@@ -5338,7 +4861,7 @@ return array (
     'latitude' => 39.17952,
     'longitude' => 39.82805,
   ),
-  593 => 
+  540 => 
   array (
     'id' => 108248,
     'name' => 'Niksar',
@@ -5347,7 +4870,7 @@ return array (
     'latitude' => 40.60509,
     'longitude' => 36.97174,
   ),
-  594 => 
+  541 => 
   array (
     'id' => 108249,
     'name' => 'Nilüfer',
@@ -5356,7 +4879,7 @@ return array (
     'latitude' => 40.21375,
     'longitude' => 28.98464,
   ),
-  595 => 
+  542 => 
   array (
     'id' => 108250,
     'name' => 'Nizip',
@@ -5365,16 +4888,7 @@ return array (
     'latitude' => 37.00972,
     'longitude' => 37.79417,
   ),
-  596 => 
-  array (
-    'id' => 108252,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.96583,
-    'longitude' => 34.67935,
-  ),
-  597 => 
+  543 => 
   array (
     'id' => 108253,
     'name' => 'Nurdağı',
@@ -5383,7 +4897,7 @@ return array (
     'latitude' => 37.16821,
     'longitude' => 36.73623,
   ),
-  598 => 
+  544 => 
   array (
     'id' => 108255,
     'name' => 'Nurhak',
@@ -5392,7 +4906,7 @@ return array (
     'latitude' => 37.96366,
     'longitude' => 37.44047,
   ),
-  599 => 
+  545 => 
   array (
     'id' => 108258,
     'name' => 'Nusaybin',
@@ -5401,7 +4915,7 @@ return array (
     'latitude' => 37.07028,
     'longitude' => 41.21465,
   ),
-  600 => 
+  546 => 
   array (
     'id' => 108260,
     'name' => 'Odunpazarı',
@@ -5410,7 +4924,7 @@ return array (
     'latitude' => 39.76699,
     'longitude' => 30.54113,
   ),
-  601 => 
+  547 => 
   array (
     'id' => 108261,
     'name' => 'Of',
@@ -5419,7 +4933,7 @@ return array (
     'latitude' => 40.94055,
     'longitude' => 40.25918,
   ),
-  602 => 
+  548 => 
   array (
     'id' => 108265,
     'name' => 'Oltu',
@@ -5428,7 +4942,7 @@ return array (
     'latitude' => 40.53945,
     'longitude' => 41.98722,
   ),
-  603 => 
+  549 => 
   array (
     'id' => 108267,
     'name' => 'Olur',
@@ -5437,7 +4951,7 @@ return array (
     'latitude' => 40.82165,
     'longitude' => 42.13055,
   ),
-  604 => 
+  550 => 
   array (
     'id' => 108269,
     'name' => 'Ondokuzmayıs',
@@ -5446,7 +4960,7 @@ return array (
     'latitude' => 41.51188,
     'longitude' => 36.07298,
   ),
-  605 => 
+  551 => 
   array (
     'id' => 108270,
     'name' => 'Onikişubat',
@@ -5455,7 +4969,7 @@ return array (
     'latitude' => 37.59002,
     'longitude' => 36.90548,
   ),
-  606 => 
+  552 => 
   array (
     'id' => 108272,
     'name' => 'Orhaneli',
@@ -5464,7 +4978,7 @@ return array (
     'latitude' => 39.90333,
     'longitude' => 28.99056,
   ),
-  607 => 
+  553 => 
   array (
     'id' => 108274,
     'name' => 'Orhangazi',
@@ -5473,7 +4987,7 @@ return array (
     'latitude' => 40.48917,
     'longitude' => 29.30889,
   ),
-  608 => 
+  554 => 
   array (
     'id' => 108276,
     'name' => 'Orta',
@@ -5482,7 +4996,7 @@ return array (
     'latitude' => 40.6242,
     'longitude' => 33.10928,
   ),
-  609 => 
+  555 => 
   array (
     'id' => 108279,
     'name' => 'Ortaca',
@@ -5491,7 +5005,7 @@ return array (
     'latitude' => 36.83915,
     'longitude' => 28.76457,
   ),
-  610 => 
+  556 => 
   array (
     'id' => 108282,
     'name' => 'Ortahisar',
@@ -5500,7 +5014,7 @@ return array (
     'latitude' => 40.88029,
     'longitude' => 39.88998,
   ),
-  611 => 
+  557 => 
   array (
     'id' => 108283,
     'name' => 'Ortaköy',
@@ -5509,16 +5023,7 @@ return array (
     'latitude' => 38.73728,
     'longitude' => 34.03866,
   ),
-  612 => 
-  array (
-    'id' => 108286,
-    'name' => 'Ortaköy',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.27352,
-    'longitude' => 35.25175,
-  ),
-  613 => 
+  558 => 
   array (
     'id' => 108290,
     'name' => 'Osmancık',
@@ -5527,7 +5032,7 @@ return array (
     'latitude' => 41.0024,
     'longitude' => 34.78243,
   ),
-  614 => 
+  559 => 
   array (
     'id' => 108291,
     'name' => 'Osmaneli',
@@ -5536,7 +5041,7 @@ return array (
     'latitude' => 40.35722,
     'longitude' => 30.01417,
   ),
-  615 => 
+  560 => 
   array (
     'id' => 108293,
     'name' => 'Osmangazi',
@@ -5545,16 +5050,7 @@ return array (
     'latitude' => 40.15644,
     'longitude' => 29.08753,
   ),
-  616 => 
-  array (
-    'id' => 108294,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.07417,
-    'longitude' => 36.24778,
-  ),
-  617 => 
+  561 => 
   array (
     'id' => 108295,
     'name' => 'Otlukbeli',
@@ -5563,7 +5059,7 @@ return array (
     'latitude' => 39.97,
     'longitude' => 40.01872,
   ),
-  618 => 
+  562 => 
   array (
     'id' => 108297,
     'name' => 'Ovacık',
@@ -5572,16 +5068,7 @@ return array (
     'latitude' => 39.35259,
     'longitude' => 39.2089,
   ),
-  619 => 
-  array (
-    'id' => 108299,
-    'name' => 'Ovacık',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.08029,
-    'longitude' => 32.93224,
-  ),
-  620 => 
+  563 => 
   array (
     'id' => 108303,
     'name' => 'Oğuzeli',
@@ -5590,7 +5077,7 @@ return array (
     'latitude' => 36.96572,
     'longitude' => 37.51339,
   ),
-  621 => 
+  564 => 
   array (
     'id' => 108305,
     'name' => 'Oğuzlar',
@@ -5599,7 +5086,7 @@ return array (
     'latitude' => 40.76323,
     'longitude' => 34.70813,
   ),
-  622 => 
+  565 => 
   array (
     'id' => 108307,
     'name' => 'Palandöken',
@@ -5608,7 +5095,7 @@ return array (
     'latitude' => 39.8556,
     'longitude' => 41.27975,
   ),
-  623 => 
+  566 => 
   array (
     'id' => 108308,
     'name' => 'Palu',
@@ -5617,7 +5104,7 @@ return array (
     'latitude' => 38.69135,
     'longitude' => 39.91984,
   ),
-  624 => 
+  567 => 
   array (
     'id' => 108310,
     'name' => 'Pamukkale',
@@ -5626,7 +5113,7 @@ return array (
     'latitude' => 37.91644,
     'longitude' => 29.11729,
   ),
-  625 => 
+  568 => 
   array (
     'id' => 108312,
     'name' => 'Pamukova',
@@ -5635,7 +5122,7 @@ return array (
     'latitude' => 40.5081,
     'longitude' => 30.16732,
   ),
-  626 => 
+  569 => 
   array (
     'id' => 108314,
     'name' => 'Pasinler',
@@ -5644,7 +5131,7 @@ return array (
     'latitude' => 39.97975,
     'longitude' => 41.66997,
   ),
-  627 => 
+  570 => 
   array (
     'id' => 108316,
     'name' => 'Patnos',
@@ -5653,7 +5140,7 @@ return array (
     'latitude' => 39.22493,
     'longitude' => 42.85693,
   ),
-  628 => 
+  571 => 
   array (
     'id' => 108320,
     'name' => 'Payas',
@@ -5662,7 +5149,7 @@ return array (
     'latitude' => 36.756,
     'longitude' => 36.21432,
   ),
-  629 => 
+  572 => 
   array (
     'id' => 108321,
     'name' => 'Pazar',
@@ -5671,16 +5158,7 @@ return array (
     'latitude' => 41.17917,
     'longitude' => 40.88417,
   ),
-  630 => 
-  array (
-    'id' => 108322,
-    'name' => 'Pazar',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.27652,
-    'longitude' => 36.28347,
-  ),
-  631 => 
+  573 => 
   array (
     'id' => 108325,
     'name' => 'Pazarcık',
@@ -5689,7 +5167,7 @@ return array (
     'latitude' => 37.48685,
     'longitude' => 37.29961,
   ),
-  632 => 
+  574 => 
   array (
     'id' => 108327,
     'name' => 'Pazarlar',
@@ -5698,7 +5176,7 @@ return array (
     'latitude' => 38.995,
     'longitude' => 29.12583,
   ),
-  633 => 
+  575 => 
   array (
     'id' => 108329,
     'name' => 'Pazaryeri',
@@ -5707,7 +5185,7 @@ return array (
     'latitude' => 39.99395,
     'longitude' => 29.90424,
   ),
-  634 => 
+  576 => 
   array (
     'id' => 108331,
     'name' => 'Pazaryolu',
@@ -5716,7 +5194,7 @@ return array (
     'latitude' => 40.41142,
     'longitude' => 40.7678,
   ),
-  635 => 
+  577 => 
   array (
     'id' => 108333,
     'name' => 'Pehlivanköy',
@@ -5725,7 +5203,7 @@ return array (
     'latitude' => 41.34812,
     'longitude' => 26.92522,
   ),
-  636 => 
+  578 => 
   array (
     'id' => 108336,
     'name' => 'Pendik',
@@ -5734,7 +5212,7 @@ return array (
     'latitude' => 40.94577,
     'longitude' => 29.33019,
   ),
-  637 => 
+  579 => 
   array (
     'id' => 108337,
     'name' => 'Pertek',
@@ -5743,7 +5221,7 @@ return array (
     'latitude' => 38.86574,
     'longitude' => 39.32273,
   ),
-  638 => 
+  580 => 
   array (
     'id' => 108339,
     'name' => 'Pervari',
@@ -5752,7 +5230,7 @@ return array (
     'latitude' => 37.93573,
     'longitude' => 42.54927,
   ),
-  639 => 
+  581 => 
   array (
     'id' => 108341,
     'name' => 'Perşembe',
@@ -5761,7 +5239,7 @@ return array (
     'latitude' => 41.06556,
     'longitude' => 37.77139,
   ),
-  640 => 
+  582 => 
   array (
     'id' => 108343,
     'name' => 'Piraziz',
@@ -5770,7 +5248,7 @@ return array (
     'latitude' => 40.92244,
     'longitude' => 38.12458,
   ),
-  641 => 
+  583 => 
   array (
     'id' => 108345,
     'name' => 'Polateli',
@@ -5779,7 +5257,7 @@ return array (
     'latitude' => 36.83694,
     'longitude' => 37.15083,
   ),
-  642 => 
+  584 => 
   array (
     'id' => 108346,
     'name' => 'Polatlı',
@@ -5788,7 +5266,7 @@ return array (
     'latitude' => 39.57715,
     'longitude' => 32.14132,
   ),
-  643 => 
+  585 => 
   array (
     'id' => 108347,
     'name' => 'Posof',
@@ -5797,7 +5275,7 @@ return array (
     'latitude' => 41.51111,
     'longitude' => 42.72917,
   ),
-  644 => 
+  586 => 
   array (
     'id' => 108349,
     'name' => 'Pozantı',
@@ -5806,7 +5284,7 @@ return array (
     'latitude' => 37.43671,
     'longitude' => 34.88057,
   ),
-  645 => 
+  587 => 
   array (
     'id' => 108352,
     'name' => 'Pursaklar',
@@ -5815,7 +5293,7 @@ return array (
     'latitude' => 40.03961,
     'longitude' => 32.90139,
   ),
-  646 => 
+  588 => 
   array (
     'id' => 108353,
     'name' => 'Pülümür',
@@ -5824,7 +5302,7 @@ return array (
     'latitude' => 39.48662,
     'longitude' => 39.89874,
   ),
-  647 => 
+  589 => 
   array (
     'id' => 108354,
     'name' => 'Pütürge',
@@ -5833,7 +5311,7 @@ return array (
     'latitude' => 38.1963,
     'longitude' => 38.87418,
   ),
-  648 => 
+  590 => 
   array (
     'id' => 108355,
     'name' => 'Pınarbaşı',
@@ -5842,16 +5320,7 @@ return array (
     'latitude' => 38.72285,
     'longitude' => 36.39314,
   ),
-  649 => 
-  array (
-    'id' => 108358,
-    'name' => 'Pınarbaşı',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.60388,
-    'longitude' => 33.11099,
-  ),
-  650 => 
+  591 => 
   array (
     'id' => 108362,
     'name' => 'Pınarhisar',
@@ -5860,7 +5329,7 @@ return array (
     'latitude' => 41.62417,
     'longitude' => 27.52,
   ),
-  651 => 
+  592 => 
   array (
     'id' => 108365,
     'name' => 'Refahiye',
@@ -5869,7 +5338,7 @@ return array (
     'latitude' => 39.89315,
     'longitude' => 38.76607,
   ),
-  652 => 
+  593 => 
   array (
     'id' => 108368,
     'name' => 'Reyhanlı',
@@ -5878,7 +5347,7 @@ return array (
     'latitude' => 36.26791,
     'longitude' => 36.56747,
   ),
-  653 => 
+  594 => 
   array (
     'id' => 108370,
     'name' => 'Reşadiye',
@@ -5887,16 +5356,7 @@ return array (
     'latitude' => 40.43284,
     'longitude' => 37.37652,
   ),
-  654 => 
-  array (
-    'id' => 108371,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.02083,
-    'longitude' => 40.52194,
-  ),
-  655 => 
+  595 => 
   array (
     'id' => 108372,
     'name' => 'Safranbolu',
@@ -5905,7 +5365,7 @@ return array (
     'latitude' => 41.25083,
     'longitude' => 32.69417,
   ),
-  656 => 
+  596 => 
   array (
     'id' => 108374,
     'name' => 'Saimbeyli',
@@ -5914,7 +5374,7 @@ return array (
     'latitude' => 37.99615,
     'longitude' => 36.09909,
   ),
-  657 => 
+  597 => 
   array (
     'id' => 108376,
     'name' => 'Salihli',
@@ -5923,7 +5383,7 @@ return array (
     'latitude' => 38.49254,
     'longitude' => 28.15264,
   ),
-  658 => 
+  598 => 
   array (
     'id' => 108377,
     'name' => 'Salıpazarı',
@@ -5932,7 +5392,7 @@ return array (
     'latitude' => 41.09352,
     'longitude' => 36.81718,
   ),
-  659 => 
+  599 => 
   array (
     'id' => 108379,
     'name' => 'Samsat',
@@ -5941,7 +5401,7 @@ return array (
     'latitude' => 37.58194,
     'longitude' => 38.47417,
   ),
-  660 => 
+  600 => 
   array (
     'id' => 108382,
     'name' => 'Sancaktepe',
@@ -5950,7 +5410,7 @@ return array (
     'latitude' => 40.98949,
     'longitude' => 29.2432,
   ),
-  661 => 
+  601 => 
   array (
     'id' => 108383,
     'name' => 'Sandıklı',
@@ -5959,7 +5419,7 @@ return array (
     'latitude' => 38.46472,
     'longitude' => 30.26946,
   ),
-  662 => 
+  602 => 
   array (
     'id' => 108385,
     'name' => 'Sapanca',
@@ -5968,7 +5428,7 @@ return array (
     'latitude' => 40.69141,
     'longitude' => 30.26738,
   ),
-  663 => 
+  603 => 
   array (
     'id' => 108387,
     'name' => 'Saray',
@@ -5977,16 +5437,7 @@ return array (
     'latitude' => 38.64691,
     'longitude' => 44.16116,
   ),
-  664 => 
-  array (
-    'id' => 108388,
-    'name' => 'Saray',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.44431,
-    'longitude' => 27.92194,
-  ),
-  665 => 
+  604 => 
   array (
     'id' => 108391,
     'name' => 'Saraykent',
@@ -5995,7 +5446,7 @@ return array (
     'latitude' => 39.69361,
     'longitude' => 35.51111,
   ),
-  666 => 
+  605 => 
   array (
     'id' => 108393,
     'name' => 'Sarayköy',
@@ -6004,7 +5455,7 @@ return array (
     'latitude' => 37.9158,
     'longitude' => 28.87999,
   ),
-  667 => 
+  606 => 
   array (
     'id' => 108394,
     'name' => 'Sarayönü',
@@ -6013,7 +5464,7 @@ return array (
     'latitude' => 38.26201,
     'longitude' => 32.40457,
   ),
-  668 => 
+  607 => 
   array (
     'id' => 108397,
     'name' => 'Saruhanlı',
@@ -6022,7 +5473,7 @@ return array (
     'latitude' => 38.76778,
     'longitude' => 27.64714,
   ),
-  669 => 
+  608 => 
   array (
     'id' => 108398,
     'name' => 'Sarıcakaya',
@@ -6031,7 +5482,7 @@ return array (
     'latitude' => 40.04671,
     'longitude' => 30.61994,
   ),
-  670 => 
+  609 => 
   array (
     'id' => 108399,
     'name' => 'Sarıgöl',
@@ -6040,7 +5491,7 @@ return array (
     'latitude' => 38.23953,
     'longitude' => 28.69663,
   ),
-  671 => 
+  610 => 
   array (
     'id' => 108401,
     'name' => 'Sarıkamış',
@@ -6049,7 +5500,7 @@ return array (
     'latitude' => 40.32769,
     'longitude' => 42.58705,
   ),
-  672 => 
+  611 => 
   array (
     'id' => 108403,
     'name' => 'Sarıkaya',
@@ -6058,7 +5509,7 @@ return array (
     'latitude' => 39.49361,
     'longitude' => 35.37694,
   ),
-  673 => 
+  612 => 
   array (
     'id' => 108405,
     'name' => 'Sarıoğlan',
@@ -6067,7 +5518,7 @@ return array (
     'latitude' => 39.07694,
     'longitude' => 35.96671,
   ),
-  674 => 
+  613 => 
   array (
     'id' => 108407,
     'name' => 'Sarıveliler',
@@ -6076,7 +5527,7 @@ return array (
     'latitude' => 36.69705,
     'longitude' => 32.61203,
   ),
-  675 => 
+  614 => 
   array (
     'id' => 108409,
     'name' => 'Sarıyahşi',
@@ -6085,7 +5536,7 @@ return array (
     'latitude' => 38.98349,
     'longitude' => 33.84136,
   ),
-  676 => 
+  615 => 
   array (
     'id' => 108411,
     'name' => 'Sarıyer',
@@ -6094,7 +5545,7 @@ return array (
     'latitude' => 41.21482,
     'longitude' => 29.05678,
   ),
-  677 => 
+  616 => 
   array (
     'id' => 108412,
     'name' => 'Sarız',
@@ -6103,7 +5554,7 @@ return array (
     'latitude' => 38.47917,
     'longitude' => 36.49898,
   ),
-  678 => 
+  617 => 
   array (
     'id' => 108414,
     'name' => 'Sarıçam',
@@ -6112,7 +5563,7 @@ return array (
     'latitude' => 37.14971,
     'longitude' => 35.50949,
   ),
-  679 => 
+  618 => 
   array (
     'id' => 108415,
     'name' => 'Sason',
@@ -6121,7 +5572,7 @@ return array (
     'latitude' => 38.32767,
     'longitude' => 41.41377,
   ),
-  680 => 
+  619 => 
   array (
     'id' => 108417,
     'name' => 'Savaştepe',
@@ -6130,7 +5581,7 @@ return array (
     'latitude' => 39.38319,
     'longitude' => 27.65612,
   ),
-  681 => 
+  620 => 
   array (
     'id' => 108419,
     'name' => 'Savur',
@@ -6139,7 +5590,7 @@ return array (
     'latitude' => 37.53544,
     'longitude' => 40.87876,
   ),
-  682 => 
+  621 => 
   array (
     'id' => 108421,
     'name' => 'Seben',
@@ -6148,7 +5599,7 @@ return array (
     'latitude' => 40.41134,
     'longitude' => 31.57359,
   ),
-  683 => 
+  622 => 
   array (
     'id' => 108423,
     'name' => 'Seferihisar',
@@ -6157,7 +5608,7 @@ return array (
     'latitude' => 38.18144,
     'longitude' => 26.88877,
   ),
-  684 => 
+  623 => 
   array (
     'id' => 108427,
     'name' => 'Selçuklu',
@@ -6166,7 +5617,7 @@ return array (
     'latitude' => 38.05761,
     'longitude' => 32.54088,
   ),
-  685 => 
+  624 => 
   array (
     'id' => 108428,
     'name' => 'Selendi',
@@ -6175,7 +5626,7 @@ return array (
     'latitude' => 38.74444,
     'longitude' => 28.86778,
   ),
-  686 => 
+  625 => 
   array (
     'id' => 108430,
     'name' => 'Selim',
@@ -6184,7 +5635,7 @@ return array (
     'latitude' => 40.45772,
     'longitude' => 42.78287,
   ),
-  687 => 
+  626 => 
   array (
     'id' => 108434,
     'name' => 'Selçuk',
@@ -6193,7 +5644,7 @@ return array (
     'latitude' => 37.95137,
     'longitude' => 27.36849,
   ),
-  688 => 
+  627 => 
   array (
     'id' => 108436,
     'name' => 'Senirkent',
@@ -6202,7 +5653,7 @@ return array (
     'latitude' => 38.10444,
     'longitude' => 30.54861,
   ),
-  689 => 
+  628 => 
   array (
     'id' => 108438,
     'name' => 'Serdivan',
@@ -6211,7 +5662,7 @@ return array (
     'latitude' => 40.76371,
     'longitude' => 30.36784,
   ),
-  690 => 
+  629 => 
   array (
     'id' => 108441,
     'name' => 'Serik',
@@ -6220,7 +5671,7 @@ return array (
     'latitude' => 37.07743,
     'longitude' => 31.00677,
   ),
-  691 => 
+  630 => 
   array (
     'id' => 108442,
     'name' => 'Serinhisar',
@@ -6229,7 +5680,7 @@ return array (
     'latitude' => 37.58105,
     'longitude' => 29.26639,
   ),
-  692 => 
+  631 => 
   array (
     'id' => 108447,
     'name' => 'Seydikemer',
@@ -6238,7 +5689,7 @@ return array (
     'latitude' => 36.64308,
     'longitude' => 29.34929,
   ),
-  693 => 
+  632 => 
   array (
     'id' => 108448,
     'name' => 'Seydiler',
@@ -6247,7 +5698,7 @@ return array (
     'latitude' => 41.62005,
     'longitude' => 33.71815,
   ),
-  694 => 
+  633 => 
   array (
     'id' => 108450,
     'name' => 'Seydişehir',
@@ -6256,7 +5707,7 @@ return array (
     'latitude' => 37.41926,
     'longitude' => 31.84527,
   ),
-  695 => 
+  634 => 
   array (
     'id' => 108452,
     'name' => 'Seyhan',
@@ -6265,7 +5716,7 @@ return array (
     'latitude' => 36.9554,
     'longitude' => 35.21637,
   ),
-  696 => 
+  635 => 
   array (
     'id' => 108453,
     'name' => 'Seyitgazi',
@@ -6274,16 +5725,7 @@ return array (
     'latitude' => 39.44472,
     'longitude' => 30.69472,
   ),
-  697 => 
-  array (
-    'id' => 108457,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.9293,
-    'longitude' => 41.94134,
-  ),
-  698 => 
+  636 => 
   array (
     'id' => 108458,
     'name' => 'Silifke',
@@ -6292,7 +5734,7 @@ return array (
     'latitude' => 36.37778,
     'longitude' => 33.93444,
   ),
-  699 => 
+  637 => 
   array (
     'id' => 108460,
     'name' => 'Silivri',
@@ -6301,7 +5743,7 @@ return array (
     'latitude' => 41.18116,
     'longitude' => 28.1989,
   ),
-  700 => 
+  638 => 
   array (
     'id' => 108461,
     'name' => 'Silopi',
@@ -6310,7 +5752,7 @@ return array (
     'latitude' => 37.24379,
     'longitude' => 42.46345,
   ),
-  701 => 
+  639 => 
   array (
     'id' => 108463,
     'name' => 'Silvan',
@@ -6319,7 +5761,7 @@ return array (
     'latitude' => 38.13708,
     'longitude' => 41.00817,
   ),
-  702 => 
+  640 => 
   array (
     'id' => 108465,
     'name' => 'Simav',
@@ -6328,7 +5770,7 @@ return array (
     'latitude' => 39.0882,
     'longitude' => 28.97767,
   ),
-  703 => 
+  641 => 
   array (
     'id' => 108468,
     'name' => 'Sinanpaşa',
@@ -6337,7 +5779,7 @@ return array (
     'latitude' => 38.74444,
     'longitude' => 30.24278,
   ),
-  704 => 
+  642 => 
   array (
     'id' => 108470,
     'name' => 'Sincan',
@@ -6346,7 +5788,7 @@ return array (
     'latitude' => 39.95943,
     'longitude' => 32.49567,
   ),
-  705 => 
+  643 => 
   array (
     'id' => 108471,
     'name' => 'Sincik',
@@ -6355,7 +5797,7 @@ return array (
     'latitude' => 38.03645,
     'longitude' => 38.61257,
   ),
-  706 => 
+  644 => 
   array (
     'id' => 108474,
     'name' => 'Sivaslı',
@@ -6364,7 +5806,7 @@ return array (
     'latitude' => 38.49944,
     'longitude' => 29.68361,
   ),
-  707 => 
+  645 => 
   array (
     'id' => 108476,
     'name' => 'Siverek',
@@ -6373,7 +5815,7 @@ return array (
     'latitude' => 37.75503,
     'longitude' => 39.31667,
   ),
-  708 => 
+  646 => 
   array (
     'id' => 108479,
     'name' => 'Sivrice',
@@ -6382,7 +5824,7 @@ return array (
     'latitude' => 38.44223,
     'longitude' => 39.30938,
   ),
-  709 => 
+  647 => 
   array (
     'id' => 108481,
     'name' => 'Sivrihisar',
@@ -6391,7 +5833,7 @@ return array (
     'latitude' => 39.45037,
     'longitude' => 31.53409,
   ),
-  710 => 
+  648 => 
   array (
     'id' => 108483,
     'name' => 'Solhan',
@@ -6400,7 +5842,7 @@ return array (
     'latitude' => 38.96525,
     'longitude' => 41.05443,
   ),
-  711 => 
+  649 => 
   array (
     'id' => 108485,
     'name' => 'Soma',
@@ -6409,7 +5851,7 @@ return array (
     'latitude' => 39.18554,
     'longitude' => 27.60945,
   ),
-  712 => 
+  650 => 
   array (
     'id' => 108487,
     'name' => 'Sorgun',
@@ -6418,7 +5860,7 @@ return array (
     'latitude' => 39.81012,
     'longitude' => 35.18596,
   ),
-  713 => 
+  651 => 
   array (
     'id' => 108490,
     'name' => 'Sulakyurt',
@@ -6427,7 +5869,7 @@ return array (
     'latitude' => 40.15733,
     'longitude' => 33.716,
   ),
-  714 => 
+  652 => 
   array (
     'id' => 108492,
     'name' => 'Sultanbeyli',
@@ -6436,7 +5878,7 @@ return array (
     'latitude' => 40.95264,
     'longitude' => 29.26797,
   ),
-  715 => 
+  653 => 
   array (
     'id' => 108493,
     'name' => 'Sultandağı',
@@ -6445,7 +5887,7 @@ return array (
     'latitude' => 38.53111,
     'longitude' => 31.22806,
   ),
-  716 => 
+  654 => 
   array (
     'id' => 108495,
     'name' => 'Sultangazi',
@@ -6454,7 +5896,7 @@ return array (
     'latitude' => 41.21792,
     'longitude' => 28.7174,
   ),
-  717 => 
+  655 => 
   array (
     'id' => 108496,
     'name' => 'Sultanhanı',
@@ -6463,7 +5905,7 @@ return array (
     'latitude' => 38.2471,
     'longitude' => 33.54961,
   ),
-  718 => 
+  656 => 
   array (
     'id' => 108497,
     'name' => 'Sultanhisar',
@@ -6472,7 +5914,7 @@ return array (
     'latitude' => 37.88989,
     'longitude' => 28.15436,
   ),
-  719 => 
+  657 => 
   array (
     'id' => 108500,
     'name' => 'Suluova',
@@ -6481,7 +5923,7 @@ return array (
     'latitude' => 40.83129,
     'longitude' => 35.64788,
   ),
-  720 => 
+  658 => 
   array (
     'id' => 108502,
     'name' => 'Sulusaray',
@@ -6490,7 +5932,7 @@ return array (
     'latitude' => 39.99389,
     'longitude' => 36.08404,
   ),
-  721 => 
+  659 => 
   array (
     'id' => 108504,
     'name' => 'Sumbas',
@@ -6499,7 +5941,7 @@ return array (
     'latitude' => 37.46169,
     'longitude' => 36.02914,
   ),
-  722 => 
+  660 => 
   array (
     'id' => 108505,
     'name' => 'Sungurlu',
@@ -6508,7 +5950,7 @@ return array (
     'latitude' => 40.18213,
     'longitude' => 34.28217,
   ),
-  723 => 
+  661 => 
   array (
     'id' => 108506,
     'name' => 'Sur',
@@ -6517,7 +5959,7 @@ return array (
     'latitude' => 37.91356,
     'longitude' => 40.23743,
   ),
-  724 => 
+  662 => 
   array (
     'id' => 108507,
     'name' => 'Suruç',
@@ -6526,7 +5968,7 @@ return array (
     'latitude' => 36.97612,
     'longitude' => 38.42533,
   ),
-  725 => 
+  663 => 
   array (
     'id' => 108509,
     'name' => 'Susurluk',
@@ -6535,7 +5977,7 @@ return array (
     'latitude' => 39.91361,
     'longitude' => 28.15778,
   ),
-  726 => 
+  664 => 
   array (
     'id' => 108511,
     'name' => 'Susuz',
@@ -6544,7 +5986,7 @@ return array (
     'latitude' => 40.7791,
     'longitude' => 43.12769,
   ),
-  727 => 
+  665 => 
   array (
     'id' => 108513,
     'name' => 'Suşehri',
@@ -6553,7 +5995,7 @@ return array (
     'latitude' => 40.16005,
     'longitude' => 38.08413,
   ),
-  728 => 
+  666 => 
   array (
     'id' => 108515,
     'name' => 'Söke',
@@ -6562,7 +6004,7 @@ return array (
     'latitude' => 37.7482,
     'longitude' => 27.40614,
   ),
-  729 => 
+  667 => 
   array (
     'id' => 108518,
     'name' => 'Söğüt',
@@ -6571,7 +6013,7 @@ return array (
     'latitude' => 40.02479,
     'longitude' => 30.173,
   ),
-  730 => 
+  668 => 
   array (
     'id' => 108519,
     'name' => 'Söğütlü',
@@ -6580,7 +6022,7 @@ return array (
     'latitude' => 40.9059,
     'longitude' => 30.47448,
   ),
-  731 => 
+  669 => 
   array (
     'id' => 108522,
     'name' => 'Süleymanpaşa',
@@ -6589,7 +6031,7 @@ return array (
     'latitude' => 40.9799,
     'longitude' => 27.30377,
   ),
-  732 => 
+  670 => 
   array (
     'id' => 108523,
     'name' => 'Süloğlu',
@@ -6598,7 +6040,7 @@ return array (
     'latitude' => 41.77956,
     'longitude' => 26.92602,
   ),
-  733 => 
+  671 => 
   array (
     'id' => 108524,
     'name' => 'Sürmene',
@@ -6607,7 +6049,7 @@ return array (
     'latitude' => 40.90588,
     'longitude' => 40.12792,
   ),
-  734 => 
+  672 => 
   array (
     'id' => 108526,
     'name' => 'Sütçüler',
@@ -6616,7 +6058,7 @@ return array (
     'latitude' => 37.5112,
     'longitude' => 30.95661,
   ),
-  735 => 
+  673 => 
   array (
     'id' => 108527,
     'name' => 'Sındırgı',
@@ -6625,7 +6067,7 @@ return array (
     'latitude' => 39.24128,
     'longitude' => 28.17842,
   ),
-  736 => 
+  674 => 
   array (
     'id' => 108531,
     'name' => 'Talas',
@@ -6634,7 +6076,7 @@ return array (
     'latitude' => 38.6908,
     'longitude' => 35.5538,
   ),
-  737 => 
+  675 => 
   array (
     'id' => 108534,
     'name' => 'Taraklı',
@@ -6643,7 +6085,7 @@ return array (
     'latitude' => 40.39694,
     'longitude' => 30.49278,
   ),
-  738 => 
+  676 => 
   array (
     'id' => 108536,
     'name' => 'Tarsus',
@@ -6652,7 +6094,7 @@ return array (
     'latitude' => 36.91766,
     'longitude' => 34.89277,
   ),
-  739 => 
+  677 => 
   array (
     'id' => 108538,
     'name' => 'Tatvan',
@@ -6661,7 +6103,7 @@ return array (
     'latitude' => 38.49221,
     'longitude' => 42.28269,
   ),
-  740 => 
+  678 => 
   array (
     'id' => 108540,
     'name' => 'Tavas',
@@ -6670,7 +6112,7 @@ return array (
     'latitude' => 37.57351,
     'longitude' => 29.07058,
   ),
-  741 => 
+  679 => 
   array (
     'id' => 108543,
     'name' => 'Tavşanlı',
@@ -6679,7 +6121,7 @@ return array (
     'latitude' => 39.54237,
     'longitude' => 29.49866,
   ),
-  742 => 
+  680 => 
   array (
     'id' => 108546,
     'name' => 'Taşkent',
@@ -6688,7 +6130,7 @@ return array (
     'latitude' => 36.9243,
     'longitude' => 32.49131,
   ),
-  743 => 
+  681 => 
   array (
     'id' => 108548,
     'name' => 'Taşköprü',
@@ -6697,7 +6139,7 @@ return array (
     'latitude' => 41.5098,
     'longitude' => 34.21414,
   ),
-  744 => 
+  682 => 
   array (
     'id' => 108552,
     'name' => 'Taşlıçay',
@@ -6706,7 +6148,7 @@ return array (
     'latitude' => 39.62966,
     'longitude' => 43.36878,
   ),
-  745 => 
+  683 => 
   array (
     'id' => 108554,
     'name' => 'Taşova',
@@ -6715,7 +6157,7 @@ return array (
     'latitude' => 40.75972,
     'longitude' => 36.3225,
   ),
-  746 => 
+  684 => 
   array (
     'id' => 108556,
     'name' => 'Tefenni',
@@ -6724,7 +6166,7 @@ return array (
     'latitude' => 37.30968,
     'longitude' => 29.77538,
   ),
-  747 => 
+  685 => 
   array (
     'id' => 108561,
     'name' => 'Tekkeköy',
@@ -6733,7 +6175,7 @@ return array (
     'latitude' => 41.14493,
     'longitude' => 36.46205,
   ),
-  748 => 
+  686 => 
   array (
     'id' => 108562,
     'name' => 'Tekman',
@@ -6742,7 +6184,7 @@ return array (
     'latitude' => 39.64111,
     'longitude' => 41.50542,
   ),
-  749 => 
+  687 => 
   array (
     'id' => 108566,
     'name' => 'Tepebaşı',
@@ -6751,7 +6193,7 @@ return array (
     'latitude' => 39.7843,
     'longitude' => 30.50206,
   ),
-  750 => 
+  688 => 
   array (
     'id' => 108570,
     'name' => 'Tercan',
@@ -6760,7 +6202,7 @@ return array (
     'latitude' => 39.77709,
     'longitude' => 40.37783,
   ),
-  751 => 
+  689 => 
   array (
     'id' => 108572,
     'name' => 'Termal',
@@ -6769,7 +6211,7 @@ return array (
     'latitude' => 40.61381,
     'longitude' => 29.18049,
   ),
-  752 => 
+  690 => 
   array (
     'id' => 108573,
     'name' => 'Terme',
@@ -6778,7 +6220,7 @@ return array (
     'latitude' => 41.20917,
     'longitude' => 36.97389,
   ),
-  753 => 
+  691 => 
   array (
     'id' => 108576,
     'name' => 'Tillo',
@@ -6787,7 +6229,7 @@ return array (
     'latitude' => 37.94911,
     'longitude' => 42.0121,
   ),
-  754 => 
+  692 => 
   array (
     'id' => 108578,
     'name' => 'Tire',
@@ -6796,7 +6238,7 @@ return array (
     'latitude' => 38.06582,
     'longitude' => 27.7273,
   ),
-  755 => 
+  693 => 
   array (
     'id' => 108579,
     'name' => 'Tirebolu',
@@ -6805,16 +6247,7 @@ return array (
     'latitude' => 41.00633,
     'longitude' => 38.8498,
   ),
-  756 => 
-  array (
-    'id' => 108580,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.31389,
-    'longitude' => 36.55444,
-  ),
-  757 => 
+  694 => 
   array (
     'id' => 108581,
     'name' => 'Tomarza',
@@ -6823,7 +6256,7 @@ return array (
     'latitude' => 38.44722,
     'longitude' => 35.79917,
   ),
-  758 => 
+  695 => 
   array (
     'id' => 108583,
     'name' => 'Tonya',
@@ -6832,7 +6265,7 @@ return array (
     'latitude' => 40.88402,
     'longitude' => 39.28486,
   ),
-  759 => 
+  696 => 
   array (
     'id' => 108585,
     'name' => 'Toprakkale',
@@ -6841,7 +6274,7 @@ return array (
     'latitude' => 37.06855,
     'longitude' => 36.14661,
   ),
-  760 => 
+  697 => 
   array (
     'id' => 108587,
     'name' => 'Torbalı',
@@ -6850,7 +6283,7 @@ return array (
     'latitude' => 38.17603,
     'longitude' => 27.37182,
   ),
-  761 => 
+  698 => 
   array (
     'id' => 108588,
     'name' => 'Toroslar',
@@ -6859,7 +6292,7 @@ return array (
     'latitude' => 36.87083,
     'longitude' => 34.60299,
   ),
-  762 => 
+  699 => 
   array (
     'id' => 108589,
     'name' => 'Tortum',
@@ -6868,7 +6301,7 @@ return array (
     'latitude' => 40.28892,
     'longitude' => 41.54096,
   ),
-  763 => 
+  700 => 
   array (
     'id' => 108591,
     'name' => 'Torul',
@@ -6877,7 +6310,7 @@ return array (
     'latitude' => 40.55071,
     'longitude' => 39.28344,
   ),
-  764 => 
+  701 => 
   array (
     'id' => 108593,
     'name' => 'Tosya',
@@ -6886,7 +6319,7 @@ return array (
     'latitude' => 41.01545,
     'longitude' => 34.04013,
   ),
-  765 => 
+  702 => 
   array (
     'id' => 108597,
     'name' => 'Tufanbeyli',
@@ -6895,7 +6328,7 @@ return array (
     'latitude' => 38.27343,
     'longitude' => 36.22731,
   ),
-  766 => 
+  703 => 
   array (
     'id' => 108600,
     'name' => 'Turgutlu',
@@ -6904,7 +6337,7 @@ return array (
     'latitude' => 38.51515,
     'longitude' => 27.73515,
   ),
-  767 => 
+  704 => 
   array (
     'id' => 108602,
     'name' => 'Turhal',
@@ -6913,7 +6346,7 @@ return array (
     'latitude' => 40.3875,
     'longitude' => 36.08111,
   ),
-  768 => 
+  705 => 
   array (
     'id' => 108606,
     'name' => 'Tut',
@@ -6922,7 +6355,7 @@ return array (
     'latitude' => 37.79529,
     'longitude' => 37.9161,
   ),
-  769 => 
+  706 => 
   array (
     'id' => 108608,
     'name' => 'Tutak',
@@ -6931,7 +6364,7 @@ return array (
     'latitude' => 39.55042,
     'longitude' => 42.77572,
   ),
-  770 => 
+  707 => 
   array (
     'id' => 108609,
     'name' => 'Tuzla',
@@ -6940,7 +6373,7 @@ return array (
     'latitude' => 40.86368,
     'longitude' => 29.31942,
   ),
-  771 => 
+  708 => 
   array (
     'id' => 108610,
     'name' => 'Tuzluca',
@@ -6949,7 +6382,7 @@ return array (
     'latitude' => 40.03863,
     'longitude' => 43.65212,
   ),
-  772 => 
+  709 => 
   array (
     'id' => 108611,
     'name' => 'Tuzlukçu',
@@ -6958,7 +6391,7 @@ return array (
     'latitude' => 38.47778,
     'longitude' => 31.62639,
   ),
-  773 => 
+  710 => 
   array (
     'id' => 108615,
     'name' => 'Türkoğlu',
@@ -6967,7 +6400,7 @@ return array (
     'latitude' => 37.38417,
     'longitude' => 36.84626,
   ),
-  774 => 
+  711 => 
   array (
     'id' => 108616,
     'name' => 'Ula',
@@ -6976,7 +6409,7 @@ return array (
     'latitude' => 37.10491,
     'longitude' => 28.41667,
   ),
-  775 => 
+  712 => 
   array (
     'id' => 108618,
     'name' => 'Ulaş',
@@ -6985,7 +6418,7 @@ return array (
     'latitude' => 39.44492,
     'longitude' => 37.039,
   ),
-  776 => 
+  713 => 
   array (
     'id' => 108621,
     'name' => 'Ulubey',
@@ -6994,16 +6427,7 @@ return array (
     'latitude' => 38.41987,
     'longitude' => 29.29129,
   ),
-  777 => 
-  array (
-    'id' => 108622,
-    'name' => 'Ulubey',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.86863,
-    'longitude' => 37.75405,
-  ),
-  778 => 
+  714 => 
   array (
     'id' => 108624,
     'name' => 'Uluborlu',
@@ -7012,7 +6436,7 @@ return array (
     'latitude' => 38.07825,
     'longitude' => 30.45019,
   ),
-  779 => 
+  715 => 
   array (
     'id' => 108626,
     'name' => 'Uludere',
@@ -7021,7 +6445,7 @@ return array (
     'latitude' => 37.44074,
     'longitude' => 42.85236,
   ),
-  780 => 
+  716 => 
   array (
     'id' => 108628,
     'name' => 'Ulukışla',
@@ -7030,7 +6454,7 @@ return array (
     'latitude' => 37.54592,
     'longitude' => 34.58737,
   ),
-  781 => 
+  717 => 
   array (
     'id' => 108629,
     'name' => 'Ulus',
@@ -7039,7 +6463,7 @@ return array (
     'latitude' => 41.59373,
     'longitude' => 32.65066,
   ),
-  782 => 
+  718 => 
   array (
     'id' => 108631,
     'name' => 'Ümraniye',
@@ -7048,7 +6472,7 @@ return array (
     'latitude' => 41.01643,
     'longitude' => 29.12476,
   ),
-  783 => 
+  719 => 
   array (
     'id' => 108633,
     'name' => 'Urla',
@@ -7057,7 +6481,7 @@ return array (
     'latitude' => 38.32292,
     'longitude' => 26.76403,
   ),
-  784 => 
+  720 => 
   array (
     'id' => 108636,
     'name' => 'Uzundere',
@@ -7066,7 +6490,7 @@ return array (
     'latitude' => 40.53218,
     'longitude' => 41.53832,
   ),
-  785 => 
+  721 => 
   array (
     'id' => 108640,
     'name' => 'Uzunköprü',
@@ -7075,7 +6499,7 @@ return array (
     'latitude' => 41.26597,
     'longitude' => 26.6885,
   ),
-  786 => 
+  722 => 
   array (
     'id' => 108642,
     'name' => 'Uğurludağ',
@@ -7084,7 +6508,7 @@ return array (
     'latitude' => 40.44631,
     'longitude' => 34.45259,
   ),
-  787 => 
+  723 => 
   array (
     'id' => 108645,
     'name' => 'Vakfıkebir',
@@ -7093,7 +6517,7 @@ return array (
     'latitude' => 41.04583,
     'longitude' => 39.27639,
   ),
-  788 => 
+  724 => 
   array (
     'id' => 108647,
     'name' => 'Varto',
@@ -7102,7 +6526,7 @@ return array (
     'latitude' => 39.17375,
     'longitude' => 41.45402,
   ),
-  789 => 
+  725 => 
   array (
     'id' => 108651,
     'name' => 'Vezirköprü',
@@ -7111,7 +6535,7 @@ return array (
     'latitude' => 41.14361,
     'longitude' => 35.45472,
   ),
-  790 => 
+  726 => 
   array (
     'id' => 108653,
     'name' => 'Viranşehir',
@@ -7120,7 +6544,7 @@ return array (
     'latitude' => 37.22349,
     'longitude' => 39.75519,
   ),
-  791 => 
+  727 => 
   array (
     'id' => 108655,
     'name' => 'Vize',
@@ -7129,7 +6553,7 @@ return array (
     'latitude' => 41.5725,
     'longitude' => 27.76583,
   ),
-  792 => 
+  728 => 
   array (
     'id' => 108658,
     'name' => 'Yahyalı',
@@ -7138,7 +6562,7 @@ return array (
     'latitude' => 38.10228,
     'longitude' => 35.35704,
   ),
-  793 => 
+  729 => 
   array (
     'id' => 108659,
     'name' => 'Yahşihan',
@@ -7147,7 +6571,7 @@ return array (
     'latitude' => 39.85992,
     'longitude' => 33.45615,
   ),
-  794 => 
+  730 => 
   array (
     'id' => 108660,
     'name' => 'Yakakent',
@@ -7156,7 +6580,7 @@ return array (
     'latitude' => 41.6325,
     'longitude' => 35.52889,
   ),
-  795 => 
+  731 => 
   array (
     'id' => 108663,
     'name' => 'Yakutiye',
@@ -7165,16 +6589,7 @@ return array (
     'latitude' => 40.00132,
     'longitude' => 41.30997,
   ),
-  796 => 
-  array (
-    'id' => 108665,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.65501,
-    'longitude' => 29.27693,
-  ),
-  797 => 
+  732 => 
   array (
     'id' => 108666,
     'name' => 'Yalvaç',
@@ -7183,7 +6598,7 @@ return array (
     'latitude' => 38.29556,
     'longitude' => 31.17778,
   ),
-  798 => 
+  733 => 
   array (
     'id' => 108668,
     'name' => 'Yalıhüyük',
@@ -7192,7 +6607,7 @@ return array (
     'latitude' => 37.30077,
     'longitude' => 32.08548,
   ),
-  799 => 
+  734 => 
   array (
     'id' => 108673,
     'name' => 'Yapraklı',
@@ -7201,7 +6616,7 @@ return array (
     'latitude' => 40.75785,
     'longitude' => 33.77819,
   ),
-  800 => 
+  735 => 
   array (
     'id' => 108676,
     'name' => 'Yatağan',
@@ -7210,7 +6625,7 @@ return array (
     'latitude' => 37.35864,
     'longitude' => 28.11441,
   ),
-  801 => 
+  736 => 
   array (
     'id' => 108677,
     'name' => 'Yavuzeli',
@@ -7219,7 +6634,7 @@ return array (
     'latitude' => 37.31772,
     'longitude' => 37.56824,
   ),
-  802 => 
+  737 => 
   array (
     'id' => 108679,
     'name' => 'Yayladağı',
@@ -7228,7 +6643,7 @@ return array (
     'latitude' => 35.9025,
     'longitude' => 36.06272,
   ),
-  803 => 
+  738 => 
   array (
     'id' => 108681,
     'name' => 'Yayladere',
@@ -7237,7 +6652,7 @@ return array (
     'latitude' => 39.22614,
     'longitude' => 40.0695,
   ),
-  804 => 
+  739 => 
   array (
     'id' => 108684,
     'name' => 'Yazıhan',
@@ -7246,7 +6661,7 @@ return array (
     'latitude' => 38.59292,
     'longitude' => 38.17327,
   ),
-  805 => 
+  740 => 
   array (
     'id' => 108687,
     'name' => 'Yağlıdere',
@@ -7255,7 +6670,7 @@ return array (
     'latitude' => 40.85711,
     'longitude' => 38.63242,
   ),
-  806 => 
+  741 => 
   array (
     'id' => 108688,
     'name' => 'Yedisu',
@@ -7264,7 +6679,7 @@ return array (
     'latitude' => 39.43277,
     'longitude' => 40.53368,
   ),
-  807 => 
+  742 => 
   array (
     'id' => 108691,
     'name' => 'Yenice',
@@ -7273,16 +6688,7 @@ return array (
     'latitude' => 39.93083,
     'longitude' => 27.25806,
   ),
-  808 => 
-  array (
-    'id' => 108693,
-    'name' => 'Yenice',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.19962,
-    'longitude' => 32.33133,
-  ),
-  809 => 
+  743 => 
   array (
     'id' => 108697,
     'name' => 'Yenifakılı',
@@ -7291,7 +6697,7 @@ return array (
     'latitude' => 39.21142,
     'longitude' => 35.00036,
   ),
-  810 => 
+  744 => 
   array (
     'id' => 108703,
     'name' => 'Yenimahalle',
@@ -7300,7 +6706,7 @@ return array (
     'latitude' => 39.99043,
     'longitude' => 32.69555,
   ),
-  811 => 
+  745 => 
   array (
     'id' => 108704,
     'name' => 'Yenipazar',
@@ -7309,16 +6715,7 @@ return array (
     'latitude' => 37.82332,
     'longitude' => 28.19573,
   ),
-  812 => 
-  array (
-    'id' => 108705,
-    'name' => 'Yenipazar',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.17833,
-    'longitude' => 30.52,
-  ),
-  813 => 
+  746 => 
   array (
     'id' => 108709,
     'name' => 'Yeniçağa',
@@ -7327,7 +6724,7 @@ return array (
     'latitude' => 40.77115,
     'longitude' => 32.03375,
   ),
-  814 => 
+  747 => 
   array (
     'id' => 108712,
     'name' => 'Yenişarbademli',
@@ -7336,7 +6733,7 @@ return array (
     'latitude' => 37.70778,
     'longitude' => 31.38639,
   ),
-  815 => 
+  748 => 
   array (
     'id' => 108714,
     'name' => 'Yenişehir',
@@ -7345,25 +6742,7 @@ return array (
     'latitude' => 40.26444,
     'longitude' => 29.65306,
   ),
-  816 => 
-  array (
-    'id' => 108715,
-    'name' => 'Yenişehir',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 36.81602,
-    'longitude' => 34.57621,
-  ),
-  817 => 
-  array (
-    'id' => 108716,
-    'name' => 'Yenişehir',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.91373,
-    'longitude' => 40.2061,
-  ),
-  818 => 
+  749 => 
   array (
     'id' => 108718,
     'name' => 'Yerköy',
@@ -7372,7 +6751,7 @@ return array (
     'latitude' => 39.63806,
     'longitude' => 34.46722,
   ),
-  819 => 
+  750 => 
   array (
     'id' => 108720,
     'name' => 'Yeşilhisar',
@@ -7381,7 +6760,7 @@ return array (
     'latitude' => 38.33475,
     'longitude' => 35.11795,
   ),
-  820 => 
+  751 => 
   array (
     'id' => 108724,
     'name' => 'Yeşilli',
@@ -7390,7 +6769,7 @@ return array (
     'latitude' => 37.33813,
     'longitude' => 40.81739,
   ),
-  821 => 
+  752 => 
   array (
     'id' => 108726,
     'name' => 'Yeşilova',
@@ -7399,7 +6778,7 @@ return array (
     'latitude' => 37.50806,
     'longitude' => 29.75472,
   ),
-  822 => 
+  753 => 
   array (
     'id' => 108728,
     'name' => 'Yeşilyurt',
@@ -7408,16 +6787,7 @@ return array (
     'latitude' => 38.29602,
     'longitude' => 38.24526,
   ),
-  823 => 
-  array (
-    'id' => 108729,
-    'name' => 'Yeşilyurt',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.99916,
-    'longitude' => 36.23479,
-  ),
-  824 => 
+  754 => 
   array (
     'id' => 108733,
     'name' => 'Yomra',
@@ -7426,16 +6796,7 @@ return array (
     'latitude' => 40.95326,
     'longitude' => 39.85546,
   ),
-  825 => 
-  array (
-    'id' => 108735,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 39.82,
-    'longitude' => 34.80444,
-  ),
-  826 => 
+  755 => 
   array (
     'id' => 108737,
     'name' => 'Yumurtalık',
@@ -7444,7 +6805,7 @@ return array (
     'latitude' => 36.78245,
     'longitude' => 35.79949,
   ),
-  827 => 
+  756 => 
   array (
     'id' => 108738,
     'name' => 'Yunak',
@@ -7453,7 +6814,7 @@ return array (
     'latitude' => 38.81418,
     'longitude' => 31.73223,
   ),
-  828 => 
+  757 => 
   array (
     'id' => 108740,
     'name' => 'Yunusemre',
@@ -7462,7 +6823,7 @@ return array (
     'latitude' => 38.62063,
     'longitude' => 27.40806,
   ),
-  829 => 
+  758 => 
   array (
     'id' => 108741,
     'name' => 'Yusufeli',
@@ -7471,7 +6832,7 @@ return array (
     'latitude' => 40.82042,
     'longitude' => 41.53743,
   ),
-  830 => 
+  759 => 
   array (
     'id' => 108744,
     'name' => 'Yüksekova',
@@ -7480,7 +6841,7 @@ return array (
     'latitude' => 37.54627,
     'longitude' => 44.25827,
   ),
-  831 => 
+  760 => 
   array (
     'id' => 108745,
     'name' => 'Yüreğir',
@@ -7489,7 +6850,7 @@ return array (
     'latitude' => 36.99205,
     'longitude' => 35.45402,
   ),
-  832 => 
+  761 => 
   array (
     'id' => 108746,
     'name' => 'Yıldırım',
@@ -7498,7 +6859,7 @@ return array (
     'latitude' => 40.19567,
     'longitude' => 29.0364,
   ),
-  833 => 
+  762 => 
   array (
     'id' => 108747,
     'name' => 'Yıldızeli',
@@ -7507,7 +6868,7 @@ return array (
     'latitude' => 39.87601,
     'longitude' => 36.60652,
   ),
-  834 => 
+  763 => 
   array (
     'id' => 108748,
     'name' => 'Yığılca',
@@ -7516,7 +6877,7 @@ return array (
     'latitude' => 40.96497,
     'longitude' => 31.45672,
   ),
-  835 => 
+  764 => 
   array (
     'id' => 108749,
     'name' => 'Zara',
@@ -7525,7 +6886,7 @@ return array (
     'latitude' => 39.82406,
     'longitude' => 37.77499,
   ),
-  836 => 
+  765 => 
   array (
     'id' => 108750,
     'name' => 'Zeytinburnu',
@@ -7534,7 +6895,7 @@ return array (
     'latitude' => 41.00824,
     'longitude' => 28.90952,
   ),
-  837 => 
+  766 => 
   array (
     'id' => 108753,
     'name' => 'Zile',
@@ -7543,16 +6904,7 @@ return array (
     'latitude' => 40.30306,
     'longitude' => 35.88639,
   ),
-  838 => 
-  array (
-    'id' => 108755,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.45139,
-    'longitude' => 31.79305,
-  ),
-  839 => 
+  767 => 
   array (
     'id' => 108759,
     'name' => 'Çal',
@@ -7561,7 +6913,7 @@ return array (
     'latitude' => 38.09371,
     'longitude' => 29.40467,
   ),
-  840 => 
+  768 => 
   array (
     'id' => 108760,
     'name' => 'Çaldıran',
@@ -7570,7 +6922,7 @@ return array (
     'latitude' => 39.14317,
     'longitude' => 43.91068,
   ),
-  841 => 
+  769 => 
   array (
     'id' => 108764,
     'name' => 'Çamardı',
@@ -7579,7 +6931,7 @@ return array (
     'latitude' => 37.84157,
     'longitude' => 34.99005,
   ),
-  842 => 
+  770 => 
   array (
     'id' => 108765,
     'name' => 'Çamaş',
@@ -7588,7 +6940,7 @@ return array (
     'latitude' => 40.902,
     'longitude' => 37.52786,
   ),
-  843 => 
+  771 => 
   array (
     'id' => 108767,
     'name' => 'Çameli',
@@ -7597,7 +6949,7 @@ return array (
     'latitude' => 37.0866,
     'longitude' => 29.35225,
   ),
-  844 => 
+  772 => 
   array (
     'id' => 108768,
     'name' => 'Çamlıdere',
@@ -7606,7 +6958,7 @@ return array (
     'latitude' => 40.48958,
     'longitude' => 32.47499,
   ),
-  845 => 
+  773 => 
   array (
     'id' => 108771,
     'name' => 'Çamlıyayla',
@@ -7615,7 +6967,7 @@ return array (
     'latitude' => 37.18,
     'longitude' => 34.60678,
   ),
-  846 => 
+  774 => 
   array (
     'id' => 108772,
     'name' => 'Çamoluk',
@@ -7624,7 +6976,7 @@ return array (
     'latitude' => 40.13418,
     'longitude' => 38.73389,
   ),
-  847 => 
+  775 => 
   array (
     'id' => 108773,
     'name' => 'Çan',
@@ -7633,7 +6985,7 @@ return array (
     'latitude' => 40.03328,
     'longitude' => 27.05236,
   ),
-  848 => 
+  776 => 
   array (
     'id' => 108776,
     'name' => 'Çanakçı',
@@ -7642,7 +6994,7 @@ return array (
     'latitude' => 40.86,
     'longitude' => 39.05,
   ),
-  849 => 
+  777 => 
   array (
     'id' => 108778,
     'name' => 'Çandır',
@@ -7651,7 +7003,7 @@ return array (
     'latitude' => 39.25445,
     'longitude' => 35.52284,
   ),
-  850 => 
+  778 => 
   array (
     'id' => 108779,
     'name' => 'Çankaya',
@@ -7660,7 +7012,7 @@ return array (
     'latitude' => 39.9179,
     'longitude' => 32.86268,
   ),
-  851 => 
+  779 => 
   array (
     'id' => 108781,
     'name' => 'Çardak',
@@ -7669,7 +7021,7 @@ return array (
     'latitude' => 37.77485,
     'longitude' => 29.70593,
   ),
-  852 => 
+  780 => 
   array (
     'id' => 108783,
     'name' => 'Çarşamba',
@@ -7678,7 +7030,7 @@ return array (
     'latitude' => 41.19889,
     'longitude' => 36.72194,
   ),
-  853 => 
+  781 => 
   array (
     'id' => 108785,
     'name' => 'Çarşıbaşı',
@@ -7687,7 +7039,7 @@ return array (
     'latitude' => 41.04203,
     'longitude' => 39.40035,
   ),
-  854 => 
+  782 => 
   array (
     'id' => 108786,
     'name' => 'Çat',
@@ -7696,7 +7048,7 @@ return array (
     'latitude' => 39.61055,
     'longitude' => 40.97851,
   ),
-  855 => 
+  783 => 
   array (
     'id' => 108787,
     'name' => 'Çatak',
@@ -7705,7 +7057,7 @@ return array (
     'latitude' => 38.0078,
     'longitude' => 43.06195,
   ),
-  856 => 
+  784 => 
   array (
     'id' => 108788,
     'name' => 'Çatalca',
@@ -7714,7 +7066,7 @@ return array (
     'latitude' => 41.29651,
     'longitude' => 28.45419,
   ),
-  857 => 
+  785 => 
   array (
     'id' => 108790,
     'name' => 'Çatalpınar',
@@ -7723,7 +7075,7 @@ return array (
     'latitude' => 40.88678,
     'longitude' => 37.44329,
   ),
-  858 => 
+  786 => 
   array (
     'id' => 108791,
     'name' => 'Çatalzeytin',
@@ -7732,7 +7084,7 @@ return array (
     'latitude' => 41.93795,
     'longitude' => 34.20285,
   ),
-  859 => 
+  787 => 
   array (
     'id' => 108792,
     'name' => 'Çavdarhisar',
@@ -7741,7 +7093,7 @@ return array (
     'latitude' => 39.20333,
     'longitude' => 29.63094,
   ),
-  860 => 
+  788 => 
   array (
     'id' => 108793,
     'name' => 'Çavdır',
@@ -7750,7 +7102,7 @@ return array (
     'latitude' => 37.16483,
     'longitude' => 29.69937,
   ),
-  861 => 
+  789 => 
   array (
     'id' => 108795,
     'name' => 'Çay',
@@ -7759,7 +7111,7 @@ return array (
     'latitude' => 38.59167,
     'longitude' => 31.02861,
   ),
-  862 => 
+  790 => 
   array (
     'id' => 108797,
     'name' => 'Çaybaşı',
@@ -7768,7 +7120,7 @@ return array (
     'latitude' => 41.02532,
     'longitude' => 37.10867,
   ),
-  863 => 
+  791 => 
   array (
     'id' => 108798,
     'name' => 'Çaycuma',
@@ -7777,7 +7129,7 @@ return array (
     'latitude' => 41.42639,
     'longitude' => 32.07556,
   ),
-  864 => 
+  792 => 
   array (
     'id' => 108800,
     'name' => 'Çayeli',
@@ -7786,7 +7138,7 @@ return array (
     'latitude' => 41.08941,
     'longitude' => 40.73696,
   ),
-  865 => 
+  793 => 
   array (
     'id' => 108801,
     'name' => 'Çaykara',
@@ -7795,7 +7147,7 @@ return array (
     'latitude' => 40.74267,
     'longitude' => 40.23175,
   ),
-  866 => 
+  794 => 
   array (
     'id' => 108804,
     'name' => 'Çayıralan',
@@ -7804,7 +7156,7 @@ return array (
     'latitude' => 39.30278,
     'longitude' => 35.64389,
   ),
-  867 => 
+  795 => 
   array (
     'id' => 108806,
     'name' => 'Çayırlı',
@@ -7813,7 +7165,7 @@ return array (
     'latitude' => 39.80454,
     'longitude' => 40.03724,
   ),
-  868 => 
+  796 => 
   array (
     'id' => 108807,
     'name' => 'Çayırova',
@@ -7822,7 +7174,7 @@ return array (
     'latitude' => 40.82784,
     'longitude' => 29.39014,
   ),
-  869 => 
+  797 => 
   array (
     'id' => 108808,
     'name' => 'Çağlayancerit',
@@ -7831,7 +7183,7 @@ return array (
     'latitude' => 37.74523,
     'longitude' => 37.28618,
   ),
-  870 => 
+  798 => 
   array (
     'id' => 108810,
     'name' => 'Çekerek',
@@ -7840,7 +7192,7 @@ return array (
     'latitude' => 40.07306,
     'longitude' => 35.49472,
   ),
-  871 => 
+  799 => 
   array (
     'id' => 108812,
     'name' => 'Çekmeköy',
@@ -7849,7 +7201,7 @@ return array (
     'latitude' => 41.03819,
     'longitude' => 29.20029,
   ),
-  872 => 
+  800 => 
   array (
     'id' => 108813,
     'name' => 'Çelebi',
@@ -7858,7 +7210,7 @@ return array (
     'latitude' => 39.4747,
     'longitude' => 33.52895,
   ),
-  873 => 
+  801 => 
   array (
     'id' => 108814,
     'name' => 'Çelikhan',
@@ -7867,7 +7219,7 @@ return array (
     'latitude' => 38.0256,
     'longitude' => 38.23665,
   ),
-  874 => 
+  802 => 
   array (
     'id' => 108816,
     'name' => 'Çeltik',
@@ -7876,7 +7228,7 @@ return array (
     'latitude' => 39.03388,
     'longitude' => 31.79408,
   ),
-  875 => 
+  803 => 
   array (
     'id' => 108817,
     'name' => 'Çeltikçi',
@@ -7885,7 +7237,7 @@ return array (
     'latitude' => 37.53885,
     'longitude' => 30.46823,
   ),
-  876 => 
+  804 => 
   array (
     'id' => 108818,
     'name' => 'Çemişgezek',
@@ -7894,7 +7246,7 @@ return array (
     'latitude' => 39.06234,
     'longitude' => 38.914,
   ),
-  877 => 
+  805 => 
   array (
     'id' => 108819,
     'name' => 'Çerkezköy',
@@ -7903,7 +7255,7 @@ return array (
     'latitude' => 41.28616,
     'longitude' => 27.99969,
   ),
-  878 => 
+  806 => 
   array (
     'id' => 108820,
     'name' => 'Çerkeş',
@@ -7912,7 +7264,7 @@ return array (
     'latitude' => 40.81164,
     'longitude' => 32.89358,
   ),
-  879 => 
+  807 => 
   array (
     'id' => 108822,
     'name' => 'Çermik',
@@ -7921,7 +7273,7 @@ return array (
     'latitude' => 38.13538,
     'longitude' => 39.445,
   ),
-  880 => 
+  808 => 
   array (
     'id' => 108825,
     'name' => 'Çeşme',
@@ -7930,7 +7282,7 @@ return array (
     'latitude' => 38.32614,
     'longitude' => 26.30574,
   ),
-  881 => 
+  809 => 
   array (
     'id' => 108827,
     'name' => 'Çifteler',
@@ -7939,7 +7291,7 @@ return array (
     'latitude' => 39.38306,
     'longitude' => 31.03917,
   ),
-  882 => 
+  810 => 
   array (
     'id' => 108829,
     'name' => 'Çiftlik',
@@ -7948,7 +7300,7 @@ return array (
     'latitude' => 38.1758,
     'longitude' => 34.48535,
   ),
-  883 => 
+  811 => 
   array (
     'id' => 108831,
     'name' => 'Çiftlikköy',
@@ -7957,7 +7309,7 @@ return array (
     'latitude' => 40.66028,
     'longitude' => 29.32361,
   ),
-  884 => 
+  812 => 
   array (
     'id' => 108833,
     'name' => 'Çilimli',
@@ -7966,7 +7318,7 @@ return array (
     'latitude' => 40.90267,
     'longitude' => 31.05913,
   ),
-  885 => 
+  813 => 
   array (
     'id' => 108834,
     'name' => 'Çine',
@@ -7975,7 +7327,7 @@ return array (
     'latitude' => 37.61266,
     'longitude' => 28.05912,
   ),
-  886 => 
+  814 => 
   array (
     'id' => 108836,
     'name' => 'Çivril',
@@ -7984,7 +7336,7 @@ return array (
     'latitude' => 38.30139,
     'longitude' => 29.73861,
   ),
-  887 => 
+  815 => 
   array (
     'id' => 108838,
     'name' => 'Çiçekdağı',
@@ -7993,7 +7345,7 @@ return array (
     'latitude' => 39.60694,
     'longitude' => 34.40861,
   ),
-  888 => 
+  816 => 
   array (
     'id' => 108840,
     'name' => 'Çiğli',
@@ -8002,7 +7354,7 @@ return array (
     'latitude' => 38.48802,
     'longitude' => 26.96596,
   ),
-  889 => 
+  817 => 
   array (
     'id' => 108841,
     'name' => 'Çobanlar',
@@ -8011,7 +7363,7 @@ return array (
     'latitude' => 38.71085,
     'longitude' => 30.78874,
   ),
-  890 => 
+  818 => 
   array (
     'id' => 108842,
     'name' => 'Çorlu',
@@ -8020,7 +7372,7 @@ return array (
     'latitude' => 41.15917,
     'longitude' => 27.8,
   ),
-  891 => 
+  819 => 
   array (
     'id' => 108844,
     'name' => 'Çubuk',
@@ -8029,7 +7381,7 @@ return array (
     'latitude' => 40.23861,
     'longitude' => 33.03222,
   ),
-  892 => 
+  820 => 
   array (
     'id' => 108846,
     'name' => 'Çukurca',
@@ -8038,7 +7390,7 @@ return array (
     'latitude' => 37.24806,
     'longitude' => 43.61361,
   ),
-  893 => 
+  821 => 
   array (
     'id' => 108848,
     'name' => 'Çukurova',
@@ -8047,7 +7399,7 @@ return array (
     'latitude' => 37.05627,
     'longitude' => 35.13119,
   ),
-  894 => 
+  822 => 
   array (
     'id' => 108849,
     'name' => 'Çumra',
@@ -8056,7 +7408,7 @@ return array (
     'latitude' => 37.5732,
     'longitude' => 32.77446,
   ),
-  895 => 
+  823 => 
   array (
     'id' => 108851,
     'name' => 'Çüngüş',
@@ -8065,7 +7417,7 @@ return array (
     'latitude' => 38.20798,
     'longitude' => 39.28554,
   ),
-  896 => 
+  824 => 
   array (
     'id' => 108853,
     'name' => 'Çıldır',
@@ -8074,7 +7426,7 @@ return array (
     'latitude' => 41.13783,
     'longitude' => 43.14169,
   ),
-  897 => 
+  825 => 
   array (
     'id' => 108854,
     'name' => 'Çınar',
@@ -8083,7 +7435,7 @@ return array (
     'latitude' => 37.72562,
     'longitude' => 40.41484,
   ),
-  898 => 
+  826 => 
   array (
     'id' => 108856,
     'name' => 'Çınarcık',
@@ -8092,7 +7444,7 @@ return array (
     'latitude' => 40.64538,
     'longitude' => 29.1245,
   ),
-  899 => 
+  827 => 
   array (
     'id' => 108860,
     'name' => 'Ödemiş',
@@ -8101,7 +7453,7 @@ return array (
     'latitude' => 38.2278,
     'longitude' => 27.96955,
   ),
-  900 => 
+  828 => 
   array (
     'id' => 108863,
     'name' => 'Ömerli',
@@ -8110,7 +7462,7 @@ return array (
     'latitude' => 37.39903,
     'longitude' => 40.95442,
   ),
-  901 => 
+  829 => 
   array (
     'id' => 108866,
     'name' => 'Özalp',
@@ -8119,7 +7471,7 @@ return array (
     'latitude' => 38.65455,
     'longitude' => 43.98869,
   ),
-  902 => 
+  830 => 
   array (
     'id' => 108870,
     'name' => 'Özvatan',
@@ -8128,7 +7480,7 @@ return array (
     'latitude' => 39.11737,
     'longitude' => 35.71149,
   ),
-  903 => 
+  831 => 
   array (
     'id' => 108872,
     'name' => 'Ünye',
@@ -8137,7 +7489,7 @@ return array (
     'latitude' => 41.13921,
     'longitude' => 37.27246,
   ),
-  904 => 
+  832 => 
   array (
     'id' => 108873,
     'name' => 'Ürgüp',
@@ -8146,7 +7498,7 @@ return array (
     'latitude' => 38.57342,
     'longitude' => 34.9402,
   ),
-  905 => 
+  833 => 
   array (
     'id' => 108874,
     'name' => 'Üsküdar',
@@ -8155,7 +7507,7 @@ return array (
     'latitude' => 41.02274,
     'longitude' => 29.01366,
   ),
-  906 => 
+  834 => 
   array (
     'id' => 108876,
     'name' => 'Üzümlü',
@@ -8164,7 +7516,7 @@ return array (
     'latitude' => 39.70943,
     'longitude' => 39.70125,
   ),
-  907 => 
+  835 => 
   array (
     'id' => 108877,
     'name' => 'İbradı',
@@ -8173,7 +7525,7 @@ return array (
     'latitude' => 37.09694,
     'longitude' => 31.59917,
   ),
-  908 => 
+  836 => 
   array (
     'id' => 108879,
     'name' => 'İdil',
@@ -8182,7 +7534,7 @@ return array (
     'latitude' => 37.33481,
     'longitude' => 41.88944,
   ),
-  909 => 
+  837 => 
   array (
     'id' => 108881,
     'name' => 'İhsangazi',
@@ -8191,7 +7543,7 @@ return array (
     'latitude' => 41.20432,
     'longitude' => 33.55455,
   ),
-  910 => 
+  838 => 
   array (
     'id' => 108883,
     'name' => 'İhsaniye',
@@ -8200,7 +7552,7 @@ return array (
     'latitude' => 39.02916,
     'longitude' => 30.41639,
   ),
-  911 => 
+  839 => 
   array (
     'id' => 108887,
     'name' => 'İkizce',
@@ -8209,7 +7561,7 @@ return array (
     'latitude' => 41.05833,
     'longitude' => 37.08028,
   ),
-  912 => 
+  840 => 
   array (
     'id' => 108889,
     'name' => 'İkizdere',
@@ -8218,7 +7570,7 @@ return array (
     'latitude' => 40.77713,
     'longitude' => 40.56076,
   ),
-  913 => 
+  841 => 
   array (
     'id' => 108890,
     'name' => 'İliç',
@@ -8227,7 +7579,7 @@ return array (
     'latitude' => 39.45587,
     'longitude' => 38.56409,
   ),
-  914 => 
+  842 => 
   array (
     'id' => 108891,
     'name' => 'İlkadım',
@@ -8236,7 +7588,7 @@ return array (
     'latitude' => 41.29161,
     'longitude' => 36.30106,
   ),
-  915 => 
+  843 => 
   array (
     'id' => 108893,
     'name' => 'İmamoğlu',
@@ -8245,7 +7597,7 @@ return array (
     'latitude' => 37.275,
     'longitude' => 35.66649,
   ),
-  916 => 
+  844 => 
   array (
     'id' => 108894,
     'name' => 'İmranlı',
@@ -8254,7 +7606,7 @@ return array (
     'latitude' => 39.87544,
     'longitude' => 38.11358,
   ),
-  917 => 
+  845 => 
   array (
     'id' => 108897,
     'name' => 'İncirliova',
@@ -8263,7 +7615,7 @@ return array (
     'latitude' => 37.85222,
     'longitude' => 27.72361,
   ),
-  918 => 
+  846 => 
   array (
     'id' => 108899,
     'name' => 'İnebolu',
@@ -8272,7 +7624,7 @@ return array (
     'latitude' => 41.97472,
     'longitude' => 33.76083,
   ),
-  919 => 
+  847 => 
   array (
     'id' => 108901,
     'name' => 'İnegöl',
@@ -8281,7 +7633,7 @@ return array (
     'latitude' => 40.07806,
     'longitude' => 29.51333,
   ),
-  920 => 
+  848 => 
   array (
     'id' => 108903,
     'name' => 'İnhisar',
@@ -8290,7 +7642,7 @@ return array (
     'latitude' => 40.04932,
     'longitude' => 30.38521,
   ),
-  921 => 
+  849 => 
   array (
     'id' => 108906,
     'name' => 'İnönü',
@@ -8299,7 +7651,7 @@ return array (
     'latitude' => 39.81534,
     'longitude' => 30.14549,
   ),
-  922 => 
+  850 => 
   array (
     'id' => 108908,
     'name' => 'İpekyolu',
@@ -8308,7 +7660,7 @@ return array (
     'latitude' => 38.49041,
     'longitude' => 43.3469,
   ),
-  923 => 
+  851 => 
   array (
     'id' => 108909,
     'name' => 'İpsala',
@@ -8317,7 +7669,7 @@ return array (
     'latitude' => 40.92115,
     'longitude' => 26.38273,
   ),
-  924 => 
+  852 => 
   array (
     'id' => 108912,
     'name' => 'İscehisar',
@@ -8326,7 +7678,7 @@ return array (
     'latitude' => 38.939,
     'longitude' => 30.75002,
   ),
-  925 => 
+  853 => 
   array (
     'id' => 108913,
     'name' => 'İskenderun',
@@ -8335,7 +7687,7 @@ return array (
     'latitude' => 36.58718,
     'longitude' => 36.17347,
   ),
-  926 => 
+  854 => 
   array (
     'id' => 108915,
     'name' => 'İskilip',
@@ -8344,7 +7696,7 @@ return array (
     'latitude' => 40.73528,
     'longitude' => 34.47389,
   ),
-  927 => 
+  855 => 
   array (
     'id' => 108917,
     'name' => 'İslahiye',
@@ -8353,7 +7705,7 @@ return array (
     'latitude' => 36.96528,
     'longitude' => 36.70972,
   ),
-  928 => 
+  856 => 
   array (
     'id' => 108918,
     'name' => 'İspir',
@@ -8362,7 +7714,7 @@ return array (
     'latitude' => 40.47981,
     'longitude' => 40.99373,
   ),
-  929 => 
+  857 => 
   array (
     'id' => 108920,
     'name' => 'İvrindi',
@@ -8371,7 +7723,7 @@ return array (
     'latitude' => 39.58389,
     'longitude' => 27.48639,
   ),
-  930 => 
+  858 => 
   array (
     'id' => 108922,
     'name' => 'İyidere',
@@ -8380,7 +7732,7 @@ return array (
     'latitude' => 41.00905,
     'longitude' => 40.37776,
   ),
-  931 => 
+  859 => 
   array (
     'id' => 108924,
     'name' => 'İzmit',
@@ -8389,7 +7741,7 @@ return array (
     'latitude' => 40.77521,
     'longitude' => 29.94624,
   ),
-  932 => 
+  860 => 
   array (
     'id' => 108925,
     'name' => 'İznik',
@@ -8398,7 +7750,7 @@ return array (
     'latitude' => 40.42861,
     'longitude' => 29.72111,
   ),
-  933 => 
+  861 => 
   array (
     'id' => 108928,
     'name' => 'Şabanözü',
@@ -8407,7 +7759,7 @@ return array (
     'latitude' => 40.48333,
     'longitude' => 33.28333,
   ),
-  934 => 
+  862 => 
   array (
     'id' => 108929,
     'name' => 'Şahinbey',
@@ -8416,7 +7768,7 @@ return array (
     'latitude' => 37.03741,
     'longitude' => 37.37822,
   ),
-  935 => 
+  863 => 
   array (
     'id' => 108930,
     'name' => 'Şalpazarı',
@@ -8425,7 +7777,7 @@ return array (
     'latitude' => 40.93826,
     'longitude' => 39.19006,
   ),
-  936 => 
+  864 => 
   array (
     'id' => 108933,
     'name' => 'Şaphane',
@@ -8434,7 +7786,7 @@ return array (
     'latitude' => 39.0273,
     'longitude' => 29.22218,
   ),
-  937 => 
+  865 => 
   array (
     'id' => 108935,
     'name' => 'Şarkikaraağaç',
@@ -8443,7 +7795,7 @@ return array (
     'latitude' => 38.07944,
     'longitude' => 31.36639,
   ),
-  938 => 
+  866 => 
   array (
     'id' => 108937,
     'name' => 'Şarköy',
@@ -8452,7 +7804,7 @@ return array (
     'latitude' => 40.62513,
     'longitude' => 27.10069,
   ),
-  939 => 
+  867 => 
   array (
     'id' => 108938,
     'name' => 'Şarkışla',
@@ -8461,7 +7813,7 @@ return array (
     'latitude' => 39.35186,
     'longitude' => 36.40976,
   ),
-  940 => 
+  868 => 
   array (
     'id' => 108940,
     'name' => 'Şavşat',
@@ -8470,7 +7822,7 @@ return array (
     'latitude' => 41.24027,
     'longitude' => 42.36109,
   ),
-  941 => 
+  869 => 
   array (
     'id' => 108942,
     'name' => 'Şebinkarahisar',
@@ -8479,7 +7831,7 @@ return array (
     'latitude' => 40.28833,
     'longitude' => 38.42361,
   ),
-  942 => 
+  870 => 
   array (
     'id' => 108944,
     'name' => 'Şefaatli',
@@ -8488,7 +7840,7 @@ return array (
     'latitude' => 39.5008,
     'longitude' => 34.76388,
   ),
-  943 => 
+  871 => 
   array (
     'id' => 108946,
     'name' => 'Şehitkamil',
@@ -8497,7 +7849,7 @@ return array (
     'latitude' => 37.17217,
     'longitude' => 37.36974,
   ),
-  944 => 
+  872 => 
   array (
     'id' => 108947,
     'name' => 'Şehzadeler',
@@ -8506,7 +7858,7 @@ return array (
     'latitude' => 38.6166,
     'longitude' => 27.43861,
   ),
-  945 => 
+  873 => 
   array (
     'id' => 108948,
     'name' => 'Şemdinli',
@@ -8515,7 +7867,7 @@ return array (
     'latitude' => 37.30514,
     'longitude' => 44.5742,
   ),
-  946 => 
+  874 => 
   array (
     'id' => 108950,
     'name' => 'Şenkaya',
@@ -8524,7 +7876,7 @@ return array (
     'latitude' => 40.55652,
     'longitude' => 42.34266,
   ),
-  947 => 
+  875 => 
   array (
     'id' => 108954,
     'name' => 'Şenpazar',
@@ -8533,7 +7885,7 @@ return array (
     'latitude' => 41.81651,
     'longitude' => 33.21766,
   ),
-  948 => 
+  876 => 
   array (
     'id' => 108956,
     'name' => 'Şereflikoçhisar',
@@ -8542,7 +7894,7 @@ return array (
     'latitude' => 38.93925,
     'longitude' => 33.5386,
   ),
-  949 => 
+  877 => 
   array (
     'id' => 108958,
     'name' => 'Şile',
@@ -8551,7 +7903,7 @@ return array (
     'latitude' => 41.12902,
     'longitude' => 29.61845,
   ),
-  950 => 
+  878 => 
   array (
     'id' => 108959,
     'name' => 'Şiran',
@@ -8560,7 +7912,7 @@ return array (
     'latitude' => 40.19064,
     'longitude' => 39.11747,
   ),
-  951 => 
+  879 => 
   array (
     'id' => 108961,
     'name' => 'Şirvan',
@@ -8569,7 +7921,7 @@ return array (
     'latitude' => 38.06251,
     'longitude' => 42.02517,
   ),
-  952 => 
+  880 => 
   array (
     'id' => 108963,
     'name' => 'Şişli',
@@ -8578,7 +7930,7 @@ return array (
     'latitude' => 41.12514,
     'longitude' => 29.00013,
   ),
-  953 => 
+  881 => 
   array (
     'id' => 108964,
     'name' => 'Şuhut',
@@ -8587,16 +7939,7 @@ return array (
     'latitude' => 38.53111,
     'longitude' => 30.54583,
   ),
-  954 => 
-  array (
-    'id' => 108966,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 37.51393,
-    'longitude' => 42.45432,
-  ),
-  955 => 
+  882 => 
   array (
     'id' => 142113,
     'name' => 'Boyabat',
@@ -8605,7 +7948,7 @@ return array (
     'latitude' => 41.46889,
     'longitude' => 34.76667,
   ),
-  956 => 
+  883 => 
   array (
     'id' => 142115,
     'name' => 'Dikmen',
@@ -8614,7 +7957,7 @@ return array (
     'latitude' => 41.66,
     'longitude' => 35.27055556,
   ),
-  957 => 
+  884 => 
   array (
     'id' => 142116,
     'name' => 'Durağan',
@@ -8623,7 +7966,7 @@ return array (
     'latitude' => 41.42555556,
     'longitude' => 35.05777778,
   ),
-  958 => 
+  885 => 
   array (
     'id' => 142117,
     'name' => 'Erfelek',
@@ -8632,7 +7975,7 @@ return array (
     'latitude' => 41.87926,
     'longitude' => 34.91838,
   ),
-  959 => 
+  886 => 
   array (
     'id' => 142119,
     'name' => 'Gerze',
@@ -8641,16 +7984,7 @@ return array (
     'latitude' => 41.81,
     'longitude' => 35.19027778,
   ),
-  960 => 
-  array (
-    'id' => 142120,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 41.91835,
-    'longitude' => 35.00687,
-  ),
-  961 => 
+  887 => 
   array (
     'id' => 142121,
     'name' => 'Saraydüzü',
@@ -8659,7 +7993,7 @@ return array (
     'latitude' => 41.33722222,
     'longitude' => 34.85361111,
   ),
-  962 => 
+  888 => 
   array (
     'id' => 142123,
     'name' => 'Türkeli',
@@ -8668,7 +8002,7 @@ return array (
     'latitude' => 41.94777778,
     'longitude' => 34.33861111,
   ),
-  963 => 
+  889 => 
   array (
     'id' => 153352,
     'name' => 'Karesi',
@@ -8677,16 +8011,7 @@ return array (
     'latitude' => 39.648333,
     'longitude' => 27.8825,
   ),
-  964 => 
-  array (
-    'id' => 153353,
-    'name' => 'Merkez',
-    'country_id' => 225,
-    'country_code' => 'TR',
-    'latitude' => 40.6,
-    'longitude' => 33.616667,
-  ),
-  965 => 
+  890 => 
   array (
     'id' => 153354,
     'name' => 'Alacakaya',
@@ -8695,7 +8020,7 @@ return array (
     'latitude' => 38.462698,
     'longitude' => 39.862758,
   ),
-  966 => 
+  891 => 
   array (
     'id' => 153355,
     'name' => 'Derecik',
@@ -8704,7 +8029,7 @@ return array (
     'latitude' => 37.072423,
     'longitude' => 44.324348,
   ),
-  967 => 
+  892 => 
   array (
     'id' => 153356,
     'name' => 'Samandağ',
@@ -8713,7 +8038,7 @@ return array (
     'latitude' => 36.085,
     'longitude' => 35.980556,
   ),
-  968 => 
+  893 => 
   array (
     'id' => 153357,
     'name' => 'Aralık',
@@ -8722,7 +8047,7 @@ return array (
     'latitude' => 39.872778,
     'longitude' => 44.519167,
   ),
-  969 => 
+  894 => 
   array (
     'id' => 153358,
     'name' => 'Çamlıhemşin',
@@ -8731,7 +8056,7 @@ return array (
     'latitude' => 41.045938,
     'longitude' => 41.005275,
   ),
-  970 => 
+  895 => 
   array (
     'id' => 153359,
     'name' => 'Derepazarı',
@@ -8740,7 +8065,7 @@ return array (
     'latitude' => 41.024722,
     'longitude' => 40.425556,
   ),
-  971 => 
+  896 => 
   array (
     'id' => 153360,
     'name' => 'Ayancık',
@@ -8749,7 +8074,7 @@ return array (
     'latitude' => 41.95,
     'longitude' => 34.583333,
   ),
-  972 => 
+  897 => 
   array (
     'id' => 153361,
     'name' => 'Tuşba',
@@ -8758,7 +8083,7 @@ return array (
     'latitude' => 38.521178,
     'longitude' => 43.349093,
   ),
-  973 => 
+  898 => 
   array (
     'id' => 153785,
     'name' => 'İzmir',
@@ -8767,7 +8092,7 @@ return array (
     'latitude' => 38.4178287,
     'longitude' => 26.914903,
   ),
-  974 => 
+  899 => 
   array (
     'id' => 153786,
     'name' => 'Istanbul',
@@ -8776,7 +8101,7 @@ return array (
     'latitude' => 41.0053702,
     'longitude' => 28.6825162,
   ),
-  975 => 
+  900 => 
   array (
     'id' => 153787,
     'name' => 'Ankara',
@@ -8785,7 +8110,7 @@ return array (
     'latitude' => 39.9034367,
     'longitude' => 32.4331003,
   ),
-  976 => 
+  901 => 
   array (
     'id' => 153788,
     'name' => 'Adana',
@@ -8794,7 +8119,7 @@ return array (
     'latitude' => 36.9975753,
     'longitude' => 35.1232526,
   ),
-  977 => 
+  902 => 
   array (
     'id' => 153789,
     'name' => 'Mersin',
@@ -8803,7 +8128,7 @@ return array (
     'latitude' => 36.7428767,
     'longitude' => 34.3640915,
   ),
-  978 => 
+  903 => 
   array (
     'id' => 153790,
     'name' => 'Kayseri',
@@ -8812,7 +8137,7 @@ return array (
     'latitude' => 38.7235532,
     'longitude' => 35.3053732,
   ),
-  979 => 
+  904 => 
   array (
     'id' => 153922,
     'name' => 'Antalya',

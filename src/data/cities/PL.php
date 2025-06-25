@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -48,15 +48,6 @@ return array (
   ),
   5 => 
   array (
-    'id' => 85780,
-    'name' => 'Aleksandrów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.27126,
-    'longitude' => 19.99005,
-  ),
-  6 => 
-  array (
     'id' => 85781,
     'name' => 'Aleksandrów Kujawski',
     'country_id' => 176,
@@ -64,7 +55,7 @@ return array (
     'latitude' => 52.87659,
     'longitude' => 18.69345,
   ),
-  7 => 
+  6 => 
   array (
     'id' => 85782,
     'name' => 'Aleksandrów Łódzki',
@@ -73,7 +64,7 @@ return array (
     'latitude' => 51.81965,
     'longitude' => 19.30384,
   ),
-  8 => 
+  7 => 
   array (
     'id' => 85783,
     'name' => 'Alwernia',
@@ -82,7 +73,7 @@ return array (
     'latitude' => 50.06056,
     'longitude' => 19.53953,
   ),
-  9 => 
+  8 => 
   array (
     'id' => 85784,
     'name' => 'Andrespol',
@@ -91,7 +82,7 @@ return array (
     'latitude' => 51.72783,
     'longitude' => 19.64175,
   ),
-  10 => 
+  9 => 
   array (
     'id' => 85785,
     'name' => 'Andrychów',
@@ -100,7 +91,7 @@ return array (
     'latitude' => 49.85497,
     'longitude' => 19.33834,
   ),
-  11 => 
+  10 => 
   array (
     'id' => 85786,
     'name' => 'Annopol',
@@ -109,7 +100,7 @@ return array (
     'latitude' => 50.88551,
     'longitude' => 21.85678,
   ),
-  12 => 
+  11 => 
   array (
     'id' => 85787,
     'name' => 'Augustów',
@@ -118,7 +109,7 @@ return array (
     'latitude' => 53.84321,
     'longitude' => 22.97979,
   ),
-  13 => 
+  12 => 
   array (
     'id' => 85788,
     'name' => 'Babiak',
@@ -127,7 +118,7 @@ return array (
     'latitude' => 52.3453,
     'longitude' => 18.66663,
   ),
-  14 => 
+  13 => 
   array (
     'id' => 85789,
     'name' => 'Babica',
@@ -136,7 +127,7 @@ return array (
     'latitude' => 49.93476,
     'longitude' => 21.87035,
   ),
-  15 => 
+  14 => 
   array (
     'id' => 85790,
     'name' => 'Babice',
@@ -145,7 +136,7 @@ return array (
     'latitude' => 50.05565,
     'longitude' => 19.19955,
   ),
-  16 => 
+  15 => 
   array (
     'id' => 85791,
     'name' => 'Babimost',
@@ -154,7 +145,7 @@ return array (
     'latitude' => 52.16488,
     'longitude' => 15.82769,
   ),
-  17 => 
+  16 => 
   array (
     'id' => 85792,
     'name' => 'Baborów',
@@ -163,7 +154,7 @@ return array (
     'latitude' => 50.1576,
     'longitude' => 17.98513,
   ),
-  18 => 
+  17 => 
   array (
     'id' => 85793,
     'name' => 'Baboszewo',
@@ -172,7 +163,7 @@ return array (
     'latitude' => 52.6807,
     'longitude' => 20.25527,
   ),
-  19 => 
+  18 => 
   array (
     'id' => 85794,
     'name' => 'Bachowice',
@@ -181,7 +172,7 @@ return array (
     'latitude' => 49.95812,
     'longitude' => 19.49369,
   ),
-  20 => 
+  19 => 
   array (
     'id' => 85795,
     'name' => 'Balice',
@@ -190,7 +181,7 @@ return array (
     'latitude' => 50.08799,
     'longitude' => 19.79462,
   ),
-  21 => 
+  20 => 
   array (
     'id' => 85796,
     'name' => 'Baligród',
@@ -199,7 +190,7 @@ return array (
     'latitude' => 49.3309,
     'longitude' => 22.28566,
   ),
-  22 => 
+  21 => 
   array (
     'id' => 85797,
     'name' => 'Balin',
@@ -208,7 +199,7 @@ return array (
     'latitude' => 50.16799,
     'longitude' => 19.3834,
   ),
-  23 => 
+  22 => 
   array (
     'id' => 85798,
     'name' => 'Banie',
@@ -217,7 +208,7 @@ return array (
     'latitude' => 53.10031,
     'longitude' => 14.66228,
   ),
-  24 => 
+  23 => 
   array (
     'id' => 85799,
     'name' => 'Banie Mazurskie',
@@ -226,7 +217,7 @@ return array (
     'latitude' => 54.24662,
     'longitude' => 22.03617,
   ),
-  25 => 
+  24 => 
   array (
     'id' => 85800,
     'name' => 'Banino',
@@ -235,7 +226,7 @@ return array (
     'latitude' => 54.39215,
     'longitude' => 18.40622,
   ),
-  26 => 
+  25 => 
   array (
     'id' => 85801,
     'name' => 'Baniocha',
@@ -244,7 +235,7 @@ return array (
     'latitude' => 52.01653,
     'longitude' => 21.13984,
   ),
-  27 => 
+  26 => 
   array (
     'id' => 85802,
     'name' => 'Baranowo',
@@ -253,16 +244,7 @@ return array (
     'latitude' => 53.17554,
     'longitude' => 21.29803,
   ),
-  28 => 
-  array (
-    'id' => 85803,
-    'name' => 'Baranowo',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.43525,
-    'longitude' => 16.78631,
-  ),
-  29 => 
+  27 => 
   array (
     'id' => 85804,
     'name' => 'Baranów',
@@ -271,16 +253,7 @@ return array (
     'latitude' => 51.55786,
     'longitude' => 22.13625,
   ),
-  30 => 
-  array (
-    'id' => 85805,
-    'name' => 'Baranów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.26342,
-    'longitude' => 18.0047,
-  ),
-  31 => 
+  28 => 
   array (
     'id' => 85806,
     'name' => 'Baranów Sandomierski',
@@ -289,7 +262,7 @@ return array (
     'latitude' => 50.49912,
     'longitude' => 21.54204,
   ),
-  32 => 
+  29 => 
   array (
     'id' => 85807,
     'name' => 'Barciany',
@@ -298,7 +271,7 @@ return array (
     'latitude' => 54.21993,
     'longitude' => 21.35347,
   ),
-  33 => 
+  30 => 
   array (
     'id' => 85808,
     'name' => 'Barcin',
@@ -307,7 +280,7 @@ return array (
     'latitude' => 52.86607,
     'longitude' => 17.94625,
   ),
-  34 => 
+  31 => 
   array (
     'id' => 85809,
     'name' => 'Barczewo',
@@ -316,7 +289,7 @@ return array (
     'latitude' => 53.83055,
     'longitude' => 20.69112,
   ),
-  35 => 
+  32 => 
   array (
     'id' => 85810,
     'name' => 'Bardo',
@@ -325,7 +298,7 @@ return array (
     'latitude' => 50.50589,
     'longitude' => 16.73986,
   ),
-  36 => 
+  33 => 
   array (
     'id' => 85811,
     'name' => 'Barlinek',
@@ -334,7 +307,7 @@ return array (
     'latitude' => 52.99464,
     'longitude' => 15.21864,
   ),
-  37 => 
+  34 => 
   array (
     'id' => 85812,
     'name' => 'Bartniczka',
@@ -343,7 +316,7 @@ return array (
     'latitude' => 53.24776,
     'longitude' => 19.60433,
   ),
-  38 => 
+  35 => 
   array (
     'id' => 85813,
     'name' => 'Bartoszyce',
@@ -352,7 +325,7 @@ return array (
     'latitude' => 54.25354,
     'longitude' => 20.80819,
   ),
-  39 => 
+  36 => 
   array (
     'id' => 85814,
     'name' => 'Baruchowo',
@@ -361,7 +334,7 @@ return array (
     'latitude' => 52.49412,
     'longitude' => 19.26496,
   ),
-  40 => 
+  37 => 
   array (
     'id' => 85815,
     'name' => 'Barwałd Górny',
@@ -370,7 +343,7 @@ return array (
     'latitude' => 49.86211,
     'longitude' => 19.61746,
   ),
-  41 => 
+  38 => 
   array (
     'id' => 85816,
     'name' => 'Barwałd Średni',
@@ -379,7 +352,7 @@ return array (
     'latitude' => 49.86632,
     'longitude' => 19.5936,
   ),
-  42 => 
+  39 => 
   array (
     'id' => 85817,
     'name' => 'Barwice',
@@ -388,7 +361,7 @@ return array (
     'latitude' => 53.7449,
     'longitude' => 16.3553,
   ),
-  43 => 
+  40 => 
   array (
     'id' => 85818,
     'name' => 'Batorz',
@@ -397,7 +370,7 @@ return array (
     'latitude' => 50.8505,
     'longitude' => 22.49313,
   ),
-  44 => 
+  41 => 
   array (
     'id' => 85819,
     'name' => 'Baćkowice',
@@ -406,7 +379,7 @@ return array (
     'latitude' => 50.79194,
     'longitude' => 21.23211,
   ),
-  45 => 
+  42 => 
   array (
     'id' => 85820,
     'name' => 'Bałtów',
@@ -415,7 +388,7 @@ return array (
     'latitude' => 51.01845,
     'longitude' => 21.54385,
   ),
-  46 => 
+  43 => 
   array (
     'id' => 85821,
     'name' => 'Bażanowice',
@@ -424,7 +397,7 @@ return array (
     'latitude' => 49.73791,
     'longitude' => 18.70345,
   ),
-  47 => 
+  44 => 
   array (
     'id' => 85822,
     'name' => 'Bedlno',
@@ -433,7 +406,7 @@ return array (
     'latitude' => 52.20829,
     'longitude' => 19.57592,
   ),
-  48 => 
+  45 => 
   array (
     'id' => 85823,
     'name' => 'Bejsce',
@@ -442,7 +415,7 @@ return array (
     'latitude' => 50.23903,
     'longitude' => 20.59834,
   ),
-  49 => 
+  46 => 
   array (
     'id' => 85824,
     'name' => 'Bemowo',
@@ -451,7 +424,7 @@ return array (
     'latitude' => 52.2546,
     'longitude' => 20.90844,
   ),
-  50 => 
+  47 => 
   array (
     'id' => 85825,
     'name' => 'Besko',
@@ -460,7 +433,7 @@ return array (
     'latitude' => 49.58757,
     'longitude' => 21.95292,
   ),
-  51 => 
+  48 => 
   array (
     'id' => 85826,
     'name' => 'Bestwina',
@@ -469,7 +442,7 @@ return array (
     'latitude' => 49.89712,
     'longitude' => 19.05776,
   ),
-  52 => 
+  49 => 
   array (
     'id' => 85827,
     'name' => 'Bestwinka',
@@ -478,7 +451,7 @@ return array (
     'latitude' => 49.93272,
     'longitude' => 19.06694,
   ),
-  53 => 
+  50 => 
   array (
     'id' => 85828,
     'name' => 'Bełchatów',
@@ -487,7 +460,7 @@ return array (
     'latitude' => 51.36883,
     'longitude' => 19.35671,
   ),
-  54 => 
+  51 => 
   array (
     'id' => 85829,
     'name' => 'Bełk',
@@ -496,7 +469,7 @@ return array (
     'latitude' => 50.13048,
     'longitude' => 18.71667,
   ),
-  55 => 
+  52 => 
   array (
     'id' => 85830,
     'name' => 'Bełsznica',
@@ -505,7 +478,7 @@ return array (
     'latitude' => 49.97811,
     'longitude' => 18.36313,
   ),
-  56 => 
+  53 => 
   array (
     'id' => 85831,
     'name' => 'Bełżec',
@@ -514,7 +487,7 @@ return array (
     'latitude' => 50.38453,
     'longitude' => 23.43839,
   ),
-  57 => 
+  54 => 
   array (
     'id' => 85832,
     'name' => 'Bełżyce',
@@ -523,7 +496,7 @@ return array (
     'latitude' => 51.17415,
     'longitude' => 22.28027,
   ),
-  58 => 
+  55 => 
   array (
     'id' => 85833,
     'name' => 'Biała',
@@ -532,16 +505,7 @@ return array (
     'latitude' => 50.38587,
     'longitude' => 17.66035,
   ),
-  59 => 
-  array (
-    'id' => 85834,
-    'name' => 'Biała',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.60524,
-    'longitude' => 19.64956,
-  ),
-  60 => 
+  56 => 
   array (
     'id' => 85835,
     'name' => 'Biała Piska',
@@ -550,7 +514,7 @@ return array (
     'latitude' => 53.61191,
     'longitude' => 22.06321,
   ),
-  61 => 
+  57 => 
   array (
     'id' => 85836,
     'name' => 'Biała Podlaska',
@@ -559,7 +523,7 @@ return array (
     'latitude' => 52.03238,
     'longitude' => 23.11652,
   ),
-  62 => 
+  58 => 
   array (
     'id' => 85837,
     'name' => 'Biała Rawska',
@@ -568,7 +532,7 @@ return array (
     'latitude' => 51.80779,
     'longitude' => 20.47259,
   ),
-  63 => 
+  59 => 
   array (
     'id' => 85838,
     'name' => 'Białaczów',
@@ -577,7 +541,7 @@ return array (
     'latitude' => 51.29815,
     'longitude' => 20.29724,
   ),
-  64 => 
+  60 => 
   array (
     'id' => 85839,
     'name' => 'Białe Błota',
@@ -586,7 +550,7 @@ return array (
     'latitude' => 53.09516,
     'longitude' => 17.91621,
   ),
-  65 => 
+  61 => 
   array (
     'id' => 85840,
     'name' => 'Białka',
@@ -595,7 +559,7 @@ return array (
     'latitude' => 49.69306,
     'longitude' => 19.67033,
   ),
-  66 => 
+  62 => 
   array (
     'id' => 85841,
     'name' => 'Białka Tatrzańska',
@@ -604,7 +568,7 @@ return array (
     'latitude' => 49.38975,
     'longitude' => 20.10507,
   ),
-  67 => 
+  63 => 
   array (
     'id' => 85842,
     'name' => 'Białobrzegi',
@@ -613,16 +577,7 @@ return array (
     'latitude' => 50.10252,
     'longitude' => 22.31907,
   ),
-  68 => 
-  array (
-    'id' => 85843,
-    'name' => 'Białobrzegi',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.64695,
-    'longitude' => 20.95041,
-  ),
-  69 => 
+  64 => 
   array (
     'id' => 85844,
     'name' => 'Białogard',
@@ -631,7 +586,7 @@ return array (
     'latitude' => 54.00696,
     'longitude' => 15.98751,
   ),
-  70 => 
+  65 => 
   array (
     'id' => 85845,
     'name' => 'Białowieża',
@@ -640,7 +595,7 @@ return array (
     'latitude' => 52.7,
     'longitude' => 23.86667,
   ),
-  71 => 
+  66 => 
   array (
     'id' => 85846,
     'name' => 'Białołeka',
@@ -649,7 +604,7 @@ return array (
     'latitude' => 52.32127,
     'longitude' => 20.97204,
   ),
-  72 => 
+  67 => 
   array (
     'id' => 85847,
     'name' => 'Białośliwie',
@@ -658,7 +613,7 @@ return array (
     'latitude' => 53.10461,
     'longitude' => 17.12533,
   ),
-  73 => 
+  68 => 
   array (
     'id' => 85848,
     'name' => 'Biały Bór',
@@ -667,7 +622,7 @@ return array (
     'latitude' => 53.8967,
     'longitude' => 16.83543,
   ),
-  74 => 
+  69 => 
   array (
     'id' => 85849,
     'name' => 'Biały Dunajec',
@@ -676,7 +631,7 @@ return array (
     'latitude' => 49.3738,
     'longitude' => 20.00898,
   ),
-  75 => 
+  70 => 
   array (
     'id' => 85850,
     'name' => 'Białystok',
@@ -685,7 +640,7 @@ return array (
     'latitude' => 53.13333,
     'longitude' => 23.16433,
   ),
-  76 => 
+  71 => 
   array (
     'id' => 85851,
     'name' => 'Biecz',
@@ -694,7 +649,7 @@ return array (
     'latitude' => 49.73596,
     'longitude' => 21.26301,
   ),
-  77 => 
+  72 => 
   array (
     'id' => 85852,
     'name' => 'Bielany',
@@ -703,7 +658,7 @@ return array (
     'latitude' => 52.29242,
     'longitude' => 20.93531,
   ),
-  78 => 
+  73 => 
   array (
     'id' => 85853,
     'name' => 'Bielany Wrocławskie',
@@ -712,7 +667,7 @@ return array (
     'latitude' => 51.0361,
     'longitude' => 16.9677,
   ),
-  79 => 
+  74 => 
   array (
     'id' => 85854,
     'name' => 'Bielawa',
@@ -721,7 +676,7 @@ return array (
     'latitude' => 50.69075,
     'longitude' => 16.623,
   ),
-  80 => 
+  75 => 
   array (
     'id' => 85855,
     'name' => 'Bielawy',
@@ -730,7 +685,7 @@ return array (
     'latitude' => 52.07539,
     'longitude' => 19.65557,
   ),
-  81 => 
+  76 => 
   array (
     'id' => 85856,
     'name' => 'Bielice',
@@ -739,7 +694,7 @@ return array (
     'latitude' => 53.20022,
     'longitude' => 14.7276,
   ),
-  82 => 
+  77 => 
   array (
     'id' => 85857,
     'name' => 'Bieliny',
@@ -748,16 +703,7 @@ return array (
     'latitude' => 50.44237,
     'longitude' => 22.30482,
   ),
-  83 => 
-  array (
-    'id' => 85858,
-    'name' => 'Bieliny',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.84947,
-    'longitude' => 20.94149,
-  ),
-  84 => 
+  78 => 
   array (
     'id' => 85859,
     'name' => 'Bielsk',
@@ -766,7 +712,7 @@ return array (
     'latitude' => 52.6718,
     'longitude' => 19.805,
   ),
-  85 => 
+  79 => 
   array (
     'id' => 85860,
     'name' => 'Bielsk Podlaski',
@@ -775,7 +721,7 @@ return array (
     'latitude' => 52.76512,
     'longitude' => 23.18647,
   ),
-  86 => 
+  80 => 
   array (
     'id' => 85861,
     'name' => 'Bielsko-Biala',
@@ -784,7 +730,7 @@ return array (
     'latitude' => 49.82245,
     'longitude' => 19.04686,
   ),
-  87 => 
+  81 => 
   array (
     'id' => 85862,
     'name' => 'Bielsko-Biała',
@@ -793,7 +739,7 @@ return array (
     'latitude' => 49.81204,
     'longitude' => 19.03899,
   ),
-  88 => 
+  82 => 
   array (
     'id' => 85863,
     'name' => 'Bieniewice',
@@ -802,7 +748,7 @@ return array (
     'latitude' => 52.18268,
     'longitude' => 20.56306,
   ),
-  89 => 
+  83 => 
   array (
     'id' => 85864,
     'name' => 'Bierawa',
@@ -811,7 +757,7 @@ return array (
     'latitude' => 50.28111,
     'longitude' => 18.24177,
   ),
-  90 => 
+  84 => 
   array (
     'id' => 85865,
     'name' => 'Bierdzany',
@@ -820,7 +766,7 @@ return array (
     'latitude' => 50.81852,
     'longitude' => 18.15808,
   ),
-  91 => 
+  85 => 
   array (
     'id' => 85866,
     'name' => 'Bierutów',
@@ -829,7 +775,7 @@ return array (
     'latitude' => 51.12443,
     'longitude' => 17.54607,
   ),
-  92 => 
+  86 => 
   array (
     'id' => 85867,
     'name' => 'Bieruń',
@@ -838,7 +784,7 @@ return array (
     'latitude' => 50.09,
     'longitude' => 19.09291,
   ),
-  93 => 
+  87 => 
   array (
     'id' => 85868,
     'name' => 'Bierzwnik',
@@ -847,7 +793,7 @@ return array (
     'latitude' => 53.03567,
     'longitude' => 15.665,
   ),
-  94 => 
+  88 => 
   array (
     'id' => 85869,
     'name' => 'Bieńkówka',
@@ -856,7 +802,7 @@ return array (
     'latitude' => 49.776,
     'longitude' => 19.77179,
   ),
-  95 => 
+  89 => 
   array (
     'id' => 85870,
     'name' => 'Bieżuń',
@@ -865,7 +811,7 @@ return array (
     'latitude' => 52.96107,
     'longitude' => 19.88976,
   ),
-  96 => 
+  90 => 
   array (
     'id' => 85871,
     'name' => 'Binarowa',
@@ -874,7 +820,7 @@ return array (
     'latitude' => 49.75621,
     'longitude' => 21.22816,
   ),
-  97 => 
+  91 => 
   array (
     'id' => 85872,
     'name' => 'Bircza',
@@ -883,7 +829,7 @@ return array (
     'latitude' => 49.69173,
     'longitude' => 22.47854,
   ),
-  98 => 
+  92 => 
   array (
     'id' => 85873,
     'name' => 'Biskupice Radłowskie',
@@ -892,7 +838,7 @@ return array (
     'latitude' => 50.12069,
     'longitude' => 20.85943,
   ),
-  99 => 
+  93 => 
   array (
     'id' => 85874,
     'name' => 'Biskupiec',
@@ -901,7 +847,7 @@ return array (
     'latitude' => 53.86467,
     'longitude' => 20.95692,
   ),
-  100 => 
+  94 => 
   array (
     'id' => 85875,
     'name' => 'Biskupin',
@@ -910,7 +856,7 @@ return array (
     'latitude' => 51.10097,
     'longitude' => 17.10442,
   ),
-  101 => 
+  95 => 
   array (
     'id' => 85876,
     'name' => 'Biszcza',
@@ -919,7 +865,7 @@ return array (
     'latitude' => 50.40146,
     'longitude' => 22.65063,
   ),
-  102 => 
+  96 => 
   array (
     'id' => 85877,
     'name' => 'Bisztynek',
@@ -928,7 +874,7 @@ return array (
     'latitude' => 54.08633,
     'longitude' => 20.90192,
   ),
-  103 => 
+  97 => 
   array (
     'id' => 85878,
     'name' => 'Biłgoraj',
@@ -937,7 +883,7 @@ return array (
     'latitude' => 50.54114,
     'longitude' => 22.72204,
   ),
-  104 => 
+  98 => 
   array (
     'id' => 85879,
     'name' => 'Blachownia',
@@ -946,7 +892,7 @@ return array (
     'latitude' => 50.78015,
     'longitude' => 18.96389,
   ),
-  105 => 
+  99 => 
   array (
     'id' => 85880,
     'name' => 'Bledzew',
@@ -955,7 +901,7 @@ return array (
     'latitude' => 52.51711,
     'longitude' => 15.41382,
   ),
-  106 => 
+  100 => 
   array (
     'id' => 85881,
     'name' => 'Blizanów',
@@ -964,7 +910,7 @@ return array (
     'latitude' => 51.90372,
     'longitude' => 18.01003,
   ),
-  107 => 
+  101 => 
   array (
     'id' => 85882,
     'name' => 'Blizne',
@@ -973,7 +919,7 @@ return array (
     'latitude' => 49.75332,
     'longitude' => 21.97351,
   ),
-  108 => 
+  102 => 
   array (
     'id' => 85883,
     'name' => 'Bliżyn',
@@ -982,7 +928,7 @@ return array (
     'latitude' => 51.10778,
     'longitude' => 20.75935,
   ),
-  109 => 
+  103 => 
   array (
     'id' => 85884,
     'name' => 'Bobolice',
@@ -991,7 +937,7 @@ return array (
     'latitude' => 53.95508,
     'longitude' => 16.58893,
   ),
-  110 => 
+  104 => 
   array (
     'id' => 85885,
     'name' => 'Bobowa',
@@ -1000,7 +946,7 @@ return array (
     'latitude' => 49.70866,
     'longitude' => 20.94767,
   ),
-  111 => 
+  105 => 
   array (
     'id' => 85886,
     'name' => 'Bobowo',
@@ -1009,7 +955,7 @@ return array (
     'latitude' => 53.88378,
     'longitude' => 18.55681,
   ),
-  112 => 
+  106 => 
   array (
     'id' => 85887,
     'name' => 'Bobrowice',
@@ -1018,7 +964,7 @@ return array (
     'latitude' => 51.9485,
     'longitude' => 15.09058,
   ),
-  113 => 
+  107 => 
   array (
     'id' => 85888,
     'name' => 'Bobrowniki',
@@ -1027,25 +973,7 @@ return array (
     'latitude' => 52.06442,
     'longitude' => 20.01949,
   ),
-  114 => 
-  array (
-    'id' => 85889,
-    'name' => 'Bobrowniki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.78086,
-    'longitude' => 18.96026,
-  ),
-  115 => 
-  array (
-    'id' => 85890,
-    'name' => 'Bobrowniki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.37985,
-    'longitude' => 18.98661,
-  ),
-  116 => 
+  108 => 
   array (
     'id' => 85891,
     'name' => 'Bobrowo',
@@ -1054,7 +982,7 @@ return array (
     'latitude' => 53.28549,
     'longitude' => 19.27053,
   ),
-  117 => 
+  109 => 
   array (
     'id' => 85892,
     'name' => 'Bochnia',
@@ -1063,7 +991,7 @@ return array (
     'latitude' => 49.96905,
     'longitude' => 20.43028,
   ),
-  118 => 
+  110 => 
   array (
     'id' => 85893,
     'name' => 'Bodzanów',
@@ -1072,7 +1000,7 @@ return array (
     'latitude' => 52.49992,
     'longitude' => 20.02945,
   ),
-  119 => 
+  111 => 
   array (
     'id' => 85894,
     'name' => 'Bodzentyn',
@@ -1081,7 +1009,7 @@ return array (
     'latitude' => 50.94115,
     'longitude' => 20.95719,
   ),
-  120 => 
+  112 => 
   array (
     'id' => 85895,
     'name' => 'Bogatynia',
@@ -1090,7 +1018,7 @@ return array (
     'latitude' => 50.90747,
     'longitude' => 14.95634,
   ),
-  121 => 
+  113 => 
   array (
     'id' => 85896,
     'name' => 'Bogdaniec',
@@ -1099,7 +1027,7 @@ return array (
     'latitude' => 52.68897,
     'longitude' => 15.07127,
   ),
-  122 => 
+  114 => 
   array (
     'id' => 85897,
     'name' => 'Bogoria',
@@ -1108,7 +1036,7 @@ return array (
     'latitude' => 50.65175,
     'longitude' => 21.26,
   ),
-  123 => 
+  115 => 
   array (
     'id' => 85898,
     'name' => 'Boguchwała',
@@ -1117,7 +1045,7 @@ return array (
     'latitude' => 49.98473,
     'longitude' => 21.94528,
   ),
-  124 => 
+  116 => 
   array (
     'id' => 85899,
     'name' => 'Boguszów-Gorce',
@@ -1126,7 +1054,7 @@ return array (
     'latitude' => 50.75514,
     'longitude' => 16.20494,
   ),
-  125 => 
+  117 => 
   array (
     'id' => 85900,
     'name' => 'Boguty-Pianki',
@@ -1135,7 +1063,7 @@ return array (
     'latitude' => 52.7168,
     'longitude' => 22.41546,
   ),
-  126 => 
+  118 => 
   array (
     'id' => 85901,
     'name' => 'Bojadła',
@@ -1144,7 +1072,7 @@ return array (
     'latitude' => 51.95321,
     'longitude' => 15.81036,
   ),
-  127 => 
+  119 => 
   array (
     'id' => 85902,
     'name' => 'Bojano',
@@ -1153,7 +1081,7 @@ return array (
     'latitude' => 54.47123,
     'longitude' => 18.38408,
   ),
-  128 => 
+  120 => 
   array (
     'id' => 85903,
     'name' => 'Bojanowo',
@@ -1162,7 +1090,7 @@ return array (
     'latitude' => 51.70749,
     'longitude' => 16.74827,
   ),
-  129 => 
+  121 => 
   array (
     'id' => 85904,
     'name' => 'Bojanowo Stare',
@@ -1171,7 +1099,7 @@ return array (
     'latitude' => 51.99302,
     'longitude' => 16.58369,
   ),
-  130 => 
+  122 => 
   array (
     'id' => 85905,
     'name' => 'Bojanów',
@@ -1180,7 +1108,7 @@ return array (
     'latitude' => 50.42531,
     'longitude' => 21.95111,
   ),
-  131 => 
+  123 => 
   array (
     'id' => 85906,
     'name' => 'Bojszowy',
@@ -1189,7 +1117,7 @@ return array (
     'latitude' => 50.0578,
     'longitude' => 19.10145,
   ),
-  132 => 
+  124 => 
   array (
     'id' => 85907,
     'name' => 'Bojszowy Nowe',
@@ -1198,7 +1126,7 @@ return array (
     'latitude' => 50.05284,
     'longitude' => 19.05012,
   ),
-  133 => 
+  125 => 
   array (
     'id' => 85908,
     'name' => 'Bolechowice',
@@ -1207,7 +1135,7 @@ return array (
     'latitude' => 50.14831,
     'longitude' => 19.79273,
   ),
-  134 => 
+  126 => 
   array (
     'id' => 85909,
     'name' => 'Boleszkowice',
@@ -1216,7 +1144,7 @@ return array (
     'latitude' => 52.72493,
     'longitude' => 14.56901,
   ),
-  135 => 
+  127 => 
   array (
     'id' => 85910,
     'name' => 'Bolesław',
@@ -1225,7 +1153,7 @@ return array (
     'latitude' => 50.29729,
     'longitude' => 19.48073,
   ),
-  136 => 
+  128 => 
   array (
     'id' => 85911,
     'name' => 'Bolesławiec',
@@ -1234,16 +1162,7 @@ return array (
     'latitude' => 51.26418,
     'longitude' => 15.5697,
   ),
-  137 => 
-  array (
-    'id' => 85912,
-    'name' => 'Bolesławiec',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.19866,
-    'longitude' => 18.19147,
-  ),
-  138 => 
+  129 => 
   array (
     'id' => 85913,
     'name' => 'Bolimów',
@@ -1252,7 +1171,7 @@ return array (
     'latitude' => 52.07671,
     'longitude' => 20.16352,
   ),
-  139 => 
+  130 => 
   array (
     'id' => 85914,
     'name' => 'Bolków',
@@ -1261,7 +1180,7 @@ return array (
     'latitude' => 50.92203,
     'longitude' => 16.10111,
   ),
-  140 => 
+  131 => 
   array (
     'id' => 85915,
     'name' => 'Bolszewo',
@@ -1270,7 +1189,7 @@ return array (
     'latitude' => 54.61801,
     'longitude' => 18.17585,
   ),
-  141 => 
+  132 => 
   array (
     'id' => 85916,
     'name' => 'Bolęcin',
@@ -1279,7 +1198,7 @@ return array (
     'latitude' => 50.1175,
     'longitude' => 19.48116,
   ),
-  142 => 
+  133 => 
   array (
     'id' => 85917,
     'name' => 'Boniewo',
@@ -1288,7 +1207,7 @@ return array (
     'latitude' => 52.46532,
     'longitude' => 18.89116,
   ),
-  143 => 
+  134 => 
   array (
     'id' => 85918,
     'name' => 'Borek',
@@ -1297,7 +1216,7 @@ return array (
     'latitude' => 50.01778,
     'longitude' => 20.53087,
   ),
-  144 => 
+  135 => 
   array (
     'id' => 85919,
     'name' => 'Borek Wielkopolski',
@@ -1306,7 +1225,7 @@ return array (
     'latitude' => 51.91674,
     'longitude' => 17.24133,
   ),
-  145 => 
+  136 => 
   array (
     'id' => 85920,
     'name' => 'Borki',
@@ -1315,7 +1234,7 @@ return array (
     'latitude' => 51.72161,
     'longitude' => 22.52129,
   ),
-  146 => 
+  137 => 
   array (
     'id' => 85921,
     'name' => 'Borkowice',
@@ -1324,7 +1243,7 @@ return array (
     'latitude' => 51.32025,
     'longitude' => 20.68339,
   ),
-  147 => 
+  138 => 
   array (
     'id' => 85922,
     'name' => 'Borne Sulinowo',
@@ -1333,7 +1252,7 @@ return array (
     'latitude' => 53.57661,
     'longitude' => 16.53395,
   ),
-  148 => 
+  139 => 
   array (
     'id' => 85923,
     'name' => 'Boronów',
@@ -1342,7 +1261,7 @@ return array (
     'latitude' => 50.6746,
     'longitude' => 18.90678,
   ),
-  149 => 
+  140 => 
   array (
     'id' => 85924,
     'name' => 'Borowa',
@@ -1351,7 +1270,7 @@ return array (
     'latitude' => 50.38548,
     'longitude' => 21.3515,
   ),
-  150 => 
+  141 => 
   array (
     'id' => 85925,
     'name' => 'Borowie',
@@ -1360,7 +1279,7 @@ return array (
     'latitude' => 51.94908,
     'longitude' => 21.7658,
   ),
-  151 => 
+  142 => 
   array (
     'id' => 85926,
     'name' => 'Borowno',
@@ -1369,7 +1288,7 @@ return array (
     'latitude' => 50.93247,
     'longitude' => 19.2738,
   ),
-  152 => 
+  143 => 
   array (
     'id' => 85927,
     'name' => 'Borucin',
@@ -1378,7 +1297,7 @@ return array (
     'latitude' => 50.00763,
     'longitude' => 18.15748,
   ),
-  153 => 
+  144 => 
   array (
     'id' => 85928,
     'name' => 'Borzechów',
@@ -1387,7 +1306,7 @@ return array (
     'latitude' => 51.09258,
     'longitude' => 22.28414,
   ),
-  154 => 
+  145 => 
   array (
     'id' => 85929,
     'name' => 'Borzytuchom',
@@ -1396,7 +1315,7 @@ return array (
     'latitude' => 54.20021,
     'longitude' => 17.36801,
   ),
-  155 => 
+  146 => 
   array (
     'id' => 85930,
     'name' => 'Borzęcin',
@@ -1405,7 +1324,7 @@ return array (
     'latitude' => 50.0654,
     'longitude' => 20.71103,
   ),
-  156 => 
+  147 => 
   array (
     'id' => 85931,
     'name' => 'Borzęta',
@@ -1414,7 +1333,7 @@ return array (
     'latitude' => 49.86228,
     'longitude' => 19.97924,
   ),
-  157 => 
+  148 => 
   array (
     'id' => 85932,
     'name' => 'Bozkow',
@@ -1423,7 +1342,7 @@ return array (
     'latitude' => 50.51315,
     'longitude' => 16.57528,
   ),
-  158 => 
+  149 => 
   array (
     'id' => 85933,
     'name' => 'Boćki',
@@ -1432,7 +1351,7 @@ return array (
     'latitude' => 52.65155,
     'longitude' => 23.04485,
   ),
-  159 => 
+  150 => 
   array (
     'id' => 85934,
     'name' => 'Bralin',
@@ -1441,7 +1360,7 @@ return array (
     'latitude' => 51.28581,
     'longitude' => 17.90325,
   ),
-  160 => 
+  151 => 
   array (
     'id' => 85935,
     'name' => 'Branice',
@@ -1450,7 +1369,7 @@ return array (
     'latitude' => 50.05108,
     'longitude' => 17.79399,
   ),
-  161 => 
+  152 => 
   array (
     'id' => 85936,
     'name' => 'Braniewo',
@@ -1459,7 +1378,7 @@ return array (
     'latitude' => 54.37971,
     'longitude' => 19.81959,
   ),
-  162 => 
+  153 => 
   array (
     'id' => 85937,
     'name' => 'Brańsk',
@@ -1468,7 +1387,7 @@ return array (
     'latitude' => 52.7444,
     'longitude' => 22.83774,
   ),
-  163 => 
+  154 => 
   array (
     'id' => 85938,
     'name' => 'Brańszczyk',
@@ -1477,7 +1396,7 @@ return array (
     'latitude' => 52.62931,
     'longitude' => 21.58745,
   ),
-  164 => 
+  155 => 
   array (
     'id' => 85939,
     'name' => 'Brdów',
@@ -1486,7 +1405,7 @@ return array (
     'latitude' => 52.3539,
     'longitude' => 18.7298,
   ),
-  165 => 
+  156 => 
   array (
     'id' => 85940,
     'name' => 'Brenna',
@@ -1495,7 +1414,7 @@ return array (
     'latitude' => 49.72576,
     'longitude' => 18.90249,
   ),
-  166 => 
+  157 => 
   array (
     'id' => 85941,
     'name' => 'Brenno',
@@ -1504,7 +1423,7 @@ return array (
     'latitude' => 51.92257,
     'longitude' => 16.21488,
   ),
-  167 => 
+  158 => 
   array (
     'id' => 85942,
     'name' => 'Brochów',
@@ -1513,7 +1432,7 @@ return array (
     'latitude' => 52.3195,
     'longitude' => 20.26257,
   ),
-  168 => 
+  159 => 
   array (
     'id' => 85943,
     'name' => 'Brodnica',
@@ -1522,16 +1441,7 @@ return array (
     'latitude' => 53.25967,
     'longitude' => 19.39653,
   ),
-  169 => 
-  array (
-    'id' => 85944,
-    'name' => 'Brodnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.14123,
-    'longitude' => 16.89096,
-  ),
-  170 => 
+  160 => 
   array (
     'id' => 85945,
     'name' => 'Brody',
@@ -1540,25 +1450,7 @@ return array (
     'latitude' => 51.02466,
     'longitude' => 21.22147,
   ),
-  171 => 
-  array (
-    'id' => 85946,
-    'name' => 'Brody',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.86742,
-    'longitude' => 19.69746,
-  ),
-  172 => 
-  array (
-    'id' => 85947,
-    'name' => 'Brody',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.79046,
-    'longitude' => 14.77335,
-  ),
-  173 => 
+  161 => 
   array (
     'id' => 85948,
     'name' => 'Brody-Parcele',
@@ -1567,7 +1459,7 @@ return array (
     'latitude' => 52.47797,
     'longitude' => 20.74974,
   ),
-  174 => 
+  162 => 
   array (
     'id' => 85949,
     'name' => 'Brodła',
@@ -1576,7 +1468,7 @@ return array (
     'latitude' => 50.04331,
     'longitude' => 19.58879,
   ),
-  175 => 
+  163 => 
   array (
     'id' => 85950,
     'name' => 'Brojce',
@@ -1585,7 +1477,7 @@ return array (
     'latitude' => 53.95705,
     'longitude' => 15.35975,
   ),
-  176 => 
+  164 => 
   array (
     'id' => 85951,
     'name' => 'Brok',
@@ -1594,7 +1486,7 @@ return array (
     'latitude' => 52.69948,
     'longitude' => 21.85704,
   ),
-  177 => 
+  165 => 
   array (
     'id' => 85952,
     'name' => 'Broniszewice',
@@ -1603,7 +1495,7 @@ return array (
     'latitude' => 51.96696,
     'longitude' => 17.81648,
   ),
-  178 => 
+  166 => 
   array (
     'id' => 85953,
     'name' => 'Bronów',
@@ -1612,7 +1504,7 @@ return array (
     'latitude' => 49.87782,
     'longitude' => 18.92103,
   ),
-  179 => 
+  167 => 
   array (
     'id' => 85954,
     'name' => 'Brudzew',
@@ -1621,7 +1513,7 @@ return array (
     'latitude' => 52.09949,
     'longitude' => 18.60432,
   ),
-  180 => 
+  168 => 
   array (
     'id' => 85955,
     'name' => 'Brudzeń Duży',
@@ -1630,7 +1522,7 @@ return array (
     'latitude' => 52.66884,
     'longitude' => 19.50399,
   ),
-  181 => 
+  169 => 
   array (
     'id' => 85956,
     'name' => 'Brusy',
@@ -1639,7 +1531,7 @@ return array (
     'latitude' => 53.88446,
     'longitude' => 17.71786,
   ),
-  182 => 
+  170 => 
   array (
     'id' => 85957,
     'name' => 'Brwinów',
@@ -1648,7 +1540,7 @@ return array (
     'latitude' => 52.14269,
     'longitude' => 20.71697,
   ),
-  183 => 
+  171 => 
   array (
     'id' => 85958,
     'name' => 'Brzeg',
@@ -1657,7 +1549,7 @@ return array (
     'latitude' => 50.86079,
     'longitude' => 17.4674,
   ),
-  184 => 
+  172 => 
   array (
     'id' => 85959,
     'name' => 'Brzeg Dolny',
@@ -1666,7 +1558,7 @@ return array (
     'latitude' => 51.27299,
     'longitude' => 16.70815,
   ),
-  185 => 
+  173 => 
   array (
     'id' => 85960,
     'name' => 'Brzesko',
@@ -1675,7 +1567,7 @@ return array (
     'latitude' => 49.96911,
     'longitude' => 20.60606,
   ),
-  186 => 
+  174 => 
   array (
     'id' => 85961,
     'name' => 'Brzeszcze',
@@ -1684,7 +1576,7 @@ return array (
     'latitude' => 49.98203,
     'longitude' => 19.15157,
   ),
-  187 => 
+  175 => 
   array (
     'id' => 85962,
     'name' => 'Brzezinka',
@@ -1693,7 +1585,7 @@ return array (
     'latitude' => 50.04237,
     'longitude' => 19.1902,
   ),
-  188 => 
+  176 => 
   array (
     'id' => 85963,
     'name' => 'Brzeziny',
@@ -1702,16 +1594,7 @@ return array (
     'latitude' => 50.77273,
     'longitude' => 20.57319,
   ),
-  189 => 
-  array (
-    'id' => 85964,
-    'name' => 'Brzeziny',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.80023,
-    'longitude' => 19.75144,
-  ),
-  190 => 
+  177 => 
   array (
     'id' => 85965,
     'name' => 'Brzeziny Śląskie',
@@ -1720,7 +1603,7 @@ return array (
     'latitude' => 50.35439,
     'longitude' => 18.98129,
   ),
-  191 => 
+  178 => 
   array (
     'id' => 85966,
     'name' => 'Brześć Kujawski',
@@ -1729,7 +1612,7 @@ return array (
     'latitude' => 52.60532,
     'longitude' => 18.90173,
   ),
-  192 => 
+  179 => 
   array (
     'id' => 85967,
     'name' => 'Brzeźnica',
@@ -1738,16 +1621,7 @@ return array (
     'latitude' => 50.10065,
     'longitude' => 21.48025,
   ),
-  193 => 
-  array (
-    'id' => 85968,
-    'name' => 'Brzeźnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.96497,
-    'longitude' => 19.61952,
-  ),
-  194 => 
+  180 => 
   array (
     'id' => 85969,
     'name' => 'Brzeźnio',
@@ -1756,7 +1630,7 @@ return array (
     'latitude' => 51.494,
     'longitude' => 18.62234,
   ),
-  195 => 
+  181 => 
   array (
     'id' => 85970,
     'name' => 'Brzostek',
@@ -1765,7 +1639,7 @@ return array (
     'latitude' => 49.87954,
     'longitude' => 21.41102,
   ),
-  196 => 
+  182 => 
   array (
     'id' => 85971,
     'name' => 'Brzozie',
@@ -1774,7 +1648,7 @@ return array (
     'latitude' => 53.32554,
     'longitude' => 19.60485,
   ),
-  197 => 
+  183 => 
   array (
     'id' => 85972,
     'name' => 'Brzozów',
@@ -1783,7 +1657,7 @@ return array (
     'latitude' => 49.69501,
     'longitude' => 22.01926,
   ),
-  198 => 
+  184 => 
   array (
     'id' => 85973,
     'name' => 'Brzuze',
@@ -1792,7 +1666,7 @@ return array (
     'latitude' => 53.05458,
     'longitude' => 19.26195,
   ),
-  199 => 
+  185 => 
   array (
     'id' => 85974,
     'name' => 'Brzyska',
@@ -1801,7 +1675,7 @@ return array (
     'latitude' => 49.82226,
     'longitude' => 21.39004,
   ),
-  200 => 
+  186 => 
   array (
     'id' => 85975,
     'name' => 'Brzóza Królewska',
@@ -1810,7 +1684,7 @@ return array (
     'latitude' => 50.23908,
     'longitude' => 22.32559,
   ),
-  201 => 
+  187 => 
   array (
     'id' => 85976,
     'name' => 'Brzóza Stadnicka',
@@ -1819,7 +1693,7 @@ return array (
     'latitude' => 50.19965,
     'longitude' => 22.28233,
   ),
-  202 => 
+  188 => 
   array (
     'id' => 85977,
     'name' => 'Brzączowice',
@@ -1828,7 +1702,7 @@ return array (
     'latitude' => 49.87478,
     'longitude' => 20.03709,
   ),
-  203 => 
+  189 => 
   array (
     'id' => 85978,
     'name' => 'Brójce',
@@ -1837,16 +1711,7 @@ return array (
     'latitude' => 51.66436,
     'longitude' => 19.64802,
   ),
-  204 => 
-  array (
-    'id' => 85979,
-    'name' => 'Brójce',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.31745,
-    'longitude' => 15.67414,
-  ),
-  205 => 
+  190 => 
   array (
     'id' => 85980,
     'name' => 'Brąszewice',
@@ -1855,7 +1720,7 @@ return array (
     'latitude' => 51.49902,
     'longitude' => 18.44982,
   ),
-  206 => 
+  191 => 
   array (
     'id' => 85981,
     'name' => 'Buczek',
@@ -1864,7 +1729,7 @@ return array (
     'latitude' => 51.50228,
     'longitude' => 19.16419,
   ),
-  207 => 
+  192 => 
   array (
     'id' => 85982,
     'name' => 'Buczkowice',
@@ -1873,7 +1738,7 @@ return array (
     'latitude' => 49.72858,
     'longitude' => 19.06908,
   ),
-  208 => 
+  193 => 
   array (
     'id' => 85983,
     'name' => 'Budziszewice',
@@ -1882,7 +1747,7 @@ return array (
     'latitude' => 51.66739,
     'longitude' => 19.93581,
   ),
-  209 => 
+  194 => 
   array (
     'id' => 85984,
     'name' => 'Budzyń',
@@ -1891,7 +1756,7 @@ return array (
     'latitude' => 52.88954,
     'longitude' => 16.98812,
   ),
-  210 => 
+  195 => 
   array (
     'id' => 85985,
     'name' => 'Budzów',
@@ -1900,16 +1765,7 @@ return array (
     'latitude' => 50.59337,
     'longitude' => 16.71038,
   ),
-  211 => 
-  array (
-    'id' => 85986,
-    'name' => 'Budzów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.77622,
-    'longitude' => 19.67274,
-  ),
-  212 => 
+  196 => 
   array (
     'id' => 85987,
     'name' => 'Bujaków',
@@ -1918,7 +1774,7 @@ return array (
     'latitude' => 49.85182,
     'longitude' => 19.19432,
   ),
-  213 => 
+  197 => 
   array (
     'id' => 85988,
     'name' => 'Buk',
@@ -1927,7 +1783,7 @@ return array (
     'latitude' => 52.35532,
     'longitude' => 16.51958,
   ),
-  214 => 
+  198 => 
   array (
     'id' => 85989,
     'name' => 'Bukowiec',
@@ -1936,7 +1792,7 @@ return array (
     'latitude' => 53.43383,
     'longitude' => 18.24048,
   ),
-  215 => 
+  199 => 
   array (
     'id' => 85990,
     'name' => 'Bukowina Tatrzańska',
@@ -1945,7 +1801,7 @@ return array (
     'latitude' => 49.34302,
     'longitude' => 20.10807,
   ),
-  216 => 
+  200 => 
   array (
     'id' => 85991,
     'name' => 'Bukowno',
@@ -1954,7 +1810,7 @@ return array (
     'latitude' => 50.26474,
     'longitude' => 19.45962,
   ),
-  217 => 
+  201 => 
   array (
     'id' => 85992,
     'name' => 'Bukowsko',
@@ -1963,7 +1819,7 @@ return array (
     'latitude' => 49.48039,
     'longitude' => 22.06329,
   ),
-  218 => 
+  202 => 
   array (
     'id' => 85993,
     'name' => 'Bulkowo',
@@ -1972,7 +1828,7 @@ return array (
     'latitude' => 52.54087,
     'longitude' => 20.11889,
   ),
-  219 => 
+  203 => 
   array (
     'id' => 85994,
     'name' => 'Bulowice',
@@ -1981,7 +1837,7 @@ return array (
     'latitude' => 49.8765,
     'longitude' => 19.28873,
   ),
-  220 => 
+  204 => 
   array (
     'id' => 85995,
     'name' => 'Burzenin',
@@ -1990,7 +1846,7 @@ return array (
     'latitude' => 51.46077,
     'longitude' => 18.83233,
   ),
-  221 => 
+  205 => 
   array (
     'id' => 85996,
     'name' => 'Busko-Zdrój',
@@ -1999,7 +1855,7 @@ return array (
     'latitude' => 50.47078,
     'longitude' => 20.71884,
   ),
-  222 => 
+  206 => 
   array (
     'id' => 85997,
     'name' => 'Bychawa',
@@ -2008,7 +1864,7 @@ return array (
     'latitude' => 51.01608,
     'longitude' => 22.53296,
   ),
-  223 => 
+  207 => 
   array (
     'id' => 85998,
     'name' => 'Byczyna',
@@ -2017,7 +1873,7 @@ return array (
     'latitude' => 51.11387,
     'longitude' => 18.21413,
   ),
-  224 => 
+  208 => 
   array (
     'id' => 85999,
     'name' => 'Bydgoszcz',
@@ -2026,7 +1882,7 @@ return array (
     'latitude' => 53.1235,
     'longitude' => 18.00762,
   ),
-  225 => 
+  209 => 
   array (
     'id' => 86000,
     'name' => 'Bystra',
@@ -2035,16 +1891,7 @@ return array (
     'latitude' => 49.64796,
     'longitude' => 19.77994,
   ),
-  226 => 
-  array (
-    'id' => 86001,
-    'name' => 'Bystra',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.76042,
-    'longitude' => 19.05973,
-  ),
-  227 => 
+  210 => 
   array (
     'id' => 86002,
     'name' => 'Bystrzyca',
@@ -2053,7 +1900,7 @@ return array (
     'latitude' => 50.96048,
     'longitude' => 17.39702,
   ),
-  228 => 
+  211 => 
   array (
     'id' => 86003,
     'name' => 'Bystrzyca Kłodzka',
@@ -2062,7 +1909,7 @@ return array (
     'latitude' => 50.30179,
     'longitude' => 16.64231,
   ),
-  229 => 
+  212 => 
   array (
     'id' => 86004,
     'name' => 'Bytnica',
@@ -2071,7 +1918,7 @@ return array (
     'latitude' => 52.15066,
     'longitude' => 15.16946,
   ),
-  230 => 
+  213 => 
   array (
     'id' => 86005,
     'name' => 'Bytom',
@@ -2080,7 +1927,7 @@ return array (
     'latitude' => 50.34802,
     'longitude' => 18.93282,
   ),
-  231 => 
+  214 => 
   array (
     'id' => 86006,
     'name' => 'Bytom Odrzański',
@@ -2089,7 +1936,7 @@ return array (
     'latitude' => 51.73062,
     'longitude' => 15.82362,
   ),
-  232 => 
+  215 => 
   array (
     'id' => 86007,
     'name' => 'Bytoń',
@@ -2098,7 +1945,7 @@ return array (
     'latitude' => 52.55757,
     'longitude' => 18.59522,
   ),
-  233 => 
+  216 => 
   array (
     'id' => 86008,
     'name' => 'Bytów',
@@ -2107,7 +1954,7 @@ return array (
     'latitude' => 54.17057,
     'longitude' => 17.49187,
   ),
-  234 => 
+  217 => 
   array (
     'id' => 86009,
     'name' => 'Bąków',
@@ -2116,7 +1963,7 @@ return array (
     'latitude' => 49.89342,
     'longitude' => 18.71495,
   ),
-  235 => 
+  218 => 
   array (
     'id' => 86010,
     'name' => 'Bębło',
@@ -2125,7 +1972,7 @@ return array (
     'latitude' => 50.18053,
     'longitude' => 19.78741,
   ),
-  236 => 
+  219 => 
   array (
     'id' => 86011,
     'name' => 'Bęczarka',
@@ -2134,7 +1981,7 @@ return array (
     'latitude' => 49.87793,
     'longitude' => 19.86723,
   ),
-  237 => 
+  220 => 
   array (
     'id' => 86012,
     'name' => 'Będków',
@@ -2143,7 +1990,7 @@ return array (
     'latitude' => 51.58763,
     'longitude' => 19.74956,
   ),
-  238 => 
+  221 => 
   array (
     'id' => 86013,
     'name' => 'Będzin',
@@ -2152,7 +1999,7 @@ return array (
     'latitude' => 50.32607,
     'longitude' => 19.12565,
   ),
-  239 => 
+  222 => 
   array (
     'id' => 86014,
     'name' => 'Błaszki',
@@ -2161,7 +2008,7 @@ return array (
     'latitude' => 51.65163,
     'longitude' => 18.43472,
   ),
-  240 => 
+  223 => 
   array (
     'id' => 86015,
     'name' => 'Błażowa',
@@ -2170,7 +2017,7 @@ return array (
     'latitude' => 49.88521,
     'longitude' => 22.10037,
   ),
-  241 => 
+  224 => 
   array (
     'id' => 86016,
     'name' => 'Błonie',
@@ -2179,7 +2026,7 @@ return array (
     'latitude' => 52.19849,
     'longitude' => 20.61709,
   ),
-  242 => 
+  225 => 
   array (
     'id' => 86017,
     'name' => 'Błędów',
@@ -2188,7 +2035,7 @@ return array (
     'latitude' => 51.77767,
     'longitude' => 20.69798,
   ),
-  243 => 
+  226 => 
   array (
     'id' => 86018,
     'name' => 'Cedry Wielkie',
@@ -2197,7 +2044,7 @@ return array (
     'latitude' => 54.24707,
     'longitude' => 18.84567,
   ),
-  244 => 
+  227 => 
   array (
     'id' => 86019,
     'name' => 'Cedynia',
@@ -2206,7 +2053,7 @@ return array (
     'latitude' => 52.87931,
     'longitude' => 14.20249,
   ),
-  245 => 
+  228 => 
   array (
     'id' => 86020,
     'name' => 'Cegłów',
@@ -2215,7 +2062,7 @@ return array (
     'latitude' => 52.14782,
     'longitude' => 21.73739,
   ),
-  246 => 
+  229 => 
   array (
     'id' => 86021,
     'name' => 'Cekcyn',
@@ -2224,7 +2071,7 @@ return array (
     'latitude' => 53.57294,
     'longitude' => 18.01123,
   ),
-  247 => 
+  230 => 
   array (
     'id' => 86022,
     'name' => 'Celestynów',
@@ -2233,7 +2080,7 @@ return array (
     'latitude' => 52.06093,
     'longitude' => 21.39107,
   ),
-  248 => 
+  231 => 
   array (
     'id' => 86023,
     'name' => 'Ceranów',
@@ -2242,7 +2089,7 @@ return array (
     'latitude' => 52.63082,
     'longitude' => 22.22826,
   ),
-  249 => 
+  232 => 
   array (
     'id' => 86024,
     'name' => 'Cerkwica',
@@ -2251,7 +2098,7 @@ return array (
     'latitude' => 54.00777,
     'longitude' => 15.10903,
   ),
-  250 => 
+  233 => 
   array (
     'id' => 86025,
     'name' => 'Cewice',
@@ -2260,7 +2107,7 @@ return array (
     'latitude' => 54.43551,
     'longitude' => 17.73485,
   ),
-  251 => 
+  234 => 
   array (
     'id' => 86026,
     'name' => 'Chałupki',
@@ -2269,7 +2116,7 @@ return array (
     'latitude' => 49.92559,
     'longitude' => 18.3173,
   ),
-  252 => 
+  235 => 
   array (
     'id' => 86027,
     'name' => 'Chełm',
@@ -2278,7 +2125,7 @@ return array (
     'latitude' => 51.14312,
     'longitude' => 23.4716,
   ),
-  253 => 
+  236 => 
   array (
     'id' => 86028,
     'name' => 'Chełm Śląski',
@@ -2287,7 +2134,7 @@ return array (
     'latitude' => 50.10825,
     'longitude' => 19.19552,
   ),
-  254 => 
+  237 => 
   array (
     'id' => 86029,
     'name' => 'Chełmek',
@@ -2296,7 +2143,7 @@ return array (
     'latitude' => 50.10163,
     'longitude' => 19.24801,
   ),
-  255 => 
+  238 => 
   array (
     'id' => 86030,
     'name' => 'Chełmiec',
@@ -2305,7 +2152,7 @@ return array (
     'latitude' => 49.63051,
     'longitude' => 20.66425,
   ),
-  256 => 
+  239 => 
   array (
     'id' => 86031,
     'name' => 'Chełmno',
@@ -2314,7 +2161,7 @@ return array (
     'latitude' => 53.34855,
     'longitude' => 18.4251,
   ),
-  257 => 
+  240 => 
   array (
     'id' => 86032,
     'name' => 'Chełmża',
@@ -2323,7 +2170,7 @@ return array (
     'latitude' => 53.18463,
     'longitude' => 18.60466,
   ),
-  258 => 
+  241 => 
   array (
     'id' => 86033,
     'name' => 'Chlewiska',
@@ -2332,7 +2179,7 @@ return array (
     'latitude' => 51.24376,
     'longitude' => 20.76871,
   ),
-  259 => 
+  242 => 
   array (
     'id' => 86034,
     'name' => 'Chmielnik',
@@ -2341,16 +2188,7 @@ return array (
     'latitude' => 50.6144,
     'longitude' => 20.75206,
   ),
-  260 => 
-  array (
-    'id' => 86035,
-    'name' => 'Chmielnik',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.97386,
-    'longitude' => 22.14535,
-  ),
-  261 => 
+  243 => 
   array (
     'id' => 86036,
     'name' => 'Chmielno',
@@ -2359,7 +2197,7 @@ return array (
     'latitude' => 54.32543,
     'longitude' => 18.0986,
   ),
-  262 => 
+  244 => 
   array (
     'id' => 86037,
     'name' => 'Chmielowice',
@@ -2368,7 +2206,7 @@ return array (
     'latitude' => 50.64957,
     'longitude' => 17.86669,
   ),
-  263 => 
+  245 => 
   array (
     'id' => 86038,
     'name' => 'Choceń',
@@ -2377,7 +2215,7 @@ return array (
     'latitude' => 52.48618,
     'longitude' => 19.01339,
   ),
-  264 => 
+  246 => 
   array (
     'id' => 86039,
     'name' => 'Chocianów',
@@ -2386,7 +2224,7 @@ return array (
     'latitude' => 51.41867,
     'longitude' => 15.90172,
   ),
-  265 => 
+  247 => 
   array (
     'id' => 86040,
     'name' => 'Chociwel',
@@ -2395,7 +2233,7 @@ return array (
     'latitude' => 53.46696,
     'longitude' => 15.33342,
   ),
-  266 => 
+  248 => 
   array (
     'id' => 86041,
     'name' => 'Chocz',
@@ -2404,7 +2242,7 @@ return array (
     'latitude' => 51.97642,
     'longitude' => 17.86995,
   ),
-  267 => 
+  249 => 
   array (
     'id' => 86042,
     'name' => 'Choczewo',
@@ -2413,7 +2251,7 @@ return array (
     'latitude' => 54.73993,
     'longitude' => 17.89175,
   ),
-  268 => 
+  250 => 
   array (
     'id' => 86043,
     'name' => 'Chocznia',
@@ -2422,7 +2260,7 @@ return array (
     'latitude' => 49.87417,
     'longitude' => 19.45438,
   ),
-  269 => 
+  251 => 
   array (
     'id' => 86044,
     'name' => 'Chodecz',
@@ -2431,7 +2269,7 @@ return array (
     'latitude' => 52.40513,
     'longitude' => 19.02759,
   ),
-  270 => 
+  252 => 
   array (
     'id' => 86045,
     'name' => 'Chodel',
@@ -2440,7 +2278,7 @@ return array (
     'latitude' => 51.11177,
     'longitude' => 22.13269,
   ),
-  271 => 
+  253 => 
   array (
     'id' => 86046,
     'name' => 'Chodzież',
@@ -2449,7 +2287,7 @@ return array (
     'latitude' => 52.99505,
     'longitude' => 16.9198,
   ),
-  272 => 
+  254 => 
   array (
     'id' => 86047,
     'name' => 'Chodów',
@@ -2458,7 +2296,7 @@ return array (
     'latitude' => 52.24961,
     'longitude' => 19.01218,
   ),
-  273 => 
+  255 => 
   array (
     'id' => 86048,
     'name' => 'Chojna',
@@ -2467,7 +2305,7 @@ return array (
     'latitude' => 52.96389,
     'longitude' => 14.42797,
   ),
-  274 => 
+  256 => 
   array (
     'id' => 86049,
     'name' => 'Chojnice',
@@ -2476,7 +2314,7 @@ return array (
     'latitude' => 53.69554,
     'longitude' => 17.55701,
   ),
-  275 => 
+  257 => 
   array (
     'id' => 86050,
     'name' => 'Chojnów',
@@ -2485,7 +2323,7 @@ return array (
     'latitude' => 51.27373,
     'longitude' => 15.93661,
   ),
-  276 => 
+  258 => 
   array (
     'id' => 86051,
     'name' => 'Chorkówka',
@@ -2494,7 +2332,7 @@ return array (
     'latitude' => 49.64668,
     'longitude' => 21.67156,
   ),
-  277 => 
+  259 => 
   array (
     'id' => 86052,
     'name' => 'Choroszcz',
@@ -2503,7 +2341,7 @@ return array (
     'latitude' => 53.14332,
     'longitude' => 22.98889,
   ),
-  278 => 
+  260 => 
   array (
     'id' => 86053,
     'name' => 'Choroń',
@@ -2512,7 +2350,7 @@ return array (
     'latitude' => 50.68178,
     'longitude' => 19.26058,
   ),
-  279 => 
+  261 => 
   array (
     'id' => 86054,
     'name' => 'Chorzele',
@@ -2521,7 +2359,7 @@ return array (
     'latitude' => 53.26075,
     'longitude' => 20.89728,
   ),
-  280 => 
+  262 => 
   array (
     'id' => 86055,
     'name' => 'Chorzów',
@@ -2530,7 +2368,7 @@ return array (
     'latitude' => 50.30582,
     'longitude' => 18.9742,
   ),
-  281 => 
+  263 => 
   array (
     'id' => 86056,
     'name' => 'Choszczno',
@@ -2539,7 +2377,7 @@ return array (
     'latitude' => 53.16905,
     'longitude' => 15.42054,
   ),
-  282 => 
+  264 => 
   array (
     'id' => 86057,
     'name' => 'Chotcza',
@@ -2548,7 +2386,7 @@ return array (
     'latitude' => 51.24043,
     'longitude' => 21.77662,
   ),
-  283 => 
+  265 => 
   array (
     'id' => 86058,
     'name' => 'Chrostkowo',
@@ -2557,7 +2395,7 @@ return array (
     'latitude' => 52.94378,
     'longitude' => 19.25328,
   ),
-  284 => 
+  266 => 
   array (
     'id' => 86059,
     'name' => 'Chrościna',
@@ -2566,7 +2404,7 @@ return array (
     'latitude' => 50.66578,
     'longitude' => 17.81759,
   ),
-  285 => 
+  267 => 
   array (
     'id' => 86060,
     'name' => 'Chruszczobród',
@@ -2575,7 +2413,7 @@ return array (
     'latitude' => 50.4147,
     'longitude' => 19.32718,
   ),
-  286 => 
+  268 => 
   array (
     'id' => 86061,
     'name' => 'Chrzanów',
@@ -2584,16 +2422,7 @@ return array (
     'latitude' => 50.77256,
     'longitude' => 22.60351,
   ),
-  287 => 
-  array (
-    'id' => 86062,
-    'name' => 'Chrzanów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.13546,
-    'longitude' => 19.40203,
-  ),
-  288 => 
+  269 => 
   array (
     'id' => 86063,
     'name' => 'Chrzypsko Wielkie',
@@ -2602,7 +2431,7 @@ return array (
     'latitude' => 52.62817,
     'longitude' => 16.22852,
   ),
-  289 => 
+  270 => 
   array (
     'id' => 86064,
     'name' => 'Chrząstowice',
@@ -2611,7 +2440,7 @@ return array (
     'latitude' => 50.66622,
     'longitude' => 18.07294,
   ),
-  290 => 
+  271 => 
   array (
     'id' => 86065,
     'name' => 'Chróścice',
@@ -2620,7 +2449,7 @@ return array (
     'latitude' => 50.78076,
     'longitude' => 17.81227,
   ),
-  291 => 
+  272 => 
   array (
     'id' => 86067,
     'name' => 'Chwaszczyno',
@@ -2629,7 +2458,7 @@ return array (
     'latitude' => 54.44379,
     'longitude' => 18.41875,
   ),
-  292 => 
+  273 => 
   array (
     'id' => 86068,
     'name' => 'Chwałowice',
@@ -2638,7 +2467,7 @@ return array (
     'latitude' => 50.76665,
     'longitude' => 21.88683,
   ),
-  293 => 
+  274 => 
   array (
     'id' => 86069,
     'name' => 'Chybie',
@@ -2647,7 +2476,7 @@ return array (
     'latitude' => 49.90249,
     'longitude' => 18.82756,
   ),
-  294 => 
+  275 => 
   array (
     'id' => 86070,
     'name' => 'Chynów',
@@ -2656,7 +2485,7 @@ return array (
     'latitude' => 51.90425,
     'longitude' => 21.08208,
   ),
-  295 => 
+  276 => 
   array (
     'id' => 86071,
     'name' => 'Chyżne',
@@ -2665,7 +2494,7 @@ return array (
     'latitude' => 49.42672,
     'longitude' => 19.66956,
   ),
-  296 => 
+  277 => 
   array (
     'id' => 86072,
     'name' => 'Chąśno',
@@ -2674,7 +2503,7 @@ return array (
     'latitude' => 52.19535,
     'longitude' => 19.94259,
   ),
-  297 => 
+  278 => 
   array (
     'id' => 86073,
     'name' => 'Chęciny',
@@ -2683,7 +2512,7 @@ return array (
     'latitude' => 50.80021,
     'longitude' => 20.46229,
   ),
-  298 => 
+  279 => 
   array (
     'id' => 86074,
     'name' => 'Chłapowo',
@@ -2692,7 +2521,7 @@ return array (
     'latitude' => 54.80365,
     'longitude' => 18.37352,
   ),
-  299 => 
+  280 => 
   array (
     'id' => 86075,
     'name' => 'Ciasna',
@@ -2701,7 +2530,7 @@ return array (
     'latitude' => 50.75427,
     'longitude' => 18.60835,
   ),
-  300 => 
+  281 => 
   array (
     'id' => 86076,
     'name' => 'Ciechanowiec',
@@ -2710,7 +2539,7 @@ return array (
     'latitude' => 52.67828,
     'longitude' => 22.49815,
   ),
-  301 => 
+  282 => 
   array (
     'id' => 86077,
     'name' => 'Ciechanów',
@@ -2719,7 +2548,7 @@ return array (
     'latitude' => 52.88141,
     'longitude' => 20.61996,
   ),
-  302 => 
+  283 => 
   array (
     'id' => 86078,
     'name' => 'Ciechocin',
@@ -2728,7 +2557,7 @@ return array (
     'latitude' => 53.05581,
     'longitude' => 18.92635,
   ),
-  303 => 
+  284 => 
   array (
     'id' => 86079,
     'name' => 'Ciechocinek',
@@ -2737,7 +2566,7 @@ return array (
     'latitude' => 52.87908,
     'longitude' => 18.79505,
   ),
-  304 => 
+  285 => 
   array (
     'id' => 86080,
     'name' => 'Ciechów',
@@ -2746,7 +2575,7 @@ return array (
     'latitude' => 51.13218,
     'longitude' => 16.56773,
   ),
-  305 => 
+  286 => 
   array (
     'id' => 86081,
     'name' => 'Cielmice',
@@ -2755,7 +2584,7 @@ return array (
     'latitude' => 50.08826,
     'longitude' => 19.01896,
   ),
-  306 => 
+  287 => 
   array (
     'id' => 86082,
     'name' => 'Cielądz',
@@ -2764,7 +2593,7 @@ return array (
     'latitude' => 51.71576,
     'longitude' => 20.34428,
   ),
-  307 => 
+  288 => 
   array (
     'id' => 86083,
     'name' => 'Ciepielów',
@@ -2773,7 +2602,7 @@ return array (
     'latitude' => 51.24838,
     'longitude' => 21.57475,
   ),
-  308 => 
+  289 => 
   array (
     'id' => 86084,
     'name' => 'Cieplice Śląskie Zdrój',
@@ -2782,7 +2611,7 @@ return array (
     'latitude' => 50.86545,
     'longitude' => 15.68367,
   ),
-  309 => 
+  290 => 
   array (
     'id' => 86085,
     'name' => 'Ciepłowody',
@@ -2791,7 +2620,7 @@ return array (
     'latitude' => 50.67477,
     'longitude' => 16.90871,
   ),
-  310 => 
+  291 => 
   array (
     'id' => 86086,
     'name' => 'Cieszanów',
@@ -2800,7 +2629,7 @@ return array (
     'latitude' => 50.24564,
     'longitude' => 23.13163,
   ),
-  311 => 
+  292 => 
   array (
     'id' => 86087,
     'name' => 'Cieszków',
@@ -2809,7 +2638,7 @@ return array (
     'latitude' => 51.63104,
     'longitude' => 17.35726,
   ),
-  312 => 
+  293 => 
   array (
     'id' => 86088,
     'name' => 'Cieszyn',
@@ -2818,7 +2647,7 @@ return array (
     'latitude' => 49.75133,
     'longitude' => 18.63213,
   ),
-  313 => 
+  294 => 
   array (
     'id' => 86089,
     'name' => 'Cisek',
@@ -2827,7 +2656,7 @@ return array (
     'latitude' => 50.28232,
     'longitude' => 18.19988,
   ),
-  314 => 
+  295 => 
   array (
     'id' => 86090,
     'name' => 'Cisiec',
@@ -2836,7 +2665,7 @@ return array (
     'latitude' => 49.59213,
     'longitude' => 19.1054,
   ),
-  315 => 
+  296 => 
   array (
     'id' => 86091,
     'name' => 'Cisna',
@@ -2845,7 +2674,7 @@ return array (
     'latitude' => 49.21328,
     'longitude' => 22.32795,
   ),
-  316 => 
+  297 => 
   array (
     'id' => 86092,
     'name' => 'Cisownica',
@@ -2854,7 +2683,7 @@ return array (
     'latitude' => 49.72276,
     'longitude' => 18.76207,
   ),
-  317 => 
+  298 => 
   array (
     'id' => 86093,
     'name' => 'Cięcina',
@@ -2863,7 +2692,7 @@ return array (
     'latitude' => 49.6022,
     'longitude' => 19.14102,
   ),
-  318 => 
+  299 => 
   array (
     'id' => 86094,
     'name' => 'Ciężkowice',
@@ -2872,7 +2701,7 @@ return array (
     'latitude' => 49.78575,
     'longitude' => 20.97324,
   ),
-  319 => 
+  300 => 
   array (
     'id' => 86095,
     'name' => 'Cmolas',
@@ -2881,7 +2710,7 @@ return array (
     'latitude' => 50.29526,
     'longitude' => 21.74417,
   ),
-  320 => 
+  301 => 
   array (
     'id' => 86096,
     'name' => 'Cybinka',
@@ -2890,7 +2719,7 @@ return array (
     'latitude' => 52.19446,
     'longitude' => 14.79567,
   ),
-  321 => 
+  302 => 
   array (
     'id' => 86097,
     'name' => 'Cyców',
@@ -2899,7 +2728,7 @@ return array (
     'latitude' => 51.29928,
     'longitude' => 23.14124,
   ),
-  322 => 
+  303 => 
   array (
     'id' => 86098,
     'name' => 'Cynków',
@@ -2908,7 +2737,7 @@ return array (
     'latitude' => 50.56203,
     'longitude' => 19.11956,
   ),
-  323 => 
+  304 => 
   array (
     'id' => 86099,
     'name' => 'Czajków',
@@ -2917,7 +2746,7 @@ return array (
     'latitude' => 51.49197,
     'longitude' => 18.32726,
   ),
-  324 => 
+  305 => 
   array (
     'id' => 86100,
     'name' => 'Czaniec',
@@ -2926,7 +2755,7 @@ return array (
     'latitude' => 49.85071,
     'longitude' => 19.25354,
   ),
-  325 => 
+  306 => 
   array (
     'id' => 86101,
     'name' => 'Czaplinek',
@@ -2935,7 +2764,7 @@ return array (
     'latitude' => 53.55775,
     'longitude' => 16.23333,
   ),
-  326 => 
+  307 => 
   array (
     'id' => 86102,
     'name' => 'Czapury',
@@ -2944,7 +2773,7 @@ return array (
     'latitude' => 52.31719,
     'longitude' => 16.91268,
   ),
-  327 => 
+  308 => 
   array (
     'id' => 86103,
     'name' => 'Czarków',
@@ -2953,7 +2782,7 @@ return array (
     'latitude' => 50.01833,
     'longitude' => 18.90678,
   ),
-  328 => 
+  309 => 
   array (
     'id' => 86104,
     'name' => 'Czarna',
@@ -2962,7 +2791,7 @@ return array (
     'latitude' => 50.06717,
     'longitude' => 21.25614,
   ),
-  329 => 
+  310 => 
   array (
     'id' => 86105,
     'name' => 'Czarna Białostocka',
@@ -2971,7 +2800,7 @@ return array (
     'latitude' => 53.30509,
     'longitude' => 23.28146,
   ),
-  330 => 
+  311 => 
   array (
     'id' => 86106,
     'name' => 'Czarna Dąbrówka',
@@ -2980,7 +2809,7 @@ return array (
     'latitude' => 54.35631,
     'longitude' => 17.56456,
   ),
-  331 => 
+  312 => 
   array (
     'id' => 86107,
     'name' => 'Czarna Góra',
@@ -2989,7 +2818,7 @@ return array (
     'latitude' => 49.37662,
     'longitude' => 20.13047,
   ),
-  332 => 
+  313 => 
   array (
     'id' => 86108,
     'name' => 'Czarna Woda',
@@ -2998,7 +2827,7 @@ return array (
     'latitude' => 53.84458,
     'longitude' => 18.10006,
   ),
-  333 => 
+  314 => 
   array (
     'id' => 86109,
     'name' => 'Czarne',
@@ -3007,7 +2836,7 @@ return array (
     'latitude' => 53.6842,
     'longitude' => 16.93834,
   ),
-  334 => 
+  315 => 
   array (
     'id' => 86110,
     'name' => 'Czarnia',
@@ -3016,7 +2845,7 @@ return array (
     'latitude' => 53.35614,
     'longitude' => 21.1952,
   ),
-  335 => 
+  316 => 
   array (
     'id' => 86111,
     'name' => 'Czarnków',
@@ -3025,7 +2854,7 @@ return array (
     'latitude' => 52.90214,
     'longitude' => 16.56413,
   ),
-  336 => 
+  317 => 
   array (
     'id' => 86112,
     'name' => 'Czarnochowice',
@@ -3034,7 +2863,7 @@ return array (
     'latitude' => 50.00471,
     'longitude' => 20.0679,
   ),
-  337 => 
+  318 => 
   array (
     'id' => 86113,
     'name' => 'Czarnocin',
@@ -3043,16 +2872,7 @@ return array (
     'latitude' => 50.3408,
     'longitude' => 20.5162,
   ),
-  338 => 
-  array (
-    'id' => 86114,
-    'name' => 'Czarnocin',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.59142,
-    'longitude' => 19.68158,
-  ),
-  339 => 
+  319 => 
   array (
     'id' => 86115,
     'name' => 'Czarnowąsy',
@@ -3061,7 +2881,7 @@ return array (
     'latitude' => 50.72858,
     'longitude' => 17.89819,
   ),
-  340 => 
+  320 => 
   array (
     'id' => 86116,
     'name' => 'Czarnożyły',
@@ -3070,7 +2890,7 @@ return array (
     'latitude' => 51.28533,
     'longitude' => 18.56106,
   ),
-  341 => 
+  321 => 
   array (
     'id' => 86117,
     'name' => 'Czarny Bór',
@@ -3079,7 +2899,7 @@ return array (
     'latitude' => 50.77083,
     'longitude' => 16.1305,
   ),
-  342 => 
+  322 => 
   array (
     'id' => 86118,
     'name' => 'Czarny Dunajec',
@@ -3088,7 +2908,7 @@ return array (
     'latitude' => 49.43663,
     'longitude' => 19.85161,
   ),
-  343 => 
+  323 => 
   array (
     'id' => 86119,
     'name' => 'Czastary',
@@ -3097,7 +2917,7 @@ return array (
     'latitude' => 51.25869,
     'longitude' => 18.31953,
   ),
-  344 => 
+  324 => 
   array (
     'id' => 86120,
     'name' => 'Czaszyn',
@@ -3106,7 +2926,7 @@ return array (
     'latitude' => 49.44854,
     'longitude' => 22.2165,
   ),
-  345 => 
+  325 => 
   array (
     'id' => 86121,
     'name' => 'Czchów',
@@ -3115,7 +2935,7 @@ return array (
     'latitude' => 49.83726,
     'longitude' => 20.68056,
   ),
-  346 => 
+  326 => 
   array (
     'id' => 86122,
     'name' => 'Czechowice-Dziedzice',
@@ -3124,7 +2944,7 @@ return array (
     'latitude' => 49.91342,
     'longitude' => 19.00479,
   ),
-  347 => 
+  327 => 
   array (
     'id' => 86123,
     'name' => 'Czeladź',
@@ -3133,7 +2953,7 @@ return array (
     'latitude' => 50.31542,
     'longitude' => 19.07824,
   ),
-  348 => 
+  328 => 
   array (
     'id' => 86124,
     'name' => 'Czemierniki',
@@ -3142,7 +2962,7 @@ return array (
     'latitude' => 51.67298,
     'longitude' => 22.63887,
   ),
-  349 => 
+  329 => 
   array (
     'id' => 86125,
     'name' => 'Czempiń',
@@ -3151,7 +2971,7 @@ return array (
     'latitude' => 52.14404,
     'longitude' => 16.76408,
   ),
-  350 => 
+  330 => 
   array (
     'id' => 86126,
     'name' => 'Czeremcha',
@@ -3160,7 +2980,7 @@ return array (
     'latitude' => 52.51667,
     'longitude' => 23.35,
   ),
-  351 => 
+  331 => 
   array (
     'id' => 86127,
     'name' => 'Czermin',
@@ -3169,16 +2989,7 @@ return array (
     'latitude' => 50.33911,
     'longitude' => 21.33356,
   ),
-  352 => 
-  array (
-    'id' => 86128,
-    'name' => 'Czermin',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.95008,
-    'longitude' => 17.74957,
-  ),
-  353 => 
+  332 => 
   array (
     'id' => 86129,
     'name' => 'Czernica',
@@ -3187,16 +2998,7 @@ return array (
     'latitude' => 51.04609,
     'longitude' => 17.2451,
   ),
-  354 => 
-  array (
-    'id' => 86130,
-    'name' => 'Czernica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.08391,
-    'longitude' => 18.40068,
-  ),
-  355 => 
+  333 => 
   array (
     'id' => 86131,
     'name' => 'Czernice Borowe',
@@ -3205,7 +3007,7 @@ return array (
     'latitude' => 53.03197,
     'longitude' => 20.71944,
   ),
-  356 => 
+  334 => 
   array (
     'id' => 86132,
     'name' => 'Czernichów',
@@ -3214,16 +3016,7 @@ return array (
     'latitude' => 49.75443,
     'longitude' => 19.20947,
   ),
-  357 => 
-  array (
-    'id' => 86133,
-    'name' => 'Czernichów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.9892,
-    'longitude' => 19.68115,
-  ),
-  358 => 
+  335 => 
   array (
     'id' => 86134,
     'name' => 'Czerniejewo',
@@ -3232,7 +3025,7 @@ return array (
     'latitude' => 52.4264,
     'longitude' => 17.48925,
   ),
-  359 => 
+  336 => 
   array (
     'id' => 86135,
     'name' => 'Czerniewice',
@@ -3241,16 +3034,7 @@ return array (
     'latitude' => 51.65419,
     'longitude' => 20.15553,
   ),
-  360 => 
-  array (
-    'id' => 86136,
-    'name' => 'Czerniewice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.51157,
-    'longitude' => 19.08694,
-  ),
-  361 => 
+  337 => 
   array (
     'id' => 86137,
     'name' => 'Czernikowo',
@@ -3259,7 +3043,7 @@ return array (
     'latitude' => 52.94688,
     'longitude' => 18.93803,
   ),
-  362 => 
+  338 => 
   array (
     'id' => 86138,
     'name' => 'Czersk',
@@ -3268,7 +3052,7 @@ return array (
     'latitude' => 53.79589,
     'longitude' => 17.97647,
   ),
-  363 => 
+  339 => 
   array (
     'id' => 86139,
     'name' => 'Czerwieńsk',
@@ -3277,7 +3061,7 @@ return array (
     'latitude' => 52.01289,
     'longitude' => 15.42317,
   ),
-  364 => 
+  340 => 
   array (
     'id' => 86140,
     'name' => 'Czerwin',
@@ -3286,7 +3070,7 @@ return array (
     'latitude' => 52.94905,
     'longitude' => 21.75842,
   ),
-  365 => 
+  341 => 
   array (
     'id' => 86141,
     'name' => 'Czerwionka-Leszczyny',
@@ -3295,7 +3079,7 @@ return array (
     'latitude' => 50.15007,
     'longitude' => 18.67762,
   ),
-  366 => 
+  342 => 
   array (
     'id' => 86142,
     'name' => 'Czerwińsk Nad Wisłą',
@@ -3304,7 +3088,7 @@ return array (
     'latitude' => 52.39828,
     'longitude' => 20.3096,
   ),
-  367 => 
+  343 => 
   array (
     'id' => 86143,
     'name' => 'Czerwonak',
@@ -3313,7 +3097,7 @@ return array (
     'latitude' => 52.46459,
     'longitude' => 16.98169,
   ),
-  368 => 
+  344 => 
   array (
     'id' => 86144,
     'name' => 'Czerwonka',
@@ -3322,16 +3106,7 @@ return array (
     'latitude' => 52.89254,
     'longitude' => 21.21494,
   ),
-  369 => 
-  array (
-    'id' => 86145,
-    'name' => 'Czerwonka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.91627,
-    'longitude' => 20.89685,
-  ),
-  370 => 
+  345 => 
   array (
     'id' => 86146,
     'name' => 'Czudec',
@@ -3340,7 +3115,7 @@ return array (
     'latitude' => 49.94487,
     'longitude' => 21.84134,
   ),
-  371 => 
+  346 => 
   array (
     'id' => 86147,
     'name' => 'Czułów',
@@ -3349,7 +3124,7 @@ return array (
     'latitude' => 50.05956,
     'longitude' => 19.70106,
   ),
-  372 => 
+  347 => 
   array (
     'id' => 86148,
     'name' => 'Czyżew',
@@ -3358,7 +3133,7 @@ return array (
     'latitude' => 52.79768,
     'longitude' => 22.31237,
   ),
-  373 => 
+  348 => 
   array (
     'id' => 86149,
     'name' => 'Czyżowice',
@@ -3367,7 +3142,7 @@ return array (
     'latitude' => 49.9849,
     'longitude' => 18.40433,
   ),
-  374 => 
+  349 => 
   array (
     'id' => 86150,
     'name' => 'Częstochowa',
@@ -3376,7 +3151,7 @@ return array (
     'latitude' => 50.79646,
     'longitude' => 19.12409,
   ),
-  375 => 
+  350 => 
   array (
     'id' => 86151,
     'name' => 'Człopa',
@@ -3385,7 +3160,7 @@ return array (
     'latitude' => 53.08856,
     'longitude' => 16.12098,
   ),
-  376 => 
+  351 => 
   array (
     'id' => 86152,
     'name' => 'Człuchów',
@@ -3394,7 +3169,7 @@ return array (
     'latitude' => 53.66722,
     'longitude' => 17.35883,
   ),
-  377 => 
+  352 => 
   array (
     'id' => 86153,
     'name' => 'Dalachów',
@@ -3403,7 +3178,7 @@ return array (
     'latitude' => 51.07732,
     'longitude' => 18.5784,
   ),
-  378 => 
+  353 => 
   array (
     'id' => 86154,
     'name' => 'Daleszyce',
@@ -3412,7 +3187,7 @@ return array (
     'latitude' => 50.80229,
     'longitude' => 20.80791,
   ),
-  379 => 
+  354 => 
   array (
     'id' => 86155,
     'name' => 'Dalików',
@@ -3421,7 +3196,7 @@ return array (
     'latitude' => 51.88476,
     'longitude' => 19.11904,
   ),
-  380 => 
+  355 => 
   array (
     'id' => 86156,
     'name' => 'Damasławek',
@@ -3430,7 +3205,7 @@ return array (
     'latitude' => 52.83979,
     'longitude' => 17.50062,
   ),
-  381 => 
+  356 => 
   array (
     'id' => 86157,
     'name' => 'Damnica',
@@ -3439,7 +3214,7 @@ return array (
     'latitude' => 54.50025,
     'longitude' => 17.27154,
   ),
-  382 => 
+  357 => 
   array (
     'id' => 86158,
     'name' => 'Darłowo',
@@ -3448,7 +3223,7 @@ return array (
     'latitude' => 54.42095,
     'longitude' => 16.4107,
   ),
-  383 => 
+  358 => 
   array (
     'id' => 86159,
     'name' => 'Daszewice',
@@ -3457,7 +3232,7 @@ return array (
     'latitude' => 52.30002,
     'longitude' => 16.95723,
   ),
-  384 => 
+  359 => 
   array (
     'id' => 86160,
     'name' => 'Daszyna',
@@ -3466,7 +3241,7 @@ return array (
     'latitude' => 52.15503,
     'longitude' => 19.18153,
   ),
-  385 => 
+  360 => 
   array (
     'id' => 86161,
     'name' => 'Debrzno',
@@ -3475,7 +3250,7 @@ return array (
     'latitude' => 53.53817,
     'longitude' => 17.23643,
   ),
-  386 => 
+  361 => 
   array (
     'id' => 86162,
     'name' => 'Deszczno',
@@ -3484,7 +3259,7 @@ return array (
     'latitude' => 52.66988,
     'longitude' => 15.31975,
   ),
-  387 => 
+  362 => 
   array (
     'id' => 86163,
     'name' => 'Dmosin',
@@ -3493,7 +3268,7 @@ return array (
     'latitude' => 51.92437,
     'longitude' => 19.75934,
   ),
-  388 => 
+  363 => 
   array (
     'id' => 86164,
     'name' => 'Dobczyce',
@@ -3502,7 +3277,7 @@ return array (
     'latitude' => 49.88109,
     'longitude' => 20.08936,
   ),
-  389 => 
+  364 => 
   array (
     'id' => 86165,
     'name' => 'Dobiegniew',
@@ -3511,7 +3286,7 @@ return array (
     'latitude' => 52.96947,
     'longitude' => 15.75362,
   ),
-  390 => 
+  365 => 
   array (
     'id' => 86166,
     'name' => 'Dobieszowice',
@@ -3520,7 +3295,7 @@ return array (
     'latitude' => 50.39697,
     'longitude' => 19.01304,
   ),
-  391 => 
+  366 => 
   array (
     'id' => 86167,
     'name' => 'Dobra',
@@ -3529,25 +3304,7 @@ return array (
     'latitude' => 49.71793,
     'longitude' => 20.25347,
   ),
-  392 => 
-  array (
-    'id' => 86168,
-    'name' => 'Dobra',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.58625,
-    'longitude' => 15.30977,
-  ),
-  393 => 
-  array (
-    'id' => 86169,
-    'name' => 'Dobra',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.91664,
-    'longitude' => 18.61556,
-  ),
-  394 => 
+  367 => 
   array (
     'id' => 86170,
     'name' => 'Dobre',
@@ -3556,16 +3313,7 @@ return array (
     'latitude' => 52.32097,
     'longitude' => 21.67881,
   ),
-  395 => 
-  array (
-    'id' => 86171,
-    'name' => 'Dobre',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.68398,
-    'longitude' => 18.57762,
-  ),
-  396 => 
+  368 => 
   array (
     'id' => 86172,
     'name' => 'Dobre Miasto',
@@ -3574,7 +3322,7 @@ return array (
     'latitude' => 53.98668,
     'longitude' => 20.39749,
   ),
-  397 => 
+  369 => 
   array (
     'id' => 86173,
     'name' => 'Dobrodzień',
@@ -3583,7 +3331,7 @@ return array (
     'latitude' => 50.72874,
     'longitude' => 18.44501,
   ),
-  398 => 
+  370 => 
   array (
     'id' => 86174,
     'name' => 'Dobroszyce',
@@ -3592,7 +3340,7 @@ return array (
     'latitude' => 51.26776,
     'longitude' => 17.34205,
   ),
-  399 => 
+  371 => 
   array (
     'id' => 86175,
     'name' => 'Dobroń',
@@ -3601,7 +3349,7 @@ return array (
     'latitude' => 51.63885,
     'longitude' => 19.24539,
   ),
-  400 => 
+  372 => 
   array (
     'id' => 86176,
     'name' => 'Dobrzany',
@@ -3610,7 +3358,7 @@ return array (
     'latitude' => 53.35914,
     'longitude' => 15.42886,
   ),
-  401 => 
+  373 => 
   array (
     'id' => 86177,
     'name' => 'Dobrzeń Wielki',
@@ -3619,7 +3367,7 @@ return array (
     'latitude' => 50.76844,
     'longitude' => 17.84652,
   ),
-  402 => 
+  374 => 
   array (
     'id' => 86178,
     'name' => 'Dobrzyca',
@@ -3628,7 +3376,7 @@ return array (
     'latitude' => 51.86663,
     'longitude' => 17.60336,
   ),
-  403 => 
+  375 => 
   array (
     'id' => 86179,
     'name' => 'Dobrzyniewo Duże',
@@ -3637,7 +3385,7 @@ return array (
     'latitude' => 53.20022,
     'longitude' => 23.01129,
   ),
-  404 => 
+  376 => 
   array (
     'id' => 86180,
     'name' => 'Dobrzyń nad Wisłą',
@@ -3646,7 +3394,7 @@ return array (
     'latitude' => 52.63814,
     'longitude' => 19.31875,
   ),
-  405 => 
+  377 => 
   array (
     'id' => 86181,
     'name' => 'Dolice',
@@ -3655,7 +3403,7 @@ return array (
     'latitude' => 53.19081,
     'longitude' => 15.20267,
   ),
-  406 => 
+  378 => 
   array (
     'id' => 86182,
     'name' => 'Dolsk',
@@ -3664,7 +3412,7 @@ return array (
     'latitude' => 51.9818,
     'longitude' => 17.06273,
   ),
-  407 => 
+  379 => 
   array (
     'id' => 86183,
     'name' => 'Domanice',
@@ -3673,7 +3421,7 @@ return array (
     'latitude' => 52.03739,
     'longitude' => 22.17642,
   ),
-  408 => 
+  380 => 
   array (
     'id' => 86184,
     'name' => 'Domaniewice',
@@ -3682,7 +3430,7 @@ return array (
     'latitude' => 52.00623,
     'longitude' => 19.80294,
   ),
-  409 => 
+  381 => 
   array (
     'id' => 86185,
     'name' => 'Domaradz',
@@ -3691,7 +3439,7 @@ return array (
     'latitude' => 49.78675,
     'longitude' => 21.94571,
   ),
-  410 => 
+  382 => 
   array (
     'id' => 86186,
     'name' => 'Domaszowice',
@@ -3700,16 +3448,7 @@ return array (
     'latitude' => 50.87488,
     'longitude' => 20.68288,
   ),
-  411 => 
-  array (
-    'id' => 86187,
-    'name' => 'Domaszowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.0429,
-    'longitude' => 17.88875,
-  ),
-  412 => 
+  383 => 
   array (
     'id' => 86188,
     'name' => 'Dominowo',
@@ -3718,7 +3457,7 @@ return array (
     'latitude' => 52.29158,
     'longitude' => 17.35754,
   ),
-  413 => 
+  384 => 
   array (
     'id' => 86189,
     'name' => 'Dopiewo',
@@ -3727,7 +3466,7 @@ return array (
     'latitude' => 52.35726,
     'longitude' => 16.67562,
   ),
-  414 => 
+  385 => 
   array (
     'id' => 86190,
     'name' => 'Dorohusk',
@@ -3736,7 +3475,7 @@ return array (
     'latitude' => 51.15475,
     'longitude' => 23.80325,
   ),
-  415 => 
+  386 => 
   array (
     'id' => 86191,
     'name' => 'Doruchów',
@@ -3745,7 +3484,7 @@ return array (
     'latitude' => 51.41719,
     'longitude' => 18.07697,
   ),
-  416 => 
+  387 => 
   array (
     'id' => 86192,
     'name' => 'Dołhobyczów',
@@ -3754,7 +3493,7 @@ return array (
     'latitude' => 50.58591,
     'longitude' => 24.03594,
   ),
-  417 => 
+  388 => 
   array (
     'id' => 86193,
     'name' => 'Drawno',
@@ -3763,7 +3502,7 @@ return array (
     'latitude' => 53.21986,
     'longitude' => 15.75946,
   ),
-  418 => 
+  389 => 
   array (
     'id' => 86194,
     'name' => 'Drawsko',
@@ -3772,7 +3511,7 @@ return array (
     'latitude' => 52.85421,
     'longitude' => 16.03125,
   ),
-  419 => 
+  390 => 
   array (
     'id' => 86195,
     'name' => 'Drawsko Pomorskie',
@@ -3781,7 +3520,7 @@ return array (
     'latitude' => 53.53056,
     'longitude' => 15.80967,
   ),
-  420 => 
+  391 => 
   array (
     'id' => 86196,
     'name' => 'Drelów',
@@ -3790,7 +3529,7 @@ return array (
     'latitude' => 51.91219,
     'longitude' => 22.87165,
   ),
-  421 => 
+  392 => 
   array (
     'id' => 86197,
     'name' => 'Drezdenko',
@@ -3799,7 +3538,7 @@ return array (
     'latitude' => 52.83831,
     'longitude' => 15.83079,
   ),
-  422 => 
+  393 => 
   array (
     'id' => 86198,
     'name' => 'Drobin',
@@ -3808,7 +3547,7 @@ return array (
     'latitude' => 52.73775,
     'longitude' => 19.98928,
   ),
-  423 => 
+  394 => 
   array (
     'id' => 86199,
     'name' => 'Drogomyśl',
@@ -3817,7 +3556,7 @@ return array (
     'latitude' => 49.86964,
     'longitude' => 18.75727,
   ),
-  424 => 
+  395 => 
   array (
     'id' => 86200,
     'name' => 'Drohiczyn',
@@ -3826,7 +3565,7 @@ return array (
     'latitude' => 52.40011,
     'longitude' => 22.65853,
   ),
-  425 => 
+  396 => 
   array (
     'id' => 86201,
     'name' => 'Drużbice',
@@ -3835,7 +3574,7 @@ return array (
     'latitude' => 51.46369,
     'longitude' => 19.39404,
   ),
-  426 => 
+  397 => 
   array (
     'id' => 86202,
     'name' => 'Drzewica',
@@ -3844,7 +3583,7 @@ return array (
     'latitude' => 51.45085,
     'longitude' => 20.47701,
   ),
-  427 => 
+  398 => 
   array (
     'id' => 86203,
     'name' => 'Drzycim',
@@ -3853,7 +3592,7 @@ return array (
     'latitude' => 53.5052,
     'longitude' => 18.3094,
   ),
-  428 => 
+  399 => 
   array (
     'id' => 86204,
     'name' => 'Dubiecko',
@@ -3862,7 +3601,7 @@ return array (
     'latitude' => 49.82608,
     'longitude' => 22.39117,
   ),
-  429 => 
+  400 => 
   array (
     'id' => 86205,
     'name' => 'Dubienka',
@@ -3871,7 +3610,7 @@ return array (
     'latitude' => 51.04862,
     'longitude' => 23.89252,
   ),
-  430 => 
+  401 => 
   array (
     'id' => 86206,
     'name' => 'Duczki',
@@ -3880,7 +3619,7 @@ return array (
     'latitude' => 52.36271,
     'longitude' => 21.29047,
   ),
-  431 => 
+  402 => 
   array (
     'id' => 86207,
     'name' => 'Dukla',
@@ -3889,7 +3628,7 @@ return array (
     'latitude' => 49.55554,
     'longitude' => 21.68317,
   ),
-  432 => 
+  403 => 
   array (
     'id' => 86208,
     'name' => 'Duszniki',
@@ -3898,7 +3637,7 @@ return array (
     'latitude' => 52.44691,
     'longitude' => 16.40602,
   ),
-  433 => 
+  404 => 
   array (
     'id' => 86209,
     'name' => 'Duszniki-Zdrój',
@@ -3907,7 +3646,7 @@ return array (
     'latitude' => 50.40327,
     'longitude' => 16.39091,
   ),
-  434 => 
+  405 => 
   array (
     'id' => 86210,
     'name' => 'Dwikozy',
@@ -3916,7 +3655,7 @@ return array (
     'latitude' => 50.73613,
     'longitude' => 21.78864,
   ),
-  435 => 
+  406 => 
   array (
     'id' => 86211,
     'name' => 'Dydnia',
@@ -3925,7 +3664,7 @@ return array (
     'latitude' => 49.6864,
     'longitude' => 22.17196,
   ),
-  436 => 
+  407 => 
   array (
     'id' => 86212,
     'name' => 'Dygowo',
@@ -3934,7 +3673,7 @@ return array (
     'latitude' => 54.13031,
     'longitude' => 15.71993,
   ),
-  437 => 
+  408 => 
   array (
     'id' => 86213,
     'name' => 'Dynów',
@@ -3943,7 +3682,7 @@ return array (
     'latitude' => 49.81506,
     'longitude' => 22.23388,
   ),
-  438 => 
+  409 => 
   array (
     'id' => 86214,
     'name' => 'Dywity',
@@ -3952,7 +3691,7 @@ return array (
     'latitude' => 53.83759,
     'longitude' => 20.47817,
   ),
-  439 => 
+  410 => 
   array (
     'id' => 86215,
     'name' => 'Dziadowa Kłoda',
@@ -3961,7 +3700,7 @@ return array (
     'latitude' => 51.23543,
     'longitude' => 17.70919,
   ),
-  440 => 
+  411 => 
   array (
     'id' => 86216,
     'name' => 'Działdowo',
@@ -3970,7 +3709,7 @@ return array (
     'latitude' => 53.23958,
     'longitude' => 20.17004,
   ),
-  441 => 
+  412 => 
   array (
     'id' => 86217,
     'name' => 'Działoszyce',
@@ -3979,7 +3718,7 @@ return array (
     'latitude' => 50.36534,
     'longitude' => 20.35226,
   ),
-  442 => 
+  413 => 
   array (
     'id' => 86218,
     'name' => 'Działoszyn',
@@ -3988,7 +3727,7 @@ return array (
     'latitude' => 51.11699,
     'longitude' => 18.86524,
   ),
-  443 => 
+  414 => 
   array (
     'id' => 86219,
     'name' => 'Dziekanów Leśny',
@@ -3997,7 +3736,7 @@ return array (
     'latitude' => 52.35243,
     'longitude' => 20.85124,
   ),
-  444 => 
+  415 => 
   array (
     'id' => 86220,
     'name' => 'Dziemiany',
@@ -4006,7 +3745,7 @@ return array (
     'latitude' => 54.00636,
     'longitude' => 17.76755,
   ),
-  445 => 
+  416 => 
   array (
     'id' => 86221,
     'name' => 'Dziergowice',
@@ -4015,7 +3754,7 @@ return array (
     'latitude' => 50.24248,
     'longitude' => 18.28606,
   ),
-  446 => 
+  417 => 
   array (
     'id' => 86222,
     'name' => 'Dzierzgowo',
@@ -4024,7 +3763,7 @@ return array (
     'latitude' => 53.15279,
     'longitude' => 20.66322,
   ),
-  447 => 
+  418 => 
   array (
     'id' => 86223,
     'name' => 'Dzierzgoń',
@@ -4033,7 +3772,7 @@ return array (
     'latitude' => 53.92196,
     'longitude' => 19.34705,
   ),
-  448 => 
+  419 => 
   array (
     'id' => 86224,
     'name' => 'Dzierzążnia',
@@ -4042,7 +3781,7 @@ return array (
     'latitude' => 52.62811,
     'longitude' => 20.23364,
   ),
-  449 => 
+  420 => 
   array (
     'id' => 86225,
     'name' => 'Dzierżoniów',
@@ -4051,7 +3790,7 @@ return array (
     'latitude' => 50.7282,
     'longitude' => 16.65141,
   ),
-  450 => 
+  421 => 
   array (
     'id' => 86226,
     'name' => 'Dziewin',
@@ -4060,7 +3799,7 @@ return array (
     'latitude' => 50.07554,
     'longitude' => 20.45491,
   ),
-  451 => 
+  422 => 
   array (
     'id' => 86227,
     'name' => 'Dziećmorowice',
@@ -4069,7 +3808,7 @@ return array (
     'latitude' => 50.76947,
     'longitude' => 16.35212,
   ),
-  452 => 
+  423 => 
   array (
     'id' => 86228,
     'name' => 'Dzikowiec',
@@ -4078,7 +3817,7 @@ return array (
     'latitude' => 50.27288,
     'longitude' => 21.84365,
   ),
-  453 => 
+  424 => 
   array (
     'id' => 86229,
     'name' => 'Dzików Stary',
@@ -4087,7 +3826,7 @@ return array (
     'latitude' => 50.24699,
     'longitude' => 22.92984,
   ),
-  454 => 
+  425 => 
   array (
     'id' => 86230,
     'name' => 'Dziwnów',
@@ -4096,7 +3835,7 @@ return array (
     'latitude' => 54.02819,
     'longitude' => 14.76691,
   ),
-  455 => 
+  426 => 
   array (
     'id' => 86231,
     'name' => 'Dzięgielów',
@@ -4105,7 +3844,7 @@ return array (
     'latitude' => 49.72259,
     'longitude' => 18.70491,
   ),
-  456 => 
+  427 => 
   array (
     'id' => 86232,
     'name' => 'Dzwola',
@@ -4114,7 +3853,7 @@ return array (
     'latitude' => 50.69657,
     'longitude' => 22.56729,
   ),
-  457 => 
+  428 => 
   array (
     'id' => 86233,
     'name' => 'Dąbie',
@@ -4123,25 +3862,7 @@ return array (
     'latitude' => 52.01056,
     'longitude' => 15.15221,
   ),
-  458 => 
-  array (
-    'id' => 86234,
-    'name' => 'Dąbie',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.08668,
-    'longitude' => 18.8225,
-  ),
-  459 => 
-  array (
-    'id' => 86235,
-    'name' => 'Dąbie',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.10573,
-    'longitude' => 17.08108,
-  ),
-  460 => 
+  429 => 
   array (
     'id' => 86236,
     'name' => 'Dąbrowa',
@@ -4150,16 +3871,7 @@ return array (
     'latitude' => 50.68352,
     'longitude' => 17.74957,
   ),
-  461 => 
-  array (
-    'id' => 86237,
-    'name' => 'Dąbrowa',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.74668,
-    'longitude' => 17.94342,
-  ),
-  462 => 
+  430 => 
   array (
     'id' => 86238,
     'name' => 'Dąbrowa Białostocka',
@@ -4168,7 +3880,7 @@ return array (
     'latitude' => 53.65364,
     'longitude' => 23.34792,
   ),
-  463 => 
+  431 => 
   array (
     'id' => 86239,
     'name' => 'Dąbrowa Chełmińska',
@@ -4177,7 +3889,7 @@ return array (
     'latitude' => 53.17518,
     'longitude' => 18.30537,
   ),
-  464 => 
+  432 => 
   array (
     'id' => 86240,
     'name' => 'Dąbrowa Górnicza',
@@ -4186,7 +3898,7 @@ return array (
     'latitude' => 50.33394,
     'longitude' => 19.20479,
   ),
-  465 => 
+  433 => 
   array (
     'id' => 86241,
     'name' => 'Dąbrowa Tarnowska',
@@ -4195,7 +3907,7 @@ return array (
     'latitude' => 50.17462,
     'longitude' => 20.98633,
   ),
-  466 => 
+  434 => 
   array (
     'id' => 86242,
     'name' => 'Dąbrowa Zielona',
@@ -4204,7 +3916,7 @@ return array (
     'latitude' => 50.84394,
     'longitude' => 19.55652,
   ),
-  467 => 
+  435 => 
   array (
     'id' => 86243,
     'name' => 'Dąbrowice',
@@ -4213,7 +3925,7 @@ return array (
     'latitude' => 52.31142,
     'longitude' => 19.08437,
   ),
-  468 => 
+  436 => 
   array (
     'id' => 86244,
     'name' => 'Dąbrówka',
@@ -4222,7 +3934,7 @@ return array (
     'latitude' => 52.48388,
     'longitude' => 21.29794,
   ),
-  469 => 
+  437 => 
   array (
     'id' => 86245,
     'name' => 'Dąbrówno',
@@ -4231,7 +3943,7 @@ return array (
     'latitude' => 53.43408,
     'longitude' => 20.03529,
   ),
-  470 => 
+  438 => 
   array (
     'id' => 86246,
     'name' => 'Dębe Wielkie',
@@ -4240,7 +3952,7 @@ return array (
     'latitude' => 52.19961,
     'longitude' => 21.44334,
   ),
-  471 => 
+  439 => 
   array (
     'id' => 86247,
     'name' => 'Dębica',
@@ -4249,7 +3961,7 @@ return array (
     'latitude' => 50.05146,
     'longitude' => 21.41141,
   ),
-  472 => 
+  440 => 
   array (
     'id' => 86248,
     'name' => 'Dęblin',
@@ -4258,7 +3970,7 @@ return array (
     'latitude' => 51.55912,
     'longitude' => 21.84829,
   ),
-  473 => 
+  441 => 
   array (
     'id' => 86249,
     'name' => 'Dębnica Kaszubska',
@@ -4267,7 +3979,7 @@ return array (
     'latitude' => 54.37831,
     'longitude' => 17.16116,
   ),
-  474 => 
+  442 => 
   array (
     'id' => 86250,
     'name' => 'Dębno',
@@ -4276,25 +3988,7 @@ return array (
     'latitude' => 50.19811,
     'longitude' => 22.51837,
   ),
-  475 => 
-  array (
-    'id' => 86251,
-    'name' => 'Dębno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.96701,
-    'longitude' => 20.71979,
-  ),
-  476 => 
-  array (
-    'id' => 86252,
-    'name' => 'Dębno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.73901,
-    'longitude' => 14.698,
-  ),
-  477 => 
+  443 => 
   array (
     'id' => 86253,
     'name' => 'Dębowa Kłoda',
@@ -4303,7 +3997,7 @@ return array (
     'latitude' => 51.59446,
     'longitude' => 23.0064,
   ),
-  478 => 
+  444 => 
   array (
     'id' => 86254,
     'name' => 'Dębowa Łąka',
@@ -4312,7 +4006,7 @@ return array (
     'latitude' => 53.25541,
     'longitude' => 19.09595,
   ),
-  479 => 
+  445 => 
   array (
     'id' => 86255,
     'name' => 'Dębowiec',
@@ -4321,16 +4015,7 @@ return array (
     'latitude' => 49.68374,
     'longitude' => 21.46068,
   ),
-  480 => 
-  array (
-    'id' => 86256,
-    'name' => 'Dębowiec',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.81406,
-    'longitude' => 18.72062,
-  ),
-  481 => 
+  446 => 
   array (
     'id' => 86257,
     'name' => 'Dębów',
@@ -4339,7 +4024,7 @@ return array (
     'latitude' => 50.0449,
     'longitude' => 22.43614,
   ),
-  482 => 
+  447 => 
   array (
     'id' => 86258,
     'name' => 'Długie',
@@ -4348,7 +4033,7 @@ return array (
     'latitude' => 49.57866,
     'longitude' => 22.04338,
   ),
-  483 => 
+  448 => 
   array (
     'id' => 86259,
     'name' => 'Długomiłowice',
@@ -4357,7 +4042,7 @@ return array (
     'latitude' => 50.28298,
     'longitude' => 18.14873,
   ),
-  484 => 
+  449 => 
   array (
     'id' => 86260,
     'name' => 'Długosiodło',
@@ -4366,7 +4051,7 @@ return array (
     'latitude' => 52.75998,
     'longitude' => 21.59183,
   ),
-  485 => 
+  450 => 
   array (
     'id' => 86261,
     'name' => 'Długołęka',
@@ -4375,7 +4060,7 @@ return array (
     'latitude' => 51.17902,
     'longitude' => 17.19137,
   ),
-  486 => 
+  451 => 
   array (
     'id' => 86262,
     'name' => 'Dłutów',
@@ -4384,7 +4069,7 @@ return array (
     'latitude' => 51.55936,
     'longitude' => 19.39198,
   ),
-  487 => 
+  452 => 
   array (
     'id' => 86263,
     'name' => 'Dźwierzuty',
@@ -4393,7 +4078,7 @@ return array (
     'latitude' => 53.70494,
     'longitude' => 20.96037,
   ),
-  488 => 
+  453 => 
   array (
     'id' => 86264,
     'name' => 'Elbląg',
@@ -4402,7 +4087,7 @@ return array (
     'latitude' => 54.1522,
     'longitude' => 19.40884,
   ),
-  489 => 
+  454 => 
   array (
     'id' => 86265,
     'name' => 'Ełk',
@@ -4411,7 +4096,7 @@ return array (
     'latitude' => 53.82824,
     'longitude' => 22.36469,
   ),
-  490 => 
+  455 => 
   array (
     'id' => 86266,
     'name' => 'Fabianki',
@@ -4420,7 +4105,7 @@ return array (
     'latitude' => 52.71929,
     'longitude' => 19.10943,
   ),
-  491 => 
+  456 => 
   array (
     'id' => 86267,
     'name' => 'Fajsławice',
@@ -4429,7 +4114,7 @@ return array (
     'latitude' => 51.09592,
     'longitude' => 22.96323,
   ),
-  492 => 
+  457 => 
   array (
     'id' => 86268,
     'name' => 'Fałków',
@@ -4438,7 +4123,7 @@ return array (
     'latitude' => 51.13606,
     'longitude' => 20.1061,
   ),
-  493 => 
+  458 => 
   array (
     'id' => 86269,
     'name' => 'Filipowice',
@@ -4447,7 +4132,7 @@ return array (
     'latitude' => 50.15573,
     'longitude' => 19.56579,
   ),
-  494 => 
+  459 => 
   array (
     'id' => 86270,
     'name' => 'Filipów',
@@ -4456,7 +4141,7 @@ return array (
     'latitude' => 54.18037,
     'longitude' => 22.62076,
   ),
-  495 => 
+  460 => 
   array (
     'id' => 86271,
     'name' => 'Firlej',
@@ -4465,7 +4150,7 @@ return array (
     'latitude' => 51.55882,
     'longitude' => 22.50841,
   ),
-  496 => 
+  461 => 
   array (
     'id' => 86272,
     'name' => 'Fordon',
@@ -4474,7 +4159,7 @@ return array (
     'latitude' => 53.14821,
     'longitude' => 18.17036,
   ),
-  497 => 
+  462 => 
   array (
     'id' => 86273,
     'name' => 'Frampol',
@@ -4483,7 +4168,7 @@ return array (
     'latitude' => 50.67159,
     'longitude' => 22.67061,
   ),
-  498 => 
+  463 => 
   array (
     'id' => 86274,
     'name' => 'Fredropol',
@@ -4492,7 +4177,7 @@ return array (
     'latitude' => 49.69578,
     'longitude' => 22.74625,
   ),
-  499 => 
+  464 => 
   array (
     'id' => 86275,
     'name' => 'Frombork',
@@ -4501,7 +4186,7 @@ return array (
     'latitude' => 54.35766,
     'longitude' => 19.68029,
   ),
-  500 => 
+  465 => 
   array (
     'id' => 86276,
     'name' => 'Frydek',
@@ -4510,7 +4195,7 @@ return array (
     'latitude' => 49.99626,
     'longitude' => 19.07278,
   ),
-  501 => 
+  466 => 
   array (
     'id' => 86277,
     'name' => 'Frydman',
@@ -4519,7 +4204,7 @@ return array (
     'latitude' => 49.44927,
     'longitude' => 20.22961,
   ),
-  502 => 
+  467 => 
   array (
     'id' => 86278,
     'name' => 'Frydrychowice',
@@ -4528,7 +4213,7 @@ return array (
     'latitude' => 49.90481,
     'longitude' => 19.41936,
   ),
-  503 => 
+  468 => 
   array (
     'id' => 86279,
     'name' => 'Frysztak',
@@ -4537,7 +4222,7 @@ return array (
     'latitude' => 49.84164,
     'longitude' => 21.60942,
   ),
-  504 => 
+  469 => 
   array (
     'id' => 86280,
     'name' => 'Galewice',
@@ -4546,7 +4231,7 @@ return array (
     'latitude' => 51.34471,
     'longitude' => 18.25756,
   ),
-  505 => 
+  470 => 
   array (
     'id' => 86281,
     'name' => 'Garbatka-Letnisko',
@@ -4555,7 +4240,7 @@ return array (
     'latitude' => 51.4832,
     'longitude' => 21.61079,
   ),
-  506 => 
+  471 => 
   array (
     'id' => 86282,
     'name' => 'Garbów',
@@ -4564,7 +4249,7 @@ return array (
     'latitude' => 51.35517,
     'longitude' => 22.32937,
   ),
-  507 => 
+  472 => 
   array (
     'id' => 86283,
     'name' => 'Garcz',
@@ -4573,7 +4258,7 @@ return array (
     'latitude' => 54.3476,
     'longitude' => 18.10169,
   ),
-  508 => 
+  473 => 
   array (
     'id' => 86284,
     'name' => 'Gardawice',
@@ -4582,7 +4267,7 @@ return array (
     'latitude' => 50.11667,
     'longitude' => 18.8,
   ),
-  509 => 
+  474 => 
   array (
     'id' => 86285,
     'name' => 'Gardeja',
@@ -4591,7 +4276,7 @@ return array (
     'latitude' => 53.61125,
     'longitude' => 18.94687,
   ),
-  510 => 
+  475 => 
   array (
     'id' => 86286,
     'name' => 'Garwolin',
@@ -4600,7 +4285,7 @@ return array (
     'latitude' => 51.89747,
     'longitude' => 21.61466,
   ),
-  511 => 
+  476 => 
   array (
     'id' => 86287,
     'name' => 'Gaszowice',
@@ -4609,7 +4294,7 @@ return array (
     'latitude' => 50.10858,
     'longitude' => 18.43042,
   ),
-  512 => 
+  477 => 
   array (
     'id' => 86288,
     'name' => 'Gaworzyce',
@@ -4618,7 +4303,7 @@ return array (
     'latitude' => 51.62773,
     'longitude' => 15.88198,
   ),
-  513 => 
+  478 => 
   array (
     'id' => 86289,
     'name' => 'Gać',
@@ -4627,7 +4312,7 @@ return array (
     'latitude' => 50.02693,
     'longitude' => 22.35898,
   ),
-  514 => 
+  479 => 
   array (
     'id' => 86290,
     'name' => 'Gałków Mały',
@@ -4636,7 +4321,7 @@ return array (
     'latitude' => 51.72554,
     'longitude' => 19.71359,
   ),
-  515 => 
+  480 => 
   array (
     'id' => 86291,
     'name' => 'Gdańsk',
@@ -4645,7 +4330,7 @@ return array (
     'latitude' => 54.35205,
     'longitude' => 18.64637,
   ),
-  516 => 
+  481 => 
   array (
     'id' => 86292,
     'name' => 'Gdynia',
@@ -4654,7 +4339,7 @@ return array (
     'latitude' => 54.51889,
     'longitude' => 18.53188,
   ),
-  517 => 
+  482 => 
   array (
     'id' => 86293,
     'name' => 'Gdów',
@@ -4663,7 +4348,7 @@ return array (
     'latitude' => 49.90818,
     'longitude' => 20.19879,
   ),
-  518 => 
+  483 => 
   array (
     'id' => 86294,
     'name' => 'Gidle',
@@ -4672,7 +4357,7 @@ return array (
     'latitude' => 50.96199,
     'longitude' => 19.47181,
   ),
-  519 => 
+  484 => 
   array (
     'id' => 86295,
     'name' => 'Giebułtów',
@@ -4681,7 +4366,7 @@ return array (
     'latitude' => 50.14556,
     'longitude' => 19.87856,
   ),
-  520 => 
+  485 => 
   array (
     'id' => 86296,
     'name' => 'Giedlarowa',
@@ -4690,7 +4375,7 @@ return array (
     'latitude' => 50.22689,
     'longitude' => 22.40593,
   ),
-  521 => 
+  486 => 
   array (
     'id' => 86297,
     'name' => 'Gielniów',
@@ -4699,7 +4384,7 @@ return array (
     'latitude' => 51.40076,
     'longitude' => 20.48126,
   ),
-  522 => 
+  487 => 
   array (
     'id' => 86298,
     'name' => 'Gierałtowice',
@@ -4708,16 +4393,7 @@ return array (
     'latitude' => 49.94426,
     'longitude' => 19.3907,
   ),
-  523 => 
-  array (
-    'id' => 86299,
-    'name' => 'Gierałtowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.22486,
-    'longitude' => 18.73384,
-  ),
-  524 => 
+  488 => 
   array (
     'id' => 86300,
     'name' => 'Gierzwałd',
@@ -4726,7 +4402,7 @@ return array (
     'latitude' => 53.54128,
     'longitude' => 20.08867,
   ),
-  525 => 
+  489 => 
   array (
     'id' => 86301,
     'name' => 'Gierłoż',
@@ -4735,7 +4411,7 @@ return array (
     'latitude' => 54.08134,
     'longitude' => 21.49551,
   ),
-  526 => 
+  490 => 
   array (
     'id' => 86302,
     'name' => 'Gietrzwałd',
@@ -4744,7 +4420,7 @@ return array (
     'latitude' => 53.74617,
     'longitude' => 20.23742,
   ),
-  527 => 
+  491 => 
   array (
     'id' => 86303,
     'name' => 'Gilowice',
@@ -4753,7 +4429,7 @@ return array (
     'latitude' => 49.99505,
     'longitude' => 19.09613,
   ),
-  528 => 
+  492 => 
   array (
     'id' => 86304,
     'name' => 'Gizałki',
@@ -4762,7 +4438,7 @@ return array (
     'latitude' => 52.04267,
     'longitude' => 17.76936,
   ),
-  529 => 
+  493 => 
   array (
     'id' => 86305,
     'name' => 'Giżycko',
@@ -4771,7 +4447,7 @@ return array (
     'latitude' => 54.03811,
     'longitude' => 21.76441,
   ),
-  530 => 
+  494 => 
   array (
     'id' => 86306,
     'name' => 'Glinojeck',
@@ -4780,7 +4456,7 @@ return array (
     'latitude' => 52.81983,
     'longitude' => 20.29198,
   ),
-  531 => 
+  495 => 
   array (
     'id' => 86307,
     'name' => 'Gliwice',
@@ -4789,7 +4465,7 @@ return array (
     'latitude' => 50.29761,
     'longitude' => 18.67658,
   ),
-  532 => 
+  496 => 
   array (
     'id' => 86308,
     'name' => 'Gniazdów',
@@ -4798,7 +4474,7 @@ return array (
     'latitude' => 50.59621,
     'longitude' => 19.11132,
   ),
-  533 => 
+  497 => 
   array (
     'id' => 86309,
     'name' => 'Gniechowice',
@@ -4807,7 +4483,7 @@ return array (
     'latitude' => 50.98804,
     'longitude' => 16.83363,
   ),
-  534 => 
+  498 => 
   array (
     'id' => 86310,
     'name' => 'Gniew',
@@ -4816,7 +4492,7 @@ return array (
     'latitude' => 53.83602,
     'longitude' => 18.8231,
   ),
-  535 => 
+  499 => 
   array (
     'id' => 86311,
     'name' => 'Gniewino',
@@ -4825,7 +4501,7 @@ return array (
     'latitude' => 54.71709,
     'longitude' => 18.01663,
   ),
-  536 => 
+  500 => 
   array (
     'id' => 86312,
     'name' => 'Gniewkowo',
@@ -4834,7 +4510,7 @@ return array (
     'latitude' => 52.89461,
     'longitude' => 18.40785,
   ),
-  537 => 
+  501 => 
   array (
     'id' => 86313,
     'name' => 'Gniezno',
@@ -4843,7 +4519,7 @@ return array (
     'latitude' => 52.53481,
     'longitude' => 17.58259,
   ),
-  538 => 
+  502 => 
   array (
     'id' => 86314,
     'name' => 'Gnieżdżewo',
@@ -4852,7 +4528,7 @@ return array (
     'latitude' => 54.74741,
     'longitude' => 18.37944,
   ),
-  539 => 
+  503 => 
   array (
     'id' => 86315,
     'name' => 'Gnojnik',
@@ -4861,7 +4537,7 @@ return array (
     'latitude' => 49.89397,
     'longitude' => 20.60863,
   ),
-  540 => 
+  504 => 
   array (
     'id' => 86316,
     'name' => 'Gnojno',
@@ -4870,7 +4546,7 @@ return array (
     'latitude' => 50.60263,
     'longitude' => 20.84913,
   ),
-  541 => 
+  505 => 
   array (
     'id' => 86317,
     'name' => 'Goczałkowice Zdrój',
@@ -4879,7 +4555,7 @@ return array (
     'latitude' => 49.94454,
     'longitude' => 18.96927,
   ),
-  542 => 
+  506 => 
   array (
     'id' => 86318,
     'name' => 'Godzianów',
@@ -4888,7 +4564,7 @@ return array (
     'latitude' => 51.89694,
     'longitude' => 20.03589,
   ),
-  543 => 
+  507 => 
   array (
     'id' => 86319,
     'name' => 'Godziszka',
@@ -4897,7 +4573,7 @@ return array (
     'latitude' => 49.71288,
     'longitude' => 19.07587,
   ),
-  544 => 
+  508 => 
   array (
     'id' => 86320,
     'name' => 'Godziszów',
@@ -4906,7 +4582,7 @@ return array (
     'latitude' => 50.74889,
     'longitude' => 22.49794,
   ),
-  545 => 
+  509 => 
   array (
     'id' => 86321,
     'name' => 'Godziszów Pierwszy',
@@ -4915,7 +4591,7 @@ return array (
     'latitude' => 50.75753,
     'longitude' => 22.48386,
   ),
-  546 => 
+  510 => 
   array (
     'id' => 86322,
     'name' => 'Godów',
@@ -4924,7 +4600,7 @@ return array (
     'latitude' => 49.92481,
     'longitude' => 18.4783,
   ),
-  547 => 
+  511 => 
   array (
     'id' => 86323,
     'name' => 'Gogolin',
@@ -4933,7 +4609,7 @@ return array (
     'latitude' => 50.49222,
     'longitude' => 18.01994,
   ),
-  548 => 
+  512 => 
   array (
     'id' => 86324,
     'name' => 'Golcowa',
@@ -4942,7 +4618,7 @@ return array (
     'latitude' => 49.77162,
     'longitude' => 22.02501,
   ),
-  549 => 
+  513 => 
   array (
     'id' => 86325,
     'name' => 'Golczewo',
@@ -4951,7 +4627,7 @@ return array (
     'latitude' => 53.82426,
     'longitude' => 14.97847,
   ),
-  550 => 
+  514 => 
   array (
     'id' => 86326,
     'name' => 'Goleniów',
@@ -4960,7 +4636,7 @@ return array (
     'latitude' => 53.56392,
     'longitude' => 14.82854,
   ),
-  551 => 
+  515 => 
   array (
     'id' => 86327,
     'name' => 'Goleszów',
@@ -4969,7 +4645,7 @@ return array (
     'latitude' => 49.7358,
     'longitude' => 18.73675,
   ),
-  552 => 
+  516 => 
   array (
     'id' => 86328,
     'name' => 'Golina',
@@ -4978,7 +4654,7 @@ return array (
     'latitude' => 52.24315,
     'longitude' => 18.09268,
   ),
-  553 => 
+  517 => 
   array (
     'id' => 86329,
     'name' => 'Golub-Dobrzyń',
@@ -4987,7 +4663,7 @@ return array (
     'latitude' => 53.11087,
     'longitude' => 19.05381,
   ),
-  554 => 
+  518 => 
   array (
     'id' => 86330,
     'name' => 'Gomunice',
@@ -4996,7 +4672,7 @@ return array (
     'latitude' => 51.1689,
     'longitude' => 19.49335,
   ),
-  555 => 
+  519 => 
   array (
     'id' => 86331,
     'name' => 'Goniadz',
@@ -5005,7 +4681,7 @@ return array (
     'latitude' => 53.48953,
     'longitude' => 22.73578,
   ),
-  556 => 
+  520 => 
   array (
     'id' => 86332,
     'name' => 'Goraj',
@@ -5014,7 +4690,7 @@ return array (
     'latitude' => 50.72184,
     'longitude' => 22.66651,
   ),
-  557 => 
+  521 => 
   array (
     'id' => 86333,
     'name' => 'Gorenice',
@@ -5023,7 +4699,7 @@ return array (
     'latitude' => 50.208,
     'longitude' => 19.62038,
   ),
-  558 => 
+  522 => 
   array (
     'id' => 86334,
     'name' => 'Gorlice',
@@ -5032,7 +4708,7 @@ return array (
     'latitude' => 49.65563,
     'longitude' => 21.16035,
   ),
-  559 => 
+  523 => 
   array (
     'id' => 86335,
     'name' => 'Gorliczyna',
@@ -5041,7 +4717,7 @@ return array (
     'latitude' => 50.09217,
     'longitude' => 22.48764,
   ),
-  560 => 
+  524 => 
   array (
     'id' => 86336,
     'name' => 'Gorzkowice',
@@ -5050,7 +4726,7 @@ return array (
     'latitude' => 51.21533,
     'longitude' => 19.59626,
   ),
-  561 => 
+  525 => 
   array (
     'id' => 86337,
     'name' => 'Gorzków',
@@ -5059,7 +4735,7 @@ return array (
     'latitude' => 50.94778,
     'longitude' => 23.01267,
   ),
-  562 => 
+  526 => 
   array (
     'id' => 86338,
     'name' => 'Gorzyce',
@@ -5068,16 +4744,7 @@ return array (
     'latitude' => 50.12841,
     'longitude' => 22.57926,
   ),
-  563 => 
-  array (
-    'id' => 86339,
-    'name' => 'Gorzyce',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.95945,
-    'longitude' => 18.39884,
-  ),
-  564 => 
+  527 => 
   array (
     'id' => 86340,
     'name' => 'Gorzyce Wielkie',
@@ -5086,7 +4753,7 @@ return array (
     'latitude' => 51.63725,
     'longitude' => 17.72953,
   ),
-  565 => 
+  528 => 
   array (
     'id' => 86341,
     'name' => 'Gorzyczki',
@@ -5095,7 +4762,7 @@ return array (
     'latitude' => 49.94912,
     'longitude' => 18.4033,
   ),
-  566 => 
+  529 => 
   array (
     'id' => 86342,
     'name' => 'Gorzów Wielkopolski',
@@ -5104,7 +4771,7 @@ return array (
     'latitude' => 52.73679,
     'longitude' => 15.22878,
   ),
-  567 => 
+  530 => 
   array (
     'id' => 86343,
     'name' => 'Gorzów Śląski',
@@ -5113,7 +4780,7 @@ return array (
     'latitude' => 51.02871,
     'longitude' => 18.42304,
   ),
-  568 => 
+  531 => 
   array (
     'id' => 86344,
     'name' => 'Gostycyn',
@@ -5122,7 +4789,7 @@ return array (
     'latitude' => 53.49014,
     'longitude' => 17.80978,
   ),
-  569 => 
+  532 => 
   array (
     'id' => 86345,
     'name' => 'Gostynin',
@@ -5131,7 +4798,7 @@ return array (
     'latitude' => 52.42938,
     'longitude' => 19.46194,
   ),
-  570 => 
+  533 => 
   array (
     'id' => 86346,
     'name' => 'Gostyń',
@@ -5140,16 +4807,7 @@ return array (
     'latitude' => 50.10528,
     'longitude' => 18.88241,
   ),
-  571 => 
-  array (
-    'id' => 86347,
-    'name' => 'Gostyń',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.88247,
-    'longitude' => 17.01225,
-  ),
-  572 => 
+  534 => 
   array (
     'id' => 86348,
     'name' => 'Goszczanów',
@@ -5158,7 +4816,7 @@ return array (
     'latitude' => 51.79163,
     'longitude' => 18.5057,
   ),
-  573 => 
+  535 => 
   array (
     'id' => 86349,
     'name' => 'Goszczyn',
@@ -5167,7 +4825,7 @@ return array (
     'latitude' => 51.73187,
     'longitude' => 20.85154,
   ),
-  574 => 
+  536 => 
   array (
     'id' => 86350,
     'name' => 'Gowarczów',
@@ -5176,7 +4834,7 @@ return array (
     'latitude' => 51.27845,
     'longitude' => 20.43835,
   ),
-  575 => 
+  537 => 
   array (
     'id' => 86351,
     'name' => 'Goworowo',
@@ -5185,7 +4843,7 @@ return array (
     'latitude' => 52.90083,
     'longitude' => 21.55578,
   ),
-  576 => 
+  538 => 
   array (
     'id' => 86352,
     'name' => 'Gozdnica',
@@ -5194,7 +4852,7 @@ return array (
     'latitude' => 51.4363,
     'longitude' => 15.09856,
   ),
-  577 => 
+  539 => 
   array (
     'id' => 86353,
     'name' => 'Gozdowo',
@@ -5203,7 +4861,7 @@ return array (
     'latitude' => 52.72455,
     'longitude' => 19.68501,
   ),
-  578 => 
+  540 => 
   array (
     'id' => 86354,
     'name' => 'Gołańcz',
@@ -5212,7 +4870,7 @@ return array (
     'latitude' => 52.94326,
     'longitude' => 17.29995,
   ),
-  579 => 
+  541 => 
   array (
     'id' => 86355,
     'name' => 'Gołdap',
@@ -5221,7 +4879,7 @@ return array (
     'latitude' => 54.30631,
     'longitude' => 22.30362,
   ),
-  580 => 
+  542 => 
   array (
     'id' => 86356,
     'name' => 'Gołkowice',
@@ -5230,7 +4888,7 @@ return array (
     'latitude' => 49.91418,
     'longitude' => 18.51419,
   ),
-  581 => 
+  543 => 
   array (
     'id' => 86357,
     'name' => 'Gołuchów',
@@ -5239,7 +4897,7 @@ return array (
     'latitude' => 51.85036,
     'longitude' => 17.9314,
   ),
-  582 => 
+  544 => 
   array (
     'id' => 86358,
     'name' => 'Gołymin-Ośrodek',
@@ -5248,7 +4906,7 @@ return array (
     'latitude' => 52.808,
     'longitude' => 20.87325,
   ),
-  583 => 
+  545 => 
   array (
     'id' => 86359,
     'name' => 'Gościcino',
@@ -5257,7 +4915,7 @@ return array (
     'latitude' => 54.60459,
     'longitude' => 18.15491,
   ),
-  584 => 
+  546 => 
   array (
     'id' => 86360,
     'name' => 'Gościeradów',
@@ -5266,7 +4924,7 @@ return array (
     'latitude' => 50.86859,
     'longitude' => 22.00536,
   ),
-  585 => 
+  547 => 
   array (
     'id' => 86361,
     'name' => 'Gościno',
@@ -5275,7 +4933,7 @@ return array (
     'latitude' => 54.05123,
     'longitude' => 15.65256,
   ),
-  586 => 
+  548 => 
   array (
     'id' => 86362,
     'name' => 'Grabica',
@@ -5284,7 +4942,7 @@ return array (
     'latitude' => 51.47989,
     'longitude' => 19.53137,
   ),
-  587 => 
+  549 => 
   array (
     'id' => 86363,
     'name' => 'Grabiszyn',
@@ -5293,7 +4951,7 @@ return array (
     'latitude' => 51.09369,
     'longitude' => 16.97819,
   ),
-  588 => 
+  550 => 
   array (
     'id' => 86364,
     'name' => 'Grabiszynek',
@@ -5302,7 +4960,7 @@ return array (
     'latitude' => 51.08703,
     'longitude' => 16.98629,
   ),
-  589 => 
+  551 => 
   array (
     'id' => 86365,
     'name' => 'Grabowiec',
@@ -5311,7 +4969,7 @@ return array (
     'latitude' => 50.8209,
     'longitude' => 23.55057,
   ),
-  590 => 
+  552 => 
   array (
     'id' => 86366,
     'name' => 'Grabownica Starzeńska',
@@ -5320,7 +4978,7 @@ return array (
     'latitude' => 49.65896,
     'longitude' => 22.07754,
   ),
-  591 => 
+  553 => 
   array (
     'id' => 86367,
     'name' => 'Grabowo Kościerskie',
@@ -5329,7 +4987,7 @@ return array (
     'latitude' => 54.16816,
     'longitude' => 18.14692,
   ),
-  592 => 
+  554 => 
   array (
     'id' => 86368,
     'name' => 'Grabów',
@@ -5338,7 +4996,7 @@ return array (
     'latitude' => 52.12717,
     'longitude' => 19.00257,
   ),
-  593 => 
+  555 => 
   array (
     'id' => 86369,
     'name' => 'Grabów nad Prosną',
@@ -5347,7 +5005,7 @@ return array (
     'latitude' => 51.50596,
     'longitude' => 18.11929,
   ),
-  594 => 
+  556 => 
   array (
     'id' => 86370,
     'name' => 'Grajewo',
@@ -5356,7 +5014,7 @@ return array (
     'latitude' => 53.64728,
     'longitude' => 22.45537,
   ),
-  595 => 
+  557 => 
   array (
     'id' => 86371,
     'name' => 'Granica',
@@ -5365,7 +5023,7 @@ return array (
     'latitude' => 52.13359,
     'longitude' => 20.80313,
   ),
-  596 => 
+  558 => 
   array (
     'id' => 86372,
     'name' => 'Granowo',
@@ -5374,7 +5032,7 @@ return array (
     'latitude' => 52.22244,
     'longitude' => 16.52859,
   ),
-  597 => 
+  559 => 
   array (
     'id' => 86373,
     'name' => 'Grodków',
@@ -5383,7 +5041,7 @@ return array (
     'latitude' => 50.69836,
     'longitude' => 17.38449,
   ),
-  598 => 
+  560 => 
   array (
     'id' => 86374,
     'name' => 'Grodziec',
@@ -5392,7 +5050,7 @@ return array (
     'latitude' => 52.03855,
     'longitude' => 18.05972,
   ),
-  599 => 
+  561 => 
   array (
     'id' => 86375,
     'name' => 'Grodzisk Mazowiecki',
@@ -5401,7 +5059,7 @@ return array (
     'latitude' => 52.10387,
     'longitude' => 20.6337,
   ),
-  600 => 
+  562 => 
   array (
     'id' => 86376,
     'name' => 'Grodzisk Wielkopolski',
@@ -5410,7 +5068,7 @@ return array (
     'latitude' => 52.22762,
     'longitude' => 16.36534,
   ),
-  601 => 
+  563 => 
   array (
     'id' => 86377,
     'name' => 'Grodzisko Dolne',
@@ -5419,7 +5077,7 @@ return array (
     'latitude' => 50.16238,
     'longitude' => 22.46292,
   ),
-  602 => 
+  564 => 
   array (
     'id' => 86378,
     'name' => 'Grodzisko Górne',
@@ -5428,7 +5086,7 @@ return array (
     'latitude' => 50.1869,
     'longitude' => 22.43786,
   ),
-  603 => 
+  565 => 
   array (
     'id' => 86379,
     'name' => 'Grojec',
@@ -5437,7 +5095,7 @@ return array (
     'latitude' => 49.98147,
     'longitude' => 19.23792,
   ),
-  604 => 
+  566 => 
   array (
     'id' => 86380,
     'name' => 'Gromadka',
@@ -5446,7 +5104,7 @@ return array (
     'latitude' => 51.36063,
     'longitude' => 15.76452,
   ),
-  605 => 
+  567 => 
   array (
     'id' => 86381,
     'name' => 'Gromnik',
@@ -5455,7 +5113,7 @@ return array (
     'latitude' => 49.83843,
     'longitude' => 20.96123,
   ),
-  606 => 
+  568 => 
   array (
     'id' => 86382,
     'name' => 'Gronowo Elbląskie',
@@ -5464,7 +5122,7 @@ return array (
     'latitude' => 54.08588,
     'longitude' => 19.30598,
   ),
-  607 => 
+  569 => 
   array (
     'id' => 86383,
     'name' => 'Gronowo Górne',
@@ -5473,7 +5131,7 @@ return array (
     'latitude' => 54.13863,
     'longitude' => 19.45988,
   ),
-  608 => 
+  570 => 
   array (
     'id' => 86384,
     'name' => 'Grudki',
@@ -5482,7 +5140,7 @@ return array (
     'latitude' => 53.09488,
     'longitude' => 23.66848,
   ),
-  609 => 
+  571 => 
   array (
     'id' => 86385,
     'name' => 'Grudusk',
@@ -5491,7 +5149,7 @@ return array (
     'latitude' => 53.05845,
     'longitude' => 20.62494,
   ),
-  610 => 
+  572 => 
   array (
     'id' => 86386,
     'name' => 'Grudziądz',
@@ -5500,7 +5158,7 @@ return array (
     'latitude' => 53.48411,
     'longitude' => 18.75366,
   ),
-  611 => 
+  573 => 
   array (
     'id' => 86387,
     'name' => 'Gruszów Wielki',
@@ -5509,7 +5167,7 @@ return array (
     'latitude' => 50.19163,
     'longitude' => 21.03144,
   ),
-  612 => 
+  574 => 
   array (
     'id' => 86388,
     'name' => 'Gruta',
@@ -5518,7 +5176,7 @@ return array (
     'latitude' => 53.45315,
     'longitude' => 18.957,
   ),
-  613 => 
+  575 => 
   array (
     'id' => 86389,
     'name' => 'Grybów',
@@ -5527,7 +5185,7 @@ return array (
     'latitude' => 49.62439,
     'longitude' => 20.94797,
   ),
-  614 => 
+  576 => 
   array (
     'id' => 86390,
     'name' => 'Gryfice',
@@ -5536,7 +5194,7 @@ return array (
     'latitude' => 53.9165,
     'longitude' => 15.20027,
   ),
-  615 => 
+  577 => 
   array (
     'id' => 86391,
     'name' => 'Gryfino',
@@ -5545,7 +5203,7 @@ return array (
     'latitude' => 53.25243,
     'longitude' => 14.48831,
   ),
-  616 => 
+  578 => 
   array (
     'id' => 86392,
     'name' => 'Gryfów Śląski',
@@ -5554,7 +5212,7 @@ return array (
     'latitude' => 51.03081,
     'longitude' => 15.42017,
   ),
-  617 => 
+  579 => 
   array (
     'id' => 86393,
     'name' => 'Grzechynia',
@@ -5563,7 +5221,7 @@ return array (
     'latitude' => 49.7136,
     'longitude' => 19.64561,
   ),
-  618 => 
+  580 => 
   array (
     'id' => 86394,
     'name' => 'Grzegorzew',
@@ -5572,7 +5230,7 @@ return array (
     'latitude' => 52.20177,
     'longitude' => 18.73409,
   ),
-  619 => 
+  581 => 
   array (
     'id' => 86395,
     'name' => 'Grzmiąca',
@@ -5581,7 +5239,7 @@ return array (
     'latitude' => 53.83734,
     'longitude' => 16.43512,
   ),
-  620 => 
+  582 => 
   array (
     'id' => 86396,
     'name' => 'Grzybowa Góra',
@@ -5590,7 +5248,7 @@ return array (
     'latitude' => 51.13326,
     'longitude' => 20.96174,
   ),
-  621 => 
+  583 => 
   array (
     'id' => 86397,
     'name' => 'Grzybowo',
@@ -5599,7 +5257,7 @@ return array (
     'latitude' => 54.15892,
     'longitude' => 15.48557,
   ),
-  622 => 
+  584 => 
   array (
     'id' => 86398,
     'name' => 'Grzęska',
@@ -5608,7 +5266,7 @@ return array (
     'latitude' => 50.08303,
     'longitude' => 22.45399,
   ),
-  623 => 
+  585 => 
   array (
     'id' => 86399,
     'name' => 'Grójec',
@@ -5617,7 +5275,7 @@ return array (
     'latitude' => 51.86252,
     'longitude' => 20.86757,
   ),
-  624 => 
+  586 => 
   array (
     'id' => 86400,
     'name' => 'Grębków',
@@ -5626,7 +5284,7 @@ return array (
     'latitude' => 52.26931,
     'longitude' => 21.90974,
   ),
-  625 => 
+  587 => 
   array (
     'id' => 86401,
     'name' => 'Grębocice',
@@ -5635,7 +5293,7 @@ return array (
     'latitude' => 51.59909,
     'longitude' => 16.16741,
   ),
-  626 => 
+  588 => 
   array (
     'id' => 86402,
     'name' => 'Gręboszów',
@@ -5644,7 +5302,7 @@ return array (
     'latitude' => 50.24501,
     'longitude' => 20.77669,
   ),
-  627 => 
+  589 => 
   array (
     'id' => 86403,
     'name' => 'Grębów',
@@ -5653,7 +5311,7 @@ return array (
     'latitude' => 50.56536,
     'longitude' => 21.87404,
   ),
-  628 => 
+  590 => 
   array (
     'id' => 86404,
     'name' => 'Gubin',
@@ -5662,7 +5320,7 @@ return array (
     'latitude' => 51.94956,
     'longitude' => 14.72837,
   ),
-  629 => 
+  591 => 
   array (
     'id' => 86405,
     'name' => 'Guzów',
@@ -5671,7 +5329,7 @@ return array (
     'latitude' => 52.11626,
     'longitude' => 20.33672,
   ),
-  630 => 
+  592 => 
   array (
     'id' => 86406,
     'name' => 'Gwoźnica Górna',
@@ -5680,7 +5338,7 @@ return array (
     'latitude' => 49.82791,
     'longitude' => 21.99772,
   ),
-  631 => 
+  593 => 
   array (
     'id' => 86407,
     'name' => 'Gzy',
@@ -5689,7 +5347,7 @@ return array (
     'latitude' => 52.74045,
     'longitude' => 20.94372,
   ),
-  632 => 
+  594 => 
   array (
     'id' => 86408,
     'name' => 'Góra',
@@ -5698,16 +5356,7 @@ return array (
     'latitude' => 51.66638,
     'longitude' => 16.53494,
   ),
-  633 => 
-  array (
-    'id' => 86409,
-    'name' => 'Góra',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.97971,
-    'longitude' => 19.10471,
-  ),
-  634 => 
+  595 => 
   array (
     'id' => 86410,
     'name' => 'Góra Kalwaria',
@@ -5716,7 +5365,7 @@ return array (
     'latitude' => 51.97653,
     'longitude' => 21.21537,
   ),
-  635 => 
+  596 => 
   array (
     'id' => 86411,
     'name' => 'Góra Świętej Małgorzaty',
@@ -5725,7 +5374,7 @@ return array (
     'latitude' => 52.05713,
     'longitude' => 19.31997,
   ),
-  636 => 
+  597 => 
   array (
     'id' => 86412,
     'name' => 'Górażdże',
@@ -5734,7 +5383,7 @@ return array (
     'latitude' => 50.52903,
     'longitude' => 18.01003,
   ),
-  637 => 
+  598 => 
   array (
     'id' => 86413,
     'name' => 'Górki',
@@ -5743,7 +5392,7 @@ return array (
     'latitude' => 49.64385,
     'longitude' => 22.04304,
   ),
-  638 => 
+  599 => 
   array (
     'id' => 86414,
     'name' => 'Górki Wielkie',
@@ -5752,7 +5401,7 @@ return array (
     'latitude' => 49.77971,
     'longitude' => 18.83117,
   ),
-  639 => 
+  600 => 
   array (
     'id' => 86415,
     'name' => 'Górno',
@@ -5761,16 +5410,7 @@ return array (
     'latitude' => 50.84774,
     'longitude' => 20.82501,
   ),
-  640 => 
-  array (
-    'id' => 86416,
-    'name' => 'Górno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.28243,
-    'longitude' => 22.145,
-  ),
-  641 => 
+  601 => 
   array (
     'id' => 86417,
     'name' => 'Górowo Iławeckie',
@@ -5779,7 +5419,7 @@ return array (
     'latitude' => 54.28559,
     'longitude' => 20.48886,
   ),
-  642 => 
+  602 => 
   array (
     'id' => 86418,
     'name' => 'Górzno',
@@ -5788,16 +5428,7 @@ return array (
     'latitude' => 51.84681,
     'longitude' => 21.70933,
   ),
-  643 => 
-  array (
-    'id' => 86419,
-    'name' => 'Górzno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.19779,
-    'longitude' => 19.64317,
-  ),
-  644 => 
+  603 => 
   array (
     'id' => 86420,
     'name' => 'Górzyca',
@@ -5806,7 +5437,7 @@ return array (
     'latitude' => 52.49447,
     'longitude' => 14.65503,
   ),
-  645 => 
+  604 => 
   array (
     'id' => 86421,
     'name' => 'Gózd',
@@ -5815,7 +5446,7 @@ return array (
     'latitude' => 51.37832,
     'longitude' => 21.37914,
   ),
-  646 => 
+  605 => 
   array (
     'id' => 86422,
     'name' => 'Gąbin',
@@ -5824,7 +5455,7 @@ return array (
     'latitude' => 52.39849,
     'longitude' => 19.73509,
   ),
-  647 => 
+  606 => 
   array (
     'id' => 86423,
     'name' => 'Gądów Mały',
@@ -5833,7 +5464,7 @@ return array (
     'latitude' => 51.11853,
     'longitude' => 16.98596,
   ),
-  648 => 
+  607 => 
   array (
     'id' => 86424,
     'name' => 'Gąsawa',
@@ -5842,7 +5473,7 @@ return array (
     'latitude' => 52.76757,
     'longitude' => 17.75579,
   ),
-  649 => 
+  608 => 
   array (
     'id' => 86425,
     'name' => 'Gąsocin',
@@ -5851,7 +5482,7 @@ return array (
     'latitude' => 52.73754,
     'longitude' => 20.7118,
   ),
-  650 => 
+  609 => 
   array (
     'id' => 86426,
     'name' => 'Głogoczów',
@@ -5860,7 +5491,7 @@ return array (
     'latitude' => 49.89452,
     'longitude' => 19.8741,
   ),
-  651 => 
+  610 => 
   array (
     'id' => 86427,
     'name' => 'Głogów',
@@ -5869,7 +5500,7 @@ return array (
     'latitude' => 51.66361,
     'longitude' => 16.0845,
   ),
-  652 => 
+  611 => 
   array (
     'id' => 86428,
     'name' => 'Głogów Małopolski',
@@ -5878,7 +5509,7 @@ return array (
     'latitude' => 50.15122,
     'longitude' => 21.96287,
   ),
-  653 => 
+  612 => 
   array (
     'id' => 86429,
     'name' => 'Głogówek',
@@ -5887,7 +5518,7 @@ return array (
     'latitude' => 50.35355,
     'longitude' => 17.86405,
   ),
-  654 => 
+  613 => 
   array (
     'id' => 86430,
     'name' => 'Głowno',
@@ -5896,7 +5527,7 @@ return array (
     'latitude' => 51.96463,
     'longitude' => 19.71565,
   ),
-  655 => 
+  614 => 
   array (
     'id' => 86431,
     'name' => 'Głubczyce',
@@ -5905,7 +5536,7 @@ return array (
     'latitude' => 50.20086,
     'longitude' => 17.82858,
   ),
-  656 => 
+  615 => 
   array (
     'id' => 86432,
     'name' => 'Głuchołazy',
@@ -5914,7 +5545,7 @@ return array (
     'latitude' => 50.31505,
     'longitude' => 17.38355,
   ),
-  657 => 
+  616 => 
   array (
     'id' => 86433,
     'name' => 'Głuchów',
@@ -5923,16 +5554,7 @@ return array (
     'latitude' => 50.08171,
     'longitude' => 22.27135,
   ),
-  658 => 
-  array (
-    'id' => 86434,
-    'name' => 'Głuchów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.77947,
-    'longitude' => 20.07666,
-  ),
-  659 => 
+  617 => 
   array (
     'id' => 86435,
     'name' => 'Głuszyca',
@@ -5941,7 +5563,7 @@ return array (
     'latitude' => 50.68743,
     'longitude' => 16.37173,
   ),
-  660 => 
+  618 => 
   array (
     'id' => 86436,
     'name' => 'Głuszyca Górna',
@@ -5950,7 +5572,7 @@ return array (
     'latitude' => 50.66606,
     'longitude' => 16.37585,
   ),
-  661 => 
+  619 => 
   array (
     'id' => 86437,
     'name' => 'Główczyce',
@@ -5959,7 +5581,7 @@ return array (
     'latitude' => 54.61935,
     'longitude' => 17.3723,
   ),
-  662 => 
+  620 => 
   array (
     'id' => 86438,
     'name' => 'Haczów',
@@ -5968,7 +5590,7 @@ return array (
     'latitude' => 49.66152,
     'longitude' => 21.8979,
   ),
-  663 => 
+  621 => 
   array (
     'id' => 86439,
     'name' => 'Hajnówka',
@@ -5977,7 +5599,7 @@ return array (
     'latitude' => 52.74328,
     'longitude' => 23.58122,
   ),
-  664 => 
+  622 => 
   array (
     'id' => 86440,
     'name' => 'Halinów',
@@ -5986,7 +5608,7 @@ return array (
     'latitude' => 52.2288,
     'longitude' => 21.3551,
   ),
-  665 => 
+  623 => 
   array (
     'id' => 86441,
     'name' => 'Handzlówka',
@@ -5995,7 +5617,7 @@ return array (
     'latitude' => 49.99527,
     'longitude' => 22.22311,
   ),
-  666 => 
+  624 => 
   array (
     'id' => 86442,
     'name' => 'Harasiuki',
@@ -6004,7 +5626,7 @@ return array (
     'latitude' => 50.47515,
     'longitude' => 22.47288,
   ),
-  667 => 
+  625 => 
   array (
     'id' => 86443,
     'name' => 'Harbutowice',
@@ -6013,7 +5635,7 @@ return array (
     'latitude' => 49.81235,
     'longitude' => 19.78045,
   ),
-  668 => 
+  626 => 
   array (
     'id' => 86444,
     'name' => 'Hańsk',
@@ -6022,7 +5644,7 @@ return array (
     'latitude' => 51.41286,
     'longitude' => 23.39942,
   ),
-  669 => 
+  627 => 
   array (
     'id' => 86445,
     'name' => 'Hażlach',
@@ -6031,7 +5653,7 @@ return array (
     'latitude' => 49.80714,
     'longitude' => 18.65178,
   ),
-  670 => 
+  628 => 
   array (
     'id' => 86446,
     'name' => 'Hel',
@@ -6040,7 +5662,7 @@ return array (
     'latitude' => 54.60814,
     'longitude' => 18.8013,
   ),
-  671 => 
+  629 => 
   array (
     'id' => 86447,
     'name' => 'Henryków',
@@ -6049,7 +5671,7 @@ return array (
     'latitude' => 50.65327,
     'longitude' => 17.01027,
   ),
-  672 => 
+  630 => 
   array (
     'id' => 86448,
     'name' => 'Herby',
@@ -6058,7 +5680,7 @@ return array (
     'latitude' => 50.75318,
     'longitude' => 18.88756,
   ),
-  673 => 
+  631 => 
   array (
     'id' => 86449,
     'name' => 'Hornówek',
@@ -6067,7 +5689,7 @@ return array (
     'latitude' => 52.28638,
     'longitude' => 20.80793,
   ),
-  674 => 
+  632 => 
   array (
     'id' => 86450,
     'name' => 'Horodło',
@@ -6076,7 +5698,7 @@ return array (
     'latitude' => 50.89459,
     'longitude' => 24.03723,
   ),
-  675 => 
+  633 => 
   array (
     'id' => 86451,
     'name' => 'Horyniec-Zdrój',
@@ -6085,7 +5707,7 @@ return array (
     'latitude' => 50.19152,
     'longitude' => 23.36277,
   ),
-  676 => 
+  634 => 
   array (
     'id' => 86452,
     'name' => 'Hrubieszów',
@@ -6094,7 +5716,7 @@ return array (
     'latitude' => 50.80502,
     'longitude' => 23.89251,
   ),
-  677 => 
+  635 => 
   array (
     'id' => 86453,
     'name' => 'Humniska',
@@ -6103,7 +5725,7 @@ return array (
     'latitude' => 49.67507,
     'longitude' => 22.05368,
   ),
-  678 => 
+  636 => 
   array (
     'id' => 86454,
     'name' => 'Husów',
@@ -6112,7 +5734,7 @@ return array (
     'latitude' => 49.97971,
     'longitude' => 22.28645,
   ),
-  679 => 
+  637 => 
   array (
     'id' => 86455,
     'name' => 'Huta Stara B',
@@ -6121,7 +5743,7 @@ return array (
     'latitude' => 50.73792,
     'longitude' => 19.13295,
   ),
-  680 => 
+  638 => 
   array (
     'id' => 86456,
     'name' => 'Hyżne',
@@ -6130,7 +5752,7 @@ return array (
     'latitude' => 49.91769,
     'longitude' => 22.18131,
   ),
-  681 => 
+  639 => 
   array (
     'id' => 86457,
     'name' => 'Imielin',
@@ -6139,7 +5761,7 @@ return array (
     'latitude' => 50.14534,
     'longitude' => 19.18599,
   ),
-  682 => 
+  640 => 
   array (
     'id' => 86458,
     'name' => 'Imielno',
@@ -6148,7 +5770,7 @@ return array (
     'latitude' => 50.58569,
     'longitude' => 20.44813,
   ),
-  683 => 
+  641 => 
   array (
     'id' => 86459,
     'name' => 'Inowrocław',
@@ -6157,7 +5779,7 @@ return array (
     'latitude' => 52.79886,
     'longitude' => 18.26387,
   ),
-  684 => 
+  642 => 
   array (
     'id' => 86460,
     'name' => 'Inowłódz',
@@ -6166,7 +5788,7 @@ return array (
     'latitude' => 51.52717,
     'longitude' => 20.223,
   ),
-  685 => 
+  643 => 
   array (
     'id' => 86461,
     'name' => 'Inwałd',
@@ -6175,7 +5797,7 @@ return array (
     'latitude' => 49.86355,
     'longitude' => 19.39276,
   ),
-  686 => 
+  644 => 
   array (
     'id' => 86462,
     'name' => 'Istebna',
@@ -6184,7 +5806,7 @@ return array (
     'latitude' => 49.56319,
     'longitude' => 18.90567,
   ),
-  687 => 
+  645 => 
   array (
     'id' => 86463,
     'name' => 'Iwaniska',
@@ -6193,7 +5815,7 @@ return array (
     'latitude' => 50.73146,
     'longitude' => 21.2806,
   ),
-  688 => 
+  646 => 
   array (
     'id' => 86464,
     'name' => 'Iwierzyce',
@@ -6202,7 +5824,7 @@ return array (
     'latitude' => 50.02958,
     'longitude' => 21.75396,
   ),
-  689 => 
+  647 => 
   array (
     'id' => 86465,
     'name' => 'Iwkowa',
@@ -6211,7 +5833,7 @@ return array (
     'latitude' => 49.81716,
     'longitude' => 20.59018,
   ),
-  690 => 
+  648 => 
   array (
     'id' => 86466,
     'name' => 'Iwonicz-Zdrój',
@@ -6220,7 +5842,7 @@ return array (
     'latitude' => 49.56319,
     'longitude' => 21.78992,
   ),
-  691 => 
+  649 => 
   array (
     'id' => 86467,
     'name' => 'Izabelin',
@@ -6229,7 +5851,7 @@ return array (
     'latitude' => 52.29992,
     'longitude' => 20.81729,
   ),
-  692 => 
+  650 => 
   array (
     'id' => 86468,
     'name' => 'Izbica',
@@ -6238,7 +5860,7 @@ return array (
     'latitude' => 50.88728,
     'longitude' => 23.15248,
   ),
-  693 => 
+  651 => 
   array (
     'id' => 86469,
     'name' => 'Izbica Kujawska',
@@ -6247,7 +5869,7 @@ return array (
     'latitude' => 52.42073,
     'longitude' => 18.7627,
   ),
-  694 => 
+  652 => 
   array (
     'id' => 86470,
     'name' => 'Izbicko',
@@ -6256,7 +5878,7 @@ return array (
     'latitude' => 50.57163,
     'longitude' => 18.15585,
   ),
-  695 => 
+  653 => 
   array (
     'id' => 86471,
     'name' => 'Izdebnik',
@@ -6265,7 +5887,7 @@ return array (
     'latitude' => 49.87218,
     'longitude' => 19.76801,
   ),
-  696 => 
+  654 => 
   array (
     'id' => 86472,
     'name' => 'Iława',
@@ -6274,7 +5896,7 @@ return array (
     'latitude' => 53.59601,
     'longitude' => 19.56849,
   ),
-  697 => 
+  655 => 
   array (
     'id' => 86473,
     'name' => 'Iłowa',
@@ -6283,7 +5905,7 @@ return array (
     'latitude' => 51.5006,
     'longitude' => 15.1998,
   ),
-  698 => 
+  656 => 
   array (
     'id' => 86474,
     'name' => 'Iłowo -Osada',
@@ -6292,7 +5914,7 @@ return array (
     'latitude' => 53.16808,
     'longitude' => 20.29295,
   ),
-  699 => 
+  657 => 
   array (
     'id' => 86475,
     'name' => 'Iłów',
@@ -6301,7 +5923,7 @@ return array (
     'latitude' => 52.33953,
     'longitude' => 20.0273,
   ),
-  700 => 
+  658 => 
   array (
     'id' => 86476,
     'name' => 'Iłża',
@@ -6310,7 +5932,7 @@ return array (
     'latitude' => 51.16313,
     'longitude' => 21.23979,
   ),
-  701 => 
+  659 => 
   array (
     'id' => 86477,
     'name' => 'Ińsko',
@@ -6319,7 +5941,7 @@ return array (
     'latitude' => 53.43613,
     'longitude' => 15.5502,
   ),
-  702 => 
+  660 => 
   array (
     'id' => 86478,
     'name' => 'Jabłonica Polska',
@@ -6328,7 +5950,7 @@ return array (
     'latitude' => 49.69784,
     'longitude' => 21.89961,
   ),
-  703 => 
+  661 => 
   array (
     'id' => 86479,
     'name' => 'Jabłonka',
@@ -6337,16 +5959,7 @@ return array (
     'latitude' => 49.69417,
     'longitude' => 22.11565,
   ),
-  704 => 
-  array (
-    'id' => 86480,
-    'name' => 'Jabłonka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.47968,
-    'longitude' => 19.6937,
-  ),
-  705 => 
+  662 => 
   array (
     'id' => 86481,
     'name' => 'Jabłonna',
@@ -6355,25 +5968,7 @@ return array (
     'latitude' => 51.08875,
     'longitude' => 22.59364,
   ),
-  706 => 
-  array (
-    'id' => 86482,
-    'name' => 'Jabłonna',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.37885,
-    'longitude' => 20.91745,
-  ),
-  707 => 
-  array (
-    'id' => 86483,
-    'name' => 'Jabłonna',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.20598,
-    'longitude' => 16.20741,
-  ),
-  708 => 
+  663 => 
   array (
     'id' => 86484,
     'name' => 'Jabłonna Lacka',
@@ -6382,7 +5977,7 @@ return array (
     'latitude' => 52.47664,
     'longitude' => 22.44228,
   ),
-  709 => 
+  664 => 
   array (
     'id' => 86485,
     'name' => 'Jabłonowo Pomorskie',
@@ -6391,7 +5986,7 @@ return array (
     'latitude' => 53.39137,
     'longitude' => 19.15509,
   ),
-  710 => 
+  665 => 
   array (
     'id' => 86486,
     'name' => 'Jabłoń',
@@ -6400,7 +5995,7 @@ return array (
     'latitude' => 51.72501,
     'longitude' => 23.08743,
   ),
-  711 => 
+  666 => 
   array (
     'id' => 86487,
     'name' => 'Jadowniki',
@@ -6409,7 +6004,7 @@ return array (
     'latitude' => 49.95884,
     'longitude' => 20.64434,
   ),
-  712 => 
+  667 => 
   array (
     'id' => 86488,
     'name' => 'Jadowniki Mokre',
@@ -6418,7 +6013,7 @@ return array (
     'latitude' => 50.16546,
     'longitude' => 20.72845,
   ),
-  713 => 
+  668 => 
   array (
     'id' => 86489,
     'name' => 'Jadów',
@@ -6427,7 +6022,7 @@ return array (
     'latitude' => 52.47849,
     'longitude' => 21.63199,
   ),
-  714 => 
+  669 => 
   array (
     'id' => 86490,
     'name' => 'Jagiełła',
@@ -6436,7 +6031,7 @@ return array (
     'latitude' => 50.0946,
     'longitude' => 22.57261,
   ),
-  715 => 
+  670 => 
   array (
     'id' => 86491,
     'name' => 'Jakubowice Murowane',
@@ -6445,7 +6040,7 @@ return array (
     'latitude' => 51.26992,
     'longitude' => 22.63415,
   ),
-  716 => 
+  671 => 
   array (
     'id' => 86492,
     'name' => 'Jakubów',
@@ -6454,7 +6049,7 @@ return array (
     'latitude' => 52.21965,
     'longitude' => 21.68032,
   ),
-  717 => 
+  672 => 
   array (
     'id' => 86493,
     'name' => 'Janikowo',
@@ -6463,7 +6058,7 @@ return array (
     'latitude' => 52.75328,
     'longitude' => 18.11328,
   ),
-  718 => 
+  673 => 
   array (
     'id' => 86494,
     'name' => 'Jankowice',
@@ -6472,7 +6067,7 @@ return array (
     'latitude' => 50.0009,
     'longitude' => 18.98901,
   ),
-  719 => 
+  674 => 
   array (
     'id' => 86495,
     'name' => 'Jankowice Rybnickie',
@@ -6481,7 +6076,7 @@ return array (
     'latitude' => 50.04479,
     'longitude' => 18.54707,
   ),
-  720 => 
+  675 => 
   array (
     'id' => 86496,
     'name' => 'Janków Przygodzki',
@@ -6490,7 +6085,7 @@ return array (
     'latitude' => 51.59808,
     'longitude' => 17.78824,
   ),
-  721 => 
+  676 => 
   array (
     'id' => 86497,
     'name' => 'Janowice',
@@ -6499,16 +6094,7 @@ return array (
     'latitude' => 49.89154,
     'longitude' => 20.86081,
   ),
-  722 => 
-  array (
-    'id' => 86498,
-    'name' => 'Janowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.88496,
-    'longitude' => 19.09376,
-  ),
-  723 => 
+  677 => 
   array (
     'id' => 86499,
     'name' => 'Janowice Wielkie',
@@ -6517,7 +6103,7 @@ return array (
     'latitude' => 50.87569,
     'longitude' => 15.92322,
   ),
-  724 => 
+  678 => 
   array (
     'id' => 86500,
     'name' => 'Janowiec',
@@ -6526,7 +6112,7 @@ return array (
     'latitude' => 51.32359,
     'longitude' => 21.8894,
   ),
-  725 => 
+  679 => 
   array (
     'id' => 86501,
     'name' => 'Janowiec Wielkopolski',
@@ -6535,7 +6121,7 @@ return array (
     'latitude' => 52.75583,
     'longitude' => 17.48981,
   ),
-  726 => 
+  680 => 
   array (
     'id' => 86502,
     'name' => 'Januszkowice',
@@ -6544,7 +6130,7 @@ return array (
     'latitude' => 50.39189,
     'longitude' => 18.1368,
   ),
-  727 => 
+  681 => 
   array (
     'id' => 86503,
     'name' => 'Janów Lubelski',
@@ -6553,7 +6139,7 @@ return array (
     'latitude' => 50.70695,
     'longitude' => 22.41039,
   ),
-  728 => 
+  682 => 
   array (
     'id' => 86504,
     'name' => 'Janów Podlaski',
@@ -6562,7 +6148,7 @@ return array (
     'latitude' => 52.19398,
     'longitude' => 23.21218,
   ),
-  729 => 
+  683 => 
   array (
     'id' => 86505,
     'name' => 'Jaraczewo',
@@ -6571,7 +6157,7 @@ return array (
     'latitude' => 51.96854,
     'longitude' => 17.29707,
   ),
-  730 => 
+  684 => 
   array (
     'id' => 86506,
     'name' => 'Jarczów',
@@ -6580,7 +6166,7 @@ return array (
     'latitude' => 50.42438,
     'longitude' => 23.58576,
   ),
-  731 => 
+  685 => 
   array (
     'id' => 86507,
     'name' => 'Jarnołtów-Jerzmanowo',
@@ -6589,7 +6175,7 @@ return array (
     'latitude' => 51.12163,
     'longitude' => 16.86621,
   ),
-  732 => 
+  686 => 
   array (
     'id' => 86508,
     'name' => 'Jarocin',
@@ -6598,16 +6184,7 @@ return array (
     'latitude' => 50.56459,
     'longitude' => 22.32121,
   ),
-  733 => 
-  array (
-    'id' => 86509,
-    'name' => 'Jarocin',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.97266,
-    'longitude' => 17.50256,
-  ),
-  734 => 
+  687 => 
   array (
     'id' => 86510,
     'name' => 'Jaroszowice',
@@ -6616,7 +6193,7 @@ return array (
     'latitude' => 49.86267,
     'longitude' => 19.51962,
   ),
-  735 => 
+  688 => 
   array (
     'id' => 86511,
     'name' => 'Jarosław',
@@ -6625,7 +6202,7 @@ return array (
     'latitude' => 50.01623,
     'longitude' => 22.67776,
   ),
-  736 => 
+  689 => 
   array (
     'id' => 86512,
     'name' => 'Jasienica',
@@ -6634,25 +6211,7 @@ return array (
     'latitude' => 52.41415,
     'longitude' => 21.4115,
   ),
-  737 => 
-  array (
-    'id' => 86513,
-    'name' => 'Jasienica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.82281,
-    'longitude' => 19.84191,
-  ),
-  738 => 
-  array (
-    'id' => 86514,
-    'name' => 'Jasienica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.81312,
-    'longitude' => 18.92155,
-  ),
-  739 => 
+  690 => 
   array (
     'id' => 86515,
     'name' => 'Jasienica Rosielna',
@@ -6661,7 +6220,7 @@ return array (
     'latitude' => 49.75144,
     'longitude' => 21.94176,
   ),
-  740 => 
+  691 => 
   array (
     'id' => 86516,
     'name' => 'Jasieniec',
@@ -6670,7 +6229,7 @@ return array (
     'latitude' => 51.82104,
     'longitude' => 20.94099,
   ),
-  741 => 
+  692 => 
   array (
     'id' => 86517,
     'name' => 'Jasień',
@@ -6679,16 +6238,7 @@ return array (
     'latitude' => 49.96988,
     'longitude' => 20.5719,
   ),
-  742 => 
-  array (
-    'id' => 86518,
-    'name' => 'Jasień',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.75142,
-    'longitude' => 15.01419,
-  ),
-  743 => 
+  693 => 
   array (
     'id' => 86519,
     'name' => 'Jasionów',
@@ -6697,7 +6247,7 @@ return array (
     'latitude' => 49.65841,
     'longitude' => 21.97678,
   ),
-  744 => 
+  694 => 
   array (
     'id' => 86520,
     'name' => 'Jastarnia',
@@ -6706,7 +6256,7 @@ return array (
     'latitude' => 54.6983,
     'longitude' => 18.6773,
   ),
-  745 => 
+  695 => 
   array (
     'id' => 86521,
     'name' => 'Jastków',
@@ -6715,7 +6265,7 @@ return array (
     'latitude' => 51.30411,
     'longitude' => 22.43546,
   ),
-  746 => 
+  696 => 
   array (
     'id' => 86522,
     'name' => 'Jastrowie',
@@ -6724,7 +6274,7 @@ return array (
     'latitude' => 53.42048,
     'longitude' => 16.81756,
   ),
-  747 => 
+  697 => 
   array (
     'id' => 86523,
     'name' => 'Jastrząb',
@@ -6733,16 +6283,7 @@ return array (
     'latitude' => 51.24725,
     'longitude' => 20.94758,
   ),
-  748 => 
-  array (
-    'id' => 86524,
-    'name' => 'Jastrząb',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.67019,
-    'longitude' => 19.1817,
-  ),
-  749 => 
+  698 => 
   array (
     'id' => 86525,
     'name' => 'Jastrzębia',
@@ -6751,16 +6292,7 @@ return array (
     'latitude' => 51.49742,
     'longitude' => 21.23709,
   ),
-  750 => 
-  array (
-    'id' => 86526,
-    'name' => 'Jastrzębia',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.79733,
-    'longitude' => 20.88089,
-  ),
-  751 => 
+  699 => 
   array (
     'id' => 86527,
     'name' => 'Jastrzębia Góra',
@@ -6769,7 +6301,7 @@ return array (
     'latitude' => 54.83135,
     'longitude' => 18.31301,
   ),
-  752 => 
+  700 => 
   array (
     'id' => 86528,
     'name' => 'Jastrzębie Zdrój',
@@ -6778,7 +6310,7 @@ return array (
     'latitude' => 49.95542,
     'longitude' => 18.57479,
   ),
-  753 => 
+  701 => 
   array (
     'id' => 86529,
     'name' => 'Jastrzębie-Zdrój',
@@ -6787,7 +6319,7 @@ return array (
     'latitude' => 49.96063,
     'longitude' => 18.60053,
   ),
-  754 => 
+  702 => 
   array (
     'id' => 86530,
     'name' => 'Jasło',
@@ -6796,7 +6328,7 @@ return array (
     'latitude' => 49.74506,
     'longitude' => 21.47252,
   ),
-  755 => 
+  703 => 
   array (
     'id' => 86531,
     'name' => 'Jawor',
@@ -6805,7 +6337,7 @@ return array (
     'latitude' => 51.05132,
     'longitude' => 16.19347,
   ),
-  756 => 
+  704 => 
   array (
     'id' => 86532,
     'name' => 'Jawornik',
@@ -6814,16 +6346,7 @@ return array (
     'latitude' => 49.8464,
     'longitude' => 21.89404,
   ),
-  757 => 
-  array (
-    'id' => 86533,
-    'name' => 'Jawornik',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.8558,
-    'longitude' => 19.89315,
-  ),
-  758 => 
+  705 => 
   array (
     'id' => 86534,
     'name' => 'Jawornik Polski',
@@ -6832,7 +6355,7 @@ return array (
     'latitude' => 49.89082,
     'longitude' => 22.28868,
   ),
-  759 => 
+  706 => 
   array (
     'id' => 86535,
     'name' => 'Jaworze',
@@ -6841,7 +6364,7 @@ return array (
     'latitude' => 49.79351,
     'longitude' => 18.9479,
   ),
-  760 => 
+  707 => 
   array (
     'id' => 86536,
     'name' => 'Jaworzno',
@@ -6850,7 +6373,7 @@ return array (
     'latitude' => 50.20528,
     'longitude' => 19.27498,
   ),
-  761 => 
+  708 => 
   array (
     'id' => 86537,
     'name' => 'Jaworzyna Śląska',
@@ -6859,7 +6382,7 @@ return array (
     'latitude' => 50.9134,
     'longitude' => 16.43241,
   ),
-  762 => 
+  709 => 
   array (
     'id' => 86538,
     'name' => 'Jaworzynka',
@@ -6868,7 +6391,7 @@ return array (
     'latitude' => 49.54019,
     'longitude' => 18.86996,
   ),
-  763 => 
+  710 => 
   array (
     'id' => 86539,
     'name' => 'Jaśliska',
@@ -6877,7 +6400,7 @@ return array (
     'latitude' => 49.44229,
     'longitude' => 21.80795,
   ),
-  764 => 
+  711 => 
   array (
     'id' => 86540,
     'name' => 'Jedlicze',
@@ -6886,7 +6409,7 @@ return array (
     'latitude' => 49.71749,
     'longitude' => 21.64886,
   ),
-  765 => 
+  712 => 
   array (
     'id' => 86541,
     'name' => 'Jedlina-Zdrój',
@@ -6895,7 +6418,7 @@ return array (
     'latitude' => 50.72005,
     'longitude' => 16.34645,
   ),
-  766 => 
+  713 => 
   array (
     'id' => 86542,
     'name' => 'Jedlińsk',
@@ -6904,7 +6427,7 @@ return array (
     'latitude' => 51.514,
     'longitude' => 21.11577,
   ),
-  767 => 
+  714 => 
   array (
     'id' => 86543,
     'name' => 'Jedlnia-Letnisko',
@@ -6913,7 +6436,7 @@ return array (
     'latitude' => 51.43074,
     'longitude' => 21.33536,
   ),
-  768 => 
+  715 => 
   array (
     'id' => 86544,
     'name' => 'Jednorożec',
@@ -6922,7 +6445,7 @@ return array (
     'latitude' => 53.14116,
     'longitude' => 21.05161,
   ),
-  769 => 
+  716 => 
   array (
     'id' => 86545,
     'name' => 'Jedwabne',
@@ -6931,7 +6454,7 @@ return array (
     'latitude' => 53.28554,
     'longitude' => 22.30353,
   ),
-  770 => 
+  717 => 
   array (
     'id' => 86546,
     'name' => 'Jedwabno',
@@ -6940,7 +6463,7 @@ return array (
     'latitude' => 53.5299,
     'longitude' => 20.72657,
   ),
-  771 => 
+  718 => 
   array (
     'id' => 86547,
     'name' => 'Jejkowice',
@@ -6949,7 +6472,7 @@ return array (
     'latitude' => 50.10814,
     'longitude' => 18.46767,
   ),
-  772 => 
+  719 => 
   array (
     'id' => 86548,
     'name' => 'Jelcz',
@@ -6958,7 +6481,7 @@ return array (
     'latitude' => 51.02102,
     'longitude' => 17.32095,
   ),
-  773 => 
+  720 => 
   array (
     'id' => 86549,
     'name' => 'Jelcz Laskowice',
@@ -6967,7 +6490,7 @@ return array (
     'latitude' => 51.02134,
     'longitude' => 17.31649,
   ),
-  774 => 
+  721 => 
   array (
     'id' => 86550,
     'name' => 'Jelenia Góra',
@@ -6976,7 +6499,7 @@ return array (
     'latitude' => 50.89973,
     'longitude' => 15.72899,
   ),
-  775 => 
+  722 => 
   array (
     'id' => 86551,
     'name' => 'Jeleśnia',
@@ -6985,7 +6508,7 @@ return array (
     'latitude' => 49.64246,
     'longitude' => 19.32701,
   ),
-  776 => 
+  723 => 
   array (
     'id' => 86552,
     'name' => 'Jemielnica',
@@ -6994,7 +6517,7 @@ return array (
     'latitude' => 50.54573,
     'longitude' => 18.37807,
   ),
-  777 => 
+  724 => 
   array (
     'id' => 86553,
     'name' => 'Jenin',
@@ -7003,7 +6526,7 @@ return array (
     'latitude' => 52.69647,
     'longitude' => 15.09796,
   ),
-  778 => 
+  725 => 
   array (
     'id' => 86554,
     'name' => 'Jerzmanowice',
@@ -7012,7 +6535,7 @@ return array (
     'latitude' => 50.21267,
     'longitude' => 19.74672,
   ),
-  779 => 
+  726 => 
   array (
     'id' => 86555,
     'name' => 'Jeziora Wielkie',
@@ -7021,7 +6544,7 @@ return array (
     'latitude' => 52.53043,
     'longitude' => 18.26803,
   ),
-  780 => 
+  727 => 
   array (
     'id' => 86556,
     'name' => 'Jeziorany',
@@ -7030,7 +6553,7 @@ return array (
     'latitude' => 53.97578,
     'longitude' => 20.74639,
   ),
-  781 => 
+  728 => 
   array (
     'id' => 86557,
     'name' => 'Jeziorzany',
@@ -7039,7 +6562,7 @@ return array (
     'latitude' => 51.60245,
     'longitude' => 22.27667,
   ),
-  782 => 
+  729 => 
   array (
     'id' => 86558,
     'name' => 'Jeżewo',
@@ -7048,7 +6571,7 @@ return array (
     'latitude' => 53.51061,
     'longitude' => 18.49437,
   ),
-  783 => 
+  730 => 
   array (
     'id' => 86559,
     'name' => 'Jeżowe',
@@ -7057,7 +6580,7 @@ return array (
     'latitude' => 50.37486,
     'longitude' => 22.12749,
   ),
-  784 => 
+  731 => 
   array (
     'id' => 86560,
     'name' => 'Jeżów',
@@ -7066,7 +6589,7 @@ return array (
     'latitude' => 51.81376,
     'longitude' => 19.96877,
   ),
-  785 => 
+  732 => 
   array (
     'id' => 86561,
     'name' => 'Jeżów Sudecki',
@@ -7075,7 +6598,7 @@ return array (
     'latitude' => 50.93507,
     'longitude' => 15.74306,
   ),
-  786 => 
+  733 => 
   array (
     'id' => 86562,
     'name' => 'Jodłowa',
@@ -7084,7 +6607,7 @@ return array (
     'latitude' => 49.87229,
     'longitude' => 21.27897,
   ),
-  787 => 
+  734 => 
   array (
     'id' => 86563,
     'name' => 'Jodłówka',
@@ -7093,16 +6616,7 @@ return array (
     'latitude' => 49.8943,
     'longitude' => 22.46653,
   ),
-  788 => 
-  array (
-    'id' => 86564,
-    'name' => 'Jodłówka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.99295,
-    'longitude' => 20.54821,
-  ),
-  789 => 
+  735 => 
   array (
     'id' => 86565,
     'name' => 'Jodłówka-Wałki',
@@ -7111,7 +6625,7 @@ return array (
     'latitude' => 50.04992,
     'longitude' => 21.13332,
   ),
-  790 => 
+  736 => 
   array (
     'id' => 86566,
     'name' => 'Joniec',
@@ -7120,7 +6634,7 @@ return array (
     'latitude' => 52.60128,
     'longitude' => 20.58177,
   ),
-  791 => 
+  737 => 
   array (
     'id' => 86567,
     'name' => 'Jonkowo',
@@ -7129,7 +6643,7 @@ return array (
     'latitude' => 53.82817,
     'longitude' => 20.31054,
   ),
-  792 => 
+  738 => 
   array (
     'id' => 86568,
     'name' => 'Jordanów',
@@ -7138,7 +6652,7 @@ return array (
     'latitude' => 49.64935,
     'longitude' => 19.82981,
   ),
-  793 => 
+  739 => 
   array (
     'id' => 86569,
     'name' => 'Jordanów Śląski',
@@ -7147,7 +6661,7 @@ return array (
     'latitude' => 50.86421,
     'longitude' => 16.86873,
   ),
-  794 => 
+  740 => 
   array (
     'id' => 86570,
     'name' => 'Jugów',
@@ -7156,7 +6670,7 @@ return array (
     'latitude' => 50.62758,
     'longitude' => 16.51812,
   ),
-  795 => 
+  741 => 
   array (
     'id' => 86571,
     'name' => 'Juszczyn',
@@ -7165,7 +6679,7 @@ return array (
     'latitude' => 49.6929,
     'longitude' => 19.69128,
   ),
-  796 => 
+  742 => 
   array (
     'id' => 86572,
     'name' => 'Juszczyna',
@@ -7174,7 +6688,7 @@ return array (
     'latitude' => 49.62984,
     'longitude' => 19.22032,
   ),
-  797 => 
+  743 => 
   array (
     'id' => 86573,
     'name' => 'Jutrosin',
@@ -7183,7 +6697,7 @@ return array (
     'latitude' => 51.65009,
     'longitude' => 17.16957,
   ),
-  798 => 
+  744 => 
   array (
     'id' => 86574,
     'name' => 'Józefosław',
@@ -7192,7 +6706,7 @@ return array (
     'latitude' => 52.1005,
     'longitude' => 21.04629,
   ),
-  799 => 
+  745 => 
   array (
     'id' => 86575,
     'name' => 'Józefów',
@@ -7201,16 +6715,7 @@ return array (
     'latitude' => 50.48119,
     'longitude' => 23.05404,
   ),
-  800 => 
-  array (
-    'id' => 86576,
-    'name' => 'Józefów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.13707,
-    'longitude' => 21.23589,
-  ),
-  801 => 
+  746 => 
   array (
     'id' => 86577,
     'name' => 'Józefów nad Wisłą',
@@ -7219,7 +6724,7 @@ return array (
     'latitude' => 51.04183,
     'longitude' => 21.83018,
   ),
-  802 => 
+  747 => 
   array (
     'id' => 86578,
     'name' => 'Jędrzejów',
@@ -7228,7 +6733,7 @@ return array (
     'latitude' => 50.63945,
     'longitude' => 20.30454,
   ),
-  803 => 
+  748 => 
   array (
     'id' => 86579,
     'name' => 'Kabaty',
@@ -7237,7 +6742,7 @@ return array (
     'latitude' => 52.13012,
     'longitude' => 21.08148,
   ),
-  804 => 
+  749 => 
   array (
     'id' => 86580,
     'name' => 'Kaczory',
@@ -7246,7 +6751,7 @@ return array (
     'latitude' => 53.10348,
     'longitude' => 16.88169,
   ),
-  805 => 
+  750 => 
   array (
     'id' => 86581,
     'name' => 'Kaczyce',
@@ -7255,7 +6760,7 @@ return array (
     'latitude' => 49.82752,
     'longitude' => 18.59161,
   ),
-  806 => 
+  751 => 
   array (
     'id' => 86582,
     'name' => 'Kadzidło',
@@ -7264,7 +6769,7 @@ return array (
     'latitude' => 53.23435,
     'longitude' => 21.46454,
   ),
-  807 => 
+  752 => 
   array (
     'id' => 86583,
     'name' => 'Kalej',
@@ -7273,7 +6778,7 @@ return array (
     'latitude' => 50.83662,
     'longitude' => 18.98429,
   ),
-  808 => 
+  753 => 
   array (
     'id' => 86584,
     'name' => 'Kalety',
@@ -7282,7 +6787,7 @@ return array (
     'latitude' => 50.5627,
     'longitude' => 18.8926,
   ),
-  809 => 
+  754 => 
   array (
     'id' => 86585,
     'name' => 'Kaliska',
@@ -7291,7 +6796,7 @@ return array (
     'latitude' => 53.90535,
     'longitude' => 18.21885,
   ),
-  810 => 
+  755 => 
   array (
     'id' => 86586,
     'name' => 'Kalisz',
@@ -7300,7 +6805,7 @@ return array (
     'latitude' => 51.76109,
     'longitude' => 18.09102,
   ),
-  811 => 
+  756 => 
   array (
     'id' => 86587,
     'name' => 'Kalisz Pomorski',
@@ -7309,7 +6814,7 @@ return array (
     'latitude' => 53.29908,
     'longitude' => 15.90631,
   ),
-  812 => 
+  757 => 
   array (
     'id' => 86588,
     'name' => 'Kalwaria Zebrzydowska',
@@ -7318,7 +6823,7 @@ return array (
     'latitude' => 49.86759,
     'longitude' => 19.6772,
   ),
-  813 => 
+  758 => 
   array (
     'id' => 86589,
     'name' => 'Kamesznica',
@@ -7327,7 +6832,7 @@ return array (
     'latitude' => 49.56469,
     'longitude' => 19.0212,
   ),
-  814 => 
+  759 => 
   array (
     'id' => 86590,
     'name' => 'Kamienica',
@@ -7336,16 +6841,7 @@ return array (
     'latitude' => 49.57533,
     'longitude' => 20.34505,
   ),
-  815 => 
-  array (
-    'id' => 86591,
-    'name' => 'Kamienica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.45007,
-    'longitude' => 16.95396,
-  ),
-  816 => 
+  760 => 
   array (
     'id' => 86592,
     'name' => 'Kamienica Polska',
@@ -7354,7 +6850,7 @@ return array (
     'latitude' => 50.6709,
     'longitude' => 19.12265,
   ),
-  817 => 
+  761 => 
   array (
     'id' => 86593,
     'name' => 'Kamieniec',
@@ -7363,7 +6859,7 @@ return array (
     'latitude' => 52.16614,
     'longitude' => 16.46164,
   ),
-  818 => 
+  762 => 
   array (
     'id' => 86594,
     'name' => 'Kamieniec Wrocławski',
@@ -7372,7 +6868,7 @@ return array (
     'latitude' => 51.07182,
     'longitude' => 17.18193,
   ),
-  819 => 
+  763 => 
   array (
     'id' => 86595,
     'name' => 'Kamieniec Ząbkowicki',
@@ -7381,7 +6877,7 @@ return array (
     'latitude' => 50.52541,
     'longitude' => 16.87921,
   ),
-  820 => 
+  764 => 
   array (
     'id' => 86596,
     'name' => 'Kamienna Góra',
@@ -7390,7 +6886,7 @@ return array (
     'latitude' => 50.78314,
     'longitude' => 16.03037,
   ),
-  821 => 
+  765 => 
   array (
     'id' => 86597,
     'name' => 'Kamiennik',
@@ -7399,7 +6895,7 @@ return array (
     'latitude' => 50.57032,
     'longitude' => 17.14979,
   ),
-  822 => 
+  766 => 
   array (
     'id' => 86598,
     'name' => 'Kamień',
@@ -7408,16 +6904,7 @@ return array (
     'latitude' => 50.34064,
     'longitude' => 22.13539,
   ),
-  823 => 
-  array (
-    'id' => 86599,
-    'name' => 'Kamień',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.01215,
-    'longitude' => 19.58536,
-  ),
-  824 => 
+  767 => 
   array (
     'id' => 86600,
     'name' => 'Kamień Krajeński',
@@ -7426,7 +6913,7 @@ return array (
     'latitude' => 53.53352,
     'longitude' => 17.52019,
   ),
-  825 => 
+  768 => 
   array (
     'id' => 86601,
     'name' => 'Kamień Pomorski',
@@ -7435,7 +6922,7 @@ return array (
     'latitude' => 53.96849,
     'longitude' => 14.77262,
   ),
-  826 => 
+  769 => 
   array (
     'id' => 86602,
     'name' => 'Kamieńsk',
@@ -7444,7 +6931,7 @@ return array (
     'latitude' => 51.20242,
     'longitude' => 19.49661,
   ),
-  827 => 
+  770 => 
   array (
     'id' => 86603,
     'name' => 'Kamionka',
@@ -7453,7 +6940,7 @@ return array (
     'latitude' => 51.47165,
     'longitude' => 22.46275,
   ),
-  828 => 
+  771 => 
   array (
     'id' => 86604,
     'name' => 'Kamionka Wielka',
@@ -7462,7 +6949,7 @@ return array (
     'latitude' => 49.56848,
     'longitude' => 20.82364,
   ),
-  829 => 
+  772 => 
   array (
     'id' => 86605,
     'name' => 'Kampinos',
@@ -7471,7 +6958,7 @@ return array (
     'latitude' => 52.26837,
     'longitude' => 20.46307,
   ),
-  830 => 
+  773 => 
   array (
     'id' => 86606,
     'name' => 'Kamyk',
@@ -7480,7 +6967,7 @@ return array (
     'latitude' => 50.90179,
     'longitude' => 19.02875,
   ),
-  831 => 
+  774 => 
   array (
     'id' => 86607,
     'name' => 'Kaniów',
@@ -7489,16 +6976,7 @@ return array (
     'latitude' => 50.98577,
     'longitude' => 20.66391,
   ),
-  832 => 
-  array (
-    'id' => 86608,
-    'name' => 'Kaniów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.94316,
-    'longitude' => 19.05098,
-  ),
-  833 => 
+  775 => 
   array (
     'id' => 86609,
     'name' => 'Karczew',
@@ -7507,7 +6985,7 @@ return array (
     'latitude' => 52.07655,
     'longitude' => 21.24962,
   ),
-  834 => 
+  776 => 
   array (
     'id' => 86610,
     'name' => 'Karczmiska',
@@ -7516,7 +6994,7 @@ return array (
     'latitude' => 51.22952,
     'longitude' => 21.98158,
   ),
-  835 => 
+  777 => 
   array (
     'id' => 86611,
     'name' => 'Kargowa',
@@ -7525,7 +7003,7 @@ return array (
     'latitude' => 52.0714,
     'longitude' => 15.86138,
   ),
-  836 => 
+  778 => 
   array (
     'id' => 86612,
     'name' => 'Karlino',
@@ -7534,7 +7012,7 @@ return array (
     'latitude' => 54.03515,
     'longitude' => 15.87739,
   ),
-  837 => 
+  779 => 
   array (
     'id' => 86613,
     'name' => 'Karnice',
@@ -7543,7 +7021,7 @@ return array (
     'latitude' => 54.03001,
     'longitude' => 15.05496,
   ),
-  838 => 
+  780 => 
   array (
     'id' => 86614,
     'name' => 'Karniewo',
@@ -7552,7 +7030,7 @@ return array (
     'latitude' => 52.837,
     'longitude' => 20.98886,
   ),
-  839 => 
+  781 => 
   array (
     'id' => 86615,
     'name' => 'Karpacz',
@@ -7561,7 +7039,7 @@ return array (
     'latitude' => 50.77669,
     'longitude' => 15.75594,
   ),
-  840 => 
+  782 => 
   array (
     'id' => 86616,
     'name' => 'Karsin',
@@ -7570,7 +7048,7 @@ return array (
     'latitude' => 53.90768,
     'longitude' => 17.92093,
   ),
-  841 => 
+  783 => 
   array (
     'id' => 86617,
     'name' => 'Kartuzy',
@@ -7579,7 +7057,7 @@ return array (
     'latitude' => 54.33424,
     'longitude' => 18.19735,
   ),
-  842 => 
+  784 => 
   array (
     'id' => 86618,
     'name' => 'Karłowice',
@@ -7588,7 +7066,7 @@ return array (
     'latitude' => 51.14132,
     'longitude' => 17.05212,
   ),
-  843 => 
+  785 => 
   array (
     'id' => 86619,
     'name' => 'Kasina Wielka',
@@ -7597,7 +7075,7 @@ return array (
     'latitude' => 49.72969,
     'longitude' => 20.13554,
   ),
-  844 => 
+  786 => 
   array (
     'id' => 86620,
     'name' => 'Kaszów',
@@ -7606,7 +7084,7 @@ return array (
     'latitude' => 50.03884,
     'longitude' => 19.71934,
   ),
-  845 => 
+  787 => 
   array (
     'id' => 86621,
     'name' => 'Katowice',
@@ -7615,7 +7093,7 @@ return array (
     'latitude' => 50.25841,
     'longitude' => 19.02754,
   ),
-  846 => 
+  788 => 
   array (
     'id' => 86622,
     'name' => 'Kawęczyn',
@@ -7624,7 +7102,7 @@ return array (
     'latitude' => 51.90923,
     'longitude' => 18.53102,
   ),
-  847 => 
+  789 => 
   array (
     'id' => 86623,
     'name' => 'Kawęczyn Nowy',
@@ -7633,7 +7111,7 @@ return array (
     'latitude' => 51.88597,
     'longitude' => 20.24703,
   ),
-  848 => 
+  790 => 
   array (
     'id' => 86624,
     'name' => 'Kazanów',
@@ -7642,7 +7120,7 @@ return array (
     'latitude' => 51.27593,
     'longitude' => 21.46737,
   ),
-  849 => 
+  791 => 
   array (
     'id' => 86625,
     'name' => 'Kazimierz Biskupi',
@@ -7651,7 +7129,7 @@ return array (
     'latitude' => 52.311,
     'longitude' => 18.16581,
   ),
-  850 => 
+  792 => 
   array (
     'id' => 86626,
     'name' => 'Kazimierz Dolny',
@@ -7660,7 +7138,7 @@ return array (
     'latitude' => 51.31911,
     'longitude' => 21.95502,
   ),
-  851 => 
+  793 => 
   array (
     'id' => 86627,
     'name' => 'Kazimierza Wielka',
@@ -7669,7 +7147,7 @@ return array (
     'latitude' => 50.26564,
     'longitude' => 20.49358,
   ),
-  852 => 
+  794 => 
   array (
     'id' => 86628,
     'name' => 'Kałuszyn',
@@ -7678,7 +7156,7 @@ return array (
     'latitude' => 52.20669,
     'longitude' => 21.80838,
   ),
-  853 => 
+  795 => 
   array (
     'id' => 86629,
     'name' => 'Kańczuga',
@@ -7687,7 +7165,7 @@ return array (
     'latitude' => 49.98346,
     'longitude' => 22.41168,
   ),
-  854 => 
+  796 => 
   array (
     'id' => 86630,
     'name' => 'Kaźmierz',
@@ -7696,7 +7174,7 @@ return array (
     'latitude' => 52.51309,
     'longitude' => 16.58403,
   ),
-  855 => 
+  797 => 
   array (
     'id' => 86631,
     'name' => 'Kcynia',
@@ -7705,7 +7183,7 @@ return array (
     'latitude' => 52.99192,
     'longitude' => 17.4883,
   ),
-  856 => 
+  798 => 
   array (
     'id' => 86632,
     'name' => 'Kielanówka',
@@ -7714,7 +7192,7 @@ return array (
     'latitude' => 50.02616,
     'longitude' => 21.92905,
   ),
-  857 => 
+  799 => 
   array (
     'id' => 86633,
     'name' => 'Kielce',
@@ -7723,7 +7201,7 @@ return array (
     'latitude' => 50.87033,
     'longitude' => 20.62752,
   ),
-  858 => 
+  800 => 
   array (
     'id' => 86634,
     'name' => 'Kiernozia',
@@ -7732,7 +7210,7 @@ return array (
     'latitude' => 52.26858,
     'longitude' => 19.87092,
   ),
-  859 => 
+  801 => 
   array (
     'id' => 86635,
     'name' => 'Kietrz',
@@ -7741,7 +7219,7 @@ return array (
     'latitude' => 50.08042,
     'longitude' => 18.00432,
   ),
-  860 => 
+  802 => 
   array (
     'id' => 86636,
     'name' => 'Kiełczów',
@@ -7750,7 +7228,7 @@ return array (
     'latitude' => 51.13999,
     'longitude' => 17.17798,
   ),
-  861 => 
+  803 => 
   array (
     'id' => 86637,
     'name' => 'Kiełpin',
@@ -7759,7 +7237,7 @@ return array (
     'latitude' => 52.35796,
     'longitude' => 20.86214,
   ),
-  862 => 
+  804 => 
   array (
     'id' => 86638,
     'name' => 'Kije',
@@ -7768,7 +7246,7 @@ return array (
     'latitude' => 50.60721,
     'longitude' => 20.57121,
   ),
-  863 => 
+  805 => 
   array (
     'id' => 86639,
     'name' => 'Kikół',
@@ -7777,7 +7255,7 @@ return array (
     'latitude' => 52.90994,
     'longitude' => 19.12016,
   ),
-  864 => 
+  806 => 
   array (
     'id' => 86640,
     'name' => 'Kisielice',
@@ -7786,7 +7264,7 @@ return array (
     'latitude' => 53.60855,
     'longitude' => 19.2635,
   ),
-  865 => 
+  807 => 
   array (
     'id' => 86641,
     'name' => 'Kiszkowo',
@@ -7795,7 +7273,7 @@ return array (
     'latitude' => 52.58871,
     'longitude' => 17.2663,
   ),
-  866 => 
+  808 => 
   array (
     'id' => 86642,
     'name' => 'Klecza Dolna',
@@ -7804,7 +7282,7 @@ return array (
     'latitude' => 49.88291,
     'longitude' => 19.53764,
   ),
-  867 => 
+  809 => 
   array (
     'id' => 86643,
     'name' => 'Kleczew',
@@ -7813,7 +7291,7 @@ return array (
     'latitude' => 52.37057,
     'longitude' => 18.17714,
   ),
-  868 => 
+  810 => 
   array (
     'id' => 86644,
     'name' => 'Klembów',
@@ -7822,7 +7300,7 @@ return array (
     'latitude' => 52.4065,
     'longitude' => 21.33176,
   ),
-  869 => 
+  811 => 
   array (
     'id' => 86645,
     'name' => 'Klenica',
@@ -7831,7 +7309,7 @@ return array (
     'latitude' => 51.99217,
     'longitude' => 15.78392,
   ),
-  870 => 
+  812 => 
   array (
     'id' => 86646,
     'name' => 'Kleszczele',
@@ -7840,7 +7318,7 @@ return array (
     'latitude' => 52.57314,
     'longitude' => 23.32539,
   ),
-  871 => 
+  813 => 
   array (
     'id' => 86647,
     'name' => 'Kleszczewo',
@@ -7849,7 +7327,7 @@ return array (
     'latitude' => 52.33377,
     'longitude' => 17.17163,
   ),
-  872 => 
+  814 => 
   array (
     'id' => 86648,
     'name' => 'Kleszczów',
@@ -7858,7 +7336,7 @@ return array (
     'latitude' => 51.22355,
     'longitude' => 19.30418,
   ),
-  873 => 
+  815 => 
   array (
     'id' => 86649,
     'name' => 'Klikuszowa',
@@ -7867,7 +7345,7 @@ return array (
     'latitude' => 49.5193,
     'longitude' => 19.9849,
   ),
-  874 => 
+  816 => 
   array (
     'id' => 86650,
     'name' => 'Klimontów',
@@ -7876,16 +7354,7 @@ return array (
     'latitude' => 50.65588,
     'longitude' => 21.45587,
   ),
-  875 => 
-  array (
-    'id' => 86651,
-    'name' => 'Klimontów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.22843,
-    'longitude' => 20.3199,
-  ),
-  876 => 
+  817 => 
   array (
     'id' => 86652,
     'name' => 'Klonowa',
@@ -7894,7 +7363,7 @@ return array (
     'latitude' => 51.41928,
     'longitude' => 18.41815,
   ),
-  877 => 
+  818 => 
   array (
     'id' => 86653,
     'name' => 'Kluczbork',
@@ -7903,7 +7372,7 @@ return array (
     'latitude' => 50.97281,
     'longitude' => 18.21816,
   ),
-  878 => 
+  819 => 
   array (
     'id' => 86654,
     'name' => 'Klucze',
@@ -7912,7 +7381,7 @@ return array (
     'latitude' => 50.33565,
     'longitude' => 19.56236,
   ),
-  879 => 
+  820 => 
   array (
     'id' => 86655,
     'name' => 'Kluki',
@@ -7921,7 +7390,7 @@ return array (
     'latitude' => 51.34187,
     'longitude' => 19.23938,
   ),
-  880 => 
+  821 => 
   array (
     'id' => 86656,
     'name' => 'Kluszkowce',
@@ -7930,7 +7399,7 @@ return array (
     'latitude' => 49.451,
     'longitude' => 20.30179,
   ),
-  881 => 
+  822 => 
   array (
     'id' => 86657,
     'name' => 'Klwów',
@@ -7939,7 +7408,7 @@ return array (
     'latitude' => 51.53448,
     'longitude' => 20.63644,
   ),
-  882 => 
+  823 => 
   array (
     'id' => 86658,
     'name' => 'Knurów',
@@ -7948,7 +7417,7 @@ return array (
     'latitude' => 50.21971,
     'longitude' => 18.65067,
   ),
-  883 => 
+  824 => 
   array (
     'id' => 86659,
     'name' => 'Knyszyn',
@@ -7957,7 +7426,7 @@ return array (
     'latitude' => 53.31406,
     'longitude' => 22.91963,
   ),
-  884 => 
+  825 => 
   array (
     'id' => 86660,
     'name' => 'Kobiernice',
@@ -7966,7 +7435,7 @@ return array (
     'latitude' => 49.85497,
     'longitude' => 19.21646,
   ),
-  885 => 
+  826 => 
   array (
     'id' => 86661,
     'name' => 'Kobierzyce',
@@ -7975,7 +7444,7 @@ return array (
     'latitude' => 50.97054,
     'longitude' => 16.93508,
   ),
-  886 => 
+  827 => 
   array (
     'id' => 86662,
     'name' => 'Kobiór',
@@ -7984,7 +7453,7 @@ return array (
     'latitude' => 50.06089,
     'longitude' => 18.93468,
   ),
-  887 => 
+  828 => 
   array (
     'id' => 86663,
     'name' => 'Kobyla Góra',
@@ -7993,7 +7462,7 @@ return array (
     'latitude' => 51.37923,
     'longitude' => 17.83811,
   ),
-  888 => 
+  829 => 
   array (
     'id' => 86664,
     'name' => 'Kobylanka',
@@ -8002,16 +7471,7 @@ return array (
     'latitude' => 49.66891,
     'longitude' => 21.22293,
   ),
-  889 => 
-  array (
-    'id' => 86665,
-    'name' => 'Kobylanka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.34492,
-    'longitude' => 14.87143,
-  ),
-  890 => 
+  830 => 
   array (
     'id' => 86666,
     'name' => 'Kobylin',
@@ -8020,7 +7480,7 @@ return array (
     'latitude' => 51.71645,
     'longitude' => 17.22682,
   ),
-  891 => 
+  831 => 
   array (
     'id' => 86667,
     'name' => 'Kobylnica',
@@ -8029,16 +7489,7 @@ return array (
     'latitude' => 52.44597,
     'longitude' => 17.07644,
   ),
-  892 => 
-  array (
-    'id' => 86668,
-    'name' => 'Kobylnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 54.43975,
-    'longitude' => 16.99782,
-  ),
-  893 => 
+  832 => 
   array (
     'id' => 86669,
     'name' => 'Kobyłka',
@@ -8047,7 +7498,7 @@ return array (
     'latitude' => 52.33953,
     'longitude' => 21.19589,
   ),
-  894 => 
+  833 => 
   array (
     'id' => 86670,
     'name' => 'Kochanowice',
@@ -8056,7 +7507,7 @@ return array (
     'latitude' => 50.70548,
     'longitude' => 18.74911,
   ),
-  895 => 
+  834 => 
   array (
     'id' => 86671,
     'name' => 'Kocierzew Południowy',
@@ -8065,7 +7516,7 @@ return array (
     'latitude' => 52.21728,
     'longitude' => 20.01812,
   ),
-  896 => 
+  835 => 
   array (
     'id' => 86672,
     'name' => 'Kock',
@@ -8074,7 +7525,7 @@ return array (
     'latitude' => 51.63997,
     'longitude' => 22.44391,
   ),
-  897 => 
+  836 => 
   array (
     'id' => 86673,
     'name' => 'Koczała',
@@ -8083,7 +7534,7 @@ return array (
     'latitude' => 53.90449,
     'longitude' => 17.06529,
   ),
-  898 => 
+  837 => 
   array (
     'id' => 86674,
     'name' => 'Kodeń',
@@ -8092,7 +7543,7 @@ return array (
     'latitude' => 51.91171,
     'longitude' => 23.60301,
   ),
-  899 => 
+  838 => 
   array (
     'id' => 86675,
     'name' => 'Kokotów',
@@ -8101,7 +7552,7 @@ return array (
     'latitude' => 50.01254,
     'longitude' => 20.07829,
   ),
-  900 => 
+  839 => 
   array (
     'id' => 86676,
     'name' => 'Kolbudy',
@@ -8110,7 +7561,7 @@ return array (
     'latitude' => 54.26989,
     'longitude' => 18.46639,
   ),
-  901 => 
+  840 => 
   array (
     'id' => 86677,
     'name' => 'Kolbuszowa',
@@ -8119,7 +7570,7 @@ return array (
     'latitude' => 50.2441,
     'longitude' => 21.7761,
   ),
-  902 => 
+  841 => 
   array (
     'id' => 86678,
     'name' => 'Koleczkowo',
@@ -8128,7 +7579,7 @@ return array (
     'latitude' => 54.48629,
     'longitude' => 18.34373,
   ),
-  903 => 
+  842 => 
   array (
     'id' => 86679,
     'name' => 'Kolno',
@@ -8137,7 +7588,7 @@ return array (
     'latitude' => 53.41148,
     'longitude' => 21.92905,
   ),
-  904 => 
+  843 => 
   array (
     'id' => 86680,
     'name' => 'Kolonowskie',
@@ -8146,7 +7597,7 @@ return array (
     'latitude' => 50.65338,
     'longitude' => 18.38493,
   ),
-  905 => 
+  844 => 
   array (
     'id' => 86681,
     'name' => 'Kolsko',
@@ -8155,7 +7606,7 @@ return array (
     'latitude' => 51.96146,
     'longitude' => 15.95987,
   ),
-  906 => 
+  845 => 
   array (
     'id' => 86682,
     'name' => 'Koluszki',
@@ -8164,7 +7615,7 @@ return array (
     'latitude' => 51.73872,
     'longitude' => 19.81994,
   ),
-  907 => 
+  846 => 
   array (
     'id' => 86683,
     'name' => 'Komarów-Osada',
@@ -8173,7 +7624,7 @@ return array (
     'latitude' => 50.62888,
     'longitude' => 23.4774,
   ),
-  908 => 
+  847 => 
   array (
     'id' => 86684,
     'name' => 'Komarówka Podlaska',
@@ -8182,7 +7633,7 @@ return array (
     'latitude' => 51.80315,
     'longitude' => 22.94392,
   ),
-  909 => 
+  848 => 
   array (
     'id' => 86685,
     'name' => 'Komańcza',
@@ -8191,7 +7642,7 @@ return array (
     'latitude' => 49.33922,
     'longitude' => 22.06166,
   ),
-  910 => 
+  849 => 
   array (
     'id' => 86686,
     'name' => 'Komorniki',
@@ -8200,7 +7651,7 @@ return array (
     'latitude' => 52.3387,
     'longitude' => 16.81063,
   ),
-  911 => 
+  850 => 
   array (
     'id' => 86687,
     'name' => 'Komorów',
@@ -8209,7 +7660,7 @@ return array (
     'latitude' => 52.1456,
     'longitude' => 20.81566,
   ),
-  912 => 
+  851 => 
   array (
     'id' => 86688,
     'name' => 'Komprachcice',
@@ -8218,7 +7669,7 @@ return array (
     'latitude' => 50.63678,
     'longitude' => 17.82635,
   ),
-  913 => 
+  852 => 
   array (
     'id' => 86689,
     'name' => 'Konary',
@@ -8227,7 +7678,7 @@ return array (
     'latitude' => 51.6569,
     'longitude' => 17.04185,
   ),
-  914 => 
+  853 => 
   array (
     'id' => 86690,
     'name' => 'Koniaków',
@@ -8236,7 +7687,7 @@ return array (
     'latitude' => 49.55066,
     'longitude' => 18.9491,
   ),
-  915 => 
+  854 => 
   array (
     'id' => 86691,
     'name' => 'Koniecpol',
@@ -8245,7 +7696,7 @@ return array (
     'latitude' => 50.77468,
     'longitude' => 19.68896,
   ),
-  916 => 
+  855 => 
   array (
     'id' => 86692,
     'name' => 'Konieczkowa',
@@ -8254,7 +7705,7 @@ return array (
     'latitude' => 49.84208,
     'longitude' => 21.9282,
   ),
-  917 => 
+  856 => 
   array (
     'id' => 86693,
     'name' => 'Konin',
@@ -8263,7 +7714,7 @@ return array (
     'latitude' => 52.22338,
     'longitude' => 18.25121,
   ),
-  918 => 
+  857 => 
   array (
     'id' => 86694,
     'name' => 'Konopiska',
@@ -8272,7 +7723,7 @@ return array (
     'latitude' => 50.72695,
     'longitude' => 19.00781,
   ),
-  919 => 
+  858 => 
   array (
     'id' => 86695,
     'name' => 'Konotop',
@@ -8281,7 +7732,7 @@ return array (
     'latitude' => 51.93157,
     'longitude' => 15.90391,
   ),
-  920 => 
+  859 => 
   array (
     'id' => 86696,
     'name' => 'Konstancin-Jeziorna',
@@ -8290,7 +7741,7 @@ return array (
     'latitude' => 52.0938,
     'longitude' => 21.11761,
   ),
-  921 => 
+  860 => 
   array (
     'id' => 86697,
     'name' => 'Konstantynów',
@@ -8299,7 +7750,7 @@ return array (
     'latitude' => 52.20746,
     'longitude' => 23.0853,
   ),
-  922 => 
+  861 => 
   array (
     'id' => 86698,
     'name' => 'Konstantynów Łódzki',
@@ -8308,7 +7759,7 @@ return array (
     'latitude' => 51.74776,
     'longitude' => 19.32564,
   ),
-  923 => 
+  862 => 
   array (
     'id' => 86699,
     'name' => 'Koprzywnica',
@@ -8317,7 +7768,7 @@ return array (
     'latitude' => 50.5934,
     'longitude' => 21.5838,
   ),
-  924 => 
+  863 => 
   array (
     'id' => 86700,
     'name' => 'Korbielów',
@@ -8326,7 +7777,7 @@ return array (
     'latitude' => 49.5682,
     'longitude' => 19.35001,
   ),
-  925 => 
+  864 => 
   array (
     'id' => 86701,
     'name' => 'Korczew',
@@ -8335,7 +7786,7 @@ return array (
     'latitude' => 52.35327,
     'longitude' => 22.61338,
   ),
-  926 => 
+  865 => 
   array (
     'id' => 86702,
     'name' => 'Korczyna',
@@ -8344,7 +7795,7 @@ return array (
     'latitude' => 49.71555,
     'longitude' => 21.80941,
   ),
-  927 => 
+  866 => 
   array (
     'id' => 86703,
     'name' => 'Korfantów',
@@ -8353,7 +7804,7 @@ return array (
     'latitude' => 50.48894,
     'longitude' => 17.59898,
   ),
-  928 => 
+  867 => 
   array (
     'id' => 86704,
     'name' => 'Kornowac',
@@ -8362,7 +7813,7 @@ return array (
     'latitude' => 50.07179,
     'longitude' => 18.32846,
   ),
-  929 => 
+  868 => 
   array (
     'id' => 86705,
     'name' => 'Koronowo',
@@ -8371,7 +7822,7 @@ return array (
     'latitude' => 53.3137,
     'longitude' => 17.93698,
   ),
-  930 => 
+  869 => 
   array (
     'id' => 86706,
     'name' => 'Korsze',
@@ -8380,7 +7831,7 @@ return array (
     'latitude' => 54.17002,
     'longitude' => 21.13915,
   ),
-  931 => 
+  870 => 
   array (
     'id' => 86707,
     'name' => 'Kortowo',
@@ -8389,7 +7840,7 @@ return array (
     'latitude' => 53.75731,
     'longitude' => 20.4562,
   ),
-  932 => 
+  871 => 
   array (
     'id' => 86708,
     'name' => 'Korytnica',
@@ -8398,7 +7849,7 @@ return array (
     'latitude' => 52.41441,
     'longitude' => 21.84949,
   ),
-  933 => 
+  872 => 
   array (
     'id' => 86709,
     'name' => 'Korzenna',
@@ -8407,7 +7858,7 @@ return array (
     'latitude' => 49.68635,
     'longitude' => 20.84355,
   ),
-  934 => 
+  873 => 
   array (
     'id' => 86710,
     'name' => 'Kosakowo',
@@ -8416,7 +7867,7 @@ return array (
     'latitude' => 54.58927,
     'longitude' => 18.48484,
   ),
-  935 => 
+  874 => 
   array (
     'id' => 86711,
     'name' => 'Kosina',
@@ -8425,7 +7876,7 @@ return array (
     'latitude' => 50.07213,
     'longitude' => 22.32903,
   ),
-  936 => 
+  875 => 
   array (
     'id' => 86712,
     'name' => 'Kostomłoty Drugie',
@@ -8434,7 +7885,7 @@ return array (
     'latitude' => 50.92684,
     'longitude' => 20.56529,
   ),
-  937 => 
+  876 => 
   array (
     'id' => 86713,
     'name' => 'Kostomłoty Pierwsze',
@@ -8443,7 +7894,7 @@ return array (
     'latitude' => 50.92322,
     'longitude' => 20.5949,
   ),
-  938 => 
+  877 => 
   array (
     'id' => 86714,
     'name' => 'Kostrzyn',
@@ -8452,7 +7903,7 @@ return array (
     'latitude' => 52.39847,
     'longitude' => 17.22811,
   ),
-  939 => 
+  878 => 
   array (
     'id' => 86715,
     'name' => 'Kostrzyn nad Odrą',
@@ -8461,7 +7912,7 @@ return array (
     'latitude' => 52.58713,
     'longitude' => 14.64953,
   ),
-  940 => 
+  879 => 
   array (
     'id' => 86716,
     'name' => 'Koszalin',
@@ -8470,7 +7921,7 @@ return array (
     'latitude' => 54.19438,
     'longitude' => 16.17222,
   ),
-  941 => 
+  880 => 
   array (
     'id' => 86717,
     'name' => 'Koszarawa',
@@ -8479,7 +7930,7 @@ return array (
     'latitude' => 49.64462,
     'longitude' => 19.40083,
   ),
-  942 => 
+  881 => 
   array (
     'id' => 86718,
     'name' => 'Koszyce',
@@ -8488,7 +7939,7 @@ return array (
     'latitude' => 49.97226,
     'longitude' => 20.94166,
   ),
-  943 => 
+  882 => 
   array (
     'id' => 86719,
     'name' => 'Koszyce Wielkie',
@@ -8497,7 +7948,7 @@ return array (
     'latitude' => 49.98076,
     'longitude' => 20.94552,
   ),
-  944 => 
+  883 => 
   array (
     'id' => 86720,
     'name' => 'Koszęcin',
@@ -8506,7 +7957,7 @@ return array (
     'latitude' => 50.63411,
     'longitude' => 18.8413,
   ),
-  945 => 
+  884 => 
   array (
     'id' => 86721,
     'name' => 'Kosów Lacki',
@@ -8515,7 +7966,7 @@ return array (
     'latitude' => 52.59541,
     'longitude' => 22.14707,
   ),
-  946 => 
+  885 => 
   array (
     'id' => 86722,
     'name' => 'Kotla',
@@ -8524,7 +7975,7 @@ return array (
     'latitude' => 51.74542,
     'longitude' => 16.03575,
   ),
-  947 => 
+  886 => 
   array (
     'id' => 86723,
     'name' => 'Kotlin',
@@ -8533,7 +7984,7 @@ return array (
     'latitude' => 51.91913,
     'longitude' => 17.64825,
   ),
-  948 => 
+  887 => 
   array (
     'id' => 86724,
     'name' => 'Kotuń',
@@ -8542,7 +7993,7 @@ return array (
     'latitude' => 52.17643,
     'longitude' => 22.06819,
   ),
-  949 => 
+  888 => 
   array (
     'id' => 86725,
     'name' => 'Kowal',
@@ -8551,7 +8002,7 @@ return array (
     'latitude' => 52.53019,
     'longitude' => 19.14767,
   ),
-  950 => 
+  889 => 
   array (
     'id' => 86726,
     'name' => 'Kowala',
@@ -8560,7 +8011,7 @@ return array (
     'latitude' => 51.32503,
     'longitude' => 21.06972,
   ),
-  951 => 
+  890 => 
   array (
     'id' => 86727,
     'name' => 'Kowale',
@@ -8569,7 +8020,7 @@ return array (
     'latitude' => 54.30976,
     'longitude' => 18.56149,
   ),
-  952 => 
+  891 => 
   array (
     'id' => 86728,
     'name' => 'Kowale Oleckie',
@@ -8578,7 +8029,7 @@ return array (
     'latitude' => 54.16354,
     'longitude' => 22.41666,
   ),
-  953 => 
+  892 => 
   array (
     'id' => 86729,
     'name' => 'Kowale-Popiele',
@@ -8587,7 +8038,7 @@ return array (
     'latitude' => 51.1309,
     'longitude' => 17.10175,
   ),
-  954 => 
+  893 => 
   array (
     'id' => 86730,
     'name' => 'Kowalewo Pomorskie',
@@ -8596,7 +8047,7 @@ return array (
     'latitude' => 53.15432,
     'longitude' => 18.89868,
   ),
-  955 => 
+  894 => 
   array (
     'id' => 86731,
     'name' => 'Kowary',
@@ -8605,7 +8056,7 @@ return array (
     'latitude' => 50.79313,
     'longitude' => 15.83559,
   ),
-  956 => 
+  895 => 
   array (
     'id' => 86732,
     'name' => 'Kowiesy',
@@ -8614,7 +8065,7 @@ return array (
     'latitude' => 51.88942,
     'longitude' => 20.41929,
   ),
-  957 => 
+  896 => 
   array (
     'id' => 86733,
     'name' => 'Kozanów',
@@ -8623,7 +8074,7 @@ return array (
     'latitude' => 51.14447,
     'longitude' => 16.96937,
   ),
-  958 => 
+  897 => 
   array (
     'id' => 86734,
     'name' => 'Koziegłowy',
@@ -8632,7 +8083,7 @@ return array (
     'latitude' => 50.60035,
     'longitude' => 19.16299,
   ),
-  959 => 
+  898 => 
   array (
     'id' => 86735,
     'name' => 'Kozienice',
@@ -8641,7 +8092,7 @@ return array (
     'latitude' => 51.58294,
     'longitude' => 21.54779,
   ),
-  960 => 
+  899 => 
   array (
     'id' => 86736,
     'name' => 'Kozubszczyzna',
@@ -8650,7 +8101,7 @@ return array (
     'latitude' => 51.22323,
     'longitude' => 22.42747,
   ),
-  961 => 
+  900 => 
   array (
     'id' => 86737,
     'name' => 'Kozy',
@@ -8659,7 +8110,7 @@ return array (
     'latitude' => 49.84756,
     'longitude' => 19.14891,
   ),
-  962 => 
+  901 => 
   array (
     'id' => 86738,
     'name' => 'Kozłowo',
@@ -8668,7 +8119,7 @@ return array (
     'latitude' => 53.30652,
     'longitude' => 20.29098,
   ),
-  963 => 
+  902 => 
   array (
     'id' => 86739,
     'name' => 'Kozłów',
@@ -8677,7 +8128,7 @@ return array (
     'latitude' => 50.48394,
     'longitude' => 20.02456,
   ),
-  964 => 
+  903 => 
   array (
     'id' => 86740,
     'name' => 'Kołaczkowo',
@@ -8686,7 +8137,7 @@ return array (
     'latitude' => 52.21739,
     'longitude' => 17.62413,
   ),
-  965 => 
+  904 => 
   array (
     'id' => 86741,
     'name' => 'Kołaczyce',
@@ -8695,7 +8146,7 @@ return array (
     'latitude' => 49.80743,
     'longitude' => 21.43407,
   ),
-  966 => 
+  905 => 
   array (
     'id' => 86742,
     'name' => 'Kołbaskowo',
@@ -8704,7 +8155,7 @@ return array (
     'latitude' => 53.33641,
     'longitude' => 14.43835,
   ),
-  967 => 
+  906 => 
   array (
     'id' => 86743,
     'name' => 'Kołbiel',
@@ -8713,7 +8164,7 @@ return array (
     'latitude' => 52.06431,
     'longitude' => 21.48153,
   ),
-  968 => 
+  907 => 
   array (
     'id' => 86744,
     'name' => 'Kołczygłowy',
@@ -8722,7 +8173,7 @@ return array (
     'latitude' => 54.23895,
     'longitude' => 17.23154,
   ),
-  969 => 
+  908 => 
   array (
     'id' => 86745,
     'name' => 'Koło',
@@ -8731,7 +8182,7 @@ return array (
     'latitude' => 52.20024,
     'longitude' => 18.63865,
   ),
-  970 => 
+  909 => 
   array (
     'id' => 86746,
     'name' => 'Kołobrzeg',
@@ -8740,7 +8191,7 @@ return array (
     'latitude' => 54.17565,
     'longitude' => 15.58342,
   ),
-  971 => 
+  910 => 
   array (
     'id' => 86747,
     'name' => 'Kończyce',
@@ -8749,7 +8200,7 @@ return array (
     'latitude' => 50.42575,
     'longitude' => 22.15376,
   ),
-  972 => 
+  911 => 
   array (
     'id' => 86748,
     'name' => 'Kończyce Małe',
@@ -8758,7 +8209,7 @@ return array (
     'latitude' => 49.85824,
     'longitude' => 18.62964,
   ),
-  973 => 
+  912 => 
   array (
     'id' => 86749,
     'name' => 'Kończyce Wielkie',
@@ -8767,7 +8218,7 @@ return array (
     'latitude' => 49.8351,
     'longitude' => 18.64474,
   ),
-  974 => 
+  913 => 
   array (
     'id' => 86750,
     'name' => 'Końskie',
@@ -8776,7 +8227,7 @@ return array (
     'latitude' => 51.19166,
     'longitude' => 20.40607,
   ),
-  975 => 
+  914 => 
   array (
     'id' => 86751,
     'name' => 'Końskowola',
@@ -8785,7 +8236,7 @@ return array (
     'latitude' => 51.40922,
     'longitude' => 22.05175,
   ),
-  976 => 
+  915 => 
   array (
     'id' => 86752,
     'name' => 'Kościan',
@@ -8794,7 +8245,7 @@ return array (
     'latitude' => 52.08829,
     'longitude' => 16.64866,
   ),
-  977 => 
+  916 => 
   array (
     'id' => 86753,
     'name' => 'Kościelec',
@@ -8803,16 +8254,7 @@ return array (
     'latitude' => 50.89713,
     'longitude' => 19.2156,
   ),
-  978 => 
-  array (
-    'id' => 86754,
-    'name' => 'Kościelec',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.17425,
-    'longitude' => 18.57067,
-  ),
-  979 => 
+  917 => 
   array (
     'id' => 86755,
     'name' => 'Kościelisko',
@@ -8821,7 +8263,7 @@ return array (
     'latitude' => 49.29073,
     'longitude' => 19.88929,
   ),
-  980 => 
+  918 => 
   array (
     'id' => 86756,
     'name' => 'Kościerzyna',
@@ -8830,7 +8272,7 @@ return array (
     'latitude' => 54.12226,
     'longitude' => 17.98119,
   ),
-  981 => 
+  919 => 
   array (
     'id' => 86757,
     'name' => 'Koźle',
@@ -8839,7 +8281,7 @@ return array (
     'latitude' => 50.3356,
     'longitude' => 18.14332,
   ),
-  982 => 
+  920 => 
   array (
     'id' => 86758,
     'name' => 'Koźmin Wielkopolski',
@@ -8848,7 +8290,7 @@ return array (
     'latitude' => 51.82712,
     'longitude' => 17.45391,
   ),
-  983 => 
+  921 => 
   array (
     'id' => 86759,
     'name' => 'Koźminek',
@@ -8857,7 +8299,7 @@ return array (
     'latitude' => 51.79874,
     'longitude' => 18.33893,
   ),
-  984 => 
+  922 => 
   array (
     'id' => 86760,
     'name' => 'Kożuchów',
@@ -8866,7 +8308,7 @@ return array (
     'latitude' => 51.74558,
     'longitude' => 15.59492,
   ),
-  985 => 
+  923 => 
   array (
     'id' => 86761,
     'name' => 'Kraczkowa',
@@ -8875,7 +8317,7 @@ return array (
     'latitude' => 50.03796,
     'longitude' => 22.16801,
   ),
-  986 => 
+  924 => 
   array (
     'id' => 86762,
     'name' => 'Krajenka',
@@ -8884,7 +8326,7 @@ return array (
     'latitude' => 53.29759,
     'longitude' => 16.99079,
   ),
-  987 => 
+  925 => 
   array (
     'id' => 86763,
     'name' => 'Kraków',
@@ -8893,7 +8335,7 @@ return array (
     'latitude' => 50.07262,
     'longitude' => 19.9325,
   ),
-  988 => 
+  926 => 
   array (
     'id' => 86764,
     'name' => 'Kramarzówka',
@@ -8902,7 +8344,7 @@ return array (
     'latitude' => 49.86034,
     'longitude' => 22.50137,
   ),
-  989 => 
+  927 => 
   array (
     'id' => 86765,
     'name' => 'Kramsk',
@@ -8911,7 +8353,7 @@ return array (
     'latitude' => 52.26469,
     'longitude' => 18.42407,
   ),
-  990 => 
+  928 => 
   array (
     'id' => 86766,
     'name' => 'Krapkowice',
@@ -8920,7 +8362,7 @@ return array (
     'latitude' => 50.47515,
     'longitude' => 17.96539,
   ),
-  991 => 
+  929 => 
   array (
     'id' => 86767,
     'name' => 'Krasiczyn',
@@ -8929,7 +8371,7 @@ return array (
     'latitude' => 49.77644,
     'longitude' => 22.65252,
   ),
-  992 => 
+  930 => 
   array (
     'id' => 86768,
     'name' => 'Krasne',
@@ -8938,16 +8380,7 @@ return array (
     'latitude' => 52.92401,
     'longitude' => 20.96732,
   ),
-  993 => 
-  array (
-    'id' => 86769,
-    'name' => 'Krasne',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.05626,
-    'longitude' => 22.08638,
-  ),
-  994 => 
+  931 => 
   array (
     'id' => 86770,
     'name' => 'Krasnobród',
@@ -8956,7 +8389,7 @@ return array (
     'latitude' => 50.54551,
     'longitude' => 23.21308,
   ),
-  995 => 
+  932 => 
   array (
     'id' => 86771,
     'name' => 'Krasnopol',
@@ -8965,7 +8398,7 @@ return array (
     'latitude' => 54.11613,
     'longitude' => 23.20476,
   ),
-  996 => 
+  933 => 
   array (
     'id' => 86772,
     'name' => 'Krasnosielc',
@@ -8974,7 +8407,7 @@ return array (
     'latitude' => 53.03378,
     'longitude' => 21.15735,
   ),
-  997 => 
+  934 => 
   array (
     'id' => 86773,
     'name' => 'Krasnystaw',
@@ -8983,7 +8416,7 @@ return array (
     'latitude' => 50.98464,
     'longitude' => 23.1742,
   ),
-  998 => 
+  935 => 
   array (
     'id' => 86774,
     'name' => 'Krasocin',
@@ -8992,7 +8425,7 @@ return array (
     'latitude' => 50.88874,
     'longitude' => 20.11863,
   ),
-  999 => 
+  936 => 
   array (
     'id' => 86775,
     'name' => 'Kraszewice',
@@ -9001,7 +8434,7 @@ return array (
     'latitude' => 51.51868,
     'longitude' => 18.21997,
   ),
-  1000 => 
+  937 => 
   array (
     'id' => 86776,
     'name' => 'Kraśniczyn',
@@ -9010,7 +8443,7 @@ return array (
     'latitude' => 50.93171,
     'longitude' => 23.34929,
   ),
-  1001 => 
+  938 => 
   array (
     'id' => 86777,
     'name' => 'Kraśnik',
@@ -9019,7 +8452,7 @@ return array (
     'latitude' => 50.9236,
     'longitude' => 22.22706,
   ),
-  1002 => 
+  939 => 
   array (
     'id' => 86778,
     'name' => 'Krempna',
@@ -9028,7 +8461,7 @@ return array (
     'latitude' => 49.51128,
     'longitude' => 21.50042,
   ),
-  1003 => 
+  940 => 
   array (
     'id' => 86779,
     'name' => 'Krobia',
@@ -9037,7 +8470,7 @@ return array (
     'latitude' => 51.77405,
     'longitude' => 16.98237,
   ),
-  1004 => 
+  941 => 
   array (
     'id' => 86780,
     'name' => 'Kroczyce',
@@ -9046,7 +8479,7 @@ return array (
     'latitude' => 50.56176,
     'longitude' => 19.57,
   ),
-  1005 => 
+  942 => 
   array (
     'id' => 86781,
     'name' => 'Krokowa',
@@ -9055,7 +8488,7 @@ return array (
     'latitude' => 54.77921,
     'longitude' => 18.1616,
   ),
-  1006 => 
+  943 => 
   array (
     'id' => 86782,
     'name' => 'Krosno',
@@ -9064,16 +8497,7 @@ return array (
     'latitude' => 49.68866,
     'longitude' => 21.77058,
   ),
-  1007 => 
-  array (
-    'id' => 86783,
-    'name' => 'Krosno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.22357,
-    'longitude' => 16.83251,
-  ),
-  1008 => 
+  944 => 
   array (
     'id' => 86784,
     'name' => 'Krosno Odrzańskie',
@@ -9082,7 +8506,7 @@ return array (
     'latitude' => 52.05492,
     'longitude' => 15.09882,
   ),
-  1009 => 
+  945 => 
   array (
     'id' => 86785,
     'name' => 'Krotoszyn',
@@ -9091,7 +8515,7 @@ return array (
     'latitude' => 51.69868,
     'longitude' => 17.43738,
   ),
-  1010 => 
+  946 => 
   array (
     'id' => 86786,
     'name' => 'Krościenko Wyżne',
@@ -9100,7 +8524,7 @@ return array (
     'latitude' => 49.67946,
     'longitude' => 21.82898,
   ),
-  1011 => 
+  947 => 
   array (
     'id' => 86787,
     'name' => 'Krościenko nad Dunajcem',
@@ -9109,7 +8533,7 @@ return array (
     'latitude' => 49.44081,
     'longitude' => 20.42624,
   ),
-  1012 => 
+  948 => 
   array (
     'id' => 86788,
     'name' => 'Krośnica',
@@ -9118,7 +8542,7 @@ return array (
     'latitude' => 49.44787,
     'longitude' => 20.33956,
   ),
-  1013 => 
+  949 => 
   array (
     'id' => 86789,
     'name' => 'Krośnice',
@@ -9127,7 +8551,7 @@ return array (
     'latitude' => 51.47641,
     'longitude' => 17.35917,
   ),
-  1014 => 
+  950 => 
   array (
     'id' => 86790,
     'name' => 'Krośniewice',
@@ -9136,7 +8560,7 @@ return array (
     'latitude' => 52.25592,
     'longitude' => 19.17037,
   ),
-  1015 => 
+  951 => 
   array (
     'id' => 86791,
     'name' => 'Kruklanki',
@@ -9145,7 +8569,7 @@ return array (
     'latitude' => 54.08855,
     'longitude' => 21.92227,
   ),
-  1016 => 
+  952 => 
   array (
     'id' => 86792,
     'name' => 'Krupski Młyn',
@@ -9154,7 +8578,7 @@ return array (
     'latitude' => 50.57337,
     'longitude' => 18.62251,
   ),
-  1017 => 
+  953 => 
   array (
     'id' => 86793,
     'name' => 'Kruszwica',
@@ -9163,7 +8587,7 @@ return array (
     'latitude' => 52.67562,
     'longitude' => 18.33131,
   ),
-  1018 => 
+  954 => 
   array (
     'id' => 86794,
     'name' => 'Krynica Morska',
@@ -9172,7 +8596,7 @@ return array (
     'latitude' => 54.38051,
     'longitude' => 19.44413,
   ),
-  1019 => 
+  955 => 
   array (
     'id' => 86795,
     'name' => 'Krynica-Zdrój',
@@ -9181,7 +8605,7 @@ return array (
     'latitude' => 49.42225,
     'longitude' => 20.95942,
   ),
-  1020 => 
+  956 => 
   array (
     'id' => 86796,
     'name' => 'Krynice',
@@ -9190,7 +8614,7 @@ return array (
     'latitude' => 50.5876,
     'longitude' => 23.38157,
   ),
-  1021 => 
+  957 => 
   array (
     'id' => 86797,
     'name' => 'Krynki',
@@ -9199,7 +8623,7 @@ return array (
     'latitude' => 53.26444,
     'longitude' => 23.77304,
   ),
-  1022 => 
+  958 => 
   array (
     'id' => 86798,
     'name' => 'Kryry',
@@ -9208,7 +8632,7 @@ return array (
     'latitude' => 50.01667,
     'longitude' => 18.80568,
   ),
-  1023 => 
+  959 => 
   array (
     'id' => 86799,
     'name' => 'Kryspinów',
@@ -9217,7 +8641,7 @@ return array (
     'latitude' => 50.0438,
     'longitude' => 19.79822,
   ),
-  1024 => 
+  960 => 
   array (
     'id' => 86800,
     'name' => 'Krzanowice',
@@ -9226,7 +8650,7 @@ return array (
     'latitude' => 50.01822,
     'longitude' => 18.12251,
   ),
-  1025 => 
+  961 => 
   array (
     'id' => 86801,
     'name' => 'Krzczonów',
@@ -9235,16 +8659,7 @@ return array (
     'latitude' => 49.73813,
     'longitude' => 19.91821,
   ),
-  1026 => 
-  array (
-    'id' => 86802,
-    'name' => 'Krzczonów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.00727,
-    'longitude' => 22.71097,
-  ),
-  1027 => 
+  962 => 
   array (
     'id' => 86803,
     'name' => 'Krzeczowice',
@@ -9253,7 +8668,7 @@ return array (
     'latitude' => 49.9892,
     'longitude' => 22.46378,
   ),
-  1028 => 
+  963 => 
   array (
     'id' => 86804,
     'name' => 'Krzeczów',
@@ -9262,7 +8677,7 @@ return array (
     'latitude' => 49.98876,
     'longitude' => 20.48779,
   ),
-  1029 => 
+  964 => 
   array (
     'id' => 86805,
     'name' => 'Krzemienica',
@@ -9271,7 +8686,7 @@ return array (
     'latitude' => 50.0621,
     'longitude' => 22.18054,
   ),
-  1030 => 
+  965 => 
   array (
     'id' => 86806,
     'name' => 'Krzemieniewo',
@@ -9280,7 +8695,7 @@ return array (
     'latitude' => 51.85905,
     'longitude' => 16.83354,
   ),
-  1031 => 
+  966 => 
   array (
     'id' => 86807,
     'name' => 'Krzepice',
@@ -9289,7 +8704,7 @@ return array (
     'latitude' => 50.97059,
     'longitude' => 18.72886,
   ),
-  1032 => 
+  967 => 
   array (
     'id' => 86808,
     'name' => 'Krzeszowice',
@@ -9298,7 +8713,7 @@ return array (
     'latitude' => 50.14248,
     'longitude' => 19.63223,
   ),
-  1033 => 
+  968 => 
   array (
     'id' => 86809,
     'name' => 'Krzeszyce',
@@ -9307,7 +8722,7 @@ return array (
     'latitude' => 52.58329,
     'longitude' => 15.00707,
   ),
-  1034 => 
+  969 => 
   array (
     'id' => 86810,
     'name' => 'Krzeszów',
@@ -9316,25 +8731,7 @@ return array (
     'latitude' => 50.40381,
     'longitude' => 22.34241,
   ),
-  1035 => 
-  array (
-    'id' => 86811,
-    'name' => 'Krzeszów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.73434,
-    'longitude' => 16.06991,
-  ),
-  1036 => 
-  array (
-    'id' => 86812,
-    'name' => 'Krzeszów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.75915,
-    'longitude' => 19.48915,
-  ),
-  1037 => 
+  970 => 
   array (
     'id' => 86813,
     'name' => 'Krzyki',
@@ -9343,7 +8740,7 @@ return array (
     'latitude' => 51.07085,
     'longitude' => 16.99475,
   ),
-  1038 => 
+  971 => 
   array (
     'id' => 86814,
     'name' => 'Krzykosy',
@@ -9352,7 +8749,7 @@ return array (
     'latitude' => 52.11041,
     'longitude' => 17.37411,
   ),
-  1039 => 
+  972 => 
   array (
     'id' => 86815,
     'name' => 'Krzynowłoga Mała',
@@ -9361,7 +8758,7 @@ return array (
     'latitude' => 53.15773,
     'longitude' => 20.78579,
   ),
-  1040 => 
+  973 => 
   array (
     'id' => 86816,
     'name' => 'Krzyszkowice',
@@ -9370,7 +8767,7 @@ return array (
     'latitude' => 49.88346,
     'longitude' => 19.92285,
   ),
-  1041 => 
+  974 => 
   array (
     'id' => 86817,
     'name' => 'Krzywaczka',
@@ -9379,7 +8776,7 @@ return array (
     'latitude' => 49.89353,
     'longitude' => 19.83221,
   ),
-  1042 => 
+  975 => 
   array (
     'id' => 86818,
     'name' => 'Krzywcza',
@@ -9388,7 +8785,7 @@ return array (
     'latitude' => 49.79894,
     'longitude' => 22.54549,
   ),
-  1043 => 
+  976 => 
   array (
     'id' => 86819,
     'name' => 'Krzywda',
@@ -9397,7 +8794,7 @@ return array (
     'latitude' => 51.79519,
     'longitude' => 22.19994,
   ),
-  1044 => 
+  977 => 
   array (
     'id' => 86820,
     'name' => 'Krzywiń',
@@ -9406,7 +8803,7 @@ return array (
     'latitude' => 51.96296,
     'longitude' => 16.81985,
   ),
-  1045 => 
+  978 => 
   array (
     'id' => 86821,
     'name' => 'Krzyż Wielkopolski',
@@ -9415,7 +8812,7 @@ return array (
     'latitude' => 52.88097,
     'longitude' => 16.01116,
   ),
-  1046 => 
+  979 => 
   array (
     'id' => 86822,
     'name' => 'Krzyżanowice',
@@ -9424,7 +8821,7 @@ return array (
     'latitude' => 49.98247,
     'longitude' => 18.26846,
   ),
-  1047 => 
+  980 => 
   array (
     'id' => 86823,
     'name' => 'Krzyżanów',
@@ -9433,7 +8830,7 @@ return array (
     'latitude' => 52.18409,
     'longitude' => 19.45619,
   ),
-  1048 => 
+  981 => 
   array (
     'id' => 86824,
     'name' => 'Krzyżowa',
@@ -9442,7 +8839,7 @@ return array (
     'latitude' => 49.59235,
     'longitude' => 19.34469,
   ),
-  1049 => 
+  982 => 
   array (
     'id' => 86825,
     'name' => 'Krzyżowice',
@@ -9451,7 +8848,7 @@ return array (
     'latitude' => 49.98528,
     'longitude' => 18.67281,
   ),
-  1050 => 
+  983 => 
   array (
     'id' => 86826,
     'name' => 'Krzęcin',
@@ -9460,16 +8857,7 @@ return array (
     'latitude' => 53.0816,
     'longitude' => 15.49008,
   ),
-  1051 => 
-  array (
-    'id' => 86827,
-    'name' => 'Krzęcin',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.94316,
-    'longitude' => 19.74157,
-  ),
-  1052 => 
+  984 => 
   array (
     'id' => 86828,
     'name' => 'Ksawerów',
@@ -9478,7 +8866,7 @@ return array (
     'latitude' => 51.68288,
     'longitude' => 19.4028,
   ),
-  1053 => 
+  985 => 
   array (
     'id' => 86829,
     'name' => 'Książ Wielkopolski',
@@ -9487,7 +8875,7 @@ return array (
     'latitude' => 52.06167,
     'longitude' => 17.23952,
   ),
-  1054 => 
+  986 => 
   array (
     'id' => 86830,
     'name' => 'Książenice',
@@ -9496,7 +8884,7 @@ return array (
     'latitude' => 50.15524,
     'longitude' => 18.59925,
   ),
-  1055 => 
+  987 => 
   array (
     'id' => 86831,
     'name' => 'Księże Małe-Księże Wielkie',
@@ -9505,7 +8893,7 @@ return array (
     'latitude' => 51.07293,
     'longitude' => 17.08881,
   ),
-  1056 => 
+  988 => 
   array (
     'id' => 86832,
     'name' => 'Księżomierz',
@@ -9514,7 +8902,7 @@ return array (
     'latitude' => 50.90855,
     'longitude' => 21.98965,
   ),
-  1057 => 
+  989 => 
   array (
     'id' => 86833,
     'name' => 'Księżpol',
@@ -9523,7 +8911,7 @@ return array (
     'latitude' => 50.42323,
     'longitude' => 22.73526,
   ),
-  1058 => 
+  990 => 
   array (
     'id' => 86834,
     'name' => 'Kuczbork-Osada',
@@ -9532,7 +8920,7 @@ return array (
     'latitude' => 53.08619,
     'longitude' => 20.04782,
   ),
-  1059 => 
+  991 => 
   array (
     'id' => 86835,
     'name' => 'Kudowa-Zdrój',
@@ -9541,7 +8929,7 @@ return array (
     'latitude' => 50.44297,
     'longitude' => 16.24397,
   ),
-  1060 => 
+  992 => 
   array (
     'id' => 86836,
     'name' => 'Kuków',
@@ -9550,7 +8938,7 @@ return array (
     'latitude' => 49.73252,
     'longitude' => 19.48485,
   ),
-  1061 => 
+  993 => 
   array (
     'id' => 86837,
     'name' => 'Kunice',
@@ -9559,7 +8947,7 @@ return array (
     'latitude' => 51.22231,
     'longitude' => 16.24809,
   ),
-  1062 => 
+  994 => 
   array (
     'id' => 86838,
     'name' => 'Kunice Żarskie',
@@ -9568,7 +8956,7 @@ return array (
     'latitude' => 51.59944,
     'longitude' => 15.16495,
   ),
-  1063 => 
+  995 => 
   array (
     'id' => 86839,
     'name' => 'Kunów',
@@ -9577,7 +8965,7 @@ return array (
     'latitude' => 50.96156,
     'longitude' => 21.28058,
   ),
-  1064 => 
+  996 => 
   array (
     'id' => 86840,
     'name' => 'Kup',
@@ -9586,7 +8974,7 @@ return array (
     'latitude' => 50.80659,
     'longitude' => 17.88351,
   ),
-  1065 => 
+  997 => 
   array (
     'id' => 86841,
     'name' => 'Kuryłówka',
@@ -9595,7 +8983,7 @@ return array (
     'latitude' => 50.29976,
     'longitude' => 22.46601,
   ),
-  1066 => 
+  998 => 
   array (
     'id' => 86842,
     'name' => 'Kurzętnik',
@@ -9604,7 +8992,7 @@ return array (
     'latitude' => 53.39858,
     'longitude' => 19.57858,
   ),
-  1067 => 
+  999 => 
   array (
     'id' => 86843,
     'name' => 'Kurów',
@@ -9613,7 +9001,7 @@ return array (
     'latitude' => 51.38941,
     'longitude' => 22.18637,
   ),
-  1068 => 
+  1000 => 
   array (
     'id' => 86844,
     'name' => 'Kutno',
@@ -9622,7 +9010,7 @@ return array (
     'latitude' => 52.23064,
     'longitude' => 19.36409,
   ),
-  1069 => 
+  1001 => 
   array (
     'id' => 86845,
     'name' => 'Kuślin',
@@ -9631,7 +9019,7 @@ return array (
     'latitude' => 52.36386,
     'longitude' => 16.31538,
   ),
-  1070 => 
+  1002 => 
   array (
     'id' => 86846,
     'name' => 'Kuźnia Raciborska',
@@ -9640,7 +9028,7 @@ return array (
     'latitude' => 50.20058,
     'longitude' => 18.31146,
   ),
-  1071 => 
+  1003 => 
   array (
     'id' => 86847,
     'name' => 'Kuźnica',
@@ -9649,7 +9037,7 @@ return array (
     'latitude' => 53.51094,
     'longitude' => 23.64953,
   ),
-  1072 => 
+  1004 => 
   array (
     'id' => 86848,
     'name' => 'Kwaczała',
@@ -9658,7 +9046,7 @@ return array (
     'latitude' => 50.06408,
     'longitude' => 19.49215,
   ),
-  1073 => 
+  1005 => 
   array (
     'id' => 86849,
     'name' => 'Kwidzyn',
@@ -9667,7 +9055,7 @@ return array (
     'latitude' => 53.72495,
     'longitude' => 18.93114,
   ),
-  1074 => 
+  1006 => 
   array (
     'id' => 86850,
     'name' => 'Kwilcz',
@@ -9676,7 +9064,7 @@ return array (
     'latitude' => 52.55506,
     'longitude' => 16.08562,
   ),
-  1075 => 
+  1007 => 
   array (
     'id' => 86851,
     'name' => 'Kórnik',
@@ -9685,7 +9073,7 @@ return array (
     'latitude' => 52.24772,
     'longitude' => 17.08949,
   ),
-  1076 => 
+  1008 => 
   array (
     'id' => 86852,
     'name' => 'Kąty Wrocławskie',
@@ -9694,7 +9082,7 @@ return array (
     'latitude' => 51.03098,
     'longitude' => 16.76767,
   ),
-  1077 => 
+  1009 => 
   array (
     'id' => 86853,
     'name' => 'Kędzierzyn-Koźle',
@@ -9703,7 +9091,7 @@ return array (
     'latitude' => 50.34984,
     'longitude' => 18.22606,
   ),
-  1078 => 
+  1010 => 
   array (
     'id' => 86854,
     'name' => 'Kępice',
@@ -9712,7 +9100,7 @@ return array (
     'latitude' => 54.24111,
     'longitude' => 16.88968,
   ),
-  1079 => 
+  1011 => 
   array (
     'id' => 86855,
     'name' => 'Kępie Żaleszańskie',
@@ -9721,7 +9109,7 @@ return array (
     'latitude' => 50.63983,
     'longitude' => 21.88133,
   ),
-  1080 => 
+  1012 => 
   array (
     'id' => 86856,
     'name' => 'Kępno',
@@ -9730,7 +9118,7 @@ return array (
     'latitude' => 51.2784,
     'longitude' => 17.98908,
   ),
-  1081 => 
+  1013 => 
   array (
     'id' => 86857,
     'name' => 'Kęsowo',
@@ -9739,7 +9127,7 @@ return array (
     'latitude' => 53.55872,
     'longitude' => 17.7158,
   ),
-  1082 => 
+  1014 => 
   array (
     'id' => 86858,
     'name' => 'Kętrzyn',
@@ -9748,7 +9136,7 @@ return array (
     'latitude' => 54.07676,
     'longitude' => 21.37527,
   ),
-  1083 => 
+  1015 => 
   array (
     'id' => 86859,
     'name' => 'Kęty',
@@ -9757,7 +9145,7 @@ return array (
     'latitude' => 49.88214,
     'longitude' => 19.22333,
   ),
-  1084 => 
+  1016 => 
   array (
     'id' => 86860,
     'name' => 'Kłaj',
@@ -9766,7 +9154,7 @@ return array (
     'latitude' => 49.99246,
     'longitude' => 20.29904,
   ),
-  1085 => 
+  1017 => 
   array (
     'id' => 86861,
     'name' => 'Kłecko',
@@ -9775,7 +9163,7 @@ return array (
     'latitude' => 52.63181,
     'longitude' => 17.43075,
   ),
-  1086 => 
+  1018 => 
   array (
     'id' => 86862,
     'name' => 'Kłobuck',
@@ -9784,7 +9172,7 @@ return array (
     'latitude' => 50.90081,
     'longitude' => 18.93674,
   ),
-  1087 => 
+  1019 => 
   array (
     'id' => 86863,
     'name' => 'Kłoczew',
@@ -9793,7 +9181,7 @@ return array (
     'latitude' => 51.72134,
     'longitude' => 21.96493,
   ),
-  1088 => 
+  1020 => 
   array (
     'id' => 86864,
     'name' => 'Kłodawa',
@@ -9802,16 +9190,7 @@ return array (
     'latitude' => 52.78595,
     'longitude' => 15.21452,
   ),
-  1089 => 
-  array (
-    'id' => 86865,
-    'name' => 'Kłodawa',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.25447,
-    'longitude' => 18.91352,
-  ),
-  1090 => 
+  1021 => 
   array (
     'id' => 86866,
     'name' => 'Kłodzko',
@@ -9820,7 +9199,7 @@ return array (
     'latitude' => 50.43488,
     'longitude' => 16.66145,
   ),
-  1091 => 
+  1022 => 
   array (
     'id' => 86867,
     'name' => 'Kłomnice',
@@ -9829,7 +9208,7 @@ return array (
     'latitude' => 50.92165,
     'longitude' => 19.35679,
   ),
-  1092 => 
+  1023 => 
   array (
     'id' => 86868,
     'name' => 'Lachowice',
@@ -9838,7 +9217,7 @@ return array (
     'latitude' => 49.71555,
     'longitude' => 19.47455,
   ),
-  1093 => 
+  1024 => 
   array (
     'id' => 86869,
     'name' => 'Laliki',
@@ -9847,7 +9226,7 @@ return array (
     'latitude' => 49.53446,
     'longitude' => 19.00549,
   ),
-  1094 => 
+  1025 => 
   array (
     'id' => 86870,
     'name' => 'Lanckorona',
@@ -9856,7 +9235,7 @@ return array (
     'latitude' => 49.84496,
     'longitude' => 19.71578,
   ),
-  1095 => 
+  1026 => 
   array (
     'id' => 86871,
     'name' => 'Lasek',
@@ -9865,7 +9244,7 @@ return array (
     'latitude' => 49.50883,
     'longitude' => 19.98078,
   ),
-  1096 => 
+  1027 => 
   array (
     'id' => 86872,
     'name' => 'Laskowa',
@@ -9874,7 +9253,7 @@ return array (
     'latitude' => 49.76147,
     'longitude' => 20.45045,
   ),
-  1097 => 
+  1028 => 
   array (
     'id' => 86873,
     'name' => 'Laszki',
@@ -9883,7 +9262,7 @@ return array (
     'latitude' => 50.0202,
     'longitude' => 22.89997,
   ),
-  1098 => 
+  1029 => 
   array (
     'id' => 86874,
     'name' => 'Latowicz',
@@ -9892,7 +9271,7 @@ return array (
     'latitude' => 52.02636,
     'longitude' => 21.80829,
   ),
-  1099 => 
+  1030 => 
   array (
     'id' => 86875,
     'name' => 'Lecka',
@@ -9901,7 +9280,7 @@ return array (
     'latitude' => 49.8786,
     'longitude' => 22.01368,
   ),
-  1100 => 
+  1031 => 
   array (
     'id' => 86876,
     'name' => 'Legionowo',
@@ -9910,7 +9289,7 @@ return array (
     'latitude' => 52.40149,
     'longitude' => 20.92664,
   ),
-  1101 => 
+  1032 => 
   array (
     'id' => 86877,
     'name' => 'Legnica',
@@ -9919,7 +9298,7 @@ return array (
     'latitude' => 51.21006,
     'longitude' => 16.1619,
   ),
-  1102 => 
+  1033 => 
   array (
     'id' => 86878,
     'name' => 'Legnickie Pole',
@@ -9928,7 +9307,7 @@ return array (
     'latitude' => 51.14419,
     'longitude' => 16.24208,
   ),
-  1103 => 
+  1034 => 
   array (
     'id' => 86879,
     'name' => 'Lelkowo',
@@ -9937,7 +9316,7 @@ return array (
     'latitude' => 54.32458,
     'longitude' => 20.2248,
   ),
-  1104 => 
+  1035 => 
   array (
     'id' => 86880,
     'name' => 'Lelów',
@@ -9946,7 +9325,7 @@ return array (
     'latitude' => 50.68335,
     'longitude' => 19.62562,
   ),
-  1105 => 
+  1036 => 
   array (
     'id' => 86881,
     'name' => 'Lesko',
@@ -9955,7 +9334,7 @@ return array (
     'latitude' => 49.4701,
     'longitude' => 22.33042,
   ),
-  1106 => 
+  1037 => 
   array (
     'id' => 86882,
     'name' => 'Leszno',
@@ -9964,16 +9343,7 @@ return array (
     'latitude' => 52.25799,
     'longitude' => 20.59121,
   ),
-  1107 => 
-  array (
-    'id' => 86883,
-    'name' => 'Leszno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.84034,
-    'longitude' => 16.57494,
-  ),
-  1108 => 
+  1038 => 
   array (
     'id' => 86884,
     'name' => 'Lesznowola',
@@ -9982,7 +9352,7 @@ return array (
     'latitude' => 52.09095,
     'longitude' => 20.93479,
   ),
-  1109 => 
+  1039 => 
   array (
     'id' => 86885,
     'name' => 'Lewin Brzeski',
@@ -9991,7 +9361,7 @@ return array (
     'latitude' => 50.7487,
     'longitude' => 17.61688,
   ),
-  1110 => 
+  1040 => 
   array (
     'id' => 86886,
     'name' => 'Lewin Kłodzki',
@@ -10000,7 +9370,7 @@ return array (
     'latitude' => 50.40559,
     'longitude' => 16.29101,
   ),
-  1111 => 
+  1041 => 
   array (
     'id' => 86887,
     'name' => 'Leńcze',
@@ -10009,7 +9379,7 @@ return array (
     'latitude' => 49.89895,
     'longitude' => 19.73539,
   ),
-  1112 => 
+  1042 => 
   array (
     'id' => 86888,
     'name' => 'Leśna',
@@ -10018,16 +9388,7 @@ return array (
     'latitude' => 49.67041,
     'longitude' => 19.12763,
   ),
-  1113 => 
-  array (
-    'id' => 86889,
-    'name' => 'Leśna',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.02431,
-    'longitude' => 15.26413,
-  ),
-  1114 => 
+  1043 => 
   array (
     'id' => 86890,
     'name' => 'Leśna Podlaska',
@@ -10036,7 +9397,7 @@ return array (
     'latitude' => 52.13317,
     'longitude' => 23.02786,
   ),
-  1115 => 
+  1044 => 
   array (
     'id' => 86891,
     'name' => 'Leśnica',
@@ -10045,16 +9406,7 @@ return array (
     'latitude' => 49.40092,
     'longitude' => 20.06001,
   ),
-  1116 => 
-  array (
-    'id' => 86892,
-    'name' => 'Leśnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.43083,
-    'longitude' => 18.18684,
-  ),
-  1117 => 
+  1045 => 
   array (
     'id' => 86893,
     'name' => 'Leśnica-Ratyń-Pustki',
@@ -10063,7 +9415,7 @@ return array (
     'latitude' => 51.14228,
     'longitude' => 16.84773,
   ),
-  1118 => 
+  1046 => 
   array (
     'id' => 86894,
     'name' => 'Leżajsk',
@@ -10072,7 +9424,7 @@ return array (
     'latitude' => 50.26257,
     'longitude' => 22.41932,
   ),
-  1119 => 
+  1047 => 
   array (
     'id' => 86895,
     'name' => 'Lgota Wielka',
@@ -10081,7 +9433,7 @@ return array (
     'latitude' => 51.14904,
     'longitude' => 19.32735,
   ),
-  1120 => 
+  1048 => 
   array (
     'id' => 86896,
     'name' => 'Libertów',
@@ -10090,7 +9442,7 @@ return array (
     'latitude' => 49.97242,
     'longitude' => 19.89461,
   ),
-  1121 => 
+  1049 => 
   array (
     'id' => 86897,
     'name' => 'Libiąż',
@@ -10099,7 +9451,7 @@ return array (
     'latitude' => 50.10396,
     'longitude' => 19.31568,
   ),
-  1122 => 
+  1050 => 
   array (
     'id' => 86898,
     'name' => 'Licheń Stary',
@@ -10108,7 +9460,7 @@ return array (
     'latitude' => 52.31226,
     'longitude' => 18.35515,
   ),
-  1123 => 
+  1051 => 
   array (
     'id' => 86899,
     'name' => 'Lidzbark',
@@ -10117,7 +9469,7 @@ return array (
     'latitude' => 53.26283,
     'longitude' => 19.82663,
   ),
-  1124 => 
+  1052 => 
   array (
     'id' => 86900,
     'name' => 'Lidzbark Warmiński',
@@ -10126,7 +9478,7 @@ return array (
     'latitude' => 54.12588,
     'longitude' => 20.57954,
   ),
-  1125 => 
+  1053 => 
   array (
     'id' => 86901,
     'name' => 'Ligota',
@@ -10135,7 +9487,7 @@ return array (
     'latitude' => 49.89856,
     'longitude' => 18.9509,
   ),
-  1126 => 
+  1054 => 
   array (
     'id' => 86902,
     'name' => 'Limanowa',
@@ -10144,7 +9496,7 @@ return array (
     'latitude' => 49.70594,
     'longitude' => 20.42204,
   ),
-  1127 => 
+  1055 => 
   array (
     'id' => 86903,
     'name' => 'Linia',
@@ -10153,7 +9505,7 @@ return array (
     'latitude' => 54.45143,
     'longitude' => 17.93454,
   ),
-  1128 => 
+  1056 => 
   array (
     'id' => 86904,
     'name' => 'Liniewo',
@@ -10162,7 +9514,7 @@ return array (
     'latitude' => 54.07661,
     'longitude' => 18.22675,
   ),
-  1129 => 
+  1057 => 
   array (
     'id' => 86905,
     'name' => 'Lipce Reymontowskie',
@@ -10171,7 +9523,7 @@ return array (
     'latitude' => 51.89863,
     'longitude' => 19.94173,
   ),
-  1130 => 
+  1058 => 
   array (
     'id' => 86906,
     'name' => 'Lipiany',
@@ -10180,7 +9532,7 @@ return array (
     'latitude' => 53.00336,
     'longitude' => 14.96919,
   ),
-  1131 => 
+  1059 => 
   array (
     'id' => 86907,
     'name' => 'Lipie',
@@ -10189,7 +9541,7 @@ return array (
     'latitude' => 51.01257,
     'longitude' => 18.79658,
   ),
-  1132 => 
+  1060 => 
   array (
     'id' => 86908,
     'name' => 'Lipinki',
@@ -10198,7 +9550,7 @@ return array (
     'latitude' => 49.67296,
     'longitude' => 21.29288,
   ),
-  1133 => 
+  1061 => 
   array (
     'id' => 86909,
     'name' => 'Lipinki Łużyckie',
@@ -10207,7 +9559,7 @@ return array (
     'latitude' => 51.63954,
     'longitude' => 14.99874,
   ),
-  1134 => 
+  1062 => 
   array (
     'id' => 86910,
     'name' => 'Lipka',
@@ -10216,7 +9568,7 @@ return array (
     'latitude' => 53.49601,
     'longitude' => 17.25085,
   ),
-  1135 => 
+  1063 => 
   array (
     'id' => 86911,
     'name' => 'Lipnica',
@@ -10225,16 +9577,7 @@ return array (
     'latitude' => 50.28939,
     'longitude' => 21.88811,
   ),
-  1136 => 
-  array (
-    'id' => 86912,
-    'name' => 'Lipnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.99623,
-    'longitude' => 17.40702,
-  ),
-  1137 => 
+  1064 => 
   array (
     'id' => 86913,
     'name' => 'Lipnica Mała',
@@ -10243,7 +9586,7 @@ return array (
     'latitude' => 49.51507,
     'longitude' => 19.63497,
   ),
-  1138 => 
+  1065 => 
   array (
     'id' => 86914,
     'name' => 'Lipnica Wielka',
@@ -10252,7 +9595,7 @@ return array (
     'latitude' => 49.70489,
     'longitude' => 20.86844,
   ),
-  1139 => 
+  1066 => 
   array (
     'id' => 86915,
     'name' => 'Lipnik',
@@ -10261,16 +9604,7 @@ return array (
     'latitude' => 49.78902,
     'longitude' => 20.08455,
   ),
-  1140 => 
-  array (
-    'id' => 86916,
-    'name' => 'Lipnik',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.72977,
-    'longitude' => 21.49389,
-  ),
-  1141 => 
+  1067 => 
   array (
     'id' => 86917,
     'name' => 'Lipno',
@@ -10279,16 +9613,7 @@ return array (
     'latitude' => 52.84436,
     'longitude' => 19.17852,
   ),
-  1142 => 
-  array (
-    'id' => 86918,
-    'name' => 'Lipno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.91722,
-    'longitude' => 16.56708,
-  ),
-  1143 => 
+  1068 => 
   array (
     'id' => 86919,
     'name' => 'Lipowa',
@@ -10297,7 +9622,7 @@ return array (
     'latitude' => 49.67574,
     'longitude' => 19.09398,
   ),
-  1144 => 
+  1069 => 
   array (
     'id' => 86920,
     'name' => 'Lipowiec Kościelny',
@@ -10306,7 +9631,7 @@ return array (
     'latitude' => 53.10459,
     'longitude' => 20.17639,
   ),
-  1145 => 
+  1070 => 
   array (
     'id' => 86921,
     'name' => 'Lipsk',
@@ -10315,7 +9640,7 @@ return array (
     'latitude' => 53.73312,
     'longitude' => 23.40225,
   ),
-  1146 => 
+  1071 => 
   array (
     'id' => 86922,
     'name' => 'Lipsko',
@@ -10324,7 +9649,7 @@ return array (
     'latitude' => 51.15954,
     'longitude' => 21.64933,
   ),
-  1147 => 
+  1072 => 
   array (
     'id' => 86923,
     'name' => 'Lipusz',
@@ -10333,7 +9658,7 @@ return array (
     'latitude' => 54.09806,
     'longitude' => 17.78455,
   ),
-  1148 => 
+  1073 => 
   array (
     'id' => 86924,
     'name' => 'Lisewo',
@@ -10342,7 +9667,7 @@ return array (
     'latitude' => 53.2958,
     'longitude' => 18.68714,
   ),
-  1149 => 
+  1074 => 
   array (
     'id' => 86925,
     'name' => 'Lisewo Malborskie',
@@ -10351,7 +9676,7 @@ return array (
     'latitude' => 54.09665,
     'longitude' => 18.82928,
   ),
-  1150 => 
+  1075 => 
   array (
     'id' => 86926,
     'name' => 'Lisia Góra',
@@ -10360,7 +9685,7 @@ return array (
     'latitude' => 50.08039,
     'longitude' => 21.04397,
   ),
-  1151 => 
+  1076 => 
   array (
     'id' => 86927,
     'name' => 'Lisków',
@@ -10369,7 +9694,7 @@ return array (
     'latitude' => 51.83313,
     'longitude' => 18.39789,
   ),
-  1152 => 
+  1077 => 
   array (
     'id' => 86928,
     'name' => 'Liszki',
@@ -10378,7 +9703,7 @@ return array (
     'latitude' => 50.03884,
     'longitude' => 19.76835,
   ),
-  1153 => 
+  1078 => 
   array (
     'id' => 86929,
     'name' => 'Lniano',
@@ -10387,7 +9712,7 @@ return array (
     'latitude' => 53.52801,
     'longitude' => 18.21267,
   ),
-  1154 => 
+  1079 => 
   array (
     'id' => 86930,
     'name' => 'Lubaczów',
@@ -10396,7 +9721,7 @@ return array (
     'latitude' => 50.157,
     'longitude' => 23.12339,
   ),
-  1155 => 
+  1080 => 
   array (
     'id' => 86931,
     'name' => 'Lubanie',
@@ -10405,7 +9730,7 @@ return array (
     'latitude' => 52.74689,
     'longitude' => 18.9194,
   ),
-  1156 => 
+  1081 => 
   array (
     'id' => 86932,
     'name' => 'Lubartów',
@@ -10414,7 +9739,7 @@ return array (
     'latitude' => 51.46026,
     'longitude' => 22.60952,
   ),
-  1157 => 
+  1082 => 
   array (
     'id' => 86933,
     'name' => 'Lubasz',
@@ -10423,7 +9748,7 @@ return array (
     'latitude' => 52.85213,
     'longitude' => 16.52344,
   ),
-  1158 => 
+  1083 => 
   array (
     'id' => 86934,
     'name' => 'Lubawa',
@@ -10432,7 +9757,7 @@ return array (
     'latitude' => 53.50428,
     'longitude' => 19.74966,
   ),
-  1159 => 
+  1084 => 
   array (
     'id' => 86935,
     'name' => 'Lubawka',
@@ -10441,7 +9766,7 @@ return array (
     'latitude' => 50.70456,
     'longitude' => 16.00026,
   ),
-  1160 => 
+  1085 => 
   array (
     'id' => 86936,
     'name' => 'Lubań',
@@ -10450,7 +9775,7 @@ return array (
     'latitude' => 51.12014,
     'longitude' => 15.28768,
   ),
-  1161 => 
+  1086 => 
   array (
     'id' => 86937,
     'name' => 'Lubenia',
@@ -10459,7 +9784,7 @@ return array (
     'latitude' => 49.93078,
     'longitude' => 21.92665,
   ),
-  1162 => 
+  1087 => 
   array (
     'id' => 86938,
     'name' => 'Lubichowo',
@@ -10468,7 +9793,7 @@ return array (
     'latitude' => 53.85136,
     'longitude' => 18.39901,
   ),
-  1163 => 
+  1088 => 
   array (
     'id' => 86939,
     'name' => 'Lubicz Dolny',
@@ -10477,7 +9802,7 @@ return array (
     'latitude' => 53.03151,
     'longitude' => 18.74559,
   ),
-  1164 => 
+  1089 => 
   array (
     'id' => 86940,
     'name' => 'Lubicz Górny',
@@ -10486,7 +9811,7 @@ return array (
     'latitude' => 53.02686,
     'longitude' => 18.771,
   ),
-  1165 => 
+  1090 => 
   array (
     'id' => 86941,
     'name' => 'Lubiewo',
@@ -10495,7 +9820,7 @@ return array (
     'latitude' => 53.46542,
     'longitude' => 18.02994,
   ),
-  1166 => 
+  1091 => 
   array (
     'id' => 86942,
     'name' => 'Lubień',
@@ -10504,7 +9829,7 @@ return array (
     'latitude' => 49.71921,
     'longitude' => 19.97847,
   ),
-  1167 => 
+  1092 => 
   array (
     'id' => 86943,
     'name' => 'Lubień Kujawski',
@@ -10513,7 +9838,7 @@ return array (
     'latitude' => 52.40574,
     'longitude' => 19.1644,
   ),
-  1168 => 
+  1093 => 
   array (
     'id' => 86944,
     'name' => 'Lubin',
@@ -10522,7 +9847,7 @@ return array (
     'latitude' => 51.40089,
     'longitude' => 16.20149,
   ),
-  1169 => 
+  1094 => 
   array (
     'id' => 86945,
     'name' => 'Lubiszyn',
@@ -10531,7 +9856,7 @@ return array (
     'latitude' => 52.78075,
     'longitude' => 14.94793,
   ),
-  1170 => 
+  1095 => 
   array (
     'id' => 86946,
     'name' => 'Lublewo Gdańskie',
@@ -10540,7 +9865,7 @@ return array (
     'latitude' => 54.28457,
     'longitude' => 18.50389,
   ),
-  1171 => 
+  1096 => 
   array (
     'id' => 86947,
     'name' => 'Lublin',
@@ -10549,7 +9874,7 @@ return array (
     'latitude' => 51.25,
     'longitude' => 22.56667,
   ),
-  1172 => 
+  1097 => 
   array (
     'id' => 86948,
     'name' => 'Lubliniec',
@@ -10558,7 +9883,7 @@ return array (
     'latitude' => 50.66897,
     'longitude' => 18.6844,
   ),
-  1173 => 
+  1098 => 
   array (
     'id' => 86949,
     'name' => 'Lubniewice',
@@ -10567,7 +9892,7 @@ return array (
     'latitude' => 52.51638,
     'longitude' => 15.25005,
   ),
-  1174 => 
+  1099 => 
   array (
     'id' => 86950,
     'name' => 'Lubochnia',
@@ -10576,7 +9901,7 @@ return array (
     'latitude' => 51.60794,
     'longitude' => 20.05391,
   ),
-  1175 => 
+  1100 => 
   array (
     'id' => 86951,
     'name' => 'Lubomia',
@@ -10585,7 +9910,7 @@ return array (
     'latitude' => 50.03972,
     'longitude' => 18.3082,
   ),
-  1176 => 
+  1101 => 
   array (
     'id' => 86952,
     'name' => 'Lubomierz',
@@ -10594,16 +9919,7 @@ return array (
     'latitude' => 49.60854,
     'longitude' => 20.20214,
   ),
-  1177 => 
-  array (
-    'id' => 86953,
-    'name' => 'Lubomierz',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.01278,
-    'longitude' => 15.50969,
-  ),
-  1178 => 
+  1102 => 
   array (
     'id' => 86954,
     'name' => 'Lubomino',
@@ -10612,7 +9928,7 @@ return array (
     'latitude' => 54.06684,
     'longitude' => 20.23956,
   ),
-  1179 => 
+  1103 => 
   array (
     'id' => 86955,
     'name' => 'Lubowidz',
@@ -10621,7 +9937,7 @@ return array (
     'latitude' => 53.11865,
     'longitude' => 19.84594,
   ),
-  1180 => 
+  1104 => 
   array (
     'id' => 86956,
     'name' => 'Luboń',
@@ -10630,7 +9946,7 @@ return array (
     'latitude' => 52.34705,
     'longitude' => 16.89267,
   ),
-  1181 => 
+  1105 => 
   array (
     'id' => 86957,
     'name' => 'Lubraniec',
@@ -10639,7 +9955,7 @@ return array (
     'latitude' => 52.54178,
     'longitude' => 18.83254,
   ),
-  1182 => 
+  1106 => 
   array (
     'id' => 86958,
     'name' => 'Lubrza',
@@ -10648,16 +9964,7 @@ return array (
     'latitude' => 52.30418,
     'longitude' => 15.44317,
   ),
-  1183 => 
-  array (
-    'id' => 86959,
-    'name' => 'Lubrza',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.33631,
-    'longitude' => 17.62636,
-  ),
-  1184 => 
+  1107 => 
   array (
     'id' => 86960,
     'name' => 'Lubsko',
@@ -10666,7 +9973,7 @@ return array (
     'latitude' => 51.78467,
     'longitude' => 14.97196,
   ),
-  1185 => 
+  1108 => 
   array (
     'id' => 86961,
     'name' => 'Lubsza',
@@ -10675,7 +9982,7 @@ return array (
     'latitude' => 50.91591,
     'longitude' => 17.52173,
   ),
-  1186 => 
+  1109 => 
   array (
     'id' => 86962,
     'name' => 'Lubycza Królewska',
@@ -10684,7 +9991,7 @@ return array (
     'latitude' => 50.34102,
     'longitude' => 23.51941,
   ),
-  1187 => 
+  1110 => 
   array (
     'id' => 86963,
     'name' => 'Ludwikowice Kłodzkie',
@@ -10693,7 +10000,7 @@ return array (
     'latitude' => 50.62464,
     'longitude' => 16.46052,
   ),
-  1188 => 
+  1111 => 
   array (
     'id' => 86964,
     'name' => 'Ludwin',
@@ -10702,7 +10009,7 @@ return array (
     'latitude' => 51.34605,
     'longitude' => 22.90581,
   ),
-  1189 => 
+  1112 => 
   array (
     'id' => 86965,
     'name' => 'Ludźmierz',
@@ -10711,7 +10018,7 @@ return array (
     'latitude' => 49.46656,
     'longitude' => 19.9825,
   ),
-  1190 => 
+  1113 => 
   array (
     'id' => 86966,
     'name' => 'Luszowice',
@@ -10720,7 +10027,7 @@ return array (
     'latitude' => 50.17415,
     'longitude' => 19.40426,
   ),
-  1191 => 
+  1114 => 
   array (
     'id' => 86967,
     'name' => 'Lutocin',
@@ -10729,7 +10036,7 @@ return array (
     'latitude' => 52.98152,
     'longitude' => 19.76655,
   ),
-  1192 => 
+  1115 => 
   array (
     'id' => 86968,
     'name' => 'Lutomiersk',
@@ -10738,7 +10045,7 @@ return array (
     'latitude' => 51.75376,
     'longitude' => 19.21097,
   ),
-  1193 => 
+  1116 => 
   array (
     'id' => 86969,
     'name' => 'Lutoryż',
@@ -10747,7 +10054,7 @@ return array (
     'latitude' => 49.96712,
     'longitude' => 21.9124,
   ),
-  1194 => 
+  1117 => 
   array (
     'id' => 86970,
     'name' => 'Lutowiska',
@@ -10756,7 +10063,7 @@ return array (
     'latitude' => 49.25318,
     'longitude' => 22.69252,
   ),
-  1195 => 
+  1118 => 
   array (
     'id' => 86971,
     'name' => 'Lututów',
@@ -10765,7 +10072,7 @@ return array (
     'latitude' => 51.37033,
     'longitude' => 18.4348,
   ),
-  1196 => 
+  1119 => 
   array (
     'id' => 86972,
     'name' => 'Luzino',
@@ -10774,7 +10081,7 @@ return array (
     'latitude' => 54.56604,
     'longitude' => 18.10907,
   ),
-  1197 => 
+  1120 => 
   array (
     'id' => 86973,
     'name' => 'Lwówek',
@@ -10783,7 +10090,7 @@ return array (
     'latitude' => 52.44798,
     'longitude' => 16.18106,
   ),
-  1198 => 
+  1121 => 
   array (
     'id' => 86974,
     'name' => 'Lwówek Śląski',
@@ -10792,7 +10099,7 @@ return array (
     'latitude' => 51.11074,
     'longitude' => 15.58582,
   ),
-  1199 => 
+  1122 => 
   array (
     'id' => 86975,
     'name' => 'Lyski',
@@ -10801,7 +10108,7 @@ return array (
     'latitude' => 50.11992,
     'longitude' => 18.39146,
   ),
-  1200 => 
+  1123 => 
   array (
     'id' => 86976,
     'name' => 'Lądek',
@@ -10810,7 +10117,7 @@ return array (
     'latitude' => 52.20929,
     'longitude' => 17.92994,
   ),
-  1201 => 
+  1124 => 
   array (
     'id' => 86977,
     'name' => 'Lądek-Zdrój',
@@ -10819,7 +10126,7 @@ return array (
     'latitude' => 50.34371,
     'longitude' => 16.87946,
   ),
-  1202 => 
+  1125 => 
   array (
     'id' => 86978,
     'name' => 'Lębork',
@@ -10828,7 +10135,7 @@ return array (
     'latitude' => 54.53921,
     'longitude' => 17.75012,
   ),
-  1203 => 
+  1126 => 
   array (
     'id' => 86979,
     'name' => 'Lędziny',
@@ -10837,7 +10144,7 @@ return array (
     'latitude' => 50.14264,
     'longitude' => 19.13149,
   ),
-  1204 => 
+  1127 => 
   array (
     'id' => 86980,
     'name' => 'Maciejowice',
@@ -10846,7 +10153,7 @@ return array (
     'latitude' => 51.69222,
     'longitude' => 21.55342,
   ),
-  1205 => 
+  1128 => 
   array (
     'id' => 86981,
     'name' => 'Majdan Królewski',
@@ -10855,7 +10162,7 @@ return array (
     'latitude' => 50.37935,
     'longitude' => 21.74615,
   ),
-  1206 => 
+  1129 => 
   array (
     'id' => 86982,
     'name' => 'Maków',
@@ -10864,7 +10171,7 @@ return array (
     'latitude' => 51.94696,
     'longitude' => 20.05211,
   ),
-  1207 => 
+  1130 => 
   array (
     'id' => 86983,
     'name' => 'Maków Mazowiecki',
@@ -10873,7 +10180,7 @@ return array (
     'latitude' => 52.86493,
     'longitude' => 21.10053,
   ),
-  1208 => 
+  1131 => 
   array (
     'id' => 86984,
     'name' => 'Maków Podhalański',
@@ -10882,7 +10189,7 @@ return array (
     'latitude' => 49.73008,
     'longitude' => 19.67711,
   ),
-  1209 => 
+  1132 => 
   array (
     'id' => 86985,
     'name' => 'Malanów',
@@ -10891,7 +10198,7 @@ return array (
     'latitude' => 51.95358,
     'longitude' => 18.39128,
   ),
-  1210 => 
+  1133 => 
   array (
     'id' => 86986,
     'name' => 'Malbork',
@@ -10900,7 +10207,7 @@ return array (
     'latitude' => 54.03591,
     'longitude' => 19.0266,
   ),
-  1211 => 
+  1134 => 
   array (
     'id' => 86987,
     'name' => 'Malczyce',
@@ -10909,7 +10216,7 @@ return array (
     'latitude' => 51.22038,
     'longitude' => 16.49365,
   ),
-  1212 => 
+  1135 => 
   array (
     'id' => 86988,
     'name' => 'Malec',
@@ -10918,7 +10225,7 @@ return array (
     'latitude' => 49.92106,
     'longitude' => 19.2453,
   ),
-  1213 => 
+  1136 => 
   array (
     'id' => 86989,
     'name' => 'Manasterz',
@@ -10927,7 +10234,7 @@ return array (
     'latitude' => 49.9352,
     'longitude' => 22.34602,
   ),
-  1214 => 
+  1137 => 
   array (
     'id' => 86990,
     'name' => 'Maniowy',
@@ -10936,7 +10243,7 @@ return array (
     'latitude' => 49.45976,
     'longitude' => 20.26454,
   ),
-  1215 => 
+  1138 => 
   array (
     'id' => 86991,
     'name' => 'Marciszów',
@@ -10945,7 +10252,7 @@ return array (
     'latitude' => 50.8447,
     'longitude' => 16.02116,
   ),
-  1216 => 
+  1139 => 
   array (
     'id' => 86992,
     'name' => 'Margonin',
@@ -10954,7 +10261,7 @@ return array (
     'latitude' => 52.97335,
     'longitude' => 17.09464,
   ),
-  1217 => 
+  1140 => 
   array (
     'id' => 86993,
     'name' => 'Marianowo',
@@ -10963,7 +10270,7 @@ return array (
     'latitude' => 53.38287,
     'longitude' => 15.26645,
   ),
-  1218 => 
+  1141 => 
   array (
     'id' => 86994,
     'name' => 'Marki',
@@ -10972,7 +10279,7 @@ return array (
     'latitude' => 52.32065,
     'longitude' => 21.10474,
   ),
-  1219 => 
+  1142 => 
   array (
     'id' => 86995,
     'name' => 'Markowa',
@@ -10981,7 +10288,7 @@ return array (
     'latitude' => 50.02633,
     'longitude' => 22.3316,
   ),
-  1220 => 
+  1143 => 
   array (
     'id' => 86996,
     'name' => 'Markuszów',
@@ -10990,7 +10297,7 @@ return array (
     'latitude' => 51.37457,
     'longitude' => 22.25804,
   ),
-  1221 => 
+  1144 => 
   array (
     'id' => 86997,
     'name' => 'Markłowice',
@@ -10999,7 +10306,7 @@ return array (
     'latitude' => 50.01695,
     'longitude' => 18.52098,
   ),
-  1222 => 
+  1145 => 
   array (
     'id' => 86998,
     'name' => 'Marszowice',
@@ -11008,7 +10315,7 @@ return array (
     'latitude' => 51.17198,
     'longitude' => 16.88441,
   ),
-  1223 => 
+  1146 => 
   array (
     'id' => 86999,
     'name' => 'Maszewo',
@@ -11017,16 +10324,7 @@ return array (
     'latitude' => 52.06896,
     'longitude' => 14.90553,
   ),
-  1224 => 
-  array (
-    'id' => 87000,
-    'name' => 'Maszewo',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.49615,
-    'longitude' => 15.06166,
-  ),
-  1225 => 
+  1147 => 
   array (
     'id' => 87001,
     'name' => 'Maszewo Duże',
@@ -11035,7 +10333,7 @@ return array (
     'latitude' => 52.58026,
     'longitude' => 19.62905,
   ),
-  1226 => 
+  1148 => 
   array (
     'id' => 87002,
     'name' => 'Maszkienice',
@@ -11044,7 +10342,7 @@ return array (
     'latitude' => 49.9892,
     'longitude' => 20.68657,
   ),
-  1227 => 
+  1149 => 
   array (
     'id' => 87003,
     'name' => 'Masłów',
@@ -11053,7 +10351,7 @@ return array (
     'latitude' => 50.90065,
     'longitude' => 20.72322,
   ),
-  1228 => 
+  1150 => 
   array (
     'id' => 87004,
     'name' => 'Mazańcowice',
@@ -11062,7 +10360,7 @@ return array (
     'latitude' => 49.85802,
     'longitude' => 18.97708,
   ),
-  1229 => 
+  1151 => 
   array (
     'id' => 87005,
     'name' => 'Mała Wieś',
@@ -11071,7 +10369,7 @@ return array (
     'latitude' => 52.45779,
     'longitude' => 20.10223,
   ),
-  1230 => 
+  1152 => 
   array (
     'id' => 87006,
     'name' => 'Małdyty',
@@ -11080,7 +10378,7 @@ return array (
     'latitude' => 53.91981,
     'longitude' => 19.74398,
   ),
-  1231 => 
+  1153 => 
   array (
     'id' => 87007,
     'name' => 'Małkinia Górna',
@@ -11089,7 +10387,7 @@ return array (
     'latitude' => 52.6922,
     'longitude' => 22.02836,
   ),
-  1232 => 
+  1154 => 
   array (
     'id' => 87008,
     'name' => 'Małogoszcz',
@@ -11098,7 +10396,7 @@ return array (
     'latitude' => 50.81214,
     'longitude' => 20.26407,
   ),
-  1233 => 
+  1155 => 
   array (
     'id' => 87009,
     'name' => 'Małomice',
@@ -11107,7 +10405,7 @@ return array (
     'latitude' => 51.55597,
     'longitude' => 15.45004,
   ),
-  1234 => 
+  1156 => 
   array (
     'id' => 87010,
     'name' => 'Mały Płock',
@@ -11116,7 +10414,7 @@ return array (
     'latitude' => 53.30385,
     'longitude' => 22.02836,
   ),
-  1235 => 
+  1157 => 
   array (
     'id' => 87011,
     'name' => 'Maślice Małe',
@@ -11125,7 +10423,7 @@ return array (
     'latitude' => 51.14937,
     'longitude' => 16.94191,
   ),
-  1236 => 
+  1158 => 
   array (
     'id' => 87012,
     'name' => 'Maślice Wielkie',
@@ -11134,7 +10432,7 @@ return array (
     'latitude' => 51.16333,
     'longitude' => 16.92837,
   ),
-  1237 => 
+  1159 => 
   array (
     'id' => 87013,
     'name' => 'Medyka',
@@ -11143,7 +10441,7 @@ return array (
     'latitude' => 49.80526,
     'longitude' => 22.92229,
   ),
-  1238 => 
+  1160 => 
   array (
     'id' => 87014,
     'name' => 'Mełgiew',
@@ -11152,7 +10450,7 @@ return array (
     'latitude' => 51.22519,
     'longitude' => 22.78414,
   ),
-  1239 => 
+  1161 => 
   array (
     'id' => 87015,
     'name' => 'Miasteczko Krajeńskie',
@@ -11161,7 +10459,7 @@ return array (
     'latitude' => 53.09784,
     'longitude' => 17.00478,
   ),
-  1240 => 
+  1162 => 
   array (
     'id' => 87016,
     'name' => 'Miasteczko Śląskie',
@@ -11170,7 +10468,7 @@ return array (
     'latitude' => 50.50262,
     'longitude' => 18.93949,
   ),
-  1241 => 
+  1163 => 
   array (
     'id' => 87017,
     'name' => 'Miastko',
@@ -11179,7 +10477,7 @@ return array (
     'latitude' => 54.00283,
     'longitude' => 16.98263,
   ),
-  1242 => 
+  1164 => 
   array (
     'id' => 87018,
     'name' => 'Miastków Kościelny',
@@ -11188,7 +10486,7 @@ return array (
     'latitude' => 51.88407,
     'longitude' => 21.82528,
   ),
-  1243 => 
+  1165 => 
   array (
     'id' => 87019,
     'name' => 'Michałowice',
@@ -11197,16 +10495,7 @@ return array (
     'latitude' => 52.17435,
     'longitude' => 20.88089,
   ),
-  1244 => 
-  array (
-    'id' => 87020,
-    'name' => 'Michałowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.15898,
-    'longitude' => 19.98044,
-  ),
-  1245 => 
+  1166 => 
   array (
     'id' => 87021,
     'name' => 'Michałowo',
@@ -11215,7 +10504,7 @@ return array (
     'latitude' => 53.03492,
     'longitude' => 23.60996,
   ),
-  1246 => 
+  1167 => 
   array (
     'id' => 87022,
     'name' => 'Michałów',
@@ -11224,16 +10513,7 @@ return array (
     'latitude' => 50.54709,
     'longitude' => 23.60361,
   ),
-  1247 => 
-  array (
-    'id' => 87023,
-    'name' => 'Michałów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.49541,
-    'longitude' => 20.46178,
-  ),
-  1248 => 
+  1168 => 
   array (
     'id' => 87024,
     'name' => 'Michałów-Reginów',
@@ -11242,7 +10522,7 @@ return array (
     'latitude' => 52.41711,
     'longitude' => 20.96595,
   ),
-  1249 => 
+  1169 => 
   array (
     'id' => 87025,
     'name' => 'Michów',
@@ -11251,7 +10531,7 @@ return array (
     'latitude' => 51.52573,
     'longitude' => 22.31435,
   ),
-  1250 => 
+  1170 => 
   array (
     'id' => 87026,
     'name' => 'Miechów',
@@ -11260,7 +10540,7 @@ return array (
     'latitude' => 50.35648,
     'longitude' => 20.02788,
   ),
-  1251 => 
+  1171 => 
   array (
     'id' => 87027,
     'name' => 'Miechów Charsznica',
@@ -11269,7 +10549,7 @@ return array (
     'latitude' => 50.39599,
     'longitude' => 19.95031,
   ),
-  1252 => 
+  1172 => 
   array (
     'id' => 87028,
     'name' => 'Miedziana Góra',
@@ -11278,7 +10558,7 @@ return array (
     'latitude' => 50.9368,
     'longitude' => 20.55096,
   ),
-  1253 => 
+  1173 => 
   array (
     'id' => 87029,
     'name' => 'Miedzichowo',
@@ -11287,7 +10567,7 @@ return array (
     'latitude' => 52.37581,
     'longitude' => 15.95876,
   ),
-  1254 => 
+  1174 => 
   array (
     'id' => 87030,
     'name' => 'Miedzna',
@@ -11296,7 +10576,7 @@ return array (
     'latitude' => 52.46778,
     'longitude' => 22.08947,
   ),
-  1255 => 
+  1175 => 
   array (
     'id' => 87031,
     'name' => 'Miedzno',
@@ -11305,7 +10585,7 @@ return array (
     'latitude' => 50.96994,
     'longitude' => 18.98111,
   ),
-  1256 => 
+  1176 => 
   array (
     'id' => 87032,
     'name' => 'Miedźna',
@@ -11314,7 +10594,7 @@ return array (
     'latitude' => 49.98225,
     'longitude' => 19.04883,
   ),
-  1257 => 
+  1177 => 
   array (
     'id' => 87033,
     'name' => 'Miejsce Piastowe',
@@ -11323,7 +10603,7 @@ return array (
     'latitude' => 49.6344,
     'longitude' => 21.78735,
   ),
-  1258 => 
+  1178 => 
   array (
     'id' => 87034,
     'name' => 'Miejska Górka',
@@ -11332,7 +10612,7 @@ return array (
     'latitude' => 51.65573,
     'longitude' => 16.95826,
   ),
-  1259 => 
+  1179 => 
   array (
     'id' => 87035,
     'name' => 'Mielec',
@@ -11341,7 +10621,7 @@ return array (
     'latitude' => 50.28709,
     'longitude' => 21.4239,
   ),
-  1260 => 
+  1180 => 
   array (
     'id' => 87036,
     'name' => 'Mieleszyn',
@@ -11350,7 +10630,7 @@ return array (
     'latitude' => 52.66868,
     'longitude' => 17.49779,
   ),
-  1261 => 
+  1181 => 
   array (
     'id' => 87037,
     'name' => 'Mielno',
@@ -11359,7 +10639,7 @@ return array (
     'latitude' => 54.26086,
     'longitude' => 16.0621,
   ),
-  1262 => 
+  1182 => 
   array (
     'id' => 87038,
     'name' => 'Mieroszów',
@@ -11368,7 +10648,7 @@ return array (
     'latitude' => 50.66589,
     'longitude' => 16.18883,
   ),
-  1263 => 
+  1183 => 
   array (
     'id' => 87039,
     'name' => 'Mierzęcice',
@@ -11377,7 +10657,7 @@ return array (
     'latitude' => 50.44504,
     'longitude' => 19.12934,
   ),
-  1264 => 
+  1184 => 
   array (
     'id' => 87040,
     'name' => 'Mieszkowice',
@@ -11386,7 +10666,7 @@ return array (
     'latitude' => 52.7873,
     'longitude' => 14.49346,
   ),
-  1265 => 
+  1185 => 
   array (
     'id' => 87041,
     'name' => 'Mieścisko',
@@ -11395,7 +10675,7 @@ return array (
     'latitude' => 52.74357,
     'longitude' => 17.33213,
   ),
-  1266 => 
+  1186 => 
   array (
     'id' => 87042,
     'name' => 'Mikołajki',
@@ -11404,7 +10684,7 @@ return array (
     'latitude' => 53.80288,
     'longitude' => 21.57011,
   ),
-  1267 => 
+  1187 => 
   array (
     'id' => 87043,
     'name' => 'Mikołajki Pomorskie',
@@ -11413,7 +10693,7 @@ return array (
     'latitude' => 53.85131,
     'longitude' => 19.16574,
   ),
-  1268 => 
+  1188 => 
   array (
     'id' => 87044,
     'name' => 'Mikołów',
@@ -11422,7 +10702,7 @@ return array (
     'latitude' => 50.17103,
     'longitude' => 18.9041,
   ),
-  1269 => 
+  1189 => 
   array (
     'id' => 87045,
     'name' => 'Mikstat',
@@ -11431,7 +10711,7 @@ return array (
     'latitude' => 51.53236,
     'longitude' => 17.97378,
   ),
-  1270 => 
+  1190 => 
   array (
     'id' => 87046,
     'name' => 'Milanów',
@@ -11440,7 +10720,7 @@ return array (
     'latitude' => 51.70374,
     'longitude' => 22.8883,
   ),
-  1271 => 
+  1191 => 
   array (
     'id' => 87047,
     'name' => 'Milanówek',
@@ -11449,7 +10729,7 @@ return array (
     'latitude' => 52.11879,
     'longitude' => 20.67155,
   ),
-  1272 => 
+  1192 => 
   array (
     'id' => 87048,
     'name' => 'Milejczyce',
@@ -11458,7 +10738,7 @@ return array (
     'latitude' => 52.51967,
     'longitude' => 23.13206,
   ),
-  1273 => 
+  1193 => 
   array (
     'id' => 87049,
     'name' => 'Milejów',
@@ -11467,7 +10747,7 @@ return array (
     'latitude' => 51.23226,
     'longitude' => 22.92443,
   ),
-  1274 => 
+  1194 => 
   array (
     'id' => 87050,
     'name' => 'Milicz',
@@ -11476,7 +10756,7 @@ return array (
     'latitude' => 51.5277,
     'longitude' => 17.27137,
   ),
-  1275 => 
+  1195 => 
   array (
     'id' => 87051,
     'name' => 'Milówka',
@@ -11485,7 +10765,7 @@ return array (
     'latitude' => 49.5554,
     'longitude' => 19.09072,
   ),
-  1276 => 
+  1196 => 
   array (
     'id' => 87052,
     'name' => 'Mircze',
@@ -11494,7 +10774,7 @@ return array (
     'latitude' => 50.65164,
     'longitude' => 23.89604,
   ),
-  1277 => 
+  1197 => 
   array (
     'id' => 87053,
     'name' => 'Mirków',
@@ -11503,7 +10783,7 @@ return array (
     'latitude' => 51.16105,
     'longitude' => 17.17026,
   ),
-  1278 => 
+  1198 => 
   array (
     'id' => 87054,
     'name' => 'Mirocin',
@@ -11512,7 +10792,7 @@ return array (
     'latitude' => 50.04237,
     'longitude' => 22.55596,
   ),
-  1279 => 
+  1199 => 
   array (
     'id' => 87055,
     'name' => 'Mirosławiec',
@@ -11521,7 +10801,7 @@ return array (
     'latitude' => 53.34071,
     'longitude' => 16.08793,
   ),
-  1280 => 
+  1200 => 
   array (
     'id' => 87056,
     'name' => 'Mirsk',
@@ -11530,7 +10810,7 @@ return array (
     'latitude' => 50.97054,
     'longitude' => 15.38567,
   ),
-  1281 => 
+  1201 => 
   array (
     'id' => 87057,
     'name' => 'Mirzec',
@@ -11539,7 +10819,7 @@ return array (
     'latitude' => 51.13466,
     'longitude' => 21.0571,
   ),
-  1282 => 
+  1202 => 
   array (
     'id' => 87058,
     'name' => 'Miączyn',
@@ -11548,7 +10828,7 @@ return array (
     'latitude' => 50.73825,
     'longitude' => 23.5013,
   ),
-  1283 => 
+  1203 => 
   array (
     'id' => 87059,
     'name' => 'Międzybrodzie Bialskie',
@@ -11557,7 +10837,7 @@ return array (
     'latitude' => 49.78747,
     'longitude' => 19.19741,
   ),
-  1284 => 
+  1204 => 
   array (
     'id' => 87060,
     'name' => 'Międzybórz',
@@ -11566,7 +10846,7 @@ return array (
     'latitude' => 51.39626,
     'longitude' => 17.6661,
   ),
-  1285 => 
+  1205 => 
   array (
     'id' => 87061,
     'name' => 'Międzychód',
@@ -11575,7 +10855,7 @@ return array (
     'latitude' => 52.59882,
     'longitude' => 15.89696,
   ),
-  1286 => 
+  1206 => 
   array (
     'id' => 87062,
     'name' => 'Międzylesie',
@@ -11584,16 +10864,7 @@ return array (
     'latitude' => 52.14487,
     'longitude' => 15.38283,
   ),
-  1287 => 
-  array (
-    'id' => 87063,
-    'name' => 'Międzylesie',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.14778,
-    'longitude' => 16.66712,
-  ),
-  1288 => 
+  1207 => 
   array (
     'id' => 87064,
     'name' => 'Międzyrzec Podlaski',
@@ -11602,7 +10873,7 @@ return array (
     'latitude' => 51.9864,
     'longitude' => 22.78248,
   ),
-  1289 => 
+  1208 => 
   array (
     'id' => 87065,
     'name' => 'Międzyrzecz',
@@ -11611,7 +10882,7 @@ return array (
     'latitude' => 52.44461,
     'longitude' => 15.57801,
   ),
-  1290 => 
+  1209 => 
   array (
     'id' => 87066,
     'name' => 'Międzyzdroje',
@@ -11620,7 +10891,7 @@ return array (
     'latitude' => 53.92921,
     'longitude' => 14.45097,
   ),
-  1291 => 
+  1210 => 
   array (
     'id' => 87067,
     'name' => 'Miękinia',
@@ -11629,16 +10900,7 @@ return array (
     'latitude' => 50.15557,
     'longitude' => 19.60871,
   ),
-  1292 => 
-  array (
-    'id' => 87068,
-    'name' => 'Miękinia',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.18844,
-    'longitude' => 16.73595,
-  ),
-  1293 => 
+  1211 => 
   array (
     'id' => 87069,
     'name' => 'Miętne',
@@ -11647,7 +10909,7 @@ return array (
     'latitude' => 51.92135,
     'longitude' => 21.57457,
   ),
-  1294 => 
+  1212 => 
   array (
     'id' => 87070,
     'name' => 'Miłakowo',
@@ -11656,7 +10918,7 @@ return array (
     'latitude' => 54.00923,
     'longitude' => 20.07125,
   ),
-  1295 => 
+  1213 => 
   array (
     'id' => 87071,
     'name' => 'Miłkowice',
@@ -11665,7 +10927,7 @@ return array (
     'latitude' => 51.25601,
     'longitude' => 16.07231,
   ),
-  1296 => 
+  1214 => 
   array (
     'id' => 87072,
     'name' => 'Miłomłyn',
@@ -11674,7 +10936,7 @@ return array (
     'latitude' => 53.76449,
     'longitude' => 19.838,
   ),
-  1297 => 
+  1215 => 
   array (
     'id' => 87073,
     'name' => 'Miłoradz',
@@ -11683,7 +10945,7 @@ return array (
     'latitude' => 54.01392,
     'longitude' => 18.91846,
   ),
-  1298 => 
+  1216 => 
   array (
     'id' => 87074,
     'name' => 'Miłosław',
@@ -11692,7 +10954,7 @@ return array (
     'latitude' => 52.20318,
     'longitude' => 17.48955,
   ),
-  1299 => 
+  1217 => 
   array (
     'id' => 87075,
     'name' => 'Mińsk Mazowiecki',
@@ -11701,7 +10963,7 @@ return array (
     'latitude' => 52.17935,
     'longitude' => 21.57251,
   ),
-  1300 => 
+  1218 => 
   array (
     'id' => 87076,
     'name' => 'Mnich',
@@ -11710,7 +10972,7 @@ return array (
     'latitude' => 49.88944,
     'longitude' => 18.80722,
   ),
-  1301 => 
+  1219 => 
   array (
     'id' => 87077,
     'name' => 'Mników',
@@ -11719,7 +10981,7 @@ return array (
     'latitude' => 50.06044,
     'longitude' => 19.72595,
   ),
-  1302 => 
+  1220 => 
   array (
     'id' => 87078,
     'name' => 'Mniszków',
@@ -11728,7 +10990,7 @@ return array (
     'latitude' => 51.37017,
     'longitude' => 20.03915,
   ),
-  1303 => 
+  1221 => 
   array (
     'id' => 87079,
     'name' => 'Mniów',
@@ -11737,7 +10999,7 @@ return array (
     'latitude' => 51.01224,
     'longitude' => 20.48427,
   ),
-  1304 => 
+  1222 => 
   array (
     'id' => 87080,
     'name' => 'Mochowo',
@@ -11746,7 +11008,7 @@ return array (
     'latitude' => 52.7657,
     'longitude' => 19.55592,
   ),
-  1305 => 
+  1223 => 
   array (
     'id' => 87081,
     'name' => 'Modliborzyce',
@@ -11755,7 +11017,7 @@ return array (
     'latitude' => 50.75416,
     'longitude' => 22.32945,
   ),
-  1306 => 
+  1224 => 
   array (
     'id' => 87082,
     'name' => 'Modlnica',
@@ -11764,7 +11026,7 @@ return array (
     'latitude' => 50.12958,
     'longitude' => 19.86461,
   ),
-  1307 => 
+  1225 => 
   array (
     'id' => 87083,
     'name' => 'Modlniczka',
@@ -11773,7 +11035,7 @@ return array (
     'latitude' => 50.11739,
     'longitude' => 19.8553,
   ),
-  1308 => 
+  1226 => 
   array (
     'id' => 87084,
     'name' => 'Mogielnica',
@@ -11782,7 +11044,7 @@ return array (
     'latitude' => 51.69432,
     'longitude' => 20.72227,
   ),
-  1309 => 
+  1227 => 
   array (
     'id' => 87085,
     'name' => 'Mogilany',
@@ -11791,7 +11053,7 @@ return array (
     'latitude' => 49.9389,
     'longitude' => 19.88972,
   ),
-  1310 => 
+  1228 => 
   array (
     'id' => 87086,
     'name' => 'Mogilno',
@@ -11800,7 +11062,7 @@ return array (
     'latitude' => 52.65806,
     'longitude' => 17.95578,
   ),
-  1311 => 
+  1229 => 
   array (
     'id' => 87087,
     'name' => 'Mokobody',
@@ -11809,7 +11071,7 @@ return array (
     'latitude' => 52.26523,
     'longitude' => 22.11182,
   ),
-  1312 => 
+  1230 => 
   array (
     'id' => 87088,
     'name' => 'Mokotów',
@@ -11818,7 +11080,7 @@ return array (
     'latitude' => 52.1934,
     'longitude' => 21.03487,
   ),
-  1313 => 
+  1231 => 
   array (
     'id' => 87089,
     'name' => 'Mokrsko',
@@ -11827,7 +11089,7 @@ return array (
     'latitude' => 51.17897,
     'longitude' => 18.48879,
   ),
-  1314 => 
+  1232 => 
   array (
     'id' => 87090,
     'name' => 'Morawica',
@@ -11836,7 +11098,7 @@ return array (
     'latitude' => 50.74678,
     'longitude' => 20.61756,
   ),
-  1315 => 
+  1233 => 
   array (
     'id' => 87091,
     'name' => 'Mordy',
@@ -11845,7 +11107,7 @@ return array (
     'latitude' => 52.2116,
     'longitude' => 22.51725,
   ),
-  1316 => 
+  1234 => 
   array (
     'id' => 87092,
     'name' => 'Moryń',
@@ -11854,7 +11116,7 @@ return array (
     'latitude' => 52.85769,
     'longitude' => 14.39297,
   ),
-  1317 => 
+  1235 => 
   array (
     'id' => 87093,
     'name' => 'Morąg',
@@ -11863,7 +11125,7 @@ return array (
     'latitude' => 53.91711,
     'longitude' => 19.92602,
   ),
-  1318 => 
+  1236 => 
   array (
     'id' => 87094,
     'name' => 'Mosina',
@@ -11872,7 +11134,7 @@ return array (
     'latitude' => 52.24543,
     'longitude' => 16.84709,
   ),
-  1319 => 
+  1237 => 
   array (
     'id' => 87095,
     'name' => 'Mosty',
@@ -11881,16 +11143,7 @@ return array (
     'latitude' => 53.54796,
     'longitude' => 14.95634,
   ),
-  1320 => 
-  array (
-    'id' => 87096,
-    'name' => 'Mosty',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 54.61195,
-    'longitude' => 18.49634,
-  ),
-  1321 => 
+  1238 => 
   array (
     'id' => 87097,
     'name' => 'Moszczanka',
@@ -11899,7 +11152,7 @@ return array (
     'latitude' => 50.3002,
     'longitude' => 17.49109,
   ),
-  1322 => 
+  1239 => 
   array (
     'id' => 87098,
     'name' => 'Moszczenica',
@@ -11908,16 +11161,7 @@ return array (
     'latitude' => 49.73668,
     'longitude' => 21.09238,
   ),
-  1323 => 
-  array (
-    'id' => 87099,
-    'name' => 'Moszczenica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.50297,
-    'longitude' => 19.71986,
-  ),
-  1324 => 
+  1240 => 
   array (
     'id' => 87100,
     'name' => 'Mońki',
@@ -11926,7 +11170,7 @@ return array (
     'latitude' => 53.40496,
     'longitude' => 22.79791,
   ),
-  1325 => 
+  1241 => 
   array (
     'id' => 87101,
     'name' => 'Mrocza',
@@ -11935,7 +11179,7 @@ return array (
     'latitude' => 53.24313,
     'longitude' => 17.60405,
   ),
-  1326 => 
+  1242 => 
   array (
     'id' => 87102,
     'name' => 'Mrozy',
@@ -11944,7 +11188,7 @@ return array (
     'latitude' => 52.01975,
     'longitude' => 20.36702,
   ),
-  1327 => 
+  1243 => 
   array (
     'id' => 87103,
     'name' => 'Mrozów',
@@ -11953,7 +11197,7 @@ return array (
     'latitude' => 51.18817,
     'longitude' => 16.78831,
   ),
-  1328 => 
+  1244 => 
   array (
     'id' => 87104,
     'name' => 'Mrzezino',
@@ -11962,7 +11206,7 @@ return array (
     'latitude' => 54.65378,
     'longitude' => 18.43025,
   ),
-  1329 => 
+  1245 => 
   array (
     'id' => 87105,
     'name' => 'Mrzeżyno',
@@ -11971,7 +11215,7 @@ return array (
     'latitude' => 54.14384,
     'longitude' => 15.29142,
   ),
-  1330 => 
+  1246 => 
   array (
     'id' => 87106,
     'name' => 'Mrągowo',
@@ -11980,7 +11224,7 @@ return array (
     'latitude' => 53.86437,
     'longitude' => 21.30507,
   ),
-  1331 => 
+  1247 => 
   array (
     'id' => 87107,
     'name' => 'Mstów',
@@ -11989,7 +11233,7 @@ return array (
     'latitude' => 50.82969,
     'longitude' => 19.28547,
   ),
-  1332 => 
+  1248 => 
   array (
     'id' => 87108,
     'name' => 'Mszana',
@@ -11998,7 +11242,7 @@ return array (
     'latitude' => 49.96939,
     'longitude' => 18.52793,
   ),
-  1333 => 
+  1249 => 
   array (
     'id' => 87109,
     'name' => 'Mszana Dolna',
@@ -12007,7 +11251,7 @@ return array (
     'latitude' => 49.67432,
     'longitude' => 20.07992,
   ),
-  1334 => 
+  1250 => 
   array (
     'id' => 87110,
     'name' => 'Mszana Górna',
@@ -12016,7 +11260,7 @@ return array (
     'latitude' => 49.66202,
     'longitude' => 20.09734,
   ),
-  1335 => 
+  1251 => 
   array (
     'id' => 87111,
     'name' => 'Mszczonów',
@@ -12025,7 +11269,7 @@ return array (
     'latitude' => 51.97415,
     'longitude' => 20.52083,
   ),
-  1336 => 
+  1252 => 
   array (
     'id' => 87112,
     'name' => 'Murcki',
@@ -12034,7 +11278,7 @@ return array (
     'latitude' => 50.20036,
     'longitude' => 19.04351,
   ),
-  1337 => 
+  1253 => 
   array (
     'id' => 87113,
     'name' => 'Murowana Goślina',
@@ -12043,7 +11287,7 @@ return array (
     'latitude' => 52.57463,
     'longitude' => 17.00933,
   ),
-  1338 => 
+  1254 => 
   array (
     'id' => 87114,
     'name' => 'Murów',
@@ -12052,7 +11296,7 @@ return array (
     'latitude' => 50.86307,
     'longitude' => 17.94557,
   ),
-  1339 => 
+  1255 => 
   array (
     'id' => 87115,
     'name' => 'Muszyna',
@@ -12061,7 +11305,7 @@ return array (
     'latitude' => 49.35661,
     'longitude' => 20.89718,
   ),
-  1340 => 
+  1256 => 
   array (
     'id' => 87116,
     'name' => 'Mykanów',
@@ -12070,7 +11314,7 @@ return array (
     'latitude' => 50.9236,
     'longitude' => 19.2005,
   ),
-  1341 => 
+  1257 => 
   array (
     'id' => 87117,
     'name' => 'Mysiadło',
@@ -12079,7 +11323,7 @@ return array (
     'latitude' => 52.10216,
     'longitude' => 21.01856,
   ),
-  1342 => 
+  1258 => 
   array (
     'id' => 87118,
     'name' => 'Myszków',
@@ -12088,7 +11332,7 @@ return array (
     'latitude' => 50.5752,
     'longitude' => 19.32461,
   ),
-  1343 => 
+  1259 => 
   array (
     'id' => 87119,
     'name' => 'Myszyniec',
@@ -12097,7 +11341,7 @@ return array (
     'latitude' => 53.38055,
     'longitude' => 21.34961,
   ),
-  1344 => 
+  1260 => 
   array (
     'id' => 87120,
     'name' => 'Mysłakowice',
@@ -12106,7 +11350,7 @@ return array (
     'latitude' => 50.84123,
     'longitude' => 15.77894,
   ),
-  1345 => 
+  1261 => 
   array (
     'id' => 87121,
     'name' => 'Mysłowice',
@@ -12115,7 +11359,7 @@ return array (
     'latitude' => 50.20745,
     'longitude' => 19.16668,
   ),
-  1346 => 
+  1262 => 
   array (
     'id' => 87122,
     'name' => 'Myślachowice',
@@ -12124,7 +11368,7 @@ return array (
     'latitude' => 50.18514,
     'longitude' => 19.48116,
   ),
-  1347 => 
+  1263 => 
   array (
     'id' => 87123,
     'name' => 'Myślenice',
@@ -12133,7 +11377,7 @@ return array (
     'latitude' => 49.83383,
     'longitude' => 19.9383,
   ),
-  1348 => 
+  1264 => 
   array (
     'id' => 87124,
     'name' => 'Myślibórz',
@@ -12142,7 +11386,7 @@ return array (
     'latitude' => 52.92382,
     'longitude' => 14.86785,
   ),
-  1349 => 
+  1265 => 
   array (
     'id' => 87125,
     'name' => 'Mędrzechów',
@@ -12151,7 +11395,7 @@ return array (
     'latitude' => 50.28221,
     'longitude' => 20.94749,
   ),
-  1350 => 
+  1266 => 
   array (
     'id' => 87126,
     'name' => 'Mętków',
@@ -12160,7 +11404,7 @@ return array (
     'latitude' => 50.05251,
     'longitude' => 19.37525,
   ),
-  1351 => 
+  1267 => 
   array (
     'id' => 87127,
     'name' => 'Mława',
@@ -12169,7 +11413,7 @@ return array (
     'latitude' => 53.11278,
     'longitude' => 20.3841,
   ),
-  1352 => 
+  1268 => 
   array (
     'id' => 87128,
     'name' => 'Młodzieszyn',
@@ -12178,7 +11422,7 @@ return array (
     'latitude' => 52.29945,
     'longitude' => 20.20017,
   ),
-  1353 => 
+  1269 => 
   array (
     'id' => 87129,
     'name' => 'Młynary',
@@ -12187,7 +11431,7 @@ return array (
     'latitude' => 54.1869,
     'longitude' => 19.72149,
   ),
-  1354 => 
+  1270 => 
   array (
     'id' => 87130,
     'name' => 'Młynarze',
@@ -12196,7 +11440,7 @@ return array (
     'latitude' => 52.95417,
     'longitude' => 21.41141,
   ),
-  1355 => 
+  1271 => 
   array (
     'id' => 87131,
     'name' => 'Nadarzyn',
@@ -12205,7 +11449,7 @@ return array (
     'latitude' => 52.09438,
     'longitude' => 20.80776,
   ),
-  1356 => 
+  1272 => 
   array (
     'id' => 87132,
     'name' => 'Nagłowice',
@@ -12214,7 +11458,7 @@ return array (
     'latitude' => 50.67835,
     'longitude' => 20.10661,
   ),
-  1357 => 
+  1273 => 
   array (
     'id' => 87133,
     'name' => 'Nakło',
@@ -12223,16 +11467,7 @@ return array (
     'latitude' => 50.4369,
     'longitude' => 18.91056,
   ),
-  1358 => 
-  array (
-    'id' => 87134,
-    'name' => 'Nakło',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.57975,
-    'longitude' => 18.11817,
-  ),
-  1359 => 
+  1274 => 
   array (
     'id' => 87135,
     'name' => 'Nakło nad Notecią',
@@ -12241,7 +11476,7 @@ return array (
     'latitude' => 53.14214,
     'longitude' => 17.60181,
   ),
-  1360 => 
+  1275 => 
   array (
     'id' => 87136,
     'name' => 'Namysłów',
@@ -12250,7 +11485,7 @@ return array (
     'latitude' => 51.07592,
     'longitude' => 17.72284,
   ),
-  1361 => 
+  1276 => 
   array (
     'id' => 87137,
     'name' => 'Naprawa',
@@ -12259,7 +11494,7 @@ return array (
     'latitude' => 49.64657,
     'longitude' => 19.87916,
   ),
-  1362 => 
+  1277 => 
   array (
     'id' => 87138,
     'name' => 'Narew',
@@ -12268,7 +11503,7 @@ return array (
     'latitude' => 52.91418,
     'longitude' => 23.51984,
   ),
-  1363 => 
+  1278 => 
   array (
     'id' => 87139,
     'name' => 'Narol',
@@ -12277,7 +11512,7 @@ return array (
     'latitude' => 50.34925,
     'longitude' => 23.32679,
   ),
-  1364 => 
+  1279 => 
   array (
     'id' => 87140,
     'name' => 'Naruszewo',
@@ -12286,7 +11521,7 @@ return array (
     'latitude' => 52.52687,
     'longitude' => 20.35157,
   ),
-  1365 => 
+  1280 => 
   array (
     'id' => 87141,
     'name' => 'Nasielsk',
@@ -12295,7 +11530,7 @@ return array (
     'latitude' => 52.58887,
     'longitude' => 20.80553,
   ),
-  1366 => 
+  1281 => 
   array (
     'id' => 87142,
     'name' => 'Nawojowa',
@@ -12304,7 +11539,7 @@ return array (
     'latitude' => 49.56686,
     'longitude' => 20.73927,
   ),
-  1367 => 
+  1282 => 
   array (
     'id' => 87143,
     'name' => 'Nałęczów',
@@ -12313,7 +11548,7 @@ return array (
     'latitude' => 51.28581,
     'longitude' => 22.21539,
   ),
-  1368 => 
+  1283 => 
   array (
     'id' => 87144,
     'name' => 'Nekla',
@@ -12322,7 +11557,7 @@ return array (
     'latitude' => 52.36496,
     'longitude' => 17.41329,
   ),
-  1369 => 
+  1284 => 
   array (
     'id' => 87145,
     'name' => 'Nidek',
@@ -12331,7 +11566,7 @@ return array (
     'latitude' => 49.90492,
     'longitude' => 19.32461,
   ),
-  1370 => 
+  1285 => 
   array (
     'id' => 87146,
     'name' => 'Nidzica',
@@ -12340,7 +11575,7 @@ return array (
     'latitude' => 53.36052,
     'longitude' => 20.42749,
   ),
-  1371 => 
+  1286 => 
   array (
     'id' => 87147,
     'name' => 'Niebieszczany',
@@ -12349,7 +11584,7 @@ return array (
     'latitude' => 49.50348,
     'longitude' => 22.15651,
   ),
-  1372 => 
+  1287 => 
   array (
     'id' => 87148,
     'name' => 'Niebocko',
@@ -12358,7 +11593,7 @@ return array (
     'latitude' => 49.67774,
     'longitude' => 22.10484,
   ),
-  1373 => 
+  1288 => 
   array (
     'id' => 87149,
     'name' => 'Nieborów',
@@ -12367,7 +11602,7 @@ return array (
     'latitude' => 52.07771,
     'longitude' => 20.06902,
   ),
-  1374 => 
+  1289 => 
   array (
     'id' => 87150,
     'name' => 'Niebylec',
@@ -12376,7 +11611,7 @@ return array (
     'latitude' => 49.85669,
     'longitude' => 21.90348,
   ),
-  1375 => 
+  1290 => 
   array (
     'id' => 87151,
     'name' => 'Niechanowo',
@@ -12385,7 +11620,7 @@ return array (
     'latitude' => 52.46527,
     'longitude' => 17.67812,
   ),
-  1376 => 
+  1291 => 
   array (
     'id' => 87152,
     'name' => 'Niechobrz',
@@ -12394,7 +11629,7 @@ return array (
     'latitude' => 49.99472,
     'longitude' => 21.87824,
   ),
-  1377 => 
+  1292 => 
   array (
     'id' => 87153,
     'name' => 'Niedobczyce',
@@ -12403,7 +11638,7 @@ return array (
     'latitude' => 50.0654,
     'longitude' => 18.49531,
   ),
-  1378 => 
+  1293 => 
   array (
     'id' => 87154,
     'name' => 'Niedomice',
@@ -12412,7 +11647,7 @@ return array (
     'latitude' => 50.10737,
     'longitude' => 20.89548,
   ),
-  1379 => 
+  1294 => 
   array (
     'id' => 87155,
     'name' => 'Niedrzwica Duża',
@@ -12421,7 +11656,7 @@ return array (
     'latitude' => 51.11462,
     'longitude' => 22.38911,
   ),
-  1380 => 
+  1295 => 
   array (
     'id' => 87156,
     'name' => 'Niedzica',
@@ -12430,7 +11665,7 @@ return array (
     'latitude' => 49.41008,
     'longitude' => 20.30273,
   ),
-  1381 => 
+  1296 => 
   array (
     'id' => 87157,
     'name' => 'Niedźwiada',
@@ -12439,16 +11674,7 @@ return array (
     'latitude' => 51.54409,
     'longitude' => 22.6914,
   ),
-  1382 => 
-  array (
-    'id' => 87158,
-    'name' => 'Niedźwiada',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.98937,
-    'longitude' => 21.52162,
-  ),
-  1383 => 
+  1297 => 
   array (
     'id' => 87159,
     'name' => 'Niedźwiedź',
@@ -12457,7 +11683,7 @@ return array (
     'latitude' => 49.621,
     'longitude' => 20.07794,
   ),
-  1384 => 
+  1298 => 
   array (
     'id' => 87160,
     'name' => 'Niegowonice',
@@ -12466,7 +11692,7 @@ return array (
     'latitude' => 50.38909,
     'longitude' => 19.42263,
   ),
-  1385 => 
+  1299 => 
   array (
     'id' => 87161,
     'name' => 'Nielisz',
@@ -12475,7 +11701,7 @@ return array (
     'latitude' => 50.80067,
     'longitude' => 23.04451,
   ),
-  1386 => 
+  1300 => 
   array (
     'id' => 87162,
     'name' => 'Niemce',
@@ -12484,7 +11710,7 @@ return array (
     'latitude' => 51.36155,
     'longitude' => 22.63939,
   ),
-  1387 => 
+  1301 => 
   array (
     'id' => 87163,
     'name' => 'Niemcza',
@@ -12493,7 +11719,7 @@ return array (
     'latitude' => 50.72007,
     'longitude' => 16.83573,
   ),
-  1388 => 
+  1302 => 
   array (
     'id' => 87164,
     'name' => 'Niemodlin',
@@ -12502,7 +11728,7 @@ return array (
     'latitude' => 50.642,
     'longitude' => 17.61932,
   ),
-  1389 => 
+  1303 => 
   array (
     'id' => 87165,
     'name' => 'Nienadowa',
@@ -12511,7 +11737,7 @@ return array (
     'latitude' => 49.82901,
     'longitude' => 22.42704,
   ),
-  1390 => 
+  1304 => 
   array (
     'id' => 87166,
     'name' => 'Nieporęt',
@@ -12520,7 +11746,7 @@ return array (
     'latitude' => 52.43152,
     'longitude' => 21.03212,
   ),
-  1391 => 
+  1305 => 
   array (
     'id' => 87167,
     'name' => 'Niepołomice',
@@ -12529,7 +11755,7 @@ return array (
     'latitude' => 50.04066,
     'longitude' => 20.22257,
   ),
-  1392 => 
+  1306 => 
   array (
     'id' => 87168,
     'name' => 'Nieszawa',
@@ -12538,7 +11764,7 @@ return array (
     'latitude' => 52.83452,
     'longitude' => 18.89921,
   ),
-  1393 => 
+  1307 => 
   array (
     'id' => 87169,
     'name' => 'Nisko',
@@ -12547,7 +11773,7 @@ return array (
     'latitude' => 50.51987,
     'longitude' => 22.13968,
   ),
-  1394 => 
+  1308 => 
   array (
     'id' => 87170,
     'name' => 'Niwiska',
@@ -12556,7 +11782,7 @@ return array (
     'latitude' => 50.22492,
     'longitude' => 21.63036,
   ),
-  1395 => 
+  1309 => 
   array (
     'id' => 87171,
     'name' => 'Nowa Dęba',
@@ -12565,7 +11791,7 @@ return array (
     'latitude' => 50.42974,
     'longitude' => 21.75078,
   ),
-  1396 => 
+  1310 => 
   array (
     'id' => 87172,
     'name' => 'Nowa Góra',
@@ -12574,7 +11800,7 @@ return array (
     'latitude' => 50.17305,
     'longitude' => 19.5912,
   ),
-  1397 => 
+  1311 => 
   array (
     'id' => 87173,
     'name' => 'Nowa Ruda',
@@ -12583,7 +11809,7 @@ return array (
     'latitude' => 50.58008,
     'longitude' => 16.50164,
   ),
-  1398 => 
+  1312 => 
   array (
     'id' => 87174,
     'name' => 'Nowa Sarzyna',
@@ -12592,7 +11818,7 @@ return array (
     'latitude' => 50.32086,
     'longitude' => 22.34456,
   ),
-  1399 => 
+  1313 => 
   array (
     'id' => 87175,
     'name' => 'Nowa Sól',
@@ -12601,7 +11827,7 @@ return array (
     'latitude' => 51.80333,
     'longitude' => 15.71702,
   ),
-  1400 => 
+  1314 => 
   array (
     'id' => 87176,
     'name' => 'Nowa Słupia',
@@ -12610,7 +11836,7 @@ return array (
     'latitude' => 50.86432,
     'longitude' => 21.09049,
   ),
-  1401 => 
+  1315 => 
   array (
     'id' => 87177,
     'name' => 'Nowa Wieś',
@@ -12619,7 +11845,7 @@ return array (
     'latitude' => 49.90746,
     'longitude' => 19.21646,
   ),
-  1402 => 
+  1316 => 
   array (
     'id' => 87178,
     'name' => 'Nowa Wieś Lęborska',
@@ -12628,7 +11854,7 @@ return array (
     'latitude' => 54.55878,
     'longitude' => 17.72756,
   ),
-  1403 => 
+  1317 => 
   array (
     'id' => 87179,
     'name' => 'Nowa Wieś Wielka',
@@ -12637,7 +11863,7 @@ return array (
     'latitude' => 52.97159,
     'longitude' => 18.09036,
   ),
-  1404 => 
+  1318 => 
   array (
     'id' => 87180,
     'name' => 'Nowe',
@@ -12646,7 +11872,7 @@ return array (
     'latitude' => 53.64906,
     'longitude' => 18.72716,
   ),
-  1405 => 
+  1319 => 
   array (
     'id' => 87181,
     'name' => 'Nowe Brzesko',
@@ -12655,7 +11881,7 @@ return array (
     'latitude' => 50.13222,
     'longitude' => 20.37663,
   ),
-  1406 => 
+  1320 => 
   array (
     'id' => 87182,
     'name' => 'Nowe Grocholice',
@@ -12664,7 +11890,7 @@ return array (
     'latitude' => 52.15924,
     'longitude' => 20.9111,
   ),
-  1407 => 
+  1321 => 
   array (
     'id' => 87183,
     'name' => 'Nowe Lipiny',
@@ -12673,7 +11899,7 @@ return array (
     'latitude' => 52.35789,
     'longitude' => 21.27125,
   ),
-  1408 => 
+  1322 => 
   array (
     'id' => 87184,
     'name' => 'Nowe Miasteczko',
@@ -12682,7 +11908,7 @@ return array (
     'latitude' => 51.69097,
     'longitude' => 15.73174,
   ),
-  1409 => 
+  1323 => 
   array (
     'id' => 87185,
     'name' => 'Nowe Miasto',
@@ -12691,7 +11917,7 @@ return array (
     'latitude' => 52.65691,
     'longitude' => 20.62838,
   ),
-  1410 => 
+  1324 => 
   array (
     'id' => 87186,
     'name' => 'Nowe Miasto Lubawskie',
@@ -12700,7 +11926,7 @@ return array (
     'latitude' => 53.42079,
     'longitude' => 19.59515,
   ),
-  1411 => 
+  1325 => 
   array (
     'id' => 87187,
     'name' => 'Nowe Miasto nad Pilicą',
@@ -12709,7 +11935,7 @@ return array (
     'latitude' => 51.61812,
     'longitude' => 20.57619,
   ),
-  1412 => 
+  1326 => 
   array (
     'id' => 87188,
     'name' => 'Nowe Miasto nad Wartą',
@@ -12718,7 +11944,7 @@ return array (
     'latitude' => 52.09007,
     'longitude' => 17.41114,
   ),
-  1413 => 
+  1327 => 
   array (
     'id' => 87189,
     'name' => 'Nowe Ostrowy',
@@ -12727,7 +11953,7 @@ return array (
     'latitude' => 52.30318,
     'longitude' => 19.19217,
   ),
-  1414 => 
+  1328 => 
   array (
     'id' => 87190,
     'name' => 'Nowe Sioło',
@@ -12736,7 +11962,7 @@ return array (
     'latitude' => 50.23194,
     'longitude' => 23.15884,
   ),
-  1415 => 
+  1329 => 
   array (
     'id' => 87191,
     'name' => 'Nowe Skalmierzyce',
@@ -12745,7 +11971,7 @@ return array (
     'latitude' => 51.71038,
     'longitude' => 17.99337,
   ),
-  1416 => 
+  1330 => 
   array (
     'id' => 87192,
     'name' => 'Nowe Warpno',
@@ -12754,7 +11980,7 @@ return array (
     'latitude' => 53.72256,
     'longitude' => 14.28961,
   ),
-  1417 => 
+  1331 => 
   array (
     'id' => 87193,
     'name' => 'Nowodwór',
@@ -12763,7 +11989,7 @@ return array (
     'latitude' => 51.63901,
     'longitude' => 22.10183,
   ),
-  1418 => 
+  1332 => 
   array (
     'id' => 87194,
     'name' => 'Nowogard',
@@ -12772,7 +11998,7 @@ return array (
     'latitude' => 53.67437,
     'longitude' => 15.1163,
   ),
-  1419 => 
+  1333 => 
   array (
     'id' => 87195,
     'name' => 'Nowogrodziec',
@@ -12781,7 +12007,7 @@ return array (
     'latitude' => 51.19543,
     'longitude' => 15.39854,
   ),
-  1420 => 
+  1334 => 
   array (
     'id' => 87196,
     'name' => 'Nowogród',
@@ -12790,7 +12016,7 @@ return array (
     'latitude' => 53.22698,
     'longitude' => 21.8821,
   ),
-  1421 => 
+  1335 => 
   array (
     'id' => 87197,
     'name' => 'Nowogród Bobrzański',
@@ -12799,7 +12025,7 @@ return array (
     'latitude' => 51.79856,
     'longitude' => 15.2352,
   ),
-  1422 => 
+  1336 => 
   array (
     'id' => 87198,
     'name' => 'Nowogródek Pomorski',
@@ -12808,7 +12034,7 @@ return array (
     'latitude' => 52.91149,
     'longitude' => 15.02947,
   ),
-  1423 => 
+  1337 => 
   array (
     'id' => 87199,
     'name' => 'Nowosielce',
@@ -12817,7 +12043,7 @@ return array (
     'latitude' => 50.05747,
     'longitude' => 22.41056,
   ),
-  1424 => 
+  1338 => 
   array (
     'id' => 87200,
     'name' => 'Nowosielce-Gniewosz',
@@ -12826,7 +12052,7 @@ return array (
     'latitude' => 49.56842,
     'longitude' => 22.06947,
   ),
-  1425 => 
+  1339 => 
   array (
     'id' => 87201,
     'name' => 'Nowy Duninów',
@@ -12835,7 +12061,7 @@ return array (
     'latitude' => 52.58271,
     'longitude' => 19.47996,
   ),
-  1426 => 
+  1340 => 
   array (
     'id' => 87202,
     'name' => 'Nowy Dwór Gdański',
@@ -12844,7 +12070,7 @@ return array (
     'latitude' => 54.21305,
     'longitude' => 19.11771,
   ),
-  1427 => 
+  1341 => 
   array (
     'id' => 87203,
     'name' => 'Nowy Dwór Mazowiecki',
@@ -12853,7 +12079,7 @@ return array (
     'latitude' => 52.43022,
     'longitude' => 20.71652,
   ),
-  1428 => 
+  1342 => 
   array (
     'id' => 87204,
     'name' => 'Nowy Korczyn',
@@ -12862,7 +12088,7 @@ return array (
     'latitude' => 50.30124,
     'longitude' => 20.80759,
   ),
-  1429 => 
+  1343 => 
   array (
     'id' => 87205,
     'name' => 'Nowy Staw',
@@ -12871,7 +12097,7 @@ return array (
     'latitude' => 54.13609,
     'longitude' => 19.00909,
   ),
-  1430 => 
+  1344 => 
   array (
     'id' => 87206,
     'name' => 'Nowy Sącz',
@@ -12880,7 +12106,7 @@ return array (
     'latitude' => 49.62177,
     'longitude' => 20.69705,
   ),
-  1431 => 
+  1345 => 
   array (
     'id' => 87207,
     'name' => 'Nowy Targ',
@@ -12889,7 +12115,7 @@ return array (
     'latitude' => 49.47783,
     'longitude' => 20.03228,
   ),
-  1432 => 
+  1346 => 
   array (
     'id' => 87208,
     'name' => 'Nowy Tomyśl',
@@ -12898,7 +12124,7 @@ return array (
     'latitude' => 52.3195,
     'longitude' => 16.12844,
   ),
-  1433 => 
+  1347 => 
   array (
     'id' => 87209,
     'name' => 'Nowy Wiśnicz',
@@ -12907,7 +12133,7 @@ return array (
     'latitude' => 49.91465,
     'longitude' => 20.46109,
   ),
-  1434 => 
+  1348 => 
   array (
     'id' => 87210,
     'name' => 'Nowy Żmigród',
@@ -12916,7 +12142,7 @@ return array (
     'latitude' => 49.60353,
     'longitude' => 21.52376,
   ),
-  1435 => 
+  1349 => 
   array (
     'id' => 87211,
     'name' => 'Nozdrzec',
@@ -12925,7 +12151,7 @@ return array (
     'latitude' => 49.77323,
     'longitude' => 22.19865,
   ),
-  1436 => 
+  1350 => 
   array (
     'id' => 87212,
     'name' => 'Nur',
@@ -12934,7 +12160,7 @@ return array (
     'latitude' => 52.66826,
     'longitude' => 22.32207,
   ),
-  1437 => 
+  1351 => 
   array (
     'id' => 87213,
     'name' => 'Nurzec-Stacja',
@@ -12943,7 +12169,7 @@ return array (
     'latitude' => 52.46249,
     'longitude' => 23.08571,
   ),
-  1438 => 
+  1352 => 
   array (
     'id' => 87214,
     'name' => 'Nysa',
@@ -12952,7 +12178,7 @@ return array (
     'latitude' => 50.47379,
     'longitude' => 17.33437,
   ),
-  1439 => 
+  1353 => 
   array (
     'id' => 87215,
     'name' => 'Nędza',
@@ -12961,7 +12187,7 @@ return array (
     'latitude' => 50.16112,
     'longitude' => 18.31103,
   ),
-  1440 => 
+  1354 => 
   array (
     'id' => 87216,
     'name' => 'Oborniki',
@@ -12970,7 +12196,7 @@ return array (
     'latitude' => 52.64739,
     'longitude' => 16.81406,
   ),
-  1441 => 
+  1355 => 
   array (
     'id' => 87217,
     'name' => 'Oborniki Śląskie',
@@ -12979,7 +12205,7 @@ return array (
     'latitude' => 51.30137,
     'longitude' => 16.91465,
   ),
-  1442 => 
+  1356 => 
   array (
     'id' => 87218,
     'name' => 'Obrazów',
@@ -12988,7 +12214,7 @@ return array (
     'latitude' => 50.69276,
     'longitude' => 21.65045,
   ),
-  1443 => 
+  1357 => 
   array (
     'id' => 87219,
     'name' => 'Obrowo',
@@ -12997,7 +12223,7 @@ return array (
     'latitude' => 52.97149,
     'longitude' => 18.87863,
   ),
-  1444 => 
+  1358 => 
   array (
     'id' => 87220,
     'name' => 'Obryte',
@@ -13006,7 +12232,7 @@ return array (
     'latitude' => 52.71633,
     'longitude' => 21.24945,
   ),
-  1445 => 
+  1359 => 
   array (
     'id' => 87221,
     'name' => 'Obrzycko',
@@ -13015,7 +12241,7 @@ return array (
     'latitude' => 52.70338,
     'longitude' => 16.52807,
   ),
-  1446 => 
+  1360 => 
   array (
     'id' => 87222,
     'name' => 'Obsza',
@@ -13024,7 +12250,7 @@ return array (
     'latitude' => 50.3152,
     'longitude' => 22.95688,
   ),
-  1447 => 
+  1361 => 
   array (
     'id' => 87223,
     'name' => 'Ochaby',
@@ -13033,7 +12259,7 @@ return array (
     'latitude' => 49.84252,
     'longitude' => 18.76894,
   ),
-  1448 => 
+  1362 => 
   array (
     'id' => 87224,
     'name' => 'Ochla',
@@ -13042,7 +12268,7 @@ return array (
     'latitude' => 51.87903,
     'longitude' => 15.47132,
   ),
-  1449 => 
+  1363 => 
   array (
     'id' => 87225,
     'name' => 'Ochojno',
@@ -13051,7 +12277,7 @@ return array (
     'latitude' => 49.95255,
     'longitude' => 19.97452,
   ),
-  1450 => 
+  1364 => 
   array (
     'id' => 87226,
     'name' => 'Ochota',
@@ -13060,7 +12286,7 @@ return array (
     'latitude' => 52.22096,
     'longitude' => 20.98526,
   ),
-  1451 => 
+  1365 => 
   array (
     'id' => 87227,
     'name' => 'Ochotnica Dolna',
@@ -13069,7 +12295,7 @@ return array (
     'latitude' => 49.52682,
     'longitude' => 20.34265,
   ),
-  1452 => 
+  1366 => 
   array (
     'id' => 87228,
     'name' => 'Odolanów',
@@ -13078,7 +12304,7 @@ return array (
     'latitude' => 51.57419,
     'longitude' => 17.67434,
   ),
-  1453 => 
+  1367 => 
   array (
     'id' => 87229,
     'name' => 'Odrzykoń',
@@ -13087,7 +12313,7 @@ return array (
     'latitude' => 49.74057,
     'longitude' => 21.74074,
   ),
-  1454 => 
+  1368 => 
   array (
     'id' => 87230,
     'name' => 'Odrzywół',
@@ -13096,7 +12322,7 @@ return array (
     'latitude' => 51.51953,
     'longitude' => 20.55559,
   ),
-  1455 => 
+  1369 => 
   array (
     'id' => 87231,
     'name' => 'Ogrodzieniec',
@@ -13105,7 +12331,7 @@ return array (
     'latitude' => 50.45177,
     'longitude' => 19.51987,
   ),
-  1456 => 
+  1370 => 
   array (
     'id' => 87232,
     'name' => 'Ojrzeń',
@@ -13114,7 +12340,7 @@ return array (
     'latitude' => 52.7657,
     'longitude' => 20.54315,
   ),
-  1457 => 
+  1371 => 
   array (
     'id' => 87233,
     'name' => 'Okocim',
@@ -13123,7 +12349,7 @@ return array (
     'latitude' => 49.9489,
     'longitude' => 20.6016,
   ),
-  1458 => 
+  1372 => 
   array (
     'id' => 87234,
     'name' => 'Okonek',
@@ -13132,7 +12358,7 @@ return array (
     'latitude' => 53.53618,
     'longitude' => 16.85158,
   ),
-  1459 => 
+  1373 => 
   array (
     'id' => 87235,
     'name' => 'Oksa',
@@ -13141,7 +12367,7 @@ return array (
     'latitude' => 50.72874,
     'longitude' => 20.10086,
   ),
-  1460 => 
+  1374 => 
   array (
     'id' => 87236,
     'name' => 'Olecko',
@@ -13150,7 +12376,7 @@ return array (
     'latitude' => 54.03374,
     'longitude' => 22.50704,
   ),
-  1461 => 
+  1375 => 
   array (
     'id' => 87237,
     'name' => 'Olesno',
@@ -13159,16 +12385,7 @@ return array (
     'latitude' => 50.20152,
     'longitude' => 20.92578,
   ),
-  1462 => 
-  array (
-    'id' => 87238,
-    'name' => 'Olesno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.87698,
-    'longitude' => 18.42094,
-  ),
-  1463 => 
+  1376 => 
   array (
     'id' => 87239,
     'name' => 'Oleszyce',
@@ -13177,7 +12394,7 @@ return array (
     'latitude' => 50.1675,
     'longitude' => 23.03481,
   ),
-  1464 => 
+  1377 => 
   array (
     'id' => 87240,
     'name' => 'Oleśnica',
@@ -13186,16 +12403,7 @@ return array (
     'latitude' => 50.45357,
     'longitude' => 21.06457,
   ),
-  1465 => 
-  array (
-    'id' => 87241,
-    'name' => 'Oleśnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.21338,
-    'longitude' => 17.38986,
-  ),
-  1466 => 
+  1378 => 
   array (
     'id' => 87242,
     'name' => 'Olkusz',
@@ -13204,7 +12412,7 @@ return array (
     'latitude' => 50.2813,
     'longitude' => 19.56503,
   ),
-  1467 => 
+  1379 => 
   array (
     'id' => 87243,
     'name' => 'Olszana',
@@ -13213,7 +12421,7 @@ return array (
     'latitude' => 49.56748,
     'longitude' => 20.52126,
   ),
-  1468 => 
+  1380 => 
   array (
     'id' => 87244,
     'name' => 'Olszanica',
@@ -13222,16 +12430,7 @@ return array (
     'latitude' => 49.47741,
     'longitude' => 22.44382,
   ),
-  1469 => 
-  array (
-    'id' => 87245,
-    'name' => 'Olszanica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.20672,
-    'longitude' => 15.8004,
-  ),
-  1470 => 
+  1381 => 
   array (
     'id' => 87246,
     'name' => 'Olszanka',
@@ -13240,7 +12439,7 @@ return array (
     'latitude' => 50.79514,
     'longitude' => 17.4789,
   ),
-  1471 => 
+  1382 => 
   array (
     'id' => 87247,
     'name' => 'Olsztyn',
@@ -13249,16 +12448,7 @@ return array (
     'latitude' => 50.75185,
     'longitude' => 19.26737,
   ),
-  1472 => 
-  array (
-    'id' => 87248,
-    'name' => 'Olsztyn',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.77657,
-    'longitude' => 20.46657,
-  ),
-  1473 => 
+  1383 => 
   array (
     'id' => 87249,
     'name' => 'Olsztynek',
@@ -13267,7 +12457,7 @@ return array (
     'latitude' => 53.58374,
     'longitude' => 20.28471,
   ),
-  1474 => 
+  1384 => 
   array (
     'id' => 87250,
     'name' => 'Olszyna',
@@ -13276,7 +12466,7 @@ return array (
     'latitude' => 51.0671,
     'longitude' => 15.37228,
   ),
-  1475 => 
+  1385 => 
   array (
     'id' => 87251,
     'name' => 'Olszówka',
@@ -13285,16 +12475,7 @@ return array (
     'latitude' => 49.61455,
     'longitude' => 20.02885,
   ),
-  1476 => 
-  array (
-    'id' => 87252,
-    'name' => 'Olszówka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.1903,
-    'longitude' => 18.86258,
-  ),
-  1477 => 
+  1386 => 
   array (
     'id' => 87253,
     'name' => 'Olza',
@@ -13303,7 +12484,7 @@ return array (
     'latitude' => 49.95393,
     'longitude' => 18.3391,
   ),
-  1478 => 
+  1387 => 
   array (
     'id' => 87254,
     'name' => 'Opalenica',
@@ -13312,7 +12493,7 @@ return array (
     'latitude' => 52.30887,
     'longitude' => 16.41278,
   ),
-  1479 => 
+  1388 => 
   array (
     'id' => 87255,
     'name' => 'Opatowiec',
@@ -13321,7 +12502,7 @@ return array (
     'latitude' => 50.24314,
     'longitude' => 20.72348,
   ),
-  1480 => 
+  1389 => 
   array (
     'id' => 87256,
     'name' => 'Opatów',
@@ -13330,25 +12511,7 @@ return array (
     'latitude' => 50.80058,
     'longitude' => 21.42538,
   ),
-  1481 => 
-  array (
-    'id' => 87257,
-    'name' => 'Opatów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.21463,
-    'longitude' => 18.14615,
-  ),
-  1482 => 
-  array (
-    'id' => 87258,
-    'name' => 'Opatów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.95567,
-    'longitude' => 18.81941,
-  ),
-  1483 => 
+  1390 => 
   array (
     'id' => 87259,
     'name' => 'Opatówek',
@@ -13357,7 +12520,7 @@ return array (
     'latitude' => 51.73989,
     'longitude' => 18.21653,
   ),
-  1484 => 
+  1391 => 
   array (
     'id' => 87260,
     'name' => 'Opinogóra Górna',
@@ -13366,7 +12529,7 @@ return array (
     'latitude' => 52.90554,
     'longitude' => 20.71781,
   ),
-  1485 => 
+  1392 => 
   array (
     'id' => 87261,
     'name' => 'Opoczno',
@@ -13375,7 +12538,7 @@ return array (
     'latitude' => 51.37569,
     'longitude' => 20.27827,
   ),
-  1486 => 
+  1393 => 
   array (
     'id' => 87262,
     'name' => 'Opole',
@@ -13384,7 +12547,7 @@ return array (
     'latitude' => 50.67211,
     'longitude' => 17.92533,
   ),
-  1487 => 
+  1394 => 
   array (
     'id' => 87263,
     'name' => 'Opole Lubelskie',
@@ -13393,7 +12556,7 @@ return array (
     'latitude' => 51.14775,
     'longitude' => 21.96897,
   ),
-  1488 => 
+  1395 => 
   array (
     'id' => 87264,
     'name' => 'Oporów',
@@ -13402,7 +12565,7 @@ return array (
     'latitude' => 52.26448,
     'longitude' => 19.56416,
   ),
-  1489 => 
+  1396 => 
   array (
     'id' => 87265,
     'name' => 'Orchowo',
@@ -13411,7 +12574,7 @@ return array (
     'latitude' => 52.50938,
     'longitude' => 18.01578,
   ),
-  1490 => 
+  1397 => 
   array (
     'id' => 87266,
     'name' => 'Orla',
@@ -13420,7 +12583,7 @@ return array (
     'latitude' => 52.70546,
     'longitude' => 23.33213,
   ),
-  1491 => 
+  1398 => 
   array (
     'id' => 87267,
     'name' => 'Orle',
@@ -13429,7 +12592,7 @@ return array (
     'latitude' => 54.64022,
     'longitude' => 18.17057,
   ),
-  1492 => 
+  1399 => 
   array (
     'id' => 87268,
     'name' => 'Orneta',
@@ -13438,7 +12601,7 @@ return array (
     'latitude' => 54.11483,
     'longitude' => 20.13328,
   ),
-  1493 => 
+  1400 => 
   array (
     'id' => 87269,
     'name' => 'Ornontowice',
@@ -13447,7 +12610,7 @@ return array (
     'latitude' => 50.19377,
     'longitude' => 18.75435,
   ),
-  1494 => 
+  1401 => 
   array (
     'id' => 87270,
     'name' => 'Orońsko',
@@ -13456,7 +12619,7 @@ return array (
     'latitude' => 51.31339,
     'longitude' => 20.99067,
   ),
-  1495 => 
+  1402 => 
   array (
     'id' => 87271,
     'name' => 'Orzech',
@@ -13465,7 +12628,7 @@ return array (
     'latitude' => 50.42744,
     'longitude' => 18.92275,
   ),
-  1496 => 
+  1403 => 
   array (
     'id' => 87272,
     'name' => 'Orzechówka',
@@ -13474,7 +12637,7 @@ return array (
     'latitude' => 49.7308,
     'longitude' => 21.94519,
   ),
-  1497 => 
+  1404 => 
   array (
     'id' => 87273,
     'name' => 'Orzesze',
@@ -13483,7 +12646,7 @@ return array (
     'latitude' => 50.15595,
     'longitude' => 18.77923,
   ),
-  1498 => 
+  1405 => 
   array (
     'id' => 87274,
     'name' => 'Orzysz',
@@ -13492,7 +12655,7 @@ return array (
     'latitude' => 53.80967,
     'longitude' => 21.94811,
   ),
-  1499 => 
+  1406 => 
   array (
     'id' => 87275,
     'name' => 'Orły',
@@ -13501,7 +12664,7 @@ return array (
     'latitude' => 49.87107,
     'longitude' => 22.80298,
   ),
-  1500 => 
+  1407 => 
   array (
     'id' => 87276,
     'name' => 'Osie',
@@ -13510,7 +12673,7 @@ return array (
     'latitude' => 53.59918,
     'longitude' => 18.34373,
   ),
-  1501 => 
+  1408 => 
   array (
     'id' => 87277,
     'name' => 'Osieck',
@@ -13519,7 +12682,7 @@ return array (
     'latitude' => 51.96653,
     'longitude' => 21.41913,
   ),
-  1502 => 
+  1409 => 
   array (
     'id' => 87278,
     'name' => 'Osieczany',
@@ -13528,7 +12691,7 @@ return array (
     'latitude' => 49.84252,
     'longitude' => 19.98207,
   ),
-  1503 => 
+  1410 => 
   array (
     'id' => 87279,
     'name' => 'Osieczna',
@@ -13537,7 +12700,7 @@ return array (
     'latitude' => 51.9042,
     'longitude' => 16.67862,
   ),
-  1504 => 
+  1411 => 
   array (
     'id' => 87280,
     'name' => 'Osiedle Henrykowskie',
@@ -13546,7 +12709,7 @@ return array (
     'latitude' => 51.08999,
     'longitude' => 17.05289,
   ),
-  1505 => 
+  1412 => 
   array (
     'id' => 87281,
     'name' => 'Osiedle Kosmonautów',
@@ -13555,7 +12718,7 @@ return array (
     'latitude' => 51.12753,
     'longitude' => 16.96186,
   ),
-  1506 => 
+  1413 => 
   array (
     'id' => 87282,
     'name' => 'Osiedle-Nowiny',
@@ -13564,7 +12727,7 @@ return array (
     'latitude' => 50.8177,
     'longitude' => 20.54117,
   ),
-  1507 => 
+  1414 => 
   array (
     'id' => 87283,
     'name' => 'Osiek',
@@ -13573,43 +12736,7 @@ return array (
     'latitude' => 50.51996,
     'longitude' => 21.44192,
   ),
-  1508 => 
-  array (
-    'id' => 87284,
-    'name' => 'Osiek',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.24353,
-    'longitude' => 19.60047,
-  ),
-  1509 => 
-  array (
-    'id' => 87285,
-    'name' => 'Osiek',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.92629,
-    'longitude' => 18.80765,
-  ),
-  1510 => 
-  array (
-    'id' => 87286,
-    'name' => 'Osiek',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.36717,
-    'longitude' => 16.2338,
-  ),
-  1511 => 
-  array (
-    'id' => 87287,
-    'name' => 'Osiek',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.72226,
-    'longitude' => 18.49051,
-  ),
-  1512 => 
+  1415 => 
   array (
     'id' => 87288,
     'name' => 'Osiek Jasielski',
@@ -13618,7 +12745,7 @@ return array (
     'latitude' => 49.63784,
     'longitude' => 21.4884,
   ),
-  1513 => 
+  1416 => 
   array (
     'id' => 87289,
     'name' => 'Osiek Mały',
@@ -13627,7 +12754,7 @@ return array (
     'latitude' => 52.2763,
     'longitude' => 18.60234,
   ),
-  1514 => 
+  1417 => 
   array (
     'id' => 87290,
     'name' => 'Osiek nad Notecią',
@@ -13636,7 +12763,7 @@ return array (
     'latitude' => 53.1203,
     'longitude' => 17.29102,
   ),
-  1515 => 
+  1418 => 
   array (
     'id' => 87291,
     'name' => 'Osielec',
@@ -13645,7 +12772,7 @@ return array (
     'latitude' => 49.68079,
     'longitude' => 19.78243,
   ),
-  1516 => 
+  1419 => 
   array (
     'id' => 87292,
     'name' => 'Osielsko',
@@ -13654,7 +12781,7 @@ return array (
     'latitude' => 53.18505,
     'longitude' => 18.08418,
   ),
-  1517 => 
+  1420 => 
   array (
     'id' => 87293,
     'name' => 'Osina',
@@ -13663,7 +12790,7 @@ return array (
     'latitude' => 53.60473,
     'longitude' => 15.0123,
   ),
-  1518 => 
+  1421 => 
   array (
     'id' => 87294,
     'name' => 'Osięciny',
@@ -13672,7 +12799,7 @@ return array (
     'latitude' => 52.62926,
     'longitude' => 18.72208,
   ),
-  1519 => 
+  1422 => 
   array (
     'id' => 87295,
     'name' => 'Osjaków',
@@ -13681,7 +12808,7 @@ return array (
     'latitude' => 51.28946,
     'longitude' => 18.79151,
   ),
-  1520 => 
+  1423 => 
   array (
     'id' => 87296,
     'name' => 'Ostaszewo',
@@ -13690,7 +12817,7 @@ return array (
     'latitude' => 54.21256,
     'longitude' => 18.95142,
   ),
-  1521 => 
+  1424 => 
   array (
     'id' => 87297,
     'name' => 'Ostroróg',
@@ -13699,7 +12826,7 @@ return array (
     'latitude' => 52.6265,
     'longitude' => 16.44988,
   ),
-  1522 => 
+  1425 => 
   array (
     'id' => 87298,
     'name' => 'Ostroszowice',
@@ -13708,7 +12835,7 @@ return array (
     'latitude' => 50.64576,
     'longitude' => 16.63965,
   ),
-  1523 => 
+  1426 => 
   array (
     'id' => 87299,
     'name' => 'Ostrowiec Świętokrzyski',
@@ -13717,7 +12844,7 @@ return array (
     'latitude' => 50.92936,
     'longitude' => 21.38525,
   ),
-  1524 => 
+  1427 => 
   array (
     'id' => 87300,
     'name' => 'Ostrowite',
@@ -13726,16 +12853,7 @@ return array (
     'latitude' => 53.06917,
     'longitude' => 19.29337,
   ),
-  1525 => 
-  array (
-    'id' => 87301,
-    'name' => 'Ostrowite',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.38199,
-    'longitude' => 18.0447,
-  ),
-  1526 => 
+  1428 => 
   array (
     'id' => 87302,
     'name' => 'Ostrowsko',
@@ -13744,7 +12862,7 @@ return array (
     'latitude' => 49.47616,
     'longitude' => 20.10052,
   ),
-  1527 => 
+  1429 => 
   array (
     'id' => 87303,
     'name' => 'Ostrowy',
@@ -13753,7 +12871,7 @@ return array (
     'latitude' => 52.30444,
     'longitude' => 19.16565,
   ),
-  1528 => 
+  1430 => 
   array (
     'id' => 87304,
     'name' => 'Ostrowy nad Okszą',
@@ -13762,7 +12880,7 @@ return array (
     'latitude' => 50.97799,
     'longitude' => 19.05355,
   ),
-  1529 => 
+  1431 => 
   array (
     'id' => 87305,
     'name' => 'Ostrołęka',
@@ -13771,7 +12889,7 @@ return array (
     'latitude' => 53.08621,
     'longitude' => 21.57566,
   ),
-  1530 => 
+  1432 => 
   array (
     'id' => 87306,
     'name' => 'Ostrzeszów',
@@ -13780,7 +12898,7 @@ return array (
     'latitude' => 51.4264,
     'longitude' => 17.93355,
   ),
-  1531 => 
+  1433 => 
   array (
     'id' => 87307,
     'name' => 'Ostróda',
@@ -13789,7 +12907,7 @@ return array (
     'latitude' => 53.69671,
     'longitude' => 19.96486,
   ),
-  1532 => 
+  1434 => 
   array (
     'id' => 87308,
     'name' => 'Ostrów',
@@ -13798,7 +12916,7 @@ return array (
     'latitude' => 49.96812,
     'longitude' => 22.7871,
   ),
-  1533 => 
+  1435 => 
   array (
     'id' => 87309,
     'name' => 'Ostrów Lubelski',
@@ -13807,7 +12925,7 @@ return array (
     'latitude' => 51.49416,
     'longitude' => 22.85287,
   ),
-  1534 => 
+  1436 => 
   array (
     'id' => 87310,
     'name' => 'Ostrów Mazowiecka',
@@ -13816,7 +12934,7 @@ return array (
     'latitude' => 52.80245,
     'longitude' => 21.89507,
   ),
-  1535 => 
+  1437 => 
   array (
     'id' => 87311,
     'name' => 'Ostrów Wielkopolski',
@@ -13825,7 +12943,7 @@ return array (
     'latitude' => 51.65501,
     'longitude' => 17.80686,
   ),
-  1536 => 
+  1438 => 
   array (
     'id' => 87312,
     'name' => 'Ostrówek',
@@ -13834,16 +12952,7 @@ return array (
     'latitude' => 52.5535,
     'longitude' => 21.76014,
   ),
-  1537 => 
-  array (
-    'id' => 87313,
-    'name' => 'Ostrówek',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.5815,
-    'longitude' => 22.61227,
-  ),
-  1538 => 
+  1439 => 
   array (
     'id' => 87314,
     'name' => 'Ostrężnica',
@@ -13852,7 +12961,7 @@ return array (
     'latitude' => 50.19262,
     'longitude' => 19.57077,
   ),
-  1539 => 
+  1440 => 
   array (
     'id' => 87315,
     'name' => 'Otmuchów',
@@ -13861,7 +12970,7 @@ return array (
     'latitude' => 50.46627,
     'longitude' => 17.17348,
   ),
-  1540 => 
+  1441 => 
   array (
     'id' => 87316,
     'name' => 'Otrębusy',
@@ -13870,7 +12979,7 @@ return array (
     'latitude' => 52.12843,
     'longitude' => 20.76073,
   ),
-  1541 => 
+  1442 => 
   array (
     'id' => 87317,
     'name' => 'Otwock',
@@ -13879,7 +12988,7 @@ return array (
     'latitude' => 52.10577,
     'longitude' => 21.26129,
   ),
-  1542 => 
+  1443 => 
   array (
     'id' => 87318,
     'name' => 'Otyń',
@@ -13888,7 +12997,7 @@ return array (
     'latitude' => 51.84766,
     'longitude' => 15.71105,
   ),
-  1543 => 
+  1444 => 
   array (
     'id' => 87319,
     'name' => 'Owczarnia',
@@ -13897,7 +13006,7 @@ return array (
     'latitude' => 52.11114,
     'longitude' => 20.70468,
   ),
-  1544 => 
+  1445 => 
   array (
     'id' => 87320,
     'name' => 'Ozimek',
@@ -13906,7 +13015,7 @@ return array (
     'latitude' => 50.67944,
     'longitude' => 18.2137,
   ),
-  1545 => 
+  1446 => 
   array (
     'id' => 87321,
     'name' => 'Ozorków',
@@ -13915,7 +13024,7 @@ return array (
     'latitude' => 51.96336,
     'longitude' => 19.29139,
   ),
-  1546 => 
+  1447 => 
   array (
     'id' => 87322,
     'name' => 'Oława',
@@ -13924,7 +13033,7 @@ return array (
     'latitude' => 50.9466,
     'longitude' => 17.2926,
   ),
-  1547 => 
+  1448 => 
   array (
     'id' => 87323,
     'name' => 'Ołpiny',
@@ -13933,7 +13042,7 @@ return array (
     'latitude' => 49.80686,
     'longitude' => 21.20464,
   ),
-  1548 => 
+  1449 => 
   array (
     'id' => 87324,
     'name' => 'Ośno Lubuskie',
@@ -13942,7 +13051,7 @@ return array (
     'latitude' => 52.4536,
     'longitude' => 14.87549,
   ),
-  1549 => 
+  1450 => 
   array (
     'id' => 87325,
     'name' => 'Oświęcim',
@@ -13951,7 +13060,7 @@ return array (
     'latitude' => 50.03437,
     'longitude' => 19.21037,
   ),
-  1550 => 
+  1451 => 
   array (
     'id' => 87326,
     'name' => 'Ożarowice',
@@ -13960,7 +13069,7 @@ return array (
     'latitude' => 50.46182,
     'longitude' => 19.04317,
   ),
-  1551 => 
+  1452 => 
   array (
     'id' => 87327,
     'name' => 'Ożarów',
@@ -13969,16 +13078,7 @@ return array (
     'latitude' => 50.88798,
     'longitude' => 21.66658,
   ),
-  1552 => 
-  array (
-    'id' => 87328,
-    'name' => 'Ożarów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.14489,
-    'longitude' => 18.5111,
-  ),
-  1553 => 
+  1453 => 
   array (
     'id' => 87329,
     'name' => 'Ożarów Mazowiecki',
@@ -13987,7 +13087,7 @@ return array (
     'latitude' => 52.21039,
     'longitude' => 20.79716,
   ),
-  1554 => 
+  1454 => 
   array (
     'id' => 87330,
     'name' => 'Pabianice',
@@ -13996,7 +13096,7 @@ return array (
     'latitude' => 51.66446,
     'longitude' => 19.35473,
   ),
-  1555 => 
+  1455 => 
   array (
     'id' => 87331,
     'name' => 'Pacanów',
@@ -14005,7 +13105,7 @@ return array (
     'latitude' => 50.40031,
     'longitude' => 21.04148,
   ),
-  1556 => 
+  1456 => 
   array (
     'id' => 87332,
     'name' => 'Pacyna',
@@ -14014,7 +13114,7 @@ return array (
     'latitude' => 52.30281,
     'longitude' => 19.70982,
   ),
-  1557 => 
+  1457 => 
   array (
     'id' => 87333,
     'name' => 'Paczków',
@@ -14023,7 +13123,7 @@ return array (
     'latitude' => 50.46395,
     'longitude' => 17.00658,
   ),
-  1558 => 
+  1458 => 
   array (
     'id' => 87334,
     'name' => 'Padew Narodowa',
@@ -14032,7 +13132,7 @@ return array (
     'latitude' => 50.43947,
     'longitude' => 21.50059,
   ),
-  1559 => 
+  1459 => 
   array (
     'id' => 87335,
     'name' => 'Pajęczno',
@@ -14041,7 +13141,7 @@ return array (
     'latitude' => 51.14449,
     'longitude' => 18.99612,
   ),
-  1560 => 
+  1460 => 
   array (
     'id' => 87336,
     'name' => 'Pakosław',
@@ -14050,7 +13150,7 @@ return array (
     'latitude' => 51.61438,
     'longitude' => 17.05793,
   ),
-  1561 => 
+  1461 => 
   array (
     'id' => 87337,
     'name' => 'Pakosławice',
@@ -14059,7 +13159,7 @@ return array (
     'latitude' => 50.54474,
     'longitude' => 17.36578,
   ),
-  1562 => 
+  1462 => 
   array (
     'id' => 87338,
     'name' => 'Pakość',
@@ -14068,7 +13168,7 @@ return array (
     'latitude' => 52.80178,
     'longitude' => 18.0853,
   ),
-  1563 => 
+  1463 => 
   array (
     'id' => 87339,
     'name' => 'Palcza',
@@ -14077,7 +13177,7 @@ return array (
     'latitude' => 49.80454,
     'longitude' => 19.74389,
   ),
-  1564 => 
+  1464 => 
   array (
     'id' => 87340,
     'name' => 'Pamiątkowo',
@@ -14086,7 +13186,7 @@ return array (
     'latitude' => 52.55334,
     'longitude' => 16.68094,
   ),
-  1565 => 
+  1465 => 
   array (
     'id' => 87341,
     'name' => 'Paniówki',
@@ -14095,7 +13195,7 @@ return array (
     'latitude' => 50.23139,
     'longitude' => 18.78104,
   ),
-  1566 => 
+  1466 => 
   array (
     'id' => 87342,
     'name' => 'Panki',
@@ -14104,7 +13204,7 @@ return array (
     'latitude' => 50.88333,
     'longitude' => 18.7516,
   ),
-  1567 => 
+  1467 => 
   array (
     'id' => 87343,
     'name' => 'Pantalowice',
@@ -14113,7 +13213,7 @@ return array (
     'latitude' => 49.9521,
     'longitude' => 22.43563,
   ),
-  1568 => 
+  1468 => 
   array (
     'id' => 87344,
     'name' => 'Paprotnia',
@@ -14122,7 +13222,7 @@ return array (
     'latitude' => 52.20513,
     'longitude' => 20.4232,
   ),
-  1569 => 
+  1469 => 
   array (
     'id' => 87345,
     'name' => 'Paradyż',
@@ -14131,7 +13231,7 @@ return array (
     'latitude' => 51.30604,
     'longitude' => 20.11374,
   ),
-  1570 => 
+  1470 => 
   array (
     'id' => 87346,
     'name' => 'Parchowo',
@@ -14140,7 +13240,7 @@ return array (
     'latitude' => 54.20658,
     'longitude' => 17.66816,
   ),
-  1571 => 
+  1471 => 
   array (
     'id' => 87347,
     'name' => 'Parczew',
@@ -14149,7 +13249,7 @@ return array (
     'latitude' => 51.64021,
     'longitude' => 22.90057,
   ),
-  1572 => 
+  1472 => 
   array (
     'id' => 87348,
     'name' => 'Partynice',
@@ -14158,7 +13258,7 @@ return array (
     'latitude' => 51.06798,
     'longitude' => 17.01394,
   ),
-  1573 => 
+  1473 => 
   array (
     'id' => 87349,
     'name' => 'Parysów',
@@ -14167,7 +13267,7 @@ return array (
     'latitude' => 51.97584,
     'longitude' => 21.68006,
   ),
-  1574 => 
+  1474 => 
   array (
     'id' => 87350,
     'name' => 'Parzęczew',
@@ -14176,7 +13276,7 @@ return array (
     'latitude' => 51.94855,
     'longitude' => 19.20608,
   ),
-  1575 => 
+  1475 => 
   array (
     'id' => 87351,
     'name' => 'Pasym',
@@ -14185,7 +13285,7 @@ return array (
     'latitude' => 53.65069,
     'longitude' => 20.79188,
   ),
-  1576 => 
+  1476 => 
   array (
     'id' => 87352,
     'name' => 'Paszowice',
@@ -14194,7 +13294,7 @@ return array (
     'latitude' => 51.01078,
     'longitude' => 16.15273,
   ),
-  1577 => 
+  1477 => 
   array (
     'id' => 87353,
     'name' => 'Pasłęk',
@@ -14203,7 +13303,7 @@ return array (
     'latitude' => 54.0616,
     'longitude' => 19.65932,
   ),
-  1578 => 
+  1478 => 
   array (
     'id' => 87354,
     'name' => 'Pawlikowice',
@@ -14212,7 +13312,7 @@ return array (
     'latitude' => 49.9531,
     'longitude' => 20.05486,
   ),
-  1579 => 
+  1479 => 
   array (
     'id' => 87355,
     'name' => 'Pawonków',
@@ -14221,7 +13321,7 @@ return array (
     'latitude' => 50.69499,
     'longitude' => 18.58149,
   ),
-  1580 => 
+  1480 => 
   array (
     'id' => 87356,
     'name' => 'Pawłosiów',
@@ -14230,7 +13330,7 @@ return array (
     'latitude' => 49.99533,
     'longitude' => 22.64763,
   ),
-  1581 => 
+  1481 => 
   array (
     'id' => 87357,
     'name' => 'Pawłowice',
@@ -14239,7 +13339,7 @@ return array (
     'latitude' => 49.96127,
     'longitude' => 18.71778,
   ),
-  1582 => 
+  1482 => 
   array (
     'id' => 87358,
     'name' => 'Pawłowice-Kłokoczyce',
@@ -14248,7 +13348,7 @@ return array (
     'latitude' => 51.16495,
     'longitude' => 17.09822,
   ),
-  1583 => 
+  1483 => 
   array (
     'id' => 87359,
     'name' => 'Pawłowiczki',
@@ -14257,7 +13357,7 @@ return array (
     'latitude' => 50.2466,
     'longitude' => 18.04865,
   ),
-  1584 => 
+  1484 => 
   array (
     'id' => 87360,
     'name' => 'Pawłów',
@@ -14266,7 +13366,7 @@ return array (
     'latitude' => 50.96216,
     'longitude' => 21.12062,
   ),
-  1585 => 
+  1485 => 
   array (
     'id' => 87361,
     'name' => 'Pcim',
@@ -14275,7 +13375,7 @@ return array (
     'latitude' => 49.75166,
     'longitude' => 19.97108,
   ),
-  1586 => 
+  1486 => 
   array (
     'id' => 87362,
     'name' => 'Pecna',
@@ -14284,7 +13384,7 @@ return array (
     'latitude' => 52.18333,
     'longitude' => 16.8,
   ),
-  1587 => 
+  1487 => 
   array (
     'id' => 87363,
     'name' => 'Pelplin',
@@ -14293,7 +13393,7 @@ return array (
     'latitude' => 53.92834,
     'longitude' => 18.6977,
   ),
-  1588 => 
+  1488 => 
   array (
     'id' => 87364,
     'name' => 'Perzów',
@@ -14302,7 +13402,7 @@ return array (
     'latitude' => 51.27625,
     'longitude' => 17.8097,
   ),
-  1589 => 
+  1489 => 
   array (
     'id' => 87365,
     'name' => 'Pewel Wielka',
@@ -14311,7 +13411,7 @@ return array (
     'latitude' => 49.67457,
     'longitude' => 19.37482,
   ),
-  1590 => 
+  1490 => 
   array (
     'id' => 87366,
     'name' => 'Pewel Ślemieńska',
@@ -14320,7 +13420,7 @@ return array (
     'latitude' => 49.68968,
     'longitude' => 19.33431,
   ),
-  1591 => 
+  1491 => 
   array (
     'id' => 87367,
     'name' => 'Pełczyce',
@@ -14329,7 +13429,7 @@ return array (
     'latitude' => 53.04354,
     'longitude' => 15.30447,
   ),
-  1592 => 
+  1492 => 
   array (
     'id' => 87368,
     'name' => 'Piaseczno',
@@ -14338,7 +13438,7 @@ return array (
     'latitude' => 52.0814,
     'longitude' => 21.02397,
   ),
-  1593 => 
+  1493 => 
   array (
     'id' => 87369,
     'name' => 'Piasek',
@@ -14347,7 +13447,7 @@ return array (
     'latitude' => 50.01055,
     'longitude' => 18.94807,
   ),
-  1594 => 
+  1494 => 
   array (
     'id' => 87370,
     'name' => 'Piaski',
@@ -14356,16 +13456,7 @@ return array (
     'latitude' => 51.13892,
     'longitude' => 22.84856,
   ),
-  1595 => 
-  array (
-    'id' => 87371,
-    'name' => 'Piaski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.88497,
-    'longitude' => 17.07293,
-  ),
-  1596 => 
+  1495 => 
   array (
     'id' => 87372,
     'name' => 'Piastów',
@@ -14374,7 +13465,7 @@ return array (
     'latitude' => 52.18435,
     'longitude' => 20.83952,
   ),
-  1597 => 
+  1496 => 
   array (
     'id' => 87373,
     'name' => 'Piechowice',
@@ -14383,7 +13474,7 @@ return array (
     'latitude' => 50.84963,
     'longitude' => 15.59887,
   ),
-  1598 => 
+  1497 => 
   array (
     'id' => 87374,
     'name' => 'Piecki',
@@ -14392,7 +13483,7 @@ return array (
     'latitude' => 53.75759,
     'longitude' => 21.33914,
   ),
-  1599 => 
+  1498 => 
   array (
     'id' => 87375,
     'name' => 'Piekary',
@@ -14401,7 +13492,7 @@ return array (
     'latitude' => 50.02495,
     'longitude' => 19.79616,
   ),
-  1600 => 
+  1499 => 
   array (
     'id' => 87376,
     'name' => 'Piekary Śląskie',
@@ -14410,7 +13501,7 @@ return array (
     'latitude' => 50.38017,
     'longitude' => 18.92653,
   ),
-  1601 => 
+  1500 => 
   array (
     'id' => 87377,
     'name' => 'Piekielnik',
@@ -14419,7 +13510,7 @@ return array (
     'latitude' => 49.47688,
     'longitude' => 19.7681,
   ),
-  1602 => 
+  1501 => 
   array (
     'id' => 87378,
     'name' => 'Piekoszów',
@@ -14428,7 +13519,7 @@ return array (
     'latitude' => 50.88035,
     'longitude' => 20.46418,
   ),
-  1603 => 
+  1502 => 
   array (
     'id' => 87379,
     'name' => 'Pielgrzymowice',
@@ -14437,7 +13528,7 @@ return array (
     'latitude' => 49.90547,
     'longitude' => 18.64886,
   ),
-  1604 => 
+  1503 => 
   array (
     'id' => 87380,
     'name' => 'Pieniężno',
@@ -14446,7 +13537,7 @@ return array (
     'latitude' => 54.23649,
     'longitude' => 20.12833,
   ),
-  1605 => 
+  1504 => 
   array (
     'id' => 87381,
     'name' => 'Pierzchnica',
@@ -14455,7 +13546,7 @@ return array (
     'latitude' => 50.69754,
     'longitude' => 20.75489,
   ),
-  1606 => 
+  1505 => 
   array (
     'id' => 87382,
     'name' => 'Pierściec',
@@ -14464,7 +13555,7 @@ return array (
     'latitude' => 49.83339,
     'longitude' => 18.81409,
   ),
-  1607 => 
+  1506 => 
   array (
     'id' => 87383,
     'name' => 'Pieszyce',
@@ -14473,7 +13564,7 @@ return array (
     'latitude' => 50.71287,
     'longitude' => 16.58232,
   ),
-  1608 => 
+  1507 => 
   array (
     'id' => 87384,
     'name' => 'Pietrowice Wielkie',
@@ -14482,7 +13573,7 @@ return array (
     'latitude' => 50.08452,
     'longitude' => 18.09148,
   ),
-  1609 => 
+  1508 => 
   array (
     'id' => 87385,
     'name' => 'Pietrzykowice',
@@ -14491,7 +13582,7 @@ return array (
     'latitude' => 49.69634,
     'longitude' => 19.1599,
   ),
-  1610 => 
+  1509 => 
   array (
     'id' => 87386,
     'name' => 'Pieńsk',
@@ -14500,7 +13591,7 @@ return array (
     'latitude' => 51.249,
     'longitude' => 15.04685,
   ),
-  1611 => 
+  1510 => 
   array (
     'id' => 87387,
     'name' => 'Pilawa',
@@ -14509,7 +13600,7 @@ return array (
     'latitude' => 51.95945,
     'longitude' => 21.53089,
   ),
-  1612 => 
+  1511 => 
   array (
     'id' => 87388,
     'name' => 'Pilchowice',
@@ -14518,7 +13609,7 @@ return array (
     'latitude' => 50.21668,
     'longitude' => 18.56132,
   ),
-  1613 => 
+  1512 => 
   array (
     'id' => 87389,
     'name' => 'Pilczyce',
@@ -14527,7 +13618,7 @@ return array (
     'latitude' => 51.13704,
     'longitude' => 16.95752,
   ),
-  1614 => 
+  1513 => 
   array (
     'id' => 87390,
     'name' => 'Pilica',
@@ -14536,7 +13627,7 @@ return array (
     'latitude' => 50.46799,
     'longitude' => 19.65729,
   ),
-  1615 => 
+  1514 => 
   array (
     'id' => 87391,
     'name' => 'Pilzno',
@@ -14545,7 +13636,7 @@ return array (
     'latitude' => 49.97883,
     'longitude' => 21.29228,
   ),
-  1616 => 
+  1515 => 
   array (
     'id' => 87392,
     'name' => 'Pionki',
@@ -14554,7 +13645,7 @@ return array (
     'latitude' => 51.47604,
     'longitude' => 21.44995,
   ),
-  1617 => 
+  1516 => 
   array (
     'id' => 87393,
     'name' => 'Piotrków Kujawski',
@@ -14563,7 +13654,7 @@ return array (
     'latitude' => 52.55111,
     'longitude' => 18.49905,
   ),
-  1618 => 
+  1517 => 
   array (
     'id' => 87394,
     'name' => 'Piotrków Trybunalski',
@@ -14572,7 +13663,7 @@ return array (
     'latitude' => 51.40547,
     'longitude' => 19.70321,
   ),
-  1619 => 
+  1518 => 
   array (
     'id' => 87395,
     'name' => 'Pisarzowice',
@@ -14581,16 +13672,7 @@ return array (
     'latitude' => 49.88363,
     'longitude' => 19.14565,
   ),
-  1620 => 
-  array (
-    'id' => 87396,
-    'name' => 'Pisarzowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.14479,
-    'longitude' => 15.23057,
-  ),
-  1621 => 
+  1519 => 
   array (
     'id' => 87397,
     'name' => 'Piskorowice',
@@ -14599,7 +13681,7 @@ return array (
     'latitude' => 50.23579,
     'longitude' => 22.52867,
   ),
-  1622 => 
+  1520 => 
   array (
     'id' => 87398,
     'name' => 'Pisz',
@@ -14608,7 +13690,7 @@ return array (
     'latitude' => 53.62744,
     'longitude' => 21.81253,
   ),
-  1623 => 
+  1521 => 
   array (
     'id' => 87399,
     'name' => 'Piszczac',
@@ -14617,7 +13699,7 @@ return array (
     'latitude' => 51.98118,
     'longitude' => 23.37719,
   ),
-  1624 => 
+  1522 => 
   array (
     'id' => 87400,
     'name' => 'Piwniczna-Zdrój',
@@ -14626,7 +13708,7 @@ return array (
     'latitude' => 49.44056,
     'longitude' => 20.71423,
   ),
-  1625 => 
+  1523 => 
   array (
     'id' => 87401,
     'name' => 'Piątek',
@@ -14635,7 +13717,7 @@ return array (
     'latitude' => 52.0689,
     'longitude' => 19.4797,
   ),
-  1626 => 
+  1524 => 
   array (
     'id' => 87402,
     'name' => 'Piątnica',
@@ -14644,7 +13726,7 @@ return array (
     'latitude' => 53.19657,
     'longitude' => 22.09591,
   ),
-  1627 => 
+  1525 => 
   array (
     'id' => 87403,
     'name' => 'Piła',
@@ -14653,7 +13735,7 @@ return array (
     'latitude' => 53.15145,
     'longitude' => 16.73782,
   ),
-  1628 => 
+  1526 => 
   array (
     'id' => 87404,
     'name' => 'Piława Górna',
@@ -14662,7 +13744,7 @@ return array (
     'latitude' => 50.68357,
     'longitude' => 16.74359,
   ),
-  1629 => 
+  1527 => 
   array (
     'id' => 87405,
     'name' => 'Pińczów',
@@ -14671,7 +13753,7 @@ return array (
     'latitude' => 50.52052,
     'longitude' => 20.52649,
   ),
-  1630 => 
+  1528 => 
   array (
     'id' => 87406,
     'name' => 'Pleszew',
@@ -14680,7 +13762,7 @@ return array (
     'latitude' => 51.89636,
     'longitude' => 17.78549,
   ),
-  1631 => 
+  1529 => 
   array (
     'id' => 87407,
     'name' => 'Plewiska',
@@ -14689,7 +13771,7 @@ return array (
     'latitude' => 52.36706,
     'longitude' => 16.80985,
   ),
-  1632 => 
+  1530 => 
   array (
     'id' => 87408,
     'name' => 'Pleśna',
@@ -14698,7 +13780,7 @@ return array (
     'latitude' => 49.92642,
     'longitude' => 20.94526,
   ),
-  1633 => 
+  1531 => 
   array (
     'id' => 87409,
     'name' => 'Pniewy',
@@ -14707,7 +13789,7 @@ return array (
     'latitude' => 52.50943,
     'longitude' => 16.25668,
   ),
-  1634 => 
+  1532 => 
   array (
     'id' => 87410,
     'name' => 'Pobiedziska',
@@ -14716,7 +13798,7 @@ return array (
     'latitude' => 52.47753,
     'longitude' => 17.28767,
   ),
-  1635 => 
+  1533 => 
   array (
     'id' => 87411,
     'name' => 'Pobierowo',
@@ -14725,7 +13807,7 @@ return array (
     'latitude' => 54.061,
     'longitude' => 14.93282,
   ),
-  1636 => 
+  1534 => 
   array (
     'id' => 87412,
     'name' => 'Poddębice',
@@ -14734,7 +13816,7 @@ return array (
     'latitude' => 51.89344,
     'longitude' => 18.9573,
   ),
-  1637 => 
+  1535 => 
   array (
     'id' => 87413,
     'name' => 'Podebłocie',
@@ -14743,7 +13825,7 @@ return array (
     'latitude' => 51.64023,
     'longitude' => 21.7442,
   ),
-  1638 => 
+  1536 => 
   array (
     'id' => 87414,
     'name' => 'Podedwórze',
@@ -14752,7 +13834,7 @@ return array (
     'latitude' => 51.68815,
     'longitude' => 23.19961,
   ),
-  1639 => 
+  1537 => 
   array (
     'id' => 87415,
     'name' => 'Podegrodzie',
@@ -14761,7 +13843,7 @@ return array (
     'latitude' => 49.57688,
     'longitude' => 20.58855,
   ),
-  1640 => 
+  1538 => 
   array (
     'id' => 87416,
     'name' => 'Podgórzyn',
@@ -14770,7 +13852,7 @@ return array (
     'latitude' => 50.83261,
     'longitude' => 15.68161,
   ),
-  1641 => 
+  1539 => 
   array (
     'id' => 87417,
     'name' => 'Podkowa Leśna',
@@ -14779,7 +13861,7 @@ return array (
     'latitude' => 52.12237,
     'longitude' => 20.72665,
   ),
-  1642 => 
+  1540 => 
   array (
     'id' => 87418,
     'name' => 'Podwilk',
@@ -14788,7 +13870,7 @@ return array (
     'latitude' => 49.5476,
     'longitude' => 19.73874,
   ),
-  1643 => 
+  1541 => 
   array (
     'id' => 87419,
     'name' => 'Podłęże',
@@ -14797,7 +13879,7 @@ return array (
     'latitude' => 50.01458,
     'longitude' => 20.16781,
   ),
-  1644 => 
+  1542 => 
   array (
     'id' => 87420,
     'name' => 'Pogorzela',
@@ -14806,7 +13888,7 @@ return array (
     'latitude' => 51.8222,
     'longitude' => 17.23017,
   ),
-  1645 => 
+  1543 => 
   array (
     'id' => 87421,
     'name' => 'Pogorzyce',
@@ -14815,7 +13897,7 @@ return array (
     'latitude' => 50.10186,
     'longitude' => 19.42228,
   ),
-  1646 => 
+  1544 => 
   array (
     'id' => 87422,
     'name' => 'Pogrzebień',
@@ -14824,7 +13906,7 @@ return array (
     'latitude' => 50.06722,
     'longitude' => 18.29876,
   ),
-  1647 => 
+  1545 => 
   array (
     'id' => 87423,
     'name' => 'Pogwizdów',
@@ -14833,7 +13915,7 @@ return array (
     'latitude' => 49.80382,
     'longitude' => 18.60106,
   ),
-  1648 => 
+  1546 => 
   array (
     'id' => 87424,
     'name' => 'Pogórska Wola',
@@ -14842,7 +13924,7 @@ return array (
     'latitude' => 50.01855,
     'longitude' => 21.15795,
   ),
-  1649 => 
+  1547 => 
   array (
     'id' => 87425,
     'name' => 'Pogórze',
@@ -14851,16 +13933,7 @@ return array (
     'latitude' => 54.5644,
     'longitude' => 18.48209,
   ),
-  1650 => 
-  array (
-    'id' => 87426,
-    'name' => 'Pogórze',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.79961,
-    'longitude' => 18.84327,
-  ),
-  1651 => 
+  1548 => 
   array (
     'id' => 87427,
     'name' => 'Pokrzywnica',
@@ -14869,7 +13942,7 @@ return array (
     'latitude' => 52.62072,
     'longitude' => 21.01925,
   ),
-  1652 => 
+  1549 => 
   array (
     'id' => 87428,
     'name' => 'Pokrówka',
@@ -14878,7 +13951,7 @@ return array (
     'latitude' => 51.09479,
     'longitude' => 23.46345,
   ),
-  1653 => 
+  1550 => 
   array (
     'id' => 87429,
     'name' => 'Pokój',
@@ -14887,7 +13960,7 @@ return array (
     'latitude' => 50.90265,
     'longitude' => 17.83751,
   ),
-  1654 => 
+  1551 => 
   array (
     'id' => 87430,
     'name' => 'Polanica-Zdrój',
@@ -14896,7 +13969,7 @@ return array (
     'latitude' => 50.40373,
     'longitude' => 16.51271,
   ),
-  1655 => 
+  1552 => 
   array (
     'id' => 87431,
     'name' => 'Polanka Wielka',
@@ -14905,7 +13978,7 @@ return array (
     'latitude' => 49.98501,
     'longitude' => 19.32615,
   ),
-  1656 => 
+  1553 => 
   array (
     'id' => 87432,
     'name' => 'Polanów',
@@ -14914,7 +13987,7 @@ return array (
     'latitude' => 54.1193,
     'longitude' => 16.68512,
   ),
-  1657 => 
+  1554 => 
   array (
     'id' => 87433,
     'name' => 'Polańczyk',
@@ -14923,7 +13996,7 @@ return array (
     'latitude' => 49.36969,
     'longitude' => 22.42112,
   ),
-  1658 => 
+  1555 => 
   array (
     'id' => 87434,
     'name' => 'Police',
@@ -14932,7 +14005,7 @@ return array (
     'latitude' => 53.55214,
     'longitude' => 14.57182,
   ),
-  1659 => 
+  1556 => 
   array (
     'id' => 87435,
     'name' => 'Policzna',
@@ -14941,7 +14014,7 @@ return array (
     'latitude' => 51.45545,
     'longitude' => 21.62684,
   ),
-  1660 => 
+  1557 => 
   array (
     'id' => 87436,
     'name' => 'Polkowice',
@@ -14950,7 +14023,7 @@ return array (
     'latitude' => 51.50391,
     'longitude' => 16.07261,
   ),
-  1661 => 
+  1558 => 
   array (
     'id' => 87437,
     'name' => 'Polska Cerekiew',
@@ -14959,7 +14032,7 @@ return array (
     'latitude' => 50.22827,
     'longitude' => 18.12675,
   ),
-  1662 => 
+  1559 => 
   array (
     'id' => 87438,
     'name' => 'Pomiechówek',
@@ -14968,7 +14041,7 @@ return array (
     'latitude' => 52.47138,
     'longitude' => 20.72923,
   ),
-  1663 => 
+  1560 => 
   array (
     'id' => 87439,
     'name' => 'Poniatowa',
@@ -14977,7 +14050,7 @@ return array (
     'latitude' => 51.17983,
     'longitude' => 22.13093,
   ),
-  1664 => 
+  1561 => 
   array (
     'id' => 87440,
     'name' => 'Poniec',
@@ -14986,7 +14059,7 @@ return array (
     'latitude' => 51.76343,
     'longitude' => 16.80867,
   ),
-  1665 => 
+  1562 => 
   array (
     'id' => 87441,
     'name' => 'Ponikiew',
@@ -14995,7 +14068,7 @@ return array (
     'latitude' => 49.83311,
     'longitude' => 19.46571,
   ),
-  1666 => 
+  1563 => 
   array (
     'id' => 87442,
     'name' => 'Popielów',
@@ -15004,7 +14077,7 @@ return array (
     'latitude' => 50.82632,
     'longitude' => 17.74378,
   ),
-  1667 => 
+  1564 => 
   array (
     'id' => 87443,
     'name' => 'Poraj',
@@ -15013,7 +14086,7 @@ return array (
     'latitude' => 50.67797,
     'longitude' => 19.21509,
   ),
-  1668 => 
+  1565 => 
   array (
     'id' => 87444,
     'name' => 'Poraż',
@@ -15022,7 +14095,7 @@ return array (
     'latitude' => 49.48597,
     'longitude' => 22.225,
   ),
-  1669 => 
+  1566 => 
   array (
     'id' => 87445,
     'name' => 'Poronin',
@@ -15031,7 +14104,7 @@ return array (
     'latitude' => 49.33781,
     'longitude' => 20.00291,
   ),
-  1670 => 
+  1567 => 
   array (
     'id' => 87446,
     'name' => 'Porąbka',
@@ -15040,7 +14113,7 @@ return array (
     'latitude' => 49.81716,
     'longitude' => 19.21835,
   ),
-  1671 => 
+  1568 => 
   array (
     'id' => 87447,
     'name' => 'Porąbka Uszewska',
@@ -15049,7 +14122,7 @@ return array (
     'latitude' => 49.9426,
     'longitude' => 20.69052,
   ),
-  1672 => 
+  1569 => 
   array (
     'id' => 87448,
     'name' => 'Poręba',
@@ -15058,16 +14131,7 @@ return array (
     'latitude' => 49.79645,
     'longitude' => 20.01718,
   ),
-  1673 => 
-  array (
-    'id' => 87449,
-    'name' => 'Poręba',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.48831,
-    'longitude' => 19.33903,
-  ),
-  1674 => 
+  1570 => 
   array (
     'id' => 87450,
     'name' => 'Poręba Spytkowska',
@@ -15076,7 +14140,7 @@ return array (
     'latitude' => 49.93995,
     'longitude' => 20.55405,
   ),
-  1675 => 
+  1571 => 
   array (
     'id' => 87451,
     'name' => 'Poręba Wielka',
@@ -15085,7 +14149,7 @@ return array (
     'latitude' => 50.01116,
     'longitude' => 19.28375,
   ),
-  1676 => 
+  1572 => 
   array (
     'id' => 87452,
     'name' => 'Potok Górny',
@@ -15094,7 +14158,7 @@ return array (
     'latitude' => 50.38477,
     'longitude' => 22.56188,
   ),
-  1677 => 
+  1573 => 
   array (
     'id' => 87453,
     'name' => 'Potok Wielki',
@@ -15103,7 +14167,7 @@ return array (
     'latitude' => 50.7915,
     'longitude' => 22.21642,
   ),
-  1678 => 
+  1574 => 
   array (
     'id' => 87454,
     'name' => 'Potok Złoty',
@@ -15112,7 +14176,7 @@ return array (
     'latitude' => 50.70676,
     'longitude' => 19.43091,
   ),
-  1679 => 
+  1575 => 
   array (
     'id' => 87455,
     'name' => 'Potworów',
@@ -15121,7 +14185,7 @@ return array (
     'latitude' => 51.50874,
     'longitude' => 20.72176,
   ),
-  1680 => 
+  1576 => 
   array (
     'id' => 87456,
     'name' => 'Potęgowo',
@@ -15130,7 +14194,7 @@ return array (
     'latitude' => 54.48285,
     'longitude' => 17.4862,
   ),
-  1681 => 
+  1577 => 
   array (
     'id' => 87457,
     'name' => 'Powiat aleksandrowski',
@@ -15139,7 +14203,7 @@ return array (
     'latitude' => 52.78465,
     'longitude' => 18.7193,
   ),
-  1682 => 
+  1578 => 
   array (
     'id' => 87458,
     'name' => 'Powiat augustowski',
@@ -15148,7 +14212,7 @@ return array (
     'latitude' => 53.79742,
     'longitude' => 23.14275,
   ),
-  1683 => 
+  1579 => 
   array (
     'id' => 87459,
     'name' => 'Powiat bartoszycki',
@@ -15157,7 +14221,7 @@ return array (
     'latitude' => 54.21253,
     'longitude' => 20.74076,
   ),
-  1684 => 
+  1580 => 
   array (
     'id' => 87460,
     'name' => 'Powiat bełchatowski',
@@ -15166,7 +14230,7 @@ return array (
     'latitude' => 51.36877,
     'longitude' => 19.17791,
   ),
-  1685 => 
+  1581 => 
   array (
     'id' => 87461,
     'name' => 'Powiat bialski',
@@ -15175,7 +14239,7 @@ return array (
     'latitude' => 51.97222,
     'longitude' => 23.15328,
   ),
-  1686 => 
+  1582 => 
   array (
     'id' => 87462,
     'name' => 'Powiat białobrzeski',
@@ -15184,7 +14248,7 @@ return array (
     'latitude' => 51.62102,
     'longitude' => 20.94328,
   ),
-  1687 => 
+  1583 => 
   array (
     'id' => 87463,
     'name' => 'Powiat białogardzki',
@@ -15193,7 +14257,7 @@ return array (
     'latitude' => 53.97686,
     'longitude' => 16.08855,
   ),
-  1688 => 
+  1584 => 
   array (
     'id' => 87464,
     'name' => 'Powiat białostocki',
@@ -15202,7 +14266,7 @@ return array (
     'latitude' => 53.09897,
     'longitude' => 23.59314,
   ),
-  1689 => 
+  1585 => 
   array (
     'id' => 87465,
     'name' => 'Powiat bielski',
@@ -15211,16 +14275,7 @@ return array (
     'latitude' => 49.76175,
     'longitude' => 19.1066,
   ),
-  1690 => 
-  array (
-    'id' => 87466,
-    'name' => 'Powiat bielski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.74629,
-    'longitude' => 23.00669,
-  ),
-  1691 => 
+  1586 => 
   array (
     'id' => 87467,
     'name' => 'Powiat bieruńsko-lędziński',
@@ -15229,7 +14284,7 @@ return array (
     'latitude' => 50.09356,
     'longitude' => 19.1427,
   ),
-  1692 => 
+  1587 => 
   array (
     'id' => 87468,
     'name' => 'Powiat bieszczadzki',
@@ -15238,7 +14293,7 @@ return array (
     'latitude' => 49.33681,
     'longitude' => 22.64451,
   ),
-  1693 => 
+  1588 => 
   array (
     'id' => 87469,
     'name' => 'Powiat biłgorajski',
@@ -15247,7 +14302,7 @@ return array (
     'latitude' => 50.58582,
     'longitude' => 22.79513,
   ),
-  1694 => 
+  1589 => 
   array (
     'id' => 87470,
     'name' => 'Powiat bocheński',
@@ -15256,7 +14311,7 @@ return array (
     'latitude' => 49.96911,
     'longitude' => 20.43078,
   ),
-  1695 => 
+  1590 => 
   array (
     'id' => 87471,
     'name' => 'Powiat bolesławiecki',
@@ -15265,7 +14320,7 @@ return array (
     'latitude' => 51.32174,
     'longitude' => 15.53215,
   ),
-  1696 => 
+  1591 => 
   array (
     'id' => 87472,
     'name' => 'Powiat braniewski',
@@ -15274,7 +14329,7 @@ return array (
     'latitude' => 54.27782,
     'longitude' => 20.0063,
   ),
-  1697 => 
+  1592 => 
   array (
     'id' => 87473,
     'name' => 'Powiat brodnicki',
@@ -15283,7 +14338,7 @@ return array (
     'latitude' => 53.26982,
     'longitude' => 19.42279,
   ),
-  1698 => 
+  1593 => 
   array (
     'id' => 87474,
     'name' => 'Powiat brzeski',
@@ -15292,16 +14347,7 @@ return array (
     'latitude' => 49.9717,
     'longitude' => 20.60572,
   ),
-  1699 => 
-  array (
-    'id' => 87475,
-    'name' => 'Powiat brzeski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.7893,
-    'longitude' => 17.48499,
-  ),
-  1700 => 
+  1594 => 
   array (
     'id' => 87476,
     'name' => 'Powiat brzeziński',
@@ -15310,7 +14356,7 @@ return array (
     'latitude' => 51.84073,
     'longitude' => 19.83037,
   ),
-  1701 => 
+  1595 => 
   array (
     'id' => 87477,
     'name' => 'Powiat brzozowski',
@@ -15319,7 +14365,7 @@ return array (
     'latitude' => 49.72759,
     'longitude' => 22.09039,
   ),
-  1702 => 
+  1596 => 
   array (
     'id' => 87478,
     'name' => 'Powiat buski',
@@ -15328,7 +14374,7 @@ return array (
     'latitude' => 50.45583,
     'longitude' => 20.87624,
   ),
-  1703 => 
+  1597 => 
   array (
     'id' => 87479,
     'name' => 'Powiat bydgoski',
@@ -15337,7 +14383,7 @@ return array (
     'latitude' => 53.19029,
     'longitude' => 18.03808,
   ),
-  1704 => 
+  1598 => 
   array (
     'id' => 87480,
     'name' => 'Powiat bytowski',
@@ -15346,7 +14392,7 @@ return array (
     'latitude' => 54.15691,
     'longitude' => 17.29147,
   ),
-  1705 => 
+  1599 => 
   array (
     'id' => 87481,
     'name' => 'Powiat będziński',
@@ -15355,7 +14401,7 @@ return array (
     'latitude' => 50.32924,
     'longitude' => 19.10419,
   ),
-  1706 => 
+  1600 => 
   array (
     'id' => 87482,
     'name' => 'Powiat chełmiński',
@@ -15364,7 +14410,7 @@ return array (
     'latitude' => 53.30056,
     'longitude' => 18.50396,
   ),
-  1707 => 
+  1601 => 
   array (
     'id' => 87483,
     'name' => 'Powiat chełmski',
@@ -15373,7 +14419,7 @@ return array (
     'latitude' => 51.15092,
     'longitude' => 23.38165,
   ),
-  1708 => 
+  1602 => 
   array (
     'id' => 87484,
     'name' => 'Powiat chodzieski',
@@ -15382,7 +14428,7 @@ return array (
     'latitude' => 52.95289,
     'longitude' => 17.01545,
   ),
-  1709 => 
+  1603 => 
   array (
     'id' => 87485,
     'name' => 'Powiat chojnicki',
@@ -15391,7 +14437,7 @@ return array (
     'latitude' => 53.80099,
     'longitude' => 17.71882,
   ),
-  1710 => 
+  1604 => 
   array (
     'id' => 87486,
     'name' => 'Powiat choszczeński',
@@ -15400,7 +14446,7 @@ return array (
     'latitude' => 53.14277,
     'longitude' => 15.62112,
   ),
-  1711 => 
+  1605 => 
   array (
     'id' => 87487,
     'name' => 'Powiat chrzanowski',
@@ -15409,7 +14455,7 @@ return array (
     'latitude' => 50.13565,
     'longitude' => 19.40434,
   ),
-  1712 => 
+  1606 => 
   array (
     'id' => 87488,
     'name' => 'Powiat ciechanowski',
@@ -15418,7 +14464,7 @@ return array (
     'latitude' => 52.90207,
     'longitude' => 20.57631,
   ),
-  1713 => 
+  1607 => 
   array (
     'id' => 87489,
     'name' => 'Powiat cieszyński',
@@ -15427,7 +14473,7 @@ return array (
     'latitude' => 49.72628,
     'longitude' => 18.79147,
   ),
-  1714 => 
+  1608 => 
   array (
     'id' => 87490,
     'name' => 'Powiat czarnkowsko-trzcianecki',
@@ -15436,7 +14482,7 @@ return array (
     'latitude' => 52.92885,
     'longitude' => 16.34673,
   ),
-  1715 => 
+  1609 => 
   array (
     'id' => 87491,
     'name' => 'Powiat częstochowski',
@@ -15445,7 +14491,7 @@ return array (
     'latitude' => 50.84118,
     'longitude' => 19.34045,
   ),
-  1716 => 
+  1610 => 
   array (
     'id' => 87492,
     'name' => 'Powiat człuchowski',
@@ -15454,7 +14500,7 @@ return array (
     'latitude' => 53.75112,
     'longitude' => 17.18936,
   ),
-  1717 => 
+  1611 => 
   array (
     'id' => 87493,
     'name' => 'Powiat drawski',
@@ -15463,7 +14509,7 @@ return array (
     'latitude' => 53.44743,
     'longitude' => 16.02132,
   ),
-  1718 => 
+  1612 => 
   array (
     'id' => 87494,
     'name' => 'Powiat działdowski',
@@ -15472,7 +14518,7 @@ return array (
     'latitude' => 53.28883,
     'longitude' => 20.04817,
   ),
-  1719 => 
+  1613 => 
   array (
     'id' => 87495,
     'name' => 'Powiat dzierżoniowski',
@@ -15481,7 +14527,7 @@ return array (
     'latitude' => 50.73506,
     'longitude' => 16.69192,
   ),
-  1720 => 
+  1614 => 
   array (
     'id' => 87496,
     'name' => 'Powiat dąbrowski',
@@ -15490,7 +14536,7 @@ return array (
     'latitude' => 50.17572,
     'longitude' => 20.97895,
   ),
-  1721 => 
+  1615 => 
   array (
     'id' => 87497,
     'name' => 'Powiat dębicki',
@@ -15499,7 +14545,7 @@ return array (
     'latitude' => 49.99923,
     'longitude' => 21.35398,
   ),
-  1722 => 
+  1616 => 
   array (
     'id' => 87498,
     'name' => 'Powiat elbląski',
@@ -15508,7 +14554,7 @@ return array (
     'latitude' => 54.15928,
     'longitude' => 19.63768,
   ),
-  1723 => 
+  1617 => 
   array (
     'id' => 87499,
     'name' => 'Powiat ełcki',
@@ -15517,7 +14563,7 @@ return array (
     'latitude' => 53.81673,
     'longitude' => 22.40465,
   ),
-  1724 => 
+  1618 => 
   array (
     'id' => 87500,
     'name' => 'Powiat garwoliński',
@@ -15526,7 +14572,7 @@ return array (
     'latitude' => 51.82657,
     'longitude' => 21.61615,
   ),
-  1725 => 
+  1619 => 
   array (
     'id' => 87501,
     'name' => 'Powiat gdański',
@@ -15535,7 +14581,7 @@ return array (
     'latitude' => 54.22493,
     'longitude' => 18.58157,
   ),
-  1726 => 
+  1620 => 
   array (
     'id' => 87502,
     'name' => 'Powiat giżycki',
@@ -15544,7 +14590,7 @@ return array (
     'latitude' => 54.01808,
     'longitude' => 21.82191,
   ),
-  1727 => 
+  1621 => 
   array (
     'id' => 87503,
     'name' => 'Powiat gliwicki',
@@ -15553,7 +14599,7 @@ return array (
     'latitude' => 50.36266,
     'longitude' => 18.58107,
   ),
-  1728 => 
+  1622 => 
   array (
     'id' => 87504,
     'name' => 'Powiat gnieźnieński',
@@ -15562,7 +14608,7 @@ return array (
     'latitude' => 52.55359,
     'longitude' => 17.5714,
   ),
-  1729 => 
+  1623 => 
   array (
     'id' => 87505,
     'name' => 'Powiat goleniowski',
@@ -15571,7 +14617,7 @@ return array (
     'latitude' => 53.61035,
     'longitude' => 14.85421,
   ),
-  1730 => 
+  1624 => 
   array (
     'id' => 87506,
     'name' => 'Powiat golubsko-dobrzyński',
@@ -15580,7 +14626,7 @@ return array (
     'latitude' => 53.09922,
     'longitude' => 18.99209,
   ),
-  1731 => 
+  1625 => 
   array (
     'id' => 87507,
     'name' => 'Powiat gorlicki',
@@ -15589,7 +14635,7 @@ return array (
     'latitude' => 49.66452,
     'longitude' => 21.16842,
   ),
-  1732 => 
+  1626 => 
   array (
     'id' => 87508,
     'name' => 'Powiat gorzowski',
@@ -15598,7 +14644,7 @@ return array (
     'latitude' => 52.73863,
     'longitude' => 15.08508,
   ),
-  1733 => 
+  1627 => 
   array (
     'id' => 87509,
     'name' => 'Powiat gostyniński',
@@ -15607,7 +14653,7 @@ return array (
     'latitude' => 52.38988,
     'longitude' => 19.62187,
   ),
-  1734 => 
+  1628 => 
   array (
     'id' => 87510,
     'name' => 'Powiat gostyński',
@@ -15616,7 +14662,7 @@ return array (
     'latitude' => 51.8368,
     'longitude' => 17.03471,
   ),
-  1735 => 
+  1629 => 
   array (
     'id' => 87511,
     'name' => 'Powiat gołdapski',
@@ -15625,7 +14671,7 @@ return array (
     'latitude' => 54.2609,
     'longitude' => 22.37192,
   ),
-  1736 => 
+  1630 => 
   array (
     'id' => 87512,
     'name' => 'Powiat grajewski',
@@ -15634,7 +14680,7 @@ return array (
     'latitude' => 53.55509,
     'longitude' => 22.48995,
   ),
-  1737 => 
+  1631 => 
   array (
     'id' => 87513,
     'name' => 'Powiat grodziski',
@@ -15643,16 +14689,7 @@ return array (
     'latitude' => 52.06391,
     'longitude' => 20.59408,
   ),
-  1738 => 
-  array (
-    'id' => 87514,
-    'name' => 'Powiat grodziski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.16038,
-    'longitude' => 16.33566,
-  ),
-  1739 => 
+  1632 => 
   array (
     'id' => 87515,
     'name' => 'Powiat grudziądzki',
@@ -15661,7 +14698,7 @@ return array (
     'latitude' => 53.47146,
     'longitude' => 18.9162,
   ),
-  1740 => 
+  1633 => 
   array (
     'id' => 87516,
     'name' => 'Powiat gryficki',
@@ -15670,7 +14707,7 @@ return array (
     'latitude' => 53.94293,
     'longitude' => 15.19082,
   ),
-  1741 => 
+  1634 => 
   array (
     'id' => 87517,
     'name' => 'Powiat gryfiński',
@@ -15679,7 +14716,7 @@ return array (
     'latitude' => 53.02298,
     'longitude' => 14.49912,
   ),
-  1742 => 
+  1635 => 
   array (
     'id' => 87518,
     'name' => 'Powiat grójecki',
@@ -15688,7 +14725,7 @@ return array (
     'latitude' => 51.75742,
     'longitude' => 20.83661,
   ),
-  1743 => 
+  1636 => 
   array (
     'id' => 87519,
     'name' => 'Powiat górowski',
@@ -15697,7 +14734,7 @@ return array (
     'latitude' => 51.63666,
     'longitude' => 16.54815,
   ),
-  1744 => 
+  1637 => 
   array (
     'id' => 87520,
     'name' => 'Powiat głogowski',
@@ -15706,7 +14743,7 @@ return array (
     'latitude' => 51.67132,
     'longitude' => 16.09486,
   ),
-  1745 => 
+  1638 => 
   array (
     'id' => 87521,
     'name' => 'Powiat głubczycki',
@@ -15715,7 +14752,7 @@ return array (
     'latitude' => 50.14846,
     'longitude' => 17.83266,
   ),
-  1746 => 
+  1639 => 
   array (
     'id' => 87522,
     'name' => 'Powiat hajnowski',
@@ -15724,7 +14761,7 @@ return array (
     'latitude' => 52.70845,
     'longitude' => 23.55719,
   ),
-  1747 => 
+  1640 => 
   array (
     'id' => 87523,
     'name' => 'Powiat hrubieszowski',
@@ -15733,7 +14770,7 @@ return array (
     'latitude' => 50.70776,
     'longitude' => 23.86307,
   ),
-  1748 => 
+  1641 => 
   array (
     'id' => 87524,
     'name' => 'Powiat inowrocławski',
@@ -15742,7 +14779,7 @@ return array (
     'latitude' => 52.76463,
     'longitude' => 18.29671,
   ),
-  1749 => 
+  1642 => 
   array (
     'id' => 87525,
     'name' => 'Powiat iławski',
@@ -15751,7 +14788,7 @@ return array (
     'latitude' => 53.67477,
     'longitude' => 19.53792,
   ),
-  1750 => 
+  1643 => 
   array (
     'id' => 87526,
     'name' => 'Powiat janowski',
@@ -15760,7 +14797,7 @@ return array (
     'latitude' => 50.74558,
     'longitude' => 22.41147,
   ),
-  1751 => 
+  1644 => 
   array (
     'id' => 87527,
     'name' => 'Powiat jarociński',
@@ -15769,7 +14806,7 @@ return array (
     'latitude' => 52.00901,
     'longitude' => 17.45497,
   ),
-  1752 => 
+  1645 => 
   array (
     'id' => 87528,
     'name' => 'Powiat jarosławski',
@@ -15778,7 +14815,7 @@ return array (
     'latitude' => 50.02516,
     'longitude' => 22.78238,
   ),
-  1753 => 
+  1646 => 
   array (
     'id' => 87529,
     'name' => 'Powiat jasielski',
@@ -15787,7 +14824,7 @@ return array (
     'latitude' => 49.64263,
     'longitude' => 21.44637,
   ),
-  1754 => 
+  1647 => 
   array (
     'id' => 87530,
     'name' => 'Powiat jaworski',
@@ -15796,7 +14833,7 @@ return array (
     'latitude' => 51.03967,
     'longitude' => 16.16364,
   ),
-  1755 => 
+  1648 => 
   array (
     'id' => 87531,
     'name' => 'Powiat jeleniogórski',
@@ -15805,7 +14842,7 @@ return array (
     'latitude' => 50.89654,
     'longitude' => 15.63835,
   ),
-  1756 => 
+  1649 => 
   array (
     'id' => 87532,
     'name' => 'Powiat jędrzejowski',
@@ -15814,7 +14851,7 @@ return array (
     'latitude' => 50.65676,
     'longitude' => 20.18655,
   ),
-  1757 => 
+  1650 => 
   array (
     'id' => 87533,
     'name' => 'Powiat kaliski',
@@ -15823,7 +14860,7 @@ return array (
     'latitude' => 51.78921,
     'longitude' => 18.20809,
   ),
-  1758 => 
+  1651 => 
   array (
     'id' => 87534,
     'name' => 'Powiat kamiennogórski',
@@ -15832,7 +14869,7 @@ return array (
     'latitude' => 50.75603,
     'longitude' => 16.00471,
   ),
-  1759 => 
+  1652 => 
   array (
     'id' => 87535,
     'name' => 'Powiat kamieński',
@@ -15841,7 +14878,7 @@ return array (
     'latitude' => 53.91096,
     'longitude' => 14.7442,
   ),
-  1760 => 
+  1653 => 
   array (
     'id' => 87536,
     'name' => 'Powiat kartuski',
@@ -15850,7 +14887,7 @@ return array (
     'latitude' => 54.32687,
     'longitude' => 18.08632,
   ),
-  1761 => 
+  1654 => 
   array (
     'id' => 87537,
     'name' => 'Powiat kazimierski',
@@ -15859,7 +14896,7 @@ return array (
     'latitude' => 50.28811,
     'longitude' => 20.53368,
   ),
-  1762 => 
+  1655 => 
   array (
     'id' => 87538,
     'name' => 'Powiat kielecki',
@@ -15868,7 +14905,7 @@ return array (
     'latitude' => 50.80156,
     'longitude' => 20.63322,
   ),
-  1763 => 
+  1656 => 
   array (
     'id' => 87539,
     'name' => 'Powiat kluczborski',
@@ -15877,7 +14914,7 @@ return array (
     'latitude' => 50.98576,
     'longitude' => 18.15258,
   ),
-  1764 => 
+  1657 => 
   array (
     'id' => 87540,
     'name' => 'Powiat kolbuszowski',
@@ -15886,7 +14923,7 @@ return array (
     'latitude' => 50.31632,
     'longitude' => 21.81315,
   ),
-  1765 => 
+  1658 => 
   array (
     'id' => 87541,
     'name' => 'Powiat kolneński',
@@ -15895,7 +14932,7 @@ return array (
     'latitude' => 53.39186,
     'longitude' => 21.93631,
   ),
-  1766 => 
+  1659 => 
   array (
     'id' => 87542,
     'name' => 'Powiat kolski',
@@ -15904,7 +14941,7 @@ return array (
     'latitude' => 52.24446,
     'longitude' => 18.78096,
   ),
-  1767 => 
+  1660 => 
   array (
     'id' => 87543,
     'name' => 'Powiat konecki',
@@ -15913,7 +14950,7 @@ return array (
     'latitude' => 51.15145,
     'longitude' => 20.34186,
   ),
-  1768 => 
+  1661 => 
   array (
     'id' => 87544,
     'name' => 'Powiat koniński',
@@ -15922,7 +14959,7 @@ return array (
     'latitude' => 52.25965,
     'longitude' => 18.29616,
   ),
-  1769 => 
+  1662 => 
   array (
     'id' => 87545,
     'name' => 'Powiat koszaliński',
@@ -15931,7 +14968,7 @@ return array (
     'latitude' => 54.1097,
     'longitude' => 16.30231,
   ),
-  1770 => 
+  1663 => 
   array (
     'id' => 87546,
     'name' => 'Powiat kozienicki',
@@ -15940,7 +14977,7 @@ return array (
     'latitude' => 51.63946,
     'longitude' => 21.4958,
   ),
-  1771 => 
+  1664 => 
   array (
     'id' => 87547,
     'name' => 'Powiat kołobrzeski',
@@ -15949,7 +14986,7 @@ return array (
     'latitude' => 54.05013,
     'longitude' => 15.61394,
   ),
-  1772 => 
+  1665 => 
   array (
     'id' => 87548,
     'name' => 'Powiat kościański',
@@ -15958,7 +14995,7 @@ return array (
     'latitude' => 52.06616,
     'longitude' => 16.71514,
   ),
-  1773 => 
+  1666 => 
   array (
     'id' => 87549,
     'name' => 'Powiat kościerski',
@@ -15967,7 +15004,7 @@ return array (
     'latitude' => 54.01939,
     'longitude' => 18.004,
   ),
-  1774 => 
+  1667 => 
   array (
     'id' => 87550,
     'name' => 'Powiat krakowski',
@@ -15976,7 +15013,7 @@ return array (
     'latitude' => 50.14347,
     'longitude' => 19.91409,
   ),
-  1775 => 
+  1668 => 
   array (
     'id' => 87551,
     'name' => 'Powiat krapkowicki',
@@ -15985,7 +15022,7 @@ return array (
     'latitude' => 50.45263,
     'longitude' => 17.95768,
   ),
-  1776 => 
+  1669 => 
   array (
     'id' => 87552,
     'name' => 'Powiat krasnostawski',
@@ -15994,7 +15031,7 @@ return array (
     'latitude' => 50.98486,
     'longitude' => 23.17514,
   ),
-  1777 => 
+  1670 => 
   array (
     'id' => 87553,
     'name' => 'Powiat kraśnicki',
@@ -16003,7 +15040,7 @@ return array (
     'latitude' => 50.91535,
     'longitude' => 22.14576,
   ),
-  1778 => 
+  1671 => 
   array (
     'id' => 87554,
     'name' => 'Powiat krotoszyński',
@@ -16012,7 +15049,7 @@ return array (
     'latitude' => 51.74174,
     'longitude' => 17.42125,
   ),
-  1779 => 
+  1672 => 
   array (
     'id' => 87555,
     'name' => 'Powiat krośnieński',
@@ -16021,16 +15058,7 @@ return array (
     'latitude' => 49.59959,
     'longitude' => 21.76943,
   ),
-  1780 => 
-  array (
-    'id' => 87556,
-    'name' => 'Powiat krośnieński',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.00988,
-    'longitude' => 14.95209,
-  ),
-  1781 => 
+  1673 => 
   array (
     'id' => 87557,
     'name' => 'Powiat kutnowski',
@@ -16039,7 +15067,7 @@ return array (
     'latitude' => 52.2514,
     'longitude' => 19.39706,
   ),
-  1782 => 
+  1674 => 
   array (
     'id' => 87558,
     'name' => 'Powiat kwidzyński',
@@ -16048,7 +15076,7 @@ return array (
     'latitude' => 53.7469,
     'longitude' => 19.03111,
   ),
-  1783 => 
+  1675 => 
   array (
     'id' => 87559,
     'name' => 'Powiat kędzierzyńsko-kozielski',
@@ -16057,7 +15085,7 @@ return array (
     'latitude' => 50.29384,
     'longitude' => 18.16961,
   ),
-  1784 => 
+  1676 => 
   array (
     'id' => 87560,
     'name' => 'Powiat kępiński',
@@ -16066,7 +15094,7 @@ return array (
     'latitude' => 51.24852,
     'longitude' => 17.95934,
   ),
-  1785 => 
+  1677 => 
   array (
     'id' => 87561,
     'name' => 'Powiat kętrzyński',
@@ -16075,7 +15103,7 @@ return array (
     'latitude' => 54.13651,
     'longitude' => 21.31217,
   ),
-  1786 => 
+  1678 => 
   array (
     'id' => 87562,
     'name' => 'Powiat kłobucki',
@@ -16084,7 +15112,7 @@ return array (
     'latitude' => 50.93274,
     'longitude' => 18.87005,
   ),
-  1787 => 
+  1679 => 
   array (
     'id' => 87563,
     'name' => 'Powiat kłodzki',
@@ -16093,7 +15121,7 @@ return array (
     'latitude' => 50.38882,
     'longitude' => 16.61185,
   ),
-  1788 => 
+  1680 => 
   array (
     'id' => 87564,
     'name' => 'Powiat legionowski',
@@ -16102,7 +15130,7 @@ return array (
     'latitude' => 52.45179,
     'longitude' => 20.94356,
   ),
-  1789 => 
+  1681 => 
   array (
     'id' => 87565,
     'name' => 'Powiat legnicki',
@@ -16111,7 +15139,7 @@ return array (
     'latitude' => 51.24113,
     'longitude' => 16.10744,
   ),
-  1790 => 
+  1682 => 
   array (
     'id' => 87566,
     'name' => 'Powiat leski',
@@ -16120,7 +15148,7 @@ return array (
     'latitude' => 49.3197,
     'longitude' => 22.36907,
   ),
-  1791 => 
+  1683 => 
   array (
     'id' => 87567,
     'name' => 'Powiat leszczyński',
@@ -16129,7 +15157,7 @@ return array (
     'latitude' => 51.8501,
     'longitude' => 16.5012,
   ),
-  1792 => 
+  1684 => 
   array (
     'id' => 87568,
     'name' => 'Powiat leżajski',
@@ -16138,7 +15166,7 @@ return array (
     'latitude' => 50.26159,
     'longitude' => 22.43828,
   ),
-  1793 => 
+  1685 => 
   array (
     'id' => 87569,
     'name' => 'Powiat lidzbarski',
@@ -16147,7 +15175,7 @@ return array (
     'latitude' => 54.10581,
     'longitude' => 20.38045,
   ),
-  1794 => 
+  1686 => 
   array (
     'id' => 87570,
     'name' => 'Powiat limanowski',
@@ -16156,7 +15184,7 @@ return array (
     'latitude' => 49.70761,
     'longitude' => 20.42444,
   ),
-  1795 => 
+  1687 => 
   array (
     'id' => 87571,
     'name' => 'Powiat lipnowski',
@@ -16165,7 +15193,7 @@ return array (
     'latitude' => 52.81573,
     'longitude' => 19.21704,
   ),
-  1796 => 
+  1688 => 
   array (
     'id' => 87572,
     'name' => 'Powiat lipski',
@@ -16174,7 +15202,7 @@ return array (
     'latitude' => 51.15879,
     'longitude' => 21.56753,
   ),
-  1797 => 
+  1689 => 
   array (
     'id' => 87573,
     'name' => 'Powiat lubaczowski',
@@ -16183,7 +15211,7 @@ return array (
     'latitude' => 50.19585,
     'longitude' => 23.17328,
   ),
-  1798 => 
+  1690 => 
   array (
     'id' => 87574,
     'name' => 'Powiat lubartowski',
@@ -16192,7 +15220,7 @@ return array (
     'latitude' => 51.53497,
     'longitude' => 22.60585,
   ),
-  1799 => 
+  1691 => 
   array (
     'id' => 87575,
     'name' => 'Powiat lubański',
@@ -16201,7 +15229,7 @@ return array (
     'latitude' => 51.04506,
     'longitude' => 15.27739,
   ),
-  1800 => 
+  1692 => 
   array (
     'id' => 87576,
     'name' => 'Powiat lubelski',
@@ -16210,7 +15238,7 @@ return array (
     'latitude' => 51.13419,
     'longitude' => 22.46654,
   ),
-  1801 => 
+  1693 => 
   array (
     'id' => 87577,
     'name' => 'Powiat lubiński',
@@ -16219,7 +15247,7 @@ return array (
     'latitude' => 51.44172,
     'longitude' => 16.24318,
   ),
-  1802 => 
+  1694 => 
   array (
     'id' => 87578,
     'name' => 'Powiat lubliniecki',
@@ -16228,7 +15256,7 @@ return array (
     'latitude' => 50.67367,
     'longitude' => 18.79378,
   ),
-  1803 => 
+  1695 => 
   array (
     'id' => 87579,
     'name' => 'Powiat lwówecki',
@@ -16237,7 +15265,7 @@ return array (
     'latitude' => 51.01559,
     'longitude' => 15.52144,
   ),
-  1804 => 
+  1696 => 
   array (
     'id' => 87580,
     'name' => 'Powiat lęborski',
@@ -16246,7 +15274,7 @@ return array (
     'latitude' => 54.5683,
     'longitude' => 17.65178,
   ),
-  1805 => 
+  1697 => 
   array (
     'id' => 87581,
     'name' => 'Powiat makowski',
@@ -16255,7 +15283,7 @@ return array (
     'latitude' => 52.9477,
     'longitude' => 21.1795,
   ),
-  1806 => 
+  1698 => 
   array (
     'id' => 87582,
     'name' => 'Powiat malborski',
@@ -16264,7 +15292,7 @@ return array (
     'latitude' => 54.06329,
     'longitude' => 19.04421,
   ),
-  1807 => 
+  1699 => 
   array (
     'id' => 87583,
     'name' => 'Powiat miechowski',
@@ -16273,7 +15301,7 @@ return array (
     'latitude' => 50.35715,
     'longitude' => 20.0329,
   ),
-  1808 => 
+  1700 => 
   array (
     'id' => 87584,
     'name' => 'Powiat mielecki',
@@ -16282,7 +15310,7 @@ return array (
     'latitude' => 50.31387,
     'longitude' => 21.39136,
   ),
-  1809 => 
+  1701 => 
   array (
     'id' => 87585,
     'name' => 'Powiat mikołowski',
@@ -16291,7 +15319,7 @@ return array (
     'latitude' => 50.15133,
     'longitude' => 18.83689,
   ),
-  1810 => 
+  1702 => 
   array (
     'id' => 87586,
     'name' => 'Powiat milicki',
@@ -16300,7 +15328,7 @@ return array (
     'latitude' => 51.50792,
     'longitude' => 17.28292,
   ),
-  1811 => 
+  1703 => 
   array (
     'id' => 87587,
     'name' => 'Powiat międzychodzki',
@@ -16309,7 +15337,7 @@ return array (
     'latitude' => 52.60187,
     'longitude' => 16.05741,
   ),
-  1812 => 
+  1704 => 
   array (
     'id' => 87588,
     'name' => 'Powiat międzyrzecki',
@@ -16318,7 +15346,7 @@ return array (
     'latitude' => 52.49891,
     'longitude' => 15.58284,
   ),
-  1813 => 
+  1705 => 
   array (
     'id' => 87589,
     'name' => 'Powiat miński',
@@ -16327,7 +15355,7 @@ return array (
     'latitude' => 52.18429,
     'longitude' => 21.60893,
   ),
-  1814 => 
+  1706 => 
   array (
     'id' => 87590,
     'name' => 'Powiat mogileński',
@@ -16336,7 +15364,7 @@ return array (
     'latitude' => 52.6616,
     'longitude' => 18.07424,
   ),
-  1815 => 
+  1707 => 
   array (
     'id' => 87591,
     'name' => 'Powiat moniecki',
@@ -16345,7 +15373,7 @@ return array (
     'latitude' => 53.44561,
     'longitude' => 22.78144,
   ),
-  1816 => 
+  1708 => 
   array (
     'id' => 87592,
     'name' => 'Powiat mrągowski',
@@ -16354,7 +15382,7 @@ return array (
     'latitude' => 53.81063,
     'longitude' => 21.39758,
   ),
-  1817 => 
+  1709 => 
   array (
     'id' => 87593,
     'name' => 'Powiat myszkowski',
@@ -16363,7 +15391,7 @@ return array (
     'latitude' => 50.60554,
     'longitude' => 19.35125,
   ),
-  1818 => 
+  1710 => 
   array (
     'id' => 87594,
     'name' => 'Powiat myślenicki',
@@ -16372,7 +15400,7 @@ return array (
     'latitude' => 49.83394,
     'longitude' => 19.94482,
   ),
-  1819 => 
+  1711 => 
   array (
     'id' => 87595,
     'name' => 'Powiat myśliborski',
@@ -16381,7 +15409,7 @@ return array (
     'latitude' => 52.85474,
     'longitude' => 14.88454,
   ),
-  1820 => 
+  1712 => 
   array (
     'id' => 87596,
     'name' => 'Powiat mławski',
@@ -16390,7 +15418,7 @@ return array (
     'latitude' => 53.05496,
     'longitude' => 20.37708,
   ),
-  1821 => 
+  1713 => 
   array (
     'id' => 87597,
     'name' => 'Powiat nakielski',
@@ -16399,7 +15427,7 @@ return array (
     'latitude' => 53.0948,
     'longitude' => 17.58988,
   ),
-  1822 => 
+  1714 => 
   array (
     'id' => 87598,
     'name' => 'Powiat namysłowski',
@@ -16408,7 +15436,7 @@ return array (
     'latitude' => 51.01628,
     'longitude' => 17.76304,
   ),
-  1823 => 
+  1715 => 
   array (
     'id' => 87599,
     'name' => 'Powiat nidzicki',
@@ -16417,7 +15445,7 @@ return array (
     'latitude' => 53.3724,
     'longitude' => 20.49858,
   ),
-  1824 => 
+  1716 => 
   array (
     'id' => 87600,
     'name' => 'Powiat niżański',
@@ -16426,7 +15454,7 @@ return array (
     'latitude' => 50.46411,
     'longitude' => 22.27645,
   ),
-  1825 => 
+  1717 => 
   array (
     'id' => 87601,
     'name' => 'Powiat nowodworski',
@@ -16435,16 +15463,7 @@ return array (
     'latitude' => 52.46585,
     'longitude' => 20.66405,
   ),
-  1826 => 
-  array (
-    'id' => 87602,
-    'name' => 'Powiat nowodworski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 54.2873,
-    'longitude' => 19.24266,
-  ),
-  1827 => 
+  1718 => 
   array (
     'id' => 87603,
     'name' => 'Powiat nowomiejski',
@@ -16453,7 +15472,7 @@ return array (
     'latitude' => 53.43572,
     'longitude' => 19.54662,
   ),
-  1828 => 
+  1719 => 
   array (
     'id' => 87604,
     'name' => 'Powiat nowosolski',
@@ -16462,7 +15481,7 @@ return array (
     'latitude' => 51.84218,
     'longitude' => 15.72698,
   ),
-  1829 => 
+  1720 => 
   array (
     'id' => 87605,
     'name' => 'Powiat nowosądecki',
@@ -16471,7 +15490,7 @@ return array (
     'latitude' => 49.63467,
     'longitude' => 20.69824,
   ),
-  1830 => 
+  1721 => 
   array (
     'id' => 87606,
     'name' => 'Powiat nowotarski',
@@ -16480,7 +15499,7 @@ return array (
     'latitude' => 49.47663,
     'longitude' => 20.04305,
   ),
-  1831 => 
+  1722 => 
   array (
     'id' => 87607,
     'name' => 'Powiat nowotomyski',
@@ -16489,7 +15508,7 @@ return array (
     'latitude' => 52.34837,
     'longitude' => 16.15849,
   ),
-  1832 => 
+  1723 => 
   array (
     'id' => 87608,
     'name' => 'Powiat nyski',
@@ -16498,7 +15517,7 @@ return array (
     'latitude' => 50.46054,
     'longitude' => 17.33546,
   ),
-  1833 => 
+  1724 => 
   array (
     'id' => 87609,
     'name' => 'Powiat obornicki',
@@ -16507,7 +15526,7 @@ return array (
     'latitude' => 52.71705,
     'longitude' => 16.85437,
   ),
-  1834 => 
+  1725 => 
   array (
     'id' => 87610,
     'name' => 'Powiat olecki',
@@ -16516,7 +15535,7 @@ return array (
     'latitude' => 54.05129,
     'longitude' => 22.41695,
   ),
-  1835 => 
+  1726 => 
   array (
     'id' => 87611,
     'name' => 'Powiat oleski',
@@ -16525,7 +15544,7 @@ return array (
     'latitude' => 50.87887,
     'longitude' => 18.46037,
   ),
-  1836 => 
+  1727 => 
   array (
     'id' => 87612,
     'name' => 'Powiat oleśnicki',
@@ -16534,7 +15553,7 @@ return array (
     'latitude' => 51.25458,
     'longitude' => 17.51679,
   ),
-  1837 => 
+  1728 => 
   array (
     'id' => 87613,
     'name' => 'Powiat olkuski',
@@ -16543,7 +15562,7 @@ return array (
     'latitude' => 50.27932,
     'longitude' => 19.55772,
   ),
-  1838 => 
+  1729 => 
   array (
     'id' => 87614,
     'name' => 'Powiat olsztyński',
@@ -16552,7 +15571,7 @@ return array (
     'latitude' => 53.72922,
     'longitude' => 20.56641,
   ),
-  1839 => 
+  1730 => 
   array (
     'id' => 87615,
     'name' => 'Powiat opatowski',
@@ -16561,7 +15580,7 @@ return array (
     'latitude' => 50.79639,
     'longitude' => 21.44531,
   ),
-  1840 => 
+  1731 => 
   array (
     'id' => 87616,
     'name' => 'Powiat opoczyński',
@@ -16570,7 +15589,7 @@ return array (
     'latitude' => 51.39265,
     'longitude' => 20.1943,
   ),
-  1841 => 
+  1732 => 
   array (
     'id' => 87617,
     'name' => 'Powiat opolski',
@@ -16579,16 +15598,7 @@ return array (
     'latitude' => 51.12904,
     'longitude' => 22.00944,
   ),
-  1842 => 
-  array (
-    'id' => 87618,
-    'name' => 'Powiat opolski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.73689,
-    'longitude' => 17.98462,
-  ),
-  1843 => 
+  1733 => 
   array (
     'id' => 87619,
     'name' => 'Powiat ostrowiecki',
@@ -16597,7 +15607,7 @@ return array (
     'latitude' => 50.94232,
     'longitude' => 21.40739,
   ),
-  1844 => 
+  1734 => 
   array (
     'id' => 87620,
     'name' => 'Powiat ostrowski',
@@ -16606,16 +15616,7 @@ return array (
     'latitude' => 52.79495,
     'longitude' => 22.0325,
   ),
-  1845 => 
-  array (
-    'id' => 87621,
-    'name' => 'Powiat ostrowski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.60798,
-    'longitude' => 17.8503,
-  ),
-  1846 => 
+  1735 => 
   array (
     'id' => 87622,
     'name' => 'Powiat ostrołęcki',
@@ -16624,7 +15625,7 @@ return array (
     'latitude' => 53.14001,
     'longitude' => 21.50699,
   ),
-  1847 => 
+  1736 => 
   array (
     'id' => 87623,
     'name' => 'Powiat ostrzeszowski',
@@ -16633,7 +15634,7 @@ return array (
     'latitude' => 51.43768,
     'longitude' => 18.04334,
   ),
-  1848 => 
+  1737 => 
   array (
     'id' => 87624,
     'name' => 'Powiat ostródzki',
@@ -16642,7 +15643,7 @@ return array (
     'latitude' => 53.72906,
     'longitude' => 19.9144,
   ),
-  1849 => 
+  1738 => 
   array (
     'id' => 87625,
     'name' => 'Powiat otwocki',
@@ -16651,7 +15652,7 @@ return array (
     'latitude' => 52.04898,
     'longitude' => 21.37251,
   ),
-  1850 => 
+  1739 => 
   array (
     'id' => 87626,
     'name' => 'Powiat oławski',
@@ -16660,7 +15661,7 @@ return array (
     'latitude' => 50.96062,
     'longitude' => 17.30601,
   ),
-  1851 => 
+  1740 => 
   array (
     'id' => 87627,
     'name' => 'Powiat oświęcimski',
@@ -16669,7 +15670,7 @@ return array (
     'latitude' => 50.03796,
     'longitude' => 19.22771,
   ),
-  1852 => 
+  1741 => 
   array (
     'id' => 87628,
     'name' => 'Powiat pabianicki',
@@ -16678,7 +15679,7 @@ return array (
     'latitude' => 51.67743,
     'longitude' => 19.23782,
   ),
-  1853 => 
+  1742 => 
   array (
     'id' => 87629,
     'name' => 'Powiat pajęczański',
@@ -16687,7 +15688,7 @@ return array (
     'latitude' => 51.14121,
     'longitude' => 19.02749,
   ),
-  1854 => 
+  1743 => 
   array (
     'id' => 87630,
     'name' => 'Powiat parczewski',
@@ -16696,7 +15697,7 @@ return array (
     'latitude' => 51.59982,
     'longitude' => 22.99629,
   ),
-  1855 => 
+  1744 => 
   array (
     'id' => 87631,
     'name' => 'Powiat piaseczyński',
@@ -16705,7 +15706,7 @@ return array (
     'latitude' => 52.01634,
     'longitude' => 20.98319,
   ),
-  1856 => 
+  1745 => 
   array (
     'id' => 87632,
     'name' => 'Powiat pilski',
@@ -16714,7 +15715,7 @@ return array (
     'latitude' => 53.15753,
     'longitude' => 16.91465,
   ),
-  1857 => 
+  1746 => 
   array (
     'id' => 87633,
     'name' => 'Powiat piotrkowski',
@@ -16723,7 +15724,7 @@ return array (
     'latitude' => 51.37816,
     'longitude' => 19.7396,
   ),
-  1858 => 
+  1747 => 
   array (
     'id' => 87634,
     'name' => 'Powiat piski',
@@ -16732,7 +15733,7 @@ return array (
     'latitude' => 53.68076,
     'longitude' => 21.85723,
   ),
-  1859 => 
+  1748 => 
   array (
     'id' => 87635,
     'name' => 'Powiat pińczowski',
@@ -16741,7 +15742,7 @@ return array (
     'latitude' => 50.49968,
     'longitude' => 20.47253,
   ),
-  1860 => 
+  1749 => 
   array (
     'id' => 87636,
     'name' => 'Powiat pleszewski',
@@ -16750,7 +15751,7 @@ return array (
     'latitude' => 51.92526,
     'longitude' => 17.7785,
   ),
-  1861 => 
+  1750 => 
   array (
     'id' => 87637,
     'name' => 'Powiat poddębicki',
@@ -16759,7 +15760,7 @@ return array (
     'latitude' => 51.89837,
     'longitude' => 18.92132,
   ),
-  1862 => 
+  1751 => 
   array (
     'id' => 87638,
     'name' => 'Powiat policki',
@@ -16768,7 +15769,7 @@ return array (
     'latitude' => 53.53114,
     'longitude' => 14.45104,
   ),
-  1863 => 
+  1752 => 
   array (
     'id' => 87639,
     'name' => 'Powiat polkowicki',
@@ -16777,7 +15778,7 @@ return array (
     'latitude' => 51.49982,
     'longitude' => 16.01528,
   ),
-  1864 => 
+  1753 => 
   array (
     'id' => 87640,
     'name' => 'Powiat poznański',
@@ -16786,7 +15787,7 @@ return array (
     'latitude' => 52.32443,
     'longitude' => 16.86539,
   ),
-  1865 => 
+  1754 => 
   array (
     'id' => 87641,
     'name' => 'Powiat proszowicki',
@@ -16795,7 +15796,7 @@ return array (
     'latitude' => 50.19241,
     'longitude' => 20.28413,
   ),
-  1866 => 
+  1755 => 
   array (
     'id' => 87642,
     'name' => 'Powiat prudnicki',
@@ -16804,7 +15805,7 @@ return array (
     'latitude' => 50.40981,
     'longitude' => 17.73995,
   ),
-  1867 => 
+  1756 => 
   array (
     'id' => 87643,
     'name' => 'Powiat pruszkowski',
@@ -16813,7 +15814,7 @@ return array (
     'latitude' => 52.10088,
     'longitude' => 20.80992,
   ),
-  1868 => 
+  1757 => 
   array (
     'id' => 87644,
     'name' => 'Powiat przasnyski',
@@ -16822,7 +15823,7 @@ return array (
     'latitude' => 53.1136,
     'longitude' => 20.9394,
   ),
-  1869 => 
+  1758 => 
   array (
     'id' => 87645,
     'name' => 'Powiat przemyski',
@@ -16831,7 +15832,7 @@ return array (
     'latitude' => 49.7606,
     'longitude' => 22.67372,
   ),
-  1870 => 
+  1759 => 
   array (
     'id' => 87646,
     'name' => 'Powiat przeworski',
@@ -16840,7 +15841,7 @@ return array (
     'latitude' => 50.08913,
     'longitude' => 22.53682,
   ),
-  1871 => 
+  1760 => 
   array (
     'id' => 87647,
     'name' => 'Powiat przysuski',
@@ -16849,7 +15850,7 @@ return array (
     'latitude' => 51.42366,
     'longitude' => 20.65098,
   ),
-  1872 => 
+  1761 => 
   array (
     'id' => 87648,
     'name' => 'Powiat pszczyński',
@@ -16858,7 +15859,7 @@ return array (
     'latitude' => 49.98987,
     'longitude' => 18.88177,
   ),
-  1873 => 
+  1762 => 
   array (
     'id' => 87649,
     'name' => 'Powiat pucki',
@@ -16867,7 +15868,7 @@ return array (
     'latitude' => 54.69659,
     'longitude' => 18.36979,
   ),
-  1874 => 
+  1763 => 
   array (
     'id' => 87650,
     'name' => 'Powiat puławski',
@@ -16876,7 +15877,7 @@ return array (
     'latitude' => 51.41853,
     'longitude' => 22.03752,
   ),
-  1875 => 
+  1764 => 
   array (
     'id' => 87651,
     'name' => 'Powiat pułtuski',
@@ -16885,7 +15886,7 @@ return array (
     'latitude' => 52.67207,
     'longitude' => 21.02401,
   ),
-  1876 => 
+  1765 => 
   array (
     'id' => 87652,
     'name' => 'Powiat pyrzycki',
@@ -16894,7 +15895,7 @@ return array (
     'latitude' => 53.12558,
     'longitude' => 14.94045,
   ),
-  1877 => 
+  1766 => 
   array (
     'id' => 87653,
     'name' => 'Powiat płocki',
@@ -16903,7 +15904,7 @@ return array (
     'latitude' => 52.55465,
     'longitude' => 19.7857,
   ),
-  1878 => 
+  1767 => 
   array (
     'id' => 87654,
     'name' => 'Powiat płoński',
@@ -16912,7 +15913,7 @@ return array (
     'latitude' => 52.63894,
     'longitude' => 20.3471,
   ),
-  1879 => 
+  1768 => 
   array (
     'id' => 87655,
     'name' => 'Powiat raciborski',
@@ -16921,7 +15922,7 @@ return array (
     'latitude' => 50.08696,
     'longitude' => 18.26916,
   ),
-  1880 => 
+  1769 => 
   array (
     'id' => 87656,
     'name' => 'Powiat radomski',
@@ -16930,7 +15931,7 @@ return array (
     'latitude' => 51.33582,
     'longitude' => 21.16193,
   ),
-  1881 => 
+  1770 => 
   array (
     'id' => 87657,
     'name' => 'Powiat radomszczański',
@@ -16939,7 +15940,7 @@ return array (
     'latitude' => 51.06463,
     'longitude' => 19.63038,
   ),
-  1882 => 
+  1771 => 
   array (
     'id' => 87658,
     'name' => 'Powiat radziejowski',
@@ -16948,7 +15949,7 @@ return array (
     'latitude' => 52.62358,
     'longitude' => 18.52964,
   ),
-  1883 => 
+  1772 => 
   array (
     'id' => 87659,
     'name' => 'Powiat radzyński',
@@ -16957,7 +15958,7 @@ return array (
     'latitude' => 51.78255,
     'longitude' => 22.70758,
   ),
-  1884 => 
+  1773 => 
   array (
     'id' => 87660,
     'name' => 'Powiat rawicki',
@@ -16966,7 +15967,7 @@ return array (
     'latitude' => 51.64507,
     'longitude' => 16.94944,
   ),
-  1885 => 
+  1774 => 
   array (
     'id' => 87661,
     'name' => 'Powiat rawski',
@@ -16975,7 +15976,7 @@ return array (
     'latitude' => 51.76228,
     'longitude' => 20.3853,
   ),
-  1886 => 
+  1775 => 
   array (
     'id' => 87662,
     'name' => 'Powiat ropczycko-sędziszowski',
@@ -16984,7 +15985,7 @@ return array (
     'latitude' => 50.04815,
     'longitude' => 21.64385,
   ),
-  1887 => 
+  1776 => 
   array (
     'id' => 87663,
     'name' => 'Powiat rybnicki',
@@ -16993,7 +15994,7 @@ return array (
     'latitude' => 50.10385,
     'longitude' => 18.46527,
   ),
-  1888 => 
+  1777 => 
   array (
     'id' => 87664,
     'name' => 'Powiat rycki',
@@ -17002,7 +16003,7 @@ return array (
     'latitude' => 51.66219,
     'longitude' => 21.92929,
   ),
-  1889 => 
+  1778 => 
   array (
     'id' => 87665,
     'name' => 'Powiat rypiński',
@@ -17011,7 +16012,7 @@ return array (
     'latitude' => 53.06613,
     'longitude' => 19.40975,
   ),
-  1890 => 
+  1779 => 
   array (
     'id' => 87666,
     'name' => 'Powiat rzeszowski',
@@ -17020,7 +16021,7 @@ return array (
     'latitude' => 50.09944,
     'longitude' => 21.95892,
   ),
-  1891 => 
+  1780 => 
   array (
     'id' => 87667,
     'name' => 'Powiat sandomierski',
@@ -17029,7 +16030,7 @@ return array (
     'latitude' => 50.69508,
     'longitude' => 21.609,
   ),
-  1892 => 
+  1781 => 
   array (
     'id' => 87668,
     'name' => 'Powiat sanocki',
@@ -17038,7 +16039,7 @@ return array (
     'latitude' => 49.43001,
     'longitude' => 22.13619,
   ),
-  1893 => 
+  1782 => 
   array (
     'id' => 87669,
     'name' => 'Powiat sejneński',
@@ -17047,7 +16048,7 @@ return array (
     'latitude' => 54.09561,
     'longitude' => 23.30425,
   ),
-  1894 => 
+  1783 => 
   array (
     'id' => 87670,
     'name' => 'Powiat siedlecki',
@@ -17056,7 +16057,7 @@ return array (
     'latitude' => 52.19186,
     'longitude' => 22.30406,
   ),
-  1895 => 
+  1784 => 
   array (
     'id' => 87671,
     'name' => 'Powiat siemiatycki',
@@ -17065,7 +16066,7 @@ return array (
     'latitude' => 52.48842,
     'longitude' => 22.88642,
   ),
-  1896 => 
+  1785 => 
   array (
     'id' => 87672,
     'name' => 'Powiat sieradzki',
@@ -17074,7 +16075,7 @@ return array (
     'latitude' => 51.60297,
     'longitude' => 18.60309,
   ),
-  1897 => 
+  1786 => 
   array (
     'id' => 87673,
     'name' => 'Powiat sierpecki',
@@ -17083,7 +16084,7 @@ return array (
     'latitude' => 52.83353,
     'longitude' => 19.71216,
   ),
-  1898 => 
+  1787 => 
   array (
     'id' => 87674,
     'name' => 'Powiat skarżyski',
@@ -17092,7 +16093,7 @@ return array (
     'latitude' => 51.06496,
     'longitude' => 20.79228,
   ),
-  1899 => 
+  1788 => 
   array (
     'id' => 87675,
     'name' => 'Powiat skierniewicki',
@@ -17101,7 +16102,7 @@ return array (
     'latitude' => 51.94493,
     'longitude' => 20.19367,
   ),
-  1900 => 
+  1789 => 
   array (
     'id' => 87676,
     'name' => 'Powiat sochaczewski',
@@ -17110,7 +16111,7 @@ return array (
     'latitude' => 52.26689,
     'longitude' => 20.21338,
   ),
-  1901 => 
+  1790 => 
   array (
     'id' => 87677,
     'name' => 'Powiat sokołowski',
@@ -17119,7 +16120,7 @@ return array (
     'latitude' => 52.49538,
     'longitude' => 22.26897,
   ),
-  1902 => 
+  1791 => 
   array (
     'id' => 87678,
     'name' => 'Powiat sokólski',
@@ -17128,7 +16129,7 @@ return array (
     'latitude' => 53.43511,
     'longitude' => 23.41864,
   ),
-  1903 => 
+  1792 => 
   array (
     'id' => 87679,
     'name' => 'Powiat stalowowolski',
@@ -17137,7 +16138,7 @@ return array (
     'latitude' => 50.59103,
     'longitude' => 22.05203,
   ),
-  1904 => 
+  1793 => 
   array (
     'id' => 87680,
     'name' => 'Powiat starachowicki',
@@ -17146,7 +16147,7 @@ return array (
     'latitude' => 51.05365,
     'longitude' => 21.14295,
   ),
-  1905 => 
+  1794 => 
   array (
     'id' => 87681,
     'name' => 'Powiat stargardzki',
@@ -17155,7 +16156,7 @@ return array (
     'latitude' => 53.3152,
     'longitude' => 15.22684,
   ),
-  1906 => 
+  1795 => 
   array (
     'id' => 87682,
     'name' => 'Powiat starogardzki',
@@ -17164,7 +16165,7 @@ return array (
     'latitude' => 53.89912,
     'longitude' => 18.39912,
   ),
-  1907 => 
+  1796 => 
   array (
     'id' => 87683,
     'name' => 'Powiat staszowski',
@@ -17173,7 +16174,7 @@ return array (
     'latitude' => 50.51737,
     'longitude' => 21.19594,
   ),
-  1908 => 
+  1797 => 
   array (
     'id' => 87684,
     'name' => 'Powiat strzelecki',
@@ -17182,7 +16183,7 @@ return array (
     'latitude' => 50.53057,
     'longitude' => 18.34597,
   ),
-  1909 => 
+  1798 => 
   array (
     'id' => 87685,
     'name' => 'Powiat strzelecko-drezdenecki',
@@ -17191,7 +16192,7 @@ return array (
     'latitude' => 52.9122,
     'longitude' => 15.64061,
   ),
-  1910 => 
+  1799 => 
   array (
     'id' => 87686,
     'name' => 'Powiat strzeliński',
@@ -17200,7 +16201,7 @@ return array (
     'latitude' => 50.76688,
     'longitude' => 17.10629,
   ),
-  1911 => 
+  1800 => 
   array (
     'id' => 87687,
     'name' => 'Powiat strzyżowski',
@@ -17209,7 +16210,7 @@ return array (
     'latitude' => 49.87698,
     'longitude' => 21.74949,
   ),
-  1912 => 
+  1801 => 
   array (
     'id' => 87688,
     'name' => 'Powiat sulęciński',
@@ -17218,7 +16219,7 @@ return array (
     'latitude' => 52.4285,
     'longitude' => 15.04896,
   ),
-  1913 => 
+  1802 => 
   array (
     'id' => 87689,
     'name' => 'Powiat suski',
@@ -17227,7 +16228,7 @@ return array (
     'latitude' => 49.74462,
     'longitude' => 19.59103,
   ),
-  1914 => 
+  1803 => 
   array (
     'id' => 87690,
     'name' => 'Powiat suwalski',
@@ -17236,7 +16237,7 @@ return array (
     'latitude' => 54.16655,
     'longitude' => 22.81818,
   ),
-  1915 => 
+  1804 => 
   array (
     'id' => 87691,
     'name' => 'Powiat szamotulski',
@@ -17245,7 +16246,7 @@ return array (
     'latitude' => 52.58391,
     'longitude' => 16.37726,
   ),
-  1916 => 
+  1805 => 
   array (
     'id' => 87692,
     'name' => 'Powiat szczecinecki',
@@ -17254,7 +16255,7 @@ return array (
     'latitude' => 53.73766,
     'longitude' => 16.58957,
   ),
-  1917 => 
+  1806 => 
   array (
     'id' => 87693,
     'name' => 'Powiat szczycieński',
@@ -17263,7 +16264,7 @@ return array (
     'latitude' => 53.54176,
     'longitude' => 21.07034,
   ),
-  1918 => 
+  1807 => 
   array (
     'id' => 87694,
     'name' => 'Powiat sztumski',
@@ -17272,7 +16273,7 @@ return array (
     'latitude' => 53.90149,
     'longitude' => 19.22,
   ),
-  1919 => 
+  1808 => 
   array (
     'id' => 87695,
     'name' => 'Powiat szydłowiecki',
@@ -17281,7 +16282,7 @@ return array (
     'latitude' => 51.256,
     'longitude' => 20.84256,
   ),
-  1920 => 
+  1809 => 
   array (
     'id' => 87696,
     'name' => 'Powiat sępoleński',
@@ -17290,7 +16291,7 @@ return array (
     'latitude' => 53.44263,
     'longitude' => 17.50895,
   ),
-  1921 => 
+  1810 => 
   array (
     'id' => 87697,
     'name' => 'Powiat sławieński',
@@ -17299,7 +16300,7 @@ return array (
     'latitude' => 54.3791,
     'longitude' => 16.53986,
   ),
-  1922 => 
+  1811 => 
   array (
     'id' => 87698,
     'name' => 'Powiat słubicki',
@@ -17308,7 +16309,7 @@ return array (
     'latitude' => 52.32267,
     'longitude' => 14.78921,
   ),
-  1923 => 
+  1812 => 
   array (
     'id' => 87699,
     'name' => 'Powiat słupecki',
@@ -17317,7 +16318,7 @@ return array (
     'latitude' => 52.31422,
     'longitude' => 17.90822,
   ),
-  1924 => 
+  1813 => 
   array (
     'id' => 87700,
     'name' => 'Powiat słupski',
@@ -17326,7 +16327,7 @@ return array (
     'latitude' => 54.42211,
     'longitude' => 17.15917,
   ),
-  1925 => 
+  1814 => 
   array (
     'id' => 87701,
     'name' => 'Powiat tarnobrzeski',
@@ -17335,7 +16336,7 @@ return array (
     'latitude' => 50.52303,
     'longitude' => 21.71585,
   ),
-  1926 => 
+  1815 => 
   array (
     'id' => 87702,
     'name' => 'Powiat tarnogórski',
@@ -17344,7 +16345,7 @@ return array (
     'latitude' => 50.47264,
     'longitude' => 18.86265,
   ),
-  1927 => 
+  1816 => 
   array (
     'id' => 87703,
     'name' => 'Powiat tarnowski',
@@ -17353,7 +16354,7 @@ return array (
     'latitude' => 50.05449,
     'longitude' => 20.90527,
   ),
-  1928 => 
+  1817 => 
   array (
     'id' => 87704,
     'name' => 'Powiat tatrzański',
@@ -17362,7 +16363,7 @@ return array (
     'latitude' => 49.3042,
     'longitude' => 19.948,
   ),
-  1929 => 
+  1818 => 
   array (
     'id' => 87705,
     'name' => 'Powiat tczewski',
@@ -17371,7 +16372,7 @@ return array (
     'latitude' => 53.91895,
     'longitude' => 18.71916,
   ),
-  1930 => 
+  1819 => 
   array (
     'id' => 87706,
     'name' => 'Powiat tomaszowski',
@@ -17380,16 +16381,7 @@ return array (
     'latitude' => 50.47825,
     'longitude' => 23.52083,
   ),
-  1931 => 
-  array (
-    'id' => 87707,
-    'name' => 'Powiat tomaszowski',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.59667,
-    'longitude' => 20.06638,
-  ),
-  1932 => 
+  1820 => 
   array (
     'id' => 87708,
     'name' => 'Powiat toruński',
@@ -17398,7 +16390,7 @@ return array (
     'latitude' => 52.98255,
     'longitude' => 18.83331,
   ),
-  1933 => 
+  1821 => 
   array (
     'id' => 87709,
     'name' => 'Powiat trzebnicki',
@@ -17407,7 +16399,7 @@ return array (
     'latitude' => 51.37195,
     'longitude' => 17.04989,
   ),
-  1934 => 
+  1822 => 
   array (
     'id' => 87710,
     'name' => 'Powiat tucholski',
@@ -17416,7 +16408,7 @@ return array (
     'latitude' => 53.58146,
     'longitude' => 17.93967,
   ),
-  1935 => 
+  1823 => 
   array (
     'id' => 87711,
     'name' => 'Powiat turecki',
@@ -17425,7 +16417,7 @@ return array (
     'latitude' => 51.99581,
     'longitude' => 18.49301,
   ),
-  1936 => 
+  1824 => 
   array (
     'id' => 87712,
     'name' => 'Powiat wadowicki',
@@ -17434,7 +16426,7 @@ return array (
     'latitude' => 49.89032,
     'longitude' => 19.48374,
   ),
-  1937 => 
+  1825 => 
   array (
     'id' => 87713,
     'name' => 'Powiat warszawski zachodni',
@@ -17443,7 +16435,7 @@ return array (
     'latitude' => 52.26838,
     'longitude' => 20.61913,
   ),
-  1938 => 
+  1826 => 
   array (
     'id' => 87714,
     'name' => 'Powiat wałbrzyski',
@@ -17452,7 +16444,7 @@ return array (
     'latitude' => 50.7534,
     'longitude' => 16.19865,
   ),
-  1939 => 
+  1827 => 
   array (
     'id' => 87715,
     'name' => 'Powiat wałecki',
@@ -17461,7 +16453,7 @@ return array (
     'latitude' => 53.23633,
     'longitude' => 16.33851,
   ),
-  1940 => 
+  1828 => 
   array (
     'id' => 87716,
     'name' => 'Powiat wejherowski',
@@ -17470,7 +16462,7 @@ return array (
     'latitude' => 54.61707,
     'longitude' => 18.04881,
   ),
-  1941 => 
+  1829 => 
   array (
     'id' => 87717,
     'name' => 'Powiat wielicki',
@@ -17479,7 +16471,7 @@ return array (
     'latitude' => 49.9857,
     'longitude' => 20.05494,
   ),
-  1942 => 
+  1830 => 
   array (
     'id' => 87718,
     'name' => 'Powiat wieluński',
@@ -17488,7 +16480,7 @@ return array (
     'latitude' => 51.23261,
     'longitude' => 18.63033,
   ),
-  1943 => 
+  1831 => 
   array (
     'id' => 87719,
     'name' => 'Powiat wieruszowski',
@@ -17497,7 +16489,7 @@ return array (
     'latitude' => 51.29415,
     'longitude' => 18.31854,
   ),
-  1944 => 
+  1832 => 
   array (
     'id' => 87720,
     'name' => 'Powiat wodzisławski',
@@ -17506,7 +16498,7 @@ return array (
     'latitude' => 49.99323,
     'longitude' => 18.42504,
   ),
-  1945 => 
+  1833 => 
   array (
     'id' => 87721,
     'name' => 'Powiat wolsztyński',
@@ -17515,7 +16507,7 @@ return array (
     'latitude' => 52.08791,
     'longitude' => 16.14983,
   ),
-  1946 => 
+  1834 => 
   array (
     'id' => 87722,
     'name' => 'Powiat wołomiński',
@@ -17524,7 +16516,7 @@ return array (
     'latitude' => 52.40616,
     'longitude' => 21.40121,
   ),
-  1947 => 
+  1835 => 
   array (
     'id' => 87723,
     'name' => 'Powiat wołowski',
@@ -17533,7 +16525,7 @@ return array (
     'latitude' => 51.37202,
     'longitude' => 16.61399,
   ),
-  1948 => 
+  1836 => 
   array (
     'id' => 87724,
     'name' => 'Powiat wrocławski',
@@ -17542,7 +16534,7 @@ return array (
     'latitude' => 51.04278,
     'longitude' => 16.97115,
   ),
-  1949 => 
+  1837 => 
   array (
     'id' => 87725,
     'name' => 'Powiat wrzesiński',
@@ -17551,7 +16543,7 @@ return array (
     'latitude' => 52.24091,
     'longitude' => 17.59019,
   ),
-  1950 => 
+  1838 => 
   array (
     'id' => 87726,
     'name' => 'Powiat wschowski',
@@ -17560,7 +16552,7 @@ return array (
     'latitude' => 51.83019,
     'longitude' => 16.12096,
   ),
-  1951 => 
+  1839 => 
   array (
     'id' => 87727,
     'name' => 'Powiat wysokomazowiecki',
@@ -17569,7 +16561,7 @@ return array (
     'latitude' => 52.86458,
     'longitude' => 22.55541,
   ),
-  1952 => 
+  1840 => 
   array (
     'id' => 87728,
     'name' => 'Powiat wyszkowski',
@@ -17578,7 +16570,7 @@ return array (
     'latitude' => 52.65137,
     'longitude' => 21.44537,
   ),
-  1953 => 
+  1841 => 
   array (
     'id' => 87729,
     'name' => 'Powiat wąbrzeski',
@@ -17587,7 +16579,7 @@ return array (
     'latitude' => 53.28267,
     'longitude' => 18.92649,
   ),
-  1954 => 
+  1842 => 
   array (
     'id' => 87730,
     'name' => 'Powiat wągrowiecki',
@@ -17596,7 +16588,7 @@ return array (
     'latitude' => 52.80805,
     'longitude' => 17.21077,
   ),
-  1955 => 
+  1843 => 
   array (
     'id' => 87731,
     'name' => 'Powiat węgorzewski',
@@ -17605,7 +16597,7 @@ return array (
     'latitude' => 54.20728,
     'longitude' => 21.77861,
   ),
-  1956 => 
+  1844 => 
   array (
     'id' => 87732,
     'name' => 'Powiat węgrowski',
@@ -17614,7 +16606,7 @@ return array (
     'latitude' => 52.45628,
     'longitude' => 21.87342,
   ),
-  1957 => 
+  1845 => 
   array (
     'id' => 87733,
     'name' => 'Powiat włocławski',
@@ -17623,7 +16615,7 @@ return array (
     'latitude' => 52.55662,
     'longitude' => 19.05157,
   ),
-  1958 => 
+  1846 => 
   array (
     'id' => 87734,
     'name' => 'Powiat włodawski',
@@ -17632,7 +16624,7 @@ return array (
     'latitude' => 51.52267,
     'longitude' => 23.38279,
   ),
-  1959 => 
+  1847 => 
   array (
     'id' => 87735,
     'name' => 'Powiat włoszczowski',
@@ -17641,7 +16633,7 @@ return array (
     'latitude' => 50.83205,
     'longitude' => 19.97696,
   ),
-  1960 => 
+  1848 => 
   array (
     'id' => 87736,
     'name' => 'Powiat zambrowski',
@@ -17650,7 +16642,7 @@ return array (
     'latitude' => 53.02256,
     'longitude' => 22.28505,
   ),
-  1961 => 
+  1849 => 
   array (
     'id' => 87737,
     'name' => 'Powiat zamojski',
@@ -17659,7 +16651,7 @@ return array (
     'latitude' => 50.6916,
     'longitude' => 23.21261,
   ),
-  1962 => 
+  1850 => 
   array (
     'id' => 87738,
     'name' => 'Powiat zawierciański',
@@ -17668,7 +16660,7 @@ return array (
     'latitude' => 50.54225,
     'longitude' => 19.61192,
   ),
-  1963 => 
+  1851 => 
   array (
     'id' => 87739,
     'name' => 'Powiat zduńskowolski',
@@ -17677,7 +16669,7 @@ return array (
     'latitude' => 51.6204,
     'longitude' => 18.95085,
   ),
-  1964 => 
+  1852 => 
   array (
     'id' => 87740,
     'name' => 'Powiat zgierski',
@@ -17686,7 +16678,7 @@ return array (
     'latitude' => 51.9041,
     'longitude' => 19.48024,
   ),
-  1965 => 
+  1853 => 
   array (
     'id' => 87741,
     'name' => 'Powiat zgorzelecki',
@@ -17695,7 +16687,7 @@ return array (
     'latitude' => 51.16297,
     'longitude' => 15.07863,
   ),
-  1966 => 
+  1854 => 
   array (
     'id' => 87742,
     'name' => 'Powiat zielonogórski',
@@ -17704,7 +16696,7 @@ return array (
     'latitude' => 51.93326,
     'longitude' => 15.44403,
   ),
-  1967 => 
+  1855 => 
   array (
     'id' => 87743,
     'name' => 'Powiat zwoleński',
@@ -17713,7 +16705,7 @@ return array (
     'latitude' => 51.36079,
     'longitude' => 21.59279,
   ),
-  1968 => 
+  1856 => 
   array (
     'id' => 87744,
     'name' => 'Powiat ząbkowicki',
@@ -17722,7 +16714,7 @@ return array (
     'latitude' => 50.55669,
     'longitude' => 16.87221,
   ),
-  1969 => 
+  1857 => 
   array (
     'id' => 87745,
     'name' => 'Powiat złotoryjski',
@@ -17731,7 +16723,7 @@ return array (
     'latitude' => 51.09129,
     'longitude' => 15.87948,
   ),
-  1970 => 
+  1858 => 
   array (
     'id' => 87746,
     'name' => 'Powiat złotowski',
@@ -17740,7 +16732,7 @@ return array (
     'latitude' => 53.41261,
     'longitude' => 16.91516,
   ),
-  1971 => 
+  1859 => 
   array (
     'id' => 87747,
     'name' => 'Powiat łaski',
@@ -17749,7 +16741,7 @@ return array (
     'latitude' => 51.55884,
     'longitude' => 19.03824,
   ),
-  1972 => 
+  1860 => 
   array (
     'id' => 87748,
     'name' => 'Powiat łańcucki',
@@ -17758,7 +16750,7 @@ return array (
     'latitude' => 50.08659,
     'longitude' => 22.26892,
   ),
-  1973 => 
+  1861 => 
   array (
     'id' => 87749,
     'name' => 'Powiat łobeski',
@@ -17767,7 +16759,7 @@ return array (
     'latitude' => 53.67294,
     'longitude' => 15.47237,
   ),
-  1974 => 
+  1862 => 
   array (
     'id' => 87750,
     'name' => 'Powiat łomżyński',
@@ -17776,7 +16768,7 @@ return array (
     'latitude' => 53.20686,
     'longitude' => 22.08252,
   ),
-  1975 => 
+  1863 => 
   array (
     'id' => 87751,
     'name' => 'Powiat łosicki',
@@ -17785,7 +16777,7 @@ return array (
     'latitude' => 52.22363,
     'longitude' => 22.8451,
   ),
-  1976 => 
+  1864 => 
   array (
     'id' => 87752,
     'name' => 'Powiat łukowski',
@@ -17794,7 +16786,7 @@ return array (
     'latitude' => 51.85365,
     'longitude' => 22.24035,
   ),
-  1977 => 
+  1865 => 
   array (
     'id' => 87753,
     'name' => 'Powiat łódzki wschodni',
@@ -17803,7 +16795,7 @@ return array (
     'latitude' => 51.68616,
     'longitude' => 19.70098,
   ),
-  1978 => 
+  1866 => 
   array (
     'id' => 87754,
     'name' => 'Powiat łęczycki',
@@ -17812,7 +16804,7 @@ return array (
     'latitude' => 52.10611,
     'longitude' => 19.19498,
   ),
-  1979 => 
+  1867 => 
   array (
     'id' => 87755,
     'name' => 'Powiat łęczyński',
@@ -17821,7 +16813,7 @@ return array (
     'latitude' => 51.30429,
     'longitude' => 22.96701,
   ),
-  1980 => 
+  1868 => 
   array (
     'id' => 87756,
     'name' => 'Powiat średzki',
@@ -17830,16 +16822,7 @@ return array (
     'latitude' => 51.12628,
     'longitude' => 16.61904,
   ),
-  1981 => 
-  array (
-    'id' => 87757,
-    'name' => 'Powiat średzki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.1801,
-    'longitude' => 17.30686,
-  ),
-  1982 => 
+  1869 => 
   array (
     'id' => 87758,
     'name' => 'Powiat śremski',
@@ -17848,7 +16831,7 @@ return array (
     'latitude' => 52.06149,
     'longitude' => 17.05853,
   ),
-  1983 => 
+  1870 => 
   array (
     'id' => 87759,
     'name' => 'Powiat świdnicki',
@@ -17857,16 +16840,7 @@ return array (
     'latitude' => 50.87051,
     'longitude' => 16.43043,
   ),
-  1984 => 
-  array (
-    'id' => 87760,
-    'name' => 'Powiat świdnicki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.1247,
-    'longitude' => 22.85397,
-  ),
-  1985 => 
+  1871 => 
   array (
     'id' => 87761,
     'name' => 'Powiat świdwiński',
@@ -17875,7 +16849,7 @@ return array (
     'latitude' => 53.80758,
     'longitude' => 15.89859,
   ),
-  1986 => 
+  1872 => 
   array (
     'id' => 87762,
     'name' => 'Powiat świebodziński',
@@ -17884,7 +16858,7 @@ return array (
     'latitude' => 52.23799,
     'longitude' => 15.48522,
   ),
-  1987 => 
+  1873 => 
   array (
     'id' => 87763,
     'name' => 'Powiat świecki',
@@ -17893,7 +16867,7 @@ return array (
     'latitude' => 53.48128,
     'longitude' => 18.41163,
   ),
-  1988 => 
+  1874 => 
   array (
     'id' => 87764,
     'name' => 'Powiat żagański',
@@ -17902,7 +16876,7 @@ return array (
     'latitude' => 51.59471,
     'longitude' => 15.42253,
   ),
-  1989 => 
+  1875 => 
   array (
     'id' => 87765,
     'name' => 'Powiat żarski',
@@ -17911,7 +16885,7 @@ return array (
     'latitude' => 51.62858,
     'longitude' => 14.9617,
   ),
-  1990 => 
+  1876 => 
   array (
     'id' => 87766,
     'name' => 'Powiat żniński',
@@ -17920,7 +16894,7 @@ return array (
     'latitude' => 52.82255,
     'longitude' => 17.73743,
   ),
-  1991 => 
+  1877 => 
   array (
     'id' => 87767,
     'name' => 'Powiat żuromiński',
@@ -17929,7 +16903,7 @@ return array (
     'latitude' => 53.01658,
     'longitude' => 19.89102,
   ),
-  1992 => 
+  1878 => 
   array (
     'id' => 87768,
     'name' => 'Powiat żyrardowski',
@@ -17938,7 +16912,7 @@ return array (
     'latitude' => 52.00028,
     'longitude' => 20.43275,
   ),
-  1993 => 
+  1879 => 
   array (
     'id' => 87769,
     'name' => 'Powiat żywiecki',
@@ -17947,7 +16921,7 @@ return array (
     'latitude' => 49.61145,
     'longitude' => 19.21367,
   ),
-  1994 => 
+  1880 => 
   array (
     'id' => 87770,
     'name' => 'Powidz',
@@ -17956,7 +16930,7 @@ return array (
     'latitude' => 52.41362,
     'longitude' => 17.91926,
   ),
-  1995 => 
+  1881 => 
   array (
     'id' => 87771,
     'name' => 'Powstańców Śląskich Wschód',
@@ -17965,7 +16939,7 @@ return array (
     'latitude' => 51.09164,
     'longitude' => 17.0247,
   ),
-  1996 => 
+  1882 => 
   array (
     'id' => 87772,
     'name' => 'Powstańców Śląskich Zachód-Centrum Południow',
@@ -17974,7 +16948,7 @@ return array (
     'latitude' => 51.09607,
     'longitude' => 17.0177,
   ),
-  1997 => 
+  1883 => 
   array (
     'id' => 87773,
     'name' => 'Pozezdrze',
@@ -17983,7 +16957,7 @@ return array (
     'latitude' => 54.14147,
     'longitude' => 21.8597,
   ),
-  1998 => 
+  1884 => 
   array (
     'id' => 87774,
     'name' => 'Poznań',
@@ -17992,7 +16966,7 @@ return array (
     'latitude' => 52.40692,
     'longitude' => 16.92993,
   ),
-  1999 => 
+  1885 => 
   array (
     'id' => 87775,
     'name' => 'Połajewo',
@@ -18001,7 +16975,7 @@ return array (
     'latitude' => 52.79923,
     'longitude' => 16.73347,
   ),
-  2000 => 
+  1886 => 
   array (
     'id' => 87776,
     'name' => 'Połaniec',
@@ -18010,7 +16984,7 @@ return array (
     'latitude' => 50.43324,
     'longitude' => 21.2812,
   ),
-  2001 => 
+  1887 => 
   array (
     'id' => 87777,
     'name' => 'Połczyn-Zdrój',
@@ -18019,7 +16993,7 @@ return array (
     'latitude' => 53.76424,
     'longitude' => 16.09574,
   ),
-  2002 => 
+  1888 => 
   array (
     'id' => 87778,
     'name' => 'Połomia',
@@ -18028,16 +17002,7 @@ return array (
     'latitude' => 49.90475,
     'longitude' => 21.89198,
   ),
-  2003 => 
-  array (
-    'id' => 87779,
-    'name' => 'Połomia',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.99185,
-    'longitude' => 18.55102,
-  ),
-  2004 => 
+  1889 => 
   array (
     'id' => 87780,
     'name' => 'Poświętne',
@@ -18046,25 +17011,7 @@ return array (
     'latitude' => 52.32967,
     'longitude' => 21.42137,
   ),
-  2005 => 
-  array (
-    'id' => 87781,
-    'name' => 'Poświętne',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.53203,
-    'longitude' => 20.36453,
-  ),
-  2006 => 
-  array (
-    'id' => 87782,
-    'name' => 'Poświętne',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.15702,
-    'longitude' => 17.02904,
-  ),
-  2007 => 
+  1890 => 
   array (
     'id' => 87783,
     'name' => 'Prabuty',
@@ -18073,7 +17020,7 @@ return array (
     'latitude' => 53.755,
     'longitude' => 19.20547,
   ),
-  2008 => 
+  1891 => 
   array (
     'id' => 87784,
     'name' => 'Pracze Odrzańskie-Janówek',
@@ -18082,7 +17029,7 @@ return array (
     'latitude' => 51.1878,
     'longitude' => 16.90824,
   ),
-  2009 => 
+  1892 => 
   array (
     'id' => 87785,
     'name' => 'Praga Południe',
@@ -18091,7 +17038,7 @@ return array (
     'latitude' => 52.24424,
     'longitude' => 21.08545,
   ),
-  2010 => 
+  1893 => 
   array (
     'id' => 87786,
     'name' => 'Praga Północ',
@@ -18100,7 +17047,7 @@ return array (
     'latitude' => 52.25443,
     'longitude' => 21.03472,
   ),
-  2011 => 
+  1894 => 
   array (
     'id' => 87787,
     'name' => 'Praszka',
@@ -18109,7 +17056,7 @@ return array (
     'latitude' => 51.05375,
     'longitude' => 18.45317,
   ),
-  2012 => 
+  1895 => 
   array (
     'id' => 87788,
     'name' => 'Prażmów',
@@ -18118,7 +17065,7 @@ return array (
     'latitude' => 51.9404,
     'longitude' => 20.95479,
   ),
-  2013 => 
+  1896 => 
   array (
     'id' => 87789,
     'name' => 'Prochowice',
@@ -18127,7 +17074,7 @@ return array (
     'latitude' => 51.27307,
     'longitude' => 16.36532,
   ),
-  2014 => 
+  1897 => 
   array (
     'id' => 87790,
     'name' => 'Promna',
@@ -18136,7 +17083,7 @@ return array (
     'latitude' => 51.68006,
     'longitude' => 20.95917,
   ),
-  2015 => 
+  1898 => 
   array (
     'id' => 87791,
     'name' => 'Prostki',
@@ -18145,7 +17092,7 @@ return array (
     'latitude' => 53.69901,
     'longitude' => 22.43183,
   ),
-  2016 => 
+  1899 => 
   array (
     'id' => 87792,
     'name' => 'Proszowice',
@@ -18154,7 +17101,7 @@ return array (
     'latitude' => 50.19275,
     'longitude' => 20.28909,
   ),
-  2017 => 
+  1900 => 
   array (
     'id' => 87793,
     'name' => 'Pruchna',
@@ -18163,7 +17110,7 @@ return array (
     'latitude' => 49.86527,
     'longitude' => 18.68191,
   ),
-  2018 => 
+  1901 => 
   array (
     'id' => 87794,
     'name' => 'Pruchnik',
@@ -18172,7 +17119,7 @@ return array (
     'latitude' => 49.9062,
     'longitude' => 22.51554,
   ),
-  2019 => 
+  1902 => 
   array (
     'id' => 87795,
     'name' => 'Prudnik',
@@ -18181,7 +17128,7 @@ return array (
     'latitude' => 50.32124,
     'longitude' => 17.57461,
   ),
-  2020 => 
+  1903 => 
   array (
     'id' => 87796,
     'name' => 'Prusice',
@@ -18190,7 +17137,7 @@ return array (
     'latitude' => 51.37116,
     'longitude' => 16.96025,
   ),
-  2021 => 
+  1904 => 
   array (
     'id' => 87797,
     'name' => 'Pruszcz',
@@ -18199,7 +17146,7 @@ return array (
     'latitude' => 53.33021,
     'longitude' => 18.19894,
   ),
-  2022 => 
+  1905 => 
   array (
     'id' => 87798,
     'name' => 'Pruszcz Gdański',
@@ -18208,7 +17155,7 @@ return array (
     'latitude' => 54.26217,
     'longitude' => 18.63625,
   ),
-  2023 => 
+  1906 => 
   array (
     'id' => 87799,
     'name' => 'Pruszków',
@@ -18217,7 +17164,7 @@ return array (
     'latitude' => 52.17072,
     'longitude' => 20.81214,
   ),
-  2024 => 
+  1907 => 
   array (
     'id' => 87800,
     'name' => 'Przasnysz',
@@ -18226,7 +17173,7 @@ return array (
     'latitude' => 53.01907,
     'longitude' => 20.88029,
   ),
-  2025 => 
+  1908 => 
   array (
     'id' => 87801,
     'name' => 'Przechlewo',
@@ -18235,7 +17182,7 @@ return array (
     'latitude' => 53.79847,
     'longitude' => 17.25205,
   ),
-  2026 => 
+  1909 => 
   array (
     'id' => 87802,
     'name' => 'Przecieszyn',
@@ -18244,7 +17191,7 @@ return array (
     'latitude' => 49.97838,
     'longitude' => 19.17046,
   ),
-  2027 => 
+  1910 => 
   array (
     'id' => 87803,
     'name' => 'Przeciszów',
@@ -18253,7 +17200,7 @@ return array (
     'latitude' => 50.00647,
     'longitude' => 19.37576,
   ),
-  2028 => 
+  1911 => 
   array (
     'id' => 87804,
     'name' => 'Przecław',
@@ -18262,16 +17209,7 @@ return array (
     'latitude' => 50.19339,
     'longitude' => 21.48007,
   ),
-  2029 => 
-  array (
-    'id' => 87805,
-    'name' => 'Przecław',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.37447,
-    'longitude' => 14.47251,
-  ),
-  2030 => 
+  1912 => 
   array (
     'id' => 87806,
     'name' => 'Przedbórz',
@@ -18280,7 +17218,7 @@ return array (
     'latitude' => 51.08789,
     'longitude' => 19.87384,
   ),
-  2031 => 
+  1913 => 
   array (
     'id' => 87807,
     'name' => 'Przedecz',
@@ -18289,7 +17227,7 @@ return array (
     'latitude' => 52.3344,
     'longitude' => 18.89915,
   ),
-  2032 => 
+  1914 => 
   array (
     'id' => 87808,
     'name' => 'Przedmieście Dubieckie',
@@ -18298,7 +17236,7 @@ return array (
     'latitude' => 49.8371,
     'longitude' => 22.37177,
   ),
-  2033 => 
+  1915 => 
   array (
     'id' => 87809,
     'name' => 'Przeginia',
@@ -18307,7 +17245,7 @@ return array (
     'latitude' => 50.23831,
     'longitude' => 19.68853,
   ),
-  2034 => 
+  1916 => 
   array (
     'id' => 87810,
     'name' => 'Przelewice',
@@ -18316,7 +17254,7 @@ return array (
     'latitude' => 53.10413,
     'longitude' => 15.07625,
   ),
-  2035 => 
+  1917 => 
   array (
     'id' => 87811,
     'name' => 'Przemków',
@@ -18325,7 +17263,7 @@ return array (
     'latitude' => 51.5253,
     'longitude' => 15.79441,
   ),
-  2036 => 
+  1918 => 
   array (
     'id' => 87812,
     'name' => 'Przemyśl',
@@ -18334,7 +17272,7 @@ return array (
     'latitude' => 49.78498,
     'longitude' => 22.76728,
   ),
-  2037 => 
+  1919 => 
   array (
     'id' => 87813,
     'name' => 'Przemęt',
@@ -18343,7 +17281,7 @@ return array (
     'latitude' => 52.00808,
     'longitude' => 16.30114,
   ),
-  2038 => 
+  1920 => 
   array (
     'id' => 87814,
     'name' => 'Przesmyki',
@@ -18352,7 +17290,7 @@ return array (
     'latitude' => 52.26816,
     'longitude' => 22.58394,
   ),
-  2039 => 
+  1921 => 
   array (
     'id' => 87815,
     'name' => 'Przeworno',
@@ -18361,7 +17299,7 @@ return array (
     'latitude' => 50.68629,
     'longitude' => 17.16588,
   ),
-  2040 => 
+  1922 => 
   array (
     'id' => 87816,
     'name' => 'Przeworsk',
@@ -18370,7 +17308,7 @@ return array (
     'latitude' => 50.05912,
     'longitude' => 22.49408,
   ),
-  2041 => 
+  1923 => 
   array (
     'id' => 87817,
     'name' => 'Przewóz',
@@ -18379,7 +17317,7 @@ return array (
     'latitude' => 51.48053,
     'longitude' => 14.95188,
   ),
-  2042 => 
+  1924 => 
   array (
     'id' => 87818,
     'name' => 'Przodkowo',
@@ -18388,7 +17326,7 @@ return array (
     'latitude' => 54.37991,
     'longitude' => 18.2876,
   ),
-  2043 => 
+  1925 => 
   array (
     'id' => 87819,
     'name' => 'Przybiernów',
@@ -18397,7 +17335,7 @@ return array (
     'latitude' => 53.7578,
     'longitude' => 14.78529,
   ),
-  2044 => 
+  1926 => 
   array (
     'id' => 87820,
     'name' => 'Przyborów',
@@ -18406,25 +17344,7 @@ return array (
     'latitude' => 50.03035,
     'longitude' => 20.66279,
   ),
-  2045 => 
-  array (
-    'id' => 87821,
-    'name' => 'Przyborów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.6215,
-    'longitude' => 19.38701,
-  ),
-  2046 => 
-  array (
-    'id' => 87822,
-    'name' => 'Przyborów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.79991,
-    'longitude' => 15.7689,
-  ),
-  2047 => 
+  1927 => 
   array (
     'id' => 87823,
     'name' => 'Przybyszówka',
@@ -18433,7 +17353,7 @@ return array (
     'latitude' => 50.04788,
     'longitude' => 21.92579,
   ),
-  2048 => 
+  1928 => 
   array (
     'id' => 87824,
     'name' => 'Przygodzice',
@@ -18442,7 +17362,7 @@ return array (
     'latitude' => 51.59195,
     'longitude' => 17.82412,
   ),
-  2049 => 
+  1929 => 
   array (
     'id' => 87825,
     'name' => 'Przykona',
@@ -18451,7 +17371,7 @@ return array (
     'latitude' => 51.98171,
     'longitude' => 18.61247,
   ),
-  2050 => 
+  1930 => 
   array (
     'id' => 87826,
     'name' => 'Przyrów',
@@ -18460,7 +17380,7 @@ return array (
     'latitude' => 50.80051,
     'longitude' => 19.52794,
   ),
-  2051 => 
+  1931 => 
   array (
     'id' => 87827,
     'name' => 'Przystajń',
@@ -18469,7 +17389,7 @@ return array (
     'latitude' => 50.88495,
     'longitude' => 18.69169,
   ),
-  2052 => 
+  1932 => 
   array (
     'id' => 87828,
     'name' => 'Przysucha',
@@ -18478,7 +17398,7 @@ return array (
     'latitude' => 51.35858,
     'longitude' => 20.62889,
   ),
-  2053 => 
+  1933 => 
   array (
     'id' => 87829,
     'name' => 'Przyszowice',
@@ -18487,7 +17407,7 @@ return array (
     'latitude' => 50.24841,
     'longitude' => 18.74594,
   ),
-  2054 => 
+  1934 => 
   array (
     'id' => 87830,
     'name' => 'Przytkowice',
@@ -18496,7 +17416,7 @@ return array (
     'latitude' => 49.91785,
     'longitude' => 19.6857,
   ),
-  2055 => 
+  1935 => 
   array (
     'id' => 87831,
     'name' => 'Przytoczna',
@@ -18505,7 +17425,7 @@ return array (
     'latitude' => 52.57755,
     'longitude' => 15.67878,
   ),
-  2056 => 
+  1936 => 
   array (
     'id' => 87832,
     'name' => 'Przytoczno',
@@ -18514,7 +17434,7 @@ return array (
     'latitude' => 51.61951,
     'longitude' => 22.27135,
   ),
-  2057 => 
+  1937 => 
   array (
     'id' => 87833,
     'name' => 'Przytyk',
@@ -18523,7 +17443,7 @@ return array (
     'latitude' => 51.46567,
     'longitude' => 20.90587,
   ),
-  2058 => 
+  1938 => 
   array (
     'id' => 87834,
     'name' => 'Przywidz',
@@ -18532,7 +17452,7 @@ return array (
     'latitude' => 54.19524,
     'longitude' => 18.32116,
   ),
-  2059 => 
+  1939 => 
   array (
     'id' => 87835,
     'name' => 'Przyłęk',
@@ -18541,7 +17461,7 @@ return array (
     'latitude' => 51.30856,
     'longitude' => 21.74744,
   ),
-  2060 => 
+  1940 => 
   array (
     'id' => 87836,
     'name' => 'Przędzel',
@@ -18550,7 +17470,7 @@ return array (
     'latitude' => 50.49465,
     'longitude' => 22.21925,
   ),
-  2061 => 
+  1941 => 
   array (
     'id' => 87837,
     'name' => 'Prószków',
@@ -18559,7 +17479,7 @@ return array (
     'latitude' => 50.5767,
     'longitude' => 17.87143,
   ),
-  2062 => 
+  1942 => 
   array (
     'id' => 87838,
     'name' => 'Psary',
@@ -18568,25 +17488,7 @@ return array (
     'latitude' => 50.6147,
     'longitude' => 18.96991,
   ),
-  2063 => 
-  array (
-    'id' => 87839,
-    'name' => 'Psary',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.18712,
-    'longitude' => 17.03173,
-  ),
-  2064 => 
-  array (
-    'id' => 87840,
-    'name' => 'Psary',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.17242,
-    'longitude' => 19.52953,
-  ),
-  2065 => 
+  1943 => 
   array (
     'id' => 87841,
     'name' => 'Psie Pole Południe-Kiełczów',
@@ -18595,7 +17497,7 @@ return array (
     'latitude' => 51.14783,
     'longitude' => 17.12744,
   ),
-  2066 => 
+  1944 => 
   array (
     'id' => 87842,
     'name' => 'Pszczew',
@@ -18604,7 +17506,7 @@ return array (
     'latitude' => 52.47724,
     'longitude' => 15.7816,
   ),
-  2067 => 
+  1945 => 
   array (
     'id' => 87843,
     'name' => 'Pszczyna',
@@ -18613,7 +17515,7 @@ return array (
     'latitude' => 49.98037,
     'longitude' => 18.95382,
   ),
-  2068 => 
+  1946 => 
   array (
     'id' => 87844,
     'name' => 'Pszczółki',
@@ -18622,7 +17524,7 @@ return array (
     'latitude' => 54.17304,
     'longitude' => 18.69787,
   ),
-  2069 => 
+  1947 => 
   array (
     'id' => 87845,
     'name' => 'Pszów',
@@ -18631,7 +17533,7 @@ return array (
     'latitude' => 50.03994,
     'longitude' => 18.39472,
   ),
-  2070 => 
+  1948 => 
   array (
     'id' => 87846,
     'name' => 'Puchaczów',
@@ -18640,7 +17542,7 @@ return array (
     'latitude' => 51.3105,
     'longitude' => 22.9737,
   ),
-  2071 => 
+  1949 => 
   array (
     'id' => 87847,
     'name' => 'Puck',
@@ -18649,7 +17551,7 @@ return array (
     'latitude' => 54.7179,
     'longitude' => 18.40841,
   ),
-  2072 => 
+  1950 => 
   array (
     'id' => 87848,
     'name' => 'Purda',
@@ -18658,7 +17560,7 @@ return array (
     'latitude' => 53.70844,
     'longitude' => 20.70683,
   ),
-  2073 => 
+  1951 => 
   array (
     'id' => 87849,
     'name' => 'Puszcza Mariańska',
@@ -18667,7 +17569,7 @@ return array (
     'latitude' => 51.97901,
     'longitude' => 20.35037,
   ),
-  2074 => 
+  1952 => 
   array (
     'id' => 87850,
     'name' => 'Puszczykowo',
@@ -18676,7 +17578,7 @@ return array (
     'latitude' => 52.2857,
     'longitude' => 16.84925,
   ),
-  2075 => 
+  1953 => 
   array (
     'id' => 87851,
     'name' => 'Puławy',
@@ -18685,7 +17587,7 @@ return array (
     'latitude' => 51.41655,
     'longitude' => 21.96939,
   ),
-  2076 => 
+  1954 => 
   array (
     'id' => 87852,
     'name' => 'Pułtusk',
@@ -18694,7 +17596,7 @@ return array (
     'latitude' => 52.7025,
     'longitude' => 21.08276,
   ),
-  2077 => 
+  1955 => 
   array (
     'id' => 87853,
     'name' => 'Puńców',
@@ -18703,7 +17605,7 @@ return array (
     'latitude' => 49.71842,
     'longitude' => 18.66157,
   ),
-  2078 => 
+  1956 => 
   array (
     'id' => 87854,
     'name' => 'Puńsk',
@@ -18712,7 +17614,7 @@ return array (
     'latitude' => 54.25114,
     'longitude' => 23.18124,
   ),
-  2079 => 
+  1957 => 
   array (
     'id' => 87855,
     'name' => 'Pyrzyce',
@@ -18721,7 +17623,7 @@ return array (
     'latitude' => 53.1462,
     'longitude' => 14.89257,
   ),
-  2080 => 
+  1958 => 
   array (
     'id' => 87856,
     'name' => 'Pyskowice',
@@ -18730,7 +17632,7 @@ return array (
     'latitude' => 50.4,
     'longitude' => 18.63333,
   ),
-  2081 => 
+  1959 => 
   array (
     'id' => 87857,
     'name' => 'Pysznica',
@@ -18739,7 +17641,7 @@ return array (
     'latitude' => 50.56999,
     'longitude' => 22.12913,
   ),
-  2082 => 
+  1960 => 
   array (
     'id' => 87858,
     'name' => 'Pyzdry',
@@ -18748,7 +17650,7 @@ return array (
     'latitude' => 52.17056,
     'longitude' => 17.69005,
   ),
-  2083 => 
+  1961 => 
   array (
     'id' => 87859,
     'name' => 'Pątnów',
@@ -18757,7 +17659,7 @@ return array (
     'latitude' => 51.14403,
     'longitude' => 18.61659,
   ),
-  2084 => 
+  1962 => 
   array (
     'id' => 87860,
     'name' => 'Pęczniew',
@@ -18766,7 +17668,7 @@ return array (
     'latitude' => 51.80384,
     'longitude' => 18.72311,
   ),
-  2085 => 
+  1963 => 
   array (
     'id' => 87861,
     'name' => 'Pępowo',
@@ -18775,7 +17677,7 @@ return array (
     'latitude' => 51.76569,
     'longitude' => 17.12661,
   ),
-  2086 => 
+  1964 => 
   array (
     'id' => 87862,
     'name' => 'Pławno',
@@ -18784,7 +17686,7 @@ return array (
     'latitude' => 50.97772,
     'longitude' => 19.45524,
   ),
-  2087 => 
+  1965 => 
   array (
     'id' => 87863,
     'name' => 'Płaza',
@@ -18793,7 +17695,7 @@ return array (
     'latitude' => 50.09988,
     'longitude' => 19.46451,
   ),
-  2088 => 
+  1966 => 
   array (
     'id' => 87864,
     'name' => 'Płock',
@@ -18802,7 +17704,7 @@ return array (
     'latitude' => 52.54682,
     'longitude' => 19.70638,
   ),
-  2089 => 
+  1967 => 
   array (
     'id' => 87865,
     'name' => 'Płoniawy-Bramura',
@@ -18811,7 +17713,7 @@ return array (
     'latitude' => 52.9778,
     'longitude' => 21.07178,
   ),
-  2090 => 
+  1968 => 
   array (
     'id' => 87866,
     'name' => 'Płoty',
@@ -18820,7 +17722,7 @@ return array (
     'latitude' => 53.80182,
     'longitude' => 15.2667,
   ),
-  2091 => 
+  1969 => 
   array (
     'id' => 87867,
     'name' => 'Płońsk',
@@ -18829,7 +17731,7 @@ return array (
     'latitude' => 52.62348,
     'longitude' => 20.37552,
   ),
-  2092 => 
+  1970 => 
   array (
     'id' => 87868,
     'name' => 'Płużnica',
@@ -18838,7 +17740,7 @@ return array (
     'latitude' => 53.29672,
     'longitude' => 18.77692,
   ),
-  2093 => 
+  1971 => 
   array (
     'id' => 87869,
     'name' => 'Raba Wyżna',
@@ -18847,7 +17749,7 @@ return array (
     'latitude' => 49.56681,
     'longitude' => 19.87967,
   ),
-  2094 => 
+  1972 => 
   array (
     'id' => 87870,
     'name' => 'Rabka-Zdrój',
@@ -18856,7 +17758,7 @@ return array (
     'latitude' => 49.60889,
     'longitude' => 19.96654,
   ),
-  2095 => 
+  1973 => 
   array (
     'id' => 87871,
     'name' => 'Rachanie',
@@ -18865,7 +17767,7 @@ return array (
     'latitude' => 50.53842,
     'longitude' => 23.54688,
   ),
-  2096 => 
+  1974 => 
   array (
     'id' => 87872,
     'name' => 'Racibórz',
@@ -18874,7 +17776,7 @@ return array (
     'latitude' => 50.09195,
     'longitude' => 18.21928,
   ),
-  2097 => 
+  1975 => 
   array (
     'id' => 87873,
     'name' => 'Raciąż',
@@ -18883,7 +17785,7 @@ return array (
     'latitude' => 52.78152,
     'longitude' => 20.1177,
   ),
-  2098 => 
+  1976 => 
   array (
     'id' => 87874,
     'name' => 'Raciążek',
@@ -18892,7 +17794,7 @@ return array (
     'latitude' => 52.8565,
     'longitude' => 18.81334,
   ),
-  2099 => 
+  1977 => 
   array (
     'id' => 87875,
     'name' => 'Raczki',
@@ -18901,7 +17803,7 @@ return array (
     'latitude' => 53.98749,
     'longitude' => 22.78487,
   ),
-  2100 => 
+  1978 => 
   array (
     'id' => 87876,
     'name' => 'Racławice',
@@ -18910,16 +17812,7 @@ return array (
     'latitude' => 50.5137,
     'longitude' => 22.16552,
   ),
-  2101 => 
-  array (
-    'id' => 87877,
-    'name' => 'Racławice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.19344,
-    'longitude' => 19.67686,
-  ),
-  2102 => 
+  1979 => 
   array (
     'id' => 87878,
     'name' => 'Racławice Śląskie',
@@ -18928,7 +17821,7 @@ return array (
     'latitude' => 50.31204,
     'longitude' => 17.77528,
   ),
-  2103 => 
+  1980 => 
   array (
     'id' => 87879,
     'name' => 'Radecznica',
@@ -18937,7 +17830,7 @@ return array (
     'latitude' => 50.75155,
     'longitude' => 22.82976,
   ),
-  2104 => 
+  1981 => 
   array (
     'id' => 87880,
     'name' => 'Radgoszcz',
@@ -18946,7 +17839,7 @@ return array (
     'latitude' => 50.2058,
     'longitude' => 21.11315,
   ),
-  2105 => 
+  1982 => 
   array (
     'id' => 87881,
     'name' => 'Radków',
@@ -18955,7 +17848,7 @@ return array (
     'latitude' => 50.50426,
     'longitude' => 16.40061,
   ),
-  2106 => 
+  1983 => 
   array (
     'id' => 87882,
     'name' => 'Radlin',
@@ -18964,7 +17857,7 @@ return array (
     'latitude' => 50.0502,
     'longitude' => 18.47626,
   ),
-  2107 => 
+  1984 => 
   array (
     'id' => 87883,
     'name' => 'Radocza',
@@ -18973,7 +17866,7 @@ return array (
     'latitude' => 49.91774,
     'longitude' => 19.47498,
   ),
-  2108 => 
+  1985 => 
   array (
     'id' => 87884,
     'name' => 'Radom',
@@ -18982,7 +17875,7 @@ return array (
     'latitude' => 51.40253,
     'longitude' => 21.14714,
   ),
-  2109 => 
+  1986 => 
   array (
     'id' => 87885,
     'name' => 'Radomin',
@@ -18991,7 +17884,7 @@ return array (
     'latitude' => 53.0867,
     'longitude' => 19.19415,
   ),
-  2110 => 
+  1987 => 
   array (
     'id' => 87886,
     'name' => 'Radomsko',
@@ -19000,7 +17893,7 @@ return array (
     'latitude' => 51.06713,
     'longitude' => 19.44477,
   ),
-  2111 => 
+  1988 => 
   array (
     'id' => 87887,
     'name' => 'Radomyśl',
@@ -19009,7 +17902,7 @@ return array (
     'latitude' => 50.68101,
     'longitude' => 21.94365,
   ),
-  2112 => 
+  1989 => 
   array (
     'id' => 87888,
     'name' => 'Radomyśl Wielki',
@@ -19018,7 +17911,7 @@ return array (
     'latitude' => 50.19693,
     'longitude' => 21.27693,
   ),
-  2113 => 
+  1990 => 
   array (
     'id' => 87889,
     'name' => 'Radostowice',
@@ -19027,7 +17920,7 @@ return array (
     'latitude' => 50.00311,
     'longitude' => 18.88103,
   ),
-  2114 => 
+  1991 => 
   array (
     'id' => 87890,
     'name' => 'Radoszyce',
@@ -19036,7 +17929,7 @@ return array (
     'latitude' => 51.07392,
     'longitude' => 20.25836,
   ),
-  2115 => 
+  1992 => 
   array (
     'id' => 87891,
     'name' => 'Radowo Małe',
@@ -19045,7 +17938,7 @@ return array (
     'latitude' => 53.66575,
     'longitude' => 15.44789,
   ),
-  2116 => 
+  1993 => 
   array (
     'id' => 87892,
     'name' => 'Radwanice',
@@ -19054,7 +17947,7 @@ return array (
     'latitude' => 51.05413,
     'longitude' => 17.10932,
   ),
-  2117 => 
+  1994 => 
   array (
     'id' => 87893,
     'name' => 'Radymno',
@@ -19063,7 +17956,7 @@ return array (
     'latitude' => 49.9472,
     'longitude' => 22.82375,
   ),
-  2118 => 
+  1995 => 
   array (
     'id' => 87894,
     'name' => 'Radzanowo',
@@ -19072,7 +17965,7 @@ return array (
     'latitude' => 52.57306,
     'longitude' => 19.89109,
   ),
-  2119 => 
+  1996 => 
   array (
     'id' => 87895,
     'name' => 'Radzanów',
@@ -19081,7 +17974,7 @@ return array (
     'latitude' => 52.94238,
     'longitude' => 20.09219,
   ),
-  2120 => 
+  1997 => 
   array (
     'id' => 87896,
     'name' => 'Radziechowy',
@@ -19090,7 +17983,7 @@ return array (
     'latitude' => 49.64651,
     'longitude' => 19.13115,
   ),
-  2121 => 
+  1998 => 
   array (
     'id' => 87897,
     'name' => 'Radziejowice',
@@ -19099,7 +17992,7 @@ return array (
     'latitude' => 52.00834,
     'longitude' => 20.5477,
   ),
-  2122 => 
+  1999 => 
   array (
     'id' => 87898,
     'name' => 'Radziejów',
@@ -19108,7 +18001,7 @@ return array (
     'latitude' => 52.62481,
     'longitude' => 18.52771,
   ),
-  2123 => 
+  2000 => 
   array (
     'id' => 87899,
     'name' => 'Radzionków',
@@ -19117,7 +18010,7 @@ return array (
     'latitude' => 50.40026,
     'longitude' => 18.90232,
   ),
-  2124 => 
+  2001 => 
   array (
     'id' => 87900,
     'name' => 'Radziszów',
@@ -19126,7 +18019,7 @@ return array (
     'latitude' => 49.93531,
     'longitude' => 19.81522,
   ),
-  2125 => 
+  2002 => 
   array (
     'id' => 87901,
     'name' => 'Radziłów',
@@ -19135,7 +18028,7 @@ return array (
     'latitude' => 53.40994,
     'longitude' => 22.40988,
   ),
-  2126 => 
+  2003 => 
   array (
     'id' => 87902,
     'name' => 'Radzymin',
@@ -19144,7 +18037,7 @@ return array (
     'latitude' => 52.41592,
     'longitude' => 21.18415,
   ),
-  2127 => 
+  2004 => 
   array (
     'id' => 87903,
     'name' => 'Radzyń Chełmiński',
@@ -19153,7 +18046,7 @@ return array (
     'latitude' => 53.38509,
     'longitude' => 18.93725,
   ),
-  2128 => 
+  2005 => 
   array (
     'id' => 87904,
     'name' => 'Radzyń Podlaski',
@@ -19162,7 +18055,7 @@ return array (
     'latitude' => 51.78333,
     'longitude' => 22.61667,
   ),
-  2129 => 
+  2006 => 
   array (
     'id' => 87905,
     'name' => 'Radłów',
@@ -19171,7 +18064,7 @@ return array (
     'latitude' => 50.08419,
     'longitude' => 20.84967,
   ),
-  2130 => 
+  2007 => 
   array (
     'id' => 87906,
     'name' => 'Rajcza',
@@ -19180,7 +18073,7 @@ return array (
     'latitude' => 49.50927,
     'longitude' => 19.11278,
   ),
-  2131 => 
+  2008 => 
   array (
     'id' => 87907,
     'name' => 'Rajgród',
@@ -19189,7 +18082,7 @@ return array (
     'latitude' => 53.73102,
     'longitude' => 22.70515,
   ),
-  2132 => 
+  2009 => 
   array (
     'id' => 87908,
     'name' => 'Rajsko',
@@ -19198,7 +18091,7 @@ return array (
     'latitude' => 50.01193,
     'longitude' => 19.19294,
   ),
-  2133 => 
+  2010 => 
   array (
     'id' => 87909,
     'name' => 'Rakoniewice',
@@ -19207,7 +18100,7 @@ return array (
     'latitude' => 52.13906,
     'longitude' => 16.27346,
   ),
-  2134 => 
+  2011 => 
   array (
     'id' => 87910,
     'name' => 'Rakszawa',
@@ -19216,7 +18109,7 @@ return array (
     'latitude' => 50.16051,
     'longitude' => 22.23907,
   ),
-  2135 => 
+  2012 => 
   array (
     'id' => 87911,
     'name' => 'Raków',
@@ -19225,7 +18118,7 @@ return array (
     'latitude' => 50.67427,
     'longitude' => 21.04517,
   ),
-  2136 => 
+  2013 => 
   array (
     'id' => 87912,
     'name' => 'Raniżów',
@@ -19234,7 +18127,7 @@ return array (
     'latitude' => 50.25873,
     'longitude' => 21.97137,
   ),
-  2137 => 
+  2014 => 
   array (
     'id' => 87913,
     'name' => 'Raszczyce',
@@ -19243,7 +18136,7 @@ return array (
     'latitude' => 50.1219,
     'longitude' => 18.29962,
   ),
-  2138 => 
+  2015 => 
   array (
     'id' => 87914,
     'name' => 'Raszków',
@@ -19252,7 +18145,7 @@ return array (
     'latitude' => 51.71828,
     'longitude' => 17.72571,
   ),
-  2139 => 
+  2016 => 
   array (
     'id' => 87915,
     'name' => 'Raszowa',
@@ -19261,7 +18154,7 @@ return array (
     'latitude' => 50.39779,
     'longitude' => 18.17722,
   ),
-  2140 => 
+  2017 => 
   array (
     'id' => 87916,
     'name' => 'Raszyn',
@@ -19270,7 +18163,7 @@ return array (
     'latitude' => 52.15603,
     'longitude' => 20.9226,
   ),
-  2141 => 
+  2018 => 
   array (
     'id' => 87917,
     'name' => 'Ratowice',
@@ -19279,7 +18172,7 @@ return array (
     'latitude' => 51.03308,
     'longitude' => 17.27205,
   ),
-  2142 => 
+  2019 => 
   array (
     'id' => 87918,
     'name' => 'Rawa Mazowiecka',
@@ -19288,7 +18181,7 @@ return array (
     'latitude' => 51.76437,
     'longitude' => 20.25493,
   ),
-  2143 => 
+  2020 => 
   array (
     'id' => 87919,
     'name' => 'Rawicz',
@@ -19297,7 +18190,7 @@ return array (
     'latitude' => 51.60946,
     'longitude' => 16.85852,
   ),
-  2144 => 
+  2021 => 
   array (
     'id' => 87920,
     'name' => 'Recz',
@@ -19306,7 +18199,7 @@ return array (
     'latitude' => 53.25989,
     'longitude' => 15.54713,
   ),
-  2145 => 
+  2022 => 
   array (
     'id' => 87921,
     'name' => 'Reda',
@@ -19315,7 +18208,7 @@ return array (
     'latitude' => 54.60528,
     'longitude' => 18.34717,
   ),
-  2146 => 
+  2023 => 
   array (
     'id' => 87922,
     'name' => 'Regimin',
@@ -19324,7 +18217,7 @@ return array (
     'latitude' => 52.94166,
     'longitude' => 20.55319,
   ),
-  2147 => 
+  2024 => 
   array (
     'id' => 87923,
     'name' => 'Regnów',
@@ -19333,7 +18226,7 @@ return array (
     'latitude' => 51.7485,
     'longitude' => 20.38711,
   ),
-  2148 => 
+  2025 => 
   array (
     'id' => 87924,
     'name' => 'Regulice',
@@ -19342,7 +18235,7 @@ return array (
     'latitude' => 50.08314,
     'longitude' => 19.52785,
   ),
-  2149 => 
+  2026 => 
   array (
     'id' => 87925,
     'name' => 'Rejon alei Kromera',
@@ -19351,7 +18244,7 @@ return array (
     'latitude' => 51.13375,
     'longitude' => 17.07107,
   ),
-  2150 => 
+  2027 => 
   array (
     'id' => 87926,
     'name' => 'Rejon placu Grunwaldzkiego',
@@ -19360,7 +18253,7 @@ return array (
     'latitude' => 51.11669,
     'longitude' => 17.06126,
   ),
-  2151 => 
+  2028 => 
   array (
     'id' => 87927,
     'name' => 'Rejon placu Świętego Macieja',
@@ -19369,7 +18262,7 @@ return array (
     'latitude' => 51.12056,
     'longitude' => 17.03761,
   ),
-  2152 => 
+  2029 => 
   array (
     'id' => 87928,
     'name' => 'Rejon ulicy Borowskiej-Południe',
@@ -19378,7 +18271,7 @@ return array (
     'latitude' => 51.0766,
     'longitude' => 17.02582,
   ),
-  2153 => 
+  2030 => 
   array (
     'id' => 87929,
     'name' => 'Rejon ulicy Klęczkowskiej',
@@ -19387,7 +18280,7 @@ return array (
     'latitude' => 51.1297,
     'longitude' => 17.03376,
   ),
-  2154 => 
+  2031 => 
   array (
     'id' => 87930,
     'name' => 'Rejon ulicy Mieleckiej',
@@ -19396,7 +18289,7 @@ return array (
     'latitude' => 51.09145,
     'longitude' => 17.00207,
   ),
-  2155 => 
+  2032 => 
   array (
     'id' => 87931,
     'name' => 'Rejon ulicy Saperów',
@@ -19405,7 +18298,7 @@ return array (
     'latitude' => 51.08614,
     'longitude' => 17.0005,
   ),
-  2156 => 
+  2033 => 
   array (
     'id' => 87932,
     'name' => 'Rejon ulicy Traugutta',
@@ -19414,7 +18307,7 @@ return array (
     'latitude' => 51.10247,
     'longitude' => 17.04827,
   ),
-  2157 => 
+  2034 => 
   array (
     'id' => 87933,
     'name' => 'Rejowiec',
@@ -19423,7 +18316,7 @@ return array (
     'latitude' => 51.09134,
     'longitude' => 23.28192,
   ),
-  2158 => 
+  2035 => 
   array (
     'id' => 87934,
     'name' => 'Rejowiec Fabryczny',
@@ -19432,7 +18325,7 @@ return array (
     'latitude' => 51.11414,
     'longitude' => 23.24724,
   ),
-  2159 => 
+  2036 => 
   array (
     'id' => 87935,
     'name' => 'Rekowo Dolne',
@@ -19441,7 +18334,7 @@ return array (
     'latitude' => 54.63133,
     'longitude' => 18.36279,
   ),
-  2160 => 
+  2037 => 
   array (
     'id' => 87936,
     'name' => 'Rembertów',
@@ -19450,7 +18343,7 @@ return array (
     'latitude' => 52.26059,
     'longitude' => 21.16355,
   ),
-  2161 => 
+  2038 => 
   array (
     'id' => 87937,
     'name' => 'Repki',
@@ -19459,7 +18352,7 @@ return array (
     'latitude' => 52.38555,
     'longitude' => 22.39117,
   ),
-  2162 => 
+  2039 => 
   array (
     'id' => 87938,
     'name' => 'Resko',
@@ -19468,7 +18361,7 @@ return array (
     'latitude' => 53.77307,
     'longitude' => 15.40607,
   ),
-  2163 => 
+  2040 => 
   array (
     'id' => 87939,
     'name' => 'Reszel',
@@ -19477,7 +18370,7 @@ return array (
     'latitude' => 54.05042,
     'longitude' => 21.14585,
   ),
-  2164 => 
+  2041 => 
   array (
     'id' => 87940,
     'name' => 'Rewal',
@@ -19486,7 +18379,7 @@ return array (
     'latitude' => 54.0812,
     'longitude' => 15.01471,
   ),
-  2165 => 
+  2042 => 
   array (
     'id' => 87941,
     'name' => 'Reńska Wieś',
@@ -19495,7 +18388,7 @@ return array (
     'latitude' => 50.31587,
     'longitude' => 18.12607,
   ),
-  2166 => 
+  2043 => 
   array (
     'id' => 87942,
     'name' => 'Roczyny',
@@ -19504,7 +18397,7 @@ return array (
     'latitude' => 49.8537,
     'longitude' => 19.31568,
   ),
-  2167 => 
+  2044 => 
   array (
     'id' => 87943,
     'name' => 'Rogalinek',
@@ -19513,7 +18406,7 @@ return array (
     'latitude' => 52.24945,
     'longitude' => 16.89989,
   ),
-  2168 => 
+  2045 => 
   array (
     'id' => 87944,
     'name' => 'Rogowo',
@@ -19522,7 +18415,7 @@ return array (
     'latitude' => 52.72449,
     'longitude' => 17.65117,
   ),
-  2169 => 
+  2046 => 
   array (
     'id' => 87945,
     'name' => 'Rogoźnik',
@@ -19531,7 +18424,7 @@ return array (
     'latitude' => 50.39106,
     'longitude' => 19.03776,
   ),
-  2170 => 
+  2047 => 
   array (
     'id' => 87946,
     'name' => 'Rogoźno',
@@ -19540,7 +18433,7 @@ return array (
     'latitude' => 52.75226,
     'longitude' => 16.99049,
   ),
-  2171 => 
+  2048 => 
   array (
     'id' => 87947,
     'name' => 'Rogów',
@@ -19549,25 +18442,7 @@ return array (
     'latitude' => 51.20414,
     'longitude' => 20.43483,
   ),
-  2172 => 
-  array (
-    'id' => 87948,
-    'name' => 'Rogów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.99097,
-    'longitude' => 18.35077,
-  ),
-  2173 => 
-  array (
-    'id' => 87949,
-    'name' => 'Rogów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.81758,
-    'longitude' => 19.88654,
-  ),
-  2174 => 
+  2049 => 
   array (
     'id' => 87950,
     'name' => 'Rogóźno',
@@ -19576,25 +18451,7 @@ return array (
     'latitude' => 50.07367,
     'longitude' => 22.37486,
   ),
-  2175 => 
-  array (
-    'id' => 87951,
-    'name' => 'Rogóźno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.46417,
-    'longitude' => 23.39041,
-  ),
-  2176 => 
-  array (
-    'id' => 87952,
-    'name' => 'Rogóźno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.53587,
-    'longitude' => 18.92859,
-  ),
-  2177 => 
+  2050 => 
   array (
     'id' => 87953,
     'name' => 'Rokiciny',
@@ -19603,16 +18460,7 @@ return array (
     'latitude' => 49.57243,
     'longitude' => 19.92302,
   ),
-  2178 => 
-  array (
-    'id' => 87954,
-    'name' => 'Rokiciny',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.65078,
-    'longitude' => 19.80191,
-  ),
-  2179 => 
+  2051 => 
   array (
     'id' => 87955,
     'name' => 'Rokiciny-Kolonia',
@@ -19621,7 +18469,7 @@ return array (
     'latitude' => 51.66468,
     'longitude' => 19.78312,
   ),
-  2180 => 
+  2052 => 
   array (
     'id' => 87956,
     'name' => 'Rokietnica',
@@ -19630,16 +18478,7 @@ return array (
     'latitude' => 49.89983,
     'longitude' => 22.64171,
   ),
-  2181 => 
-  array (
-    'id' => 87957,
-    'name' => 'Rokietnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.51245,
-    'longitude' => 16.7457,
-  ),
-  2182 => 
+  2053 => 
   array (
     'id' => 87958,
     'name' => 'Rokitno',
@@ -19648,7 +18487,7 @@ return array (
     'latitude' => 52.12142,
     'longitude' => 23.29514,
   ),
-  2183 => 
+  2054 => 
   array (
     'id' => 87959,
     'name' => 'Rokitno Szlacheckie',
@@ -19657,7 +18496,7 @@ return array (
     'latitude' => 50.43195,
     'longitude' => 19.43293,
   ),
-  2184 => 
+  2055 => 
   array (
     'id' => 87960,
     'name' => 'Ropa',
@@ -19666,7 +18505,7 @@ return array (
     'latitude' => 49.59146,
     'longitude' => 21.04431,
   ),
-  2185 => 
+  2056 => 
   array (
     'id' => 87961,
     'name' => 'Ropczyce',
@@ -19675,7 +18514,7 @@ return array (
     'latitude' => 50.05229,
     'longitude' => 21.60891,
   ),
-  2186 => 
+  2057 => 
   array (
     'id' => 87962,
     'name' => 'Rotmanka',
@@ -19684,7 +18523,7 @@ return array (
     'latitude' => 54.27425,
     'longitude' => 18.6038,
   ),
-  2187 => 
+  2058 => 
   array (
     'id' => 87963,
     'name' => 'Rozbórz',
@@ -19693,7 +18532,7 @@ return array (
     'latitude' => 50.05615,
     'longitude' => 22.54686,
   ),
-  2188 => 
+  2059 => 
   array (
     'id' => 87964,
     'name' => 'Rozdrażew',
@@ -19702,7 +18541,7 @@ return array (
     'latitude' => 51.78218,
     'longitude' => 17.50491,
   ),
-  2189 => 
+  2060 => 
   array (
     'id' => 87965,
     'name' => 'Rozogi',
@@ -19711,7 +18550,7 @@ return array (
     'latitude' => 53.48549,
     'longitude' => 21.36223,
   ),
-  2190 => 
+  2061 => 
   array (
     'id' => 87966,
     'name' => 'Rozprza',
@@ -19720,7 +18559,7 @@ return array (
     'latitude' => 51.30266,
     'longitude' => 19.6457,
   ),
-  2191 => 
+  2062 => 
   array (
     'id' => 87967,
     'name' => 'Rozwadza',
@@ -19729,7 +18568,7 @@ return array (
     'latitude' => 50.43493,
     'longitude' => 18.0998,
   ),
-  2192 => 
+  2063 => 
   array (
     'id' => 87968,
     'name' => 'Rościszewo',
@@ -19738,7 +18577,7 @@ return array (
     'latitude' => 52.90331,
     'longitude' => 19.77419,
   ),
-  2193 => 
+  2064 => 
   array (
     'id' => 87969,
     'name' => 'Ruciane-Nida',
@@ -19747,7 +18586,7 @@ return array (
     'latitude' => 53.64161,
     'longitude' => 21.53964,
   ),
-  2194 => 
+  2065 => 
   array (
     'id' => 87970,
     'name' => 'Ruda Maleniecka',
@@ -19756,7 +18595,7 @@ return array (
     'latitude' => 51.14592,
     'longitude' => 20.22377,
   ),
-  2195 => 
+  2066 => 
   array (
     'id' => 87971,
     'name' => 'Ruda Śląska',
@@ -19765,7 +18604,7 @@ return array (
     'latitude' => 50.2584,
     'longitude' => 18.85632,
   ),
-  2196 => 
+  2067 => 
   array (
     'id' => 87972,
     'name' => 'Ruda-Huta',
@@ -19774,7 +18613,7 @@ return array (
     'latitude' => 51.23666,
     'longitude' => 23.59486,
   ),
-  2197 => 
+  2068 => 
   array (
     'id' => 87973,
     'name' => 'Rudawa',
@@ -19783,7 +18622,7 @@ return array (
     'latitude' => 50.12151,
     'longitude' => 19.71239,
   ),
-  2198 => 
+  2069 => 
   array (
     'id' => 87974,
     'name' => 'Rudka',
@@ -19792,7 +18631,7 @@ return array (
     'latitude' => 52.72439,
     'longitude' => 22.72676,
   ),
-  2199 => 
+  2070 => 
   array (
     'id' => 87975,
     'name' => 'Rudna',
@@ -19801,7 +18640,7 @@ return array (
     'latitude' => 51.50981,
     'longitude' => 16.26363,
   ),
-  2200 => 
+  2071 => 
   array (
     'id' => 87976,
     'name' => 'Rudna Mała',
@@ -19810,7 +18649,7 @@ return array (
     'latitude' => 50.09889,
     'longitude' => 21.96021,
   ),
-  2201 => 
+  2072 => 
   array (
     'id' => 87977,
     'name' => 'Rudna Wielka',
@@ -19819,7 +18658,7 @@ return array (
     'latitude' => 50.08799,
     'longitude' => 21.94759,
   ),
-  2202 => 
+  2073 => 
   array (
     'id' => 87978,
     'name' => 'Rudnik',
@@ -19828,25 +18667,7 @@ return array (
     'latitude' => 50.88035,
     'longitude' => 22.97293,
   ),
-  2203 => 
-  array (
-    'id' => 87979,
-    'name' => 'Rudnik',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.12729,
-    'longitude' => 18.18598,
-  ),
-  2204 => 
-  array (
-    'id' => 87980,
-    'name' => 'Rudnik',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.85243,
-    'longitude' => 19.8474,
-  ),
-  2205 => 
+  2074 => 
   array (
     'id' => 87981,
     'name' => 'Rudnik nad Sanem',
@@ -19855,7 +18676,7 @@ return array (
     'latitude' => 50.44152,
     'longitude' => 22.24856,
   ),
-  2206 => 
+  2075 => 
   array (
     'id' => 87982,
     'name' => 'Rudniki',
@@ -19864,7 +18685,7 @@ return array (
     'latitude' => 50.52134,
     'longitude' => 19.4313,
   ),
-  2207 => 
+  2076 => 
   array (
     'id' => 87983,
     'name' => 'Rudy',
@@ -19873,7 +18694,7 @@ return array (
     'latitude' => 50.19003,
     'longitude' => 18.45334,
   ),
-  2208 => 
+  2077 => 
   array (
     'id' => 87984,
     'name' => 'Rudziczka',
@@ -19882,7 +18703,7 @@ return array (
     'latitude' => 50.03608,
     'longitude' => 18.76225,
   ),
-  2209 => 
+  2078 => 
   array (
     'id' => 87985,
     'name' => 'Rudziniec',
@@ -19891,7 +18712,7 @@ return array (
     'latitude' => 50.35324,
     'longitude' => 18.40914,
   ),
-  2210 => 
+  2079 => 
   array (
     'id' => 87986,
     'name' => 'Rumia',
@@ -19900,7 +18721,7 @@ return array (
     'latitude' => 54.57092,
     'longitude' => 18.38802,
   ),
-  2211 => 
+  2080 => 
   array (
     'id' => 87987,
     'name' => 'Rusiec',
@@ -19909,7 +18730,7 @@ return array (
     'latitude' => 51.32444,
     'longitude' => 18.98506,
   ),
-  2212 => 
+  2081 => 
   array (
     'id' => 87988,
     'name' => 'Rusinów',
@@ -19918,7 +18739,7 @@ return array (
     'latitude' => 51.43678,
     'longitude' => 20.58701,
   ),
-  2213 => 
+  2082 => 
   array (
     'id' => 87989,
     'name' => 'Rusocice',
@@ -19927,7 +18748,7 @@ return array (
     'latitude' => 49.99604,
     'longitude' => 19.60648,
   ),
-  2214 => 
+  2083 => 
   array (
     'id' => 87990,
     'name' => 'Rutki-Kossaki',
@@ -19936,7 +18757,7 @@ return array (
     'latitude' => 53.08932,
     'longitude' => 22.44011,
   ),
-  2215 => 
+  2084 => 
   array (
     'id' => 87991,
     'name' => 'Rybarzowice',
@@ -19945,7 +18766,7 @@ return array (
     'latitude' => 49.72956,
     'longitude' => 19.10162,
   ),
-  2216 => 
+  2085 => 
   array (
     'id' => 87992,
     'name' => 'Rybczewice',
@@ -19954,7 +18775,7 @@ return array (
     'latitude' => 51.02876,
     'longitude' => 22.85053,
   ),
-  2217 => 
+  2086 => 
   array (
     'id' => 87993,
     'name' => 'Rybie',
@@ -19963,7 +18784,7 @@ return array (
     'latitude' => 52.15229,
     'longitude' => 20.93655,
   ),
-  2218 => 
+  2087 => 
   array (
     'id' => 87994,
     'name' => 'Rybnik',
@@ -19972,7 +18793,7 @@ return array (
     'latitude' => 50.09713,
     'longitude' => 18.54179,
   ),
-  2219 => 
+  2088 => 
   array (
     'id' => 87995,
     'name' => 'Rybno',
@@ -19981,16 +18802,7 @@ return array (
     'latitude' => 52.24278,
     'longitude' => 20.10301,
   ),
-  2220 => 
-  array (
-    'id' => 87996,
-    'name' => 'Rybno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.38348,
-    'longitude' => 19.93229,
-  ),
-  2221 => 
+  2089 => 
   array (
     'id' => 87997,
     'name' => 'Rycerka Dolna',
@@ -19999,7 +18811,7 @@ return array (
     'latitude' => 49.47805,
     'longitude' => 19.06162,
   ),
-  2222 => 
+  2090 => 
   array (
     'id' => 87998,
     'name' => 'Rycerka Górna',
@@ -20008,7 +18820,7 @@ return array (
     'latitude' => 49.44436,
     'longitude' => 19.01596,
   ),
-  2223 => 
+  2091 => 
   array (
     'id' => 87999,
     'name' => 'Rychtal',
@@ -20017,7 +18829,7 @@ return array (
     'latitude' => 51.14533,
     'longitude' => 17.85132,
   ),
-  2224 => 
+  2092 => 
   array (
     'id' => 88000,
     'name' => 'Rychwał',
@@ -20026,7 +18838,7 @@ return array (
     'latitude' => 52.07149,
     'longitude' => 18.1651,
   ),
-  2225 => 
+  2093 => 
   array (
     'id' => 88001,
     'name' => 'Ryczywół',
@@ -20035,16 +18847,7 @@ return array (
     'latitude' => 51.69118,
     'longitude' => 21.42197,
   ),
-  2226 => 
-  array (
-    'id' => 88002,
-    'name' => 'Ryczywół',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.81324,
-    'longitude' => 16.83114,
-  ),
-  2227 => 
+  2094 => 
   array (
     'id' => 88003,
     'name' => 'Ryczów',
@@ -20053,7 +18856,7 @@ return array (
     'latitude' => 49.98103,
     'longitude' => 19.55017,
   ),
-  2228 => 
+  2095 => 
   array (
     'id' => 88004,
     'name' => 'Rydułtowy',
@@ -20062,7 +18865,7 @@ return array (
     'latitude' => 50.05857,
     'longitude' => 18.41703,
   ),
-  2229 => 
+  2096 => 
   array (
     'id' => 88005,
     'name' => 'Rydzyna',
@@ -20071,7 +18874,7 @@ return array (
     'latitude' => 51.78651,
     'longitude' => 16.66761,
   ),
-  2230 => 
+  2097 => 
   array (
     'id' => 88006,
     'name' => 'Ryglice',
@@ -20080,7 +18883,7 @@ return array (
     'latitude' => 49.87887,
     'longitude' => 21.13748,
   ),
-  2231 => 
+  2098 => 
   array (
     'id' => 88007,
     'name' => 'Ryjewo',
@@ -20089,7 +18892,7 @@ return array (
     'latitude' => 53.84463,
     'longitude' => 18.96077,
   ),
-  2232 => 
+  2099 => 
   array (
     'id' => 88008,
     'name' => 'Ryki',
@@ -20098,7 +18901,7 @@ return array (
     'latitude' => 51.62574,
     'longitude' => 21.93274,
   ),
-  2233 => 
+  2100 => 
   array (
     'id' => 88009,
     'name' => 'Rymanów',
@@ -20107,7 +18910,7 @@ return array (
     'latitude' => 49.57649,
     'longitude' => 21.86811,
   ),
-  2234 => 
+  2101 => 
   array (
     'id' => 88010,
     'name' => 'Rymań',
@@ -20116,7 +18919,7 @@ return array (
     'latitude' => 53.94391,
     'longitude' => 15.52866,
   ),
-  2235 => 
+  2102 => 
   array (
     'id' => 88011,
     'name' => 'Ryn',
@@ -20125,7 +18928,7 @@ return array (
     'latitude' => 53.9377,
     'longitude' => 21.54642,
   ),
-  2236 => 
+  2103 => 
   array (
     'id' => 88012,
     'name' => 'Rypin',
@@ -20134,7 +18937,7 @@ return array (
     'latitude' => 53.06603,
     'longitude' => 19.40941,
   ),
-  2237 => 
+  2104 => 
   array (
     'id' => 88013,
     'name' => 'Rytro',
@@ -20143,7 +18946,7 @@ return array (
     'latitude' => 49.48904,
     'longitude' => 20.66631,
   ),
-  2238 => 
+  2105 => 
   array (
     'id' => 88014,
     'name' => 'Rytwiany',
@@ -20152,7 +18955,7 @@ return array (
     'latitude' => 50.5292,
     'longitude' => 21.20636,
   ),
-  2239 => 
+  2106 => 
   array (
     'id' => 88015,
     'name' => 'Rzeczenica',
@@ -20161,7 +18964,7 @@ return array (
     'latitude' => 53.7579,
     'longitude' => 17.10752,
   ),
-  2240 => 
+  2107 => 
   array (
     'id' => 88016,
     'name' => 'Rzeczniów',
@@ -20170,7 +18973,7 @@ return array (
     'latitude' => 51.12804,
     'longitude' => 21.44008,
   ),
-  2241 => 
+  2108 => 
   array (
     'id' => 88017,
     'name' => 'Rzeczyca',
@@ -20179,16 +18982,7 @@ return array (
     'latitude' => 51.59824,
     'longitude' => 20.29484,
   ),
-  2242 => 
-  array (
-    'id' => 88018,
-    'name' => 'Rzeczyca',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.96225,
-    'longitude' => 22.74942,
-  ),
-  2243 => 
+  2109 => 
   array (
     'id' => 88019,
     'name' => 'Rzekuń',
@@ -20197,7 +18991,7 @@ return array (
     'latitude' => 53.04756,
     'longitude' => 21.62069,
   ),
-  2244 => 
+  2110 => 
   array (
     'id' => 88020,
     'name' => 'Rzepedź',
@@ -20206,7 +19000,7 @@ return array (
     'latitude' => 49.36997,
     'longitude' => 22.11174,
   ),
-  2245 => 
+  2111 => 
   array (
     'id' => 88021,
     'name' => 'Rzepiennik Strzyżewski',
@@ -20215,7 +19009,7 @@ return array (
     'latitude' => 49.80542,
     'longitude' => 21.03599,
   ),
-  2246 => 
+  2112 => 
   array (
     'id' => 88022,
     'name' => 'Rzepin',
@@ -20224,7 +19018,7 @@ return array (
     'latitude' => 52.3464,
     'longitude' => 14.83227,
   ),
-  2247 => 
+  2113 => 
   array (
     'id' => 88023,
     'name' => 'Rzeszotary',
@@ -20233,7 +19027,7 @@ return array (
     'latitude' => 49.94625,
     'longitude' => 19.9728,
   ),
-  2248 => 
+  2114 => 
   array (
     'id' => 88024,
     'name' => 'Rzeszów',
@@ -20242,7 +19036,7 @@ return array (
     'latitude' => 50.00545,
     'longitude' => 21.98848,
   ),
-  2249 => 
+  2115 => 
   array (
     'id' => 88025,
     'name' => 'Rzewnie',
@@ -20251,7 +19045,7 @@ return array (
     'latitude' => 52.83508,
     'longitude' => 21.33682,
   ),
-  2250 => 
+  2116 => 
   array (
     'id' => 88026,
     'name' => 'Rzezawa',
@@ -20260,7 +19054,7 @@ return array (
     'latitude' => 49.98997,
     'longitude' => 20.51508,
   ),
-  2251 => 
+  2117 => 
   array (
     'id' => 88027,
     'name' => 'Rzgów',
@@ -20269,7 +19063,7 @@ return array (
     'latitude' => 51.66345,
     'longitude' => 19.49181,
   ),
-  2252 => 
+  2118 => 
   array (
     'id' => 88028,
     'name' => 'Rzgów Pierwszy',
@@ -20278,7 +19072,7 @@ return array (
     'latitude' => 52.15134,
     'longitude' => 18.04976,
   ),
-  2253 => 
+  2119 => 
   array (
     'id' => 88029,
     'name' => 'Rzozów',
@@ -20287,7 +19081,7 @@ return array (
     'latitude' => 49.95398,
     'longitude' => 19.79668,
   ),
-  2254 => 
+  2120 => 
   array (
     'id' => 88030,
     'name' => 'Rzyki',
@@ -20296,7 +19090,7 @@ return array (
     'latitude' => 49.81129,
     'longitude' => 19.39619,
   ),
-  2255 => 
+  2121 => 
   array (
     'id' => 88031,
     'name' => 'Rząska',
@@ -20305,7 +19099,7 @@ return array (
     'latitude' => 50.09713,
     'longitude' => 19.84509,
   ),
-  2256 => 
+  2122 => 
   array (
     'id' => 88032,
     'name' => 'Rząśnik',
@@ -20314,7 +19108,7 @@ return array (
     'latitude' => 52.71332,
     'longitude' => 21.36772,
   ),
-  2257 => 
+  2123 => 
   array (
     'id' => 88033,
     'name' => 'Różan',
@@ -20323,7 +19117,7 @@ return array (
     'latitude' => 52.88757,
     'longitude' => 21.39105,
   ),
-  2258 => 
+  2124 => 
   array (
     'id' => 88034,
     'name' => 'Różanka-Polanka',
@@ -20332,7 +19126,7 @@ return array (
     'latitude' => 51.14344,
     'longitude' => 17.01987,
   ),
-  2259 => 
+  2125 => 
   array (
     'id' => 88035,
     'name' => 'Rąbino',
@@ -20341,7 +19135,7 @@ return array (
     'latitude' => 53.8663,
     'longitude' => 15.94485,
   ),
-  2260 => 
+  2126 => 
   array (
     'id' => 88036,
     'name' => 'Rączna',
@@ -20350,7 +19144,7 @@ return array (
     'latitude' => 50.00984,
     'longitude' => 19.76784,
   ),
-  2261 => 
+  2127 => 
   array (
     'id' => 88037,
     'name' => 'Ręczno',
@@ -20359,7 +19153,7 @@ return array (
     'latitude' => 51.19026,
     'longitude' => 19.85375,
   ),
-  2262 => 
+  2128 => 
   array (
     'id' => 88038,
     'name' => 'Rędziny',
@@ -20368,7 +19162,7 @@ return array (
     'latitude' => 50.85922,
     'longitude' => 19.2162,
   ),
-  2263 => 
+  2129 => 
   array (
     'id' => 88039,
     'name' => 'Sabnie',
@@ -20377,7 +19171,7 @@ return array (
     'latitude' => 52.50097,
     'longitude' => 22.30697,
   ),
-  2264 => 
+  2130 => 
   array (
     'id' => 88040,
     'name' => 'Sadki',
@@ -20386,7 +19180,7 @@ return array (
     'latitude' => 53.16036,
     'longitude' => 17.44912,
   ),
-  2265 => 
+  2131 => 
   array (
     'id' => 88041,
     'name' => 'Sadkowice',
@@ -20395,7 +19189,7 @@ return array (
     'latitude' => 51.72517,
     'longitude' => 20.51465,
   ),
-  2266 => 
+  2132 => 
   array (
     'id' => 88042,
     'name' => 'Sadlinki',
@@ -20404,7 +19198,7 @@ return array (
     'latitude' => 53.66539,
     'longitude' => 18.86807,
   ),
-  2267 => 
+  2133 => 
   array (
     'id' => 88043,
     'name' => 'Sadowie',
@@ -20413,7 +19207,7 @@ return array (
     'latitude' => 50.85261,
     'longitude' => 21.36884,
   ),
-  2268 => 
+  2134 => 
   array (
     'id' => 88044,
     'name' => 'Sadowne',
@@ -20422,7 +19216,7 @@ return array (
     'latitude' => 52.64124,
     'longitude' => 21.84563,
   ),
-  2269 => 
+  2135 => 
   array (
     'id' => 88045,
     'name' => 'Samborzec',
@@ -20431,7 +19225,7 @@ return array (
     'latitude' => 50.64663,
     'longitude' => 21.64822,
   ),
-  2270 => 
+  2136 => 
   array (
     'id' => 88046,
     'name' => 'Sandomierz',
@@ -20440,7 +19234,7 @@ return array (
     'latitude' => 50.68265,
     'longitude' => 21.74898,
   ),
-  2271 => 
+  2137 => 
   array (
     'id' => 88047,
     'name' => 'Sanka',
@@ -20449,7 +19243,7 @@ return array (
     'latitude' => 50.06871,
     'longitude' => 19.64596,
   ),
-  2272 => 
+  2138 => 
   array (
     'id' => 88048,
     'name' => 'Sanniki',
@@ -20458,7 +19252,7 @@ return array (
     'latitude' => 52.33046,
     'longitude' => 19.86766,
   ),
-  2273 => 
+  2139 => 
   array (
     'id' => 88049,
     'name' => 'Sanok',
@@ -20467,7 +19261,7 @@ return array (
     'latitude' => 49.55573,
     'longitude' => 22.2056,
   ),
-  2274 => 
+  2140 => 
   array (
     'id' => 88050,
     'name' => 'Santok',
@@ -20476,7 +19270,7 @@ return array (
     'latitude' => 52.73785,
     'longitude' => 15.41021,
   ),
-  2275 => 
+  2141 => 
   array (
     'id' => 88051,
     'name' => 'Sarnaki',
@@ -20485,7 +19279,7 @@ return array (
     'latitude' => 52.31504,
     'longitude' => 22.89044,
   ),
-  2276 => 
+  2142 => 
   array (
     'id' => 88052,
     'name' => 'Sarnów',
@@ -20494,7 +19288,7 @@ return array (
     'latitude' => 50.3738,
     'longitude' => 19.15061,
   ),
-  2277 => 
+  2143 => 
   array (
     'id' => 88053,
     'name' => 'Sawin',
@@ -20503,7 +19297,7 @@ return array (
     'latitude' => 51.27443,
     'longitude' => 23.43375,
   ),
-  2278 => 
+  2144 => 
   array (
     'id' => 88054,
     'name' => 'Secemin',
@@ -20512,7 +19306,7 @@ return array (
     'latitude' => 50.76676,
     'longitude' => 19.83599,
   ),
-  2279 => 
+  2145 => 
   array (
     'id' => 88055,
     'name' => 'Sejny',
@@ -20521,7 +19315,7 @@ return array (
     'latitude' => 54.10802,
     'longitude' => 23.34698,
   ),
-  2280 => 
+  2146 => 
   array (
     'id' => 88056,
     'name' => 'Serniki',
@@ -20530,7 +19324,7 @@ return array (
     'latitude' => 51.43716,
     'longitude' => 22.65853,
   ),
-  2281 => 
+  2147 => 
   array (
     'id' => 88057,
     'name' => 'Serock',
@@ -20539,7 +19333,7 @@ return array (
     'latitude' => 52.51036,
     'longitude' => 21.0691,
   ),
-  2282 => 
+  2148 => 
   array (
     'id' => 88058,
     'name' => 'Serokomla',
@@ -20548,7 +19342,7 @@ return array (
     'latitude' => 51.7007,
     'longitude' => 22.33237,
   ),
-  2283 => 
+  2149 => 
   array (
     'id' => 88059,
     'name' => 'Sianów',
@@ -20557,7 +19351,7 @@ return array (
     'latitude' => 54.22646,
     'longitude' => 16.29127,
   ),
-  2284 => 
+  2150 => 
   array (
     'id' => 88060,
     'name' => 'Sicienko',
@@ -20566,7 +19360,7 @@ return array (
     'latitude' => 53.20387,
     'longitude' => 17.80051,
   ),
-  2285 => 
+  2151 => 
   array (
     'id' => 88061,
     'name' => 'Sidzina',
@@ -20575,16 +19369,7 @@ return array (
     'latitude' => 49.59146,
     'longitude' => 19.71119,
   ),
-  2286 => 
-  array (
-    'id' => 88062,
-    'name' => 'Sidzina',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.57375,
-    'longitude' => 17.44904,
-  ),
-  2287 => 
+  2152 => 
   array (
     'id' => 88063,
     'name' => 'Siechnice',
@@ -20593,7 +19378,7 @@ return array (
     'latitude' => 51.03384,
     'longitude' => 17.14743,
   ),
-  2288 => 
+  2153 => 
   array (
     'id' => 88064,
     'name' => 'Siedlce',
@@ -20602,7 +19387,7 @@ return array (
     'latitude' => 52.16772,
     'longitude' => 22.29006,
   ),
-  2289 => 
+  2154 => 
   array (
     'id' => 88065,
     'name' => 'Siedlec',
@@ -20611,7 +19396,7 @@ return array (
     'latitude' => 52.13781,
     'longitude' => 16.00279,
   ),
-  2290 => 
+  2155 => 
   array (
     'id' => 88066,
     'name' => 'Siedleczka',
@@ -20620,7 +19405,7 @@ return array (
     'latitude' => 49.96061,
     'longitude' => 22.37949,
   ),
-  2291 => 
+  2156 => 
   array (
     'id' => 88067,
     'name' => 'Siedliska',
@@ -20629,16 +19414,7 @@ return array (
     'latitude' => 49.87163,
     'longitude' => 20.99625,
   ),
-  2292 => 
-  array (
-    'id' => 88068,
-    'name' => 'Siedliska',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.95409,
-    'longitude' => 21.94742,
-  ),
-  2293 => 
+  2157 => 
   array (
     'id' => 88069,
     'name' => 'Siedlisko',
@@ -20647,7 +19423,7 @@ return array (
     'latitude' => 51.76864,
     'longitude' => 15.81396,
   ),
-  2294 => 
+  2158 => 
   array (
     'id' => 88070,
     'name' => 'Siekierczyn',
@@ -20656,7 +19432,7 @@ return array (
     'latitude' => 51.12217,
     'longitude' => 15.19375,
   ),
-  2295 => 
+  2159 => 
   array (
     'id' => 88071,
     'name' => 'Siemianowice Śląskie',
@@ -20665,7 +19441,7 @@ return array (
     'latitude' => 50.32738,
     'longitude' => 19.02901,
   ),
-  2296 => 
+  2160 => 
   array (
     'id' => 88072,
     'name' => 'Siemiatycze',
@@ -20674,7 +19450,7 @@ return array (
     'latitude' => 52.42719,
     'longitude' => 22.86231,
   ),
-  2297 => 
+  2161 => 
   array (
     'id' => 88073,
     'name' => 'Siemiechów',
@@ -20683,7 +19459,7 @@ return array (
     'latitude' => 49.85359,
     'longitude' => 20.90595,
   ),
-  2298 => 
+  2162 => 
   array (
     'id' => 88074,
     'name' => 'Siemień',
@@ -20692,7 +19468,7 @@ return array (
     'latitude' => 51.62883,
     'longitude' => 22.77243,
   ),
-  2299 => 
+  2163 => 
   array (
     'id' => 88075,
     'name' => 'Siemiątkowo',
@@ -20701,7 +19477,7 @@ return array (
     'latitude' => 52.8811,
     'longitude' => 20.02893,
   ),
-  2300 => 
+  2164 => 
   array (
     'id' => 88076,
     'name' => 'Siemkowice',
@@ -20710,7 +19486,7 @@ return array (
     'latitude' => 51.20194,
     'longitude' => 18.8988,
   ),
-  2301 => 
+  2165 => 
   array (
     'id' => 88077,
     'name' => 'Sieniawa',
@@ -20719,25 +19495,7 @@ return array (
     'latitude' => 50.1779,
     'longitude' => 22.60954,
   ),
-  2302 => 
-  array (
-    'id' => 88078,
-    'name' => 'Sieniawa',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.53947,
-    'longitude' => 19.93014,
-  ),
-  2303 => 
-  array (
-    'id' => 88079,
-    'name' => 'Sieniawa',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.36344,
-    'longitude' => 15.37768,
-  ),
-  2304 => 
+  2166 => 
   array (
     'id' => 88080,
     'name' => 'Sieniawa Żarska',
@@ -20746,7 +19504,7 @@ return array (
     'latitude' => 51.64007,
     'longitude' => 15.06045,
   ),
-  2305 => 
+  2167 => 
   array (
     'id' => 88081,
     'name' => 'Siennica',
@@ -20755,7 +19513,7 @@ return array (
     'latitude' => 52.09164,
     'longitude' => 21.61921,
   ),
-  2306 => 
+  2168 => 
   array (
     'id' => 88082,
     'name' => 'Siennica Różana',
@@ -20764,7 +19522,7 @@ return array (
     'latitude' => 51.00123,
     'longitude' => 23.3226,
   ),
-  2307 => 
+  2169 => 
   array (
     'id' => 88083,
     'name' => 'Sienno',
@@ -20773,7 +19531,7 @@ return array (
     'latitude' => 51.08773,
     'longitude' => 21.48325,
   ),
-  2308 => 
+  2170 => 
   array (
     'id' => 88084,
     'name' => 'Siepraw',
@@ -20782,7 +19540,7 @@ return array (
     'latitude' => 49.91437,
     'longitude' => 19.95864,
   ),
-  2309 => 
+  2171 => 
   array (
     'id' => 88085,
     'name' => 'Sieradz',
@@ -20791,7 +19549,7 @@ return array (
     'latitude' => 51.59584,
     'longitude' => 18.73023,
   ),
-  2310 => 
+  2172 => 
   array (
     'id' => 88086,
     'name' => 'Sieradza',
@@ -20800,7 +19558,7 @@ return array (
     'latitude' => 50.13499,
     'longitude' => 20.92947,
   ),
-  2311 => 
+  2173 => 
   array (
     'id' => 88087,
     'name' => 'Sierakowice',
@@ -20809,7 +19567,7 @@ return array (
     'latitude' => 54.3461,
     'longitude' => 17.89252,
   ),
-  2312 => 
+  2174 => 
   array (
     'id' => 88088,
     'name' => 'Sieraków',
@@ -20818,7 +19576,7 @@ return array (
     'latitude' => 52.65134,
     'longitude' => 16.08047,
   ),
-  2313 => 
+  2175 => 
   array (
     'id' => 88089,
     'name' => 'Sieraków Śląski',
@@ -20827,7 +19585,7 @@ return array (
     'latitude' => 50.8029,
     'longitude' => 18.57548,
   ),
-  2314 => 
+  2176 => 
   array (
     'id' => 88090,
     'name' => 'Sieroszewice',
@@ -20836,7 +19594,7 @@ return array (
     'latitude' => 51.63347,
     'longitude' => 17.972,
   ),
-  2315 => 
+  2177 => 
   array (
     'id' => 88091,
     'name' => 'Sierpc',
@@ -20845,7 +19603,7 @@ return array (
     'latitude' => 52.8568,
     'longitude' => 19.66913,
   ),
-  2316 => 
+  2178 => 
   array (
     'id' => 88092,
     'name' => 'Sietesz',
@@ -20854,7 +19612,7 @@ return array (
     'latitude' => 49.98622,
     'longitude' => 22.34671,
   ),
-  2317 => 
+  2179 => 
   array (
     'id' => 88093,
     'name' => 'Siewierz',
@@ -20863,7 +19621,7 @@ return array (
     'latitude' => 50.46657,
     'longitude' => 19.23028,
   ),
-  2318 => 
+  2180 => 
   array (
     'id' => 88094,
     'name' => 'Sitno',
@@ -20872,7 +19630,7 @@ return array (
     'latitude' => 50.74944,
     'longitude' => 23.3626,
   ),
-  2319 => 
+  2181 => 
   array (
     'id' => 88095,
     'name' => 'Skalbmierz',
@@ -20881,7 +19639,7 @@ return array (
     'latitude' => 50.31993,
     'longitude' => 20.39929,
   ),
-  2320 => 
+  2182 => 
   array (
     'id' => 88096,
     'name' => 'Skalmierzyce',
@@ -20890,7 +19648,7 @@ return array (
     'latitude' => 51.70097,
     'longitude' => 17.96333,
   ),
-  2321 => 
+  2183 => 
   array (
     'id' => 88097,
     'name' => 'Skarbimierz Osiedle',
@@ -20899,7 +19657,7 @@ return array (
     'latitude' => 50.84584,
     'longitude' => 17.41865,
   ),
-  2322 => 
+  2184 => 
   array (
     'id' => 88098,
     'name' => 'Skarszewy',
@@ -20908,7 +19666,7 @@ return array (
     'latitude' => 54.06911,
     'longitude' => 18.44416,
   ),
-  2323 => 
+  2185 => 
   array (
     'id' => 88099,
     'name' => 'Skaryszew',
@@ -20917,7 +19675,7 @@ return array (
     'latitude' => 51.31075,
     'longitude' => 21.25233,
   ),
-  2324 => 
+  2186 => 
   array (
     'id' => 88100,
     'name' => 'Skarżysko Kościelne',
@@ -20926,7 +19684,7 @@ return array (
     'latitude' => 51.13822,
     'longitude' => 20.91196,
   ),
-  2325 => 
+  2187 => 
   array (
     'id' => 88101,
     'name' => 'Skarżysko-Kamienna',
@@ -20935,7 +19693,7 @@ return array (
     'latitude' => 51.11311,
     'longitude' => 20.87162,
   ),
-  2326 => 
+  2188 => 
   array (
     'id' => 88102,
     'name' => 'Skawica',
@@ -20944,7 +19702,7 @@ return array (
     'latitude' => 49.67718,
     'longitude' => 19.62321,
   ),
-  2327 => 
+  2189 => 
   array (
     'id' => 88103,
     'name' => 'Skawina',
@@ -20953,7 +19711,7 @@ return array (
     'latitude' => 49.97524,
     'longitude' => 19.82869,
   ),
-  2328 => 
+  2190 => 
   array (
     'id' => 88104,
     'name' => 'Skawinki',
@@ -20962,7 +19720,7 @@ return array (
     'latitude' => 49.82281,
     'longitude' => 19.71256,
   ),
-  2329 => 
+  2191 => 
   array (
     'id' => 88105,
     'name' => 'Skała',
@@ -20971,7 +19729,7 @@ return array (
     'latitude' => 50.23052,
     'longitude' => 19.85363,
   ),
-  2330 => 
+  2192 => 
   array (
     'id' => 88106,
     'name' => 'Skierbieszów',
@@ -20980,7 +19738,7 @@ return array (
     'latitude' => 50.85158,
     'longitude' => 23.35917,
   ),
-  2331 => 
+  2193 => 
   array (
     'id' => 88107,
     'name' => 'Skierniewice',
@@ -20989,7 +19747,7 @@ return array (
     'latitude' => 51.95485,
     'longitude' => 20.15837,
   ),
-  2332 => 
+  2194 => 
   array (
     'id' => 88108,
     'name' => 'Skoczów',
@@ -20998,7 +19756,7 @@ return array (
     'latitude' => 49.80089,
     'longitude' => 18.7877,
   ),
-  2333 => 
+  2195 => 
   array (
     'id' => 88109,
     'name' => 'Skoki',
@@ -21007,7 +19765,7 @@ return array (
     'latitude' => 52.67222,
     'longitude' => 17.16107,
   ),
-  2334 => 
+  2196 => 
   array (
     'id' => 88110,
     'name' => 'Skomielna Czarna',
@@ -21016,7 +19774,7 @@ return array (
     'latitude' => 49.72709,
     'longitude' => 19.83633,
   ),
-  2335 => 
+  2197 => 
   array (
     'id' => 88111,
     'name' => 'Skomlin',
@@ -21025,7 +19783,7 @@ return array (
     'latitude' => 51.17089,
     'longitude' => 18.38699,
   ),
-  2336 => 
+  2198 => 
   array (
     'id' => 88112,
     'name' => 'Skorogoszcz',
@@ -21034,7 +19792,7 @@ return array (
     'latitude' => 50.75916,
     'longitude' => 17.68198,
   ),
-  2337 => 
+  2199 => 
   array (
     'id' => 88113,
     'name' => 'Skoroszyce',
@@ -21043,7 +19801,7 @@ return array (
     'latitude' => 50.59648,
     'longitude' => 17.38243,
   ),
-  2338 => 
+  2200 => 
   array (
     'id' => 88114,
     'name' => 'Skołyszyn',
@@ -21052,7 +19810,7 @@ return array (
     'latitude' => 49.74955,
     'longitude' => 21.33665,
   ),
-  2339 => 
+  2201 => 
   array (
     'id' => 88115,
     'name' => 'Skrwilno',
@@ -21061,7 +19819,7 @@ return array (
     'latitude' => 53.01607,
     'longitude' => 19.62364,
   ),
-  2340 => 
+  2202 => 
   array (
     'id' => 88116,
     'name' => 'Skrzydlna',
@@ -21070,7 +19828,7 @@ return array (
     'latitude' => 49.75343,
     'longitude' => 20.18618,
   ),
-  2341 => 
+  2203 => 
   array (
     'id' => 88117,
     'name' => 'Skrzyszów',
@@ -21079,16 +19837,7 @@ return array (
     'latitude' => 49.99373,
     'longitude' => 21.06139,
   ),
-  2342 => 
-  array (
-    'id' => 88118,
-    'name' => 'Skrzyszów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.94873,
-    'longitude' => 18.48879,
-  ),
-  2343 => 
+  2204 => 
   array (
     'id' => 88119,
     'name' => 'Skulsk',
@@ -21097,7 +19846,7 @@ return array (
     'latitude' => 52.482,
     'longitude' => 18.33112,
   ),
-  2344 => 
+  2205 => 
   array (
     'id' => 88120,
     'name' => 'Skwierzyna',
@@ -21106,7 +19855,7 @@ return array (
     'latitude' => 52.59914,
     'longitude' => 15.50652,
   ),
-  2345 => 
+  2206 => 
   array (
     'id' => 88121,
     'name' => 'Skórcz',
@@ -21115,7 +19864,7 @@ return array (
     'latitude' => 53.79436,
     'longitude' => 18.52561,
   ),
-  2346 => 
+  2207 => 
   array (
     'id' => 88122,
     'name' => 'Skórzec',
@@ -21124,7 +19873,7 @@ return array (
     'latitude' => 52.10727,
     'longitude' => 22.13052,
   ),
-  2347 => 
+  2208 => 
   array (
     'id' => 88123,
     'name' => 'Skąpe',
@@ -21133,7 +19882,7 @@ return array (
     'latitude' => 52.15292,
     'longitude' => 15.45845,
   ),
-  2348 => 
+  2209 => 
   array (
     'id' => 88124,
     'name' => 'Skępe',
@@ -21142,7 +19891,7 @@ return array (
     'latitude' => 52.86798,
     'longitude' => 19.35604,
   ),
-  2349 => 
+  2210 => 
   array (
     'id' => 88125,
     'name' => 'Smolec',
@@ -21151,7 +19900,7 @@ return array (
     'latitude' => 51.07322,
     'longitude' => 16.88221,
   ),
-  2350 => 
+  2211 => 
   array (
     'id' => 88126,
     'name' => 'Smołdzino',
@@ -21160,7 +19909,7 @@ return array (
     'latitude' => 54.66318,
     'longitude' => 17.21369,
   ),
-  2351 => 
+  2212 => 
   array (
     'id' => 88127,
     'name' => 'Smyków',
@@ -21169,7 +19918,7 @@ return array (
     'latitude' => 51.04442,
     'longitude' => 20.40032,
   ),
-  2352 => 
+  2213 => 
   array (
     'id' => 88128,
     'name' => 'Smęgorzów',
@@ -21178,7 +19927,7 @@ return array (
     'latitude' => 50.22843,
     'longitude' => 21.00414,
   ),
-  2353 => 
+  2214 => 
   array (
     'id' => 88129,
     'name' => 'Smętowo Graniczne',
@@ -21187,7 +19936,7 @@ return array (
     'latitude' => 53.74638,
     'longitude' => 18.68586,
   ),
-  2354 => 
+  2215 => 
   array (
     'id' => 88130,
     'name' => 'Sobienie Jeziory',
@@ -21196,7 +19945,7 @@ return array (
     'latitude' => 51.93273,
     'longitude' => 21.30335,
   ),
-  2355 => 
+  2216 => 
   array (
     'id' => 88131,
     'name' => 'Sobków',
@@ -21205,7 +19954,7 @@ return array (
     'latitude' => 50.69999,
     'longitude' => 20.45062,
   ),
-  2356 => 
+  2217 => 
   array (
     'id' => 88132,
     'name' => 'Sobolew',
@@ -21214,7 +19963,7 @@ return array (
     'latitude' => 51.7366,
     'longitude' => 21.66349,
   ),
-  2357 => 
+  2218 => 
   array (
     'id' => 88133,
     'name' => 'Sobótka',
@@ -21223,7 +19972,7 @@ return array (
     'latitude' => 50.89992,
     'longitude' => 16.74441,
   ),
-  2358 => 
+  2219 => 
   array (
     'id' => 88134,
     'name' => 'Sochaczew',
@@ -21232,7 +19981,7 @@ return array (
     'latitude' => 52.22944,
     'longitude' => 20.23838,
   ),
-  2359 => 
+  2220 => 
   array (
     'id' => 88135,
     'name' => 'Sochocin',
@@ -21241,7 +19990,7 @@ return array (
     'latitude' => 52.68715,
     'longitude' => 20.47259,
   ),
-  2360 => 
+  2221 => 
   array (
     'id' => 88136,
     'name' => 'Sokolniki',
@@ -21250,16 +19999,7 @@ return array (
     'latitude' => 50.63803,
     'longitude' => 21.80649,
   ),
-  2361 => 
-  array (
-    'id' => 88137,
-    'name' => 'Sokolniki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.30738,
-    'longitude' => 18.33275,
-  ),
-  2362 => 
+  2222 => 
   array (
     'id' => 88138,
     'name' => 'Sokoły',
@@ -21268,7 +20008,7 @@ return array (
     'latitude' => 52.99314,
     'longitude' => 22.7005,
   ),
-  2363 => 
+  2223 => 
   array (
     'id' => 88139,
     'name' => 'Sokołów Małopolski',
@@ -21277,7 +20017,7 @@ return array (
     'latitude' => 50.22909,
     'longitude' => 22.11968,
   ),
-  2364 => 
+  2224 => 
   array (
     'id' => 88140,
     'name' => 'Sokołów Podlaski',
@@ -21286,7 +20026,7 @@ return array (
     'latitude' => 52.40677,
     'longitude' => 22.25307,
   ),
-  2365 => 
+  2225 => 
   array (
     'id' => 88141,
     'name' => 'Sokółka',
@@ -21295,7 +20035,7 @@ return array (
     'latitude' => 53.40715,
     'longitude' => 23.50228,
   ),
-  2366 => 
+  2226 => 
   array (
     'id' => 88142,
     'name' => 'Solec Kujawski',
@@ -21304,7 +20044,7 @@ return array (
     'latitude' => 53.08371,
     'longitude' => 18.22572,
   ),
-  2367 => 
+  2227 => 
   array (
     'id' => 88143,
     'name' => 'Solec Nad Wisłą',
@@ -21313,7 +20053,7 @@ return array (
     'latitude' => 51.13633,
     'longitude' => 21.76563,
   ),
-  2368 => 
+  2228 => 
   array (
     'id' => 88144,
     'name' => 'Solec-Zdrój',
@@ -21322,7 +20062,7 @@ return array (
     'latitude' => 50.36594,
     'longitude' => 20.88956,
   ),
-  2369 => 
+  2229 => 
   array (
     'id' => 88145,
     'name' => 'Somonino',
@@ -21331,7 +20071,7 @@ return array (
     'latitude' => 54.27555,
     'longitude' => 18.19885,
   ),
-  2370 => 
+  2230 => 
   array (
     'id' => 88146,
     'name' => 'Sompolno',
@@ -21340,7 +20080,7 @@ return array (
     'latitude' => 52.38832,
     'longitude' => 18.50282,
   ),
-  2371 => 
+  2231 => 
   array (
     'id' => 88147,
     'name' => 'Sonina',
@@ -21349,7 +20089,7 @@ return array (
     'latitude' => 50.06089,
     'longitude' => 22.26551,
   ),
-  2372 => 
+  2232 => 
   array (
     'id' => 88148,
     'name' => 'Sopot',
@@ -21358,7 +20098,7 @@ return array (
     'latitude' => 54.4418,
     'longitude' => 18.56003,
   ),
-  2373 => 
+  2233 => 
   array (
     'id' => 88149,
     'name' => 'Sopotnia Wielka',
@@ -21367,7 +20107,7 @@ return array (
     'latitude' => 49.56853,
     'longitude' => 19.28289,
   ),
-  2374 => 
+  2234 => 
   array (
     'id' => 88150,
     'name' => 'Sosnowica',
@@ -21376,7 +20116,7 @@ return array (
     'latitude' => 51.52065,
     'longitude' => 23.09215,
   ),
-  2375 => 
+  2235 => 
   array (
     'id' => 88151,
     'name' => 'Sosnowice',
@@ -21385,7 +20125,7 @@ return array (
     'latitude' => 49.93995,
     'longitude' => 19.71514,
   ),
-  2376 => 
+  2236 => 
   array (
     'id' => 88152,
     'name' => 'Sosnowiec',
@@ -21394,7 +20134,7 @@ return array (
     'latitude' => 50.27119,
     'longitude' => 19.19463,
   ),
-  2377 => 
+  2237 => 
   array (
     'id' => 88153,
     'name' => 'Sosnówka',
@@ -21403,16 +20143,7 @@ return array (
     'latitude' => 51.75084,
     'longitude' => 23.33814,
   ),
-  2378 => 
-  array (
-    'id' => 88154,
-    'name' => 'Sosnówka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.8183,
-    'longitude' => 15.72315,
-  ),
-  2379 => 
+  2238 => 
   array (
     'id' => 88155,
     'name' => 'Sołtysowice',
@@ -21421,7 +20152,7 @@ return array (
     'latitude' => 51.15282,
     'longitude' => 17.07103,
   ),
-  2380 => 
+  2239 => 
   array (
     'id' => 88156,
     'name' => 'Sońsk',
@@ -21430,7 +20161,7 @@ return array (
     'latitude' => 52.78164,
     'longitude' => 20.69901,
   ),
-  2381 => 
+  2240 => 
   array (
     'id' => 88157,
     'name' => 'Sośnica',
@@ -21439,7 +20170,7 @@ return array (
     'latitude' => 49.90083,
     'longitude' => 22.87469,
   ),
-  2382 => 
+  2241 => 
   array (
     'id' => 88158,
     'name' => 'Sośnicowice',
@@ -21448,7 +20179,7 @@ return array (
     'latitude' => 50.27214,
     'longitude' => 18.52982,
   ),
-  2383 => 
+  2242 => 
   array (
     'id' => 88159,
     'name' => 'Sośnie',
@@ -21457,7 +20188,7 @@ return array (
     'latitude' => 51.47315,
     'longitude' => 17.63383,
   ),
-  2384 => 
+  2243 => 
   array (
     'id' => 88160,
     'name' => 'Sośno',
@@ -21466,7 +20197,7 @@ return array (
     'latitude' => 53.38922,
     'longitude' => 17.68713,
   ),
-  2385 => 
+  2244 => 
   array (
     'id' => 88161,
     'name' => 'Spiczyn',
@@ -21475,7 +20206,7 @@ return array (
     'latitude' => 51.34128,
     'longitude' => 22.75354,
   ),
-  2386 => 
+  2245 => 
   array (
     'id' => 88162,
     'name' => 'Spytkowice',
@@ -21484,7 +20215,7 @@ return array (
     'latitude' => 49.99671,
     'longitude' => 19.51103,
   ),
-  2387 => 
+  2246 => 
   array (
     'id' => 88163,
     'name' => 'Srokowo',
@@ -21493,7 +20224,7 @@ return array (
     'latitude' => 54.21416,
     'longitude' => 21.52282,
   ),
-  2388 => 
+  2247 => 
   array (
     'id' => 88164,
     'name' => 'Stabłowice',
@@ -21502,7 +20233,7 @@ return array (
     'latitude' => 51.15375,
     'longitude' => 16.9002,
   ),
-  2389 => 
+  2248 => 
   array (
     'id' => 88165,
     'name' => 'Stalowa Wola',
@@ -21511,7 +20242,7 @@ return array (
     'latitude' => 50.58286,
     'longitude' => 22.05334,
   ),
-  2390 => 
+  2249 => 
   array (
     'id' => 88166,
     'name' => 'Stanisław Dolny',
@@ -21520,7 +20251,7 @@ return array (
     'latitude' => 49.9047,
     'longitude' => 19.65334,
   ),
-  2391 => 
+  2250 => 
   array (
     'id' => 88167,
     'name' => 'Stanisław Górny',
@@ -21529,7 +20260,7 @@ return array (
     'latitude' => 49.91155,
     'longitude' => 19.62931,
   ),
-  2392 => 
+  2251 => 
   array (
     'id' => 88168,
     'name' => 'Stanisławice',
@@ -21538,7 +20269,7 @@ return array (
     'latitude' => 49.9855,
     'longitude' => 20.35123,
   ),
-  2393 => 
+  2252 => 
   array (
     'id' => 88169,
     'name' => 'Stanisławów',
@@ -21547,7 +20278,7 @@ return array (
     'latitude' => 52.28937,
     'longitude' => 21.54848,
   ),
-  2394 => 
+  2253 => 
   array (
     'id' => 88170,
     'name' => 'Stanisławów Pierwszy',
@@ -21556,7 +20287,7 @@ return array (
     'latitude' => 52.37485,
     'longitude' => 21.05184,
   ),
-  2395 => 
+  2254 => 
   array (
     'id' => 88171,
     'name' => 'Stanowice',
@@ -21565,16 +20296,7 @@ return array (
     'latitude' => 50.13037,
     'longitude' => 18.67084,
   ),
-  2396 => 
-  array (
-    'id' => 88172,
-    'name' => 'Stanowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.93106,
-    'longitude' => 16.37426,
-  ),
-  2397 => 
+  2255 => 
   array (
     'id' => 88173,
     'name' => 'Stara Błotnica',
@@ -21583,7 +20305,7 @@ return array (
     'latitude' => 51.54676,
     'longitude' => 20.97479,
   ),
-  2398 => 
+  2256 => 
   array (
     'id' => 88174,
     'name' => 'Stara Dąbrowa',
@@ -21592,7 +20314,7 @@ return array (
     'latitude' => 53.42191,
     'longitude' => 15.14405,
   ),
-  2399 => 
+  2257 => 
   array (
     'id' => 88175,
     'name' => 'Stara Kamienica',
@@ -21601,7 +20323,7 @@ return array (
     'latitude' => 50.91602,
     'longitude' => 15.57286,
   ),
-  2400 => 
+  2258 => 
   array (
     'id' => 88176,
     'name' => 'Stara Kiszewa',
@@ -21610,7 +20332,7 @@ return array (
     'latitude' => 53.99006,
     'longitude' => 18.16958,
   ),
-  2401 => 
+  2259 => 
   array (
     'id' => 88177,
     'name' => 'Stara Kornica',
@@ -21619,7 +20341,7 @@ return array (
     'latitude' => 52.18183,
     'longitude' => 22.93752,
   ),
-  2402 => 
+  2260 => 
   array (
     'id' => 88178,
     'name' => 'Stara Wieś',
@@ -21628,7 +20350,7 @@ return array (
     'latitude' => 49.71505,
     'longitude' => 22.00441,
   ),
-  2403 => 
+  2261 => 
   array (
     'id' => 88179,
     'name' => 'Starachowice',
@@ -21637,7 +20359,7 @@ return array (
     'latitude' => 51.0374,
     'longitude' => 21.07126,
   ),
-  2404 => 
+  2262 => 
   array (
     'id' => 88180,
     'name' => 'Starcza',
@@ -21646,7 +20368,7 @@ return array (
     'latitude' => 50.66421,
     'longitude' => 19.0418,
   ),
-  2405 => 
+  2263 => 
   array (
     'id' => 88181,
     'name' => 'Stare Babice',
@@ -21655,7 +20377,7 @@ return array (
     'latitude' => 52.26028,
     'longitude' => 20.83403,
   ),
-  2406 => 
+  2264 => 
   array (
     'id' => 88182,
     'name' => 'Stare Bogaczowice',
@@ -21664,7 +20386,7 @@ return array (
     'latitude' => 50.84752,
     'longitude' => 16.19308,
   ),
-  2407 => 
+  2265 => 
   array (
     'id' => 88183,
     'name' => 'Stare Czarnowo',
@@ -21673,7 +20395,7 @@ return array (
     'latitude' => 53.27861,
     'longitude' => 14.77906,
   ),
-  2408 => 
+  2266 => 
   array (
     'id' => 88184,
     'name' => 'Stare Juchy',
@@ -21682,7 +20404,7 @@ return array (
     'latitude' => 53.92198,
     'longitude' => 22.17367,
   ),
-  2409 => 
+  2267 => 
   array (
     'id' => 88185,
     'name' => 'Stare Kurowo',
@@ -21691,7 +20413,7 @@ return array (
     'latitude' => 52.85669,
     'longitude' => 15.67749,
   ),
-  2410 => 
+  2268 => 
   array (
     'id' => 88186,
     'name' => 'Stare Miasto',
@@ -21700,16 +20422,7 @@ return array (
     'latitude' => 50.28879,
     'longitude' => 22.42928,
   ),
-  2411 => 
-  array (
-    'id' => 88187,
-    'name' => 'Stare Miasto',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.17972,
-    'longitude' => 18.21499,
-  ),
-  2412 => 
+  2269 => 
   array (
     'id' => 88188,
     'name' => 'Stare Pole',
@@ -21718,7 +20431,7 @@ return array (
     'latitude' => 54.05667,
     'longitude' => 19.20874,
   ),
-  2413 => 
+  2270 => 
   array (
     'id' => 88189,
     'name' => 'Stargard',
@@ -21727,7 +20440,7 @@ return array (
     'latitude' => 53.33672,
     'longitude' => 15.0499,
   ),
-  2414 => 
+  2271 => 
   array (
     'id' => 88190,
     'name' => 'Starogard Gdański',
@@ -21736,7 +20449,7 @@ return array (
     'latitude' => 53.96396,
     'longitude' => 18.52638,
   ),
-  2415 => 
+  2272 => 
   array (
     'id' => 88191,
     'name' => 'Starokrzepice',
@@ -21745,7 +20458,7 @@ return array (
     'latitude' => 50.94859,
     'longitude' => 18.65341,
   ),
-  2416 => 
+  2273 => 
   array (
     'id' => 88192,
     'name' => 'Starowa Góra',
@@ -21754,7 +20467,7 @@ return array (
     'latitude' => 51.69134,
     'longitude' => 19.48374,
   ),
-  2417 => 
+  2274 => 
   array (
     'id' => 88193,
     'name' => 'Staroźreby',
@@ -21763,7 +20476,7 @@ return array (
     'latitude' => 52.63265,
     'longitude' => 19.9855,
   ),
-  2418 => 
+  2275 => 
   array (
     'id' => 88194,
     'name' => 'Stary Sącz',
@@ -21772,7 +20485,7 @@ return array (
     'latitude' => 49.56364,
     'longitude' => 20.63496,
   ),
-  2419 => 
+  2276 => 
   array (
     'id' => 88195,
     'name' => 'Stary Targ',
@@ -21781,7 +20494,7 @@ return array (
     'latitude' => 53.92335,
     'longitude' => 19.17003,
   ),
-  2420 => 
+  2277 => 
   array (
     'id' => 88196,
     'name' => 'Stary Wiśnicz',
@@ -21790,7 +20503,7 @@ return array (
     'latitude' => 49.92548,
     'longitude' => 20.48641,
   ),
-  2421 => 
+  2278 => 
   array (
     'id' => 88197,
     'name' => 'Stary Zamość',
@@ -21799,7 +20512,7 @@ return array (
     'latitude' => 50.82004,
     'longitude' => 23.17154,
   ),
-  2422 => 
+  2279 => 
   array (
     'id' => 88198,
     'name' => 'Staszów',
@@ -21808,7 +20521,7 @@ return array (
     'latitude' => 50.56307,
     'longitude' => 21.16593,
   ),
-  2423 => 
+  2280 => 
   array (
     'id' => 88199,
     'name' => 'Stawiguda',
@@ -21817,7 +20530,7 @@ return array (
     'latitude' => 53.6572,
     'longitude' => 20.40041,
   ),
-  2424 => 
+  2281 => 
   array (
     'id' => 88200,
     'name' => 'Stawiski',
@@ -21826,7 +20539,7 @@ return array (
     'latitude' => 53.37987,
     'longitude' => 22.15462,
   ),
-  2425 => 
+  2282 => 
   array (
     'id' => 88201,
     'name' => 'Stawiszyn',
@@ -21835,7 +20548,7 @@ return array (
     'latitude' => 51.91786,
     'longitude' => 18.11171,
   ),
-  2426 => 
+  2283 => 
   array (
     'id' => 88202,
     'name' => 'Stegna',
@@ -21844,7 +20557,7 @@ return array (
     'latitude' => 54.32684,
     'longitude' => 19.11252,
   ),
-  2427 => 
+  2284 => 
   array (
     'id' => 88203,
     'name' => 'Stepnica',
@@ -21853,7 +20566,7 @@ return array (
     'latitude' => 53.65187,
     'longitude' => 14.62555,
   ),
-  2428 => 
+  2285 => 
   array (
     'id' => 88204,
     'name' => 'Sterdyń',
@@ -21862,7 +20575,7 @@ return array (
     'latitude' => 52.58026,
     'longitude' => 22.29358,
   ),
-  2429 => 
+  2286 => 
   array (
     'id' => 88205,
     'name' => 'Stoczek',
@@ -21871,7 +20584,7 @@ return array (
     'latitude' => 52.54332,
     'longitude' => 21.90013,
   ),
-  2430 => 
+  2287 => 
   array (
     'id' => 88206,
     'name' => 'Stoczek Łukowski',
@@ -21880,7 +20593,7 @@ return array (
     'latitude' => 51.96135,
     'longitude' => 21.97137,
   ),
-  2431 => 
+  2288 => 
   array (
     'id' => 88207,
     'name' => 'Stopnica',
@@ -21889,7 +20602,7 @@ return array (
     'latitude' => 50.44018,
     'longitude' => 20.9378,
   ),
-  2432 => 
+  2289 => 
   array (
     'id' => 88208,
     'name' => 'Stoszowice',
@@ -21898,7 +20611,7 @@ return array (
     'latitude' => 50.59986,
     'longitude' => 16.73896,
   ),
-  2433 => 
+  2290 => 
   array (
     'id' => 88209,
     'name' => 'Strachocin-Wojnów',
@@ -21907,7 +20620,7 @@ return array (
     'latitude' => 51.10486,
     'longitude' => 17.15073,
   ),
-  2434 => 
+  2291 => 
   array (
     'id' => 88210,
     'name' => 'Strachocina',
@@ -21916,7 +20629,7 @@ return array (
     'latitude' => 49.60815,
     'longitude' => 22.08836,
   ),
-  2435 => 
+  2292 => 
   array (
     'id' => 88211,
     'name' => 'Strachówka',
@@ -21925,7 +20638,7 @@ return array (
     'latitude' => 52.42692,
     'longitude' => 21.635,
   ),
-  2436 => 
+  2293 => 
   array (
     'id' => 88212,
     'name' => 'Straszydle',
@@ -21934,7 +20647,7 @@ return array (
     'latitude' => 49.90038,
     'longitude' => 21.98124,
   ),
-  2437 => 
+  2294 => 
   array (
     'id' => 88213,
     'name' => 'Straszyn',
@@ -21943,7 +20656,7 @@ return array (
     'latitude' => 54.27214,
     'longitude' => 18.58114,
   ),
-  2438 => 
+  2295 => 
   array (
     'id' => 88214,
     'name' => 'Strawczyn',
@@ -21952,7 +20665,7 @@ return array (
     'latitude' => 50.94177,
     'longitude' => 20.42135,
   ),
-  2439 => 
+  2296 => 
   array (
     'id' => 88215,
     'name' => 'Stromiec',
@@ -21961,7 +20674,7 @@ return array (
     'latitude' => 51.647,
     'longitude' => 21.09229,
   ),
-  2440 => 
+  2297 => 
   array (
     'id' => 88216,
     'name' => 'Stronie',
@@ -21970,7 +20683,7 @@ return array (
     'latitude' => 49.83056,
     'longitude' => 19.67497,
   ),
-  2441 => 
+  2298 => 
   array (
     'id' => 88217,
     'name' => 'Stronie Śląskie',
@@ -21979,7 +20692,7 @@ return array (
     'latitude' => 50.29554,
     'longitude' => 16.87397,
   ),
-  2442 => 
+  2299 => 
   array (
     'id' => 88218,
     'name' => 'Strumień',
@@ -21988,7 +20701,7 @@ return array (
     'latitude' => 49.92103,
     'longitude' => 18.76637,
   ),
-  2443 => 
+  2300 => 
   array (
     'id' => 88219,
     'name' => 'Stryków',
@@ -21997,7 +20710,7 @@ return array (
     'latitude' => 51.90224,
     'longitude' => 19.60536,
   ),
-  2444 => 
+  2301 => 
   array (
     'id' => 88220,
     'name' => 'Stryszawa',
@@ -22006,7 +20719,7 @@ return array (
     'latitude' => 49.71327,
     'longitude' => 19.52185,
   ),
-  2445 => 
+  2302 => 
   array (
     'id' => 88221,
     'name' => 'Stryszów',
@@ -22015,7 +20728,7 @@ return array (
     'latitude' => 49.82569,
     'longitude' => 19.61763,
   ),
-  2446 => 
+  2303 => 
   array (
     'id' => 88222,
     'name' => 'Strzałkowo',
@@ -22024,7 +20737,7 @@ return array (
     'latitude' => 52.30701,
     'longitude' => 17.81811,
   ),
-  2447 => 
+  2304 => 
   array (
     'id' => 88223,
     'name' => 'Strzebiń',
@@ -22033,7 +20746,7 @@ return array (
     'latitude' => 50.61647,
     'longitude' => 18.89794,
   ),
-  2448 => 
+  2305 => 
   array (
     'id' => 88224,
     'name' => 'Strzegom',
@@ -22042,7 +20755,7 @@ return array (
     'latitude' => 50.96264,
     'longitude' => 16.35006,
   ),
-  2449 => 
+  2306 => 
   array (
     'id' => 88225,
     'name' => 'Strzegowo',
@@ -22051,7 +20764,7 @@ return array (
     'latitude' => 52.89394,
     'longitude' => 20.28548,
   ),
-  2450 => 
+  2307 => 
   array (
     'id' => 88226,
     'name' => 'Strzelce',
@@ -22060,7 +20773,7 @@ return array (
     'latitude' => 52.31478,
     'longitude' => 19.40701,
   ),
-  2451 => 
+  2308 => 
   array (
     'id' => 88227,
     'name' => 'Strzelce Krajeńskie',
@@ -22069,7 +20782,7 @@ return array (
     'latitude' => 52.87726,
     'longitude' => 15.52978,
   ),
-  2452 => 
+  2309 => 
   array (
     'id' => 88228,
     'name' => 'Strzelce Opolskie',
@@ -22078,7 +20791,7 @@ return array (
     'latitude' => 50.5107,
     'longitude' => 18.30056,
   ),
-  2453 => 
+  2310 => 
   array (
     'id' => 88229,
     'name' => 'Strzelce Wielkie',
@@ -22087,7 +20800,7 @@ return array (
     'latitude' => 51.1394,
     'longitude' => 19.14539,
   ),
-  2454 => 
+  2311 => 
   array (
     'id' => 88230,
     'name' => 'Strzeleczki',
@@ -22096,7 +20809,7 @@ return array (
     'latitude' => 50.46215,
     'longitude' => 17.85665,
   ),
-  2455 => 
+  2312 => 
   array (
     'id' => 88231,
     'name' => 'Strzelin',
@@ -22105,7 +20818,7 @@ return array (
     'latitude' => 50.78157,
     'longitude' => 17.06477,
   ),
-  2456 => 
+  2313 => 
   array (
     'id' => 88232,
     'name' => 'Strzelno',
@@ -22114,16 +20827,7 @@ return array (
     'latitude' => 52.62789,
     'longitude' => 18.17246,
   ),
-  2457 => 
-  array (
-    'id' => 88233,
-    'name' => 'Strzelno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 54.78564,
-    'longitude' => 18.32515,
-  ),
-  2458 => 
+  2314 => 
   array (
     'id' => 88234,
     'name' => 'Strzyżowice',
@@ -22132,16 +20836,7 @@ return array (
     'latitude' => 51.0483,
     'longitude' => 22.44018,
   ),
-  2459 => 
-  array (
-    'id' => 88235,
-    'name' => 'Strzyżowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.38725,
-    'longitude' => 19.08038,
-  ),
-  2460 => 
+  2315 => 
   array (
     'id' => 88236,
     'name' => 'Strzyżów',
@@ -22150,7 +20845,7 @@ return array (
     'latitude' => 49.87074,
     'longitude' => 21.79413,
   ),
-  2461 => 
+  2316 => 
   array (
     'id' => 88237,
     'name' => 'Stróża',
@@ -22159,7 +20854,7 @@ return array (
     'latitude' => 49.79628,
     'longitude' => 19.92379,
   ),
-  2462 => 
+  2317 => 
   array (
     'id' => 88238,
     'name' => 'Stubno',
@@ -22168,7 +20863,7 @@ return array (
     'latitude' => 49.89806,
     'longitude' => 22.95602,
   ),
-  2463 => 
+  2318 => 
   array (
     'id' => 88239,
     'name' => 'Studzienice',
@@ -22177,7 +20872,7 @@ return array (
     'latitude' => 54.09262,
     'longitude' => 17.57581,
   ),
-  2464 => 
+  2319 => 
   array (
     'id' => 88240,
     'name' => 'Studzionka',
@@ -22186,7 +20881,7 @@ return array (
     'latitude' => 49.96232,
     'longitude' => 18.7728,
   ),
-  2465 => 
+  2320 => 
   array (
     'id' => 88241,
     'name' => 'Stupsk',
@@ -22195,7 +20890,7 @@ return array (
     'latitude' => 53.02258,
     'longitude' => 20.4368,
   ),
-  2466 => 
+  2321 => 
   array (
     'id' => 88242,
     'name' => 'Stąporków',
@@ -22204,7 +20899,7 @@ return array (
     'latitude' => 51.13762,
     'longitude' => 20.57173,
   ),
-  2467 => 
+  2322 => 
   array (
     'id' => 88243,
     'name' => 'Stęszew',
@@ -22213,7 +20908,7 @@ return array (
     'latitude' => 52.2837,
     'longitude' => 16.70085,
   ),
-  2468 => 
+  2323 => 
   array (
     'id' => 88244,
     'name' => 'Stężyca',
@@ -22222,16 +20917,7 @@ return array (
     'latitude' => 51.58187,
     'longitude' => 21.77087,
   ),
-  2469 => 
-  array (
-    'id' => 88245,
-    'name' => 'Stężyca',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 54.20593,
-    'longitude' => 17.95569,
-  ),
-  2470 => 
+  2324 => 
   array (
     'id' => 88246,
     'name' => 'Subkowy',
@@ -22240,7 +20926,7 @@ return array (
     'latitude' => 54.00227,
     'longitude' => 18.76928,
   ),
-  2471 => 
+  2325 => 
   array (
     'id' => 88247,
     'name' => 'Sucha',
@@ -22249,7 +20935,7 @@ return array (
     'latitude' => 51.61999,
     'longitude' => 20.94887,
   ),
-  2472 => 
+  2326 => 
   array (
     'id' => 88248,
     'name' => 'Sucha Beskidzka',
@@ -22258,7 +20944,7 @@ return array (
     'latitude' => 49.74188,
     'longitude' => 19.59429,
   ),
-  2473 => 
+  2327 => 
   array (
     'id' => 88249,
     'name' => 'Suchań',
@@ -22267,7 +20953,7 @@ return array (
     'latitude' => 53.28003,
     'longitude' => 15.32541,
   ),
-  2474 => 
+  2328 => 
   array (
     'id' => 88250,
     'name' => 'Suchedniów',
@@ -22276,7 +20962,7 @@ return array (
     'latitude' => 51.04776,
     'longitude' => 20.82922,
   ),
-  2475 => 
+  2329 => 
   array (
     'id' => 88251,
     'name' => 'Suchowola',
@@ -22285,7 +20971,7 @@ return array (
     'latitude' => 53.57753,
     'longitude' => 23.10596,
   ),
-  2476 => 
+  2330 => 
   array (
     'id' => 88252,
     'name' => 'Suchożebry',
@@ -22294,7 +20980,7 @@ return array (
     'latitude' => 52.25948,
     'longitude' => 22.25289,
   ),
-  2477 => 
+  2331 => 
   array (
     'id' => 88253,
     'name' => 'Suchy Dąb',
@@ -22303,7 +20989,7 @@ return array (
     'latitude' => 54.20809,
     'longitude' => 18.76731,
   ),
-  2478 => 
+  2332 => 
   array (
     'id' => 88254,
     'name' => 'Suchy Las',
@@ -22312,7 +20998,7 @@ return array (
     'latitude' => 52.47308,
     'longitude' => 16.87745,
   ),
-  2479 => 
+  2333 => 
   array (
     'id' => 88255,
     'name' => 'Sulbiny Górne',
@@ -22321,7 +21007,7 @@ return array (
     'latitude' => 51.87321,
     'longitude' => 21.63174,
   ),
-  2480 => 
+  2334 => 
   array (
     'id' => 88256,
     'name' => 'Sulechów',
@@ -22330,7 +21016,7 @@ return array (
     'latitude' => 52.08362,
     'longitude' => 15.62513,
   ),
-  2481 => 
+  2335 => 
   array (
     'id' => 88257,
     'name' => 'Sulejów',
@@ -22339,7 +21025,7 @@ return array (
     'latitude' => 51.35436,
     'longitude' => 19.88538,
   ),
-  2482 => 
+  2336 => 
   array (
     'id' => 88258,
     'name' => 'Sulejówek',
@@ -22348,7 +21034,7 @@ return array (
     'latitude' => 52.25221,
     'longitude' => 21.26902,
   ),
-  2483 => 
+  2337 => 
   array (
     'id' => 88259,
     'name' => 'Sulików',
@@ -22357,7 +21043,7 @@ return array (
     'latitude' => 51.07624,
     'longitude' => 15.06792,
   ),
-  2484 => 
+  2338 => 
   array (
     'id' => 88260,
     'name' => 'Sulmierzyce',
@@ -22366,16 +21052,7 @@ return array (
     'latitude' => 51.60594,
     'longitude' => 17.53053,
   ),
-  2485 => 
-  array (
-    'id' => 88261,
-    'name' => 'Sulmierzyce',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.18456,
-    'longitude' => 19.19595,
-  ),
-  2486 => 
+  2339 => 
   array (
     'id' => 88262,
     'name' => 'Sulęcin',
@@ -22384,7 +21061,7 @@ return array (
     'latitude' => 52.44429,
     'longitude' => 15.11676,
   ),
-  2487 => 
+  2340 => 
   array (
     'id' => 88263,
     'name' => 'Sulęczyno',
@@ -22393,7 +21070,7 @@ return array (
     'latitude' => 54.23302,
     'longitude' => 17.7733,
   ),
-  2488 => 
+  2341 => 
   array (
     'id' => 88264,
     'name' => 'Supraśl',
@@ -22402,7 +21079,7 @@ return array (
     'latitude' => 53.20526,
     'longitude' => 23.33934,
   ),
-  2489 => 
+  2342 => 
   array (
     'id' => 88265,
     'name' => 'Suraż',
@@ -22411,7 +21088,7 @@ return array (
     'latitude' => 52.94908,
     'longitude' => 22.95653,
   ),
-  2490 => 
+  2343 => 
   array (
     'id' => 88266,
     'name' => 'Susiec',
@@ -22420,7 +21097,7 @@ return array (
     'latitude' => 50.41973,
     'longitude' => 23.19626,
   ),
-  2491 => 
+  2344 => 
   array (
     'id' => 88267,
     'name' => 'Susz',
@@ -22429,7 +21106,7 @@ return array (
     'latitude' => 53.71743,
     'longitude' => 19.33645,
   ),
-  2492 => 
+  2345 => 
   array (
     'id' => 88268,
     'name' => 'Suszec',
@@ -22438,7 +21115,7 @@ return array (
     'latitude' => 50.02958,
     'longitude' => 18.7916,
   ),
-  2493 => 
+  2346 => 
   array (
     'id' => 88269,
     'name' => 'Suwałki',
@@ -22447,7 +21124,7 @@ return array (
     'latitude' => 54.10272,
     'longitude' => 22.92914,
   ),
-  2494 => 
+  2347 => 
   array (
     'id' => 88270,
     'name' => 'Sułkowice',
@@ -22456,16 +21133,7 @@ return array (
     'latitude' => 51.9231,
     'longitude' => 21.08929,
   ),
-  2495 => 
-  array (
-    'id' => 88271,
-    'name' => 'Sułkowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.84053,
-    'longitude' => 19.80097,
-  ),
-  2496 => 
+  2348 => 
   array (
     'id' => 88272,
     'name' => 'Sułoszowa',
@@ -22474,7 +21142,7 @@ return array (
     'latitude' => 50.26789,
     'longitude' => 19.73282,
   ),
-  2497 => 
+  2349 => 
   array (
     'id' => 88273,
     'name' => 'Sułów',
@@ -22483,16 +21151,7 @@ return array (
     'latitude' => 50.90661,
     'longitude' => 22.36061,
   ),
-  2498 => 
-  array (
-    'id' => 88274,
-    'name' => 'Sułów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.49966,
-    'longitude' => 17.16811,
-  ),
-  2499 => 
+  2350 => 
   array (
     'id' => 88275,
     'name' => 'Swarzędz',
@@ -22501,7 +21160,7 @@ return array (
     'latitude' => 52.41289,
     'longitude' => 17.08503,
   ),
-  2500 => 
+  2351 => 
   array (
     'id' => 88276,
     'name' => 'Swiętajno',
@@ -22510,7 +21169,7 @@ return array (
     'latitude' => 54.00151,
     'longitude' => 22.3183,
   ),
-  2501 => 
+  2352 => 
   array (
     'id' => 88277,
     'name' => 'Swojczyce',
@@ -22519,7 +21178,7 @@ return array (
     'latitude' => 51.11567,
     'longitude' => 17.12535,
   ),
-  2502 => 
+  2353 => 
   array (
     'id' => 88278,
     'name' => 'Syców',
@@ -22528,7 +21187,7 @@ return array (
     'latitude' => 51.30814,
     'longitude' => 17.71979,
   ),
-  2503 => 
+  2354 => 
   array (
     'id' => 88279,
     'name' => 'Sypniewo',
@@ -22537,25 +21196,7 @@ return array (
     'latitude' => 53.0058,
     'longitude' => 21.3073,
   ),
-  2504 => 
-  array (
-    'id' => 88280,
-    'name' => 'Sypniewo',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.36981,
-    'longitude' => 17.3269,
-  ),
-  2505 => 
-  array (
-    'id' => 88281,
-    'name' => 'Sypniewo',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.46823,
-    'longitude' => 16.60583,
-  ),
-  2506 => 
+  2355 => 
   array (
     'id' => 88282,
     'name' => 'Syrynia',
@@ -22564,7 +21205,7 @@ return array (
     'latitude' => 50.02004,
     'longitude' => 18.34597,
   ),
-  2507 => 
+  2356 => 
   array (
     'id' => 88283,
     'name' => 'Szadek',
@@ -22573,7 +21214,7 @@ return array (
     'latitude' => 51.69174,
     'longitude' => 18.97549,
   ),
-  2508 => 
+  2357 => 
   array (
     'id' => 88284,
     'name' => 'Szaflary',
@@ -22582,7 +21223,7 @@ return array (
     'latitude' => 49.42655,
     'longitude' => 20.02713,
   ),
-  2509 => 
+  2358 => 
   array (
     'id' => 88285,
     'name' => 'Szamocin',
@@ -22591,7 +21232,7 @@ return array (
     'latitude' => 53.02795,
     'longitude' => 17.12653,
   ),
-  2510 => 
+  2359 => 
   array (
     'id' => 88286,
     'name' => 'Szamotuły',
@@ -22600,7 +21241,7 @@ return array (
     'latitude' => 52.61201,
     'longitude' => 16.57794,
   ),
-  2511 => 
+  2360 => 
   array (
     'id' => 88287,
     'name' => 'Szarów',
@@ -22609,7 +21250,7 @@ return array (
     'latitude' => 49.99505,
     'longitude' => 20.2696,
   ),
-  2512 => 
+  2361 => 
   array (
     'id' => 88288,
     'name' => 'Szastarka',
@@ -22618,7 +21259,7 @@ return array (
     'latitude' => 50.85527,
     'longitude' => 22.31971,
   ),
-  2513 => 
+  2362 => 
   array (
     'id' => 88289,
     'name' => 'Szczaniec',
@@ -22627,7 +21268,7 @@ return array (
     'latitude' => 52.26874,
     'longitude' => 15.6817,
   ),
-  2514 => 
+  2363 => 
   array (
     'id' => 88290,
     'name' => 'Szczawnica',
@@ -22636,7 +21277,7 @@ return array (
     'latitude' => 49.42437,
     'longitude' => 20.48487,
   ),
-  2515 => 
+  2364 => 
   array (
     'id' => 88291,
     'name' => 'Szczawno-Zdrój',
@@ -22645,7 +21286,7 @@ return array (
     'latitude' => 50.80352,
     'longitude' => 16.25655,
   ),
-  2516 => 
+  2365 => 
   array (
     'id' => 88292,
     'name' => 'Szczebrzeszyn',
@@ -22654,7 +21295,7 @@ return array (
     'latitude' => 50.69499,
     'longitude' => 22.97954,
   ),
-  2517 => 
+  2366 => 
   array (
     'id' => 88293,
     'name' => 'Szczecin',
@@ -22663,7 +21304,7 @@ return array (
     'latitude' => 53.42894,
     'longitude' => 14.55302,
   ),
-  2518 => 
+  2367 => 
   array (
     'id' => 88294,
     'name' => 'Szczecinek',
@@ -22672,7 +21313,7 @@ return array (
     'latitude' => 53.70791,
     'longitude' => 16.69937,
   ),
-  2519 => 
+  2368 => 
   array (
     'id' => 88295,
     'name' => 'Szczekociny',
@@ -22681,7 +21322,7 @@ return array (
     'latitude' => 50.62669,
     'longitude' => 19.825,
   ),
-  2520 => 
+  2369 => 
   array (
     'id' => 88296,
     'name' => 'Szczepanów',
@@ -22690,7 +21331,7 @@ return array (
     'latitude' => 51.19796,
     'longitude' => 16.61064,
   ),
-  2521 => 
+  2370 => 
   array (
     'id' => 88297,
     'name' => 'Szczerbice',
@@ -22699,7 +21340,7 @@ return array (
     'latitude' => 50.09416,
     'longitude' => 18.44896,
   ),
-  2522 => 
+  2371 => 
   array (
     'id' => 88298,
     'name' => 'Szczerców',
@@ -22708,7 +21349,7 @@ return array (
     'latitude' => 51.33319,
     'longitude' => 19.10977,
   ),
-  2523 => 
+  2372 => 
   array (
     'id' => 88299,
     'name' => 'Szczucin',
@@ -22717,7 +21358,7 @@ return array (
     'latitude' => 50.30957,
     'longitude' => 21.07444,
   ),
-  2524 => 
+  2373 => 
   array (
     'id' => 88300,
     'name' => 'Szczuczyn',
@@ -22726,7 +21367,7 @@ return array (
     'latitude' => 53.5633,
     'longitude' => 22.28534,
   ),
-  2525 => 
+  2374 => 
   array (
     'id' => 88301,
     'name' => 'Szczurowa',
@@ -22735,7 +21376,7 @@ return array (
     'latitude' => 50.11915,
     'longitude' => 20.6361,
   ),
-  2526 => 
+  2375 => 
   array (
     'id' => 88302,
     'name' => 'Szczutowo',
@@ -22744,7 +21385,7 @@ return array (
     'latitude' => 52.94047,
     'longitude' => 19.57438,
   ),
-  2527 => 
+  2376 => 
   array (
     'id' => 88303,
     'name' => 'Szczyrk',
@@ -22753,7 +21394,7 @@ return array (
     'latitude' => 49.71724,
     'longitude' => 19.03183,
   ),
-  2528 => 
+  2377 => 
   array (
     'id' => 88304,
     'name' => 'Szczytna',
@@ -22762,7 +21403,7 @@ return array (
     'latitude' => 50.41343,
     'longitude' => 16.44743,
   ),
-  2529 => 
+  2378 => 
   array (
     'id' => 88305,
     'name' => 'Szczytno',
@@ -22771,7 +21412,7 @@ return array (
     'latitude' => 53.56259,
     'longitude' => 20.98747,
   ),
-  2530 => 
+  2379 => 
   array (
     'id' => 88306,
     'name' => 'Szelków',
@@ -22780,7 +21421,7 @@ return array (
     'latitude' => 52.83487,
     'longitude' => 21.21769,
   ),
-  2531 => 
+  2380 => 
   array (
     'id' => 88307,
     'name' => 'Szemud',
@@ -22789,7 +21430,7 @@ return array (
     'latitude' => 54.48709,
     'longitude' => 18.2228,
   ),
-  2532 => 
+  2381 => 
   array (
     'id' => 88308,
     'name' => 'Szepietowo',
@@ -22798,7 +21439,7 @@ return array (
     'latitude' => 52.87032,
     'longitude' => 22.54392,
   ),
-  2533 => 
+  2382 => 
   array (
     'id' => 88309,
     'name' => 'Szerzyny',
@@ -22807,7 +21448,7 @@ return array (
     'latitude' => 49.80919,
     'longitude' => 21.2467,
   ),
-  2534 => 
+  2383 => 
   array (
     'id' => 88310,
     'name' => 'Szklarska Poręba',
@@ -22816,7 +21457,7 @@ return array (
     'latitude' => 50.82567,
     'longitude' => 15.52274,
   ),
-  2535 => 
+  2384 => 
   array (
     'id' => 88311,
     'name' => 'Szlachta',
@@ -22825,7 +21466,7 @@ return array (
     'latitude' => 53.76827,
     'longitude' => 18.11367,
   ),
-  2536 => 
+  2385 => 
   array (
     'id' => 88312,
     'name' => 'Szlichtyngowa',
@@ -22834,7 +21475,7 @@ return array (
     'latitude' => 51.71222,
     'longitude' => 16.24427,
   ),
-  2537 => 
+  2386 => 
   array (
     'id' => 88313,
     'name' => 'Szprotawa',
@@ -22843,7 +21484,7 @@ return array (
     'latitude' => 51.56563,
     'longitude' => 15.53664,
   ),
-  2538 => 
+  2387 => 
   array (
     'id' => 88314,
     'name' => 'Szreńsk',
@@ -22852,7 +21493,7 @@ return array (
     'latitude' => 53.01277,
     'longitude' => 20.12009,
   ),
-  2539 => 
+  2388 => 
   array (
     'id' => 88315,
     'name' => 'Sztum',
@@ -22861,7 +21502,7 @@ return array (
     'latitude' => 53.92077,
     'longitude' => 19.03072,
   ),
-  2540 => 
+  2389 => 
   array (
     'id' => 88316,
     'name' => 'Sztutowo',
@@ -22870,7 +21511,7 @@ return array (
     'latitude' => 54.32679,
     'longitude' => 19.17921,
   ),
-  2541 => 
+  2390 => 
   array (
     'id' => 88317,
     'name' => 'Szubin',
@@ -22879,7 +21520,7 @@ return array (
     'latitude' => 53.00967,
     'longitude' => 17.74,
   ),
-  2542 => 
+  2391 => 
   array (
     'id' => 88318,
     'name' => 'Szumowo',
@@ -22888,7 +21529,7 @@ return array (
     'latitude' => 52.91884,
     'longitude' => 22.08449,
   ),
-  2543 => 
+  2392 => 
   array (
     'id' => 88319,
     'name' => 'Szydłowiec',
@@ -22897,7 +21538,7 @@ return array (
     'latitude' => 51.22823,
     'longitude' => 20.86106,
   ),
-  2544 => 
+  2393 => 
   array (
     'id' => 88320,
     'name' => 'Szydłowo',
@@ -22906,16 +21547,7 @@ return array (
     'latitude' => 53.08062,
     'longitude' => 20.45071,
   ),
-  2545 => 
-  array (
-    'id' => 88321,
-    'name' => 'Szydłowo',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.16212,
-    'longitude' => 16.61171,
-  ),
-  2546 => 
+  2394 => 
   array (
     'id' => 88322,
     'name' => 'Szydłów',
@@ -22924,7 +21556,7 @@ return array (
     'latitude' => 50.59114,
     'longitude' => 21.0068,
   ),
-  2547 => 
+  2395 => 
   array (
     'id' => 88323,
     'name' => 'Szynwałd',
@@ -22933,7 +21565,7 @@ return array (
     'latitude' => 49.96767,
     'longitude' => 21.12293,
   ),
-  2548 => 
+  2396 => 
   array (
     'id' => 88324,
     'name' => 'Sól',
@@ -22942,7 +21574,7 @@ return array (
     'latitude' => 49.48764,
     'longitude' => 19.04171,
   ),
-  2549 => 
+  2397 => 
   array (
     'id' => 88325,
     'name' => 'Sączów',
@@ -22951,7 +21583,7 @@ return array (
     'latitude' => 50.4352,
     'longitude' => 19.03038,
   ),
-  2550 => 
+  2398 => 
   array (
     'id' => 88326,
     'name' => 'Sąspów',
@@ -22960,7 +21592,7 @@ return array (
     'latitude' => 50.22887,
     'longitude' => 19.77007,
   ),
-  2551 => 
+  2399 => 
   array (
     'id' => 88327,
     'name' => 'Sędziejowice',
@@ -22969,7 +21601,7 @@ return array (
     'latitude' => 51.50677,
     'longitude' => 19.02763,
   ),
-  2552 => 
+  2400 => 
   array (
     'id' => 88328,
     'name' => 'Sędziszów',
@@ -22978,7 +21610,7 @@ return array (
     'latitude' => 50.5659,
     'longitude' => 20.05563,
   ),
-  2553 => 
+  2401 => 
   array (
     'id' => 88329,
     'name' => 'Sędziszów Małopolski',
@@ -22987,7 +21619,7 @@ return array (
     'latitude' => 50.07069,
     'longitude' => 21.70062,
   ),
-  2554 => 
+  2402 => 
   array (
     'id' => 88330,
     'name' => 'Sękowa',
@@ -22996,7 +21628,7 @@ return array (
     'latitude' => 49.62217,
     'longitude' => 21.19769,
   ),
-  2555 => 
+  2403 => 
   array (
     'id' => 88331,
     'name' => 'Sępolno',
@@ -23005,7 +21637,7 @@ return array (
     'latitude' => 51.10995,
     'longitude' => 17.102,
   ),
-  2556 => 
+  2404 => 
   array (
     'id' => 88332,
     'name' => 'Sępopol',
@@ -23014,7 +21646,7 @@ return array (
     'latitude' => 54.26903,
     'longitude' => 21.01453,
   ),
-  2557 => 
+  2405 => 
   array (
     'id' => 88333,
     'name' => 'Sępólno Krajeńskie',
@@ -23023,7 +21655,7 @@ return array (
     'latitude' => 53.45198,
     'longitude' => 17.53169,
   ),
-  2558 => 
+  2406 => 
   array (
     'id' => 88334,
     'name' => 'Sława',
@@ -23032,7 +21664,7 @@ return array (
     'latitude' => 51.87623,
     'longitude' => 16.07205,
   ),
-  2559 => 
+  2407 => 
   array (
     'id' => 88335,
     'name' => 'Sławatycze',
@@ -23041,7 +21673,7 @@ return array (
     'latitude' => 51.76338,
     'longitude' => 23.5546,
   ),
-  2560 => 
+  2408 => 
   array (
     'id' => 88336,
     'name' => 'Sławięcice',
@@ -23050,7 +21682,7 @@ return array (
     'latitude' => 50.37207,
     'longitude' => 18.32176,
   ),
-  2561 => 
+  2409 => 
   array (
     'id' => 88337,
     'name' => 'Sławków',
@@ -23059,7 +21691,7 @@ return array (
     'latitude' => 50.29943,
     'longitude' => 19.38967,
   ),
-  2562 => 
+  2410 => 
   array (
     'id' => 88338,
     'name' => 'Sławno',
@@ -23068,16 +21700,7 @@ return array (
     'latitude' => 51.39273,
     'longitude' => 20.14043,
   ),
-  2563 => 
-  array (
-    'id' => 88339,
-    'name' => 'Sławno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 54.36276,
-    'longitude' => 16.67888,
-  ),
-  2564 => 
+  2411 => 
   array (
     'id' => 88340,
     'name' => 'Sławoborze',
@@ -23086,7 +21709,7 @@ return array (
     'latitude' => 53.88992,
     'longitude' => 15.70667,
   ),
-  2565 => 
+  2412 => 
   array (
     'id' => 88341,
     'name' => 'Słomniki',
@@ -23095,7 +21718,7 @@ return array (
     'latitude' => 50.24012,
     'longitude' => 20.08224,
   ),
-  2566 => 
+  2413 => 
   array (
     'id' => 88342,
     'name' => 'Słopnice',
@@ -23104,7 +21727,7 @@ return array (
     'latitude' => 49.68496,
     'longitude' => 20.34325,
   ),
-  2567 => 
+  2414 => 
   array (
     'id' => 88343,
     'name' => 'Słotowa',
@@ -23113,7 +21736,7 @@ return array (
     'latitude' => 49.94603,
     'longitude' => 21.29425,
   ),
-  2568 => 
+  2415 => 
   array (
     'id' => 88344,
     'name' => 'Słońsk',
@@ -23122,7 +21745,7 @@ return array (
     'latitude' => 52.56345,
     'longitude' => 14.80526,
   ),
-  2569 => 
+  2416 => 
   array (
     'id' => 88345,
     'name' => 'Słubice',
@@ -23131,16 +21754,7 @@ return array (
     'latitude' => 52.35088,
     'longitude' => 14.56065,
   ),
-  2570 => 
-  array (
-    'id' => 88346,
-    'name' => 'Słubice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.36942,
-    'longitude' => 19.93881,
-  ),
-  2571 => 
+  2417 => 
   array (
     'id' => 88347,
     'name' => 'Słupca',
@@ -23149,7 +21763,7 @@ return array (
     'latitude' => 52.28733,
     'longitude' => 17.87192,
   ),
-  2572 => 
+  2418 => 
   array (
     'id' => 88348,
     'name' => 'Słupia',
@@ -23158,16 +21772,7 @@ return array (
     'latitude' => 50.60073,
     'longitude' => 19.97435,
   ),
-  2573 => 
-  array (
-    'id' => 88349,
-    'name' => 'Słupia',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.85518,
-    'longitude' => 19.96997,
-  ),
-  2574 => 
+  2419 => 
   array (
     'id' => 88350,
     'name' => 'Słupia pod Kępnem',
@@ -23176,7 +21781,7 @@ return array (
     'latitude' => 51.23924,
     'longitude' => 18.04255,
   ),
-  2575 => 
+  2420 => 
   array (
     'id' => 88351,
     'name' => 'Słupiec',
@@ -23185,7 +21790,7 @@ return array (
     'latitude' => 50.32787,
     'longitude' => 21.19374,
   ),
-  2576 => 
+  2421 => 
   array (
     'id' => 88352,
     'name' => 'Słupno',
@@ -23194,7 +21799,7 @@ return array (
     'latitude' => 52.38409,
     'longitude' => 21.15572,
   ),
-  2577 => 
+  2422 => 
   array (
     'id' => 88353,
     'name' => 'Słupsk',
@@ -23203,7 +21808,7 @@ return array (
     'latitude' => 54.46405,
     'longitude' => 17.02872,
   ),
-  2578 => 
+  2423 => 
   array (
     'id' => 88354,
     'name' => 'Tarczyn',
@@ -23212,7 +21817,7 @@ return array (
     'latitude' => 51.98197,
     'longitude' => 20.83394,
   ),
-  2579 => 
+  2424 => 
   array (
     'id' => 88355,
     'name' => 'Targanice',
@@ -23221,7 +21826,7 @@ return array (
     'latitude' => 49.80575,
     'longitude' => 19.32444,
   ),
-  2580 => 
+  2425 => 
   array (
     'id' => 88356,
     'name' => 'Targowisko',
@@ -23230,7 +21835,7 @@ return array (
     'latitude' => 49.98473,
     'longitude' => 20.29346,
   ),
-  2581 => 
+  2426 => 
   array (
     'id' => 88357,
     'name' => 'Targówek',
@@ -23239,7 +21844,7 @@ return array (
     'latitude' => 52.29185,
     'longitude' => 21.04845,
   ),
-  2582 => 
+  2427 => 
   array (
     'id' => 88358,
     'name' => 'Tarnawatka',
@@ -23248,7 +21853,7 @@ return array (
     'latitude' => 50.53154,
     'longitude' => 23.3959,
   ),
-  2583 => 
+  2428 => 
   array (
     'id' => 88359,
     'name' => 'Tarnobrzeg',
@@ -23257,7 +21862,7 @@ return array (
     'latitude' => 50.57304,
     'longitude' => 21.67937,
   ),
-  2584 => 
+  2429 => 
   array (
     'id' => 88360,
     'name' => 'Tarnogród',
@@ -23266,7 +21871,7 @@ return array (
     'latitude' => 50.3609,
     'longitude' => 22.74174,
   ),
-  2585 => 
+  2430 => 
   array (
     'id' => 88361,
     'name' => 'Tarnowiec',
@@ -23275,16 +21880,7 @@ return array (
     'latitude' => 49.98164,
     'longitude' => 20.98655,
   ),
-  2586 => 
-  array (
-    'id' => 88362,
-    'name' => 'Tarnowiec',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.73108,
-    'longitude' => 21.57663,
-  ),
-  2587 => 
+  2431 => 
   array (
     'id' => 88363,
     'name' => 'Tarnowo Podgórne',
@@ -23293,7 +21889,7 @@ return array (
     'latitude' => 52.46642,
     'longitude' => 16.66326,
   ),
-  2588 => 
+  2432 => 
   array (
     'id' => 88364,
     'name' => 'Tarnowskie Góry',
@@ -23302,7 +21898,7 @@ return array (
     'latitude' => 50.44548,
     'longitude' => 18.86147,
   ),
-  2589 => 
+  2433 => 
   array (
     'id' => 88365,
     'name' => 'Tarnów',
@@ -23311,7 +21907,7 @@ return array (
     'latitude' => 50.01381,
     'longitude' => 20.98698,
   ),
-  2590 => 
+  2434 => 
   array (
     'id' => 88366,
     'name' => 'Tarnów Opolski',
@@ -23320,7 +21916,7 @@ return array (
     'latitude' => 50.57631,
     'longitude' => 18.08367,
   ),
-  2591 => 
+  2435 => 
   array (
     'id' => 88367,
     'name' => 'Tarnówka',
@@ -23329,7 +21925,7 @@ return array (
     'latitude' => 53.34174,
     'longitude' => 16.85273,
   ),
-  2592 => 
+  2436 => 
   array (
     'id' => 88368,
     'name' => 'Tarłów',
@@ -23338,7 +21934,7 @@ return array (
     'latitude' => 51.0016,
     'longitude' => 21.71474,
   ),
-  2593 => 
+  2437 => 
   array (
     'id' => 88369,
     'name' => 'Tczew',
@@ -23347,7 +21943,7 @@ return array (
     'latitude' => 54.09242,
     'longitude' => 18.77787,
   ),
-  2594 => 
+  2438 => 
   array (
     'id' => 88370,
     'name' => 'Tczów',
@@ -23356,7 +21952,7 @@ return array (
     'latitude' => 51.326,
     'longitude' => 21.44677,
   ),
-  2595 => 
+  2439 => 
   array (
     'id' => 88371,
     'name' => 'Telatyn',
@@ -23365,7 +21961,7 @@ return array (
     'latitude' => 50.52712,
     'longitude' => 23.83956,
   ),
-  2596 => 
+  2440 => 
   array (
     'id' => 88372,
     'name' => 'Tenczynek',
@@ -23374,7 +21970,7 @@ return array (
     'latitude' => 50.11986,
     'longitude' => 19.61308,
   ),
-  2597 => 
+  2441 => 
   array (
     'id' => 88373,
     'name' => 'Teresin',
@@ -23383,7 +21979,7 @@ return array (
     'latitude' => 52.19887,
     'longitude' => 20.41672,
   ),
-  2598 => 
+  2442 => 
   array (
     'id' => 88374,
     'name' => 'Terespol',
@@ -23392,7 +21988,7 @@ return array (
     'latitude' => 52.0755,
     'longitude' => 23.61614,
   ),
-  2599 => 
+  2443 => 
   array (
     'id' => 88375,
     'name' => 'Tereszpol',
@@ -23401,7 +21997,7 @@ return array (
     'latitude' => 50.58373,
     'longitude' => 22.8798,
   ),
-  2600 => 
+  2444 => 
   array (
     'id' => 88376,
     'name' => 'Tokarnia',
@@ -23410,7 +22006,7 @@ return array (
     'latitude' => 49.7272,
     'longitude' => 19.87161,
   ),
-  2601 => 
+  2445 => 
   array (
     'id' => 88377,
     'name' => 'Tolkmicko',
@@ -23419,7 +22015,7 @@ return array (
     'latitude' => 54.32038,
     'longitude' => 19.52695,
   ),
-  2602 => 
+  2446 => 
   array (
     'id' => 88378,
     'name' => 'Tomaszkowice',
@@ -23428,7 +22024,7 @@ return array (
     'latitude' => 49.97918,
     'longitude' => 20.09966,
   ),
-  2603 => 
+  2447 => 
   array (
     'id' => 88379,
     'name' => 'Tomaszów Lubelski',
@@ -23437,7 +22033,7 @@ return array (
     'latitude' => 50.44767,
     'longitude' => 23.41616,
   ),
-  2604 => 
+  2448 => 
   array (
     'id' => 88380,
     'name' => 'Tomaszów Mazowiecki',
@@ -23446,7 +22042,7 @@ return array (
     'latitude' => 51.53131,
     'longitude' => 20.00855,
   ),
-  2605 => 
+  2449 => 
   array (
     'id' => 88381,
     'name' => 'Tomice',
@@ -23455,7 +22051,7 @@ return array (
     'latitude' => 49.89773,
     'longitude' => 19.48357,
   ),
-  2606 => 
+  2450 => 
   array (
     'id' => 88382,
     'name' => 'Toporzysko',
@@ -23464,7 +22060,7 @@ return array (
     'latitude' => 49.62495,
     'longitude' => 19.80226,
   ),
-  2607 => 
+  2451 => 
   array (
     'id' => 88383,
     'name' => 'Topólka',
@@ -23473,7 +22069,7 @@ return array (
     'latitude' => 52.50327,
     'longitude' => 18.71246,
   ),
-  2608 => 
+  2452 => 
   array (
     'id' => 88384,
     'name' => 'Toruń',
@@ -23482,7 +22078,7 @@ return array (
     'latitude' => 53.01375,
     'longitude' => 18.59814,
   ),
-  2609 => 
+  2453 => 
   array (
     'id' => 88385,
     'name' => 'Torzym',
@@ -23491,7 +22087,7 @@ return array (
     'latitude' => 52.31331,
     'longitude' => 15.08243,
   ),
-  2610 => 
+  2454 => 
   array (
     'id' => 88386,
     'name' => 'Toszek',
@@ -23500,7 +22096,7 @@ return array (
     'latitude' => 50.45442,
     'longitude' => 18.52209,
   ),
-  2611 => 
+  2455 => 
   array (
     'id' => 88387,
     'name' => 'Trablice',
@@ -23509,7 +22105,7 @@ return array (
     'latitude' => 51.35249,
     'longitude' => 21.12877,
   ),
-  2612 => 
+  2456 => 
   array (
     'id' => 88388,
     'name' => 'Trawniki',
@@ -23518,7 +22114,7 @@ return array (
     'latitude' => 51.13633,
     'longitude' => 22.99816,
   ),
-  2613 => 
+  2457 => 
   array (
     'id' => 88389,
     'name' => 'Trojanów',
@@ -23527,7 +22123,7 @@ return array (
     'latitude' => 51.69225,
     'longitude' => 21.81112,
   ),
-  2614 => 
+  2458 => 
   array (
     'id' => 88390,
     'name' => 'Troszyn',
@@ -23536,7 +22132,7 @@ return array (
     'latitude' => 53.03115,
     'longitude' => 21.73083,
   ),
-  2615 => 
+  2459 => 
   array (
     'id' => 88391,
     'name' => 'Truskaw',
@@ -23545,7 +22141,7 @@ return array (
     'latitude' => 52.30124,
     'longitude' => 20.78244,
   ),
-  2616 => 
+  2460 => 
   array (
     'id' => 88392,
     'name' => 'Truskolasy',
@@ -23554,7 +22150,7 @@ return array (
     'latitude' => 50.86692,
     'longitude' => 18.82705,
   ),
-  2617 => 
+  2461 => 
   array (
     'id' => 88393,
     'name' => 'Tryńcza',
@@ -23563,7 +22159,7 @@ return array (
     'latitude' => 50.16087,
     'longitude' => 22.55008,
   ),
-  2618 => 
+  2462 => 
   array (
     'id' => 88394,
     'name' => 'Trzciana',
@@ -23572,16 +22168,7 @@ return array (
     'latitude' => 50.0719,
     'longitude' => 21.8385,
   ),
-  2619 => 
-  array (
-    'id' => 88395,
-    'name' => 'Trzciana',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.84485,
-    'longitude' => 20.37415,
-  ),
-  2620 => 
+  2463 => 
   array (
     'id' => 88396,
     'name' => 'Trzcianka',
@@ -23590,7 +22177,7 @@ return array (
     'latitude' => 53.04063,
     'longitude' => 16.45629,
   ),
-  2621 => 
+  2464 => 
   array (
     'id' => 88397,
     'name' => 'Trzciel',
@@ -23599,7 +22186,7 @@ return array (
     'latitude' => 52.36504,
     'longitude' => 15.87306,
   ),
-  2622 => 
+  2465 => 
   array (
     'id' => 88398,
     'name' => 'Trzcinica',
@@ -23608,16 +22195,7 @@ return array (
     'latitude' => 49.74301,
     'longitude' => 21.4175,
   ),
-  2623 => 
-  array (
-    'id' => 88399,
-    'name' => 'Trzcinica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.16707,
-    'longitude' => 18.00453,
-  ),
-  2624 => 
+  2466 => 
   array (
     'id' => 88400,
     'name' => 'Trzcińsko Zdrój',
@@ -23626,7 +22204,7 @@ return array (
     'latitude' => 52.96487,
     'longitude' => 14.60667,
   ),
-  2625 => 
+  2467 => 
   array (
     'id' => 88401,
     'name' => 'Trzebiatów',
@@ -23635,7 +22213,7 @@ return array (
     'latitude' => 54.06147,
     'longitude' => 15.26475,
   ),
-  2626 => 
+  2468 => 
   array (
     'id' => 88402,
     'name' => 'Trzebiechów',
@@ -23644,7 +22222,7 @@ return array (
     'latitude' => 52.02113,
     'longitude' => 15.7362,
   ),
-  2627 => 
+  2469 => 
   array (
     'id' => 88403,
     'name' => 'Trzebiel',
@@ -23653,7 +22231,7 @@ return array (
     'latitude' => 51.63496,
     'longitude' => 14.81609,
   ),
-  2628 => 
+  2470 => 
   array (
     'id' => 88404,
     'name' => 'Trzebielino',
@@ -23662,7 +22240,7 @@ return array (
     'latitude' => 54.19996,
     'longitude' => 17.08726,
   ),
-  2629 => 
+  2471 => 
   array (
     'id' => 88405,
     'name' => 'Trzebieszów',
@@ -23671,7 +22249,7 @@ return array (
     'latitude' => 51.99006,
     'longitude' => 22.55502,
   ),
-  2630 => 
+  2472 => 
   array (
     'id' => 88406,
     'name' => 'Trzebinia',
@@ -23680,16 +22258,7 @@ return array (
     'latitude' => 49.65024,
     'longitude' => 19.22264,
   ),
-  2631 => 
-  array (
-    'id' => 88407,
-    'name' => 'Trzebinia',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.15931,
-    'longitude' => 19.46966,
-  ),
-  2632 => 
+  2473 => 
   array (
     'id' => 88408,
     'name' => 'Trzebnica',
@@ -23698,7 +22267,7 @@ return array (
     'latitude' => 51.31076,
     'longitude' => 17.06331,
   ),
-  2633 => 
+  2474 => 
   array (
     'id' => 88409,
     'name' => 'Trzebownisko',
@@ -23707,7 +22276,7 @@ return array (
     'latitude' => 50.07829,
     'longitude' => 22.03712,
   ),
-  2634 => 
+  2475 => 
   array (
     'id' => 88410,
     'name' => 'Trzebunia',
@@ -23716,7 +22285,7 @@ return array (
     'latitude' => 49.79146,
     'longitude' => 19.84715,
   ),
-  2635 => 
+  2476 => 
   array (
     'id' => 88411,
     'name' => 'Trzemeszno',
@@ -23725,7 +22294,7 @@ return array (
     'latitude' => 52.56139,
     'longitude' => 17.82311,
   ),
-  2636 => 
+  2477 => 
   array (
     'id' => 88412,
     'name' => 'Trzemeśnia',
@@ -23734,7 +22303,7 @@ return array (
     'latitude' => 49.82752,
     'longitude' => 20.02207,
   ),
-  2637 => 
+  2478 => 
   array (
     'id' => 88413,
     'name' => 'Trzydnik Duży',
@@ -23743,7 +22312,7 @@ return array (
     'latitude' => 50.84887,
     'longitude' => 22.13359,
   ),
-  2638 => 
+  2479 => 
   array (
     'id' => 88414,
     'name' => 'Trąbki',
@@ -23752,16 +22321,7 @@ return array (
     'latitude' => 49.96226,
     'longitude' => 20.1424,
   ),
-  2639 => 
-  array (
-    'id' => 88415,
-    'name' => 'Trąbki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.94792,
-    'longitude' => 21.59929,
-  ),
-  2640 => 
+  2480 => 
   array (
     'id' => 88416,
     'name' => 'Trąbki Wielkie',
@@ -23770,7 +22330,7 @@ return array (
     'latitude' => 54.17062,
     'longitude' => 18.54003,
   ),
-  2641 => 
+  2481 => 
   array (
     'id' => 88417,
     'name' => 'Tuchola',
@@ -23779,7 +22339,7 @@ return array (
     'latitude' => 53.58792,
     'longitude' => 17.85905,
   ),
-  2642 => 
+  2482 => 
   array (
     'id' => 88418,
     'name' => 'Tuchomie',
@@ -23788,7 +22348,7 @@ return array (
     'latitude' => 54.11522,
     'longitude' => 17.33634,
   ),
-  2643 => 
+  2483 => 
   array (
     'id' => 88419,
     'name' => 'Tuchów',
@@ -23797,7 +22357,7 @@ return array (
     'latitude' => 49.89485,
     'longitude' => 21.05407,
   ),
-  2644 => 
+  2484 => 
   array (
     'id' => 88420,
     'name' => 'Tuczno',
@@ -23806,7 +22366,7 @@ return array (
     'latitude' => 53.19374,
     'longitude' => 16.15368,
   ),
-  2645 => 
+  2485 => 
   array (
     'id' => 88421,
     'name' => 'Tuczępy',
@@ -23815,7 +22375,7 @@ return array (
     'latitude' => 50.51676,
     'longitude' => 20.99187,
   ),
-  2646 => 
+  2486 => 
   array (
     'id' => 88422,
     'name' => 'Tuliszków',
@@ -23824,7 +22384,7 @@ return array (
     'latitude' => 52.07658,
     'longitude' => 18.29549,
   ),
-  2647 => 
+  2487 => 
   array (
     'id' => 88423,
     'name' => 'Tuplice',
@@ -23833,7 +22393,7 @@ return array (
     'latitude' => 51.67639,
     'longitude' => 14.82914,
   ),
-  2648 => 
+  2488 => 
   array (
     'id' => 88424,
     'name' => 'Turek',
@@ -23842,7 +22402,7 @@ return array (
     'latitude' => 52.01548,
     'longitude' => 18.50055,
   ),
-  2649 => 
+  2489 => 
   array (
     'id' => 88425,
     'name' => 'Turobin',
@@ -23851,7 +22411,7 @@ return array (
     'latitude' => 50.82367,
     'longitude' => 22.74273,
   ),
-  2650 => 
+  2490 => 
   array (
     'id' => 88426,
     'name' => 'Turośń Kościelna',
@@ -23860,7 +22420,7 @@ return array (
     'latitude' => 53.01463,
     'longitude' => 23.05532,
   ),
-  2651 => 
+  2491 => 
   array (
     'id' => 88427,
     'name' => 'Turza Śląska',
@@ -23869,7 +22429,7 @@ return array (
     'latitude' => 49.97231,
     'longitude' => 18.43781,
   ),
-  2652 => 
+  2492 => 
   array (
     'id' => 88428,
     'name' => 'Turze Pole',
@@ -23878,7 +22438,7 @@ return array (
     'latitude' => 49.66329,
     'longitude' => 22.00476,
   ),
-  2653 => 
+  2493 => 
   array (
     'id' => 88429,
     'name' => 'Tuszyn',
@@ -23887,7 +22447,7 @@ return array (
     'latitude' => 51.60949,
     'longitude' => 19.53009,
   ),
-  2654 => 
+  2494 => 
   array (
     'id' => 88430,
     'name' => 'Tułowice',
@@ -23896,7 +22456,7 @@ return array (
     'latitude' => 50.59577,
     'longitude' => 17.65323,
   ),
-  2655 => 
+  2495 => 
   array (
     'id' => 88431,
     'name' => 'Twardawa',
@@ -23905,7 +22465,7 @@ return array (
     'latitude' => 50.34349,
     'longitude' => 17.99097,
   ),
-  2656 => 
+  2496 => 
   array (
     'id' => 88432,
     'name' => 'Twardogóra',
@@ -23914,7 +22474,7 @@ return array (
     'latitude' => 51.36487,
     'longitude' => 17.46878,
   ),
-  2657 => 
+  2497 => 
   array (
     'id' => 88433,
     'name' => 'Tworków',
@@ -23923,7 +22483,7 @@ return array (
     'latitude' => 50.00559,
     'longitude' => 18.23576,
   ),
-  2658 => 
+  2498 => 
   array (
     'id' => 88434,
     'name' => 'Tworóg',
@@ -23932,7 +22492,7 @@ return array (
     'latitude' => 50.531,
     'longitude' => 18.71572,
   ),
-  2659 => 
+  2499 => 
   array (
     'id' => 88435,
     'name' => 'Tychowo',
@@ -23941,7 +22501,7 @@ return array (
     'latitude' => 53.92774,
     'longitude' => 16.25771,
   ),
-  2660 => 
+  2500 => 
   array (
     'id' => 88436,
     'name' => 'Tychy',
@@ -23950,7 +22510,7 @@ return array (
     'latitude' => 50.13717,
     'longitude' => 18.96641,
   ),
-  2661 => 
+  2501 => 
   array (
     'id' => 88437,
     'name' => 'Tyczyn',
@@ -23959,7 +22519,7 @@ return array (
     'latitude' => 49.96384,
     'longitude' => 22.03398,
   ),
-  2662 => 
+  2502 => 
   array (
     'id' => 88438,
     'name' => 'Tykocin',
@@ -23968,7 +22528,7 @@ return array (
     'latitude' => 53.20567,
     'longitude' => 22.77457,
   ),
-  2663 => 
+  2503 => 
   array (
     'id' => 88439,
     'name' => 'Tylicz',
@@ -23977,7 +22537,7 @@ return array (
     'latitude' => 49.39598,
     'longitude' => 21.02368,
   ),
-  2664 => 
+  2504 => 
   array (
     'id' => 88440,
     'name' => 'Tymbark',
@@ -23986,7 +22546,7 @@ return array (
     'latitude' => 49.72859,
     'longitude' => 20.32539,
   ),
-  2665 => 
+  2505 => 
   array (
     'id' => 88441,
     'name' => 'Tyniec Mały',
@@ -23995,7 +22555,7 @@ return array (
     'latitude' => 51.01948,
     'longitude' => 16.91998,
   ),
-  2666 => 
+  2506 => 
   array (
     'id' => 88442,
     'name' => 'Tyrawa Wołoska',
@@ -24004,7 +22564,7 @@ return array (
     'latitude' => 49.57744,
     'longitude' => 22.36988,
   ),
-  2667 => 
+  2507 => 
   array (
     'id' => 88443,
     'name' => 'Tyszowce',
@@ -24013,7 +22573,7 @@ return array (
     'latitude' => 50.61699,
     'longitude' => 23.69927,
   ),
-  2668 => 
+  2508 => 
   array (
     'id' => 88444,
     'name' => 'Tłuchowo',
@@ -24022,7 +22582,7 @@ return array (
     'latitude' => 52.74715,
     'longitude' => 19.46563,
   ),
-  2669 => 
+  2509 => 
   array (
     'id' => 88445,
     'name' => 'Tłuszcz',
@@ -24031,7 +22591,7 @@ return array (
     'latitude' => 52.43058,
     'longitude' => 21.43561,
   ),
-  2670 => 
+  2510 => 
   array (
     'id' => 88446,
     'name' => 'Uciechów',
@@ -24040,7 +22600,7 @@ return array (
     'latitude' => 50.75487,
     'longitude' => 16.68175,
   ),
-  2671 => 
+  2511 => 
   array (
     'id' => 88447,
     'name' => 'Udanin',
@@ -24049,7 +22609,7 @@ return array (
     'latitude' => 51.0374,
     'longitude' => 16.45469,
   ),
-  2672 => 
+  2512 => 
   array (
     'id' => 88448,
     'name' => 'Uherce Mineralne',
@@ -24058,7 +22618,7 @@ return array (
     'latitude' => 49.46455,
     'longitude' => 22.39829,
   ),
-  2673 => 
+  2513 => 
   array (
     'id' => 88449,
     'name' => 'Ujazd',
@@ -24067,16 +22627,7 @@ return array (
     'latitude' => 51.59781,
     'longitude' => 19.92225,
   ),
-  2674 => 
-  array (
-    'id' => 88450,
-    'name' => 'Ujazd',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.38938,
-    'longitude' => 18.34929,
-  ),
-  2675 => 
+  2514 => 
   array (
     'id' => 88451,
     'name' => 'Ujsoły',
@@ -24085,7 +22636,7 @@ return array (
     'latitude' => 49.4829,
     'longitude' => 19.13801,
   ),
-  2676 => 
+  2515 => 
   array (
     'id' => 88452,
     'name' => 'Ujście',
@@ -24094,7 +22645,7 @@ return array (
     'latitude' => 53.05339,
     'longitude' => 16.73201,
   ),
-  2677 => 
+  2516 => 
   array (
     'id' => 88453,
     'name' => 'Ulanów',
@@ -24103,7 +22654,7 @@ return array (
     'latitude' => 50.49031,
     'longitude' => 22.26362,
   ),
-  2678 => 
+  2517 => 
   array (
     'id' => 88454,
     'name' => 'Ulhówek',
@@ -24112,7 +22663,7 @@ return array (
     'latitude' => 50.44969,
     'longitude' => 23.79956,
   ),
-  2679 => 
+  2518 => 
   array (
     'id' => 88455,
     'name' => 'Uniejów',
@@ -24121,7 +22672,7 @@ return array (
     'latitude' => 51.97428,
     'longitude' => 18.79308,
   ),
-  2680 => 
+  2519 => 
   array (
     'id' => 88456,
     'name' => 'Unisław',
@@ -24130,7 +22681,7 @@ return array (
     'latitude' => 53.21241,
     'longitude' => 18.38622,
   ),
-  2681 => 
+  2520 => 
   array (
     'id' => 88457,
     'name' => 'Ursus',
@@ -24139,7 +22690,7 @@ return array (
     'latitude' => 52.19517,
     'longitude' => 20.88419,
   ),
-  2682 => 
+  2521 => 
   array (
     'id' => 88458,
     'name' => 'Ursynów',
@@ -24148,7 +22699,7 @@ return array (
     'latitude' => 52.15051,
     'longitude' => 21.05041,
   ),
-  2683 => 
+  2522 => 
   array (
     'id' => 88459,
     'name' => 'Urszulin',
@@ -24157,7 +22708,7 @@ return array (
     'latitude' => 51.3939,
     'longitude' => 23.1948,
   ),
-  2684 => 
+  2523 => 
   array (
     'id' => 88460,
     'name' => 'Urzejowice',
@@ -24166,7 +22717,7 @@ return array (
     'latitude' => 50.01182,
     'longitude' => 22.46189,
   ),
-  2685 => 
+  2524 => 
   array (
     'id' => 88461,
     'name' => 'Urzędów',
@@ -24175,7 +22726,7 @@ return array (
     'latitude' => 50.99323,
     'longitude' => 22.1426,
   ),
-  2686 => 
+  2525 => 
   array (
     'id' => 88462,
     'name' => 'Ustka',
@@ -24184,7 +22735,7 @@ return array (
     'latitude' => 54.58048,
     'longitude' => 16.86194,
   ),
-  2687 => 
+  2526 => 
   array (
     'id' => 88463,
     'name' => 'Ustronie Morskie',
@@ -24193,7 +22744,7 @@ return array (
     'latitude' => 54.21517,
     'longitude' => 15.75568,
   ),
-  2688 => 
+  2527 => 
   array (
     'id' => 88464,
     'name' => 'Ustroń',
@@ -24202,7 +22753,7 @@ return array (
     'latitude' => 49.72153,
     'longitude' => 18.80198,
   ),
-  2689 => 
+  2528 => 
   array (
     'id' => 88465,
     'name' => 'Ustrzyki Dolne',
@@ -24211,7 +22762,7 @@ return array (
     'latitude' => 49.4304,
     'longitude' => 22.59381,
   ),
-  2690 => 
+  2529 => 
   array (
     'id' => 88466,
     'name' => 'Ułęż',
@@ -24220,7 +22771,7 @@ return array (
     'latitude' => 51.59195,
     'longitude' => 22.10741,
   ),
-  2691 => 
+  2530 => 
   array (
     'id' => 88467,
     'name' => 'Uście Gorlickie',
@@ -24229,7 +22780,7 @@ return array (
     'latitude' => 49.52192,
     'longitude' => 21.13821,
   ),
-  2692 => 
+  2531 => 
   array (
     'id' => 88468,
     'name' => 'Uścimów Stary',
@@ -24238,7 +22789,7 @@ return array (
     'latitude' => 51.46962,
     'longitude' => 22.95516,
   ),
-  2693 => 
+  2532 => 
   array (
     'id' => 88469,
     'name' => 'Wadowice',
@@ -24247,7 +22798,7 @@ return array (
     'latitude' => 49.88335,
     'longitude' => 19.49292,
   ),
-  2694 => 
+  2533 => 
   array (
     'id' => 88470,
     'name' => 'Wadowice Górne',
@@ -24256,7 +22807,7 @@ return array (
     'latitude' => 50.26312,
     'longitude' => 21.30215,
   ),
-  2695 => 
+  2534 => 
   array (
     'id' => 88471,
     'name' => 'Waganiec',
@@ -24265,7 +22816,7 @@ return array (
     'latitude' => 52.8012,
     'longitude' => 18.87589,
   ),
-  2696 => 
+  2535 => 
   array (
     'id' => 88472,
     'name' => 'Waksmund',
@@ -24274,7 +22825,7 @@ return array (
     'latitude' => 49.48207,
     'longitude' => 20.07563,
   ),
-  2697 => 
+  2536 => 
   array (
     'id' => 88473,
     'name' => 'Walce',
@@ -24283,7 +22834,7 @@ return array (
     'latitude' => 50.37322,
     'longitude' => 18.00427,
   ),
-  2698 => 
+  2537 => 
   array (
     'id' => 88474,
     'name' => 'Walichnowy',
@@ -24292,7 +22843,7 @@ return array (
     'latitude' => 51.29579,
     'longitude' => 18.38073,
   ),
-  2699 => 
+  2538 => 
   array (
     'id' => 88475,
     'name' => 'Walim',
@@ -24301,7 +22852,7 @@ return array (
     'latitude' => 50.69749,
     'longitude' => 16.44482,
   ),
-  2700 => 
+  2539 => 
   array (
     'id' => 88476,
     'name' => 'Wapno',
@@ -24310,7 +22861,7 @@ return array (
     'latitude' => 52.90804,
     'longitude' => 17.47504,
   ),
-  2701 => 
+  2540 => 
   array (
     'id' => 88477,
     'name' => 'Warka',
@@ -24319,7 +22870,7 @@ return array (
     'latitude' => 51.7843,
     'longitude' => 21.19091,
   ),
-  2702 => 
+  2541 => 
   array (
     'id' => 88478,
     'name' => 'Warlubie',
@@ -24328,7 +22879,7 @@ return array (
     'latitude' => 53.58751,
     'longitude' => 18.63444,
   ),
-  2703 => 
+  2542 => 
   array (
     'id' => 88479,
     'name' => 'Warnice',
@@ -24337,7 +22888,7 @@ return array (
     'latitude' => 53.25376,
     'longitude' => 14.99402,
   ),
-  2704 => 
+  2543 => 
   array (
     'id' => 88480,
     'name' => 'Warsaw',
@@ -24346,7 +22897,7 @@ return array (
     'latitude' => 52.22977,
     'longitude' => 21.01178,
   ),
-  2705 => 
+  2544 => 
   array (
     'id' => 88481,
     'name' => 'Warszawa',
@@ -24355,7 +22906,7 @@ return array (
     'latitude' => 52.23547,
     'longitude' => 21.04191,
   ),
-  2706 => 
+  2545 => 
   array (
     'id' => 88482,
     'name' => 'Warta',
@@ -24364,7 +22915,7 @@ return array (
     'latitude' => 51.71049,
     'longitude' => 18.62483,
   ),
-  2707 => 
+  2546 => 
   array (
     'id' => 88483,
     'name' => 'Wartkowice',
@@ -24373,7 +22924,7 @@ return array (
     'latitude' => 51.97626,
     'longitude' => 19.0018,
   ),
-  2708 => 
+  2547 => 
   array (
     'id' => 88484,
     'name' => 'Wasilków',
@@ -24382,7 +22933,7 @@ return array (
     'latitude' => 53.19909,
     'longitude' => 23.20776,
   ),
-  2709 => 
+  2548 => 
   array (
     'id' => 88485,
     'name' => 'Wawer',
@@ -24391,7 +22942,7 @@ return array (
     'latitude' => 52.19656,
     'longitude' => 21.17752,
   ),
-  2710 => 
+  2549 => 
   array (
     'id' => 88486,
     'name' => 'Wawrzeńczyce',
@@ -24400,7 +22951,7 @@ return array (
     'latitude' => 50.11012,
     'longitude' => 20.31612,
   ),
-  2711 => 
+  2550 => 
   array (
     'id' => 88487,
     'name' => 'Wałbrzych',
@@ -24409,7 +22960,7 @@ return array (
     'latitude' => 50.77141,
     'longitude' => 16.28432,
   ),
-  2712 => 
+  2551 => 
   array (
     'id' => 88488,
     'name' => 'Wałcz',
@@ -24418,7 +22969,7 @@ return array (
     'latitude' => 53.27787,
     'longitude' => 16.47122,
   ),
-  2713 => 
+  2552 => 
   array (
     'id' => 88489,
     'name' => 'Waśniów',
@@ -24427,7 +22978,7 @@ return array (
     'latitude' => 50.89914,
     'longitude' => 21.22301,
   ),
-  2714 => 
+  2553 => 
   array (
     'id' => 88490,
     'name' => 'Wejherowo',
@@ -24436,7 +22987,7 @@ return array (
     'latitude' => 54.60568,
     'longitude' => 18.23559,
   ),
-  2715 => 
+  2554 => 
   array (
     'id' => 88491,
     'name' => 'Werbkowice',
@@ -24445,7 +22996,7 @@ return array (
     'latitude' => 50.75373,
     'longitude' => 23.76411,
   ),
-  2716 => 
+  2555 => 
   array (
     'id' => 88492,
     'name' => 'Wesoła',
@@ -24454,16 +23005,7 @@ return array (
     'latitude' => 49.79977,
     'longitude' => 22.10029,
   ),
-  2717 => 
-  array (
-    'id' => 88493,
-    'name' => 'Wesoła',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.25451,
-    'longitude' => 21.22407,
-  ),
-  2718 => 
+  2556 => 
   array (
     'id' => 88494,
     'name' => 'Widawa',
@@ -24472,7 +23014,7 @@ return array (
     'latitude' => 51.43855,
     'longitude' => 18.94421,
   ),
-  2719 => 
+  2557 => 
   array (
     'id' => 88495,
     'name' => 'Widawa-Lipa Piotrowska-Polanowice',
@@ -24481,7 +23023,7 @@ return array (
     'latitude' => 51.17093,
     'longitude' => 17.02164,
   ),
-  2720 => 
+  2558 => 
   array (
     'id' => 88496,
     'name' => 'Widuchowa',
@@ -24490,7 +23032,7 @@ return array (
     'latitude' => 53.12693,
     'longitude' => 14.39074,
   ),
-  2721 => 
+  2559 => 
   array (
     'id' => 88497,
     'name' => 'Wieczfnia Kościelna',
@@ -24499,7 +23041,7 @@ return array (
     'latitude' => 53.19534,
     'longitude' => 20.47637,
   ),
-  2722 => 
+  2560 => 
   array (
     'id' => 88498,
     'name' => 'Wielbark',
@@ -24508,7 +23050,7 @@ return array (
     'latitude' => 53.39858,
     'longitude' => 20.94629,
   ),
-  2723 => 
+  2561 => 
   array (
     'id' => 88499,
     'name' => 'Wieleń',
@@ -24517,7 +23059,7 @@ return array (
     'latitude' => 52.89461,
     'longitude' => 16.17136,
   ),
-  2724 => 
+  2562 => 
   array (
     'id' => 88500,
     'name' => 'Wielgie',
@@ -24526,7 +23068,7 @@ return array (
     'latitude' => 52.74076,
     'longitude' => 19.2635,
   ),
-  2725 => 
+  2563 => 
   array (
     'id' => 88501,
     'name' => 'Wielichowo',
@@ -24535,7 +23077,7 @@ return array (
     'latitude' => 52.11573,
     'longitude' => 16.3518,
   ),
-  2726 => 
+  2564 => 
   array (
     'id' => 88502,
     'name' => 'Wieliczka',
@@ -24544,7 +23086,7 @@ return array (
     'latitude' => 49.98738,
     'longitude' => 20.06473,
   ),
-  2727 => 
+  2565 => 
   array (
     'id' => 88503,
     'name' => 'Wieliszew',
@@ -24553,7 +23095,7 @@ return array (
     'latitude' => 52.4513,
     'longitude' => 20.96827,
   ),
-  2728 => 
+  2566 => 
   array (
     'id' => 88504,
     'name' => 'Wielka Nieszawka',
@@ -24562,7 +23104,7 @@ return array (
     'latitude' => 52.99619,
     'longitude' => 18.50973,
   ),
-  2729 => 
+  2567 => 
   array (
     'id' => 88505,
     'name' => 'Wielka Wieś',
@@ -24571,16 +23113,7 @@ return array (
     'latitude' => 49.93631,
     'longitude' => 20.82304,
   ),
-  2730 => 
-  array (
-    'id' => 88506,
-    'name' => 'Wielka Wieś',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.07107,
-    'longitude' => 20.96655,
-  ),
-  2731 => 
+  2568 => 
   array (
     'id' => 88507,
     'name' => 'Wielki Kack',
@@ -24589,7 +23122,7 @@ return array (
     'latitude' => 54.46754,
     'longitude' => 18.4881,
   ),
-  2732 => 
+  2569 => 
   array (
     'id' => 88508,
     'name' => 'Wielkie Oczy',
@@ -24598,7 +23131,7 @@ return array (
     'latitude' => 50.02357,
     'longitude' => 23.16407,
   ),
-  2733 => 
+  2570 => 
   array (
     'id' => 88509,
     'name' => 'Wielopole Skrzyńskie',
@@ -24607,7 +23140,7 @@ return array (
     'latitude' => 49.94564,
     'longitude' => 21.61491,
   ),
-  2734 => 
+  2571 => 
   array (
     'id' => 88510,
     'name' => 'Wielowieś',
@@ -24616,7 +23149,7 @@ return array (
     'latitude' => 50.50966,
     'longitude' => 18.61608,
   ),
-  2735 => 
+  2572 => 
   array (
     'id' => 88511,
     'name' => 'Wieluń',
@@ -24625,7 +23158,7 @@ return array (
     'latitude' => 51.22097,
     'longitude' => 18.56964,
   ),
-  2736 => 
+  2573 => 
   array (
     'id' => 88512,
     'name' => 'Wieniawa',
@@ -24634,7 +23167,7 @@ return array (
     'latitude' => 51.36171,
     'longitude' => 20.79489,
   ),
-  2737 => 
+  2574 => 
   array (
     'id' => 88513,
     'name' => 'Wieprz',
@@ -24643,16 +23176,7 @@ return array (
     'latitude' => 49.64746,
     'longitude' => 19.18007,
   ),
-  2738 => 
-  array (
-    'id' => 88514,
-    'name' => 'Wieprz',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.89093,
-    'longitude' => 19.35688,
-  ),
-  2739 => 
+  2575 => 
   array (
     'id' => 88515,
     'name' => 'Wieruszów',
@@ -24661,7 +23185,7 @@ return array (
     'latitude' => 51.29488,
     'longitude' => 18.15547,
   ),
-  2740 => 
+  2576 => 
   array (
     'id' => 88516,
     'name' => 'Wierzawice',
@@ -24670,7 +23194,7 @@ return array (
     'latitude' => 50.23623,
     'longitude' => 22.4509,
   ),
-  2741 => 
+  2577 => 
   array (
     'id' => 88517,
     'name' => 'Wierzbica',
@@ -24679,7 +23203,7 @@ return array (
     'latitude' => 51.2494,
     'longitude' => 21.08259,
   ),
-  2742 => 
+  2578 => 
   array (
     'id' => 88518,
     'name' => 'Wierzbinek',
@@ -24688,7 +23212,7 @@ return array (
     'latitude' => 52.44026,
     'longitude' => 18.51085,
   ),
-  2743 => 
+  2579 => 
   array (
     'id' => 88519,
     'name' => 'Wierzbna',
@@ -24697,7 +23221,7 @@ return array (
     'latitude' => 50.03311,
     'longitude' => 22.60128,
   ),
-  2744 => 
+  2580 => 
   array (
     'id' => 88520,
     'name' => 'Wierzbno',
@@ -24706,16 +23230,7 @@ return array (
     'latitude' => 52.31008,
     'longitude' => 21.85902,
   ),
-  2745 => 
-  array (
-    'id' => 88521,
-    'name' => 'Wierzbno',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.93674,
-    'longitude' => 17.17961,
-  ),
-  2746 => 
+  2581 => 
   array (
     'id' => 88522,
     'name' => 'Wierzchlas',
@@ -24724,7 +23239,7 @@ return array (
     'latitude' => 51.20457,
     'longitude' => 18.66543,
   ),
-  2747 => 
+  2582 => 
   array (
     'id' => 88523,
     'name' => 'Wierzchosławice',
@@ -24733,16 +23248,7 @@ return array (
     'latitude' => 50.02478,
     'longitude' => 20.85677,
   ),
-  2748 => 
-  array (
-    'id' => 88524,
-    'name' => 'Wierzchosławice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.86923,
-    'longitude' => 18.35609,
-  ),
-  2749 => 
+  2583 => 
   array (
     'id' => 88525,
     'name' => 'Wierzchowo',
@@ -24751,7 +23257,7 @@ return array (
     'latitude' => 53.46013,
     'longitude' => 16.09961,
   ),
-  2750 => 
+  2584 => 
   array (
     'id' => 88526,
     'name' => 'Wierzchucino',
@@ -24760,7 +23266,7 @@ return array (
     'latitude' => 54.78797,
     'longitude' => 18.00307,
   ),
-  2751 => 
+  2585 => 
   array (
     'id' => 88527,
     'name' => 'Wieszowa',
@@ -24769,7 +23275,7 @@ return array (
     'latitude' => 50.38444,
     'longitude' => 18.75924,
   ),
-  2752 => 
+  2586 => 
   array (
     'id' => 88528,
     'name' => 'Wietrzychowice',
@@ -24778,7 +23284,7 @@ return array (
     'latitude' => 50.19097,
     'longitude' => 20.76502,
   ),
-  2753 => 
+  2587 => 
   array (
     'id' => 88529,
     'name' => 'Wijewo',
@@ -24787,7 +23293,7 @@ return array (
     'latitude' => 51.91627,
     'longitude' => 16.18552,
   ),
-  2754 => 
+  2588 => 
   array (
     'id' => 88530,
     'name' => 'Wilamowice',
@@ -24796,7 +23302,7 @@ return array (
     'latitude' => 49.91701,
     'longitude' => 19.15237,
   ),
-  2755 => 
+  2589 => 
   array (
     'id' => 88531,
     'name' => 'Wilanów',
@@ -24805,7 +23311,7 @@ return array (
     'latitude' => 52.16311,
     'longitude' => 21.08748,
   ),
-  2756 => 
+  2590 => 
   array (
     'id' => 88532,
     'name' => 'Wilcza',
@@ -24814,7 +23320,7 @@ return array (
     'latitude' => 50.18899,
     'longitude' => 18.59668,
   ),
-  2757 => 
+  2591 => 
   array (
     'id' => 88533,
     'name' => 'Wilczogóra',
@@ -24823,7 +23329,7 @@ return array (
     'latitude' => 52.47348,
     'longitude' => 18.16744,
   ),
-  2758 => 
+  2592 => 
   array (
     'id' => 88534,
     'name' => 'Wilczyce',
@@ -24832,16 +23338,7 @@ return array (
     'latitude' => 50.74694,
     'longitude' => 21.65783,
   ),
-  2759 => 
-  array (
-    'id' => 88535,
-    'name' => 'Wilczyce',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.12944,
-    'longitude' => 17.15472,
-  ),
-  2760 => 
+  2593 => 
   array (
     'id' => 88536,
     'name' => 'Wilczyn',
@@ -24850,7 +23347,7 @@ return array (
     'latitude' => 52.48816,
     'longitude' => 18.16126,
   ),
-  2761 => 
+  2594 => 
   array (
     'id' => 88537,
     'name' => 'Wilga',
@@ -24859,7 +23356,7 @@ return array (
     'latitude' => 51.85211,
     'longitude' => 21.37751,
   ),
-  2762 => 
+  2595 => 
   array (
     'id' => 88538,
     'name' => 'Wilkowice',
@@ -24868,16 +23365,7 @@ return array (
     'latitude' => 49.76282,
     'longitude' => 19.08973,
   ),
-  2763 => 
-  array (
-    'id' => 88539,
-    'name' => 'Wilkowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.88513,
-    'longitude' => 16.53417,
-  ),
-  2764 => 
+  2596 => 
   array (
     'id' => 88540,
     'name' => 'Wilkołaz',
@@ -24886,7 +23374,7 @@ return array (
     'latitude' => 51.01473,
     'longitude' => 22.35014,
   ),
-  2765 => 
+  2597 => 
   array (
     'id' => 88541,
     'name' => 'Wilków',
@@ -24895,25 +23383,7 @@ return array (
     'latitude' => 51.26224,
     'longitude' => 21.87756,
   ),
-  2766 => 
-  array (
-    'id' => 88542,
-    'name' => 'Wilków',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.10158,
-    'longitude' => 17.66284,
-  ),
-  2767 => 
-  array (
-    'id' => 88543,
-    'name' => 'Wilków',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.09212,
-    'longitude' => 15.92824,
-  ),
-  2768 => 
+  2598 => 
   array (
     'id' => 88544,
     'name' => 'Winnica',
@@ -24922,7 +23392,7 @@ return array (
     'latitude' => 52.64306,
     'longitude' => 20.94114,
   ),
-  2769 => 
+  2599 => 
   array (
     'id' => 88545,
     'name' => 'Wiskitki',
@@ -24931,7 +23401,7 @@ return array (
     'latitude' => 52.08831,
     'longitude' => 20.38708,
   ),
-  2770 => 
+  2600 => 
   array (
     'id' => 88546,
     'name' => 'Wisznice',
@@ -24940,7 +23410,7 @@ return array (
     'latitude' => 51.78924,
     'longitude' => 23.20836,
   ),
-  2771 => 
+  2601 => 
   array (
     'id' => 88547,
     'name' => 'Wisła',
@@ -24949,7 +23419,7 @@ return array (
     'latitude' => 49.65629,
     'longitude' => 18.8591,
   ),
-  2772 => 
+  2602 => 
   array (
     'id' => 88548,
     'name' => 'Witanowice',
@@ -24958,7 +23428,7 @@ return array (
     'latitude' => 49.91796,
     'longitude' => 19.52579,
   ),
-  2773 => 
+  2603 => 
   array (
     'id' => 88549,
     'name' => 'Witaszyce',
@@ -24967,7 +23437,7 @@ return array (
     'latitude' => 51.94151,
     'longitude' => 17.56182,
   ),
-  2774 => 
+  2604 => 
   array (
     'id' => 88550,
     'name' => 'Witkowice',
@@ -24976,7 +23446,7 @@ return array (
     'latitude' => 49.90746,
     'longitude' => 19.27963,
   ),
-  2775 => 
+  2605 => 
   array (
     'id' => 88551,
     'name' => 'Witkowo',
@@ -24985,7 +23455,7 @@ return array (
     'latitude' => 52.43964,
     'longitude' => 17.77264,
   ),
-  2776 => 
+  2606 => 
   array (
     'id' => 88552,
     'name' => 'Witnica',
@@ -24994,7 +23464,7 @@ return array (
     'latitude' => 52.67318,
     'longitude' => 14.89765,
   ),
-  2777 => 
+  2607 => 
   array (
     'id' => 88553,
     'name' => 'Witonia',
@@ -25003,7 +23473,7 @@ return array (
     'latitude' => 52.14655,
     'longitude' => 19.30049,
   ),
-  2778 => 
+  2608 => 
   array (
     'id' => 88554,
     'name' => 'Wizna',
@@ -25012,7 +23482,7 @@ return array (
     'latitude' => 53.19518,
     'longitude' => 22.38241,
   ),
-  2779 => 
+  2609 => 
   array (
     'id' => 88555,
     'name' => 'Wiązownica',
@@ -25021,7 +23491,7 @@ return array (
     'latitude' => 50.08066,
     'longitude' => 22.70668,
   ),
-  2780 => 
+  2610 => 
   array (
     'id' => 88556,
     'name' => 'Wiązów',
@@ -25030,7 +23500,7 @@ return array (
     'latitude' => 50.81399,
     'longitude' => 17.20214,
   ),
-  2781 => 
+  2611 => 
   array (
     'id' => 88557,
     'name' => 'Więcbork',
@@ -25039,7 +23509,7 @@ return array (
     'latitude' => 53.35384,
     'longitude' => 17.49064,
   ),
-  2782 => 
+  2612 => 
   array (
     'id' => 88558,
     'name' => 'Większyce',
@@ -25048,7 +23518,7 @@ return array (
     'latitude' => 50.33659,
     'longitude' => 18.10221,
   ),
-  2783 => 
+  2613 => 
   array (
     'id' => 88559,
     'name' => 'Wińsko',
@@ -25057,7 +23527,7 @@ return array (
     'latitude' => 51.47032,
     'longitude' => 16.6139,
   ),
-  2784 => 
+  2614 => 
   array (
     'id' => 88560,
     'name' => 'Wiślica',
@@ -25066,7 +23536,7 @@ return array (
     'latitude' => 50.34891,
     'longitude' => 20.67438,
   ),
-  2785 => 
+  2615 => 
   array (
     'id' => 88561,
     'name' => 'Wiśniew',
@@ -25075,7 +23545,7 @@ return array (
     'latitude' => 52.07265,
     'longitude' => 22.29392,
   ),
-  2786 => 
+  2616 => 
   array (
     'id' => 88562,
     'name' => 'Wiśniewo',
@@ -25084,7 +23554,7 @@ return array (
     'latitude' => 53.06474,
     'longitude' => 20.34805,
   ),
-  2787 => 
+  2617 => 
   array (
     'id' => 88563,
     'name' => 'Wiśniowa',
@@ -25093,16 +23563,7 @@ return array (
     'latitude' => 49.7878,
     'longitude' => 20.11502,
   ),
-  2788 => 
-  array (
-    'id' => 88564,
-    'name' => 'Wiśniowa',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.86897,
-    'longitude' => 21.65508,
-  ),
-  2789 => 
+  2618 => 
   array (
     'id' => 88565,
     'name' => 'Wleń',
@@ -25111,7 +23572,7 @@ return array (
     'latitude' => 51.01635,
     'longitude' => 15.67474,
   ),
-  2790 => 
+  2619 => 
   array (
     'id' => 88566,
     'name' => 'Wodynie',
@@ -25120,7 +23581,7 @@ return array (
     'latitude' => 52.0404,
     'longitude' => 21.95575,
   ),
-  2791 => 
+  2620 => 
   array (
     'id' => 88567,
     'name' => 'Wodzierady',
@@ -25129,7 +23590,7 @@ return array (
     'latitude' => 51.71826,
     'longitude' => 19.15123,
   ),
-  2792 => 
+  2621 => 
   array (
     'id' => 88568,
     'name' => 'Wodzisław',
@@ -25138,7 +23599,7 @@ return array (
     'latitude' => 50.52047,
     'longitude' => 20.1915,
   ),
-  2793 => 
+  2622 => 
   array (
     'id' => 88569,
     'name' => 'Wodzisław Śląski',
@@ -25147,7 +23608,7 @@ return array (
     'latitude' => 50.00377,
     'longitude' => 18.47205,
   ),
-  2794 => 
+  2623 => 
   array (
     'id' => 88570,
     'name' => 'Wohyń',
@@ -25156,7 +23617,7 @@ return array (
     'latitude' => 51.75642,
     'longitude' => 22.78582,
   ),
-  2795 => 
+  2624 => 
   array (
     'id' => 88571,
     'name' => 'Wojaszówka',
@@ -25165,7 +23626,7 @@ return array (
     'latitude' => 49.77777,
     'longitude' => 21.67079,
   ),
-  2796 => 
+  2625 => 
   array (
     'id' => 88572,
     'name' => 'Wojciechowice',
@@ -25174,7 +23635,7 @@ return array (
     'latitude' => 50.84226,
     'longitude' => 21.58942,
   ),
-  2797 => 
+  2626 => 
   array (
     'id' => 88573,
     'name' => 'Wojciechów',
@@ -25183,7 +23644,7 @@ return array (
     'latitude' => 51.23543,
     'longitude' => 22.24551,
   ),
-  2798 => 
+  2627 => 
   array (
     'id' => 88574,
     'name' => 'Wojcieszków',
@@ -25192,7 +23653,7 @@ return array (
     'latitude' => 51.76922,
     'longitude' => 22.31589,
   ),
-  2799 => 
+  2628 => 
   array (
     'id' => 88575,
     'name' => 'Wojcieszów',
@@ -25201,7 +23662,7 @@ return array (
     'latitude' => 50.95194,
     'longitude' => 15.92185,
   ),
-  2800 => 
+  2629 => 
   array (
     'id' => 88576,
     'name' => 'Wojkowice',
@@ -25210,7 +23671,7 @@ return array (
     'latitude' => 50.36509,
     'longitude' => 19.03652,
   ),
-  2801 => 
+  2630 => 
   array (
     'id' => 88577,
     'name' => 'Wojnicz',
@@ -25219,7 +23680,7 @@ return array (
     'latitude' => 49.958,
     'longitude' => 20.83785,
   ),
-  2802 => 
+  2631 => 
   array (
     'id' => 88578,
     'name' => 'Wojszyce',
@@ -25228,7 +23689,7 @@ return array (
     'latitude' => 51.05837,
     'longitude' => 17.04513,
   ),
-  2803 => 
+  2632 => 
   array (
     'id' => 88579,
     'name' => 'Wojsławice',
@@ -25237,7 +23698,7 @@ return array (
     'latitude' => 50.91916,
     'longitude' => 23.54602,
   ),
-  2804 => 
+  2633 => 
   array (
     'id' => 88580,
     'name' => 'Wola',
@@ -25246,16 +23707,7 @@ return array (
     'latitude' => 52.2401,
     'longitude' => 20.98869,
   ),
-  2805 => 
-  array (
-    'id' => 88581,
-    'name' => 'Wola',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.01745,
-    'longitude' => 19.12333,
-  ),
-  2806 => 
+  2634 => 
   array (
     'id' => 88582,
     'name' => 'Wola Batorska',
@@ -25264,7 +23716,7 @@ return array (
     'latitude' => 50.05262,
     'longitude' => 20.26617,
   ),
-  2807 => 
+  2635 => 
   array (
     'id' => 88583,
     'name' => 'Wola Dębińska',
@@ -25273,7 +23725,7 @@ return array (
     'latitude' => 49.98214,
     'longitude' => 20.68777,
   ),
-  2808 => 
+  2636 => 
   array (
     'id' => 88584,
     'name' => 'Wola Filipowska',
@@ -25282,7 +23734,7 @@ return array (
     'latitude' => 50.13433,
     'longitude' => 19.58013,
   ),
-  2809 => 
+  2637 => 
   array (
     'id' => 88585,
     'name' => 'Wola Jachowa',
@@ -25291,7 +23743,7 @@ return array (
     'latitude' => 50.84524,
     'longitude' => 20.85814,
   ),
-  2810 => 
+  2638 => 
   array (
     'id' => 88586,
     'name' => 'Wola Krzysztoporska',
@@ -25300,7 +23752,7 @@ return array (
     'latitude' => 51.34418,
     'longitude' => 19.5809,
   ),
-  2811 => 
+  2639 => 
   array (
     'id' => 88587,
     'name' => 'Wola Radziszowska',
@@ -25309,7 +23761,7 @@ return array (
     'latitude' => 49.90558,
     'longitude' => 19.78827,
   ),
-  2812 => 
+  2640 => 
   array (
     'id' => 88588,
     'name' => 'Wola Rębkowska',
@@ -25318,7 +23770,7 @@ return array (
     'latitude' => 51.90181,
     'longitude' => 21.55818,
   ),
-  2813 => 
+  2641 => 
   array (
     'id' => 88589,
     'name' => 'Wola Sernicka',
@@ -25327,7 +23779,7 @@ return array (
     'latitude' => 51.44978,
     'longitude' => 22.68351,
   ),
-  2814 => 
+  2642 => 
   array (
     'id' => 88590,
     'name' => 'Wola Uhruska',
@@ -25336,7 +23788,7 @@ return array (
     'latitude' => 51.32139,
     'longitude' => 23.62627,
   ),
-  2815 => 
+  2643 => 
   array (
     'id' => 88591,
     'name' => 'Wola Zabierzowska',
@@ -25345,7 +23797,7 @@ return array (
     'latitude' => 50.07257,
     'longitude' => 20.33217,
   ),
-  2816 => 
+  2644 => 
   array (
     'id' => 88592,
     'name' => 'Wola Żarczycka',
@@ -25354,7 +23806,7 @@ return array (
     'latitude' => 50.2912,
     'longitude' => 22.25023,
   ),
-  2817 => 
+  2645 => 
   array (
     'id' => 88593,
     'name' => 'Wolanów',
@@ -25363,7 +23815,7 @@ return array (
     'latitude' => 51.3803,
     'longitude' => 20.97702,
   ),
-  2818 => 
+  2646 => 
   array (
     'id' => 88594,
     'name' => 'Wolbrom',
@@ -25372,7 +23824,7 @@ return array (
     'latitude' => 50.37957,
     'longitude' => 19.75831,
   ),
-  2819 => 
+  2647 => 
   array (
     'id' => 88595,
     'name' => 'Wolbórz',
@@ -25381,7 +23833,7 @@ return array (
     'latitude' => 51.50196,
     'longitude' => 19.83049,
   ),
-  2820 => 
+  2648 => 
   array (
     'id' => 88596,
     'name' => 'Wolin',
@@ -25390,7 +23842,7 @@ return array (
     'latitude' => 53.84214,
     'longitude' => 14.61465,
   ),
-  2821 => 
+  2649 => 
   array (
     'id' => 88597,
     'name' => 'Wolsztyn',
@@ -25399,7 +23851,7 @@ return array (
     'latitude' => 52.11552,
     'longitude' => 16.11712,
   ),
-  2822 => 
+  2650 => 
   array (
     'id' => 88598,
     'name' => 'Wołczyn',
@@ -25408,7 +23860,7 @@ return array (
     'latitude' => 51.01845,
     'longitude' => 18.04994,
   ),
-  2823 => 
+  2651 => 
   array (
     'id' => 88599,
     'name' => 'Wołomin',
@@ -25417,7 +23869,7 @@ return array (
     'latitude' => 52.34006,
     'longitude' => 21.24207,
   ),
-  2824 => 
+  2652 => 
   array (
     'id' => 88600,
     'name' => 'Wołowice',
@@ -25426,7 +23878,7 @@ return array (
     'latitude' => 49.98876,
     'longitude' => 19.7263,
   ),
-  2825 => 
+  2653 => 
   array (
     'id' => 88601,
     'name' => 'Wołów',
@@ -25435,7 +23887,7 @@ return array (
     'latitude' => 51.33656,
     'longitude' => 16.64429,
   ),
-  2826 => 
+  2654 => 
   array (
     'id' => 88602,
     'name' => 'Woźniki',
@@ -25444,7 +23896,7 @@ return array (
     'latitude' => 49.93774,
     'longitude' => 19.49078,
   ),
-  2827 => 
+  2655 => 
   array (
     'id' => 88603,
     'name' => 'Wożniki',
@@ -25453,7 +23905,7 @@ return array (
     'latitude' => 50.58934,
     'longitude' => 19.05991,
   ),
-  2828 => 
+  2656 => 
   array (
     'id' => 88604,
     'name' => 'Wrocław',
@@ -25462,7 +23914,7 @@ return array (
     'latitude' => 51.1081,
     'longitude' => 17.03859,
   ),
-  2829 => 
+  2657 => 
   array (
     'id' => 88605,
     'name' => 'Wronki',
@@ -25471,7 +23923,7 @@ return array (
     'latitude' => 52.71051,
     'longitude' => 16.38044,
   ),
-  2830 => 
+  2658 => 
   array (
     'id' => 88606,
     'name' => 'Września',
@@ -25480,7 +23932,7 @@ return array (
     'latitude' => 52.32512,
     'longitude' => 17.56519,
   ),
-  2831 => 
+  2659 => 
   array (
     'id' => 88607,
     'name' => 'Wrząsowice',
@@ -25489,7 +23941,7 @@ return array (
     'latitude' => 49.95862,
     'longitude' => 19.94654,
   ),
-  2832 => 
+  2660 => 
   array (
     'id' => 88608,
     'name' => 'Wróblew',
@@ -25498,7 +23950,7 @@ return array (
     'latitude' => 51.61215,
     'longitude' => 18.61487,
   ),
-  2833 => 
+  2661 => 
   array (
     'id' => 88609,
     'name' => 'Wręczyca Wielka',
@@ -25507,7 +23959,7 @@ return array (
     'latitude' => 50.84589,
     'longitude' => 18.92086,
   ),
-  2834 => 
+  2662 => 
   array (
     'id' => 88610,
     'name' => 'Wschowa',
@@ -25516,7 +23968,7 @@ return array (
     'latitude' => 51.80705,
     'longitude' => 16.31663,
   ),
-  2835 => 
+  2663 => 
   array (
     'id' => 88611,
     'name' => 'Wydminy',
@@ -25525,7 +23977,7 @@ return array (
     'latitude' => 53.98194,
     'longitude' => 22.03239,
   ),
-  2836 => 
+  2664 => 
   array (
     'id' => 88612,
     'name' => 'Wymiarki',
@@ -25534,7 +23986,7 @@ return array (
     'latitude' => 51.51109,
     'longitude' => 15.08208,
   ),
-  2837 => 
+  2665 => 
   array (
     'id' => 88613,
     'name' => 'Wyry',
@@ -25543,7 +23995,7 @@ return array (
     'latitude' => 50.13296,
     'longitude' => 18.90052,
   ),
-  2838 => 
+  2666 => 
   array (
     'id' => 88614,
     'name' => 'Wyrzysk',
@@ -25552,7 +24004,7 @@ return array (
     'latitude' => 53.153,
     'longitude' => 17.26802,
   ),
-  2839 => 
+  2667 => 
   array (
     'id' => 88615,
     'name' => 'Wysoka',
@@ -25561,34 +24013,7 @@ return array (
     'latitude' => 50.04474,
     'longitude' => 22.26002,
   ),
-  2840 => 
-  array (
-    'id' => 88616,
-    'name' => 'Wysoka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.90713,
-    'longitude' => 19.60356,
-  ),
-  2841 => 
-  array (
-    'id' => 88617,
-    'name' => 'Wysoka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 53.18091,
-    'longitude' => 17.08353,
-  ),
-  2842 => 
-  array (
-    'id' => 88618,
-    'name' => 'Wysoka',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.42989,
-    'longitude' => 19.35368,
-  ),
-  2843 => 
+  2668 => 
   array (
     'id' => 88619,
     'name' => 'Wysoka Głogowska',
@@ -25597,7 +24022,7 @@ return array (
     'latitude' => 50.16019,
     'longitude' => 22.02124,
   ),
-  2844 => 
+  2669 => 
   array (
     'id' => 88620,
     'name' => 'Wysoka Strzyżowska',
@@ -25606,7 +24031,7 @@ return array (
     'latitude' => 49.83056,
     'longitude' => 21.74074,
   ),
-  2845 => 
+  2670 => 
   array (
     'id' => 88621,
     'name' => 'Wysokie',
@@ -25615,7 +24040,7 @@ return array (
     'latitude' => 50.91093,
     'longitude' => 22.666,
   ),
-  2846 => 
+  2671 => 
   array (
     'id' => 88622,
     'name' => 'Wysokie Mazowieckie',
@@ -25624,7 +24049,7 @@ return array (
     'latitude' => 52.91661,
     'longitude' => 22.51712,
   ),
-  2847 => 
+  2672 => 
   array (
     'id' => 88623,
     'name' => 'Wyszki',
@@ -25633,7 +24058,7 @@ return array (
     'latitude' => 52.84129,
     'longitude' => 22.98119,
   ),
-  2848 => 
+  2673 => 
   array (
     'id' => 88624,
     'name' => 'Wyszków',
@@ -25642,7 +24067,7 @@ return array (
     'latitude' => 52.59278,
     'longitude' => 21.4584,
   ),
-  2849 => 
+  2674 => 
   array (
     'id' => 88625,
     'name' => 'Wyszogród',
@@ -25651,7 +24076,7 @@ return array (
     'latitude' => 52.38988,
     'longitude' => 20.19081,
   ),
-  2850 => 
+  2675 => 
   array (
     'id' => 88626,
     'name' => 'Wyśmierzyce',
@@ -25660,7 +24085,7 @@ return array (
     'latitude' => 51.62494,
     'longitude' => 20.81394,
   ),
-  2851 => 
+  2676 => 
   array (
     'id' => 88627,
     'name' => 'Wólka Niedźwiedzka',
@@ -25669,7 +24094,7 @@ return array (
     'latitude' => 50.24226,
     'longitude' => 22.18826,
   ),
-  2852 => 
+  2677 => 
   array (
     'id' => 88628,
     'name' => 'Wólka Pełkińska',
@@ -25678,7 +24103,7 @@ return array (
     'latitude' => 50.09553,
     'longitude' => 22.62342,
   ),
-  2853 => 
+  2678 => 
   array (
     'id' => 88629,
     'name' => 'Wólka Podleśna',
@@ -25687,7 +24112,7 @@ return array (
     'latitude' => 50.11785,
     'longitude' => 22.11213,
   ),
-  2854 => 
+  2679 => 
   array (
     'id' => 88630,
     'name' => 'Wólka Tanewska',
@@ -25696,7 +24121,7 @@ return array (
     'latitude' => 50.50005,
     'longitude' => 22.26113,
   ),
-  2855 => 
+  2680 => 
   array (
     'id' => 88631,
     'name' => 'Wąbrzeźno',
@@ -25705,7 +24130,7 @@ return array (
     'latitude' => 53.27989,
     'longitude' => 18.94773,
   ),
-  2856 => 
+  2681 => 
   array (
     'id' => 88632,
     'name' => 'Wąchock',
@@ -25714,7 +24139,7 @@ return array (
     'latitude' => 51.07391,
     'longitude' => 21.01243,
   ),
-  2857 => 
+  2682 => 
   array (
     'id' => 88633,
     'name' => 'Wągrowiec',
@@ -25723,7 +24148,7 @@ return array (
     'latitude' => 52.80842,
     'longitude' => 17.19961,
   ),
-  2858 => 
+  2683 => 
   array (
     'id' => 88634,
     'name' => 'Wąpielsk',
@@ -25732,7 +24157,7 @@ return array (
     'latitude' => 53.13761,
     'longitude' => 19.27792,
   ),
-  2859 => 
+  2684 => 
   array (
     'id' => 88635,
     'name' => 'Wąsosz',
@@ -25741,16 +24166,7 @@ return array (
     'latitude' => 53.52209,
     'longitude' => 22.31915,
   ),
-  2860 => 
-  array (
-    'id' => 88636,
-    'name' => 'Wąsosz',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.56224,
-    'longitude' => 16.69059,
-  ),
-  2861 => 
+  2685 => 
   array (
     'id' => 88637,
     'name' => 'Wąwolnica',
@@ -25759,7 +24175,7 @@ return array (
     'latitude' => 51.29467,
     'longitude' => 22.14681,
   ),
-  2862 => 
+  2686 => 
   array (
     'id' => 88638,
     'name' => 'Węgierska Górka',
@@ -25768,7 +24184,7 @@ return array (
     'latitude' => 49.60776,
     'longitude' => 19.11638,
   ),
-  2863 => 
+  2687 => 
   array (
     'id' => 88639,
     'name' => 'Węgliniec',
@@ -25777,7 +24193,7 @@ return array (
     'latitude' => 51.28753,
     'longitude' => 15.22894,
   ),
-  2864 => 
+  2688 => 
   array (
     'id' => 88640,
     'name' => 'Węglówka',
@@ -25786,7 +24202,7 @@ return array (
     'latitude' => 49.73424,
     'longitude' => 20.08575,
   ),
-  2865 => 
+  2689 => 
   array (
     'id' => 88641,
     'name' => 'Węgorzewo',
@@ -25795,7 +24211,7 @@ return array (
     'latitude' => 54.21567,
     'longitude' => 21.7372,
   ),
-  2866 => 
+  2690 => 
   array (
     'id' => 88642,
     'name' => 'Węgorzyno',
@@ -25804,7 +24220,7 @@ return array (
     'latitude' => 53.54101,
     'longitude' => 15.55964,
   ),
-  2867 => 
+  2691 => 
   array (
     'id' => 88643,
     'name' => 'Węgry',
@@ -25813,7 +24229,7 @@ return array (
     'latitude' => 50.74319,
     'longitude' => 18.01741,
   ),
-  2868 => 
+  2692 => 
   array (
     'id' => 88644,
     'name' => 'Węgrzce Wielkie',
@@ -25822,7 +24238,7 @@ return array (
     'latitude' => 50.01491,
     'longitude' => 20.11082,
   ),
-  2869 => 
+  2693 => 
   array (
     'id' => 88645,
     'name' => 'Węgrów',
@@ -25831,7 +24247,7 @@ return array (
     'latitude' => 52.39954,
     'longitude' => 22.01634,
   ),
-  2870 => 
+  2694 => 
   array (
     'id' => 88646,
     'name' => 'Władysławowo',
@@ -25840,7 +24256,7 @@ return array (
     'latitude' => 54.79086,
     'longitude' => 18.4009,
   ),
-  2871 => 
+  2695 => 
   array (
     'id' => 88647,
     'name' => 'Władysławów',
@@ -25849,7 +24265,7 @@ return array (
     'latitude' => 52.10313,
     'longitude' => 18.47626,
   ),
-  2872 => 
+  2696 => 
   array (
     'id' => 88648,
     'name' => 'Włochy',
@@ -25858,7 +24274,7 @@ return array (
     'latitude' => 52.17941,
     'longitude' => 20.94612,
   ),
-  2873 => 
+  2697 => 
   array (
     'id' => 88649,
     'name' => 'Włocławek',
@@ -25867,7 +24283,7 @@ return array (
     'latitude' => 52.64817,
     'longitude' => 19.0678,
   ),
-  2874 => 
+  2698 => 
   array (
     'id' => 88650,
     'name' => 'Włodawa',
@@ -25876,7 +24292,7 @@ return array (
     'latitude' => 51.55,
     'longitude' => 23.55,
   ),
-  2875 => 
+  2699 => 
   array (
     'id' => 88651,
     'name' => 'Włodowice',
@@ -25885,7 +24301,7 @@ return array (
     'latitude' => 50.5556,
     'longitude' => 19.45155,
   ),
-  2876 => 
+  2700 => 
   array (
     'id' => 88652,
     'name' => 'Włosienica',
@@ -25894,7 +24310,7 @@ return array (
     'latitude' => 50.01822,
     'longitude' => 19.31671,
   ),
-  2877 => 
+  2701 => 
   array (
     'id' => 88653,
     'name' => 'Włoszakowice',
@@ -25903,7 +24319,7 @@ return array (
     'latitude' => 51.92754,
     'longitude' => 16.36456,
   ),
-  2878 => 
+  2702 => 
   array (
     'id' => 88654,
     'name' => 'Włoszczowa',
@@ -25912,7 +24328,7 @@ return array (
     'latitude' => 50.85256,
     'longitude' => 19.96593,
   ),
-  2879 => 
+  2703 => 
   array (
     'id' => 88655,
     'name' => 'Zabierzów',
@@ -25921,7 +24337,7 @@ return array (
     'latitude' => 50.11425,
     'longitude' => 19.79788,
   ),
-  2880 => 
+  2704 => 
   array (
     'id' => 88656,
     'name' => 'Zabierzów Bocheński',
@@ -25930,7 +24346,7 @@ return array (
     'latitude' => 50.06821,
     'longitude' => 20.31896,
   ),
-  2881 => 
+  2705 => 
   array (
     'id' => 88657,
     'name' => 'Zaborze',
@@ -25939,16 +24355,7 @@ return array (
     'latitude' => 50.02175,
     'longitude' => 19.24067,
   ),
-  2882 => 
-  array (
-    'id' => 88658,
-    'name' => 'Zaborze',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.87279,
-    'longitude' => 18.8037,
-  ),
-  2883 => 
+  2706 => 
   array (
     'id' => 88659,
     'name' => 'Zabrze',
@@ -25957,7 +24364,7 @@ return array (
     'latitude' => 50.32492,
     'longitude' => 18.78576,
   ),
-  2884 => 
+  2707 => 
   array (
     'id' => 88660,
     'name' => 'Zabrzeg',
@@ -25966,7 +24373,7 @@ return array (
     'latitude' => 49.91619,
     'longitude' => 18.94292,
   ),
-  2885 => 
+  2708 => 
   array (
     'id' => 88661,
     'name' => 'Zabór',
@@ -25975,7 +24382,7 @@ return array (
     'latitude' => 51.95194,
     'longitude' => 15.71676,
   ),
-  2886 => 
+  2709 => 
   array (
     'id' => 88662,
     'name' => 'Zabłocie',
@@ -25984,7 +24391,7 @@ return array (
     'latitude' => 49.90282,
     'longitude' => 18.78147,
   ),
-  2887 => 
+  2710 => 
   array (
     'id' => 88663,
     'name' => 'Zabłudów',
@@ -25993,7 +24400,7 @@ return array (
     'latitude' => 53.01442,
     'longitude' => 23.33831,
   ),
-  2888 => 
+  2711 => 
   array (
     'id' => 88664,
     'name' => 'Zacisze',
@@ -26002,7 +24409,7 @@ return array (
     'latitude' => 51.12303,
     'longitude' => 17.07465,
   ),
-  2889 => 
+  2712 => 
   array (
     'id' => 88665,
     'name' => 'Zadzim',
@@ -26011,7 +24418,7 @@ return array (
     'latitude' => 51.77666,
     'longitude' => 18.84928,
   ),
-  2890 => 
+  2713 => 
   array (
     'id' => 88666,
     'name' => 'Zagnańsk',
@@ -26020,7 +24427,7 @@ return array (
     'latitude' => 50.98037,
     'longitude' => 20.66314,
   ),
-  2891 => 
+  2714 => 
   array (
     'id' => 88667,
     'name' => 'Zagrodno',
@@ -26029,7 +24436,7 @@ return array (
     'latitude' => 51.19134,
     'longitude' => 15.86533,
   ),
-  2892 => 
+  2715 => 
   array (
     'id' => 88668,
     'name' => 'Zagórnik',
@@ -26038,7 +24445,7 @@ return array (
     'latitude' => 49.8371,
     'longitude' => 19.37868,
   ),
-  2893 => 
+  2716 => 
   array (
     'id' => 88669,
     'name' => 'Zagórz',
@@ -26047,7 +24454,7 @@ return array (
     'latitude' => 49.51457,
     'longitude' => 22.26706,
   ),
-  2894 => 
+  2717 => 
   array (
     'id' => 88670,
     'name' => 'Zagórze',
@@ -26056,7 +24463,7 @@ return array (
     'latitude' => 50.09449,
     'longitude' => 19.40357,
   ),
-  2895 => 
+  2718 => 
   array (
     'id' => 88671,
     'name' => 'Zagórzyce',
@@ -26065,7 +24472,7 @@ return array (
     'latitude' => 50.0169,
     'longitude' => 21.67517,
   ),
-  2896 => 
+  2719 => 
   array (
     'id' => 88672,
     'name' => 'Zagórów',
@@ -26074,7 +24481,7 @@ return array (
     'latitude' => 52.16835,
     'longitude' => 17.89561,
   ),
-  2897 => 
+  2720 => 
   array (
     'id' => 88673,
     'name' => 'Zakliczyn',
@@ -26083,7 +24490,7 @@ return array (
     'latitude' => 49.85589,
     'longitude' => 20.80935,
   ),
-  2898 => 
+  2721 => 
   array (
     'id' => 88674,
     'name' => 'Zaklików',
@@ -26092,7 +24499,7 @@ return array (
     'latitude' => 50.75769,
     'longitude' => 22.10226,
   ),
-  2899 => 
+  2722 => 
   array (
     'id' => 88675,
     'name' => 'Zakopane',
@@ -26101,7 +24508,7 @@ return array (
     'latitude' => 49.29899,
     'longitude' => 19.94885,
   ),
-  2900 => 
+  2723 => 
   array (
     'id' => 88676,
     'name' => 'Zakroczym',
@@ -26110,7 +24517,7 @@ return array (
     'latitude' => 52.43351,
     'longitude' => 20.61207,
   ),
-  2901 => 
+  2724 => 
   array (
     'id' => 88677,
     'name' => 'Zakrzew',
@@ -26119,16 +24526,7 @@ return array (
     'latitude' => 51.44095,
     'longitude' => 21.00105,
   ),
-  2902 => 
-  array (
-    'id' => 88678,
-    'name' => 'Zakrzew',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.89004,
-    'longitude' => 22.59115,
-  ),
-  2903 => 
+  2725 => 
   array (
     'id' => 88679,
     'name' => 'Zakrzewo',
@@ -26137,7 +24535,7 @@ return array (
     'latitude' => 53.41186,
     'longitude' => 17.15472,
   ),
-  2904 => 
+  2726 => 
   array (
     'id' => 88680,
     'name' => 'Zakrzów',
@@ -26146,16 +24544,7 @@ return array (
     'latitude' => 49.82558,
     'longitude' => 19.64973,
   ),
-  2905 => 
-  array (
-    'id' => 88681,
-    'name' => 'Zakrzów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.16624,
-    'longitude' => 17.13688,
-  ),
-  2906 => 
+  2727 => 
   array (
     'id' => 88682,
     'name' => 'Zakrzówek',
@@ -26164,7 +24553,7 @@ return array (
     'latitude' => 50.95124,
     'longitude' => 22.38138,
   ),
-  2907 => 
+  2728 => 
   array (
     'id' => 88683,
     'name' => 'Zalas',
@@ -26173,7 +24562,7 @@ return array (
     'latitude' => 50.08033,
     'longitude' => 19.62132,
   ),
-  2908 => 
+  2729 => 
   array (
     'id' => 88684,
     'name' => 'Zalesie',
@@ -26182,7 +24571,7 @@ return array (
     'latitude' => 50.01226,
     'longitude' => 22.53262,
   ),
-  2909 => 
+  2730 => 
   array (
     'id' => 88685,
     'name' => 'Zalesie Górne',
@@ -26191,7 +24580,7 @@ return array (
     'latitude' => 52.02768,
     'longitude' => 21.03659,
   ),
-  2910 => 
+  2731 => 
   array (
     'id' => 88686,
     'name' => 'Zalesie i Stadion',
@@ -26200,7 +24589,7 @@ return array (
     'latitude' => 51.1197,
     'longitude' => 17.09194,
   ),
-  2911 => 
+  2732 => 
   array (
     'id' => 88687,
     'name' => 'Zaleszany',
@@ -26209,7 +24598,7 @@ return array (
     'latitude' => 50.64799,
     'longitude' => 21.89069,
   ),
-  2912 => 
+  2733 => 
   array (
     'id' => 88688,
     'name' => 'Zalewo',
@@ -26218,7 +24607,7 @@ return array (
     'latitude' => 53.84534,
     'longitude' => 19.60519,
   ),
-  2913 => 
+  2734 => 
   array (
     'id' => 88689,
     'name' => 'Zamarski',
@@ -26227,7 +24616,7 @@ return array (
     'latitude' => 49.78254,
     'longitude' => 18.66972,
   ),
-  2914 => 
+  2735 => 
   array (
     'id' => 88690,
     'name' => 'Zambrów',
@@ -26236,7 +24625,7 @@ return array (
     'latitude' => 52.9855,
     'longitude' => 22.24319,
   ),
-  2915 => 
+  2736 => 
   array (
     'id' => 88691,
     'name' => 'Zamch',
@@ -26245,7 +24634,7 @@ return array (
     'latitude' => 50.31713,
     'longitude' => 23.02786,
   ),
-  2916 => 
+  2737 => 
   array (
     'id' => 88692,
     'name' => 'Zamość',
@@ -26254,7 +24643,7 @@ return array (
     'latitude' => 50.72314,
     'longitude' => 23.25196,
   ),
-  2917 => 
+  2738 => 
   array (
     'id' => 88693,
     'name' => 'Zaniemyśl',
@@ -26263,7 +24652,7 @@ return array (
     'latitude' => 52.15561,
     'longitude' => 17.16228,
   ),
-  2918 => 
+  2739 => 
   array (
     'id' => 88694,
     'name' => 'Zapolice',
@@ -26272,7 +24661,7 @@ return array (
     'latitude' => 51.54319,
     'longitude' => 18.88335,
   ),
-  2919 => 
+  2740 => 
   array (
     'id' => 88695,
     'name' => 'Zarszyn',
@@ -26281,7 +24670,7 @@ return array (
     'latitude' => 49.58178,
     'longitude' => 22.01283,
   ),
-  2920 => 
+  2741 => 
   array (
     'id' => 88696,
     'name' => 'Zarzecze',
@@ -26290,25 +24679,7 @@ return array (
     'latitude' => 50.52767,
     'longitude' => 22.19522,
   ),
-  2921 => 
-  array (
-    'id' => 88697,
-    'name' => 'Zarzecze',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.71932,
-    'longitude' => 19.17526,
-  ),
-  2922 => 
-  array (
-    'id' => 88698,
-    'name' => 'Zarzecze',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.36715,
-    'longitude' => 19.69591,
-  ),
-  2923 => 
+  2742 => 
   array (
     'id' => 88699,
     'name' => 'Zator',
@@ -26317,7 +24688,7 @@ return array (
     'latitude' => 49.99604,
     'longitude' => 19.43799,
   ),
-  2924 => 
+  2743 => 
   array (
     'id' => 88700,
     'name' => 'Zatory',
@@ -26326,7 +24697,7 @@ return array (
     'latitude' => 52.59929,
     'longitude' => 21.18258,
   ),
-  2925 => 
+  2744 => 
   array (
     'id' => 88701,
     'name' => 'Zawadzkie',
@@ -26335,7 +24706,7 @@ return array (
     'latitude' => 50.60503,
     'longitude' => 18.48467,
   ),
-  2926 => 
+  2745 => 
   array (
     'id' => 88702,
     'name' => 'Zawichost',
@@ -26344,7 +24715,7 @@ return array (
     'latitude' => 50.80743,
     'longitude' => 21.85408,
   ),
-  2927 => 
+  2746 => 
   array (
     'id' => 88703,
     'name' => 'Zawidz',
@@ -26353,7 +24724,7 @@ return array (
     'latitude' => 52.82745,
     'longitude' => 19.87367,
   ),
-  2928 => 
+  2747 => 
   array (
     'id' => 88704,
     'name' => 'Zawidów',
@@ -26362,7 +24733,7 @@ return array (
     'latitude' => 51.02546,
     'longitude' => 15.06213,
   ),
-  2929 => 
+  2748 => 
   array (
     'id' => 88705,
     'name' => 'Zawiercie',
@@ -26371,7 +24742,7 @@ return array (
     'latitude' => 50.48766,
     'longitude' => 19.41679,
   ),
-  2930 => 
+  2749 => 
   array (
     'id' => 88706,
     'name' => 'Zawoja',
@@ -26380,7 +24751,7 @@ return array (
     'latitude' => 49.64396,
     'longitude' => 19.54227,
   ),
-  2931 => 
+  2750 => 
   array (
     'id' => 88707,
     'name' => 'Załuski',
@@ -26389,7 +24760,7 @@ return array (
     'latitude' => 52.51152,
     'longitude' => 20.52864,
   ),
-  2932 => 
+  2751 => 
   array (
     'id' => 88708,
     'name' => 'Zblewo',
@@ -26398,7 +24769,7 @@ return array (
     'latitude' => 53.93366,
     'longitude' => 18.32262,
   ),
-  2933 => 
+  2752 => 
   array (
     'id' => 88709,
     'name' => 'Zbrosławice',
@@ -26407,7 +24778,7 @@ return array (
     'latitude' => 50.41612,
     'longitude' => 18.75443,
   ),
-  2934 => 
+  2753 => 
   array (
     'id' => 88710,
     'name' => 'Zbuczyn',
@@ -26416,7 +24787,7 @@ return array (
     'latitude' => 52.08974,
     'longitude' => 22.43829,
   ),
-  2935 => 
+  2754 => 
   array (
     'id' => 88711,
     'name' => 'Zbytków',
@@ -26425,7 +24796,7 @@ return array (
     'latitude' => 49.92288,
     'longitude' => 18.72697,
   ),
-  2936 => 
+  2755 => 
   array (
     'id' => 88712,
     'name' => 'Zbójna',
@@ -26434,7 +24805,7 @@ return array (
     'latitude' => 53.24293,
     'longitude' => 21.78812,
   ),
-  2937 => 
+  2756 => 
   array (
     'id' => 88713,
     'name' => 'Zbójno',
@@ -26443,7 +24814,7 @@ return array (
     'latitude' => 53.00848,
     'longitude' => 19.1575,
   ),
-  2938 => 
+  2757 => 
   array (
     'id' => 88714,
     'name' => 'Zbąszynek',
@@ -26452,7 +24823,7 @@ return array (
     'latitude' => 52.24315,
     'longitude' => 15.81654,
   ),
-  2939 => 
+  2758 => 
   array (
     'id' => 88715,
     'name' => 'Zbąszyń',
@@ -26461,7 +24832,7 @@ return array (
     'latitude' => 52.2509,
     'longitude' => 15.9252,
   ),
-  2940 => 
+  2759 => 
   array (
     'id' => 88716,
     'name' => 'Zduny',
@@ -26470,7 +24841,7 @@ return array (
     'latitude' => 51.6458,
     'longitude' => 17.37694,
   ),
-  2941 => 
+  2760 => 
   array (
     'id' => 88717,
     'name' => 'Zduńska Wola',
@@ -26479,7 +24850,7 @@ return array (
     'latitude' => 51.59915,
     'longitude' => 18.93974,
   ),
-  2942 => 
+  2761 => 
   array (
     'id' => 88718,
     'name' => 'Zdziechowice Drugie',
@@ -26488,7 +24859,7 @@ return array (
     'latitude' => 50.78478,
     'longitude' => 22.10999,
   ),
-  2943 => 
+  2762 => 
   array (
     'id' => 88719,
     'name' => 'Zdzieszowice',
@@ -26497,7 +24868,7 @@ return array (
     'latitude' => 50.42482,
     'longitude' => 18.12349,
   ),
-  2944 => 
+  2763 => 
   array (
     'id' => 88720,
     'name' => 'Zebrzydowice',
@@ -26506,16 +24877,7 @@ return array (
     'latitude' => 49.89032,
     'longitude' => 19.67291,
   ),
-  2945 => 
-  array (
-    'id' => 88721,
-    'name' => 'Zebrzydowice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.87793,
-    'longitude' => 18.61127,
-  ),
-  2946 => 
+  2764 => 
   array (
     'id' => 88722,
     'name' => 'Zelów',
@@ -26524,7 +24886,7 @@ return array (
     'latitude' => 51.46452,
     'longitude' => 19.21972,
   ),
-  2947 => 
+  2765 => 
   array (
     'id' => 88723,
     'name' => 'Zembrzyce',
@@ -26533,7 +24895,7 @@ return array (
     'latitude' => 49.77517,
     'longitude' => 19.6012,
   ),
-  2948 => 
+  2766 => 
   array (
     'id' => 88724,
     'name' => 'Zgierz',
@@ -26542,7 +24904,7 @@ return array (
     'latitude' => 51.85561,
     'longitude' => 19.40623,
   ),
-  2949 => 
+  2767 => 
   array (
     'id' => 88725,
     'name' => 'Zgorzelec',
@@ -26551,7 +24913,7 @@ return array (
     'latitude' => 51.14942,
     'longitude' => 15.00835,
   ),
-  2950 => 
+  2768 => 
   array (
     'id' => 88726,
     'name' => 'Zgorzelisko',
@@ -26560,7 +24922,7 @@ return array (
     'latitude' => 51.13833,
     'longitude' => 17.13365,
   ),
-  2951 => 
+  2769 => 
   array (
     'id' => 88727,
     'name' => 'Zgłobień',
@@ -26569,7 +24931,7 @@ return array (
     'latitude' => 50.0127,
     'longitude' => 21.8549,
   ),
-  2952 => 
+  2770 => 
   array (
     'id' => 88728,
     'name' => 'Zielona Góra',
@@ -26578,7 +24940,7 @@ return array (
     'latitude' => 51.93768,
     'longitude' => 15.51216,
   ),
-  2953 => 
+  2771 => 
   array (
     'id' => 88729,
     'name' => 'Zielonka',
@@ -26587,7 +24949,7 @@ return array (
     'latitude' => 52.30376,
     'longitude' => 21.16018,
   ),
-  2954 => 
+  2772 => 
   array (
     'id' => 88730,
     'name' => 'Zielonki',
@@ -26596,7 +24958,7 @@ return array (
     'latitude' => 50.12091,
     'longitude' => 19.92156,
   ),
-  2955 => 
+  2773 => 
   array (
     'id' => 88731,
     'name' => 'Ziębice',
@@ -26605,7 +24967,7 @@ return array (
     'latitude' => 50.60122,
     'longitude' => 17.04065,
   ),
-  2956 => 
+  2774 => 
   array (
     'id' => 88732,
     'name' => 'Zmiennica',
@@ -26614,7 +24976,7 @@ return array (
     'latitude' => 49.67652,
     'longitude' => 21.96596,
   ),
-  2957 => 
+  2775 => 
   array (
     'id' => 88733,
     'name' => 'Zubrzyca Dolna',
@@ -26623,7 +24985,7 @@ return array (
     'latitude' => 49.52688,
     'longitude' => 19.67342,
   ),
-  2958 => 
+  2776 => 
   array (
     'id' => 88734,
     'name' => 'Zubrzyca Górna',
@@ -26632,7 +24994,7 @@ return array (
     'latitude' => 49.56174,
     'longitude' => 19.64973,
   ),
-  2959 => 
+  2777 => 
   array (
     'id' => 88735,
     'name' => 'Zwierzyniec',
@@ -26641,7 +25003,7 @@ return array (
     'latitude' => 50.614,
     'longitude' => 22.97512,
   ),
-  2960 => 
+  2778 => 
   array (
     'id' => 88736,
     'name' => 'Zwierzyń',
@@ -26650,7 +25012,7 @@ return array (
     'latitude' => 52.83212,
     'longitude' => 15.56763,
   ),
-  2961 => 
+  2779 => 
   array (
     'id' => 88737,
     'name' => 'Zwoleń',
@@ -26659,7 +25021,7 @@ return array (
     'latitude' => 51.35542,
     'longitude' => 21.58768,
   ),
-  2962 => 
+  2780 => 
   array (
     'id' => 88738,
     'name' => 'Ząbki',
@@ -26668,7 +25030,7 @@ return array (
     'latitude' => 52.29271,
     'longitude' => 21.10539,
   ),
-  2963 => 
+  2781 => 
   array (
     'id' => 88739,
     'name' => 'Ząbkowice Śląskie',
@@ -26677,7 +25039,7 @@ return array (
     'latitude' => 50.58969,
     'longitude' => 16.81239,
   ),
-  2964 => 
+  2782 => 
   array (
     'id' => 88740,
     'name' => 'Zębowice',
@@ -26686,7 +25048,7 @@ return array (
     'latitude' => 50.7629,
     'longitude' => 18.34434,
   ),
-  2965 => 
+  2783 => 
   array (
     'id' => 88741,
     'name' => 'Zławieś Wielka',
@@ -26695,7 +25057,7 @@ return array (
     'latitude' => 53.09562,
     'longitude' => 18.32897,
   ),
-  2966 => 
+  2784 => 
   array (
     'id' => 88742,
     'name' => 'Złocieniec',
@@ -26704,7 +25066,7 @@ return array (
     'latitude' => 53.53286,
     'longitude' => 16.01132,
   ),
-  2967 => 
+  2785 => 
   array (
     'id' => 88743,
     'name' => 'Złoczew',
@@ -26713,7 +25075,7 @@ return array (
     'latitude' => 51.41719,
     'longitude' => 18.60363,
   ),
-  2968 => 
+  2786 => 
   array (
     'id' => 88744,
     'name' => 'Złota',
@@ -26722,16 +25084,7 @@ return array (
     'latitude' => 50.3816,
     'longitude' => 20.59361,
   ),
-  2969 => 
-  array (
-    'id' => 88745,
-    'name' => 'Złota',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.88059,
-    'longitude' => 20.69326,
-  ),
-  2970 => 
+  2787 => 
   array (
     'id' => 88746,
     'name' => 'Złotniki',
@@ -26740,16 +25093,7 @@ return array (
     'latitude' => 52.49407,
     'longitude' => 16.84496,
   ),
-  2971 => 
-  array (
-    'id' => 88747,
-    'name' => 'Złotniki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.13769,
-    'longitude' => 16.88923,
-  ),
-  2972 => 
+  2788 => 
   array (
     'id' => 88748,
     'name' => 'Złotniki Kujawskie',
@@ -26758,7 +25102,7 @@ return array (
     'latitude' => 52.89943,
     'longitude' => 18.14564,
   ),
-  2973 => 
+  2789 => 
   array (
     'id' => 88749,
     'name' => 'Złotoryja',
@@ -26767,7 +25111,7 @@ return array (
     'latitude' => 51.12637,
     'longitude' => 15.91979,
   ),
-  2974 => 
+  2790 => 
   array (
     'id' => 88750,
     'name' => 'Złoty Stok',
@@ -26776,7 +25120,7 @@ return array (
     'latitude' => 50.44472,
     'longitude' => 16.87586,
   ),
-  2975 => 
+  2791 => 
   array (
     'id' => 88751,
     'name' => 'Złotów',
@@ -26785,7 +25129,7 @@ return array (
     'latitude' => 53.36346,
     'longitude' => 17.04082,
   ),
-  2976 => 
+  2792 => 
   array (
     'id' => 88752,
     'name' => 'powiat Łowicki',
@@ -26794,7 +25138,7 @@ return array (
     'latitude' => 52.10627,
     'longitude' => 19.94606,
   ),
-  2977 => 
+  2793 => 
   array (
     'id' => 88754,
     'name' => 'Ćmielów',
@@ -26803,7 +25147,7 @@ return array (
     'latitude' => 50.89028,
     'longitude' => 21.51426,
   ),
-  2978 => 
+  2794 => 
   array (
     'id' => 88755,
     'name' => 'Łabiszyn',
@@ -26812,7 +25156,7 @@ return array (
     'latitude' => 52.9521,
     'longitude' => 17.91971,
   ),
-  2979 => 
+  2795 => 
   array (
     'id' => 88756,
     'name' => 'Łabowa',
@@ -26821,7 +25165,7 @@ return array (
     'latitude' => 49.52766,
     'longitude' => 20.85497,
   ),
-  2980 => 
+  2796 => 
   array (
     'id' => 88757,
     'name' => 'Łabunie',
@@ -26830,7 +25174,7 @@ return array (
     'latitude' => 50.65517,
     'longitude' => 23.3662,
   ),
-  2981 => 
+  2797 => 
   array (
     'id' => 88758,
     'name' => 'Łagiewniki',
@@ -26839,7 +25183,7 @@ return array (
     'latitude' => 50.79088,
     'longitude' => 16.84457,
   ),
-  2982 => 
+  2798 => 
   array (
     'id' => 88759,
     'name' => 'Łagów',
@@ -26848,25 +25192,7 @@ return array (
     'latitude' => 50.77517,
     'longitude' => 21.08431,
   ),
-  2983 => 
-  array (
-    'id' => 88760,
-    'name' => 'Łagów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.15835,
-    'longitude' => 15.04372,
-  ),
-  2984 => 
-  array (
-    'id' => 88761,
-    'name' => 'Łagów',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.33429,
-    'longitude' => 15.29769,
-  ),
-  2985 => 
+  2799 => 
   array (
     'id' => 88762,
     'name' => 'Łajski',
@@ -26875,7 +25201,7 @@ return array (
     'latitude' => 52.42873,
     'longitude' => 20.94946,
   ),
-  2986 => 
+  2800 => 
   array (
     'id' => 88763,
     'name' => 'Łambinowice',
@@ -26884,7 +25210,7 @@ return array (
     'latitude' => 50.53869,
     'longitude' => 17.56096,
   ),
-  2987 => 
+  2801 => 
   array (
     'id' => 88764,
     'name' => 'Łanięta',
@@ -26893,7 +25219,7 @@ return array (
     'latitude' => 52.36203,
     'longitude' => 19.28032,
   ),
-  2988 => 
+  2802 => 
   array (
     'id' => 88765,
     'name' => 'Łapanów',
@@ -26902,7 +25228,7 @@ return array (
     'latitude' => 49.86538,
     'longitude' => 20.29149,
   ),
-  2989 => 
+  2803 => 
   array (
     'id' => 88766,
     'name' => 'Łapczyca',
@@ -26911,7 +25237,7 @@ return array (
     'latitude' => 49.95994,
     'longitude' => 20.38445,
   ),
-  2990 => 
+  2804 => 
   array (
     'id' => 88767,
     'name' => 'Łapsze Niżne',
@@ -26920,7 +25246,7 @@ return array (
     'latitude' => 49.39807,
     'longitude' => 20.24343,
   ),
-  2991 => 
+  2805 => 
   array (
     'id' => 88768,
     'name' => 'Łapy',
@@ -26929,7 +25255,7 @@ return array (
     'latitude' => 52.9911,
     'longitude' => 22.88422,
   ),
-  2992 => 
+  2806 => 
   array (
     'id' => 88769,
     'name' => 'Łasin',
@@ -26938,7 +25264,7 @@ return array (
     'latitude' => 53.51794,
     'longitude' => 19.08832,
   ),
-  2993 => 
+  2807 => 
   array (
     'id' => 88770,
     'name' => 'Łask',
@@ -26947,7 +25273,7 @@ return array (
     'latitude' => 51.59056,
     'longitude' => 19.13278,
   ),
-  2994 => 
+  2808 => 
   array (
     'id' => 88771,
     'name' => 'Łaskarzew',
@@ -26956,7 +25282,7 @@ return array (
     'latitude' => 51.78993,
     'longitude' => 21.59122,
   ),
-  2995 => 
+  2809 => 
   array (
     'id' => 88772,
     'name' => 'Łaszczów',
@@ -26965,7 +25291,7 @@ return array (
     'latitude' => 50.53332,
     'longitude' => 23.72562,
   ),
-  2996 => 
+  2810 => 
   array (
     'id' => 88773,
     'name' => 'Łaziska',
@@ -26974,16 +25300,7 @@ return array (
     'latitude' => 51.14226,
     'longitude' => 21.87919,
   ),
-  2997 => 
-  array (
-    'id' => 88774,
-    'name' => 'Łaziska',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.9357,
-    'longitude' => 18.44707,
-  ),
-  2998 => 
+  2811 => 
   array (
     'id' => 88775,
     'name' => 'Łaziska Górne',
@@ -26992,7 +25309,7 @@ return array (
     'latitude' => 50.14952,
     'longitude' => 18.84215,
   ),
-  2999 => 
+  2812 => 
   array (
     'id' => 88776,
     'name' => 'Łazy',
@@ -27001,7 +25318,7 @@ return array (
     'latitude' => 50.42769,
     'longitude' => 19.39465,
   ),
-  3000 => 
+  2813 => 
   array (
     'id' => 88777,
     'name' => 'Łańcut',
@@ -27010,7 +25327,7 @@ return array (
     'latitude' => 50.06871,
     'longitude' => 22.22912,
   ),
-  3001 => 
+  2814 => 
   array (
     'id' => 88778,
     'name' => 'Łeba',
@@ -27019,7 +25336,7 @@ return array (
     'latitude' => 54.76099,
     'longitude' => 17.55547,
   ),
-  3002 => 
+  2815 => 
   array (
     'id' => 88779,
     'name' => 'Łobez',
@@ -27028,7 +25345,7 @@ return array (
     'latitude' => 53.63918,
     'longitude' => 15.62129,
   ),
-  3003 => 
+  2816 => 
   array (
     'id' => 88780,
     'name' => 'Łobodno',
@@ -27037,7 +25354,7 @@ return array (
     'latitude' => 50.93079,
     'longitude' => 18.9909,
   ),
-  3004 => 
+  2817 => 
   array (
     'id' => 88781,
     'name' => 'Łobżenica',
@@ -27046,7 +25363,7 @@ return array (
     'latitude' => 53.26244,
     'longitude' => 17.25574,
   ),
-  3005 => 
+  2818 => 
   array (
     'id' => 88782,
     'name' => 'Łochów',
@@ -27055,7 +25372,7 @@ return array (
     'latitude' => 52.53076,
     'longitude' => 21.68158,
   ),
-  3006 => 
+  2819 => 
   array (
     'id' => 88783,
     'name' => 'Łodygowice',
@@ -27064,7 +25381,7 @@ return array (
     'latitude' => 49.72992,
     'longitude' => 19.13939,
   ),
-  3007 => 
+  2820 => 
   array (
     'id' => 88784,
     'name' => 'Łomazy',
@@ -27073,7 +25390,7 @@ return array (
     'latitude' => 51.90435,
     'longitude' => 23.17656,
   ),
-  3008 => 
+  2821 => 
   array (
     'id' => 88785,
     'name' => 'Łomianki',
@@ -27082,7 +25399,7 @@ return array (
     'latitude' => 52.33413,
     'longitude' => 20.88602,
   ),
-  3009 => 
+  2822 => 
   array (
     'id' => 88786,
     'name' => 'Łomża',
@@ -27091,7 +25408,7 @@ return array (
     'latitude' => 53.17806,
     'longitude' => 22.05935,
   ),
-  3010 => 
+  2823 => 
   array (
     'id' => 88787,
     'name' => 'Łoniów',
@@ -27100,7 +25417,7 @@ return array (
     'latitude' => 50.56443,
     'longitude' => 21.52599,
   ),
-  3011 => 
+  2824 => 
   array (
     'id' => 88788,
     'name' => 'Łopiennik Górny',
@@ -27109,7 +25426,7 @@ return array (
     'latitude' => 51.0408,
     'longitude' => 23.01833,
   ),
-  3012 => 
+  2825 => 
   array (
     'id' => 88789,
     'name' => 'Łopuszka Wielka',
@@ -27118,7 +25435,7 @@ return array (
     'latitude' => 49.93454,
     'longitude' => 22.39305,
   ),
-  3013 => 
+  2826 => 
   array (
     'id' => 88790,
     'name' => 'Łopuszna',
@@ -27127,7 +25444,7 @@ return array (
     'latitude' => 49.47281,
     'longitude' => 20.13021,
   ),
-  3014 => 
+  2827 => 
   array (
     'id' => 88791,
     'name' => 'Łopuszno',
@@ -27136,7 +25453,7 @@ return array (
     'latitude' => 50.94864,
     'longitude' => 20.25081,
   ),
-  3015 => 
+  2828 => 
   array (
     'id' => 88792,
     'name' => 'Łosice',
@@ -27145,7 +25462,7 @@ return array (
     'latitude' => 52.21129,
     'longitude' => 22.71801,
   ),
-  3016 => 
+  2829 => 
   array (
     'id' => 88793,
     'name' => 'Łosiów',
@@ -27154,7 +25471,7 @@ return array (
     'latitude' => 50.79096,
     'longitude' => 17.56594,
   ),
-  3017 => 
+  2830 => 
   array (
     'id' => 88794,
     'name' => 'Łososina Dolna',
@@ -27163,7 +25480,7 @@ return array (
     'latitude' => 49.74977,
     'longitude' => 20.63129,
   ),
-  3018 => 
+  2831 => 
   array (
     'id' => 88795,
     'name' => 'Łowicz',
@@ -27172,7 +25489,7 @@ return array (
     'latitude' => 52.10714,
     'longitude' => 19.94525,
   ),
-  3019 => 
+  2832 => 
   array (
     'id' => 88796,
     'name' => 'Łubianka',
@@ -27181,7 +25498,7 @@ return array (
     'latitude' => 53.13864,
     'longitude' => 18.48115,
   ),
-  3020 => 
+  2833 => 
   array (
     'id' => 88797,
     'name' => 'Łubniany',
@@ -27190,7 +25507,7 @@ return array (
     'latitude' => 50.78597,
     'longitude' => 18.0011,
   ),
-  3021 => 
+  2834 => 
   array (
     'id' => 88798,
     'name' => 'Łubnice',
@@ -27199,16 +25516,7 @@ return array (
     'latitude' => 50.41164,
     'longitude' => 21.15014,
   ),
-  3022 => 
-  array (
-    'id' => 88799,
-    'name' => 'Łubnice',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 51.16406,
-    'longitude' => 18.29069,
-  ),
-  3023 => 
+  2835 => 
   array (
     'id' => 88800,
     'name' => 'Łubowo',
@@ -27217,16 +25525,7 @@ return array (
     'latitude' => 53.58634,
     'longitude' => 16.39177,
   ),
-  3024 => 
-  array (
-    'id' => 88801,
-    'name' => 'Łubowo',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.51168,
-    'longitude' => 17.45333,
-  ),
-  3025 => 
+  2836 => 
   array (
     'id' => 88802,
     'name' => 'Łukowa',
@@ -27235,16 +25534,7 @@ return array (
     'latitude' => 50.093,
     'longitude' => 20.97548,
   ),
-  3026 => 
-  array (
-    'id' => 88803,
-    'name' => 'Łukowa',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.37426,
-    'longitude' => 22.94349,
-  ),
-  3027 => 
+  2837 => 
   array (
     'id' => 88804,
     'name' => 'Łukowica',
@@ -27253,7 +25543,7 @@ return array (
     'latitude' => 49.6111,
     'longitude' => 20.48289,
   ),
-  3028 => 
+  2838 => 
   array (
     'id' => 88805,
     'name' => 'Łuków',
@@ -27262,7 +25552,7 @@ return array (
     'latitude' => 51.929,
     'longitude' => 22.37956,
   ),
-  3029 => 
+  2839 => 
   array (
     'id' => 88806,
     'name' => 'Łużna',
@@ -27271,7 +25561,7 @@ return array (
     'latitude' => 49.71288,
     'longitude' => 21.04637,
   ),
-  3030 => 
+  2840 => 
   array (
     'id' => 88807,
     'name' => 'Łyse',
@@ -27280,7 +25570,7 @@ return array (
     'latitude' => 53.36443,
     'longitude' => 21.56487,
   ),
-  3031 => 
+  2841 => 
   array (
     'id' => 88808,
     'name' => 'Łysomice',
@@ -27289,7 +25579,7 @@ return array (
     'latitude' => 53.08629,
     'longitude' => 18.62002,
   ),
-  3032 => 
+  2842 => 
   array (
     'id' => 88809,
     'name' => 'Łyszkowice',
@@ -27298,7 +25588,7 @@ return array (
     'latitude' => 51.98551,
     'longitude' => 19.90654,
   ),
-  3033 => 
+  2843 => 
   array (
     'id' => 88810,
     'name' => 'Łódź',
@@ -27307,7 +25597,7 @@ return array (
     'latitude' => 51.77058,
     'longitude' => 19.47395,
   ),
-  3034 => 
+  2844 => 
   array (
     'id' => 88811,
     'name' => 'Łąck',
@@ -27316,7 +25606,7 @@ return array (
     'latitude' => 52.46621,
     'longitude' => 19.61137,
   ),
-  3035 => 
+  2845 => 
   array (
     'id' => 88812,
     'name' => 'Łącko',
@@ -27325,7 +25615,7 @@ return array (
     'latitude' => 49.55757,
     'longitude' => 20.43586,
   ),
-  3036 => 
+  2846 => 
   array (
     'id' => 88813,
     'name' => 'Łączany',
@@ -27334,7 +25624,7 @@ return array (
     'latitude' => 49.98407,
     'longitude' => 19.57867,
   ),
-  3037 => 
+  2847 => 
   array (
     'id' => 88814,
     'name' => 'Łączna',
@@ -27343,7 +25633,7 @@ return array (
     'latitude' => 51.00231,
     'longitude' => 20.79712,
   ),
-  3038 => 
+  2848 => 
   array (
     'id' => 88815,
     'name' => 'Łąka Prudnicka',
@@ -27352,7 +25642,7 @@ return array (
     'latitude' => 50.31061,
     'longitude' => 17.52809,
   ),
-  3039 => 
+  2849 => 
   array (
     'id' => 88816,
     'name' => 'Łęczna',
@@ -27361,7 +25651,7 @@ return array (
     'latitude' => 51.30121,
     'longitude' => 22.88135,
   ),
-  3040 => 
+  2850 => 
   array (
     'id' => 88817,
     'name' => 'Łęczyca',
@@ -27370,7 +25660,7 @@ return array (
     'latitude' => 52.05959,
     'longitude' => 19.19972,
   ),
-  3041 => 
+  2851 => 
   array (
     'id' => 88818,
     'name' => 'Łęczyce',
@@ -27379,7 +25669,7 @@ return array (
     'latitude' => 54.59405,
     'longitude' => 17.85931,
   ),
-  3042 => 
+  2852 => 
   array (
     'id' => 88819,
     'name' => 'Łęgowo',
@@ -27388,7 +25678,7 @@ return array (
     'latitude' => 54.22641,
     'longitude' => 18.64277,
   ),
-  3043 => 
+  2853 => 
   array (
     'id' => 88820,
     'name' => 'Łęka Opatowska',
@@ -27397,7 +25687,7 @@ return array (
     'latitude' => 51.21231,
     'longitude' => 18.1071,
   ),
-  3044 => 
+  2854 => 
   array (
     'id' => 88821,
     'name' => 'Łękawica',
@@ -27406,7 +25696,7 @@ return array (
     'latitude' => 49.72209,
     'longitude' => 19.26496,
   ),
-  3045 => 
+  2855 => 
   array (
     'id' => 88822,
     'name' => 'Łęki',
@@ -27415,7 +25705,7 @@ return array (
     'latitude' => 49.80996,
     'longitude' => 21.66023,
   ),
-  3046 => 
+  2856 => 
   array (
     'id' => 88823,
     'name' => 'Łęki Dolne',
@@ -27424,7 +25714,7 @@ return array (
     'latitude' => 49.97386,
     'longitude' => 21.24739,
   ),
-  3047 => 
+  2857 => 
   array (
     'id' => 88824,
     'name' => 'Łęki Górne',
@@ -27433,7 +25723,7 @@ return array (
     'latitude' => 49.97386,
     'longitude' => 21.17426,
   ),
-  3048 => 
+  2858 => 
   array (
     'id' => 88825,
     'name' => 'Łęki Szlacheckie',
@@ -27442,7 +25732,7 @@ return array (
     'latitude' => 51.18774,
     'longitude' => 19.79796,
   ),
-  3049 => 
+  2859 => 
   array (
     'id' => 88826,
     'name' => 'Łęknica',
@@ -27451,7 +25741,7 @@ return array (
     'latitude' => 51.54148,
     'longitude' => 14.73584,
   ),
-  3050 => 
+  2860 => 
   array (
     'id' => 88827,
     'name' => 'Łętownia',
@@ -27460,16 +25750,7 @@ return array (
     'latitude' => 50.32481,
     'longitude' => 22.23401,
   ),
-  3051 => 
-  array (
-    'id' => 88828,
-    'name' => 'Łętownia',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 49.69745,
-    'longitude' => 19.87109,
-  ),
-  3052 => 
+  2861 => 
   array (
     'id' => 88829,
     'name' => 'Ścinawa',
@@ -27478,7 +25759,7 @@ return array (
     'latitude' => 51.41626,
     'longitude' => 16.4251,
   ),
-  3053 => 
+  2862 => 
   array (
     'id' => 88830,
     'name' => 'Ślemień',
@@ -27487,7 +25768,7 @@ return array (
     'latitude' => 49.71826,
     'longitude' => 19.36735,
   ),
-  3054 => 
+  2863 => 
   array (
     'id' => 88831,
     'name' => 'Ślesin',
@@ -27496,16 +25777,7 @@ return array (
     'latitude' => 53.16514,
     'longitude' => 17.70258,
   ),
-  3055 => 
-  array (
-    'id' => 88832,
-    'name' => 'Ślesin',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 52.37039,
-    'longitude' => 18.30644,
-  ),
-  3056 => 
+  2864 => 
   array (
     'id' => 88833,
     'name' => 'Śliwice',
@@ -27514,7 +25786,7 @@ return array (
     'latitude' => 53.70875,
     'longitude' => 18.1737,
   ),
-  3057 => 
+  2865 => 
   array (
     'id' => 88834,
     'name' => 'Śmigiel',
@@ -27523,7 +25795,7 @@ return array (
     'latitude' => 52.01339,
     'longitude' => 16.52704,
   ),
-  3058 => 
+  2866 => 
   array (
     'id' => 88835,
     'name' => 'Śmiłowo',
@@ -27532,7 +25804,7 @@ return array (
     'latitude' => 53.13647,
     'longitude' => 16.92075,
   ),
-  3059 => 
+  2867 => 
   array (
     'id' => 88836,
     'name' => 'Śniadowo',
@@ -27541,7 +25813,7 @@ return array (
     'latitude' => 53.03874,
     'longitude' => 21.99077,
   ),
-  3060 => 
+  2868 => 
   array (
     'id' => 88837,
     'name' => 'Śrem',
@@ -27550,7 +25822,7 @@ return array (
     'latitude' => 52.08868,
     'longitude' => 17.01508,
   ),
-  3061 => 
+  2869 => 
   array (
     'id' => 88838,
     'name' => 'Środa Wielkopolska',
@@ -27559,7 +25831,7 @@ return array (
     'latitude' => 52.22843,
     'longitude' => 17.27617,
   ),
-  3062 => 
+  2870 => 
   array (
     'id' => 88839,
     'name' => 'Środa Śląska',
@@ -27568,7 +25840,7 @@ return array (
     'latitude' => 51.16406,
     'longitude' => 16.59508,
   ),
-  3063 => 
+  2871 => 
   array (
     'id' => 88840,
     'name' => 'Śródmieście',
@@ -27577,7 +25849,7 @@ return array (
     'latitude' => 52.22904,
     'longitude' => 21.01644,
   ),
-  3064 => 
+  2872 => 
   array (
     'id' => 88841,
     'name' => 'Świdnica',
@@ -27586,16 +25858,7 @@ return array (
     'latitude' => 51.88836,
     'longitude' => 15.39013,
   ),
-  3065 => 
-  array (
-    'id' => 88842,
-    'name' => 'Świdnica',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.84378,
-    'longitude' => 16.48859,
-  ),
-  3066 => 
+  2873 => 
   array (
     'id' => 88843,
     'name' => 'Świdnik',
@@ -27604,7 +25867,7 @@ return array (
     'latitude' => 51.21898,
     'longitude' => 22.69621,
   ),
-  3067 => 
+  2874 => 
   array (
     'id' => 88844,
     'name' => 'Świdwin',
@@ -27613,7 +25876,7 @@ return array (
     'latitude' => 53.77464,
     'longitude' => 15.77671,
   ),
-  3068 => 
+  2875 => 
   array (
     'id' => 88845,
     'name' => 'Świebodzice',
@@ -27622,7 +25885,7 @@ return array (
     'latitude' => 50.85974,
     'longitude' => 16.31966,
   ),
-  3069 => 
+  2876 => 
   array (
     'id' => 88846,
     'name' => 'Świebodzin',
@@ -27631,7 +25894,7 @@ return array (
     'latitude' => 52.24751,
     'longitude' => 15.53355,
   ),
-  3070 => 
+  2877 => 
   array (
     'id' => 88847,
     'name' => 'Świecie',
@@ -27640,7 +25903,7 @@ return array (
     'latitude' => 53.40953,
     'longitude' => 18.44742,
   ),
-  3071 => 
+  2878 => 
   array (
     'id' => 88848,
     'name' => 'Świecie nad Osą',
@@ -27649,7 +25912,7 @@ return array (
     'latitude' => 53.444,
     'longitude' => 19.10171,
   ),
-  3072 => 
+  2879 => 
   array (
     'id' => 88849,
     'name' => 'Świedziebnia',
@@ -27658,7 +25921,7 @@ return array (
     'latitude' => 53.15207,
     'longitude' => 19.55463,
   ),
-  3073 => 
+  2880 => 
   array (
     'id' => 88850,
     'name' => 'Świekatowo',
@@ -27667,7 +25930,7 @@ return array (
     'latitude' => 53.41864,
     'longitude' => 18.09731,
   ),
-  3074 => 
+  2881 => 
   array (
     'id' => 88851,
     'name' => 'Świeradów-Zdrój',
@@ -27676,7 +25939,7 @@ return array (
     'latitude' => 50.9092,
     'longitude' => 15.34309,
   ),
-  3075 => 
+  2882 => 
   array (
     'id' => 88852,
     'name' => 'Świercze',
@@ -27685,7 +25948,7 @@ return array (
     'latitude' => 52.67055,
     'longitude' => 20.7639,
   ),
-  3076 => 
+  2883 => 
   array (
     'id' => 88853,
     'name' => 'Świerczów',
@@ -27694,7 +25957,7 @@ return array (
     'latitude' => 50.96016,
     'longitude' => 17.7588,
   ),
-  3077 => 
+  2884 => 
   array (
     'id' => 88854,
     'name' => 'Świerklaniec',
@@ -27703,7 +25966,7 @@ return array (
     'latitude' => 50.44237,
     'longitude' => 18.93734,
   ),
-  3078 => 
+  2885 => 
   array (
     'id' => 88855,
     'name' => 'Świerklany Dolne',
@@ -27712,7 +25975,7 @@ return array (
     'latitude' => 50.01827,
     'longitude' => 18.57702,
   ),
-  3079 => 
+  2886 => 
   array (
     'id' => 88856,
     'name' => 'Świerklany Górne',
@@ -27721,7 +25984,7 @@ return array (
     'latitude' => 50.02765,
     'longitude' => 18.5905,
   ),
-  3080 => 
+  2887 => 
   array (
     'id' => 88857,
     'name' => 'Świerzawa',
@@ -27730,7 +25993,7 @@ return array (
     'latitude' => 51.01375,
     'longitude' => 15.89516,
   ),
-  3081 => 
+  2888 => 
   array (
     'id' => 88858,
     'name' => 'Świerzno',
@@ -27739,7 +26002,7 @@ return array (
     'latitude' => 53.96497,
     'longitude' => 14.96544,
   ),
-  3082 => 
+  2889 => 
   array (
     'id' => 88859,
     'name' => 'Świlcza',
@@ -27748,7 +26011,7 @@ return array (
     'latitude' => 50.07179,
     'longitude' => 21.89798,
   ),
-  3083 => 
+  2890 => 
   array (
     'id' => 88860,
     'name' => 'Świnice Warckie',
@@ -27757,7 +26020,7 @@ return array (
     'latitude' => 52.04072,
     'longitude' => 18.91786,
   ),
-  3084 => 
+  2891 => 
   array (
     'id' => 88861,
     'name' => 'Świnna',
@@ -27766,7 +26029,7 @@ return array (
     'latitude' => 49.65802,
     'longitude' => 19.25406,
   ),
-  3085 => 
+  2892 => 
   array (
     'id' => 88862,
     'name' => 'Świnoujście',
@@ -27775,7 +26038,7 @@ return array (
     'latitude' => 53.91053,
     'longitude' => 14.24712,
   ),
-  3086 => 
+  2893 => 
   array (
     'id' => 88863,
     'name' => 'Świątniki Górne',
@@ -27784,7 +26047,7 @@ return array (
     'latitude' => 49.93429,
     'longitude' => 19.95364,
   ),
-  3087 => 
+  2894 => 
   array (
     'id' => 88864,
     'name' => 'Święciechowa',
@@ -27793,7 +26056,7 @@ return array (
     'latitude' => 51.85503,
     'longitude' => 16.49805,
   ),
-  3088 => 
+  2895 => 
   array (
     'id' => 88865,
     'name' => 'Święta Katarzyna',
@@ -27802,7 +26065,7 @@ return array (
     'latitude' => 51.02596,
     'longitude' => 17.11464,
   ),
-  3089 => 
+  2896 => 
   array (
     'id' => 88867,
     'name' => 'Świętochłowice',
@@ -27811,7 +26074,7 @@ return array (
     'latitude' => 50.29636,
     'longitude' => 18.91726,
   ),
-  3090 => 
+  2897 => 
   array (
     'id' => 88868,
     'name' => 'Żabia Wola',
@@ -27820,7 +26083,7 @@ return array (
     'latitude' => 52.03169,
     'longitude' => 20.69112,
   ),
-  3091 => 
+  2898 => 
   array (
     'id' => 88869,
     'name' => 'Żabieniec',
@@ -27829,7 +26092,7 @@ return array (
     'latitude' => 52.05856,
     'longitude' => 21.04817,
   ),
-  3092 => 
+  2899 => 
   array (
     'id' => 88870,
     'name' => 'Żabnica',
@@ -27838,7 +26101,7 @@ return array (
     'latitude' => 49.58139,
     'longitude' => 19.15621,
   ),
-  3093 => 
+  2900 => 
   array (
     'id' => 88871,
     'name' => 'Żabno',
@@ -27847,7 +26110,7 @@ return array (
     'latitude' => 50.13334,
     'longitude' => 20.88615,
   ),
-  3094 => 
+  2901 => 
   array (
     'id' => 88872,
     'name' => 'Żagań',
@@ -27856,7 +26119,7 @@ return array (
     'latitude' => 51.61759,
     'longitude' => 15.31486,
   ),
-  3095 => 
+  2902 => 
   array (
     'id' => 88873,
     'name' => 'Żarki',
@@ -27865,16 +26128,7 @@ return array (
     'latitude' => 50.62518,
     'longitude' => 19.36357,
   ),
-  3096 => 
-  array (
-    'id' => 88874,
-    'name' => 'Żarki',
-    'country_id' => 176,
-    'country_code' => 'PL',
-    'latitude' => 50.08259,
-    'longitude' => 19.35199,
-  ),
-  3097 => 
+  2903 => 
   array (
     'id' => 88875,
     'name' => 'Żarki-Letnisko',
@@ -27883,7 +26137,7 @@ return array (
     'latitude' => 50.62295,
     'longitude' => 19.27508,
   ),
-  3098 => 
+  2904 => 
   array (
     'id' => 88876,
     'name' => 'Żarnów',
@@ -27892,7 +26146,7 @@ return array (
     'latitude' => 51.24607,
     'longitude' => 20.17476,
   ),
-  3099 => 
+  2905 => 
   array (
     'id' => 88877,
     'name' => 'Żary',
@@ -27901,7 +26155,7 @@ return array (
     'latitude' => 51.64205,
     'longitude' => 15.13727,
   ),
-  3100 => 
+  2906 => 
   array (
     'id' => 88878,
     'name' => 'Żarów',
@@ -27910,7 +26164,7 @@ return array (
     'latitude' => 50.94116,
     'longitude' => 16.49466,
   ),
-  3101 => 
+  2907 => 
   array (
     'id' => 88879,
     'name' => 'Żegocina',
@@ -27919,7 +26173,7 @@ return array (
     'latitude' => 49.81395,
     'longitude' => 20.41964,
   ),
-  3102 => 
+  2908 => 
   array (
     'id' => 88880,
     'name' => 'Żelazków',
@@ -27928,7 +26182,7 @@ return array (
     'latitude' => 51.85418,
     'longitude' => 18.1743,
   ),
-  3103 => 
+  2909 => 
   array (
     'id' => 88881,
     'name' => 'Żelechlinek',
@@ -27937,7 +26191,7 @@ return array (
     'latitude' => 51.71214,
     'longitude' => 20.0346,
   ),
-  3104 => 
+  2910 => 
   array (
     'id' => 88882,
     'name' => 'Żelechów',
@@ -27946,7 +26200,7 @@ return array (
     'latitude' => 51.81051,
     'longitude' => 21.89721,
   ),
-  3105 => 
+  2911 => 
   array (
     'id' => 88883,
     'name' => 'Żelistrzewo',
@@ -27955,7 +26209,7 @@ return array (
     'latitude' => 54.6777,
     'longitude' => 18.41738,
   ),
-  3106 => 
+  2912 => 
   array (
     'id' => 88884,
     'name' => 'Żerków',
@@ -27964,7 +26218,7 @@ return array (
     'latitude' => 52.06877,
     'longitude' => 17.56349,
   ),
-  3107 => 
+  2913 => 
   array (
     'id' => 88885,
     'name' => 'Żernica',
@@ -27973,7 +26227,7 @@ return array (
     'latitude' => 50.2477,
     'longitude' => 18.61547,
   ),
-  3108 => 
+  2914 => 
   array (
     'id' => 88886,
     'name' => 'Żerniki Wrocławskie',
@@ -27982,7 +26236,7 @@ return array (
     'latitude' => 51.03308,
     'longitude' => 17.05662,
   ),
-  3109 => 
+  2915 => 
   array (
     'id' => 88887,
     'name' => 'Żmigród',
@@ -27991,7 +26245,7 @@ return array (
     'latitude' => 51.46672,
     'longitude' => 16.90564,
   ),
-  3110 => 
+  2916 => 
   array (
     'id' => 88888,
     'name' => 'Żnin',
@@ -28000,7 +26254,7 @@ return array (
     'latitude' => 52.84958,
     'longitude' => 17.71992,
   ),
-  3111 => 
+  2917 => 
   array (
     'id' => 88889,
     'name' => 'Żoliborz',
@@ -28009,7 +26263,7 @@ return array (
     'latitude' => 52.26896,
     'longitude' => 20.98644,
   ),
-  3112 => 
+  2918 => 
   array (
     'id' => 88890,
     'name' => 'Żory',
@@ -28018,7 +26272,7 @@ return array (
     'latitude' => 50.04523,
     'longitude' => 18.70062,
   ),
-  3113 => 
+  2919 => 
   array (
     'id' => 88891,
     'name' => 'Żołynia',
@@ -28027,7 +26281,7 @@ return array (
     'latitude' => 50.162,
     'longitude' => 22.30825,
   ),
-  3114 => 
+  2920 => 
   array (
     'id' => 88892,
     'name' => 'Żukowo',
@@ -28036,7 +26290,7 @@ return array (
     'latitude' => 54.3422,
     'longitude' => 18.36476,
   ),
-  3115 => 
+  2921 => 
   array (
     'id' => 88893,
     'name' => 'Żurawica',
@@ -28045,7 +26299,7 @@ return array (
     'latitude' => 49.82348,
     'longitude' => 22.78925,
   ),
-  3116 => 
+  2922 => 
   array (
     'id' => 88894,
     'name' => 'Żurawiczki',
@@ -28054,7 +26308,7 @@ return array (
     'latitude' => 50.0137,
     'longitude' => 22.49949,
   ),
-  3117 => 
+  2923 => 
   array (
     'id' => 88895,
     'name' => 'Żuromin',
@@ -28063,7 +26317,7 @@ return array (
     'latitude' => 53.06611,
     'longitude' => 19.90894,
   ),
-  3118 => 
+  2924 => 
   array (
     'id' => 88896,
     'name' => 'Żurowa',
@@ -28072,7 +26326,7 @@ return array (
     'latitude' => 49.82636,
     'longitude' => 21.16894,
   ),
-  3119 => 
+  2925 => 
   array (
     'id' => 88897,
     'name' => 'Żychlin',
@@ -28081,7 +26335,7 @@ return array (
     'latitude' => 52.24404,
     'longitude' => 19.62613,
   ),
-  3120 => 
+  2926 => 
   array (
     'id' => 88898,
     'name' => 'Żyraków',
@@ -28090,7 +26344,7 @@ return array (
     'latitude' => 50.08545,
     'longitude' => 21.39622,
   ),
-  3121 => 
+  2927 => 
   array (
     'id' => 88899,
     'name' => 'Żyrardów',
@@ -28099,7 +26353,7 @@ return array (
     'latitude' => 52.0488,
     'longitude' => 20.44599,
   ),
-  3122 => 
+  2928 => 
   array (
     'id' => 88900,
     'name' => 'Żyrzyn',
@@ -28108,7 +26362,7 @@ return array (
     'latitude' => 51.49918,
     'longitude' => 22.0917,
   ),
-  3123 => 
+  2929 => 
   array (
     'id' => 88901,
     'name' => 'Żywiec',
@@ -28117,7 +26371,7 @@ return array (
     'latitude' => 49.68529,
     'longitude' => 19.19243,
   ),
-  3124 => 
+  2930 => 
   array (
     'id' => 88902,
     'name' => 'Żórawina',
@@ -28126,7 +26380,7 @@ return array (
     'latitude' => 50.9808,
     'longitude' => 17.03671,
   ),
-  3125 => 
+  2931 => 
   array (
     'id' => 88903,
     'name' => 'Żółkiewka',

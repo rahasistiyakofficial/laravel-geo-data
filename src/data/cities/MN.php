@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -255,15 +255,6 @@ return array (
   ),
   28 => 
   array (
-    'id' => 67733,
-    'name' => 'Tsengel',
-    'country_id' => 146,
-    'country_code' => 'MN',
-    'latitude' => 48.94314,
-    'longitude' => 89.14358,
-  ),
-  29 => 
-  array (
     'id' => 67734,
     'name' => 'Tsetserleg',
     'country_id' => 146,
@@ -271,7 +262,7 @@ return array (
     'latitude' => 47.475,
     'longitude' => 101.45417,
   ),
-  30 => 
+  29 => 
   array (
     'id' => 67735,
     'name' => 'Turt',
@@ -280,7 +271,7 @@ return array (
     'latitude' => 51.50725,
     'longitude' => 100.66257,
   ),
-  31 => 
+  30 => 
   array (
     'id' => 67736,
     'name' => 'Ulaangom',
@@ -289,7 +280,7 @@ return array (
     'latitude' => 49.98111,
     'longitude' => 92.06667,
   ),
-  32 => 
+  31 => 
   array (
     'id' => 67737,
     'name' => 'Ulaanhudag',
@@ -298,7 +289,7 @@ return array (
     'latitude' => 47.33333,
     'longitude' => 104.5,
   ),
-  33 => 
+  32 => 
   array (
     'id' => 67738,
     'name' => 'Uliastay',
@@ -307,7 +298,7 @@ return array (
     'latitude' => 47.74167,
     'longitude' => 96.84444,
   ),
-  34 => 
+  33 => 
   array (
     'id' => 67739,
     'name' => 'Undurkhaan',
@@ -316,7 +307,7 @@ return array (
     'latitude' => 47.31944,
     'longitude' => 110.65556,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 67740,
     'name' => 'Ölgii',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 48.96833,
     'longitude' => 89.9625,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 67741,
     'name' => 'Üyönch',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 46.04786,
     'longitude' => 92.02612,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 67742,
     'name' => 'Centipede',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 47.70693,
     'longitude' => 106.95276,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 153783,
     'name' => 'Ulan Bator',

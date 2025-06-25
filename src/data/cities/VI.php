@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -93,15 +93,6 @@ return array (
   ),
   10 => 
   array (
-    'id' => 149571,
-    'name' => 'East End',
-    'country_id' => 242,
-    'country_code' => 'VI',
-    'latitude' => 18.3403647,
-    'longitude' => -64.6806266,
-  ),
-  11 => 
-  array (
     'id' => 149572,
     'name' => 'Good Hope',
     'country_id' => 242,
@@ -109,7 +100,7 @@ return array (
     'latitude' => 17.7223442,
     'longitude' => -64.7172494,
   ),
-  12 => 
+  11 => 
   array (
     'id' => 149573,
     'name' => 'Christiansted',
@@ -118,16 +109,7 @@ return array (
     'latitude' => 17.7440364,
     'longitude' => -64.7106086,
   ),
-  13 => 
-  array (
-    'id' => 149574,
-    'name' => 'East End',
-    'country_id' => 242,
-    'country_code' => 'VI',
-    'latitude' => 17.7523882,
-    'longitude' => -64.670301,
-  ),
-  14 => 
+  12 => 
   array (
     'id' => 149575,
     'name' => 'Frederiksted',
@@ -136,7 +118,7 @@ return array (
     'latitude' => 17.7124691,
     'longitude' => -64.8867192,
   ),
-  15 => 
+  13 => 
   array (
     'id' => 149576,
     'name' => 'Northcentral',
@@ -145,7 +127,7 @@ return array (
     'latitude' => 17.7501145,
     'longitude' => -64.8238491,
   ),
-  16 => 
+  14 => 
   array (
     'id' => 149577,
     'name' => 'Northwest',
@@ -154,7 +136,7 @@ return array (
     'latitude' => 17.7382782,
     'longitude' => -64.8906347,
   ),
-  17 => 
+  15 => 
   array (
     'id' => 149578,
     'name' => 'Sion Farm',
@@ -163,7 +145,7 @@ return array (
     'latitude' => 17.7543276,
     'longitude' => -64.7794611,
   ),
-  18 => 
+  16 => 
   array (
     'id' => 149579,
     'name' => 'Southcentral',
@@ -172,7 +154,7 @@ return array (
     'latitude' => 17.7064917,
     'longitude' => -64.8144865,
   ),
-  19 => 
+  17 => 
   array (
     'id' => 149580,
     'name' => 'Southwest',

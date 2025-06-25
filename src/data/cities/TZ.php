@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -516,15 +516,6 @@ return array (
   ),
   57 => 
   array (
-    'id' => 109099,
-    'name' => 'Katoro',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -1.39972,
-    'longitude' => 31.50028,
-  ),
-  58 => 
-  array (
     'id' => 109100,
     'name' => 'Kibaha',
     'country_id' => 218,
@@ -532,7 +523,7 @@ return array (
     'latitude' => -6.76667,
     'longitude' => 38.91667,
   ),
-  59 => 
+  58 => 
   array (
     'id' => 109101,
     'name' => 'Kibakwe',
@@ -541,7 +532,7 @@ return array (
     'latitude' => -6.71667,
     'longitude' => 36.36667,
   ),
-  60 => 
+  59 => 
   array (
     'id' => 109102,
     'name' => 'Kibara',
@@ -550,7 +541,7 @@ return array (
     'latitude' => -2.15,
     'longitude' => 33.45,
   ),
-  61 => 
+  60 => 
   array (
     'id' => 109103,
     'name' => 'Kibaya',
@@ -559,7 +550,7 @@ return array (
     'latitude' => -5.3,
     'longitude' => 36.56667,
   ),
-  62 => 
+  61 => 
   array (
     'id' => 109104,
     'name' => 'Kibiti',
@@ -568,7 +559,7 @@ return array (
     'latitude' => -7.72178,
     'longitude' => 38.93749,
   ),
-  63 => 
+  62 => 
   array (
     'id' => 109105,
     'name' => 'Kibondo',
@@ -577,7 +568,7 @@ return array (
     'latitude' => -3.58639,
     'longitude' => 30.72028,
   ),
-  64 => 
+  63 => 
   array (
     'id' => 109106,
     'name' => 'Kidatu',
@@ -586,7 +577,7 @@ return array (
     'latitude' => -7.69916,
     'longitude' => 36.95722,
   ),
-  65 => 
+  64 => 
   array (
     'id' => 109107,
     'name' => 'Kidodi',
@@ -595,7 +586,7 @@ return array (
     'latitude' => -7.60361,
     'longitude' => 37.00438,
   ),
-  66 => 
+  65 => 
   array (
     'id' => 109108,
     'name' => 'Kigoma',
@@ -604,7 +595,7 @@ return array (
     'latitude' => -4.87694,
     'longitude' => 29.62667,
   ),
-  67 => 
+  66 => 
   array (
     'id' => 109109,
     'name' => 'Kigonsera',
@@ -613,7 +604,7 @@ return array (
     'latitude' => -10.8,
     'longitude' => 35.05,
   ),
-  68 => 
+  67 => 
   array (
     'id' => 109110,
     'name' => 'Kihangara',
@@ -622,7 +613,7 @@ return array (
     'latitude' => -2.58333,
     'longitude' => 33.35,
   ),
-  69 => 
+  68 => 
   array (
     'id' => 109112,
     'name' => 'Kijini',
@@ -631,7 +622,7 @@ return array (
     'latitude' => -5.85,
     'longitude' => 39.31667,
   ),
-  70 => 
+  69 => 
   array (
     'id' => 109113,
     'name' => 'Kilimatinde',
@@ -640,7 +631,7 @@ return array (
     'latitude' => -5.85,
     'longitude' => 34.95,
   ),
-  71 => 
+  70 => 
   array (
     'id' => 109114,
     'name' => 'Kilindoni',
@@ -649,7 +640,7 @@ return array (
     'latitude' => -7.91446,
     'longitude' => 39.66204,
   ),
-  72 => 
+  71 => 
   array (
     'id' => 109115,
     'name' => 'Kilosa',
@@ -658,7 +649,7 @@ return array (
     'latitude' => -6.83333,
     'longitude' => 36.98333,
   ),
-  73 => 
+  72 => 
   array (
     'id' => 109116,
     'name' => 'Kimamba',
@@ -667,7 +658,7 @@ return array (
     'latitude' => -6.78333,
     'longitude' => 37.13333,
   ),
-  74 => 
+  73 => 
   array (
     'id' => 109117,
     'name' => 'Kingori',
@@ -676,7 +667,7 @@ return array (
     'latitude' => -3.28333,
     'longitude' => 36.98333,
   ),
-  75 => 
+  74 => 
   array (
     'id' => 109118,
     'name' => 'Kintinku',
@@ -685,7 +676,7 @@ return array (
     'latitude' => -5.88333,
     'longitude' => 35.23333,
   ),
-  76 => 
+  75 => 
   array (
     'id' => 109119,
     'name' => 'Kiomboi',
@@ -694,7 +685,7 @@ return array (
     'latitude' => -4.26667,
     'longitude' => 34.36667,
   ),
-  77 => 
+  76 => 
   array (
     'id' => 109120,
     'name' => 'Kirando',
@@ -703,7 +694,7 @@ return array (
     'latitude' => -7.41667,
     'longitude' => 30.6,
   ),
-  78 => 
+  77 => 
   array (
     'id' => 109121,
     'name' => 'Kiratu',
@@ -712,7 +703,7 @@ return array (
     'latitude' => -3.33333,
     'longitude' => 35.66667,
   ),
-  79 => 
+  78 => 
   array (
     'id' => 109122,
     'name' => 'Kirya',
@@ -721,7 +712,7 @@ return array (
     'latitude' => -3.91667,
     'longitude' => 37.48333,
   ),
-  80 => 
+  79 => 
   array (
     'id' => 109123,
     'name' => 'Kisanga',
@@ -730,7 +721,7 @@ return array (
     'latitude' => -7.43622,
     'longitude' => 37.70337,
   ),
-  81 => 
+  80 => 
   array (
     'id' => 109124,
     'name' => 'Kisarawe',
@@ -739,7 +730,7 @@ return array (
     'latitude' => -6.9,
     'longitude' => 39.06667,
   ),
-  82 => 
+  81 => 
   array (
     'id' => 109125,
     'name' => 'Kisasa',
@@ -748,7 +739,7 @@ return array (
     'latitude' => -6.17526,
     'longitude' => 35.79266,
   ),
-  83 => 
+  82 => 
   array (
     'id' => 109126,
     'name' => 'Kisesa',
@@ -757,7 +748,7 @@ return array (
     'latitude' => -3.08333,
     'longitude' => 34.15,
   ),
-  84 => 
+  83 => 
   array (
     'id' => 109127,
     'name' => 'Kishapu',
@@ -766,7 +757,7 @@ return array (
     'latitude' => -3.61667,
     'longitude' => 33.86667,
   ),
-  85 => 
+  84 => 
   array (
     'id' => 109129,
     'name' => 'Kitama',
@@ -775,7 +766,7 @@ return array (
     'latitude' => -10.71667,
     'longitude' => 39.73333,
   ),
-  86 => 
+  85 => 
   array (
     'id' => 109130,
     'name' => 'Kitangari',
@@ -784,7 +775,7 @@ return array (
     'latitude' => -10.65,
     'longitude' => 39.33333,
   ),
-  87 => 
+  86 => 
   array (
     'id' => 109131,
     'name' => 'Kiwengwa',
@@ -793,7 +784,7 @@ return array (
     'latitude' => -5.98957,
     'longitude' => 39.3768,
   ),
-  88 => 
+  87 => 
   array (
     'id' => 109132,
     'name' => 'Koani',
@@ -802,7 +793,7 @@ return array (
     'latitude' => -6.13333,
     'longitude' => 39.28333,
   ),
-  89 => 
+  88 => 
   array (
     'id' => 109133,
     'name' => 'Koani Ndogo',
@@ -811,7 +802,7 @@ return array (
     'latitude' => -6.13333,
     'longitude' => 39.28333,
   ),
-  90 => 
+  89 => 
   array (
     'id' => 109134,
     'name' => 'Konde',
@@ -820,7 +811,7 @@ return array (
     'latitude' => -4.95,
     'longitude' => 39.75,
   ),
-  91 => 
+  90 => 
   array (
     'id' => 109135,
     'name' => 'Kondoa',
@@ -829,7 +820,7 @@ return array (
     'latitude' => -4.70931,
     'longitude' => 35.86227,
   ),
-  92 => 
+  91 => 
   array (
     'id' => 109136,
     'name' => 'Kongwa',
@@ -838,7 +829,7 @@ return array (
     'latitude' => -6.2,
     'longitude' => 36.41667,
   ),
-  93 => 
+  92 => 
   array (
     'id' => 109138,
     'name' => 'Kyaka',
@@ -847,7 +838,7 @@ return array (
     'latitude' => -1.25222,
     'longitude' => 31.42028,
   ),
-  94 => 
+  93 => 
   array (
     'id' => 109139,
     'name' => 'Laela',
@@ -856,7 +847,7 @@ return array (
     'latitude' => -8.56667,
     'longitude' => 32.05,
   ),
-  95 => 
+  94 => 
   array (
     'id' => 109140,
     'name' => 'Lalago',
@@ -865,7 +856,7 @@ return array (
     'latitude' => -3.45,
     'longitude' => 33.95,
   ),
-  96 => 
+  95 => 
   array (
     'id' => 109142,
     'name' => 'Lindi',
@@ -874,7 +865,7 @@ return array (
     'latitude' => -9.99709,
     'longitude' => 39.71649,
   ),
-  97 => 
+  96 => 
   array (
     'id' => 109143,
     'name' => 'Liuli',
@@ -883,7 +874,7 @@ return array (
     'latitude' => -11.08333,
     'longitude' => 34.63333,
   ),
-  98 => 
+  97 => 
   array (
     'id' => 109144,
     'name' => 'Longido',
@@ -892,7 +883,7 @@ return array (
     'latitude' => -2.73319,
     'longitude' => 36.69773,
   ),
-  99 => 
+  98 => 
   array (
     'id' => 109145,
     'name' => 'Luchingu',
@@ -901,7 +892,7 @@ return array (
     'latitude' => -10.9,
     'longitude' => 39.33333,
   ),
-  100 => 
+  99 => 
   array (
     'id' => 109146,
     'name' => 'Lugoba',
@@ -910,7 +901,7 @@ return array (
     'latitude' => -6.45,
     'longitude' => 38.33333,
   ),
-  101 => 
+  100 => 
   array (
     'id' => 109147,
     'name' => 'Lukuledi',
@@ -919,7 +910,7 @@ return array (
     'latitude' => -10.56667,
     'longitude' => 38.8,
   ),
-  102 => 
+  101 => 
   array (
     'id' => 109148,
     'name' => 'Lulindi',
@@ -928,7 +919,7 @@ return array (
     'latitude' => -10.81667,
     'longitude' => 39.13333,
   ),
-  103 => 
+  102 => 
   array (
     'id' => 109149,
     'name' => 'Lupiro',
@@ -937,7 +928,7 @@ return array (
     'latitude' => -8.38333,
     'longitude' => 36.66667,
   ),
-  104 => 
+  103 => 
   array (
     'id' => 109150,
     'name' => 'Lushoto',
@@ -946,7 +937,7 @@ return array (
     'latitude' => -4.78333,
     'longitude' => 38.28333,
   ),
-  105 => 
+  104 => 
   array (
     'id' => 109151,
     'name' => 'Mabama',
@@ -955,7 +946,7 @@ return array (
     'latitude' => -5.13333,
     'longitude' => 32.53333,
   ),
-  106 => 
+  105 => 
   array (
     'id' => 109152,
     'name' => 'Mabamba',
@@ -964,7 +955,7 @@ return array (
     'latitude' => -3.59833,
     'longitude' => 30.50194,
   ),
-  107 => 
+  106 => 
   array (
     'id' => 109153,
     'name' => 'Madimba',
@@ -973,7 +964,7 @@ return array (
     'latitude' => -10.4,
     'longitude' => 40.33333,
   ),
-  108 => 
+  107 => 
   array (
     'id' => 109154,
     'name' => 'Mafinga',
@@ -982,7 +973,7 @@ return array (
     'latitude' => -7.25,
     'longitude' => 35.06667,
   ),
-  109 => 
+  108 => 
   array (
     'id' => 109155,
     'name' => 'Magole',
@@ -991,7 +982,7 @@ return array (
     'latitude' => -6.37697,
     'longitude' => 37.37373,
   ),
-  110 => 
+  109 => 
   array (
     'id' => 109156,
     'name' => 'Magomeni',
@@ -1000,16 +991,7 @@ return array (
     'latitude' => -5.23333,
     'longitude' => 38.11667,
   ),
-  111 => 
-  array (
-    'id' => 109157,
-    'name' => 'Magomeni',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -6.8,
-    'longitude' => 39.25,
-  ),
-  112 => 
+  110 => 
   array (
     'id' => 109158,
     'name' => 'Magugu',
@@ -1018,7 +1000,7 @@ return array (
     'latitude' => -4.01667,
     'longitude' => 35.76667,
   ),
-  113 => 
+  111 => 
   array (
     'id' => 109159,
     'name' => 'Mahanje',
@@ -1027,7 +1009,7 @@ return array (
     'latitude' => -9.93333,
     'longitude' => 35.33333,
   ),
-  114 => 
+  112 => 
   array (
     'id' => 109160,
     'name' => 'Mahenge',
@@ -1036,7 +1018,7 @@ return array (
     'latitude' => -8.68333,
     'longitude' => 36.71667,
   ),
-  115 => 
+  113 => 
   array (
     'id' => 109161,
     'name' => 'Mahonda',
@@ -1045,7 +1027,7 @@ return array (
     'latitude' => -6.45,
     'longitude' => 39.46667,
   ),
-  116 => 
+  114 => 
   array (
     'id' => 109162,
     'name' => 'Mahuta',
@@ -1054,7 +1036,7 @@ return array (
     'latitude' => -10.86667,
     'longitude' => 39.45,
   ),
-  117 => 
+  115 => 
   array (
     'id' => 109163,
     'name' => 'Majengo',
@@ -1063,7 +1045,7 @@ return array (
     'latitude' => -5.15,
     'longitude' => 38.98333,
   ),
-  118 => 
+  116 => 
   array (
     'id' => 109164,
     'name' => 'Machame',
@@ -1072,7 +1054,7 @@ return array (
     'latitude' => -3.20611,
     'longitude' => 37.2263889,
   ),
-  119 => 
+  117 => 
   array (
     'id' => 109165,
     'name' => 'Makumbako',
@@ -1081,7 +1063,7 @@ return array (
     'latitude' => -8.85,
     'longitude' => 34.83333,
   ),
-  120 => 
+  118 => 
   array (
     'id' => 109166,
     'name' => 'Makungu',
@@ -1090,7 +1072,7 @@ return array (
     'latitude' => -8.73333,
     'longitude' => 35.28333,
   ),
-  121 => 
+  119 => 
   array (
     'id' => 109167,
     'name' => 'Makuyuni',
@@ -1099,7 +1081,7 @@ return array (
     'latitude' => -4.73333,
     'longitude' => 38.1,
   ),
-  122 => 
+  120 => 
   array (
     'id' => 109168,
     'name' => 'Malampaka',
@@ -1108,7 +1090,7 @@ return array (
     'latitude' => -3.13333,
     'longitude' => 33.53333,
   ),
-  123 => 
+  121 => 
   array (
     'id' => 109169,
     'name' => 'Malangali',
@@ -1117,7 +1099,7 @@ return array (
     'latitude' => -8.56667,
     'longitude' => 34.85,
   ),
-  124 => 
+  122 => 
   array (
     'id' => 109170,
     'name' => 'Malinyi',
@@ -1126,7 +1108,7 @@ return array (
     'latitude' => -8.93333,
     'longitude' => 36.13333,
   ),
-  125 => 
+  123 => 
   array (
     'id' => 109171,
     'name' => 'Malya',
@@ -1135,7 +1117,7 @@ return array (
     'latitude' => -2.98333,
     'longitude' => 33.51667,
   ),
-  126 => 
+  124 => 
   array (
     'id' => 109172,
     'name' => 'Manda',
@@ -1144,7 +1126,7 @@ return array (
     'latitude' => -10.46667,
     'longitude' => 34.58333,
   ),
-  127 => 
+  125 => 
   array (
     'id' => 109173,
     'name' => 'Maneromango',
@@ -1153,7 +1135,7 @@ return array (
     'latitude' => -7.1988,
     'longitude' => 38.78478,
   ),
-  128 => 
+  126 => 
   array (
     'id' => 109174,
     'name' => 'Maposeni',
@@ -1162,7 +1144,7 @@ return array (
     'latitude' => -10.58333,
     'longitude' => 35.4,
   ),
-  129 => 
+  127 => 
   array (
     'id' => 109175,
     'name' => 'Maramba',
@@ -1171,7 +1153,7 @@ return array (
     'latitude' => -5.05,
     'longitude' => 38.61667,
   ),
-  130 => 
+  128 => 
   array (
     'id' => 109176,
     'name' => 'Masasi',
@@ -1180,7 +1162,7 @@ return array (
     'latitude' => -10.71667,
     'longitude' => 38.8,
   ),
-  131 => 
+  129 => 
   array (
     'id' => 109177,
     'name' => 'Masuguru',
@@ -1189,7 +1171,7 @@ return array (
     'latitude' => -11.36667,
     'longitude' => 38.41667,
   ),
-  132 => 
+  130 => 
   array (
     'id' => 109178,
     'name' => 'Masumbwe',
@@ -1198,7 +1180,7 @@ return array (
     'latitude' => -3.63333,
     'longitude' => 32.18333,
   ),
-  133 => 
+  131 => 
   array (
     'id' => 109179,
     'name' => 'Maswa',
@@ -1207,7 +1189,7 @@ return array (
     'latitude' => -2.68333,
     'longitude' => 33.98333,
   ),
-  134 => 
+  132 => 
   array (
     'id' => 109180,
     'name' => 'Matai',
@@ -1216,7 +1198,7 @@ return array (
     'latitude' => -8.3,
     'longitude' => 31.51667,
   ),
-  135 => 
+  133 => 
   array (
     'id' => 109181,
     'name' => 'Matamba',
@@ -1225,7 +1207,7 @@ return array (
     'latitude' => -8.98333,
     'longitude' => 33.96667,
   ),
-  136 => 
+  134 => 
   array (
     'id' => 109182,
     'name' => 'Matiri',
@@ -1234,7 +1216,7 @@ return array (
     'latitude' => -10.75,
     'longitude' => 34.9,
   ),
-  137 => 
+  135 => 
   array (
     'id' => 109183,
     'name' => 'Matonga',
@@ -1243,7 +1225,7 @@ return array (
     'latitude' => -2.38333,
     'longitude' => 34.08333,
   ),
-  138 => 
+  136 => 
   array (
     'id' => 109184,
     'name' => 'Matui',
@@ -1252,7 +1234,7 @@ return array (
     'latitude' => -4.8,
     'longitude' => 38.25,
   ),
-  139 => 
+  137 => 
   array (
     'id' => 109185,
     'name' => 'Mazinde',
@@ -1261,7 +1243,7 @@ return array (
     'latitude' => -4.8,
     'longitude' => 38.21667,
   ),
-  140 => 
+  138 => 
   array (
     'id' => 109186,
     'name' => 'Mbamba Bay',
@@ -1270,7 +1252,7 @@ return array (
     'latitude' => -11.28333,
     'longitude' => 34.76667,
   ),
-  141 => 
+  139 => 
   array (
     'id' => 109187,
     'name' => 'Mbekenyera',
@@ -1279,7 +1261,7 @@ return array (
     'latitude' => -10.0,
     'longitude' => 38.98333,
   ),
-  142 => 
+  140 => 
   array (
     'id' => 109188,
     'name' => 'Mbinga',
@@ -1288,7 +1270,7 @@ return array (
     'latitude' => -10.93333,
     'longitude' => 35.01667,
   ),
-  143 => 
+  141 => 
   array (
     'id' => 109189,
     'name' => 'Mbuguni',
@@ -1297,7 +1279,7 @@ return array (
     'latitude' => -3.56667,
     'longitude' => 36.95,
   ),
-  144 => 
+  142 => 
   array (
     'id' => 109190,
     'name' => 'Mbulu',
@@ -1306,7 +1288,7 @@ return array (
     'latitude' => -3.85,
     'longitude' => 35.53333,
   ),
-  145 => 
+  143 => 
   array (
     'id' => 109191,
     'name' => 'Mbumi',
@@ -1315,7 +1297,7 @@ return array (
     'latitude' => -7.90577,
     'longitude' => 39.21047,
   ),
-  146 => 
+  144 => 
   array (
     'id' => 109192,
     'name' => 'Merelani',
@@ -1324,7 +1306,7 @@ return array (
     'latitude' => -3.56182,
     'longitude' => 36.97895,
   ),
-  147 => 
+  145 => 
   array (
     'id' => 109193,
     'name' => 'Meru',
@@ -1333,7 +1315,7 @@ return array (
     'latitude' => -3.305,
     'longitude' => 36.801,
   ),
-  148 => 
+  146 => 
   array (
     'id' => 109194,
     'name' => 'Mgandu',
@@ -1342,7 +1324,7 @@ return array (
     'latitude' => -5.95,
     'longitude' => 34.13333,
   ),
-  149 => 
+  147 => 
   array (
     'id' => 109195,
     'name' => 'Mhango',
@@ -1351,7 +1333,7 @@ return array (
     'latitude' => -3.28333,
     'longitude' => 32.85,
   ),
-  150 => 
+  148 => 
   array (
     'id' => 109196,
     'name' => 'Micheweni',
@@ -1360,7 +1342,7 @@ return array (
     'latitude' => -4.96667,
     'longitude' => 39.83333,
   ),
-  151 => 
+  149 => 
   array (
     'id' => 109197,
     'name' => 'Mikumi',
@@ -1369,7 +1351,7 @@ return array (
     'latitude' => -7.40409,
     'longitude' => 36.98309,
   ),
-  152 => 
+  150 => 
   array (
     'id' => 109198,
     'name' => 'Mingoyo',
@@ -1378,7 +1360,7 @@ return array (
     'latitude' => -10.10526,
     'longitude' => 39.61859,
   ),
-  153 => 
+  151 => 
   array (
     'id' => 109199,
     'name' => 'Misasi',
@@ -1387,7 +1369,7 @@ return array (
     'latitude' => -3.0,
     'longitude' => 33.08333,
   ),
-  154 => 
+  152 => 
   array (
     'id' => 109200,
     'name' => 'Misungwi',
@@ -1396,7 +1378,7 @@ return array (
     'latitude' => -2.85,
     'longitude' => 33.08333,
   ),
-  155 => 
+  153 => 
   array (
     'id' => 109201,
     'name' => 'Mkokotoni',
@@ -1405,7 +1387,7 @@ return array (
     'latitude' => -5.87506,
     'longitude' => 39.25523,
   ),
-  156 => 
+  154 => 
   array (
     'id' => 109202,
     'name' => 'Mkuranga',
@@ -1414,7 +1396,7 @@ return array (
     'latitude' => -7.27,
     'longitude' => 39.2,
   ),
-  157 => 
+  155 => 
   array (
     'id' => 109203,
     'name' => 'Mlalo',
@@ -1423,7 +1405,7 @@ return array (
     'latitude' => -4.93333,
     'longitude' => 38.93333,
   ),
-  158 => 
+  156 => 
   array (
     'id' => 109204,
     'name' => 'Mlandizi',
@@ -1432,7 +1414,7 @@ return array (
     'latitude' => -6.7,
     'longitude' => 38.73333,
   ),
-  159 => 
+  157 => 
   array (
     'id' => 109205,
     'name' => 'Mlangali',
@@ -1441,7 +1423,7 @@ return array (
     'latitude' => -9.78333,
     'longitude' => 34.51667,
   ),
-  160 => 
+  158 => 
   array (
     'id' => 109206,
     'name' => 'Mlimba',
@@ -1450,7 +1432,7 @@ return array (
     'latitude' => -8.8,
     'longitude' => 35.81667,
   ),
-  161 => 
+  159 => 
   array (
     'id' => 109207,
     'name' => 'Monduli',
@@ -1459,7 +1441,7 @@ return array (
     'latitude' => -3.3,
     'longitude' => 36.45,
   ),
-  162 => 
+  160 => 
   array (
     'id' => 109208,
     'name' => 'Morogoro',
@@ -1468,7 +1450,7 @@ return array (
     'latitude' => -6.82102,
     'longitude' => 37.66122,
   ),
-  163 => 
+  161 => 
   array (
     'id' => 109209,
     'name' => 'Moshi',
@@ -1477,7 +1459,7 @@ return array (
     'latitude' => -3.35,
     'longitude' => 37.33333,
   ),
-  164 => 
+  162 => 
   array (
     'id' => 109210,
     'name' => 'Mpanda',
@@ -1486,7 +1468,7 @@ return array (
     'latitude' => -6.34379,
     'longitude' => 31.06951,
   ),
-  165 => 
+  163 => 
   array (
     'id' => 109211,
     'name' => 'Mpwapwa',
@@ -1495,7 +1477,7 @@ return array (
     'latitude' => -6.35,
     'longitude' => 36.48333,
   ),
-  166 => 
+  164 => 
   array (
     'id' => 109212,
     'name' => 'Msanga',
@@ -1504,7 +1486,7 @@ return array (
     'latitude' => -6.05,
     'longitude' => 36.03333,
   ),
-  167 => 
+  165 => 
   array (
     'id' => 109213,
     'name' => 'Msowero',
@@ -1513,7 +1495,7 @@ return array (
     'latitude' => -6.53333,
     'longitude' => 37.2,
   ),
-  168 => 
+  166 => 
   array (
     'id' => 109214,
     'name' => 'Mtama',
@@ -1522,7 +1504,7 @@ return array (
     'latitude' => -10.3,
     'longitude' => 39.36667,
   ),
-  169 => 
+  167 => 
   array (
     'id' => 109215,
     'name' => 'Mtambile',
@@ -1531,7 +1513,7 @@ return array (
     'latitude' => -5.38333,
     'longitude' => 39.7,
   ),
-  170 => 
+  168 => 
   array (
     'id' => 109216,
     'name' => 'Mtimbira',
@@ -1540,7 +1522,7 @@ return array (
     'latitude' => -8.78333,
     'longitude' => 36.35,
   ),
-  171 => 
+  169 => 
   array (
     'id' => 109217,
     'name' => 'Mtinko',
@@ -1549,7 +1531,7 @@ return array (
     'latitude' => -4.55,
     'longitude' => 34.85,
   ),
-  172 => 
+  170 => 
   array (
     'id' => 109218,
     'name' => 'Mto wa Mbu',
@@ -1558,7 +1540,7 @@ return array (
     'latitude' => -3.35,
     'longitude' => 35.85,
   ),
-  173 => 
+  171 => 
   array (
     'id' => 109219,
     'name' => 'Mtwango',
@@ -1567,7 +1549,7 @@ return array (
     'latitude' => -9.01667,
     'longitude' => 34.8,
   ),
-  174 => 
+  172 => 
   array (
     'id' => 109220,
     'name' => 'Mtwara',
@@ -1576,7 +1558,7 @@ return array (
     'latitude' => -10.26667,
     'longitude' => 40.18333,
   ),
-  175 => 
+  173 => 
   array (
     'id' => 109221,
     'name' => 'Mugango',
@@ -1585,7 +1567,7 @@ return array (
     'latitude' => -1.68333,
     'longitude' => 33.7,
   ),
-  176 => 
+  174 => 
   array (
     'id' => 109222,
     'name' => 'Mugumu',
@@ -1594,7 +1576,7 @@ return array (
     'latitude' => -1.85,
     'longitude' => 34.7,
   ),
-  177 => 
+  175 => 
   array (
     'id' => 109223,
     'name' => 'Muheza',
@@ -1603,7 +1585,7 @@ return array (
     'latitude' => -5.16667,
     'longitude' => 38.78333,
   ),
-  178 => 
+  176 => 
   array (
     'id' => 109224,
     'name' => 'Mungaa',
@@ -1612,7 +1594,7 @@ return array (
     'latitude' => -4.96667,
     'longitude' => 34.88333,
   ),
-  179 => 
+  177 => 
   array (
     'id' => 109225,
     'name' => 'Muriti',
@@ -1621,7 +1603,7 @@ return array (
     'latitude' => -1.98333,
     'longitude' => 32.91667,
   ),
-  180 => 
+  178 => 
   array (
     'id' => 109226,
     'name' => 'Musoma',
@@ -1630,7 +1612,7 @@ return array (
     'latitude' => -1.5,
     'longitude' => 33.8,
   ),
-  181 => 
+  179 => 
   array (
     'id' => 109227,
     'name' => 'Mvomero',
@@ -1639,7 +1621,7 @@ return array (
     'latitude' => -6.25,
     'longitude' => 38.66667,
   ),
-  182 => 
+  180 => 
   array (
     'id' => 109228,
     'name' => 'Mvomero District',
@@ -1648,7 +1630,7 @@ return array (
     'latitude' => -6.3,
     'longitude' => 37.45,
   ),
-  183 => 
+  181 => 
   array (
     'id' => 109229,
     'name' => 'Mwadui',
@@ -1657,7 +1639,7 @@ return array (
     'latitude' => -3.55,
     'longitude' => 33.6,
   ),
-  184 => 
+  182 => 
   array (
     'id' => 109230,
     'name' => 'Mwandiga',
@@ -1666,7 +1648,7 @@ return array (
     'latitude' => -4.83,
     'longitude' => 29.65806,
   ),
-  185 => 
+  183 => 
   array (
     'id' => 109231,
     'name' => 'Mwanga',
@@ -1675,7 +1657,7 @@ return array (
     'latitude' => -4.8,
     'longitude' => 38.2,
   ),
-  186 => 
+  184 => 
   array (
     'id' => 109232,
     'name' => 'Mwanza',
@@ -1684,7 +1666,7 @@ return array (
     'latitude' => -2.51667,
     'longitude' => 32.9,
   ),
-  187 => 
+  185 => 
   array (
     'id' => 109233,
     'name' => 'Marangu',
@@ -1693,7 +1675,7 @@ return array (
     'latitude' => -3.28333,
     'longitude' => 37.51667,
   ),
-  188 => 
+  186 => 
   array (
     'id' => 109234,
     'name' => 'Naberera',
@@ -1702,7 +1684,7 @@ return array (
     'latitude' => -4.2,
     'longitude' => 36.93333,
   ),
-  189 => 
+  187 => 
   array (
     'id' => 109235,
     'name' => 'Nachingwea',
@@ -1711,7 +1693,7 @@ return array (
     'latitude' => -10.3725,
     'longitude' => 38.76251,
   ),
-  190 => 
+  188 => 
   array (
     'id' => 109236,
     'name' => 'Nakatunguru',
@@ -1720,7 +1702,7 @@ return array (
     'latitude' => -2.11667,
     'longitude' => 33.06667,
   ),
-  191 => 
+  189 => 
   array (
     'id' => 109237,
     'name' => 'Namalenga',
@@ -1729,7 +1711,7 @@ return array (
     'latitude' => -10.95,
     'longitude' => 39.1,
   ),
-  192 => 
+  190 => 
   array (
     'id' => 109238,
     'name' => 'Namanga',
@@ -1738,7 +1720,7 @@ return array (
     'latitude' => -2.55116,
     'longitude' => 36.78377,
   ),
-  193 => 
+  191 => 
   array (
     'id' => 109239,
     'name' => 'Namanyere',
@@ -1747,7 +1729,7 @@ return array (
     'latitude' => -7.51667,
     'longitude' => 31.05,
   ),
-  194 => 
+  192 => 
   array (
     'id' => 109240,
     'name' => 'Namikupa',
@@ -1756,7 +1738,7 @@ return array (
     'latitude' => -10.83333,
     'longitude' => 39.6,
   ),
-  195 => 
+  193 => 
   array (
     'id' => 109241,
     'name' => 'Nanganga',
@@ -1765,7 +1747,7 @@ return array (
     'latitude' => -10.38333,
     'longitude' => 39.15,
   ),
-  196 => 
+  194 => 
   array (
     'id' => 109242,
     'name' => 'Nangomba',
@@ -1774,7 +1756,7 @@ return array (
     'latitude' => -10.9,
     'longitude' => 38.5,
   ),
-  197 => 
+  195 => 
   array (
     'id' => 109243,
     'name' => 'Nangwa',
@@ -1783,7 +1765,7 @@ return array (
     'latitude' => -4.46667,
     'longitude' => 35.45,
   ),
-  198 => 
+  196 => 
   array (
     'id' => 109244,
     'name' => 'Nanhyanga',
@@ -1792,7 +1774,7 @@ return array (
     'latitude' => -10.8,
     'longitude' => 39.55,
   ),
-  199 => 
+  197 => 
   array (
     'id' => 109245,
     'name' => 'Nansio',
@@ -1801,7 +1783,7 @@ return array (
     'latitude' => -2.13333,
     'longitude' => 33.05,
   ),
-  200 => 
+  198 => 
   array (
     'id' => 109246,
     'name' => 'Nanyamba',
@@ -1810,7 +1792,7 @@ return array (
     'latitude' => -10.68333,
     'longitude' => 39.83333,
   ),
-  201 => 
+  199 => 
   array (
     'id' => 109247,
     'name' => 'Ndago',
@@ -1819,7 +1801,7 @@ return array (
     'latitude' => -4.6,
     'longitude' => 34.35,
   ),
-  202 => 
+  200 => 
   array (
     'id' => 109249,
     'name' => 'Newala Kisimani',
@@ -1828,7 +1810,7 @@ return array (
     'latitude' => -10.95,
     'longitude' => 39.28333,
   ),
-  203 => 
+  201 => 
   array (
     'id' => 109250,
     'name' => 'Nganane',
@@ -1837,7 +1819,7 @@ return array (
     'latitude' => -6.4,
     'longitude' => 39.55,
   ),
-  204 => 
+  202 => 
   array (
     'id' => 109251,
     'name' => 'Ngara',
@@ -1846,7 +1828,7 @@ return array (
     'latitude' => -2.51222,
     'longitude' => 30.65583,
   ),
-  205 => 
+  203 => 
   array (
     'id' => 109252,
     'name' => 'Ngerengere',
@@ -1855,7 +1837,7 @@ return array (
     'latitude' => -6.75,
     'longitude' => 38.11667,
   ),
-  206 => 
+  204 => 
   array (
     'id' => 109253,
     'name' => 'Ngorongoro',
@@ -1864,7 +1846,7 @@ return array (
     'latitude' => -3.23973,
     'longitude' => 35.48747,
   ),
-  207 => 
+  205 => 
   array (
     'id' => 109254,
     'name' => 'Ngudu',
@@ -1873,7 +1855,7 @@ return array (
     'latitude' => -2.96667,
     'longitude' => 33.33333,
   ),
-  208 => 
+  206 => 
   array (
     'id' => 109255,
     'name' => 'Nguruka',
@@ -1882,7 +1864,7 @@ return array (
     'latitude' => -5.10917,
     'longitude' => 31.04194,
   ),
-  209 => 
+  207 => 
   array (
     'id' => 109256,
     'name' => 'Njombe',
@@ -1891,7 +1873,7 @@ return array (
     'latitude' => -9.34917,
     'longitude' => 34.77167,
   ),
-  210 => 
+  208 => 
   array (
     'id' => 109257,
     'name' => 'Nkoaranga',
@@ -1900,7 +1882,7 @@ return array (
     'latitude' => -3.33333,
     'longitude' => 36.8,
   ),
-  211 => 
+  209 => 
   array (
     'id' => 109258,
     'name' => 'Nkove',
@@ -1909,7 +1891,7 @@ return array (
     'latitude' => -7.95,
     'longitude' => 30.85,
   ),
-  212 => 
+  210 => 
   array (
     'id' => 109259,
     'name' => 'Nshamba',
@@ -1918,7 +1900,7 @@ return array (
     'latitude' => -1.79833,
     'longitude' => 31.55111,
   ),
-  213 => 
+  211 => 
   array (
     'id' => 109260,
     'name' => 'Nsunga',
@@ -1927,7 +1909,7 @@ return array (
     'latitude' => -1.14389,
     'longitude' => 31.39472,
   ),
-  214 => 
+  212 => 
   array (
     'id' => 109261,
     'name' => 'Nungwi',
@@ -1936,7 +1918,7 @@ return array (
     'latitude' => -5.72651,
     'longitude' => 39.2987,
   ),
-  215 => 
+  213 => 
   array (
     'id' => 109262,
     'name' => 'Nyakabindi',
@@ -1945,7 +1927,7 @@ return array (
     'latitude' => -2.63333,
     'longitude' => 33.98333,
   ),
-  216 => 
+  214 => 
   array (
     'id' => 109263,
     'name' => 'Nyakahanga',
@@ -1954,7 +1936,7 @@ return array (
     'latitude' => -1.60333,
     'longitude' => 31.14139,
   ),
-  217 => 
+  215 => 
   array (
     'id' => 109264,
     'name' => 'Nyalikungu',
@@ -1963,7 +1945,7 @@ return array (
     'latitude' => -3.18333,
     'longitude' => 33.78333,
   ),
-  218 => 
+  216 => 
   array (
     'id' => 109265,
     'name' => 'Nyamuswa',
@@ -1972,7 +1954,7 @@ return array (
     'latitude' => -1.9,
     'longitude' => 34.01667,
   ),
-  219 => 
+  217 => 
   array (
     'id' => 109266,
     'name' => 'Nyangao',
@@ -1981,7 +1963,7 @@ return array (
     'latitude' => -10.33333,
     'longitude' => 39.28333,
   ),
-  220 => 
+  218 => 
   array (
     'id' => 109267,
     'name' => 'Nyanguge',
@@ -1990,7 +1972,7 @@ return array (
     'latitude' => -2.55,
     'longitude' => 33.2,
   ),
-  221 => 
+  219 => 
   array (
     'id' => 109268,
     'name' => 'Old Shinyanga',
@@ -1999,7 +1981,7 @@ return array (
     'latitude' => -3.55,
     'longitude' => 33.4,
   ),
-  222 => 
+  220 => 
   array (
     'id' => 109269,
     'name' => 'Pangani',
@@ -2008,7 +1990,7 @@ return array (
     'latitude' => -5.42526,
     'longitude' => 38.97473,
   ),
-  223 => 
+  221 => 
   array (
     'id' => 109270,
     'name' => 'Poli',
@@ -2017,7 +1999,7 @@ return array (
     'latitude' => -3.33333,
     'longitude' => 36.8,
   ),
-  224 => 
+  222 => 
   array (
     'id' => 109271,
     'name' => 'Puma',
@@ -2026,7 +2008,7 @@ return array (
     'latitude' => -5.0,
     'longitude' => 34.73333,
   ),
-  225 => 
+  223 => 
   array (
     'id' => 109272,
     'name' => 'Ruangwa',
@@ -2035,7 +2017,7 @@ return array (
     'latitude' => -10.06667,
     'longitude' => 38.93333,
   ),
-  226 => 
+  224 => 
   array (
     'id' => 109273,
     'name' => 'Rulenge',
@@ -2044,7 +2026,7 @@ return array (
     'latitude' => -2.7175,
     'longitude' => 30.6325,
   ),
-  227 => 
+  225 => 
   array (
     'id' => 109274,
     'name' => 'Same',
@@ -2053,7 +2035,7 @@ return array (
     'latitude' => -4.22199,
     'longitude' => 37.88278,
   ),
-  228 => 
+  226 => 
   array (
     'id' => 109275,
     'name' => 'Sepuka',
@@ -2062,7 +2044,7 @@ return array (
     'latitude' => -4.75,
     'longitude' => 34.53333,
   ),
-  229 => 
+  227 => 
   array (
     'id' => 109276,
     'name' => 'Shelui',
@@ -2071,7 +2053,7 @@ return array (
     'latitude' => -4.36667,
     'longitude' => 34.2,
   ),
-  230 => 
+  228 => 
   array (
     'id' => 109277,
     'name' => 'Shinyanga',
@@ -2080,7 +2062,7 @@ return array (
     'latitude' => -3.66393,
     'longitude' => 33.42118,
   ),
-  231 => 
+  229 => 
   array (
     'id' => 109278,
     'name' => 'Sikonge',
@@ -2089,7 +2071,7 @@ return array (
     'latitude' => -5.63333,
     'longitude' => 32.76667,
   ),
-  232 => 
+  230 => 
   array (
     'id' => 109279,
     'name' => 'Singida',
@@ -2098,7 +2080,7 @@ return array (
     'latitude' => -4.81629,
     'longitude' => 34.74358,
   ),
-  233 => 
+  231 => 
   array (
     'id' => 109280,
     'name' => 'Sirari',
@@ -2107,7 +2089,7 @@ return array (
     'latitude' => -1.25367,
     'longitude' => 34.47596,
   ),
-  234 => 
+  232 => 
   array (
     'id' => 109281,
     'name' => 'Sokoni',
@@ -2116,7 +2098,7 @@ return array (
     'latitude' => -6.43333,
     'longitude' => 39.55,
   ),
-  235 => 
+  233 => 
   array (
     'id' => 109282,
     'name' => 'Somanda',
@@ -2125,7 +2107,7 @@ return array (
     'latitude' => -3.36667,
     'longitude' => 33.95,
   ),
-  236 => 
+  234 => 
   array (
     'id' => 109283,
     'name' => 'Songea',
@@ -2134,7 +2116,7 @@ return array (
     'latitude' => -10.68333,
     'longitude' => 35.65,
   ),
-  237 => 
+  235 => 
   array (
     'id' => 109284,
     'name' => 'Songwa',
@@ -2143,7 +2125,7 @@ return array (
     'latitude' => -3.51667,
     'longitude' => 33.51667,
   ),
-  238 => 
+  236 => 
   array (
     'id' => 109285,
     'name' => 'Soni',
@@ -2152,7 +2134,7 @@ return array (
     'latitude' => -4.85,
     'longitude' => 38.36667,
   ),
-  239 => 
+  237 => 
   array (
     'id' => 109286,
     'name' => 'Sumbawanga',
@@ -2161,7 +2143,7 @@ return array (
     'latitude' => -7.96667,
     'longitude' => 31.61667,
   ),
-  240 => 
+  238 => 
   array (
     'id' => 109287,
     'name' => 'Tabora',
@@ -2170,7 +2152,7 @@ return array (
     'latitude' => -5.01622,
     'longitude' => 32.82663,
   ),
-  241 => 
+  239 => 
   array (
     'id' => 109288,
     'name' => 'Tandahimba',
@@ -2179,7 +2161,7 @@ return array (
     'latitude' => -10.75,
     'longitude' => 39.63333,
   ),
-  242 => 
+  240 => 
   array (
     'id' => 109289,
     'name' => 'Tanga',
@@ -2188,7 +2170,7 @@ return array (
     'latitude' => -5.06893,
     'longitude' => 39.09875,
   ),
-  243 => 
+  241 => 
   array (
     'id' => 109290,
     'name' => 'Tinde',
@@ -2197,7 +2179,7 @@ return array (
     'latitude' => -3.88333,
     'longitude' => 33.2,
   ),
-  244 => 
+  242 => 
   array (
     'id' => 109291,
     'name' => 'Tingi',
@@ -2206,7 +2188,7 @@ return array (
     'latitude' => -11.3,
     'longitude' => 35.03333,
   ),
-  245 => 
+  243 => 
   array (
     'id' => 109292,
     'name' => 'Tumbi',
@@ -2215,7 +2197,7 @@ return array (
     'latitude' => -5.06667,
     'longitude' => 32.73333,
   ),
-  246 => 
+  244 => 
   array (
     'id' => 109293,
     'name' => 'Usa River',
@@ -2224,7 +2206,7 @@ return array (
     'latitude' => -3.36667,
     'longitude' => 36.85,
   ),
-  247 => 
+  245 => 
   array (
     'id' => 109294,
     'name' => 'Usagara',
@@ -2233,7 +2215,7 @@ return array (
     'latitude' => -2.68333,
     'longitude' => 33.0,
   ),
-  248 => 
+  246 => 
   array (
     'id' => 109295,
     'name' => 'Usevia',
@@ -2242,7 +2224,7 @@ return array (
     'latitude' => -7.1,
     'longitude' => 31.23333,
   ),
-  249 => 
+  247 => 
   array (
     'id' => 109296,
     'name' => 'Ushirombo',
@@ -2251,7 +2233,7 @@ return array (
     'latitude' => -3.49194,
     'longitude' => 31.96389,
   ),
-  250 => 
+  248 => 
   array (
     'id' => 109297,
     'name' => 'Usoke',
@@ -2260,7 +2242,7 @@ return array (
     'latitude' => -5.16667,
     'longitude' => 32.35,
   ),
-  251 => 
+  249 => 
   array (
     'id' => 109298,
     'name' => 'Utete',
@@ -2269,7 +2251,7 @@ return array (
     'latitude' => -7.98598,
     'longitude' => 38.75795,
   ),
-  252 => 
+  250 => 
   array (
     'id' => 109299,
     'name' => 'Uvinza',
@@ -2278,7 +2260,7 @@ return array (
     'latitude' => -5.10361,
     'longitude' => 30.39111,
   ),
-  253 => 
+  251 => 
   array (
     'id' => 109300,
     'name' => 'Uwelini',
@@ -2287,7 +2269,7 @@ return array (
     'latitude' => -5.4,
     'longitude' => 39.68333,
   ),
-  254 => 
+  252 => 
   array (
     'id' => 109301,
     'name' => 'Uyovu',
@@ -2296,7 +2278,7 @@ return array (
     'latitude' => -3.28333,
     'longitude' => 31.52583,
   ),
-  255 => 
+  253 => 
   array (
     'id' => 109302,
     'name' => 'Vikindu',
@@ -2305,7 +2287,7 @@ return array (
     'latitude' => -7.00667,
     'longitude' => 39.29849,
   ),
-  256 => 
+  254 => 
   array (
     'id' => 109303,
     'name' => 'Wete',
@@ -2314,7 +2296,7 @@ return array (
     'latitude' => -5.05589,
     'longitude' => 39.72938,
   ),
-  257 => 
+  255 => 
   array (
     'id' => 109304,
     'name' => 'Zanzibar',
@@ -2323,7 +2305,7 @@ return array (
     'latitude' => -6.16394,
     'longitude' => 39.19793,
   ),
-  258 => 
+  256 => 
   array (
     'id' => 149030,
     'name' => 'Chimala',
@@ -2332,16 +2314,7 @@ return array (
     'latitude' => -8.85637,
     'longitude' => 34.02393,
   ),
-  259 => 
-  array (
-    'id' => 149031,
-    'name' => 'Hedaru',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -4.5,
-    'longitude' => 37.9,
-  ),
-  260 => 
+  257 => 
   array (
     'id' => 149032,
     'name' => 'Ibaba',
@@ -2350,7 +2323,7 @@ return array (
     'latitude' => -9.4,
     'longitude' => 33.35,
   ),
-  261 => 
+  258 => 
   array (
     'id' => 149033,
     'name' => 'Ikama',
@@ -2359,7 +2332,7 @@ return array (
     'latitude' => -9.26666667,
     'longitude' => 33.83333333,
   ),
-  262 => 
+  259 => 
   array (
     'id' => 149034,
     'name' => 'Ikinga',
@@ -2368,7 +2341,7 @@ return array (
     'latitude' => -9.5,
     'longitude' => 33.55,
   ),
-  263 => 
+  260 => 
   array (
     'id' => 149035,
     'name' => 'Ikolo',
@@ -2377,7 +2350,7 @@ return array (
     'latitude' => -9.65,
     'longitude' => 33.9,
   ),
-  264 => 
+  261 => 
   array (
     'id' => 149036,
     'name' => 'Ikuti',
@@ -2386,7 +2359,7 @@ return array (
     'latitude' => -9.31666667,
     'longitude' => 33.53333333,
   ),
-  265 => 
+  262 => 
   array (
     'id' => 149037,
     'name' => 'Ilembo',
@@ -2395,7 +2368,7 @@ return array (
     'latitude' => -9.25,
     'longitude' => 33.38333333,
   ),
-  266 => 
+  263 => 
   array (
     'id' => 149038,
     'name' => 'Ipinda',
@@ -2404,7 +2377,7 @@ return array (
     'latitude' => -9.48333333,
     'longitude' => 33.9,
   ),
-  267 => 
+  264 => 
   array (
     'id' => 149039,
     'name' => 'Kabula',
@@ -2413,7 +2386,7 @@ return array (
     'latitude' => -9.26666667,
     'longitude' => 33.76666667,
   ),
-  268 => 
+  265 => 
   array (
     'id' => 149040,
     'name' => 'Kahe Tanzania',
@@ -2422,7 +2395,7 @@ return array (
     'latitude' => -3.5,
     'longitude' => 37.433,
   ),
-  269 => 
+  266 => 
   array (
     'id' => 149041,
     'name' => 'Kandete',
@@ -2431,7 +2404,7 @@ return array (
     'latitude' => -9.15,
     'longitude' => 33.8,
   ),
-  270 => 
+  267 => 
   array (
     'id' => 149042,
     'name' => 'Katumba',
@@ -2440,7 +2413,7 @@ return array (
     'latitude' => -9.23333333,
     'longitude' => 33.61666667,
   ),
-  271 => 
+  268 => 
   array (
     'id' => 149043,
     'name' => 'Kihurio',
@@ -2449,7 +2422,7 @@ return array (
     'latitude' => -4.46666667,
     'longitude' => 38.06666667,
   ),
-  272 => 
+  269 => 
   array (
     'id' => 149044,
     'name' => 'Kisiwani',
@@ -2458,7 +2431,7 @@ return array (
     'latitude' => -4.13333,
     'longitude' => 37.95,
   ),
-  273 => 
+  270 => 
   array (
     'id' => 149045,
     'name' => 'Kiwira',
@@ -2467,7 +2440,7 @@ return array (
     'latitude' => -9.16666667,
     'longitude' => 33.53333333,
   ),
-  274 => 
+  271 => 
   array (
     'id' => 149046,
     'name' => 'Kwakoa',
@@ -2476,7 +2449,7 @@ return array (
     'latitude' => -3.76666667,
     'longitude' => 37.71666667,
   ),
-  275 => 
+  272 => 
   array (
     'id' => 149047,
     'name' => 'Lembeni',
@@ -2485,7 +2458,7 @@ return array (
     'latitude' => -3.78333333,
     'longitude' => 37.61666667,
   ),
-  276 => 
+  273 => 
   array (
     'id' => 149048,
     'name' => 'Lupata',
@@ -2494,7 +2467,7 @@ return array (
     'latitude' => -9.3,
     'longitude' => 33.85,
   ),
-  277 => 
+  274 => 
   array (
     'id' => 149049,
     'name' => 'Lusungo',
@@ -2503,16 +2476,7 @@ return array (
     'latitude' => -9.5,
     'longitude' => 33.98333333,
   ),
-  278 => 
-  array (
-    'id' => 149050,
-    'name' => 'Machame',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -3.20611111,
-    'longitude' => 37.22638889,
-  ),
-  279 => 
+  275 => 
   array (
     'id' => 149051,
     'name' => 'Makanya',
@@ -2521,16 +2485,7 @@ return array (
     'latitude' => -4.36666667,
     'longitude' => 37.83333333,
   ),
-  280 => 
-  array (
-    'id' => 149052,
-    'name' => 'Marangu',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -3.28333,
-    'longitude' => 37.51667,
-  ),
-  281 => 
+  276 => 
   array (
     'id' => 149053,
     'name' => 'Masukulu',
@@ -2539,7 +2494,7 @@ return array (
     'latitude' => -9.4,
     'longitude' => 33.75,
   ),
-  282 => 
+  277 => 
   array (
     'id' => 149054,
     'name' => 'Mbeya',
@@ -2548,7 +2503,7 @@ return array (
     'latitude' => -8.9,
     'longitude' => 33.45,
   ),
-  283 => 
+  278 => 
   array (
     'id' => 149055,
     'name' => 'Mlowo',
@@ -2557,16 +2512,7 @@ return array (
     'latitude' => -9.0,
     'longitude' => 32.98333333,
   ),
-  284 => 
-  array (
-    'id' => 149056,
-    'name' => 'Moshi',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -3.33488333,
-    'longitude' => 37.34038056,
-  ),
-  285 => 
+  279 => 
   array (
     'id' => 149057,
     'name' => 'Mpuguso',
@@ -2575,7 +2521,7 @@ return array (
     'latitude' => -9.31666667,
     'longitude' => 33.65,
   ),
-  286 => 
+  280 => 
   array (
     'id' => 149058,
     'name' => 'Mwansanga',
@@ -2584,7 +2530,7 @@ return array (
     'latitude' => -8.76666667,
     'longitude' => 33.53333333,
   ),
-  287 => 
+  281 => 
   array (
     'id' => 149059,
     'name' => 'Mwaya',
@@ -2593,7 +2539,7 @@ return array (
     'latitude' => -9.55,
     'longitude' => 33.95,
   ),
-  288 => 
+  282 => 
   array (
     'id' => 149060,
     'name' => 'Mwembe',
@@ -2602,16 +2548,7 @@ return array (
     'latitude' => -4.15,
     'longitude' => 37.85,
   ),
-  289 => 
-  array (
-    'id' => 149061,
-    'name' => 'Same',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -4.06666667,
-    'longitude' => 37.78333333,
-  ),
-  290 => 
+  283 => 
   array (
     'id' => 149062,
     'name' => 'Tukuyu',
@@ -2620,7 +2557,7 @@ return array (
     'latitude' => -9.25833333,
     'longitude' => 33.64166667,
   ),
-  291 => 
+  284 => 
   array (
     'id' => 149063,
     'name' => 'Tunduma',
@@ -2629,7 +2566,7 @@ return array (
     'latitude' => -9.3,
     'longitude' => 32.7667,
   ),
-  292 => 
+  285 => 
   array (
     'id' => 149064,
     'name' => 'Ugweno',
@@ -2638,7 +2575,7 @@ return array (
     'latitude' => -3.65,
     'longitude' => 37.65,
   ),
-  293 => 
+  286 => 
   array (
     'id' => 149065,
     'name' => 'Ulanga',
@@ -2647,7 +2584,7 @@ return array (
     'latitude' => -8.34361,
     'longitude' => 34.2897,
   ),
-  294 => 
+  287 => 
   array (
     'id' => 153775,
     'name' => 'Ilala',
@@ -2656,7 +2593,7 @@ return array (
     'latitude' => -6.848738,
     'longitude' => 39.284713,
   ),
-  295 => 
+  288 => 
   array (
     'id' => 153776,
     'name' => 'Kigamboni',
@@ -2665,7 +2602,7 @@ return array (
     'latitude' => -6.849455,
     'longitude' => 39.317333,
   ),
-  296 => 
+  289 => 
   array (
     'id' => 153777,
     'name' => 'Kinondoni',
@@ -2674,7 +2611,7 @@ return array (
     'latitude' => -6.784231,
     'longitude' => 39.265676,
   ),
-  297 => 
+  290 => 
   array (
     'id' => 153778,
     'name' => 'Temeke',
@@ -2683,7 +2620,7 @@ return array (
     'latitude' => -6.904184,
     'longitude' => 39.235282,
   ),
-  298 => 
+  291 => 
   array (
     'id' => 153779,
     'name' => 'Ubungo',
@@ -2692,7 +2629,7 @@ return array (
     'latitude' => -6.806005,
     'longitude' => 39.246636,
   ),
-  299 => 
+  292 => 
   array (
     'id' => 154657,
     'name' => 'Vwawa',
@@ -2701,25 +2638,7 @@ return array (
     'latitude' => -9.1196,
     'longitude' => 32.9312,
   ),
-  300 => 
-  array (
-    'id' => 154658,
-    'name' => 'Tunduma',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -9.2881,
-    'longitude' => 32.7746,
-  ),
-  301 => 
-  array (
-    'id' => 154659,
-    'name' => 'Mlowo',
-    'country_id' => 218,
-    'country_code' => 'TZ',
-    'latitude' => -9.0,
-    'longitude' => 32.9667,
-  ),
-  302 => 
+  293 => 
   array (
     'id' => 154660,
     'name' => 'Mkwajuni',
@@ -2728,7 +2647,7 @@ return array (
     'latitude' => -8.4238,
     'longitude' => 33.029,
   ),
-  303 => 
+  294 => 
   array (
     'id' => 154661,
     'name' => 'Mbozi',
@@ -2737,7 +2656,7 @@ return array (
     'latitude' => -9.0833,
     'longitude' => 33.45,
   ),
-  304 => 
+  295 => 
   array (
     'id' => 154662,
     'name' => 'Ileje',

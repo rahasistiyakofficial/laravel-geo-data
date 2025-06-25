@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -435,15 +435,6 @@ return array (
   ),
   48 => 
   array (
-    'id' => 80002,
-    'name' => 'Boquerón',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.5051,
-    'longitude' => -82.57025,
-  ),
-  49 => 
-  array (
     'id' => 80003,
     'name' => 'Boquete',
     'country_id' => 170,
@@ -451,7 +442,7 @@ return array (
     'latitude' => 8.78024,
     'longitude' => -82.44136,
   ),
-  50 => 
+  49 => 
   array (
     'id' => 80004,
     'name' => 'Boró',
@@ -460,7 +451,7 @@ return array (
     'latitude' => 8.16933,
     'longitude' => -81.30071,
   ),
-  51 => 
+  50 => 
   array (
     'id' => 80005,
     'name' => 'Breñón',
@@ -469,7 +460,7 @@ return array (
     'latitude' => 8.62491,
     'longitude' => -82.81277,
   ),
-  52 => 
+  51 => 
   array (
     'id' => 80006,
     'name' => 'Brujas',
@@ -478,7 +469,7 @@ return array (
     'latitude' => 8.58536,
     'longitude' => -78.53008,
   ),
-  53 => 
+  52 => 
   array (
     'id' => 80007,
     'name' => 'Buena Vista',
@@ -487,7 +478,7 @@ return array (
     'latitude' => 9.27356,
     'longitude' => -79.69551,
   ),
-  54 => 
+  53 => 
   array (
     'id' => 80008,
     'name' => 'Buenos Aires',
@@ -496,16 +487,7 @@ return array (
     'latitude' => 8.63146,
     'longitude' => -79.94775,
   ),
-  55 => 
-  array (
-    'id' => 80009,
-    'name' => 'Buenos Aires',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.41384,
-    'longitude' => -81.4844,
-  ),
-  56 => 
+  54 => 
   array (
     'id' => 80010,
     'name' => 'Bugaba',
@@ -514,7 +496,7 @@ return array (
     'latitude' => 8.48255,
     'longitude' => -82.61991,
   ),
-  57 => 
+  55 => 
   array (
     'id' => 80011,
     'name' => 'Bugabita Arriba',
@@ -523,7 +505,7 @@ return array (
     'latitude' => 8.52143,
     'longitude' => -82.63638,
   ),
-  58 => 
+  56 => 
   array (
     'id' => 80012,
     'name' => 'Bágala',
@@ -532,7 +514,7 @@ return array (
     'latitude' => 8.46399,
     'longitude' => -82.52617,
   ),
-  59 => 
+  57 => 
   array (
     'id' => 80013,
     'name' => 'Caballero',
@@ -541,7 +523,7 @@ return array (
     'latitude' => 8.54343,
     'longitude' => -80.19769,
   ),
-  60 => 
+  58 => 
   array (
     'id' => 80014,
     'name' => 'Cabra Número Uno',
@@ -550,7 +532,7 @@ return array (
     'latitude' => 9.10863,
     'longitude' => -79.33694,
   ),
-  61 => 
+  59 => 
   array (
     'id' => 80015,
     'name' => 'Cabuya',
@@ -559,25 +541,7 @@ return array (
     'latitude' => 8.03138,
     'longitude' => -80.63227,
   ),
-  62 => 
-  array (
-    'id' => 80016,
-    'name' => 'Cabuya',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.57472,
-    'longitude' => -79.92714,
-  ),
-  63 => 
-  array (
-    'id' => 80017,
-    'name' => 'Cabuya',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.54703,
-    'longitude' => -80.16756,
-  ),
-  64 => 
+  60 => 
   array (
     'id' => 80018,
     'name' => 'Caimitillo',
@@ -586,7 +550,7 @@ return array (
     'latitude' => 9.15559,
     'longitude' => -79.53974,
   ),
-  65 => 
+  61 => 
   array (
     'id' => 80019,
     'name' => 'Caimito',
@@ -595,25 +559,7 @@ return array (
     'latitude' => 8.62271,
     'longitude' => -80.23919,
   ),
-  66 => 
-  array (
-    'id' => 80020,
-    'name' => 'Caimito',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.81143,
-    'longitude' => -79.94738,
-  ),
-  67 => 
-  array (
-    'id' => 80021,
-    'name' => 'Caimito',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.54162,
-    'longitude' => -82.419,
-  ),
-  68 => 
+  62 => 
   array (
     'id' => 80022,
     'name' => 'Calabacito',
@@ -622,7 +568,7 @@ return array (
     'latitude' => 8.24817,
     'longitude' => -81.08187,
   ),
-  69 => 
+  63 => 
   array (
     'id' => 80023,
     'name' => 'Caldera',
@@ -631,7 +577,7 @@ return array (
     'latitude' => 8.64907,
     'longitude' => -82.38058,
   ),
-  70 => 
+  64 => 
   array (
     'id' => 80024,
     'name' => 'Calidonia',
@@ -640,7 +586,7 @@ return array (
     'latitude' => 7.95756,
     'longitude' => -81.38633,
   ),
-  71 => 
+  65 => 
   array (
     'id' => 80025,
     'name' => 'Calobre',
@@ -649,7 +595,7 @@ return array (
     'latitude' => 8.31886,
     'longitude' => -80.84067,
   ),
-  72 => 
+  66 => 
   array (
     'id' => 80026,
     'name' => 'Calovébora',
@@ -658,7 +604,7 @@ return array (
     'latitude' => 8.78703,
     'longitude' => -81.21056,
   ),
-  73 => 
+  67 => 
   array (
     'id' => 80027,
     'name' => 'Calzada Larga',
@@ -667,7 +613,7 @@ return array (
     'latitude' => 9.17272,
     'longitude' => -79.56212,
   ),
-  74 => 
+  68 => 
   array (
     'id' => 80028,
     'name' => 'Camarón Arriba',
@@ -676,7 +622,7 @@ return array (
     'latitude' => 8.38324,
     'longitude' => -81.99345,
   ),
-  75 => 
+  69 => 
   array (
     'id' => 80029,
     'name' => 'Cambutal',
@@ -685,7 +631,7 @@ return array (
     'latitude' => 7.26534,
     'longitude' => -80.49105,
   ),
-  76 => 
+  70 => 
   array (
     'id' => 80030,
     'name' => 'Camogantí',
@@ -694,7 +640,7 @@ return array (
     'latitude' => 8.04171,
     'longitude' => -77.88682,
   ),
-  77 => 
+  71 => 
   array (
     'id' => 80031,
     'name' => 'Canto del Llano',
@@ -703,7 +649,7 @@ return array (
     'latitude' => 8.12472,
     'longitude' => -80.96374,
   ),
-  78 => 
+  72 => 
   array (
     'id' => 80032,
     'name' => 'Capellanía',
@@ -712,7 +658,7 @@ return array (
     'latitude' => 8.29858,
     'longitude' => -80.5548,
   ),
-  79 => 
+  73 => 
   array (
     'id' => 80033,
     'name' => 'Capira',
@@ -721,7 +667,7 @@ return array (
     'latitude' => 8.75636,
     'longitude' => -79.87996,
   ),
-  80 => 
+  74 => 
   array (
     'id' => 80034,
     'name' => 'Cartí Sugdup',
@@ -730,7 +676,7 @@ return array (
     'latitude' => 9.4646,
     'longitude' => -78.95931,
   ),
-  81 => 
+  75 => 
   array (
     'id' => 80035,
     'name' => 'Cativá',
@@ -739,7 +685,7 @@ return array (
     'latitude' => 9.36218,
     'longitude' => -79.83232,
   ),
-  82 => 
+  76 => 
   array (
     'id' => 80036,
     'name' => 'Cauchero',
@@ -748,7 +694,7 @@ return array (
     'latitude' => 9.15226,
     'longitude' => -82.2645,
   ),
-  83 => 
+  77 => 
   array (
     'id' => 80037,
     'name' => 'Cañas',
@@ -757,7 +703,7 @@ return array (
     'latitude' => 7.44713,
     'longitude' => -80.2648,
   ),
-  84 => 
+  78 => 
   array (
     'id' => 80038,
     'name' => 'Cañas Gordas',
@@ -766,7 +712,7 @@ return array (
     'latitude' => 8.74309,
     'longitude' => -82.91275,
   ),
-  85 => 
+  79 => 
   array (
     'id' => 80039,
     'name' => 'Cañaveral',
@@ -775,7 +721,7 @@ return array (
     'latitude' => 8.517,
     'longitude' => -80.42916,
   ),
-  86 => 
+  80 => 
   array (
     'id' => 80040,
     'name' => 'Cañazas',
@@ -784,7 +730,7 @@ return array (
     'latitude' => 8.32004,
     'longitude' => -81.21152,
   ),
-  87 => 
+  81 => 
   array (
     'id' => 80041,
     'name' => 'Cañita',
@@ -793,7 +739,7 @@ return array (
     'latitude' => 9.22236,
     'longitude' => -78.89509,
   ),
-  88 => 
+  82 => 
   array (
     'id' => 80042,
     'name' => 'Cedro Arriba',
@@ -802,7 +748,7 @@ return array (
     'latitude' => 7.78097,
     'longitude' => -80.53057,
   ),
-  89 => 
+  83 => 
   array (
     'id' => 80043,
     'name' => 'Celmira',
@@ -811,7 +757,7 @@ return array (
     'latitude' => 8.54026,
     'longitude' => -82.80022,
   ),
-  90 => 
+  84 => 
   array (
     'id' => 80044,
     'name' => 'Cermeño',
@@ -820,7 +766,7 @@ return array (
     'latitude' => 8.74082,
     'longitude' => -79.85299,
   ),
-  91 => 
+  85 => 
   array (
     'id' => 80045,
     'name' => 'Cerro Azul',
@@ -829,7 +775,7 @@ return array (
     'latitude' => 9.15735,
     'longitude' => -79.42097,
   ),
-  92 => 
+  86 => 
   array (
     'id' => 80046,
     'name' => 'Cerro Banco',
@@ -838,7 +784,7 @@ return array (
     'latitude' => 8.45797,
     'longitude' => -82.03081,
   ),
-  93 => 
+  87 => 
   array (
     'id' => 80047,
     'name' => 'Cerro Cama',
@@ -847,7 +793,7 @@ return array (
     'latitude' => 9.02802,
     'longitude' => -79.90744,
   ),
-  94 => 
+  88 => 
   array (
     'id' => 80048,
     'name' => 'Cerro Caña',
@@ -856,7 +802,7 @@ return array (
     'latitude' => 8.35174,
     'longitude' => -81.6105,
   ),
-  95 => 
+  89 => 
   array (
     'id' => 80049,
     'name' => 'Cerro Largo',
@@ -865,7 +811,7 @@ return array (
     'latitude' => 7.83377,
     'longitude' => -80.83168,
   ),
-  96 => 
+  90 => 
   array (
     'id' => 80050,
     'name' => 'Cerro Plata',
@@ -874,7 +820,7 @@ return array (
     'latitude' => 8.47733,
     'longitude' => -81.54585,
   ),
-  97 => 
+  91 => 
   array (
     'id' => 80051,
     'name' => 'Cerro Punta',
@@ -883,7 +829,7 @@ return array (
     'latitude' => 8.84968,
     'longitude' => -82.57261,
   ),
-  98 => 
+  92 => 
   array (
     'id' => 80052,
     'name' => 'Cerro Viejo',
@@ -892,7 +838,7 @@ return array (
     'latitude' => 8.25349,
     'longitude' => -81.57658,
   ),
-  99 => 
+  93 => 
   array (
     'id' => 80053,
     'name' => 'Chame',
@@ -901,7 +847,7 @@ return array (
     'latitude' => 8.57753,
     'longitude' => -79.88595,
   ),
-  100 => 
+  94 => 
   array (
     'id' => 80054,
     'name' => 'Changuinola',
@@ -910,7 +856,7 @@ return array (
     'latitude' => 9.43,
     'longitude' => -82.52,
   ),
-  101 => 
+  95 => 
   array (
     'id' => 80055,
     'name' => 'Chepillo',
@@ -919,7 +865,7 @@ return array (
     'latitude' => 8.95396,
     'longitude' => -79.12856,
   ),
-  102 => 
+  96 => 
   array (
     'id' => 80056,
     'name' => 'Chepo',
@@ -928,7 +874,7 @@ return array (
     'latitude' => 9.17019,
     'longitude' => -79.10083,
   ),
-  103 => 
+  97 => 
   array (
     'id' => 80057,
     'name' => 'Chichica',
@@ -937,7 +883,7 @@ return array (
     'latitude' => 8.35885,
     'longitude' => -81.66582,
   ),
-  104 => 
+  98 => 
   array (
     'id' => 80058,
     'name' => 'Chigoré',
@@ -946,7 +892,7 @@ return array (
     'latitude' => 8.53035,
     'longitude' => -80.35117,
   ),
-  105 => 
+  99 => 
   array (
     'id' => 80059,
     'name' => 'Chiguirí Arriba',
@@ -955,7 +901,7 @@ return array (
     'latitude' => 8.67187,
     'longitude' => -80.18975,
   ),
-  106 => 
+  100 => 
   array (
     'id' => 80060,
     'name' => 'Chilibre',
@@ -964,7 +910,7 @@ return array (
     'latitude' => 9.15093,
     'longitude' => -79.62098,
   ),
-  107 => 
+  101 => 
   array (
     'id' => 80061,
     'name' => 'Chimán',
@@ -973,7 +919,7 @@ return array (
     'latitude' => 8.69125,
     'longitude' => -78.6357,
   ),
-  108 => 
+  102 => 
   array (
     'id' => 80062,
     'name' => 'Chiriquí',
@@ -982,7 +928,7 @@ return array (
     'latitude' => 8.39291,
     'longitude' => -82.31993,
   ),
-  109 => 
+  103 => 
   array (
     'id' => 80063,
     'name' => 'Chiriquí Grande',
@@ -991,7 +937,7 @@ return array (
     'latitude' => 8.94557,
     'longitude' => -82.11769,
   ),
-  110 => 
+  104 => 
   array (
     'id' => 80064,
     'name' => 'Chitré',
@@ -1000,7 +946,7 @@ return array (
     'latitude' => 7.96082,
     'longitude' => -80.42944,
   ),
-  111 => 
+  105 => 
   array (
     'id' => 80065,
     'name' => 'Chumical',
@@ -1009,7 +955,7 @@ return array (
     'latitude' => 7.84482,
     'longitude' => -80.72627,
   ),
-  112 => 
+  106 => 
   array (
     'id' => 80066,
     'name' => 'Chupampa',
@@ -1018,7 +964,7 @@ return array (
     'latitude' => 8.0762,
     'longitude' => -80.77656,
   ),
-  113 => 
+  107 => 
   array (
     'id' => 80067,
     'name' => 'Churuquita Chiquita',
@@ -1027,7 +973,7 @@ return array (
     'latitude' => 8.57555,
     'longitude' => -80.27161,
   ),
-  114 => 
+  108 => 
   array (
     'id' => 80068,
     'name' => 'Churuquita Grande',
@@ -1036,7 +982,7 @@ return array (
     'latitude' => 8.59449,
     'longitude' => -80.27182,
   ),
-  115 => 
+  109 => 
   array (
     'id' => 80069,
     'name' => 'Cirí de Los Sotos',
@@ -1045,7 +991,7 @@ return array (
     'latitude' => 8.97206,
     'longitude' => -80.09209,
   ),
-  116 => 
+  110 => 
   array (
     'id' => 80070,
     'name' => 'Cochea Abajo',
@@ -1054,7 +1000,7 @@ return array (
     'latitude' => 8.50512,
     'longitude' => -82.35878,
   ),
-  117 => 
+  111 => 
   array (
     'id' => 80071,
     'name' => 'Coclé',
@@ -1063,7 +1009,7 @@ return array (
     'latitude' => 8.45601,
     'longitude' => -80.42899,
   ),
-  118 => 
+  112 => 
   array (
     'id' => 80072,
     'name' => 'Coclé del Norte',
@@ -1072,7 +1018,7 @@ return array (
     'latitude' => 9.0754,
     'longitude' => -80.57177,
   ),
-  119 => 
+  113 => 
   array (
     'id' => 80073,
     'name' => 'Colón',
@@ -1081,7 +1027,7 @@ return array (
     'latitude' => 9.35451,
     'longitude' => -79.90011,
   ),
-  120 => 
+  114 => 
   array (
     'id' => 80074,
     'name' => 'Contadora',
@@ -1090,7 +1036,7 @@ return array (
     'latitude' => 8.62483,
     'longitude' => -79.03748,
   ),
-  121 => 
+  115 => 
   array (
     'id' => 80075,
     'name' => 'Cordillera',
@@ -1099,7 +1045,7 @@ return array (
     'latitude' => 8.70683,
     'longitude' => -82.60327,
   ),
-  122 => 
+  116 => 
   array (
     'id' => 80076,
     'name' => 'Corozal',
@@ -1108,16 +1054,7 @@ return array (
     'latitude' => 8.20108,
     'longitude' => -77.59637,
   ),
-  123 => 
-  array (
-    'id' => 80077,
-    'name' => 'Corozal',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.07712,
-    'longitude' => -81.4399,
-  ),
-  124 => 
+  117 => 
   array (
     'id' => 80078,
     'name' => 'Cristóbal',
@@ -1126,7 +1063,7 @@ return array (
     'latitude' => 9.35222,
     'longitude' => -79.90444,
   ),
-  125 => 
+  118 => 
   array (
     'id' => 80079,
     'name' => 'Cucunatí',
@@ -1135,7 +1072,7 @@ return array (
     'latitude' => 8.57508,
     'longitude' => -78.25671,
   ),
-  126 => 
+  119 => 
   array (
     'id' => 80080,
     'name' => 'Curundú',
@@ -1144,7 +1081,7 @@ return array (
     'latitude' => 8.97092,
     'longitude' => -79.54612,
   ),
-  127 => 
+  120 => 
   array (
     'id' => 80081,
     'name' => 'Cémaco',
@@ -1153,7 +1090,7 @@ return array (
     'latitude' => 8.08285,
     'longitude' => -77.5421,
   ),
-  128 => 
+  121 => 
   array (
     'id' => 80082,
     'name' => 'David',
@@ -1162,7 +1099,7 @@ return array (
     'latitude' => 8.42729,
     'longitude' => -82.43085,
   ),
-  129 => 
+  122 => 
   array (
     'id' => 80083,
     'name' => 'Distrito Arraiján',
@@ -1171,7 +1108,7 @@ return array (
     'latitude' => 8.95,
     'longitude' => -79.7,
   ),
-  130 => 
+  123 => 
   array (
     'id' => 80084,
     'name' => 'Distrito Chiriquí Grande',
@@ -1180,7 +1117,7 @@ return array (
     'latitude' => 8.94748,
     'longitude' => -82.12418,
   ),
-  131 => 
+  124 => 
   array (
     'id' => 80085,
     'name' => 'Distrito Penonomé',
@@ -1189,7 +1126,7 @@ return array (
     'latitude' => 8.63,
     'longitude' => -80.28333,
   ),
-  132 => 
+  125 => 
   array (
     'id' => 80086,
     'name' => 'Distrito de Aguadulce',
@@ -1198,7 +1135,7 @@ return array (
     'latitude' => 8.2127,
     'longitude' => -80.61441,
   ),
-  133 => 
+  126 => 
   array (
     'id' => 80087,
     'name' => 'Distrito de Alanje',
@@ -1207,7 +1144,7 @@ return array (
     'latitude' => 8.39842,
     'longitude' => -82.64065,
   ),
-  134 => 
+  127 => 
   array (
     'id' => 80088,
     'name' => 'Distrito de Antón',
@@ -1216,7 +1153,7 @@ return array (
     'latitude' => 8.45394,
     'longitude' => -80.18361,
   ),
-  135 => 
+  128 => 
   array (
     'id' => 80089,
     'name' => 'Distrito de Atalaya',
@@ -1225,7 +1162,7 @@ return array (
     'latitude' => 8.02899,
     'longitude' => -80.91739,
   ),
-  136 => 
+  129 => 
   array (
     'id' => 80090,
     'name' => 'Distrito de Balboa',
@@ -1234,7 +1171,7 @@ return array (
     'latitude' => 8.46667,
     'longitude' => -79.0,
   ),
-  137 => 
+  130 => 
   array (
     'id' => 80091,
     'name' => 'Distrito de Barú',
@@ -1243,7 +1180,7 @@ return array (
     'latitude' => 8.29482,
     'longitude' => -82.92726,
   ),
-  138 => 
+  131 => 
   array (
     'id' => 80092,
     'name' => 'Distrito de Bocas del Toro',
@@ -1252,7 +1189,7 @@ return array (
     'latitude' => 9.36235,
     'longitude' => -82.26288,
   ),
-  139 => 
+  132 => 
   array (
     'id' => 80093,
     'name' => 'Distrito de Boquerón',
@@ -1261,7 +1198,7 @@ return array (
     'latitude' => 8.61667,
     'longitude' => -82.56667,
   ),
-  140 => 
+  133 => 
   array (
     'id' => 80094,
     'name' => 'Distrito de Boquete',
@@ -1270,7 +1207,7 @@ return array (
     'latitude' => 8.74896,
     'longitude' => -82.36842,
   ),
-  141 => 
+  134 => 
   array (
     'id' => 80095,
     'name' => 'Distrito de Bugaba',
@@ -1279,7 +1216,7 @@ return array (
     'latitude' => 8.68786,
     'longitude' => -82.67937,
   ),
-  142 => 
+  135 => 
   array (
     'id' => 80096,
     'name' => 'Distrito de Calobre',
@@ -1288,7 +1225,7 @@ return array (
     'latitude' => 8.39684,
     'longitude' => -80.85124,
   ),
-  143 => 
+  136 => 
   array (
     'id' => 80097,
     'name' => 'Distrito de Capira',
@@ -1297,7 +1234,7 @@ return array (
     'latitude' => 8.76228,
     'longitude' => -79.88275,
   ),
-  144 => 
+  137 => 
   array (
     'id' => 80098,
     'name' => 'Distrito de Cañazas',
@@ -1306,7 +1243,7 @@ return array (
     'latitude' => 8.35596,
     'longitude' => -81.28633,
   ),
-  145 => 
+  138 => 
   array (
     'id' => 80099,
     'name' => 'Distrito de Chagres',
@@ -1315,7 +1252,7 @@ return array (
     'latitude' => 9.123,
     'longitude' => -80.11841,
   ),
-  146 => 
+  139 => 
   array (
     'id' => 80100,
     'name' => 'Distrito de Chame',
@@ -1324,7 +1261,7 @@ return array (
     'latitude' => 8.6,
     'longitude' => -79.91667,
   ),
-  147 => 
+  140 => 
   array (
     'id' => 80101,
     'name' => 'Distrito de Changuinola',
@@ -1333,7 +1270,7 @@ return array (
     'latitude' => 9.25,
     'longitude' => -82.63333,
   ),
-  148 => 
+  141 => 
   array (
     'id' => 80102,
     'name' => 'Distrito de Chepigana',
@@ -1342,7 +1279,7 @@ return array (
     'latitude' => 7.84374,
     'longitude' => -77.8383,
   ),
-  149 => 
+  142 => 
   array (
     'id' => 80103,
     'name' => 'Distrito de Chepo',
@@ -1351,7 +1288,7 @@ return array (
     'latitude' => 9.17391,
     'longitude' => -78.70374,
   ),
-  150 => 
+  143 => 
   array (
     'id' => 80104,
     'name' => 'Distrito de Chimán',
@@ -1360,7 +1297,7 @@ return array (
     'latitude' => 8.76043,
     'longitude' => -78.5647,
   ),
-  151 => 
+  144 => 
   array (
     'id' => 80105,
     'name' => 'Distrito de Chitré',
@@ -1369,7 +1306,7 @@ return array (
     'latitude' => 7.98333,
     'longitude' => -80.43333,
   ),
-  152 => 
+  145 => 
   array (
     'id' => 80106,
     'name' => 'Distrito de Colón',
@@ -1378,7 +1315,7 @@ return array (
     'latitude' => 9.24313,
     'longitude' => -79.79463,
   ),
-  153 => 
+  146 => 
   array (
     'id' => 80107,
     'name' => 'Distrito de David',
@@ -1387,7 +1324,7 @@ return array (
     'latitude' => 8.4,
     'longitude' => -82.4,
   ),
-  154 => 
+  147 => 
   array (
     'id' => 80108,
     'name' => 'Distrito de Dolega',
@@ -1396,7 +1333,7 @@ return array (
     'latitude' => 8.61667,
     'longitude' => -82.45,
   ),
-  155 => 
+  148 => 
   array (
     'id' => 80109,
     'name' => 'Distrito de Donoso',
@@ -1405,7 +1342,7 @@ return array (
     'latitude' => 9.01999,
     'longitude' => -80.42967,
   ),
-  156 => 
+  149 => 
   array (
     'id' => 80110,
     'name' => 'Distrito de Gualaca',
@@ -1414,7 +1351,7 @@ return array (
     'latitude' => 8.57398,
     'longitude' => -82.22207,
   ),
-  157 => 
+  150 => 
   array (
     'id' => 80111,
     'name' => 'Distrito de Guararé',
@@ -1423,7 +1360,7 @@ return array (
     'latitude' => 7.77021,
     'longitude' => -80.37515,
   ),
-  158 => 
+  151 => 
   array (
     'id' => 80112,
     'name' => 'Distrito de La Chorrera',
@@ -1432,7 +1369,7 @@ return array (
     'latitude' => 8.95,
     'longitude' => -79.85,
   ),
-  159 => 
+  152 => 
   array (
     'id' => 80113,
     'name' => 'Distrito de La Mesa',
@@ -1441,7 +1378,7 @@ return array (
     'latitude' => 8.10976,
     'longitude' => -81.17767,
   ),
-  160 => 
+  153 => 
   array (
     'id' => 80114,
     'name' => 'Distrito de La Pintada',
@@ -1450,7 +1387,7 @@ return array (
     'latitude' => 8.71801,
     'longitude' => -80.53946,
   ),
-  161 => 
+  154 => 
   array (
     'id' => 80115,
     'name' => 'Distrito de Las Minas',
@@ -1459,7 +1396,7 @@ return array (
     'latitude' => 7.76525,
     'longitude' => -80.82249,
   ),
-  162 => 
+  155 => 
   array (
     'id' => 80116,
     'name' => 'Distrito de Las Palmas',
@@ -1468,7 +1405,7 @@ return array (
     'latitude' => 8.14532,
     'longitude' => -81.42849,
   ),
-  163 => 
+  156 => 
   array (
     'id' => 80117,
     'name' => 'Distrito de Las Tablas',
@@ -1477,7 +1414,7 @@ return array (
     'latitude' => 7.64843,
     'longitude' => -80.29933,
   ),
-  164 => 
+  157 => 
   array (
     'id' => 80118,
     'name' => 'Distrito de Los Pozos',
@@ -1486,7 +1423,7 @@ return array (
     'latitude' => 7.70944,
     'longitude' => -80.64311,
   ),
-  165 => 
+  158 => 
   array (
     'id' => 80119,
     'name' => 'Distrito de Los Santos',
@@ -1495,7 +1432,7 @@ return array (
     'latitude' => 7.88333,
     'longitude' => -80.45,
   ),
-  166 => 
+  159 => 
   array (
     'id' => 80120,
     'name' => 'Distrito de Macaracas',
@@ -1504,7 +1441,7 @@ return array (
     'latitude' => 7.65817,
     'longitude' => -80.53526,
   ),
-  167 => 
+  160 => 
   array (
     'id' => 80121,
     'name' => 'Distrito de Montijo',
@@ -1513,7 +1450,7 @@ return array (
     'latitude' => 7.95316,
     'longitude' => -81.05301,
   ),
-  168 => 
+  161 => 
   array (
     'id' => 80122,
     'name' => 'Distrito de Natá',
@@ -1522,7 +1459,7 @@ return array (
     'latitude' => 8.34416,
     'longitude' => -80.60934,
   ),
-  169 => 
+  162 => 
   array (
     'id' => 80123,
     'name' => 'Distrito de Ocú',
@@ -1531,7 +1468,7 @@ return array (
     'latitude' => 7.90641,
     'longitude' => -80.79752,
   ),
-  170 => 
+  163 => 
   array (
     'id' => 80124,
     'name' => 'Distrito de Olá',
@@ -1540,7 +1477,7 @@ return array (
     'latitude' => 8.48053,
     'longitude' => -80.65324,
   ),
-  171 => 
+  164 => 
   array (
     'id' => 80125,
     'name' => 'Distrito de Panamá',
@@ -1549,7 +1486,7 @@ return array (
     'latitude' => 9.30612,
     'longitude' => -79.45246,
   ),
-  172 => 
+  165 => 
   array (
     'id' => 80126,
     'name' => 'Distrito de Parita',
@@ -1558,7 +1495,7 @@ return array (
     'latitude' => 8.0624,
     'longitude' => -80.56373,
   ),
-  173 => 
+  166 => 
   array (
     'id' => 80127,
     'name' => 'Distrito de Pedasí',
@@ -1567,7 +1504,7 @@ return array (
     'latitude' => 7.48528,
     'longitude' => -80.12747,
   ),
-  174 => 
+  167 => 
   array (
     'id' => 80128,
     'name' => 'Distrito de Pesé',
@@ -1576,7 +1513,7 @@ return array (
     'latitude' => 7.88194,
     'longitude' => -80.63261,
   ),
-  175 => 
+  168 => 
   array (
     'id' => 80129,
     'name' => 'Distrito de Pinogana',
@@ -1585,7 +1522,7 @@ return array (
     'latitude' => 7.89343,
     'longitude' => -77.52562,
   ),
-  176 => 
+  169 => 
   array (
     'id' => 80130,
     'name' => 'Distrito de Pocrí',
@@ -1594,7 +1531,7 @@ return array (
     'latitude' => 7.63721,
     'longitude' => -80.1647,
   ),
-  177 => 
+  170 => 
   array (
     'id' => 80131,
     'name' => 'Distrito de Portobelo',
@@ -1603,7 +1540,7 @@ return array (
     'latitude' => 9.49748,
     'longitude' => -79.6073,
   ),
-  178 => 
+  171 => 
   array (
     'id' => 80132,
     'name' => 'Distrito de Remedios',
@@ -1612,7 +1549,7 @@ return array (
     'latitude' => 8.20253,
     'longitude' => -81.81163,
   ),
-  179 => 
+  172 => 
   array (
     'id' => 80133,
     'name' => 'Distrito de Renacimiento',
@@ -1621,7 +1558,7 @@ return array (
     'latitude' => 8.71667,
     'longitude' => -82.76667,
   ),
-  180 => 
+  173 => 
   array (
     'id' => 80134,
     'name' => 'Distrito de Río de Jesús',
@@ -1630,7 +1567,7 @@ return array (
     'latitude' => 7.91438,
     'longitude' => -81.16133,
   ),
-  181 => 
+  174 => 
   array (
     'id' => 80135,
     'name' => 'Distrito de San Carlos',
@@ -1639,7 +1576,7 @@ return array (
     'latitude' => 8.53196,
     'longitude' => -80.06906,
   ),
-  182 => 
+  175 => 
   array (
     'id' => 80136,
     'name' => 'Distrito de San Francisco',
@@ -1648,7 +1585,7 @@ return array (
     'latitude' => 8.26965,
     'longitude' => -81.00108,
   ),
-  183 => 
+  176 => 
   array (
     'id' => 80137,
     'name' => 'Distrito de San Félix',
@@ -1657,7 +1594,7 @@ return array (
     'latitude' => 8.27768,
     'longitude' => -81.87377,
   ),
-  184 => 
+  177 => 
   array (
     'id' => 80138,
     'name' => 'Distrito de San Lorenzo',
@@ -1666,7 +1603,7 @@ return array (
     'latitude' => 8.29366,
     'longitude' => -82.08922,
   ),
-  185 => 
+  178 => 
   array (
     'id' => 80139,
     'name' => 'Distrito de Santa Fé',
@@ -1675,7 +1612,7 @@ return array (
     'latitude' => 8.72063,
     'longitude' => -80.95858,
   ),
-  186 => 
+  179 => 
   array (
     'id' => 80140,
     'name' => 'Distrito de Santa Isabel',
@@ -1684,7 +1621,7 @@ return array (
     'latitude' => 9.48333,
     'longitude' => -79.31667,
   ),
-  187 => 
+  180 => 
   array (
     'id' => 80141,
     'name' => 'Distrito de Santa María',
@@ -1693,7 +1630,7 @@ return array (
     'latitude' => 8.11667,
     'longitude' => -80.68333,
   ),
-  188 => 
+  181 => 
   array (
     'id' => 80142,
     'name' => 'Distrito de Santiago',
@@ -1702,7 +1639,7 @@ return array (
     'latitude' => 8.12425,
     'longitude' => -80.87827,
   ),
-  189 => 
+  182 => 
   array (
     'id' => 80143,
     'name' => 'Distrito de Soná',
@@ -1711,7 +1648,7 @@ return array (
     'latitude' => 7.84378,
     'longitude' => -81.36612,
   ),
-  190 => 
+  183 => 
   array (
     'id' => 80144,
     'name' => 'Distrito de Taboga',
@@ -1720,7 +1657,7 @@ return array (
     'latitude' => 8.78333,
     'longitude' => -79.55833,
   ),
-  191 => 
+  184 => 
   array (
     'id' => 80145,
     'name' => 'Distrito de Tolé',
@@ -1729,7 +1666,7 @@ return array (
     'latitude' => 8.19015,
     'longitude' => -81.66007,
   ),
-  192 => 
+  185 => 
   array (
     'id' => 80146,
     'name' => 'Distrito de Tonosí',
@@ -1738,7 +1675,7 @@ return array (
     'latitude' => 7.43597,
     'longitude' => -80.45828,
   ),
-  193 => 
+  186 => 
   array (
     'id' => 80147,
     'name' => 'Divalá',
@@ -1747,7 +1684,7 @@ return array (
     'latitude' => 8.41066,
     'longitude' => -82.71332,
   ),
-  194 => 
+  187 => 
   array (
     'id' => 80148,
     'name' => 'Dolega District',
@@ -1756,7 +1693,7 @@ return array (
     'latitude' => 8.56667,
     'longitude' => -82.41407,
   ),
-  195 => 
+  188 => 
   array (
     'id' => 80149,
     'name' => 'El Alto',
@@ -1765,7 +1702,7 @@ return array (
     'latitude' => 8.51191,
     'longitude' => -81.03646,
   ),
-  196 => 
+  189 => 
   array (
     'id' => 80150,
     'name' => 'El Barrito',
@@ -1774,7 +1711,7 @@ return array (
     'latitude' => 7.96059,
     'longitude' => -80.94801,
   ),
-  197 => 
+  190 => 
   array (
     'id' => 80151,
     'name' => 'El Cacao',
@@ -1783,16 +1720,7 @@ return array (
     'latitude' => 7.4457,
     'longitude' => -80.40938,
   ),
-  198 => 
-  array (
-    'id' => 80152,
-    'name' => 'El Cacao',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.76134,
-    'longitude' => -80.01294,
-  ),
-  199 => 
+  191 => 
   array (
     'id' => 80153,
     'name' => 'El Calabacito',
@@ -1801,7 +1729,7 @@ return array (
     'latitude' => 7.71843,
     'longitude' => -80.59757,
   ),
-  200 => 
+  192 => 
   array (
     'id' => 80154,
     'name' => 'El Capurí',
@@ -1810,7 +1738,7 @@ return array (
     'latitude' => 7.72571,
     'longitude' => -80.64349,
   ),
-  201 => 
+  193 => 
   array (
     'id' => 80155,
     'name' => 'El Carate',
@@ -1819,7 +1747,7 @@ return array (
     'latitude' => 7.73124,
     'longitude' => -80.29691,
   ),
-  202 => 
+  194 => 
   array (
     'id' => 80156,
     'name' => 'El Cañafístulo',
@@ -1828,7 +1756,7 @@ return array (
     'latitude' => 7.61768,
     'longitude' => -80.23322,
   ),
-  203 => 
+  195 => 
   array (
     'id' => 80157,
     'name' => 'El Caño',
@@ -1837,7 +1765,7 @@ return array (
     'latitude' => 8.40195,
     'longitude' => -80.51791,
   ),
-  204 => 
+  196 => 
   array (
     'id' => 80158,
     'name' => 'El Cedro',
@@ -1846,7 +1774,7 @@ return array (
     'latitude' => 7.68565,
     'longitude' => -80.65927,
   ),
-  205 => 
+  197 => 
   array (
     'id' => 80159,
     'name' => 'El Chirú',
@@ -1855,7 +1783,7 @@ return array (
     'latitude' => 8.39876,
     'longitude' => -80.18721,
   ),
-  206 => 
+  198 => 
   array (
     'id' => 80160,
     'name' => 'El Chorrillo',
@@ -1864,7 +1792,7 @@ return array (
     'latitude' => 8.94964,
     'longitude' => -79.54715,
   ),
-  207 => 
+  199 => 
   array (
     'id' => 80161,
     'name' => 'El Cocal',
@@ -1873,7 +1801,7 @@ return array (
     'latitude' => 7.73697,
     'longitude' => -80.2798,
   ),
-  208 => 
+  200 => 
   array (
     'id' => 80162,
     'name' => 'El Coclá',
@@ -1882,7 +1810,7 @@ return array (
     'latitude' => 8.32143,
     'longitude' => -80.92069,
   ),
-  209 => 
+  201 => 
   array (
     'id' => 80163,
     'name' => 'El Coco',
@@ -1891,16 +1819,7 @@ return array (
     'latitude' => 8.39716,
     'longitude' => -80.35,
   ),
-  210 => 
-  array (
-    'id' => 80164,
-    'name' => 'El Coco',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.87009,
-    'longitude' => -79.80415,
-  ),
-  211 => 
+  202 => 
   array (
     'id' => 80165,
     'name' => 'El Copé',
@@ -1909,7 +1828,7 @@ return array (
     'latitude' => 8.62036,
     'longitude' => -80.58433,
   ),
-  212 => 
+  203 => 
   array (
     'id' => 80166,
     'name' => 'El Cortezo',
@@ -1918,16 +1837,7 @@ return array (
     'latitude' => 7.42661,
     'longitude' => -80.63311,
   ),
-  213 => 
-  array (
-    'id' => 80167,
-    'name' => 'El Cortezo',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.34556,
-    'longitude' => -80.58721,
-  ),
-  214 => 
+  204 => 
   array (
     'id' => 80168,
     'name' => 'El Cristo',
@@ -1936,7 +1846,7 @@ return array (
     'latitude' => 8.25071,
     'longitude' => -80.62093,
   ),
-  215 => 
+  205 => 
   array (
     'id' => 80169,
     'name' => 'El Ejido',
@@ -1945,7 +1855,7 @@ return array (
     'latitude' => 7.91634,
     'longitude' => -80.38686,
   ),
-  216 => 
+  206 => 
   array (
     'id' => 80170,
     'name' => 'El Empalme',
@@ -1954,7 +1864,7 @@ return array (
     'latitude' => 9.41667,
     'longitude' => -82.51667,
   ),
-  217 => 
+  207 => 
   array (
     'id' => 80171,
     'name' => 'El Espavé',
@@ -1963,7 +1873,7 @@ return array (
     'latitude' => 8.66161,
     'longitude' => -79.87584,
   ),
-  218 => 
+  208 => 
   array (
     'id' => 80172,
     'name' => 'El Espino',
@@ -1972,7 +1882,7 @@ return array (
     'latitude' => 8.83795,
     'longitude' => -79.84925,
   ),
-  219 => 
+  209 => 
   array (
     'id' => 80173,
     'name' => 'El Espino de Santa Rosa',
@@ -1981,7 +1891,7 @@ return array (
     'latitude' => 8.09286,
     'longitude' => -80.8238,
   ),
-  220 => 
+  210 => 
   array (
     'id' => 80174,
     'name' => 'El Giral',
@@ -1990,7 +1900,7 @@ return array (
     'latitude' => 9.24509,
     'longitude' => -79.69266,
   ),
-  221 => 
+  211 => 
   array (
     'id' => 80175,
     'name' => 'El Guabo',
@@ -1999,7 +1909,7 @@ return array (
     'latitude' => 9.07842,
     'longitude' => -80.08316,
   ),
-  222 => 
+  212 => 
   array (
     'id' => 80176,
     'name' => 'El Guásimo',
@@ -2008,7 +1918,7 @@ return array (
     'latitude' => 7.8064,
     'longitude' => -80.52991,
   ),
-  223 => 
+  213 => 
   array (
     'id' => 80177,
     'name' => 'El Hato',
@@ -2017,7 +1927,7 @@ return array (
     'latitude' => 7.79316,
     'longitude' => -80.38267,
   ),
-  224 => 
+  214 => 
   array (
     'id' => 80178,
     'name' => 'El Higo',
@@ -2026,7 +1936,7 @@ return array (
     'latitude' => 8.44731,
     'longitude' => -80.03603,
   ),
-  225 => 
+  215 => 
   array (
     'id' => 80179,
     'name' => 'El Líbano',
@@ -2035,7 +1945,7 @@ return array (
     'latitude' => 8.61685,
     'longitude' => -79.83483,
   ),
-  226 => 
+  216 => 
   array (
     'id' => 80180,
     'name' => 'El Macano',
@@ -2044,7 +1954,7 @@ return array (
     'latitude' => 7.68489,
     'longitude' => -80.40309,
   ),
-  227 => 
+  217 => 
   array (
     'id' => 80181,
     'name' => 'El Manantial',
@@ -2053,7 +1963,7 @@ return array (
     'latitude' => 7.78245,
     'longitude' => -80.24713,
   ),
-  228 => 
+  218 => 
   array (
     'id' => 80182,
     'name' => 'El Marañón',
@@ -2062,7 +1972,7 @@ return array (
     'latitude' => 8.03582,
     'longitude' => -81.21489,
   ),
-  229 => 
+  219 => 
   array (
     'id' => 80183,
     'name' => 'El María',
@@ -2071,7 +1981,7 @@ return array (
     'latitude' => 8.02905,
     'longitude' => -81.44384,
   ),
-  230 => 
+  220 => 
   array (
     'id' => 80184,
     'name' => 'El Muñoz',
@@ -2080,7 +1990,7 @@ return array (
     'latitude' => 7.67582,
     'longitude' => -80.3213,
   ),
-  231 => 
+  221 => 
   array (
     'id' => 80185,
     'name' => 'El Nancito',
@@ -2089,7 +1999,7 @@ return array (
     'latitude' => 8.23811,
     'longitude' => -81.73218,
   ),
-  232 => 
+  222 => 
   array (
     'id' => 80186,
     'name' => 'El Palmar',
@@ -2098,7 +2008,7 @@ return array (
     'latitude' => 8.30098,
     'longitude' => -82.85344,
   ),
-  233 => 
+  223 => 
   array (
     'id' => 80187,
     'name' => 'El Pantano',
@@ -2107,7 +2017,7 @@ return array (
     'latitude' => 8.53755,
     'longitude' => -81.06941,
   ),
-  234 => 
+  224 => 
   array (
     'id' => 80188,
     'name' => 'El Pedregoso',
@@ -2116,16 +2026,7 @@ return array (
     'latitude' => 7.93642,
     'longitude' => -80.63807,
   ),
-  235 => 
-  array (
-    'id' => 80189,
-    'name' => 'El Pedregoso',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.69173,
-    'longitude' => -80.32793,
-  ),
-  236 => 
+  225 => 
   array (
     'id' => 80190,
     'name' => 'El Peñón',
@@ -2134,7 +2035,7 @@ return array (
     'latitude' => 8.35,
     'longitude' => -80.9762,
   ),
-  237 => 
+  226 => 
   array (
     'id' => 80191,
     'name' => 'El Picador',
@@ -2143,7 +2044,7 @@ return array (
     'latitude' => 8.37803,
     'longitude' => -81.25621,
   ),
-  238 => 
+  227 => 
   array (
     'id' => 80192,
     'name' => 'El Porvenir',
@@ -2152,16 +2053,7 @@ return array (
     'latitude' => 9.55276,
     'longitude' => -78.9523,
   ),
-  239 => 
-  array (
-    'id' => 80193,
-    'name' => 'El Porvenir',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.22919,
-    'longitude' => -81.83278,
-  ),
-  240 => 
+  228 => 
   array (
     'id' => 80194,
     'name' => 'El Potrero',
@@ -2170,16 +2062,7 @@ return array (
     'latitude' => 8.52146,
     'longitude' => -80.51681,
   ),
-  241 => 
-  array (
-    'id' => 80195,
-    'name' => 'El Potrero',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.37692,
-    'longitude' => -80.79434,
-  ),
-  242 => 
+  229 => 
   array (
     'id' => 80196,
     'name' => 'El Progreso',
@@ -2188,7 +2071,7 @@ return array (
     'latitude' => 9.26667,
     'longitude' => -79.11667,
   ),
-  243 => 
+  230 => 
   array (
     'id' => 80197,
     'name' => 'El Pájaro',
@@ -2197,7 +2080,7 @@ return array (
     'latitude' => 7.95342,
     'longitude' => -81.12154,
   ),
-  244 => 
+  231 => 
   array (
     'id' => 80198,
     'name' => 'El Retiro',
@@ -2206,7 +2089,7 @@ return array (
     'latitude' => 8.48014,
     'longitude' => -80.15426,
   ),
-  245 => 
+  232 => 
   array (
     'id' => 80199,
     'name' => 'El Rincón',
@@ -2215,16 +2098,7 @@ return array (
     'latitude' => 8.11923,
     'longitude' => -80.61707,
   ),
-  246 => 
-  array (
-    'id' => 80200,
-    'name' => 'El Rincón',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.18422,
-    'longitude' => -81.43333,
-  ),
-  247 => 
+  233 => 
   array (
     'id' => 80201,
     'name' => 'El Roble',
@@ -2233,7 +2107,7 @@ return array (
     'latitude' => 8.1685,
     'longitude' => -80.65897,
   ),
-  248 => 
+  234 => 
   array (
     'id' => 80202,
     'name' => 'El Silencio',
@@ -2242,7 +2116,7 @@ return array (
     'latitude' => 9.37222,
     'longitude' => -82.52877,
   ),
-  249 => 
+  235 => 
   array (
     'id' => 80203,
     'name' => 'El Tejar',
@@ -2251,7 +2125,7 @@ return array (
     'latitude' => 8.42973,
     'longitude' => -82.57294,
   ),
-  250 => 
+  236 => 
   array (
     'id' => 80204,
     'name' => 'El Toro',
@@ -2260,7 +2134,7 @@ return array (
     'latitude' => 7.7511,
     'longitude' => -80.86943,
   ),
-  251 => 
+  237 => 
   array (
     'id' => 80205,
     'name' => 'El Uvito',
@@ -2269,7 +2143,7 @@ return array (
     'latitude' => 8.11648,
     'longitude' => -80.98461,
   ),
-  252 => 
+  238 => 
   array (
     'id' => 80206,
     'name' => 'El Valle de la Unión',
@@ -2278,7 +2152,7 @@ return array (
     'latitude' => 9.2363,
     'longitude' => -79.65986,
   ),
-  253 => 
+  239 => 
   array (
     'id' => 80207,
     'name' => 'Entradero',
@@ -2287,7 +2161,7 @@ return array (
     'latitude' => 8.5688,
     'longitude' => -80.20743,
   ),
-  254 => 
+  240 => 
   array (
     'id' => 80208,
     'name' => 'Escobal',
@@ -2296,7 +2170,7 @@ return array (
     'latitude' => 9.14373,
     'longitude' => -79.96439,
   ),
-  255 => 
+  241 => 
   array (
     'id' => 80209,
     'name' => 'Farallón',
@@ -2305,7 +2179,7 @@ return array (
     'latitude' => 8.35658,
     'longitude' => -80.13723,
   ),
-  256 => 
+  242 => 
   array (
     'id' => 80210,
     'name' => 'Finca Blanco',
@@ -2314,7 +2188,7 @@ return array (
     'latitude' => 8.37979,
     'longitude' => -82.87385,
   ),
-  257 => 
+  243 => 
   array (
     'id' => 80211,
     'name' => 'Flores',
@@ -2323,7 +2197,7 @@ return array (
     'latitude' => 7.48157,
     'longitude' => -80.40695,
   ),
-  258 => 
+  244 => 
   array (
     'id' => 80212,
     'name' => 'Garachiné',
@@ -2332,7 +2206,7 @@ return array (
     'latitude' => 8.06684,
     'longitude' => -78.36436,
   ),
-  259 => 
+  245 => 
   array (
     'id' => 80213,
     'name' => 'Gatuncillo',
@@ -2341,7 +2215,7 @@ return array (
     'latitude' => 9.24346,
     'longitude' => -79.64856,
   ),
-  260 => 
+  246 => 
   array (
     'id' => 80214,
     'name' => 'Gatún',
@@ -2350,7 +2224,7 @@ return array (
     'latitude' => 9.28922,
     'longitude' => -79.77204,
   ),
-  261 => 
+  247 => 
   array (
     'id' => 80215,
     'name' => 'Gonzalillo',
@@ -2359,7 +2233,7 @@ return array (
     'latitude' => 9.09183,
     'longitude' => -79.51928,
   ),
-  262 => 
+  248 => 
   array (
     'id' => 80216,
     'name' => 'Guabal',
@@ -2368,7 +2242,7 @@ return array (
     'latitude' => 8.57466,
     'longitude' => -82.5373,
   ),
-  263 => 
+  249 => 
   array (
     'id' => 80217,
     'name' => 'Guabito',
@@ -2377,7 +2251,7 @@ return array (
     'latitude' => 9.48968,
     'longitude' => -82.61279,
   ),
-  264 => 
+  250 => 
   array (
     'id' => 80218,
     'name' => 'Guaca Arriba',
@@ -2386,7 +2260,7 @@ return array (
     'latitude' => 8.53733,
     'longitude' => -82.49281,
   ),
-  265 => 
+  251 => 
   array (
     'id' => 80219,
     'name' => 'Guadalupe',
@@ -2395,7 +2269,7 @@ return array (
     'latitude' => 8.85452,
     'longitude' => -79.81408,
   ),
-  266 => 
+  252 => 
   array (
     'id' => 80220,
     'name' => 'Gualaca',
@@ -2404,7 +2278,7 @@ return array (
     'latitude' => 8.53006,
     'longitude' => -82.29959,
   ),
-  267 => 
+  253 => 
   array (
     'id' => 80221,
     'name' => 'Guararé',
@@ -2413,7 +2287,7 @@ return array (
     'latitude' => 7.81531,
     'longitude' => -80.28345,
   ),
-  268 => 
+  254 => 
   array (
     'id' => 80222,
     'name' => 'Guararé Arriba',
@@ -2422,7 +2296,7 @@ return array (
     'latitude' => 7.80023,
     'longitude' => -80.35983,
   ),
-  269 => 
+  255 => 
   array (
     'id' => 80223,
     'name' => 'Guarumal',
@@ -2431,16 +2305,7 @@ return array (
     'latitude' => 8.34523,
     'longitude' => -82.53205,
   ),
-  270 => 
-  array (
-    'id' => 80224,
-    'name' => 'Guarumal',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.79404,
-    'longitude' => -81.25904,
-  ),
-  271 => 
+  256 => 
   array (
     'id' => 80225,
     'name' => 'Guayabal',
@@ -2449,7 +2314,7 @@ return array (
     'latitude' => 8.62193,
     'longitude' => -82.57935,
   ),
-  272 => 
+  257 => 
   array (
     'id' => 80226,
     'name' => 'Guayabito',
@@ -2458,16 +2323,7 @@ return array (
     'latitude' => 8.53949,
     'longitude' => -81.48225,
   ),
-  273 => 
-  array (
-    'id' => 80227,
-    'name' => 'Guayabito',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.54828,
-    'longitude' => -80.0135,
-  ),
-  274 => 
+  258 => 
   array (
     'id' => 80228,
     'name' => 'Guzman',
@@ -2476,7 +2332,7 @@ return array (
     'latitude' => 8.51969,
     'longitude' => -80.58405,
   ),
-  275 => 
+  259 => 
   array (
     'id' => 80229,
     'name' => 'Gómez',
@@ -2485,7 +2341,7 @@ return array (
     'latitude' => 8.56085,
     'longitude' => -82.74142,
   ),
-  276 => 
+  260 => 
   array (
     'id' => 80230,
     'name' => 'Hato Chami',
@@ -2494,7 +2350,7 @@ return array (
     'latitude' => 8.44281,
     'longitude' => -81.77196,
   ),
-  277 => 
+  261 => 
   array (
     'id' => 80231,
     'name' => 'Hato Corotú',
@@ -2503,7 +2359,7 @@ return array (
     'latitude' => 8.33516,
     'longitude' => -81.9703,
   ),
-  278 => 
+  262 => 
   array (
     'id' => 80232,
     'name' => 'Hato Montaña',
@@ -2512,7 +2368,7 @@ return array (
     'latitude' => 8.91938,
     'longitude' => -79.73915,
   ),
-  279 => 
+  263 => 
   array (
     'id' => 80233,
     'name' => 'Horconcitos',
@@ -2521,7 +2377,7 @@ return array (
     'latitude' => 8.31142,
     'longitude' => -82.15102,
   ),
-  280 => 
+  264 => 
   array (
     'id' => 80234,
     'name' => 'Howard',
@@ -2530,7 +2386,7 @@ return array (
     'latitude' => 8.93942,
     'longitude' => -79.59097,
   ),
-  281 => 
+  265 => 
   array (
     'id' => 80235,
     'name' => 'Isla Bastimentos',
@@ -2539,7 +2395,7 @@ return array (
     'latitude' => 9.3,
     'longitude' => -82.13333,
   ),
-  282 => 
+  266 => 
   array (
     'id' => 80236,
     'name' => 'Jaqué',
@@ -2548,7 +2404,7 @@ return array (
     'latitude' => 7.51826,
     'longitude' => -78.16343,
   ),
-  283 => 
+  267 => 
   array (
     'id' => 80237,
     'name' => 'Juan Díaz',
@@ -2557,16 +2413,7 @@ return array (
     'latitude' => 8.4624,
     'longitude' => -80.2828,
   ),
-  284 => 
-  array (
-    'id' => 80238,
-    'name' => 'Juan Díaz',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.05,
-    'longitude' => -79.45,
-  ),
-  285 => 
+  268 => 
   array (
     'id' => 80239,
     'name' => 'Kankintú',
@@ -2575,7 +2422,7 @@ return array (
     'latitude' => 8.89503,
     'longitude' => -81.8575,
   ),
-  286 => 
+  269 => 
   array (
     'id' => 80240,
     'name' => 'Kusapín',
@@ -2584,7 +2431,7 @@ return array (
     'latitude' => 9.17119,
     'longitude' => -81.89621,
   ),
-  287 => 
+  270 => 
   array (
     'id' => 80241,
     'name' => 'La Arena',
@@ -2593,7 +2440,7 @@ return array (
     'latitude' => 7.96766,
     'longitude' => -80.46523,
   ),
-  288 => 
+  271 => 
   array (
     'id' => 80242,
     'name' => 'La Cabima',
@@ -2602,7 +2449,7 @@ return array (
     'latitude' => 9.11865,
     'longitude' => -79.5366,
   ),
-  289 => 
+  272 => 
   array (
     'id' => 80243,
     'name' => 'La Chorrera',
@@ -2611,7 +2458,7 @@ return array (
     'latitude' => 8.88028,
     'longitude' => -79.78333,
   ),
-  290 => 
+  273 => 
   array (
     'id' => 80244,
     'name' => 'La Colorada',
@@ -2620,25 +2467,7 @@ return array (
     'latitude' => 8.01319,
     'longitude' => -80.9859,
   ),
-  291 => 
-  array (
-    'id' => 80245,
-    'name' => 'La Colorada',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.10224,
-    'longitude' => -79.416,
-  ),
-  292 => 
-  array (
-    'id' => 80246,
-    'name' => 'La Colorada',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.82362,
-    'longitude' => -80.55552,
-  ),
-  293 => 
+  274 => 
   array (
     'id' => 80247,
     'name' => 'La Concepción',
@@ -2647,7 +2476,7 @@ return array (
     'latitude' => 8.51212,
     'longitude' => -82.61858,
   ),
-  294 => 
+  275 => 
   array (
     'id' => 80248,
     'name' => 'La Enea',
@@ -2656,7 +2485,7 @@ return array (
     'latitude' => 7.83333,
     'longitude' => -80.27417,
   ),
-  295 => 
+  276 => 
   array (
     'id' => 80249,
     'name' => 'La Ensenada',
@@ -2665,7 +2494,7 @@ return array (
     'latitude' => 8.36618,
     'longitude' => -78.84606,
   ),
-  296 => 
+  277 => 
   array (
     'id' => 80250,
     'name' => 'La Ermita',
@@ -2674,7 +2503,7 @@ return array (
     'latitude' => 8.45622,
     'longitude' => -80.06835,
   ),
-  297 => 
+  278 => 
   array (
     'id' => 80251,
     'name' => 'La Esmeralda',
@@ -2683,7 +2512,7 @@ return array (
     'latitude' => 8.26817,
     'longitude' => -78.9246,
   ),
-  298 => 
+  279 => 
   array (
     'id' => 80252,
     'name' => 'La Esperanza',
@@ -2692,7 +2521,7 @@ return array (
     'latitude' => 8.40344,
     'longitude' => -82.79197,
   ),
-  299 => 
+  280 => 
   array (
     'id' => 80253,
     'name' => 'La Espigadilla',
@@ -2701,7 +2530,7 @@ return array (
     'latitude' => 7.88389,
     'longitude' => -80.39039,
   ),
-  300 => 
+  281 => 
   array (
     'id' => 80254,
     'name' => 'La Estrella',
@@ -2710,7 +2539,7 @@ return array (
     'latitude' => 8.51572,
     'longitude' => -82.67212,
   ),
-  301 => 
+  282 => 
   array (
     'id' => 80255,
     'name' => 'La Garceana',
@@ -2719,7 +2548,7 @@ return array (
     'latitude' => 7.93708,
     'longitude' => -81.01643,
   ),
-  302 => 
+  283 => 
   array (
     'id' => 80256,
     'name' => 'La Guinea',
@@ -2728,7 +2557,7 @@ return array (
     'latitude' => 8.3425,
     'longitude' => -78.9343,
   ),
-  303 => 
+  284 => 
   array (
     'id' => 80257,
     'name' => 'La Herradura',
@@ -2737,7 +2566,7 @@ return array (
     'latitude' => 8.84848,
     'longitude' => -79.80404,
   ),
-  304 => 
+  285 => 
   array (
     'id' => 80258,
     'name' => 'La Laguna',
@@ -2746,16 +2575,7 @@ return array (
     'latitude' => 9.04404,
     'longitude' => -79.84215,
   ),
-  305 => 
-  array (
-    'id' => 80259,
-    'name' => 'La Laguna',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.33882,
-    'longitude' => -80.72949,
-  ),
-  306 => 
+  286 => 
   array (
     'id' => 80260,
     'name' => 'La Laja',
@@ -2764,7 +2584,7 @@ return array (
     'latitude' => 7.73102,
     'longitude' => -80.25298,
   ),
-  307 => 
+  287 => 
   array (
     'id' => 80261,
     'name' => 'La Loma',
@@ -2773,16 +2593,7 @@ return array (
     'latitude' => 8.16667,
     'longitude' => -80.63742,
   ),
-  308 => 
-  array (
-    'id' => 80262,
-    'name' => 'La Loma',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.43708,
-    'longitude' => -80.89118,
-  ),
-  309 => 
+  288 => 
   array (
     'id' => 80263,
     'name' => 'La Mesa',
@@ -2791,34 +2602,7 @@ return array (
     'latitude' => 8.14707,
     'longitude' => -81.18114,
   ),
-  310 => 
-  array (
-    'id' => 80264,
-    'name' => 'La Mesa',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.17308,
-    'longitude' => -79.27401,
-  ),
-  311 => 
-  array (
-    'id' => 80265,
-    'name' => 'La Mesa',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.49587,
-    'longitude' => -82.67534,
-  ),
-  312 => 
-  array (
-    'id' => 80266,
-    'name' => 'La Mesa',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.6567,
-    'longitude' => -80.61794,
-  ),
-  313 => 
+  289 => 
   array (
     'id' => 80267,
     'name' => 'La Miel',
@@ -2827,7 +2611,7 @@ return array (
     'latitude' => 7.56022,
     'longitude' => -80.32736,
   ),
-  314 => 
+  290 => 
   array (
     'id' => 80268,
     'name' => 'La Mitra',
@@ -2836,7 +2620,7 @@ return array (
     'latitude' => 8.84091,
     'longitude' => -79.78648,
   ),
-  315 => 
+  291 => 
   array (
     'id' => 80269,
     'name' => 'La Montañuela',
@@ -2845,7 +2629,7 @@ return array (
     'latitude' => 8.02487,
     'longitude' => -80.86325,
   ),
-  316 => 
+  292 => 
   array (
     'id' => 80270,
     'name' => 'La Palma',
@@ -2854,16 +2638,7 @@ return array (
     'latitude' => 8.40608,
     'longitude' => -78.13964,
   ),
-  317 => 
-  array (
-    'id' => 80271,
-    'name' => 'La Palma',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.71667,
-    'longitude' => -80.38333,
-  ),
-  318 => 
+  293 => 
   array (
     'id' => 80272,
     'name' => 'La Pasera',
@@ -2872,7 +2647,7 @@ return array (
     'latitude' => 7.79757,
     'longitude' => -80.30342,
   ),
-  319 => 
+  294 => 
   array (
     'id' => 80273,
     'name' => 'La Pesa',
@@ -2881,7 +2656,7 @@ return array (
     'latitude' => 8.85073,
     'longitude' => -79.82374,
   ),
-  320 => 
+  295 => 
   array (
     'id' => 80274,
     'name' => 'La Peña',
@@ -2890,7 +2665,7 @@ return array (
     'latitude' => 8.12784,
     'longitude' => -81.02693,
   ),
-  321 => 
+  296 => 
   array (
     'id' => 80275,
     'name' => 'La Pintada',
@@ -2899,7 +2674,7 @@ return array (
     'latitude' => 8.59299,
     'longitude' => -80.44349,
   ),
-  322 => 
+  297 => 
   array (
     'id' => 80276,
     'name' => 'La Raya de Calobre',
@@ -2908,7 +2683,7 @@ return array (
     'latitude' => 8.2163,
     'longitude' => -80.82729,
   ),
-  323 => 
+  298 => 
   array (
     'id' => 80277,
     'name' => 'La Raya de Santa María',
@@ -2917,7 +2692,7 @@ return array (
     'latitude' => 8.16429,
     'longitude' => -80.82143,
   ),
-  324 => 
+  299 => 
   array (
     'id' => 80278,
     'name' => 'La Tiza',
@@ -2926,7 +2701,7 @@ return array (
     'latitude' => 7.7511,
     'longitude' => -80.29216,
   ),
-  325 => 
+  300 => 
   array (
     'id' => 80279,
     'name' => 'La Trinidad',
@@ -2935,7 +2710,7 @@ return array (
     'latitude' => 7.91457,
     'longitude' => -80.70332,
   ),
-  326 => 
+  301 => 
   array (
     'id' => 80280,
     'name' => 'La Tronosa',
@@ -2944,7 +2719,7 @@ return array (
     'latitude' => 7.43609,
     'longitude' => -80.58698,
   ),
-  327 => 
+  302 => 
   array (
     'id' => 80281,
     'name' => 'La Yeguada',
@@ -2953,7 +2728,7 @@ return array (
     'latitude' => 8.4306,
     'longitude' => -80.85752,
   ),
-  328 => 
+  303 => 
   array (
     'id' => 80282,
     'name' => 'Lajamina',
@@ -2962,7 +2737,7 @@ return array (
     'latitude' => 7.58587,
     'longitude' => -80.13212,
   ),
-  329 => 
+  304 => 
   array (
     'id' => 80283,
     'name' => 'Lajas Adentro',
@@ -2971,7 +2746,7 @@ return array (
     'latitude' => 8.24981,
     'longitude' => -81.87779,
   ),
-  330 => 
+  305 => 
   array (
     'id' => 80284,
     'name' => 'Lajas de Tolé',
@@ -2980,7 +2755,7 @@ return array (
     'latitude' => 8.16994,
     'longitude' => -81.69654,
   ),
-  331 => 
+  306 => 
   array (
     'id' => 80285,
     'name' => 'Lajero Arriba',
@@ -2989,7 +2764,7 @@ return array (
     'latitude' => 8.2906,
     'longitude' => -81.77047,
   ),
-  332 => 
+  307 => 
   array (
     'id' => 80286,
     'name' => 'Las Colinas',
@@ -2998,7 +2773,7 @@ return array (
     'latitude' => 8.55,
     'longitude' => -80.08333,
   ),
-  333 => 
+  308 => 
   array (
     'id' => 80287,
     'name' => 'Las Cruces',
@@ -3007,7 +2782,7 @@ return array (
     'latitude' => 7.82285,
     'longitude' => -80.43003,
   ),
-  334 => 
+  309 => 
   array (
     'id' => 80288,
     'name' => 'Las Cumbres',
@@ -3016,7 +2791,7 @@ return array (
     'latitude' => 9.08916,
     'longitude' => -79.52809,
   ),
-  335 => 
+  310 => 
   array (
     'id' => 80289,
     'name' => 'Las Guabas',
@@ -3025,16 +2800,7 @@ return array (
     'latitude' => 7.90949,
     'longitude' => -80.80706,
   ),
-  336 => 
-  array (
-    'id' => 80290,
-    'name' => 'Las Guabas',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.81469,
-    'longitude' => -80.50155,
-  ),
-  337 => 
+  311 => 
   array (
     'id' => 80291,
     'name' => 'Las Guías Abajo',
@@ -3043,7 +2809,7 @@ return array (
     'latitude' => 8.19451,
     'longitude' => -80.75494,
   ),
-  338 => 
+  312 => 
   array (
     'id' => 80292,
     'name' => 'Las Huacas',
@@ -3052,7 +2818,7 @@ return array (
     'latitude' => 7.90167,
     'longitude' => -81.14056,
   ),
-  339 => 
+  313 => 
   array (
     'id' => 80293,
     'name' => 'Las Huacas del Quije',
@@ -3061,7 +2827,7 @@ return array (
     'latitude' => 8.46702,
     'longitude' => -80.75089,
   ),
-  340 => 
+  314 => 
   array (
     'id' => 80294,
     'name' => 'Las Lajas',
@@ -3070,16 +2836,7 @@ return array (
     'latitude' => 8.54963,
     'longitude' => -79.93521,
   ),
-  341 => 
-  array (
-    'id' => 80295,
-    'name' => 'Las Lajas',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.24184,
-    'longitude' => -81.86931,
-  ),
-  342 => 
+  315 => 
   array (
     'id' => 80296,
     'name' => 'Las Lomas',
@@ -3088,7 +2845,7 @@ return array (
     'latitude' => 8.42927,
     'longitude' => -82.38743,
   ),
-  343 => 
+  316 => 
   array (
     'id' => 80297,
     'name' => 'Las Margaritas',
@@ -3097,16 +2854,7 @@ return array (
     'latitude' => 9.18426,
     'longitude' => -79.0873,
   ),
-  344 => 
-  array (
-    'id' => 80298,
-    'name' => 'Las Margaritas',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.32603,
-    'longitude' => -79.89028,
-  ),
-  345 => 
+  317 => 
   array (
     'id' => 80299,
     'name' => 'Las Marias',
@@ -3115,7 +2863,7 @@ return array (
     'latitude' => 8.88809,
     'longitude' => -80.21893,
   ),
-  346 => 
+  318 => 
   array (
     'id' => 80300,
     'name' => 'Las Minas',
@@ -3124,16 +2872,7 @@ return array (
     'latitude' => 7.79581,
     'longitude' => -80.7457,
   ),
-  347 => 
-  array (
-    'id' => 80301,
-    'name' => 'Las Minas',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.64118,
-    'longitude' => -80.39432,
-  ),
-  348 => 
+  319 => 
   array (
     'id' => 80302,
     'name' => 'Las Palmas',
@@ -3142,16 +2881,7 @@ return array (
     'latitude' => 8.13564,
     'longitude' => -81.45674,
   ),
-  349 => 
-  array (
-    'id' => 80303,
-    'name' => 'Las Palmas',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.68314,
-    'longitude' => -80.49728,
-  ),
-  350 => 
+  320 => 
   array (
     'id' => 80304,
     'name' => 'Las Palmitas',
@@ -3160,7 +2890,7 @@ return array (
     'latitude' => 7.76523,
     'longitude' => -80.2935,
   ),
-  351 => 
+  321 => 
   array (
     'id' => 80305,
     'name' => 'Las Sabanas',
@@ -3169,7 +2899,7 @@ return array (
     'latitude' => 8.58141,
     'longitude' => -80.67978,
   ),
-  352 => 
+  322 => 
   array (
     'id' => 80306,
     'name' => 'Las Tablas',
@@ -3178,7 +2908,7 @@ return array (
     'latitude' => 7.76472,
     'longitude' => -80.27483,
   ),
-  353 => 
+  323 => 
   array (
     'id' => 80307,
     'name' => 'Las Trancas',
@@ -3187,7 +2917,7 @@ return array (
     'latitude' => 7.734,
     'longitude' => -80.37384,
   ),
-  354 => 
+  324 => 
   array (
     'id' => 80308,
     'name' => 'Las Uvas',
@@ -3196,7 +2926,7 @@ return array (
     'latitude' => 8.45937,
     'longitude' => -80.00075,
   ),
-  355 => 
+  325 => 
   array (
     'id' => 80309,
     'name' => 'Leones Arriba',
@@ -3205,16 +2935,7 @@ return array (
     'latitude' => 7.7659,
     'longitude' => -80.84515,
   ),
-  356 => 
-  array (
-    'id' => 80310,
-    'name' => 'Leones Arriba',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.75415,
-    'longitude' => -81.11556,
-  ),
-  357 => 
+  326 => 
   array (
     'id' => 80311,
     'name' => 'Limones',
@@ -3223,7 +2944,7 @@ return array (
     'latitude' => 8.10007,
     'longitude' => -82.86679,
   ),
-  358 => 
+  327 => 
   array (
     'id' => 80312,
     'name' => 'Limón de Tijeras',
@@ -3232,7 +2953,7 @@ return array (
     'latitude' => 7.81756,
     'longitude' => -80.91335,
   ),
-  359 => 
+  328 => 
   array (
     'id' => 80313,
     'name' => 'Llano Abajo',
@@ -3241,7 +2962,7 @@ return array (
     'latitude' => 7.78598,
     'longitude' => -80.4106,
   ),
-  360 => 
+  329 => 
   array (
     'id' => 80314,
     'name' => 'Llano Bonito',
@@ -3250,7 +2971,7 @@ return array (
     'latitude' => 7.97637,
     'longitude' => -80.41646,
   ),
-  361 => 
+  330 => 
   array (
     'id' => 80315,
     'name' => 'Llano Grande',
@@ -3259,25 +2980,7 @@ return array (
     'latitude' => 7.97406,
     'longitude' => -80.71103,
   ),
-  362 => 
-  array (
-    'id' => 80316,
-    'name' => 'Llano Grande',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.07473,
-    'longitude' => -81.13626,
-  ),
-  363 => 
-  array (
-    'id' => 80317,
-    'name' => 'Llano Grande',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.63817,
-    'longitude' => -80.43848,
-  ),
-  364 => 
+  331 => 
   array (
     'id' => 80318,
     'name' => 'Llano Largo',
@@ -3286,16 +2989,7 @@ return array (
     'latitude' => 8.83463,
     'longitude' => -79.80765,
   ),
-  365 => 
-  array (
-    'id' => 80319,
-    'name' => 'Llano Largo',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.90607,
-    'longitude' => -80.42561,
-  ),
-  366 => 
+  332 => 
   array (
     'id' => 80320,
     'name' => 'Llano Marín',
@@ -3304,7 +2998,7 @@ return array (
     'latitude' => 8.47696,
     'longitude' => -80.32499,
   ),
-  367 => 
+  333 => 
   array (
     'id' => 80321,
     'name' => 'Llano de La Cruz',
@@ -3313,7 +3007,7 @@ return array (
     'latitude' => 7.95178,
     'longitude' => -80.64239,
   ),
-  368 => 
+  334 => 
   array (
     'id' => 80322,
     'name' => 'Llano de Piedra',
@@ -3322,7 +3016,7 @@ return array (
     'latitude' => 7.65972,
     'longitude' => -80.56347,
   ),
-  369 => 
+  335 => 
   array (
     'id' => 80323,
     'name' => 'Llano Ñopo',
@@ -3331,7 +3025,7 @@ return array (
     'latitude' => 8.41996,
     'longitude' => -81.61865,
   ),
-  370 => 
+  336 => 
   array (
     'id' => 80324,
     'name' => 'Lolá',
@@ -3340,7 +3034,7 @@ return array (
     'latitude' => 8.09326,
     'longitude' => -81.47163,
   ),
-  371 => 
+  337 => 
   array (
     'id' => 80325,
     'name' => 'Loma Yuca',
@@ -3349,7 +3043,7 @@ return array (
     'latitude' => 8.71817,
     'longitude' => -81.40492,
   ),
-  372 => 
+  338 => 
   array (
     'id' => 80326,
     'name' => 'Los Algarrobos',
@@ -3358,16 +3052,7 @@ return array (
     'latitude' => 8.49601,
     'longitude' => -82.42417,
   ),
-  373 => 
-  array (
-    'id' => 80327,
-    'name' => 'Los Algarrobos',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.10898,
-    'longitude' => -81.01355,
-  ),
-  374 => 
+  339 => 
   array (
     'id' => 80328,
     'name' => 'Los Anastacios',
@@ -3376,7 +3061,7 @@ return array (
     'latitude' => 8.53027,
     'longitude' => -82.42295,
   ),
-  375 => 
+  340 => 
   array (
     'id' => 80329,
     'name' => 'Los Asientos',
@@ -3385,7 +3070,7 @@ return array (
     'latitude' => 7.51656,
     'longitude' => -80.13521,
   ),
-  376 => 
+  341 => 
   array (
     'id' => 80330,
     'name' => 'Los Canelos',
@@ -3394,7 +3079,7 @@ return array (
     'latitude' => 8.11722,
     'longitude' => -80.70769,
   ),
-  377 => 
+  342 => 
   array (
     'id' => 80331,
     'name' => 'Los Castillos',
@@ -3403,16 +3088,7 @@ return array (
     'latitude' => 7.98565,
     'longitude' => -80.61886,
   ),
-  378 => 
-  array (
-    'id' => 80332,
-    'name' => 'Los Castillos',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.02326,
-    'longitude' => -81.11941,
-  ),
-  379 => 
+  343 => 
   array (
     'id' => 80333,
     'name' => 'Los Cerritos',
@@ -3421,7 +3097,7 @@ return array (
     'latitude' => 7.79746,
     'longitude' => -80.61071,
   ),
-  380 => 
+  344 => 
   array (
     'id' => 80334,
     'name' => 'Los Cerros de Paja',
@@ -3430,7 +3106,7 @@ return array (
     'latitude' => 7.71821,
     'longitude' => -80.67273,
   ),
-  381 => 
+  345 => 
   array (
     'id' => 80335,
     'name' => 'Los Higos',
@@ -3439,7 +3115,7 @@ return array (
     'latitude' => 8.20553,
     'longitude' => -80.86022,
   ),
-  382 => 
+  346 => 
   array (
     'id' => 80336,
     'name' => 'Los Llanitos',
@@ -3448,7 +3124,7 @@ return array (
     'latitude' => 8.59787,
     'longitude' => -80.09503,
   ),
-  383 => 
+  347 => 
   array (
     'id' => 80337,
     'name' => 'Los Lotes',
@@ -3457,7 +3133,7 @@ return array (
     'latitude' => 9.12425,
     'longitude' => -79.28929,
   ),
-  384 => 
+  348 => 
   array (
     'id' => 80338,
     'name' => 'Los Naranjos',
@@ -3466,7 +3142,7 @@ return array (
     'latitude' => 8.7921,
     'longitude' => -82.44665,
   ),
-  385 => 
+  349 => 
   array (
     'id' => 80339,
     'name' => 'Los Olivos',
@@ -3475,7 +3151,7 @@ return array (
     'latitude' => 7.91589,
     'longitude' => -80.48884,
   ),
-  386 => 
+  350 => 
   array (
     'id' => 80340,
     'name' => 'Los Pollos',
@@ -3484,7 +3160,7 @@ return array (
     'latitude' => 8.39898,
     'longitude' => -80.15731,
   ),
-  387 => 
+  351 => 
   array (
     'id' => 80341,
     'name' => 'Los Pozos',
@@ -3493,7 +3169,7 @@ return array (
     'latitude' => 7.783,
     'longitude' => -80.64524,
   ),
-  388 => 
+  352 => 
   array (
     'id' => 80342,
     'name' => 'Los Santos',
@@ -3502,7 +3178,7 @@ return array (
     'latitude' => 7.93333,
     'longitude' => -80.41667,
   ),
-  389 => 
+  353 => 
   array (
     'id' => 80343,
     'name' => 'Los Ángeles',
@@ -3511,16 +3187,7 @@ return array (
     'latitude' => 7.88422,
     'longitude' => -80.35772,
   ),
-  390 => 
-  array (
-    'id' => 80344,
-    'name' => 'Los Ángeles',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.52271,
-    'longitude' => -82.19997,
-  ),
-  391 => 
+  354 => 
   array (
     'id' => 80345,
     'name' => 'Lídice',
@@ -3529,7 +3196,7 @@ return array (
     'latitude' => 8.74869,
     'longitude' => -79.90974,
   ),
-  392 => 
+  355 => 
   array (
     'id' => 80346,
     'name' => 'Macaracas',
@@ -3538,7 +3205,7 @@ return array (
     'latitude' => 7.73168,
     'longitude' => -80.55364,
   ),
-  393 => 
+  356 => 
   array (
     'id' => 80347,
     'name' => 'Manaca Civil',
@@ -3547,7 +3214,7 @@ return array (
     'latitude' => 8.32458,
     'longitude' => -82.8157,
   ),
-  394 => 
+  357 => 
   array (
     'id' => 80348,
     'name' => 'Manaca Norte',
@@ -3556,7 +3223,7 @@ return array (
     'latitude' => 8.33419,
     'longitude' => -82.81003,
   ),
-  395 => 
+  358 => 
   array (
     'id' => 80349,
     'name' => 'Mariato District',
@@ -3565,7 +3232,7 @@ return array (
     'latitude' => 7.6781,
     'longitude' => -81.00409,
   ),
-  396 => 
+  359 => 
   array (
     'id' => 80350,
     'name' => 'María Chiquita',
@@ -3574,7 +3241,7 @@ return array (
     'latitude' => 9.43991,
     'longitude' => -79.75455,
   ),
-  397 => 
+  360 => 
   array (
     'id' => 80351,
     'name' => 'Mata del Nance',
@@ -3583,7 +3250,7 @@ return array (
     'latitude' => 8.45056,
     'longitude' => -82.40057,
   ),
-  398 => 
+  361 => 
   array (
     'id' => 80352,
     'name' => 'Mendoza',
@@ -3592,7 +3259,7 @@ return array (
     'latitude' => 9.01471,
     'longitude' => -79.85073,
   ),
-  399 => 
+  362 => 
   array (
     'id' => 80353,
     'name' => 'Metetí',
@@ -3601,7 +3268,7 @@ return array (
     'latitude' => 8.49909,
     'longitude' => -77.97897,
   ),
-  400 => 
+  363 => 
   array (
     'id' => 80354,
     'name' => 'Miramar',
@@ -3610,16 +3277,7 @@ return array (
     'latitude' => 9.57544,
     'longitude' => -79.33573,
   ),
-  401 => 
-  array (
-    'id' => 80355,
-    'name' => 'Miramar',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.99482,
-    'longitude' => -82.24147,
-  ),
-  402 => 
+  364 => 
   array (
     'id' => 80356,
     'name' => 'Mirono',
@@ -3628,7 +3286,7 @@ return array (
     'latitude' => 8.40469,
     'longitude' => -81.83064,
   ),
-  403 => 
+  365 => 
   array (
     'id' => 80357,
     'name' => 'Mogollón',
@@ -3637,7 +3295,7 @@ return array (
     'latitude' => 7.64261,
     'longitude' => -80.4595,
   ),
-  404 => 
+  366 => 
   array (
     'id' => 80358,
     'name' => 'Monagrillo',
@@ -3646,7 +3304,7 @@ return array (
     'latitude' => 7.98179,
     'longitude' => -80.43764,
   ),
-  405 => 
+  367 => 
   array (
     'id' => 80359,
     'name' => 'Monjarás',
@@ -3655,7 +3313,7 @@ return array (
     'latitude' => 8.36942,
     'longitude' => -80.86667,
   ),
-  406 => 
+  368 => 
   array (
     'id' => 80360,
     'name' => 'Monte Lirio',
@@ -3664,7 +3322,7 @@ return array (
     'latitude' => 8.78935,
     'longitude' => -82.82865,
   ),
-  407 => 
+  369 => 
   array (
     'id' => 80361,
     'name' => 'Montijo',
@@ -3673,7 +3331,7 @@ return array (
     'latitude' => 7.98858,
     'longitude' => -81.05643,
   ),
-  408 => 
+  370 => 
   array (
     'id' => 80362,
     'name' => 'Mortí',
@@ -3682,7 +3340,7 @@ return array (
     'latitude' => 8.84246,
     'longitude' => -77.97539,
   ),
-  409 => 
+  371 => 
   array (
     'id' => 80363,
     'name' => 'Mulatupo',
@@ -3691,7 +3349,7 @@ return array (
     'latitude' => 8.94672,
     'longitude' => -77.7508,
   ),
-  410 => 
+  372 => 
   array (
     'id' => 80364,
     'name' => 'Müna',
@@ -3700,7 +3358,7 @@ return array (
     'latitude' => 8.35035,
     'longitude' => -81.67219,
   ),
-  411 => 
+  373 => 
   array (
     'id' => 80365,
     'name' => 'Narganá',
@@ -3709,7 +3367,7 @@ return array (
     'latitude' => 9.44394,
     'longitude' => -78.58666,
   ),
-  412 => 
+  374 => 
   array (
     'id' => 80366,
     'name' => 'Natá',
@@ -3718,7 +3376,7 @@ return array (
     'latitude' => 8.33209,
     'longitude' => -80.51969,
   ),
-  413 => 
+  375 => 
   array (
     'id' => 80367,
     'name' => 'Nole Düima',
@@ -3727,7 +3385,7 @@ return array (
     'latitude' => 8.32682,
     'longitude' => -81.81531,
   ),
-  414 => 
+  376 => 
   array (
     'id' => 80368,
     'name' => 'Nombre de Dios',
@@ -3736,7 +3394,7 @@ return array (
     'latitude' => 9.57937,
     'longitude' => -79.47109,
   ),
-  415 => 
+  377 => 
   array (
     'id' => 80369,
     'name' => 'Nuario',
@@ -3745,7 +3403,7 @@ return array (
     'latitude' => 7.53047,
     'longitude' => -80.32692,
   ),
-  416 => 
+  378 => 
   array (
     'id' => 80370,
     'name' => 'Nuestro Amo',
@@ -3754,7 +3412,7 @@ return array (
     'latitude' => 8.44485,
     'longitude' => -80.58934,
   ),
-  417 => 
+  379 => 
   array (
     'id' => 80371,
     'name' => 'Nueva Arenosa',
@@ -3763,7 +3421,7 @@ return array (
     'latitude' => 8.86944,
     'longitude' => -79.99472,
   ),
-  418 => 
+  380 => 
   array (
     'id' => 80372,
     'name' => 'Nueva Esperanza',
@@ -3772,7 +3430,7 @@ return array (
     'latitude' => 9.1021,
     'longitude' => -79.33414,
   ),
-  419 => 
+  381 => 
   array (
     'id' => 80373,
     'name' => 'Nueva Gorgona',
@@ -3781,7 +3439,7 @@ return array (
     'latitude' => 8.55,
     'longitude' => -79.87547,
   ),
-  420 => 
+  382 => 
   array (
     'id' => 80374,
     'name' => 'Nuevo Arraiján',
@@ -3790,7 +3448,7 @@ return array (
     'latitude' => 8.92453,
     'longitude' => -79.72004,
   ),
-  421 => 
+  383 => 
   array (
     'id' => 80375,
     'name' => 'Nuevo Belén',
@@ -3799,7 +3457,7 @@ return array (
     'latitude' => 9.07939,
     'longitude' => -79.39556,
   ),
-  422 => 
+  384 => 
   array (
     'id' => 80376,
     'name' => 'Nuevo Chagres',
@@ -3808,7 +3466,7 @@ return array (
     'latitude' => 9.23979,
     'longitude' => -80.08267,
   ),
-  423 => 
+  385 => 
   array (
     'id' => 80377,
     'name' => 'Nuevo Emperador',
@@ -3817,7 +3475,7 @@ return array (
     'latitude' => 9.00273,
     'longitude' => -79.73141,
   ),
-  424 => 
+  386 => 
   array (
     'id' => 80378,
     'name' => 'Nuevo San Carlitos',
@@ -3826,7 +3484,7 @@ return array (
     'latitude' => 8.45698,
     'longitude' => -82.43712,
   ),
-  425 => 
+  387 => 
   array (
     'id' => 80379,
     'name' => 'Nuevo San Juan',
@@ -3835,7 +3493,7 @@ return array (
     'latitude' => 9.22205,
     'longitude' => -79.66602,
   ),
-  426 => 
+  388 => 
   array (
     'id' => 80380,
     'name' => 'Nuevo Vigía',
@@ -3844,7 +3502,7 @@ return array (
     'latitude' => 9.24263,
     'longitude' => -79.60756,
   ),
-  427 => 
+  389 => 
   array (
     'id' => 80381,
     'name' => 'Nurun',
@@ -3853,7 +3511,7 @@ return array (
     'latitude' => 8.47815,
     'longitude' => -81.47015,
   ),
-  428 => 
+  390 => 
   array (
     'id' => 80382,
     'name' => 'Ocú',
@@ -3862,7 +3520,7 @@ return array (
     'latitude' => 7.94052,
     'longitude' => -80.77936,
   ),
-  429 => 
+  391 => 
   array (
     'id' => 80383,
     'name' => 'Olá',
@@ -3871,7 +3529,7 @@ return array (
     'latitude' => 8.41807,
     'longitude' => -80.65123,
   ),
-  430 => 
+  392 => 
   array (
     'id' => 80384,
     'name' => 'Oma',
@@ -3880,7 +3538,7 @@ return array (
     'latitude' => 8.35019,
     'longitude' => -81.80177,
   ),
-  431 => 
+  393 => 
   array (
     'id' => 80385,
     'name' => 'Oria Arriba',
@@ -3889,7 +3547,7 @@ return array (
     'latitude' => 7.50505,
     'longitude' => -80.20567,
   ),
-  432 => 
+  394 => 
   array (
     'id' => 80386,
     'name' => 'Pacora',
@@ -3898,7 +3556,7 @@ return array (
     'latitude' => 9.07937,
     'longitude' => -79.28997,
   ),
-  433 => 
+  395 => 
   array (
     'id' => 80387,
     'name' => 'Paja de Sombrero',
@@ -3907,7 +3565,7 @@ return array (
     'latitude' => 8.68335,
     'longitude' => -82.31911,
   ),
-  434 => 
+  396 => 
   array (
     'id' => 80388,
     'name' => 'Palenque',
@@ -3916,7 +3574,7 @@ return array (
     'latitude' => 9.5697,
     'longitude' => -79.36341,
   ),
-  435 => 
+  397 => 
   array (
     'id' => 80389,
     'name' => 'Palmas Bellas',
@@ -3925,7 +3583,7 @@ return array (
     'latitude' => 9.22838,
     'longitude' => -80.08503,
   ),
-  436 => 
+  398 => 
   array (
     'id' => 80390,
     'name' => 'Palmira',
@@ -3934,25 +3592,7 @@ return array (
     'latitude' => 7.66347,
     'longitude' => -80.35728,
   ),
-  437 => 
-  array (
-    'id' => 80391,
-    'name' => 'Palmira',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.54359,
-    'longitude' => -79.21946,
-  ),
-  438 => 
-  array (
-    'id' => 80392,
-    'name' => 'Palmira',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.73401,
-    'longitude' => -82.45887,
-  ),
-  439 => 
+  399 => 
   array (
     'id' => 80393,
     'name' => 'Palmira Centro',
@@ -3961,7 +3601,7 @@ return array (
     'latitude' => 8.73956,
     'longitude' => -82.45228,
   ),
-  440 => 
+  400 => 
   array (
     'id' => 80394,
     'name' => 'Panamá',
@@ -3970,7 +3610,7 @@ return array (
     'latitude' => 8.9936,
     'longitude' => -79.51973,
   ),
-  441 => 
+  401 => 
   array (
     'id' => 80395,
     'name' => 'Paraíso',
@@ -3979,16 +3619,7 @@ return array (
     'latitude' => 8.65842,
     'longitude' => -82.58625,
   ),
-  442 => 
-  array (
-    'id' => 80396,
-    'name' => 'Paraíso',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.6851,
-    'longitude' => -80.16082,
-  ),
-  443 => 
+  402 => 
   array (
     'id' => 80397,
     'name' => 'Paredón Arriba',
@@ -3997,7 +3628,7 @@ return array (
     'latitude' => 8.45977,
     'longitude' => -81.19592,
   ),
-  444 => 
+  403 => 
   array (
     'id' => 80398,
     'name' => 'Parita',
@@ -4006,7 +3637,7 @@ return array (
     'latitude' => 7.99393,
     'longitude' => -80.52097,
   ),
-  445 => 
+  404 => 
   array (
     'id' => 80399,
     'name' => 'Paritilla',
@@ -4015,7 +3646,7 @@ return array (
     'latitude' => 7.62848,
     'longitude' => -80.1724,
   ),
-  446 => 
+  405 => 
   array (
     'id' => 80400,
     'name' => 'Parque Lefevre',
@@ -4024,7 +3655,7 @@ return array (
     'latitude' => 9.01667,
     'longitude' => -79.48333,
   ),
-  447 => 
+  406 => 
   array (
     'id' => 80401,
     'name' => 'París',
@@ -4033,7 +3664,7 @@ return array (
     'latitude' => 8.05053,
     'longitude' => -80.55409,
   ),
-  448 => 
+  407 => 
   array (
     'id' => 80402,
     'name' => 'Paso Canoas Arriba',
@@ -4042,7 +3673,7 @@ return array (
     'latitude' => 8.56516,
     'longitude' => -82.82214,
   ),
-  449 => 
+  408 => 
   array (
     'id' => 80403,
     'name' => 'Pedasí',
@@ -4051,7 +3682,7 @@ return array (
     'latitude' => 7.53034,
     'longitude' => -80.02699,
   ),
-  450 => 
+  409 => 
   array (
     'id' => 80404,
     'name' => 'Pedregal',
@@ -4060,16 +3691,7 @@ return array (
     'latitude' => 9.06667,
     'longitude' => -79.43333,
   ),
-  451 => 
-  array (
-    'id' => 80405,
-    'name' => 'Pedregal',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.36586,
-    'longitude' => -82.43524,
-  ),
-  452 => 
+  410 => 
   array (
     'id' => 80406,
     'name' => 'Penonomé',
@@ -4078,7 +3700,7 @@ return array (
     'latitude' => 8.51889,
     'longitude' => -80.35727,
   ),
-  453 => 
+  411 => 
   array (
     'id' => 80407,
     'name' => 'Perales',
@@ -4087,7 +3709,7 @@ return array (
     'latitude' => 7.77461,
     'longitude' => -80.32494,
   ),
-  454 => 
+  412 => 
   array (
     'id' => 80408,
     'name' => 'Pesé',
@@ -4096,7 +3718,7 @@ return array (
     'latitude' => 7.90863,
     'longitude' => -80.61433,
   ),
-  455 => 
+  413 => 
   array (
     'id' => 80409,
     'name' => 'Peña Blanca',
@@ -4105,7 +3727,7 @@ return array (
     'latitude' => 7.71931,
     'longitude' => -80.28366,
   ),
-  456 => 
+  414 => 
   array (
     'id' => 80410,
     'name' => 'Peñas Chatas',
@@ -4114,7 +3736,7 @@ return array (
     'latitude' => 8.01502,
     'longitude' => -80.80366,
   ),
-  457 => 
+  415 => 
   array (
     'id' => 80411,
     'name' => 'Piedras Gordas',
@@ -4123,16 +3745,7 @@ return array (
     'latitude' => 8.63777,
     'longitude' => -80.51024,
   ),
-  458 => 
-  array (
-    'id' => 80412,
-    'name' => 'Piedras Gordas',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.52419,
-    'longitude' => -80.91152,
-  ),
-  459 => 
+  416 => 
   array (
     'id' => 80413,
     'name' => 'Pitaloza Arriba',
@@ -4141,7 +3754,7 @@ return array (
     'latitude' => 7.64216,
     'longitude' => -80.66788,
   ),
-  460 => 
+  417 => 
   array (
     'id' => 80414,
     'name' => 'Plan de Chorcha',
@@ -4150,7 +3763,7 @@ return array (
     'latitude' => 8.46168,
     'longitude' => -82.15924,
   ),
-  461 => 
+  418 => 
   array (
     'id' => 80415,
     'name' => 'Playa Chiquita',
@@ -4159,7 +3772,7 @@ return array (
     'latitude' => 9.5662,
     'longitude' => -79.29185,
   ),
-  462 => 
+  419 => 
   array (
     'id' => 80416,
     'name' => 'Playa Leona',
@@ -4168,7 +3781,7 @@ return array (
     'latitude' => 8.78389,
     'longitude' => -79.77547,
   ),
-  463 => 
+  420 => 
   array (
     'id' => 80417,
     'name' => 'Playón Chico',
@@ -4177,7 +3790,7 @@ return array (
     'latitude' => 9.31128,
     'longitude' => -78.2327,
   ),
-  464 => 
+  421 => 
   array (
     'id' => 80418,
     'name' => 'Plaza de Caisán',
@@ -4186,7 +3799,7 @@ return array (
     'latitude' => 8.73672,
     'longitude' => -82.81968,
   ),
-  465 => 
+  422 => 
   array (
     'id' => 80419,
     'name' => 'Pocrí',
@@ -4195,16 +3808,7 @@ return array (
     'latitude' => 7.65816,
     'longitude' => -80.12119,
   ),
-  466 => 
-  array (
-    'id' => 80420,
-    'name' => 'Pocrí',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.25814,
-    'longitude' => -80.55,
-  ),
-  467 => 
+  423 => 
   array (
     'id' => 80421,
     'name' => 'Ponuga',
@@ -4213,7 +3817,7 @@ return array (
     'latitude' => 7.88245,
     'longitude' => -80.9788,
   ),
-  468 => 
+  424 => 
   array (
     'id' => 80422,
     'name' => 'Portobelillo',
@@ -4222,7 +3826,7 @@ return array (
     'latitude' => 8.01738,
     'longitude' => -80.59538,
   ),
-  469 => 
+  425 => 
   array (
     'id' => 80423,
     'name' => 'Portobelo',
@@ -4231,7 +3835,7 @@ return array (
     'latitude' => 9.55303,
     'longitude' => -79.65693,
   ),
-  470 => 
+  426 => 
   array (
     'id' => 80424,
     'name' => 'Potrerillos Abajo',
@@ -4240,7 +3844,7 @@ return array (
     'latitude' => 8.63978,
     'longitude' => -82.4856,
   ),
-  471 => 
+  427 => 
   array (
     'id' => 80425,
     'name' => 'Potrerillos Arriba',
@@ -4249,7 +3853,7 @@ return array (
     'latitude' => 8.68547,
     'longitude' => -82.4909,
   ),
-  472 => 
+  428 => 
   array (
     'id' => 80426,
     'name' => 'Potrero Grande',
@@ -4258,7 +3862,7 @@ return array (
     'latitude' => 8.88051,
     'longitude' => -79.82795,
   ),
-  473 => 
+  429 => 
   array (
     'id' => 80427,
     'name' => 'Potuga',
@@ -4267,7 +3871,7 @@ return array (
     'latitude' => 8.06317,
     'longitude' => -80.62271,
   ),
-  474 => 
+  430 => 
   array (
     'id' => 80428,
     'name' => 'Progreso',
@@ -4276,7 +3880,7 @@ return array (
     'latitude' => 8.44669,
     'longitude' => -82.83859,
   ),
-  475 => 
+  431 => 
   array (
     'id' => 80429,
     'name' => 'Pueblo Nuevo',
@@ -4285,7 +3889,7 @@ return array (
     'latitude' => 8.8807,
     'longitude' => -82.22411,
   ),
-  476 => 
+  432 => 
   array (
     'id' => 80430,
     'name' => 'Pueblo Viejo',
@@ -4294,7 +3898,7 @@ return array (
     'latitude' => 8.25081,
     'longitude' => -81.66259,
   ),
-  477 => 
+  433 => 
   array (
     'id' => 80431,
     'name' => 'Puerto Armuelles',
@@ -4303,7 +3907,7 @@ return array (
     'latitude' => 8.27775,
     'longitude' => -82.86206,
   ),
-  478 => 
+  434 => 
   array (
     'id' => 80432,
     'name' => 'Puerto Caimito',
@@ -4312,7 +3916,7 @@ return array (
     'latitude' => 8.87022,
     'longitude' => -79.71423,
   ),
-  479 => 
+  435 => 
   array (
     'id' => 80433,
     'name' => 'Puerto Escondido',
@@ -4321,7 +3925,7 @@ return array (
     'latitude' => 9.19333,
     'longitude' => -80.08833,
   ),
-  480 => 
+  436 => 
   array (
     'id' => 80434,
     'name' => 'Puerto Obaldía',
@@ -4330,7 +3934,7 @@ return array (
     'latitude' => 8.66632,
     'longitude' => -77.41922,
   ),
-  481 => 
+  437 => 
   array (
     'id' => 80435,
     'name' => 'Puerto Pilón',
@@ -4339,7 +3943,7 @@ return array (
     'latitude' => 9.36316,
     'longitude' => -79.79333,
   ),
-  482 => 
+  438 => 
   array (
     'id' => 80436,
     'name' => 'Puerto Vidal',
@@ -4348,7 +3952,7 @@ return array (
     'latitude' => 8.04834,
     'longitude' => -81.60499,
   ),
-  483 => 
+  439 => 
   array (
     'id' => 80437,
     'name' => 'Punta Laurel',
@@ -4357,7 +3961,7 @@ return array (
     'latitude' => 9.141,
     'longitude' => -82.12717,
   ),
-  484 => 
+  440 => 
   array (
     'id' => 80438,
     'name' => 'Punta Peña',
@@ -4366,7 +3970,7 @@ return array (
     'latitude' => 8.91659,
     'longitude' => -82.18488,
   ),
-  485 => 
+  441 => 
   array (
     'id' => 80439,
     'name' => 'Punta Róbalo',
@@ -4375,7 +3979,7 @@ return array (
     'latitude' => 9.03631,
     'longitude' => -82.24952,
   ),
-  486 => 
+  442 => 
   array (
     'id' => 80440,
     'name' => 'Punta de Burica',
@@ -4384,7 +3988,7 @@ return array (
     'latitude' => 8.03333,
     'longitude' => -82.86667,
   ),
-  487 => 
+  443 => 
   array (
     'id' => 80441,
     'name' => 'Pásiga',
@@ -4393,7 +3997,7 @@ return array (
     'latitude' => 8.93647,
     'longitude' => -78.90917,
   ),
-  488 => 
+  444 => 
   array (
     'id' => 80442,
     'name' => 'Púcuro',
@@ -4402,7 +4006,7 @@ return array (
     'latitude' => 7.97876,
     'longitude' => -77.48758,
   ),
-  489 => 
+  445 => 
   array (
     'id' => 80443,
     'name' => 'Quebrada Bonita Adentro',
@@ -4411,7 +4015,7 @@ return array (
     'latitude' => 9.29662,
     'longitude' => -79.70606,
   ),
-  490 => 
+  446 => 
   array (
     'id' => 80444,
     'name' => 'Quebrada Canoa',
@@ -4420,7 +4024,7 @@ return array (
     'latitude' => 8.43333,
     'longitude' => -81.78333,
   ),
-  491 => 
+  447 => 
   array (
     'id' => 80445,
     'name' => 'Quebrada Tula',
@@ -4429,7 +4033,7 @@ return array (
     'latitude' => 8.84037,
     'longitude' => -81.99645,
   ),
-  492 => 
+  448 => 
   array (
     'id' => 80446,
     'name' => 'Quebrada de Oro',
@@ -4438,7 +4042,7 @@ return array (
     'latitude' => 8.03548,
     'longitude' => -81.38692,
   ),
-  493 => 
+  449 => 
   array (
     'id' => 80447,
     'name' => 'Quebrada de Piedra',
@@ -4447,7 +4051,7 @@ return array (
     'latitude' => 8.09418,
     'longitude' => -81.67915,
   ),
-  494 => 
+  450 => 
   array (
     'id' => 80448,
     'name' => 'Quebrada del Rosario',
@@ -4456,7 +4060,7 @@ return array (
     'latitude' => 7.71238,
     'longitude' => -80.74222,
   ),
-  495 => 
+  451 => 
   array (
     'id' => 80449,
     'name' => 'Querévalo',
@@ -4465,7 +4069,7 @@ return array (
     'latitude' => 8.37174,
     'longitude' => -82.5267,
   ),
-  496 => 
+  452 => 
   array (
     'id' => 80450,
     'name' => 'Quinteño',
@@ -4474,7 +4078,7 @@ return array (
     'latitude' => 8.47102,
     'longitude' => -82.39352,
   ),
-  497 => 
+  453 => 
   array (
     'id' => 80451,
     'name' => 'Remedios',
@@ -4483,7 +4087,7 @@ return array (
     'latitude' => 8.22436,
     'longitude' => -81.82747,
   ),
-  498 => 
+  454 => 
   array (
     'id' => 80452,
     'name' => 'Rincón',
@@ -4492,7 +4096,7 @@ return array (
     'latitude' => 8.46374,
     'longitude' => -82.27951,
   ),
-  499 => 
+  455 => 
   array (
     'id' => 80453,
     'name' => 'Rincón Hondo',
@@ -4501,7 +4105,7 @@ return array (
     'latitude' => 7.84436,
     'longitude' => -80.60397,
   ),
-  500 => 
+  456 => 
   array (
     'id' => 80454,
     'name' => 'Rodeo Viejo',
@@ -4510,7 +4114,7 @@ return array (
     'latitude' => 8.11205,
     'longitude' => -81.31684,
   ),
-  501 => 
+  457 => 
   array (
     'id' => 80455,
     'name' => 'Rovira Arriba',
@@ -4519,7 +4123,7 @@ return array (
     'latitude' => 8.63822,
     'longitude' => -82.49965,
   ),
-  502 => 
+  458 => 
   array (
     'id' => 80456,
     'name' => 'Río Abajo',
@@ -4528,7 +4132,7 @@ return array (
     'latitude' => 9.01667,
     'longitude' => -79.5,
   ),
-  503 => 
+  459 => 
   array (
     'id' => 80457,
     'name' => 'Río Alejandro',
@@ -4537,7 +4141,7 @@ return array (
     'latitude' => 9.37149,
     'longitude' => -79.78809,
   ),
-  504 => 
+  460 => 
   array (
     'id' => 80458,
     'name' => 'Río Congo',
@@ -4546,7 +4150,7 @@ return array (
     'latitude' => 8.96666,
     'longitude' => -79.76105,
   ),
-  505 => 
+  461 => 
   array (
     'id' => 80459,
     'name' => 'Río Duque',
@@ -4555,7 +4159,7 @@ return array (
     'latitude' => 9.25688,
     'longitude' => -79.67937,
   ),
-  506 => 
+  462 => 
   array (
     'id' => 80460,
     'name' => 'Río Grande',
@@ -4564,16 +4168,7 @@ return array (
     'latitude' => 8.42679,
     'longitude' => -80.48457,
   ),
-  507 => 
-  array (
-    'id' => 80461,
-    'name' => 'Río Grande',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.71907,
-    'longitude' => -81.33423,
-  ),
-  508 => 
+  463 => 
   array (
     'id' => 80462,
     'name' => 'Río Hato',
@@ -4582,7 +4177,7 @@ return array (
     'latitude' => 8.3794,
     'longitude' => -80.16621,
   ),
-  509 => 
+  464 => 
   array (
     'id' => 80463,
     'name' => 'Río Hondo',
@@ -4591,7 +4186,7 @@ return array (
     'latitude' => 7.71192,
     'longitude' => -80.35904,
   ),
-  510 => 
+  465 => 
   array (
     'id' => 80464,
     'name' => 'Río Rita',
@@ -4600,7 +4195,7 @@ return array (
     'latitude' => 9.30296,
     'longitude' => -79.79234,
   ),
-  511 => 
+  466 => 
   array (
     'id' => 80465,
     'name' => 'Río Sereno',
@@ -4609,7 +4204,7 @@ return array (
     'latitude' => 8.81741,
     'longitude' => -82.85731,
   ),
-  512 => 
+  467 => 
   array (
     'id' => 80466,
     'name' => 'Río de Jesús',
@@ -4618,7 +4213,7 @@ return array (
     'latitude' => 7.97882,
     'longitude' => -81.16162,
   ),
-  513 => 
+  468 => 
   array (
     'id' => 80467,
     'name' => 'Sabana Grande',
@@ -4627,16 +4222,7 @@ return array (
     'latitude' => 7.88002,
     'longitude' => -80.63818,
   ),
-  514 => 
-  array (
-    'id' => 80468,
-    'name' => 'Sabana Grande',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 7.83543,
-    'longitude' => -80.3649,
-  ),
-  515 => 
+  469 => 
   array (
     'id' => 80469,
     'name' => 'Sabanitas',
@@ -4645,7 +4231,7 @@ return array (
     'latitude' => 9.34269,
     'longitude' => -79.80961,
   ),
-  516 => 
+  470 => 
   array (
     'id' => 80470,
     'name' => 'Sambú',
@@ -4654,7 +4240,7 @@ return array (
     'latitude' => 7.82013,
     'longitude' => -78.11005,
   ),
-  517 => 
+  471 => 
   array (
     'id' => 80471,
     'name' => 'San Andrés',
@@ -4663,7 +4249,7 @@ return array (
     'latitude' => 8.6026,
     'longitude' => -82.72588,
   ),
-  518 => 
+  472 => 
   array (
     'id' => 80472,
     'name' => 'San Antonio',
@@ -4672,7 +4258,7 @@ return array (
     'latitude' => 9.1729,
     'longitude' => -79.54743,
   ),
-  519 => 
+  473 => 
   array (
     'id' => 80473,
     'name' => 'San Bartolo',
@@ -4681,7 +4267,7 @@ return array (
     'latitude' => 8.21063,
     'longitude' => -81.27572,
   ),
-  520 => 
+  474 => 
   array (
     'id' => 80474,
     'name' => 'San Carlos',
@@ -4690,16 +4276,7 @@ return array (
     'latitude' => 8.51663,
     'longitude' => -82.50906,
   ),
-  521 => 
-  array (
-    'id' => 80475,
-    'name' => 'San Carlos',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.47323,
-    'longitude' => -79.96104,
-  ),
-  522 => 
+  475 => 
   array (
     'id' => 80476,
     'name' => 'San Felipe',
@@ -4708,7 +4285,7 @@ return array (
     'latitude' => 8.95118,
     'longitude' => -79.53726,
   ),
-  523 => 
+  476 => 
   array (
     'id' => 80477,
     'name' => 'San Francisco',
@@ -4717,7 +4294,7 @@ return array (
     'latitude' => 8.06667,
     'longitude' => -81.36667,
   ),
-  524 => 
+  477 => 
   array (
     'id' => 80478,
     'name' => 'San Félix',
@@ -4726,7 +4303,7 @@ return array (
     'latitude' => 8.29063,
     'longitude' => -81.86702,
   ),
-  525 => 
+  478 => 
   array (
     'id' => 80479,
     'name' => 'San Ignacio de Tupile',
@@ -4735,7 +4312,7 @@ return array (
     'latitude' => 9.28905,
     'longitude' => -78.15206,
   ),
-  526 => 
+  479 => 
   array (
     'id' => 80480,
     'name' => 'San Isidro',
@@ -4744,7 +4321,7 @@ return array (
     'latitude' => 8.53032,
     'longitude' => -82.8272,
   ),
-  527 => 
+  480 => 
   array (
     'id' => 80481,
     'name' => 'San José',
@@ -4753,25 +4330,7 @@ return array (
     'latitude' => 7.67395,
     'longitude' => -80.24438,
   ),
-  528 => 
-  array (
-    'id' => 80482,
-    'name' => 'San José',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.46704,
-    'longitude' => -80.80514,
-  ),
-  529 => 
-  array (
-    'id' => 80483,
-    'name' => 'San José',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.93333,
-    'longitude' => -79.73333,
-  ),
-  530 => 
+  481 => 
   array (
     'id' => 80484,
     'name' => 'San Juan',
@@ -4780,7 +4339,7 @@ return array (
     'latitude' => 8.30311,
     'longitude' => -81.01575,
   ),
-  531 => 
+  482 => 
   array (
     'id' => 80485,
     'name' => 'San Juan Bautista',
@@ -4789,7 +4348,7 @@ return array (
     'latitude' => 7.96099,
     'longitude' => -80.41283,
   ),
-  532 => 
+  483 => 
   array (
     'id' => 80486,
     'name' => 'San Juan de Dios',
@@ -4798,7 +4357,7 @@ return array (
     'latitude' => 8.55119,
     'longitude' => -80.22623,
   ),
-  533 => 
+  484 => 
   array (
     'id' => 80487,
     'name' => 'San Lorenzo',
@@ -4807,7 +4366,7 @@ return array (
     'latitude' => 8.30561,
     'longitude' => -82.10114,
   ),
-  534 => 
+  485 => 
   array (
     'id' => 80488,
     'name' => 'San Marcelo',
@@ -4816,7 +4375,7 @@ return array (
     'latitude' => 8.27252,
     'longitude' => -81.15988,
   ),
-  535 => 
+  486 => 
   array (
     'id' => 80489,
     'name' => 'San Miguel',
@@ -4825,7 +4384,7 @@ return array (
     'latitude' => 8.45685,
     'longitude' => -78.93695,
   ),
-  536 => 
+  487 => 
   array (
     'id' => 80490,
     'name' => 'San Miguelito',
@@ -4834,7 +4393,7 @@ return array (
     'latitude' => 9.05032,
     'longitude' => -79.47068,
   ),
-  537 => 
+  488 => 
   array (
     'id' => 80491,
     'name' => 'San Pablo Nuevo Abajo',
@@ -4843,7 +4402,7 @@ return array (
     'latitude' => 8.42558,
     'longitude' => -82.50173,
   ),
-  538 => 
+  489 => 
   array (
     'id' => 80492,
     'name' => 'San Pablo Viejo Abajo',
@@ -4852,7 +4411,7 @@ return array (
     'latitude' => 8.45339,
     'longitude' => -82.50179,
   ),
-  539 => 
+  490 => 
   array (
     'id' => 80493,
     'name' => 'San Pedro del Espino',
@@ -4861,7 +4420,7 @@ return array (
     'latitude' => 8.14011,
     'longitude' => -81.08663,
   ),
-  540 => 
+  491 => 
   array (
     'id' => 80494,
     'name' => 'San Vicente',
@@ -4870,7 +4429,7 @@ return array (
     'latitude' => 9.11445,
     'longitude' => -79.59755,
   ),
-  541 => 
+  492 => 
   array (
     'id' => 80495,
     'name' => 'San Vicente de Bique',
@@ -4879,7 +4438,7 @@ return array (
     'latitude' => 8.91143,
     'longitude' => -79.6736,
   ),
-  542 => 
+  493 => 
   array (
     'id' => 80496,
     'name' => 'Santa Ana Arriba',
@@ -4888,7 +4447,7 @@ return array (
     'latitude' => 7.933,
     'longitude' => -80.36369,
   ),
-  543 => 
+  494 => 
   array (
     'id' => 80497,
     'name' => 'Santa Clara',
@@ -4897,16 +4456,7 @@ return array (
     'latitude' => 8.83376,
     'longitude' => -82.77945,
   ),
-  544 => 
-  array (
-    'id' => 80498,
-    'name' => 'Santa Clara',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.02875,
-    'longitude' => -79.75443,
-  ),
-  545 => 
+  495 => 
   array (
     'id' => 80499,
     'name' => 'Santa Cruz',
@@ -4915,7 +4465,7 @@ return array (
     'latitude' => 8.23219,
     'longitude' => -81.91323,
   ),
-  546 => 
+  496 => 
   array (
     'id' => 80500,
     'name' => 'Santa Fé',
@@ -4924,16 +4474,7 @@ return array (
     'latitude' => 8.65525,
     'longitude' => -78.1614,
   ),
-  547 => 
-  array (
-    'id' => 80501,
-    'name' => 'Santa Fé',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.51063,
-    'longitude' => -81.07802,
-  ),
-  548 => 
+  497 => 
   array (
     'id' => 80502,
     'name' => 'Santa Isabel',
@@ -4942,7 +4483,7 @@ return array (
     'latitude' => 9.53922,
     'longitude' => -79.1957,
   ),
-  549 => 
+  498 => 
   array (
     'id' => 80503,
     'name' => 'Santa Marta',
@@ -4951,7 +4492,7 @@ return array (
     'latitude' => 8.51406,
     'longitude' => -82.6987,
   ),
-  550 => 
+  499 => 
   array (
     'id' => 80504,
     'name' => 'Santa María',
@@ -4960,7 +4501,7 @@ return array (
     'latitude' => 8.11143,
     'longitude' => -80.66582,
   ),
-  551 => 
+  500 => 
   array (
     'id' => 80505,
     'name' => 'Santa Rita',
@@ -4969,7 +4510,7 @@ return array (
     'latitude' => 8.85681,
     'longitude' => -79.87954,
   ),
-  552 => 
+  501 => 
   array (
     'id' => 80506,
     'name' => 'Santa Rita Arriba',
@@ -4978,7 +4519,7 @@ return array (
     'latitude' => 9.33032,
     'longitude' => -79.79363,
   ),
-  553 => 
+  502 => 
   array (
     'id' => 80507,
     'name' => 'Santa Rosa',
@@ -4987,7 +4528,7 @@ return array (
     'latitude' => 8.59958,
     'longitude' => -82.68489,
   ),
-  554 => 
+  503 => 
   array (
     'id' => 80508,
     'name' => 'Santiago de Veraguas',
@@ -4996,7 +4537,7 @@ return array (
     'latitude' => 8.1,
     'longitude' => -80.98333,
   ),
-  555 => 
+  504 => 
   array (
     'id' => 80509,
     'name' => 'Santo Domingo',
@@ -5005,16 +4546,7 @@ return array (
     'latitude' => 7.74614,
     'longitude' => -80.24173,
   ),
-  556 => 
-  array (
-    'id' => 80510,
-    'name' => 'Santo Domingo',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 8.50803,
-    'longitude' => -82.71295,
-  ),
-  557 => 
+  505 => 
   array (
     'id' => 80511,
     'name' => 'Santo Tomás',
@@ -5023,7 +4555,7 @@ return array (
     'latitude' => 8.38959,
     'longitude' => -82.65058,
   ),
-  558 => 
+  506 => 
   array (
     'id' => 80512,
     'name' => 'Sesteadero',
@@ -5032,7 +4564,7 @@ return array (
     'latitude' => 7.73885,
     'longitude' => -80.24854,
   ),
-  559 => 
+  507 => 
   array (
     'id' => 80513,
     'name' => 'Sioguí Abajo',
@@ -5041,7 +4573,7 @@ return array (
     'latitude' => 8.48678,
     'longitude' => -82.66539,
   ),
-  560 => 
+  508 => 
   array (
     'id' => 80514,
     'name' => 'Sioguí Arriba',
@@ -5050,7 +4582,7 @@ return array (
     'latitude' => 8.53865,
     'longitude' => -82.68619,
   ),
-  561 => 
+  509 => 
   array (
     'id' => 80515,
     'name' => 'Sitio Prado',
@@ -5059,7 +4591,7 @@ return array (
     'latitude' => 8.37233,
     'longitude' => -81.58141,
   ),
-  562 => 
+  510 => 
   array (
     'id' => 80516,
     'name' => 'Soná',
@@ -5068,7 +4600,7 @@ return array (
     'latitude' => 8.01223,
     'longitude' => -81.32163,
   ),
-  563 => 
+  511 => 
   array (
     'id' => 80517,
     'name' => 'Sortova',
@@ -5077,7 +4609,7 @@ return array (
     'latitude' => 8.54642,
     'longitude' => -82.6517,
   ),
-  564 => 
+  512 => 
   array (
     'id' => 80518,
     'name' => 'Sorá',
@@ -5086,7 +4618,7 @@ return array (
     'latitude' => 8.63191,
     'longitude' => -80.00888,
   ),
-  565 => 
+  513 => 
   array (
     'id' => 80519,
     'name' => 'Tebario',
@@ -5095,7 +4627,7 @@ return array (
     'latitude' => 7.71369,
     'longitude' => -80.97825,
   ),
-  566 => 
+  514 => 
   array (
     'id' => 80520,
     'name' => 'Tijeras',
@@ -5104,7 +4636,7 @@ return array (
     'latitude' => 8.47514,
     'longitude' => -82.56058,
   ),
-  567 => 
+  515 => 
   array (
     'id' => 80521,
     'name' => 'Tinajas',
@@ -5113,7 +4645,7 @@ return array (
     'latitude' => 8.55281,
     'longitude' => -82.45963,
   ),
-  568 => 
+  516 => 
   array (
     'id' => 80522,
     'name' => 'Toabré',
@@ -5122,7 +4654,7 @@ return array (
     'latitude' => 8.65131,
     'longitude' => -80.32017,
   ),
-  569 => 
+  517 => 
   array (
     'id' => 80523,
     'name' => 'Tobobe',
@@ -5131,7 +4663,7 @@ return array (
     'latitude' => 9.12111,
     'longitude' => -81.82471,
   ),
-  570 => 
+  518 => 
   array (
     'id' => 80524,
     'name' => 'Tocumen',
@@ -5140,7 +4672,7 @@ return array (
     'latitude' => 9.08939,
     'longitude' => -79.3831,
   ),
-  571 => 
+  519 => 
   array (
     'id' => 80525,
     'name' => 'Tolé',
@@ -5149,7 +4681,7 @@ return array (
     'latitude' => 8.23989,
     'longitude' => -81.67168,
   ),
-  572 => 
+  520 => 
   array (
     'id' => 80526,
     'name' => 'Tonosí',
@@ -5158,7 +4690,7 @@ return array (
     'latitude' => 7.40684,
     'longitude' => -80.44217,
   ),
-  573 => 
+  521 => 
   array (
     'id' => 80527,
     'name' => 'Tortí',
@@ -5167,7 +4699,7 @@ return array (
     'latitude' => 8.92132,
     'longitude' => -78.40546,
   ),
-  574 => 
+  522 => 
   array (
     'id' => 80528,
     'name' => 'Toza',
@@ -5176,7 +4708,7 @@ return array (
     'latitude' => 8.34542,
     'longitude' => -80.64012,
   ),
-  575 => 
+  523 => 
   array (
     'id' => 80529,
     'name' => 'Tres Quebradas',
@@ -5185,7 +4717,7 @@ return array (
     'latitude' => 7.84018,
     'longitude' => -80.4074,
   ),
-  576 => 
+  524 => 
   array (
     'id' => 80530,
     'name' => 'Tubualá',
@@ -5194,7 +4726,7 @@ return array (
     'latitude' => 9.51667,
     'longitude' => -79.03333,
   ),
-  577 => 
+  525 => 
   array (
     'id' => 80531,
     'name' => 'Unión Chocó',
@@ -5203,7 +4735,7 @@ return array (
     'latitude' => 8.08404,
     'longitude' => -77.53507,
   ),
-  578 => 
+  526 => 
   array (
     'id' => 80532,
     'name' => 'Unión Santeña',
@@ -5212,7 +4744,7 @@ return array (
     'latitude' => 8.83525,
     'longitude' => -78.65104,
   ),
-  579 => 
+  527 => 
   array (
     'id' => 80533,
     'name' => 'Unión de Azuero',
@@ -5221,7 +4753,7 @@ return array (
     'latitude' => 9.15256,
     'longitude' => -79.17005,
   ),
-  580 => 
+  528 => 
   array (
     'id' => 80534,
     'name' => 'Ustupo',
@@ -5230,7 +4762,7 @@ return array (
     'latitude' => 9.13112,
     'longitude' => -77.9262,
   ),
-  581 => 
+  529 => 
   array (
     'id' => 80535,
     'name' => 'Utirá',
@@ -5239,7 +4771,7 @@ return array (
     'latitude' => 7.97208,
     'longitude' => -81.21777,
   ),
-  582 => 
+  530 => 
   array (
     'id' => 80536,
     'name' => 'Valle Rico',
@@ -5248,7 +4780,7 @@ return array (
     'latitude' => 7.62011,
     'longitude' => -80.35076,
   ),
-  583 => 
+  531 => 
   array (
     'id' => 80537,
     'name' => 'Valle del Risco',
@@ -5257,7 +4789,7 @@ return array (
     'latitude' => 9.23064,
     'longitude' => -82.42748,
   ),
-  584 => 
+  532 => 
   array (
     'id' => 80538,
     'name' => 'Vallerriquito',
@@ -5266,7 +4798,7 @@ return array (
     'latitude' => 7.62163,
     'longitude' => -80.31975,
   ),
-  585 => 
+  533 => 
   array (
     'id' => 80539,
     'name' => 'Veladero',
@@ -5275,7 +4807,7 @@ return array (
     'latitude' => 8.23136,
     'longitude' => -81.65417,
   ),
-  586 => 
+  534 => 
   array (
     'id' => 80540,
     'name' => 'Veracruz',
@@ -5284,7 +4816,7 @@ return array (
     'latitude' => 8.88988,
     'longitude' => -79.62603,
   ),
-  587 => 
+  535 => 
   array (
     'id' => 80541,
     'name' => 'Viento Frío',
@@ -5293,7 +4825,7 @@ return array (
     'latitude' => 9.58263,
     'longitude' => -79.4069,
   ),
-  588 => 
+  536 => 
   array (
     'id' => 80542,
     'name' => 'Viguí',
@@ -5302,7 +4834,7 @@ return array (
     'latitude' => 8.33921,
     'longitude' => -81.49823,
   ),
-  589 => 
+  537 => 
   array (
     'id' => 80543,
     'name' => 'Villa Carmen',
@@ -5311,7 +4843,7 @@ return array (
     'latitude' => 8.79832,
     'longitude' => -79.86929,
   ),
-  590 => 
+  538 => 
   array (
     'id' => 80544,
     'name' => 'Villa Lourdes',
@@ -5320,7 +4852,7 @@ return array (
     'latitude' => 7.81141,
     'longitude' => -80.47029,
   ),
-  591 => 
+  539 => 
   array (
     'id' => 80545,
     'name' => 'Villa Rosario',
@@ -5329,7 +4861,7 @@ return array (
     'latitude' => 8.77379,
     'longitude' => -79.87547,
   ),
-  592 => 
+  540 => 
   array (
     'id' => 80546,
     'name' => 'Villa Unida',
@@ -5338,7 +4870,7 @@ return array (
     'latitude' => 9.18908,
     'longitude' => -79.62452,
   ),
-  593 => 
+  541 => 
   array (
     'id' => 80547,
     'name' => 'Vista Alegre',
@@ -5347,7 +4879,7 @@ return array (
     'latitude' => 8.92772,
     'longitude' => -79.7028,
   ),
-  594 => 
+  542 => 
   array (
     'id' => 80548,
     'name' => 'Vista Hermosa',
@@ -5356,16 +4888,7 @@ return array (
     'latitude' => 8.52687,
     'longitude' => -80.37486,
   ),
-  595 => 
-  array (
-    'id' => 80549,
-    'name' => 'Vista Hermosa',
-    'country_id' => 170,
-    'country_code' => 'PA',
-    'latitude' => 9.11178,
-    'longitude' => -79.36113,
-  ),
-  596 => 
+  543 => 
   array (
     'id' => 80550,
     'name' => 'Volcán',
@@ -5374,7 +4897,7 @@ return array (
     'latitude' => 8.77291,
     'longitude' => -82.63823,
   ),
-  597 => 
+  544 => 
   array (
     'id' => 80551,
     'name' => 'Yape',
@@ -5383,7 +4906,7 @@ return array (
     'latitude' => 8.09839,
     'longitude' => -77.59817,
   ),
-  598 => 
+  545 => 
   array (
     'id' => 80552,
     'name' => 'Yaviza',
@@ -5392,7 +4915,7 @@ return array (
     'latitude' => 8.15835,
     'longitude' => -77.69276,
   ),
-  599 => 
+  546 => 
   array (
     'id' => 80553,
     'name' => 'Zapotillo',

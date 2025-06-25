@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -2316,15 +2316,6 @@ return array (
   ),
   257 => 
   array (
-    'id' => 146189,
-    'name' => 'Djamaa',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 33.5313787,
-    'longitude' => 5.9909821,
-  ),
-  258 => 
-  array (
     'id' => 146190,
     'name' => 'El Bour',
     'country_id' => 4,
@@ -2332,16 +2323,7 @@ return array (
     'latitude' => 32.16305556,
     'longitude' => 5.34527778,
   ),
-  259 => 
-  array (
-    'id' => 146191,
-    'name' => 'El Hadjira',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 32.61666667,
-    'longitude' => 5.51666667,
-  ),
-  260 => 
+  258 => 
   array (
     'id' => 146192,
     'name' => 'Haoud El Hamra',
@@ -2350,16 +2332,7 @@ return array (
     'latitude' => 31.88944444,
     'longitude' => 5.97305556,
   ),
-  261 => 
-  array (
-    'id' => 146193,
-    'name' => 'Hassi Messaoud',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 31.7,
-    'longitude' => 6.06666667,
-  ),
-  262 => 
+  259 => 
   array (
     'id' => 146194,
     'name' => 'Lamtar',
@@ -2368,7 +2341,7 @@ return array (
     'latitude' => 35.070627,
     'longitude' => -0.79814,
   ),
-  263 => 
+  260 => 
   array (
     'id' => 146195,
     'name' => 'Marhoum',
@@ -2377,16 +2350,7 @@ return array (
     'latitude' => 34.4460042,
     'longitude' => -0.1950244,
   ),
-  264 => 
-  array (
-    'id' => 146196,
-    'name' => 'Megarine',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 33.1926232,
-    'longitude' => 6.0934639,
-  ),
-  265 => 
+  261 => 
   array (
     'id' => 146197,
     'name' => 'Merine',
@@ -2395,7 +2359,7 @@ return array (
     'latitude' => 34.7807472,
     'longitude' => -0.4510403,
   ),
-  266 => 
+  262 => 
   array (
     'id' => 146198,
     'name' => 'Mezaourou',
@@ -2404,7 +2368,7 @@ return array (
     'latitude' => 34.8173267,
     'longitude' => -0.6233189,
   ),
-  267 => 
+  263 => 
   array (
     'id' => 146199,
     'name' => 'Moggar',
@@ -2413,7 +2377,7 @@ return array (
     'latitude' => 33.26722222,
     'longitude' => 6.06777778,
   ),
-  268 => 
+  264 => 
   array (
     'id' => 146200,
     'name' => 'Moulay Slissen',
@@ -2422,7 +2386,7 @@ return array (
     'latitude' => 34.81666667,
     'longitude' => -0.76666667,
   ),
-  269 => 
+  265 => 
   array (
     'id' => 146201,
     'name' => 'N\\\'Goussa',
@@ -2431,25 +2395,7 @@ return array (
     'latitude' => 32.1408797,
     'longitude' => 5.3082848,
   ),
-  270 => 
-  array (
-    'id' => 146202,
-    'name' => 'Ouargla',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 31.95,
-    'longitude' => 5.31666667,
-  ),
-  271 => 
-  array (
-    'id' => 146203,
-    'name' => 'Rouissat',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 31.936576,
-    'longitude' => 5.3354073,
-  ),
-  272 => 
+  266 => 
   array (
     'id' => 146204,
     'name' => 'Sfissef',
@@ -2458,7 +2404,7 @@ return array (
     'latitude' => 35.2344028,
     'longitude' => -0.2434158,
   ),
-  273 => 
+  267 => 
   array (
     'id' => 146205,
     'name' => 'Sidi Ali Boussidi',
@@ -2467,16 +2413,7 @@ return array (
     'latitude' => 35.1,
     'longitude' => -0.83333333,
   ),
-  274 => 
-  array (
-    'id' => 146206,
-    'name' => 'Sidi Amrane',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 33.5,
-    'longitude' => 6.01666667,
-  ),
-  275 => 
+  268 => 
   array (
     'id' => 146207,
     'name' => 'Sidi Bel Abbès',
@@ -2485,7 +2422,7 @@ return array (
     'latitude' => 35.2,
     'longitude' => -0.63333333,
   ),
-  276 => 
+  269 => 
   array (
     'id' => 146208,
     'name' => 'Sidi Brahim',
@@ -2494,7 +2431,7 @@ return array (
     'latitude' => 35.260556,
     'longitude' => -0.5675,
   ),
-  277 => 
+  270 => 
   array (
     'id' => 146209,
     'name' => 'Sidi Hamadouche',
@@ -2503,7 +2440,7 @@ return array (
     'latitude' => 35.29916667,
     'longitude' => -0.54888889,
   ),
-  278 => 
+  271 => 
   array (
     'id' => 146210,
     'name' => 'Sidi Slimane',
@@ -2512,7 +2449,7 @@ return array (
     'latitude' => 33.28861111,
     'longitude' => 6.09472222,
   ),
-  279 => 
+  272 => 
   array (
     'id' => 146211,
     'name' => 'Sidi Yacoub',
@@ -2521,7 +2458,7 @@ return array (
     'latitude' => 35.13333333,
     'longitude' => -0.78333333,
   ),
-  280 => 
+  273 => 
   array (
     'id' => 146212,
     'name' => 'Sidi Yahia',
@@ -2530,7 +2467,7 @@ return array (
     'latitude' => 33.52166667,
     'longitude' => 5.94555556,
   ),
-  281 => 
+  274 => 
   array (
     'id' => 146213,
     'name' => 'Tabia Sid Bel Abbés',
@@ -2539,7 +2476,7 @@ return array (
     'latitude' => 35.0178366,
     'longitude' => -0.7338524,
   ),
-  282 => 
+  275 => 
   array (
     'id' => 146214,
     'name' => 'Taibet',
@@ -2548,7 +2485,7 @@ return array (
     'latitude' => 33.0839189,
     'longitude' => 6.3999653,
   ),
-  283 => 
+  276 => 
   array (
     'id' => 146215,
     'name' => 'Tamellaht',
@@ -2557,7 +2494,7 @@ return array (
     'latitude' => 33.0119,
     'longitude' => 6.00972,
   ),
-  284 => 
+  277 => 
   array (
     'id' => 146216,
     'name' => 'Tamerna Djedida',
@@ -2566,16 +2503,7 @@ return array (
     'latitude' => 33.4464,
     'longitude' => 5.95639,
   ),
-  285 => 
-  array (
-    'id' => 146217,
-    'name' => 'Tebesbest',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 33.1200129,
-    'longitude' => 6.0800743,
-  ),
-  286 => 
+  278 => 
   array (
     'id' => 146218,
     'name' => 'Teghalimet',
@@ -2584,7 +2512,7 @@ return array (
     'latitude' => 34.882833,
     'longitude' => -0.5600023,
   ),
-  287 => 
+  279 => 
   array (
     'id' => 146219,
     'name' => 'Telagh',
@@ -2593,7 +2521,7 @@ return array (
     'latitude' => 34.7849064,
     'longitude' => -0.5731773,
   ),
-  288 => 
+  280 => 
   array (
     'id' => 146220,
     'name' => 'Tenezara',
@@ -2602,7 +2530,7 @@ return array (
     'latitude' => 34.9634117,
     'longitude' => -0.6144619,
   ),
-  289 => 
+  281 => 
   array (
     'id' => 146221,
     'name' => 'Tenira',
@@ -2611,7 +2539,7 @@ return array (
     'latitude' => 35.0196642,
     'longitude' => -0.5320644,
   ),
-  290 => 
+  282 => 
   array (
     'id' => 146222,
     'name' => 'Tessala',
@@ -2620,16 +2548,7 @@ return array (
     'latitude' => 35.243,
     'longitude' => -0.773163,
   ),
-  291 => 
-  array (
-    'id' => 146223,
-    'name' => 'Touggourt',
-    'country_id' => 4,
-    'country_code' => 'DZ',
-    'latitude' => 33.1,
-    'longitude' => 6.06666667,
-  ),
-  292 => 
+  283 => 
   array (
     'id' => 146224,
     'name' => 'Zerouala',

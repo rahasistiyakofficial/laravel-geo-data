@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -3459,15 +3459,6 @@ return array (
   ),
   384 => 
   array (
-    'id' => 85718,
-    'name' => 'Shorkot',
-    'country_id' => 167,
-    'country_code' => 'PK',
-    'latitude' => 31.91023,
-    'longitude' => 70.87757,
-  ),
-  385 => 
-  array (
     'id' => 85719,
     'name' => 'Shujaabad',
     'country_id' => 167,
@@ -3475,7 +3466,7 @@ return array (
     'latitude' => 29.88092,
     'longitude' => 71.29344,
   ),
-  386 => 
+  385 => 
   array (
     'id' => 85720,
     'name' => 'Sialkot',
@@ -3484,7 +3475,7 @@ return array (
     'latitude' => 32.49268,
     'longitude' => 74.53134,
   ),
-  387 => 
+  386 => 
   array (
     'id' => 85721,
     'name' => 'Sibi',
@@ -3493,7 +3484,7 @@ return array (
     'latitude' => 29.54299,
     'longitude' => 67.87726,
   ),
-  388 => 
+  387 => 
   array (
     'id' => 85722,
     'name' => 'Sillanwali',
@@ -3502,7 +3493,7 @@ return array (
     'latitude' => 31.82539,
     'longitude' => 72.54064,
   ),
-  389 => 
+  388 => 
   array (
     'id' => 85723,
     'name' => 'Sinjhoro',
@@ -3511,7 +3502,7 @@ return array (
     'latitude' => 26.03008,
     'longitude' => 68.80867,
   ),
-  390 => 
+  389 => 
   array (
     'id' => 85724,
     'name' => 'Skardu',
@@ -3520,7 +3511,7 @@ return array (
     'latitude' => 35.29787,
     'longitude' => 75.63372,
   ),
-  391 => 
+  390 => 
   array (
     'id' => 85725,
     'name' => 'Sobhodero',
@@ -3529,7 +3520,7 @@ return array (
     'latitude' => 27.30475,
     'longitude' => 68.39715,
   ),
-  392 => 
+  391 => 
   array (
     'id' => 85726,
     'name' => 'Sodhra',
@@ -3538,7 +3529,7 @@ return array (
     'latitude' => 32.46211,
     'longitude' => 74.18207,
   ),
-  393 => 
+  392 => 
   array (
     'id' => 85727,
     'name' => 'Sohbatpur',
@@ -3547,7 +3538,7 @@ return array (
     'latitude' => 28.52038,
     'longitude' => 68.54298,
   ),
-  394 => 
+  393 => 
   array (
     'id' => 85728,
     'name' => 'South Wazīristān Agency',
@@ -3556,7 +3547,7 @@ return array (
     'latitude' => 32.30397,
     'longitude' => 69.68207,
   ),
-  395 => 
+  394 => 
   array (
     'id' => 85729,
     'name' => 'Sukheke Mandi',
@@ -3565,7 +3556,7 @@ return array (
     'latitude' => 31.86541,
     'longitude' => 73.50875,
   ),
-  396 => 
+  395 => 
   array (
     'id' => 85730,
     'name' => 'Sukkur',
@@ -3574,7 +3565,7 @@ return array (
     'latitude' => 27.70323,
     'longitude' => 68.85889,
   ),
-  397 => 
+  396 => 
   array (
     'id' => 85731,
     'name' => 'Surab',
@@ -3583,7 +3574,7 @@ return array (
     'latitude' => 28.49276,
     'longitude' => 66.25999,
   ),
-  398 => 
+  397 => 
   array (
     'id' => 85732,
     'name' => 'Surkhpur',
@@ -3592,7 +3583,7 @@ return array (
     'latitude' => 32.71816,
     'longitude' => 74.44773,
   ),
-  399 => 
+  398 => 
   array (
     'id' => 85733,
     'name' => 'Swabi',
@@ -3601,7 +3592,7 @@ return array (
     'latitude' => 34.12018,
     'longitude' => 72.46982,
   ),
-  400 => 
+  399 => 
   array (
     'id' => 85734,
     'name' => 'Sīta Road',
@@ -3610,7 +3601,7 @@ return array (
     'latitude' => 27.03333,
     'longitude' => 67.85,
   ),
-  401 => 
+  400 => 
   array (
     'id' => 85735,
     'name' => 'Talagang',
@@ -3619,7 +3610,7 @@ return array (
     'latitude' => 32.92766,
     'longitude' => 72.41594,
   ),
-  402 => 
+  401 => 
   array (
     'id' => 85736,
     'name' => 'Talamba',
@@ -3628,7 +3619,7 @@ return array (
     'latitude' => 30.52693,
     'longitude' => 72.24079,
   ),
-  403 => 
+  402 => 
   array (
     'id' => 85737,
     'name' => 'Talhar',
@@ -3637,7 +3628,7 @@ return array (
     'latitude' => 24.88454,
     'longitude' => 68.81437,
   ),
-  404 => 
+  403 => 
   array (
     'id' => 85738,
     'name' => 'Tandlianwala',
@@ -3646,7 +3637,7 @@ return array (
     'latitude' => 31.03359,
     'longitude' => 73.13268,
   ),
-  405 => 
+  404 => 
   array (
     'id' => 85739,
     'name' => 'Tando Adam',
@@ -3655,7 +3646,7 @@ return array (
     'latitude' => 25.76818,
     'longitude' => 68.66196,
   ),
-  406 => 
+  405 => 
   array (
     'id' => 85740,
     'name' => 'Tando Allahyar',
@@ -3664,7 +3655,7 @@ return array (
     'latitude' => 25.4605,
     'longitude' => 68.71745,
   ),
-  407 => 
+  406 => 
   array (
     'id' => 85741,
     'name' => 'Tando Bago',
@@ -3673,7 +3664,7 @@ return array (
     'latitude' => 24.78914,
     'longitude' => 68.96535,
   ),
-  408 => 
+  407 => 
   array (
     'id' => 85742,
     'name' => 'Tando Jam',
@@ -3682,7 +3673,7 @@ return array (
     'latitude' => 25.42813,
     'longitude' => 68.52923,
   ),
-  409 => 
+  408 => 
   array (
     'id' => 85743,
     'name' => 'Tando Mitha Khan',
@@ -3691,7 +3682,7 @@ return array (
     'latitude' => 25.99625,
     'longitude' => 69.20251,
   ),
-  410 => 
+  409 => 
   array (
     'id' => 85744,
     'name' => 'Tando Muhammad Khan',
@@ -3700,7 +3691,7 @@ return array (
     'latitude' => 25.12384,
     'longitude' => 68.53677,
   ),
-  411 => 
+  410 => 
   array (
     'id' => 85745,
     'name' => 'Tangi',
@@ -3709,7 +3700,7 @@ return array (
     'latitude' => 34.3009,
     'longitude' => 71.65238,
   ),
-  412 => 
+  411 => 
   array (
     'id' => 85746,
     'name' => 'Tangwani',
@@ -3718,7 +3709,7 @@ return array (
     'latitude' => 28.27886,
     'longitude' => 68.9976,
   ),
-  413 => 
+  412 => 
   array (
     'id' => 85747,
     'name' => 'Tank',
@@ -3727,7 +3718,7 @@ return array (
     'latitude' => 32.21707,
     'longitude' => 70.38315,
   ),
-  414 => 
+  413 => 
   array (
     'id' => 85748,
     'name' => 'Taunsa',
@@ -3736,7 +3727,7 @@ return array (
     'latitude' => 30.70358,
     'longitude' => 70.65054,
   ),
-  415 => 
+  414 => 
   array (
     'id' => 85749,
     'name' => 'Thal',
@@ -3745,7 +3736,7 @@ return array (
     'latitude' => 35.47836,
     'longitude' => 72.24383,
   ),
-  416 => 
+  415 => 
   array (
     'id' => 85750,
     'name' => 'Tharu Shah',
@@ -3754,7 +3745,7 @@ return array (
     'latitude' => 26.9423,
     'longitude' => 68.11759,
   ),
-  417 => 
+  416 => 
   array (
     'id' => 85751,
     'name' => 'Thatta',
@@ -3763,7 +3754,7 @@ return array (
     'latitude' => 24.74745,
     'longitude' => 67.92353,
   ),
-  418 => 
+  417 => 
   array (
     'id' => 85752,
     'name' => 'Thul',
@@ -3772,7 +3763,7 @@ return array (
     'latitude' => 28.2403,
     'longitude' => 68.7755,
   ),
-  419 => 
+  418 => 
   array (
     'id' => 85753,
     'name' => 'Toba Tek Singh',
@@ -3781,7 +3772,7 @@ return array (
     'latitude' => 30.97127,
     'longitude' => 72.48275,
   ),
-  420 => 
+  419 => 
   array (
     'id' => 85754,
     'name' => 'Topi',
@@ -3790,7 +3781,7 @@ return array (
     'latitude' => 34.07034,
     'longitude' => 72.62147,
   ),
-  421 => 
+  420 => 
   array (
     'id' => 85755,
     'name' => 'Turbat',
@@ -3799,7 +3790,7 @@ return array (
     'latitude' => 26.00122,
     'longitude' => 63.04849,
   ),
-  422 => 
+  421 => 
   array (
     'id' => 85756,
     'name' => 'Ubauro',
@@ -3808,7 +3799,7 @@ return array (
     'latitude' => 28.16429,
     'longitude' => 69.73114,
   ),
-  423 => 
+  422 => 
   array (
     'id' => 85757,
     'name' => 'Umarkot',
@@ -3817,7 +3808,7 @@ return array (
     'latitude' => 25.36329,
     'longitude' => 69.74184,
   ),
-  424 => 
+  423 => 
   array (
     'id' => 85758,
     'name' => 'Umerkot District',
@@ -3826,7 +3817,7 @@ return array (
     'latitude' => 25.37,
     'longitude' => 69.73,
   ),
-  425 => 
+  424 => 
   array (
     'id' => 85759,
     'name' => 'Upper Dir',
@@ -3835,7 +3826,7 @@ return array (
     'latitude' => 35.2074,
     'longitude' => 71.8768,
   ),
-  426 => 
+  425 => 
   array (
     'id' => 85760,
     'name' => 'Usta Muhammad',
@@ -3844,7 +3835,7 @@ return array (
     'latitude' => 28.17723,
     'longitude' => 68.04367,
   ),
-  427 => 
+  426 => 
   array (
     'id' => 85761,
     'name' => 'Uthal',
@@ -3853,7 +3844,7 @@ return array (
     'latitude' => 25.80722,
     'longitude' => 66.62194,
   ),
-  428 => 
+  427 => 
   array (
     'id' => 85762,
     'name' => 'Utmanzai',
@@ -3862,7 +3853,7 @@ return array (
     'latitude' => 34.18775,
     'longitude' => 71.76274,
   ),
-  429 => 
+  428 => 
   array (
     'id' => 85763,
     'name' => 'Vihari',
@@ -3871,7 +3862,7 @@ return array (
     'latitude' => 30.0445,
     'longitude' => 72.3556,
   ),
-  430 => 
+  429 => 
   array (
     'id' => 85764,
     'name' => 'Wana',
@@ -3880,7 +3871,7 @@ return array (
     'latitude' => 32.29889,
     'longitude' => 69.5725,
   ),
-  431 => 
+  430 => 
   array (
     'id' => 85765,
     'name' => 'Warah',
@@ -3889,7 +3880,7 @@ return array (
     'latitude' => 27.44805,
     'longitude' => 67.79654,
   ),
-  432 => 
+  431 => 
   array (
     'id' => 85766,
     'name' => 'Wazirabad',
@@ -3898,7 +3889,7 @@ return array (
     'latitude' => 32.44324,
     'longitude' => 74.12,
   ),
-  433 => 
+  432 => 
   array (
     'id' => 85767,
     'name' => 'Yazman',
@@ -3907,7 +3898,7 @@ return array (
     'latitude' => 29.12122,
     'longitude' => 71.74459,
   ),
-  434 => 
+  433 => 
   array (
     'id' => 85768,
     'name' => 'Zafarwal',
@@ -3916,7 +3907,7 @@ return array (
     'latitude' => 32.34464,
     'longitude' => 74.8999,
   ),
-  435 => 
+  434 => 
   array (
     'id' => 85769,
     'name' => 'Zahir Pir',
@@ -3925,7 +3916,7 @@ return array (
     'latitude' => 28.81284,
     'longitude' => 70.52341,
   ),
-  436 => 
+  435 => 
   array (
     'id' => 85770,
     'name' => 'Zaida',
@@ -3934,7 +3925,7 @@ return array (
     'latitude' => 34.0595,
     'longitude' => 72.4669,
   ),
-  437 => 
+  436 => 
   array (
     'id' => 85771,
     'name' => 'Zhob',
@@ -3943,7 +3934,7 @@ return array (
     'latitude' => 31.34082,
     'longitude' => 69.4493,
   ),
-  438 => 
+  437 => 
   array (
     'id' => 85772,
     'name' => 'Zhob District',
@@ -3952,7 +3943,7 @@ return array (
     'latitude' => 31.36444,
     'longitude' => 69.20749,
   ),
-  439 => 
+  438 => 
   array (
     'id' => 85773,
     'name' => 'Ziarat',
@@ -3961,7 +3952,7 @@ return array (
     'latitude' => 30.38244,
     'longitude' => 67.72562,
   ),
-  440 => 
+  439 => 
   array (
     'id' => 85774,
     'name' => 'Ziārat District',
@@ -3970,7 +3961,7 @@ return array (
     'latitude' => 30.43591,
     'longitude' => 67.50962,
   ),
-  441 => 
+  440 => 
   array (
     'id' => 143765,
     'name' => 'Chuhar Kana',
@@ -3979,7 +3970,7 @@ return array (
     'latitude' => 31.75,
     'longitude' => 73.8,
   ),
-  442 => 
+  441 => 
   array (
     'id' => 143766,
     'name' => 'Dhok Awan',
@@ -3988,7 +3979,7 @@ return array (
     'latitude' => 32.84452,
     'longitude' => 72.52357,
   ),
-  443 => 
+  442 => 
   array (
     'id' => 143767,
     'name' => 'Daud Khel',
@@ -3997,7 +3988,7 @@ return array (
     'latitude' => 32.87498,
     'longitude' => 71.57013,
   ),
-  444 => 
+  443 => 
   array (
     'id' => 143768,
     'name' => 'Ferozewala',
@@ -4006,7 +3997,7 @@ return array (
     'latitude' => 29.3,
     'longitude' => 70.43333333,
   ),
-  445 => 
+  444 => 
   array (
     'id' => 143769,
     'name' => 'Gujranwala Division',
@@ -4015,7 +4006,7 @@ return array (
     'latitude' => 32.45,
     'longitude' => 74.13333,
   ),
-  446 => 
+  445 => 
   array (
     'id' => 143770,
     'name' => 'Hasan Abdal',
@@ -4024,7 +4015,7 @@ return array (
     'latitude' => 33.81948611,
     'longitude' => 72.68902778,
   ),
-  447 => 
+  446 => 
   array (
     'id' => 143771,
     'name' => 'Kohror Pakka',
@@ -4033,7 +4024,7 @@ return array (
     'latitude' => 29.62382,
     'longitude' => 71.91673,
   ),
-  448 => 
+  447 => 
   array (
     'id' => 143772,
     'name' => 'Mandi Bahauddin District',
@@ -4042,7 +4033,7 @@ return array (
     'latitude' => 32.58333333,
     'longitude' => 73.5,
   ),
-  449 => 
+  448 => 
   array (
     'id' => 143773,
     'name' => 'Multan District',
@@ -4051,7 +4042,7 @@ return array (
     'latitude' => 30.08333333,
     'longitude' => 71.66666667,
   ),
-  450 => 
+  449 => 
   array (
     'id' => 143774,
     'name' => 'Pakki Shagwanwali',
@@ -4060,7 +4051,7 @@ return array (
     'latitude' => 30.79033,
     'longitude' => 70.87139,
   ),
-  451 => 
+  450 => 
   array (
     'id' => 143775,
     'name' => 'Qila Didar Singh',
@@ -4069,7 +4060,7 @@ return array (
     'latitude' => 32.8,
     'longitude' => 74.1,
   ),
-  452 => 
+  451 => 
   array (
     'id' => 143776,
     'name' => 'Rahimyar Khan District',
@@ -4078,7 +4069,7 @@ return array (
     'latitude' => 28.4602,
     'longitude' => 70.52837,
   ),
-  453 => 
+  452 => 
   array (
     'id' => 143777,
     'name' => 'Shahkot Tehsil',
@@ -4087,7 +4078,7 @@ return array (
     'latitude' => 31.56166667,
     'longitude' => 73.4875,
   ),
-  454 => 
+  453 => 
   array (
     'id' => 143778,
     'name' => 'Umerkot',
@@ -4096,7 +4087,7 @@ return array (
     'latitude' => 25.36138889,
     'longitude' => 69.73611111,
   ),
-  455 => 
+  454 => 
   array (
     'id' => 143779,
     'name' => 'Wah',
@@ -4105,7 +4096,7 @@ return array (
     'latitude' => 33.81,
     'longitude' => 72.70972222,
   ),
-  456 => 
+  455 => 
   array (
     'id' => 143780,
     'name' => 'Warburton',
@@ -4114,7 +4105,7 @@ return array (
     'latitude' => 31.55,
     'longitude' => 73.8333,
   ),
-  457 => 
+  456 => 
   array (
     'id' => 143781,
     'name' => 'West Punjab',

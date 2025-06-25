@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -291,15 +291,6 @@ return array (
   ),
   32 => 
   array (
-    'id' => 154130,
-    'name' => 'Vingtaine du Nord',
-    'country_id' => 110,
-    'country_code' => 'JE',
-    'latitude' => 49.241027,
-    'longitude' => -2.1690095,
-  ),
-  33 => 
-  array (
     'id' => 154131,
     'name' => 'Petite Cueillette',
     'country_id' => 110,
@@ -307,7 +298,7 @@ return array (
     'latitude' => 49.2374758,
     'longitude' => -2.222648,
   ),
-  34 => 
+  33 => 
   array (
     'id' => 154132,
     'name' => 'Grande Cueillette',
@@ -316,7 +307,7 @@ return array (
     'latitude' => 49.2374758,
     'longitude' => -2.222648,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 154133,
     'name' => 'Cueillette de Grantez',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 49.2312397,
     'longitude' => -2.2233903,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 154134,
     'name' => 'Cueillette de Millais',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 49.2408537,
     'longitude' => -2.2433042,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 154135,
     'name' => 'Cueillette de Vinchelez',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 49.244478,
     'longitude' => -2.2390543,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 154136,
     'name' => 'Cueillette de Léoville',
@@ -352,25 +343,7 @@ return array (
     'latitude' => 49.2380324,
     'longitude' => -2.2263487,
   ),
-  39 => 
-  array (
-    'id' => 154137,
-    'name' => 'Vingtaine du Douet',
-    'country_id' => 110,
-    'country_code' => 'JE',
-    'latitude' => 0.0,
-    'longitude' => 0.0,
-  ),
-  40 => 
-  array (
-    'id' => 154138,
-    'name' => 'Grande Vingtaine',
-    'country_id' => 110,
-    'country_code' => 'JE',
-    'latitude' => 49.210655,
-    'longitude' => -2.1960636,
-  ),
-  41 => 
+  38 => 
   array (
     'id' => 154139,
     'name' => 'Vingtaine des Augerez',
@@ -379,7 +352,7 @@ return array (
     'latitude' => 49.2077679,
     'longitude' => -2.1862978,
   ),
-  42 => 
+  39 => 
   array (
     'id' => 154140,
     'name' => 'Vingtaine du Coin Varin',
@@ -388,7 +361,7 @@ return array (
     'latitude' => 49.2145195,
     'longitude' => -2.1872255,
   ),
-  43 => 
+  40 => 
   array (
     'id' => 154141,
     'name' => 'Vingtaine de la Petite Longueville',
@@ -397,7 +370,7 @@ return array (
     'latitude' => 49.1834235,
     'longitude' => -2.0784494,
   ),
-  44 => 
+  41 => 
   array (
     'id' => 154142,
     'name' => 'Vingtaine de Sous l\\\'Église',
@@ -406,7 +379,7 @@ return array (
     'latitude' => 0.0,
     'longitude' => 0.0,
   ),
-  45 => 
+  42 => 
   array (
     'id' => 154143,
     'name' => 'Vingtaine de Maufant',
@@ -415,7 +388,7 @@ return array (
     'latitude' => 49.2082296,
     'longitude' => -2.100606,
   ),
-  46 => 
+  43 => 
   array (
     'id' => 154144,
     'name' => 'Vingtaine de Sous la Hougue',
@@ -424,7 +397,7 @@ return array (
     'latitude' => 49.2137711,
     'longitude' => -2.1357662,
   ),
-  47 => 
+  44 => 
   array (
     'id' => 154145,
     'name' => 'Vingtaine des Pigneaux',
@@ -433,7 +406,7 @@ return array (
     'latitude' => 49.202627,
     'longitude' => -2.0708067,
   ),
-  48 => 
+  45 => 
   array (
     'id' => 154146,
     'name' => 'Vingtaine de la Grande Longueville',
@@ -442,7 +415,7 @@ return array (
     'latitude' => 49.1834235,
     'longitude' => -2.0784494,
   ),
-  49 => 
+  46 => 
   array (
     'id' => 154147,
     'name' => 'Vingtaine de la Ville-à-l\\\'Évêque',
@@ -451,16 +424,7 @@ return array (
     'latitude' => 49.2317648,
     'longitude' => -2.1223684,
   ),
-  50 => 
-  array (
-    'id' => 154148,
-    'name' => 'Vingtaine de Rozel',
-    'country_id' => 110,
-    'country_code' => 'JE',
-    'latitude' => 49.2384287,
-    'longitude' => -2.0670406,
-  ),
-  51 => 
+  47 => 
   array (
     'id' => 154149,
     'name' => 'Vingtaine du Rondin',
@@ -469,7 +433,7 @@ return array (
     'latitude' => 49.2298827,
     'longitude' => -2.0860124,
   ),
-  52 => 
+  48 => 
   array (
     'id' => 154150,
     'name' => 'Vingtaine des Augrès',
@@ -478,7 +442,7 @@ return array (
     'latitude' => 49.2285729,
     'longitude' => -2.0823505,
   ),
-  53 => 
+  49 => 
   array (
     'id' => 154151,
     'name' => 'Vingtaine de la Croiserie',

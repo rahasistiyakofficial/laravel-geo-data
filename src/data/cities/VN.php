@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -534,15 +534,6 @@ return array (
   ),
   59 => 
   array (
-    'id' => 130231,
-    'name' => 'Huyện Bảo Lâm',
-    'country_id' => 240,
-    'country_code' => 'VN',
-    'latitude' => 22.87041,
-    'longitude' => 105.4878,
-  ),
-  60 => 
-  array (
     'id' => 130232,
     'name' => 'Huyện Bảo Yên',
     'country_id' => 240,
@@ -550,7 +541,7 @@ return array (
     'latitude' => 22.26109,
     'longitude' => 104.46424,
   ),
-  61 => 
+  60 => 
   array (
     'id' => 130233,
     'name' => 'Huyện Bắc Bình',
@@ -559,7 +550,7 @@ return array (
     'latitude' => 11.27571,
     'longitude' => 108.38506,
   ),
-  62 => 
+  61 => 
   array (
     'id' => 130234,
     'name' => 'Huyện Bắc Hà',
@@ -568,7 +559,7 @@ return array (
     'latitude' => 22.50998,
     'longitude' => 104.30769,
   ),
-  63 => 
+  62 => 
   array (
     'id' => 130235,
     'name' => 'Huyện Bắc Mê',
@@ -577,7 +568,7 @@ return array (
     'latitude' => 22.75477,
     'longitude' => 105.29023,
   ),
-  64 => 
+  63 => 
   array (
     'id' => 130236,
     'name' => 'Huyện Bắc Quang',
@@ -586,7 +577,7 @@ return array (
     'latitude' => 22.42301,
     'longitude' => 104.91831,
   ),
-  65 => 
+  64 => 
   array (
     'id' => 130237,
     'name' => 'Huyện Bắc Sơn',
@@ -595,7 +586,7 @@ return array (
     'latitude' => 21.83801,
     'longitude' => 106.2769,
   ),
-  66 => 
+  65 => 
   array (
     'id' => 130238,
     'name' => 'Huyện Bắc Yên',
@@ -604,7 +595,7 @@ return array (
     'latitude' => 21.25042,
     'longitude' => 104.38501,
   ),
-  67 => 
+  66 => 
   array (
     'id' => 130239,
     'name' => 'Huyện Bến Cầu',
@@ -613,7 +604,7 @@ return array (
     'latitude' => 11.12889,
     'longitude' => 106.14296,
   ),
-  68 => 
+  67 => 
   array (
     'id' => 130240,
     'name' => 'Huyện Bến Lức',
@@ -622,7 +613,7 @@ return array (
     'latitude' => 10.68858,
     'longitude' => 106.45484,
   ),
-  69 => 
+  68 => 
   array (
     'id' => 130241,
     'name' => 'Huyện Cai Lậy',
@@ -631,7 +622,7 @@ return array (
     'latitude' => 10.38943,
     'longitude' => 106.06774,
   ),
-  70 => 
+  69 => 
   array (
     'id' => 130242,
     'name' => 'Huyện Cam Lộ',
@@ -640,7 +631,7 @@ return array (
     'latitude' => 16.79335,
     'longitude' => 106.96175,
   ),
-  71 => 
+  70 => 
   array (
     'id' => 130243,
     'name' => 'Huyện Can Lộc',
@@ -649,7 +640,7 @@ return array (
     'latitude' => 18.44414,
     'longitude' => 105.7635,
   ),
-  72 => 
+  71 => 
   array (
     'id' => 130244,
     'name' => 'Huyện Cao Lộc',
@@ -658,7 +649,7 @@ return array (
     'latitude' => 21.89857,
     'longitude' => 106.85435,
   ),
-  73 => 
+  72 => 
   array (
     'id' => 130245,
     'name' => 'Huyện Cao Phong',
@@ -667,7 +658,7 @@ return array (
     'latitude' => 20.69532,
     'longitude' => 105.33559,
   ),
-  74 => 
+  73 => 
   array (
     'id' => 130246,
     'name' => 'Huyện Chi Lăng',
@@ -676,7 +667,7 @@ return array (
     'latitude' => 21.67602,
     'longitude' => 106.62925,
   ),
-  75 => 
+  74 => 
   array (
     'id' => 130247,
     'name' => 'Huyện Chiêm Hóa',
@@ -685,7 +676,7 @@ return array (
     'latitude' => 22.17895,
     'longitude' => 105.27671,
   ),
-  76 => 
+  75 => 
   array (
     'id' => 130248,
     'name' => 'Huyện Châu Phú',
@@ -694,7 +685,7 @@ return array (
     'latitude' => 10.57166,
     'longitude' => 105.16991,
   ),
-  77 => 
+  76 => 
   array (
     'id' => 130249,
     'name' => 'Huyện Châu Thành',
@@ -703,43 +694,7 @@ return array (
     'latitude' => 9.94372,
     'longitude' => 105.16868,
   ),
-  78 => 
-  array (
-    'id' => 130250,
-    'name' => 'Huyện Châu Thành',
-    'country_id' => 240,
-    'country_code' => 'VN',
-    'latitude' => 10.29212,
-    'longitude' => 106.30827,
-  ),
-  79 => 
-  array (
-    'id' => 130251,
-    'name' => 'Huyện Châu Thành',
-    'country_id' => 240,
-    'country_code' => 'VN',
-    'latitude' => 10.45214,
-    'longitude' => 106.49015,
-  ),
-  80 => 
-  array (
-    'id' => 130252,
-    'name' => 'Huyện Châu Thành',
-    'country_id' => 240,
-    'country_code' => 'VN',
-    'latitude' => 10.386,
-    'longitude' => 106.27311,
-  ),
-  81 => 
-  array (
-    'id' => 130253,
-    'name' => 'Huyện Châu Thành',
-    'country_id' => 240,
-    'country_code' => 'VN',
-    'latitude' => 10.22543,
-    'longitude' => 105.8238,
-  ),
-  82 => 
+  77 => 
   array (
     'id' => 130254,
     'name' => 'Huyện Châu Thành A',
@@ -748,7 +703,7 @@ return array (
     'latitude' => 9.93056,
     'longitude' => 105.64194,
   ),
-  83 => 
+  78 => 
   array (
     'id' => 130255,
     'name' => 'Huyện Châu Đức',
@@ -757,7 +712,7 @@ return array (
     'latitude' => 10.65805,
     'longitude' => 107.25098,
   ),
-  84 => 
+  79 => 
   array (
     'id' => 130256,
     'name' => 'Huyện Chơn Thành',
@@ -766,7 +721,7 @@ return array (
     'latitude' => 11.46283,
     'longitude' => 106.66655,
   ),
-  85 => 
+  80 => 
   array (
     'id' => 130257,
     'name' => 'Huyện Chư Prông',
@@ -775,7 +730,7 @@ return array (
     'latitude' => 13.59976,
     'longitude' => 107.81099,
   ),
-  86 => 
+  81 => 
   array (
     'id' => 130258,
     'name' => 'Huyện Chư Păh',
@@ -784,7 +739,7 @@ return array (
     'latitude' => 14.15941,
     'longitude' => 107.98411,
   ),
-  87 => 
+  82 => 
   array (
     'id' => 130259,
     'name' => 'Huyện Chư Sê',
@@ -793,7 +748,7 @@ return array (
     'latitude' => 13.74254,
     'longitude' => 108.08663,
   ),
-  88 => 
+  83 => 
   array (
     'id' => 130260,
     'name' => 'Huyện Chợ Gạo',
@@ -802,7 +757,7 @@ return array (
     'latitude' => 10.37373,
     'longitude' => 106.44341,
   ),
-  89 => 
+  84 => 
   array (
     'id' => 130261,
     'name' => 'Huyện Chợ Lách',
@@ -811,7 +766,7 @@ return array (
     'latitude' => 10.22674,
     'longitude' => 106.17077,
   ),
-  90 => 
+  85 => 
   array (
     'id' => 130262,
     'name' => 'Huyện Chợ Mới',
@@ -820,7 +775,7 @@ return array (
     'latitude' => 10.4773,
     'longitude' => 105.49092,
   ),
-  91 => 
+  86 => 
   array (
     'id' => 130263,
     'name' => 'Huyện Chợ Đồn',
@@ -829,7 +784,7 @@ return array (
     'latitude' => 22.18681,
     'longitude' => 105.5728,
   ),
-  92 => 
+  87 => 
   array (
     'id' => 130264,
     'name' => 'Huyện Con Cuông',
@@ -838,7 +793,7 @@ return array (
     'latitude' => 19.03898,
     'longitude' => 104.80353,
   ),
-  93 => 
+  88 => 
   array (
     'id' => 130265,
     'name' => 'Huyện Càng Long',
@@ -847,7 +802,7 @@ return array (
     'latitude' => 9.95883,
     'longitude' => 106.21395,
   ),
-  94 => 
+  89 => 
   array (
     'id' => 130266,
     'name' => 'Huyện Cái Bè',
@@ -856,7 +811,7 @@ return array (
     'latitude' => 10.38824,
     'longitude' => 105.9462,
   ),
-  95 => 
+  90 => 
   array (
     'id' => 130267,
     'name' => 'Huyện Cái Nước',
@@ -865,7 +820,7 @@ return array (
     'latitude' => 9.00094,
     'longitude' => 105.04201,
   ),
-  96 => 
+  91 => 
   array (
     'id' => 130268,
     'name' => 'Huyện Cô Tô',
@@ -874,7 +829,7 @@ return array (
     'latitude' => 21.05418,
     'longitude' => 107.80698,
   ),
-  97 => 
+  92 => 
   array (
     'id' => 130269,
     'name' => 'Huyện Cư Jút',
@@ -883,7 +838,7 @@ return array (
     'latitude' => 12.69591,
     'longitude' => 107.76316,
   ),
-  98 => 
+  93 => 
   array (
     'id' => 130270,
     'name' => 'Huyện Cần Giuộc',
@@ -892,7 +847,7 @@ return array (
     'latitude' => 10.57742,
     'longitude' => 106.67279,
   ),
-  99 => 
+  94 => 
   array (
     'id' => 130271,
     'name' => 'Huyện Cần Đước',
@@ -901,7 +856,7 @@ return array (
     'latitude' => 10.54148,
     'longitude' => 106.59636,
   ),
-  100 => 
+  95 => 
   array (
     'id' => 130272,
     'name' => 'Huyện Cầu Kè',
@@ -910,7 +865,7 @@ return array (
     'latitude' => 9.86738,
     'longitude' => 106.07916,
   ),
-  101 => 
+  96 => 
   array (
     'id' => 130273,
     'name' => 'Huyện Cầu Ngang',
@@ -919,7 +874,7 @@ return array (
     'latitude' => 9.77186,
     'longitude' => 106.43654,
   ),
-  102 => 
+  97 => 
   array (
     'id' => 130274,
     'name' => 'Huyện Cẩm Giàng',
@@ -928,7 +883,7 @@ return array (
     'latitude' => 20.95,
     'longitude' => 106.21667,
   ),
-  103 => 
+  98 => 
   array (
     'id' => 130275,
     'name' => 'Huyện Cẩm Khê',
@@ -937,7 +892,7 @@ return array (
     'latitude' => 21.40683,
     'longitude' => 105.09845,
   ),
-  104 => 
+  99 => 
   array (
     'id' => 130276,
     'name' => 'Huyện Cẩm Thủy',
@@ -946,7 +901,7 @@ return array (
     'latitude' => 20.19586,
     'longitude' => 105.46817,
   ),
-  105 => 
+  100 => 
   array (
     'id' => 130277,
     'name' => 'Huyện Cẩm Xuyên',
@@ -955,7 +910,7 @@ return array (
     'latitude' => 18.19059,
     'longitude' => 106.00186,
   ),
-  106 => 
+  101 => 
   array (
     'id' => 130278,
     'name' => 'Huyện Diên Khánh',
@@ -964,7 +919,7 @@ return array (
     'latitude' => 12.27341,
     'longitude' => 109.0389,
   ),
-  107 => 
+  102 => 
   array (
     'id' => 130279,
     'name' => 'Huyện Diễn Châu',
@@ -973,7 +928,7 @@ return array (
     'latitude' => 18.98892,
     'longitude' => 105.57625,
   ),
-  108 => 
+  103 => 
   array (
     'id' => 130280,
     'name' => 'Huyện Duy Tiên',
@@ -982,7 +937,7 @@ return array (
     'latitude' => 20.62803,
     'longitude' => 105.96193,
   ),
-  109 => 
+  104 => 
   array (
     'id' => 130281,
     'name' => 'Huyện Duy Xuyên',
@@ -991,7 +946,7 @@ return array (
     'latitude' => 15.7897,
     'longitude' => 108.20247,
   ),
-  110 => 
+  105 => 
   array (
     'id' => 130282,
     'name' => 'Huyện Dương Minh Châu',
@@ -1000,7 +955,7 @@ return array (
     'latitude' => 11.31833,
     'longitude' => 106.25697,
   ),
-  111 => 
+  106 => 
   array (
     'id' => 130283,
     'name' => 'Huyện Ea H\\\'Leo',
@@ -1009,7 +964,7 @@ return array (
     'latitude' => 13.31814,
     'longitude' => 108.07148,
   ),
-  112 => 
+  107 => 
   array (
     'id' => 130284,
     'name' => 'Huyện Ea Súp',
@@ -1018,7 +973,7 @@ return array (
     'latitude' => 13.18279,
     'longitude' => 107.79954,
   ),
-  113 => 
+  108 => 
   array (
     'id' => 130285,
     'name' => 'Huyện Gia Bình',
@@ -1027,7 +982,7 @@ return array (
     'latitude' => 21.07795,
     'longitude' => 106.20903,
   ),
-  114 => 
+  109 => 
   array (
     'id' => 130286,
     'name' => 'Huyện Gia Lộc',
@@ -1036,7 +991,7 @@ return array (
     'latitude' => 20.85164,
     'longitude' => 106.2913,
   ),
-  115 => 
+  110 => 
   array (
     'id' => 130287,
     'name' => 'Huyện Giao Thủy',
@@ -1045,7 +1000,7 @@ return array (
     'latitude' => 20.25706,
     'longitude' => 106.46245,
   ),
-  116 => 
+  111 => 
   array (
     'id' => 130288,
     'name' => 'Huyện Gio Linh',
@@ -1054,7 +1009,7 @@ return array (
     'latitude' => 16.91667,
     'longitude' => 107.0,
   ),
-  117 => 
+  112 => 
   array (
     'id' => 130289,
     'name' => 'Huyện Giá Rai',
@@ -1063,7 +1018,7 @@ return array (
     'latitude' => 9.27162,
     'longitude' => 105.40017,
   ),
-  118 => 
+  113 => 
   array (
     'id' => 130290,
     'name' => 'Huyện Giồng Riềng',
@@ -1072,7 +1027,7 @@ return array (
     'latitude' => 9.91224,
     'longitude' => 105.37311,
   ),
-  119 => 
+  114 => 
   array (
     'id' => 130291,
     'name' => 'Huyện Giồng Trôm',
@@ -1081,7 +1036,7 @@ return array (
     'latitude' => 10.15909,
     'longitude' => 106.47004,
   ),
-  120 => 
+  115 => 
   array (
     'id' => 130292,
     'name' => 'Huyện Gò Công Tây',
@@ -1090,7 +1045,7 @@ return array (
     'latitude' => 10.34527,
     'longitude' => 106.59851,
   ),
-  121 => 
+  116 => 
   array (
     'id' => 130293,
     'name' => 'Huyện Gò Công Đông',
@@ -1099,7 +1054,7 @@ return array (
     'latitude' => 10.36784,
     'longitude' => 106.74592,
   ),
-  122 => 
+  117 => 
   array (
     'id' => 130294,
     'name' => 'Huyện Gò Dầu',
@@ -1108,7 +1063,7 @@ return array (
     'latitude' => 11.15737,
     'longitude' => 106.27307,
   ),
-  123 => 
+  118 => 
   array (
     'id' => 130295,
     'name' => 'Huyện Gò Quao',
@@ -1117,7 +1072,7 @@ return array (
     'latitude' => 9.74027,
     'longitude' => 105.29766,
   ),
-  124 => 
+  119 => 
   array (
     'id' => 130296,
     'name' => 'Huyện Hiệp Đức',
@@ -1126,7 +1081,7 @@ return array (
     'latitude' => 15.53857,
     'longitude' => 108.09539,
   ),
-  125 => 
+  120 => 
   array (
     'id' => 130297,
     'name' => 'Huyện Hoa Lư',
@@ -1135,7 +1090,7 @@ return array (
     'latitude' => 20.25391,
     'longitude' => 105.90789,
   ),
-  126 => 
+  121 => 
   array (
     'id' => 130298,
     'name' => 'Huyện Hoài Nhơn',
@@ -1144,7 +1099,7 @@ return array (
     'latitude' => 14.50535,
     'longitude' => 109.02315,
   ),
-  127 => 
+  122 => 
   array (
     'id' => 130299,
     'name' => 'Huyện Hoành Bồ',
@@ -1153,7 +1108,7 @@ return array (
     'latitude' => 21.11888,
     'longitude' => 107.03149,
   ),
-  128 => 
+  123 => 
   array (
     'id' => 130300,
     'name' => 'Huyện Hà Quảng',
@@ -1162,7 +1117,7 @@ return array (
     'latitude' => 22.90763,
     'longitude' => 106.12487,
   ),
-  129 => 
+  124 => 
   array (
     'id' => 130301,
     'name' => 'Huyện Hà Trung',
@@ -1171,7 +1126,7 @@ return array (
     'latitude' => 20.02654,
     'longitude' => 105.81931,
   ),
-  130 => 
+  125 => 
   array (
     'id' => 130302,
     'name' => 'Huyện Hàm Thuận Bắc',
@@ -1180,7 +1135,7 @@ return array (
     'latitude' => 11.14703,
     'longitude' => 108.08172,
   ),
-  131 => 
+  126 => 
   array (
     'id' => 130303,
     'name' => 'Huyện Hàm Thuận Nam',
@@ -1189,7 +1144,7 @@ return array (
     'latitude' => 10.92101,
     'longitude' => 107.93325,
   ),
-  132 => 
+  127 => 
   array (
     'id' => 130304,
     'name' => 'Huyện Hàm Tân',
@@ -1198,7 +1153,7 @@ return array (
     'latitude' => 10.76856,
     'longitude' => 107.64233,
   ),
-  133 => 
+  128 => 
   array (
     'id' => 130305,
     'name' => 'Huyện Hàm Yên',
@@ -1207,7 +1162,7 @@ return array (
     'latitude' => 22.10935,
     'longitude' => 105.0163,
   ),
-  134 => 
+  129 => 
   array (
     'id' => 130306,
     'name' => 'Huyện Hòa Thành',
@@ -1216,7 +1171,7 @@ return array (
     'latitude' => 11.26706,
     'longitude' => 106.14486,
   ),
-  135 => 
+  130 => 
   array (
     'id' => 130307,
     'name' => 'Huyện Hòn Đất',
@@ -1225,7 +1180,7 @@ return array (
     'latitude' => 10.22908,
     'longitude' => 104.9528,
   ),
-  136 => 
+  131 => 
   array (
     'id' => 130308,
     'name' => 'Huyện Hũu Lũng',
@@ -1234,7 +1189,7 @@ return array (
     'latitude' => 21.54474,
     'longitude' => 106.34386,
   ),
-  137 => 
+  132 => 
   array (
     'id' => 130309,
     'name' => 'Huyện Hưng Hà',
@@ -1243,7 +1198,7 @@ return array (
     'latitude' => 20.59464,
     'longitude' => 106.2123,
   ),
-  138 => 
+  133 => 
   array (
     'id' => 130310,
     'name' => 'Huyện Hưng Nguyên',
@@ -1252,7 +1207,7 @@ return array (
     'latitude' => 18.67811,
     'longitude' => 105.62523,
   ),
-  139 => 
+  134 => 
   array (
     'id' => 130311,
     'name' => 'Huyện Hướng Hóa',
@@ -1261,7 +1216,7 @@ return array (
     'latitude' => 16.70132,
     'longitude' => 106.67036,
   ),
-  140 => 
+  135 => 
   array (
     'id' => 130312,
     'name' => 'Huyện Hạ Hòa',
@@ -1270,7 +1225,7 @@ return array (
     'latitude' => 21.57763,
     'longitude' => 104.99464,
   ),
-  141 => 
+  136 => 
   array (
     'id' => 130313,
     'name' => 'Huyện Hạ Lang',
@@ -1279,7 +1234,7 @@ return array (
     'latitude' => 22.70933,
     'longitude' => 106.67657,
   ),
-  142 => 
+  137 => 
   array (
     'id' => 130314,
     'name' => 'Huyện Hải Hà',
@@ -1288,7 +1243,7 @@ return array (
     'latitude' => 21.49537,
     'longitude' => 107.6679,
   ),
-  143 => 
+  138 => 
   array (
     'id' => 130315,
     'name' => 'Huyện Hải Hậu',
@@ -1297,7 +1252,7 @@ return array (
     'latitude' => 20.15057,
     'longitude' => 106.27161,
   ),
-  144 => 
+  139 => 
   array (
     'id' => 130316,
     'name' => 'Huyện Hải Lăng',
@@ -1306,7 +1261,7 @@ return array (
     'latitude' => 16.67574,
     'longitude' => 107.23388,
   ),
-  145 => 
+  140 => 
   array (
     'id' => 130317,
     'name' => 'Huyện Hậu Lộc',
@@ -1315,7 +1270,7 @@ return array (
     'latitude' => 19.93337,
     'longitude' => 105.88894,
   ),
-  146 => 
+  141 => 
   array (
     'id' => 130318,
     'name' => 'Huyện Hồng Dân',
@@ -1324,7 +1279,7 @@ return array (
     'latitude' => 9.53822,
     'longitude' => 105.42242,
   ),
-  147 => 
+  142 => 
   array (
     'id' => 130319,
     'name' => 'Huyện Hớn Quản',
@@ -1333,7 +1288,7 @@ return array (
     'latitude' => 11.59718,
     'longitude' => 106.62739,
   ),
-  148 => 
+  143 => 
   array (
     'id' => 130320,
     'name' => 'Huyện Ia Grai',
@@ -1342,7 +1297,7 @@ return array (
     'latitude' => 13.98937,
     'longitude' => 107.7374,
   ),
-  149 => 
+  144 => 
   array (
     'id' => 130321,
     'name' => 'Huyện Ia H\\\'Drai',
@@ -1351,7 +1306,7 @@ return array (
     'latitude' => 14.06032,
     'longitude' => 107.46243,
   ),
-  150 => 
+  145 => 
   array (
     'id' => 130322,
     'name' => 'Huyện KBang',
@@ -1360,7 +1315,7 @@ return array (
     'latitude' => 14.30506,
     'longitude' => 108.49779,
   ),
-  151 => 
+  146 => 
   array (
     'id' => 130323,
     'name' => 'Huyện Khoái Châu',
@@ -1369,7 +1324,7 @@ return array (
     'latitude' => 20.8217,
     'longitude' => 105.97455,
   ),
-  152 => 
+  147 => 
   array (
     'id' => 130324,
     'name' => 'Huyện Khánh Sơn',
@@ -1378,7 +1333,7 @@ return array (
     'latitude' => 12.02858,
     'longitude' => 108.90814,
   ),
-  153 => 
+  148 => 
   array (
     'id' => 130325,
     'name' => 'Huyện Khánh Vĩnh',
@@ -1387,7 +1342,7 @@ return array (
     'latitude' => 12.30593,
     'longitude' => 108.83073,
   ),
-  154 => 
+  149 => 
   array (
     'id' => 130326,
     'name' => 'Huyện Kim Bảng',
@@ -1396,7 +1351,7 @@ return array (
     'latitude' => 20.57254,
     'longitude' => 105.85043,
   ),
-  155 => 
+  150 => 
   array (
     'id' => 130327,
     'name' => 'Huyện Kim Sơn',
@@ -1405,7 +1360,7 @@ return array (
     'latitude' => 20.06034,
     'longitude' => 106.09863,
   ),
-  156 => 
+  151 => 
   array (
     'id' => 130328,
     'name' => 'Huyện Kim Động',
@@ -1414,7 +1369,7 @@ return array (
     'latitude' => 20.74645,
     'longitude' => 106.03632,
   ),
-  157 => 
+  152 => 
   array (
     'id' => 130329,
     'name' => 'Huyện Kinh Môn',
@@ -1423,7 +1378,7 @@ return array (
     'latitude' => 21.01634,
     'longitude' => 106.50384,
   ),
-  158 => 
+  153 => 
   array (
     'id' => 130330,
     'name' => 'Huyện Kiên Hải',
@@ -1432,7 +1387,7 @@ return array (
     'latitude' => 9.83971,
     'longitude' => 104.6156,
   ),
-  159 => 
+  154 => 
   array (
     'id' => 130331,
     'name' => 'Huyện Kiến Xương',
@@ -1441,7 +1396,7 @@ return array (
     'latitude' => 20.40081,
     'longitude' => 106.42032,
   ),
-  160 => 
+  155 => 
   array (
     'id' => 130332,
     'name' => 'Huyện Kon Plông',
@@ -1450,7 +1405,7 @@ return array (
     'latitude' => 14.7562,
     'longitude' => 108.32057,
   ),
-  161 => 
+  156 => 
   array (
     'id' => 130333,
     'name' => 'Huyện Krông Nô',
@@ -1459,7 +1414,7 @@ return array (
     'latitude' => 12.36285,
     'longitude' => 107.83445,
   ),
-  162 => 
+  157 => 
   array (
     'id' => 130334,
     'name' => 'Huyện Krông Pa',
@@ -1468,7 +1423,7 @@ return array (
     'latitude' => 13.23152,
     'longitude' => 108.65494,
   ),
-  163 => 
+  158 => 
   array (
     'id' => 130335,
     'name' => 'Huyện Kông Chro',
@@ -1477,7 +1432,7 @@ return array (
     'latitude' => 13.73519,
     'longitude' => 108.59697,
   ),
-  164 => 
+  159 => 
   array (
     'id' => 130336,
     'name' => 'Huyện Kế Sách',
@@ -1486,7 +1441,7 @@ return array (
     'latitude' => 9.81771,
     'longitude' => 105.9419,
   ),
-  165 => 
+  160 => 
   array (
     'id' => 130337,
     'name' => 'Huyện Kỳ Anh',
@@ -1495,7 +1450,7 @@ return array (
     'latitude' => 18.05805,
     'longitude' => 106.2458,
   ),
-  166 => 
+  161 => 
   array (
     'id' => 130338,
     'name' => 'Huyện Kỳ Sơn',
@@ -1504,16 +1459,7 @@ return array (
     'latitude' => 20.89631,
     'longitude' => 105.39659,
   ),
-  167 => 
-  array (
-    'id' => 130339,
-    'name' => 'Huyện Kỳ Sơn',
-    'country_id' => 240,
-    'country_code' => 'VN',
-    'latitude' => 19.42397,
-    'longitude' => 104.22199,
-  ),
-  168 => 
+  162 => 
   array (
     'id' => 130340,
     'name' => 'Huyện Lai Vung',
@@ -1522,7 +1468,7 @@ return array (
     'latitude' => 10.24051,
     'longitude' => 105.66327,
   ),
-  169 => 
+  163 => 
   array (
     'id' => 130341,
     'name' => 'Huyện Lang Chánh',
@@ -1531,7 +1477,7 @@ return array (
     'latitude' => 20.15926,
     'longitude' => 105.15071,
   ),
-  170 => 
+  164 => 
   array (
     'id' => 130342,
     'name' => 'Huyện Long Hồ',
@@ -1540,7 +1486,7 @@ return array (
     'latitude' => 10.2164,
     'longitude' => 105.98483,
   ),
-  171 => 
+  165 => 
   array (
     'id' => 130343,
     'name' => 'Huyện Long Phú',
@@ -1549,7 +1495,7 @@ return array (
     'latitude' => 9.63715,
     'longitude' => 106.08226,
   ),
-  172 => 
+  166 => 
   array (
     'id' => 130344,
     'name' => 'Huyện Long Thành',
@@ -1558,7 +1504,7 @@ return array (
     'latitude' => 10.76162,
     'longitude' => 107.02688,
   ),
-  173 => 
+  167 => 
   array (
     'id' => 130345,
     'name' => 'Huyện Lâm Bình',
@@ -1567,7 +1513,7 @@ return array (
     'latitude' => 22.46411,
     'longitude' => 105.21903,
   ),
-  174 => 
+  168 => 
   array (
     'id' => 130346,
     'name' => 'Huyện Lâm Hà',
@@ -1576,7 +1522,7 @@ return array (
     'latitude' => 11.8189,
     'longitude' => 108.21215,
   ),
-  175 => 
+  169 => 
   array (
     'id' => 130347,
     'name' => 'Huyện Lý Nhân',
@@ -1585,7 +1531,7 @@ return array (
     'latitude' => 20.56422,
     'longitude' => 106.09455,
   ),
-  176 => 
+  170 => 
   array (
     'id' => 130348,
     'name' => 'Huyện Lý Sơn',
@@ -1594,7 +1540,7 @@ return array (
     'latitude' => 15.40608,
     'longitude' => 109.09707,
   ),
-  177 => 
+  171 => 
   array (
     'id' => 130349,
     'name' => 'Huyện Lương Sơn',
@@ -1603,7 +1549,7 @@ return array (
     'latitude' => 20.8765,
     'longitude' => 105.51219,
   ),
-  178 => 
+  172 => 
   array (
     'id' => 130350,
     'name' => 'Huyện Lạc Thủy',
@@ -1612,7 +1558,7 @@ return array (
     'latitude' => 20.49794,
     'longitude' => 105.74092,
   ),
-  179 => 
+  173 => 
   array (
     'id' => 130351,
     'name' => 'Huyện Lấp Vò',
@@ -1621,7 +1567,7 @@ return array (
     'latitude' => 10.35918,
     'longitude' => 105.60611,
   ),
-  180 => 
+  174 => 
   array (
     'id' => 130352,
     'name' => 'Huyện Lệ Thủy',
@@ -1630,7 +1576,7 @@ return array (
     'latitude' => 17.11239,
     'longitude' => 106.70471,
   ),
-  181 => 
+  175 => 
   array (
     'id' => 130353,
     'name' => 'Huyện Lục Nam',
@@ -1639,7 +1585,7 @@ return array (
     'latitude' => 21.27548,
     'longitude' => 106.46519,
   ),
-  182 => 
+  176 => 
   array (
     'id' => 130354,
     'name' => 'Huyện Lục Ngạn',
@@ -1648,7 +1594,7 @@ return array (
     'latitude' => 21.43719,
     'longitude' => 106.65845,
   ),
-  183 => 
+  177 => 
   array (
     'id' => 130355,
     'name' => 'Huyện Lục Yên',
@@ -1657,7 +1603,7 @@ return array (
     'latitude' => 22.10235,
     'longitude' => 104.72538,
   ),
-  184 => 
+  178 => 
   array (
     'id' => 130356,
     'name' => 'Huyện Mai Sơn',
@@ -1666,7 +1612,7 @@ return array (
     'latitude' => 21.15884,
     'longitude' => 104.04821,
   ),
-  185 => 
+  179 => 
   array (
     'id' => 130357,
     'name' => 'Huyện Mang Thít',
@@ -1675,7 +1621,7 @@ return array (
     'latitude' => 10.18731,
     'longitude' => 106.07472,
   ),
-  186 => 
+  180 => 
   array (
     'id' => 130358,
     'name' => 'Huyện Mang Yang',
@@ -1684,7 +1630,7 @@ return array (
     'latitude' => 13.9284,
     'longitude' => 108.30246,
   ),
-  187 => 
+  181 => 
   array (
     'id' => 130359,
     'name' => 'Huyện Minh Long',
@@ -1693,7 +1639,7 @@ return array (
     'latitude' => 14.95375,
     'longitude' => 108.67724,
   ),
-  188 => 
+  182 => 
   array (
     'id' => 130360,
     'name' => 'Huyện Mù Cang Chải',
@@ -1702,7 +1648,7 @@ return array (
     'latitude' => 21.78815,
     'longitude' => 104.11998,
   ),
-  189 => 
+  183 => 
   array (
     'id' => 130361,
     'name' => 'Huyện Mưòng Tè',
@@ -1711,7 +1657,7 @@ return array (
     'latitude' => 22.37443,
     'longitude' => 102.73835,
   ),
-  190 => 
+  184 => 
   array (
     'id' => 130362,
     'name' => 'Huyện Mường Khương',
@@ -1720,7 +1666,7 @@ return array (
     'latitude' => 22.67111,
     'longitude' => 104.11772,
   ),
-  191 => 
+  185 => 
   array (
     'id' => 130363,
     'name' => 'Huyện Mường La',
@@ -1729,7 +1675,7 @@ return array (
     'latitude' => 21.5296,
     'longitude' => 104.11113,
   ),
-  192 => 
+  186 => 
   array (
     'id' => 130364,
     'name' => 'Huyện Mường Lát',
@@ -1738,7 +1684,7 @@ return array (
     'latitude' => 20.52763,
     'longitude' => 104.62941,
   ),
-  193 => 
+  187 => 
   array (
     'id' => 130365,
     'name' => 'Huyện Mường Nhé',
@@ -1747,7 +1693,7 @@ return array (
     'latitude' => 22.10353,
     'longitude' => 102.58465,
   ),
-  194 => 
+  188 => 
   array (
     'id' => 130366,
     'name' => 'Huyện Mộ Đức',
@@ -1756,7 +1702,7 @@ return array (
     'latitude' => 14.95515,
     'longitude' => 108.88841,
   ),
-  195 => 
+  189 => 
   array (
     'id' => 130367,
     'name' => 'Huyện Mộc Châu',
@@ -1765,7 +1711,7 @@ return array (
     'latitude' => 21.83333,
     'longitude' => 104.75,
   ),
-  196 => 
+  190 => 
   array (
     'id' => 130368,
     'name' => 'Huyện Mộc Hóa',
@@ -1774,7 +1720,7 @@ return array (
     'latitude' => 10.75166,
     'longitude' => 106.01729,
   ),
-  197 => 
+  191 => 
   array (
     'id' => 130369,
     'name' => 'Huyện Mỹ Hào',
@@ -1783,7 +1729,7 @@ return array (
     'latitude' => 20.9321,
     'longitude' => 106.1063,
   ),
-  198 => 
+  192 => 
   array (
     'id' => 130370,
     'name' => 'Huyện Mỹ Lộc',
@@ -1792,7 +1738,7 @@ return array (
     'latitude' => 20.46079,
     'longitude' => 106.12319,
   ),
-  199 => 
+  193 => 
   array (
     'id' => 130371,
     'name' => 'Huyện Mỹ Tú',
@@ -1801,7 +1747,7 @@ return array (
     'latitude' => 9.60849,
     'longitude' => 105.80681,
   ),
-  200 => 
+  194 => 
   array (
     'id' => 130372,
     'name' => 'Huyện Mỹ Xuyên',
@@ -1810,7 +1756,7 @@ return array (
     'latitude' => 9.442,
     'longitude' => 105.88546,
   ),
-  201 => 
+  195 => 
   array (
     'id' => 130373,
     'name' => 'Huyện Na Hang',
@@ -1819,7 +1765,7 @@ return array (
     'latitude' => 22.47522,
     'longitude' => 105.4838,
   ),
-  202 => 
+  196 => 
   array (
     'id' => 130374,
     'name' => 'Huyện Na Rì',
@@ -1828,7 +1774,7 @@ return array (
     'latitude' => 22.17883,
     'longitude' => 106.11221,
   ),
-  203 => 
+  197 => 
   array (
     'id' => 130375,
     'name' => 'Huyện Nam Giang',
@@ -1837,7 +1783,7 @@ return array (
     'latitude' => 15.63201,
     'longitude' => 107.60267,
   ),
-  204 => 
+  198 => 
   array (
     'id' => 130376,
     'name' => 'Huyện Nam Sách',
@@ -1846,7 +1792,7 @@ return array (
     'latitude' => 21.00484,
     'longitude' => 106.34042,
   ),
-  205 => 
+  199 => 
   array (
     'id' => 130377,
     'name' => 'Huyện Nam Trực',
@@ -1855,7 +1801,7 @@ return array (
     'latitude' => 20.34106,
     'longitude' => 106.20821,
   ),
-  206 => 
+  200 => 
   array (
     'id' => 130378,
     'name' => 'Huyện Nam Đàn',
@@ -1864,7 +1810,7 @@ return array (
     'latitude' => 18.67041,
     'longitude' => 105.52575,
   ),
-  207 => 
+  201 => 
   array (
     'id' => 130379,
     'name' => 'Huyện Nam Đông',
@@ -1873,7 +1819,7 @@ return array (
     'latitude' => 16.12396,
     'longitude' => 107.6927,
   ),
-  208 => 
+  202 => 
   array (
     'id' => 130380,
     'name' => 'Huyện Nga Sơn',
@@ -1882,7 +1828,7 @@ return array (
     'latitude' => 20.01561,
     'longitude' => 105.98975,
   ),
-  209 => 
+  203 => 
   array (
     'id' => 130381,
     'name' => 'Huyện Nghi Lộc',
@@ -1891,7 +1837,7 @@ return array (
     'latitude' => 18.83131,
     'longitude' => 105.62411,
   ),
-  210 => 
+  204 => 
   array (
     'id' => 130382,
     'name' => 'Huyện Nghi Xuân',
@@ -1900,7 +1846,7 @@ return array (
     'latitude' => 18.62419,
     'longitude' => 105.76829,
   ),
-  211 => 
+  205 => 
   array (
     'id' => 130383,
     'name' => 'Huyện Nghĩa Hành',
@@ -1909,7 +1855,7 @@ return array (
     'latitude' => 14.98712,
     'longitude' => 108.80036,
   ),
-  212 => 
+  206 => 
   array (
     'id' => 130384,
     'name' => 'Huyện Nghĩa Hưng',
@@ -1918,7 +1864,7 @@ return array (
     'latitude' => 20.10598,
     'longitude' => 106.17345,
   ),
-  213 => 
+  207 => 
   array (
     'id' => 130385,
     'name' => 'Huyện Nghĩa Đàn',
@@ -1927,7 +1873,7 @@ return array (
     'latitude' => 19.38234,
     'longitude' => 105.44072,
   ),
-  214 => 
+  208 => 
   array (
     'id' => 130386,
     'name' => 'Huyện Nguyên Bình',
@@ -1936,7 +1882,7 @@ return array (
     'latitude' => 22.624,
     'longitude' => 105.93248,
   ),
-  215 => 
+  209 => 
   array (
     'id' => 130387,
     'name' => 'Huyện Ngân Sơn',
@@ -1945,7 +1891,7 @@ return array (
     'latitude' => 22.42962,
     'longitude' => 106.0103,
   ),
-  216 => 
+  210 => 
   array (
     'id' => 130388,
     'name' => 'Huyện Ngọc Hồi',
@@ -1954,7 +1900,7 @@ return array (
     'latitude' => 14.7194,
     'longitude' => 107.62636,
   ),
-  217 => 
+  211 => 
   array (
     'id' => 130389,
     'name' => 'Huyện Ngọc Lặc',
@@ -1963,7 +1909,7 @@ return array (
     'latitude' => 20.06777,
     'longitude' => 105.37386,
   ),
-  218 => 
+  212 => 
   array (
     'id' => 130390,
     'name' => 'Huyện Nho Quan',
@@ -1972,7 +1918,7 @@ return array (
     'latitude' => 20.27606,
     'longitude' => 105.75442,
   ),
-  219 => 
+  213 => 
   array (
     'id' => 130391,
     'name' => 'Huyện Như Thanh',
@@ -1981,7 +1927,7 @@ return array (
     'latitude' => 19.57798,
     'longitude' => 105.55616,
   ),
-  220 => 
+  214 => 
   array (
     'id' => 130392,
     'name' => 'Huyện Như Xuân',
@@ -1990,7 +1936,7 @@ return array (
     'latitude' => 19.62527,
     'longitude' => 105.38856,
   ),
-  221 => 
+  215 => 
   array (
     'id' => 130393,
     'name' => 'Huyện Nông Cống',
@@ -1999,7 +1945,7 @@ return array (
     'latitude' => 19.61376,
     'longitude' => 105.68279,
   ),
-  222 => 
+  216 => 
   array (
     'id' => 130394,
     'name' => 'Huyện Núi Thành',
@@ -2008,7 +1954,7 @@ return array (
     'latitude' => 15.43345,
     'longitude' => 108.57438,
   ),
-  223 => 
+  217 => 
   array (
     'id' => 130395,
     'name' => 'Huyện Phong Điền',
@@ -2017,7 +1963,7 @@ return array (
     'latitude' => 16.48769,
     'longitude' => 107.28889,
   ),
-  224 => 
+  218 => 
   array (
     'id' => 130396,
     'name' => 'Huyện Phù Cừ',
@@ -2026,7 +1972,7 @@ return array (
     'latitude' => 20.70997,
     'longitude' => 106.19744,
   ),
-  225 => 
+  219 => 
   array (
     'id' => 130397,
     'name' => 'Huyện Phù Mỹ',
@@ -2035,7 +1981,7 @@ return array (
     'latitude' => 14.22304,
     'longitude' => 109.08611,
   ),
-  226 => 
+  220 => 
   array (
     'id' => 130398,
     'name' => 'Huyện Phù Yên',
@@ -2044,7 +1990,7 @@ return array (
     'latitude' => 21.21412,
     'longitude' => 104.68993,
   ),
-  227 => 
+  221 => 
   array (
     'id' => 130399,
     'name' => 'Huyện Phú Lộc',
@@ -2053,7 +1999,7 @@ return array (
     'latitude' => 16.27066,
     'longitude' => 107.88545,
   ),
-  228 => 
+  222 => 
   array (
     'id' => 130400,
     'name' => 'Huyện Phú Quốc',
@@ -2062,7 +2008,7 @@ return array (
     'latitude' => 10.25516,
     'longitude' => 104.01455,
   ),
-  229 => 
+  223 => 
   array (
     'id' => 130401,
     'name' => 'Huyện Phú Tân',
@@ -2071,7 +2017,7 @@ return array (
     'latitude' => 10.65716,
     'longitude' => 105.28459,
   ),
-  230 => 
+  224 => 
   array (
     'id' => 130402,
     'name' => 'Huyện Phú Vang',
@@ -2080,7 +2026,7 @@ return array (
     'latitude' => 16.47007,
     'longitude' => 107.71458,
   ),
-  231 => 
+  225 => 
   array (
     'id' => 130403,
     'name' => 'Huyện Phước Sơn',
@@ -2089,7 +2035,7 @@ return array (
     'latitude' => 15.38806,
     'longitude' => 107.85766,
   ),
-  232 => 
+  226 => 
   array (
     'id' => 130404,
     'name' => 'Huyện Quan Hóa',
@@ -2098,7 +2044,7 @@ return array (
     'latitude' => 20.47565,
     'longitude' => 104.95335,
   ),
-  233 => 
+  227 => 
   array (
     'id' => 130405,
     'name' => 'Huyện Quan Sơn',
@@ -2107,7 +2053,7 @@ return array (
     'latitude' => 20.25758,
     'longitude' => 104.83416,
   ),
-  234 => 
+  228 => 
   array (
     'id' => 130406,
     'name' => 'Huyện Quang Bình',
@@ -2116,7 +2062,7 @@ return array (
     'latitude' => 22.41507,
     'longitude' => 104.66018,
   ),
-  235 => 
+  229 => 
   array (
     'id' => 130407,
     'name' => 'Huyện Quảng Ninh',
@@ -2125,7 +2071,7 @@ return array (
     'latitude' => 17.27067,
     'longitude' => 106.51387,
   ),
-  236 => 
+  230 => 
   array (
     'id' => 130408,
     'name' => 'Huyện Quảng Trạch',
@@ -2134,7 +2080,7 @@ return array (
     'latitude' => 17.83447,
     'longitude' => 106.36705,
   ),
-  237 => 
+  231 => 
   array (
     'id' => 130409,
     'name' => 'Huyện Quảng Xương',
@@ -2143,7 +2089,7 @@ return array (
     'latitude' => 19.70252,
     'longitude' => 105.79298,
   ),
-  238 => 
+  232 => 
   array (
     'id' => 130410,
     'name' => 'Huyện Quảng Ðiền',
@@ -2152,7 +2098,7 @@ return array (
     'latitude' => 16.57941,
     'longitude' => 107.4937,
   ),
-  239 => 
+  233 => 
   array (
     'id' => 130411,
     'name' => 'Huyện Quế Phong',
@@ -2161,7 +2107,7 @@ return array (
     'latitude' => 19.70177,
     'longitude' => 104.87913,
   ),
-  240 => 
+  234 => 
   array (
     'id' => 130412,
     'name' => 'Bắc Từ Liêm',
@@ -2170,7 +2116,7 @@ return array (
     'latitude' => 21.0714868,
     'longitude' => 105.7199226,
   ),
-  241 => 
+  235 => 
   array (
     'id' => 130413,
     'name' => 'Huyện Quỳ Châu',
@@ -2179,7 +2125,7 @@ return array (
     'latitude' => 19.55707,
     'longitude' => 105.09173,
   ),
-  242 => 
+  236 => 
   array (
     'id' => 130414,
     'name' => 'Huyện Quỳ Hợp',
@@ -2188,7 +2134,7 @@ return array (
     'latitude' => 19.32514,
     'longitude' => 105.16009,
   ),
-  243 => 
+  237 => 
   array (
     'id' => 130415,
     'name' => 'Huyện Quỳnh Lưu',
@@ -2197,7 +2143,7 @@ return array (
     'latitude' => 19.22717,
     'longitude' => 105.64354,
   ),
-  244 => 
+  238 => 
   array (
     'id' => 130416,
     'name' => 'Huyện Quỳnh Nhai',
@@ -2206,7 +2152,7 @@ return array (
     'latitude' => 21.77224,
     'longitude' => 103.6492,
   ),
-  245 => 
+  239 => 
   array (
     'id' => 130417,
     'name' => 'Huyện Quỳnh Phụ',
@@ -2215,7 +2161,7 @@ return array (
     'latitude' => 20.65095,
     'longitude' => 106.36359,
   ),
-  246 => 
+  240 => 
   array (
     'id' => 130418,
     'name' => 'Huyện Sa Pa',
@@ -2224,7 +2170,7 @@ return array (
     'latitude' => 22.33769,
     'longitude' => 103.84037,
   ),
-  247 => 
+  241 => 
   array (
     'id' => 130419,
     'name' => 'Huyện Sa Thầy',
@@ -2233,7 +2179,7 @@ return array (
     'latitude' => 14.3205,
     'longitude' => 107.59862,
   ),
-  248 => 
+  242 => 
   array (
     'id' => 130420,
     'name' => 'Huyện Si Ma Cai',
@@ -2242,7 +2188,7 @@ return array (
     'latitude' => 22.67161,
     'longitude' => 104.27326,
   ),
-  249 => 
+  243 => 
   array (
     'id' => 130421,
     'name' => 'Huyện Sông Hinh',
@@ -2251,7 +2197,7 @@ return array (
     'latitude' => 12.91667,
     'longitude' => 108.91667,
   ),
-  250 => 
+  244 => 
   array (
     'id' => 130422,
     'name' => 'Huyện Sông Mã',
@@ -2260,7 +2206,7 @@ return array (
     'latitude' => 21.06971,
     'longitude' => 103.68727,
   ),
-  251 => 
+  245 => 
   array (
     'id' => 130423,
     'name' => 'Huyện Sơn Dương',
@@ -2269,7 +2215,7 @@ return array (
     'latitude' => 21.63623,
     'longitude' => 105.38901,
   ),
-  252 => 
+  246 => 
   array (
     'id' => 130424,
     'name' => 'Huyện Sơn Hà',
@@ -2278,7 +2224,7 @@ return array (
     'latitude' => 14.98427,
     'longitude' => 108.53643,
   ),
-  253 => 
+  247 => 
   array (
     'id' => 130425,
     'name' => 'Huyện Sơn Hòa',
@@ -2287,7 +2233,7 @@ return array (
     'latitude' => 13.15868,
     'longitude' => 108.97281,
   ),
-  254 => 
+  248 => 
   array (
     'id' => 130426,
     'name' => 'Huyện Sơn Tây',
@@ -2296,7 +2242,7 @@ return array (
     'latitude' => 14.96392,
     'longitude' => 108.36419,
   ),
-  255 => 
+  249 => 
   array (
     'id' => 130427,
     'name' => 'Huyện Sơn Tịnh',
@@ -2305,7 +2251,7 @@ return array (
     'latitude' => 15.1909,
     'longitude' => 108.74295,
   ),
-  256 => 
+  250 => 
   array (
     'id' => 130428,
     'name' => 'Huyện Tam Bình',
@@ -2314,7 +2260,7 @@ return array (
     'latitude' => 10.08127,
     'longitude' => 105.95352,
   ),
-  257 => 
+  251 => 
   array (
     'id' => 130429,
     'name' => 'Huyện Tam Dương',
@@ -2323,7 +2269,7 @@ return array (
     'latitude' => 21.36189,
     'longitude' => 105.5569,
   ),
-  258 => 
+  252 => 
   array (
     'id' => 130430,
     'name' => 'Huyện Tam Nông',
@@ -2332,7 +2278,7 @@ return array (
     'latitude' => 10.72761,
     'longitude' => 105.52522,
   ),
-  259 => 
+  253 => 
   array (
     'id' => 130431,
     'name' => 'Huyện Tam Đường',
@@ -2341,7 +2287,7 @@ return array (
     'latitude' => 22.35391,
     'longitude' => 103.59342,
   ),
-  260 => 
+  254 => 
   array (
     'id' => 130432,
     'name' => 'Huyện Tam Đảo',
@@ -2350,7 +2296,7 @@ return array (
     'latitude' => 21.4569,
     'longitude' => 105.5946,
   ),
-  261 => 
+  255 => 
   array (
     'id' => 130433,
     'name' => 'Huyện Than Uyên',
@@ -2359,7 +2305,7 @@ return array (
     'latitude' => 21.91424,
     'longitude' => 103.82857,
   ),
-  262 => 
+  256 => 
   array (
     'id' => 130434,
     'name' => 'Huyện Thanh Ba',
@@ -2368,7 +2314,7 @@ return array (
     'latitude' => 21.47816,
     'longitude' => 105.15881,
   ),
-  263 => 
+  257 => 
   array (
     'id' => 130435,
     'name' => 'Huyện Thanh Bình',
@@ -2377,7 +2323,7 @@ return array (
     'latitude' => 10.60137,
     'longitude' => 105.47811,
   ),
-  264 => 
+  258 => 
   array (
     'id' => 130436,
     'name' => 'Huyện Thanh Chương',
@@ -2386,7 +2332,7 @@ return array (
     'latitude' => 18.73929,
     'longitude' => 105.24053,
   ),
-  265 => 
+  259 => 
   array (
     'id' => 130437,
     'name' => 'Huyện Thanh Liêm',
@@ -2395,7 +2341,7 @@ return array (
     'latitude' => 20.46249,
     'longitude' => 105.921,
   ),
-  266 => 
+  260 => 
   array (
     'id' => 130438,
     'name' => 'Huyện Thanh Miện',
@@ -2404,7 +2350,7 @@ return array (
     'latitude' => 20.77953,
     'longitude' => 106.22218,
   ),
-  267 => 
+  261 => 
   array (
     'id' => 130439,
     'name' => 'Huyện Thiệu Hóa',
@@ -2413,7 +2359,7 @@ return array (
     'latitude' => 19.89713,
     'longitude' => 105.68144,
   ),
-  268 => 
+  262 => 
   array (
     'id' => 130440,
     'name' => 'Huyện Thuận Châu',
@@ -2422,7 +2368,7 @@ return array (
     'latitude' => 21.42319,
     'longitude' => 103.64408,
   ),
-  269 => 
+  263 => 
   array (
     'id' => 130441,
     'name' => 'Huyện Thuận Thành',
@@ -2431,7 +2377,7 @@ return array (
     'latitude' => 21.04085,
     'longitude' => 106.07515,
   ),
-  270 => 
+  264 => 
   array (
     'id' => 130442,
     'name' => 'Huyện Thái Thụy',
@@ -2440,7 +2386,7 @@ return array (
     'latitude' => 20.53916,
     'longitude' => 106.51688,
   ),
-  271 => 
+  265 => 
   array (
     'id' => 130443,
     'name' => 'Huyện Tháp Mười',
@@ -2449,7 +2395,7 @@ return array (
     'latitude' => 10.54398,
     'longitude' => 105.81875,
   ),
-  272 => 
+  266 => 
   array (
     'id' => 130444,
     'name' => 'Huyện Thông Nông',
@@ -2458,7 +2404,7 @@ return array (
     'latitude' => 22.80735,
     'longitude' => 105.95846,
   ),
-  273 => 
+  267 => 
   array (
     'id' => 130445,
     'name' => 'Huyện Thường Xuân',
@@ -2467,7 +2413,7 @@ return array (
     'latitude' => 19.93684,
     'longitude' => 105.24109,
   ),
-  274 => 
+  268 => 
   array (
     'id' => 130446,
     'name' => 'Huyện Thạch An',
@@ -2476,7 +2422,7 @@ return array (
     'latitude' => 22.47654,
     'longitude' => 106.34237,
   ),
-  275 => 
+  269 => 
   array (
     'id' => 130447,
     'name' => 'Huyện Thạch Hà',
@@ -2485,7 +2431,7 @@ return array (
     'latitude' => 18.35091,
     'longitude' => 105.81123,
   ),
-  276 => 
+  270 => 
   array (
     'id' => 130448,
     'name' => 'Huyện Thạnh Hóa',
@@ -2494,7 +2440,7 @@ return array (
     'latitude' => 10.66667,
     'longitude' => 106.16667,
   ),
-  277 => 
+  271 => 
   array (
     'id' => 130449,
     'name' => 'Huyện Thạnh Phú',
@@ -2503,7 +2449,7 @@ return array (
     'latitude' => 9.92993,
     'longitude' => 106.54316,
   ),
-  278 => 
+  272 => 
   array (
     'id' => 130450,
     'name' => 'Huyện Thạnh Trị',
@@ -2512,7 +2458,7 @@ return array (
     'latitude' => 9.46939,
     'longitude' => 105.71196,
   ),
-  279 => 
+  273 => 
   array (
     'id' => 130451,
     'name' => 'Huyện Thọ Xuân',
@@ -2521,7 +2467,7 @@ return array (
     'latitude' => 19.93114,
     'longitude' => 105.48284,
   ),
-  280 => 
+  274 => 
   array (
     'id' => 130452,
     'name' => 'Huyện Thống Nhất',
@@ -2530,7 +2476,7 @@ return array (
     'latitude' => 10.97764,
     'longitude' => 107.15909,
   ),
-  281 => 
+  275 => 
   array (
     'id' => 130453,
     'name' => 'Huyện Thới Bình',
@@ -2539,7 +2485,7 @@ return array (
     'latitude' => 9.3579,
     'longitude' => 105.16023,
   ),
-  282 => 
+  276 => 
   array (
     'id' => 130454,
     'name' => 'Huyện Thủ Thừa',
@@ -2548,7 +2494,7 @@ return array (
     'latitude' => 10.65639,
     'longitude' => 106.3458,
   ),
-  283 => 
+  277 => 
   array (
     'id' => 130455,
     'name' => 'Huyện Tiên Du',
@@ -2557,7 +2503,7 @@ return array (
     'latitude' => 21.12195,
     'longitude' => 106.03995,
   ),
-  284 => 
+  278 => 
   array (
     'id' => 130456,
     'name' => 'Huyện Tiên Lữ',
@@ -2566,7 +2512,7 @@ return array (
     'latitude' => 20.6849,
     'longitude' => 106.12513,
   ),
-  285 => 
+  279 => 
   array (
     'id' => 130457,
     'name' => 'Huyện Tiên Phước',
@@ -2575,7 +2521,7 @@ return array (
     'latitude' => 15.4709,
     'longitude' => 108.28257,
   ),
-  286 => 
+  280 => 
   array (
     'id' => 130458,
     'name' => 'Huyện Tiên Yên',
@@ -2584,7 +2530,7 @@ return array (
     'latitude' => 21.37571,
     'longitude' => 107.37468,
   ),
-  287 => 
+  281 => 
   array (
     'id' => 130459,
     'name' => 'Huyện Tiền Hải',
@@ -2593,7 +2539,7 @@ return array (
     'latitude' => 20.38465,
     'longitude' => 106.52882,
   ),
-  288 => 
+  282 => 
   array (
     'id' => 130460,
     'name' => 'Huyện Tiểu Cần',
@@ -2602,7 +2548,7 @@ return array (
     'latitude' => 9.8035,
     'longitude' => 106.20594,
   ),
-  289 => 
+  283 => 
   array (
     'id' => 130461,
     'name' => 'Huyện Tri Tôn',
@@ -2611,7 +2557,7 @@ return array (
     'latitude' => 10.41416,
     'longitude' => 104.96136,
   ),
-  290 => 
+  284 => 
   array (
     'id' => 130462,
     'name' => 'Huyện Triệu Phong',
@@ -2620,7 +2566,7 @@ return array (
     'latitude' => 16.78132,
     'longitude' => 107.16034,
   ),
-  291 => 
+  285 => 
   array (
     'id' => 130463,
     'name' => 'Huyện Triệu Sơn',
@@ -2629,7 +2575,7 @@ return array (
     'latitude' => 19.82578,
     'longitude' => 105.58293,
   ),
-  292 => 
+  286 => 
   array (
     'id' => 130464,
     'name' => 'Huyện Trà Bồng',
@@ -2638,7 +2584,7 @@ return array (
     'latitude' => 15.23752,
     'longitude' => 108.52633,
   ),
-  293 => 
+  287 => 
   array (
     'id' => 130465,
     'name' => 'Huyện Trà Cú',
@@ -2647,7 +2593,7 @@ return array (
     'latitude' => 9.69706,
     'longitude' => 106.29423,
   ),
-  294 => 
+  288 => 
   array (
     'id' => 130466,
     'name' => 'Huyện Trà Lĩnh',
@@ -2656,7 +2602,7 @@ return array (
     'latitude' => 22.80961,
     'longitude' => 106.32543,
   ),
-  295 => 
+  289 => 
   array (
     'id' => 130467,
     'name' => 'Huyện Trà My',
@@ -2665,7 +2611,7 @@ return array (
     'latitude' => 15.25,
     'longitude' => 108.08333,
   ),
-  296 => 
+  290 => 
   array (
     'id' => 130468,
     'name' => 'Huyện Trà Ôn',
@@ -2674,7 +2620,7 @@ return array (
     'latitude' => 9.97522,
     'longitude' => 106.00957,
   ),
-  297 => 
+  291 => 
   array (
     'id' => 130469,
     'name' => 'Huyện Trùng Khánh',
@@ -2683,7 +2629,7 @@ return array (
     'latitude' => 22.83333,
     'longitude' => 106.56074,
   ),
-  298 => 
+  292 => 
   array (
     'id' => 130470,
     'name' => 'Huyện Trạm Tấu',
@@ -2692,7 +2638,7 @@ return array (
     'latitude' => 21.48553,
     'longitude' => 104.42756,
   ),
-  299 => 
+  293 => 
   array (
     'id' => 130471,
     'name' => 'Huyện Trảng Bom',
@@ -2701,7 +2647,7 @@ return array (
     'latitude' => 10.96624,
     'longitude' => 107.03614,
   ),
-  300 => 
+  294 => 
   array (
     'id' => 130472,
     'name' => 'Huyện Trảng Bàng',
@@ -2710,7 +2656,7 @@ return array (
     'latitude' => 11.0572,
     'longitude' => 106.37539,
   ),
-  301 => 
+  295 => 
   array (
     'id' => 130473,
     'name' => 'Huyện Trấn Yên',
@@ -2719,7 +2665,7 @@ return array (
     'latitude' => 21.66586,
     'longitude' => 104.79702,
   ),
-  302 => 
+  296 => 
   array (
     'id' => 130474,
     'name' => 'Huyện Trực Ninh',
@@ -2728,7 +2674,7 @@ return array (
     'latitude' => 20.2569,
     'longitude' => 106.24582,
   ),
-  303 => 
+  297 => 
   array (
     'id' => 130475,
     'name' => 'Huyện Tuy Phong',
@@ -2737,7 +2683,7 @@ return array (
     'latitude' => 11.34746,
     'longitude' => 108.70466,
   ),
-  304 => 
+  298 => 
   array (
     'id' => 130476,
     'name' => 'Huyện Tuy Phước',
@@ -2746,7 +2692,7 @@ return array (
     'latitude' => 13.84564,
     'longitude' => 109.15275,
   ),
-  305 => 
+  299 => 
   array (
     'id' => 130477,
     'name' => 'Huyện Tuyên Hóa',
@@ -2755,7 +2701,7 @@ return array (
     'latitude' => 17.91323,
     'longitude' => 106.02678,
   ),
-  306 => 
+  300 => 
   array (
     'id' => 130478,
     'name' => 'Huyện Tuần Giáo',
@@ -2764,7 +2710,7 @@ return array (
     'latitude' => 21.69481,
     'longitude' => 103.41758,
   ),
-  307 => 
+  301 => 
   array (
     'id' => 130479,
     'name' => 'Huyện Tánh Linh',
@@ -2773,7 +2719,7 @@ return array (
     'latitude' => 11.11367,
     'longitude' => 107.68427,
   ),
-  308 => 
+  302 => 
   array (
     'id' => 130480,
     'name' => 'Huyện Tân Châu',
@@ -2782,7 +2728,7 @@ return array (
     'latitude' => 11.58739,
     'longitude' => 106.2827,
   ),
-  309 => 
+  303 => 
   array (
     'id' => 130481,
     'name' => 'Huyện Tân Hiệp',
@@ -2791,7 +2737,7 @@ return array (
     'latitude' => 10.0954,
     'longitude' => 105.25936,
   ),
-  310 => 
+  304 => 
   array (
     'id' => 130482,
     'name' => 'Huyện Tân Hưng',
@@ -2800,7 +2746,7 @@ return array (
     'latitude' => 10.8338,
     'longitude' => 105.68848,
   ),
-  311 => 
+  305 => 
   array (
     'id' => 130483,
     'name' => 'Huyện Tân Hồng',
@@ -2809,7 +2755,7 @@ return array (
     'latitude' => 10.87089,
     'longitude' => 105.49104,
   ),
-  312 => 
+  306 => 
   array (
     'id' => 130484,
     'name' => 'Huyện Tân Lạc',
@@ -2818,7 +2764,7 @@ return array (
     'latitude' => 20.60557,
     'longitude' => 105.23399,
   ),
-  313 => 
+  307 => 
   array (
     'id' => 130485,
     'name' => 'Huyện Tân Phú',
@@ -2827,7 +2773,7 @@ return array (
     'latitude' => 11.39867,
     'longitude' => 107.39976,
   ),
-  314 => 
+  308 => 
   array (
     'id' => 130486,
     'name' => 'Huyện Tân Phước',
@@ -2836,7 +2782,7 @@ return array (
     'latitude' => 10.51489,
     'longitude' => 106.23312,
   ),
-  315 => 
+  309 => 
   array (
     'id' => 130487,
     'name' => 'Huyện Tân Thành',
@@ -2845,7 +2791,7 @@ return array (
     'latitude' => 10.57381,
     'longitude' => 107.10189,
   ),
-  316 => 
+  310 => 
   array (
     'id' => 130488,
     'name' => 'Huyện Tân Thạnh',
@@ -2854,7 +2800,7 @@ return array (
     'latitude' => 10.60351,
     'longitude' => 105.96576,
   ),
-  317 => 
+  311 => 
   array (
     'id' => 130489,
     'name' => 'Huyện Tân Trụ',
@@ -2863,7 +2809,7 @@ return array (
     'latitude' => 10.53182,
     'longitude' => 106.51644,
   ),
-  318 => 
+  312 => 
   array (
     'id' => 130490,
     'name' => 'Huyện Tây Sơn',
@@ -2872,7 +2818,7 @@ return array (
     'latitude' => 13.94306,
     'longitude' => 108.87999,
   ),
-  319 => 
+  313 => 
   array (
     'id' => 130491,
     'name' => 'Huyện Tư Nghĩa',
@@ -2881,7 +2827,7 @@ return array (
     'latitude' => 15.09499,
     'longitude' => 108.77053,
   ),
-  320 => 
+  314 => 
   array (
     'id' => 130492,
     'name' => 'Huyện Tương Dương',
@@ -2890,7 +2836,7 @@ return array (
     'latitude' => 19.30979,
     'longitude' => 104.57788,
   ),
-  321 => 
+  315 => 
   array (
     'id' => 130493,
     'name' => 'Huyện Tủa Chùa',
@@ -2899,7 +2845,7 @@ return array (
     'latitude' => 21.95357,
     'longitude' => 103.37332,
   ),
-  322 => 
+  316 => 
   array (
     'id' => 130494,
     'name' => 'Huyện Vân Đồn',
@@ -2908,7 +2854,7 @@ return array (
     'latitude' => 21.04921,
     'longitude' => 107.50971,
   ),
-  323 => 
+  317 => 
   array (
     'id' => 130495,
     'name' => 'Huyện Văn Bàn',
@@ -2917,7 +2863,7 @@ return array (
     'latitude' => 22.07002,
     'longitude' => 104.18122,
   ),
-  324 => 
+  318 => 
   array (
     'id' => 130496,
     'name' => 'Huyện Văn Chấn',
@@ -2926,7 +2872,7 @@ return array (
     'latitude' => 21.55722,
     'longitude' => 104.64038,
   ),
-  325 => 
+  319 => 
   array (
     'id' => 130497,
     'name' => 'Huyện Văn Yên',
@@ -2935,7 +2881,7 @@ return array (
     'latitude' => 21.90022,
     'longitude' => 104.56669,
   ),
-  326 => 
+  320 => 
   array (
     'id' => 130498,
     'name' => 'Huyện Vĩnh Cửu',
@@ -2944,7 +2890,7 @@ return array (
     'latitude' => 11.25725,
     'longitude' => 107.02773,
   ),
-  327 => 
+  321 => 
   array (
     'id' => 130499,
     'name' => 'Huyện Vĩnh Hưng',
@@ -2953,7 +2899,7 @@ return array (
     'latitude' => 10.88299,
     'longitude' => 105.80364,
   ),
-  328 => 
+  322 => 
   array (
     'id' => 130500,
     'name' => 'Huyện Vĩnh Linh',
@@ -2962,7 +2908,7 @@ return array (
     'latitude' => 17.016,
     'longitude' => 106.93384,
   ),
-  329 => 
+  323 => 
   array (
     'id' => 130501,
     'name' => 'Huyện Vĩnh Lộc',
@@ -2971,7 +2917,7 @@ return array (
     'latitude' => 20.03482,
     'longitude' => 105.65755,
   ),
-  330 => 
+  324 => 
   array (
     'id' => 130502,
     'name' => 'Huyện Vĩnh Thuận',
@@ -2980,7 +2926,7 @@ return array (
     'latitude' => 9.53306,
     'longitude' => 105.2449,
   ),
-  331 => 
+  325 => 
   array (
     'id' => 130503,
     'name' => 'Huyện Vĩnh Thạnh',
@@ -2989,7 +2935,7 @@ return array (
     'latitude' => 14.211,
     'longitude' => 108.74389,
   ),
-  332 => 
+  326 => 
   array (
     'id' => 130504,
     'name' => 'Huyện Vũ Thư',
@@ -2998,7 +2944,7 @@ return array (
     'latitude' => 20.43732,
     'longitude' => 106.26529,
   ),
-  333 => 
+  327 => 
   array (
     'id' => 130505,
     'name' => 'Huyện Vũng Liêm',
@@ -3007,7 +2953,7 @@ return array (
     'latitude' => 10.08717,
     'longitude' => 106.16038,
   ),
-  334 => 
+  328 => 
   array (
     'id' => 130506,
     'name' => 'Huyện Vạn Ninh',
@@ -3016,7 +2962,7 @@ return array (
     'latitude' => 12.72344,
     'longitude' => 109.24586,
   ),
-  335 => 
+  329 => 
   array (
     'id' => 130507,
     'name' => 'Huyện Vặn Quan',
@@ -3025,7 +2971,7 @@ return array (
     'latitude' => 21.83333,
     'longitude' => 106.54942,
   ),
-  336 => 
+  330 => 
   array (
     'id' => 130508,
     'name' => 'Huyện Vị Xuyên',
@@ -3034,7 +2980,7 @@ return array (
     'latitude' => 22.73096,
     'longitude' => 104.90827,
   ),
-  337 => 
+  331 => 
   array (
     'id' => 130509,
     'name' => 'Huyện Vụ Bản',
@@ -3043,7 +2989,7 @@ return array (
     'latitude' => 20.37705,
     'longitude' => 106.09707,
   ),
-  338 => 
+  332 => 
   array (
     'id' => 130510,
     'name' => 'Huyện Xuyên Mộc',
@@ -3052,7 +2998,7 @@ return array (
     'latitude' => 10.63048,
     'longitude' => 107.46568,
   ),
-  339 => 
+  333 => 
   array (
     'id' => 130511,
     'name' => 'Huyện Xín Mần',
@@ -3061,7 +3007,7 @@ return array (
     'latitude' => 22.64148,
     'longitude' => 104.52089,
   ),
-  340 => 
+  334 => 
   array (
     'id' => 130512,
     'name' => 'Huyện Yên Châu',
@@ -3070,7 +3016,7 @@ return array (
     'latitude' => 21.005,
     'longitude' => 104.33264,
   ),
-  341 => 
+  335 => 
   array (
     'id' => 130513,
     'name' => 'Huyện Yên Khánh',
@@ -3079,7 +3025,7 @@ return array (
     'latitude' => 20.19017,
     'longitude' => 106.09605,
   ),
-  342 => 
+  336 => 
   array (
     'id' => 130514,
     'name' => 'Huyện Yên Lạc',
@@ -3088,7 +3034,7 @@ return array (
     'latitude' => 21.21845,
     'longitude' => 105.57586,
   ),
-  343 => 
+  337 => 
   array (
     'id' => 130515,
     'name' => 'Huyện Yên Lập',
@@ -3097,7 +3043,7 @@ return array (
     'latitude' => 21.35569,
     'longitude' => 105.00493,
   ),
-  344 => 
+  338 => 
   array (
     'id' => 130516,
     'name' => 'Huyện Yên Minh',
@@ -3106,7 +3052,7 @@ return array (
     'latitude' => 23.06992,
     'longitude' => 105.17865,
   ),
-  345 => 
+  339 => 
   array (
     'id' => 130517,
     'name' => 'Huyện Yên Mô',
@@ -3115,7 +3061,7 @@ return array (
     'latitude' => 20.12984,
     'longitude' => 106.00199,
   ),
-  346 => 
+  340 => 
   array (
     'id' => 130518,
     'name' => 'Huyện Yên Phong',
@@ -3124,7 +3070,7 @@ return array (
     'latitude' => 21.20676,
     'longitude' => 105.99427,
   ),
-  347 => 
+  341 => 
   array (
     'id' => 130519,
     'name' => 'Huyện Yên Sơn',
@@ -3133,7 +3079,7 @@ return array (
     'latitude' => 21.88363,
     'longitude' => 105.27656,
   ),
-  348 => 
+  342 => 
   array (
     'id' => 130520,
     'name' => 'Huyện Yên Thành',
@@ -3142,7 +3088,7 @@ return array (
     'latitude' => 19.02724,
     'longitude' => 105.43649,
   ),
-  349 => 
+  343 => 
   array (
     'id' => 130521,
     'name' => 'Huyện Yên Thế',
@@ -3151,7 +3097,7 @@ return array (
     'latitude' => 21.51667,
     'longitude' => 106.11689,
   ),
-  350 => 
+  344 => 
   array (
     'id' => 130522,
     'name' => 'Huyện Yên Định',
@@ -3160,7 +3106,7 @@ return array (
     'latitude' => 19.98666,
     'longitude' => 105.61482,
   ),
-  351 => 
+  345 => 
   array (
     'id' => 130523,
     'name' => 'Huyện Ân Thi',
@@ -3169,7 +3115,7 @@ return array (
     'latitude' => 20.81086,
     'longitude' => 106.09995,
   ),
-  352 => 
+  346 => 
   array (
     'id' => 130524,
     'name' => 'Huyện Ðông Hưng',
@@ -3178,7 +3124,7 @@ return array (
     'latitude' => 20.54388,
     'longitude' => 106.3409,
   ),
-  353 => 
+  347 => 
   array (
     'id' => 130525,
     'name' => 'Huyện Ðức Thọ',
@@ -3187,7 +3133,7 @@ return array (
     'latitude' => 18.49699,
     'longitude' => 105.61016,
   ),
-  354 => 
+  348 => 
   array (
     'id' => 130526,
     'name' => 'Huyện Ý Yên',
@@ -3196,7 +3142,7 @@ return array (
     'latitude' => 20.31669,
     'longitude' => 106.02327,
   ),
-  355 => 
+  349 => 
   array (
     'id' => 130527,
     'name' => 'Huyện Đa Krông',
@@ -3205,7 +3151,7 @@ return array (
     'latitude' => 16.55543,
     'longitude' => 106.97208,
   ),
-  356 => 
+  350 => 
   array (
     'id' => 130528,
     'name' => 'Huyện Điện Biên Đông',
@@ -3214,7 +3160,7 @@ return array (
     'latitude' => 21.25266,
     'longitude' => 103.269,
   ),
-  357 => 
+  351 => 
   array (
     'id' => 130529,
     'name' => 'Huyện Điện Bàn',
@@ -3223,7 +3169,7 @@ return array (
     'latitude' => 15.89917,
     'longitude' => 108.2247,
   ),
-  358 => 
+  352 => 
   array (
     'id' => 130530,
     'name' => 'Huyện Đoan Hùng',
@@ -3232,7 +3178,7 @@ return array (
     'latitude' => 21.61776,
     'longitude' => 105.1611,
   ),
-  359 => 
+  353 => 
   array (
     'id' => 130531,
     'name' => 'Huyện Đình Lập',
@@ -3241,7 +3187,7 @@ return array (
     'latitude' => 21.5421,
     'longitude' => 107.12925,
   ),
-  360 => 
+  354 => 
   array (
     'id' => 130532,
     'name' => 'Huyện Đô Lương',
@@ -3250,7 +3196,7 @@ return array (
     'latitude' => 18.89259,
     'longitude' => 105.34027,
   ),
-  361 => 
+  355 => 
   array (
     'id' => 130533,
     'name' => 'Huyện Đông Sơn',
@@ -3259,7 +3205,7 @@ return array (
     'latitude' => 19.79742,
     'longitude' => 105.72465,
   ),
-  362 => 
+  356 => 
   array (
     'id' => 130534,
     'name' => 'Huyện Đông Triều',
@@ -3268,7 +3214,7 @@ return array (
     'latitude' => 21.11043,
     'longitude' => 106.59662,
   ),
-  363 => 
+  357 => 
   array (
     'id' => 130535,
     'name' => 'Huyện Đơn Dương',
@@ -3277,7 +3223,7 @@ return array (
     'latitude' => 11.75308,
     'longitude' => 108.55397,
   ),
-  364 => 
+  358 => 
   array (
     'id' => 130536,
     'name' => 'Huyện Đạ Huoai',
@@ -3286,7 +3232,7 @@ return array (
     'latitude' => 11.42465,
     'longitude' => 107.63825,
   ),
-  365 => 
+  359 => 
   array (
     'id' => 130537,
     'name' => 'Huyện Đạ Tẻh',
@@ -3295,7 +3241,7 @@ return array (
     'latitude' => 11.58446,
     'longitude' => 107.52792,
   ),
-  366 => 
+  360 => 
   array (
     'id' => 130538,
     'name' => 'Huyện Đại Lộc',
@@ -3304,7 +3250,7 @@ return array (
     'latitude' => 15.83721,
     'longitude' => 107.97894,
   ),
-  367 => 
+  361 => 
   array (
     'id' => 130539,
     'name' => 'Huyện Đất Đỏ',
@@ -3313,7 +3259,7 @@ return array (
     'latitude' => 10.48025,
     'longitude' => 107.27879,
   ),
-  368 => 
+  362 => 
   array (
     'id' => 130540,
     'name' => 'Huyện Đầm Dơi',
@@ -3322,7 +3268,7 @@ return array (
     'latitude' => 8.96029,
     'longitude' => 105.24107,
   ),
-  369 => 
+  363 => 
   array (
     'id' => 130541,
     'name' => 'Huyện Đầm Hà',
@@ -3331,7 +3277,7 @@ return array (
     'latitude' => 21.39689,
     'longitude' => 107.56175,
   ),
-  370 => 
+  364 => 
   array (
     'id' => 130542,
     'name' => 'Huyện Đắk Glei',
@@ -3340,7 +3286,7 @@ return array (
     'latitude' => 15.11358,
     'longitude' => 107.75093,
   ),
-  371 => 
+  365 => 
   array (
     'id' => 130543,
     'name' => 'Huyện Đắk Hà',
@@ -3349,7 +3295,7 @@ return array (
     'latitude' => 14.60326,
     'longitude' => 107.98547,
   ),
-  372 => 
+  366 => 
   array (
     'id' => 130544,
     'name' => 'Huyện Đắk R’Lấp',
@@ -3358,7 +3304,7 @@ return array (
     'latitude' => 11.8799,
     'longitude' => 107.52244,
   ),
-  373 => 
+  367 => 
   array (
     'id' => 130545,
     'name' => 'Huyện Đắk Tô',
@@ -3367,7 +3313,7 @@ return array (
     'latitude' => 14.70087,
     'longitude' => 107.80816,
   ),
-  374 => 
+  368 => 
   array (
     'id' => 130546,
     'name' => 'Huyện Định Quán',
@@ -3376,7 +3322,7 @@ return array (
     'latitude' => 11.21866,
     'longitude' => 107.33959,
   ),
-  375 => 
+  369 => 
   array (
     'id' => 130547,
     'name' => 'Huyện Đồng Phú',
@@ -3385,7 +3331,7 @@ return array (
     'latitude' => 11.50071,
     'longitude' => 107.01192,
   ),
-  376 => 
+  370 => 
   array (
     'id' => 130548,
     'name' => 'Huyện Đồng Văn',
@@ -3394,7 +3340,7 @@ return array (
     'latitude' => 23.25449,
     'longitude' => 105.27626,
   ),
-  377 => 
+  371 => 
   array (
     'id' => 130549,
     'name' => 'Huyện Đức Cơ',
@@ -3403,7 +3349,7 @@ return array (
     'latitude' => 13.78454,
     'longitude' => 107.6697,
   ),
-  378 => 
+  372 => 
   array (
     'id' => 130550,
     'name' => 'Huyện Đức Huệ',
@@ -3412,7 +3358,7 @@ return array (
     'latitude' => 10.86473,
     'longitude' => 106.25914,
   ),
-  379 => 
+  373 => 
   array (
     'id' => 130551,
     'name' => 'Huyện Đức Hòa',
@@ -3421,7 +3367,7 @@ return array (
     'latitude' => 10.87838,
     'longitude' => 106.42422,
   ),
-  380 => 
+  374 => 
   array (
     'id' => 130552,
     'name' => 'Huyện Đức Phổ',
@@ -3430,7 +3376,7 @@ return array (
     'latitude' => 14.78,
     'longitude' => 108.97857,
   ),
-  381 => 
+  375 => 
   array (
     'id' => 130553,
     'name' => 'Huyện Đức Trọng',
@@ -3439,7 +3385,7 @@ return array (
     'latitude' => 11.62686,
     'longitude' => 108.3533,
   ),
-  382 => 
+  376 => 
   array (
     'id' => 130554,
     'name' => 'Huế',
@@ -3448,7 +3394,7 @@ return array (
     'latitude' => 16.4619,
     'longitude' => 107.59546,
   ),
-  383 => 
+  377 => 
   array (
     'id' => 130555,
     'name' => 'Hà Giang',
@@ -3457,7 +3403,7 @@ return array (
     'latitude' => 22.82333,
     'longitude' => 104.98357,
   ),
-  384 => 
+  378 => 
   array (
     'id' => 130556,
     'name' => 'Hà Tiên',
@@ -3466,7 +3412,7 @@ return array (
     'latitude' => 10.3831,
     'longitude' => 104.48753,
   ),
-  385 => 
+  379 => 
   array (
     'id' => 130557,
     'name' => 'Hà Tĩnh',
@@ -3475,7 +3421,7 @@ return array (
     'latitude' => 18.34282,
     'longitude' => 105.90569,
   ),
-  386 => 
+  380 => 
   array (
     'id' => 130558,
     'name' => 'Cầu Giấy',
@@ -3484,7 +3430,7 @@ return array (
     'latitude' => 21.0302216,
     'longitude' => 105.7494733,
   ),
-  387 => 
+  381 => 
   array (
     'id' => 130559,
     'name' => 'Hòa Bình',
@@ -3493,7 +3439,7 @@ return array (
     'latitude' => 20.81717,
     'longitude' => 105.33759,
   ),
-  388 => 
+  382 => 
   array (
     'id' => 130560,
     'name' => 'Hưng Yên',
@@ -3502,7 +3448,7 @@ return array (
     'latitude' => 20.64637,
     'longitude' => 106.05112,
   ),
-  389 => 
+  383 => 
   array (
     'id' => 130561,
     'name' => 'Hạ Long',
@@ -3511,7 +3457,7 @@ return array (
     'latitude' => 20.95045,
     'longitude' => 107.07336,
   ),
-  390 => 
+  384 => 
   array (
     'id' => 130562,
     'name' => 'Hải Dương',
@@ -3520,7 +3466,7 @@ return array (
     'latitude' => 20.94099,
     'longitude' => 106.33302,
   ),
-  391 => 
+  385 => 
   array (
     'id' => 130563,
     'name' => 'Hội An',
@@ -3529,7 +3475,7 @@ return array (
     'latitude' => 15.87944,
     'longitude' => 108.335,
   ),
-  392 => 
+  386 => 
   array (
     'id' => 130564,
     'name' => 'Kien Luong Town',
@@ -3538,7 +3484,7 @@ return array (
     'latitude' => 10.24892,
     'longitude' => 104.59,
   ),
-  393 => 
+  387 => 
   array (
     'id' => 130565,
     'name' => 'Kon Tum',
@@ -3547,7 +3493,7 @@ return array (
     'latitude' => 14.35451,
     'longitude' => 108.00759,
   ),
-  394 => 
+  388 => 
   array (
     'id' => 130566,
     'name' => 'Kwang Binh',
@@ -3556,7 +3502,7 @@ return array (
     'latitude' => 17.46885,
     'longitude' => 106.62226,
   ),
-  395 => 
+  389 => 
   array (
     'id' => 130567,
     'name' => 'La Gi',
@@ -3565,7 +3511,7 @@ return array (
     'latitude' => 10.65993,
     'longitude' => 107.77206,
   ),
-  396 => 
+  390 => 
   array (
     'id' => 130568,
     'name' => 'Lao Chải',
@@ -3574,7 +3520,7 @@ return array (
     'latitude' => 22.31377,
     'longitude' => 103.86844,
   ),
-  397 => 
+  391 => 
   array (
     'id' => 130569,
     'name' => 'Long Xuyên',
@@ -3583,7 +3529,7 @@ return array (
     'latitude' => 10.38639,
     'longitude' => 105.43518,
   ),
-  398 => 
+  392 => 
   array (
     'id' => 130570,
     'name' => 'Long Xuyên City',
@@ -3592,7 +3538,7 @@ return array (
     'latitude' => 10.36857,
     'longitude' => 105.4234,
   ),
-  399 => 
+  393 => 
   array (
     'id' => 130571,
     'name' => 'Lào Cai',
@@ -3601,7 +3547,7 @@ return array (
     'latitude' => 22.48556,
     'longitude' => 103.97066,
   ),
-  400 => 
+  394 => 
   array (
     'id' => 130572,
     'name' => 'Lạng Sơn',
@@ -3610,7 +3556,7 @@ return array (
     'latitude' => 21.85264,
     'longitude' => 106.76101,
   ),
-  401 => 
+  395 => 
   array (
     'id' => 130573,
     'name' => 'Móng Cái',
@@ -3619,7 +3565,7 @@ return array (
     'latitude' => 21.52471,
     'longitude' => 107.96619,
   ),
-  402 => 
+  396 => 
   array (
     'id' => 130574,
     'name' => 'Mỹ Tho',
@@ -3628,7 +3574,7 @@ return array (
     'latitude' => 10.36004,
     'longitude' => 106.35996,
   ),
-  403 => 
+  397 => 
   array (
     'id' => 130575,
     'name' => 'Nam Định',
@@ -3637,7 +3583,7 @@ return array (
     'latitude' => 20.43389,
     'longitude' => 106.17729,
   ),
-  404 => 
+  398 => 
   array (
     'id' => 130576,
     'name' => 'Nha Trang',
@@ -3646,7 +3592,7 @@ return array (
     'latitude' => 12.24507,
     'longitude' => 109.19432,
   ),
-  405 => 
+  399 => 
   array (
     'id' => 130577,
     'name' => 'Ninh Bình',
@@ -3655,7 +3601,7 @@ return array (
     'latitude' => 20.25809,
     'longitude' => 105.97965,
   ),
-  406 => 
+  400 => 
   array (
     'id' => 130578,
     'name' => 'Phan Rang-Tháp Chàm',
@@ -3664,7 +3610,7 @@ return array (
     'latitude' => 11.56432,
     'longitude' => 108.98858,
   ),
-  407 => 
+  401 => 
   array (
     'id' => 130579,
     'name' => 'Phan Thiết',
@@ -3673,7 +3619,7 @@ return array (
     'latitude' => 10.92889,
     'longitude' => 108.10208,
   ),
-  408 => 
+  402 => 
   array (
     'id' => 130581,
     'name' => 'Phú Khương',
@@ -3682,7 +3628,7 @@ return array (
     'latitude' => 11.28333,
     'longitude' => 106.13333,
   ),
-  409 => 
+  403 => 
   array (
     'id' => 130582,
     'name' => 'Phủ Lý',
@@ -3691,7 +3637,7 @@ return array (
     'latitude' => 20.54531,
     'longitude' => 105.91221,
   ),
-  410 => 
+  404 => 
   array (
     'id' => 130583,
     'name' => 'Pleiku',
@@ -3700,7 +3646,7 @@ return array (
     'latitude' => 13.98333,
     'longitude' => 108.0,
   ),
-  411 => 
+  405 => 
   array (
     'id' => 130584,
     'name' => 'Qui Nhon',
@@ -3709,7 +3655,7 @@ return array (
     'latitude' => 13.77648,
     'longitude' => 109.22367,
   ),
-  412 => 
+  406 => 
   array (
     'id' => 130585,
     'name' => 'Quảng Ngãi',
@@ -3718,7 +3664,7 @@ return array (
     'latitude' => 15.12047,
     'longitude' => 108.79232,
   ),
-  413 => 
+  407 => 
   array (
     'id' => 130586,
     'name' => 'Đống Đa',
@@ -3727,7 +3673,7 @@ return array (
     'latitude' => 21.0146601,
     'longitude' => 105.7995514,
   ),
-  414 => 
+  408 => 
   array (
     'id' => 130587,
     'name' => 'Hà Đông',
@@ -3736,7 +3682,7 @@ return array (
     'latitude' => 20.9539496,
     'longitude' => 105.7136901,
   ),
-  415 => 
+  409 => 
   array (
     'id' => 130588,
     'name' => 'Rạch Giá',
@@ -3745,7 +3691,7 @@ return array (
     'latitude' => 10.01245,
     'longitude' => 105.08091,
   ),
-  416 => 
+  410 => 
   array (
     'id' => 130589,
     'name' => 'Sa Dec',
@@ -3754,7 +3700,7 @@ return array (
     'latitude' => 10.29085,
     'longitude' => 105.75635,
   ),
-  417 => 
+  411 => 
   array (
     'id' => 130590,
     'name' => 'Sa Dec city',
@@ -3763,7 +3709,7 @@ return array (
     'latitude' => 10.3055,
     'longitude' => 105.74757,
   ),
-  418 => 
+  412 => 
   array (
     'id' => 130591,
     'name' => 'Sa Pa',
@@ -3772,7 +3718,7 @@ return array (
     'latitude' => 22.34023,
     'longitude' => 103.84415,
   ),
-  419 => 
+  413 => 
   array (
     'id' => 130592,
     'name' => 'Sóc Trăng',
@@ -3781,7 +3727,7 @@ return array (
     'latitude' => 9.59995,
     'longitude' => 105.97193,
   ),
-  420 => 
+  414 => 
   array (
     'id' => 130593,
     'name' => 'Sông Cầu',
@@ -3790,7 +3736,7 @@ return array (
     'latitude' => 13.4556,
     'longitude' => 109.22348,
   ),
-  421 => 
+  415 => 
   array (
     'id' => 130594,
     'name' => 'Sơn La',
@@ -3799,7 +3745,7 @@ return array (
     'latitude' => 21.3256,
     'longitude' => 103.91882,
   ),
-  422 => 
+  416 => 
   array (
     'id' => 130595,
     'name' => 'Hai Bà Trưng',
@@ -3808,7 +3754,7 @@ return array (
     'latitude' => 21.0067597,
     'longitude' => 105.8412663,
   ),
-  423 => 
+  417 => 
   array (
     'id' => 130596,
     'name' => 'Tam Kỳ',
@@ -3817,7 +3763,7 @@ return array (
     'latitude' => 15.57364,
     'longitude' => 108.47403,
   ),
-  424 => 
+  418 => 
   array (
     'id' => 130597,
     'name' => 'Thanh Hóa',
@@ -3826,7 +3772,7 @@ return array (
     'latitude' => 19.8,
     'longitude' => 105.76667,
   ),
-  425 => 
+  419 => 
   array (
     'id' => 130598,
     'name' => 'Thành Phố Cam Ranh',
@@ -3835,7 +3781,7 @@ return array (
     'latitude' => 11.90707,
     'longitude' => 109.14861,
   ),
-  426 => 
+  420 => 
   array (
     'id' => 130599,
     'name' => 'Thành Phố Mỹ Tho',
@@ -3844,7 +3790,7 @@ return array (
     'latitude' => 10.36221,
     'longitude' => 106.36824,
   ),
-  427 => 
+  421 => 
   array (
     'id' => 130600,
     'name' => 'Thành Phố Nha Trang',
@@ -3853,7 +3799,7 @@ return array (
     'latitude' => 12.25458,
     'longitude' => 109.16655,
   ),
-  428 => 
+  422 => 
   array (
     'id' => 130601,
     'name' => 'Thành Phố Phan Thiết',
@@ -3862,7 +3808,7 @@ return array (
     'latitude' => 10.937,
     'longitude' => 108.15778,
   ),
-  429 => 
+  423 => 
   array (
     'id' => 130602,
     'name' => 'Thành Phố Uông Bí',
@@ -3871,7 +3817,7 @@ return array (
     'latitude' => 21.03433,
     'longitude' => 106.77049,
   ),
-  430 => 
+  424 => 
   array (
     'id' => 130603,
     'name' => 'Thành Phố Việt Trì',
@@ -3880,7 +3826,7 @@ return array (
     'latitude' => 21.32958,
     'longitude' => 105.39217,
   ),
-  431 => 
+  425 => 
   array (
     'id' => 130604,
     'name' => 'Thành Phố Vũng Tàu',
@@ -3889,7 +3835,7 @@ return array (
     'latitude' => 10.40239,
     'longitude' => 107.14239,
   ),
-  432 => 
+  426 => 
   array (
     'id' => 130605,
     'name' => 'Thái Bình',
@@ -3898,7 +3844,7 @@ return array (
     'latitude' => 20.45,
     'longitude' => 106.34002,
   ),
-  433 => 
+  427 => 
   array (
     'id' => 130606,
     'name' => 'Thái Nguyên',
@@ -3907,7 +3853,7 @@ return array (
     'latitude' => 21.59422,
     'longitude' => 105.84817,
   ),
-  434 => 
+  428 => 
   array (
     'id' => 130607,
     'name' => 'Thị Trấn Tân Thành',
@@ -3916,7 +3862,7 @@ return array (
     'latitude' => 10.25616,
     'longitude' => 105.5928,
   ),
-  435 => 
+  429 => 
   array (
     'id' => 130608,
     'name' => 'Thị Xã Bắc Kạn',
@@ -3925,7 +3871,7 @@ return array (
     'latitude' => 22.1413,
     'longitude' => 105.83867,
   ),
-  436 => 
+  430 => 
   array (
     'id' => 130609,
     'name' => 'Thị Xã Chí Linh',
@@ -3934,7 +3880,7 @@ return array (
     'latitude' => 21.13722,
     'longitude' => 106.39638,
   ),
-  437 => 
+  431 => 
   array (
     'id' => 130610,
     'name' => 'Thị Xã Gò Công',
@@ -3943,7 +3889,7 @@ return array (
     'latitude' => 10.40005,
     'longitude' => 106.65847,
   ),
-  438 => 
+  432 => 
   array (
     'id' => 130611,
     'name' => 'Thị Xã Mưòng Lay',
@@ -3952,7 +3898,7 @@ return array (
     'latitude' => 22.03374,
     'longitude' => 103.12331,
   ),
-  439 => 
+  433 => 
   array (
     'id' => 130612,
     'name' => 'Thị Xã Ninh Hòa',
@@ -3961,7 +3907,7 @@ return array (
     'latitude' => 12.53796,
     'longitude' => 109.06057,
   ),
-  440 => 
+  434 => 
   array (
     'id' => 130613,
     'name' => 'Thị Xã Phú Mỹ',
@@ -3970,7 +3916,7 @@ return array (
     'latitude' => 10.56815,
     'longitude' => 107.12999,
   ),
-  441 => 
+  435 => 
   array (
     'id' => 130614,
     'name' => 'Thị Xã Phước Long',
@@ -3979,7 +3925,7 @@ return array (
     'latitude' => 11.81142,
     'longitude' => 106.9967,
   ),
-  442 => 
+  436 => 
   array (
     'id' => 130615,
     'name' => 'Thị xã Phú Thọ',
@@ -3988,7 +3934,7 @@ return array (
     'latitude' => 21.41664,
     'longitude' => 105.23636,
   ),
-  443 => 
+  437 => 
   array (
     'id' => 130616,
     'name' => 'Thủ Dầu Một',
@@ -3997,7 +3943,7 @@ return array (
     'latitude' => 10.9804,
     'longitude' => 106.6519,
   ),
-  444 => 
+  438 => 
   array (
     'id' => 130617,
     'name' => 'Trà Vinh',
@@ -4006,7 +3952,7 @@ return array (
     'latitude' => 9.94719,
     'longitude' => 106.34225,
   ),
-  445 => 
+  439 => 
   array (
     'id' => 130618,
     'name' => 'Tuy Hòa',
@@ -4015,7 +3961,7 @@ return array (
     'latitude' => 13.09546,
     'longitude' => 109.32094,
   ),
-  446 => 
+  440 => 
   array (
     'id' => 130619,
     'name' => 'Tuyên Quang',
@@ -4024,7 +3970,7 @@ return array (
     'latitude' => 21.82356,
     'longitude' => 105.21424,
   ),
-  447 => 
+  441 => 
   array (
     'id' => 130620,
     'name' => 'Tân An',
@@ -4033,7 +3979,7 @@ return array (
     'latitude' => 10.53589,
     'longitude' => 106.41366,
   ),
-  448 => 
+  442 => 
   array (
     'id' => 130621,
     'name' => 'Tây Ninh',
@@ -4042,7 +3988,7 @@ return array (
     'latitude' => 11.31004,
     'longitude' => 106.09828,
   ),
-  449 => 
+  443 => 
   array (
     'id' => 130622,
     'name' => 'Vinh',
@@ -4051,7 +3997,7 @@ return array (
     'latitude' => 18.67337,
     'longitude' => 105.69232,
   ),
-  450 => 
+  444 => 
   array (
     'id' => 130623,
     'name' => 'Việt Trì',
@@ -4060,7 +4006,7 @@ return array (
     'latitude' => 21.32274,
     'longitude' => 105.40198,
   ),
-  451 => 
+  445 => 
   array (
     'id' => 130624,
     'name' => 'Vĩnh Long',
@@ -4069,7 +4015,7 @@ return array (
     'latitude' => 10.25369,
     'longitude' => 105.9722,
   ),
-  452 => 
+  446 => 
   array (
     'id' => 130625,
     'name' => 'Vĩnh Yên',
@@ -4078,7 +4024,7 @@ return array (
     'latitude' => 21.30891,
     'longitude' => 105.60489,
   ),
-  453 => 
+  447 => 
   array (
     'id' => 130626,
     'name' => 'Vũng Tàu',
@@ -4087,7 +4033,7 @@ return array (
     'latitude' => 10.34599,
     'longitude' => 107.08426,
   ),
-  454 => 
+  448 => 
   array (
     'id' => 130627,
     'name' => 'Vị Thanh',
@@ -4096,7 +4042,7 @@ return array (
     'latitude' => 9.78449,
     'longitude' => 105.47012,
   ),
-  455 => 
+  449 => 
   array (
     'id' => 130628,
     'name' => 'Yên Bái',
@@ -4105,7 +4051,7 @@ return array (
     'latitude' => 21.72288,
     'longitude' => 104.9113,
   ),
-  456 => 
+  450 => 
   array (
     'id' => 130629,
     'name' => 'Yên Vinh',
@@ -4114,7 +4060,7 @@ return array (
     'latitude' => 18.66667,
     'longitude' => 105.66667,
   ),
-  457 => 
+  451 => 
   array (
     'id' => 130630,
     'name' => 'Ðà Lạt',
@@ -4123,7 +4069,7 @@ return array (
     'latitude' => 11.94646,
     'longitude' => 108.44193,
   ),
-  458 => 
+  452 => 
   array (
     'id' => 130631,
     'name' => 'Ðông Hà',
@@ -4132,7 +4078,7 @@ return array (
     'latitude' => 16.81625,
     'longitude' => 107.10031,
   ),
-  459 => 
+  453 => 
   array (
     'id' => 130632,
     'name' => 'Đam Rong',
@@ -4141,7 +4087,7 @@ return array (
     'latitude' => 12.05409,
     'longitude' => 108.14941,
   ),
-  460 => 
+  454 => 
   array (
     'id' => 130633,
     'name' => 'Đinh Văn',
@@ -4150,7 +4096,7 @@ return array (
     'latitude' => 11.78624,
     'longitude' => 108.24282,
   ),
-  461 => 
+  455 => 
   array (
     'id' => 130634,
     'name' => 'Đưc Trọng',
@@ -4159,7 +4105,7 @@ return array (
     'latitude' => 11.73559,
     'longitude' => 108.3733,
   ),
-  462 => 
+  456 => 
   array (
     'id' => 130635,
     'name' => 'Ấp Tân Ngãi',
@@ -4168,7 +4114,7 @@ return array (
     'latitude' => 10.23333,
     'longitude' => 106.28333,
   ),
-  463 => 
+  457 => 
   array (
     'id' => 148322,
     'name' => 'Cần Thơ',
@@ -4177,7 +4123,7 @@ return array (
     'latitude' => 10.11667,
     'longitude' => 105.5,
   ),
-  464 => 
+  458 => 
   array (
     'id' => 148323,
     'name' => 'Cờ Đỏ',
@@ -4186,7 +4132,7 @@ return array (
     'latitude' => 10.09472222,
     'longitude' => 105.43194444,
   ),
-  465 => 
+  459 => 
   array (
     'id' => 148324,
     'name' => 'Thới Lai',
@@ -4195,7 +4141,7 @@ return array (
     'latitude' => 10.06305556,
     'longitude' => 105.56083333,
   ),
-  466 => 
+  460 => 
   array (
     'id' => 148325,
     'name' => 'Vĩnh Thạnh',
@@ -4204,7 +4150,7 @@ return array (
     'latitude' => 10.21916667,
     'longitude' => 105.40111111,
   ),
-  467 => 
+  461 => 
   array (
     'id' => 154446,
     'name' => 'Hoàn Kiếm ',
@@ -4213,7 +4159,7 @@ return array (
     'latitude' => 21.0304457,
     'longitude' => 105.8335861,
   ),
-  468 => 
+  462 => 
   array (
     'id' => 154447,
     'name' => 'Hoàng Mai',
@@ -4222,7 +4168,7 @@ return array (
     'latitude' => 20.9740471,
     'longitude' => 105.817047,
   ),
-  469 => 
+  463 => 
   array (
     'id' => 154448,
     'name' => 'Long Biên',
@@ -4231,7 +4177,7 @@ return array (
     'latitude' => 21.0380317,
     'longitude' => 105.8490984,
   ),
-  470 => 
+  464 => 
   array (
     'id' => 154449,
     'name' => 'Nam Từ Liêm',
@@ -4240,7 +4186,7 @@ return array (
     'latitude' => 21.0178909,
     'longitude' => 105.7210868,
   ),
-  471 => 
+  465 => 
   array (
     'id' => 154450,
     'name' => 'Tây Hồ ',
@@ -4249,7 +4195,7 @@ return array (
     'latitude' => 21.0688219,
     'longitude' => 105.7792043,
   ),
-  472 => 
+  466 => 
   array (
     'id' => 154451,
     'name' => 'Thanh Xuân',
@@ -4258,7 +4204,7 @@ return array (
     'latitude' => 20.9948255,
     'longitude' => 105.7969604,
   ),
-  473 => 
+  467 => 
   array (
     'id' => 154452,
     'name' => 'Sơn Tây',
@@ -4267,7 +4213,7 @@ return array (
     'latitude' => 21.0968334,
     'longitude' => 105.3938595,
   ),
-  474 => 
+  468 => 
   array (
     'id' => 154453,
     'name' => 'Ba Vì',
@@ -4276,7 +4222,7 @@ return array (
     'latitude' => 21.1559059,
     'longitude' => 105.2146361,
   ),
-  475 => 
+  469 => 
   array (
     'id' => 154454,
     'name' => 'Chương Mỹ',
@@ -4285,7 +4231,7 @@ return array (
     'latitude' => 20.8786344,
     'longitude' => 105.5731324,
   ),
-  476 => 
+  470 => 
   array (
     'id' => 154455,
     'name' => 'Đan Phượng',
@@ -4294,7 +4240,7 @@ return array (
     'latitude' => 21.1207337,
     'longitude' => 105.5991076,
   ),
-  477 => 
+  471 => 
   array (
     'id' => 154456,
     'name' => 'Đông Anh',
@@ -4303,7 +4249,7 @@ return array (
     'latitude' => 21.1368331,
     'longitude' => 105.7475324,
   ),
-  478 => 
+  472 => 
   array (
     'id' => 154457,
     'name' => 'Gia Lâm',
@@ -4312,7 +4258,7 @@ return array (
     'latitude' => 21.0240579,
     'longitude' => 105.7853473,
   ),
-  479 => 
+  473 => 
   array (
     'id' => 154458,
     'name' => 'Hoài Đức',
@@ -4321,7 +4267,7 @@ return array (
     'latitude' => 21.0230026,
     'longitude' => 105.6121945,
   ),
-  480 => 
+  474 => 
   array (
     'id' => 154459,
     'name' => 'Mê Linh',
@@ -4330,7 +4276,7 @@ return array (
     'latitude' => 21.1807846,
     'longitude' => 105.6211298,
   ),
-  481 => 
+  475 => 
   array (
     'id' => 154460,
     'name' => 'Mỹ Đức',
@@ -4339,7 +4285,7 @@ return array (
     'latitude' => 20.6974544,
     'longitude' => 105.5658285,
   ),
-  482 => 
+  476 => 
   array (
     'id' => 154461,
     'name' => 'Phú Xuyên',
@@ -4348,7 +4294,7 @@ return array (
     'latitude' => 20.7290054,
     'longitude' => 105.8149112,
   ),
-  483 => 
+  477 => 
   array (
     'id' => 154462,
     'name' => 'Phúc Thọ',
@@ -4357,7 +4303,7 @@ return array (
     'latitude' => 21.109931,
     'longitude' => 105.5005913,
   ),
-  484 => 
+  478 => 
   array (
     'id' => 154463,
     'name' => 'Quốc Oai',
@@ -4366,7 +4312,7 @@ return array (
     'latitude' => 20.978456,
     'longitude' => 105.4380093,
   ),
-  485 => 
+  479 => 
   array (
     'id' => 154464,
     'name' => 'Sóc Sơn',
@@ -4375,7 +4321,7 @@ return array (
     'latitude' => 21.2813931,
     'longitude' => 105.6661888,
   ),
-  486 => 
+  480 => 
   array (
     'id' => 154465,
     'name' => 'Thạch Thất',
@@ -4384,7 +4330,7 @@ return array (
     'latitude' => 21.0240883,
     'longitude' => 105.351025,
   ),
-  487 => 
+  481 => 
   array (
     'id' => 154466,
     'name' => 'Thanh Oai',
@@ -4393,7 +4339,7 @@ return array (
     'latitude' => 20.860027,
     'longitude' => 105.7015836,
   ),
-  488 => 
+  482 => 
   array (
     'id' => 154467,
     'name' => 'Thanh Trì',
@@ -4402,7 +4348,7 @@ return array (
     'latitude' => 20.9417602,
     'longitude' => 105.7682179,
   ),
-  489 => 
+  483 => 
   array (
     'id' => 154468,
     'name' => 'Thường Tín',
@@ -4411,7 +4357,7 @@ return array (
     'latitude' => 20.8322342,
     'longitude' => 105.7919213,
   ),
-  490 => 
+  484 => 
   array (
     'id' => 154469,
     'name' => 'Ứng Hòa',

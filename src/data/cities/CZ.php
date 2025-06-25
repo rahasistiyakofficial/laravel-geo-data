@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -723,15 +723,6 @@ return array (
   ),
   80 => 
   array (
-    'id' => 22186,
-    'name' => 'Bystřice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.63657,
-    'longitude' => 18.72038,
-  ),
-  81 => 
-  array (
     'id' => 22187,
     'name' => 'Bystřice nad Pernštejnem',
     'country_id' => 58,
@@ -739,7 +730,7 @@ return array (
     'latitude' => 49.52295,
     'longitude' => 16.26147,
   ),
-  82 => 
+  81 => 
   array (
     'id' => 22188,
     'name' => 'Bystřice pod Hostýnem',
@@ -748,7 +739,7 @@ return array (
     'latitude' => 49.39924,
     'longitude' => 17.67401,
   ),
-  83 => 
+  82 => 
   array (
     'id' => 22189,
     'name' => 'Byšice',
@@ -757,7 +748,7 @@ return array (
     'latitude' => 50.31044,
     'longitude' => 14.61136,
   ),
-  84 => 
+  83 => 
   array (
     'id' => 22190,
     'name' => 'Bzenec',
@@ -766,7 +757,7 @@ return array (
     'latitude' => 48.97336,
     'longitude' => 17.26685,
   ),
-  85 => 
+  84 => 
   array (
     'id' => 22191,
     'name' => 'Bánov',
@@ -775,7 +766,7 @@ return array (
     'latitude' => 48.98801,
     'longitude' => 17.71752,
   ),
-  86 => 
+  85 => 
   array (
     'id' => 22192,
     'name' => 'Bílina',
@@ -784,7 +775,7 @@ return array (
     'latitude' => 50.54854,
     'longitude' => 13.77535,
   ),
-  87 => 
+  86 => 
   array (
     'id' => 22193,
     'name' => 'Bílina Kyselka',
@@ -793,7 +784,7 @@ return array (
     'latitude' => 50.55,
     'longitude' => 13.76667,
   ),
-  88 => 
+  87 => 
   array (
     'id' => 22194,
     'name' => 'Bílovec',
@@ -802,7 +793,7 @@ return array (
     'latitude' => 49.75639,
     'longitude' => 18.01581,
   ),
-  89 => 
+  88 => 
   array (
     'id' => 22195,
     'name' => 'Bílovice',
@@ -811,7 +802,7 @@ return array (
     'latitude' => 49.09965,
     'longitude' => 17.54961,
   ),
-  90 => 
+  89 => 
   array (
     'id' => 22196,
     'name' => 'Bílovice nad Svitavou',
@@ -820,7 +811,7 @@ return array (
     'latitude' => 49.24708,
     'longitude' => 16.67247,
   ),
-  91 => 
+  90 => 
   array (
     'id' => 22197,
     'name' => 'Bílá Lhota',
@@ -829,7 +820,7 @@ return array (
     'latitude' => 49.70953,
     'longitude' => 16.97507,
   ),
-  92 => 
+  91 => 
   array (
     'id' => 22198,
     'name' => 'Bílá Třemešná',
@@ -838,7 +829,7 @@ return array (
     'latitude' => 50.44465,
     'longitude' => 15.74101,
   ),
-  93 => 
+  92 => 
   array (
     'id' => 22199,
     'name' => 'Býšť',
@@ -847,7 +838,7 @@ return array (
     'latitude' => 50.13243,
     'longitude' => 15.91116,
   ),
-  94 => 
+  93 => 
   array (
     'id' => 22200,
     'name' => 'Bělotín',
@@ -856,7 +847,7 @@ return array (
     'latitude' => 49.5912,
     'longitude' => 17.80654,
   ),
-  95 => 
+  94 => 
   array (
     'id' => 22201,
     'name' => 'Bělá nad Radbuzou',
@@ -865,7 +856,7 @@ return array (
     'latitude' => 49.59115,
     'longitude' => 12.71761,
   ),
-  96 => 
+  95 => 
   array (
     'id' => 22202,
     'name' => 'Bělá pod Bezdězem',
@@ -874,7 +865,7 @@ return array (
     'latitude' => 50.50121,
     'longitude' => 14.80418,
   ),
-  97 => 
+  96 => 
   array (
     'id' => 22203,
     'name' => 'Břasy',
@@ -883,7 +874,7 @@ return array (
     'latitude' => 49.837,
     'longitude' => 13.57833,
   ),
-  98 => 
+  97 => 
   array (
     'id' => 22204,
     'name' => 'Břeclav',
@@ -892,7 +883,7 @@ return array (
     'latitude' => 48.75897,
     'longitude' => 16.88203,
   ),
-  99 => 
+  98 => 
   array (
     'id' => 22205,
     'name' => 'Březnice',
@@ -901,16 +892,7 @@ return array (
     'latitude' => 49.18643,
     'longitude' => 17.66277,
   ),
-  100 => 
-  array (
-    'id' => 22206,
-    'name' => 'Březnice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.55763,
-    'longitude' => 13.95063,
-  ),
-  101 => 
+  99 => 
   array (
     'id' => 22207,
     'name' => 'Březno',
@@ -919,7 +901,7 @@ return array (
     'latitude' => 50.40185,
     'longitude' => 13.42118,
   ),
-  102 => 
+  100 => 
   array (
     'id' => 22208,
     'name' => 'Březolupy',
@@ -928,7 +910,7 @@ return array (
     'latitude' => 49.12138,
     'longitude' => 17.58034,
   ),
-  103 => 
+  101 => 
   array (
     'id' => 22209,
     'name' => 'Březová',
@@ -937,25 +919,7 @@ return array (
     'latitude' => 50.14557,
     'longitude' => 12.64996,
   ),
-  104 => 
-  array (
-    'id' => 22210,
-    'name' => 'Březová',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.79158,
-    'longitude' => 17.86556,
-  ),
-  105 => 
-  array (
-    'id' => 22211,
-    'name' => 'Březová',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 48.92543,
-    'longitude' => 17.73986,
-  ),
-  106 => 
+  102 => 
   array (
     'id' => 22212,
     'name' => 'Březová nad Svitavou',
@@ -964,7 +928,7 @@ return array (
     'latitude' => 49.64418,
     'longitude' => 16.51799,
   ),
-  107 => 
+  103 => 
   array (
     'id' => 22213,
     'name' => 'Březí',
@@ -973,7 +937,7 @@ return array (
     'latitude' => 48.81928,
     'longitude' => 16.56748,
   ),
-  108 => 
+  104 => 
   array (
     'id' => 22214,
     'name' => 'Břidličná',
@@ -982,7 +946,7 @@ return array (
     'latitude' => 49.91167,
     'longitude' => 17.37107,
   ),
-  109 => 
+  105 => 
   array (
     'id' => 22215,
     'name' => 'Cerhenice',
@@ -991,7 +955,7 @@ return array (
     'latitude' => 50.07127,
     'longitude' => 15.07203,
   ),
-  110 => 
+  106 => 
   array (
     'id' => 22216,
     'name' => 'Chabařovice',
@@ -1000,7 +964,7 @@ return array (
     'latitude' => 50.67318,
     'longitude' => 13.94184,
   ),
-  111 => 
+  107 => 
   array (
     'id' => 22217,
     'name' => 'Cheb',
@@ -1009,7 +973,7 @@ return array (
     'latitude' => 50.07963,
     'longitude' => 12.37392,
   ),
-  112 => 
+  108 => 
   array (
     'id' => 22218,
     'name' => 'Chlebičov',
@@ -1018,7 +982,7 @@ return array (
     'latitude' => 49.95942,
     'longitude' => 17.96748,
   ),
-  113 => 
+  109 => 
   array (
     'id' => 22219,
     'name' => 'Chlum u Třeboně',
@@ -1027,7 +991,7 @@ return array (
     'latitude' => 48.96235,
     'longitude' => 14.92799,
   ),
-  114 => 
+  110 => 
   array (
     'id' => 22220,
     'name' => 'Chlumec',
@@ -1036,7 +1000,7 @@ return array (
     'latitude' => 50.69972,
     'longitude' => 13.93964,
   ),
-  115 => 
+  111 => 
   array (
     'id' => 22221,
     'name' => 'Chlumec nad Cidlinou',
@@ -1045,7 +1009,7 @@ return array (
     'latitude' => 50.1544,
     'longitude' => 15.46026,
   ),
-  116 => 
+  112 => 
   array (
     'id' => 22222,
     'name' => 'Chlumčany',
@@ -1054,7 +1018,7 @@ return array (
     'latitude' => 49.63256,
     'longitude' => 13.31323,
   ),
-  117 => 
+  113 => 
   array (
     'id' => 22223,
     'name' => 'Choceň',
@@ -1063,7 +1027,7 @@ return array (
     'latitude' => 50.00161,
     'longitude' => 16.22303,
   ),
-  118 => 
+  114 => 
   array (
     'id' => 22224,
     'name' => 'Chodov',
@@ -1072,7 +1036,7 @@ return array (
     'latitude' => 50.24018,
     'longitude' => 12.74551,
   ),
-  119 => 
+  115 => 
   array (
     'id' => 22225,
     'name' => 'Chodová Planá',
@@ -1081,7 +1045,7 @@ return array (
     'latitude' => 49.89321,
     'longitude' => 12.73014,
   ),
-  120 => 
+  116 => 
   array (
     'id' => 22226,
     'name' => 'Chomutov',
@@ -1090,7 +1054,7 @@ return array (
     'latitude' => 50.46048,
     'longitude' => 13.41779,
   ),
-  121 => 
+  117 => 
   array (
     'id' => 22227,
     'name' => 'Chotoviny',
@@ -1099,7 +1063,7 @@ return array (
     'latitude' => 49.47803,
     'longitude' => 14.67695,
   ),
-  122 => 
+  118 => 
   array (
     'id' => 22228,
     'name' => 'Chotěboř',
@@ -1108,7 +1072,7 @@ return array (
     'latitude' => 49.72072,
     'longitude' => 15.67018,
   ),
-  123 => 
+  119 => 
   array (
     'id' => 22229,
     'name' => 'Chotěbuz',
@@ -1117,7 +1081,7 @@ return array (
     'latitude' => 49.76849,
     'longitude' => 18.56912,
   ),
-  124 => 
+  120 => 
   array (
     'id' => 22230,
     'name' => 'Chotěšov',
@@ -1126,7 +1090,7 @@ return array (
     'latitude' => 49.65408,
     'longitude' => 13.20271,
   ),
-  125 => 
+  121 => 
   array (
     'id' => 22231,
     'name' => 'Chrast',
@@ -1135,7 +1099,7 @@ return array (
     'latitude' => 49.90205,
     'longitude' => 15.93396,
   ),
-  126 => 
+  122 => 
   array (
     'id' => 22232,
     'name' => 'Chrastava',
@@ -1144,7 +1108,7 @@ return array (
     'latitude' => 50.81693,
     'longitude' => 14.96884,
   ),
-  127 => 
+  123 => 
   array (
     'id' => 22233,
     'name' => 'Chropyně',
@@ -1153,7 +1117,7 @@ return array (
     'latitude' => 49.35644,
     'longitude' => 17.36451,
   ),
-  128 => 
+  124 => 
   array (
     'id' => 22234,
     'name' => 'Chroustovice',
@@ -1162,7 +1126,7 @@ return array (
     'latitude' => 49.95553,
     'longitude' => 15.99143,
   ),
-  129 => 
+  125 => 
   array (
     'id' => 22235,
     'name' => 'Chrudim',
@@ -1171,7 +1135,7 @@ return array (
     'latitude' => 49.95109,
     'longitude' => 15.79558,
   ),
-  130 => 
+  126 => 
   array (
     'id' => 22236,
     'name' => 'Chrást',
@@ -1180,7 +1144,7 @@ return array (
     'latitude' => 49.7932,
     'longitude' => 13.49358,
   ),
-  131 => 
+  127 => 
   array (
     'id' => 22237,
     'name' => 'Chuchelná',
@@ -1189,7 +1153,7 @@ return array (
     'latitude' => 49.98664,
     'longitude' => 18.11656,
   ),
-  132 => 
+  128 => 
   array (
     'id' => 22238,
     'name' => 'Chvaletice',
@@ -1198,7 +1162,7 @@ return array (
     'latitude' => 50.03443,
     'longitude' => 15.41846,
   ),
-  133 => 
+  129 => 
   array (
     'id' => 22239,
     'name' => 'Chvalčov',
@@ -1207,7 +1171,7 @@ return array (
     'latitude' => 49.38918,
     'longitude' => 17.71149,
   ),
-  134 => 
+  130 => 
   array (
     'id' => 22240,
     'name' => 'Chvalšiny',
@@ -1216,7 +1180,7 @@ return array (
     'latitude' => 48.85401,
     'longitude' => 14.21114,
   ),
-  135 => 
+  131 => 
   array (
     'id' => 22241,
     'name' => 'Chyňava',
@@ -1225,7 +1189,7 @@ return array (
     'latitude' => 50.02736,
     'longitude' => 14.07398,
   ),
-  136 => 
+  132 => 
   array (
     'id' => 22242,
     'name' => 'Chyšky',
@@ -1234,7 +1198,7 @@ return array (
     'latitude' => 49.52346,
     'longitude' => 14.42757,
   ),
-  137 => 
+  133 => 
   array (
     'id' => 22243,
     'name' => 'Chýnov',
@@ -1243,7 +1207,7 @@ return array (
     'latitude' => 49.40677,
     'longitude' => 14.81122,
   ),
-  138 => 
+  134 => 
   array (
     'id' => 22244,
     'name' => 'Chřibská',
@@ -1252,7 +1216,7 @@ return array (
     'latitude' => 50.86079,
     'longitude' => 14.48444,
   ),
-  139 => 
+  135 => 
   array (
     'id' => 22245,
     'name' => 'Cvikov',
@@ -1261,7 +1225,7 @@ return array (
     'latitude' => 50.77668,
     'longitude' => 14.63298,
   ),
-  140 => 
+  136 => 
   array (
     'id' => 22246,
     'name' => 'Církvice',
@@ -1270,7 +1234,7 @@ return array (
     'latitude' => 49.9456,
     'longitude' => 15.33505,
   ),
-  141 => 
+  137 => 
   array (
     'id' => 22247,
     'name' => 'Cítov',
@@ -1279,7 +1243,7 @@ return array (
     'latitude' => 50.37225,
     'longitude' => 14.39813,
   ),
-  142 => 
+  138 => 
   array (
     'id' => 22248,
     'name' => 'Dalovice',
@@ -1288,7 +1252,7 @@ return array (
     'latitude' => 50.24779,
     'longitude' => 12.89581,
   ),
-  143 => 
+  139 => 
   array (
     'id' => 22249,
     'name' => 'Dambořice',
@@ -1297,7 +1261,7 @@ return array (
     'latitude' => 49.03828,
     'longitude' => 16.91757,
   ),
-  144 => 
+  140 => 
   array (
     'id' => 22250,
     'name' => 'Darkovice',
@@ -1306,7 +1270,7 @@ return array (
     'latitude' => 49.93592,
     'longitude' => 18.22213,
   ),
-  145 => 
+  141 => 
   array (
     'id' => 22251,
     'name' => 'Davle',
@@ -1315,7 +1279,7 @@ return array (
     'latitude' => 49.89218,
     'longitude' => 14.40037,
   ),
-  146 => 
+  142 => 
   array (
     'id' => 22252,
     'name' => 'Dačice',
@@ -1324,7 +1288,7 @@ return array (
     'latitude' => 49.08154,
     'longitude' => 15.43727,
   ),
-  147 => 
+  143 => 
   array (
     'id' => 22253,
     'name' => 'Dašice',
@@ -1333,7 +1297,7 @@ return array (
     'latitude' => 50.02844,
     'longitude' => 15.91244,
   ),
-  148 => 
+  144 => 
   array (
     'id' => 22254,
     'name' => 'Desná',
@@ -1342,7 +1306,7 @@ return array (
     'latitude' => 50.75987,
     'longitude' => 15.30284,
   ),
-  149 => 
+  145 => 
   array (
     'id' => 22255,
     'name' => 'Divišov',
@@ -1351,7 +1315,7 @@ return array (
     'latitude' => 49.78849,
     'longitude' => 14.87579,
   ),
-  150 => 
+  146 => 
   array (
     'id' => 22256,
     'name' => 'Dlouhá Třebová',
@@ -1360,7 +1324,7 @@ return array (
     'latitude' => 49.9404,
     'longitude' => 16.42329,
   ),
-  151 => 
+  147 => 
   array (
     'id' => 22257,
     'name' => 'Dobratice',
@@ -1369,7 +1333,7 @@ return array (
     'latitude' => 49.66039,
     'longitude' => 18.49226,
   ),
-  152 => 
+  148 => 
   array (
     'id' => 22258,
     'name' => 'Dobroměřice',
@@ -1378,7 +1342,7 @@ return array (
     'latitude' => 50.37009,
     'longitude' => 13.79473,
   ),
-  153 => 
+  149 => 
   array (
     'id' => 22259,
     'name' => 'Dobronín',
@@ -1387,7 +1351,7 @@ return array (
     'latitude' => 49.47833,
     'longitude' => 15.64992,
   ),
-  154 => 
+  150 => 
   array (
     'id' => 22260,
     'name' => 'Dobrovice',
@@ -1396,7 +1360,7 @@ return array (
     'latitude' => 50.36933,
     'longitude' => 14.96233,
   ),
-  155 => 
+  151 => 
   array (
     'id' => 22261,
     'name' => 'Dobruška',
@@ -1405,7 +1369,7 @@ return array (
     'latitude' => 50.29201,
     'longitude' => 16.16001,
   ),
-  156 => 
+  152 => 
   array (
     'id' => 22262,
     'name' => 'Dobrá',
@@ -1414,7 +1378,7 @@ return array (
     'latitude' => 49.67383,
     'longitude' => 18.41393,
   ),
-  157 => 
+  153 => 
   array (
     'id' => 22263,
     'name' => 'Dobřany',
@@ -1423,7 +1387,7 @@ return array (
     'latitude' => 49.65482,
     'longitude' => 13.29307,
   ),
-  158 => 
+  154 => 
   array (
     'id' => 22264,
     'name' => 'Dobřichovice',
@@ -1432,7 +1396,7 @@ return array (
     'latitude' => 49.92749,
     'longitude' => 14.27469,
   ),
-  159 => 
+  155 => 
   array (
     'id' => 22265,
     'name' => 'Dobřív',
@@ -1441,7 +1405,7 @@ return array (
     'latitude' => 49.71566,
     'longitude' => 13.68681,
   ),
-  160 => 
+  156 => 
   array (
     'id' => 22266,
     'name' => 'Dobříš',
@@ -1450,7 +1414,7 @@ return array (
     'latitude' => 49.78113,
     'longitude' => 14.16717,
   ),
-  161 => 
+  157 => 
   array (
     'id' => 22267,
     'name' => 'Dobšice',
@@ -1459,7 +1423,7 @@ return array (
     'latitude' => 48.84834,
     'longitude' => 16.08218,
   ),
-  162 => 
+  158 => 
   array (
     'id' => 22268,
     'name' => 'Doksy',
@@ -1468,16 +1432,7 @@ return array (
     'latitude' => 50.119,
     'longitude' => 14.04782,
   ),
-  163 => 
-  array (
-    'id' => 22269,
-    'name' => 'Doksy',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.56471,
-    'longitude' => 14.65553,
-  ),
-  164 => 
+  159 => 
   array (
     'id' => 22270,
     'name' => 'Dolany',
@@ -1486,7 +1441,7 @@ return array (
     'latitude' => 49.64987,
     'longitude' => 17.3224,
   ),
-  165 => 
+  160 => 
   array (
     'id' => 22271,
     'name' => 'Dolní Benešov',
@@ -1495,7 +1450,7 @@ return array (
     'latitude' => 49.92101,
     'longitude' => 18.10835,
   ),
-  166 => 
+  161 => 
   array (
     'id' => 22272,
     'name' => 'Dolní Bečva',
@@ -1504,7 +1459,7 @@ return array (
     'latitude' => 49.45498,
     'longitude' => 18.19419,
   ),
-  167 => 
+  162 => 
   array (
     'id' => 22273,
     'name' => 'Dolní Beřkovice',
@@ -1513,7 +1468,7 @@ return array (
     'latitude' => 50.39313,
     'longitude' => 14.45024,
   ),
-  168 => 
+  163 => 
   array (
     'id' => 22274,
     'name' => 'Dolní Bohdíkov',
@@ -1522,7 +1477,7 @@ return array (
     'latitude' => 50.00996,
     'longitude' => 16.90433,
   ),
-  169 => 
+  164 => 
   array (
     'id' => 22275,
     'name' => 'Dolní Bojanovice',
@@ -1531,7 +1486,7 @@ return array (
     'latitude' => 48.85861,
     'longitude' => 17.02859,
   ),
-  170 => 
+  165 => 
   array (
     'id' => 22276,
     'name' => 'Dolní Bousov',
@@ -1540,7 +1495,7 @@ return array (
     'latitude' => 50.43825,
     'longitude' => 15.12812,
   ),
-  171 => 
+  166 => 
   array (
     'id' => 22277,
     'name' => 'Dolní Bukovsko',
@@ -1549,7 +1504,7 @@ return array (
     'latitude' => 49.17086,
     'longitude' => 14.58127,
   ),
-  172 => 
+  167 => 
   array (
     'id' => 22278,
     'name' => 'Dolní Břežany',
@@ -1558,7 +1513,7 @@ return array (
     'latitude' => 49.96321,
     'longitude' => 14.4585,
   ),
-  173 => 
+  168 => 
   array (
     'id' => 22279,
     'name' => 'Dolní Cerekev',
@@ -1567,7 +1522,7 @@ return array (
     'latitude' => 49.34449,
     'longitude' => 15.45655,
   ),
-  174 => 
+  169 => 
   array (
     'id' => 22280,
     'name' => 'Dolní Dobrouč',
@@ -1576,7 +1531,7 @@ return array (
     'latitude' => 49.99273,
     'longitude' => 16.49766,
   ),
-  175 => 
+  170 => 
   array (
     'id' => 22281,
     'name' => 'Dolní Dunajovice',
@@ -1585,7 +1540,7 @@ return array (
     'latitude' => 48.85447,
     'longitude' => 16.59283,
   ),
-  176 => 
+  171 => 
   array (
     'id' => 22282,
     'name' => 'Dolní Dvořiště',
@@ -1594,7 +1549,7 @@ return array (
     'latitude' => 48.65642,
     'longitude' => 14.45221,
   ),
-  177 => 
+  172 => 
   array (
     'id' => 22283,
     'name' => 'Dolní Kounice',
@@ -1603,7 +1558,7 @@ return array (
     'latitude' => 49.07011,
     'longitude' => 16.46492,
   ),
-  178 => 
+  173 => 
   array (
     'id' => 22284,
     'name' => 'Dolní Lhota',
@@ -1612,7 +1567,7 @@ return array (
     'latitude' => 49.84236,
     'longitude' => 18.09241,
   ),
-  179 => 
+  174 => 
   array (
     'id' => 22285,
     'name' => 'Dolní Loućky',
@@ -1621,7 +1576,7 @@ return array (
     'latitude' => 49.36099,
     'longitude' => 16.35871,
   ),
-  180 => 
+  175 => 
   array (
     'id' => 22286,
     'name' => 'Dolní Lutyně',
@@ -1630,7 +1585,7 @@ return array (
     'latitude' => 49.89876,
     'longitude' => 18.42815,
   ),
-  181 => 
+  176 => 
   array (
     'id' => 22287,
     'name' => 'Dolní Němčí',
@@ -1639,7 +1594,7 @@ return array (
     'latitude' => 48.96837,
     'longitude' => 17.58585,
   ),
-  182 => 
+  177 => 
   array (
     'id' => 22288,
     'name' => 'Dolní Podluží',
@@ -1648,7 +1603,7 @@ return array (
     'latitude' => 50.87988,
     'longitude' => 14.59503,
   ),
-  183 => 
+  178 => 
   array (
     'id' => 22289,
     'name' => 'Dolní Poustevna',
@@ -1657,7 +1612,7 @@ return array (
     'latitude' => 50.98251,
     'longitude' => 14.28684,
   ),
-  184 => 
+  179 => 
   array (
     'id' => 22290,
     'name' => 'Dolní Počernice',
@@ -1666,7 +1621,7 @@ return array (
     'latitude' => 50.0876,
     'longitude' => 14.57199,
   ),
-  185 => 
+  180 => 
   array (
     'id' => 22291,
     'name' => 'Dolní Roveň',
@@ -1675,7 +1630,7 @@ return array (
     'latitude' => 50.02927,
     'longitude' => 15.96774,
   ),
-  186 => 
+  181 => 
   array (
     'id' => 22292,
     'name' => 'Dolní Rychnov',
@@ -1684,7 +1639,7 @@ return array (
     'latitude' => 50.16462,
     'longitude' => 12.64507,
   ),
-  187 => 
+  182 => 
   array (
     'id' => 22293,
     'name' => 'Dolní Sloupnice',
@@ -1693,7 +1648,7 @@ return array (
     'latitude' => 49.92721,
     'longitude' => 16.29401,
   ),
-  188 => 
+  183 => 
   array (
     'id' => 22294,
     'name' => 'Dolní Studénky',
@@ -1702,7 +1657,7 @@ return array (
     'latitude' => 49.93506,
     'longitude' => 16.97107,
   ),
-  189 => 
+  184 => 
   array (
     'id' => 22295,
     'name' => 'Dolní Újezd',
@@ -1711,16 +1666,7 @@ return array (
     'latitude' => 49.54597,
     'longitude' => 17.53547,
   ),
-  190 => 
-  array (
-    'id' => 22296,
-    'name' => 'Dolní Újezd',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.82562,
-    'longitude' => 16.25461,
-  ),
-  191 => 
+  185 => 
   array (
     'id' => 22297,
     'name' => 'Dolní Čermná',
@@ -1729,7 +1675,7 @@ return array (
     'latitude' => 49.97954,
     'longitude' => 16.56475,
   ),
-  192 => 
+  186 => 
   array (
     'id' => 22298,
     'name' => 'Dolní Černilov',
@@ -1738,7 +1684,7 @@ return array (
     'latitude' => 50.2611,
     'longitude' => 15.96107,
   ),
-  193 => 
+  187 => 
   array (
     'id' => 22299,
     'name' => 'Dolní Žandov',
@@ -1747,7 +1693,7 @@ return array (
     'latitude' => 50.01794,
     'longitude' => 12.55101,
   ),
-  194 => 
+  188 => 
   array (
     'id' => 22300,
     'name' => 'Dolní Životice',
@@ -1756,7 +1702,7 @@ return array (
     'latitude' => 49.89732,
     'longitude' => 17.77969,
   ),
-  195 => 
+  189 => 
   array (
     'id' => 22301,
     'name' => 'Doloplazy',
@@ -1765,7 +1711,7 @@ return array (
     'latitude' => 49.56876,
     'longitude' => 17.41393,
   ),
-  196 => 
+  190 => 
   array (
     'id' => 22302,
     'name' => 'Domanín',
@@ -1774,7 +1720,7 @@ return array (
     'latitude' => 49.00167,
     'longitude' => 17.28476,
   ),
-  197 => 
+  191 => 
   array (
     'id' => 22303,
     'name' => 'Domažlice',
@@ -1783,7 +1729,7 @@ return array (
     'latitude' => 49.44049,
     'longitude' => 12.92976,
   ),
-  198 => 
+  192 => 
   array (
     'id' => 22304,
     'name' => 'Doubrava',
@@ -1792,7 +1738,7 @@ return array (
     'latitude' => 49.85873,
     'longitude' => 18.48018,
   ),
-  199 => 
+  193 => 
   array (
     'id' => 22305,
     'name' => 'Doubravice nad Svitavou',
@@ -1801,7 +1747,7 @@ return array (
     'latitude' => 49.43664,
     'longitude' => 16.62937,
   ),
-  200 => 
+  194 => 
   array (
     'id' => 22306,
     'name' => 'Doudleby nad Orlicí',
@@ -1810,7 +1756,7 @@ return array (
     'latitude' => 50.10742,
     'longitude' => 16.26131,
   ),
-  201 => 
+  195 => 
   array (
     'id' => 22307,
     'name' => 'Drahanovice',
@@ -1819,7 +1765,7 @@ return array (
     'latitude' => 49.57856,
     'longitude' => 17.07701,
   ),
-  202 => 
+  196 => 
   array (
     'id' => 22308,
     'name' => 'Drnholec',
@@ -1828,7 +1774,7 @@ return array (
     'latitude' => 48.85746,
     'longitude' => 16.48586,
   ),
-  203 => 
+  197 => 
   array (
     'id' => 22309,
     'name' => 'Drnovice',
@@ -1837,7 +1783,7 @@ return array (
     'latitude' => 49.2763,
     'longitude' => 16.95146,
   ),
-  204 => 
+  198 => 
   array (
     'id' => 22310,
     'name' => 'Drásov',
@@ -1846,7 +1792,7 @@ return array (
     'latitude' => 49.33183,
     'longitude' => 16.47798,
   ),
-  205 => 
+  199 => 
   array (
     'id' => 22311,
     'name' => 'Dub nad Moravou',
@@ -1855,7 +1801,7 @@ return array (
     'latitude' => 49.48249,
     'longitude' => 17.27723,
   ),
-  206 => 
+  200 => 
   array (
     'id' => 22312,
     'name' => 'Dubicko',
@@ -1864,7 +1810,7 @@ return array (
     'latitude' => 49.82806,
     'longitude' => 16.96266,
   ),
-  207 => 
+  201 => 
   array (
     'id' => 22313,
     'name' => 'Dubné',
@@ -1873,7 +1819,7 @@ return array (
     'latitude' => 48.97619,
     'longitude' => 14.36038,
   ),
-  208 => 
+  202 => 
   array (
     'id' => 22314,
     'name' => 'Dubá',
@@ -1882,7 +1828,7 @@ return array (
     'latitude' => 50.54034,
     'longitude' => 14.54023,
   ),
-  209 => 
+  203 => 
   array (
     'id' => 22315,
     'name' => 'Dubí',
@@ -1891,7 +1837,7 @@ return array (
     'latitude' => 50.68558,
     'longitude' => 13.78561,
   ),
-  210 => 
+  204 => 
   array (
     'id' => 22316,
     'name' => 'Dubňany',
@@ -1900,7 +1846,7 @@ return array (
     'latitude' => 48.91694,
     'longitude' => 17.09004,
   ),
-  211 => 
+  205 => 
   array (
     'id' => 22317,
     'name' => 'Duchcov',
@@ -1909,7 +1855,7 @@ return array (
     'latitude' => 50.60376,
     'longitude' => 13.74621,
   ),
-  212 => 
+  206 => 
   array (
     'id' => 22318,
     'name' => 'Dvorce',
@@ -1918,7 +1864,7 @@ return array (
     'latitude' => 49.83332,
     'longitude' => 17.54762,
   ),
-  213 => 
+  207 => 
   array (
     'id' => 22319,
     'name' => 'Dvůr Králové nad Labem',
@@ -1927,7 +1873,7 @@ return array (
     'latitude' => 50.43172,
     'longitude' => 15.81402,
   ),
-  214 => 
+  208 => 
   array (
     'id' => 22320,
     'name' => 'Dýšina',
@@ -1936,7 +1882,7 @@ return array (
     'latitude' => 49.77735,
     'longitude' => 13.4915,
   ),
-  215 => 
+  209 => 
   array (
     'id' => 22321,
     'name' => 'Dětmarovice',
@@ -1945,7 +1891,7 @@ return array (
     'latitude' => 49.89412,
     'longitude' => 18.46079,
   ),
-  216 => 
+  210 => 
   array (
     'id' => 22322,
     'name' => 'Děčín',
@@ -1954,7 +1900,7 @@ return array (
     'latitude' => 50.78215,
     'longitude' => 14.21478,
   ),
-  217 => 
+  211 => 
   array (
     'id' => 22323,
     'name' => 'Dřevohostice',
@@ -1963,7 +1909,7 @@ return array (
     'latitude' => 49.42594,
     'longitude' => 17.59204,
   ),
-  218 => 
+  212 => 
   array (
     'id' => 22324,
     'name' => 'Dřiteň',
@@ -1972,7 +1918,7 @@ return array (
     'latitude' => 49.1428,
     'longitude' => 14.34596,
   ),
-  219 => 
+  213 => 
   array (
     'id' => 22325,
     'name' => 'Francova Lhota',
@@ -1981,7 +1927,7 @@ return array (
     'latitude' => 49.20174,
     'longitude' => 18.11175,
   ),
-  220 => 
+  214 => 
   array (
     'id' => 22326,
     'name' => 'Františkovy Lázně',
@@ -1990,7 +1936,7 @@ return array (
     'latitude' => 50.12033,
     'longitude' => 12.35174,
   ),
-  221 => 
+  215 => 
   array (
     'id' => 22327,
     'name' => 'Frenštát pod Radhoštěm',
@@ -1999,7 +1945,7 @@ return array (
     'latitude' => 49.54835,
     'longitude' => 18.21078,
   ),
-  222 => 
+  216 => 
   array (
     'id' => 22328,
     'name' => 'Frymburk',
@@ -2008,7 +1954,7 @@ return array (
     'latitude' => 48.66094,
     'longitude' => 14.16564,
   ),
-  223 => 
+  217 => 
   array (
     'id' => 22329,
     'name' => 'Fryčovice',
@@ -2017,7 +1963,7 @@ return array (
     'latitude' => 49.66677,
     'longitude' => 18.22321,
   ),
-  224 => 
+  218 => 
   array (
     'id' => 22330,
     'name' => 'Fryšták',
@@ -2026,7 +1972,7 @@ return array (
     'latitude' => 49.2852,
     'longitude' => 17.68346,
   ),
-  225 => 
+  219 => 
   array (
     'id' => 22331,
     'name' => 'Frýdek-Místek',
@@ -2035,7 +1981,7 @@ return array (
     'latitude' => 49.68333,
     'longitude' => 18.35,
   ),
-  226 => 
+  220 => 
   array (
     'id' => 22332,
     'name' => 'Frýdlant',
@@ -2044,7 +1990,7 @@ return array (
     'latitude' => 50.92139,
     'longitude' => 15.07974,
   ),
-  227 => 
+  221 => 
   array (
     'id' => 22333,
     'name' => 'Frýdlant nad Ostravicí',
@@ -2053,7 +1999,7 @@ return array (
     'latitude' => 49.5928,
     'longitude' => 18.35967,
   ),
-  228 => 
+  222 => 
   array (
     'id' => 22334,
     'name' => 'Fulnek',
@@ -2062,7 +2008,7 @@ return array (
     'latitude' => 49.71238,
     'longitude' => 17.90319,
   ),
-  229 => 
+  223 => 
   array (
     'id' => 22335,
     'name' => 'Golčův Jeníkov',
@@ -2071,7 +2017,7 @@ return array (
     'latitude' => 49.81626,
     'longitude' => 15.47686,
   ),
-  230 => 
+  224 => 
   array (
     'id' => 22336,
     'name' => 'Grygov',
@@ -2080,7 +2026,7 @@ return array (
     'latitude' => 49.53841,
     'longitude' => 17.30887,
   ),
-  231 => 
+  225 => 
   array (
     'id' => 22337,
     'name' => 'Habartov',
@@ -2089,7 +2035,7 @@ return array (
     'latitude' => 50.18297,
     'longitude' => 12.55054,
   ),
-  232 => 
+  226 => 
   array (
     'id' => 22338,
     'name' => 'Habry',
@@ -2098,7 +2044,7 @@ return array (
     'latitude' => 49.75603,
     'longitude' => 15.48486,
   ),
-  233 => 
+  227 => 
   array (
     'id' => 22339,
     'name' => 'Halenkov',
@@ -2107,7 +2053,7 @@ return array (
     'latitude' => 49.3174,
     'longitude' => 18.14749,
   ),
-  234 => 
+  228 => 
   array (
     'id' => 22340,
     'name' => 'Halenkovice',
@@ -2116,7 +2062,7 @@ return array (
     'latitude' => 49.17102,
     'longitude' => 17.47156,
   ),
-  235 => 
+  229 => 
   array (
     'id' => 22341,
     'name' => 'Hanušovice',
@@ -2125,7 +2071,7 @@ return array (
     'latitude' => 50.08049,
     'longitude' => 16.93641,
   ),
-  236 => 
+  230 => 
   array (
     'id' => 22342,
     'name' => 'Harrachov',
@@ -2134,7 +2080,7 @@ return array (
     'latitude' => 50.77209,
     'longitude' => 15.43141,
   ),
-  237 => 
+  231 => 
   array (
     'id' => 22343,
     'name' => 'Hartmanice',
@@ -2143,7 +2089,7 @@ return array (
     'latitude' => 49.16948,
     'longitude' => 13.45455,
   ),
-  238 => 
+  232 => 
   array (
     'id' => 22344,
     'name' => 'Havlíčkův Brod',
@@ -2152,7 +2098,7 @@ return array (
     'latitude' => 49.6069,
     'longitude' => 15.57937,
   ),
-  239 => 
+  233 => 
   array (
     'id' => 22345,
     'name' => 'Havířov',
@@ -2161,7 +2107,7 @@ return array (
     'latitude' => 49.77984,
     'longitude' => 18.43688,
   ),
-  240 => 
+  234 => 
   array (
     'id' => 22346,
     'name' => 'Hazlov',
@@ -2170,7 +2116,7 @@ return array (
     'latitude' => 50.15634,
     'longitude' => 12.27238,
   ),
-  241 => 
+  235 => 
   array (
     'id' => 22347,
     'name' => 'Hať',
@@ -2179,7 +2125,7 @@ return array (
     'latitude' => 49.94644,
     'longitude' => 18.23931,
   ),
-  242 => 
+  236 => 
   array (
     'id' => 22348,
     'name' => 'Hejnice',
@@ -2188,7 +2134,7 @@ return array (
     'latitude' => 50.8772,
     'longitude' => 15.18168,
   ),
-  243 => 
+  237 => 
   array (
     'id' => 22349,
     'name' => 'Herálec',
@@ -2197,7 +2143,7 @@ return array (
     'latitude' => 49.68891,
     'longitude' => 15.99431,
   ),
-  244 => 
+  238 => 
   array (
     'id' => 22350,
     'name' => 'Hevlín',
@@ -2206,7 +2152,7 @@ return array (
     'latitude' => 48.75209,
     'longitude' => 16.38131,
   ),
-  245 => 
+  239 => 
   array (
     'id' => 22351,
     'name' => 'Heřmanova Huť',
@@ -2215,7 +2161,7 @@ return array (
     'latitude' => 49.70679,
     'longitude' => 13.10069,
   ),
-  246 => 
+  240 => 
   array (
     'id' => 22352,
     'name' => 'Heřmanův Městec',
@@ -2224,7 +2170,7 @@ return array (
     'latitude' => 49.94707,
     'longitude' => 15.66492,
   ),
-  247 => 
+  241 => 
   array (
     'id' => 22353,
     'name' => 'Hlinsko',
@@ -2233,7 +2179,7 @@ return array (
     'latitude' => 49.76213,
     'longitude' => 15.90756,
   ),
-  248 => 
+  242 => 
   array (
     'id' => 22354,
     'name' => 'Hlohovec',
@@ -2242,7 +2188,7 @@ return array (
     'latitude' => 48.77399,
     'longitude' => 16.7623,
   ),
-  249 => 
+  243 => 
   array (
     'id' => 22355,
     'name' => 'Hluboká nad Vltavou',
@@ -2251,7 +2197,7 @@ return array (
     'latitude' => 49.05225,
     'longitude' => 14.43427,
   ),
-  250 => 
+  244 => 
   array (
     'id' => 22356,
     'name' => 'Hlubočky',
@@ -2260,7 +2206,7 @@ return array (
     'latitude' => 49.61783,
     'longitude' => 17.39436,
   ),
-  251 => 
+  245 => 
   array (
     'id' => 22357,
     'name' => 'Hluk',
@@ -2269,7 +2215,7 @@ return array (
     'latitude' => 48.98805,
     'longitude' => 17.52744,
   ),
-  252 => 
+  246 => 
   array (
     'id' => 22358,
     'name' => 'Hlučín',
@@ -2278,7 +2224,7 @@ return array (
     'latitude' => 49.89795,
     'longitude' => 18.19196,
   ),
-  253 => 
+  247 => 
   array (
     'id' => 22359,
     'name' => 'Hnojník',
@@ -2287,7 +2233,7 @@ return array (
     'latitude' => 49.6825,
     'longitude' => 18.54143,
   ),
-  254 => 
+  248 => 
   array (
     'id' => 22360,
     'name' => 'Hněvotín',
@@ -2296,7 +2242,7 @@ return array (
     'latitude' => 49.57205,
     'longitude' => 17.17954,
   ),
-  255 => 
+  249 => 
   array (
     'id' => 22361,
     'name' => 'Hněvošice',
@@ -2305,7 +2251,7 @@ return array (
     'latitude' => 50.00299,
     'longitude' => 18.00829,
   ),
-  256 => 
+  250 => 
   array (
     'id' => 22362,
     'name' => 'Hodkovice nad Mohelkou',
@@ -2314,7 +2260,7 @@ return array (
     'latitude' => 50.66586,
     'longitude' => 15.08985,
   ),
-  257 => 
+  251 => 
   array (
     'id' => 22363,
     'name' => 'Hodkovičky',
@@ -2323,7 +2269,7 @@ return array (
     'latitude' => 50.02346,
     'longitude' => 14.41415,
   ),
-  258 => 
+  252 => 
   array (
     'id' => 22364,
     'name' => 'Hodonice',
@@ -2332,7 +2278,7 @@ return array (
     'latitude' => 48.8368,
     'longitude' => 16.16337,
   ),
-  259 => 
+  253 => 
   array (
     'id' => 22365,
     'name' => 'Hodonín',
@@ -2341,7 +2287,7 @@ return array (
     'latitude' => 48.84893,
     'longitude' => 17.13244,
   ),
-  260 => 
+  254 => 
   array (
     'id' => 22366,
     'name' => 'Hodslavice',
@@ -2350,7 +2296,7 @@ return array (
     'latitude' => 49.53856,
     'longitude' => 18.02367,
   ),
-  261 => 
+  255 => 
   array (
     'id' => 22367,
     'name' => 'Holasovice',
@@ -2359,7 +2305,7 @@ return array (
     'latitude' => 49.99843,
     'longitude' => 17.80847,
   ),
-  262 => 
+  256 => 
   array (
     'id' => 22368,
     'name' => 'Holešov',
@@ -2368,7 +2314,7 @@ return array (
     'latitude' => 49.33331,
     'longitude' => 17.57832,
   ),
-  263 => 
+  257 => 
   array (
     'id' => 22369,
     'name' => 'Holice',
@@ -2377,7 +2323,7 @@ return array (
     'latitude' => 50.06601,
     'longitude' => 15.9859,
   ),
-  264 => 
+  258 => 
   array (
     'id' => 22370,
     'name' => 'Holoubkov',
@@ -2386,7 +2332,7 @@ return array (
     'latitude' => 49.77598,
     'longitude' => 13.69246,
   ),
-  265 => 
+  259 => 
   array (
     'id' => 22371,
     'name' => 'Holýšov',
@@ -2395,7 +2341,7 @@ return array (
     'latitude' => 49.59361,
     'longitude' => 13.10129,
   ),
-  266 => 
+  260 => 
   array (
     'id' => 22372,
     'name' => 'Horažďovice',
@@ -2404,7 +2350,7 @@ return array (
     'latitude' => 49.32069,
     'longitude' => 13.701,
   ),
-  267 => 
+  261 => 
   array (
     'id' => 22373,
     'name' => 'Horka nad Moravou',
@@ -2413,7 +2359,7 @@ return array (
     'latitude' => 49.64009,
     'longitude' => 17.2107,
   ),
-  268 => 
+  262 => 
   array (
     'id' => 22374,
     'name' => 'Horní Benešov',
@@ -2422,7 +2368,7 @@ return array (
     'latitude' => 49.96682,
     'longitude' => 17.60262,
   ),
-  269 => 
+  263 => 
   array (
     'id' => 22375,
     'name' => 'Horní Bečva',
@@ -2431,7 +2377,7 @@ return array (
     'latitude' => 49.43216,
     'longitude' => 18.28859,
   ),
-  270 => 
+  264 => 
   array (
     'id' => 22376,
     'name' => 'Horní Bludovice',
@@ -2440,7 +2386,7 @@ return array (
     'latitude' => 49.74965,
     'longitude' => 18.43677,
   ),
-  271 => 
+  265 => 
   array (
     'id' => 22377,
     'name' => 'Horní Branná',
@@ -2449,7 +2395,7 @@ return array (
     'latitude' => 50.60826,
     'longitude' => 15.57146,
   ),
-  272 => 
+  266 => 
   array (
     'id' => 22378,
     'name' => 'Horní Bříza',
@@ -2458,7 +2404,7 @@ return array (
     'latitude' => 49.84012,
     'longitude' => 13.35558,
   ),
-  273 => 
+  267 => 
   array (
     'id' => 22379,
     'name' => 'Horní Cerekev',
@@ -2467,7 +2413,7 @@ return array (
     'latitude' => 49.32026,
     'longitude' => 15.32769,
   ),
-  274 => 
+  268 => 
   array (
     'id' => 22380,
     'name' => 'Horní Jelení',
@@ -2476,7 +2422,7 @@ return array (
     'latitude' => 50.04901,
     'longitude' => 16.08396,
   ),
-  275 => 
+  269 => 
   array (
     'id' => 22381,
     'name' => 'Horní Jiřetín',
@@ -2485,7 +2431,7 @@ return array (
     'latitude' => 50.57309,
     'longitude' => 13.54717,
   ),
-  276 => 
+  270 => 
   array (
     'id' => 22382,
     'name' => 'Horní Lideč',
@@ -2494,7 +2440,7 @@ return array (
     'latitude' => 49.18121,
     'longitude' => 18.06099,
   ),
-  277 => 
+  271 => 
   array (
     'id' => 22383,
     'name' => 'Horní Moštěnice',
@@ -2503,7 +2449,7 @@ return array (
     'latitude' => 49.41213,
     'longitude' => 17.45879,
   ),
-  278 => 
+  272 => 
   array (
     'id' => 22384,
     'name' => 'Horní Město',
@@ -2512,7 +2458,7 @@ return array (
     'latitude' => 49.90845,
     'longitude' => 17.21112,
   ),
-  279 => 
+  273 => 
   array (
     'id' => 22385,
     'name' => 'Horní Planá',
@@ -2521,7 +2467,7 @@ return array (
     'latitude' => 48.76736,
     'longitude' => 14.03257,
   ),
-  280 => 
+  274 => 
   array (
     'id' => 22386,
     'name' => 'Horní Počaply',
@@ -2530,7 +2476,7 @@ return array (
     'latitude' => 50.4244,
     'longitude' => 14.38993,
   ),
-  281 => 
+  275 => 
   array (
     'id' => 22387,
     'name' => 'Horní Počernice',
@@ -2539,7 +2485,7 @@ return array (
     'latitude' => 50.1121,
     'longitude' => 14.61036,
   ),
-  282 => 
+  276 => 
   array (
     'id' => 22388,
     'name' => 'Horní Slavkov',
@@ -2548,7 +2494,7 @@ return array (
     'latitude' => 50.13863,
     'longitude' => 12.80758,
   ),
-  283 => 
+  277 => 
   array (
     'id' => 22389,
     'name' => 'Horní Sloupnice',
@@ -2557,7 +2503,7 @@ return array (
     'latitude' => 49.92138,
     'longitude' => 16.33948,
   ),
-  284 => 
+  278 => 
   array (
     'id' => 22390,
     'name' => 'Horní Stropnice',
@@ -2566,7 +2512,7 @@ return array (
     'latitude' => 48.76124,
     'longitude' => 14.73502,
   ),
-  285 => 
+  279 => 
   array (
     'id' => 22391,
     'name' => 'Horní Suchá',
@@ -2575,7 +2521,7 @@ return array (
     'latitude' => 49.7978,
     'longitude' => 18.48189,
   ),
-  286 => 
+  280 => 
   array (
     'id' => 22392,
     'name' => 'Horní Těrlicko',
@@ -2584,7 +2530,7 @@ return array (
     'latitude' => 49.75177,
     'longitude' => 18.4829,
   ),
-  287 => 
+  281 => 
   array (
     'id' => 22393,
     'name' => 'Horní Čermná',
@@ -2593,7 +2539,7 @@ return array (
     'latitude' => 49.97053,
     'longitude' => 16.60772,
   ),
-  288 => 
+  282 => 
   array (
     'id' => 22394,
     'name' => 'Horní Štěpánov',
@@ -2602,7 +2548,7 @@ return array (
     'latitude' => 49.54901,
     'longitude' => 16.79078,
   ),
-  289 => 
+  283 => 
   array (
     'id' => 22395,
     'name' => 'Horoměřice',
@@ -2611,7 +2557,7 @@ return array (
     'latitude' => 50.13173,
     'longitude' => 14.33879,
   ),
-  290 => 
+  284 => 
   array (
     'id' => 22396,
     'name' => 'Horšovský Týn',
@@ -2620,7 +2566,7 @@ return array (
     'latitude' => 49.52965,
     'longitude' => 12.94405,
   ),
-  291 => 
+  285 => 
   array (
     'id' => 22397,
     'name' => 'Hostavice',
@@ -2629,7 +2575,7 @@ return array (
     'latitude' => 50.09283,
     'longitude' => 14.55822,
   ),
-  292 => 
+  286 => 
   array (
     'id' => 22398,
     'name' => 'Hostinné',
@@ -2638,7 +2584,7 @@ return array (
     'latitude' => 50.54066,
     'longitude' => 15.72334,
   ),
-  293 => 
+  287 => 
   array (
     'id' => 22399,
     'name' => 'Hostivice',
@@ -2647,7 +2593,7 @@ return array (
     'latitude' => 50.08158,
     'longitude' => 14.25856,
   ),
-  294 => 
+  288 => 
   array (
     'id' => 22400,
     'name' => 'Hostomice',
@@ -2656,16 +2602,7 @@ return array (
     'latitude' => 50.5877,
     'longitude' => 13.80803,
   ),
-  295 => 
-  array (
-    'id' => 22401,
-    'name' => 'Hostomice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.82526,
-    'longitude' => 14.0456,
-  ),
-  296 => 
+  289 => 
   array (
     'id' => 22402,
     'name' => 'Hostouň',
@@ -2674,7 +2611,7 @@ return array (
     'latitude' => 49.55971,
     'longitude' => 12.77147,
   ),
-  297 => 
+  290 => 
   array (
     'id' => 22403,
     'name' => 'Hostěradice',
@@ -2683,7 +2620,7 @@ return array (
     'latitude' => 48.95006,
     'longitude' => 16.25931,
   ),
-  298 => 
+  291 => 
   array (
     'id' => 22404,
     'name' => 'Hovorany',
@@ -2692,7 +2629,7 @@ return array (
     'latitude' => 48.95493,
     'longitude' => 16.99346,
   ),
-  299 => 
+  292 => 
   array (
     'id' => 22405,
     'name' => 'Hovorčovice',
@@ -2701,7 +2638,7 @@ return array (
     'latitude' => 50.17866,
     'longitude' => 14.51789,
   ),
-  300 => 
+  293 => 
   array (
     'id' => 22406,
     'name' => 'Hovězí',
@@ -2710,7 +2647,7 @@ return array (
     'latitude' => 49.30365,
     'longitude' => 18.06062,
   ),
-  301 => 
+  294 => 
   array (
     'id' => 22407,
     'name' => 'Hořice',
@@ -2719,7 +2656,7 @@ return array (
     'latitude' => 50.36609,
     'longitude' => 15.63183,
   ),
-  302 => 
+  295 => 
   array (
     'id' => 22408,
     'name' => 'Hořovice',
@@ -2728,7 +2665,7 @@ return array (
     'latitude' => 49.83597,
     'longitude' => 13.90268,
   ),
-  303 => 
+  296 => 
   array (
     'id' => 22409,
     'name' => 'Hošťka',
@@ -2737,7 +2674,7 @@ return array (
     'latitude' => 50.48859,
     'longitude' => 14.335,
   ),
-  304 => 
+  297 => 
   array (
     'id' => 22410,
     'name' => 'Hošťálková',
@@ -2746,7 +2683,7 @@ return array (
     'latitude' => 49.35467,
     'longitude' => 17.86944,
   ),
-  305 => 
+  298 => 
   array (
     'id' => 22411,
     'name' => 'Hrabyně',
@@ -2755,7 +2692,7 @@ return array (
     'latitude' => 49.88249,
     'longitude' => 18.05483,
   ),
-  306 => 
+  299 => 
   array (
     'id' => 22412,
     'name' => 'Hradec Králové',
@@ -2764,7 +2701,7 @@ return array (
     'latitude' => 50.20923,
     'longitude' => 15.83277,
   ),
-  307 => 
+  300 => 
   array (
     'id' => 22413,
     'name' => 'Hradec nad Moravici',
@@ -2773,7 +2710,7 @@ return array (
     'latitude' => 49.87042,
     'longitude' => 17.87843,
   ),
-  308 => 
+  301 => 
   array (
     'id' => 22414,
     'name' => 'Hradec nad Svitavou',
@@ -2782,7 +2719,7 @@ return array (
     'latitude' => 49.71143,
     'longitude' => 16.48058,
   ),
-  309 => 
+  302 => 
   array (
     'id' => 22415,
     'name' => 'Hradištko',
@@ -2791,7 +2728,7 @@ return array (
     'latitude' => 49.86828,
     'longitude' => 14.40935,
   ),
-  310 => 
+  303 => 
   array (
     'id' => 22416,
     'name' => 'Hranice',
@@ -2800,16 +2737,7 @@ return array (
     'latitude' => 50.30459,
     'longitude' => 12.17577,
   ),
-  311 => 
-  array (
-    'id' => 22417,
-    'name' => 'Hranice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.54796,
-    'longitude' => 17.73469,
-  ),
-  312 => 
+  304 => 
   array (
     'id' => 22418,
     'name' => 'Hrdějovice',
@@ -2818,7 +2746,7 @@ return array (
     'latitude' => 49.01893,
     'longitude' => 14.47857,
   ),
-  313 => 
+  305 => 
   array (
     'id' => 22419,
     'name' => 'Hrob',
@@ -2827,7 +2755,7 @@ return array (
     'latitude' => 50.65919,
     'longitude' => 13.72676,
   ),
-  314 => 
+  306 => 
   array (
     'id' => 22420,
     'name' => 'Hrochův Týnec',
@@ -2836,7 +2764,7 @@ return array (
     'latitude' => 49.95946,
     'longitude' => 15.91054,
   ),
-  315 => 
+  307 => 
   array (
     'id' => 22421,
     'name' => 'Hromnice',
@@ -2845,7 +2773,7 @@ return array (
     'latitude' => 49.84907,
     'longitude' => 13.44146,
   ),
-  316 => 
+  308 => 
   array (
     'id' => 22422,
     'name' => 'Hronov',
@@ -2854,7 +2782,7 @@ return array (
     'latitude' => 50.47968,
     'longitude' => 16.1823,
   ),
-  317 => 
+  309 => 
   array (
     'id' => 22423,
     'name' => 'Hrotovice',
@@ -2863,7 +2791,7 @@ return array (
     'latitude' => 49.1077,
     'longitude' => 16.06067,
   ),
-  318 => 
+  310 => 
   array (
     'id' => 22424,
     'name' => 'Hroznová Lhota',
@@ -2872,7 +2800,7 @@ return array (
     'latitude' => 48.90784,
     'longitude' => 17.41697,
   ),
-  319 => 
+  311 => 
   array (
     'id' => 22425,
     'name' => 'Hroznětín',
@@ -2881,7 +2809,7 @@ return array (
     'latitude' => 50.3094,
     'longitude' => 12.8718,
   ),
-  320 => 
+  312 => 
   array (
     'id' => 22426,
     'name' => 'Hrušky',
@@ -2890,7 +2818,7 @@ return array (
     'latitude' => 48.79272,
     'longitude' => 16.97404,
   ),
-  321 => 
+  313 => 
   array (
     'id' => 22427,
     'name' => 'Hrušovany nad Jevišovkou',
@@ -2899,7 +2827,7 @@ return array (
     'latitude' => 48.82991,
     'longitude' => 16.40271,
   ),
-  322 => 
+  314 => 
   array (
     'id' => 22428,
     'name' => 'Hrušovany u Brna',
@@ -2908,7 +2836,7 @@ return array (
     'latitude' => 49.03863,
     'longitude' => 16.59429,
   ),
-  323 => 
+  315 => 
   array (
     'id' => 22429,
     'name' => 'Hrádek',
@@ -2917,16 +2845,7 @@ return array (
     'latitude' => 49.61661,
     'longitude' => 18.7372,
   ),
-  324 => 
-  array (
-    'id' => 22430,
-    'name' => 'Hrádek',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.71316,
-    'longitude' => 13.65296,
-  ),
-  325 => 
+  316 => 
   array (
     'id' => 22431,
     'name' => 'Hrádek nad Nisou',
@@ -2935,7 +2854,7 @@ return array (
     'latitude' => 50.85279,
     'longitude' => 14.84455,
   ),
-  326 => 
+  317 => 
   array (
     'id' => 22432,
     'name' => 'Hudlice',
@@ -2944,7 +2863,7 @@ return array (
     'latitude' => 49.96096,
     'longitude' => 13.97063,
   ),
-  327 => 
+  318 => 
   array (
     'id' => 22433,
     'name' => 'Hukvaldy',
@@ -2953,7 +2872,7 @@ return array (
     'latitude' => 49.62381,
     'longitude' => 18.22189,
   ),
-  328 => 
+  319 => 
   array (
     'id' => 22434,
     'name' => 'Hulín',
@@ -2962,7 +2881,7 @@ return array (
     'latitude' => 49.31689,
     'longitude' => 17.46374,
   ),
-  329 => 
+  320 => 
   array (
     'id' => 22435,
     'name' => 'Humpolec',
@@ -2971,7 +2890,7 @@ return array (
     'latitude' => 49.54152,
     'longitude' => 15.35932,
   ),
-  330 => 
+  321 => 
   array (
     'id' => 22436,
     'name' => 'Husinec',
@@ -2980,7 +2899,7 @@ return array (
     'latitude' => 49.05496,
     'longitude' => 13.98697,
   ),
-  331 => 
+  322 => 
   array (
     'id' => 22437,
     'name' => 'Hustopeče',
@@ -2989,7 +2908,7 @@ return array (
     'latitude' => 48.94085,
     'longitude' => 16.73762,
   ),
-  332 => 
+  323 => 
   array (
     'id' => 22438,
     'name' => 'Hustopeče Nad Bečvou',
@@ -2998,7 +2917,7 @@ return array (
     'latitude' => 49.53053,
     'longitude' => 17.86994,
   ),
-  333 => 
+  324 => 
   array (
     'id' => 22439,
     'name' => 'Hvozdná',
@@ -3007,7 +2926,7 @@ return array (
     'latitude' => 49.24848,
     'longitude' => 17.75163,
   ),
-  334 => 
+  325 => 
   array (
     'id' => 22440,
     'name' => 'Háj ve Slezsku',
@@ -3016,7 +2935,7 @@ return array (
     'latitude' => 49.89856,
     'longitude' => 18.0954,
   ),
-  335 => 
+  326 => 
   array (
     'id' => 22441,
     'name' => 'Hýskov',
@@ -3025,7 +2944,7 @@ return array (
     'latitude' => 49.99072,
     'longitude' => 14.05055,
   ),
-  336 => 
+  327 => 
   array (
     'id' => 22442,
     'name' => 'Hřebeč',
@@ -3034,7 +2953,7 @@ return array (
     'latitude' => 50.13595,
     'longitude' => 14.16446,
   ),
-  337 => 
+  328 => 
   array (
     'id' => 22443,
     'name' => 'Ivanovice na Hané',
@@ -3043,7 +2962,7 @@ return array (
     'latitude' => 49.30542,
     'longitude' => 17.09343,
   ),
-  338 => 
+  329 => 
   array (
     'id' => 22444,
     'name' => 'Ivančice',
@@ -3052,7 +2971,7 @@ return array (
     'latitude' => 49.10144,
     'longitude' => 16.37752,
   ),
-  339 => 
+  330 => 
   array (
     'id' => 22445,
     'name' => 'Jablonec nad Jizerou',
@@ -3061,7 +2980,7 @@ return array (
     'latitude' => 50.70347,
     'longitude' => 15.42959,
   ),
-  340 => 
+  331 => 
   array (
     'id' => 22446,
     'name' => 'Jablonec nad Nisou',
@@ -3070,7 +2989,7 @@ return array (
     'latitude' => 50.72431,
     'longitude' => 15.17108,
   ),
-  341 => 
+  332 => 
   array (
     'id' => 22447,
     'name' => 'Jablonné nad Orlicí',
@@ -3079,7 +2998,7 @@ return array (
     'latitude' => 50.02964,
     'longitude' => 16.60059,
   ),
-  342 => 
+  333 => 
   array (
     'id' => 22448,
     'name' => 'Jablonné v Podještědí',
@@ -3088,7 +3007,7 @@ return array (
     'latitude' => 50.76528,
     'longitude' => 14.76052,
   ),
-  343 => 
+  334 => 
   array (
     'id' => 22449,
     'name' => 'Jablunkov',
@@ -3097,7 +3016,7 @@ return array (
     'latitude' => 49.57672,
     'longitude' => 18.76458,
   ),
-  344 => 
+  335 => 
   array (
     'id' => 22450,
     'name' => 'Jablůnka',
@@ -3106,7 +3025,7 @@ return array (
     'latitude' => 49.38355,
     'longitude' => 17.95021,
   ),
-  345 => 
+  336 => 
   array (
     'id' => 22451,
     'name' => 'Jakartovice',
@@ -3115,7 +3034,7 @@ return array (
     'latitude' => 49.9151,
     'longitude' => 17.684,
   ),
-  346 => 
+  337 => 
   array (
     'id' => 22452,
     'name' => 'Jalubí',
@@ -3124,7 +3043,7 @@ return array (
     'latitude' => 49.11626,
     'longitude' => 17.42788,
   ),
-  347 => 
+  338 => 
   array (
     'id' => 22453,
     'name' => 'Janov nad Nisou',
@@ -3133,7 +3052,7 @@ return array (
     'latitude' => 50.77204,
     'longitude' => 15.16913,
   ),
-  348 => 
+  339 => 
   array (
     'id' => 22454,
     'name' => 'Janovice',
@@ -3142,7 +3061,7 @@ return array (
     'latitude' => 49.62141,
     'longitude' => 18.40602,
   ),
-  349 => 
+  340 => 
   array (
     'id' => 22455,
     'name' => 'Janovice nad Úhlavou',
@@ -3151,7 +3070,7 @@ return array (
     'latitude' => 49.34515,
     'longitude' => 13.21813,
   ),
-  350 => 
+  341 => 
   array (
     'id' => 22456,
     'name' => 'Jaroměř',
@@ -3160,7 +3079,7 @@ return array (
     'latitude' => 50.3562,
     'longitude' => 15.92136,
   ),
-  351 => 
+  342 => 
   array (
     'id' => 22457,
     'name' => 'Jaroměřice',
@@ -3169,7 +3088,7 @@ return array (
     'latitude' => 49.62556,
     'longitude' => 16.75185,
   ),
-  352 => 
+  343 => 
   array (
     'id' => 22458,
     'name' => 'Jaroměřice nad Rokytnou',
@@ -3178,7 +3097,7 @@ return array (
     'latitude' => 49.09408,
     'longitude' => 15.89331,
   ),
-  353 => 
+  344 => 
   array (
     'id' => 22459,
     'name' => 'Jaroslavice',
@@ -3187,7 +3106,7 @@ return array (
     'latitude' => 48.75657,
     'longitude' => 16.23351,
   ),
-  354 => 
+  345 => 
   array (
     'id' => 22460,
     'name' => 'Jarošov nad Nežárkou',
@@ -3196,7 +3115,7 @@ return array (
     'latitude' => 49.18989,
     'longitude' => 15.06734,
   ),
-  355 => 
+  346 => 
   array (
     'id' => 22461,
     'name' => 'Javorník',
@@ -3205,7 +3124,7 @@ return array (
     'latitude' => 50.39077,
     'longitude' => 17.00272,
   ),
-  356 => 
+  347 => 
   array (
     'id' => 22462,
     'name' => 'Jedlová',
@@ -3214,7 +3133,7 @@ return array (
     'latitude' => 49.661,
     'longitude' => 16.30608,
   ),
-  357 => 
+  348 => 
   array (
     'id' => 22463,
     'name' => 'Jedovnice',
@@ -3223,7 +3142,7 @@ return array (
     'latitude' => 49.34453,
     'longitude' => 16.75595,
   ),
-  358 => 
+  349 => 
   array (
     'id' => 22464,
     'name' => 'Jemnice',
@@ -3232,7 +3151,7 @@ return array (
     'latitude' => 49.01898,
     'longitude' => 15.56994,
   ),
-  359 => 
+  350 => 
   array (
     'id' => 22465,
     'name' => 'Jeneč',
@@ -3241,7 +3160,7 @@ return array (
     'latitude' => 50.0873,
     'longitude' => 14.21482,
   ),
-  360 => 
+  351 => 
   array (
     'id' => 22466,
     'name' => 'Jesenice',
@@ -3250,7 +3169,7 @@ return array (
     'latitude' => 49.96814,
     'longitude' => 14.5135,
   ),
-  361 => 
+  352 => 
   array (
     'id' => 22467,
     'name' => 'Jeseník',
@@ -3259,7 +3178,7 @@ return array (
     'latitude' => 50.22937,
     'longitude' => 17.20464,
   ),
-  362 => 
+  353 => 
   array (
     'id' => 22468,
     'name' => 'Jeseník nad Odrou',
@@ -3268,7 +3187,7 @@ return array (
     'latitude' => 49.61194,
     'longitude' => 17.90526,
   ),
-  363 => 
+  354 => 
   array (
     'id' => 22469,
     'name' => 'Jevišovice',
@@ -3277,7 +3196,7 @@ return array (
     'latitude' => 48.98736,
     'longitude' => 15.98992,
   ),
-  364 => 
+  355 => 
   array (
     'id' => 22470,
     'name' => 'Jevíčko',
@@ -3286,7 +3205,7 @@ return array (
     'latitude' => 49.6322,
     'longitude' => 16.71125,
   ),
-  365 => 
+  356 => 
   array (
     'id' => 22471,
     'name' => 'Jihlava',
@@ -3295,7 +3214,7 @@ return array (
     'latitude' => 49.3961,
     'longitude' => 15.59124,
   ),
-  366 => 
+  357 => 
   array (
     'id' => 22472,
     'name' => 'Jilemnice',
@@ -3304,7 +3223,7 @@ return array (
     'latitude' => 50.6089,
     'longitude' => 15.50653,
   ),
-  367 => 
+  358 => 
   array (
     'id' => 22473,
     'name' => 'Jimramov',
@@ -3313,7 +3232,7 @@ return array (
     'latitude' => 49.63719,
     'longitude' => 16.22632,
   ),
-  368 => 
+  359 => 
   array (
     'id' => 22474,
     'name' => 'Jince',
@@ -3322,7 +3241,7 @@ return array (
     'latitude' => 49.78624,
     'longitude' => 13.97867,
   ),
-  369 => 
+  360 => 
   array (
     'id' => 22475,
     'name' => 'Jindřichov',
@@ -3331,7 +3250,7 @@ return array (
     'latitude' => 50.25184,
     'longitude' => 17.51903,
   ),
-  370 => 
+  361 => 
   array (
     'id' => 22476,
     'name' => 'Jindřichův Hradec',
@@ -3340,7 +3259,7 @@ return array (
     'latitude' => 49.14404,
     'longitude' => 15.00301,
   ),
-  371 => 
+  362 => 
   array (
     'id' => 22477,
     'name' => 'Jirkov',
@@ -3349,7 +3268,7 @@ return array (
     'latitude' => 50.49979,
     'longitude' => 13.44769,
   ),
-  372 => 
+  363 => 
   array (
     'id' => 22478,
     'name' => 'Jirny',
@@ -3358,7 +3277,7 @@ return array (
     'latitude' => 50.11578,
     'longitude' => 14.69923,
   ),
-  373 => 
+  364 => 
   array (
     'id' => 22479,
     'name' => 'Jistebnice',
@@ -3367,7 +3286,7 @@ return array (
     'latitude' => 49.48553,
     'longitude' => 14.5276,
   ),
-  374 => 
+  365 => 
   array (
     'id' => 22480,
     'name' => 'Jistebník',
@@ -3376,7 +3295,7 @@ return array (
     'latitude' => 49.754,
     'longitude' => 18.13063,
   ),
-  375 => 
+  366 => 
   array (
     'id' => 22481,
     'name' => 'Jičín',
@@ -3385,7 +3304,7 @@ return array (
     'latitude' => 50.43723,
     'longitude' => 15.35162,
   ),
-  376 => 
+  367 => 
   array (
     'id' => 22482,
     'name' => 'Jiříkov',
@@ -3394,7 +3313,7 @@ return array (
     'latitude' => 50.99514,
     'longitude' => 14.5691,
   ),
-  377 => 
+  368 => 
   array (
     'id' => 22483,
     'name' => 'Josefův Důl',
@@ -3403,7 +3322,7 @@ return array (
     'latitude' => 50.78191,
     'longitude' => 15.23146,
   ),
-  378 => 
+  369 => 
   array (
     'id' => 22484,
     'name' => 'Jáchymov',
@@ -3412,7 +3331,7 @@ return array (
     'latitude' => 50.35846,
     'longitude' => 12.93465,
   ),
-  379 => 
+  370 => 
   array (
     'id' => 22485,
     'name' => 'Jílové',
@@ -3421,7 +3340,7 @@ return array (
     'latitude' => 50.76082,
     'longitude' => 14.10383,
   ),
-  380 => 
+  371 => 
   array (
     'id' => 22486,
     'name' => 'Jílové u Prahy',
@@ -3430,7 +3349,7 @@ return array (
     'latitude' => 49.89545,
     'longitude' => 14.49333,
   ),
-  381 => 
+  372 => 
   array (
     'id' => 22487,
     'name' => 'Kadaň',
@@ -3439,7 +3358,7 @@ return array (
     'latitude' => 50.38333,
     'longitude' => 13.26667,
   ),
-  382 => 
+  373 => 
   array (
     'id' => 22488,
     'name' => 'Kamenice',
@@ -3448,16 +3367,7 @@ return array (
     'latitude' => 49.36659,
     'longitude' => 15.78023,
   ),
-  383 => 
-  array (
-    'id' => 22489,
-    'name' => 'Kamenice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.90151,
-    'longitude' => 14.58242,
-  ),
-  384 => 
+  374 => 
   array (
     'id' => 22490,
     'name' => 'Kamenice nad Lipou',
@@ -3466,7 +3376,7 @@ return array (
     'latitude' => 49.30303,
     'longitude' => 15.07519,
   ),
-  385 => 
+  375 => 
   array (
     'id' => 22491,
     'name' => 'Kamenický Šenov',
@@ -3475,7 +3385,7 @@ return array (
     'latitude' => 50.77359,
     'longitude' => 14.47287,
   ),
-  386 => 
+  376 => 
   array (
     'id' => 22492,
     'name' => 'Kamenné Žehrovice',
@@ -3484,7 +3394,7 @@ return array (
     'latitude' => 50.12697,
     'longitude' => 14.01809,
   ),
-  387 => 
+  377 => 
   array (
     'id' => 22493,
     'name' => 'Kamenný Přívoz',
@@ -3493,7 +3403,7 @@ return array (
     'latitude' => 49.86299,
     'longitude' => 14.50339,
   ),
-  388 => 
+  378 => 
   array (
     'id' => 22494,
     'name' => 'Kamenný Újezd',
@@ -3502,7 +3412,7 @@ return array (
     'latitude' => 48.89753,
     'longitude' => 14.44638,
   ),
-  389 => 
+  379 => 
   array (
     'id' => 22495,
     'name' => 'Kaplice',
@@ -3511,7 +3421,7 @@ return array (
     'latitude' => 48.73881,
     'longitude' => 14.49449,
   ),
-  390 => 
+  380 => 
   array (
     'id' => 22496,
     'name' => 'Kardašova Řečice',
@@ -3520,7 +3430,7 @@ return array (
     'latitude' => 49.18478,
     'longitude' => 14.85315,
   ),
-  391 => 
+  381 => 
   array (
     'id' => 22497,
     'name' => 'Karlovice',
@@ -3529,7 +3439,7 @@ return array (
     'latitude' => 50.10564,
     'longitude' => 17.44563,
   ),
-  392 => 
+  382 => 
   array (
     'id' => 22498,
     'name' => 'Karlovy Vary',
@@ -3538,7 +3448,7 @@ return array (
     'latitude' => 50.23271,
     'longitude' => 12.87117,
   ),
-  393 => 
+  383 => 
   array (
     'id' => 22499,
     'name' => 'Karlín',
@@ -3547,7 +3457,7 @@ return array (
     'latitude' => 50.09272,
     'longitude' => 14.44711,
   ),
-  394 => 
+  384 => 
   array (
     'id' => 22500,
     'name' => 'Karolinka',
@@ -3556,7 +3466,7 @@ return array (
     'latitude' => 49.35128,
     'longitude' => 18.24006,
   ),
-  395 => 
+  385 => 
   array (
     'id' => 22501,
     'name' => 'Karviná',
@@ -3565,7 +3475,7 @@ return array (
     'latitude' => 49.854,
     'longitude' => 18.54169,
   ),
-  396 => 
+  386 => 
   array (
     'id' => 22502,
     'name' => 'Kasejovice',
@@ -3574,7 +3484,7 @@ return array (
     'latitude' => 49.4627,
     'longitude' => 13.7406,
   ),
-  397 => 
+  387 => 
   array (
     'id' => 22503,
     'name' => 'Katovice',
@@ -3583,7 +3493,7 @@ return array (
     'latitude' => 49.27348,
     'longitude' => 13.83035,
   ),
-  398 => 
+  388 => 
   array (
     'id' => 22504,
     'name' => 'Kaznějov',
@@ -3592,7 +3502,7 @@ return array (
     'latitude' => 49.89313,
     'longitude' => 13.38295,
   ),
-  399 => 
+  389 => 
   array (
     'id' => 22505,
     'name' => 'Kačice',
@@ -3601,7 +3511,7 @@ return array (
     'latitude' => 50.16261,
     'longitude' => 13.98815,
   ),
-  400 => 
+  390 => 
   array (
     'id' => 22506,
     'name' => 'Kašperské Hory',
@@ -3610,7 +3520,7 @@ return array (
     'latitude' => 49.14289,
     'longitude' => 13.55616,
   ),
-  401 => 
+  391 => 
   array (
     'id' => 22507,
     'name' => 'Kbely',
@@ -3619,7 +3529,7 @@ return array (
     'latitude' => 50.13333,
     'longitude' => 14.55,
   ),
-  402 => 
+  392 => 
   array (
     'id' => 22508,
     'name' => 'Kdyně',
@@ -3628,7 +3538,7 @@ return array (
     'latitude' => 49.39077,
     'longitude' => 13.03968,
   ),
-  403 => 
+  393 => 
   array (
     'id' => 22509,
     'name' => 'Kelč',
@@ -3637,7 +3547,7 @@ return array (
     'latitude' => 49.47844,
     'longitude' => 17.81533,
   ),
-  404 => 
+  394 => 
   array (
     'id' => 22510,
     'name' => 'Kladno',
@@ -3646,7 +3556,7 @@ return array (
     'latitude' => 50.14734,
     'longitude' => 14.10285,
   ),
-  405 => 
+  395 => 
   array (
     'id' => 22511,
     'name' => 'Kladruby',
@@ -3655,7 +3565,7 @@ return array (
     'latitude' => 49.71498,
     'longitude' => 12.98232,
   ),
-  406 => 
+  396 => 
   array (
     'id' => 22512,
     'name' => 'Klatovy',
@@ -3664,7 +3574,7 @@ return array (
     'latitude' => 49.39552,
     'longitude' => 13.29505,
   ),
-  407 => 
+  397 => 
   array (
     'id' => 22513,
     'name' => 'Klecany',
@@ -3673,7 +3583,7 @@ return array (
     'latitude' => 50.17599,
     'longitude' => 14.41148,
   ),
-  408 => 
+  398 => 
   array (
     'id' => 22514,
     'name' => 'Klenčí pod Čerchovem',
@@ -3682,7 +3592,7 @@ return array (
     'latitude' => 49.43484,
     'longitude' => 12.81473,
   ),
-  409 => 
+  399 => 
   array (
     'id' => 22515,
     'name' => 'Klimkovice',
@@ -3691,7 +3601,7 @@ return array (
     'latitude' => 49.78809,
     'longitude' => 18.12585,
   ),
-  410 => 
+  400 => 
   array (
     'id' => 22516,
     'name' => 'Klobouky',
@@ -3700,7 +3610,7 @@ return array (
     'latitude' => 48.99609,
     'longitude' => 16.86298,
   ),
-  411 => 
+  401 => 
   array (
     'id' => 22517,
     'name' => 'Klobuky',
@@ -3709,7 +3619,7 @@ return array (
     'latitude' => 50.29401,
     'longitude' => 13.98748,
   ),
-  412 => 
+  402 => 
   array (
     'id' => 22518,
     'name' => 'Klášter',
@@ -3718,7 +3628,7 @@ return array (
     'latitude' => 49.96762,
     'longitude' => 12.87623,
   ),
-  413 => 
+  403 => 
   array (
     'id' => 22519,
     'name' => 'Klášterec nad Ohří',
@@ -3727,7 +3637,7 @@ return array (
     'latitude' => 50.3886,
     'longitude' => 13.18342,
   ),
-  414 => 
+  404 => 
   array (
     'id' => 22520,
     'name' => 'Kněždub',
@@ -3736,7 +3646,7 @@ return array (
     'latitude' => 48.88666,
     'longitude' => 17.39546,
   ),
-  415 => 
+  405 => 
   array (
     'id' => 22521,
     'name' => 'Kněžice',
@@ -3745,7 +3655,7 @@ return array (
     'latitude' => 49.27078,
     'longitude' => 15.67216,
   ),
-  416 => 
+  406 => 
   array (
     'id' => 22522,
     'name' => 'Kněžmost',
@@ -3754,7 +3664,7 @@ return array (
     'latitude' => 50.48917,
     'longitude' => 15.03829,
   ),
-  417 => 
+  407 => 
   array (
     'id' => 22523,
     'name' => 'Kněžpole',
@@ -3763,7 +3673,7 @@ return array (
     'latitude' => 49.09855,
     'longitude' => 17.51671,
   ),
-  418 => 
+  408 => 
   array (
     'id' => 22524,
     'name' => 'Kobeřice',
@@ -3772,7 +3682,7 @@ return array (
     'latitude' => 49.98548,
     'longitude' => 18.05212,
   ),
-  419 => 
+  409 => 
   array (
     'id' => 22525,
     'name' => 'Kobylí',
@@ -3781,7 +3691,7 @@ return array (
     'latitude' => 48.93286,
     'longitude' => 16.89159,
   ),
-  420 => 
+  410 => 
   array (
     'id' => 22526,
     'name' => 'Kojetín',
@@ -3790,7 +3700,7 @@ return array (
     'latitude' => 49.35179,
     'longitude' => 17.30207,
   ),
-  421 => 
+  411 => 
   array (
     'id' => 22527,
     'name' => 'Kokory',
@@ -3799,7 +3709,7 @@ return array (
     'latitude' => 49.49482,
     'longitude' => 17.37544,
   ),
-  422 => 
+  412 => 
   array (
     'id' => 22528,
     'name' => 'Kolinec',
@@ -3808,7 +3718,7 @@ return array (
     'latitude' => 49.29895,
     'longitude' => 13.439,
   ),
-  423 => 
+  413 => 
   array (
     'id' => 22529,
     'name' => 'Kolín',
@@ -3817,7 +3727,7 @@ return array (
     'latitude' => 50.02806,
     'longitude' => 15.1998,
   ),
-  424 => 
+  414 => 
   array (
     'id' => 22530,
     'name' => 'Komorní Lhotka',
@@ -3826,7 +3736,7 @@ return array (
     'latitude' => 49.65811,
     'longitude' => 18.52777,
   ),
-  425 => 
+  415 => 
   array (
     'id' => 22531,
     'name' => 'Komárov',
@@ -3835,7 +3745,7 @@ return array (
     'latitude' => 49.8065,
     'longitude' => 13.85636,
   ),
-  426 => 
+  416 => 
   array (
     'id' => 22532,
     'name' => 'Konice',
@@ -3844,7 +3754,7 @@ return array (
     'latitude' => 49.5903,
     'longitude' => 16.88911,
   ),
-  427 => 
+  417 => 
   array (
     'id' => 22533,
     'name' => 'Kopidlno',
@@ -3853,7 +3763,7 @@ return array (
     'latitude' => 50.33085,
     'longitude' => 15.27029,
   ),
-  428 => 
+  418 => 
   array (
     'id' => 22534,
     'name' => 'Kopřivnice',
@@ -3862,7 +3772,7 @@ return array (
     'latitude' => 49.59947,
     'longitude' => 18.1448,
   ),
-  429 => 
+  419 => 
   array (
     'id' => 22535,
     'name' => 'Koryčany',
@@ -3871,7 +3781,7 @@ return array (
     'latitude' => 49.10639,
     'longitude' => 17.16433,
   ),
-  430 => 
+  420 => 
   array (
     'id' => 22536,
     'name' => 'Kosmonosy',
@@ -3880,7 +3790,7 @@ return array (
     'latitude' => 50.4385,
     'longitude' => 14.93,
   ),
-  431 => 
+  421 => 
   array (
     'id' => 22537,
     'name' => 'Kosova Hora',
@@ -3889,7 +3799,7 @@ return array (
     'latitude' => 49.65414,
     'longitude' => 14.47173,
   ),
-  432 => 
+  422 => 
   array (
     'id' => 22538,
     'name' => 'Kostelec na Hané',
@@ -3898,7 +3808,7 @@ return array (
     'latitude' => 49.51398,
     'longitude' => 17.05824,
   ),
-  433 => 
+  423 => 
   array (
     'id' => 22539,
     'name' => 'Kostelec nad Labem',
@@ -3907,7 +3817,7 @@ return array (
     'latitude' => 50.22653,
     'longitude' => 14.58552,
   ),
-  434 => 
+  424 => 
   array (
     'id' => 22540,
     'name' => 'Kostelec nad Orlicí',
@@ -3916,7 +3826,7 @@ return array (
     'latitude' => 50.12267,
     'longitude' => 16.21319,
   ),
-  435 => 
+  425 => 
   array (
     'id' => 22541,
     'name' => 'Kostelec nad Černými Lesy',
@@ -3925,7 +3835,7 @@ return array (
     'latitude' => 49.99403,
     'longitude' => 14.85922,
   ),
-  436 => 
+  426 => 
   array (
     'id' => 22542,
     'name' => 'Kostice',
@@ -3934,7 +3844,7 @@ return array (
     'latitude' => 48.74685,
     'longitude' => 16.97869,
   ),
-  437 => 
+  427 => 
   array (
     'id' => 22543,
     'name' => 'Kout na Šumavě',
@@ -3943,7 +3853,7 @@ return array (
     'latitude' => 49.40255,
     'longitude' => 13.00208,
   ),
-  438 => 
+  428 => 
   array (
     'id' => 22544,
     'name' => 'Kouřim',
@@ -3952,7 +3862,7 @@ return array (
     'latitude' => 50.00306,
     'longitude' => 14.97703,
   ),
-  439 => 
+  429 => 
   array (
     'id' => 22545,
     'name' => 'Kovářov',
@@ -3961,7 +3871,7 @@ return array (
     'latitude' => 49.5176,
     'longitude' => 14.27809,
   ),
-  440 => 
+  430 => 
   array (
     'id' => 22546,
     'name' => 'Kovářská',
@@ -3970,7 +3880,7 @@ return array (
     'latitude' => 50.43821,
     'longitude' => 13.05388,
   ),
-  441 => 
+  431 => 
   array (
     'id' => 22547,
     'name' => 'Kozlovice',
@@ -3979,7 +3889,7 @@ return array (
     'latitude' => 49.5904,
     'longitude' => 18.25656,
   ),
-  442 => 
+  432 => 
   array (
     'id' => 22548,
     'name' => 'Kozmice',
@@ -3988,7 +3898,7 @@ return array (
     'latitude' => 49.9128,
     'longitude' => 18.15584,
   ),
-  443 => 
+  433 => 
   array (
     'id' => 22549,
     'name' => 'Kořenov',
@@ -3997,7 +3907,7 @@ return array (
     'latitude' => 50.75926,
     'longitude' => 15.36532,
   ),
-  444 => 
+  434 => 
   array (
     'id' => 22550,
     'name' => 'Košťany',
@@ -4006,7 +3916,7 @@ return array (
     'latitude' => 50.65507,
     'longitude' => 13.75554,
   ),
-  445 => 
+  435 => 
   array (
     'id' => 22551,
     'name' => 'Košťálov',
@@ -4015,7 +3925,7 @@ return array (
     'latitude' => 50.57165,
     'longitude' => 15.40403,
   ),
-  446 => 
+  436 => 
   array (
     'id' => 22552,
     'name' => 'Kožlany',
@@ -4024,7 +3934,7 @@ return array (
     'latitude' => 49.99389,
     'longitude' => 13.54107,
   ),
-  447 => 
+  437 => 
   array (
     'id' => 22553,
     'name' => 'Kralice na Hané',
@@ -4033,7 +3943,7 @@ return array (
     'latitude' => 49.46296,
     'longitude' => 17.18048,
   ),
-  448 => 
+  438 => 
   array (
     'id' => 22554,
     'name' => 'Kralovice',
@@ -4042,7 +3952,7 @@ return array (
     'latitude' => 49.98192,
     'longitude' => 13.48747,
   ),
-  449 => 
+  439 => 
   array (
     'id' => 22555,
     'name' => 'Kralupy nad Vltavou',
@@ -4051,7 +3961,7 @@ return array (
     'latitude' => 50.24107,
     'longitude' => 14.31149,
   ),
-  450 => 
+  440 => 
   array (
     'id' => 22556,
     'name' => 'Kraslice',
@@ -4060,7 +3970,7 @@ return array (
     'latitude' => 50.32372,
     'longitude' => 12.51747,
   ),
-  451 => 
+  441 => 
   array (
     'id' => 22557,
     'name' => 'Kravaře',
@@ -4069,7 +3979,7 @@ return array (
     'latitude' => 49.93203,
     'longitude' => 18.00472,
   ),
-  452 => 
+  442 => 
   array (
     'id' => 22558,
     'name' => 'Krmelín',
@@ -4078,7 +3988,7 @@ return array (
     'latitude' => 49.72914,
     'longitude' => 18.23541,
   ),
-  453 => 
+  443 => 
   array (
     'id' => 22559,
     'name' => 'Krnov',
@@ -4087,7 +3997,7 @@ return array (
     'latitude' => 50.08967,
     'longitude' => 17.70385,
   ),
-  454 => 
+  444 => 
   array (
     'id' => 22560,
     'name' => 'Kroměříž',
@@ -4096,7 +4006,7 @@ return array (
     'latitude' => 49.29785,
     'longitude' => 17.39312,
   ),
-  455 => 
+  445 => 
   array (
     'id' => 22561,
     'name' => 'Krouna',
@@ -4105,7 +4015,7 @@ return array (
     'latitude' => 49.7724,
     'longitude' => 16.02674,
   ),
-  456 => 
+  446 => 
   array (
     'id' => 22562,
     'name' => 'Krumvíř',
@@ -4114,7 +4024,7 @@ return array (
     'latitude' => 48.98901,
     'longitude' => 16.91027,
   ),
-  457 => 
+  447 => 
   array (
     'id' => 22563,
     'name' => 'Krupka',
@@ -4123,7 +4033,7 @@ return array (
     'latitude' => 50.68449,
     'longitude' => 13.85815,
   ),
-  458 => 
+  448 => 
   array (
     'id' => 22564,
     'name' => 'Kryry',
@@ -4132,7 +4042,7 @@ return array (
     'latitude' => 50.17437,
     'longitude' => 13.4266,
   ),
-  459 => 
+  449 => 
   array (
     'id' => 22565,
     'name' => 'Králíky',
@@ -4141,7 +4051,7 @@ return array (
     'latitude' => 50.08384,
     'longitude' => 16.76054,
   ),
-  460 => 
+  450 => 
   array (
     'id' => 22566,
     'name' => 'Králův Dvůr',
@@ -4150,7 +4060,7 @@ return array (
     'latitude' => 49.94981,
     'longitude' => 14.03445,
   ),
-  461 => 
+  451 => 
   array (
     'id' => 22567,
     'name' => 'Krásná Hora nad Vltavou',
@@ -4159,7 +4069,7 @@ return array (
     'latitude' => 49.60461,
     'longitude' => 14.27742,
   ),
-  462 => 
+  452 => 
   array (
     'id' => 22568,
     'name' => 'Krásná Lípa',
@@ -4168,7 +4078,7 @@ return array (
     'latitude' => 50.48378,
     'longitude' => 13.3575,
   ),
-  463 => 
+  453 => 
   array (
     'id' => 22569,
     'name' => 'Kunovice',
@@ -4177,7 +4087,7 @@ return array (
     'latitude' => 49.04499,
     'longitude' => 17.47011,
   ),
-  464 => 
+  454 => 
   array (
     'id' => 22570,
     'name' => 'Kunvald',
@@ -4186,7 +4096,7 @@ return array (
     'latitude' => 50.12927,
     'longitude' => 16.49996,
   ),
-  465 => 
+  455 => 
   array (
     'id' => 22571,
     'name' => 'Kunín',
@@ -4195,7 +4105,7 @@ return array (
     'latitude' => 49.63377,
     'longitude' => 17.98965,
   ),
-  466 => 
+  456 => 
   array (
     'id' => 22572,
     'name' => 'Kunčice pod Ondřejníkem',
@@ -4204,7 +4114,7 @@ return array (
     'latitude' => 49.5507,
     'longitude' => 18.26113,
   ),
-  467 => 
+  457 => 
   array (
     'id' => 22573,
     'name' => 'Kunčina',
@@ -4213,7 +4123,7 @@ return array (
     'latitude' => 49.79455,
     'longitude' => 16.62763,
   ),
-  468 => 
+  458 => 
   array (
     'id' => 22574,
     'name' => 'Kunštát',
@@ -4222,7 +4132,7 @@ return array (
     'latitude' => 49.50645,
     'longitude' => 16.51722,
   ),
-  469 => 
+  459 => 
   array (
     'id' => 22575,
     'name' => 'Kunžak',
@@ -4231,7 +4141,7 @@ return array (
     'latitude' => 49.12119,
     'longitude' => 15.19028,
   ),
-  470 => 
+  460 => 
   array (
     'id' => 22576,
     'name' => 'Kutná Hora',
@@ -4240,7 +4150,7 @@ return array (
     'latitude' => 49.94839,
     'longitude' => 15.26816,
   ),
-  471 => 
+  461 => 
   array (
     'id' => 22577,
     'name' => 'Kuřim',
@@ -4249,7 +4159,7 @@ return array (
     'latitude' => 49.29852,
     'longitude' => 16.53144,
   ),
-  472 => 
+  462 => 
   array (
     'id' => 22578,
     'name' => 'Kvasice',
@@ -4258,7 +4168,7 @@ return array (
     'latitude' => 49.24223,
     'longitude' => 17.46974,
   ),
-  473 => 
+  463 => 
   array (
     'id' => 22579,
     'name' => 'Kvasiny',
@@ -4267,7 +4177,7 @@ return array (
     'latitude' => 50.2125,
     'longitude' => 16.26323,
   ),
-  474 => 
+  464 => 
   array (
     'id' => 22580,
     'name' => 'Kyjov',
@@ -4276,7 +4186,7 @@ return array (
     'latitude' => 49.01018,
     'longitude' => 17.12253,
   ),
-  475 => 
+  465 => 
   array (
     'id' => 22581,
     'name' => 'Kynšperk nad Ohří',
@@ -4285,7 +4195,7 @@ return array (
     'latitude' => 50.11893,
     'longitude' => 12.53027,
   ),
-  476 => 
+  466 => 
   array (
     'id' => 22582,
     'name' => 'Kájov',
@@ -4294,7 +4204,7 @@ return array (
     'latitude' => 48.81082,
     'longitude' => 14.25859,
   ),
-  477 => 
+  467 => 
   array (
     'id' => 22583,
     'name' => 'Křemže',
@@ -4303,7 +4213,7 @@ return array (
     'latitude' => 48.90497,
     'longitude' => 14.30568,
   ),
-  478 => 
+  468 => 
   array (
     'id' => 22584,
     'name' => 'Křenovice',
@@ -4312,7 +4222,7 @@ return array (
     'latitude' => 49.14216,
     'longitude' => 16.82932,
   ),
-  479 => 
+  469 => 
   array (
     'id' => 22585,
     'name' => 'Křepice',
@@ -4321,7 +4231,7 @@ return array (
     'latitude' => 48.99986,
     'longitude' => 16.71989,
   ),
-  480 => 
+  470 => 
   array (
     'id' => 22586,
     'name' => 'Křešice',
@@ -4330,7 +4240,7 @@ return array (
     'latitude' => 50.52259,
     'longitude' => 14.2145,
   ),
-  481 => 
+  471 => 
   array (
     'id' => 22587,
     'name' => 'Křinec',
@@ -4339,7 +4249,7 @@ return array (
     'latitude' => 50.26449,
     'longitude' => 15.13782,
   ),
-  482 => 
+  472 => 
   array (
     'id' => 22588,
     'name' => 'Křižanov',
@@ -4348,7 +4258,7 @@ return array (
     'latitude' => 49.38858,
     'longitude' => 16.1096,
   ),
-  483 => 
+  473 => 
   array (
     'id' => 22589,
     'name' => 'Křížová',
@@ -4357,7 +4267,7 @@ return array (
     'latitude' => 49.68841,
     'longitude' => 15.85207,
   ),
-  484 => 
+  474 => 
   array (
     'id' => 22590,
     'name' => 'Lanškroun',
@@ -4366,7 +4276,7 @@ return array (
     'latitude' => 49.91217,
     'longitude' => 16.6119,
   ),
-  485 => 
+  475 => 
   array (
     'id' => 22591,
     'name' => 'Lanžhot',
@@ -4375,7 +4285,7 @@ return array (
     'latitude' => 48.72443,
     'longitude' => 16.96695,
   ),
-  486 => 
+  476 => 
   array (
     'id' => 22592,
     'name' => 'Ledenice',
@@ -4384,7 +4294,7 @@ return array (
     'latitude' => 48.93329,
     'longitude' => 14.61886,
   ),
-  487 => 
+  477 => 
   array (
     'id' => 22593,
     'name' => 'Ledeč nad Sázavou',
@@ -4393,7 +4303,7 @@ return array (
     'latitude' => 49.69517,
     'longitude' => 15.27772,
   ),
-  488 => 
+  478 => 
   array (
     'id' => 22594,
     'name' => 'Lednice',
@@ -4402,7 +4312,7 @@ return array (
     'latitude' => 48.79992,
     'longitude' => 16.80339,
   ),
-  489 => 
+  479 => 
   array (
     'id' => 22595,
     'name' => 'Lelekovice',
@@ -4411,7 +4321,7 @@ return array (
     'latitude' => 49.29144,
     'longitude' => 16.57874,
   ),
-  490 => 
+  480 => 
   array (
     'id' => 22596,
     'name' => 'Lenešice',
@@ -4420,7 +4330,7 @@ return array (
     'latitude' => 50.37516,
     'longitude' => 13.7659,
   ),
-  491 => 
+  481 => 
   array (
     'id' => 22597,
     'name' => 'Letohrad',
@@ -4429,7 +4339,7 @@ return array (
     'latitude' => 50.0358,
     'longitude' => 16.49879,
   ),
-  492 => 
+  482 => 
   array (
     'id' => 22598,
     'name' => 'Letonice',
@@ -4438,7 +4348,7 @@ return array (
     'latitude' => 49.17726,
     'longitude' => 16.95913,
   ),
-  493 => 
+  483 => 
   array (
     'id' => 22599,
     'name' => 'Letovice',
@@ -4447,7 +4357,7 @@ return array (
     'latitude' => 49.54709,
     'longitude' => 16.57357,
   ),
-  494 => 
+  484 => 
   array (
     'id' => 22600,
     'name' => 'Letňany',
@@ -4456,7 +4366,7 @@ return array (
     'latitude' => 50.13333,
     'longitude' => 14.51667,
   ),
-  495 => 
+  485 => 
   array (
     'id' => 22601,
     'name' => 'Lešná',
@@ -4465,7 +4375,7 @@ return array (
     'latitude' => 49.52055,
     'longitude' => 17.93004,
   ),
-  496 => 
+  486 => 
   array (
     'id' => 22602,
     'name' => 'Leština',
@@ -4474,7 +4384,7 @@ return array (
     'latitude' => 49.86879,
     'longitude' => 16.92748,
   ),
-  497 => 
+  487 => 
   array (
     'id' => 22603,
     'name' => 'Lhenice',
@@ -4483,7 +4393,7 @@ return array (
     'latitude' => 48.99479,
     'longitude' => 14.1498,
   ),
-  498 => 
+  488 => 
   array (
     'id' => 22604,
     'name' => 'Liberec',
@@ -4492,7 +4402,7 @@ return array (
     'latitude' => 50.76711,
     'longitude' => 15.05619,
   ),
-  499 => 
+  489 => 
   array (
     'id' => 22605,
     'name' => 'Libeň',
@@ -4501,7 +4411,7 @@ return array (
     'latitude' => 50.10819,
     'longitude' => 14.47457,
   ),
-  500 => 
+  490 => 
   array (
     'id' => 22606,
     'name' => 'Libice nad Cidlinou',
@@ -4510,7 +4420,7 @@ return array (
     'latitude' => 50.12677,
     'longitude' => 15.1782,
   ),
-  501 => 
+  491 => 
   array (
     'id' => 22607,
     'name' => 'Libiš',
@@ -4519,7 +4429,7 @@ return array (
     'latitude' => 50.27417,
     'longitude' => 14.5024,
   ),
-  502 => 
+  492 => 
   array (
     'id' => 22608,
     'name' => 'Libochovice',
@@ -4528,7 +4438,7 @@ return array (
     'latitude' => 50.40626,
     'longitude' => 14.04439,
   ),
-  503 => 
+  493 => 
   array (
     'id' => 22609,
     'name' => 'Libouchec',
@@ -4537,7 +4447,7 @@ return array (
     'latitude' => 50.75854,
     'longitude' => 14.04071,
   ),
-  504 => 
+  494 => 
   array (
     'id' => 22610,
     'name' => 'Libušín',
@@ -4546,7 +4456,7 @@ return array (
     'latitude' => 50.16819,
     'longitude' => 14.05458,
   ),
-  505 => 
+  495 => 
   array (
     'id' => 22611,
     'name' => 'Libáň',
@@ -4555,7 +4465,7 @@ return array (
     'latitude' => 50.37542,
     'longitude' => 15.21684,
   ),
-  506 => 
+  496 => 
   array (
     'id' => 22612,
     'name' => 'Libčice nad Vltavou',
@@ -4564,7 +4474,7 @@ return array (
     'latitude' => 50.19778,
     'longitude' => 14.36385,
   ),
-  507 => 
+  497 => 
   array (
     'id' => 22613,
     'name' => 'Liběšice',
@@ -4573,7 +4483,7 @@ return array (
     'latitude' => 50.56886,
     'longitude' => 14.28906,
   ),
-  508 => 
+  498 => 
   array (
     'id' => 22614,
     'name' => 'Lichnov',
@@ -4582,7 +4492,7 @@ return array (
     'latitude' => 50.00786,
     'longitude' => 17.6264,
   ),
-  509 => 
+  499 => 
   array (
     'id' => 22616,
     'name' => 'Lidečko',
@@ -4591,7 +4501,7 @@ return array (
     'latitude' => 49.20303,
     'longitude' => 18.0513,
   ),
-  510 => 
+  500 => 
   array (
     'id' => 22617,
     'name' => 'Lipník nad Bečvou',
@@ -4600,7 +4510,7 @@ return array (
     'latitude' => 49.52721,
     'longitude' => 17.58594,
   ),
-  511 => 
+  501 => 
   array (
     'id' => 22618,
     'name' => 'Lipov',
@@ -4609,7 +4519,7 @@ return array (
     'latitude' => 48.90495,
     'longitude' => 17.46171,
   ),
-  512 => 
+  502 => 
   array (
     'id' => 22619,
     'name' => 'Lipovec',
@@ -4618,7 +4528,7 @@ return array (
     'latitude' => 49.38394,
     'longitude' => 16.80583,
   ),
-  513 => 
+  503 => 
   array (
     'id' => 22620,
     'name' => 'Liptál',
@@ -4627,7 +4537,7 @@ return array (
     'latitude' => 49.29051,
     'longitude' => 17.92177,
   ),
-  514 => 
+  504 => 
   array (
     'id' => 22621,
     'name' => 'Lipůvka',
@@ -4636,7 +4546,7 @@ return array (
     'latitude' => 49.33933,
     'longitude' => 16.55313,
   ),
-  515 => 
+  505 => 
   array (
     'id' => 22622,
     'name' => 'Litomyšl',
@@ -4645,7 +4555,7 @@ return array (
     'latitude' => 49.86809,
     'longitude' => 16.31298,
   ),
-  516 => 
+  506 => 
   array (
     'id' => 22623,
     'name' => 'Litoměřice',
@@ -4654,7 +4564,7 @@ return array (
     'latitude' => 50.53348,
     'longitude' => 14.1318,
   ),
-  517 => 
+  507 => 
   array (
     'id' => 22624,
     'name' => 'Litovel',
@@ -4663,7 +4573,7 @@ return array (
     'latitude' => 49.70121,
     'longitude' => 17.07615,
   ),
-  518 => 
+  508 => 
   array (
     'id' => 22625,
     'name' => 'Litvínov',
@@ -4672,7 +4582,7 @@ return array (
     'latitude' => 50.6042,
     'longitude' => 13.61812,
   ),
-  519 => 
+  509 => 
   array (
     'id' => 22626,
     'name' => 'Litvínovice',
@@ -4681,7 +4591,7 @@ return array (
     'latitude' => 48.96207,
     'longitude' => 14.45146,
   ),
-  520 => 
+  510 => 
   array (
     'id' => 22627,
     'name' => 'Lišov',
@@ -4690,7 +4600,7 @@ return array (
     'latitude' => 49.01597,
     'longitude' => 14.60838,
   ),
-  521 => 
+  511 => 
   array (
     'id' => 22628,
     'name' => 'Lochovice',
@@ -4699,7 +4609,7 @@ return array (
     'latitude' => 49.85318,
     'longitude' => 13.98126,
   ),
-  522 => 
+  512 => 
   array (
     'id' => 22629,
     'name' => 'Loděnice',
@@ -4708,7 +4618,7 @@ return array (
     'latitude' => 49.99486,
     'longitude' => 14.15785,
   ),
-  523 => 
+  513 => 
   array (
     'id' => 22630,
     'name' => 'Loket',
@@ -4717,7 +4627,7 @@ return array (
     'latitude' => 50.186,
     'longitude' => 12.75405,
   ),
-  524 => 
+  514 => 
   array (
     'id' => 22631,
     'name' => 'Lom u Mostu',
@@ -4726,7 +4636,7 @@ return array (
     'latitude' => 50.59328,
     'longitude' => 13.65729,
   ),
-  525 => 
+  515 => 
   array (
     'id' => 22632,
     'name' => 'Lomnice',
@@ -4735,16 +4645,7 @@ return array (
     'latitude' => 49.40462,
     'longitude' => 16.41359,
   ),
-  526 => 
-  array (
-    'id' => 22633,
-    'name' => 'Lomnice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.21174,
-    'longitude' => 12.63267,
-  ),
-  527 => 
+  516 => 
   array (
     'id' => 22634,
     'name' => 'Lomnice nad Lužnicí',
@@ -4753,7 +4654,7 @@ return array (
     'latitude' => 49.08468,
     'longitude' => 14.71727,
   ),
-  528 => 
+  517 => 
   array (
     'id' => 22635,
     'name' => 'Lomnice nad Popelkou',
@@ -4762,7 +4663,7 @@ return array (
     'latitude' => 50.53062,
     'longitude' => 15.37341,
   ),
-  529 => 
+  518 => 
   array (
     'id' => 22636,
     'name' => 'Louka',
@@ -4771,7 +4672,7 @@ return array (
     'latitude' => 48.91517,
     'longitude' => 17.48927,
   ),
-  530 => 
+  519 => 
   array (
     'id' => 22637,
     'name' => 'Louny',
@@ -4780,7 +4681,7 @@ return array (
     'latitude' => 50.35699,
     'longitude' => 13.79667,
   ),
-  531 => 
+  520 => 
   array (
     'id' => 22638,
     'name' => 'Loučeň',
@@ -4789,7 +4690,7 @@ return array (
     'latitude' => 50.28537,
     'longitude' => 15.02049,
   ),
-  532 => 
+  521 => 
   array (
     'id' => 22639,
     'name' => 'Loučná nad Desnou',
@@ -4798,7 +4699,7 @@ return array (
     'latitude' => 50.07433,
     'longitude' => 17.09052,
   ),
-  533 => 
+  522 => 
   array (
     'id' => 22640,
     'name' => 'Loučovice',
@@ -4807,7 +4708,7 @@ return array (
     'latitude' => 48.62019,
     'longitude' => 14.25747,
   ),
-  534 => 
+  523 => 
   array (
     'id' => 22641,
     'name' => 'Lovosice',
@@ -4816,7 +4717,7 @@ return array (
     'latitude' => 50.51504,
     'longitude' => 14.05103,
   ),
-  535 => 
+  524 => 
   array (
     'id' => 22642,
     'name' => 'Loštice',
@@ -4825,7 +4726,7 @@ return array (
     'latitude' => 49.7447,
     'longitude' => 16.92892,
   ),
-  536 => 
+  525 => 
   array (
     'id' => 22643,
     'name' => 'Lubenec',
@@ -4834,7 +4735,7 @@ return array (
     'latitude' => 50.13207,
     'longitude' => 13.31319,
   ),
-  537 => 
+  526 => 
   array (
     'id' => 22644,
     'name' => 'Luby',
@@ -4843,7 +4744,7 @@ return array (
     'latitude' => 50.25248,
     'longitude' => 12.40595,
   ),
-  538 => 
+  527 => 
   array (
     'id' => 22645,
     'name' => 'Ludgeřovice',
@@ -4852,7 +4753,7 @@ return array (
     'latitude' => 49.89042,
     'longitude' => 18.24008,
   ),
-  539 => 
+  528 => 
   array (
     'id' => 22646,
     'name' => 'Luhačovice',
@@ -4861,7 +4762,7 @@ return array (
     'latitude' => 49.09982,
     'longitude' => 17.75747,
   ),
-  540 => 
+  529 => 
   array (
     'id' => 22647,
     'name' => 'Luka nad Jihlavou',
@@ -4870,7 +4771,7 @@ return array (
     'latitude' => 49.37403,
     'longitude' => 15.70194,
   ),
-  541 => 
+  530 => 
   array (
     'id' => 22648,
     'name' => 'Lukavec',
@@ -4879,7 +4780,7 @@ return array (
     'latitude' => 49.56541,
     'longitude' => 14.99041,
   ),
-  542 => 
+  531 => 
   array (
     'id' => 22649,
     'name' => 'Lukavice',
@@ -4888,7 +4789,7 @@ return array (
     'latitude' => 50.06029,
     'longitude' => 16.48207,
   ),
-  543 => 
+  532 => 
   array (
     'id' => 22650,
     'name' => 'Lukov',
@@ -4897,7 +4798,7 @@ return array (
     'latitude' => 49.29027,
     'longitude' => 17.72959,
   ),
-  544 => 
+  533 => 
   array (
     'id' => 22651,
     'name' => 'Lutín',
@@ -4906,7 +4807,7 @@ return array (
     'latitude' => 49.55845,
     'longitude' => 17.13572,
   ),
-  545 => 
+  534 => 
   array (
     'id' => 22652,
     'name' => 'Lučany nad Nisou',
@@ -4915,7 +4816,7 @@ return array (
     'latitude' => 50.74136,
     'longitude' => 15.22046,
   ),
-  546 => 
+  535 => 
   array (
     'id' => 22653,
     'name' => 'Lučina',
@@ -4924,7 +4825,7 @@ return array (
     'latitude' => 49.72082,
     'longitude' => 18.44776,
   ),
-  547 => 
+  536 => 
   array (
     'id' => 22654,
     'name' => 'Luštěnice',
@@ -4933,7 +4834,7 @@ return array (
     'latitude' => 50.32296,
     'longitude' => 14.93667,
   ),
-  548 => 
+  537 => 
   array (
     'id' => 22655,
     'name' => 'Luže',
@@ -4942,7 +4843,7 @@ return array (
     'latitude' => 49.89341,
     'longitude' => 16.0285,
   ),
-  549 => 
+  538 => 
   array (
     'id' => 22656,
     'name' => 'Lužec nad Vltavou',
@@ -4951,7 +4852,7 @@ return array (
     'latitude' => 50.32138,
     'longitude' => 14.40022,
   ),
-  550 => 
+  539 => 
   array (
     'id' => 22657,
     'name' => 'Lužice',
@@ -4960,7 +4861,7 @@ return array (
     'latitude' => 48.84098,
     'longitude' => 17.07104,
   ),
-  551 => 
+  540 => 
   array (
     'id' => 22658,
     'name' => 'Lužná',
@@ -4969,7 +4870,7 @@ return array (
     'latitude' => 50.12377,
     'longitude' => 13.77004,
   ),
-  552 => 
+  541 => 
   array (
     'id' => 22659,
     'name' => 'Lysice',
@@ -4978,7 +4879,7 @@ return array (
     'latitude' => 49.4516,
     'longitude' => 16.53716,
   ),
-  553 => 
+  542 => 
   array (
     'id' => 22660,
     'name' => 'Lysá nad Labem',
@@ -4987,7 +4888,7 @@ return array (
     'latitude' => 50.20143,
     'longitude' => 14.83281,
   ),
-  554 => 
+  543 => 
   array (
     'id' => 22661,
     'name' => 'Lány',
@@ -4996,7 +4897,7 @@ return array (
     'latitude' => 50.12471,
     'longitude' => 13.95041,
   ),
-  555 => 
+  544 => 
   array (
     'id' => 22662,
     'name' => 'Lázně Bohdaneč',
@@ -5005,7 +4906,7 @@ return array (
     'latitude' => 50.0756,
     'longitude' => 15.67978,
   ),
-  556 => 
+  545 => 
   array (
     'id' => 22663,
     'name' => 'Lázně Bělohrad',
@@ -5014,7 +4915,7 @@ return array (
     'latitude' => 50.42874,
     'longitude' => 15.58269,
   ),
-  557 => 
+  546 => 
   array (
     'id' => 22664,
     'name' => 'Lázně Kynžvart',
@@ -5023,7 +4924,7 @@ return array (
     'latitude' => 50.01058,
     'longitude' => 12.62474,
   ),
-  558 => 
+  547 => 
   array (
     'id' => 22665,
     'name' => 'Líbeznice',
@@ -5032,7 +4933,7 @@ return array (
     'latitude' => 50.19198,
     'longitude' => 14.49357,
   ),
-  559 => 
+  548 => 
   array (
     'id' => 22666,
     'name' => 'Líně',
@@ -5041,7 +4942,7 @@ return array (
     'latitude' => 49.69472,
     'longitude' => 13.25693,
   ),
-  560 => 
+  549 => 
   array (
     'id' => 22667,
     'name' => 'Lípa',
@@ -5050,7 +4951,7 @@ return array (
     'latitude' => 49.55418,
     'longitude' => 15.54465,
   ),
-  561 => 
+  550 => 
   array (
     'id' => 22668,
     'name' => 'Machov',
@@ -5059,7 +4960,7 @@ return array (
     'latitude' => 50.49927,
     'longitude' => 16.2769,
   ),
-  562 => 
+  551 => 
   array (
     'id' => 22669,
     'name' => 'Majetín',
@@ -5068,7 +4969,7 @@ return array (
     'latitude' => 49.49808,
     'longitude' => 17.33314,
   ),
-  563 => 
+  552 => 
   array (
     'id' => 22670,
     'name' => 'Malonty',
@@ -5077,7 +4978,7 @@ return array (
     'latitude' => 48.68611,
     'longitude' => 14.57678,
   ),
-  564 => 
+  553 => 
   array (
     'id' => 22671,
     'name' => 'Malá Skála',
@@ -5086,7 +4987,7 @@ return array (
     'latitude' => 50.64631,
     'longitude' => 15.19543,
   ),
-  565 => 
+  554 => 
   array (
     'id' => 22672,
     'name' => 'Malá Strana',
@@ -5095,7 +4996,7 @@ return array (
     'latitude' => 50.08774,
     'longitude' => 14.40449,
   ),
-  566 => 
+  555 => 
   array (
     'id' => 22673,
     'name' => 'Malé Svatoňovice',
@@ -5104,7 +5005,7 @@ return array (
     'latitude' => 50.53395,
     'longitude' => 16.04978,
   ),
-  567 => 
+  556 => 
   array (
     'id' => 22674,
     'name' => 'Malšice',
@@ -5113,7 +5014,7 @@ return array (
     'latitude' => 49.36391,
     'longitude' => 14.57868,
   ),
-  568 => 
+  557 => 
   array (
     'id' => 22675,
     'name' => 'Manětín',
@@ -5122,7 +5023,7 @@ return array (
     'latitude' => 49.99177,
     'longitude' => 13.23319,
   ),
-  569 => 
+  558 => 
   array (
     'id' => 22676,
     'name' => 'Mariánské Lázně',
@@ -5131,7 +5032,7 @@ return array (
     'latitude' => 49.96459,
     'longitude' => 12.70118,
   ),
-  570 => 
+  559 => 
   array (
     'id' => 22677,
     'name' => 'Markvartovice',
@@ -5140,7 +5041,7 @@ return array (
     'latitude' => 49.90595,
     'longitude' => 18.23602,
   ),
-  571 => 
+  560 => 
   array (
     'id' => 22678,
     'name' => 'Meclov',
@@ -5149,7 +5050,7 @@ return array (
     'latitude' => 49.50556,
     'longitude' => 12.88082,
   ),
-  572 => 
+  561 => 
   array (
     'id' => 22679,
     'name' => 'Medlov',
@@ -5158,7 +5059,7 @@ return array (
     'latitude' => 49.78754,
     'longitude' => 17.06261,
   ),
-  573 => 
+  562 => 
   array (
     'id' => 22680,
     'name' => 'Merklín',
@@ -5167,16 +5068,7 @@ return array (
     'latitude' => 49.56043,
     'longitude' => 13.1979,
   ),
-  574 => 
-  array (
-    'id' => 22681,
-    'name' => 'Merklín',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.32808,
-    'longitude' => 12.8635,
-  ),
-  575 => 
+  563 => 
   array (
     'id' => 22682,
     'name' => 'Metylovice',
@@ -5185,7 +5077,7 @@ return array (
     'latitude' => 49.60666,
     'longitude' => 18.33911,
   ),
-  576 => 
+  564 => 
   array (
     'id' => 22683,
     'name' => 'Meziboři',
@@ -5194,7 +5086,7 @@ return array (
     'latitude' => 50.62115,
     'longitude' => 13.5987,
   ),
-  577 => 
+  565 => 
   array (
     'id' => 22684,
     'name' => 'Meziměstí',
@@ -5203,7 +5095,7 @@ return array (
     'latitude' => 50.62461,
     'longitude' => 16.24207,
   ),
-  578 => 
+  566 => 
   array (
     'id' => 22685,
     'name' => 'Mikulov',
@@ -5212,7 +5104,7 @@ return array (
     'latitude' => 48.80556,
     'longitude' => 16.6378,
   ),
-  579 => 
+  567 => 
   array (
     'id' => 22686,
     'name' => 'Mikulovice',
@@ -5221,7 +5113,7 @@ return array (
     'latitude' => 50.29854,
     'longitude' => 17.32155,
   ),
-  580 => 
+  568 => 
   array (
     'id' => 22687,
     'name' => 'Mikulášovice',
@@ -5230,7 +5122,7 @@ return array (
     'latitude' => 50.96507,
     'longitude' => 14.36368,
   ),
-  581 => 
+  569 => 
   array (
     'id' => 22688,
     'name' => 'Mikulčice',
@@ -5239,7 +5131,7 @@ return array (
     'latitude' => 48.81643,
     'longitude' => 17.05107,
   ),
-  582 => 
+  570 => 
   array (
     'id' => 22689,
     'name' => 'Milevsko',
@@ -5248,7 +5140,7 @@ return array (
     'latitude' => 49.45089,
     'longitude' => 14.36,
   ),
-  583 => 
+  571 => 
   array (
     'id' => 22690,
     'name' => 'Milotice',
@@ -5257,7 +5149,7 @@ return array (
     'latitude' => 48.95528,
     'longitude' => 17.14241,
   ),
-  584 => 
+  572 => 
   array (
     'id' => 22691,
     'name' => 'Milovice',
@@ -5266,7 +5158,7 @@ return array (
     'latitude' => 50.22596,
     'longitude' => 14.88863,
   ),
-  585 => 
+  573 => 
   array (
     'id' => 22692,
     'name' => 'Milíkov',
@@ -5275,7 +5167,7 @@ return array (
     'latitude' => 49.58565,
     'longitude' => 18.71943,
   ),
-  586 => 
+  574 => 
   array (
     'id' => 22693,
     'name' => 'Milín',
@@ -5284,7 +5176,7 @@ return array (
     'latitude' => 49.63192,
     'longitude' => 14.046,
   ),
-  587 => 
+  575 => 
   array (
     'id' => 22694,
     'name' => 'Mimoň',
@@ -5293,7 +5185,7 @@ return array (
     'latitude' => 50.65869,
     'longitude' => 14.72474,
   ),
-  588 => 
+  576 => 
   array (
     'id' => 22695,
     'name' => 'Miroslav',
@@ -5302,7 +5194,7 @@ return array (
     'latitude' => 48.94767,
     'longitude' => 16.31252,
   ),
-  589 => 
+  577 => 
   array (
     'id' => 22696,
     'name' => 'Mirotice',
@@ -5311,7 +5203,7 @@ return array (
     'latitude' => 49.42908,
     'longitude' => 14.03697,
   ),
-  590 => 
+  578 => 
   array (
     'id' => 22697,
     'name' => 'Mirovice',
@@ -5320,7 +5212,7 @@ return array (
     'latitude' => 49.51555,
     'longitude' => 14.03582,
   ),
-  591 => 
+  579 => 
   array (
     'id' => 22698,
     'name' => 'Mirošov',
@@ -5329,7 +5221,7 @@ return array (
     'latitude' => 49.68782,
     'longitude' => 13.65807,
   ),
-  592 => 
+  580 => 
   array (
     'id' => 22699,
     'name' => 'Mistřice',
@@ -5338,7 +5230,7 @@ return array (
     'latitude' => 49.08668,
     'longitude' => 17.53597,
   ),
-  593 => 
+  581 => 
   array (
     'id' => 22700,
     'name' => 'Miřetice',
@@ -5347,7 +5239,7 @@ return array (
     'latitude' => 49.84126,
     'longitude' => 15.88472,
   ),
-  594 => 
+  582 => 
   array (
     'id' => 22701,
     'name' => 'Mladá Boleslav',
@@ -5356,7 +5248,7 @@ return array (
     'latitude' => 50.41135,
     'longitude' => 14.90318,
   ),
-  595 => 
+  583 => 
   array (
     'id' => 22702,
     'name' => 'Mladá Vožice',
@@ -5365,7 +5257,7 @@ return array (
     'latitude' => 49.53313,
     'longitude' => 14.80857,
   ),
-  596 => 
+  584 => 
   array (
     'id' => 22703,
     'name' => 'Mladé Buky',
@@ -5374,7 +5266,7 @@ return array (
     'latitude' => 50.60643,
     'longitude' => 15.83348,
   ),
-  597 => 
+  585 => 
   array (
     'id' => 22704,
     'name' => 'Mnichovice',
@@ -5383,7 +5275,7 @@ return array (
     'latitude' => 49.93601,
     'longitude' => 14.70907,
   ),
-  598 => 
+  586 => 
   array (
     'id' => 22705,
     'name' => 'Mnichovo Hradiště',
@@ -5392,7 +5284,7 @@ return array (
     'latitude' => 50.5272,
     'longitude' => 14.97134,
   ),
-  599 => 
+  587 => 
   array (
     'id' => 22706,
     'name' => 'Mníšek',
@@ -5401,7 +5293,7 @@ return array (
     'latitude' => 50.83163,
     'longitude' => 15.0563,
   ),
-  600 => 
+  588 => 
   array (
     'id' => 22707,
     'name' => 'Mníšek pod Brdy',
@@ -5410,7 +5302,7 @@ return array (
     'latitude' => 49.8665,
     'longitude' => 14.26176,
   ),
-  601 => 
+  589 => 
   array (
     'id' => 22708,
     'name' => 'Modřany',
@@ -5419,7 +5311,7 @@ return array (
     'latitude' => 50.01116,
     'longitude' => 14.4096,
   ),
-  602 => 
+  590 => 
   array (
     'id' => 22709,
     'name' => 'Modřice',
@@ -5428,7 +5320,7 @@ return array (
     'latitude' => 49.11928,
     'longitude' => 16.60446,
   ),
-  603 => 
+  591 => 
   array (
     'id' => 22710,
     'name' => 'Mohelnice',
@@ -5437,7 +5329,7 @@ return array (
     'latitude' => 49.77698,
     'longitude' => 16.91946,
   ),
-  604 => 
+  592 => 
   array (
     'id' => 22711,
     'name' => 'Mohelno',
@@ -5446,7 +5338,7 @@ return array (
     'latitude' => 49.11412,
     'longitude' => 16.19022,
   ),
-  605 => 
+  593 => 
   array (
     'id' => 22712,
     'name' => 'Mokrá Hora',
@@ -5455,7 +5347,7 @@ return array (
     'latitude' => 49.26176,
     'longitude' => 16.59107,
   ),
-  606 => 
+  594 => 
   array (
     'id' => 22713,
     'name' => 'Mokré Lazce',
@@ -5464,7 +5356,7 @@ return array (
     'latitude' => 49.90462,
     'longitude' => 18.02954,
   ),
-  607 => 
+  595 => 
   array (
     'id' => 22714,
     'name' => 'Moravany',
@@ -5473,16 +5365,7 @@ return array (
     'latitude' => 50.00095,
     'longitude' => 15.94071,
   ),
-  608 => 
-  array (
-    'id' => 22715,
-    'name' => 'Moravany',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.1478,
-    'longitude' => 16.58026,
-  ),
-  609 => 
+  596 => 
   array (
     'id' => 22716,
     'name' => 'Moravičany',
@@ -5491,7 +5374,7 @@ return array (
     'latitude' => 49.75694,
     'longitude' => 16.96042,
   ),
-  610 => 
+  597 => 
   array (
     'id' => 22717,
     'name' => 'Moravská Nová Ves',
@@ -5500,7 +5383,7 @@ return array (
     'latitude' => 48.80304,
     'longitude' => 17.01371,
   ),
-  611 => 
+  598 => 
   array (
     'id' => 22718,
     'name' => 'Moravská Třebová',
@@ -5509,7 +5392,7 @@ return array (
     'latitude' => 49.75793,
     'longitude' => 16.66426,
   ),
-  612 => 
+  599 => 
   array (
     'id' => 22719,
     'name' => 'Moravské Budějovice',
@@ -5518,7 +5401,7 @@ return array (
     'latitude' => 49.05209,
     'longitude' => 15.80864,
   ),
-  613 => 
+  600 => 
   array (
     'id' => 22720,
     'name' => 'Moravský Beroun',
@@ -5527,7 +5410,7 @@ return array (
     'latitude' => 49.79374,
     'longitude' => 17.44212,
   ),
-  614 => 
+  601 => 
   array (
     'id' => 22721,
     'name' => 'Moravský Krumlov',
@@ -5536,7 +5419,7 @@ return array (
     'latitude' => 49.04893,
     'longitude' => 16.31169,
   ),
-  615 => 
+  602 => 
   array (
     'id' => 22722,
     'name' => 'Moravský Písek',
@@ -5545,7 +5428,7 @@ return array (
     'latitude' => 48.99016,
     'longitude' => 17.33269,
   ),
-  616 => 
+  603 => 
   array (
     'id' => 22723,
     'name' => 'Moravský Žižkov',
@@ -5554,7 +5437,7 @@ return array (
     'latitude' => 48.83285,
     'longitude' => 16.9314,
   ),
-  617 => 
+  604 => 
   array (
     'id' => 22724,
     'name' => 'Morávka',
@@ -5563,7 +5446,7 @@ return array (
     'latitude' => 49.59607,
     'longitude' => 18.52471,
   ),
-  618 => 
+  605 => 
   array (
     'id' => 22725,
     'name' => 'Most',
@@ -5572,7 +5455,7 @@ return array (
     'latitude' => 50.50301,
     'longitude' => 13.63617,
   ),
-  619 => 
+  606 => 
   array (
     'id' => 22726,
     'name' => 'Mostek',
@@ -5581,7 +5464,7 @@ return array (
     'latitude' => 50.48623,
     'longitude' => 15.69622,
   ),
-  620 => 
+  607 => 
   array (
     'id' => 22727,
     'name' => 'Mostkovice',
@@ -5590,7 +5473,7 @@ return array (
     'latitude' => 49.47215,
     'longitude' => 17.05212,
   ),
-  621 => 
+  608 => 
   array (
     'id' => 22728,
     'name' => 'Mosty u Jablunkova',
@@ -5599,7 +5482,7 @@ return array (
     'latitude' => 49.52737,
     'longitude' => 18.75417,
   ),
-  622 => 
+  609 => 
   array (
     'id' => 22729,
     'name' => 'Moutnice',
@@ -5608,7 +5491,7 @@ return array (
     'latitude' => 49.04924,
     'longitude' => 16.73741,
   ),
-  623 => 
+  610 => 
   array (
     'id' => 22730,
     'name' => 'Mořkov',
@@ -5617,7 +5500,7 @@ return array (
     'latitude' => 49.53684,
     'longitude' => 18.05968,
   ),
-  624 => 
+  611 => 
   array (
     'id' => 22731,
     'name' => 'Mrákov',
@@ -5626,7 +5509,7 @@ return array (
     'latitude' => 49.40314,
     'longitude' => 12.9512,
   ),
-  625 => 
+  612 => 
   array (
     'id' => 22732,
     'name' => 'Mukařov',
@@ -5635,7 +5518,7 @@ return array (
     'latitude' => 49.99115,
     'longitude' => 14.74155,
   ),
-  626 => 
+  613 => 
   array (
     'id' => 22733,
     'name' => 'Mutěnice',
@@ -5644,7 +5527,7 @@ return array (
     'latitude' => 48.90413,
     'longitude' => 17.02917,
   ),
-  627 => 
+  614 => 
   array (
     'id' => 22734,
     'name' => 'Mýto',
@@ -5653,7 +5536,7 @@ return array (
     'latitude' => 49.78904,
     'longitude' => 13.73461,
   ),
-  628 => 
+  615 => 
   array (
     'id' => 22735,
     'name' => 'Měcholupy',
@@ -5662,7 +5545,7 @@ return array (
     'latitude' => 50.26666,
     'longitude' => 13.53737,
   ),
-  629 => 
+  616 => 
   array (
     'id' => 22736,
     'name' => 'Mělník',
@@ -5671,7 +5554,7 @@ return array (
     'latitude' => 50.3505,
     'longitude' => 14.47411,
   ),
-  630 => 
+  617 => 
   array (
     'id' => 22737,
     'name' => 'Měnín',
@@ -5680,7 +5563,7 @@ return array (
     'latitude' => 49.0824,
     'longitude' => 16.69424,
   ),
-  631 => 
+  618 => 
   array (
     'id' => 22738,
     'name' => 'Městec Králové',
@@ -5689,7 +5572,7 @@ return array (
     'latitude' => 50.20718,
     'longitude' => 15.29758,
   ),
-  632 => 
+  619 => 
   array (
     'id' => 22739,
     'name' => 'Městečko Trnávka',
@@ -5698,7 +5581,7 @@ return array (
     'latitude' => 49.70926,
     'longitude' => 16.72744,
   ),
-  633 => 
+  620 => 
   array (
     'id' => 22740,
     'name' => 'Město',
@@ -5707,7 +5590,7 @@ return array (
     'latitude' => 49.97997,
     'longitude' => 12.86432,
   ),
-  634 => 
+  621 => 
   array (
     'id' => 22741,
     'name' => 'Město Albrechtice',
@@ -5716,7 +5599,7 @@ return array (
     'latitude' => 50.16294,
     'longitude' => 17.57481,
   ),
-  635 => 
+  622 => 
   array (
     'id' => 22742,
     'name' => 'Město Brno',
@@ -5725,7 +5608,7 @@ return array (
     'latitude' => 49.19954,
     'longitude' => 16.60755,
   ),
-  636 => 
+  623 => 
   array (
     'id' => 22743,
     'name' => 'Město Libavá',
@@ -5734,7 +5617,7 @@ return array (
     'latitude' => 49.72162,
     'longitude' => 17.52013,
   ),
-  637 => 
+  624 => 
   array (
     'id' => 22744,
     'name' => 'Město Touškov',
@@ -5743,7 +5626,7 @@ return array (
     'latitude' => 49.77587,
     'longitude' => 13.25108,
   ),
-  638 => 
+  625 => 
   array (
     'id' => 22745,
     'name' => 'Měčín',
@@ -5752,7 +5635,7 @@ return array (
     'latitude' => 49.48009,
     'longitude' => 13.40289,
   ),
-  639 => 
+  626 => 
   array (
     'id' => 22746,
     'name' => 'Měřín',
@@ -5761,7 +5644,7 @@ return array (
     'latitude' => 49.39321,
     'longitude' => 15.88381,
   ),
-  640 => 
+  627 => 
   array (
     'id' => 22747,
     'name' => 'Měšice',
@@ -5770,7 +5653,7 @@ return array (
     'latitude' => 50.19799,
     'longitude' => 14.51992,
   ),
-  641 => 
+  628 => 
   array (
     'id' => 22748,
     'name' => 'Mšeno',
@@ -5779,7 +5662,7 @@ return array (
     'latitude' => 50.43809,
     'longitude' => 14.6325,
   ),
-  642 => 
+  629 => 
   array (
     'id' => 22749,
     'name' => 'Napajedla',
@@ -5788,7 +5671,7 @@ return array (
     'latitude' => 49.17156,
     'longitude' => 17.51194,
   ),
-  643 => 
+  630 => 
   array (
     'id' => 22750,
     'name' => 'Nasavrky',
@@ -5797,7 +5680,7 @@ return array (
     'latitude' => 49.8445,
     'longitude' => 15.80461,
   ),
-  644 => 
+  631 => 
   array (
     'id' => 22751,
     'name' => 'Načeradec',
@@ -5806,7 +5689,7 @@ return array (
     'latitude' => 49.61018,
     'longitude' => 14.90633,
   ),
-  645 => 
+  632 => 
   array (
     'id' => 22752,
     'name' => 'Nechanice',
@@ -5815,7 +5698,7 @@ return array (
     'latitude' => 50.23737,
     'longitude' => 15.63276,
   ),
-  646 => 
+  633 => 
   array (
     'id' => 22753,
     'name' => 'Nedakonice',
@@ -5824,7 +5707,7 @@ return array (
     'latitude' => 49.03159,
     'longitude' => 17.38141,
   ),
-  647 => 
+  634 => 
   array (
     'id' => 22754,
     'name' => 'Nedašov',
@@ -5833,7 +5716,7 @@ return array (
     'latitude' => 49.10778,
     'longitude' => 18.07036,
   ),
-  648 => 
+  635 => 
   array (
     'id' => 22755,
     'name' => 'Nedvědice',
@@ -5842,7 +5725,7 @@ return array (
     'latitude' => 49.45702,
     'longitude' => 16.33406,
   ),
-  649 => 
+  636 => 
   array (
     'id' => 22756,
     'name' => 'Nehvizdy',
@@ -5851,7 +5734,7 @@ return array (
     'latitude' => 50.13056,
     'longitude' => 14.72993,
   ),
-  650 => 
+  637 => 
   array (
     'id' => 22757,
     'name' => 'Nejdek',
@@ -5860,7 +5743,7 @@ return array (
     'latitude' => 50.32242,
     'longitude' => 12.72936,
   ),
-  651 => 
+  638 => 
   array (
     'id' => 22758,
     'name' => 'Nelahozeves',
@@ -5869,7 +5752,7 @@ return array (
     'latitude' => 50.26148,
     'longitude' => 14.29881,
   ),
-  652 => 
+  639 => 
   array (
     'id' => 22759,
     'name' => 'Nepomuk',
@@ -5878,7 +5761,7 @@ return array (
     'latitude' => 49.48616,
     'longitude' => 13.58225,
   ),
-  653 => 
+  640 => 
   array (
     'id' => 22760,
     'name' => 'Neratovice',
@@ -5887,7 +5770,7 @@ return array (
     'latitude' => 50.25926,
     'longitude' => 14.51759,
   ),
-  654 => 
+  641 => 
   array (
     'id' => 22761,
     'name' => 'Nesovice',
@@ -5896,7 +5779,7 @@ return array (
     'latitude' => 49.15111,
     'longitude' => 17.08095,
   ),
-  655 => 
+  642 => 
   array (
     'id' => 22762,
     'name' => 'Netolice',
@@ -5905,7 +5788,7 @@ return array (
     'latitude' => 49.0493,
     'longitude' => 14.197,
   ),
-  656 => 
+  643 => 
   array (
     'id' => 22763,
     'name' => 'Netvořice',
@@ -5914,7 +5797,7 @@ return array (
     'latitude' => 49.81569,
     'longitude' => 14.51827,
   ),
-  657 => 
+  644 => 
   array (
     'id' => 22764,
     'name' => 'Neveklov',
@@ -5923,7 +5806,7 @@ return array (
     'latitude' => 49.75373,
     'longitude' => 14.53291,
   ),
-  658 => 
+  645 => 
   array (
     'id' => 22765,
     'name' => 'Nezamyslice',
@@ -5932,7 +5815,7 @@ return array (
     'latitude' => 49.32543,
     'longitude' => 17.17326,
   ),
-  659 => 
+  646 => 
   array (
     'id' => 22766,
     'name' => 'Nezvěstice',
@@ -5941,7 +5824,7 @@ return array (
     'latitude' => 49.64043,
     'longitude' => 13.51962,
   ),
-  660 => 
+  647 => 
   array (
     'id' => 22767,
     'name' => 'Nivnice',
@@ -5950,7 +5833,7 @@ return array (
     'latitude' => 48.97465,
     'longitude' => 17.64757,
   ),
-  661 => 
+  648 => 
   array (
     'id' => 22768,
     'name' => 'Nižbor',
@@ -5959,7 +5842,7 @@ return array (
     'latitude' => 49.99995,
     'longitude' => 14.00237,
   ),
-  662 => 
+  649 => 
   array (
     'id' => 22769,
     'name' => 'Nosislav',
@@ -5968,7 +5851,7 @@ return array (
     'latitude' => 49.0138,
     'longitude' => 16.65431,
   ),
-  663 => 
+  650 => 
   array (
     'id' => 22770,
     'name' => 'Novosedlice',
@@ -5977,7 +5860,7 @@ return array (
     'latitude' => 50.65633,
     'longitude' => 13.82304,
   ),
-  664 => 
+  651 => 
   array (
     'id' => 22771,
     'name' => 'Novosedly',
@@ -5986,7 +5869,7 @@ return array (
     'latitude' => 48.83704,
     'longitude' => 16.49273,
   ),
-  665 => 
+  652 => 
   array (
     'id' => 22772,
     'name' => 'Nová Bystřice',
@@ -5995,7 +5878,7 @@ return array (
     'latitude' => 49.01926,
     'longitude' => 15.10316,
   ),
-  666 => 
+  653 => 
   array (
     'id' => 22773,
     'name' => 'Nová Cerekev',
@@ -6004,7 +5887,7 @@ return array (
     'latitude' => 49.41723,
     'longitude' => 15.11675,
   ),
-  667 => 
+  654 => 
   array (
     'id' => 22774,
     'name' => 'Nová Paka',
@@ -6013,7 +5896,7 @@ return array (
     'latitude' => 50.49449,
     'longitude' => 15.51503,
   ),
-  668 => 
+  655 => 
   array (
     'id' => 22775,
     'name' => 'Nová Role',
@@ -6022,7 +5905,7 @@ return array (
     'latitude' => 50.27092,
     'longitude' => 12.78422,
   ),
-  669 => 
+  656 => 
   array (
     'id' => 22776,
     'name' => 'Nová Včelnice',
@@ -6031,7 +5914,7 @@ return array (
     'latitude' => 49.23935,
     'longitude' => 15.0726,
   ),
-  670 => 
+  657 => 
   array (
     'id' => 22777,
     'name' => 'Nové Hrady',
@@ -6040,7 +5923,7 @@ return array (
     'latitude' => 48.78963,
     'longitude' => 14.77839,
   ),
-  671 => 
+  658 => 
   array (
     'id' => 22778,
     'name' => 'Nové Město na Moravě',
@@ -6049,7 +5932,7 @@ return array (
     'latitude' => 49.56144,
     'longitude' => 16.07418,
   ),
-  672 => 
+  659 => 
   array (
     'id' => 22779,
     'name' => 'Nové Město nad Metují',
@@ -6058,7 +5941,7 @@ return array (
     'latitude' => 50.34456,
     'longitude' => 16.15147,
   ),
-  673 => 
+  660 => 
   array (
     'id' => 22780,
     'name' => 'Nové Město pod Smrkem',
@@ -6067,7 +5950,7 @@ return array (
     'latitude' => 50.92491,
     'longitude' => 15.22943,
   ),
-  674 => 
+  661 => 
   array (
     'id' => 22781,
     'name' => 'Nové Sedlo',
@@ -6076,7 +5959,7 @@ return array (
     'latitude' => 50.20647,
     'longitude' => 12.738,
   ),
-  675 => 
+  662 => 
   array (
     'id' => 22782,
     'name' => 'Nové Strašecí',
@@ -6085,7 +5968,7 @@ return array (
     'latitude' => 50.15272,
     'longitude' => 13.90043,
   ),
-  676 => 
+  663 => 
   array (
     'id' => 22783,
     'name' => 'Nové Syrovice',
@@ -6094,7 +5977,7 @@ return array (
     'latitude' => 49.01763,
     'longitude' => 15.77345,
   ),
-  677 => 
+  664 => 
   array (
     'id' => 22784,
     'name' => 'Nové Veselí',
@@ -6103,7 +5986,7 @@ return array (
     'latitude' => 49.51976,
     'longitude' => 15.90853,
   ),
-  678 => 
+  665 => 
   array (
     'id' => 22785,
     'name' => 'Nový Bor',
@@ -6112,7 +5995,7 @@ return array (
     'latitude' => 50.75761,
     'longitude' => 14.55555,
   ),
-  679 => 
+  666 => 
   array (
     'id' => 22786,
     'name' => 'Nový Bydžov',
@@ -6121,7 +6004,7 @@ return array (
     'latitude' => 50.2415,
     'longitude' => 15.49082,
   ),
-  680 => 
+  667 => 
   array (
     'id' => 22787,
     'name' => 'Nový Hrozenkov',
@@ -6130,7 +6013,7 @@ return array (
     'latitude' => 49.33697,
     'longitude' => 18.19793,
   ),
-  681 => 
+  668 => 
   array (
     'id' => 22788,
     'name' => 'Nový Jičín',
@@ -6139,7 +6022,7 @@ return array (
     'latitude' => 49.59438,
     'longitude' => 18.01028,
   ),
-  682 => 
+  669 => 
   array (
     'id' => 22789,
     'name' => 'Nový Knín',
@@ -6148,7 +6031,7 @@ return array (
     'latitude' => 49.788,
     'longitude' => 14.29355,
   ),
-  683 => 
+  670 => 
   array (
     'id' => 22790,
     'name' => 'Nový Malín',
@@ -6157,7 +6040,7 @@ return array (
     'latitude' => 49.94262,
     'longitude' => 17.03191,
   ),
-  684 => 
+  671 => 
   array (
     'id' => 22791,
     'name' => 'Nymburk',
@@ -6166,7 +6049,7 @@ return array (
     'latitude' => 50.18605,
     'longitude' => 15.04167,
   ),
-  685 => 
+  672 => 
   array (
     'id' => 22792,
     'name' => 'Náchod',
@@ -6175,7 +6058,7 @@ return array (
     'latitude' => 50.4167,
     'longitude' => 16.16289,
   ),
-  686 => 
+  673 => 
   array (
     'id' => 22793,
     'name' => 'Náklo',
@@ -6184,7 +6067,7 @@ return array (
     'latitude' => 49.65462,
     'longitude' => 17.12969,
   ),
-  687 => 
+  674 => 
   array (
     'id' => 22794,
     'name' => 'Náměšť na Hané',
@@ -6193,7 +6076,7 @@ return array (
     'latitude' => 49.60213,
     'longitude' => 17.06539,
   ),
-  688 => 
+  675 => 
   array (
     'id' => 22795,
     'name' => 'Náměšť nad Oslavou',
@@ -6202,7 +6085,7 @@ return array (
     'latitude' => 49.20726,
     'longitude' => 16.15849,
   ),
-  689 => 
+  676 => 
   array (
     'id' => 22796,
     'name' => 'Návsí u Jablunkova',
@@ -6211,7 +6094,7 @@ return array (
     'latitude' => 49.5872,
     'longitude' => 18.75907,
   ),
-  690 => 
+  677 => 
   array (
     'id' => 22797,
     'name' => 'Nýdek',
@@ -6220,7 +6103,7 @@ return array (
     'latitude' => 49.65609,
     'longitude' => 18.75687,
   ),
-  691 => 
+  678 => 
   array (
     'id' => 22798,
     'name' => 'Nýrsko',
@@ -6229,7 +6112,7 @@ return array (
     'latitude' => 49.29387,
     'longitude' => 13.14353,
   ),
-  692 => 
+  679 => 
   array (
     'id' => 22799,
     'name' => 'Nýřany',
@@ -6238,7 +6121,7 @@ return array (
     'latitude' => 49.71145,
     'longitude' => 13.21185,
   ),
-  693 => 
+  680 => 
   array (
     'id' => 22800,
     'name' => 'Němčice nad Hanou',
@@ -6247,7 +6130,7 @@ return array (
     'latitude' => 49.34181,
     'longitude' => 17.20596,
   ),
-  694 => 
+  681 => 
   array (
     'id' => 22801,
     'name' => 'Obecnice',
@@ -6256,7 +6139,7 @@ return array (
     'latitude' => 49.71615,
     'longitude' => 13.94731,
   ),
-  695 => 
+  682 => 
   array (
     'id' => 22802,
     'name' => 'Obrnice',
@@ -6265,7 +6148,7 @@ return array (
     'latitude' => 50.50498,
     'longitude' => 13.6954,
   ),
-  696 => 
+  683 => 
   array (
     'id' => 22803,
     'name' => 'Odolena Voda',
@@ -6274,7 +6157,7 @@ return array (
     'latitude' => 50.23341,
     'longitude' => 14.41078,
   ),
-  697 => 
+  684 => 
   array (
     'id' => 22804,
     'name' => 'Odry',
@@ -6283,7 +6166,7 @@ return array (
     'latitude' => 49.66255,
     'longitude' => 17.83084,
   ),
-  698 => 
+  685 => 
   array (
     'id' => 22805,
     'name' => 'Ohrazenice',
@@ -6292,7 +6175,7 @@ return array (
     'latitude' => 50.59765,
     'longitude' => 15.12596,
   ),
-  699 => 
+  686 => 
   array (
     'id' => 22806,
     'name' => 'Okres Benešov',
@@ -6301,7 +6184,7 @@ return array (
     'latitude' => 49.66667,
     'longitude' => 14.75,
   ),
-  700 => 
+  687 => 
   array (
     'id' => 22807,
     'name' => 'Okres Beroun',
@@ -6310,7 +6193,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 14.08333,
   ),
-  701 => 
+  688 => 
   array (
     'id' => 22808,
     'name' => 'Okres Blansko',
@@ -6319,7 +6202,7 @@ return array (
     'latitude' => 49.37399,
     'longitude' => 16.6436,
   ),
-  702 => 
+  689 => 
   array (
     'id' => 22809,
     'name' => 'Okres Brno-venkov',
@@ -6328,7 +6211,7 @@ return array (
     'latitude' => 49.16667,
     'longitude' => 16.5,
   ),
-  703 => 
+  690 => 
   array (
     'id' => 22810,
     'name' => 'Okres Bruntál',
@@ -6337,7 +6220,7 @@ return array (
     'latitude' => 50.0,
     'longitude' => 17.41667,
   ),
-  704 => 
+  691 => 
   array (
     'id' => 22811,
     'name' => 'Okres Břeclav',
@@ -6346,7 +6229,7 @@ return array (
     'latitude' => 48.75958,
     'longitude' => 16.8726,
   ),
-  705 => 
+  692 => 
   array (
     'id' => 22812,
     'name' => 'Okres Cheb',
@@ -6355,7 +6238,7 @@ return array (
     'latitude' => 50.08333,
     'longitude' => 12.5,
   ),
-  706 => 
+  693 => 
   array (
     'id' => 22813,
     'name' => 'Okres Chomutov',
@@ -6364,7 +6247,7 @@ return array (
     'latitude' => 50.41667,
     'longitude' => 13.33333,
   ),
-  707 => 
+  694 => 
   array (
     'id' => 22814,
     'name' => 'Okres Chrudim',
@@ -6373,7 +6256,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 15.83333,
   ),
-  708 => 
+  695 => 
   array (
     'id' => 22815,
     'name' => 'Okres Domažlice',
@@ -6382,7 +6265,7 @@ return array (
     'latitude' => 49.5,
     'longitude' => 12.91667,
   ),
-  709 => 
+  696 => 
   array (
     'id' => 22816,
     'name' => 'Okres Děčín',
@@ -6391,7 +6274,7 @@ return array (
     'latitude' => 50.82905,
     'longitude' => 14.34325,
   ),
-  710 => 
+  697 => 
   array (
     'id' => 22817,
     'name' => 'Okres Frýdek-Místek',
@@ -6400,7 +6283,7 @@ return array (
     'latitude' => 49.58333,
     'longitude' => 18.5,
   ),
-  711 => 
+  698 => 
   array (
     'id' => 22818,
     'name' => 'Okres Havlíčkův Brod',
@@ -6409,7 +6292,7 @@ return array (
     'latitude' => 49.66667,
     'longitude' => 15.58333,
   ),
-  712 => 
+  699 => 
   array (
     'id' => 22819,
     'name' => 'Okres Hodonín',
@@ -6418,7 +6301,7 @@ return array (
     'latitude' => 48.86471,
     'longitude' => 17.13284,
   ),
-  713 => 
+  700 => 
   array (
     'id' => 22820,
     'name' => 'Okres Hradec Králové',
@@ -6427,7 +6310,7 @@ return array (
     'latitude' => 50.25,
     'longitude' => 15.66667,
   ),
-  714 => 
+  701 => 
   array (
     'id' => 22821,
     'name' => 'Okres Jablonec nad Nisou',
@@ -6436,7 +6319,7 @@ return array (
     'latitude' => 50.75,
     'longitude' => 15.25,
   ),
-  715 => 
+  702 => 
   array (
     'id' => 22822,
     'name' => 'Okres Jeseník',
@@ -6445,7 +6328,7 @@ return array (
     'latitude' => 50.25,
     'longitude' => 17.16667,
   ),
-  716 => 
+  703 => 
   array (
     'id' => 22823,
     'name' => 'Okres Jihlava',
@@ -6454,7 +6337,7 @@ return array (
     'latitude' => 49.33333,
     'longitude' => 15.58333,
   ),
-  717 => 
+  704 => 
   array (
     'id' => 22824,
     'name' => 'Okres Jindřichův Hradec',
@@ -6463,7 +6346,7 @@ return array (
     'latitude' => 49.08333,
     'longitude' => 15.16667,
   ),
-  718 => 
+  705 => 
   array (
     'id' => 22825,
     'name' => 'Okres Jičín',
@@ -6472,7 +6355,7 @@ return array (
     'latitude' => 50.41667,
     'longitude' => 15.41667,
   ),
-  719 => 
+  706 => 
   array (
     'id' => 22826,
     'name' => 'Okres Karlovy Vary',
@@ -6481,7 +6364,7 @@ return array (
     'latitude' => 50.16667,
     'longitude' => 13.0,
   ),
-  720 => 
+  707 => 
   array (
     'id' => 22827,
     'name' => 'Okres Karviná',
@@ -6490,7 +6373,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 18.5,
   ),
-  721 => 
+  708 => 
   array (
     'id' => 22828,
     'name' => 'Okres Kladno',
@@ -6499,7 +6382,7 @@ return array (
     'latitude' => 50.16667,
     'longitude' => 14.16667,
   ),
-  722 => 
+  709 => 
   array (
     'id' => 22829,
     'name' => 'Okres Klatovy',
@@ -6508,7 +6391,7 @@ return array (
     'latitude' => 49.25,
     'longitude' => 13.41667,
   ),
-  723 => 
+  710 => 
   array (
     'id' => 22830,
     'name' => 'Okres Kolín',
@@ -6517,7 +6400,7 @@ return array (
     'latitude' => 50.0,
     'longitude' => 15.0,
   ),
-  724 => 
+  711 => 
   array (
     'id' => 22831,
     'name' => 'Okres Kroměříž',
@@ -6526,7 +6409,7 @@ return array (
     'latitude' => 49.33333,
     'longitude' => 17.5,
   ),
-  725 => 
+  712 => 
   array (
     'id' => 22832,
     'name' => 'Okres Kutná Hora',
@@ -6535,7 +6418,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 15.25,
   ),
-  726 => 
+  713 => 
   array (
     'id' => 22833,
     'name' => 'Okres Liberec',
@@ -6544,7 +6427,7 @@ return array (
     'latitude' => 50.83333,
     'longitude' => 15.08333,
   ),
-  727 => 
+  714 => 
   array (
     'id' => 22834,
     'name' => 'Okres Litoměřice',
@@ -6553,7 +6436,7 @@ return array (
     'latitude' => 50.5,
     'longitude' => 14.16667,
   ),
-  728 => 
+  715 => 
   array (
     'id' => 22835,
     'name' => 'Okres Louny',
@@ -6562,7 +6445,7 @@ return array (
     'latitude' => 50.33333,
     'longitude' => 13.66667,
   ),
-  729 => 
+  716 => 
   array (
     'id' => 22836,
     'name' => 'Okres Mladá Boleslav',
@@ -6571,7 +6454,7 @@ return array (
     'latitude' => 50.41667,
     'longitude' => 14.91667,
   ),
-  730 => 
+  717 => 
   array (
     'id' => 22837,
     'name' => 'Okres Most',
@@ -6580,7 +6463,7 @@ return array (
     'latitude' => 50.55,
     'longitude' => 13.63333,
   ),
-  731 => 
+  718 => 
   array (
     'id' => 22838,
     'name' => 'Okres Mělník',
@@ -6589,7 +6472,7 @@ return array (
     'latitude' => 50.33333,
     'longitude' => 14.5,
   ),
-  732 => 
+  719 => 
   array (
     'id' => 22839,
     'name' => 'Okres Nový Jičín',
@@ -6598,7 +6481,7 @@ return array (
     'latitude' => 49.66667,
     'longitude' => 18.0,
   ),
-  733 => 
+  720 => 
   array (
     'id' => 22840,
     'name' => 'Okres Nymburk',
@@ -6607,7 +6490,7 @@ return array (
     'latitude' => 50.16667,
     'longitude' => 15.16667,
   ),
-  734 => 
+  721 => 
   array (
     'id' => 22841,
     'name' => 'Okres Náchod',
@@ -6616,7 +6499,7 @@ return array (
     'latitude' => 50.41667,
     'longitude' => 16.16667,
   ),
-  735 => 
+  722 => 
   array (
     'id' => 22842,
     'name' => 'Okres Olomouc',
@@ -6625,7 +6508,7 @@ return array (
     'latitude' => 49.66667,
     'longitude' => 17.25,
   ),
-  736 => 
+  723 => 
   array (
     'id' => 22843,
     'name' => 'Okres Opava',
@@ -6634,7 +6517,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 17.91667,
   ),
-  737 => 
+  724 => 
   array (
     'id' => 22844,
     'name' => 'Okres Ostrava-město',
@@ -6643,7 +6526,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 18.25,
   ),
-  738 => 
+  725 => 
   array (
     'id' => 22845,
     'name' => 'Okres Pardubice',
@@ -6652,7 +6535,7 @@ return array (
     'latitude' => 50.08333,
     'longitude' => 15.75,
   ),
-  739 => 
+  726 => 
   array (
     'id' => 22846,
     'name' => 'Okres Pelhřimov',
@@ -6661,7 +6544,7 @@ return array (
     'latitude' => 49.41667,
     'longitude' => 15.16667,
   ),
-  740 => 
+  727 => 
   array (
     'id' => 22847,
     'name' => 'Okres Plzeň-jih',
@@ -6670,7 +6553,7 @@ return array (
     'latitude' => 49.58333,
     'longitude' => 13.5,
   ),
-  741 => 
+  728 => 
   array (
     'id' => 22848,
     'name' => 'Okres Plzeň-město',
@@ -6679,7 +6562,7 @@ return array (
     'latitude' => 49.75,
     'longitude' => 13.36667,
   ),
-  742 => 
+  729 => 
   array (
     'id' => 22849,
     'name' => 'Okres Plzeň-sever',
@@ -6688,7 +6571,7 @@ return array (
     'latitude' => 49.91667,
     'longitude' => 13.25,
   ),
-  743 => 
+  730 => 
   array (
     'id' => 22850,
     'name' => 'Okres Prachatice',
@@ -6697,7 +6580,7 @@ return array (
     'latitude' => 49.0,
     'longitude' => 13.86667,
   ),
-  744 => 
+  731 => 
   array (
     'id' => 22851,
     'name' => 'Okres Praha-východ',
@@ -6706,7 +6589,7 @@ return array (
     'latitude' => 50.11768,
     'longitude' => 14.70836,
   ),
-  745 => 
+  732 => 
   array (
     'id' => 22852,
     'name' => 'Okres Praha-západ',
@@ -6715,7 +6598,7 @@ return array (
     'latitude' => 49.83333,
     'longitude' => 14.33333,
   ),
-  746 => 
+  733 => 
   array (
     'id' => 22853,
     'name' => 'Okres Prostějov',
@@ -6724,7 +6607,7 @@ return array (
     'latitude' => 49.5,
     'longitude' => 17.03333,
   ),
-  747 => 
+  734 => 
   array (
     'id' => 22854,
     'name' => 'Okres Písek',
@@ -6733,7 +6616,7 @@ return array (
     'latitude' => 49.4,
     'longitude' => 14.2,
   ),
-  748 => 
+  735 => 
   array (
     'id' => 22855,
     'name' => 'Okres Přerov',
@@ -6742,7 +6625,7 @@ return array (
     'latitude' => 49.5,
     'longitude' => 17.55,
   ),
-  749 => 
+  736 => 
   array (
     'id' => 22856,
     'name' => 'Okres Příbram',
@@ -6751,7 +6634,7 @@ return array (
     'latitude' => 49.66667,
     'longitude' => 14.16667,
   ),
-  750 => 
+  737 => 
   array (
     'id' => 22857,
     'name' => 'Okres Rakovník',
@@ -6760,7 +6643,7 @@ return array (
     'latitude' => 50.1,
     'longitude' => 13.7,
   ),
-  751 => 
+  738 => 
   array (
     'id' => 22858,
     'name' => 'Okres Rokycany',
@@ -6769,7 +6652,7 @@ return array (
     'latitude' => 49.78333,
     'longitude' => 13.66667,
   ),
-  752 => 
+  739 => 
   array (
     'id' => 22859,
     'name' => 'Okres Rychnov nad Kněžnou',
@@ -6778,7 +6661,7 @@ return array (
     'latitude' => 50.23333,
     'longitude' => 16.28333,
   ),
-  753 => 
+  740 => 
   array (
     'id' => 22860,
     'name' => 'Okres Semily',
@@ -6787,7 +6670,7 @@ return array (
     'latitude' => 50.61667,
     'longitude' => 15.41667,
   ),
-  754 => 
+  741 => 
   array (
     'id' => 22861,
     'name' => 'Okres Sokolov',
@@ -6796,7 +6679,7 @@ return array (
     'latitude' => 50.21667,
     'longitude' => 12.63333,
   ),
-  755 => 
+  742 => 
   array (
     'id' => 22862,
     'name' => 'Okres Strakonice',
@@ -6805,7 +6688,7 @@ return array (
     'latitude' => 49.26667,
     'longitude' => 13.9,
   ),
-  756 => 
+  743 => 
   array (
     'id' => 22863,
     'name' => 'Okres Svitavy',
@@ -6814,7 +6697,7 @@ return array (
     'latitude' => 49.73333,
     'longitude' => 16.5,
   ),
-  757 => 
+  744 => 
   array (
     'id' => 22864,
     'name' => 'Okres Tachov',
@@ -6823,7 +6706,7 @@ return array (
     'latitude' => 49.76667,
     'longitude' => 12.75,
   ),
-  758 => 
+  745 => 
   array (
     'id' => 22865,
     'name' => 'Okres Teplice',
@@ -6832,7 +6715,7 @@ return array (
     'latitude' => 50.63333,
     'longitude' => 13.83333,
   ),
-  759 => 
+  746 => 
   array (
     'id' => 22866,
     'name' => 'Okres Trutnov',
@@ -6841,7 +6724,7 @@ return array (
     'latitude' => 50.58333,
     'longitude' => 15.83333,
   ),
-  760 => 
+  747 => 
   array (
     'id' => 22867,
     'name' => 'Okres Tábor',
@@ -6850,7 +6733,7 @@ return array (
     'latitude' => 49.41667,
     'longitude' => 14.66667,
   ),
-  761 => 
+  748 => 
   array (
     'id' => 22868,
     'name' => 'Okres Třebíč',
@@ -6859,7 +6742,7 @@ return array (
     'latitude' => 49.13333,
     'longitude' => 15.93333,
   ),
-  762 => 
+  749 => 
   array (
     'id' => 22869,
     'name' => 'Okres Uherské Hradiště',
@@ -6868,7 +6751,7 @@ return array (
     'latitude' => 49.01667,
     'longitude' => 17.55,
   ),
-  763 => 
+  750 => 
   array (
     'id' => 22870,
     'name' => 'Okres Vsetín',
@@ -6877,7 +6760,7 @@ return array (
     'latitude' => 49.36667,
     'longitude' => 18.08333,
   ),
-  764 => 
+  751 => 
   array (
     'id' => 22871,
     'name' => 'Okres Vyškov',
@@ -6886,7 +6769,7 @@ return array (
     'latitude' => 49.27844,
     'longitude' => 16.99362,
   ),
-  765 => 
+  752 => 
   array (
     'id' => 22872,
     'name' => 'Okres Zlín',
@@ -6895,7 +6778,7 @@ return array (
     'latitude' => 49.21667,
     'longitude' => 17.78333,
   ),
-  766 => 
+  753 => 
   array (
     'id' => 22873,
     'name' => 'Okres Znojmo',
@@ -6904,7 +6787,7 @@ return array (
     'latitude' => 48.862,
     'longitude' => 16.0627,
   ),
-  767 => 
+  754 => 
   array (
     'id' => 22874,
     'name' => 'Okres Ústí nad Labem',
@@ -6913,7 +6796,7 @@ return array (
     'latitude' => 50.66667,
     'longitude' => 14.05,
   ),
-  768 => 
+  755 => 
   array (
     'id' => 22875,
     'name' => 'Okres Ústí nad Orlicí',
@@ -6922,7 +6805,7 @@ return array (
     'latitude' => 50.0,
     'longitude' => 16.53333,
   ),
-  769 => 
+  756 => 
   array (
     'id' => 22876,
     'name' => 'Okres Česká Lípa',
@@ -6931,7 +6814,7 @@ return array (
     'latitude' => 50.66667,
     'longitude' => 14.66667,
   ),
-  770 => 
+  757 => 
   array (
     'id' => 22877,
     'name' => 'Okres České Budějovice',
@@ -6940,7 +6823,7 @@ return array (
     'latitude' => 49.0,
     'longitude' => 14.5,
   ),
-  771 => 
+  758 => 
   array (
     'id' => 22878,
     'name' => 'Okres Český Krumlov',
@@ -6949,7 +6832,7 @@ return array (
     'latitude' => 48.75,
     'longitude' => 14.33333,
   ),
-  772 => 
+  759 => 
   array (
     'id' => 22879,
     'name' => 'Okres Šumperk',
@@ -6958,7 +6841,7 @@ return array (
     'latitude' => 50.0,
     'longitude' => 17.0,
   ),
-  773 => 
+  760 => 
   array (
     'id' => 22880,
     'name' => 'Okres Žďár nad Sázavou',
@@ -6967,7 +6850,7 @@ return array (
     'latitude' => 49.5,
     'longitude' => 16.03333,
   ),
-  774 => 
+  761 => 
   array (
     'id' => 22881,
     'name' => 'Okrouhlice',
@@ -6976,7 +6859,7 @@ return array (
     'latitude' => 49.62991,
     'longitude' => 15.49083,
   ),
-  775 => 
+  762 => 
   array (
     'id' => 22882,
     'name' => 'Okříšky',
@@ -6985,7 +6868,7 @@ return array (
     'latitude' => 49.24539,
     'longitude' => 15.76959,
   ),
-  776 => 
+  763 => 
   array (
     'id' => 22883,
     'name' => 'Olbramovice',
@@ -6994,7 +6877,7 @@ return array (
     'latitude' => 48.9848,
     'longitude' => 16.40239,
   ),
-  777 => 
+  764 => 
   array (
     'id' => 22884,
     'name' => 'Oldřišov',
@@ -7003,7 +6886,7 @@ return array (
     'latitude' => 49.9913,
     'longitude' => 17.96074,
   ),
-  778 => 
+  765 => 
   array (
     'id' => 22885,
     'name' => 'Olešnice',
@@ -7012,7 +6895,7 @@ return array (
     'latitude' => 49.55755,
     'longitude' => 16.42169,
   ),
-  779 => 
+  766 => 
   array (
     'id' => 22886,
     'name' => 'Olomouc',
@@ -7021,7 +6904,7 @@ return array (
     'latitude' => 49.59552,
     'longitude' => 17.25175,
   ),
-  780 => 
+  767 => 
   array (
     'id' => 22887,
     'name' => 'Oloví',
@@ -7030,7 +6913,7 @@ return array (
     'latitude' => 50.25113,
     'longitude' => 12.55877,
   ),
-  781 => 
+  768 => 
   array (
     'id' => 22888,
     'name' => 'Olšany',
@@ -7039,7 +6922,7 @@ return array (
     'latitude' => 49.96509,
     'longitude' => 16.85894,
   ),
-  782 => 
+  769 => 
   array (
     'id' => 22889,
     'name' => 'Ondřejov',
@@ -7048,7 +6931,7 @@ return array (
     'latitude' => 49.90461,
     'longitude' => 14.7842,
   ),
-  783 => 
+  770 => 
   array (
     'id' => 22890,
     'name' => 'Opatov',
@@ -7057,7 +6940,7 @@ return array (
     'latitude' => 49.825,
     'longitude' => 16.50458,
   ),
-  784 => 
+  771 => 
   array (
     'id' => 22891,
     'name' => 'Opatovice nad Labem',
@@ -7066,7 +6949,7 @@ return array (
     'latitude' => 50.14541,
     'longitude' => 15.79045,
   ),
-  785 => 
+  772 => 
   array (
     'id' => 22892,
     'name' => 'Opava',
@@ -7075,7 +6958,7 @@ return array (
     'latitude' => 49.93866,
     'longitude' => 17.90257,
   ),
-  786 => 
+  773 => 
   array (
     'id' => 22893,
     'name' => 'Opařany',
@@ -7084,7 +6967,7 @@ return array (
     'latitude' => 49.39678,
     'longitude' => 14.48137,
   ),
-  787 => 
+  774 => 
   array (
     'id' => 22894,
     'name' => 'Opočno',
@@ -7093,7 +6976,7 @@ return array (
     'latitude' => 50.26742,
     'longitude' => 16.1148,
   ),
-  788 => 
+  775 => 
   array (
     'id' => 22895,
     'name' => 'Orlová',
@@ -7102,7 +6985,7 @@ return array (
     'latitude' => 49.84527,
     'longitude' => 18.43011,
   ),
-  789 => 
+  776 => 
   array (
     'id' => 22896,
     'name' => 'Osek',
@@ -7111,16 +6994,7 @@ return array (
     'latitude' => 49.77594,
     'longitude' => 13.5906,
   ),
-  790 => 
-  array (
-    'id' => 22897,
-    'name' => 'Osek',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.62115,
-    'longitude' => 13.69274,
-  ),
-  791 => 
+  777 => 
   array (
     'id' => 22898,
     'name' => 'Osek nad Bečvou',
@@ -7129,7 +7003,7 @@ return array (
     'latitude' => 49.51121,
     'longitude' => 17.52829,
   ),
-  792 => 
+  778 => 
   array (
     'id' => 22899,
     'name' => 'Osečná',
@@ -7138,7 +7012,7 @@ return array (
     'latitude' => 50.69489,
     'longitude' => 14.92138,
   ),
-  793 => 
+  779 => 
   array (
     'id' => 22900,
     'name' => 'Oskava',
@@ -7147,7 +7021,7 @@ return array (
     'latitude' => 49.89523,
     'longitude' => 17.13214,
   ),
-  794 => 
+  780 => 
   array (
     'id' => 22901,
     'name' => 'Oslavany',
@@ -7156,7 +7030,7 @@ return array (
     'latitude' => 49.12335,
     'longitude' => 16.33653,
   ),
-  795 => 
+  781 => 
   array (
     'id' => 22902,
     'name' => 'Osoblaha',
@@ -7165,7 +7039,7 @@ return array (
     'latitude' => 50.27517,
     'longitude' => 17.71523,
   ),
-  796 => 
+  782 => 
   array (
     'id' => 22903,
     'name' => 'Ostopovice',
@@ -7174,7 +7048,7 @@ return array (
     'latitude' => 49.161,
     'longitude' => 16.54548,
   ),
-  797 => 
+  783 => 
   array (
     'id' => 22904,
     'name' => 'Ostrava',
@@ -7183,7 +7057,7 @@ return array (
     'latitude' => 49.83465,
     'longitude' => 18.28204,
   ),
-  798 => 
+  784 => 
   array (
     'id' => 22905,
     'name' => 'Ostravice',
@@ -7192,7 +7066,7 @@ return array (
     'latitude' => 49.5351,
     'longitude' => 18.39164,
   ),
-  799 => 
+  785 => 
   array (
     'id' => 22906,
     'name' => 'Ostroměř',
@@ -7201,7 +7075,7 @@ return array (
     'latitude' => 50.37246,
     'longitude' => 15.54949,
   ),
-  800 => 
+  786 => 
   array (
     'id' => 22907,
     'name' => 'Ostrov',
@@ -7210,7 +7084,7 @@ return array (
     'latitude' => 50.30592,
     'longitude' => 12.93907,
   ),
-  801 => 
+  787 => 
   array (
     'id' => 22908,
     'name' => 'Ostrov u Macochy',
@@ -7219,7 +7093,7 @@ return array (
     'latitude' => 49.38236,
     'longitude' => 16.76268,
   ),
-  802 => 
+  788 => 
   array (
     'id' => 22909,
     'name' => 'Ostrožská Lhota',
@@ -7228,7 +7102,7 @@ return array (
     'latitude' => 48.97559,
     'longitude' => 17.46751,
   ),
-  803 => 
+  789 => 
   array (
     'id' => 22910,
     'name' => 'Ostrožská Nová Ves',
@@ -7237,7 +7111,7 @@ return array (
     'latitude' => 49.00434,
     'longitude' => 17.43632,
   ),
-  804 => 
+  790 => 
   array (
     'id' => 22911,
     'name' => 'Osík',
@@ -7246,7 +7120,7 @@ return array (
     'latitude' => 49.84355,
     'longitude' => 16.28467,
   ),
-  805 => 
+  791 => 
   array (
     'id' => 22912,
     'name' => 'Otaslavice',
@@ -7255,7 +7129,7 @@ return array (
     'latitude' => 49.38833,
     'longitude' => 17.07108,
   ),
-  806 => 
+  792 => 
   array (
     'id' => 22913,
     'name' => 'Otice',
@@ -7264,7 +7138,7 @@ return array (
     'latitude' => 49.91684,
     'longitude' => 17.86982,
   ),
-  807 => 
+  793 => 
   array (
     'id' => 22914,
     'name' => 'Otnice',
@@ -7273,7 +7147,7 @@ return array (
     'latitude' => 49.08642,
     'longitude' => 16.81443,
   ),
-  808 => 
+  794 => 
   array (
     'id' => 22915,
     'name' => 'Otrokovice',
@@ -7282,7 +7156,7 @@ return array (
     'latitude' => 49.20934,
     'longitude' => 17.53944,
   ),
-  809 => 
+  795 => 
   array (
     'id' => 22916,
     'name' => 'Ořechov',
@@ -7291,7 +7165,7 @@ return array (
     'latitude' => 49.11118,
     'longitude' => 16.52329,
   ),
-  810 => 
+  796 => 
   array (
     'id' => 22917,
     'name' => 'Pacov',
@@ -7300,7 +7174,7 @@ return array (
     'latitude' => 49.47076,
     'longitude' => 15.00168,
   ),
-  811 => 
+  797 => 
   array (
     'id' => 22918,
     'name' => 'Palkovice',
@@ -7309,7 +7183,7 @@ return array (
     'latitude' => 49.63467,
     'longitude' => 18.31508,
   ),
-  812 => 
+  798 => 
   array (
     'id' => 22919,
     'name' => 'Pardubice',
@@ -7318,7 +7192,7 @@ return array (
     'latitude' => 50.04075,
     'longitude' => 15.77659,
   ),
-  813 => 
+  799 => 
   array (
     'id' => 22920,
     'name' => 'Paseka',
@@ -7327,7 +7201,7 @@ return array (
     'latitude' => 49.79644,
     'longitude' => 17.22276,
   ),
-  814 => 
+  800 => 
   array (
     'id' => 22921,
     'name' => 'Paskov',
@@ -7336,7 +7210,7 @@ return array (
     'latitude' => 49.73179,
     'longitude' => 18.29037,
   ),
-  815 => 
+  801 => 
   array (
     'id' => 22922,
     'name' => 'Pavlíkov',
@@ -7345,7 +7219,7 @@ return array (
     'latitude' => 50.05599,
     'longitude' => 13.73636,
   ),
-  816 => 
+  802 => 
   array (
     'id' => 22923,
     'name' => 'Pchery',
@@ -7354,7 +7228,7 @@ return array (
     'latitude' => 50.19378,
     'longitude' => 14.11782,
   ),
-  817 => 
+  803 => 
   array (
     'id' => 22924,
     'name' => 'Pecka',
@@ -7363,7 +7237,7 @@ return array (
     'latitude' => 50.48034,
     'longitude' => 15.60822,
   ),
-  818 => 
+  804 => 
   array (
     'id' => 22925,
     'name' => 'Pelhřimov',
@@ -7372,7 +7246,7 @@ return array (
     'latitude' => 49.43134,
     'longitude' => 15.22336,
   ),
-  819 => 
+  805 => 
   array (
     'id' => 22926,
     'name' => 'Peruc',
@@ -7381,7 +7255,7 @@ return array (
     'latitude' => 50.3425,
     'longitude' => 13.95986,
   ),
-  820 => 
+  806 => 
   array (
     'id' => 22927,
     'name' => 'Perštejn',
@@ -7390,7 +7264,7 @@ return array (
     'latitude' => 50.38166,
     'longitude' => 13.1102,
   ),
-  821 => 
+  807 => 
   array (
     'id' => 22928,
     'name' => 'Petrov',
@@ -7399,7 +7273,7 @@ return array (
     'latitude' => 48.88196,
     'longitude' => 17.2781,
   ),
-  822 => 
+  808 => 
   array (
     'id' => 22929,
     'name' => 'Petrovice',
@@ -7408,7 +7282,7 @@ return array (
     'latitude' => 49.55426,
     'longitude' => 14.33737,
   ),
-  823 => 
+  809 => 
   array (
     'id' => 22930,
     'name' => 'Petrovice u Karviné',
@@ -7417,7 +7291,7 @@ return array (
     'latitude' => 49.89587,
     'longitude' => 18.54779,
   ),
-  824 => 
+  810 => 
   array (
     'id' => 22931,
     'name' => 'Petřvald',
@@ -7426,7 +7300,7 @@ return array (
     'latitude' => 49.831,
     'longitude' => 18.3894,
   ),
-  825 => 
+  811 => 
   array (
     'id' => 22932,
     'name' => 'Pečky',
@@ -7435,7 +7309,7 @@ return array (
     'latitude' => 50.09043,
     'longitude' => 15.03017,
   ),
-  826 => 
+  812 => 
   array (
     'id' => 22933,
     'name' => 'Pilníkov',
@@ -7444,7 +7318,7 @@ return array (
     'latitude' => 50.53247,
     'longitude' => 15.8202,
   ),
-  827 => 
+  813 => 
   array (
     'id' => 22934,
     'name' => 'Pilsen',
@@ -7453,7 +7327,7 @@ return array (
     'latitude' => 49.74747,
     'longitude' => 13.37759,
   ),
-  828 => 
+  814 => 
   array (
     'id' => 22935,
     'name' => 'Planá',
@@ -7462,7 +7336,7 @@ return array (
     'latitude' => 49.86816,
     'longitude' => 12.74378,
   ),
-  829 => 
+  815 => 
   array (
     'id' => 22936,
     'name' => 'Planá nad Lužnicí',
@@ -7471,7 +7345,7 @@ return array (
     'latitude' => 49.35444,
     'longitude' => 14.70147,
   ),
-  830 => 
+  816 => 
   array (
     'id' => 22937,
     'name' => 'Plasy',
@@ -7480,7 +7354,7 @@ return array (
     'latitude' => 49.93449,
     'longitude' => 13.39035,
   ),
-  831 => 
+  817 => 
   array (
     'id' => 22938,
     'name' => 'Plavy',
@@ -7489,7 +7363,7 @@ return array (
     'latitude' => 50.70324,
     'longitude' => 15.31736,
   ),
-  832 => 
+  818 => 
   array (
     'id' => 22939,
     'name' => 'Plaňany',
@@ -7498,7 +7372,7 @@ return array (
     'latitude' => 50.0501,
     'longitude' => 15.02944,
   ),
-  833 => 
+  819 => 
   array (
     'id' => 22940,
     'name' => 'Plesná',
@@ -7507,7 +7381,7 @@ return array (
     'latitude' => 50.2207,
     'longitude' => 12.34669,
   ),
-  834 => 
+  820 => 
   array (
     'id' => 22941,
     'name' => 'Plumlov',
@@ -7516,7 +7390,7 @@ return array (
     'latitude' => 49.46614,
     'longitude' => 17.01502,
   ),
-  835 => 
+  821 => 
   array (
     'id' => 22942,
     'name' => 'Plánice',
@@ -7525,7 +7399,7 @@ return array (
     'latitude' => 49.38993,
     'longitude' => 13.47106,
   ),
-  836 => 
+  822 => 
   array (
     'id' => 22943,
     'name' => 'Poběžovice',
@@ -7534,7 +7408,7 @@ return array (
     'latitude' => 49.51029,
     'longitude' => 12.80261,
   ),
-  837 => 
+  823 => 
   array (
     'id' => 22944,
     'name' => 'Podbořany',
@@ -7543,7 +7417,7 @@ return array (
     'latitude' => 50.22937,
     'longitude' => 13.41192,
   ),
-  838 => 
+  824 => 
   array (
     'id' => 22945,
     'name' => 'Podivín',
@@ -7552,7 +7426,7 @@ return array (
     'latitude' => 48.82554,
     'longitude' => 16.84822,
   ),
-  839 => 
+  825 => 
   array (
     'id' => 22946,
     'name' => 'Podolí',
@@ -7561,7 +7435,7 @@ return array (
     'latitude' => 49.19042,
     'longitude' => 16.72084,
   ),
-  840 => 
+  826 => 
   array (
     'id' => 22947,
     'name' => 'Poděbrady',
@@ -7570,7 +7444,7 @@ return array (
     'latitude' => 50.14242,
     'longitude' => 15.11881,
   ),
-  841 => 
+  827 => 
   array (
     'id' => 22948,
     'name' => 'Pohořelice',
@@ -7579,7 +7453,7 @@ return array (
     'latitude' => 48.98119,
     'longitude' => 16.52445,
   ),
-  842 => 
+  828 => 
   array (
     'id' => 22949,
     'name' => 'Polepy',
@@ -7588,7 +7462,7 @@ return array (
     'latitude' => 50.50563,
     'longitude' => 14.26447,
   ),
-  843 => 
+  829 => 
   array (
     'id' => 22950,
     'name' => 'Polešovice',
@@ -7597,7 +7471,7 @@ return array (
     'latitude' => 49.0339,
     'longitude' => 17.34064,
   ),
-  844 => 
+  830 => 
   array (
     'id' => 22951,
     'name' => 'Police nad Metují',
@@ -7606,7 +7480,7 @@ return array (
     'latitude' => 50.53687,
     'longitude' => 16.2335,
   ),
-  845 => 
+  831 => 
   array (
     'id' => 22952,
     'name' => 'Polička',
@@ -7615,7 +7489,7 @@ return array (
     'latitude' => 49.71465,
     'longitude' => 16.26543,
   ),
-  846 => 
+  832 => 
   array (
     'id' => 22953,
     'name' => 'Polná',
@@ -7624,7 +7498,7 @@ return array (
     'latitude' => 49.487,
     'longitude' => 15.71881,
   ),
-  847 => 
+  833 => 
   array (
     'id' => 22954,
     'name' => 'Pomezí',
@@ -7633,7 +7507,7 @@ return array (
     'latitude' => 49.71026,
     'longitude' => 16.31729,
   ),
-  848 => 
+  834 => 
   array (
     'id' => 22955,
     'name' => 'Poniklá',
@@ -7642,7 +7516,7 @@ return array (
     'latitude' => 50.66152,
     'longitude' => 15.46329,
   ),
-  849 => 
+  835 => 
   array (
     'id' => 22956,
     'name' => 'Popovice',
@@ -7651,7 +7525,7 @@ return array (
     'latitude' => 49.05255,
     'longitude' => 17.52712,
   ),
-  850 => 
+  836 => 
   array (
     'id' => 22957,
     'name' => 'Postoloprty',
@@ -7660,7 +7534,7 @@ return array (
     'latitude' => 50.35979,
     'longitude' => 13.70291,
   ),
-  851 => 
+  837 => 
   array (
     'id' => 22958,
     'name' => 'Postupice',
@@ -7669,7 +7543,7 @@ return array (
     'latitude' => 49.72798,
     'longitude' => 14.77722,
   ),
-  852 => 
+  838 => 
   array (
     'id' => 22959,
     'name' => 'Postřekov',
@@ -7678,7 +7552,7 @@ return array (
     'latitude' => 49.45827,
     'longitude' => 12.80678,
   ),
-  853 => 
+  839 => 
   array (
     'id' => 22960,
     'name' => 'Postřelmov',
@@ -7687,7 +7561,7 @@ return array (
     'latitude' => 49.90756,
     'longitude' => 16.91226,
   ),
-  854 => 
+  840 => 
   array (
     'id' => 22961,
     'name' => 'Potštát',
@@ -7696,7 +7570,7 @@ return array (
     'latitude' => 49.63693,
     'longitude' => 17.65174,
   ),
-  855 => 
+  841 => 
   array (
     'id' => 22962,
     'name' => 'Povrly',
@@ -7705,7 +7579,7 @@ return array (
     'latitude' => 50.67276,
     'longitude' => 14.16033,
   ),
-  856 => 
+  842 => 
   array (
     'id' => 22963,
     'name' => 'Pozlovice',
@@ -7714,7 +7588,7 @@ return array (
     'latitude' => 49.12921,
     'longitude' => 17.76925,
   ),
-  857 => 
+  843 => 
   array (
     'id' => 22964,
     'name' => 'Pozořice',
@@ -7723,7 +7597,7 @@ return array (
     'latitude' => 49.20976,
     'longitude' => 16.79074,
   ),
-  858 => 
+  844 => 
   array (
     'id' => 22965,
     'name' => 'Počátky',
@@ -7732,7 +7606,7 @@ return array (
     'latitude' => 49.2602,
     'longitude' => 15.24022,
   ),
-  859 => 
+  845 => 
   array (
     'id' => 22966,
     'name' => 'Poříčany',
@@ -7741,7 +7615,7 @@ return array (
     'latitude' => 50.10806,
     'longitude' => 14.91818,
   ),
-  860 => 
+  846 => 
   array (
     'id' => 22967,
     'name' => 'Poříčí nad Sázavou',
@@ -7750,7 +7624,7 @@ return array (
     'latitude' => 49.83895,
     'longitude' => 14.67446,
   ),
-  861 => 
+  847 => 
   array (
     'id' => 22968,
     'name' => 'Prachatice',
@@ -7759,7 +7633,7 @@ return array (
     'latitude' => 49.01292,
     'longitude' => 13.99752,
   ),
-  862 => 
+  848 => 
   array (
     'id' => 22969,
     'name' => 'Prachovice',
@@ -7768,7 +7642,7 @@ return array (
     'latitude' => 49.89379,
     'longitude' => 15.62872,
   ),
-  863 => 
+  849 => 
   array (
     'id' => 22970,
     'name' => 'Prague',
@@ -7777,7 +7651,7 @@ return array (
     'latitude' => 50.08804,
     'longitude' => 14.42076,
   ),
-  864 => 
+  850 => 
   array (
     'id' => 22971,
     'name' => 'Praha 1',
@@ -7786,7 +7660,7 @@ return array (
     'latitude' => 50.08802,
     'longitude' => 14.42166,
   ),
-  865 => 
+  851 => 
   array (
     'id' => 22972,
     'name' => 'Praha 16',
@@ -7795,7 +7669,7 @@ return array (
     'latitude' => 49.98357,
     'longitude' => 14.3611,
   ),
-  866 => 
+  852 => 
   array (
     'id' => 22973,
     'name' => 'Praha 20',
@@ -7804,7 +7678,7 @@ return array (
     'latitude' => 50.11568,
     'longitude' => 14.61122,
   ),
-  867 => 
+  853 => 
   array (
     'id' => 22974,
     'name' => 'Praha 21',
@@ -7813,7 +7687,7 @@ return array (
     'latitude' => 50.07521,
     'longitude' => 14.66898,
   ),
-  868 => 
+  854 => 
   array (
     'id' => 22975,
     'name' => 'Pražmo',
@@ -7822,7 +7696,7 @@ return array (
     'latitude' => 49.60876,
     'longitude' => 18.48617,
   ),
-  869 => 
+  855 => 
   array (
     'id' => 22976,
     'name' => 'Proboštov',
@@ -7831,7 +7705,7 @@ return array (
     'latitude' => 50.66773,
     'longitude' => 13.83601,
   ),
-  870 => 
+  856 => 
   array (
     'id' => 22977,
     'name' => 'Prosek',
@@ -7840,7 +7714,7 @@ return array (
     'latitude' => 50.11525,
     'longitude' => 14.50685,
   ),
-  871 => 
+  857 => 
   array (
     'id' => 22978,
     'name' => 'Proseč',
@@ -7849,7 +7723,7 @@ return array (
     'latitude' => 49.8059,
     'longitude' => 16.11621,
   ),
-  872 => 
+  858 => 
   array (
     'id' => 22979,
     'name' => 'Prostějov',
@@ -7858,7 +7732,7 @@ return array (
     'latitude' => 49.47188,
     'longitude' => 17.11184,
   ),
-  873 => 
+  859 => 
   array (
     'id' => 22980,
     'name' => 'Prostřední Bečva',
@@ -7867,7 +7741,7 @@ return array (
     'latitude' => 49.43609,
     'longitude' => 18.252,
   ),
-  874 => 
+  860 => 
   array (
     'id' => 22981,
     'name' => 'Protivanov',
@@ -7876,7 +7750,7 @@ return array (
     'latitude' => 49.48351,
     'longitude' => 16.83594,
   ),
-  875 => 
+  861 => 
   array (
     'id' => 22982,
     'name' => 'Protivín',
@@ -7885,7 +7759,7 @@ return array (
     'latitude' => 49.19949,
     'longitude' => 14.21717,
   ),
-  876 => 
+  862 => 
   array (
     'id' => 22983,
     'name' => 'Provodov-Šonov',
@@ -7894,7 +7768,7 @@ return array (
     'latitude' => 50.38711,
     'longitude' => 16.10797,
   ),
-  877 => 
+  863 => 
   array (
     'id' => 22984,
     'name' => 'Prusinovice',
@@ -7903,7 +7777,7 @@ return array (
     'latitude' => 49.37898,
     'longitude' => 17.5871,
   ),
-  878 => 
+  864 => 
   array (
     'id' => 22985,
     'name' => 'Prušánky',
@@ -7912,7 +7786,7 @@ return array (
     'latitude' => 48.8284,
     'longitude' => 16.98068,
   ),
-  879 => 
+  865 => 
   array (
     'id' => 22986,
     'name' => 'Průhonice',
@@ -7921,7 +7795,7 @@ return array (
     'latitude' => 49.99962,
     'longitude' => 14.55017,
   ),
-  880 => 
+  866 => 
   array (
     'id' => 22987,
     'name' => 'Psáry',
@@ -7930,7 +7804,7 @@ return array (
     'latitude' => 49.93622,
     'longitude' => 14.51276,
   ),
-  881 => 
+  867 => 
   array (
     'id' => 22988,
     'name' => 'Ptení',
@@ -7939,7 +7813,7 @@ return array (
     'latitude' => 49.51163,
     'longitude' => 16.9611,
   ),
-  882 => 
+  868 => 
   array (
     'id' => 22989,
     'name' => 'Pustiměř',
@@ -7948,7 +7822,7 @@ return array (
     'latitude' => 49.32251,
     'longitude' => 17.02792,
   ),
-  883 => 
+  869 => 
   array (
     'id' => 22990,
     'name' => 'Pustá Polom',
@@ -7957,7 +7831,7 @@ return array (
     'latitude' => 49.84917,
     'longitude' => 17.9979,
   ),
-  884 => 
+  870 => 
   array (
     'id' => 22991,
     'name' => 'Pyšely',
@@ -7966,7 +7840,7 @@ return array (
     'latitude' => 49.87678,
     'longitude' => 14.67713,
   ),
-  885 => 
+  871 => 
   array (
     'id' => 22992,
     'name' => 'Písek',
@@ -7975,16 +7849,7 @@ return array (
     'latitude' => 49.55924,
     'longitude' => 18.80231,
   ),
-  886 => 
-  array (
-    'id' => 22993,
-    'name' => 'Písek',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.3088,
-    'longitude' => 14.1475,
-  ),
-  887 => 
+  872 => 
   array (
     'id' => 22994,
     'name' => 'Písečná',
@@ -7993,7 +7858,7 @@ return array (
     'latitude' => 50.27303,
     'longitude' => 17.25373,
   ),
-  888 => 
+  873 => 
   array (
     'id' => 22995,
     'name' => 'Píšť',
@@ -8002,7 +7867,7 @@ return array (
     'latitude' => 49.97857,
     'longitude' => 18.19349,
   ),
-  889 => 
+  874 => 
   array (
     'id' => 22996,
     'name' => 'Pěnčín',
@@ -8011,7 +7876,7 @@ return array (
     'latitude' => 50.68769,
     'longitude' => 15.23593,
   ),
-  890 => 
+  875 => 
   array (
     'id' => 22997,
     'name' => 'Předklášteří',
@@ -8020,7 +7885,7 @@ return array (
     'latitude' => 49.35253,
     'longitude' => 16.40241,
   ),
-  891 => 
+  876 => 
   array (
     'id' => 22998,
     'name' => 'Předměřice nad Labem',
@@ -8029,7 +7894,7 @@ return array (
     'latitude' => 50.25633,
     'longitude' => 15.81556,
   ),
-  892 => 
+  877 => 
   array (
     'id' => 22999,
     'name' => 'Přelouč',
@@ -8038,7 +7903,7 @@ return array (
     'latitude' => 50.03985,
     'longitude' => 15.56031,
   ),
-  893 => 
+  878 => 
   array (
     'id' => 23000,
     'name' => 'Přemyslovice',
@@ -8047,7 +7912,7 @@ return array (
     'latitude' => 49.55637,
     'longitude' => 16.95581,
   ),
-  894 => 
+  879 => 
   array (
     'id' => 23001,
     'name' => 'Přerov',
@@ -8056,7 +7921,7 @@ return array (
     'latitude' => 49.45511,
     'longitude' => 17.4509,
   ),
-  895 => 
+  880 => 
   array (
     'id' => 23002,
     'name' => 'Přerov nad Labem',
@@ -8065,7 +7930,7 @@ return array (
     'latitude' => 50.16027,
     'longitude' => 14.82502,
   ),
-  896 => 
+  881 => 
   array (
     'id' => 23003,
     'name' => 'Přeštice',
@@ -8074,7 +7939,7 @@ return array (
     'latitude' => 49.57298,
     'longitude' => 13.3335,
   ),
-  897 => 
+  882 => 
   array (
     'id' => 23004,
     'name' => 'Přibyslav',
@@ -8083,7 +7948,7 @@ return array (
     'latitude' => 49.57684,
     'longitude' => 15.73855,
   ),
-  898 => 
+  883 => 
   array (
     'id' => 23005,
     'name' => 'Přimda',
@@ -8092,7 +7957,7 @@ return array (
     'latitude' => 49.67488,
     'longitude' => 12.67366,
   ),
-  899 => 
+  884 => 
   array (
     'id' => 23006,
     'name' => 'Přáslavice',
@@ -8101,7 +7966,7 @@ return array (
     'latitude' => 49.58568,
     'longitude' => 17.38209,
   ),
-  900 => 
+  885 => 
   array (
     'id' => 23007,
     'name' => 'Příbor',
@@ -8110,7 +7975,7 @@ return array (
     'latitude' => 49.64094,
     'longitude' => 18.14499,
   ),
-  901 => 
+  886 => 
   array (
     'id' => 23008,
     'name' => 'Příbram',
@@ -8119,7 +7984,7 @@ return array (
     'latitude' => 49.68988,
     'longitude' => 14.01043,
   ),
-  902 => 
+  887 => 
   array (
     'id' => 23009,
     'name' => 'Příkazy',
@@ -8128,7 +7993,7 @@ return array (
     'latitude' => 49.6436,
     'longitude' => 17.14337,
   ),
-  903 => 
+  888 => 
   array (
     'id' => 23010,
     'name' => 'Příšovice',
@@ -8137,7 +8002,7 @@ return array (
     'latitude' => 50.57813,
     'longitude' => 15.0839,
   ),
-  904 => 
+  889 => 
   array (
     'id' => 23011,
     'name' => 'Radiměř',
@@ -8146,7 +8011,7 @@ return array (
     'latitude' => 49.6985,
     'longitude' => 16.4407,
   ),
-  905 => 
+  890 => 
   array (
     'id' => 23012,
     'name' => 'Radnice',
@@ -8155,7 +8020,7 @@ return array (
     'latitude' => 49.85677,
     'longitude' => 13.6057,
   ),
-  906 => 
+  891 => 
   array (
     'id' => 23013,
     'name' => 'Radomyšl',
@@ -8164,7 +8029,7 @@ return array (
     'latitude' => 49.31634,
     'longitude' => 13.93024,
   ),
-  907 => 
+  892 => 
   array (
     'id' => 23014,
     'name' => 'Radonice',
@@ -8173,7 +8038,7 @@ return array (
     'latitude' => 50.29803,
     'longitude' => 13.28464,
   ),
-  908 => 
+  893 => 
   array (
     'id' => 23015,
     'name' => 'Radslavice',
@@ -8182,7 +8047,7 @@ return array (
     'latitude' => 49.47817,
     'longitude' => 17.51656,
   ),
-  909 => 
+  894 => 
   array (
     'id' => 23016,
     'name' => 'Radvanice',
@@ -8191,7 +8056,7 @@ return array (
     'latitude' => 50.56745,
     'longitude' => 16.06172,
   ),
-  910 => 
+  895 => 
   array (
     'id' => 23017,
     'name' => 'Rajhrad',
@@ -8200,7 +8065,7 @@ return array (
     'latitude' => 49.09021,
     'longitude' => 16.60388,
   ),
-  911 => 
+  896 => 
   array (
     'id' => 23018,
     'name' => 'Rajhradice',
@@ -8209,7 +8074,7 @@ return array (
     'latitude' => 49.09203,
     'longitude' => 16.62933,
   ),
-  912 => 
+  897 => 
   array (
     'id' => 23019,
     'name' => 'Rakovník',
@@ -8218,7 +8083,7 @@ return array (
     'latitude' => 50.1037,
     'longitude' => 13.7334,
   ),
-  913 => 
+  898 => 
   array (
     'id' => 23020,
     'name' => 'Rakvice',
@@ -8227,7 +8092,7 @@ return array (
     'latitude' => 48.85811,
     'longitude' => 16.8133,
   ),
-  914 => 
+  899 => 
   array (
     'id' => 23021,
     'name' => 'Rapotín',
@@ -8236,7 +8101,7 @@ return array (
     'latitude' => 50.01094,
     'longitude' => 17.03121,
   ),
-  915 => 
+  900 => 
   array (
     'id' => 23022,
     'name' => 'Raspenava',
@@ -8245,7 +8110,7 @@ return array (
     'latitude' => 50.90415,
     'longitude' => 15.11465,
   ),
-  916 => 
+  901 => 
   array (
     'id' => 23023,
     'name' => 'Rataje',
@@ -8254,7 +8119,7 @@ return array (
     'latitude' => 49.2713,
     'longitude' => 17.33555,
   ),
-  917 => 
+  902 => 
   array (
     'id' => 23024,
     'name' => 'Ratiboř',
@@ -8263,7 +8128,7 @@ return array (
     'latitude' => 49.36769,
     'longitude' => 17.91499,
   ),
-  918 => 
+  903 => 
   array (
     'id' => 23025,
     'name' => 'Ratíškovice',
@@ -8272,7 +8137,7 @@ return array (
     'latitude' => 48.92002,
     'longitude' => 17.16561,
   ),
-  919 => 
+  904 => 
   array (
     'id' => 23026,
     'name' => 'Raškovice',
@@ -8281,7 +8146,7 @@ return array (
     'latitude' => 49.61975,
     'longitude' => 18.47286,
   ),
-  920 => 
+  905 => 
   array (
     'id' => 23027,
     'name' => 'Rohatec',
@@ -8290,7 +8155,7 @@ return array (
     'latitude' => 48.8804,
     'longitude' => 17.1833,
   ),
-  921 => 
+  906 => 
   array (
     'id' => 23028,
     'name' => 'Rokycany',
@@ -8299,7 +8164,7 @@ return array (
     'latitude' => 49.7427,
     'longitude' => 13.59459,
   ),
-  922 => 
+  907 => 
   array (
     'id' => 23029,
     'name' => 'Rokytnice',
@@ -8308,7 +8173,7 @@ return array (
     'latitude' => 49.46592,
     'longitude' => 17.3912,
   ),
-  923 => 
+  908 => 
   array (
     'id' => 23030,
     'name' => 'Rokytnice nad Jizerou',
@@ -8317,7 +8182,7 @@ return array (
     'latitude' => 50.72561,
     'longitude' => 15.43357,
   ),
-  924 => 
+  909 => 
   array (
     'id' => 23031,
     'name' => 'Rokytnice v Orlických Horách',
@@ -8326,7 +8191,7 @@ return array (
     'latitude' => 50.16473,
     'longitude' => 16.46567,
   ),
-  925 => 
+  910 => 
   array (
     'id' => 23032,
     'name' => 'Ronov nad Doubravou',
@@ -8335,7 +8200,7 @@ return array (
     'latitude' => 49.88825,
     'longitude' => 15.53144,
   ),
-  926 => 
+  911 => 
   array (
     'id' => 23033,
     'name' => 'Ropice',
@@ -8344,7 +8209,7 @@ return array (
     'latitude' => 49.70536,
     'longitude' => 18.61345,
   ),
-  927 => 
+  912 => 
   array (
     'id' => 23034,
     'name' => 'Rosice',
@@ -8353,16 +8218,7 @@ return array (
     'latitude' => 49.92226,
     'longitude' => 15.95127,
   ),
-  928 => 
-  array (
-    'id' => 23035,
-    'name' => 'Rosice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.18232,
-    'longitude' => 16.38787,
-  ),
-  929 => 
+  913 => 
   array (
     'id' => 23036,
     'name' => 'Rotava',
@@ -8371,7 +8227,7 @@ return array (
     'latitude' => 50.29627,
     'longitude' => 12.57341,
   ),
-  930 => 
+  914 => 
   array (
     'id' => 23037,
     'name' => 'Rouchovany',
@@ -8380,7 +8236,7 @@ return array (
     'latitude' => 49.07036,
     'longitude' => 16.1076,
   ),
-  931 => 
+  915 => 
   array (
     'id' => 23038,
     'name' => 'Roudnice nad Labem',
@@ -8389,7 +8245,7 @@ return array (
     'latitude' => 50.42528,
     'longitude' => 14.26175,
   ),
-  932 => 
+  916 => 
   array (
     'id' => 23039,
     'name' => 'Rousínov',
@@ -8398,7 +8254,7 @@ return array (
     'latitude' => 49.20128,
     'longitude' => 16.88215,
   ),
-  933 => 
+  917 => 
   array (
     'id' => 23040,
     'name' => 'Rovensko pod Troskami',
@@ -8407,7 +8263,7 @@ return array (
     'latitude' => 50.53532,
     'longitude' => 15.25941,
   ),
-  934 => 
+  918 => 
   array (
     'id' => 23041,
     'name' => 'Roztoky',
@@ -8416,7 +8272,7 @@ return array (
     'latitude' => 50.15841,
     'longitude' => 14.3976,
   ),
-  935 => 
+  919 => 
   array (
     'id' => 23042,
     'name' => 'Rožmitál pod Třemšínem',
@@ -8425,7 +8281,7 @@ return array (
     'latitude' => 49.60196,
     'longitude' => 13.8643,
   ),
-  936 => 
+  920 => 
   array (
     'id' => 23043,
     'name' => 'Rožnov pod Radhoštěm',
@@ -8434,7 +8290,7 @@ return array (
     'latitude' => 49.45853,
     'longitude' => 18.14302,
   ),
-  937 => 
+  921 => 
   array (
     'id' => 23044,
     'name' => 'Rožďalovice',
@@ -8443,7 +8299,7 @@ return array (
     'latitude' => 50.30476,
     'longitude' => 15.16962,
   ),
-  938 => 
+  922 => 
   array (
     'id' => 23045,
     'name' => 'Rtyně v Podkrkonoší',
@@ -8452,7 +8308,7 @@ return array (
     'latitude' => 50.50523,
     'longitude' => 16.07187,
   ),
-  939 => 
+  923 => 
   array (
     'id' => 23046,
     'name' => 'Ruda nad Moravou',
@@ -8461,7 +8317,7 @@ return array (
     'latitude' => 49.981,
     'longitude' => 16.87782,
   ),
-  940 => 
+  924 => 
   array (
     'id' => 23047,
     'name' => 'Rudná',
@@ -8470,7 +8326,7 @@ return array (
     'latitude' => 50.03502,
     'longitude' => 14.23435,
   ),
-  941 => 
+  925 => 
   array (
     'id' => 23048,
     'name' => 'Rudník',
@@ -8479,7 +8335,7 @@ return array (
     'latitude' => 50.59517,
     'longitude' => 15.73362,
   ),
-  942 => 
+  926 => 
   array (
     'id' => 23049,
     'name' => 'Rudolfov',
@@ -8488,7 +8344,7 @@ return array (
     'latitude' => 48.99339,
     'longitude' => 14.54179,
   ),
-  943 => 
+  927 => 
   array (
     'id' => 23050,
     'name' => 'Rumburk',
@@ -8497,7 +8353,7 @@ return array (
     'latitude' => 50.95151,
     'longitude' => 14.55699,
   ),
-  944 => 
+  928 => 
   array (
     'id' => 23051,
     'name' => 'Rybitví',
@@ -8506,7 +8362,7 @@ return array (
     'latitude' => 50.06015,
     'longitude' => 15.70472,
   ),
-  945 => 
+  929 => 
   array (
     'id' => 23052,
     'name' => 'Rybí',
@@ -8515,7 +8371,7 @@ return array (
     'latitude' => 49.60073,
     'longitude' => 18.07592,
   ),
-  946 => 
+  930 => 
   array (
     'id' => 23053,
     'name' => 'Rychnov nad Kněžnou',
@@ -8524,7 +8380,7 @@ return array (
     'latitude' => 50.16284,
     'longitude' => 16.27488,
   ),
-  947 => 
+  931 => 
   array (
     'id' => 23054,
     'name' => 'Rychvald',
@@ -8533,7 +8389,7 @@ return array (
     'latitude' => 49.86625,
     'longitude' => 18.37626,
   ),
-  948 => 
+  932 => 
   array (
     'id' => 23055,
     'name' => 'Rájec-Jestřebí',
@@ -8542,7 +8398,7 @@ return array (
     'latitude' => 49.41094,
     'longitude' => 16.63902,
   ),
-  949 => 
+  933 => 
   array (
     'id' => 23056,
     'name' => 'Ráječko',
@@ -8551,7 +8407,7 @@ return array (
     'latitude' => 49.39393,
     'longitude' => 16.64497,
   ),
-  950 => 
+  934 => 
   array (
     'id' => 23057,
     'name' => 'Rýmařov',
@@ -8560,7 +8416,7 @@ return array (
     'latitude' => 49.93183,
     'longitude' => 17.27177,
   ),
-  951 => 
+  935 => 
   array (
     'id' => 23058,
     'name' => 'Sadov',
@@ -8569,7 +8425,7 @@ return array (
     'latitude' => 50.26711,
     'longitude' => 12.89708,
   ),
-  952 => 
+  936 => 
   array (
     'id' => 23059,
     'name' => 'Sadská',
@@ -8578,7 +8434,7 @@ return array (
     'latitude' => 50.13596,
     'longitude' => 14.98633,
   ),
-  953 => 
+  937 => 
   array (
     'id' => 23060,
     'name' => 'Samotíšky',
@@ -8587,7 +8443,7 @@ return array (
     'latitude' => 49.63042,
     'longitude' => 17.32807,
   ),
-  954 => 
+  938 => 
   array (
     'id' => 23061,
     'name' => 'Satalice',
@@ -8596,7 +8452,7 @@ return array (
     'latitude' => 50.12484,
     'longitude' => 14.57191,
   ),
-  955 => 
+  939 => 
   array (
     'id' => 23062,
     'name' => 'Sedlec',
@@ -8605,7 +8461,7 @@ return array (
     'latitude' => 49.96391,
     'longitude' => 15.28846,
   ),
-  956 => 
+  940 => 
   array (
     'id' => 23063,
     'name' => 'Sedlice',
@@ -8614,7 +8470,7 @@ return array (
     'latitude' => 48.77401,
     'longitude' => 14.39115,
   ),
-  957 => 
+  941 => 
   array (
     'id' => 23064,
     'name' => 'Sedliště',
@@ -8623,7 +8479,7 @@ return array (
     'latitude' => 49.71836,
     'longitude' => 18.36869,
   ),
-  958 => 
+  942 => 
   array (
     'id' => 23065,
     'name' => 'Sedlnice',
@@ -8632,7 +8488,7 @@ return array (
     'latitude' => 49.6577,
     'longitude' => 18.0869,
   ),
-  959 => 
+  943 => 
   array (
     'id' => 23066,
     'name' => 'Sedlčany',
@@ -8641,7 +8497,7 @@ return array (
     'latitude' => 49.66057,
     'longitude' => 14.42664,
   ),
-  960 => 
+  944 => 
   array (
     'id' => 23067,
     'name' => 'Semily',
@@ -8650,7 +8506,7 @@ return array (
     'latitude' => 50.60191,
     'longitude' => 15.33552,
   ),
-  961 => 
+  945 => 
   array (
     'id' => 23068,
     'name' => 'Senice na Hané',
@@ -8659,7 +8515,7 @@ return array (
     'latitude' => 49.62401,
     'longitude' => 17.08578,
   ),
-  962 => 
+  946 => 
   array (
     'id' => 23069,
     'name' => 'Sepekov',
@@ -8668,7 +8524,7 @@ return array (
     'latitude' => 49.42865,
     'longitude' => 14.41815,
   ),
-  963 => 
+  947 => 
   array (
     'id' => 23070,
     'name' => 'Sezemice',
@@ -8677,7 +8533,7 @@ return array (
     'latitude' => 50.06651,
     'longitude' => 15.8527,
   ),
-  964 => 
+  948 => 
   array (
     'id' => 23071,
     'name' => 'Sezimovo Ústí',
@@ -8686,7 +8542,7 @@ return array (
     'latitude' => 49.38519,
     'longitude' => 14.6848,
   ),
-  965 => 
+  949 => 
   array (
     'id' => 23072,
     'name' => 'Seč',
@@ -8695,7 +8551,7 @@ return array (
     'latitude' => 49.84694,
     'longitude' => 15.65643,
   ),
-  966 => 
+  950 => 
   array (
     'id' => 23073,
     'name' => 'Skalná',
@@ -8704,7 +8560,7 @@ return array (
     'latitude' => 50.1703,
     'longitude' => 12.36144,
   ),
-  967 => 
+  951 => 
   array (
     'id' => 23074,
     'name' => 'Skrbeň',
@@ -8713,7 +8569,7 @@ return array (
     'latitude' => 49.64115,
     'longitude' => 17.1765,
   ),
-  968 => 
+  952 => 
   array (
     'id' => 23075,
     'name' => 'Skuhrov nad Bělou',
@@ -8722,7 +8578,7 @@ return array (
     'latitude' => 50.22946,
     'longitude' => 16.2923,
   ),
-  969 => 
+  953 => 
   array (
     'id' => 23076,
     'name' => 'Skuteč',
@@ -8731,7 +8587,7 @@ return array (
     'latitude' => 49.84347,
     'longitude' => 15.99655,
   ),
-  970 => 
+  954 => 
   array (
     'id' => 23077,
     'name' => 'Slaný',
@@ -8740,7 +8596,7 @@ return array (
     'latitude' => 50.23046,
     'longitude' => 14.08693,
   ),
-  971 => 
+  955 => 
   array (
     'id' => 23078,
     'name' => 'Slatinice',
@@ -8749,7 +8605,7 @@ return array (
     'latitude' => 49.56155,
     'longitude' => 17.09992,
   ),
-  972 => 
+  956 => 
   array (
     'id' => 23079,
     'name' => 'Slatiňany',
@@ -8758,7 +8614,7 @@ return array (
     'latitude' => 49.9211,
     'longitude' => 15.81377,
   ),
-  973 => 
+  957 => 
   array (
     'id' => 23080,
     'name' => 'Slavičín',
@@ -8767,7 +8623,7 @@ return array (
     'latitude' => 49.08799,
     'longitude' => 17.87349,
   ),
-  974 => 
+  958 => 
   array (
     'id' => 23081,
     'name' => 'Slavkov',
@@ -8776,7 +8632,7 @@ return array (
     'latitude' => 49.9218,
     'longitude' => 17.83641,
   ),
-  975 => 
+  959 => 
   array (
     'id' => 23082,
     'name' => 'Slavkov u Brna',
@@ -8785,7 +8641,7 @@ return array (
     'latitude' => 49.15325,
     'longitude' => 16.87649,
   ),
-  976 => 
+  960 => 
   array (
     'id' => 23083,
     'name' => 'Slavonice',
@@ -8794,7 +8650,7 @@ return array (
     'latitude' => 48.99753,
     'longitude' => 15.35154,
   ),
-  977 => 
+  961 => 
   array (
     'id' => 23084,
     'name' => 'Slušovice',
@@ -8803,7 +8659,7 @@ return array (
     'latitude' => 49.24782,
     'longitude' => 17.8015,
   ),
-  978 => 
+  962 => 
   array (
     'id' => 23085,
     'name' => 'Smečno',
@@ -8812,7 +8668,7 @@ return array (
     'latitude' => 50.18844,
     'longitude' => 14.04037,
   ),
-  979 => 
+  963 => 
   array (
     'id' => 23086,
     'name' => 'Smidary',
@@ -8821,7 +8677,7 @@ return array (
     'latitude' => 50.29146,
     'longitude' => 15.47725,
   ),
-  980 => 
+  964 => 
   array (
     'id' => 23087,
     'name' => 'Smiřice',
@@ -8830,7 +8686,7 @@ return array (
     'latitude' => 50.29978,
     'longitude' => 15.86508,
   ),
-  981 => 
+  965 => 
   array (
     'id' => 23088,
     'name' => 'Smržice',
@@ -8839,7 +8695,7 @@ return array (
     'latitude' => 49.50569,
     'longitude' => 17.10698,
   ),
-  982 => 
+  966 => 
   array (
     'id' => 23089,
     'name' => 'Smržovka',
@@ -8848,7 +8704,7 @@ return array (
     'latitude' => 50.7382,
     'longitude' => 15.24639,
   ),
-  983 => 
+  967 => 
   array (
     'id' => 23090,
     'name' => 'Sobotka',
@@ -8857,7 +8713,7 @@ return array (
     'latitude' => 50.46741,
     'longitude' => 15.17619,
   ),
-  984 => 
+  968 => 
   array (
     'id' => 23091,
     'name' => 'Sobotín',
@@ -8866,7 +8722,7 @@ return array (
     'latitude' => 50.01039,
     'longitude' => 17.09129,
   ),
-  985 => 
+  969 => 
   array (
     'id' => 23092,
     'name' => 'Soběslav',
@@ -8875,7 +8731,7 @@ return array (
     'latitude' => 49.25993,
     'longitude' => 14.71861,
   ),
-  986 => 
+  970 => 
   array (
     'id' => 23093,
     'name' => 'Sokolnice',
@@ -8884,7 +8740,7 @@ return array (
     'latitude' => 49.11392,
     'longitude' => 16.72156,
   ),
-  987 => 
+  971 => 
   array (
     'id' => 23094,
     'name' => 'Sokolov',
@@ -8893,7 +8749,7 @@ return array (
     'latitude' => 50.1813,
     'longitude' => 12.6401,
   ),
-  988 => 
+  972 => 
   array (
     'id' => 23095,
     'name' => 'Solnice',
@@ -8902,7 +8758,7 @@ return array (
     'latitude' => 50.20366,
     'longitude' => 16.23762,
   ),
-  989 => 
+  973 => 
   array (
     'id' => 23096,
     'name' => 'Spytihněv',
@@ -8911,7 +8767,7 @@ return array (
     'latitude' => 49.14115,
     'longitude' => 17.49808,
   ),
-  990 => 
+  974 => 
   array (
     'id' => 23097,
     'name' => 'Spálené Poříčí',
@@ -8920,7 +8776,7 @@ return array (
     'latitude' => 49.61371,
     'longitude' => 13.60556,
   ),
-  991 => 
+  975 => 
   array (
     'id' => 23098,
     'name' => 'Srubec',
@@ -8929,7 +8785,7 @@ return array (
     'latitude' => 48.94806,
     'longitude' => 14.54131,
   ),
-  992 => 
+  976 => 
   array (
     'id' => 23099,
     'name' => 'Stachy',
@@ -8938,7 +8794,7 @@ return array (
     'latitude' => 49.10179,
     'longitude' => 13.66659,
   ),
-  993 => 
+  977 => 
   array (
     'id' => 23100,
     'name' => 'Stará Huť',
@@ -8947,7 +8803,7 @@ return array (
     'latitude' => 49.78225,
     'longitude' => 14.19735,
   ),
-  994 => 
+  978 => 
   array (
     'id' => 23101,
     'name' => 'Stará Paka',
@@ -8956,7 +8812,7 @@ return array (
     'latitude' => 50.51032,
     'longitude' => 15.49444,
   ),
-  995 => 
+  979 => 
   array (
     'id' => 23102,
     'name' => 'Stará Ves nad Ondřejnicí',
@@ -8965,7 +8821,7 @@ return array (
     'latitude' => 49.72775,
     'longitude' => 18.1885,
   ),
-  996 => 
+  980 => 
   array (
     'id' => 23103,
     'name' => 'Staré Hradiště',
@@ -8974,7 +8830,7 @@ return array (
     'latitude' => 50.0654,
     'longitude' => 15.77885,
   ),
-  997 => 
+  981 => 
   array (
     'id' => 23104,
     'name' => 'Staré Křečany',
@@ -8983,7 +8839,7 @@ return array (
     'latitude' => 50.95044,
     'longitude' => 14.49617,
   ),
-  998 => 
+  982 => 
   array (
     'id' => 23105,
     'name' => 'Staré Město',
@@ -8992,34 +8848,7 @@ return array (
     'latitude' => 49.66992,
     'longitude' => 18.36349,
   ),
-  999 => 
-  array (
-    'id' => 23106,
-    'name' => 'Staré Město',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.087,
-    'longitude' => 14.42024,
-  ),
-  1000 => 
-  array (
-    'id' => 23107,
-    'name' => 'Staré Město',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.07515,
-    'longitude' => 17.43338,
-  ),
-  1001 => 
-  array (
-    'id' => 23108,
-    'name' => 'Staré Město',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.16174,
-    'longitude' => 16.94734,
-  ),
-  1002 => 
+  983 => 
   array (
     'id' => 23109,
     'name' => 'Staré Nechanice',
@@ -9028,7 +8857,7 @@ return array (
     'latitude' => 50.24298,
     'longitude' => 15.61787,
   ),
-  1003 => 
+  984 => 
   array (
     'id' => 23110,
     'name' => 'Starý Bohumín',
@@ -9037,7 +8866,7 @@ return array (
     'latitude' => 49.9169,
     'longitude' => 18.33619,
   ),
-  1004 => 
+  985 => 
   array (
     'id' => 23111,
     'name' => 'Starý Jičín',
@@ -9046,7 +8875,7 @@ return array (
     'latitude' => 49.57686,
     'longitude' => 17.96169,
   ),
-  1005 => 
+  986 => 
   array (
     'id' => 23112,
     'name' => 'Starý Kolín',
@@ -9055,7 +8884,7 @@ return array (
     'latitude' => 50.00977,
     'longitude' => 15.29388,
   ),
-  1006 => 
+  987 => 
   array (
     'id' => 23113,
     'name' => 'Starý Plzenec',
@@ -9064,7 +8893,7 @@ return array (
     'latitude' => 49.69768,
     'longitude' => 13.4735,
   ),
-  1007 => 
+  988 => 
   array (
     'id' => 23114,
     'name' => 'Staňkov',
@@ -9073,7 +8902,7 @@ return array (
     'latitude' => 49.55348,
     'longitude' => 13.06976,
   ),
-  1008 => 
+  989 => 
   array (
     'id' => 23115,
     'name' => 'Stařeč',
@@ -9082,7 +8911,7 @@ return array (
     'latitude' => 49.19783,
     'longitude' => 15.82791,
   ),
-  1009 => 
+  990 => 
   array (
     'id' => 23116,
     'name' => 'Staříč',
@@ -9091,7 +8920,7 @@ return array (
     'latitude' => 49.68594,
     'longitude' => 18.27281,
   ),
-  1010 => 
+  991 => 
   array (
     'id' => 23117,
     'name' => 'Stochov',
@@ -9100,7 +8929,7 @@ return array (
     'latitude' => 50.14631,
     'longitude' => 13.96345,
   ),
-  1011 => 
+  992 => 
   array (
     'id' => 23118,
     'name' => 'Stod',
@@ -9109,7 +8938,7 @@ return array (
     'latitude' => 49.63909,
     'longitude' => 13.16474,
   ),
-  1012 => 
+  993 => 
   array (
     'id' => 23119,
     'name' => 'Stonava',
@@ -9118,7 +8947,7 @@ return array (
     'latitude' => 49.81691,
     'longitude' => 18.52518,
   ),
-  1013 => 
+  994 => 
   array (
     'id' => 23120,
     'name' => 'Strakonice',
@@ -9127,7 +8956,7 @@ return array (
     'latitude' => 49.26141,
     'longitude' => 13.90237,
   ),
-  1014 => 
+  995 => 
   array (
     'id' => 23121,
     'name' => 'Strančice',
@@ -9136,7 +8965,7 @@ return array (
     'latitude' => 49.94811,
     'longitude' => 14.67745,
   ),
-  1015 => 
+  996 => 
   array (
     'id' => 23122,
     'name' => 'Strašice',
@@ -9145,7 +8974,7 @@ return array (
     'latitude' => 49.73552,
     'longitude' => 13.75755,
   ),
-  1016 => 
+  997 => 
   array (
     'id' => 23123,
     'name' => 'Strmilov',
@@ -9154,7 +8983,7 @@ return array (
     'latitude' => 49.15846,
     'longitude' => 15.19934,
   ),
-  1017 => 
+  998 => 
   array (
     'id' => 23124,
     'name' => 'Strunkovice nad Blanicí',
@@ -9163,7 +8992,7 @@ return array (
     'latitude' => 49.08402,
     'longitude' => 14.05522,
   ),
-  1018 => 
+  999 => 
   array (
     'id' => 23125,
     'name' => 'Strání',
@@ -9172,7 +9001,7 @@ return array (
     'latitude' => 48.90216,
     'longitude' => 17.70671,
   ),
-  1019 => 
+  1000 => 
   array (
     'id' => 23126,
     'name' => 'Stráž',
@@ -9181,7 +9010,7 @@ return array (
     'latitude' => 49.66878,
     'longitude' => 12.77546,
   ),
-  1020 => 
+  1001 => 
   array (
     'id' => 23127,
     'name' => 'Stráž nad Nisou',
@@ -9190,7 +9019,7 @@ return array (
     'latitude' => 50.79099,
     'longitude' => 15.02683,
   ),
-  1021 => 
+  1002 => 
   array (
     'id' => 23128,
     'name' => 'Stráž pod Ralskem',
@@ -9199,7 +9028,7 @@ return array (
     'latitude' => 50.7028,
     'longitude' => 14.80102,
   ),
-  1022 => 
+  1003 => 
   array (
     'id' => 23129,
     'name' => 'Strážnice',
@@ -9208,7 +9037,7 @@ return array (
     'latitude' => 48.90102,
     'longitude' => 17.3168,
   ),
-  1023 => 
+  1004 => 
   array (
     'id' => 23130,
     'name' => 'Strážná',
@@ -9217,7 +9046,7 @@ return array (
     'latitude' => 49.83104,
     'longitude' => 17.13275,
   ),
-  1024 => 
+  1005 => 
   array (
     'id' => 23131,
     'name' => 'Strážov',
@@ -9226,7 +9055,7 @@ return array (
     'latitude' => 49.30326,
     'longitude' => 13.24623,
   ),
-  1025 => 
+  1006 => 
   array (
     'id' => 23132,
     'name' => 'Studenec',
@@ -9235,7 +9064,7 @@ return array (
     'latitude' => 50.55344,
     'longitude' => 15.54936,
   ),
-  1026 => 
+  1007 => 
   array (
     'id' => 23133,
     'name' => 'Studená',
@@ -9244,7 +9073,7 @@ return array (
     'latitude' => 49.18516,
     'longitude' => 15.28688,
   ),
-  1027 => 
+  1008 => 
   array (
     'id' => 23134,
     'name' => 'Studénka',
@@ -9253,7 +9082,7 @@ return array (
     'latitude' => 49.72342,
     'longitude' => 18.07853,
   ),
-  1028 => 
+  1009 => 
   array (
     'id' => 23135,
     'name' => 'Stěbořice',
@@ -9262,7 +9091,7 @@ return array (
     'latitude' => 49.93708,
     'longitude' => 17.80547,
   ),
-  1029 => 
+  1010 => 
   array (
     'id' => 23136,
     'name' => 'Stěžery',
@@ -9271,7 +9100,7 @@ return array (
     'latitude' => 50.21572,
     'longitude' => 15.74831,
   ),
-  1030 => 
+  1011 => 
   array (
     'id' => 23137,
     'name' => 'Střelice',
@@ -9280,7 +9109,7 @@ return array (
     'latitude' => 49.15221,
     'longitude' => 16.50399,
   ),
-  1031 => 
+  1012 => 
   array (
     'id' => 23138,
     'name' => 'Stříbro',
@@ -9289,7 +9118,7 @@ return array (
     'latitude' => 49.75565,
     'longitude' => 12.997,
   ),
-  1032 => 
+  1013 => 
   array (
     'id' => 23139,
     'name' => 'Střížkov',
@@ -9298,7 +9127,7 @@ return array (
     'latitude' => 50.12674,
     'longitude' => 14.49363,
   ),
-  1033 => 
+  1014 => 
   array (
     'id' => 23140,
     'name' => 'Suchdol',
@@ -9307,7 +9136,7 @@ return array (
     'latitude' => 49.95247,
     'longitude' => 15.16651,
   ),
-  1034 => 
+  1015 => 
   array (
     'id' => 23141,
     'name' => 'Suchdol nad Lužnicí',
@@ -9316,7 +9145,7 @@ return array (
     'latitude' => 48.89,
     'longitude' => 14.8772,
   ),
-  1035 => 
+  1016 => 
   array (
     'id' => 23142,
     'name' => 'Suchohrdly',
@@ -9325,7 +9154,7 @@ return array (
     'latitude' => 48.86822,
     'longitude' => 16.09471,
   ),
-  1036 => 
+  1017 => 
   array (
     'id' => 23143,
     'name' => 'Suchá Loz',
@@ -9334,7 +9163,7 @@ return array (
     'latitude' => 48.97001,
     'longitude' => 17.71379,
   ),
-  1037 => 
+  1018 => 
   array (
     'id' => 23144,
     'name' => 'Sudkov',
@@ -9343,7 +9172,7 @@ return array (
     'latitude' => 49.91903,
     'longitude' => 16.94516,
   ),
-  1038 => 
+  1019 => 
   array (
     'id' => 23145,
     'name' => 'Sudoměřice',
@@ -9352,7 +9181,7 @@ return array (
     'latitude' => 48.86723,
     'longitude' => 17.25676,
   ),
-  1039 => 
+  1020 => 
   array (
     'id' => 23146,
     'name' => 'Sušice',
@@ -9361,7 +9190,7 @@ return array (
     'latitude' => 49.23106,
     'longitude' => 13.52018,
   ),
-  1040 => 
+  1021 => 
   array (
     'id' => 23147,
     'name' => 'Svatava',
@@ -9370,7 +9199,7 @@ return array (
     'latitude' => 50.19223,
     'longitude' => 12.62524,
   ),
-  1041 => 
+  1022 => 
   array (
     'id' => 23148,
     'name' => 'Sviadnov',
@@ -9379,7 +9208,7 @@ return array (
     'latitude' => 49.68926,
     'longitude' => 18.32762,
   ),
-  1042 => 
+  1023 => 
   array (
     'id' => 23149,
     'name' => 'Svitavy',
@@ -9388,7 +9217,7 @@ return array (
     'latitude' => 49.75594,
     'longitude' => 16.46829,
   ),
-  1043 => 
+  1024 => 
   array (
     'id' => 23150,
     'name' => 'Svitávka',
@@ -9397,7 +9226,7 @@ return array (
     'latitude' => 49.50178,
     'longitude' => 16.59793,
   ),
-  1044 => 
+  1025 => 
   array (
     'id' => 23151,
     'name' => 'Svoboda nad Úpou',
@@ -9406,7 +9235,7 @@ return array (
     'latitude' => 50.62596,
     'longitude' => 15.81648,
   ),
-  1045 => 
+  1026 => 
   array (
     'id' => 23152,
     'name' => 'Svratka',
@@ -9415,7 +9244,7 @@ return array (
     'latitude' => 49.71066,
     'longitude' => 16.03214,
   ),
-  1046 => 
+  1027 => 
   array (
     'id' => 23153,
     'name' => 'Světlá nad Sázavou',
@@ -9424,7 +9253,7 @@ return array (
     'latitude' => 49.66801,
     'longitude' => 15.40393,
   ),
-  1047 => 
+  1028 => 
   array (
     'id' => 23154,
     'name' => 'Sázava',
@@ -9433,7 +9262,7 @@ return array (
     'latitude' => 49.87164,
     'longitude' => 14.89674,
   ),
-  1048 => 
+  1029 => 
   array (
     'id' => 23155,
     'name' => 'Tachov',
@@ -9442,7 +9271,7 @@ return array (
     'latitude' => 49.79528,
     'longitude' => 12.63365,
   ),
-  1049 => 
+  1030 => 
   array (
     'id' => 23156,
     'name' => 'Tanvald',
@@ -9451,7 +9280,7 @@ return array (
     'latitude' => 50.73735,
     'longitude' => 15.30585,
   ),
-  1050 => 
+  1031 => 
   array (
     'id' => 23157,
     'name' => 'Tasovice',
@@ -9460,7 +9289,7 @@ return array (
     'latitude' => 48.8361,
     'longitude' => 16.15558,
   ),
-  1051 => 
+  1032 => 
   array (
     'id' => 23158,
     'name' => 'Telnice',
@@ -9469,7 +9298,7 @@ return array (
     'latitude' => 49.10187,
     'longitude' => 16.71774,
   ),
-  1052 => 
+  1033 => 
   array (
     'id' => 23159,
     'name' => 'Telč',
@@ -9478,7 +9307,7 @@ return array (
     'latitude' => 49.18418,
     'longitude' => 15.45275,
   ),
-  1053 => 
+  1034 => 
   array (
     'id' => 23160,
     'name' => 'Teplice',
@@ -9487,7 +9316,7 @@ return array (
     'latitude' => 50.6404,
     'longitude' => 13.82451,
   ),
-  1054 => 
+  1035 => 
   array (
     'id' => 23161,
     'name' => 'Teplice nad Metují',
@@ -9496,7 +9325,7 @@ return array (
     'latitude' => 50.59332,
     'longitude' => 16.17026,
   ),
-  1055 => 
+  1036 => 
   array (
     'id' => 23162,
     'name' => 'Terezín',
@@ -9505,7 +9334,7 @@ return array (
     'latitude' => 50.511,
     'longitude' => 14.15055,
   ),
-  1056 => 
+  1037 => 
   array (
     'id' => 23163,
     'name' => 'Tečovice',
@@ -9514,7 +9343,7 @@ return array (
     'latitude' => 49.22107,
     'longitude' => 17.58733,
   ),
-  1057 => 
+  1038 => 
   array (
     'id' => 23164,
     'name' => 'Tichá',
@@ -9523,7 +9352,7 @@ return array (
     'latitude' => 49.56999,
     'longitude' => 18.22148,
   ),
-  1058 => 
+  1039 => 
   array (
     'id' => 23165,
     'name' => 'Tišice',
@@ -9532,7 +9361,7 @@ return array (
     'latitude' => 50.2698,
     'longitude' => 14.55411,
   ),
-  1059 => 
+  1040 => 
   array (
     'id' => 23166,
     'name' => 'Tišnov',
@@ -9541,7 +9370,7 @@ return array (
     'latitude' => 49.34872,
     'longitude' => 16.42438,
   ),
-  1060 => 
+  1041 => 
   array (
     'id' => 23167,
     'name' => 'Tlumačov',
@@ -9550,7 +9379,7 @@ return array (
     'latitude' => 49.25351,
     'longitude' => 17.49559,
   ),
-  1061 => 
+  1042 => 
   array (
     'id' => 23168,
     'name' => 'Tlučná',
@@ -9559,7 +9388,7 @@ return array (
     'latitude' => 49.72425,
     'longitude' => 13.23534,
   ),
-  1062 => 
+  1043 => 
   array (
     'id' => 23169,
     'name' => 'Topolná',
@@ -9568,7 +9397,7 @@ return array (
     'latitude' => 49.12187,
     'longitude' => 17.54434,
   ),
-  1063 => 
+  1044 => 
   array (
     'id' => 23170,
     'name' => 'Toužim',
@@ -9577,7 +9406,7 @@ return array (
     'latitude' => 50.06049,
     'longitude' => 12.98506,
   ),
-  1064 => 
+  1045 => 
   array (
     'id' => 23171,
     'name' => 'Tovačov',
@@ -9586,7 +9415,7 @@ return array (
     'latitude' => 49.43083,
     'longitude' => 17.28795,
   ),
-  1065 => 
+  1046 => 
   array (
     'id' => 23172,
     'name' => 'Traplice',
@@ -9595,7 +9424,7 @@ return array (
     'latitude' => 49.13088,
     'longitude' => 17.43622,
   ),
-  1066 => 
+  1047 => 
   array (
     'id' => 23173,
     'name' => 'Trhové Sviny',
@@ -9604,7 +9433,7 @@ return array (
     'latitude' => 48.84231,
     'longitude' => 14.63924,
   ),
-  1067 => 
+  1048 => 
   array (
     'id' => 23174,
     'name' => 'Trhový Štěpánov',
@@ -9613,7 +9442,7 @@ return array (
     'latitude' => 49.71147,
     'longitude' => 15.01356,
   ),
-  1068 => 
+  1049 => 
   array (
     'id' => 23175,
     'name' => 'Trmice',
@@ -9622,7 +9451,7 @@ return array (
     'latitude' => 50.64286,
     'longitude' => 13.99449,
   ),
-  1069 => 
+  1050 => 
   array (
     'id' => 23176,
     'name' => 'Trnava',
@@ -9631,7 +9460,7 @@ return array (
     'latitude' => 49.29603,
     'longitude' => 17.84191,
   ),
-  1070 => 
+  1051 => 
   array (
     'id' => 23177,
     'name' => 'Trojanovice',
@@ -9640,7 +9469,7 @@ return array (
     'latitude' => 49.52039,
     'longitude' => 18.238,
   ),
-  1071 => 
+  1052 => 
   array (
     'id' => 23178,
     'name' => 'Troubelice',
@@ -9649,7 +9478,7 @@ return array (
     'latitude' => 49.81731,
     'longitude' => 17.081,
   ),
-  1072 => 
+  1053 => 
   array (
     'id' => 23179,
     'name' => 'Troubky',
@@ -9658,7 +9487,7 @@ return array (
     'latitude' => 49.43215,
     'longitude' => 17.34914,
   ),
-  1073 => 
+  1054 => 
   array (
     'id' => 23180,
     'name' => 'Troubsko',
@@ -9667,7 +9496,7 @@ return array (
     'latitude' => 49.16951,
     'longitude' => 16.51078,
   ),
-  1074 => 
+  1055 => 
   array (
     'id' => 23181,
     'name' => 'Trutnov',
@@ -9676,7 +9505,7 @@ return array (
     'latitude' => 50.56101,
     'longitude' => 15.9127,
   ),
-  1075 => 
+  1056 => 
   array (
     'id' => 23182,
     'name' => 'Tršice',
@@ -9685,7 +9514,7 @@ return array (
     'latitude' => 49.54237,
     'longitude' => 17.42483,
   ),
-  1076 => 
+  1057 => 
   array (
     'id' => 23183,
     'name' => 'Tuchlovice',
@@ -9694,7 +9523,7 @@ return array (
     'latitude' => 50.13803,
     'longitude' => 13.99115,
   ),
-  1077 => 
+  1058 => 
   array (
     'id' => 23184,
     'name' => 'Tuchoměřice',
@@ -9703,7 +9532,7 @@ return array (
     'latitude' => 50.13543,
     'longitude' => 14.28218,
   ),
-  1078 => 
+  1059 => 
   array (
     'id' => 23185,
     'name' => 'Tupesy',
@@ -9712,7 +9541,7 @@ return array (
     'latitude' => 49.08427,
     'longitude' => 17.36983,
   ),
-  1079 => 
+  1060 => 
   array (
     'id' => 23186,
     'name' => 'Turnov',
@@ -9721,7 +9550,7 @@ return array (
     'latitude' => 50.58356,
     'longitude' => 15.15186,
   ),
-  1080 => 
+  1061 => 
   array (
     'id' => 23187,
     'name' => 'Tvarožná',
@@ -9730,7 +9559,7 @@ return array (
     'latitude' => 49.19177,
     'longitude' => 16.77146,
   ),
-  1081 => 
+  1062 => 
   array (
     'id' => 23188,
     'name' => 'Tvrdonice',
@@ -9739,7 +9568,7 @@ return array (
     'latitude' => 48.76048,
     'longitude' => 16.99446,
   ),
-  1082 => 
+  1063 => 
   array (
     'id' => 23189,
     'name' => 'Tábor',
@@ -9748,7 +9577,7 @@ return array (
     'latitude' => 49.41441,
     'longitude' => 14.6578,
   ),
-  1083 => 
+  1064 => 
   array (
     'id' => 23190,
     'name' => 'Týn nad Vltavou',
@@ -9757,7 +9586,7 @@ return array (
     'latitude' => 49.2234,
     'longitude' => 14.42057,
   ),
-  1084 => 
+  1065 => 
   array (
     'id' => 23191,
     'name' => 'Týnec',
@@ -9766,7 +9595,7 @@ return array (
     'latitude' => 48.77943,
     'longitude' => 17.01322,
   ),
-  1085 => 
+  1066 => 
   array (
     'id' => 23192,
     'name' => 'Týnec nad Labem',
@@ -9775,7 +9604,7 @@ return array (
     'latitude' => 50.04202,
     'longitude' => 15.35836,
   ),
-  1086 => 
+  1067 => 
   array (
     'id' => 23193,
     'name' => 'Týnec nad Sázavou',
@@ -9784,7 +9613,7 @@ return array (
     'latitude' => 49.83348,
     'longitude' => 14.58983,
   ),
-  1087 => 
+  1068 => 
   array (
     'id' => 23194,
     'name' => 'Týniště nad Orlicí',
@@ -9793,7 +9622,7 @@ return array (
     'latitude' => 50.15136,
     'longitude' => 16.0777,
   ),
-  1088 => 
+  1069 => 
   array (
     'id' => 23195,
     'name' => 'Těšany',
@@ -9802,7 +9631,7 @@ return array (
     'latitude' => 49.03956,
     'longitude' => 16.77003,
   ),
-  1089 => 
+  1070 => 
   array (
     'id' => 23196,
     'name' => 'Těšetice',
@@ -9811,7 +9640,7 @@ return array (
     'latitude' => 49.59317,
     'longitude' => 17.12607,
   ),
-  1090 => 
+  1071 => 
   array (
     'id' => 23197,
     'name' => 'Třebechovice pod Orebem',
@@ -9820,7 +9649,7 @@ return array (
     'latitude' => 50.20097,
     'longitude' => 15.99223,
   ),
-  1091 => 
+  1072 => 
   array (
     'id' => 23198,
     'name' => 'Třebenice',
@@ -9829,7 +9658,7 @@ return array (
     'latitude' => 50.47632,
     'longitude' => 13.99005,
   ),
-  1092 => 
+  1073 => 
   array (
     'id' => 23199,
     'name' => 'Třebotov',
@@ -9838,7 +9667,7 @@ return array (
     'latitude' => 49.97244,
     'longitude' => 14.29127,
   ),
-  1093 => 
+  1074 => 
   array (
     'id' => 23200,
     'name' => 'Třeboň',
@@ -9847,7 +9676,7 @@ return array (
     'latitude' => 49.00364,
     'longitude' => 14.77065,
   ),
-  1094 => 
+  1075 => 
   array (
     'id' => 23201,
     'name' => 'Třebíč',
@@ -9856,7 +9685,7 @@ return array (
     'latitude' => 49.21492,
     'longitude' => 15.88166,
   ),
-  1095 => 
+  1076 => 
   array (
     'id' => 23202,
     'name' => 'Třemošnice',
@@ -9865,7 +9694,7 @@ return array (
     'latitude' => 49.86912,
     'longitude' => 15.58002,
   ),
-  1096 => 
+  1077 => 
   array (
     'id' => 23203,
     'name' => 'Třemošná',
@@ -9874,7 +9703,7 @@ return array (
     'latitude' => 49.81584,
     'longitude' => 13.39499,
   ),
-  1097 => 
+  1078 => 
   array (
     'id' => 23204,
     'name' => 'Třešť',
@@ -9883,7 +9712,7 @@ return array (
     'latitude' => 49.29092,
     'longitude' => 15.48211,
   ),
-  1098 => 
+  1079 => 
   array (
     'id' => 23205,
     'name' => 'Třinec',
@@ -9892,7 +9721,7 @@ return array (
     'latitude' => 49.67763,
     'longitude' => 18.67078,
   ),
-  1099 => 
+  1080 => 
   array (
     'id' => 23206,
     'name' => 'Uherské Hradiště',
@@ -9901,7 +9730,7 @@ return array (
     'latitude' => 49.06975,
     'longitude' => 17.45969,
   ),
-  1100 => 
+  1081 => 
   array (
     'id' => 23207,
     'name' => 'Uherský Brod',
@@ -9910,7 +9739,7 @@ return array (
     'latitude' => 49.02513,
     'longitude' => 17.64715,
   ),
-  1101 => 
+  1082 => 
   array (
     'id' => 23208,
     'name' => 'Uherský Ostroh',
@@ -9919,7 +9748,7 @@ return array (
     'latitude' => 48.98556,
     'longitude' => 17.38984,
   ),
-  1102 => 
+  1083 => 
   array (
     'id' => 23209,
     'name' => 'Uhlířské Janovice',
@@ -9928,7 +9757,7 @@ return array (
     'latitude' => 49.88019,
     'longitude' => 15.06481,
   ),
-  1103 => 
+  1084 => 
   array (
     'id' => 23210,
     'name' => 'Unhošť',
@@ -9937,7 +9766,7 @@ return array (
     'latitude' => 50.08535,
     'longitude' => 14.13007,
   ),
-  1104 => 
+  1085 => 
   array (
     'id' => 23211,
     'name' => 'Uničov',
@@ -9946,7 +9775,7 @@ return array (
     'latitude' => 49.77092,
     'longitude' => 17.12144,
   ),
-  1105 => 
+  1086 => 
   array (
     'id' => 23212,
     'name' => 'Určice',
@@ -9955,7 +9784,7 @@ return array (
     'latitude' => 49.43045,
     'longitude' => 17.07291,
   ),
-  1106 => 
+  1087 => 
   array (
     'id' => 23213,
     'name' => 'Vacenovice',
@@ -9964,7 +9793,7 @@ return array (
     'latitude' => 48.9451,
     'longitude' => 17.17404,
   ),
-  1107 => 
+  1088 => 
   array (
     'id' => 23214,
     'name' => 'Vacov',
@@ -9973,7 +9802,7 @@ return array (
     'latitude' => 49.13686,
     'longitude' => 13.72911,
   ),
-  1108 => 
+  1089 => 
   array (
     'id' => 23215,
     'name' => 'Valašská Bystřice',
@@ -9982,7 +9811,7 @@ return array (
     'latitude' => 49.41507,
     'longitude' => 18.10977,
   ),
-  1109 => 
+  1090 => 
   array (
     'id' => 23216,
     'name' => 'Valašská Polanka',
@@ -9991,7 +9820,7 @@ return array (
     'latitude' => 49.26215,
     'longitude' => 17.99667,
   ),
-  1110 => 
+  1091 => 
   array (
     'id' => 23217,
     'name' => 'Valašské Klobouky',
@@ -10000,7 +9829,7 @@ return array (
     'latitude' => 49.14064,
     'longitude' => 18.0076,
   ),
-  1111 => 
+  1092 => 
   array (
     'id' => 23218,
     'name' => 'Valašské Meziříčí',
@@ -10009,7 +9838,7 @@ return array (
     'latitude' => 49.47181,
     'longitude' => 17.97113,
   ),
-  1112 => 
+  1093 => 
   array (
     'id' => 23219,
     'name' => 'Valdice',
@@ -10018,16 +9847,7 @@ return array (
     'latitude' => 50.45501,
     'longitude' => 15.38488,
   ),
-  1113 => 
-  array (
-    'id' => 23220,
-    'name' => 'Valdice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 50.5835,
-    'longitude' => 15.41248,
-  ),
-  1114 => 
+  1094 => 
   array (
     'id' => 23221,
     'name' => 'Valtice',
@@ -10036,7 +9856,7 @@ return array (
     'latitude' => 48.74069,
     'longitude' => 16.75499,
   ),
-  1115 => 
+  1095 => 
   array (
     'id' => 23222,
     'name' => 'Vamberk',
@@ -10045,7 +9865,7 @@ return array (
     'latitude' => 50.11756,
     'longitude' => 16.29067,
   ),
-  1116 => 
+  1096 => 
   array (
     'id' => 23223,
     'name' => 'Varnsdorf',
@@ -10054,7 +9874,7 @@ return array (
     'latitude' => 50.91154,
     'longitude' => 14.61824,
   ),
-  1117 => 
+  1097 => 
   array (
     'id' => 23224,
     'name' => 'Vejprnice',
@@ -10063,7 +9883,7 @@ return array (
     'latitude' => 49.72988,
     'longitude' => 13.27628,
   ),
-  1118 => 
+  1098 => 
   array (
     'id' => 23225,
     'name' => 'Vejprty',
@@ -10072,7 +9892,7 @@ return array (
     'latitude' => 50.49232,
     'longitude' => 13.03212,
   ),
-  1119 => 
+  1099 => 
   array (
     'id' => 23226,
     'name' => 'Velehrad',
@@ -10081,7 +9901,7 @@ return array (
     'latitude' => 49.10543,
     'longitude' => 17.39426,
   ),
-  1120 => 
+  1100 => 
   array (
     'id' => 23227,
     'name' => 'Velemín',
@@ -10090,7 +9910,7 @@ return array (
     'latitude' => 50.53898,
     'longitude' => 13.97675,
   ),
-  1121 => 
+  1101 => 
   array (
     'id' => 23228,
     'name' => 'Velešín',
@@ -10099,7 +9919,7 @@ return array (
     'latitude' => 48.82949,
     'longitude' => 14.46252,
   ),
-  1122 => 
+  1102 => 
   array (
     'id' => 23229,
     'name' => 'Velim',
@@ -10108,7 +9928,7 @@ return array (
     'latitude' => 50.05965,
     'longitude' => 15.10711,
   ),
-  1123 => 
+  1103 => 
   array (
     'id' => 23230,
     'name' => 'Velká Bystřice',
@@ -10117,7 +9937,7 @@ return array (
     'latitude' => 49.5948,
     'longitude' => 17.36544,
   ),
-  1124 => 
+  1104 => 
   array (
     'id' => 23231,
     'name' => 'Velká Bíteš',
@@ -10126,7 +9946,7 @@ return array (
     'latitude' => 49.28838,
     'longitude' => 16.22742,
   ),
-  1125 => 
+  1105 => 
   array (
     'id' => 23232,
     'name' => 'Velká Dobrá',
@@ -10135,7 +9955,7 @@ return array (
     'latitude' => 50.10964,
     'longitude' => 14.0698,
   ),
-  1126 => 
+  1106 => 
   array (
     'id' => 23233,
     'name' => 'Velká Hleďsebe',
@@ -10144,7 +9964,7 @@ return array (
     'latitude' => 49.96151,
     'longitude' => 12.66763,
   ),
-  1127 => 
+  1107 => 
   array (
     'id' => 23234,
     'name' => 'Velká Polom',
@@ -10153,7 +9973,7 @@ return array (
     'latitude' => 49.86359,
     'longitude' => 18.09331,
   ),
-  1128 => 
+  1108 => 
   array (
     'id' => 23235,
     'name' => 'Velká nad Veličkou',
@@ -10162,7 +9982,7 @@ return array (
     'latitude' => 48.88257,
     'longitude' => 17.5206,
   ),
-  1129 => 
+  1109 => 
   array (
     'id' => 23236,
     'name' => 'Velké Bílovice',
@@ -10171,7 +9991,7 @@ return array (
     'latitude' => 48.84929,
     'longitude' => 16.89227,
   ),
-  1130 => 
+  1110 => 
   array (
     'id' => 23237,
     'name' => 'Velké Březno',
@@ -10180,7 +10000,7 @@ return array (
     'latitude' => 50.6627,
     'longitude' => 14.14174,
   ),
-  1131 => 
+  1111 => 
   array (
     'id' => 23238,
     'name' => 'Velké Hamry',
@@ -10189,7 +10009,7 @@ return array (
     'latitude' => 50.71373,
     'longitude' => 15.31539,
   ),
-  1132 => 
+  1112 => 
   array (
     'id' => 23239,
     'name' => 'Velké Heraltice',
@@ -10198,7 +10018,7 @@ return array (
     'latitude' => 49.97493,
     'longitude' => 17.72879,
   ),
-  1133 => 
+  1113 => 
   array (
     'id' => 23240,
     'name' => 'Velké Hoštice',
@@ -10207,7 +10027,7 @@ return array (
     'latitude' => 49.93609,
     'longitude' => 17.9738,
   ),
-  1134 => 
+  1114 => 
   array (
     'id' => 23241,
     'name' => 'Velké Karlovice',
@@ -10216,7 +10036,7 @@ return array (
     'latitude' => 49.36064,
     'longitude' => 18.28355,
   ),
-  1135 => 
+  1115 => 
   array (
     'id' => 23242,
     'name' => 'Velké Losiny',
@@ -10225,7 +10045,7 @@ return array (
     'latitude' => 50.03197,
     'longitude' => 17.04058,
   ),
-  1136 => 
+  1116 => 
   array (
     'id' => 23243,
     'name' => 'Velké Meziříčí',
@@ -10234,7 +10054,7 @@ return array (
     'latitude' => 49.35522,
     'longitude' => 16.01224,
   ),
-  1137 => 
+  1117 => 
   array (
     'id' => 23244,
     'name' => 'Velké Němčice',
@@ -10243,7 +10063,7 @@ return array (
     'latitude' => 48.99168,
     'longitude' => 16.67208,
   ),
-  1138 => 
+  1118 => 
   array (
     'id' => 23245,
     'name' => 'Velké Opatovice',
@@ -10252,7 +10072,7 @@ return array (
     'latitude' => 49.61237,
     'longitude' => 16.67947,
   ),
-  1139 => 
+  1119 => 
   array (
     'id' => 23246,
     'name' => 'Velké Pavlovice',
@@ -10261,7 +10081,7 @@ return array (
     'latitude' => 48.90469,
     'longitude' => 16.81605,
   ),
-  1140 => 
+  1120 => 
   array (
     'id' => 23247,
     'name' => 'Velké Popovice',
@@ -10270,7 +10090,7 @@ return array (
     'latitude' => 49.92252,
     'longitude' => 14.63934,
   ),
-  1141 => 
+  1121 => 
   array (
     'id' => 23248,
     'name' => 'Velké Poříčí',
@@ -10279,7 +10099,7 @@ return array (
     'latitude' => 50.46177,
     'longitude' => 16.18931,
   ),
-  1142 => 
+  1122 => 
   array (
     'id' => 23249,
     'name' => 'Velké Přílepy',
@@ -10288,7 +10108,7 @@ return array (
     'latitude' => 50.1605,
     'longitude' => 14.31447,
   ),
-  1143 => 
+  1123 => 
   array (
     'id' => 23250,
     'name' => 'Velké Svatoňovice',
@@ -10297,7 +10117,7 @@ return array (
     'latitude' => 50.53164,
     'longitude' => 16.02853,
   ),
-  1144 => 
+  1124 => 
   array (
     'id' => 23251,
     'name' => 'Velký Beranov',
@@ -10306,7 +10126,7 @@ return array (
     'latitude' => 49.40504,
     'longitude' => 15.667,
   ),
-  1145 => 
+  1125 => 
   array (
     'id' => 23252,
     'name' => 'Velký Osek',
@@ -10315,7 +10135,7 @@ return array (
     'latitude' => 50.09867,
     'longitude' => 15.18629,
   ),
-  1146 => 
+  1126 => 
   array (
     'id' => 23253,
     'name' => 'Velký Týnec',
@@ -10324,7 +10144,7 @@ return array (
     'latitude' => 49.54994,
     'longitude' => 17.33359,
   ),
-  1147 => 
+  1127 => 
   array (
     'id' => 23254,
     'name' => 'Velký Újezd',
@@ -10333,7 +10153,7 @@ return array (
     'latitude' => 49.57858,
     'longitude' => 17.48347,
   ),
-  1148 => 
+  1128 => 
   array (
     'id' => 23255,
     'name' => 'Velký Šenov',
@@ -10342,7 +10162,7 @@ return array (
     'latitude' => 50.99078,
     'longitude' => 14.37428,
   ),
-  1149 => 
+  1129 => 
   array (
     'id' => 23256,
     'name' => 'Veltruby',
@@ -10351,7 +10171,7 @@ return array (
     'latitude' => 50.07059,
     'longitude' => 15.18454,
   ),
-  1150 => 
+  1130 => 
   array (
     'id' => 23257,
     'name' => 'Veltrusy',
@@ -10360,7 +10180,7 @@ return array (
     'latitude' => 50.27046,
     'longitude' => 14.32857,
   ),
-  1151 => 
+  1131 => 
   array (
     'id' => 23258,
     'name' => 'Velvary',
@@ -10369,7 +10189,7 @@ return array (
     'latitude' => 50.28152,
     'longitude' => 14.23616,
   ),
-  1152 => 
+  1132 => 
   array (
     'id' => 23259,
     'name' => 'Vendryně',
@@ -10378,7 +10198,7 @@ return array (
     'latitude' => 49.66662,
     'longitude' => 18.71307,
   ),
-  1153 => 
+  1133 => 
   array (
     'id' => 23260,
     'name' => 'Verneřice',
@@ -10387,7 +10207,7 @@ return array (
     'latitude' => 50.66114,
     'longitude' => 14.30114,
   ),
-  1154 => 
+  1134 => 
   array (
     'id' => 23261,
     'name' => 'Veselí nad Lužnicí',
@@ -10396,7 +10216,7 @@ return array (
     'latitude' => 49.1843,
     'longitude' => 14.69734,
   ),
-  1155 => 
+  1135 => 
   array (
     'id' => 23262,
     'name' => 'Veselí nad Moravou',
@@ -10405,7 +10225,7 @@ return array (
     'latitude' => 48.95363,
     'longitude' => 17.37648,
   ),
-  1156 => 
+  1136 => 
   array (
     'id' => 23263,
     'name' => 'Vestec',
@@ -10414,7 +10234,7 @@ return array (
     'latitude' => 49.9805,
     'longitude' => 14.50487,
   ),
-  1157 => 
+  1137 => 
   array (
     'id' => 23264,
     'name' => 'Veverská Bítýška',
@@ -10423,7 +10243,7 @@ return array (
     'latitude' => 49.27591,
     'longitude' => 16.43686,
   ),
-  1158 => 
+  1138 => 
   array (
     'id' => 23265,
     'name' => 'Veřovice',
@@ -10432,7 +10252,7 @@ return array (
     'latitude' => 49.53916,
     'longitude' => 18.11425,
   ),
-  1159 => 
+  1139 => 
   array (
     'id' => 23266,
     'name' => 'Vidnava',
@@ -10441,7 +10261,7 @@ return array (
     'latitude' => 50.37234,
     'longitude' => 17.18626,
   ),
-  1160 => 
+  1140 => 
   array (
     'id' => 23267,
     'name' => 'Vidče',
@@ -10450,7 +10270,7 @@ return array (
     'latitude' => 49.44151,
     'longitude' => 18.09473,
   ),
-  1161 => 
+  1141 => 
   array (
     'id' => 23268,
     'name' => 'Vikýřovice',
@@ -10459,7 +10279,7 @@ return array (
     'latitude' => 49.97792,
     'longitude' => 17.01234,
   ),
-  1162 => 
+  1142 => 
   array (
     'id' => 23269,
     'name' => 'Vilémov',
@@ -10468,16 +10288,7 @@ return array (
     'latitude' => 50.99054,
     'longitude' => 14.33531,
   ),
-  1163 => 
-  array (
-    'id' => 23270,
-    'name' => 'Vilémov',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.81566,
-    'longitude' => 15.53584,
-  ),
-  1164 => 
+  1143 => 
   array (
     'id' => 23271,
     'name' => 'Vimperk',
@@ -10486,7 +10297,7 @@ return array (
     'latitude' => 49.05857,
     'longitude' => 13.78286,
   ),
-  1165 => 
+  1144 => 
   array (
     'id' => 23272,
     'name' => 'Vinařice',
@@ -10495,7 +10306,7 @@ return array (
     'latitude' => 50.17585,
     'longitude' => 14.09106,
   ),
-  1166 => 
+  1145 => 
   array (
     'id' => 23273,
     'name' => 'Viničné Šumice',
@@ -10504,7 +10315,7 @@ return array (
     'latitude' => 49.21358,
     'longitude' => 16.82541,
   ),
-  1167 => 
+  1146 => 
   array (
     'id' => 23274,
     'name' => 'Vintířov',
@@ -10513,7 +10324,7 @@ return array (
     'latitude' => 50.23382,
     'longitude' => 12.71748,
   ),
-  1168 => 
+  1147 => 
   array (
     'id' => 23275,
     'name' => 'Vizovice',
@@ -10522,7 +10333,7 @@ return array (
     'latitude' => 49.22287,
     'longitude' => 17.85455,
   ),
-  1169 => 
+  1148 => 
   array (
     'id' => 23276,
     'name' => 'Višňova',
@@ -10531,7 +10342,7 @@ return array (
     'latitude' => 50.96663,
     'longitude' => 15.02495,
   ),
-  1170 => 
+  1149 => 
   array (
     'id' => 23277,
     'name' => 'Višňové',
@@ -10540,7 +10351,7 @@ return array (
     'latitude' => 48.98241,
     'longitude' => 16.15025,
   ),
-  1171 => 
+  1150 => 
   array (
     'id' => 23278,
     'name' => 'Vlachovice',
@@ -10549,7 +10360,7 @@ return array (
     'latitude' => 49.12377,
     'longitude' => 17.94001,
   ),
-  1172 => 
+  1151 => 
   array (
     'id' => 23279,
     'name' => 'Vlachovo Březí',
@@ -10558,7 +10369,7 @@ return array (
     'latitude' => 49.08135,
     'longitude' => 13.95842,
   ),
-  1173 => 
+  1152 => 
   array (
     'id' => 23280,
     'name' => 'Vladislav',
@@ -10567,7 +10378,7 @@ return array (
     'latitude' => 49.21017,
     'longitude' => 15.9883,
   ),
-  1174 => 
+  1153 => 
   array (
     'id' => 23281,
     'name' => 'Vlašim',
@@ -10576,7 +10387,7 @@ return array (
     'latitude' => 49.70632,
     'longitude' => 14.89881,
   ),
-  1175 => 
+  1154 => 
   array (
     'id' => 23282,
     'name' => 'Vlkoš',
@@ -10585,7 +10396,7 @@ return array (
     'latitude' => 48.9896,
     'longitude' => 17.16356,
   ),
-  1176 => 
+  1155 => 
   array (
     'id' => 23283,
     'name' => 'Vlčnov',
@@ -10594,16 +10405,7 @@ return array (
     'latitude' => 49.57866,
     'longitude' => 17.95458,
   ),
-  1177 => 
-  array (
-    'id' => 23284,
-    'name' => 'Vlčnov',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.0099,
-    'longitude' => 17.58183,
-  ),
-  1178 => 
+  1156 => 
   array (
     'id' => 23285,
     'name' => 'Vnorovy',
@@ -10612,7 +10414,7 @@ return array (
     'latitude' => 48.93096,
     'longitude' => 17.3505,
   ),
-  1179 => 
+  1157 => 
   array (
     'id' => 23286,
     'name' => 'Vodňany',
@@ -10621,7 +10423,7 @@ return array (
     'latitude' => 49.14789,
     'longitude' => 14.17513,
   ),
-  1180 => 
+  1158 => 
   array (
     'id' => 23287,
     'name' => 'Vojkovice',
@@ -10630,7 +10432,7 @@ return array (
     'latitude' => 49.05138,
     'longitude' => 16.6082,
   ),
-  1181 => 
+  1159 => 
   array (
     'id' => 23288,
     'name' => 'Volary',
@@ -10639,7 +10441,7 @@ return array (
     'latitude' => 48.90881,
     'longitude' => 13.88657,
   ),
-  1182 => 
+  1160 => 
   array (
     'id' => 23289,
     'name' => 'Volyně',
@@ -10648,7 +10450,7 @@ return array (
     'latitude' => 49.16578,
     'longitude' => 13.88624,
   ),
-  1183 => 
+  1161 => 
   array (
     'id' => 23290,
     'name' => 'Votice',
@@ -10657,7 +10459,7 @@ return array (
     'latitude' => 49.64013,
     'longitude' => 14.63809,
   ),
-  1184 => 
+  1162 => 
   array (
     'id' => 23291,
     'name' => 'Vracov',
@@ -10666,7 +10468,7 @@ return array (
     'latitude' => 48.97523,
     'longitude' => 17.211,
   ),
-  1185 => 
+  1163 => 
   array (
     'id' => 23292,
     'name' => 'Vranovice',
@@ -10675,7 +10477,7 @@ return array (
     'latitude' => 48.966,
     'longitude' => 16.6066,
   ),
-  1186 => 
+  1164 => 
   array (
     'id' => 23293,
     'name' => 'Vrané nad Vltavou',
@@ -10684,7 +10486,7 @@ return array (
     'latitude' => 49.93585,
     'longitude' => 14.37706,
   ),
-  1187 => 
+  1165 => 
   array (
     'id' => 23294,
     'name' => 'Vratimov',
@@ -10693,7 +10495,7 @@ return array (
     'latitude' => 49.76995,
     'longitude' => 18.31015,
   ),
-  1188 => 
+  1166 => 
   array (
     'id' => 23295,
     'name' => 'Vrbice',
@@ -10702,16 +10504,7 @@ return array (
     'latitude' => 48.91508,
     'longitude' => 16.89779,
   ),
-  1189 => 
-  array (
-    'id' => 23296,
-    'name' => 'Vrbice',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.88333,
-    'longitude' => 18.31667,
-  ),
-  1190 => 
+  1167 => 
   array (
     'id' => 23297,
     'name' => 'Vrbno pod Pradědem',
@@ -10720,7 +10513,7 @@ return array (
     'latitude' => 50.12095,
     'longitude' => 17.38316,
   ),
-  1191 => 
+  1168 => 
   array (
     'id' => 23298,
     'name' => 'Vrbovec',
@@ -10729,7 +10522,7 @@ return array (
     'latitude' => 48.79978,
     'longitude' => 16.10061,
   ),
-  1192 => 
+  1169 => 
   array (
     'id' => 23299,
     'name' => 'Vrbátky',
@@ -10738,7 +10531,7 @@ return array (
     'latitude' => 49.50805,
     'longitude' => 17.19994,
   ),
-  1193 => 
+  1170 => 
   array (
     'id' => 23300,
     'name' => 'Vrchlabí',
@@ -10747,7 +10540,7 @@ return array (
     'latitude' => 50.62697,
     'longitude' => 15.60937,
   ),
-  1194 => 
+  1171 => 
   array (
     'id' => 23301,
     'name' => 'Vrdy',
@@ -10756,7 +10549,7 @@ return array (
     'latitude' => 49.92153,
     'longitude' => 15.47243,
   ),
-  1195 => 
+  1172 => 
   array (
     'id' => 23302,
     'name' => 'Vroutek',
@@ -10765,7 +10558,7 @@ return array (
     'latitude' => 50.17999,
     'longitude' => 13.37986,
   ),
-  1196 => 
+  1173 => 
   array (
     'id' => 23303,
     'name' => 'Vsetín',
@@ -10774,7 +10567,7 @@ return array (
     'latitude' => 49.33871,
     'longitude' => 17.99619,
   ),
-  1197 => 
+  1174 => 
   array (
     'id' => 23304,
     'name' => 'Vysehrad',
@@ -10783,7 +10576,7 @@ return array (
     'latitude' => 50.06509,
     'longitude' => 14.41711,
   ),
-  1198 => 
+  1175 => 
   array (
     'id' => 23305,
     'name' => 'Vysoké Mýto',
@@ -10792,7 +10585,7 @@ return array (
     'latitude' => 49.9532,
     'longitude' => 16.16169,
   ),
-  1199 => 
+  1176 => 
   array (
     'id' => 23306,
     'name' => 'Vysoké nad Jizerou',
@@ -10801,7 +10594,7 @@ return array (
     'latitude' => 50.68559,
     'longitude' => 15.40152,
   ),
-  1200 => 
+  1177 => 
   array (
     'id' => 23307,
     'name' => 'Vysočany',
@@ -10810,7 +10603,7 @@ return array (
     'latitude' => 50.10938,
     'longitude' => 14.51667,
   ),
-  1201 => 
+  1178 => 
   array (
     'id' => 23308,
     'name' => 'Vyškov',
@@ -10819,7 +10612,7 @@ return array (
     'latitude' => 49.27747,
     'longitude' => 16.99897,
   ),
-  1202 => 
+  1179 => 
   array (
     'id' => 23309,
     'name' => 'Vyšší Brod',
@@ -10828,7 +10621,7 @@ return array (
     'latitude' => 48.61598,
     'longitude' => 14.31183,
   ),
-  1203 => 
+  1180 => 
   array (
     'id' => 23310,
     'name' => 'Václavovice',
@@ -10837,7 +10630,7 @@ return array (
     'latitude' => 49.75531,
     'longitude' => 18.3722,
   ),
-  1204 => 
+  1181 => 
   array (
     'id' => 23311,
     'name' => 'Vápenná',
@@ -10846,7 +10639,7 @@ return array (
     'latitude' => 50.28338,
     'longitude' => 17.09762,
   ),
-  1205 => 
+  1182 => 
   array (
     'id' => 23312,
     'name' => 'Vítkov',
@@ -10855,7 +10648,7 @@ return array (
     'latitude' => 49.77445,
     'longitude' => 17.74941,
   ),
-  1206 => 
+  1183 => 
   array (
     'id' => 23313,
     'name' => 'Včelná',
@@ -10864,7 +10657,7 @@ return array (
     'latitude' => 48.92373,
     'longitude' => 14.45383,
   ),
-  1207 => 
+  1184 => 
   array (
     'id' => 23314,
     'name' => 'Věrovany',
@@ -10873,7 +10666,7 @@ return array (
     'latitude' => 49.46109,
     'longitude' => 17.28795,
   ),
-  1208 => 
+  1185 => 
   array (
     'id' => 23315,
     'name' => 'Větřní',
@@ -10882,7 +10675,7 @@ return array (
     'latitude' => 48.77425,
     'longitude' => 14.28616,
   ),
-  1209 => 
+  1186 => 
   array (
     'id' => 23316,
     'name' => 'Vřesina',
@@ -10891,7 +10684,7 @@ return array (
     'latitude' => 49.82418,
     'longitude' => 18.12569,
   ),
-  1210 => 
+  1187 => 
   array (
     'id' => 23317,
     'name' => 'Všemina',
@@ -10900,7 +10693,7 @@ return array (
     'latitude' => 49.281,
     'longitude' => 17.87682,
   ),
-  1211 => 
+  1188 => 
   array (
     'id' => 23318,
     'name' => 'Všenory',
@@ -10909,7 +10702,7 @@ return array (
     'latitude' => 49.92883,
     'longitude' => 14.30392,
   ),
-  1212 => 
+  1189 => 
   array (
     'id' => 23319,
     'name' => 'Všeruby',
@@ -10918,7 +10711,7 @@ return array (
     'latitude' => 49.84167,
     'longitude' => 13.22943,
   ),
-  1213 => 
+  1190 => 
   array (
     'id' => 23320,
     'name' => 'Všestary',
@@ -10927,7 +10720,7 @@ return array (
     'latitude' => 50.2566,
     'longitude' => 15.75983,
   ),
-  1214 => 
+  1191 => 
   array (
     'id' => 23321,
     'name' => 'Všetaty',
@@ -10936,7 +10729,7 @@ return array (
     'latitude' => 50.28187,
     'longitude' => 14.59297,
   ),
-  1215 => 
+  1192 => 
   array (
     'id' => 23322,
     'name' => 'Zabrušany',
@@ -10945,7 +10738,7 @@ return array (
     'latitude' => 50.60495,
     'longitude' => 13.78748,
   ),
-  1216 => 
+  1193 => 
   array (
     'id' => 23323,
     'name' => 'Zadní Mostek',
@@ -10954,7 +10747,7 @@ return array (
     'latitude' => 50.4967,
     'longitude' => 15.69804,
   ),
-  1217 => 
+  1194 => 
   array (
     'id' => 23324,
     'name' => 'Zaječov',
@@ -10963,7 +10756,7 @@ return array (
     'latitude' => 49.77435,
     'longitude' => 13.84072,
   ),
-  1218 => 
+  1195 => 
   array (
     'id' => 23325,
     'name' => 'Zaječí',
@@ -10972,7 +10765,7 @@ return array (
     'latitude' => 48.87295,
     'longitude' => 16.76646,
   ),
-  1219 => 
+  1196 => 
   array (
     'id' => 23326,
     'name' => 'Zastávka',
@@ -10981,7 +10774,7 @@ return array (
     'latitude' => 49.188,
     'longitude' => 16.3631,
   ),
-  1220 => 
+  1197 => 
   array (
     'id' => 23327,
     'name' => 'Zašová',
@@ -10990,7 +10783,7 @@ return array (
     'latitude' => 49.4741,
     'longitude' => 18.04436,
   ),
-  1221 => 
+  1198 => 
   array (
     'id' => 23328,
     'name' => 'Zbiroh',
@@ -10999,7 +10792,7 @@ return array (
     'latitude' => 49.86024,
     'longitude' => 13.77262,
   ),
-  1222 => 
+  1199 => 
   array (
     'id' => 23329,
     'name' => 'Zborovice',
@@ -11008,7 +10801,7 @@ return array (
     'latitude' => 49.24889,
     'longitude' => 17.28464,
   ),
-  1223 => 
+  1200 => 
   array (
     'id' => 23330,
     'name' => 'Zbraslav',
@@ -11017,7 +10810,7 @@ return array (
     'latitude' => 49.22155,
     'longitude' => 16.29415,
   ),
-  1224 => 
+  1201 => 
   array (
     'id' => 23331,
     'name' => 'Zbraslavice',
@@ -11026,7 +10819,7 @@ return array (
     'latitude' => 49.81179,
     'longitude' => 15.18319,
   ),
-  1225 => 
+  1202 => 
   array (
     'id' => 23332,
     'name' => 'Zbýšov',
@@ -11035,7 +10828,7 @@ return array (
     'latitude' => 49.15524,
     'longitude' => 16.34951,
   ),
-  1226 => 
+  1203 => 
   array (
     'id' => 23333,
     'name' => 'Zbůch',
@@ -11044,7 +10837,7 @@ return array (
     'latitude' => 49.6784,
     'longitude' => 13.22564,
   ),
-  1227 => 
+  1204 => 
   array (
     'id' => 23334,
     'name' => 'Zdiby',
@@ -11053,7 +10846,7 @@ return array (
     'latitude' => 50.16799,
     'longitude' => 14.45118,
   ),
-  1228 => 
+  1205 => 
   array (
     'id' => 23335,
     'name' => 'Zdice',
@@ -11062,7 +10855,7 @@ return array (
     'latitude' => 49.91207,
     'longitude' => 13.97747,
   ),
-  1229 => 
+  1206 => 
   array (
     'id' => 23336,
     'name' => 'Zdounky',
@@ -11071,7 +10864,7 @@ return array (
     'latitude' => 49.22771,
     'longitude' => 17.31899,
   ),
-  1230 => 
+  1207 => 
   array (
     'id' => 23337,
     'name' => 'Zdíkov',
@@ -11080,7 +10873,7 @@ return array (
     'latitude' => 49.08456,
     'longitude' => 13.69738,
   ),
-  1231 => 
+  1208 => 
   array (
     'id' => 23338,
     'name' => 'Zeleneč',
@@ -11089,7 +10882,7 @@ return array (
     'latitude' => 50.13362,
     'longitude' => 14.6607,
   ),
-  1232 => 
+  1209 => 
   array (
     'id' => 23339,
     'name' => 'Zlaté Hory',
@@ -11098,7 +10891,7 @@ return array (
     'latitude' => 50.2638,
     'longitude' => 17.39602,
   ),
-  1233 => 
+  1210 => 
   array (
     'id' => 23340,
     'name' => 'Zlechov',
@@ -11107,7 +10900,7 @@ return array (
     'latitude' => 49.07396,
     'longitude' => 17.37938,
   ),
-  1234 => 
+  1211 => 
   array (
     'id' => 23341,
     'name' => 'Zliv',
@@ -11116,7 +10909,7 @@ return array (
     'latitude' => 49.06608,
     'longitude' => 14.36613,
   ),
-  1235 => 
+  1212 => 
   array (
     'id' => 23342,
     'name' => 'Zlonice',
@@ -11125,7 +10918,7 @@ return array (
     'latitude' => 50.2875,
     'longitude' => 14.09214,
   ),
-  1236 => 
+  1213 => 
   array (
     'id' => 23343,
     'name' => 'Zlín',
@@ -11134,7 +10927,7 @@ return array (
     'latitude' => 49.22645,
     'longitude' => 17.67065,
   ),
-  1237 => 
+  1214 => 
   array (
     'id' => 23344,
     'name' => 'Znojmo',
@@ -11143,7 +10936,7 @@ return array (
     'latitude' => 48.8555,
     'longitude' => 16.0488,
   ),
-  1238 => 
+  1215 => 
   array (
     'id' => 23345,
     'name' => 'Zruč nad Sázavou',
@@ -11152,7 +10945,7 @@ return array (
     'latitude' => 49.7401,
     'longitude' => 15.10606,
   ),
-  1239 => 
+  1216 => 
   array (
     'id' => 23346,
     'name' => 'Zubří',
@@ -11161,7 +10954,7 @@ return array (
     'latitude' => 49.46603,
     'longitude' => 18.09249,
   ),
-  1240 => 
+  1217 => 
   array (
     'id' => 23347,
     'name' => 'Zvole',
@@ -11170,7 +10963,7 @@ return array (
     'latitude' => 49.93466,
     'longitude' => 14.41769,
   ),
-  1241 => 
+  1218 => 
   array (
     'id' => 23348,
     'name' => 'Zábřeh',
@@ -11179,7 +10972,7 @@ return array (
     'latitude' => 49.8826,
     'longitude' => 16.87223,
   ),
-  1242 => 
+  1219 => 
   array (
     'id' => 23349,
     'name' => 'Záhorovice',
@@ -11188,7 +10981,7 @@ return array (
     'latitude' => 49.02266,
     'longitude' => 17.77922,
   ),
-  1243 => 
+  1220 => 
   array (
     'id' => 23350,
     'name' => 'Zákupy',
@@ -11197,7 +10990,7 @@ return array (
     'latitude' => 50.68475,
     'longitude' => 14.64522,
   ),
-  1244 => 
+  1221 => 
   array (
     'id' => 23351,
     'name' => 'Zásmuky',
@@ -11206,7 +10999,7 @@ return array (
     'latitude' => 49.9547,
     'longitude' => 15.03058,
   ),
-  1245 => 
+  1222 => 
   array (
     'id' => 23352,
     'name' => 'Zátor',
@@ -11215,7 +11008,7 @@ return array (
     'latitude' => 50.03413,
     'longitude' => 17.59296,
   ),
-  1246 => 
+  1223 => 
   array (
     'id' => 23353,
     'name' => 'Údlice',
@@ -11224,7 +11017,7 @@ return array (
     'latitude' => 50.4406,
     'longitude' => 13.45738,
   ),
-  1247 => 
+  1224 => 
   array (
     'id' => 23354,
     'name' => 'Újezd',
@@ -11233,16 +11026,7 @@ return array (
     'latitude' => 49.16809,
     'longitude' => 17.9061,
   ),
-  1248 => 
-  array (
-    'id' => 23355,
-    'name' => 'Újezd',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.76397,
-    'longitude' => 17.1804,
-  ),
-  1249 => 
+  1225 => 
   array (
     'id' => 23356,
     'name' => 'Únanov',
@@ -11251,7 +11035,7 @@ return array (
     'latitude' => 48.90082,
     'longitude' => 16.06351,
   ),
-  1250 => 
+  1226 => 
   array (
     'id' => 23357,
     'name' => 'Úpice',
@@ -11260,7 +11044,7 @@ return array (
     'latitude' => 50.51237,
     'longitude' => 16.01607,
   ),
-  1251 => 
+  1227 => 
   array (
     'id' => 23358,
     'name' => 'Úsov',
@@ -11269,7 +11053,7 @@ return array (
     'latitude' => 49.79831,
     'longitude' => 17.01055,
   ),
-  1252 => 
+  1228 => 
   array (
     'id' => 23359,
     'name' => 'Ústí nad Orlicí',
@@ -11278,7 +11062,7 @@ return array (
     'latitude' => 49.97387,
     'longitude' => 16.39361,
   ),
-  1253 => 
+  1229 => 
   array (
     'id' => 23360,
     'name' => 'Úvaly',
@@ -11287,7 +11071,7 @@ return array (
     'latitude' => 50.07394,
     'longitude' => 14.7308,
   ),
-  1254 => 
+  1230 => 
   array (
     'id' => 23361,
     'name' => 'Úštěk',
@@ -11296,7 +11080,7 @@ return array (
     'latitude' => 50.58474,
     'longitude' => 14.34332,
   ),
-  1255 => 
+  1231 => 
   array (
     'id' => 23362,
     'name' => 'Častolovice',
@@ -11305,7 +11089,7 @@ return array (
     'latitude' => 50.1291,
     'longitude' => 16.18128,
   ),
-  1256 => 
+  1232 => 
   array (
     'id' => 23363,
     'name' => 'Čebín',
@@ -11314,7 +11098,7 @@ return array (
     'latitude' => 49.31324,
     'longitude' => 16.47791,
   ),
-  1257 => 
+  1233 => 
   array (
     'id' => 23364,
     'name' => 'Čechtice',
@@ -11323,7 +11107,7 @@ return array (
     'latitude' => 49.62403,
     'longitude' => 15.04824,
   ),
-  1258 => 
+  1234 => 
   array (
     'id' => 23365,
     'name' => 'Čejkovice',
@@ -11332,7 +11116,7 @@ return array (
     'latitude' => 48.90592,
     'longitude' => 16.9423,
   ),
-  1259 => 
+  1235 => 
   array (
     'id' => 23366,
     'name' => 'Čejč',
@@ -11341,7 +11125,7 @@ return array (
     'latitude' => 48.94653,
     'longitude' => 16.96511,
   ),
-  1260 => 
+  1236 => 
   array (
     'id' => 23367,
     'name' => 'Čeladná',
@@ -11350,7 +11134,7 @@ return array (
     'latitude' => 49.54873,
     'longitude' => 18.33759,
   ),
-  1261 => 
+  1237 => 
   array (
     'id' => 23368,
     'name' => 'Čelechovice na Hané',
@@ -11359,7 +11143,7 @@ return array (
     'latitude' => 49.51626,
     'longitude' => 17.09379,
   ),
-  1262 => 
+  1238 => 
   array (
     'id' => 23369,
     'name' => 'Čelákovice',
@@ -11368,7 +11152,7 @@ return array (
     'latitude' => 50.16038,
     'longitude' => 14.75005,
   ),
-  1263 => 
+  1239 => 
   array (
     'id' => 23370,
     'name' => 'Černilov',
@@ -11377,7 +11161,7 @@ return array (
     'latitude' => 50.26265,
     'longitude' => 15.92254,
   ),
-  1264 => 
+  1240 => 
   array (
     'id' => 23371,
     'name' => 'Černovice',
@@ -11386,7 +11170,7 @@ return array (
     'latitude' => 49.37265,
     'longitude' => 14.96089,
   ),
-  1265 => 
+  1241 => 
   array (
     'id' => 23372,
     'name' => 'Černošice',
@@ -11395,7 +11179,7 @@ return array (
     'latitude' => 49.96008,
     'longitude' => 14.31979,
   ),
-  1266 => 
+  1242 => 
   array (
     'id' => 23373,
     'name' => 'Černošín',
@@ -11404,7 +11188,7 @@ return array (
     'latitude' => 49.81613,
     'longitude' => 12.88381,
   ),
-  1267 => 
+  1243 => 
   array (
     'id' => 23374,
     'name' => 'Černožice',
@@ -11413,7 +11197,7 @@ return array (
     'latitude' => 50.31863,
     'longitude' => 15.87403,
   ),
-  1268 => 
+  1244 => 
   array (
     'id' => 23375,
     'name' => 'Černá Hora',
@@ -11422,7 +11206,7 @@ return array (
     'latitude' => 49.41361,
     'longitude' => 16.5814,
   ),
-  1269 => 
+  1245 => 
   array (
     'id' => 23376,
     'name' => 'Černý Most',
@@ -11431,7 +11215,7 @@ return array (
     'latitude' => 50.10475,
     'longitude' => 14.57974,
   ),
-  1270 => 
+  1246 => 
   array (
     'id' => 23377,
     'name' => 'Černčice',
@@ -11440,7 +11224,7 @@ return array (
     'latitude' => 50.36138,
     'longitude' => 13.84521,
   ),
-  1271 => 
+  1247 => 
   array (
     'id' => 23378,
     'name' => 'Červenka',
@@ -11449,7 +11233,7 @@ return array (
     'latitude' => 49.72068,
     'longitude' => 17.07773,
   ),
-  1272 => 
+  1248 => 
   array (
     'id' => 23379,
     'name' => 'Červená Voda',
@@ -11458,7 +11242,7 @@ return array (
     'latitude' => 50.04029,
     'longitude' => 16.74268,
   ),
-  1273 => 
+  1249 => 
   array (
     'id' => 23380,
     'name' => 'Červené Pečky',
@@ -11467,7 +11251,7 @@ return array (
     'latitude' => 49.97822,
     'longitude' => 15.20856,
   ),
-  1274 => 
+  1250 => 
   array (
     'id' => 23381,
     'name' => 'Červený Kostelec',
@@ -11476,7 +11260,7 @@ return array (
     'latitude' => 50.47626,
     'longitude' => 16.09289,
   ),
-  1275 => 
+  1251 => 
   array (
     'id' => 23382,
     'name' => 'Čerčany',
@@ -11485,7 +11269,7 @@ return array (
     'latitude' => 49.85293,
     'longitude' => 14.70299,
   ),
-  1276 => 
+  1252 => 
   array (
     'id' => 23383,
     'name' => 'Česká Kamenice',
@@ -11494,7 +11278,7 @@ return array (
     'latitude' => 50.7978,
     'longitude' => 14.41767,
   ),
-  1277 => 
+  1253 => 
   array (
     'id' => 23384,
     'name' => 'Česká Lípa',
@@ -11503,7 +11287,7 @@ return array (
     'latitude' => 50.68551,
     'longitude' => 14.53764,
   ),
-  1278 => 
+  1254 => 
   array (
     'id' => 23385,
     'name' => 'Česká Skalice',
@@ -11512,7 +11296,7 @@ return array (
     'latitude' => 50.39467,
     'longitude' => 16.04276,
   ),
-  1279 => 
+  1255 => 
   array (
     'id' => 23386,
     'name' => 'Česká Třebová',
@@ -11521,7 +11305,7 @@ return array (
     'latitude' => 49.90436,
     'longitude' => 16.44413,
   ),
-  1280 => 
+  1256 => 
   array (
     'id' => 23387,
     'name' => 'Česká Ves',
@@ -11530,7 +11314,7 @@ return array (
     'latitude' => 50.25736,
     'longitude' => 17.22805,
   ),
-  1281 => 
+  1257 => 
   array (
     'id' => 23388,
     'name' => 'České Budějovice',
@@ -11539,7 +11323,7 @@ return array (
     'latitude' => 48.97447,
     'longitude' => 14.47434,
   ),
-  1282 => 
+  1258 => 
   array (
     'id' => 23389,
     'name' => 'České Meziříčí',
@@ -11548,7 +11332,7 @@ return array (
     'latitude' => 50.2868,
     'longitude' => 16.04428,
   ),
-  1283 => 
+  1259 => 
   array (
     'id' => 23390,
     'name' => 'České Velenice',
@@ -11557,7 +11341,7 @@ return array (
     'latitude' => 48.76851,
     'longitude' => 14.96368,
   ),
-  1284 => 
+  1260 => 
   array (
     'id' => 23391,
     'name' => 'Český Brod',
@@ -11566,7 +11350,7 @@ return array (
     'latitude' => 50.0742,
     'longitude' => 14.86081,
   ),
-  1285 => 
+  1261 => 
   array (
     'id' => 23392,
     'name' => 'Český Dub',
@@ -11575,7 +11359,7 @@ return array (
     'latitude' => 50.66054,
     'longitude' => 14.99617,
   ),
-  1286 => 
+  1262 => 
   array (
     'id' => 23393,
     'name' => 'Český Krumlov',
@@ -11584,7 +11368,7 @@ return array (
     'latitude' => 48.81091,
     'longitude' => 14.31521,
   ),
-  1287 => 
+  1263 => 
   array (
     'id' => 23394,
     'name' => 'Český Rudolec',
@@ -11593,7 +11377,7 @@ return array (
     'latitude' => 49.06835,
     'longitude' => 15.32437,
   ),
-  1288 => 
+  1264 => 
   array (
     'id' => 23395,
     'name' => 'Český Těšín',
@@ -11602,7 +11386,7 @@ return array (
     'latitude' => 49.74613,
     'longitude' => 18.62613,
   ),
-  1289 => 
+  1265 => 
   array (
     'id' => 23396,
     'name' => 'Čimelice',
@@ -11611,7 +11395,7 @@ return array (
     'latitude' => 49.46557,
     'longitude' => 14.06922,
   ),
-  1290 => 
+  1266 => 
   array (
     'id' => 23397,
     'name' => 'Čkyně',
@@ -11620,7 +11404,7 @@ return array (
     'latitude' => 49.11503,
     'longitude' => 13.82906,
   ),
-  1291 => 
+  1267 => 
   array (
     'id' => 23398,
     'name' => 'Čáslav',
@@ -11629,7 +11413,7 @@ return array (
     'latitude' => 49.91099,
     'longitude' => 15.38972,
   ),
-  1292 => 
+  1268 => 
   array (
     'id' => 23399,
     'name' => 'Čížkovice',
@@ -11638,7 +11422,7 @@ return array (
     'latitude' => 50.48418,
     'longitude' => 14.02839,
   ),
-  1293 => 
+  1269 => 
   array (
     'id' => 23400,
     'name' => 'Řehlovice',
@@ -11647,7 +11431,7 @@ return array (
     'latitude' => 50.60712,
     'longitude' => 13.95412,
   ),
-  1294 => 
+  1270 => 
   array (
     'id' => 23401,
     'name' => 'Řepiště',
@@ -11656,7 +11440,7 @@ return array (
     'latitude' => 49.73338,
     'longitude' => 18.31707,
   ),
-  1295 => 
+  1271 => 
   array (
     'id' => 23402,
     'name' => 'Řevnice',
@@ -11665,7 +11449,7 @@ return array (
     'latitude' => 49.91395,
     'longitude' => 14.23589,
   ),
-  1296 => 
+  1272 => 
   array (
     'id' => 23403,
     'name' => 'Řevničov',
@@ -11674,7 +11458,7 @@ return array (
     'latitude' => 50.18489,
     'longitude' => 13.80823,
   ),
-  1297 => 
+  1273 => 
   array (
     'id' => 23404,
     'name' => 'Řečany nad Labem',
@@ -11683,7 +11467,7 @@ return array (
     'latitude' => 50.03589,
     'longitude' => 15.47735,
   ),
-  1298 => 
+  1274 => 
   array (
     'id' => 23405,
     'name' => 'Řež',
@@ -11692,7 +11476,7 @@ return array (
     'latitude' => 50.17734,
     'longitude' => 14.35733,
   ),
-  1299 => 
+  1275 => 
   array (
     'id' => 23406,
     'name' => 'Říčany',
@@ -11701,16 +11485,7 @@ return array (
     'latitude' => 49.99168,
     'longitude' => 14.65427,
   ),
-  1300 => 
-  array (
-    'id' => 23407,
-    'name' => 'Říčany',
-    'country_id' => 58,
-    'country_code' => 'CZ',
-    'latitude' => 49.21497,
-    'longitude' => 16.39362,
-  ),
-  1301 => 
+  1276 => 
   array (
     'id' => 23408,
     'name' => 'Šakvice',
@@ -11719,7 +11494,7 @@ return array (
     'latitude' => 48.89746,
     'longitude' => 16.71424,
   ),
-  1302 => 
+  1277 => 
   array (
     'id' => 23409,
     'name' => 'Šanov',
@@ -11728,7 +11503,7 @@ return array (
     'latitude' => 48.80089,
     'longitude' => 16.37858,
   ),
-  1303 => 
+  1278 => 
   array (
     'id' => 23410,
     'name' => 'Šardice',
@@ -11737,7 +11512,7 @@ return array (
     'latitude' => 48.96403,
     'longitude' => 17.02812,
   ),
-  1304 => 
+  1279 => 
   array (
     'id' => 23411,
     'name' => 'Šatov',
@@ -11746,7 +11521,7 @@ return array (
     'latitude' => 48.79317,
     'longitude' => 16.00992,
   ),
-  1305 => 
+  1280 => 
   array (
     'id' => 23412,
     'name' => 'Šenov',
@@ -11755,7 +11530,7 @@ return array (
     'latitude' => 49.79315,
     'longitude' => 18.37607,
   ),
-  1306 => 
+  1281 => 
   array (
     'id' => 23413,
     'name' => 'Šestajovice',
@@ -11764,7 +11539,7 @@ return array (
     'latitude' => 50.10845,
     'longitude' => 14.68013,
   ),
-  1307 => 
+  1282 => 
   array (
     'id' => 23414,
     'name' => 'Ševětín',
@@ -11773,7 +11548,7 @@ return array (
     'latitude' => 49.10005,
     'longitude' => 14.5722,
   ),
-  1308 => 
+  1283 => 
   array (
     'id' => 23415,
     'name' => 'Šilheřovice',
@@ -11782,7 +11557,7 @@ return array (
     'latitude' => 49.92602,
     'longitude' => 18.27017,
   ),
-  1309 => 
+  1284 => 
   array (
     'id' => 23416,
     'name' => 'Šitbořice',
@@ -11791,7 +11566,7 @@ return array (
     'latitude' => 49.01433,
     'longitude' => 16.77975,
   ),
-  1310 => 
+  1285 => 
   array (
     'id' => 23417,
     'name' => 'Šlapanice',
@@ -11800,7 +11575,7 @@ return array (
     'latitude' => 49.16863,
     'longitude' => 16.72731,
   ),
-  1311 => 
+  1286 => 
   array (
     'id' => 23418,
     'name' => 'Šluknov',
@@ -11809,7 +11584,7 @@ return array (
     'latitude' => 51.00369,
     'longitude' => 14.45258,
   ),
-  1312 => 
+  1287 => 
   array (
     'id' => 23419,
     'name' => 'Špindlerův Mlýn',
@@ -11818,7 +11593,7 @@ return array (
     'latitude' => 50.72615,
     'longitude' => 15.60944,
   ),
-  1313 => 
+  1288 => 
   array (
     'id' => 23420,
     'name' => 'Šternberk',
@@ -11827,7 +11602,7 @@ return array (
     'latitude' => 49.73044,
     'longitude' => 17.29889,
   ),
-  1314 => 
+  1289 => 
   array (
     'id' => 23421,
     'name' => 'Štoky',
@@ -11836,7 +11611,7 @@ return array (
     'latitude' => 49.50249,
     'longitude' => 15.58863,
   ),
-  1315 => 
+  1290 => 
   array (
     'id' => 23422,
     'name' => 'Štramberk',
@@ -11845,7 +11620,7 @@ return array (
     'latitude' => 49.59181,
     'longitude' => 18.11741,
   ),
-  1316 => 
+  1291 => 
   array (
     'id' => 23423,
     'name' => 'Štítina',
@@ -11854,7 +11629,7 @@ return array (
     'latitude' => 49.91487,
     'longitude' => 18.01245,
   ),
-  1317 => 
+  1292 => 
   array (
     'id' => 23424,
     'name' => 'Štítná nad Vláří',
@@ -11863,7 +11638,7 @@ return array (
     'latitude' => 49.06881,
     'longitude' => 17.98274,
   ),
-  1318 => 
+  1293 => 
   array (
     'id' => 23425,
     'name' => 'Štíty',
@@ -11872,7 +11647,7 @@ return array (
     'latitude' => 49.96122,
     'longitude' => 16.76576,
   ),
-  1319 => 
+  1294 => 
   array (
     'id' => 23426,
     'name' => 'Štěchovice',
@@ -11881,7 +11656,7 @@ return array (
     'latitude' => 49.85109,
     'longitude' => 14.40543,
   ),
-  1320 => 
+  1295 => 
   array (
     'id' => 23427,
     'name' => 'Štěnovice',
@@ -11890,7 +11665,7 @@ return array (
     'latitude' => 49.67051,
     'longitude' => 13.39963,
   ),
-  1321 => 
+  1296 => 
   array (
     'id' => 23428,
     'name' => 'Štěpánkovice',
@@ -11899,7 +11674,7 @@ return array (
     'latitude' => 49.95738,
     'longitude' => 18.03741,
   ),
-  1322 => 
+  1297 => 
   array (
     'id' => 23429,
     'name' => 'Štěpánov',
@@ -11908,7 +11683,7 @@ return array (
     'latitude' => 49.68404,
     'longitude' => 17.22041,
   ),
-  1323 => 
+  1298 => 
   array (
     'id' => 23430,
     'name' => 'Štětí',
@@ -11917,7 +11692,7 @@ return array (
     'latitude' => 50.45298,
     'longitude' => 14.37421,
   ),
-  1324 => 
+  1299 => 
   array (
     'id' => 23431,
     'name' => 'Šumice',
@@ -11926,7 +11701,7 @@ return array (
     'latitude' => 49.02858,
     'longitude' => 17.72205,
   ),
-  1325 => 
+  1300 => 
   array (
     'id' => 23432,
     'name' => 'Šumperk',
@@ -11935,7 +11710,7 @@ return array (
     'latitude' => 49.96528,
     'longitude' => 16.97061,
   ),
-  1326 => 
+  1301 => 
   array (
     'id' => 23433,
     'name' => 'Švihov',
@@ -11944,7 +11719,7 @@ return array (
     'latitude' => 49.48136,
     'longitude' => 13.28417,
   ),
-  1327 => 
+  1302 => 
   array (
     'id' => 23434,
     'name' => 'Šťáhlavy',
@@ -11953,7 +11728,7 @@ return array (
     'latitude' => 49.67555,
     'longitude' => 13.50394,
   ),
-  1328 => 
+  1303 => 
   array (
     'id' => 23435,
     'name' => 'Žabčice',
@@ -11962,7 +11737,7 @@ return array (
     'latitude' => 49.0116,
     'longitude' => 16.60257,
   ),
-  1329 => 
+  1304 => 
   array (
     'id' => 23436,
     'name' => 'Žacléř',
@@ -11971,7 +11746,7 @@ return array (
     'latitude' => 50.66329,
     'longitude' => 15.91063,
   ),
-  1330 => 
+  1305 => 
   array (
     'id' => 23437,
     'name' => 'Žamberk',
@@ -11980,7 +11755,7 @@ return array (
     'latitude' => 50.08601,
     'longitude' => 16.46738,
   ),
-  1331 => 
+  1306 => 
   array (
     'id' => 23438,
     'name' => 'Žandov',
@@ -11989,7 +11764,7 @@ return array (
     'latitude' => 50.71394,
     'longitude' => 14.39623,
   ),
-  1332 => 
+  1307 => 
   array (
     'id' => 23439,
     'name' => 'Žatec',
@@ -11998,7 +11773,7 @@ return array (
     'latitude' => 50.32717,
     'longitude' => 13.54577,
   ),
-  1333 => 
+  1308 => 
   array (
     'id' => 23440,
     'name' => 'Ždánice',
@@ -12007,7 +11782,7 @@ return array (
     'latitude' => 49.06729,
     'longitude' => 17.02751,
   ),
-  1334 => 
+  1309 => 
   array (
     'id' => 23441,
     'name' => 'Žebrák',
@@ -12016,7 +11791,7 @@ return array (
     'latitude' => 49.87574,
     'longitude' => 13.89735,
   ),
-  1335 => 
+  1310 => 
   array (
     'id' => 23442,
     'name' => 'Želetava',
@@ -12025,7 +11800,7 @@ return array (
     'latitude' => 49.14187,
     'longitude' => 15.673,
   ),
-  1336 => 
+  1311 => 
   array (
     'id' => 23443,
     'name' => 'Železnice',
@@ -12034,7 +11809,7 @@ return array (
     'latitude' => 50.47274,
     'longitude' => 15.38459,
   ),
-  1337 => 
+  1312 => 
   array (
     'id' => 23444,
     'name' => 'Železná Ruda',
@@ -12043,7 +11818,7 @@ return array (
     'latitude' => 49.13743,
     'longitude' => 13.2352,
   ),
-  1338 => 
+  1313 => 
   array (
     'id' => 23445,
     'name' => 'Železný Brod',
@@ -12052,7 +11827,7 @@ return array (
     'latitude' => 50.64274,
     'longitude' => 15.25408,
   ),
-  1339 => 
+  1314 => 
   array (
     'id' => 23446,
     'name' => 'Želešice',
@@ -12061,7 +11836,7 @@ return array (
     'latitude' => 49.11689,
     'longitude' => 16.58137,
   ),
-  1340 => 
+  1315 => 
   array (
     'id' => 23447,
     'name' => 'Želiv',
@@ -12070,7 +11845,7 @@ return array (
     'latitude' => 49.52984,
     'longitude' => 15.22181,
   ),
-  1341 => 
+  1316 => 
   array (
     'id' => 23448,
     'name' => 'Žeravice',
@@ -12079,7 +11854,7 @@ return array (
     'latitude' => 49.02288,
     'longitude' => 17.23726,
   ),
-  1342 => 
+  1317 => 
   array (
     'id' => 23449,
     'name' => 'Židlochovice',
@@ -12088,7 +11863,7 @@ return array (
     'latitude' => 49.03952,
     'longitude' => 16.61881,
   ),
-  1343 => 
+  1318 => 
   array (
     'id' => 23450,
     'name' => 'Žihle',
@@ -12097,7 +11872,7 @@ return array (
     'latitude' => 50.04491,
     'longitude' => 13.37502,
   ),
-  1344 => 
+  1319 => 
   array (
     'id' => 23451,
     'name' => 'Žirovnice',
@@ -12106,7 +11881,7 @@ return array (
     'latitude' => 49.25318,
     'longitude' => 15.18824,
   ),
-  1345 => 
+  1320 => 
   array (
     'id' => 23452,
     'name' => 'Žitenice',
@@ -12115,7 +11890,7 @@ return array (
     'latitude' => 50.55528,
     'longitude' => 14.15665,
   ),
-  1346 => 
+  1321 => 
   array (
     'id' => 23453,
     'name' => 'Žiželice',
@@ -12124,7 +11899,7 @@ return array (
     'latitude' => 50.13192,
     'longitude' => 15.3932,
   ),
-  1347 => 
+  1322 => 
   array (
     'id' => 23454,
     'name' => 'Žleby',
@@ -12133,7 +11908,7 @@ return array (
     'latitude' => 49.88958,
     'longitude' => 15.48853,
   ),
-  1348 => 
+  1323 => 
   array (
     'id' => 23455,
     'name' => 'Žlutava',
@@ -12142,7 +11917,7 @@ return array (
     'latitude' => 49.19976,
     'longitude' => 17.49037,
   ),
-  1349 => 
+  1324 => 
   array (
     'id' => 23456,
     'name' => 'Žlutice',
@@ -12151,7 +11926,7 @@ return array (
     'latitude' => 50.09192,
     'longitude' => 13.16297,
   ),
-  1350 => 
+  1325 => 
   array (
     'id' => 23457,
     'name' => 'Žulová',
@@ -12160,7 +11935,7 @@ return array (
     'latitude' => 50.30933,
     'longitude' => 17.09871,
   ),
-  1351 => 
+  1326 => 
   array (
     'id' => 23458,
     'name' => 'Žďár',
@@ -12169,7 +11944,7 @@ return array (
     'latitude' => 50.54366,
     'longitude' => 15.08034,
   ),
-  1352 => 
+  1327 => 
   array (
     'id' => 23459,
     'name' => 'Žďár nad Sázavou',
@@ -12178,7 +11953,7 @@ return array (
     'latitude' => 49.56263,
     'longitude' => 15.93924,
   ),
-  1353 => 
+  1328 => 
   array (
     'id' => 23460,
     'name' => 'Žďár nad Sázavou Druhy',

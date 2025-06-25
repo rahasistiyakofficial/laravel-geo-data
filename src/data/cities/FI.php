@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -2352,15 +2352,6 @@ return array (
   ),
   261 => 
   array (
-    'id' => 39004,
-    'name' => 'Pyhäjärvi',
-    'country_id' => 74,
-    'country_code' => 'FI',
-    'latitude' => 67.0701,
-    'longitude' => 27.21763,
-  ),
-  262 => 
-  array (
     'id' => 39005,
     'name' => 'Pyhäntä',
     'country_id' => 74,
@@ -2368,7 +2359,7 @@ return array (
     'latitude' => 64.1,
     'longitude' => 26.31667,
   ),
-  263 => 
+  262 => 
   array (
     'id' => 39006,
     'name' => 'Pyhäranta',
@@ -2377,7 +2368,7 @@ return array (
     'latitude' => 60.95,
     'longitude' => 21.45,
   ),
-  264 => 
+  263 => 
   array (
     'id' => 39007,
     'name' => 'Pyhäselkä',
@@ -2386,7 +2377,7 @@ return array (
     'latitude' => 62.43333,
     'longitude' => 29.96667,
   ),
-  265 => 
+  264 => 
   array (
     'id' => 39008,
     'name' => 'Pylkönmäki',
@@ -2395,7 +2386,7 @@ return array (
     'latitude' => 62.66667,
     'longitude' => 24.8,
   ),
-  266 => 
+  265 => 
   array (
     'id' => 39009,
     'name' => 'Pöytyä',
@@ -2404,7 +2395,7 @@ return array (
     'latitude' => 60.76667,
     'longitude' => 22.66667,
   ),
-  267 => 
+  266 => 
   array (
     'id' => 39010,
     'name' => 'Raahe',
@@ -2413,7 +2404,7 @@ return array (
     'latitude' => 64.68333,
     'longitude' => 24.48333,
   ),
-  268 => 
+  267 => 
   array (
     'id' => 39011,
     'name' => 'Raaseporin',
@@ -2422,7 +2413,7 @@ return array (
     'latitude' => 60.00273,
     'longitude' => 23.55499,
   ),
-  269 => 
+  268 => 
   array (
     'id' => 39012,
     'name' => 'Raisio',
@@ -2431,7 +2422,7 @@ return array (
     'latitude' => 60.48592,
     'longitude' => 22.16895,
   ),
-  270 => 
+  269 => 
   array (
     'id' => 39013,
     'name' => 'Rantasalmi',
@@ -2440,7 +2431,7 @@ return array (
     'latitude' => 62.06667,
     'longitude' => 28.3,
   ),
-  271 => 
+  270 => 
   array (
     'id' => 39014,
     'name' => 'Rantsila',
@@ -2449,7 +2440,7 @@ return array (
     'latitude' => 64.50613,
     'longitude' => 25.66449,
   ),
-  272 => 
+  271 => 
   array (
     'id' => 39015,
     'name' => 'Ranua',
@@ -2458,7 +2449,7 @@ return array (
     'latitude' => 65.91667,
     'longitude' => 26.53333,
   ),
-  273 => 
+  272 => 
   array (
     'id' => 39016,
     'name' => 'Rauma',
@@ -2467,7 +2458,7 @@ return array (
     'latitude' => 61.12724,
     'longitude' => 21.51127,
   ),
-  274 => 
+  273 => 
   array (
     'id' => 39019,
     'name' => 'Rautjärvi',
@@ -2476,7 +2467,7 @@ return array (
     'latitude' => 61.43333,
     'longitude' => 29.35,
   ),
-  275 => 
+  274 => 
   array (
     'id' => 39020,
     'name' => 'Reisjärvi',
@@ -2485,7 +2476,7 @@ return array (
     'latitude' => 63.61667,
     'longitude' => 24.9,
   ),
-  276 => 
+  275 => 
   array (
     'id' => 39021,
     'name' => 'Renko',
@@ -2494,7 +2485,7 @@ return array (
     'latitude' => 60.89563,
     'longitude' => 24.28785,
   ),
-  277 => 
+  276 => 
   array (
     'id' => 39022,
     'name' => 'Replot',
@@ -2503,7 +2494,7 @@ return array (
     'latitude' => 63.22882,
     'longitude' => 21.41691,
   ),
-  278 => 
+  277 => 
   array (
     'id' => 39023,
     'name' => 'Riihimäki',
@@ -2512,7 +2503,7 @@ return array (
     'latitude' => 60.73769,
     'longitude' => 24.77726,
   ),
-  279 => 
+  278 => 
   array (
     'id' => 39024,
     'name' => 'Ristiina',
@@ -2521,7 +2512,7 @@ return array (
     'latitude' => 61.50579,
     'longitude' => 27.24643,
   ),
-  280 => 
+  279 => 
   array (
     'id' => 39025,
     'name' => 'Ristijärvi',
@@ -2530,7 +2521,7 @@ return array (
     'latitude' => 64.5,
     'longitude' => 28.21667,
   ),
-  281 => 
+  280 => 
   array (
     'id' => 39026,
     'name' => 'Ristinummi',
@@ -2539,7 +2530,7 @@ return array (
     'latitude' => 63.09192,
     'longitude' => 21.72297,
   ),
-  282 => 
+  281 => 
   array (
     'id' => 39027,
     'name' => 'Rovaniemi',
@@ -2548,7 +2539,7 @@ return array (
     'latitude' => 66.5,
     'longitude' => 25.71667,
   ),
-  283 => 
+  282 => 
   array (
     'id' => 39028,
     'name' => 'Ruokolahti',
@@ -2557,7 +2548,7 @@ return array (
     'latitude' => 61.28333,
     'longitude' => 28.83333,
   ),
-  284 => 
+  283 => 
   array (
     'id' => 39029,
     'name' => 'Ruotsinpyhtää',
@@ -2566,7 +2557,7 @@ return array (
     'latitude' => 60.5268,
     'longitude' => 26.46203,
   ),
-  285 => 
+  284 => 
   array (
     'id' => 39030,
     'name' => 'Rusko',
@@ -2575,7 +2566,7 @@ return array (
     'latitude' => 60.53333,
     'longitude' => 22.21667,
   ),
-  286 => 
+  285 => 
   array (
     'id' => 39031,
     'name' => 'Ruukki',
@@ -2584,7 +2575,7 @@ return array (
     'latitude' => 64.66667,
     'longitude' => 25.1,
   ),
-  287 => 
+  286 => 
   array (
     'id' => 39032,
     'name' => 'Rymättylä',
@@ -2593,7 +2584,7 @@ return array (
     'latitude' => 60.37658,
     'longitude' => 21.94184,
   ),
-  288 => 
+  287 => 
   array (
     'id' => 39033,
     'name' => 'Rääkkylä',
@@ -2602,7 +2593,7 @@ return array (
     'latitude' => 62.31667,
     'longitude' => 29.61667,
   ),
-  289 => 
+  288 => 
   array (
     'id' => 39034,
     'name' => 'Saari',
@@ -2611,7 +2602,7 @@ return array (
     'latitude' => 61.65,
     'longitude' => 29.75,
   ),
-  290 => 
+  289 => 
   array (
     'id' => 39035,
     'name' => 'Saarijärvi',
@@ -2620,7 +2611,7 @@ return array (
     'latitude' => 62.70486,
     'longitude' => 25.25396,
   ),
-  291 => 
+  290 => 
   array (
     'id' => 39036,
     'name' => 'Salla',
@@ -2629,7 +2620,7 @@ return array (
     'latitude' => 66.83333,
     'longitude' => 28.66667,
   ),
-  292 => 
+  291 => 
   array (
     'id' => 39037,
     'name' => 'Salo',
@@ -2638,7 +2629,7 @@ return array (
     'latitude' => 60.38333,
     'longitude' => 23.13333,
   ),
-  293 => 
+  292 => 
   array (
     'id' => 39038,
     'name' => 'Sammatti',
@@ -2647,7 +2638,7 @@ return array (
     'latitude' => 60.31991,
     'longitude' => 23.82085,
   ),
-  294 => 
+  293 => 
   array (
     'id' => 39039,
     'name' => 'Sauvo',
@@ -2656,7 +2647,7 @@ return array (
     'latitude' => 60.34306,
     'longitude' => 22.69642,
   ),
-  295 => 
+  294 => 
   array (
     'id' => 39040,
     'name' => 'Savitaipale',
@@ -2665,7 +2656,7 @@ return array (
     'latitude' => 61.2,
     'longitude' => 27.7,
   ),
-  296 => 
+  295 => 
   array (
     'id' => 39041,
     'name' => 'Savonlinna',
@@ -2674,7 +2665,7 @@ return array (
     'latitude' => 61.8699,
     'longitude' => 28.87999,
   ),
-  297 => 
+  296 => 
   array (
     'id' => 39042,
     'name' => 'Savonranta',
@@ -2683,7 +2674,7 @@ return array (
     'latitude' => 62.18333,
     'longitude' => 29.2,
   ),
-  298 => 
+  297 => 
   array (
     'id' => 39043,
     'name' => 'Savukoski',
@@ -2692,7 +2683,7 @@ return array (
     'latitude' => 67.2925,
     'longitude' => 28.15806,
   ),
-  299 => 
+  298 => 
   array (
     'id' => 39044,
     'name' => 'Seinäjoki',
@@ -2701,7 +2692,7 @@ return array (
     'latitude' => 62.79446,
     'longitude' => 22.82822,
   ),
-  300 => 
+  299 => 
   array (
     'id' => 39045,
     'name' => 'Sibbo',
@@ -2710,7 +2701,7 @@ return array (
     'latitude' => 60.37752,
     'longitude' => 25.26906,
   ),
-  301 => 
+  300 => 
   array (
     'id' => 39046,
     'name' => 'Sievi',
@@ -2719,7 +2710,7 @@ return array (
     'latitude' => 63.9,
     'longitude' => 24.5,
   ),
-  302 => 
+  301 => 
   array (
     'id' => 39047,
     'name' => 'Siikainen',
@@ -2728,7 +2719,7 @@ return array (
     'latitude' => 61.87703,
     'longitude' => 21.81945,
   ),
-  303 => 
+  302 => 
   array (
     'id' => 39048,
     'name' => 'Siikajoki',
@@ -2737,7 +2728,7 @@ return array (
     'latitude' => 64.81455,
     'longitude' => 24.75924,
   ),
-  304 => 
+  303 => 
   array (
     'id' => 39050,
     'name' => 'Simo',
@@ -2746,7 +2737,7 @@ return array (
     'latitude' => 65.66667,
     'longitude' => 25.05,
   ),
-  305 => 
+  304 => 
   array (
     'id' => 39051,
     'name' => 'Siuntio',
@@ -2755,7 +2746,7 @@ return array (
     'latitude' => 60.13862,
     'longitude' => 24.22715,
   ),
-  306 => 
+  305 => 
   array (
     'id' => 39052,
     'name' => 'Sodankylä',
@@ -2764,7 +2755,7 @@ return array (
     'latitude' => 67.41667,
     'longitude' => 26.6,
   ),
-  307 => 
+  306 => 
   array (
     'id' => 39053,
     'name' => 'Soini',
@@ -2773,7 +2764,7 @@ return array (
     'latitude' => 62.86667,
     'longitude' => 24.21667,
   ),
-  308 => 
+  307 => 
   array (
     'id' => 39054,
     'name' => 'Somero',
@@ -2782,7 +2773,7 @@ return array (
     'latitude' => 60.61667,
     'longitude' => 23.53333,
   ),
-  309 => 
+  308 => 
   array (
     'id' => 39056,
     'name' => 'Sotkamo',
@@ -2791,7 +2782,7 @@ return array (
     'latitude' => 64.13333,
     'longitude' => 28.41667,
   ),
-  310 => 
+  309 => 
   array (
     'id' => 39057,
     'name' => 'Sulkava',
@@ -2800,7 +2791,7 @@ return array (
     'latitude' => 61.78691,
     'longitude' => 28.37299,
   ),
-  311 => 
+  310 => 
   array (
     'id' => 39058,
     'name' => 'Sumiainen',
@@ -2809,7 +2800,7 @@ return array (
     'latitude' => 62.65736,
     'longitude' => 26.04642,
   ),
-  312 => 
+  311 => 
   array (
     'id' => 39059,
     'name' => 'Suolahti',
@@ -2818,7 +2809,7 @@ return array (
     'latitude' => 62.56421,
     'longitude' => 25.85363,
   ),
-  313 => 
+  312 => 
   array (
     'id' => 39060,
     'name' => 'Suomusjärvi',
@@ -2827,7 +2818,7 @@ return array (
     'latitude' => 60.35,
     'longitude' => 23.65,
   ),
-  314 => 
+  313 => 
   array (
     'id' => 39061,
     'name' => 'Suomussalmi',
@@ -2836,7 +2827,7 @@ return array (
     'latitude' => 64.88685,
     'longitude' => 28.90778,
   ),
-  315 => 
+  314 => 
   array (
     'id' => 39063,
     'name' => 'Sysmä',
@@ -2845,7 +2836,7 @@ return array (
     'latitude' => 61.5,
     'longitude' => 25.68333,
   ),
-  316 => 
+  315 => 
   array (
     'id' => 39064,
     'name' => 'Säkylä',
@@ -2854,7 +2845,7 @@ return array (
     'latitude' => 61.03333,
     'longitude' => 22.33333,
   ),
-  317 => 
+  316 => 
   array (
     'id' => 39065,
     'name' => 'Särkisalo',
@@ -2863,7 +2854,7 @@ return array (
     'latitude' => 60.11389,
     'longitude' => 22.95,
   ),
-  318 => 
+  317 => 
   array (
     'id' => 39066,
     'name' => 'Säynätsalo',
@@ -2872,7 +2863,7 @@ return array (
     'latitude' => 62.14025,
     'longitude' => 25.76948,
   ),
-  319 => 
+  318 => 
   array (
     'id' => 39067,
     'name' => 'Taipalsaari',
@@ -2881,7 +2872,7 @@ return array (
     'latitude' => 61.15,
     'longitude' => 28.05,
   ),
-  320 => 
+  319 => 
   array (
     'id' => 39068,
     'name' => 'Taivalkoski',
@@ -2890,7 +2881,7 @@ return array (
     'latitude' => 65.56667,
     'longitude' => 28.25,
   ),
-  321 => 
+  320 => 
   array (
     'id' => 39069,
     'name' => 'Taivassalo',
@@ -2899,7 +2890,7 @@ return array (
     'latitude' => 60.56085,
     'longitude' => 21.61639,
   ),
-  322 => 
+  321 => 
   array (
     'id' => 39070,
     'name' => 'Tammela',
@@ -2908,7 +2899,7 @@ return array (
     'latitude' => 60.81035,
     'longitude' => 23.76823,
   ),
-  323 => 
+  322 => 
   array (
     'id' => 39071,
     'name' => 'Tarvasjoki',
@@ -2917,7 +2908,7 @@ return array (
     'latitude' => 60.58333,
     'longitude' => 22.73333,
   ),
-  324 => 
+  323 => 
   array (
     'id' => 39072,
     'name' => 'Teeriniemi',
@@ -2926,7 +2917,7 @@ return array (
     'latitude' => 63.09705,
     'longitude' => 21.6959,
   ),
-  325 => 
+  324 => 
   array (
     'id' => 39073,
     'name' => 'Tervakoski',
@@ -2935,7 +2926,7 @@ return array (
     'latitude' => 60.81412,
     'longitude' => 24.62594,
   ),
-  326 => 
+  325 => 
   array (
     'id' => 39075,
     'name' => 'Tervola',
@@ -2944,7 +2935,7 @@ return array (
     'latitude' => 66.08333,
     'longitude' => 24.8,
   ),
-  327 => 
+  326 => 
   array (
     'id' => 39076,
     'name' => 'Teuva',
@@ -2953,7 +2944,7 @@ return array (
     'latitude' => 62.4819,
     'longitude' => 21.74156,
   ),
-  328 => 
+  327 => 
   array (
     'id' => 39077,
     'name' => 'Tohmajärvi',
@@ -2962,7 +2953,7 @@ return array (
     'latitude' => 62.18333,
     'longitude' => 30.38333,
   ),
-  329 => 
+  328 => 
   array (
     'id' => 39078,
     'name' => 'Toholampi',
@@ -2971,7 +2962,7 @@ return array (
     'latitude' => 63.76667,
     'longitude' => 24.25,
   ),
-  330 => 
+  329 => 
   array (
     'id' => 39079,
     'name' => 'Toivakka',
@@ -2980,7 +2971,7 @@ return array (
     'latitude' => 62.1,
     'longitude' => 26.08333,
   ),
-  331 => 
+  330 => 
   array (
     'id' => 39080,
     'name' => 'Tornio',
@@ -2989,7 +2980,7 @@ return array (
     'latitude' => 65.84811,
     'longitude' => 24.14662,
   ),
-  332 => 
+  331 => 
   array (
     'id' => 39081,
     'name' => 'Turku',
@@ -2998,7 +2989,7 @@ return array (
     'latitude' => 60.45148,
     'longitude' => 22.26869,
   ),
-  333 => 
+  332 => 
   array (
     'id' => 39082,
     'name' => 'Tuulos',
@@ -3007,7 +2998,7 @@ return array (
     'latitude' => 61.15,
     'longitude' => 24.8,
   ),
-  334 => 
+  333 => 
   array (
     'id' => 39083,
     'name' => 'Tuupovaara',
@@ -3016,7 +3007,7 @@ return array (
     'latitude' => 62.48372,
     'longitude' => 30.62731,
   ),
-  335 => 
+  334 => 
   array (
     'id' => 39085,
     'name' => 'Tuusula',
@@ -3025,7 +3016,7 @@ return array (
     'latitude' => 60.40368,
     'longitude' => 25.02638,
   ),
-  336 => 
+  335 => 
   array (
     'id' => 39086,
     'name' => 'Tyrnävä',
@@ -3034,7 +3025,7 @@ return array (
     'latitude' => 64.76469,
     'longitude' => 25.6523,
   ),
-  337 => 
+  336 => 
   array (
     'id' => 39087,
     'name' => 'Töysä',
@@ -3043,7 +3034,7 @@ return array (
     'latitude' => 62.62803,
     'longitude' => 23.81828,
   ),
-  338 => 
+  337 => 
   array (
     'id' => 39088,
     'name' => 'Ullava',
@@ -3052,7 +3043,7 @@ return array (
     'latitude' => 63.6,
     'longitude' => 24.08333,
   ),
-  339 => 
+  338 => 
   array (
     'id' => 39089,
     'name' => 'Ulvila',
@@ -3061,7 +3052,7 @@ return array (
     'latitude' => 61.42844,
     'longitude' => 21.87103,
   ),
-  340 => 
+  339 => 
   array (
     'id' => 39090,
     'name' => 'Utajärvi',
@@ -3070,7 +3061,7 @@ return array (
     'latitude' => 64.75,
     'longitude' => 26.38333,
   ),
-  341 => 
+  340 => 
   array (
     'id' => 39091,
     'name' => 'Utsjoki',
@@ -3079,7 +3070,7 @@ return array (
     'latitude' => 69.90864,
     'longitude' => 27.02843,
   ),
-  342 => 
+  341 => 
   array (
     'id' => 39092,
     'name' => 'Uurainen',
@@ -3088,7 +3079,7 @@ return array (
     'latitude' => 62.5,
     'longitude' => 25.45,
   ),
-  343 => 
+  342 => 
   array (
     'id' => 39093,
     'name' => 'Uusikaupunki',
@@ -3097,7 +3088,7 @@ return array (
     'latitude' => 60.80043,
     'longitude' => 21.40841,
   ),
-  344 => 
+  343 => 
   array (
     'id' => 39094,
     'name' => 'Vaala',
@@ -3106,7 +3097,7 @@ return array (
     'latitude' => 64.56667,
     'longitude' => 26.83333,
   ),
-  345 => 
+  344 => 
   array (
     'id' => 39095,
     'name' => 'Vaasa',
@@ -3115,7 +3106,7 @@ return array (
     'latitude' => 63.096,
     'longitude' => 21.61577,
   ),
-  346 => 
+  345 => 
   array (
     'id' => 39096,
     'name' => 'Vahto',
@@ -3124,7 +3115,7 @@ return array (
     'latitude' => 60.6,
     'longitude' => 22.3,
   ),
-  347 => 
+  346 => 
   array (
     'id' => 39097,
     'name' => 'Valtimo',
@@ -3133,7 +3124,7 @@ return array (
     'latitude' => 63.66667,
     'longitude' => 28.8,
   ),
-  348 => 
+  347 => 
   array (
     'id' => 39098,
     'name' => 'Vampula',
@@ -3142,7 +3133,7 @@ return array (
     'latitude' => 61.01667,
     'longitude' => 22.7,
   ),
-  349 => 
+  348 => 
   array (
     'id' => 39099,
     'name' => 'Vantaa',
@@ -3151,7 +3142,7 @@ return array (
     'latitude' => 60.29414,
     'longitude' => 25.04099,
   ),
-  350 => 
+  349 => 
   array (
     'id' => 39102,
     'name' => 'Vehmaa',
@@ -3160,7 +3151,7 @@ return array (
     'latitude' => 60.68333,
     'longitude' => 21.66667,
   ),
-  351 => 
+  350 => 
   array (
     'id' => 39104,
     'name' => 'Velkua',
@@ -3169,7 +3160,7 @@ return array (
     'latitude' => 60.46667,
     'longitude' => 21.66667,
   ),
-  352 => 
+  351 => 
   array (
     'id' => 39106,
     'name' => 'Veteli',
@@ -3178,7 +3169,7 @@ return array (
     'latitude' => 63.47839,
     'longitude' => 23.78285,
   ),
-  353 => 
+  352 => 
   array (
     'id' => 39108,
     'name' => 'Vihanti',
@@ -3187,7 +3178,7 @@ return array (
     'latitude' => 64.48472,
     'longitude' => 24.99157,
   ),
-  354 => 
+  353 => 
   array (
     'id' => 39109,
     'name' => 'Vihti',
@@ -3196,7 +3187,7 @@ return array (
     'latitude' => 60.41699,
     'longitude' => 24.31965,
   ),
-  355 => 
+  354 => 
   array (
     'id' => 39110,
     'name' => 'Viitasaari',
@@ -3205,7 +3196,7 @@ return array (
     'latitude' => 63.06667,
     'longitude' => 25.86667,
   ),
-  356 => 
+  355 => 
   array (
     'id' => 39111,
     'name' => 'Vimpeli',
@@ -3214,7 +3205,7 @@ return array (
     'latitude' => 63.16187,
     'longitude' => 23.81922,
   ),
-  357 => 
+  356 => 
   array (
     'id' => 39112,
     'name' => 'Virojoki',
@@ -3223,7 +3214,7 @@ return array (
     'latitude' => 60.5794,
     'longitude' => 27.70354,
   ),
-  358 => 
+  357 => 
   array (
     'id' => 39113,
     'name' => 'Virtasalmi',
@@ -3232,7 +3223,7 @@ return array (
     'latitude' => 62.12695,
     'longitude' => 27.46276,
   ),
-  359 => 
+  358 => 
   array (
     'id' => 39114,
     'name' => 'Vuokatti',
@@ -3241,7 +3232,7 @@ return array (
     'latitude' => 64.14466,
     'longitude' => 28.28196,
   ),
-  360 => 
+  359 => 
   array (
     'id' => 39115,
     'name' => 'Vuolijoki',
@@ -3250,7 +3241,7 @@ return array (
     'latitude' => 64.18538,
     'longitude' => 26.99547,
   ),
-  361 => 
+  360 => 
   array (
     'id' => 39116,
     'name' => 'Vuosaari',
@@ -3259,7 +3250,7 @@ return array (
     'latitude' => 60.20963,
     'longitude' => 25.14195,
   ),
-  362 => 
+  361 => 
   array (
     'id' => 39117,
     'name' => 'Vähäkyrö',
@@ -3268,7 +3259,7 @@ return array (
     'latitude' => 63.05635,
     'longitude' => 22.10584,
   ),
-  363 => 
+  362 => 
   array (
     'id' => 39118,
     'name' => 'Västanfjärd',
@@ -3277,7 +3268,7 @@ return array (
     'latitude' => 60.05,
     'longitude' => 22.68333,
   ),
-  364 => 
+  363 => 
   array (
     'id' => 39119,
     'name' => 'Väståboland',
@@ -3286,7 +3277,7 @@ return array (
     'latitude' => 60.29972,
     'longitude' => 22.3004,
   ),
-  365 => 
+  364 => 
   array (
     'id' => 39120,
     'name' => 'Vörå',
@@ -3295,7 +3286,7 @@ return array (
     'latitude' => 63.13607,
     'longitude' => 22.25223,
   ),
-  366 => 
+  365 => 
   array (
     'id' => 39121,
     'name' => 'Yli-Ii',
@@ -3304,7 +3295,7 @@ return array (
     'latitude' => 65.37181,
     'longitude' => 25.8458,
   ),
-  367 => 
+  366 => 
   array (
     'id' => 39122,
     'name' => 'Ylihärmä',
@@ -3313,7 +3304,7 @@ return array (
     'latitude' => 63.15,
     'longitude' => 22.78333,
   ),
-  368 => 
+  367 => 
   array (
     'id' => 39123,
     'name' => 'Ylikiiminki',
@@ -3322,7 +3313,7 @@ return array (
     'latitude' => 65.08333,
     'longitude' => 26.25,
   ),
-  369 => 
+  368 => 
   array (
     'id' => 39124,
     'name' => 'Ylistaro',
@@ -3331,7 +3322,7 @@ return array (
     'latitude' => 62.93958,
     'longitude' => 22.51306,
   ),
-  370 => 
+  369 => 
   array (
     'id' => 39125,
     'name' => 'Ylitornio',
@@ -3340,7 +3331,7 @@ return array (
     'latitude' => 66.30893,
     'longitude' => 23.67734,
   ),
-  371 => 
+  370 => 
   array (
     'id' => 39126,
     'name' => 'Ylivieska',
@@ -3349,7 +3340,7 @@ return array (
     'latitude' => 64.08333,
     'longitude' => 24.55,
   ),
-  372 => 
+  371 => 
   array (
     'id' => 39127,
     'name' => 'Ylämaa',
@@ -3358,7 +3349,7 @@ return array (
     'latitude' => 60.8,
     'longitude' => 28.0,
   ),
-  373 => 
+  372 => 
   array (
     'id' => 39128,
     'name' => 'Yläne',
@@ -3367,7 +3358,7 @@ return array (
     'latitude' => 60.88333,
     'longitude' => 22.41667,
   ),
-  374 => 
+  373 => 
   array (
     'id' => 39129,
     'name' => 'Ypäjä',
@@ -3376,7 +3367,7 @@ return array (
     'latitude' => 60.8,
     'longitude' => 23.28333,
   ),
-  375 => 
+  374 => 
   array (
     'id' => 39130,
     'name' => 'Ähtäri',
@@ -3385,7 +3376,7 @@ return array (
     'latitude' => 62.55403,
     'longitude' => 24.06186,
   ),
-  376 => 
+  375 => 
   array (
     'id' => 39132,
     'name' => 'Äänekoski',
@@ -3394,7 +3385,7 @@ return array (
     'latitude' => 62.6,
     'longitude' => 25.73333,
   ),
-  377 => 
+  376 => 
   array (
     'id' => 153290,
     'name' => 'Aimala',
@@ -3403,7 +3394,7 @@ return array (
     'latitude' => 61.33,
     'longitude' => 23.69,
   ),
-  378 => 
+  377 => 
   array (
     'id' => 153291,
     'name' => 'Aitoo',
@@ -3412,7 +3403,7 @@ return array (
     'latitude' => 61.338974,
     'longitude' => 24.494319,
   ),
-  379 => 
+  378 => 
   array (
     'id' => 153292,
     'name' => 'Akaa',
@@ -3421,7 +3412,7 @@ return array (
     'latitude' => 61.16666667,
     'longitude' => 23.86805556,
   ),
-  380 => 
+  379 => 
   array (
     'id' => 153293,
     'name' => 'Amuri',
@@ -3430,7 +3421,7 @@ return array (
     'latitude' => 61.5,
     'longitude' => 23.745,
   ),
-  381 => 
+  380 => 
   array (
     'id' => 153294,
     'name' => 'Haihara',
@@ -3439,7 +3430,7 @@ return array (
     'latitude' => 61.4763,
     'longitude' => 23.87711,
   ),
-  382 => 
+  381 => 
   array (
     'id' => 153295,
     'name' => 'Hallila',
@@ -3448,7 +3439,7 @@ return array (
     'latitude' => 61.4625,
     'longitude' => 23.82916667,
   ),
-  383 => 
+  382 => 
   array (
     'id' => 153296,
     'name' => 'Hervanta',
@@ -3457,7 +3448,7 @@ return array (
     'latitude' => 61.4481,
     'longitude' => 23.8521,
   ),
-  384 => 
+  383 => 
   array (
     'id' => 153297,
     'name' => 'Hämeenkyrö',
@@ -3466,7 +3457,7 @@ return array (
     'latitude' => 61.63333333,
     'longitude' => 23.2,
   ),
-  385 => 
+  384 => 
   array (
     'id' => 153298,
     'name' => 'Ikaalinen',
@@ -3475,7 +3466,7 @@ return array (
     'latitude' => 61.76944444,
     'longitude' => 23.06805556,
   ),
-  386 => 
+  385 => 
   array (
     'id' => 153299,
     'name' => 'Juupajoki',
@@ -3484,7 +3475,7 @@ return array (
     'latitude' => 61.79666667,
     'longitude' => 24.37,
   ),
-  387 => 
+  386 => 
   array (
     'id' => 153300,
     'name' => 'Kangasala',
@@ -3493,7 +3484,7 @@ return array (
     'latitude' => 61.463889,
     'longitude' => 24.065,
   ),
-  388 => 
+  387 => 
   array (
     'id' => 153301,
     'name' => 'Kihniö',
@@ -3502,7 +3493,7 @@ return array (
     'latitude' => 62.20833333,
     'longitude' => 23.17916667,
   ),
-  389 => 
+  388 => 
   array (
     'id' => 153302,
     'name' => 'Kiikka',
@@ -3511,7 +3502,7 @@ return array (
     'latitude' => 61.32077778,
     'longitude' => 22.77538889,
   ),
-  390 => 
+  389 => 
   array (
     'id' => 153303,
     'name' => 'Kiikoinen',
@@ -3520,7 +3511,7 @@ return array (
     'latitude' => 61.45,
     'longitude' => 22.575,
   ),
-  391 => 
+  390 => 
   array (
     'id' => 153304,
     'name' => 'Kolho',
@@ -3529,7 +3520,7 @@ return array (
     'latitude' => 62.13333333,
     'longitude' => 24.51666667,
   ),
-  392 => 
+  391 => 
   array (
     'id' => 153305,
     'name' => 'Kuhmalahti',
@@ -3538,7 +3529,7 @@ return array (
     'latitude' => 61.505,
     'longitude' => 24.56666667,
   ),
-  393 => 
+  392 => 
   array (
     'id' => 153306,
     'name' => 'Kuru',
@@ -3547,7 +3538,7 @@ return array (
     'latitude' => 61.87558,
     'longitude' => 23.71948,
   ),
-  394 => 
+  393 => 
   array (
     'id' => 153307,
     'name' => 'Kylmäkoski',
@@ -3556,7 +3547,7 @@ return array (
     'latitude' => 61.15,
     'longitude' => 23.69166667,
   ),
-  395 => 
+  394 => 
   array (
     'id' => 153308,
     'name' => 'Lempäälä',
@@ -3565,7 +3556,7 @@ return array (
     'latitude' => 61.31388889,
     'longitude' => 23.75277778,
   ),
-  396 => 
+  395 => 
   array (
     'id' => 153309,
     'name' => 'Lentävänniemi',
@@ -3574,7 +3565,7 @@ return array (
     'latitude' => 61.52801,
     'longitude' => 23.70575,
   ),
-  397 => 
+  396 => 
   array (
     'id' => 153310,
     'name' => 'Lielahti',
@@ -3583,7 +3574,7 @@ return array (
     'latitude' => 61.51666667,
     'longitude' => 23.66666667,
   ),
-  398 => 
+  397 => 
   array (
     'id' => 153311,
     'name' => 'Luopioinen',
@@ -3592,16 +3583,7 @@ return array (
     'latitude' => 61.36293,
     'longitude' => 24.66781,
   ),
-  399 => 
-  array (
-    'id' => 153312,
-    'name' => 'Längelmäki',
-    'country_id' => 74,
-    'country_code' => 'FI',
-    'latitude' => 61.6889,
-    'longitude' => 24.69194,
-  ),
-  400 => 
+  398 => 
   array (
     'id' => 153313,
     'name' => 'Messukylä',
@@ -3610,7 +3592,7 @@ return array (
     'latitude' => 61.48527778,
     'longitude' => 23.84472222,
   ),
-  401 => 
+  399 => 
   array (
     'id' => 153314,
     'name' => 'Mouhijärvi',
@@ -3619,7 +3601,7 @@ return array (
     'latitude' => 61.5,
     'longitude' => 23.01667,
   ),
-  402 => 
+  400 => 
   array (
     'id' => 153315,
     'name' => 'Mänttä',
@@ -3628,7 +3610,7 @@ return array (
     'latitude' => 62.03014,
     'longitude' => 24.62791,
   ),
-  403 => 
+  401 => 
   array (
     'id' => 153316,
     'name' => 'Naistenmatka',
@@ -3637,7 +3619,7 @@ return array (
     'latitude' => 61.46518,
     'longitude' => 23.65253,
   ),
-  404 => 
+  402 => 
   array (
     'id' => 153317,
     'name' => 'Nekala',
@@ -3646,7 +3628,7 @@ return array (
     'latitude' => 61.48333333,
     'longitude' => 23.79055556,
   ),
-  405 => 
+  403 => 
   array (
     'id' => 153318,
     'name' => 'Nokia',
@@ -3655,7 +3637,7 @@ return array (
     'latitude' => 61.47666667,
     'longitude' => 23.50527778,
   ),
-  406 => 
+  404 => 
   array (
     'id' => 153319,
     'name' => 'Nurmi',
@@ -3664,7 +3646,7 @@ return array (
     'latitude' => 61.53779,
     'longitude' => 23.94178,
   ),
-  407 => 
+  405 => 
   array (
     'id' => 153320,
     'name' => 'Nuutajärvi',
@@ -3673,7 +3655,7 @@ return array (
     'latitude' => 61.04,
     'longitude' => 23.43,
   ),
-  408 => 
+  406 => 
   array (
     'id' => 153321,
     'name' => 'Orivesi',
@@ -3682,7 +3664,7 @@ return array (
     'latitude' => 61.67777778,
     'longitude' => 24.35694444,
   ),
-  409 => 
+  407 => 
   array (
     'id' => 153322,
     'name' => 'Osara',
@@ -3691,7 +3673,7 @@ return array (
     'latitude' => 61.70866,
     'longitude' => 23.15871,
   ),
-  410 => 
+  408 => 
   array (
     'id' => 153323,
     'name' => 'Parkano',
@@ -3700,7 +3682,7 @@ return array (
     'latitude' => 62.00972222,
     'longitude' => 23.025,
   ),
-  411 => 
+  409 => 
   array (
     'id' => 153324,
     'name' => 'Pirkkala',
@@ -3709,7 +3691,7 @@ return array (
     'latitude' => 61.46666667,
     'longitude' => 23.65,
   ),
-  412 => 
+  410 => 
   array (
     'id' => 153325,
     'name' => 'Pispala',
@@ -3718,7 +3700,7 @@ return array (
     'latitude' => 61.50611111,
     'longitude' => 23.7025,
   ),
-  413 => 
+  411 => 
   array (
     'id' => 153326,
     'name' => 'Pohjaslahti',
@@ -3727,7 +3709,7 @@ return array (
     'latitude' => 62.15631,
     'longitude' => 24.1319,
   ),
-  414 => 
+  412 => 
   array (
     'id' => 153327,
     'name' => 'Punkalaidun',
@@ -3736,7 +3718,7 @@ return array (
     'latitude' => 61.11166667,
     'longitude' => 23.105,
   ),
-  415 => 
+  413 => 
   array (
     'id' => 153328,
     'name' => 'Pälkäne',
@@ -3745,7 +3727,7 @@ return array (
     'latitude' => 61.35403,
     'longitude' => 24.51912,
   ),
-  416 => 
+  414 => 
   array (
     'id' => 153329,
     'name' => 'Ruovesi',
@@ -3754,7 +3736,7 @@ return array (
     'latitude' => 61.983333,
     'longitude' => 24.083333,
   ),
-  417 => 
+  415 => 
   array (
     'id' => 153330,
     'name' => 'Sahalahti',
@@ -3763,7 +3745,7 @@ return array (
     'latitude' => 61.46666667,
     'longitude' => 24.31666667,
   ),
-  418 => 
+  416 => 
   array (
     'id' => 153331,
     'name' => 'Sastamala',
@@ -3772,7 +3754,7 @@ return array (
     'latitude' => 61.34166667,
     'longitude' => 22.90833333,
   ),
-  419 => 
+  417 => 
   array (
     'id' => 153332,
     'name' => 'Suodenniemi',
@@ -3781,7 +3763,7 @@ return array (
     'latitude' => 61.5581,
     'longitude' => 22.78526,
   ),
-  420 => 
+  418 => 
   array (
     'id' => 153333,
     'name' => 'Suoniemi',
@@ -3790,7 +3772,7 @@ return array (
     'latitude' => 61.44111111,
     'longitude' => 23.215,
   ),
-  421 => 
+  419 => 
   array (
     'id' => 153334,
     'name' => 'Sääksmäki',
@@ -3799,7 +3781,7 @@ return array (
     'latitude' => 61.2,
     'longitude' => 24.06666667,
   ),
-  422 => 
+  420 => 
   array (
     'id' => 153335,
     'name' => 'Tampere',
@@ -3808,7 +3790,7 @@ return array (
     'latitude' => 61.49805556,
     'longitude' => 23.76,
   ),
-  423 => 
+  421 => 
   array (
     'id' => 153336,
     'name' => 'Teisko',
@@ -3817,7 +3799,7 @@ return array (
     'latitude' => 61.67336111,
     'longitude' => 23.84766944,
   ),
-  424 => 
+  422 => 
   array (
     'id' => 153337,
     'name' => 'Toijala',
@@ -3826,7 +3808,7 @@ return array (
     'latitude' => 61.1678,
     'longitude' => 23.83819,
   ),
-  425 => 
+  423 => 
   array (
     'id' => 153338,
     'name' => 'Tottijärvi',
@@ -3835,7 +3817,7 @@ return array (
     'latitude' => 61.39777778,
     'longitude' => 23.34277778,
   ),
-  426 => 
+  424 => 
   array (
     'id' => 153339,
     'name' => 'Urjala',
@@ -3844,7 +3826,7 @@ return array (
     'latitude' => 61.08333333,
     'longitude' => 23.55,
   ),
-  427 => 
+  425 => 
   array (
     'id' => 153340,
     'name' => 'Valkeakoski',
@@ -3853,7 +3835,7 @@ return array (
     'latitude' => 61.26666667,
     'longitude' => 24.03055556,
   ),
-  428 => 
+  426 => 
   array (
     'id' => 153341,
     'name' => 'Vammala',
@@ -3862,7 +3844,7 @@ return array (
     'latitude' => 61.34027778,
     'longitude' => 22.90972222,
   ),
-  429 => 
+  427 => 
   array (
     'id' => 153342,
     'name' => 'Vesilahti',
@@ -3871,7 +3853,7 @@ return array (
     'latitude' => 61.316667,
     'longitude' => 23.616667,
   ),
-  430 => 
+  428 => 
   array (
     'id' => 153343,
     'name' => 'Viiala',
@@ -3880,7 +3862,7 @@ return array (
     'latitude' => 61.21023,
     'longitude' => 23.76738,
   ),
-  431 => 
+  429 => 
   array (
     'id' => 153344,
     'name' => 'Viljakkala',
@@ -3889,7 +3871,7 @@ return array (
     'latitude' => 61.70601,
     'longitude' => 23.26688,
   ),
-  432 => 
+  430 => 
   array (
     'id' => 153345,
     'name' => 'Vilppula',
@@ -3898,7 +3880,7 @@ return array (
     'latitude' => 62.02121,
     'longitude' => 24.50483,
   ),
-  433 => 
+  431 => 
   array (
     'id' => 153346,
     'name' => 'Virrat',
@@ -3907,7 +3889,7 @@ return array (
     'latitude' => 62.24027778,
     'longitude' => 23.77083333,
   ),
-  434 => 
+  432 => 
   array (
     'id' => 153347,
     'name' => 'Vuores',
@@ -3916,7 +3898,7 @@ return array (
     'latitude' => 61.431,
     'longitude' => 23.81184,
   ),
-  435 => 
+  433 => 
   array (
     'id' => 153348,
     'name' => 'Ylöjärvi',
@@ -3925,7 +3907,7 @@ return array (
     'latitude' => 61.55,
     'longitude' => 23.58333333,
   ),
-  436 => 
+  434 => 
   array (
     'id' => 153349,
     'name' => 'Äetsä',
@@ -3934,7 +3916,7 @@ return array (
     'latitude' => 61.28333,
     'longitude' => 22.68333,
   ),
-  437 => 
+  435 => 
   array (
     'id' => 153529,
     'name' => 'Mariehamn',
@@ -3943,7 +3925,7 @@ return array (
     'latitude' => 60.1026,
     'longitude' => 19.9348,
   ),
-  438 => 
+  436 => 
   array (
     'id' => 153530,
     'name' => 'Jomala',
@@ -3952,7 +3934,7 @@ return array (
     'latitude' => 60.1181,
     'longitude' => 19.8989,
   ),
-  439 => 
+  437 => 
   array (
     'id' => 153531,
     'name' => 'Finström',
@@ -3961,7 +3943,7 @@ return array (
     'latitude' => 60.2342,
     'longitude' => 20.1139,
   ),
-  440 => 
+  438 => 
   array (
     'id' => 153532,
     'name' => 'Lemland',
@@ -3970,7 +3952,7 @@ return array (
     'latitude' => 60.0925,
     'longitude' => 20.1544,
   ),
-  441 => 
+  439 => 
   array (
     'id' => 153533,
     'name' => 'Saltvik',
@@ -3979,7 +3961,7 @@ return array (
     'latitude' => 60.3575,
     'longitude' => 20.1547,
   ),
-  442 => 
+  440 => 
   array (
     'id' => 153534,
     'name' => 'Sund',
@@ -3988,7 +3970,7 @@ return array (
     'latitude' => 60.2361,
     'longitude' => 20.2156,
   ),
-  443 => 
+  441 => 
   array (
     'id' => 153535,
     'name' => 'Hammarland',
@@ -3997,7 +3979,7 @@ return array (
     'latitude' => 60.2447,
     'longitude' => 19.6892,
   ),
-  444 => 
+  442 => 
   array (
     'id' => 153536,
     'name' => 'Eckerö',
@@ -4006,7 +3988,7 @@ return array (
     'latitude' => 60.2208,
     'longitude' => 19.5589,
   ),
-  445 => 
+  443 => 
   array (
     'id' => 153537,
     'name' => 'Föglö',
@@ -4015,7 +3997,7 @@ return array (
     'latitude' => 60.0989,
     'longitude' => 20.3728,
   ),
-  446 => 
+  444 => 
   array (
     'id' => 153538,
     'name' => 'Geta',
@@ -4024,7 +4006,7 @@ return array (
     'latitude' => 60.4183,
     'longitude' => 19.7167,
   ),
-  447 => 
+  445 => 
   array (
     'id' => 153539,
     'name' => 'Brändö',
@@ -4033,7 +4015,7 @@ return array (
     'latitude' => 60.4075,
     'longitude' => 21.0786,
   ),
-  448 => 
+  446 => 
   array (
     'id' => 153540,
     'name' => 'Kumlinge',

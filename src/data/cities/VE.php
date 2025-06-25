@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -1047,15 +1047,6 @@ return array (
   ),
   116 => 
   array (
-    'id' => 130154,
-    'name' => 'Santa Rita',
-    'country_id' => 239,
-    'country_code' => 'VE',
-    'latitude' => 10.53642,
-    'longitude' => -71.51104,
-  ),
-  117 => 
-  array (
     'id' => 130155,
     'name' => 'Santa Teresa del Tuy',
     'country_id' => 239,
@@ -1063,7 +1054,7 @@ return array (
     'latitude' => 10.23291,
     'longitude' => -66.66474,
   ),
-  118 => 
+  117 => 
   array (
     'id' => 130156,
     'name' => 'Tacarigua',
@@ -1072,7 +1063,7 @@ return array (
     'latitude' => 10.08621,
     'longitude' => -67.91982,
   ),
-  119 => 
+  118 => 
   array (
     'id' => 130157,
     'name' => 'Tinaquillo',
@@ -1081,7 +1072,7 @@ return array (
     'latitude' => 9.91861,
     'longitude' => -68.30472,
   ),
-  120 => 
+  119 => 
   array (
     'id' => 130158,
     'name' => 'Tocuyito',
@@ -1090,7 +1081,7 @@ return array (
     'latitude' => 10.11347,
     'longitude' => -68.06783,
   ),
-  121 => 
+  120 => 
   array (
     'id' => 130159,
     'name' => 'Trujillo',
@@ -1099,7 +1090,7 @@ return array (
     'latitude' => 9.36583,
     'longitude' => -70.43694,
   ),
-  122 => 
+  121 => 
   array (
     'id' => 130160,
     'name' => 'Tucacas',
@@ -1108,7 +1099,7 @@ return array (
     'latitude' => 10.79006,
     'longitude' => -68.32564,
   ),
-  123 => 
+  122 => 
   array (
     'id' => 130161,
     'name' => 'Tucupita',
@@ -1117,7 +1108,7 @@ return array (
     'latitude' => 9.05806,
     'longitude' => -62.05,
   ),
-  124 => 
+  123 => 
   array (
     'id' => 130162,
     'name' => 'Turmero',
@@ -1126,7 +1117,7 @@ return array (
     'latitude' => 10.22856,
     'longitude' => -67.47421,
   ),
-  125 => 
+  124 => 
   array (
     'id' => 130163,
     'name' => 'Táriba',
@@ -1135,7 +1126,7 @@ return array (
     'latitude' => 7.8188,
     'longitude' => -72.22427,
   ),
-  126 => 
+  125 => 
   array (
     'id' => 130164,
     'name' => 'Upata',
@@ -1144,7 +1135,7 @@ return array (
     'latitude' => 8.0162,
     'longitude' => -62.40561,
   ),
-  127 => 
+  126 => 
   array (
     'id' => 130165,
     'name' => 'Valencia',
@@ -1153,7 +1144,7 @@ return array (
     'latitude' => 10.16202,
     'longitude' => -68.00765,
   ),
-  128 => 
+  127 => 
   array (
     'id' => 130166,
     'name' => 'Valera',
@@ -1162,7 +1153,7 @@ return array (
     'latitude' => 9.31778,
     'longitude' => -70.60361,
   ),
-  129 => 
+  128 => 
   array (
     'id' => 130167,
     'name' => 'Valle de La Pascua',
@@ -1171,7 +1162,7 @@ return array (
     'latitude' => 9.21554,
     'longitude' => -66.00734,
   ),
-  130 => 
+  129 => 
   array (
     'id' => 130168,
     'name' => 'Villa Bruzual',
@@ -1180,7 +1171,7 @@ return array (
     'latitude' => 9.33186,
     'longitude' => -69.11968,
   ),
-  131 => 
+  130 => 
   array (
     'id' => 130169,
     'name' => 'Villa de Cura',
@@ -1189,7 +1180,7 @@ return array (
     'latitude' => 10.03863,
     'longitude' => -67.48938,
   ),
-  132 => 
+  131 => 
   array (
     'id' => 130170,
     'name' => 'Yaritagua',
@@ -1198,7 +1189,7 @@ return array (
     'latitude' => 10.08081,
     'longitude' => -69.1242,
   ),
-  133 => 
+  132 => 
   array (
     'id' => 130171,
     'name' => 'Zaraza',
@@ -1207,7 +1198,7 @@ return array (
     'latitude' => 9.35029,
     'longitude' => -65.32452,
   ),
-  134 => 
+  133 => 
   array (
     'id' => 149261,
     'name' => 'Caracas',
@@ -1216,7 +1207,7 @@ return array (
     'latitude' => 10.5,
     'longitude' => -66.93333333,
   ),
-  135 => 
+  134 => 
   array (
     'id' => 153351,
     'name' => 'San Fernando de Apure',

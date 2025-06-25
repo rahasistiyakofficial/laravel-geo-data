@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -2079,14 +2079,5 @@ return array (
     'country_code' => 'BA',
     'latitude' => 44.44929,
     'longitude' => 18.64978,
-  ),
-  231 => 
-  array (
-    'id' => 8446,
-    'name' => 'Živinice',
-    'country_id' => 28,
-    'country_code' => 'BA',
-    'latitude' => 44.54765,
-    'longitude' => 17.37357,
   ),
 );

@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -30,15 +30,6 @@ return array (
   ),
   3 => 
   array (
-    'id' => 3905,
-    'name' => 'Abbotsford',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.84889,
-    'longitude' => 151.12801,
-  ),
-  4 => 
-  array (
     'id' => 3906,
     'name' => 'Abercrombie',
     'country_id' => 14,
@@ -46,7 +37,7 @@ return array (
     'latitude' => -33.38867,
     'longitude' => 149.5458,
   ),
-  5 => 
+  4 => 
   array (
     'id' => 3907,
     'name' => 'Aberdare',
@@ -55,7 +46,7 @@ return array (
     'latitude' => -32.84112,
     'longitude' => 151.38168,
   ),
-  6 => 
+  5 => 
   array (
     'id' => 3908,
     'name' => 'Aberdeen',
@@ -64,7 +55,7 @@ return array (
     'latitude' => -32.16588,
     'longitude' => 150.89003,
   ),
-  7 => 
+  6 => 
   array (
     'id' => 3909,
     'name' => 'Aberfeldie',
@@ -73,7 +64,7 @@ return array (
     'latitude' => -37.75959,
     'longitude' => 144.8974,
   ),
-  8 => 
+  7 => 
   array (
     'id' => 3910,
     'name' => 'Aberfoyle Park',
@@ -82,7 +73,7 @@ return array (
     'latitude' => -35.0768,
     'longitude' => 138.59163,
   ),
-  9 => 
+  8 => 
   array (
     'id' => 3911,
     'name' => 'Aberglasslyn',
@@ -91,7 +82,7 @@ return array (
     'latitude' => -32.7,
     'longitude' => 151.53333,
   ),
-  10 => 
+  9 => 
   array (
     'id' => 3912,
     'name' => 'Abermain',
@@ -100,7 +91,7 @@ return array (
     'latitude' => -32.8074,
     'longitude' => 151.4275,
   ),
-  11 => 
+  10 => 
   array (
     'id' => 3913,
     'name' => 'Acacia Gardens',
@@ -109,7 +100,7 @@ return array (
     'latitude' => -33.73159,
     'longitude' => 150.91636,
   ),
-  12 => 
+  11 => 
   array (
     'id' => 3914,
     'name' => 'Acacia Ridge',
@@ -118,7 +109,7 @@ return array (
     'latitude' => -27.58333,
     'longitude' => 153.03333,
   ),
-  13 => 
+  12 => 
   array (
     'id' => 3915,
     'name' => 'Acton',
@@ -127,7 +118,7 @@ return array (
     'latitude' => -35.27767,
     'longitude' => 149.11829,
   ),
-  14 => 
+  13 => 
   array (
     'id' => 3916,
     'name' => 'Acton Park',
@@ -136,7 +127,7 @@ return array (
     'latitude' => -42.87932,
     'longitude' => 147.48459,
   ),
-  15 => 
+  14 => 
   array (
     'id' => 3917,
     'name' => 'Adamstown',
@@ -145,7 +136,7 @@ return array (
     'latitude' => -32.93824,
     'longitude' => 151.72541,
   ),
-  16 => 
+  15 => 
   array (
     'id' => 3918,
     'name' => 'Adamstown Heights',
@@ -154,7 +145,7 @@ return array (
     'latitude' => -32.94906,
     'longitude' => 151.71009,
   ),
-  17 => 
+  16 => 
   array (
     'id' => 3919,
     'name' => 'Adelaide',
@@ -163,7 +154,7 @@ return array (
     'latitude' => -34.92866,
     'longitude' => 138.59863,
   ),
-  18 => 
+  17 => 
   array (
     'id' => 3920,
     'name' => 'Adelaide Hills',
@@ -172,7 +163,7 @@ return array (
     'latitude' => -34.90103,
     'longitude' => 138.85457,
   ),
-  19 => 
+  18 => 
   array (
     'id' => 3921,
     'name' => 'Adelaide city centre',
@@ -181,7 +172,7 @@ return array (
     'latitude' => -34.92873,
     'longitude' => 138.60334,
   ),
-  20 => 
+  19 => 
   array (
     'id' => 3922,
     'name' => 'Agnes Water',
@@ -190,7 +181,7 @@ return array (
     'latitude' => -24.2119,
     'longitude' => 151.9035,
   ),
-  21 => 
+  20 => 
   array (
     'id' => 3923,
     'name' => 'Ainslie',
@@ -199,7 +190,7 @@ return array (
     'latitude' => -35.26255,
     'longitude' => 149.1437,
   ),
-  22 => 
+  21 => 
   array (
     'id' => 3924,
     'name' => 'Airds',
@@ -208,7 +199,7 @@ return array (
     'latitude' => -34.08599,
     'longitude' => 150.83322,
   ),
-  23 => 
+  22 => 
   array (
     'id' => 3925,
     'name' => 'Airlie Beach',
@@ -217,7 +208,7 @@ return array (
     'latitude' => -20.26751,
     'longitude' => 148.71471,
   ),
-  24 => 
+  23 => 
   array (
     'id' => 3926,
     'name' => 'Airport West',
@@ -226,7 +217,7 @@ return array (
     'latitude' => -37.7247,
     'longitude' => 144.88126,
   ),
-  25 => 
+  24 => 
   array (
     'id' => 3927,
     'name' => 'Aitkenvale',
@@ -235,7 +226,7 @@ return array (
     'latitude' => -19.30142,
     'longitude' => 146.77082,
   ),
-  26 => 
+  25 => 
   array (
     'id' => 3928,
     'name' => 'Alawa',
@@ -244,7 +235,7 @@ return array (
     'latitude' => -12.37954,
     'longitude' => 130.8732,
   ),
-  27 => 
+  26 => 
   array (
     'id' => 3929,
     'name' => 'Albanvale',
@@ -253,7 +244,7 @@ return array (
     'latitude' => -37.74609,
     'longitude' => 144.76856,
   ),
-  28 => 
+  27 => 
   array (
     'id' => 3930,
     'name' => 'Albany',
@@ -262,7 +253,7 @@ return array (
     'latitude' => -34.7099,
     'longitude' => 118.12345,
   ),
-  29 => 
+  28 => 
   array (
     'id' => 3931,
     'name' => 'Albany Creek',
@@ -271,7 +262,7 @@ return array (
     'latitude' => -27.35364,
     'longitude' => 152.96848,
   ),
-  30 => 
+  29 => 
   array (
     'id' => 3932,
     'name' => 'Albany city centre',
@@ -280,7 +271,7 @@ return array (
     'latitude' => -35.02479,
     'longitude' => 117.88472,
   ),
-  31 => 
+  30 => 
   array (
     'id' => 3933,
     'name' => 'Albert Park',
@@ -289,16 +280,7 @@ return array (
     'latitude' => -34.87201,
     'longitude' => 138.51966,
   ),
-  32 => 
-  array (
-    'id' => 3934,
-    'name' => 'Albert Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.84107,
-    'longitude' => 144.95198,
-  ),
-  33 => 
+  31 => 
   array (
     'id' => 3935,
     'name' => 'Alberton',
@@ -307,7 +289,7 @@ return array (
     'latitude' => -34.85925,
     'longitude' => 138.52138,
   ),
-  34 => 
+  32 => 
   array (
     'id' => 3936,
     'name' => 'Albion',
@@ -316,7 +298,7 @@ return array (
     'latitude' => -37.78017,
     'longitude' => 144.81724,
   ),
-  35 => 
+  33 => 
   array (
     'id' => 3937,
     'name' => 'Albion Park',
@@ -325,7 +307,7 @@ return array (
     'latitude' => -34.57132,
     'longitude' => 150.77568,
   ),
-  36 => 
+  34 => 
   array (
     'id' => 3938,
     'name' => 'Albion Park Rail',
@@ -334,7 +316,7 @@ return array (
     'latitude' => -34.56634,
     'longitude' => 150.79177,
   ),
-  37 => 
+  35 => 
   array (
     'id' => 3939,
     'name' => 'Albury',
@@ -343,7 +325,7 @@ return array (
     'latitude' => -36.07482,
     'longitude' => 146.92401,
   ),
-  38 => 
+  36 => 
   array (
     'id' => 3940,
     'name' => 'Albury Municipality',
@@ -352,7 +334,7 @@ return array (
     'latitude' => -36.01494,
     'longitude' => 146.95684,
   ),
-  39 => 
+  37 => 
   array (
     'id' => 3941,
     'name' => 'Aldavilla',
@@ -361,7 +343,7 @@ return array (
     'latitude' => -31.0818,
     'longitude' => 152.7679,
   ),
-  40 => 
+  38 => 
   array (
     'id' => 3942,
     'name' => 'Alderley',
@@ -370,7 +352,7 @@ return array (
     'latitude' => -27.42553,
     'longitude' => 153.00102,
   ),
-  41 => 
+  39 => 
   array (
     'id' => 3943,
     'name' => 'Aldershot',
@@ -379,7 +361,7 @@ return array (
     'latitude' => -25.46312,
     'longitude' => 152.66348,
   ),
-  42 => 
+  40 => 
   array (
     'id' => 3944,
     'name' => 'Aldgate',
@@ -388,7 +370,7 @@ return array (
     'latitude' => -35.01667,
     'longitude' => 138.73333,
   ),
-  43 => 
+  41 => 
   array (
     'id' => 3945,
     'name' => 'Aldinga Beach',
@@ -397,7 +379,7 @@ return array (
     'latitude' => -35.27826,
     'longitude' => 138.45802,
   ),
-  44 => 
+  42 => 
   array (
     'id' => 3946,
     'name' => 'Alexander Heights',
@@ -406,7 +388,7 @@ return array (
     'latitude' => -31.82758,
     'longitude' => 115.86501,
   ),
-  45 => 
+  43 => 
   array (
     'id' => 3947,
     'name' => 'Alexandra',
@@ -415,7 +397,7 @@ return array (
     'latitude' => -37.19132,
     'longitude' => 145.7112,
   ),
-  46 => 
+  44 => 
   array (
     'id' => 3948,
     'name' => 'Alexandra Headland',
@@ -424,7 +406,7 @@ return array (
     'latitude' => -26.67154,
     'longitude' => 153.10058,
   ),
-  47 => 
+  45 => 
   array (
     'id' => 3949,
     'name' => 'Alexandra Hills',
@@ -433,7 +415,7 @@ return array (
     'latitude' => -27.53221,
     'longitude' => 153.22889,
   ),
-  48 => 
+  46 => 
   array (
     'id' => 3950,
     'name' => 'Alexandria',
@@ -442,7 +424,7 @@ return array (
     'latitude' => -33.89989,
     'longitude' => 151.19951,
   ),
-  49 => 
+  47 => 
   array (
     'id' => 3951,
     'name' => 'Alexandrina',
@@ -451,7 +433,7 @@ return array (
     'latitude' => -35.33769,
     'longitude' => 138.83704,
   ),
-  50 => 
+  48 => 
   array (
     'id' => 3952,
     'name' => 'Alfords Point',
@@ -460,7 +442,7 @@ return array (
     'latitude' => -33.98744,
     'longitude' => 151.02526,
   ),
-  51 => 
+  49 => 
   array (
     'id' => 3953,
     'name' => 'Alfred Cove',
@@ -469,7 +451,7 @@ return array (
     'latitude' => -32.03316,
     'longitude' => 115.81259,
   ),
-  52 => 
+  50 => 
   array (
     'id' => 3954,
     'name' => 'Alfredton',
@@ -478,7 +460,7 @@ return array (
     'latitude' => -37.56667,
     'longitude' => 143.81667,
   ),
-  53 => 
+  51 => 
   array (
     'id' => 3955,
     'name' => 'Algester',
@@ -487,7 +469,7 @@ return array (
     'latitude' => -27.61279,
     'longitude' => 153.03239,
   ),
-  54 => 
+  52 => 
   array (
     'id' => 3956,
     'name' => 'Alice River',
@@ -496,7 +478,7 @@ return array (
     'latitude' => -19.33437,
     'longitude' => 146.61391,
   ),
-  55 => 
+  53 => 
   array (
     'id' => 3957,
     'name' => 'Alice Springs',
@@ -505,7 +487,7 @@ return array (
     'latitude' => -23.69748,
     'longitude' => 133.88362,
   ),
-  56 => 
+  54 => 
   array (
     'id' => 3958,
     'name' => 'Alkimos',
@@ -514,7 +496,7 @@ return array (
     'latitude' => -31.63039,
     'longitude' => 115.68638,
   ),
-  57 => 
+  55 => 
   array (
     'id' => 3959,
     'name' => 'Allambie Heights',
@@ -523,7 +505,7 @@ return array (
     'latitude' => -33.76655,
     'longitude' => 151.24981,
   ),
-  58 => 
+  56 => 
   array (
     'id' => 3960,
     'name' => 'Allansford',
@@ -532,7 +514,7 @@ return array (
     'latitude' => -38.38639,
     'longitude' => 142.59431,
   ),
-  59 => 
+  57 => 
   array (
     'id' => 3961,
     'name' => 'Allawah',
@@ -541,7 +523,7 @@ return array (
     'latitude' => -33.97257,
     'longitude' => 151.1144,
   ),
-  60 => 
+  58 => 
   array (
     'id' => 3962,
     'name' => 'Allenby Gardens',
@@ -550,7 +532,7 @@ return array (
     'latitude' => -34.89766,
     'longitude' => 138.55425,
   ),
-  61 => 
+  59 => 
   array (
     'id' => 3963,
     'name' => 'Allenstown',
@@ -559,7 +541,7 @@ return array (
     'latitude' => -23.39403,
     'longitude' => 150.50393,
   ),
-  62 => 
+  60 => 
   array (
     'id' => 3964,
     'name' => 'Alligator Creek',
@@ -568,7 +550,7 @@ return array (
     'latitude' => -19.39176,
     'longitude' => 146.93784,
   ),
-  63 => 
+  61 => 
   array (
     'id' => 3965,
     'name' => 'Allora',
@@ -577,7 +559,7 @@ return array (
     'latitude' => -28.03484,
     'longitude' => 151.98058,
   ),
-  64 => 
+  62 => 
   array (
     'id' => 3966,
     'name' => 'Alphington',
@@ -586,7 +568,7 @@ return array (
     'latitude' => -37.78333,
     'longitude' => 145.03333,
   ),
-  65 => 
+  63 => 
   array (
     'id' => 3967,
     'name' => 'Alpine',
@@ -595,7 +577,7 @@ return array (
     'latitude' => -36.83412,
     'longitude' => 146.97936,
   ),
-  66 => 
+  64 => 
   array (
     'id' => 3968,
     'name' => 'Alstonville',
@@ -604,7 +586,7 @@ return array (
     'latitude' => -28.84186,
     'longitude' => 153.44022,
   ),
-  67 => 
+  65 => 
   array (
     'id' => 3969,
     'name' => 'Alton Downs',
@@ -613,7 +595,7 @@ return array (
     'latitude' => -23.3,
     'longitude' => 150.35,
   ),
-  68 => 
+  66 => 
   array (
     'id' => 3970,
     'name' => 'Altona',
@@ -622,7 +604,7 @@ return array (
     'latitude' => -37.86964,
     'longitude' => 144.83036,
   ),
-  69 => 
+  67 => 
   array (
     'id' => 3971,
     'name' => 'Altona Meadows',
@@ -631,7 +613,7 @@ return array (
     'latitude' => -37.88413,
     'longitude' => 144.78367,
   ),
-  70 => 
+  68 => 
   array (
     'id' => 3972,
     'name' => 'Altona North',
@@ -640,7 +622,7 @@ return array (
     'latitude' => -37.83487,
     'longitude' => 144.84735,
   ),
-  71 => 
+  69 => 
   array (
     'id' => 3973,
     'name' => 'Alyangula',
@@ -649,7 +631,7 @@ return array (
     'latitude' => -13.85413,
     'longitude' => 136.42129,
   ),
-  72 => 
+  70 => 
   array (
     'id' => 3974,
     'name' => 'Amaroo',
@@ -658,7 +640,7 @@ return array (
     'latitude' => -35.16959,
     'longitude' => 149.12802,
   ),
-  73 => 
+  71 => 
   array (
     'id' => 3975,
     'name' => 'Ambarvale',
@@ -667,7 +649,7 @@ return array (
     'latitude' => -34.08942,
     'longitude' => 150.79656,
   ),
-  74 => 
+  72 => 
   array (
     'id' => 3976,
     'name' => 'Anangu Pitjantjatjara',
@@ -676,7 +658,7 @@ return array (
     'latitude' => -27.05797,
     'longitude' => 131.37314,
   ),
-  75 => 
+  73 => 
   array (
     'id' => 3977,
     'name' => 'Andergrove',
@@ -685,7 +667,7 @@ return array (
     'latitude' => -21.08333,
     'longitude' => 149.18333,
   ),
-  76 => 
+  74 => 
   array (
     'id' => 3978,
     'name' => 'Andrews Farm',
@@ -694,7 +676,7 @@ return array (
     'latitude' => -34.67632,
     'longitude' => 138.66197,
   ),
-  77 => 
+  75 => 
   array (
     'id' => 3979,
     'name' => 'Angaston',
@@ -703,7 +685,7 @@ return array (
     'latitude' => -34.50129,
     'longitude' => 139.04625,
   ),
-  78 => 
+  76 => 
   array (
     'id' => 3980,
     'name' => 'Angle Park',
@@ -712,7 +694,7 @@ return array (
     'latitude' => -34.85989,
     'longitude' => 138.55798,
   ),
-  79 => 
+  77 => 
   array (
     'id' => 3981,
     'name' => 'Angle Vale',
@@ -721,7 +703,7 @@ return array (
     'latitude' => -34.64098,
     'longitude' => 138.6461,
   ),
-  80 => 
+  78 => 
   array (
     'id' => 3982,
     'name' => 'Anglesea',
@@ -730,7 +712,7 @@ return array (
     'latitude' => -38.4073,
     'longitude' => 144.18587,
   ),
-  81 => 
+  79 => 
   array (
     'id' => 3983,
     'name' => 'Anna Bay',
@@ -739,7 +721,7 @@ return array (
     'latitude' => -32.78135,
     'longitude' => 152.08586,
   ),
-  82 => 
+  80 => 
   array (
     'id' => 3984,
     'name' => 'Annandale',
@@ -748,16 +730,7 @@ return array (
     'latitude' => -33.88333,
     'longitude' => 151.16667,
   ),
-  83 => 
-  array (
-    'id' => 3985,
-    'name' => 'Annandale',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -19.31503,
-    'longitude' => 146.79069,
-  ),
-  84 => 
+  81 => 
   array (
     'id' => 3986,
     'name' => 'Annangrove',
@@ -766,7 +739,7 @@ return array (
     'latitude' => -33.65758,
     'longitude' => 150.94755,
   ),
-  85 => 
+  82 => 
   array (
     'id' => 3987,
     'name' => 'Annerley',
@@ -775,7 +748,7 @@ return array (
     'latitude' => -27.51228,
     'longitude' => 153.03248,
   ),
-  86 => 
+  83 => 
   array (
     'id' => 3988,
     'name' => 'Anstead',
@@ -784,7 +757,7 @@ return array (
     'latitude' => -27.53781,
     'longitude' => 152.86187,
   ),
-  87 => 
+  84 => 
   array (
     'id' => 3989,
     'name' => 'Anula',
@@ -793,7 +766,7 @@ return array (
     'latitude' => -12.39125,
     'longitude' => 130.89047,
   ),
-  88 => 
+  85 => 
   array (
     'id' => 3990,
     'name' => 'Apollo Bay',
@@ -802,7 +775,7 @@ return array (
     'latitude' => -38.7594,
     'longitude' => 143.67219,
   ),
-  89 => 
+  86 => 
   array (
     'id' => 3991,
     'name' => 'Appin',
@@ -811,7 +784,7 @@ return array (
     'latitude' => -34.20347,
     'longitude' => 150.78644,
   ),
-  90 => 
+  87 => 
   array (
     'id' => 3992,
     'name' => 'Applecross',
@@ -820,7 +793,7 @@ return array (
     'latitude' => -32.01667,
     'longitude' => 115.83333,
   ),
-  91 => 
+  88 => 
   array (
     'id' => 3993,
     'name' => 'Araluen',
@@ -829,7 +802,7 @@ return array (
     'latitude' => -23.69601,
     'longitude' => 133.854,
   ),
-  92 => 
+  89 => 
   array (
     'id' => 3994,
     'name' => 'Arana Hills',
@@ -838,7 +811,7 @@ return array (
     'latitude' => -27.39808,
     'longitude' => 152.95797,
   ),
-  93 => 
+  90 => 
   array (
     'id' => 3995,
     'name' => 'Aranda',
@@ -847,7 +820,7 @@ return array (
     'latitude' => -35.25817,
     'longitude' => 149.0804,
   ),
-  94 => 
+  91 => 
   array (
     'id' => 3996,
     'name' => 'Ararat',
@@ -856,7 +829,7 @@ return array (
     'latitude' => -37.48925,
     'longitude' => 142.82239,
   ),
-  95 => 
+  92 => 
   array (
     'id' => 3997,
     'name' => 'Arcadia',
@@ -865,7 +838,7 @@ return array (
     'latitude' => -33.61667,
     'longitude' => 151.03333,
   ),
-  96 => 
+  93 => 
   array (
     'id' => 3998,
     'name' => 'Arcadia vale',
@@ -874,7 +847,7 @@ return array (
     'latitude' => -33.06052,
     'longitude' => 151.58408,
   ),
-  97 => 
+  94 => 
   array (
     'id' => 3999,
     'name' => 'Ardeer',
@@ -883,7 +856,7 @@ return array (
     'latitude' => -37.77586,
     'longitude' => 144.80144,
   ),
-  98 => 
+  95 => 
   array (
     'id' => 4000,
     'name' => 'Ardross',
@@ -892,7 +865,7 @@ return array (
     'latitude' => -32.02696,
     'longitude' => 115.83548,
   ),
-  99 => 
+  96 => 
   array (
     'id' => 4001,
     'name' => 'Ardrossan',
@@ -901,7 +874,7 @@ return array (
     'latitude' => -34.42217,
     'longitude' => 137.91907,
   ),
-  100 => 
+  97 => 
   array (
     'id' => 4002,
     'name' => 'Argenton',
@@ -910,7 +883,7 @@ return array (
     'latitude' => -32.93505,
     'longitude' => 151.63064,
   ),
-  101 => 
+  98 => 
   array (
     'id' => 4003,
     'name' => 'Armadale',
@@ -919,16 +892,7 @@ return array (
     'latitude' => -32.17887,
     'longitude' => 116.1275,
   ),
-  102 => 
-  array (
-    'id' => 4004,
-    'name' => 'Armadale',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.85544,
-    'longitude' => 145.02052,
-  ),
-  103 => 
+  99 => 
   array (
     'id' => 4005,
     'name' => 'Armidale',
@@ -937,7 +901,7 @@ return array (
     'latitude' => -30.50123,
     'longitude' => 151.66553,
   ),
-  104 => 
+  100 => 
   array (
     'id' => 4006,
     'name' => 'Armstrong Creek',
@@ -946,7 +910,7 @@ return array (
     'latitude' => -38.23121,
     'longitude' => 144.37374,
   ),
-  105 => 
+  101 => 
   array (
     'id' => 4007,
     'name' => 'Arncliffe',
@@ -955,7 +919,7 @@ return array (
     'latitude' => -33.93627,
     'longitude' => 151.14819,
   ),
-  106 => 
+  102 => 
   array (
     'id' => 4008,
     'name' => 'Aroona',
@@ -964,7 +928,7 @@ return array (
     'latitude' => -26.78173,
     'longitude' => 153.11652,
   ),
-  107 => 
+  103 => 
   array (
     'id' => 4009,
     'name' => 'Artarmon',
@@ -973,7 +937,7 @@ return array (
     'latitude' => -33.81667,
     'longitude' => 151.18333,
   ),
-  108 => 
+  104 => 
   array (
     'id' => 4010,
     'name' => 'Arundel',
@@ -982,7 +946,7 @@ return array (
     'latitude' => -27.93768,
     'longitude' => 153.36302,
   ),
-  109 => 
+  105 => 
   array (
     'id' => 4011,
     'name' => 'Ascot',
@@ -991,25 +955,7 @@ return array (
     'latitude' => -27.43154,
     'longitude' => 153.058,
   ),
-  110 => 
-  array (
-    'id' => 4012,
-    'name' => 'Ascot',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -36.7,
-    'longitude' => 144.33333,
-  ),
-  111 => 
-  array (
-    'id' => 4013,
-    'name' => 'Ascot',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.93818,
-    'longitude' => 115.92258,
-  ),
-  112 => 
+  106 => 
   array (
     'id' => 4014,
     'name' => 'Ascot Park',
@@ -1018,7 +964,7 @@ return array (
     'latitude' => -34.99175,
     'longitude' => 138.55768,
   ),
-  113 => 
+  107 => 
   array (
     'id' => 4015,
     'name' => 'Ascot Vale',
@@ -1027,7 +973,7 @@ return array (
     'latitude' => -37.77988,
     'longitude' => 144.92276,
   ),
-  114 => 
+  108 => 
   array (
     'id' => 4016,
     'name' => 'Ashburton',
@@ -1036,16 +982,7 @@ return array (
     'latitude' => -37.86667,
     'longitude' => 145.08333,
   ),
-  115 => 
-  array (
-    'id' => 4017,
-    'name' => 'Ashburton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -22.27674,
-    'longitude' => 116.90057,
-  ),
-  116 => 
+  109 => 
   array (
     'id' => 4018,
     'name' => 'Ashbury',
@@ -1054,7 +991,7 @@ return array (
     'latitude' => -33.89785,
     'longitude' => 151.1196,
   ),
-  117 => 
+  110 => 
   array (
     'id' => 4019,
     'name' => 'Ashby',
@@ -1063,7 +1000,7 @@ return array (
     'latitude' => -31.73255,
     'longitude' => 115.79768,
   ),
-  118 => 
+  111 => 
   array (
     'id' => 4020,
     'name' => 'Ashcroft',
@@ -1072,7 +1009,7 @@ return array (
     'latitude' => -33.91598,
     'longitude' => 150.89985,
   ),
-  119 => 
+  112 => 
   array (
     'id' => 4021,
     'name' => 'Ashfield',
@@ -1081,16 +1018,7 @@ return array (
     'latitude' => -31.91721,
     'longitude' => 115.93796,
   ),
-  120 => 
-  array (
-    'id' => 4022,
-    'name' => 'Ashfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.88834,
-    'longitude' => 151.12274,
-  ),
-  121 => 
+  113 => 
   array (
     'id' => 4023,
     'name' => 'Ashford',
@@ -1099,7 +1027,7 @@ return array (
     'latitude' => -34.94859,
     'longitude' => 138.57457,
   ),
-  122 => 
+  114 => 
   array (
     'id' => 4024,
     'name' => 'Ashgrove',
@@ -1108,7 +1036,7 @@ return array (
     'latitude' => -27.44552,
     'longitude' => 152.992,
   ),
-  123 => 
+  115 => 
   array (
     'id' => 4025,
     'name' => 'Ashmont',
@@ -1117,7 +1045,7 @@ return array (
     'latitude' => -35.12491,
     'longitude' => 147.33172,
   ),
-  124 => 
+  116 => 
   array (
     'id' => 4026,
     'name' => 'Ashmore',
@@ -1126,7 +1054,7 @@ return array (
     'latitude' => -27.98883,
     'longitude' => 153.37647,
   ),
-  125 => 
+  117 => 
   array (
     'id' => 4027,
     'name' => 'Ashtonfield',
@@ -1135,7 +1063,7 @@ return array (
     'latitude' => -32.77331,
     'longitude' => 151.60583,
   ),
-  126 => 
+  118 => 
   array (
     'id' => 4028,
     'name' => 'Ashwood',
@@ -1144,7 +1072,7 @@ return array (
     'latitude' => -37.86659,
     'longitude' => 145.10553,
   ),
-  127 => 
+  119 => 
   array (
     'id' => 4029,
     'name' => 'Aspendale',
@@ -1153,7 +1081,7 @@ return array (
     'latitude' => -38.02913,
     'longitude' => 145.10266,
   ),
-  128 => 
+  120 => 
   array (
     'id' => 4030,
     'name' => 'Aspendale Gardens',
@@ -1162,7 +1090,7 @@ return array (
     'latitude' => -38.02277,
     'longitude' => 145.11798,
   ),
-  129 => 
+  121 => 
   array (
     'id' => 4031,
     'name' => 'Aspley',
@@ -1171,7 +1099,7 @@ return array (
     'latitude' => -27.36667,
     'longitude' => 153.01667,
   ),
-  130 => 
+  122 => 
   array (
     'id' => 4032,
     'name' => 'Asquith',
@@ -1180,7 +1108,7 @@ return array (
     'latitude' => -33.68705,
     'longitude' => 151.1163,
   ),
-  131 => 
+  123 => 
   array (
     'id' => 4033,
     'name' => 'Athelstone',
@@ -1189,7 +1117,7 @@ return array (
     'latitude' => -34.87019,
     'longitude' => 138.6999,
   ),
-  132 => 
+  124 => 
   array (
     'id' => 4034,
     'name' => 'Atherton',
@@ -1198,7 +1126,7 @@ return array (
     'latitude' => -17.26864,
     'longitude' => 145.47522,
   ),
-  133 => 
+  125 => 
   array (
     'id' => 4035,
     'name' => 'Athol Park',
@@ -1207,7 +1135,7 @@ return array (
     'latitude' => -34.85608,
     'longitude' => 138.54282,
   ),
-  134 => 
+  126 => 
   array (
     'id' => 4036,
     'name' => 'Attadale',
@@ -1216,7 +1144,7 @@ return array (
     'latitude' => -32.02489,
     'longitude' => 115.802,
   ),
-  135 => 
+  127 => 
   array (
     'id' => 4037,
     'name' => 'Attwood',
@@ -1225,7 +1153,7 @@ return array (
     'latitude' => -37.66955,
     'longitude' => 144.88675,
   ),
-  136 => 
+  128 => 
   array (
     'id' => 4038,
     'name' => 'Atwell',
@@ -1234,7 +1162,7 @@ return array (
     'latitude' => -32.14346,
     'longitude' => 115.86528,
   ),
-  137 => 
+  129 => 
   array (
     'id' => 4039,
     'name' => 'Aubin Grove',
@@ -1243,7 +1171,7 @@ return array (
     'latitude' => -32.16714,
     'longitude' => 115.86264,
   ),
-  138 => 
+  130 => 
   array (
     'id' => 4040,
     'name' => 'Auburn',
@@ -1252,7 +1180,7 @@ return array (
     'latitude' => -33.85,
     'longitude' => 151.03333,
   ),
-  139 => 
+  131 => 
   array (
     'id' => 4041,
     'name' => 'Auchenflower',
@@ -1261,7 +1189,7 @@ return array (
     'latitude' => -27.47443,
     'longitude' => 152.99213,
   ),
-  140 => 
+  132 => 
   array (
     'id' => 4042,
     'name' => 'Augusta',
@@ -1270,7 +1198,7 @@ return array (
     'latitude' => -34.31566,
     'longitude' => 115.15922,
   ),
-  141 => 
+  133 => 
   array (
     'id' => 4043,
     'name' => 'Augusta-Margaret River Shire',
@@ -1279,7 +1207,7 @@ return array (
     'latitude' => -34.1152,
     'longitude' => 115.32277,
   ),
-  142 => 
+  134 => 
   array (
     'id' => 4044,
     'name' => 'Augustine Heights',
@@ -1288,7 +1216,7 @@ return array (
     'latitude' => -27.66047,
     'longitude' => 152.87896,
   ),
-  143 => 
+  135 => 
   array (
     'id' => 4045,
     'name' => 'Aurukun',
@@ -1297,7 +1225,7 @@ return array (
     'latitude' => -13.51263,
     'longitude' => 141.82435,
   ),
-  144 => 
+  136 => 
   array (
     'id' => 4046,
     'name' => 'Austinmer',
@@ -1306,7 +1234,7 @@ return array (
     'latitude' => -34.30516,
     'longitude' => 150.93335,
   ),
-  145 => 
+  137 => 
   array (
     'id' => 4047,
     'name' => 'Austins Ferry',
@@ -1315,7 +1243,7 @@ return array (
     'latitude' => -42.76667,
     'longitude' => 147.25,
   ),
-  146 => 
+  138 => 
   array (
     'id' => 4048,
     'name' => 'Austral',
@@ -1324,7 +1252,7 @@ return array (
     'latitude' => -33.92745,
     'longitude' => 150.80811,
   ),
-  147 => 
+  139 => 
   array (
     'id' => 4049,
     'name' => 'Australind',
@@ -1333,7 +1261,7 @@ return array (
     'latitude' => -33.2792,
     'longitude' => 115.71504,
   ),
-  148 => 
+  140 => 
   array (
     'id' => 4050,
     'name' => 'Aveley',
@@ -1342,7 +1270,7 @@ return array (
     'latitude' => -31.78132,
     'longitude' => 115.98959,
   ),
-  149 => 
+  141 => 
   array (
     'id' => 4051,
     'name' => 'Avenel',
@@ -1351,7 +1279,7 @@ return array (
     'latitude' => -36.90088,
     'longitude' => 145.23367,
   ),
-  150 => 
+  142 => 
   array (
     'id' => 4052,
     'name' => 'Avenell Heights',
@@ -1360,7 +1288,7 @@ return array (
     'latitude' => -24.8896,
     'longitude' => 152.36786,
   ),
-  151 => 
+  143 => 
   array (
     'id' => 4053,
     'name' => 'Avoca',
@@ -1369,16 +1297,7 @@ return array (
     'latitude' => -37.09044,
     'longitude' => 143.47365,
   ),
-  152 => 
-  array (
-    'id' => 4054,
-    'name' => 'Avoca',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -24.87822,
-    'longitude' => 152.30794,
-  ),
-  153 => 
+  144 => 
   array (
     'id' => 4055,
     'name' => 'Avoca Beach',
@@ -1387,7 +1306,7 @@ return array (
     'latitude' => -33.46818,
     'longitude' => 151.4339,
   ),
-  154 => 
+  145 => 
   array (
     'id' => 4056,
     'name' => 'Avondale',
@@ -1396,7 +1315,7 @@ return array (
     'latitude' => -34.5175,
     'longitude' => 150.7501,
   ),
-  155 => 
+  146 => 
   array (
     'id' => 4057,
     'name' => 'Avondale Heights',
@@ -1405,7 +1324,7 @@ return array (
     'latitude' => -37.76155,
     'longitude' => 144.86261,
   ),
-  156 => 
+  147 => 
   array (
     'id' => 4058,
     'name' => 'Ayr',
@@ -1414,7 +1333,7 @@ return array (
     'latitude' => -19.57393,
     'longitude' => 147.40666,
   ),
-  157 => 
+  148 => 
   array (
     'id' => 4059,
     'name' => 'Babinda',
@@ -1423,7 +1342,7 @@ return array (
     'latitude' => -17.3439,
     'longitude' => 145.92265,
   ),
-  158 => 
+  149 => 
   array (
     'id' => 4060,
     'name' => 'Bacchus Marsh',
@@ -1432,7 +1351,7 @@ return array (
     'latitude' => -37.67268,
     'longitude' => 144.43829,
   ),
-  159 => 
+  150 => 
   array (
     'id' => 4061,
     'name' => 'Badger Creek',
@@ -1441,7 +1360,7 @@ return array (
     'latitude' => -37.7,
     'longitude' => 145.51667,
   ),
-  160 => 
+  151 => 
   array (
     'id' => 4062,
     'name' => 'Bagdad',
@@ -1450,7 +1369,7 @@ return array (
     'latitude' => -42.62968,
     'longitude' => 147.22339,
   ),
-  161 => 
+  152 => 
   array (
     'id' => 4063,
     'name' => 'Bahrs Scrub',
@@ -1459,7 +1378,7 @@ return array (
     'latitude' => -27.73333,
     'longitude' => 153.16667,
   ),
-  162 => 
+  153 => 
   array (
     'id' => 4064,
     'name' => 'Bairnsdale',
@@ -1468,7 +1387,7 @@ return array (
     'latitude' => -37.82289,
     'longitude' => 147.61041,
   ),
-  163 => 
+  154 => 
   array (
     'id' => 4065,
     'name' => 'Bakers Creek',
@@ -1477,7 +1396,7 @@ return array (
     'latitude' => -21.2199,
     'longitude' => 149.14681,
   ),
-  164 => 
+  155 => 
   array (
     'id' => 4066,
     'name' => 'Bakers Hill',
@@ -1486,7 +1405,7 @@ return array (
     'latitude' => -31.74692,
     'longitude' => 116.45866,
   ),
-  165 => 
+  156 => 
   array (
     'id' => 4067,
     'name' => 'Bakewell',
@@ -1495,7 +1414,7 @@ return array (
     'latitude' => -12.49684,
     'longitude' => 130.99344,
   ),
-  166 => 
+  157 => 
   array (
     'id' => 4068,
     'name' => 'Balaclava',
@@ -1504,7 +1423,7 @@ return array (
     'latitude' => -37.86667,
     'longitude' => 145.0,
   ),
-  167 => 
+  158 => 
   array (
     'id' => 4069,
     'name' => 'Balaklava',
@@ -1513,7 +1432,7 @@ return array (
     'latitude' => -34.14542,
     'longitude' => 138.41148,
   ),
-  168 => 
+  159 => 
   array (
     'id' => 4070,
     'name' => 'Balcatta',
@@ -1522,7 +1441,7 @@ return array (
     'latitude' => -31.87501,
     'longitude' => 115.82839,
   ),
-  169 => 
+  160 => 
   array (
     'id' => 4071,
     'name' => 'Bald Hills',
@@ -1531,7 +1450,7 @@ return array (
     'latitude' => -27.32112,
     'longitude' => 153.00857,
   ),
-  170 => 
+  161 => 
   array (
     'id' => 4072,
     'name' => 'Baldivis',
@@ -1540,7 +1459,7 @@ return array (
     'latitude' => -32.32889,
     'longitude' => 115.83047,
   ),
-  171 => 
+  162 => 
   array (
     'id' => 4073,
     'name' => 'Balga',
@@ -1549,7 +1468,7 @@ return array (
     'latitude' => -31.85497,
     'longitude' => 115.83986,
   ),
-  172 => 
+  163 => 
   array (
     'id' => 4074,
     'name' => 'Balgowlah',
@@ -1558,7 +1477,7 @@ return array (
     'latitude' => -33.79494,
     'longitude' => 151.2572,
   ),
-  173 => 
+  164 => 
   array (
     'id' => 4075,
     'name' => 'Balgowlah Heights',
@@ -1567,7 +1486,7 @@ return array (
     'latitude' => -33.80661,
     'longitude' => 151.26243,
   ),
-  174 => 
+  165 => 
   array (
     'id' => 4076,
     'name' => 'Balgownie',
@@ -1576,7 +1495,7 @@ return array (
     'latitude' => -34.39505,
     'longitude' => 150.88051,
   ),
-  175 => 
+  166 => 
   array (
     'id' => 4077,
     'name' => 'Balhannah',
@@ -1585,7 +1504,7 @@ return array (
     'latitude' => -34.99094,
     'longitude' => 138.82565,
   ),
-  176 => 
+  167 => 
   array (
     'id' => 4078,
     'name' => 'Ballajura',
@@ -1594,7 +1513,7 @@ return array (
     'latitude' => -31.84062,
     'longitude' => 115.89549,
   ),
-  177 => 
+  168 => 
   array (
     'id' => 4079,
     'name' => 'Ballan',
@@ -1603,7 +1522,7 @@ return array (
     'latitude' => -37.59987,
     'longitude' => 144.2289,
   ),
-  178 => 
+  169 => 
   array (
     'id' => 4080,
     'name' => 'Ballarat',
@@ -1612,7 +1531,7 @@ return array (
     'latitude' => -37.56622,
     'longitude' => 143.84957,
   ),
-  179 => 
+  170 => 
   array (
     'id' => 4081,
     'name' => 'Ballarat Central',
@@ -1621,7 +1540,7 @@ return array (
     'latitude' => -37.56206,
     'longitude' => 143.85082,
   ),
-  180 => 
+  171 => 
   array (
     'id' => 4082,
     'name' => 'Ballarat East',
@@ -1630,7 +1549,7 @@ return array (
     'latitude' => -37.56667,
     'longitude' => 143.86667,
   ),
-  181 => 
+  172 => 
   array (
     'id' => 4083,
     'name' => 'Ballarat North',
@@ -1639,7 +1558,7 @@ return array (
     'latitude' => -37.51884,
     'longitude' => 143.77284,
   ),
-  182 => 
+  173 => 
   array (
     'id' => 4084,
     'name' => 'Ballina',
@@ -1648,7 +1567,7 @@ return array (
     'latitude' => -28.85273,
     'longitude' => 153.48568,
   ),
-  183 => 
+  174 => 
   array (
     'id' => 4085,
     'name' => 'Balmain',
@@ -1657,7 +1576,7 @@ return array (
     'latitude' => -33.85481,
     'longitude' => 151.1833,
   ),
-  184 => 
+  175 => 
   array (
     'id' => 4086,
     'name' => 'Balmain East',
@@ -1666,7 +1585,7 @@ return array (
     'latitude' => -33.8571,
     'longitude' => 151.19282,
   ),
-  185 => 
+  176 => 
   array (
     'id' => 4087,
     'name' => 'Balmoral',
@@ -1675,7 +1594,7 @@ return array (
     'latitude' => -27.45341,
     'longitude' => 153.0668,
   ),
-  186 => 
+  177 => 
   array (
     'id' => 4088,
     'name' => 'Balnarring',
@@ -1684,7 +1603,7 @@ return array (
     'latitude' => -38.36667,
     'longitude' => 145.13333,
   ),
-  187 => 
+  178 => 
   array (
     'id' => 4089,
     'name' => 'Balonne Shire',
@@ -1693,7 +1612,7 @@ return array (
     'latitude' => -28.28481,
     'longitude' => 148.17933,
   ),
-  188 => 
+  179 => 
   array (
     'id' => 4090,
     'name' => 'Balranald',
@@ -1702,7 +1621,7 @@ return array (
     'latitude' => -34.67839,
     'longitude' => 143.56384,
   ),
-  189 => 
+  180 => 
   array (
     'id' => 4091,
     'name' => 'Balwyn',
@@ -1711,7 +1630,7 @@ return array (
     'latitude' => -37.80914,
     'longitude' => 145.0789,
   ),
-  190 => 
+  181 => 
   array (
     'id' => 4092,
     'name' => 'Balwyn North',
@@ -1720,7 +1639,7 @@ return array (
     'latitude' => -37.79086,
     'longitude' => 145.09386,
   ),
-  191 => 
+  182 => 
   array (
     'id' => 4093,
     'name' => 'Bamaga',
@@ -1729,7 +1648,7 @@ return array (
     'latitude' => -10.89197,
     'longitude' => 142.38934,
   ),
-  192 => 
+  183 => 
   array (
     'id' => 4094,
     'name' => 'Banana',
@@ -1738,7 +1657,7 @@ return array (
     'latitude' => -24.80653,
     'longitude' => 149.89838,
   ),
-  193 => 
+  184 => 
   array (
     'id' => 4095,
     'name' => 'Bangalow',
@@ -1747,7 +1666,7 @@ return array (
     'latitude' => -28.68634,
     'longitude' => 153.52153,
   ),
-  194 => 
+  185 => 
   array (
     'id' => 4096,
     'name' => 'Bangor',
@@ -1756,7 +1675,7 @@ return array (
     'latitude' => -34.01667,
     'longitude' => 151.03333,
   ),
-  195 => 
+  186 => 
   array (
     'id' => 4097,
     'name' => 'Banjup',
@@ -1765,7 +1684,7 @@ return array (
     'latitude' => -32.14179,
     'longitude' => 115.88671,
   ),
-  196 => 
+  187 => 
   array (
     'id' => 4098,
     'name' => 'Banks',
@@ -1774,7 +1693,7 @@ return array (
     'latitude' => -35.47194,
     'longitude' => 149.09965,
   ),
-  197 => 
+  188 => 
   array (
     'id' => 4099,
     'name' => 'Banksia',
@@ -1783,7 +1702,7 @@ return array (
     'latitude' => -33.94601,
     'longitude' => 151.14304,
   ),
-  198 => 
+  189 => 
   array (
     'id' => 4100,
     'name' => 'Banksia Beach',
@@ -1792,7 +1711,7 @@ return array (
     'latitude' => -27.04027,
     'longitude' => 153.1439,
   ),
-  199 => 
+  190 => 
   array (
     'id' => 4101,
     'name' => 'Banksia Grove',
@@ -1801,7 +1720,7 @@ return array (
     'latitude' => -31.69615,
     'longitude' => 115.80501,
   ),
-  200 => 
+  191 => 
   array (
     'id' => 4102,
     'name' => 'Banksia Park',
@@ -1810,7 +1729,7 @@ return array (
     'latitude' => -34.81015,
     'longitude' => 138.7357,
   ),
-  201 => 
+  192 => 
   array (
     'id' => 4103,
     'name' => 'Bankstown',
@@ -1819,7 +1738,7 @@ return array (
     'latitude' => -33.91667,
     'longitude' => 151.03333,
   ),
-  202 => 
+  193 => 
   array (
     'id' => 4104,
     'name' => 'Bannockburn',
@@ -1828,7 +1747,7 @@ return array (
     'latitude' => -38.04894,
     'longitude' => 144.16882,
   ),
-  203 => 
+  194 => 
   array (
     'id' => 4105,
     'name' => 'Banora Point',
@@ -1837,7 +1756,7 @@ return array (
     'latitude' => -28.21298,
     'longitude' => 153.53634,
   ),
-  204 => 
+  195 => 
   array (
     'id' => 4106,
     'name' => 'Banyo',
@@ -1846,7 +1765,7 @@ return array (
     'latitude' => -27.38236,
     'longitude' => 153.07903,
   ),
-  205 => 
+  196 => 
   array (
     'id' => 4107,
     'name' => 'Banyule',
@@ -1855,7 +1774,7 @@ return array (
     'latitude' => -37.73386,
     'longitude' => 145.08576,
   ),
-  206 => 
+  197 => 
   array (
     'id' => 4108,
     'name' => 'Bar Beach',
@@ -1864,7 +1783,7 @@ return array (
     'latitude' => -32.94128,
     'longitude' => 151.76544,
   ),
-  207 => 
+  198 => 
   array (
     'id' => 4109,
     'name' => 'Baranduda',
@@ -1873,7 +1792,7 @@ return array (
     'latitude' => -36.19114,
     'longitude' => 146.9538,
   ),
-  208 => 
+  199 => 
   array (
     'id' => 4110,
     'name' => 'Barcaldine',
@@ -1882,7 +1801,7 @@ return array (
     'latitude' => -23.05203,
     'longitude' => 145.4349,
   ),
-  209 => 
+  200 => 
   array (
     'id' => 4111,
     'name' => 'Barcoo',
@@ -1891,7 +1810,7 @@ return array (
     'latitude' => -25.17292,
     'longitude' => 142.46481,
   ),
-  210 => 
+  201 => 
   array (
     'id' => 4112,
     'name' => 'Barden Ridge',
@@ -1900,7 +1819,7 @@ return array (
     'latitude' => -34.03413,
     'longitude' => 151.01194,
   ),
-  211 => 
+  202 => 
   array (
     'id' => 4113,
     'name' => 'Bardia',
@@ -1909,7 +1828,7 @@ return array (
     'latitude' => -33.97789,
     'longitude' => 150.86306,
   ),
-  212 => 
+  203 => 
   array (
     'id' => 4114,
     'name' => 'Bardon',
@@ -1918,7 +1837,7 @@ return array (
     'latitude' => -27.461,
     'longitude' => 152.9792,
   ),
-  213 => 
+  204 => 
   array (
     'id' => 4115,
     'name' => 'Bardwell Park',
@@ -1927,7 +1846,7 @@ return array (
     'latitude' => -33.93534,
     'longitude' => 151.12571,
   ),
-  214 => 
+  205 => 
   array (
     'id' => 4116,
     'name' => 'Bardwell Valley',
@@ -1936,7 +1855,7 @@ return array (
     'latitude' => -33.93344,
     'longitude' => 151.13668,
   ),
-  215 => 
+  206 => 
   array (
     'id' => 4117,
     'name' => 'Barellan Point',
@@ -1945,7 +1864,7 @@ return array (
     'latitude' => -27.57196,
     'longitude' => 152.84379,
   ),
-  216 => 
+  207 => 
   array (
     'id' => 4118,
     'name' => 'Bargara',
@@ -1954,7 +1873,7 @@ return array (
     'latitude' => -24.81476,
     'longitude' => 152.46257,
   ),
-  217 => 
+  208 => 
   array (
     'id' => 4119,
     'name' => 'Bargo',
@@ -1963,7 +1882,7 @@ return array (
     'latitude' => -34.29301,
     'longitude' => 150.57806,
   ),
-  218 => 
+  209 => 
   array (
     'id' => 4120,
     'name' => 'Barham',
@@ -1972,7 +1891,7 @@ return array (
     'latitude' => -35.62647,
     'longitude' => 144.12895,
   ),
-  219 => 
+  210 => 
   array (
     'id' => 4121,
     'name' => 'Barkly',
@@ -1981,7 +1900,7 @@ return array (
     'latitude' => -19.54154,
     'longitude' => 134.82364,
   ),
-  220 => 
+  211 => 
   array (
     'id' => 4122,
     'name' => 'Barmera',
@@ -1990,7 +1909,7 @@ return array (
     'latitude' => -34.25562,
     'longitude' => 140.46147,
   ),
-  221 => 
+  212 => 
   array (
     'id' => 4123,
     'name' => 'Barney Point',
@@ -1999,7 +1918,7 @@ return array (
     'latitude' => -23.84793,
     'longitude' => 151.26577,
   ),
-  222 => 
+  213 => 
   array (
     'id' => 4124,
     'name' => 'Barnsley',
@@ -2008,7 +1927,7 @@ return array (
     'latitude' => -32.93333,
     'longitude' => 151.58333,
   ),
-  223 => 
+  214 => 
   array (
     'id' => 4125,
     'name' => 'Barooga',
@@ -2017,7 +1936,7 @@ return array (
     'latitude' => -35.90602,
     'longitude' => 145.69585,
   ),
-  224 => 
+  215 => 
   array (
     'id' => 4126,
     'name' => 'Barossa',
@@ -2026,7 +1945,7 @@ return array (
     'latitude' => -34.61351,
     'longitude' => 138.96169,
   ),
-  225 => 
+  216 => 
   array (
     'id' => 4127,
     'name' => 'Barraba',
@@ -2035,7 +1954,7 @@ return array (
     'latitude' => -30.38547,
     'longitude' => 150.60901,
   ),
-  226 => 
+  217 => 
   array (
     'id' => 4128,
     'name' => 'Barrack Heights',
@@ -2044,7 +1963,7 @@ return array (
     'latitude' => -34.56464,
     'longitude' => 150.85692,
   ),
-  227 => 
+  218 => 
   array (
     'id' => 4129,
     'name' => 'Barton',
@@ -2053,7 +1972,7 @@ return array (
     'latitude' => -35.30489,
     'longitude' => 149.14121,
   ),
-  228 => 
+  219 => 
   array (
     'id' => 4130,
     'name' => 'Barunga West',
@@ -2062,7 +1981,7 @@ return array (
     'latitude' => -33.79484,
     'longitude' => 137.92311,
   ),
-  229 => 
+  220 => 
   array (
     'id' => 4131,
     'name' => 'Barwon Heads',
@@ -2071,7 +1990,7 @@ return array (
     'latitude' => -38.27448,
     'longitude' => 144.48853,
   ),
-  230 => 
+  221 => 
   array (
     'id' => 4132,
     'name' => 'Basin View',
@@ -2080,7 +1999,7 @@ return array (
     'latitude' => -35.08833,
     'longitude' => 150.55534,
   ),
-  231 => 
+  222 => 
   array (
     'id' => 4133,
     'name' => 'Bass Coast',
@@ -2089,7 +2008,7 @@ return array (
     'latitude' => -38.48507,
     'longitude' => 145.4639,
   ),
-  232 => 
+  223 => 
   array (
     'id' => 4134,
     'name' => 'Bass Hill',
@@ -2098,7 +2017,7 @@ return array (
     'latitude' => -33.89863,
     'longitude' => 150.99541,
   ),
-  233 => 
+  224 => 
   array (
     'id' => 4135,
     'name' => 'Bassendean',
@@ -2107,7 +2026,7 @@ return array (
     'latitude' => -31.90584,
     'longitude' => 115.94501,
   ),
-  234 => 
+  225 => 
   array (
     'id' => 4136,
     'name' => 'Bateau Bay',
@@ -2116,7 +2035,7 @@ return array (
     'latitude' => -33.38334,
     'longitude' => 151.46671,
   ),
-  235 => 
+  226 => 
   array (
     'id' => 4137,
     'name' => 'Batehaven',
@@ -2125,7 +2044,7 @@ return array (
     'latitude' => -35.73757,
     'longitude' => 150.19836,
   ),
-  236 => 
+  227 => 
   array (
     'id' => 4138,
     'name' => 'Bateman',
@@ -2134,7 +2053,7 @@ return array (
     'latitude' => -32.05547,
     'longitude' => 115.84737,
   ),
-  237 => 
+  228 => 
   array (
     'id' => 4139,
     'name' => 'Batemans Bay',
@@ -2143,7 +2062,7 @@ return array (
     'latitude' => -35.70658,
     'longitude' => 150.17541,
   ),
-  238 => 
+  229 => 
   array (
     'id' => 4140,
     'name' => 'Bathurst',
@@ -2152,7 +2071,7 @@ return array (
     'latitude' => -33.41665,
     'longitude' => 149.5806,
   ),
-  239 => 
+  230 => 
   array (
     'id' => 4141,
     'name' => 'Bathurst Regional',
@@ -2161,7 +2080,7 @@ return array (
     'latitude' => -33.4731,
     'longitude' => 149.51956,
   ),
-  240 => 
+  231 => 
   array (
     'id' => 4142,
     'name' => 'Bathurst city centre',
@@ -2170,7 +2089,7 @@ return array (
     'latitude' => -33.41816,
     'longitude' => 149.57621,
   ),
-  241 => 
+  232 => 
   array (
     'id' => 4143,
     'name' => 'Batlow',
@@ -2179,7 +2098,7 @@ return array (
     'latitude' => -35.51987,
     'longitude' => 148.14727,
   ),
-  242 => 
+  233 => 
   array (
     'id' => 4144,
     'name' => 'Battery Hill',
@@ -2188,7 +2107,7 @@ return array (
     'latitude' => -26.77878,
     'longitude' => 153.12887,
   ),
-  243 => 
+  234 => 
   array (
     'id' => 4145,
     'name' => 'Battery Point',
@@ -2197,7 +2116,7 @@ return array (
     'latitude' => -42.88995,
     'longitude' => 147.33324,
   ),
-  244 => 
+  235 => 
   array (
     'id' => 4146,
     'name' => 'Baulkham Hills',
@@ -2206,7 +2125,7 @@ return array (
     'latitude' => -33.75881,
     'longitude' => 150.99292,
   ),
-  245 => 
+  236 => 
   array (
     'id' => 4147,
     'name' => 'Baw Baw',
@@ -2215,7 +2134,7 @@ return array (
     'latitude' => -37.96998,
     'longitude' => 146.14404,
   ),
-  246 => 
+  237 => 
   array (
     'id' => 4148,
     'name' => 'Baxter',
@@ -2224,7 +2143,7 @@ return array (
     'latitude' => -38.2,
     'longitude' => 145.15,
   ),
-  247 => 
+  238 => 
   array (
     'id' => 4149,
     'name' => 'Bay View',
@@ -2233,7 +2152,7 @@ return array (
     'latitude' => -33.65982,
     'longitude' => 151.29878,
   ),
-  248 => 
+  239 => 
   array (
     'id' => 4150,
     'name' => 'Baynton',
@@ -2242,7 +2161,7 @@ return array (
     'latitude' => -20.75164,
     'longitude' => 116.80139,
   ),
-  249 => 
+  240 => 
   array (
     'id' => 4151,
     'name' => 'Bayonet Head',
@@ -2251,7 +2170,7 @@ return array (
     'latitude' => -34.97305,
     'longitude' => 117.93446,
   ),
-  250 => 
+  241 => 
   array (
     'id' => 4152,
     'name' => 'Bayside',
@@ -2260,7 +2179,7 @@ return array (
     'latitude' => -37.93986,
     'longitude' => 145.01932,
   ),
-  251 => 
+  242 => 
   array (
     'id' => 4153,
     'name' => 'Bayswater',
@@ -2269,16 +2188,7 @@ return array (
     'latitude' => -37.85,
     'longitude' => 145.26667,
   ),
-  252 => 
-  array (
-    'id' => 4154,
-    'name' => 'Bayswater',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.91181,
-    'longitude' => 115.9087,
-  ),
-  253 => 
+  243 => 
   array (
     'id' => 4155,
     'name' => 'Bayswater North',
@@ -2287,7 +2197,7 @@ return array (
     'latitude' => -37.82612,
     'longitude' => 145.29831,
   ),
-  254 => 
+  244 => 
   array (
     'id' => 4156,
     'name' => 'Bayview Heights',
@@ -2296,7 +2206,7 @@ return array (
     'latitude' => -16.96229,
     'longitude' => 145.72585,
   ),
-  255 => 
+  245 => 
   array (
     'id' => 4157,
     'name' => 'Beachlands',
@@ -2305,7 +2215,7 @@ return array (
     'latitude' => -28.7857,
     'longitude' => 114.60192,
   ),
-  256 => 
+  246 => 
   array (
     'id' => 4158,
     'name' => 'Beachmere',
@@ -2314,7 +2224,7 @@ return array (
     'latitude' => -27.12808,
     'longitude' => 153.05243,
   ),
-  257 => 
+  247 => 
   array (
     'id' => 4159,
     'name' => 'Beacon Hill',
@@ -2323,7 +2233,7 @@ return array (
     'latitude' => -33.7528,
     'longitude' => 151.25857,
   ),
-  258 => 
+  248 => 
   array (
     'id' => 4160,
     'name' => 'Beaconsfield',
@@ -2332,34 +2242,7 @@ return array (
     'latitude' => -41.20227,
     'longitude' => 146.81723,
   ),
-  259 => 
-  array (
-    'id' => 4161,
-    'name' => 'Beaconsfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.05,
-    'longitude' => 145.36667,
-  ),
-  260 => 
-  array (
-    'id' => 4162,
-    'name' => 'Beaconsfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.06748,
-    'longitude' => 115.76401,
-  ),
-  261 => 
-  array (
-    'id' => 4163,
-    'name' => 'Beaconsfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -21.09121,
-    'longitude' => 149.16544,
-  ),
-  262 => 
+  249 => 
   array (
     'id' => 4164,
     'name' => 'Beaconsfield Upper',
@@ -2368,7 +2251,7 @@ return array (
     'latitude' => -37.99415,
     'longitude' => 145.4142,
   ),
-  263 => 
+  250 => 
   array (
     'id' => 4165,
     'name' => 'Beaudesert',
@@ -2377,7 +2260,7 @@ return array (
     'latitude' => -27.98691,
     'longitude' => 152.99657,
   ),
-  264 => 
+  251 => 
   array (
     'id' => 4166,
     'name' => 'Beaufort',
@@ -2386,7 +2269,7 @@ return array (
     'latitude' => -37.42996,
     'longitude' => 143.38347,
   ),
-  265 => 
+  252 => 
   array (
     'id' => 4167,
     'name' => 'Beaumaris',
@@ -2395,7 +2278,7 @@ return array (
     'latitude' => -37.98534,
     'longitude' => 145.03361,
   ),
-  266 => 
+  253 => 
   array (
     'id' => 4168,
     'name' => 'Beaumont',
@@ -2404,7 +2287,7 @@ return array (
     'latitude' => -34.94899,
     'longitude' => 138.66188,
   ),
-  267 => 
+  254 => 
   array (
     'id' => 4169,
     'name' => 'Beaumont Hills',
@@ -2413,7 +2296,7 @@ return array (
     'latitude' => -33.69993,
     'longitude' => 150.9411,
   ),
-  268 => 
+  255 => 
   array (
     'id' => 4170,
     'name' => 'Beauty Point',
@@ -2422,7 +2305,7 @@ return array (
     'latitude' => -41.16216,
     'longitude' => 146.82146,
   ),
-  269 => 
+  256 => 
   array (
     'id' => 4171,
     'name' => 'Beckenham',
@@ -2431,7 +2314,7 @@ return array (
     'latitude' => -32.02481,
     'longitude' => 115.95989,
   ),
-  270 => 
+  257 => 
   array (
     'id' => 4172,
     'name' => 'Bedford',
@@ -2440,7 +2323,7 @@ return array (
     'latitude' => -31.91132,
     'longitude' => 115.8892,
   ),
-  271 => 
+  258 => 
   array (
     'id' => 4173,
     'name' => 'Bedford Park',
@@ -2449,7 +2332,7 @@ return array (
     'latitude' => -35.02204,
     'longitude' => 138.56815,
   ),
-  272 => 
+  259 => 
   array (
     'id' => 4174,
     'name' => 'Bedfordale',
@@ -2458,7 +2341,7 @@ return array (
     'latitude' => -32.17406,
     'longitude' => 116.0504,
   ),
-  273 => 
+  260 => 
   array (
     'id' => 4175,
     'name' => 'Beechboro',
@@ -2467,7 +2350,7 @@ return array (
     'latitude' => -31.86515,
     'longitude' => 115.93661,
   ),
-  274 => 
+  261 => 
   array (
     'id' => 4176,
     'name' => 'Beechworth',
@@ -2476,7 +2359,7 @@ return array (
     'latitude' => -36.35828,
     'longitude' => 146.68584,
   ),
-  275 => 
+  262 => 
   array (
     'id' => 4177,
     'name' => 'Beecroft',
@@ -2485,7 +2368,7 @@ return array (
     'latitude' => -33.74954,
     'longitude' => 151.0648,
   ),
-  276 => 
+  263 => 
   array (
     'id' => 4178,
     'name' => 'Beeliar',
@@ -2494,7 +2377,7 @@ return array (
     'latitude' => -32.13339,
     'longitude' => 115.80637,
   ),
-  277 => 
+  264 => 
   array (
     'id' => 4179,
     'name' => 'Beenleigh',
@@ -2503,7 +2386,7 @@ return array (
     'latitude' => -27.71137,
     'longitude' => 153.2029,
   ),
-  278 => 
+  265 => 
   array (
     'id' => 4180,
     'name' => 'Beerwah',
@@ -2512,7 +2395,7 @@ return array (
     'latitude' => -26.85881,
     'longitude' => 152.96144,
   ),
-  279 => 
+  266 => 
   array (
     'id' => 4181,
     'name' => 'Bega',
@@ -2521,7 +2404,7 @@ return array (
     'latitude' => -36.67392,
     'longitude' => 149.84178,
   ),
-  280 => 
+  267 => 
   array (
     'id' => 4182,
     'name' => 'Bega Valley',
@@ -2530,7 +2413,7 @@ return array (
     'latitude' => -36.81646,
     'longitude' => 149.7206,
   ),
-  281 => 
+  268 => 
   array (
     'id' => 4183,
     'name' => 'Belair',
@@ -2539,7 +2422,7 @@ return array (
     'latitude' => -34.99766,
     'longitude' => 138.62077,
   ),
-  282 => 
+  269 => 
   array (
     'id' => 4184,
     'name' => 'Belconnen',
@@ -2548,7 +2431,7 @@ return array (
     'latitude' => -35.23798,
     'longitude' => 149.06627,
   ),
-  283 => 
+  270 => 
   array (
     'id' => 4185,
     'name' => 'Beldon',
@@ -2557,7 +2440,7 @@ return array (
     'latitude' => -31.77466,
     'longitude' => 115.7627,
   ),
-  284 => 
+  271 => 
   array (
     'id' => 4186,
     'name' => 'Belfield',
@@ -2566,7 +2449,7 @@ return array (
     'latitude' => -33.90354,
     'longitude' => 151.08467,
   ),
-  285 => 
+  272 => 
   array (
     'id' => 4187,
     'name' => 'Belgian Gardens',
@@ -2575,7 +2458,7 @@ return array (
     'latitude' => -19.24507,
     'longitude' => 146.79455,
   ),
-  286 => 
+  273 => 
   array (
     'id' => 4188,
     'name' => 'Belgrave',
@@ -2584,7 +2467,7 @@ return array (
     'latitude' => -37.91093,
     'longitude' => 145.35359,
   ),
-  287 => 
+  274 => 
   array (
     'id' => 4189,
     'name' => 'Belgrave Heights',
@@ -2593,7 +2476,7 @@ return array (
     'latitude' => -37.92624,
     'longitude' => 145.34367,
   ),
-  288 => 
+  275 => 
   array (
     'id' => 4190,
     'name' => 'Belgrave South',
@@ -2602,7 +2485,7 @@ return array (
     'latitude' => -37.93333,
     'longitude' => 145.33333,
   ),
-  289 => 
+  276 => 
   array (
     'id' => 4191,
     'name' => 'Bell Park',
@@ -2611,7 +2494,7 @@ return array (
     'latitude' => -38.10793,
     'longitude' => 144.33839,
   ),
-  290 => 
+  277 => 
   array (
     'id' => 4192,
     'name' => 'Bell Post Hill',
@@ -2620,7 +2503,7 @@ return array (
     'latitude' => -38.09564,
     'longitude' => 144.31968,
   ),
-  291 => 
+  278 => 
   array (
     'id' => 4193,
     'name' => 'Bella Vista',
@@ -2629,7 +2512,7 @@ return array (
     'latitude' => -33.74127,
     'longitude' => 150.95456,
   ),
-  292 => 
+  279 => 
   array (
     'id' => 4194,
     'name' => 'Bellamack',
@@ -2638,7 +2521,7 @@ return array (
     'latitude' => -12.51707,
     'longitude' => 130.98355,
   ),
-  293 => 
+  280 => 
   array (
     'id' => 4195,
     'name' => 'Bellambi',
@@ -2647,7 +2530,7 @@ return array (
     'latitude' => -34.36667,
     'longitude' => 150.91667,
   ),
-  294 => 
+  281 => 
   array (
     'id' => 4196,
     'name' => 'Bellara',
@@ -2656,7 +2539,7 @@ return array (
     'latitude' => -27.06392,
     'longitude' => 153.14959,
   ),
-  295 => 
+  282 => 
   array (
     'id' => 4197,
     'name' => 'Bellbird',
@@ -2665,7 +2548,7 @@ return array (
     'latitude' => -32.85992,
     'longitude' => 151.31873,
   ),
-  296 => 
+  283 => 
   array (
     'id' => 4198,
     'name' => 'Bellbird Park',
@@ -2674,7 +2557,7 @@ return array (
     'latitude' => -27.63674,
     'longitude' => 152.88663,
   ),
-  297 => 
+  284 => 
   array (
     'id' => 4199,
     'name' => 'Bellbowrie',
@@ -2683,7 +2566,7 @@ return array (
     'latitude' => -27.55939,
     'longitude' => 152.88278,
   ),
-  298 => 
+  285 => 
   array (
     'id' => 4200,
     'name' => 'Bellerive',
@@ -2692,7 +2575,7 @@ return array (
     'latitude' => -42.87551,
     'longitude' => 147.3703,
   ),
-  299 => 
+  286 => 
   array (
     'id' => 4201,
     'name' => 'Bellevue',
@@ -2701,7 +2584,7 @@ return array (
     'latitude' => -31.90116,
     'longitude' => 116.02762,
   ),
-  300 => 
+  287 => 
   array (
     'id' => 4202,
     'name' => 'Bellevue Heights',
@@ -2710,7 +2593,7 @@ return array (
     'latitude' => -35.03023,
     'longitude' => 138.58314,
   ),
-  301 => 
+  288 => 
   array (
     'id' => 4203,
     'name' => 'Bellevue Hill',
@@ -2719,7 +2602,7 @@ return array (
     'latitude' => -33.87899,
     'longitude' => 151.25101,
   ),
-  302 => 
+  289 => 
   array (
     'id' => 4204,
     'name' => 'Bellfield',
@@ -2728,7 +2611,7 @@ return array (
     'latitude' => -37.75309,
     'longitude' => 145.03848,
   ),
-  303 => 
+  290 => 
   array (
     'id' => 4205,
     'name' => 'Bellingen',
@@ -2737,7 +2620,7 @@ return array (
     'latitude' => -30.37394,
     'longitude' => 152.72492,
   ),
-  304 => 
+  291 => 
   array (
     'id' => 4206,
     'name' => 'Bellmere',
@@ -2746,7 +2629,7 @@ return array (
     'latitude' => -27.08441,
     'longitude' => 152.89003,
   ),
-  305 => 
+  292 => 
   array (
     'id' => 4207,
     'name' => 'Belmont',
@@ -2755,34 +2638,7 @@ return array (
     'latitude' => -33.0274,
     'longitude' => 151.6601,
   ),
-  306 => 
-  array (
-    'id' => 4208,
-    'name' => 'Belmont',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.49882,
-    'longitude' => 153.134,
-  ),
-  307 => 
-  array (
-    'id' => 4209,
-    'name' => 'Belmont',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.95458,
-    'longitude' => 115.94218,
-  ),
-  308 => 
-  array (
-    'id' => 4210,
-    'name' => 'Belmont',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.17485,
-    'longitude' => 144.34276,
-  ),
-  309 => 
+  293 => 
   array (
     'id' => 4211,
     'name' => 'Belmont North',
@@ -2791,7 +2647,7 @@ return array (
     'latitude' => -33.02081,
     'longitude' => 151.66849,
   ),
-  310 => 
+  294 => 
   array (
     'id' => 4212,
     'name' => 'Belmont South',
@@ -2800,7 +2656,7 @@ return array (
     'latitude' => -33.04934,
     'longitude' => 151.65695,
   ),
-  311 => 
+  295 => 
   array (
     'id' => 4213,
     'name' => 'Belmore',
@@ -2809,7 +2665,7 @@ return array (
     'latitude' => -33.91901,
     'longitude' => 151.08935,
   ),
-  312 => 
+  296 => 
   array (
     'id' => 4214,
     'name' => 'Belrose',
@@ -2818,7 +2674,7 @@ return array (
     'latitude' => -33.73954,
     'longitude' => 151.21033,
   ),
-  313 => 
+  297 => 
   array (
     'id' => 4215,
     'name' => 'Belyuen',
@@ -2827,7 +2683,7 @@ return array (
     'latitude' => -12.53819,
     'longitude' => 130.68317,
   ),
-  314 => 
+  298 => 
   array (
     'id' => 4216,
     'name' => 'Benalla',
@@ -2836,7 +2692,7 @@ return array (
     'latitude' => -36.59041,
     'longitude' => 146.02812,
   ),
-  315 => 
+  299 => 
   array (
     'id' => 4217,
     'name' => 'Benaraby',
@@ -2845,7 +2701,7 @@ return array (
     'latitude' => -24.00417,
     'longitude' => 151.3341,
   ),
-  316 => 
+  300 => 
   array (
     'id' => 4218,
     'name' => 'Bendigo',
@@ -2854,7 +2710,7 @@ return array (
     'latitude' => -36.75818,
     'longitude' => 144.28024,
   ),
-  317 => 
+  301 => 
   array (
     'id' => 4219,
     'name' => 'Bendigo city centre',
@@ -2863,7 +2719,7 @@ return array (
     'latitude' => -36.75698,
     'longitude' => 144.27957,
   ),
-  318 => 
+  302 => 
   array (
     'id' => 4220,
     'name' => 'Bennett Springs',
@@ -2872,7 +2728,7 @@ return array (
     'latitude' => -31.85941,
     'longitude' => 115.94512,
   ),
-  319 => 
+  303 => 
   array (
     'id' => 4221,
     'name' => 'Benowa',
@@ -2881,7 +2737,7 @@ return array (
     'latitude' => -28.0077,
     'longitude' => 153.38583,
   ),
-  320 => 
+  304 => 
   array (
     'id' => 4222,
     'name' => 'Bensville',
@@ -2890,7 +2746,7 @@ return array (
     'latitude' => -33.49757,
     'longitude' => 151.38084,
   ),
-  321 => 
+  305 => 
   array (
     'id' => 4223,
     'name' => 'Bentleigh',
@@ -2899,7 +2755,7 @@ return array (
     'latitude' => -37.91806,
     'longitude' => 145.03544,
   ),
-  322 => 
+  306 => 
   array (
     'id' => 4224,
     'name' => 'Bentleigh East',
@@ -2908,7 +2764,7 @@ return array (
     'latitude' => -37.91928,
     'longitude' => 145.05301,
   ),
-  323 => 
+  307 => 
   array (
     'id' => 4225,
     'name' => 'Bentley',
@@ -2917,7 +2773,7 @@ return array (
     'latitude' => -32.00224,
     'longitude' => 115.92473,
   ),
-  324 => 
+  308 => 
   array (
     'id' => 4226,
     'name' => 'Bentley Park',
@@ -2926,7 +2782,7 @@ return array (
     'latitude' => -17.00389,
     'longitude' => 145.73819,
   ),
-  325 => 
+  309 => 
   array (
     'id' => 4227,
     'name' => 'Berala',
@@ -2935,7 +2791,7 @@ return array (
     'latitude' => -33.87197,
     'longitude' => 151.03386,
   ),
-  326 => 
+  310 => 
   array (
     'id' => 4228,
     'name' => 'Beresfield',
@@ -2944,7 +2800,7 @@ return array (
     'latitude' => -32.8,
     'longitude' => 151.65,
   ),
-  327 => 
+  311 => 
   array (
     'id' => 4229,
     'name' => 'Beresford',
@@ -2953,7 +2809,7 @@ return array (
     'latitude' => -28.75754,
     'longitude' => 114.61965,
   ),
-  328 => 
+  312 => 
   array (
     'id' => 4230,
     'name' => 'Berkeley',
@@ -2962,7 +2818,7 @@ return array (
     'latitude' => -34.48333,
     'longitude' => 150.85,
   ),
-  329 => 
+  313 => 
   array (
     'id' => 4231,
     'name' => 'Berkeley Vale',
@@ -2971,7 +2827,7 @@ return array (
     'latitude' => -33.35,
     'longitude' => 151.43333,
   ),
-  330 => 
+  314 => 
   array (
     'id' => 4232,
     'name' => 'Berkshire Park',
@@ -2980,7 +2836,7 @@ return array (
     'latitude' => -33.67283,
     'longitude' => 150.77523,
   ),
-  331 => 
+  315 => 
   array (
     'id' => 4233,
     'name' => 'Bermagui',
@@ -2989,7 +2845,7 @@ return array (
     'latitude' => -36.419,
     'longitude' => 150.06355,
   ),
-  332 => 
+  316 => 
   array (
     'id' => 4234,
     'name' => 'Berowra',
@@ -2998,7 +2854,7 @@ return array (
     'latitude' => -33.62078,
     'longitude' => 151.15091,
   ),
-  333 => 
+  317 => 
   array (
     'id' => 4235,
     'name' => 'Berowra Heights',
@@ -3007,7 +2863,7 @@ return array (
     'latitude' => -33.61211,
     'longitude' => 151.13754,
   ),
-  334 => 
+  318 => 
   array (
     'id' => 4236,
     'name' => 'Berri',
@@ -3016,7 +2872,7 @@ return array (
     'latitude' => -34.28107,
     'longitude' => 140.59958,
   ),
-  335 => 
+  319 => 
   array (
     'id' => 4237,
     'name' => 'Berri and Barmera',
@@ -3025,7 +2881,7 @@ return array (
     'latitude' => -34.28788,
     'longitude' => 140.49358,
   ),
-  336 => 
+  320 => 
   array (
     'id' => 4238,
     'name' => 'Berridale',
@@ -3034,7 +2890,7 @@ return array (
     'latitude' => -36.36673,
     'longitude' => 148.82772,
   ),
-  337 => 
+  321 => 
   array (
     'id' => 4239,
     'name' => 'Berriedale',
@@ -3043,7 +2899,7 @@ return array (
     'latitude' => -42.81667,
     'longitude' => 147.25,
   ),
-  338 => 
+  322 => 
   array (
     'id' => 4240,
     'name' => 'Berrigan',
@@ -3052,7 +2908,7 @@ return array (
     'latitude' => -35.75192,
     'longitude' => 145.66984,
   ),
-  339 => 
+  323 => 
   array (
     'id' => 4241,
     'name' => 'Berrimah',
@@ -3061,7 +2917,7 @@ return array (
     'latitude' => -12.43507,
     'longitude' => 130.92606,
   ),
-  340 => 
+  324 => 
   array (
     'id' => 4242,
     'name' => 'Berrinba',
@@ -3070,7 +2926,7 @@ return array (
     'latitude' => -27.65853,
     'longitude' => 153.07888,
   ),
-  341 => 
+  325 => 
   array (
     'id' => 4243,
     'name' => 'Berry',
@@ -3079,7 +2935,7 @@ return array (
     'latitude' => -34.77507,
     'longitude' => 150.69436,
   ),
-  342 => 
+  326 => 
   array (
     'id' => 4244,
     'name' => 'Berserker',
@@ -3088,7 +2944,7 @@ return array (
     'latitude' => -23.35817,
     'longitude' => 150.52042,
   ),
-  343 => 
+  327 => 
   array (
     'id' => 4245,
     'name' => 'Bertram',
@@ -3097,7 +2953,7 @@ return array (
     'latitude' => -32.24369,
     'longitude' => 115.84572,
   ),
-  344 => 
+  328 => 
   array (
     'id' => 4246,
     'name' => 'Berwick',
@@ -3106,7 +2962,7 @@ return array (
     'latitude' => -38.03333,
     'longitude' => 145.35,
   ),
-  345 => 
+  329 => 
   array (
     'id' => 4247,
     'name' => 'Beulah Park',
@@ -3115,7 +2971,7 @@ return array (
     'latitude' => -34.91768,
     'longitude' => 138.64522,
   ),
-  346 => 
+  330 => 
   array (
     'id' => 4248,
     'name' => 'Beveridge',
@@ -3124,7 +2980,7 @@ return array (
     'latitude' => -37.48333,
     'longitude' => 144.98333,
   ),
-  347 => 
+  331 => 
   array (
     'id' => 4249,
     'name' => 'Beverley',
@@ -3133,16 +2989,7 @@ return array (
     'latitude' => -32.10839,
     'longitude' => 116.92736,
   ),
-  348 => 
-  array (
-    'id' => 4250,
-    'name' => 'Beverley',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.89512,
-    'longitude' => 138.54633,
-  ),
-  349 => 
+  332 => 
   array (
     'id' => 4251,
     'name' => 'Beverley Park',
@@ -3151,7 +2998,7 @@ return array (
     'latitude' => -33.97707,
     'longitude' => 151.13437,
   ),
-  350 => 
+  333 => 
   array (
     'id' => 4252,
     'name' => 'Beverly Hills',
@@ -3160,7 +3007,7 @@ return array (
     'latitude' => -33.94799,
     'longitude' => 151.07979,
   ),
-  351 => 
+  334 => 
   array (
     'id' => 4253,
     'name' => 'Bexley',
@@ -3169,7 +3016,7 @@ return array (
     'latitude' => -33.95,
     'longitude' => 151.11667,
   ),
-  352 => 
+  335 => 
   array (
     'id' => 4254,
     'name' => 'Bexley North',
@@ -3178,7 +3025,7 @@ return array (
     'latitude' => -33.93848,
     'longitude' => 151.11385,
   ),
-  353 => 
+  336 => 
   array (
     'id' => 4255,
     'name' => 'Bibra Lake',
@@ -3187,7 +3034,7 @@ return array (
     'latitude' => -32.09764,
     'longitude' => 115.81921,
   ),
-  354 => 
+  337 => 
   array (
     'id' => 4256,
     'name' => 'Bicton',
@@ -3196,7 +3043,7 @@ return array (
     'latitude' => -32.02778,
     'longitude' => 115.78333,
   ),
-  355 => 
+  338 => 
   array (
     'id' => 4257,
     'name' => 'Bidwill',
@@ -3205,7 +3052,7 @@ return array (
     'latitude' => -33.73013,
     'longitude' => 150.82219,
   ),
-  356 => 
+  339 => 
   array (
     'id' => 4258,
     'name' => 'Biggera Waters',
@@ -3214,7 +3061,7 @@ return array (
     'latitude' => -27.93239,
     'longitude' => 153.40021,
   ),
-  357 => 
+  340 => 
   array (
     'id' => 4259,
     'name' => 'Bilambil Heights',
@@ -3223,7 +3070,7 @@ return array (
     'latitude' => -28.2161,
     'longitude' => 153.48415,
   ),
-  358 => 
+  341 => 
   array (
     'id' => 4260,
     'name' => 'Bilgola Plateau',
@@ -3232,7 +3079,7 @@ return array (
     'latitude' => -33.64781,
     'longitude' => 151.31212,
   ),
-  359 => 
+  342 => 
   array (
     'id' => 4261,
     'name' => 'Bilinga',
@@ -3241,7 +3088,7 @@ return array (
     'latitude' => -28.16667,
     'longitude' => 153.51667,
   ),
-  360 => 
+  343 => 
   array (
     'id' => 4262,
     'name' => 'Bilingurr',
@@ -3250,7 +3097,7 @@ return array (
     'latitude' => -17.90909,
     'longitude' => 122.22921,
   ),
-  361 => 
+  344 => 
   array (
     'id' => 4263,
     'name' => 'Biloela',
@@ -3259,7 +3106,7 @@ return array (
     'latitude' => -24.39589,
     'longitude' => 150.51504,
   ),
-  362 => 
+  345 => 
   array (
     'id' => 4264,
     'name' => 'Bindoon',
@@ -3268,7 +3115,7 @@ return array (
     'latitude' => -31.38663,
     'longitude' => 116.09664,
   ),
-  363 => 
+  346 => 
   array (
     'id' => 4265,
     'name' => 'Bingara',
@@ -3277,7 +3124,7 @@ return array (
     'latitude' => -29.86931,
     'longitude' => 150.57204,
   ),
-  364 => 
+  347 => 
   array (
     'id' => 4266,
     'name' => 'Binningup',
@@ -3286,7 +3133,7 @@ return array (
     'latitude' => -33.1483,
     'longitude' => 115.69519,
   ),
-  365 => 
+  348 => 
   array (
     'id' => 4267,
     'name' => 'Birchgrove',
@@ -3295,7 +3142,7 @@ return array (
     'latitude' => -33.85164,
     'longitude' => 151.18243,
   ),
-  366 => 
+  349 => 
   array (
     'id' => 4268,
     'name' => 'Birdwood',
@@ -3304,7 +3151,7 @@ return array (
     'latitude' => -34.81826,
     'longitude' => 138.96478,
   ),
-  367 => 
+  350 => 
   array (
     'id' => 4269,
     'name' => 'Birkdale',
@@ -3313,7 +3160,7 @@ return array (
     'latitude' => -27.48333,
     'longitude' => 153.21667,
   ),
-  368 => 
+  351 => 
   array (
     'id' => 4270,
     'name' => 'Birkenhead',
@@ -3322,7 +3169,7 @@ return array (
     'latitude' => -34.83685,
     'longitude' => 138.49788,
   ),
-  369 => 
+  352 => 
   array (
     'id' => 4271,
     'name' => 'Birmingham Gardens',
@@ -3331,7 +3178,7 @@ return array (
     'latitude' => -32.89368,
     'longitude' => 151.69009,
   ),
-  370 => 
+  353 => 
   array (
     'id' => 4272,
     'name' => 'Birrong',
@@ -3340,7 +3187,7 @@ return array (
     'latitude' => -33.89255,
     'longitude' => 151.02075,
   ),
-  371 => 
+  354 => 
   array (
     'id' => 4273,
     'name' => 'Birtinya',
@@ -3349,7 +3196,7 @@ return array (
     'latitude' => -26.74322,
     'longitude' => 153.11913,
   ),
-  372 => 
+  355 => 
   array (
     'id' => 4274,
     'name' => 'Bittern',
@@ -3358,7 +3205,7 @@ return array (
     'latitude' => -38.33333,
     'longitude' => 145.16667,
   ),
-  373 => 
+  356 => 
   array (
     'id' => 4275,
     'name' => 'Black Forest',
@@ -3367,7 +3214,7 @@ return array (
     'latitude' => -34.96028,
     'longitude' => 138.57668,
   ),
-  374 => 
+  357 => 
   array (
     'id' => 4276,
     'name' => 'Black Hill',
@@ -3376,7 +3223,7 @@ return array (
     'latitude' => -37.55,
     'longitude' => 143.86667,
   ),
-  375 => 
+  358 => 
   array (
     'id' => 4277,
     'name' => 'Black Mountain',
@@ -3385,7 +3232,7 @@ return array (
     'latitude' => -26.39886,
     'longitude' => 152.87561,
   ),
-  376 => 
+  359 => 
   array (
     'id' => 4278,
     'name' => 'Black River',
@@ -3394,7 +3241,7 @@ return array (
     'latitude' => -19.22517,
     'longitude' => 146.61787,
   ),
-  377 => 
+  360 => 
   array (
     'id' => 4279,
     'name' => 'Black Rock',
@@ -3403,7 +3250,7 @@ return array (
     'latitude' => -37.97357,
     'longitude' => 145.01636,
   ),
-  378 => 
+  361 => 
   array (
     'id' => 4280,
     'name' => 'Blackall',
@@ -3412,7 +3259,7 @@ return array (
     'latitude' => -24.42327,
     'longitude' => 145.46303,
   ),
-  379 => 
+  362 => 
   array (
     'id' => 4281,
     'name' => 'Blackall Tambo',
@@ -3421,7 +3268,7 @@ return array (
     'latitude' => -24.78795,
     'longitude' => 145.97279,
   ),
-  380 => 
+  363 => 
   array (
     'id' => 4282,
     'name' => 'Blackalls Park',
@@ -3430,7 +3277,7 @@ return array (
     'latitude' => -32.99893,
     'longitude' => 151.58018,
   ),
-  381 => 
+  364 => 
   array (
     'id' => 4283,
     'name' => 'Blackburn',
@@ -3439,7 +3286,7 @@ return array (
     'latitude' => -37.81901,
     'longitude' => 145.15326,
   ),
-  382 => 
+  365 => 
   array (
     'id' => 4284,
     'name' => 'Blackburn North',
@@ -3448,7 +3295,7 @@ return array (
     'latitude' => -37.80931,
     'longitude' => 145.1518,
   ),
-  383 => 
+  366 => 
   array (
     'id' => 4285,
     'name' => 'Blackburn South',
@@ -3457,7 +3304,7 @@ return array (
     'latitude' => -37.83975,
     'longitude' => 145.15549,
   ),
-  384 => 
+  367 => 
   array (
     'id' => 4286,
     'name' => 'Blackbutt',
@@ -3466,7 +3313,7 @@ return array (
     'latitude' => -34.57164,
     'longitude' => 150.83804,
   ),
-  385 => 
+  368 => 
   array (
     'id' => 4287,
     'name' => 'Blackett',
@@ -3475,7 +3322,7 @@ return array (
     'latitude' => -33.73792,
     'longitude' => 150.81812,
   ),
-  386 => 
+  369 => 
   array (
     'id' => 4288,
     'name' => 'Blackheath',
@@ -3484,7 +3331,7 @@ return array (
     'latitude' => -33.63567,
     'longitude' => 150.28318,
   ),
-  387 => 
+  370 => 
   array (
     'id' => 4289,
     'name' => 'Blackmans Bay',
@@ -3493,7 +3340,7 @@ return array (
     'latitude' => -43.00311,
     'longitude' => 147.31694,
   ),
-  388 => 
+  371 => 
   array (
     'id' => 4290,
     'name' => 'Blacks Beach',
@@ -3502,7 +3349,7 @@ return array (
     'latitude' => -21.05466,
     'longitude' => 149.18971,
   ),
-  389 => 
+  372 => 
   array (
     'id' => 4291,
     'name' => 'Blacksmiths',
@@ -3511,7 +3358,7 @@ return array (
     'latitude' => -33.07167,
     'longitude' => 151.65533,
   ),
-  390 => 
+  373 => 
   array (
     'id' => 4292,
     'name' => 'Blackstone Heights',
@@ -3520,7 +3367,7 @@ return array (
     'latitude' => -41.45977,
     'longitude' => 147.08407,
   ),
-  391 => 
+  374 => 
   array (
     'id' => 4293,
     'name' => 'Blacktown',
@@ -3529,7 +3376,7 @@ return array (
     'latitude' => -33.74016,
     'longitude' => 150.86253,
   ),
-  392 => 
+  375 => 
   array (
     'id' => 4294,
     'name' => 'Blackwall',
@@ -3538,7 +3385,7 @@ return array (
     'latitude' => -33.50252,
     'longitude' => 151.32786,
   ),
-  393 => 
+  376 => 
   array (
     'id' => 4295,
     'name' => 'Blackwater',
@@ -3547,7 +3394,7 @@ return array (
     'latitude' => -23.58351,
     'longitude' => 148.87912,
   ),
-  394 => 
+  377 => 
   array (
     'id' => 4296,
     'name' => 'Blackwood',
@@ -3556,7 +3403,7 @@ return array (
     'latitude' => -35.02139,
     'longitude' => 138.61429,
   ),
-  395 => 
+  378 => 
   array (
     'id' => 4297,
     'name' => 'Blair Athol',
@@ -3565,16 +3412,7 @@ return array (
     'latitude' => -34.85889,
     'longitude' => 138.59656,
   ),
-  396 => 
-  array (
-    'id' => 4298,
-    'name' => 'Blair Athol',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -30.65,
-    'longitude' => 150.2,
-  ),
-  397 => 
+  379 => 
   array (
     'id' => 4299,
     'name' => 'Blairgowrie',
@@ -3583,7 +3421,7 @@ return array (
     'latitude' => -38.36131,
     'longitude' => 144.77955,
   ),
-  398 => 
+  380 => 
   array (
     'id' => 4300,
     'name' => 'Blakehurst',
@@ -3592,7 +3430,7 @@ return array (
     'latitude' => -33.99152,
     'longitude' => 151.10876,
   ),
-  399 => 
+  381 => 
   array (
     'id' => 4301,
     'name' => 'Blakeview',
@@ -3601,7 +3439,7 @@ return array (
     'latitude' => -34.67566,
     'longitude' => 138.7101,
   ),
-  400 => 
+  382 => 
   array (
     'id' => 4302,
     'name' => 'Bland',
@@ -3610,7 +3448,7 @@ return array (
     'latitude' => -33.91904,
     'longitude' => 146.92718,
   ),
-  401 => 
+  383 => 
   array (
     'id' => 4303,
     'name' => 'Blaxland',
@@ -3619,7 +3457,7 @@ return array (
     'latitude' => -33.75,
     'longitude' => 150.6,
   ),
-  402 => 
+  384 => 
   array (
     'id' => 4304,
     'name' => 'Blayney',
@@ -3628,7 +3466,7 @@ return array (
     'latitude' => -33.61653,
     'longitude' => 149.13046,
   ),
-  403 => 
+  385 => 
   array (
     'id' => 4305,
     'name' => 'Bli Bli',
@@ -3637,7 +3475,7 @@ return array (
     'latitude' => -26.61724,
     'longitude' => 153.03665,
   ),
-  404 => 
+  386 => 
   array (
     'id' => 4306,
     'name' => 'Bligh Park',
@@ -3646,7 +3484,7 @@ return array (
     'latitude' => -33.63985,
     'longitude' => 150.80248,
   ),
-  405 => 
+  387 => 
   array (
     'id' => 4307,
     'name' => 'Blind Bight',
@@ -3655,7 +3493,7 @@ return array (
     'latitude' => -38.21427,
     'longitude' => 145.3377,
   ),
-  406 => 
+  388 => 
   array (
     'id' => 4308,
     'name' => 'Blue Bay',
@@ -3664,7 +3502,7 @@ return array (
     'latitude' => -33.35413,
     'longitude' => 151.50024,
   ),
-  407 => 
+  389 => 
   array (
     'id' => 4309,
     'name' => 'Blue Haven',
@@ -3673,7 +3511,7 @@ return array (
     'latitude' => -33.21106,
     'longitude' => 151.50351,
   ),
-  408 => 
+  390 => 
   array (
     'id' => 4310,
     'name' => 'Blue Mountains Municipality',
@@ -3682,7 +3520,7 @@ return array (
     'latitude' => -33.63203,
     'longitude' => 150.41293,
   ),
-  409 => 
+  391 => 
   array (
     'id' => 4311,
     'name' => 'Bluewater',
@@ -3691,7 +3529,7 @@ return array (
     'latitude' => -19.18157,
     'longitude' => 146.5582,
   ),
-  410 => 
+  392 => 
   array (
     'id' => 4312,
     'name' => 'Bluff Point',
@@ -3700,7 +3538,7 @@ return array (
     'latitude' => -28.7374,
     'longitude' => 114.62278,
   ),
-  411 => 
+  393 => 
   array (
     'id' => 4313,
     'name' => 'Boambee',
@@ -3709,7 +3547,7 @@ return array (
     'latitude' => -30.33981,
     'longitude' => 153.06783,
   ),
-  412 => 
+  394 => 
   array (
     'id' => 4314,
     'name' => 'Boambee East',
@@ -3718,7 +3556,7 @@ return array (
     'latitude' => -30.34662,
     'longitude' => 153.0732,
   ),
-  413 => 
+  395 => 
   array (
     'id' => 4315,
     'name' => 'Boddington',
@@ -3727,7 +3565,7 @@ return array (
     'latitude' => -32.79195,
     'longitude' => 116.41883,
   ),
-  414 => 
+  396 => 
   array (
     'id' => 4316,
     'name' => 'Bogan',
@@ -3736,7 +3574,7 @@ return array (
     'latitude' => -31.57012,
     'longitude' => 146.90617,
   ),
-  415 => 
+  397 => 
   array (
     'id' => 4317,
     'name' => 'Bogangar',
@@ -3745,7 +3583,7 @@ return array (
     'latitude' => -28.32944,
     'longitude' => 153.5686,
   ),
-  416 => 
+  398 => 
   array (
     'id' => 4318,
     'name' => 'Boggabri',
@@ -3754,7 +3592,7 @@ return array (
     'latitude' => -30.70953,
     'longitude' => 150.04121,
   ),
-  417 => 
+  399 => 
   array (
     'id' => 4319,
     'name' => 'Bohle Plains',
@@ -3763,7 +3601,7 @@ return array (
     'latitude' => -19.31365,
     'longitude' => 146.69186,
   ),
-  418 => 
+  400 => 
   array (
     'id' => 4320,
     'name' => 'Bokarina',
@@ -3772,7 +3610,7 @@ return array (
     'latitude' => -26.73843,
     'longitude' => 153.13049,
   ),
-  419 => 
+  401 => 
   array (
     'id' => 4321,
     'name' => 'Bolton Point',
@@ -3781,7 +3619,7 @@ return array (
     'latitude' => -33.00177,
     'longitude' => 151.61013,
   ),
-  420 => 
+  402 => 
   array (
     'id' => 4322,
     'name' => 'Bolwarra Heights',
@@ -3790,7 +3628,7 @@ return array (
     'latitude' => -32.701,
     'longitude' => 151.58541,
   ),
-  421 => 
+  403 => 
   array (
     'id' => 4323,
     'name' => 'Bomaderry',
@@ -3799,7 +3637,7 @@ return array (
     'latitude' => -34.84967,
     'longitude' => 150.61093,
   ),
-  422 => 
+  404 => 
   array (
     'id' => 4324,
     'name' => 'Bombala',
@@ -3808,7 +3646,7 @@ return array (
     'latitude' => -36.91212,
     'longitude' => 149.23669,
   ),
-  423 => 
+  405 => 
   array (
     'id' => 4325,
     'name' => 'Bonbeach',
@@ -3817,7 +3655,7 @@ return array (
     'latitude' => -38.06528,
     'longitude' => 145.12278,
   ),
-  424 => 
+  406 => 
   array (
     'id' => 4326,
     'name' => 'Bondi',
@@ -3826,7 +3664,7 @@ return array (
     'latitude' => -33.89429,
     'longitude' => 151.26444,
   ),
-  425 => 
+  407 => 
   array (
     'id' => 4327,
     'name' => 'Bondi Beach',
@@ -3835,7 +3673,7 @@ return array (
     'latitude' => -33.89079,
     'longitude' => 151.27852,
   ),
-  426 => 
+  408 => 
   array (
     'id' => 4328,
     'name' => 'Bondi Junction',
@@ -3844,7 +3682,7 @@ return array (
     'latitude' => -33.89275,
     'longitude' => 151.24723,
   ),
-  427 => 
+  409 => 
   array (
     'id' => 4329,
     'name' => 'Bongaree',
@@ -3853,7 +3691,7 @@ return array (
     'latitude' => -27.08367,
     'longitude' => 153.15942,
   ),
-  428 => 
+  410 => 
   array (
     'id' => 4330,
     'name' => 'Bonnells Bay',
@@ -3862,7 +3700,7 @@ return array (
     'latitude' => -33.10973,
     'longitude' => 151.53226,
   ),
-  429 => 
+  411 => 
   array (
     'id' => 4331,
     'name' => 'Bonner',
@@ -3871,7 +3709,7 @@ return array (
     'latitude' => -35.16225,
     'longitude' => 149.13855,
   ),
-  430 => 
+  412 => 
   array (
     'id' => 4332,
     'name' => 'Bonnet Bay',
@@ -3880,7 +3718,7 @@ return array (
     'latitude' => -34.01023,
     'longitude' => 151.05253,
   ),
-  431 => 
+  413 => 
   array (
     'id' => 4333,
     'name' => 'Bonny Hills',
@@ -3889,7 +3727,7 @@ return array (
     'latitude' => -31.59061,
     'longitude' => 152.83908,
   ),
-  432 => 
+  414 => 
   array (
     'id' => 4334,
     'name' => 'Bonnyrigg',
@@ -3898,7 +3736,7 @@ return array (
     'latitude' => -33.89357,
     'longitude' => 150.88908,
   ),
-  433 => 
+  415 => 
   array (
     'id' => 4335,
     'name' => 'Bonnyrigg Heights',
@@ -3907,7 +3745,7 @@ return array (
     'latitude' => -33.89117,
     'longitude' => 150.86994,
   ),
-  434 => 
+  416 => 
   array (
     'id' => 4336,
     'name' => 'Bonogin',
@@ -3916,7 +3754,7 @@ return array (
     'latitude' => -28.1393,
     'longitude' => 153.35297,
   ),
-  435 => 
+  417 => 
   array (
     'id' => 4337,
     'name' => 'Bonville',
@@ -3925,7 +3763,7 @@ return array (
     'latitude' => -30.38284,
     'longitude' => 153.05959,
   ),
-  436 => 
+  418 => 
   array (
     'id' => 4338,
     'name' => 'Bonython',
@@ -3934,7 +3772,7 @@ return array (
     'latitude' => -35.43326,
     'longitude' => 149.07822,
   ),
-  437 => 
+  419 => 
   array (
     'id' => 4339,
     'name' => 'Booie',
@@ -3943,7 +3781,7 @@ return array (
     'latitude' => -26.53677,
     'longitude' => 151.94181,
   ),
-  438 => 
+  420 => 
   array (
     'id' => 4340,
     'name' => 'Booker Bay',
@@ -3952,7 +3790,7 @@ return array (
     'latitude' => -33.5125,
     'longitude' => 151.3459,
   ),
-  439 => 
+  421 => 
   array (
     'id' => 4341,
     'name' => 'Boonah',
@@ -3961,7 +3799,7 @@ return array (
     'latitude' => -27.99724,
     'longitude' => 152.68108,
   ),
-  440 => 
+  422 => 
   array (
     'id' => 4342,
     'name' => 'Boondall',
@@ -3970,7 +3808,7 @@ return array (
     'latitude' => -27.35317,
     'longitude' => 153.06092,
   ),
-  441 => 
+  423 => 
   array (
     'id' => 4343,
     'name' => 'Booragoon',
@@ -3979,7 +3817,7 @@ return array (
     'latitude' => -32.03945,
     'longitude' => 115.83369,
   ),
-  442 => 
+  424 => 
   array (
     'id' => 4344,
     'name' => 'Booragul',
@@ -3988,7 +3826,7 @@ return array (
     'latitude' => -32.97486,
     'longitude' => 151.60978,
   ),
-  443 => 
+  425 => 
   array (
     'id' => 4345,
     'name' => 'Booral',
@@ -3997,7 +3835,7 @@ return array (
     'latitude' => -25.36048,
     'longitude' => 152.9081,
   ),
-  444 => 
+  426 => 
   array (
     'id' => 4346,
     'name' => 'Boorowa',
@@ -4006,7 +3844,7 @@ return array (
     'latitude' => -34.43661,
     'longitude' => 148.71634,
   ),
-  445 => 
+  427 => 
   array (
     'id' => 4347,
     'name' => 'Booval',
@@ -4015,7 +3853,7 @@ return array (
     'latitude' => -27.61328,
     'longitude' => 152.78944,
   ),
-  446 => 
+  428 => 
   array (
     'id' => 4348,
     'name' => 'Bordertown',
@@ -4024,7 +3862,7 @@ return array (
     'latitude' => -36.30768,
     'longitude' => 140.77167,
   ),
-  447 => 
+  429 => 
   array (
     'id' => 4349,
     'name' => 'Boronia',
@@ -4033,7 +3871,7 @@ return array (
     'latitude' => -37.86667,
     'longitude' => 145.28333,
   ),
-  448 => 
+  430 => 
   array (
     'id' => 4350,
     'name' => 'Boronia Heights',
@@ -4042,7 +3880,7 @@ return array (
     'latitude' => -27.68855,
     'longitude' => 153.01959,
   ),
-  449 => 
+  431 => 
   array (
     'id' => 4351,
     'name' => 'Boroondara',
@@ -4051,7 +3889,7 @@ return array (
     'latitude' => -37.8264,
     'longitude' => 145.05299,
   ),
-  450 => 
+  432 => 
   array (
     'id' => 4352,
     'name' => 'Bossley Park',
@@ -4060,7 +3898,7 @@ return array (
     'latitude' => -33.86184,
     'longitude' => 150.8841,
   ),
-  451 => 
+  433 => 
   array (
     'id' => 4353,
     'name' => 'Botanic Ridge',
@@ -4069,7 +3907,7 @@ return array (
     'latitude' => -38.13922,
     'longitude' => 145.26841,
   ),
-  452 => 
+  434 => 
   array (
     'id' => 4354,
     'name' => 'Botany',
@@ -4078,7 +3916,7 @@ return array (
     'latitude' => -33.94599,
     'longitude' => 151.19591,
   ),
-  453 => 
+  435 => 
   array (
     'id' => 4355,
     'name' => 'Botany Bay',
@@ -4087,7 +3925,7 @@ return array (
     'latitude' => -33.9466,
     'longitude' => 151.19874,
   ),
-  454 => 
+  436 => 
   array (
     'id' => 4356,
     'name' => 'Boulder',
@@ -4096,7 +3934,7 @@ return array (
     'latitude' => -30.78204,
     'longitude' => 121.4912,
   ),
-  455 => 
+  437 => 
   array (
     'id' => 4357,
     'name' => 'Bouldercombe',
@@ -4105,7 +3943,7 @@ return array (
     'latitude' => -23.57054,
     'longitude' => 150.46951,
   ),
-  456 => 
+  438 => 
   array (
     'id' => 4358,
     'name' => 'Boulia',
@@ -4114,7 +3952,7 @@ return array (
     'latitude' => -22.27908,
     'longitude' => 139.62534,
   ),
-  457 => 
+  439 => 
   array (
     'id' => 4359,
     'name' => 'Bourke',
@@ -4123,7 +3961,7 @@ return array (
     'latitude' => -29.99584,
     'longitude' => 145.3616,
   ),
-  458 => 
+  440 => 
   array (
     'id' => 4360,
     'name' => 'Bourkelands',
@@ -4132,7 +3970,7 @@ return array (
     'latitude' => -35.15593,
     'longitude' => 147.34704,
   ),
-  459 => 
+  441 => 
   array (
     'id' => 4361,
     'name' => 'Bow Bowing',
@@ -4141,7 +3979,7 @@ return array (
     'latitude' => -34.01655,
     'longitude' => 150.8403,
   ),
-  460 => 
+  442 => 
   array (
     'id' => 4362,
     'name' => 'Bowen',
@@ -4150,7 +3988,7 @@ return array (
     'latitude' => -20.01367,
     'longitude' => 148.24754,
   ),
-  461 => 
+  443 => 
   array (
     'id' => 4363,
     'name' => 'Bowen Hills',
@@ -4159,7 +3997,7 @@ return array (
     'latitude' => -27.44369,
     'longitude' => 153.03728,
   ),
-  462 => 
+  444 => 
   array (
     'id' => 4364,
     'name' => 'Bowen Mountain',
@@ -4168,7 +4006,7 @@ return array (
     'latitude' => -33.57192,
     'longitude' => 150.62563,
   ),
-  463 => 
+  445 => 
   array (
     'id' => 4365,
     'name' => 'Bowenfels',
@@ -4177,7 +4015,7 @@ return array (
     'latitude' => -33.48336,
     'longitude' => 150.13444,
   ),
-  464 => 
+  446 => 
   array (
     'id' => 4366,
     'name' => 'Bowral',
@@ -4186,7 +4024,7 @@ return array (
     'latitude' => -34.4775,
     'longitude' => 150.4204,
   ),
-  465 => 
+  447 => 
   array (
     'id' => 4367,
     'name' => 'Bowraville',
@@ -4195,7 +4033,7 @@ return array (
     'latitude' => -30.64997,
     'longitude' => 152.85146,
   ),
-  466 => 
+  448 => 
   array (
     'id' => 4368,
     'name' => 'Box Hill',
@@ -4204,7 +4042,7 @@ return array (
     'latitude' => -37.81887,
     'longitude' => 145.12545,
   ),
-  467 => 
+  449 => 
   array (
     'id' => 4369,
     'name' => 'Box Hill North',
@@ -4213,7 +4051,7 @@ return array (
     'latitude' => -37.80266,
     'longitude' => 145.12656,
   ),
-  468 => 
+  450 => 
   array (
     'id' => 4370,
     'name' => 'Box Hill South',
@@ -4222,7 +4060,7 @@ return array (
     'latitude' => -37.83236,
     'longitude' => 145.12098,
   ),
-  469 => 
+  451 => 
   array (
     'id' => 4371,
     'name' => 'Boyanup',
@@ -4231,7 +4069,7 @@ return array (
     'latitude' => -33.48295,
     'longitude' => 115.72838,
   ),
-  470 => 
+  452 => 
   array (
     'id' => 4372,
     'name' => 'Boyne Island',
@@ -4240,7 +4078,7 @@ return array (
     'latitude' => -23.94829,
     'longitude' => 151.35336,
   ),
-  471 => 
+  453 => 
   array (
     'id' => 4373,
     'name' => 'Boyup Brook',
@@ -4249,7 +4087,7 @@ return array (
     'latitude' => -33.88555,
     'longitude' => 116.51885,
   ),
-  472 => 
+  454 => 
   array (
     'id' => 4374,
     'name' => 'Brabham',
@@ -4258,7 +4096,7 @@ return array (
     'latitude' => -31.82728,
     'longitude' => 115.97417,
   ),
-  473 => 
+  455 => 
   array (
     'id' => 4375,
     'name' => 'Bracken Ridge',
@@ -4267,7 +4105,7 @@ return array (
     'latitude' => -27.3171,
     'longitude' => 153.03097,
   ),
-  474 => 
+  456 => 
   array (
     'id' => 4376,
     'name' => 'Bradbury',
@@ -4276,7 +4114,7 @@ return array (
     'latitude' => -34.0854,
     'longitude' => 150.81541,
   ),
-  475 => 
+  457 => 
   array (
     'id' => 4377,
     'name' => 'Braddon',
@@ -4285,7 +4123,7 @@ return array (
     'latitude' => -35.27078,
     'longitude' => 149.13569,
   ),
-  476 => 
+  458 => 
   array (
     'id' => 4378,
     'name' => 'Brahma Lodge',
@@ -4294,7 +4132,7 @@ return array (
     'latitude' => -34.77604,
     'longitude' => 138.65306,
   ),
-  477 => 
+  459 => 
   array (
     'id' => 4379,
     'name' => 'Braidwood',
@@ -4303,7 +4141,7 @@ return array (
     'latitude' => -35.44148,
     'longitude' => 149.7998,
   ),
-  478 => 
+  460 => 
   array (
     'id' => 4380,
     'name' => 'Braitling',
@@ -4312,7 +4150,7 @@ return array (
     'latitude' => -23.68005,
     'longitude' => 133.86877,
   ),
-  479 => 
+  461 => 
   array (
     'id' => 4381,
     'name' => 'Brandon',
@@ -4321,7 +4159,7 @@ return array (
     'latitude' => -19.55389,
     'longitude' => 147.35304,
   ),
-  480 => 
+  462 => 
   array (
     'id' => 4382,
     'name' => 'Branxton',
@@ -4330,7 +4168,7 @@ return array (
     'latitude' => -32.65547,
     'longitude' => 151.35113,
   ),
-  481 => 
+  463 => 
   array (
     'id' => 4383,
     'name' => 'Branyan',
@@ -4339,7 +4177,7 @@ return array (
     'latitude' => -24.91347,
     'longitude' => 152.27251,
   ),
-  482 => 
+  464 => 
   array (
     'id' => 4384,
     'name' => 'Brassall',
@@ -4348,7 +4186,7 @@ return array (
     'latitude' => -27.59753,
     'longitude' => 152.74755,
   ),
-  483 => 
+  465 => 
   array (
     'id' => 4385,
     'name' => 'Bray Park',
@@ -4357,7 +4195,7 @@ return array (
     'latitude' => -27.29246,
     'longitude' => 152.96783,
   ),
-  484 => 
+  466 => 
   array (
     'id' => 4386,
     'name' => 'Braybrook',
@@ -4366,7 +4204,7 @@ return array (
     'latitude' => -37.78671,
     'longitude' => 144.85484,
   ),
-  485 => 
+  467 => 
   array (
     'id' => 4387,
     'name' => 'Break O\\\'Day',
@@ -4375,7 +4213,7 @@ return array (
     'latitude' => -41.39069,
     'longitude' => 147.97477,
   ),
-  486 => 
+  468 => 
   array (
     'id' => 4388,
     'name' => 'Breakfast Point',
@@ -4384,7 +4222,7 @@ return array (
     'latitude' => -33.84286,
     'longitude' => 151.11072,
   ),
-  487 => 
+  469 => 
   array (
     'id' => 4389,
     'name' => 'Brendale',
@@ -4393,7 +4231,7 @@ return array (
     'latitude' => -27.32114,
     'longitude' => 152.98393,
   ),
-  488 => 
+  470 => 
   array (
     'id' => 4390,
     'name' => 'Brentwood',
@@ -4402,7 +4240,7 @@ return array (
     'latitude' => -32.04347,
     'longitude' => 115.85246,
   ),
-  489 => 
+  471 => 
   array (
     'id' => 4391,
     'name' => 'Brewarrina',
@@ -4411,7 +4249,7 @@ return array (
     'latitude' => -29.95055,
     'longitude' => 147.1476,
   ),
-  490 => 
+  472 => 
   array (
     'id' => 4392,
     'name' => 'Briagolong',
@@ -4420,7 +4258,7 @@ return array (
     'latitude' => -37.84356,
     'longitude' => 147.07268,
   ),
-  491 => 
+  473 => 
   array (
     'id' => 4393,
     'name' => 'Briar Hill',
@@ -4429,7 +4267,7 @@ return array (
     'latitude' => -37.70631,
     'longitude' => 145.121,
   ),
-  492 => 
+  474 => 
   array (
     'id' => 4394,
     'name' => 'Bridgeman Downs',
@@ -4438,7 +4276,7 @@ return array (
     'latitude' => -27.35538,
     'longitude' => 152.99432,
   ),
-  493 => 
+  475 => 
   array (
     'id' => 4395,
     'name' => 'Bridgetown',
@@ -4447,7 +4285,7 @@ return array (
     'latitude' => -33.96242,
     'longitude' => 116.13598,
   ),
-  494 => 
+  476 => 
   array (
     'id' => 4396,
     'name' => 'Bridgetown-Greenbushes',
@@ -4456,7 +4294,7 @@ return array (
     'latitude' => -33.99234,
     'longitude' => 116.22502,
   ),
-  495 => 
+  477 => 
   array (
     'id' => 4397,
     'name' => 'Bridgewater',
@@ -4465,16 +4303,7 @@ return array (
     'latitude' => -35.01397,
     'longitude' => 138.76648,
   ),
-  496 => 
-  array (
-    'id' => 4398,
-    'name' => 'Bridgewater',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -42.73719,
-    'longitude' => 147.22784,
-  ),
-  497 => 
+  478 => 
   array (
     'id' => 4399,
     'name' => 'Bridport',
@@ -4483,7 +4312,7 @@ return array (
     'latitude' => -41.00046,
     'longitude' => 147.39175,
   ),
-  498 => 
+  479 => 
   array (
     'id' => 4400,
     'name' => 'Bright',
@@ -4492,7 +4321,7 @@ return array (
     'latitude' => -36.72998,
     'longitude' => 146.95978,
   ),
-  499 => 
+  480 => 
   array (
     'id' => 4401,
     'name' => 'Brighton',
@@ -4501,34 +4330,7 @@ return array (
     'latitude' => -35.0182,
     'longitude' => 138.52351,
   ),
-  500 => 
-  array (
-    'id' => 4402,
-    'name' => 'Brighton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.29582,
-    'longitude' => 153.05721,
-  ),
-  501 => 
-  array (
-    'id' => 4403,
-    'name' => 'Brighton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.90561,
-    'longitude' => 145.00279,
-  ),
-  502 => 
-  array (
-    'id' => 4404,
-    'name' => 'Brighton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -42.72673,
-    'longitude' => 147.24233,
-  ),
-  503 => 
+  481 => 
   array (
     'id' => 4405,
     'name' => 'Brighton East',
@@ -4537,7 +4339,7 @@ return array (
     'latitude' => -37.90232,
     'longitude' => 145.01734,
   ),
-  504 => 
+  482 => 
   array (
     'id' => 4406,
     'name' => 'Brighton-Le-Sands',
@@ -4546,7 +4348,7 @@ return array (
     'latitude' => -33.96009,
     'longitude' => 151.1511,
   ),
-  505 => 
+  483 => 
   array (
     'id' => 4407,
     'name' => 'Brimbank',
@@ -4555,7 +4357,7 @@ return array (
     'latitude' => -37.74287,
     'longitude' => 144.81644,
   ),
-  506 => 
+  484 => 
   array (
     'id' => 4408,
     'name' => 'Bringelly',
@@ -4564,7 +4366,7 @@ return array (
     'latitude' => -33.93333,
     'longitude' => 150.73333,
   ),
-  507 => 
+  485 => 
   array (
     'id' => 4409,
     'name' => 'Brinkin',
@@ -4573,7 +4375,7 @@ return array (
     'latitude' => -12.37057,
     'longitude' => 130.86799,
   ),
-  508 => 
+  486 => 
   array (
     'id' => 4410,
     'name' => 'Brinsmead',
@@ -4582,7 +4384,7 @@ return array (
     'latitude' => -16.89921,
     'longitude' => 145.71554,
   ),
-  509 => 
+  487 => 
   array (
     'id' => 4411,
     'name' => 'Brisbane',
@@ -4591,7 +4393,7 @@ return array (
     'latitude' => -27.46794,
     'longitude' => 153.02809,
   ),
-  510 => 
+  488 => 
   array (
     'id' => 4412,
     'name' => 'Broadbeach',
@@ -4600,7 +4402,7 @@ return array (
     'latitude' => -28.02782,
     'longitude' => 153.43343,
   ),
-  511 => 
+  489 => 
   array (
     'id' => 4413,
     'name' => 'Broadbeach Waters',
@@ -4609,7 +4411,7 @@ return array (
     'latitude' => -28.03498,
     'longitude' => 153.42502,
   ),
-  512 => 
+  490 => 
   array (
     'id' => 4414,
     'name' => 'Broadford',
@@ -4618,7 +4420,7 @@ return array (
     'latitude' => -37.20276,
     'longitude' => 145.04837,
   ),
-  513 => 
+  491 => 
   array (
     'id' => 4415,
     'name' => 'Broadmeadow',
@@ -4627,7 +4429,7 @@ return array (
     'latitude' => -32.92371,
     'longitude' => 151.72849,
   ),
-  514 => 
+  492 => 
   array (
     'id' => 4416,
     'name' => 'Broadmeadows',
@@ -4636,7 +4438,7 @@ return array (
     'latitude' => -37.68015,
     'longitude' => 144.91877,
   ),
-  515 => 
+  493 => 
   array (
     'id' => 4417,
     'name' => 'Broadview',
@@ -4645,7 +4447,7 @@ return array (
     'latitude' => -34.87589,
     'longitude' => 138.61498,
   ),
-  516 => 
+  494 => 
   array (
     'id' => 4418,
     'name' => 'Broadwater',
@@ -4654,7 +4456,7 @@ return array (
     'latitude' => -33.66304,
     'longitude' => 115.2842,
   ),
-  517 => 
+  495 => 
   array (
     'id' => 4419,
     'name' => 'Brockman',
@@ -4663,7 +4465,7 @@ return array (
     'latitude' => -24.88126,
     'longitude' => 113.65365,
   ),
-  518 => 
+  496 => 
   array (
     'id' => 4420,
     'name' => 'Broken Hill',
@@ -4672,7 +4474,7 @@ return array (
     'latitude' => -31.9652,
     'longitude' => 141.4512,
   ),
-  519 => 
+  497 => 
   array (
     'id' => 4421,
     'name' => 'Broken Hill Municipality',
@@ -4681,7 +4483,7 @@ return array (
     'latitude' => -31.95,
     'longitude' => 141.43333,
   ),
-  520 => 
+  498 => 
   array (
     'id' => 4422,
     'name' => 'Brompton',
@@ -4690,7 +4492,7 @@ return array (
     'latitude' => -34.89445,
     'longitude' => 138.5782,
   ),
-  521 => 
+  499 => 
   array (
     'id' => 4423,
     'name' => 'Bronte',
@@ -4699,7 +4501,7 @@ return array (
     'latitude' => -33.90198,
     'longitude' => 151.26556,
   ),
-  522 => 
+  500 => 
   array (
     'id' => 4424,
     'name' => 'Brookdale',
@@ -4708,7 +4510,7 @@ return array (
     'latitude' => -32.16696,
     'longitude' => 116.00193,
   ),
-  523 => 
+  501 => 
   array (
     'id' => 4425,
     'name' => 'Brookfield',
@@ -4717,16 +4519,7 @@ return array (
     'latitude' => -37.7008,
     'longitude' => 144.56025,
   ),
-  524 => 
-  array (
-    'id' => 4426,
-    'name' => 'Brookfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.5,
-    'longitude' => 152.9,
-  ),
-  525 => 
+  502 => 
   array (
     'id' => 4427,
     'name' => 'Brooklyn',
@@ -4735,7 +4528,7 @@ return array (
     'latitude' => -37.81609,
     'longitude' => 144.8415,
   ),
-  526 => 
+  503 => 
   array (
     'id' => 4428,
     'name' => 'Brooklyn Park',
@@ -4744,7 +4537,7 @@ return array (
     'latitude' => -34.92847,
     'longitude' => 138.53631,
   ),
-  527 => 
+  504 => 
   array (
     'id' => 4429,
     'name' => 'Brookton',
@@ -4753,7 +4546,7 @@ return array (
     'latitude' => -32.35533,
     'longitude' => 116.99994,
   ),
-  528 => 
+  505 => 
   array (
     'id' => 4430,
     'name' => 'Brookvale',
@@ -4762,7 +4555,7 @@ return array (
     'latitude' => -33.76108,
     'longitude' => 151.27446,
   ),
-  529 => 
+  506 => 
   array (
     'id' => 4431,
     'name' => 'Brookwater',
@@ -4771,7 +4564,7 @@ return array (
     'latitude' => -27.66128,
     'longitude' => 152.89669,
   ),
-  530 => 
+  507 => 
   array (
     'id' => 4432,
     'name' => 'Broome',
@@ -4780,7 +4573,7 @@ return array (
     'latitude' => -17.94041,
     'longitude' => 122.64038,
   ),
-  531 => 
+  508 => 
   array (
     'id' => 4433,
     'name' => 'Broomehill-Tambellup',
@@ -4789,7 +4582,7 @@ return array (
     'latitude' => -34.0132,
     'longitude' => 117.65297,
   ),
-  532 => 
+  509 => 
   array (
     'id' => 4434,
     'name' => 'Broulee',
@@ -4798,7 +4591,7 @@ return array (
     'latitude' => -35.85469,
     'longitude' => 150.17392,
   ),
-  533 => 
+  510 => 
   array (
     'id' => 4435,
     'name' => 'Brown Hill',
@@ -4807,7 +4600,7 @@ return array (
     'latitude' => -37.54654,
     'longitude' => 143.91553,
   ),
-  534 => 
+  511 => 
   array (
     'id' => 4436,
     'name' => 'Bruce',
@@ -4816,7 +4609,7 @@ return array (
     'latitude' => -35.24405,
     'longitude' => 149.09083,
   ),
-  535 => 
+  512 => 
   array (
     'id' => 4437,
     'name' => 'Bruce Rock',
@@ -4825,7 +4618,7 @@ return array (
     'latitude' => -31.96651,
     'longitude' => 118.02385,
   ),
-  536 => 
+  513 => 
   array (
     'id' => 4438,
     'name' => 'Brunswick',
@@ -4834,16 +4627,7 @@ return array (
     'latitude' => -37.76667,
     'longitude' => 144.96667,
   ),
-  537 => 
-  array (
-    'id' => 4439,
-    'name' => 'Brunswick',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.2324,
-    'longitude' => 115.86282,
-  ),
-  538 => 
+  514 => 
   array (
     'id' => 4440,
     'name' => 'Brunswick East',
@@ -4852,7 +4636,7 @@ return array (
     'latitude' => -37.77255,
     'longitude' => 144.97241,
   ),
-  539 => 
+  515 => 
   array (
     'id' => 4441,
     'name' => 'Brunswick Heads',
@@ -4861,7 +4645,7 @@ return array (
     'latitude' => -28.54003,
     'longitude' => 153.54573,
   ),
-  540 => 
+  516 => 
   array (
     'id' => 4442,
     'name' => 'Brunswick West',
@@ -4870,7 +4654,7 @@ return array (
     'latitude' => -37.76461,
     'longitude' => 144.94383,
   ),
-  541 => 
+  517 => 
   array (
     'id' => 4443,
     'name' => 'Bucasia',
@@ -4879,7 +4663,7 @@ return array (
     'latitude' => -21.03494,
     'longitude' => 149.15726,
   ),
-  542 => 
+  518 => 
   array (
     'id' => 4444,
     'name' => 'Bucca',
@@ -4888,7 +4672,7 @@ return array (
     'latitude' => -24.86667,
     'longitude' => 152.1,
   ),
-  543 => 
+  519 => 
   array (
     'id' => 4445,
     'name' => 'Buccan',
@@ -4897,7 +4681,7 @@ return array (
     'latitude' => -27.75,
     'longitude' => 153.13333,
   ),
-  544 => 
+  520 => 
   array (
     'id' => 4446,
     'name' => 'Buddina',
@@ -4906,7 +4690,7 @@ return array (
     'latitude' => -26.69565,
     'longitude' => 153.13302,
   ),
-  545 => 
+  521 => 
   array (
     'id' => 4447,
     'name' => 'Buderim',
@@ -4915,7 +4699,7 @@ return array (
     'latitude' => -26.68443,
     'longitude' => 153.05705,
   ),
-  546 => 
+  522 => 
   array (
     'id' => 4448,
     'name' => 'Budgewoi',
@@ -4924,7 +4708,7 @@ return array (
     'latitude' => -33.2339,
     'longitude' => 151.55412,
   ),
-  547 => 
+  523 => 
   array (
     'id' => 4449,
     'name' => 'Buff Point',
@@ -4933,7 +4717,7 @@ return array (
     'latitude' => -33.22285,
     'longitude' => 151.53125,
   ),
-  548 => 
+  524 => 
   array (
     'id' => 4450,
     'name' => 'Bulahdelah',
@@ -4942,7 +4726,7 @@ return array (
     'latitude' => -32.40698,
     'longitude' => 152.21185,
   ),
-  549 => 
+  525 => 
   array (
     'id' => 4451,
     'name' => 'Bulgarra',
@@ -4951,7 +4735,7 @@ return array (
     'latitude' => -20.72584,
     'longitude' => 116.85673,
   ),
-  550 => 
+  526 => 
   array (
     'id' => 4452,
     'name' => 'Bulimba',
@@ -4960,7 +4744,7 @@ return array (
     'latitude' => -27.4499,
     'longitude' => 153.05766,
   ),
-  551 => 
+  527 => 
   array (
     'id' => 4453,
     'name' => 'Bull Creek',
@@ -4969,7 +4753,7 @@ return array (
     'latitude' => -32.05625,
     'longitude' => 115.86242,
   ),
-  552 => 
+  528 => 
   array (
     'id' => 4454,
     'name' => 'Bullaburra',
@@ -4978,7 +4762,7 @@ return array (
     'latitude' => -33.72922,
     'longitude' => 150.41766,
   ),
-  553 => 
+  529 => 
   array (
     'id' => 4455,
     'name' => 'Bulleen',
@@ -4987,7 +4771,7 @@ return array (
     'latitude' => -37.76667,
     'longitude' => 145.08333,
   ),
-  554 => 
+  530 => 
   array (
     'id' => 4456,
     'name' => 'Bulli',
@@ -4996,7 +4780,7 @@ return array (
     'latitude' => -34.33834,
     'longitude' => 150.91347,
   ),
-  555 => 
+  531 => 
   array (
     'id' => 4457,
     'name' => 'Bulloo',
@@ -5005,7 +4789,7 @@ return array (
     'latitude' => -27.83079,
     'longitude' => 142.9128,
   ),
-  556 => 
+  532 => 
   array (
     'id' => 4458,
     'name' => 'Bullsbrook',
@@ -5014,7 +4798,7 @@ return array (
     'latitude' => -31.66905,
     'longitude' => 115.9999,
   ),
-  557 => 
+  533 => 
   array (
     'id' => 4459,
     'name' => 'Buloke',
@@ -5023,7 +4807,7 @@ return array (
     'latitude' => -35.84638,
     'longitude' => 143.05201,
   ),
-  558 => 
+  534 => 
   array (
     'id' => 4460,
     'name' => 'Bunbury',
@@ -5032,7 +4816,7 @@ return array (
     'latitude' => -33.32711,
     'longitude' => 115.64137,
   ),
-  559 => 
+  535 => 
   array (
     'id' => 4461,
     'name' => 'Bundaberg',
@@ -5041,7 +4825,7 @@ return array (
     'latitude' => -24.97305,
     'longitude' => 151.98442,
   ),
-  560 => 
+  536 => 
   array (
     'id' => 4462,
     'name' => 'Bundaberg East',
@@ -5050,7 +4834,7 @@ return array (
     'latitude' => -24.8586,
     'longitude' => 152.38003,
   ),
-  561 => 
+  537 => 
   array (
     'id' => 4463,
     'name' => 'Bundaberg North',
@@ -5059,7 +4843,7 @@ return array (
     'latitude' => -24.84914,
     'longitude' => 152.34638,
   ),
-  562 => 
+  538 => 
   array (
     'id' => 4464,
     'name' => 'Bundaberg South',
@@ -5068,7 +4852,7 @@ return array (
     'latitude' => -24.87277,
     'longitude' => 152.35986,
   ),
-  563 => 
+  539 => 
   array (
     'id' => 4465,
     'name' => 'Bundaberg West',
@@ -5077,7 +4861,7 @@ return array (
     'latitude' => -24.87265,
     'longitude' => 152.33647,
   ),
-  564 => 
+  540 => 
   array (
     'id' => 4466,
     'name' => 'Bundall',
@@ -5086,7 +4870,7 @@ return array (
     'latitude' => -28.01111,
     'longitude' => 153.40479,
   ),
-  565 => 
+  541 => 
   array (
     'id' => 4467,
     'name' => 'Bundamba',
@@ -5095,7 +4879,7 @@ return array (
     'latitude' => -27.60947,
     'longitude' => 152.81133,
   ),
-  566 => 
+  542 => 
   array (
     'id' => 4468,
     'name' => 'Bundanoon',
@@ -5104,7 +4888,7 @@ return array (
     'latitude' => -34.65658,
     'longitude' => 150.29623,
   ),
-  567 => 
+  543 => 
   array (
     'id' => 4469,
     'name' => 'Bundeena',
@@ -5113,7 +4897,7 @@ return array (
     'latitude' => -34.08384,
     'longitude' => 151.15016,
   ),
-  568 => 
+  544 => 
   array (
     'id' => 4470,
     'name' => 'Bundoora',
@@ -5122,7 +4906,7 @@ return array (
     'latitude' => -37.69825,
     'longitude' => 145.05967,
   ),
-  569 => 
+  545 => 
   array (
     'id' => 4471,
     'name' => 'Bungalow',
@@ -5131,7 +4915,7 @@ return array (
     'latitude' => -16.93855,
     'longitude' => 145.75634,
   ),
-  570 => 
+  546 => 
   array (
     'id' => 4472,
     'name' => 'Bungarribee',
@@ -5140,7 +4924,7 @@ return array (
     'latitude' => -33.77704,
     'longitude' => 150.86799,
   ),
-  571 => 
+  547 => 
   array (
     'id' => 4473,
     'name' => 'Bungendore',
@@ -5149,7 +4933,7 @@ return array (
     'latitude' => -35.25382,
     'longitude' => 149.44007,
   ),
-  572 => 
+  548 => 
   array (
     'id' => 4474,
     'name' => 'Buninyong',
@@ -5158,7 +4942,7 @@ return array (
     'latitude' => -37.65019,
     'longitude' => 143.88388,
   ),
-  573 => 
+  549 => 
   array (
     'id' => 4475,
     'name' => 'Bunya',
@@ -5167,7 +4951,7 @@ return array (
     'latitude' => -27.3694,
     'longitude' => 152.94331,
   ),
-  574 => 
+  550 => 
   array (
     'id' => 4476,
     'name' => 'Bunyip',
@@ -5176,7 +4960,7 @@ return array (
     'latitude' => -38.09789,
     'longitude' => 145.71606,
   ),
-  575 => 
+  551 => 
   array (
     'id' => 4477,
     'name' => 'Burbank',
@@ -5185,7 +4969,7 @@ return array (
     'latitude' => -27.55584,
     'longitude' => 153.14701,
   ),
-  576 => 
+  552 => 
   array (
     'id' => 4478,
     'name' => 'Burdekin',
@@ -5194,7 +4978,7 @@ return array (
     'latitude' => -19.84934,
     'longitude' => 147.27239,
   ),
-  577 => 
+  553 => 
   array (
     'id' => 4479,
     'name' => 'Burdell',
@@ -5203,7 +4987,7 @@ return array (
     'latitude' => -19.25056,
     'longitude' => 146.69877,
   ),
-  578 => 
+  554 => 
   array (
     'id' => 4480,
     'name' => 'Burke',
@@ -5212,7 +4996,7 @@ return array (
     'latitude' => -18.06461,
     'longitude' => 139.03748,
   ),
-  579 => 
+  555 => 
   array (
     'id' => 4481,
     'name' => 'Burleigh Heads',
@@ -5221,7 +5005,7 @@ return array (
     'latitude' => -28.1,
     'longitude' => 153.45,
   ),
-  580 => 
+  556 => 
   array (
     'id' => 4482,
     'name' => 'Burleigh Waters',
@@ -5230,7 +5014,7 @@ return array (
     'latitude' => -28.09975,
     'longitude' => 153.42463,
   ),
-  581 => 
+  557 => 
   array (
     'id' => 4483,
     'name' => 'Burnett Heads',
@@ -5239,7 +5023,7 @@ return array (
     'latitude' => -24.76468,
     'longitude' => 152.4127,
   ),
-  582 => 
+  558 => 
   array (
     'id' => 4484,
     'name' => 'Burnie',
@@ -5248,7 +5032,7 @@ return array (
     'latitude' => -41.1965,
     'longitude' => 145.81136,
   ),
-  583 => 
+  559 => 
   array (
     'id' => 4485,
     'name' => 'Burns Beach',
@@ -5257,7 +5041,7 @@ return array (
     'latitude' => -31.7206,
     'longitude' => 115.7205,
   ),
-  584 => 
+  560 => 
   array (
     'id' => 4486,
     'name' => 'Burnside',
@@ -5266,25 +5050,7 @@ return array (
     'latitude' => -34.93333,
     'longitude' => 138.65,
   ),
-  585 => 
-  array (
-    'id' => 4487,
-    'name' => 'Burnside',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.74937,
-    'longitude' => 144.75301,
-  ),
-  586 => 
-  array (
-    'id' => 4488,
-    'name' => 'Burnside',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -26.63255,
-    'longitude' => 152.94063,
-  ),
-  587 => 
+  561 => 
   array (
     'id' => 4489,
     'name' => 'Burnside Heights',
@@ -5293,7 +5059,7 @@ return array (
     'latitude' => -37.72691,
     'longitude' => 144.75225,
   ),
-  588 => 
+  562 => 
   array (
     'id' => 4490,
     'name' => 'Buronga',
@@ -5302,7 +5068,7 @@ return array (
     'latitude' => -34.1707,
     'longitude' => 142.1735,
   ),
-  589 => 
+  563 => 
   array (
     'id' => 4491,
     'name' => 'Burpengary',
@@ -5311,7 +5077,7 @@ return array (
     'latitude' => -27.15746,
     'longitude' => 152.95758,
   ),
-  590 => 
+  564 => 
   array (
     'id' => 4492,
     'name' => 'Burpengary East',
@@ -5320,7 +5086,7 @@ return array (
     'latitude' => -27.14447,
     'longitude' => 152.99968,
   ),
-  591 => 
+  565 => 
   array (
     'id' => 4493,
     'name' => 'Burra',
@@ -5329,7 +5095,7 @@ return array (
     'latitude' => -33.67171,
     'longitude' => 138.92835,
   ),
-  592 => 
+  566 => 
   array (
     'id' => 4494,
     'name' => 'Burradoo',
@@ -5338,7 +5104,7 @@ return array (
     'latitude' => -34.5032,
     'longitude' => 150.409,
   ),
-  593 => 
+  567 => 
   array (
     'id' => 4495,
     'name' => 'Burraneer',
@@ -5347,7 +5113,7 @@ return array (
     'latitude' => -34.05625,
     'longitude' => 151.1381,
   ),
-  594 => 
+  568 => 
   array (
     'id' => 4496,
     'name' => 'Burrill Lake',
@@ -5356,7 +5122,7 @@ return array (
     'latitude' => -35.38716,
     'longitude' => 150.44952,
   ),
-  595 => 
+  569 => 
   array (
     'id' => 4497,
     'name' => 'Burrum Heads',
@@ -5365,7 +5131,7 @@ return array (
     'latitude' => -25.18457,
     'longitude' => 152.61263,
   ),
-  596 => 
+  570 => 
   array (
     'id' => 4498,
     'name' => 'Burswood',
@@ -5374,7 +5140,7 @@ return array (
     'latitude' => -31.95872,
     'longitude' => 115.90396,
   ),
-  597 => 
+  571 => 
   array (
     'id' => 4499,
     'name' => 'Burton',
@@ -5383,7 +5149,7 @@ return array (
     'latitude' => -34.73339,
     'longitude' => 138.60247,
   ),
-  598 => 
+  572 => 
   array (
     'id' => 4500,
     'name' => 'Burwood',
@@ -5392,16 +5158,7 @@ return array (
     'latitude' => -37.84978,
     'longitude' => 145.11901,
   ),
-  599 => 
-  array (
-    'id' => 4501,
-    'name' => 'Burwood',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.88536,
-    'longitude' => 151.10481,
-  ),
-  600 => 
+  573 => 
   array (
     'id' => 4502,
     'name' => 'Burwood East',
@@ -5410,7 +5167,7 @@ return array (
     'latitude' => -37.85,
     'longitude' => 145.15,
   ),
-  601 => 
+  574 => 
   array (
     'id' => 4503,
     'name' => 'Busby',
@@ -5419,7 +5176,7 @@ return array (
     'latitude' => -33.91124,
     'longitude' => 150.88068,
   ),
-  602 => 
+  575 => 
   array (
     'id' => 4504,
     'name' => 'Bushland Beach',
@@ -5428,7 +5185,7 @@ return array (
     'latitude' => -19.19134,
     'longitude' => 146.67682,
   ),
-  603 => 
+  576 => 
   array (
     'id' => 4505,
     'name' => 'Busselton',
@@ -5437,7 +5194,7 @@ return array (
     'latitude' => -33.68477,
     'longitude' => 115.3708,
   ),
-  604 => 
+  577 => 
   array (
     'id' => 4506,
     'name' => 'Busselton city cenre',
@@ -5446,7 +5203,7 @@ return array (
     'latitude' => -33.65078,
     'longitude' => 115.34932,
   ),
-  605 => 
+  578 => 
   array (
     'id' => 4507,
     'name' => 'Butler',
@@ -5455,7 +5212,7 @@ return array (
     'latitude' => -31.64298,
     'longitude' => 115.70431,
   ),
-  606 => 
+  579 => 
   array (
     'id' => 4508,
     'name' => 'Buttaba',
@@ -5464,7 +5221,7 @@ return array (
     'latitude' => -33.05327,
     'longitude' => 151.57866,
   ),
-  607 => 
+  580 => 
   array (
     'id' => 4509,
     'name' => 'Buxton',
@@ -5473,7 +5230,7 @@ return array (
     'latitude' => -34.26017,
     'longitude' => 150.53288,
   ),
-  608 => 
+  581 => 
   array (
     'id' => 4510,
     'name' => 'Byford',
@@ -5482,7 +5239,7 @@ return array (
     'latitude' => -32.22099,
     'longitude' => 116.009,
   ),
-  609 => 
+  582 => 
   array (
     'id' => 4511,
     'name' => 'Byron Bay',
@@ -5491,7 +5248,7 @@ return array (
     'latitude' => -28.64989,
     'longitude' => 153.61246,
   ),
-  610 => 
+  583 => 
   array (
     'id' => 4512,
     'name' => 'Byron Shire',
@@ -5500,7 +5257,7 @@ return array (
     'latitude' => -28.61667,
     'longitude' => 153.51667,
   ),
-  611 => 
+  584 => 
   array (
     'id' => 4513,
     'name' => 'Bywong',
@@ -5509,7 +5266,7 @@ return array (
     'latitude' => -35.16476,
     'longitude' => 149.32892,
   ),
-  612 => 
+  585 => 
   array (
     'id' => 4514,
     'name' => 'Cabarita',
@@ -5518,7 +5275,7 @@ return array (
     'latitude' => -33.84721,
     'longitude' => 151.11638,
   ),
-  613 => 
+  586 => 
   array (
     'id' => 4515,
     'name' => 'Cabarlah',
@@ -5527,7 +5284,7 @@ return array (
     'latitude' => -27.43333,
     'longitude' => 152.0,
   ),
-  614 => 
+  587 => 
   array (
     'id' => 4516,
     'name' => 'Cable Beach',
@@ -5536,7 +5293,7 @@ return array (
     'latitude' => -17.96098,
     'longitude' => 122.21269,
   ),
-  615 => 
+  588 => 
   array (
     'id' => 4517,
     'name' => 'Cabonne',
@@ -5545,7 +5302,7 @@ return array (
     'latitude' => -33.11076,
     'longitude' => 148.82694,
   ),
-  616 => 
+  589 => 
   array (
     'id' => 4518,
     'name' => 'Caboolture',
@@ -5554,7 +5311,7 @@ return array (
     'latitude' => -27.08465,
     'longitude' => 152.9511,
   ),
-  617 => 
+  590 => 
   array (
     'id' => 4519,
     'name' => 'Caboolture South',
@@ -5563,7 +5320,7 @@ return array (
     'latitude' => -27.09389,
     'longitude' => 152.94874,
   ),
-  618 => 
+  591 => 
   array (
     'id' => 4520,
     'name' => 'Cabramatta',
@@ -5572,7 +5329,7 @@ return array (
     'latitude' => -33.89743,
     'longitude' => 150.93446,
   ),
-  619 => 
+  592 => 
   array (
     'id' => 4521,
     'name' => 'Cabramatta West',
@@ -5581,7 +5338,7 @@ return array (
     'latitude' => -33.89303,
     'longitude' => 150.9119,
   ),
-  620 => 
+  593 => 
   array (
     'id' => 4522,
     'name' => 'Caddens',
@@ -5590,7 +5347,7 @@ return array (
     'latitude' => -33.77415,
     'longitude' => 150.74126,
   ),
-  621 => 
+  594 => 
   array (
     'id' => 4523,
     'name' => 'Cairnlea',
@@ -5599,7 +5356,7 @@ return array (
     'latitude' => -37.75931,
     'longitude' => 144.78781,
   ),
-  622 => 
+  595 => 
   array (
     'id' => 4524,
     'name' => 'Cairns',
@@ -5608,7 +5365,7 @@ return array (
     'latitude' => -16.90268,
     'longitude' => 145.75287,
   ),
-  623 => 
+  596 => 
   array (
     'id' => 4525,
     'name' => 'Cairns City',
@@ -5617,7 +5374,7 @@ return array (
     'latitude' => -16.92069,
     'longitude' => 145.77358,
   ),
-  624 => 
+  597 => 
   array (
     'id' => 4526,
     'name' => 'Cairns North',
@@ -5626,7 +5383,7 @@ return array (
     'latitude' => -16.90406,
     'longitude' => 145.75703,
   ),
-  625 => 
+  598 => 
   array (
     'id' => 4527,
     'name' => 'Calala',
@@ -5635,7 +5392,7 @@ return array (
     'latitude' => -31.17356,
     'longitude' => 150.98059,
   ),
-  626 => 
+  599 => 
   array (
     'id' => 4528,
     'name' => 'Calamvale',
@@ -5644,7 +5401,7 @@ return array (
     'latitude' => -27.62329,
     'longitude' => 153.04785,
   ),
-  627 => 
+  600 => 
   array (
     'id' => 4529,
     'name' => 'California Gully',
@@ -5653,7 +5410,7 @@ return array (
     'latitude' => -36.72887,
     'longitude' => 144.26089,
   ),
-  628 => 
+  601 => 
   array (
     'id' => 4530,
     'name' => 'Calista',
@@ -5662,7 +5419,7 @@ return array (
     'latitude' => -32.241,
     'longitude' => 115.79763,
   ),
-  629 => 
+  602 => 
   array (
     'id' => 4531,
     'name' => 'Callaghan',
@@ -5671,7 +5428,7 @@ return array (
     'latitude' => -32.89205,
     'longitude' => 151.70531,
   ),
-  630 => 
+  603 => 
   array (
     'id' => 4532,
     'name' => 'Callala Bay',
@@ -5680,7 +5437,7 @@ return array (
     'latitude' => -34.99668,
     'longitude' => 150.72281,
   ),
-  631 => 
+  604 => 
   array (
     'id' => 4533,
     'name' => 'Calliope',
@@ -5689,7 +5446,7 @@ return array (
     'latitude' => -24.00705,
     'longitude' => 151.20033,
   ),
-  632 => 
+  605 => 
   array (
     'id' => 4534,
     'name' => 'Caloundra',
@@ -5698,7 +5455,7 @@ return array (
     'latitude' => -26.80346,
     'longitude' => 153.12195,
   ),
-  633 => 
+  606 => 
   array (
     'id' => 4535,
     'name' => 'Caloundra West',
@@ -5707,7 +5464,7 @@ return array (
     'latitude' => -26.80634,
     'longitude' => 153.10894,
   ),
-  634 => 
+  607 => 
   array (
     'id' => 4536,
     'name' => 'Calwell',
@@ -5716,7 +5473,7 @@ return array (
     'latitude' => -35.44042,
     'longitude' => 149.10707,
   ),
-  635 => 
+  608 => 
   array (
     'id' => 4537,
     'name' => 'Camberwell',
@@ -5725,7 +5482,7 @@ return array (
     'latitude' => -37.84205,
     'longitude' => 145.0694,
   ),
-  636 => 
+  609 => 
   array (
     'id' => 4538,
     'name' => 'Cambewarra Village',
@@ -5734,7 +5491,7 @@ return array (
     'latitude' => -34.82335,
     'longitude' => 150.5594,
   ),
-  637 => 
+  610 => 
   array (
     'id' => 4539,
     'name' => 'Cambooya',
@@ -5743,7 +5500,7 @@ return array (
     'latitude' => -27.71454,
     'longitude' => 151.86029,
   ),
-  638 => 
+  611 => 
   array (
     'id' => 4540,
     'name' => 'Cambridge',
@@ -5752,16 +5509,7 @@ return array (
     'latitude' => -42.83333,
     'longitude' => 147.45,
   ),
-  639 => 
-  array (
-    'id' => 4541,
-    'name' => 'Cambridge',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.93542,
-    'longitude' => 115.79887,
-  ),
-  640 => 
+  612 => 
   array (
     'id' => 4542,
     'name' => 'Cambridge Gardens',
@@ -5770,7 +5518,7 @@ return array (
     'latitude' => -33.73801,
     'longitude' => 150.72075,
   ),
-  641 => 
+  613 => 
   array (
     'id' => 4543,
     'name' => 'Cambridge Park',
@@ -5779,7 +5527,7 @@ return array (
     'latitude' => -33.74784,
     'longitude' => 150.72208,
   ),
-  642 => 
+  614 => 
   array (
     'id' => 4544,
     'name' => 'Camden',
@@ -5788,7 +5536,7 @@ return array (
     'latitude' => -34.0161,
     'longitude' => 150.72521,
   ),
-  643 => 
+  615 => 
   array (
     'id' => 4545,
     'name' => 'Camden Haven',
@@ -5797,7 +5545,7 @@ return array (
     'latitude' => -31.64484,
     'longitude' => 152.79462,
   ),
-  644 => 
+  616 => 
   array (
     'id' => 4546,
     'name' => 'Camden Park',
@@ -5806,7 +5554,7 @@ return array (
     'latitude' => -34.96857,
     'longitude' => 138.53957,
   ),
-  645 => 
+  617 => 
   array (
     'id' => 4547,
     'name' => 'Camden South',
@@ -5815,7 +5563,7 @@ return array (
     'latitude' => -34.08312,
     'longitude' => 150.69491,
   ),
-  646 => 
+  618 => 
   array (
     'id' => 4548,
     'name' => 'Cameron Park',
@@ -5824,7 +5572,7 @@ return array (
     'latitude' => -32.90701,
     'longitude' => 151.60528,
   ),
-  647 => 
+  619 => 
   array (
     'id' => 4549,
     'name' => 'Camillo',
@@ -5833,7 +5581,7 @@ return array (
     'latitude' => -32.11292,
     'longitude' => 116.00205,
   ),
-  648 => 
+  620 => 
   array (
     'id' => 4550,
     'name' => 'Camira',
@@ -5842,7 +5590,7 @@ return array (
     'latitude' => -27.63461,
     'longitude' => 152.92091,
   ),
-  649 => 
+  621 => 
   array (
     'id' => 4551,
     'name' => 'Cammeray',
@@ -5851,7 +5599,7 @@ return array (
     'latitude' => -33.82132,
     'longitude' => 151.21609,
   ),
-  650 => 
+  622 => 
   array (
     'id' => 4552,
     'name' => 'Camp Hill',
@@ -5860,7 +5608,7 @@ return array (
     'latitude' => -27.49354,
     'longitude' => 153.07629,
   ),
-  651 => 
+  623 => 
   array (
     'id' => 4553,
     'name' => 'Camp Mountain',
@@ -5869,7 +5617,7 @@ return array (
     'latitude' => -27.4,
     'longitude' => 152.88333,
   ),
-  652 => 
+  624 => 
   array (
     'id' => 4554,
     'name' => 'Campaspe',
@@ -5878,7 +5626,7 @@ return array (
     'latitude' => -36.32338,
     'longitude' => 144.70844,
   ),
-  653 => 
+  625 => 
   array (
     'id' => 4555,
     'name' => 'Campbell',
@@ -5887,7 +5635,7 @@ return array (
     'latitude' => -35.28907,
     'longitude' => 149.15382,
   ),
-  654 => 
+  626 => 
   array (
     'id' => 4556,
     'name' => 'Campbellfield',
@@ -5896,7 +5644,7 @@ return array (
     'latitude' => -37.66386,
     'longitude' => 144.95953,
   ),
-  655 => 
+  627 => 
   array (
     'id' => 4557,
     'name' => 'Campbells Creek',
@@ -5905,7 +5653,7 @@ return array (
     'latitude' => -37.08665,
     'longitude' => 144.20203,
   ),
-  656 => 
+  628 => 
   array (
     'id' => 4558,
     'name' => 'Campbelltown',
@@ -5914,16 +5662,7 @@ return array (
     'latitude' => -34.06667,
     'longitude' => 150.81667,
   ),
-  657 => 
-  array (
-    'id' => 4559,
-    'name' => 'Campbelltown',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.88545,
-    'longitude' => 138.68546,
-  ),
-  658 => 
+  629 => 
   array (
     'id' => 4560,
     'name' => 'Campbelltown Municipality',
@@ -5932,7 +5671,7 @@ return array (
     'latitude' => -34.08333,
     'longitude' => 150.83333,
   ),
-  659 => 
+  630 => 
   array (
     'id' => 4561,
     'name' => 'Camperdown',
@@ -5941,16 +5680,7 @@ return array (
     'latitude' => -33.88965,
     'longitude' => 151.17642,
   ),
-  660 => 
-  array (
-    'id' => 4562,
-    'name' => 'Camperdown',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.23392,
-    'longitude' => 143.14983,
-  ),
-  661 => 
+  631 => 
   array (
     'id' => 4563,
     'name' => 'Campsie',
@@ -5959,7 +5689,7 @@ return array (
     'latitude' => -33.9125,
     'longitude' => 151.10279,
   ),
-  662 => 
+  632 => 
   array (
     'id' => 4564,
     'name' => 'Canada Bay',
@@ -5968,7 +5698,7 @@ return array (
     'latitude' => -33.8659,
     'longitude' => 151.11591,
   ),
-  663 => 
+  633 => 
   array (
     'id' => 4565,
     'name' => 'Canadian',
@@ -5977,7 +5707,7 @@ return array (
     'latitude' => -37.57606,
     'longitude' => 143.87742,
   ),
-  664 => 
+  634 => 
   array (
     'id' => 4566,
     'name' => 'Canberra',
@@ -5986,7 +5716,7 @@ return array (
     'latitude' => -35.28346,
     'longitude' => 149.12807,
   ),
-  665 => 
+  635 => 
   array (
     'id' => 4567,
     'name' => 'Canley Heights',
@@ -5995,7 +5725,7 @@ return array (
     'latitude' => -33.88262,
     'longitude' => 150.92408,
   ),
-  666 => 
+  636 => 
   array (
     'id' => 4568,
     'name' => 'Canley Vale',
@@ -6004,7 +5734,7 @@ return array (
     'latitude' => -33.88657,
     'longitude' => 150.94802,
   ),
-  667 => 
+  637 => 
   array (
     'id' => 4569,
     'name' => 'Canning',
@@ -6013,7 +5743,7 @@ return array (
     'latitude' => -32.04923,
     'longitude' => 115.91943,
   ),
-  668 => 
+  638 => 
   array (
     'id' => 4570,
     'name' => 'Canning Vale',
@@ -6022,7 +5752,7 @@ return array (
     'latitude' => -32.05799,
     'longitude' => 115.91814,
   ),
-  669 => 
+  639 => 
   array (
     'id' => 4571,
     'name' => 'Cannington',
@@ -6031,7 +5761,7 @@ return array (
     'latitude' => -32.01625,
     'longitude' => 115.93648,
   ),
-  670 => 
+  640 => 
   array (
     'id' => 4572,
     'name' => 'Cannon Hill',
@@ -6040,7 +5770,7 @@ return array (
     'latitude' => -27.47237,
     'longitude' => 153.09475,
   ),
-  671 => 
+  641 => 
   array (
     'id' => 4573,
     'name' => 'Cannonvale',
@@ -6049,7 +5779,7 @@ return array (
     'latitude' => -20.27681,
     'longitude' => 148.69759,
   ),
-  672 => 
+  642 => 
   array (
     'id' => 4574,
     'name' => 'Canowindra',
@@ -6058,7 +5788,7 @@ return array (
     'latitude' => -33.56247,
     'longitude' => 148.66434,
   ),
-  673 => 
+  643 => 
   array (
     'id' => 4575,
     'name' => 'Canterbury',
@@ -6067,16 +5797,7 @@ return array (
     'latitude' => -37.8247,
     'longitude' => 145.08476,
   ),
-  674 => 
-  array (
-    'id' => 4576,
-    'name' => 'Canterbury',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.91192,
-    'longitude' => 151.11862,
-  ),
-  675 => 
+  644 => 
   array (
     'id' => 4577,
     'name' => 'Canton Beach',
@@ -6085,7 +5806,7 @@ return array (
     'latitude' => -33.27443,
     'longitude' => 151.54614,
   ),
-  676 => 
+  645 => 
   array (
     'id' => 4578,
     'name' => 'Canungra',
@@ -6094,7 +5815,7 @@ return array (
     'latitude' => -28.01689,
     'longitude' => 153.16525,
   ),
-  677 => 
+  646 => 
   array (
     'id' => 4579,
     'name' => 'Capalaba',
@@ -6103,7 +5824,7 @@ return array (
     'latitude' => -27.54333,
     'longitude' => 153.20287,
   ),
-  678 => 
+  647 => 
   array (
     'id' => 4580,
     'name' => 'Cape Woolamai',
@@ -6112,7 +5833,7 @@ return array (
     'latitude' => -38.54285,
     'longitude' => 145.34407,
   ),
-  679 => 
+  648 => 
   array (
     'id' => 4581,
     'name' => 'Capel',
@@ -6121,7 +5842,7 @@ return array (
     'latitude' => -33.52704,
     'longitude' => 115.61813,
   ),
-  680 => 
+  649 => 
   array (
     'id' => 4582,
     'name' => 'Capella',
@@ -6130,7 +5851,7 @@ return array (
     'latitude' => -23.08593,
     'longitude' => 148.02206,
   ),
-  681 => 
+  650 => 
   array (
     'id' => 4583,
     'name' => 'Caravonica',
@@ -6139,7 +5860,7 @@ return array (
     'latitude' => -16.87063,
     'longitude' => 145.68099,
   ),
-  682 => 
+  651 => 
   array (
     'id' => 4584,
     'name' => 'Carbrook',
@@ -6148,7 +5869,7 @@ return array (
     'latitude' => -27.68333,
     'longitude' => 153.25,
   ),
-  683 => 
+  652 => 
   array (
     'id' => 4585,
     'name' => 'Cardiff',
@@ -6157,7 +5878,7 @@ return array (
     'latitude' => -32.94201,
     'longitude' => 151.6544,
   ),
-  684 => 
+  653 => 
   array (
     'id' => 4586,
     'name' => 'Cardiff Heights',
@@ -6166,7 +5887,7 @@ return array (
     'latitude' => -32.93626,
     'longitude' => 151.67227,
   ),
-  685 => 
+  654 => 
   array (
     'id' => 4587,
     'name' => 'Cardiff South',
@@ -6175,7 +5896,7 @@ return array (
     'latitude' => -32.9547,
     'longitude' => 151.66446,
   ),
-  686 => 
+  655 => 
   array (
     'id' => 4588,
     'name' => 'Cardinia',
@@ -6184,7 +5905,7 @@ return array (
     'latitude' => -38.09508,
     'longitude' => 145.56455,
   ),
-  687 => 
+  656 => 
   array (
     'id' => 4589,
     'name' => 'Cardup',
@@ -6193,7 +5914,7 @@ return array (
     'latitude' => -32.25802,
     'longitude' => 115.98512,
   ),
-  688 => 
+  657 => 
   array (
     'id' => 4590,
     'name' => 'Cardwell',
@@ -6202,7 +5923,7 @@ return array (
     'latitude' => -18.26693,
     'longitude' => 146.02804,
   ),
-  689 => 
+  658 => 
   array (
     'id' => 4591,
     'name' => 'Carey Park',
@@ -6211,7 +5932,7 @@ return array (
     'latitude' => -33.34878,
     'longitude' => 115.6493,
   ),
-  690 => 
+  659 => 
   array (
     'id' => 4592,
     'name' => 'Carina Heights',
@@ -6220,7 +5941,7 @@ return array (
     'latitude' => -27.50721,
     'longitude' => 153.09126,
   ),
-  691 => 
+  660 => 
   array (
     'id' => 4593,
     'name' => 'Carindale',
@@ -6229,7 +5950,7 @@ return array (
     'latitude' => -27.50578,
     'longitude' => 153.10236,
   ),
-  692 => 
+  661 => 
   array (
     'id' => 4594,
     'name' => 'Carine',
@@ -6238,7 +5959,7 @@ return array (
     'latitude' => -31.8523,
     'longitude' => 115.78258,
   ),
-  693 => 
+  662 => 
   array (
     'id' => 4595,
     'name' => 'Caringbah',
@@ -6247,7 +5968,7 @@ return array (
     'latitude' => -34.03534,
     'longitude' => 151.12468,
   ),
-  694 => 
+  663 => 
   array (
     'id' => 4596,
     'name' => 'Caringbah South',
@@ -6256,7 +5977,7 @@ return array (
     'latitude' => -34.05662,
     'longitude' => 151.12149,
   ),
-  695 => 
+  664 => 
   array (
     'id' => 4597,
     'name' => 'Carisbrook',
@@ -6265,7 +5986,7 @@ return array (
     'latitude' => -37.04808,
     'longitude' => 143.81665,
   ),
-  696 => 
+  665 => 
   array (
     'id' => 4598,
     'name' => 'Carlingford',
@@ -6274,7 +5995,7 @@ return array (
     'latitude' => -33.78269,
     'longitude' => 151.04888,
   ),
-  697 => 
+  666 => 
   array (
     'id' => 4599,
     'name' => 'Carlisle',
@@ -6283,7 +6004,7 @@ return array (
     'latitude' => -31.97945,
     'longitude' => 115.91808,
   ),
-  698 => 
+  667 => 
   array (
     'id' => 4600,
     'name' => 'Carlton',
@@ -6292,16 +6013,7 @@ return array (
     'latitude' => -37.8,
     'longitude' => 144.96667,
   ),
-  699 => 
-  array (
-    'id' => 4601,
-    'name' => 'Carlton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.97107,
-    'longitude' => 151.12136,
-  ),
-  700 => 
+  668 => 
   array (
     'id' => 4602,
     'name' => 'Carlton North',
@@ -6310,7 +6022,7 @@ return array (
     'latitude' => -37.78818,
     'longitude' => 144.97014,
   ),
-  701 => 
+  669 => 
   array (
     'id' => 4603,
     'name' => 'Carnamah',
@@ -6319,7 +6031,7 @@ return array (
     'latitude' => -29.80411,
     'longitude' => 115.59402,
   ),
-  702 => 
+  670 => 
   array (
     'id' => 4604,
     'name' => 'Carnarvon',
@@ -6328,7 +6040,7 @@ return array (
     'latitude' => -24.88258,
     'longitude' => 113.65713,
   ),
-  703 => 
+  671 => 
   array (
     'id' => 4605,
     'name' => 'Carnegie',
@@ -6337,7 +6049,7 @@ return array (
     'latitude' => -37.89359,
     'longitude' => 145.05534,
   ),
-  704 => 
+  672 => 
   array (
     'id' => 4606,
     'name' => 'Carnes Hill',
@@ -6346,7 +6058,7 @@ return array (
     'latitude' => -33.93846,
     'longitude' => 150.84881,
   ),
-  705 => 
+  673 => 
   array (
     'id' => 4607,
     'name' => 'Caroline Springs',
@@ -6355,7 +6067,7 @@ return array (
     'latitude' => -37.74124,
     'longitude' => 144.73631,
   ),
-  706 => 
+  674 => 
   array (
     'id' => 4608,
     'name' => 'Carpentaria',
@@ -6364,7 +6076,7 @@ return array (
     'latitude' => -17.32216,
     'longitude' => 141.3531,
   ),
-  707 => 
+  675 => 
   array (
     'id' => 4609,
     'name' => 'Carramar',
@@ -6373,16 +6085,7 @@ return array (
     'latitude' => -33.88382,
     'longitude' => 150.96153,
   ),
-  708 => 
-  array (
-    'id' => 4610,
-    'name' => 'Carramar',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.69023,
-    'longitude' => 115.77159,
-  ),
-  709 => 
+  676 => 
   array (
     'id' => 4611,
     'name' => 'Carrara',
@@ -6391,7 +6094,7 @@ return array (
     'latitude' => -28.02151,
     'longitude' => 153.36635,
   ),
-  710 => 
+  677 => 
   array (
     'id' => 4612,
     'name' => 'Carrathool',
@@ -6400,7 +6103,7 @@ return array (
     'latitude' => -33.62571,
     'longitude' => 145.42523,
   ),
-  711 => 
+  678 => 
   array (
     'id' => 4613,
     'name' => 'Carrington',
@@ -6409,7 +6112,7 @@ return array (
     'latitude' => -32.91501,
     'longitude' => 151.76436,
   ),
-  712 => 
+  679 => 
   array (
     'id' => 4614,
     'name' => 'Carrum',
@@ -6418,7 +6121,7 @@ return array (
     'latitude' => -38.08333,
     'longitude' => 145.13333,
   ),
-  713 => 
+  680 => 
   array (
     'id' => 4615,
     'name' => 'Carrum Downs',
@@ -6427,7 +6130,7 @@ return array (
     'latitude' => -38.09968,
     'longitude' => 145.17248,
   ),
-  714 => 
+  681 => 
   array (
     'id' => 4616,
     'name' => 'Carseldine',
@@ -6436,7 +6139,7 @@ return array (
     'latitude' => -27.34753,
     'longitude' => 153.02307,
   ),
-  715 => 
+  682 => 
   array (
     'id' => 4617,
     'name' => 'Carss Park',
@@ -6445,7 +6148,7 @@ return array (
     'latitude' => -33.98667,
     'longitude' => 151.11734,
   ),
-  716 => 
+  683 => 
   array (
     'id' => 4618,
     'name' => 'Cartwright',
@@ -6454,7 +6157,7 @@ return array (
     'latitude' => -33.92498,
     'longitude' => 150.88951,
   ),
-  717 => 
+  684 => 
   array (
     'id' => 4619,
     'name' => 'Carwoola',
@@ -6463,7 +6166,7 @@ return array (
     'latitude' => -35.37836,
     'longitude' => 149.3215,
   ),
-  718 => 
+  685 => 
   array (
     'id' => 4620,
     'name' => 'Casey',
@@ -6472,16 +6175,7 @@ return array (
     'latitude' => -38.09519,
     'longitude' => 145.32279,
   ),
-  719 => 
-  array (
-    'id' => 4621,
-    'name' => 'Casey',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.16701,
-    'longitude' => 149.0947,
-  ),
-  720 => 
+  686 => 
   array (
     'id' => 4622,
     'name' => 'Cashmere',
@@ -6490,7 +6184,7 @@ return array (
     'latitude' => -27.29767,
     'longitude' => 152.90662,
   ),
-  721 => 
+  687 => 
   array (
     'id' => 4623,
     'name' => 'Casino',
@@ -6499,7 +6193,7 @@ return array (
     'latitude' => -28.85819,
     'longitude' => 153.04748,
   ),
-  722 => 
+  688 => 
   array (
     'id' => 4624,
     'name' => 'Cassowary Coast',
@@ -6508,7 +6202,7 @@ return array (
     'latitude' => -17.96785,
     'longitude' => 145.96561,
   ),
-  723 => 
+  689 => 
   array (
     'id' => 4625,
     'name' => 'Casterton',
@@ -6517,7 +6211,7 @@ return array (
     'latitude' => -37.58489,
     'longitude' => 141.40297,
   ),
-  724 => 
+  690 => 
   array (
     'id' => 4626,
     'name' => 'Castle Cove',
@@ -6526,7 +6220,7 @@ return array (
     'latitude' => -33.78655,
     'longitude' => 151.20925,
   ),
-  725 => 
+  691 => 
   array (
     'id' => 4627,
     'name' => 'Castle Hill',
@@ -6535,7 +6229,7 @@ return array (
     'latitude' => -33.73333,
     'longitude' => 151.0,
   ),
-  726 => 
+  692 => 
   array (
     'id' => 4628,
     'name' => 'Castlecrag',
@@ -6544,7 +6238,7 @@ return array (
     'latitude' => -33.79987,
     'longitude' => 151.2231,
   ),
-  727 => 
+  693 => 
   array (
     'id' => 4629,
     'name' => 'Castlemaine',
@@ -6553,7 +6247,7 @@ return array (
     'latitude' => -37.06709,
     'longitude' => 144.21684,
   ),
-  728 => 
+  694 => 
   array (
     'id' => 4630,
     'name' => 'Castlereagh',
@@ -6562,7 +6256,7 @@ return array (
     'latitude' => -33.68981,
     'longitude' => 150.67887,
   ),
-  729 => 
+  695 => 
   array (
     'id' => 4631,
     'name' => 'Castletown',
@@ -6571,7 +6265,7 @@ return array (
     'latitude' => -33.83237,
     'longitude' => 121.91563,
   ),
-  730 => 
+  696 => 
   array (
     'id' => 4632,
     'name' => 'Casuarina',
@@ -6580,16 +6274,7 @@ return array (
     'latitude' => -28.30042,
     'longitude' => 153.57064,
   ),
-  731 => 
-  array (
-    'id' => 4633,
-    'name' => 'Casuarina',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.24143,
-    'longitude' => 115.8698,
-  ),
-  732 => 
+  697 => 
   array (
     'id' => 4634,
     'name' => 'Casula',
@@ -6598,7 +6283,7 @@ return array (
     'latitude' => -33.95222,
     'longitude' => 150.89949,
   ),
-  733 => 
+  698 => 
   array (
     'id' => 4635,
     'name' => 'Catalina',
@@ -6607,7 +6292,7 @@ return array (
     'latitude' => -35.73,
     'longitude' => 150.18494,
   ),
-  734 => 
+  699 => 
   array (
     'id' => 4636,
     'name' => 'Catherine Field',
@@ -6616,7 +6301,7 @@ return array (
     'latitude' => -34.00439,
     'longitude' => 150.77253,
   ),
-  735 => 
+  700 => 
   array (
     'id' => 4637,
     'name' => 'Caulfield',
@@ -6625,7 +6310,7 @@ return array (
     'latitude' => -37.88251,
     'longitude' => 145.02288,
   ),
-  736 => 
+  701 => 
   array (
     'id' => 4638,
     'name' => 'Caulfield East',
@@ -6634,7 +6319,7 @@ return array (
     'latitude' => -37.88121,
     'longitude' => 145.04208,
   ),
-  737 => 
+  702 => 
   array (
     'id' => 4639,
     'name' => 'Caulfield North',
@@ -6643,7 +6328,7 @@ return array (
     'latitude' => -37.8739,
     'longitude' => 145.02485,
   ),
-  738 => 
+  703 => 
   array (
     'id' => 4640,
     'name' => 'Caulfield South',
@@ -6652,7 +6337,7 @@ return array (
     'latitude' => -37.89562,
     'longitude' => 145.02597,
   ),
-  739 => 
+  704 => 
   array (
     'id' => 4641,
     'name' => 'Caversham',
@@ -6661,7 +6346,7 @@ return array (
     'latitude' => -31.88333,
     'longitude' => 115.96667,
   ),
-  740 => 
+  705 => 
   array (
     'id' => 4642,
     'name' => 'Caves Beach',
@@ -6670,7 +6355,7 @@ return array (
     'latitude' => -33.10637,
     'longitude' => 151.64402,
   ),
-  741 => 
+  706 => 
   array (
     'id' => 4643,
     'name' => 'Cecil Hills',
@@ -6679,7 +6364,7 @@ return array (
     'latitude' => -33.88917,
     'longitude' => 150.85137,
   ),
-  742 => 
+  707 => 
   array (
     'id' => 4644,
     'name' => 'Cedar Grove',
@@ -6688,7 +6373,7 @@ return array (
     'latitude' => -27.86667,
     'longitude' => 152.98333,
   ),
-  743 => 
+  708 => 
   array (
     'id' => 4645,
     'name' => 'Cedar Vale',
@@ -6697,7 +6382,7 @@ return array (
     'latitude' => -27.88923,
     'longitude' => 153.02891,
   ),
-  744 => 
+  709 => 
   array (
     'id' => 4646,
     'name' => 'Ceduna',
@@ -6706,7 +6391,7 @@ return array (
     'latitude' => -32.14736,
     'longitude' => 133.86288,
   ),
-  745 => 
+  710 => 
   array (
     'id' => 4647,
     'name' => 'Centenary Heights',
@@ -6715,7 +6400,7 @@ return array (
     'latitude' => -27.58684,
     'longitude' => 151.96249,
   ),
-  746 => 
+  711 => 
   array (
     'id' => 4648,
     'name' => 'Centennial Park',
@@ -6724,7 +6409,7 @@ return array (
     'latitude' => -33.89794,
     'longitude' => 151.23364,
   ),
-  747 => 
+  712 => 
   array (
     'id' => 4649,
     'name' => 'Central Coast',
@@ -6733,7 +6418,7 @@ return array (
     'latitude' => -41.26999,
     'longitude' => 146.05916,
   ),
-  748 => 
+  713 => 
   array (
     'id' => 4650,
     'name' => 'Central Darling',
@@ -6742,7 +6427,7 @@ return array (
     'latitude' => -31.77155,
     'longitude' => 143.62569,
   ),
-  749 => 
+  714 => 
   array (
     'id' => 4651,
     'name' => 'Central Desert',
@@ -6751,7 +6436,7 @@ return array (
     'latitude' => -21.07203,
     'longitude' => 133.49949,
   ),
-  750 => 
+  715 => 
   array (
     'id' => 4652,
     'name' => 'Central Goldfields',
@@ -6760,7 +6445,7 @@ return array (
     'latitude' => -36.97889,
     'longitude' => 143.73857,
   ),
-  751 => 
+  716 => 
   array (
     'id' => 4653,
     'name' => 'Central Highlands',
@@ -6769,16 +6454,7 @@ return array (
     'latitude' => -42.19653,
     'longitude' => 146.63934,
   ),
-  752 => 
-  array (
-    'id' => 4654,
-    'name' => 'Central Highlands',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -24.06336,
-    'longitude' => 148.31958,
-  ),
-  753 => 
+  717 => 
   array (
     'id' => 4655,
     'name' => 'Cessnock',
@@ -6787,7 +6463,7 @@ return array (
     'latitude' => -32.89391,
     'longitude' => 151.21234,
   ),
-  754 => 
+  718 => 
   array (
     'id' => 4656,
     'name' => 'Chadstone',
@@ -6796,7 +6472,7 @@ return array (
     'latitude' => -37.88766,
     'longitude' => 145.09519,
   ),
-  755 => 
+  719 => 
   array (
     'id' => 4657,
     'name' => 'Chain Valley Bay',
@@ -6805,7 +6481,7 @@ return array (
     'latitude' => -33.17241,
     'longitude' => 151.57143,
   ),
-  756 => 
+  720 => 
   array (
     'id' => 4658,
     'name' => 'Chambers Flat',
@@ -6814,7 +6490,7 @@ return array (
     'latitude' => -27.74811,
     'longitude' => 153.07764,
   ),
-  757 => 
+  721 => 
   array (
     'id' => 4659,
     'name' => 'Champion Lakes',
@@ -6823,7 +6499,7 @@ return array (
     'latitude' => -32.11913,
     'longitude' => 115.98617,
   ),
-  758 => 
+  722 => 
   array (
     'id' => 4660,
     'name' => 'Chandler',
@@ -6832,7 +6508,7 @@ return array (
     'latitude' => -27.51398,
     'longitude' => 153.14907,
   ),
-  759 => 
+  723 => 
   array (
     'id' => 4661,
     'name' => 'Chapel Hill',
@@ -6841,7 +6517,7 @@ return array (
     'latitude' => -27.50264,
     'longitude' => 152.95012,
   ),
-  760 => 
+  724 => 
   array (
     'id' => 4662,
     'name' => 'Chapman',
@@ -6850,7 +6526,7 @@ return array (
     'latitude' => -35.35621,
     'longitude' => 149.03742,
   ),
-  761 => 
+  725 => 
   array (
     'id' => 4663,
     'name' => 'Chapman Valley',
@@ -6859,7 +6535,7 @@ return array (
     'latitude' => -28.27249,
     'longitude' => 115.02794,
   ),
-  762 => 
+  726 => 
   array (
     'id' => 4664,
     'name' => 'Charles Sturt',
@@ -6868,7 +6544,7 @@ return array (
     'latitude' => -34.90067,
     'longitude' => 138.53182,
   ),
-  763 => 
+  727 => 
   array (
     'id' => 4665,
     'name' => 'Charlestown',
@@ -6877,7 +6553,7 @@ return array (
     'latitude' => -32.96828,
     'longitude' => 151.69318,
   ),
-  764 => 
+  728 => 
   array (
     'id' => 4666,
     'name' => 'Charleville',
@@ -6886,7 +6562,7 @@ return array (
     'latitude' => -26.40542,
     'longitude' => 146.24274,
   ),
-  765 => 
+  729 => 
   array (
     'id' => 4667,
     'name' => 'Charlton',
@@ -6895,7 +6571,7 @@ return array (
     'latitude' => -36.26437,
     'longitude' => 143.34901,
   ),
-  766 => 
+  730 => 
   array (
     'id' => 4668,
     'name' => 'Charmhaven',
@@ -6904,7 +6580,7 @@ return array (
     'latitude' => -33.22671,
     'longitude' => 151.50284,
   ),
-  767 => 
+  731 => 
   array (
     'id' => 4669,
     'name' => 'Charnwood',
@@ -6913,7 +6589,7 @@ return array (
     'latitude' => -35.20019,
     'longitude' => 149.03412,
   ),
-  768 => 
+  732 => 
   array (
     'id' => 4670,
     'name' => 'Charters Towers',
@@ -6922,7 +6598,7 @@ return array (
     'latitude' => -20.20927,
     'longitude' => 145.81645,
   ),
-  769 => 
+  733 => 
   array (
     'id' => 4671,
     'name' => 'Charters Towers City',
@@ -6931,7 +6607,7 @@ return array (
     'latitude' => -20.07774,
     'longitude' => 146.26275,
   ),
-  770 => 
+  734 => 
   array (
     'id' => 4672,
     'name' => 'Chatswood',
@@ -6940,7 +6616,7 @@ return array (
     'latitude' => -33.8,
     'longitude' => 151.18333,
   ),
-  771 => 
+  735 => 
   array (
     'id' => 4673,
     'name' => 'Chatswood West',
@@ -6949,7 +6625,7 @@ return array (
     'latitude' => -33.79402,
     'longitude' => 151.16492,
   ),
-  772 => 
+  736 => 
   array (
     'id' => 4674,
     'name' => 'Chatsworth',
@@ -6958,7 +6634,7 @@ return array (
     'latitude' => -26.14398,
     'longitude' => 152.61503,
   ),
-  773 => 
+  737 => 
   array (
     'id' => 4675,
     'name' => 'Chelmer',
@@ -6967,7 +6643,7 @@ return array (
     'latitude' => -27.51326,
     'longitude' => 152.97524,
   ),
-  774 => 
+  738 => 
   array (
     'id' => 4676,
     'name' => 'Chelsea',
@@ -6976,7 +6652,7 @@ return array (
     'latitude' => -38.05,
     'longitude' => 145.11667,
   ),
-  775 => 
+  739 => 
   array (
     'id' => 4677,
     'name' => 'Chelsea Heights',
@@ -6985,7 +6661,7 @@ return array (
     'latitude' => -38.03333,
     'longitude' => 145.13333,
   ),
-  776 => 
+  740 => 
   array (
     'id' => 4678,
     'name' => 'Cheltenham',
@@ -6994,16 +6670,7 @@ return array (
     'latitude' => -34.86788,
     'longitude' => 138.52336,
   ),
-  777 => 
-  array (
-    'id' => 4679,
-    'name' => 'Cheltenham',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.96944,
-    'longitude' => 145.04806,
-  ),
-  778 => 
+  741 => 
   array (
     'id' => 4680,
     'name' => 'Cherbourg',
@@ -7012,7 +6679,7 @@ return array (
     'latitude' => -26.2875,
     'longitude' => 151.93279,
   ),
-  779 => 
+  742 => 
   array (
     'id' => 4681,
     'name' => 'Chermside',
@@ -7021,7 +6688,7 @@ return array (
     'latitude' => -27.38472,
     'longitude' => 153.03062,
   ),
-  780 => 
+  743 => 
   array (
     'id' => 4682,
     'name' => 'Chermside West',
@@ -7030,7 +6697,7 @@ return array (
     'latitude' => -27.38383,
     'longitude' => 153.01586,
   ),
-  781 => 
+  744 => 
   array (
     'id' => 4683,
     'name' => 'Cherrybrook',
@@ -7039,7 +6706,7 @@ return array (
     'latitude' => -33.72197,
     'longitude' => 151.04607,
   ),
-  782 => 
+  745 => 
   array (
     'id' => 4684,
     'name' => 'Chester Hill',
@@ -7048,7 +6715,7 @@ return array (
     'latitude' => -33.87896,
     'longitude' => 150.99945,
   ),
-  783 => 
+  746 => 
   array (
     'id' => 4685,
     'name' => 'Chewton',
@@ -7057,7 +6724,7 @@ return array (
     'latitude' => -37.08137,
     'longitude' => 144.25682,
   ),
-  784 => 
+  747 => 
   array (
     'id' => 4686,
     'name' => 'Chidlow',
@@ -7066,7 +6733,7 @@ return array (
     'latitude' => -31.86094,
     'longitude' => 116.27243,
   ),
-  785 => 
+  748 => 
   array (
     'id' => 4687,
     'name' => 'Chifley',
@@ -7075,16 +6742,7 @@ return array (
     'latitude' => -35.3534,
     'longitude' => 149.07684,
   ),
-  786 => 
-  array (
-    'id' => 4688,
-    'name' => 'Chifley',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.96696,
-    'longitude' => 151.24221,
-  ),
-  787 => 
+  749 => 
   array (
     'id' => 4689,
     'name' => 'Chigwell',
@@ -7093,7 +6751,7 @@ return array (
     'latitude' => -42.80912,
     'longitude' => 147.2448,
   ),
-  788 => 
+  750 => 
   array (
     'id' => 4690,
     'name' => 'Childers',
@@ -7102,7 +6760,7 @@ return array (
     'latitude' => -25.23708,
     'longitude' => 152.27876,
   ),
-  789 => 
+  751 => 
   array (
     'id' => 4691,
     'name' => 'Chiltern',
@@ -7111,7 +6769,7 @@ return array (
     'latitude' => -36.15044,
     'longitude' => 146.60843,
   ),
-  790 => 
+  752 => 
   array (
     'id' => 4692,
     'name' => 'Chinchilla',
@@ -7120,7 +6778,7 @@ return array (
     'latitude' => -26.73787,
     'longitude' => 150.6297,
   ),
-  791 => 
+  753 => 
   array (
     'id' => 4693,
     'name' => 'Chinderah',
@@ -7129,7 +6787,7 @@ return array (
     'latitude' => -28.25456,
     'longitude' => 153.53712,
   ),
-  792 => 
+  754 => 
   array (
     'id' => 4694,
     'name' => 'Chippendale',
@@ -7138,7 +6796,7 @@ return array (
     'latitude' => -33.88673,
     'longitude' => 151.19745,
   ),
-  793 => 
+  755 => 
   array (
     'id' => 4695,
     'name' => 'Chipping Norton',
@@ -7147,7 +6805,7 @@ return array (
     'latitude' => -33.91801,
     'longitude' => 150.95927,
   ),
-  794 => 
+  756 => 
   array (
     'id' => 4696,
     'name' => 'Chirnside Park',
@@ -7156,7 +6814,7 @@ return array (
     'latitude' => -37.7386,
     'longitude' => 145.31431,
   ),
-  795 => 
+  757 => 
   array (
     'id' => 4697,
     'name' => 'Chisholm',
@@ -7165,7 +6823,7 @@ return array (
     'latitude' => -35.41249,
     'longitude' => 149.12825,
   ),
-  796 => 
+  758 => 
   array (
     'id' => 4698,
     'name' => 'Chiswick',
@@ -7174,7 +6832,7 @@ return array (
     'latitude' => -33.84996,
     'longitude' => 151.13846,
   ),
-  797 => 
+  759 => 
   array (
     'id' => 4699,
     'name' => 'Chittaway Bay',
@@ -7183,7 +6841,7 @@ return array (
     'latitude' => -33.32769,
     'longitude' => 151.42971,
   ),
-  798 => 
+  760 => 
   array (
     'id' => 4700,
     'name' => 'Chittering',
@@ -7192,7 +6850,7 @@ return array (
     'latitude' => -31.35829,
     'longitude' => 116.05131,
   ),
-  799 => 
+  761 => 
   array (
     'id' => 4701,
     'name' => 'Christie Downs',
@@ -7201,7 +6859,7 @@ return array (
     'latitude' => -35.12999,
     'longitude' => 138.49633,
   ),
-  800 => 
+  762 => 
   array (
     'id' => 4702,
     'name' => 'Christies Beach',
@@ -7210,7 +6868,7 @@ return array (
     'latitude' => -35.13876,
     'longitude' => 138.47232,
   ),
-  801 => 
+  763 => 
   array (
     'id' => 4703,
     'name' => 'Churchill',
@@ -7219,16 +6877,7 @@ return array (
     'latitude' => -27.64233,
     'longitude' => 152.75022,
   ),
-  802 => 
-  array (
-    'id' => 4704,
-    'name' => 'Churchill',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.30776,
-    'longitude' => 146.41367,
-  ),
-  803 => 
+  764 => 
   array (
     'id' => 4705,
     'name' => 'Churchlands',
@@ -7237,7 +6886,7 @@ return array (
     'latitude' => -31.92142,
     'longitude' => 115.79322,
   ),
-  804 => 
+  765 => 
   array (
     'id' => 4706,
     'name' => 'Chuwar',
@@ -7246,7 +6895,7 @@ return array (
     'latitude' => -27.5662,
     'longitude' => 152.77844,
   ),
-  805 => 
+  766 => 
   array (
     'id' => 4707,
     'name' => 'Circular Head',
@@ -7255,7 +6904,7 @@ return array (
     'latitude' => -41.01991,
     'longitude' => 145.08366,
   ),
-  806 => 
+  767 => 
   array (
     'id' => 4708,
     'name' => 'City',
@@ -7264,7 +6913,7 @@ return array (
     'latitude' => -35.28125,
     'longitude' => 149.12927,
   ),
-  807 => 
+  768 => 
   array (
     'id' => 4709,
     'name' => 'City Beach',
@@ -7273,7 +6922,7 @@ return array (
     'latitude' => -31.9344,
     'longitude' => 115.76174,
   ),
-  808 => 
+  769 => 
   array (
     'id' => 4710,
     'name' => 'City of Cockburn',
@@ -7282,7 +6931,7 @@ return array (
     'latitude' => -32.10264,
     'longitude' => 115.84431,
   ),
-  809 => 
+  770 => 
   array (
     'id' => 4711,
     'name' => 'City of Perth',
@@ -7291,7 +6940,7 @@ return array (
     'latitude' => -31.94978,
     'longitude' => 115.85383,
   ),
-  810 => 
+  771 => 
   array (
     'id' => 4712,
     'name' => 'City of Sydney',
@@ -7300,7 +6949,7 @@ return array (
     'latitude' => -33.86778,
     'longitude' => 151.20844,
   ),
-  811 => 
+  772 => 
   array (
     'id' => 4713,
     'name' => 'City of West Torrens',
@@ -7309,7 +6958,7 @@ return array (
     'latitude' => -34.93133,
     'longitude' => 138.5509,
   ),
-  812 => 
+  773 => 
   array (
     'id' => 4714,
     'name' => 'Clapham',
@@ -7318,7 +6967,7 @@ return array (
     'latitude' => -34.98989,
     'longitude' => 138.60158,
   ),
-  813 => 
+  774 => 
   array (
     'id' => 4715,
     'name' => 'Clare',
@@ -7327,7 +6976,7 @@ return array (
     'latitude' => -33.83325,
     'longitude' => 138.61064,
   ),
-  814 => 
+  775 => 
   array (
     'id' => 4716,
     'name' => 'Clare and Gilbert Valleys',
@@ -7336,7 +6985,7 @@ return array (
     'latitude' => -34.01462,
     'longitude' => 138.7534,
   ),
-  815 => 
+  776 => 
   array (
     'id' => 4717,
     'name' => 'Claremont',
@@ -7345,16 +6994,7 @@ return array (
     'latitude' => -42.78333,
     'longitude' => 147.25,
   ),
-  816 => 
-  array (
-    'id' => 4718,
-    'name' => 'Claremont',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.98127,
-    'longitude' => 115.77942,
-  ),
-  817 => 
+  777 => 
   array (
     'id' => 4719,
     'name' => 'Claremont Meadows',
@@ -7363,7 +7003,7 @@ return array (
     'latitude' => -33.77587,
     'longitude' => 150.75193,
   ),
-  818 => 
+  778 => 
   array (
     'id' => 4720,
     'name' => 'Clarence',
@@ -7372,7 +7012,7 @@ return array (
     'latitude' => -42.87369,
     'longitude' => 147.44725,
   ),
-  819 => 
+  779 => 
   array (
     'id' => 4721,
     'name' => 'Clarence Gardens',
@@ -7381,7 +7021,7 @@ return array (
     'latitude' => -34.97539,
     'longitude' => 138.57983,
   ),
-  820 => 
+  780 => 
   array (
     'id' => 4722,
     'name' => 'Clarence Park',
@@ -7390,7 +7030,7 @@ return array (
     'latitude' => -34.96416,
     'longitude' => 138.5806,
   ),
-  821 => 
+  781 => 
   array (
     'id' => 4723,
     'name' => 'Clarence Town',
@@ -7399,7 +7039,7 @@ return array (
     'latitude' => -32.58395,
     'longitude' => 151.77757,
   ),
-  822 => 
+  782 => 
   array (
     'id' => 4724,
     'name' => 'Clarence Valley',
@@ -7408,7 +7048,7 @@ return array (
     'latitude' => -29.69444,
     'longitude' => 152.78156,
   ),
-  823 => 
+  783 => 
   array (
     'id' => 4725,
     'name' => 'Clarendon Vale',
@@ -7417,7 +7057,7 @@ return array (
     'latitude' => -42.88988,
     'longitude' => 147.44368,
   ),
-  824 => 
+  784 => 
   array (
     'id' => 4726,
     'name' => 'Clarinda',
@@ -7426,7 +7066,7 @@ return array (
     'latitude' => -37.94066,
     'longitude' => 145.10238,
   ),
-  825 => 
+  785 => 
   array (
     'id' => 4727,
     'name' => 'Clarkson',
@@ -7435,7 +7075,7 @@ return array (
     'latitude' => -31.68282,
     'longitude' => 115.7247,
   ),
-  826 => 
+  786 => 
   array (
     'id' => 4728,
     'name' => 'Clayfield',
@@ -7444,7 +7084,7 @@ return array (
     'latitude' => -27.41894,
     'longitude' => 153.05818,
   ),
-  827 => 
+  787 => 
   array (
     'id' => 4729,
     'name' => 'Claymore',
@@ -7453,7 +7093,7 @@ return array (
     'latitude' => -34.04649,
     'longitude' => 150.81114,
   ),
-  828 => 
+  788 => 
   array (
     'id' => 4730,
     'name' => 'Clayton',
@@ -7462,7 +7102,7 @@ return array (
     'latitude' => -37.91667,
     'longitude' => 145.11667,
   ),
-  829 => 
+  789 => 
   array (
     'id' => 4731,
     'name' => 'Clayton South',
@@ -7471,7 +7111,7 @@ return array (
     'latitude' => -37.93333,
     'longitude' => 145.11667,
   ),
-  830 => 
+  790 => 
   array (
     'id' => 4732,
     'name' => 'Clear Island Waters',
@@ -7480,7 +7120,7 @@ return array (
     'latitude' => -28.05308,
     'longitude' => 153.39815,
   ),
-  831 => 
+  791 => 
   array (
     'id' => 4733,
     'name' => 'Clearview',
@@ -7489,7 +7129,7 @@ return array (
     'latitude' => -34.85735,
     'longitude' => 138.61327,
   ),
-  832 => 
+  792 => 
   array (
     'id' => 4734,
     'name' => 'Clemton Park',
@@ -7498,7 +7138,7 @@ return array (
     'latitude' => -33.92616,
     'longitude' => 151.10406,
   ),
-  833 => 
+  793 => 
   array (
     'id' => 4735,
     'name' => 'Clermont',
@@ -7507,7 +7147,7 @@ return array (
     'latitude' => -22.82407,
     'longitude' => 147.63635,
   ),
-  834 => 
+  794 => 
   array (
     'id' => 4736,
     'name' => 'Cleve',
@@ -7516,7 +7156,7 @@ return array (
     'latitude' => -33.66078,
     'longitude' => 136.28893,
   ),
-  835 => 
+  795 => 
   array (
     'id' => 4737,
     'name' => 'Cleveland',
@@ -7525,7 +7165,7 @@ return array (
     'latitude' => -27.52677,
     'longitude' => 153.26516,
   ),
-  836 => 
+  796 => 
   array (
     'id' => 4738,
     'name' => 'Clifton',
@@ -7534,7 +7174,7 @@ return array (
     'latitude' => -27.93374,
     'longitude' => 151.9066,
   ),
-  837 => 
+  797 => 
   array (
     'id' => 4739,
     'name' => 'Clifton Beach',
@@ -7543,7 +7183,7 @@ return array (
     'latitude' => -16.76313,
     'longitude' => 145.67167,
   ),
-  838 => 
+  798 => 
   array (
     'id' => 4740,
     'name' => 'Clifton Hill',
@@ -7552,7 +7192,7 @@ return array (
     'latitude' => -37.79798,
     'longitude' => 144.99533,
   ),
-  839 => 
+  799 => 
   array (
     'id' => 4741,
     'name' => 'Clifton Springs',
@@ -7561,7 +7201,7 @@ return array (
     'latitude' => -38.1567,
     'longitude' => 144.5551,
   ),
-  840 => 
+  800 => 
   array (
     'id' => 4742,
     'name' => 'Clinton',
@@ -7570,7 +7210,7 @@ return array (
     'latitude' => -23.87518,
     'longitude' => 151.21793,
   ),
-  841 => 
+  801 => 
   array (
     'id' => 4743,
     'name' => 'Cloncurry',
@@ -7579,7 +7219,7 @@ return array (
     'latitude' => -20.69889,
     'longitude' => 140.27115,
   ),
-  842 => 
+  802 => 
   array (
     'id' => 4744,
     'name' => 'Clontarf',
@@ -7588,16 +7228,7 @@ return array (
     'latitude' => -27.25341,
     'longitude' => 153.07835,
   ),
-  843 => 
-  array (
-    'id' => 4745,
-    'name' => 'Clontarf',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.80554,
-    'longitude' => 151.25367,
-  ),
-  844 => 
+  803 => 
   array (
     'id' => 4746,
     'name' => 'Clovelly',
@@ -7606,7 +7237,7 @@ return array (
     'latitude' => -33.91214,
     'longitude' => 151.25882,
   ),
-  845 => 
+  804 => 
   array (
     'id' => 4747,
     'name' => 'Clovelly Park',
@@ -7615,7 +7246,7 @@ return array (
     'latitude' => -34.99951,
     'longitude' => 138.57081,
   ),
-  846 => 
+  805 => 
   array (
     'id' => 4748,
     'name' => 'Cloverdale',
@@ -7624,7 +7255,7 @@ return array (
     'latitude' => -31.96281,
     'longitude' => 115.94428,
   ),
-  847 => 
+  806 => 
   array (
     'id' => 4749,
     'name' => 'Clunes',
@@ -7633,7 +7264,7 @@ return array (
     'latitude' => -37.29473,
     'longitude' => 143.78636,
   ),
-  848 => 
+  807 => 
   array (
     'id' => 4750,
     'name' => 'Clyde',
@@ -7642,7 +7273,7 @@ return array (
     'latitude' => -38.13333,
     'longitude' => 145.33333,
   ),
-  849 => 
+  808 => 
   array (
     'id' => 4751,
     'name' => 'Clyde North',
@@ -7651,7 +7282,7 @@ return array (
     'latitude' => -38.11667,
     'longitude' => 145.33333,
   ),
-  850 => 
+  809 => 
   array (
     'id' => 4752,
     'name' => 'Coal Point',
@@ -7660,7 +7291,7 @@ return array (
     'latitude' => -33.04225,
     'longitude' => 151.61159,
   ),
-  851 => 
+  810 => 
   array (
     'id' => 4753,
     'name' => 'Cobar',
@@ -7669,7 +7300,7 @@ return array (
     'latitude' => -31.96613,
     'longitude' => 145.36063,
   ),
-  852 => 
+  811 => 
   array (
     'id' => 4754,
     'name' => 'Cobbitty',
@@ -7678,7 +7309,7 @@ return array (
     'latitude' => -34.01592,
     'longitude' => 150.67854,
   ),
-  853 => 
+  812 => 
   array (
     'id' => 4755,
     'name' => 'Cobden',
@@ -7687,7 +7318,7 @@ return array (
     'latitude' => -38.3286,
     'longitude' => 143.07484,
   ),
-  854 => 
+  813 => 
   array (
     'id' => 4756,
     'name' => 'Cobram',
@@ -7696,7 +7327,7 @@ return array (
     'latitude' => -35.92069,
     'longitude' => 145.64066,
   ),
-  855 => 
+  814 => 
   array (
     'id' => 4757,
     'name' => 'Coburg',
@@ -7705,7 +7336,7 @@ return array (
     'latitude' => -37.75,
     'longitude' => 144.96667,
   ),
-  856 => 
+  815 => 
   array (
     'id' => 4758,
     'name' => 'Coburg North',
@@ -7714,7 +7345,7 @@ return array (
     'latitude' => -37.72867,
     'longitude' => 144.96134,
   ),
-  857 => 
+  816 => 
   array (
     'id' => 4759,
     'name' => 'Cockatoo',
@@ -7723,7 +7354,7 @@ return array (
     'latitude' => -37.93677,
     'longitude' => 145.49376,
   ),
-  858 => 
+  817 => 
   array (
     'id' => 4760,
     'name' => 'Cockburn Central',
@@ -7732,7 +7363,7 @@ return array (
     'latitude' => -32.12133,
     'longitude' => 115.84776,
   ),
-  859 => 
+  818 => 
   array (
     'id' => 4761,
     'name' => 'Coconut Grove',
@@ -7741,7 +7372,7 @@ return array (
     'latitude' => -12.39602,
     'longitude' => 130.85186,
   ),
-  860 => 
+  819 => 
   array (
     'id' => 4762,
     'name' => 'Coes Creek',
@@ -7750,7 +7381,7 @@ return array (
     'latitude' => -26.6472,
     'longitude' => 152.94943,
   ),
-  861 => 
+  820 => 
   array (
     'id' => 4763,
     'name' => 'Coffs Harbour',
@@ -7759,7 +7390,7 @@ return array (
     'latitude' => -30.17294,
     'longitude' => 153.03262,
   ),
-  862 => 
+  821 => 
   array (
     'id' => 4764,
     'name' => 'Cohuna',
@@ -7768,7 +7399,7 @@ return array (
     'latitude' => -35.80697,
     'longitude' => 144.21886,
   ),
-  863 => 
+  822 => 
   array (
     'id' => 4765,
     'name' => 'Colac',
@@ -7777,7 +7408,7 @@ return array (
     'latitude' => -38.339,
     'longitude' => 143.58489,
   ),
-  864 => 
+  823 => 
   array (
     'id' => 4766,
     'name' => 'Colac-Otway',
@@ -7786,7 +7417,7 @@ return array (
     'latitude' => -38.43873,
     'longitude' => 143.59669,
   ),
-  865 => 
+  824 => 
   array (
     'id' => 4767,
     'name' => 'Coldstream',
@@ -7795,7 +7426,7 @@ return array (
     'latitude' => -37.7249,
     'longitude' => 145.37804,
   ),
-  866 => 
+  825 => 
   array (
     'id' => 4768,
     'name' => 'Coleambally',
@@ -7804,7 +7435,7 @@ return array (
     'latitude' => -34.80388,
     'longitude' => 145.88036,
   ),
-  867 => 
+  826 => 
   array (
     'id' => 4769,
     'name' => 'Colebee',
@@ -7813,7 +7444,7 @@ return array (
     'latitude' => -33.72769,
     'longitude' => 150.84743,
   ),
-  868 => 
+  827 => 
   array (
     'id' => 4770,
     'name' => 'Coledale',
@@ -7822,7 +7453,7 @@ return array (
     'latitude' => -34.29105,
     'longitude' => 150.9447,
   ),
-  869 => 
+  828 => 
   array (
     'id' => 4771,
     'name' => 'Collaroy',
@@ -7831,7 +7462,7 @@ return array (
     'latitude' => -33.73205,
     'longitude' => 151.30118,
   ),
-  870 => 
+  829 => 
   array (
     'id' => 4772,
     'name' => 'Collaroy Plateau',
@@ -7840,7 +7471,7 @@ return array (
     'latitude' => -33.72884,
     'longitude' => 151.29075,
   ),
-  871 => 
+  830 => 
   array (
     'id' => 4773,
     'name' => 'College Grove',
@@ -7849,7 +7480,7 @@ return array (
     'latitude' => -33.37587,
     'longitude' => 115.65906,
   ),
-  872 => 
+  831 => 
   array (
     'id' => 4774,
     'name' => 'Collie',
@@ -7858,7 +7489,7 @@ return array (
     'latitude' => -33.27353,
     'longitude' => 116.16558,
   ),
-  873 => 
+  832 => 
   array (
     'id' => 4775,
     'name' => 'Collingwood',
@@ -7867,7 +7498,7 @@ return array (
     'latitude' => -37.80253,
     'longitude' => 144.98872,
   ),
-  874 => 
+  833 => 
   array (
     'id' => 4776,
     'name' => 'Collingwood Park',
@@ -7876,7 +7507,7 @@ return array (
     'latitude' => -27.61282,
     'longitude' => 152.86008,
   ),
-  875 => 
+  834 => 
   array (
     'id' => 4777,
     'name' => 'Collinsville',
@@ -7885,7 +7516,7 @@ return array (
     'latitude' => -20.55223,
     'longitude' => 147.84399,
   ),
-  876 => 
+  835 => 
   array (
     'id' => 4778,
     'name' => 'Collinswood',
@@ -7894,7 +7525,7 @@ return array (
     'latitude' => -34.8873,
     'longitude' => 138.61224,
   ),
-  877 => 
+  836 => 
   array (
     'id' => 4779,
     'name' => 'Colo Vale',
@@ -7903,7 +7534,7 @@ return array (
     'latitude' => -34.40095,
     'longitude' => 150.48573,
   ),
-  878 => 
+  837 => 
   array (
     'id' => 4780,
     'name' => 'Colonel Light Gardens',
@@ -7912,7 +7543,7 @@ return array (
     'latitude' => -34.98628,
     'longitude' => 138.59746,
   ),
-  879 => 
+  838 => 
   array (
     'id' => 4781,
     'name' => 'Colyton',
@@ -7921,7 +7552,7 @@ return array (
     'latitude' => -33.78283,
     'longitude' => 150.79679,
   ),
-  880 => 
+  839 => 
   array (
     'id' => 4782,
     'name' => 'Como',
@@ -7930,16 +7561,7 @@ return array (
     'latitude' => -33.99941,
     'longitude' => 151.06389,
   ),
-  881 => 
-  array (
-    'id' => 4783,
-    'name' => 'Como',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.99119,
-    'longitude' => 115.86336,
-  ),
-  882 => 
+  840 => 
   array (
     'id' => 4784,
     'name' => 'Concord',
@@ -7948,7 +7570,7 @@ return array (
     'latitude' => -33.84722,
     'longitude' => 151.10381,
   ),
-  883 => 
+  841 => 
   array (
     'id' => 4785,
     'name' => 'Concord West',
@@ -7957,7 +7579,7 @@ return array (
     'latitude' => -33.84809,
     'longitude' => 151.08609,
   ),
-  884 => 
+  842 => 
   array (
     'id' => 4786,
     'name' => 'Condell Park',
@@ -7966,7 +7588,7 @@ return array (
     'latitude' => -33.92458,
     'longitude' => 151.01093,
   ),
-  885 => 
+  843 => 
   array (
     'id' => 4787,
     'name' => 'Conder',
@@ -7975,7 +7597,7 @@ return array (
     'latitude' => -35.45926,
     'longitude' => 149.10422,
   ),
-  886 => 
+  844 => 
   array (
     'id' => 4788,
     'name' => 'Condobolin',
@@ -7984,7 +7606,7 @@ return array (
     'latitude' => -33.08877,
     'longitude' => 147.15139,
   ),
-  887 => 
+  845 => 
   array (
     'id' => 4789,
     'name' => 'Condon',
@@ -7993,7 +7615,7 @@ return array (
     'latitude' => -19.32968,
     'longitude' => 146.71663,
   ),
-  888 => 
+  846 => 
   array (
     'id' => 4790,
     'name' => 'Coniston',
@@ -8002,7 +7624,7 @@ return array (
     'latitude' => -34.45,
     'longitude' => 150.88333,
   ),
-  889 => 
+  847 => 
   array (
     'id' => 4791,
     'name' => 'Connells Point',
@@ -8011,7 +7633,7 @@ return array (
     'latitude' => -33.98827,
     'longitude' => 151.09094,
   ),
-  890 => 
+  848 => 
   array (
     'id' => 4792,
     'name' => 'Connolly',
@@ -8020,7 +7642,7 @@ return array (
     'latitude' => -31.74864,
     'longitude' => 115.75053,
   ),
-  891 => 
+  849 => 
   array (
     'id' => 4793,
     'name' => 'Constitution Hill',
@@ -8029,7 +7651,7 @@ return array (
     'latitude' => -33.79259,
     'longitude' => 150.97627,
   ),
-  892 => 
+  850 => 
   array (
     'id' => 4794,
     'name' => 'Coober Pedy',
@@ -8038,7 +7660,7 @@ return array (
     'latitude' => -29.01415,
     'longitude' => 134.75495,
   ),
-  893 => 
+  851 => 
   array (
     'id' => 4795,
     'name' => 'Coodanup',
@@ -8047,7 +7669,7 @@ return array (
     'latitude' => -32.55187,
     'longitude' => 115.75352,
   ),
-  894 => 
+  852 => 
   array (
     'id' => 4796,
     'name' => 'Cooee Bay',
@@ -8056,7 +7678,7 @@ return array (
     'latitude' => -23.14427,
     'longitude' => 150.76113,
   ),
-  895 => 
+  853 => 
   array (
     'id' => 4797,
     'name' => 'Coogee',
@@ -8065,16 +7687,7 @@ return array (
     'latitude' => -32.11934,
     'longitude' => 115.7665,
   ),
-  896 => 
-  array (
-    'id' => 4798,
-    'name' => 'Coogee',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.9205,
-    'longitude' => 151.25522,
-  ),
-  897 => 
+  854 => 
   array (
     'id' => 4799,
     'name' => 'Cook',
@@ -8083,7 +7696,7 @@ return array (
     'latitude' => -35.26014,
     'longitude' => 149.06566,
   ),
-  898 => 
+  855 => 
   array (
     'id' => 4800,
     'name' => 'Cook Shire',
@@ -8092,7 +7705,7 @@ return array (
     'latitude' => -13.68149,
     'longitude' => 143.53156,
   ),
-  899 => 
+  856 => 
   array (
     'id' => 4801,
     'name' => 'Cooks Hill',
@@ -8101,7 +7714,7 @@ return array (
     'latitude' => -32.93244,
     'longitude' => 151.77114,
   ),
-  900 => 
+  857 => 
   array (
     'id' => 4802,
     'name' => 'Cooktown',
@@ -8110,7 +7723,7 @@ return array (
     'latitude' => -15.4657,
     'longitude' => 145.24984,
   ),
-  901 => 
+  858 => 
   array (
     'id' => 4803,
     'name' => 'Coolah',
@@ -8119,7 +7732,7 @@ return array (
     'latitude' => -31.82787,
     'longitude' => 149.71564,
   ),
-  902 => 
+  859 => 
   array (
     'id' => 4804,
     'name' => 'Coolamon',
@@ -8128,7 +7741,7 @@ return array (
     'latitude' => -34.60046,
     'longitude' => 147.13707,
   ),
-  903 => 
+  860 => 
   array (
     'id' => 4805,
     'name' => 'Coolangatta',
@@ -8137,7 +7750,7 @@ return array (
     'latitude' => -28.16944,
     'longitude' => 153.53471,
   ),
-  904 => 
+  861 => 
   array (
     'id' => 4806,
     'name' => 'Coolaroo',
@@ -8146,7 +7759,7 @@ return array (
     'latitude' => -37.65675,
     'longitude' => 144.9346,
   ),
-  905 => 
+  862 => 
   array (
     'id' => 4807,
     'name' => 'Coolbellup',
@@ -8155,7 +7768,7 @@ return array (
     'latitude' => -32.08124,
     'longitude' => 115.80606,
   ),
-  906 => 
+  863 => 
   array (
     'id' => 4808,
     'name' => 'Coolbinia',
@@ -8164,7 +7777,7 @@ return array (
     'latitude' => -31.9147,
     'longitude' => 115.84894,
   ),
-  907 => 
+  864 => 
   array (
     'id' => 4809,
     'name' => 'Coolgardie',
@@ -8173,7 +7786,7 @@ return array (
     'latitude' => -31.01438,
     'longitude' => 121.20462,
   ),
-  908 => 
+  865 => 
   array (
     'id' => 4810,
     'name' => 'Cooloola Cove',
@@ -8182,7 +7795,7 @@ return array (
     'latitude' => -25.9864,
     'longitude' => 152.99355,
   ),
-  909 => 
+  866 => 
   array (
     'id' => 4811,
     'name' => 'Cooloongup',
@@ -8191,7 +7804,7 @@ return array (
     'latitude' => -32.31506,
     'longitude' => 115.77772,
   ),
-  910 => 
+  867 => 
   array (
     'id' => 4812,
     'name' => 'Coolum Beach',
@@ -8200,7 +7813,7 @@ return array (
     'latitude' => -26.5283,
     'longitude' => 153.08809,
   ),
-  911 => 
+  868 => 
   array (
     'id' => 4813,
     'name' => 'Cooma',
@@ -8209,7 +7822,7 @@ return array (
     'latitude' => -36.23517,
     'longitude' => 149.12408,
   ),
-  912 => 
+  869 => 
   array (
     'id' => 4814,
     'name' => 'Coomalie',
@@ -8218,7 +7831,7 @@ return array (
     'latitude' => -13.04322,
     'longitude' => 131.08427,
   ),
-  913 => 
+  870 => 
   array (
     'id' => 4815,
     'name' => 'Coombabah',
@@ -8227,7 +7840,7 @@ return array (
     'latitude' => -27.91073,
     'longitude' => 153.37093,
   ),
-  914 => 
+  871 => 
   array (
     'id' => 4816,
     'name' => 'Coombs',
@@ -8236,7 +7849,7 @@ return array (
     'latitude' => -35.31634,
     'longitude' => 149.03941,
   ),
-  915 => 
+  872 => 
   array (
     'id' => 4817,
     'name' => 'Coomera',
@@ -8245,7 +7858,7 @@ return array (
     'latitude' => -27.84333,
     'longitude' => 153.33901,
   ),
-  916 => 
+  873 => 
   array (
     'id' => 4818,
     'name' => 'Coominya',
@@ -8254,7 +7867,7 @@ return array (
     'latitude' => -27.39009,
     'longitude' => 152.5006,
   ),
-  917 => 
+  874 => 
   array (
     'id' => 4819,
     'name' => 'Coonabarabran',
@@ -8263,7 +7876,7 @@ return array (
     'latitude' => -31.27734,
     'longitude' => 149.27904,
   ),
-  918 => 
+  875 => 
   array (
     'id' => 4820,
     'name' => 'Coonamble',
@@ -8272,7 +7885,7 @@ return array (
     'latitude' => -30.86714,
     'longitude' => 148.29053,
   ),
-  919 => 
+  876 => 
   array (
     'id' => 4821,
     'name' => 'Coopers Plains',
@@ -8281,7 +7894,7 @@ return array (
     'latitude' => -27.56463,
     'longitude' => 153.04067,
   ),
-  920 => 
+  877 => 
   array (
     'id' => 4822,
     'name' => 'Cooran',
@@ -8290,7 +7903,7 @@ return array (
     'latitude' => -26.33689,
     'longitude' => 152.82246,
   ),
-  921 => 
+  878 => 
   array (
     'id' => 4823,
     'name' => 'Cooranbong',
@@ -8299,7 +7912,7 @@ return array (
     'latitude' => -33.07622,
     'longitude' => 151.45409,
   ),
-  922 => 
+  879 => 
   array (
     'id' => 4824,
     'name' => 'Cooroibah',
@@ -8308,7 +7921,7 @@ return array (
     'latitude' => -26.36316,
     'longitude' => 152.98599,
   ),
-  923 => 
+  880 => 
   array (
     'id' => 4825,
     'name' => 'Coorow',
@@ -8317,7 +7930,7 @@ return array (
     'latitude' => -29.97865,
     'longitude' => 115.65613,
   ),
-  924 => 
+  881 => 
   array (
     'id' => 4826,
     'name' => 'Cooroy',
@@ -8326,7 +7939,7 @@ return array (
     'latitude' => -26.41778,
     'longitude' => 152.91149,
   ),
-  925 => 
+  882 => 
   array (
     'id' => 4827,
     'name' => 'Coorparoo',
@@ -8335,7 +7948,7 @@ return array (
     'latitude' => -27.49325,
     'longitude' => 153.05826,
   ),
-  926 => 
+  883 => 
   array (
     'id' => 4828,
     'name' => 'Cootamundra',
@@ -8344,7 +7957,7 @@ return array (
     'latitude' => -34.64095,
     'longitude' => 148.02838,
   ),
-  927 => 
+  884 => 
   array (
     'id' => 4829,
     'name' => 'Copacabana',
@@ -8353,7 +7966,7 @@ return array (
     'latitude' => -33.48692,
     'longitude' => 151.43587,
   ),
-  928 => 
+  885 => 
   array (
     'id' => 4830,
     'name' => 'Coppabella',
@@ -8362,7 +7975,7 @@ return array (
     'latitude' => -21.9471,
     'longitude' => 148.3005,
   ),
-  929 => 
+  886 => 
   array (
     'id' => 4831,
     'name' => 'Copper Coast',
@@ -8371,7 +7984,7 @@ return array (
     'latitude' => -33.94287,
     'longitude' => 137.71329,
   ),
-  930 => 
+  887 => 
   array (
     'id' => 4832,
     'name' => 'Coraki',
@@ -8380,7 +7993,7 @@ return array (
     'latitude' => -28.9926,
     'longitude' => 153.28374,
   ),
-  931 => 
+  888 => 
   array (
     'id' => 4833,
     'name' => 'Coral Cove',
@@ -8389,7 +8002,7 @@ return array (
     'latitude' => -24.88309,
     'longitude' => 152.48266,
   ),
-  932 => 
+  889 => 
   array (
     'id' => 4834,
     'name' => 'Corangamite',
@@ -8398,7 +8011,7 @@ return array (
     'latitude' => -38.21596,
     'longitude' => 143.23542,
   ),
-  933 => 
+  890 => 
   array (
     'id' => 4835,
     'name' => 'Cordeaux Heights',
@@ -8407,7 +8020,7 @@ return array (
     'latitude' => -34.44043,
     'longitude' => 150.83748,
   ),
-  934 => 
+  891 => 
   array (
     'id' => 4836,
     'name' => 'Corinda',
@@ -8416,7 +8029,7 @@ return array (
     'latitude' => -27.54381,
     'longitude' => 152.98215,
   ),
-  935 => 
+  892 => 
   array (
     'id' => 4837,
     'name' => 'Corindi Beach',
@@ -8425,7 +8038,7 @@ return array (
     'latitude' => -30.01668,
     'longitude' => 153.18555,
   ),
-  936 => 
+  893 => 
   array (
     'id' => 4838,
     'name' => 'Corio',
@@ -8434,7 +8047,7 @@ return array (
     'latitude' => -38.08333,
     'longitude' => 144.38333,
   ),
-  937 => 
+  894 => 
   array (
     'id' => 4839,
     'name' => 'Corlette',
@@ -8443,7 +8056,7 @@ return array (
     'latitude' => -32.72014,
     'longitude' => 152.10846,
   ),
-  938 => 
+  895 => 
   array (
     'id' => 4840,
     'name' => 'Cornubia',
@@ -8452,7 +8065,7 @@ return array (
     'latitude' => -27.66667,
     'longitude' => 153.21667,
   ),
-  939 => 
+  896 => 
   array (
     'id' => 4841,
     'name' => 'Coromandel Valley',
@@ -8461,7 +8074,7 @@ return array (
     'latitude' => -35.05,
     'longitude' => 138.61667,
   ),
-  940 => 
+  897 => 
   array (
     'id' => 4842,
     'name' => 'Corowa',
@@ -8470,7 +8083,7 @@ return array (
     'latitude' => -35.99704,
     'longitude' => 146.38552,
   ),
-  941 => 
+  898 => 
   array (
     'id' => 4843,
     'name' => 'Corrigin',
@@ -8479,7 +8092,7 @@ return array (
     'latitude' => -32.37599,
     'longitude' => 117.81023,
   ),
-  942 => 
+  899 => 
   array (
     'id' => 4844,
     'name' => 'Corrimal',
@@ -8488,7 +8101,7 @@ return array (
     'latitude' => -34.37864,
     'longitude' => 150.90356,
   ),
-  943 => 
+  900 => 
   array (
     'id' => 4845,
     'name' => 'Corryong',
@@ -8497,7 +8110,7 @@ return array (
     'latitude' => -36.19705,
     'longitude' => 147.90256,
   ),
-  944 => 
+  901 => 
   array (
     'id' => 4846,
     'name' => 'Cossack',
@@ -8506,7 +8119,7 @@ return array (
     'latitude' => -14.45551,
     'longitude' => 132.17482,
   ),
-  945 => 
+  902 => 
   array (
     'id' => 4847,
     'name' => 'Cotswold Hills',
@@ -8515,7 +8128,7 @@ return array (
     'latitude' => -27.52241,
     'longitude' => 151.89516,
   ),
-  946 => 
+  903 => 
   array (
     'id' => 4848,
     'name' => 'Cottesloe',
@@ -8524,7 +8137,7 @@ return array (
     'latitude' => -31.99905,
     'longitude' => 115.76089,
   ),
-  947 => 
+  904 => 
   array (
     'id' => 4849,
     'name' => 'Coutts Crossing',
@@ -8533,7 +8146,7 @@ return array (
     'latitude' => -29.82619,
     'longitude' => 152.89156,
   ),
-  948 => 
+  905 => 
   array (
     'id' => 4850,
     'name' => 'Cowandilla',
@@ -8542,7 +8155,7 @@ return array (
     'latitude' => -34.93221,
     'longitude' => 138.55931,
   ),
-  949 => 
+  906 => 
   array (
     'id' => 4851,
     'name' => 'Cowaramup',
@@ -8551,7 +8164,7 @@ return array (
     'latitude' => -33.85036,
     'longitude' => 115.10379,
   ),
-  950 => 
+  907 => 
   array (
     'id' => 4852,
     'name' => 'Cowell',
@@ -8560,7 +8173,7 @@ return array (
     'latitude' => -33.68227,
     'longitude' => 136.92117,
   ),
-  951 => 
+  908 => 
   array (
     'id' => 4853,
     'name' => 'Cowes',
@@ -8569,7 +8182,7 @@ return array (
     'latitude' => -38.45231,
     'longitude' => 145.23865,
   ),
-  952 => 
+  909 => 
   array (
     'id' => 4854,
     'name' => 'Cowra',
@@ -8578,7 +8191,7 @@ return array (
     'latitude' => -33.81138,
     'longitude' => 148.78346,
   ),
-  953 => 
+  910 => 
   array (
     'id' => 4855,
     'name' => 'Crace',
@@ -8587,7 +8200,7 @@ return array (
     'latitude' => -35.20282,
     'longitude' => 149.10736,
   ),
-  954 => 
+  911 => 
   array (
     'id' => 4856,
     'name' => 'Crafers',
@@ -8596,7 +8209,7 @@ return array (
     'latitude' => -35.0,
     'longitude' => 138.7,
   ),
-  955 => 
+  912 => 
   array (
     'id' => 4857,
     'name' => 'Crafers West',
@@ -8605,7 +8218,7 @@ return array (
     'latitude' => -34.99136,
     'longitude' => 138.68205,
   ),
-  956 => 
+  913 => 
   array (
     'id' => 4858,
     'name' => 'Craigburn Farm',
@@ -8614,7 +8227,7 @@ return array (
     'latitude' => -35.04046,
     'longitude' => 138.6049,
   ),
-  957 => 
+  914 => 
   array (
     'id' => 4859,
     'name' => 'Craigie',
@@ -8623,7 +8236,7 @@ return array (
     'latitude' => -31.78727,
     'longitude' => 115.76989,
   ),
-  958 => 
+  915 => 
   array (
     'id' => 4860,
     'name' => 'Craigieburn',
@@ -8632,7 +8245,7 @@ return array (
     'latitude' => -37.6,
     'longitude' => 144.95,
   ),
-  959 => 
+  916 => 
   array (
     'id' => 4861,
     'name' => 'Craiglie',
@@ -8641,7 +8254,7 @@ return array (
     'latitude' => -16.53789,
     'longitude' => 145.46963,
   ),
-  960 => 
+  917 => 
   array (
     'id' => 4862,
     'name' => 'Craigmore',
@@ -8650,7 +8263,7 @@ return array (
     'latitude' => -34.70064,
     'longitude' => 138.70956,
   ),
-  961 => 
+  918 => 
   array (
     'id' => 4863,
     'name' => 'Craignish',
@@ -8659,7 +8272,7 @@ return array (
     'latitude' => -25.28258,
     'longitude' => 152.72429,
   ),
-  962 => 
+  919 => 
   array (
     'id' => 4864,
     'name' => 'Cranbourne',
@@ -8668,7 +8281,7 @@ return array (
     'latitude' => -38.11342,
     'longitude' => 145.28326,
   ),
-  963 => 
+  920 => 
   array (
     'id' => 4865,
     'name' => 'Cranbourne East',
@@ -8677,7 +8290,7 @@ return array (
     'latitude' => -38.11531,
     'longitude' => 145.29814,
   ),
-  964 => 
+  921 => 
   array (
     'id' => 4866,
     'name' => 'Cranbourne North',
@@ -8686,7 +8299,7 @@ return array (
     'latitude' => -38.07758,
     'longitude' => 145.29871,
   ),
-  965 => 
+  922 => 
   array (
     'id' => 4867,
     'name' => 'Cranbourne South',
@@ -8695,7 +8308,7 @@ return array (
     'latitude' => -38.13502,
     'longitude' => 145.23958,
   ),
-  966 => 
+  923 => 
   array (
     'id' => 4868,
     'name' => 'Cranbourne West',
@@ -8704,7 +8317,7 @@ return array (
     'latitude' => -38.0965,
     'longitude' => 145.26707,
   ),
-  967 => 
+  924 => 
   array (
     'id' => 4869,
     'name' => 'Cranbrook',
@@ -8713,16 +8326,7 @@ return array (
     'latitude' => -34.33414,
     'longitude' => 117.32898,
   ),
-  968 => 
-  array (
-    'id' => 4870,
-    'name' => 'Cranbrook',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -19.30553,
-    'longitude' => 146.75286,
-  ),
-  969 => 
+  925 => 
   array (
     'id' => 4871,
     'name' => 'Cranebrook',
@@ -8731,7 +8335,7 @@ return array (
     'latitude' => -33.7061,
     'longitude' => 150.7094,
   ),
-  970 => 
+  926 => 
   array (
     'id' => 4872,
     'name' => 'Cranley',
@@ -8740,7 +8344,7 @@ return array (
     'latitude' => -27.51504,
     'longitude' => 151.923,
   ),
-  971 => 
+  927 => 
   array (
     'id' => 4873,
     'name' => 'Crawley',
@@ -8749,7 +8353,7 @@ return array (
     'latitude' => -31.98418,
     'longitude' => 115.81603,
   ),
-  972 => 
+  928 => 
   array (
     'id' => 4874,
     'name' => 'Cremorne',
@@ -8758,16 +8362,7 @@ return array (
     'latitude' => -37.8318,
     'longitude' => 144.9938,
   ),
-  973 => 
-  array (
-    'id' => 4875,
-    'name' => 'Cremorne',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.82679,
-    'longitude' => 151.22633,
-  ),
-  974 => 
+  929 => 
   array (
     'id' => 4876,
     'name' => 'Cremorne Point',
@@ -8776,7 +8371,7 @@ return array (
     'latitude' => -33.84008,
     'longitude' => 151.22698,
   ),
-  975 => 
+  930 => 
   array (
     'id' => 4877,
     'name' => 'Crescent Head',
@@ -8785,7 +8380,7 @@ return array (
     'latitude' => -31.1887,
     'longitude' => 152.97301,
   ),
-  976 => 
+  931 => 
   array (
     'id' => 4878,
     'name' => 'Cressy',
@@ -8794,7 +8389,7 @@ return array (
     'latitude' => -41.68561,
     'longitude' => 147.07792,
   ),
-  977 => 
+  932 => 
   array (
     'id' => 4879,
     'name' => 'Crestmead',
@@ -8803,7 +8398,7 @@ return array (
     'latitude' => -27.68759,
     'longitude' => 153.08444,
   ),
-  978 => 
+  933 => 
   array (
     'id' => 4880,
     'name' => 'Crestwood',
@@ -8812,7 +8407,7 @@ return array (
     'latitude' => -35.34844,
     'longitude' => 149.21758,
   ),
-  979 => 
+  934 => 
   array (
     'id' => 4881,
     'name' => 'Creswick',
@@ -8821,7 +8416,7 @@ return array (
     'latitude' => -37.42404,
     'longitude' => 143.8947,
   ),
-  980 => 
+  935 => 
   array (
     'id' => 4882,
     'name' => 'Crib Point',
@@ -8830,7 +8425,7 @@ return array (
     'latitude' => -38.35,
     'longitude' => 145.2,
   ),
-  981 => 
+  936 => 
   array (
     'id' => 4883,
     'name' => 'Cringila',
@@ -8839,7 +8434,7 @@ return array (
     'latitude' => -34.47131,
     'longitude' => 150.86755,
   ),
-  982 => 
+  937 => 
   array (
     'id' => 4884,
     'name' => 'Cromer',
@@ -8848,7 +8443,7 @@ return array (
     'latitude' => -33.7312,
     'longitude' => 151.26788,
   ),
-  983 => 
+  938 => 
   array (
     'id' => 4885,
     'name' => 'Cronulla',
@@ -8857,7 +8452,7 @@ return array (
     'latitude' => -34.06251,
     'longitude' => 151.14961,
   ),
-  984 => 
+  939 => 
   array (
     'id' => 4886,
     'name' => 'Crookwell',
@@ -8866,7 +8461,7 @@ return array (
     'latitude' => -34.45925,
     'longitude' => 149.47137,
   ),
-  985 => 
+  940 => 
   array (
     'id' => 4887,
     'name' => 'Crows Nest',
@@ -8875,16 +8470,7 @@ return array (
     'latitude' => -33.82494,
     'longitude' => 151.20398,
   ),
-  986 => 
-  array (
-    'id' => 4888,
-    'name' => 'Crows Nest',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.25993,
-    'longitude' => 152.05164,
-  ),
-  987 => 
+  941 => 
   array (
     'id' => 4889,
     'name' => 'Croydon',
@@ -8893,25 +8479,7 @@ return array (
     'latitude' => -33.88333,
     'longitude' => 151.11667,
   ),
-  988 => 
-  array (
-    'id' => 4890,
-    'name' => 'Croydon',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.8,
-    'longitude' => 145.28333,
-  ),
-  989 => 
-  array (
-    'id' => 4891,
-    'name' => 'Croydon',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -18.5136,
-    'longitude' => 142.32249,
-  ),
-  990 => 
+  942 => 
   array (
     'id' => 4892,
     'name' => 'Croydon Hills',
@@ -8920,7 +8488,7 @@ return array (
     'latitude' => -37.77651,
     'longitude' => 145.26355,
   ),
-  991 => 
+  943 => 
   array (
     'id' => 4893,
     'name' => 'Croydon North',
@@ -8929,7 +8497,7 @@ return array (
     'latitude' => -37.76741,
     'longitude' => 145.29073,
   ),
-  992 => 
+  944 => 
   array (
     'id' => 4894,
     'name' => 'Croydon Park',
@@ -8938,7 +8506,7 @@ return array (
     'latitude' => -34.88028,
     'longitude' => 138.56779,
   ),
-  993 => 
+  945 => 
   array (
     'id' => 4895,
     'name' => 'Croydon South',
@@ -8947,7 +8515,7 @@ return array (
     'latitude' => -37.81232,
     'longitude' => 145.2681,
   ),
-  994 => 
+  946 => 
   array (
     'id' => 4896,
     'name' => 'Crystal Brook',
@@ -8956,7 +8524,7 @@ return array (
     'latitude' => -33.35256,
     'longitude' => 138.20955,
   ),
-  995 => 
+  947 => 
   array (
     'id' => 4897,
     'name' => 'Cuballing',
@@ -8965,7 +8533,7 @@ return array (
     'latitude' => -32.74026,
     'longitude' => 117.15497,
   ),
-  996 => 
+  948 => 
   array (
     'id' => 4898,
     'name' => 'Cue',
@@ -8974,7 +8542,7 @@ return array (
     'latitude' => -27.22633,
     'longitude' => 118.00496,
   ),
-  997 => 
+  949 => 
   array (
     'id' => 4899,
     'name' => 'Culburra Beach',
@@ -8983,7 +8551,7 @@ return array (
     'latitude' => -34.92788,
     'longitude' => 150.75766,
   ),
-  998 => 
+  950 => 
   array (
     'id' => 4900,
     'name' => 'Culcairn',
@@ -8992,7 +8560,7 @@ return array (
     'latitude' => -35.66669,
     'longitude' => 147.03845,
   ),
-  999 => 
+  951 => 
   array (
     'id' => 4901,
     'name' => 'Cumbalum',
@@ -9001,7 +8569,7 @@ return array (
     'latitude' => -28.8225,
     'longitude' => 153.5284,
   ),
-  1000 => 
+  952 => 
   array (
     'id' => 4902,
     'name' => 'Cumberland Park',
@@ -9010,7 +8578,7 @@ return array (
     'latitude' => -34.97204,
     'longitude' => 138.5867,
   ),
-  1001 => 
+  953 => 
   array (
     'id' => 4903,
     'name' => 'Cunderdin',
@@ -9019,7 +8587,7 @@ return array (
     'latitude' => -31.61259,
     'longitude' => 117.11803,
   ),
-  1002 => 
+  954 => 
   array (
     'id' => 4904,
     'name' => 'Cundletown',
@@ -9028,7 +8596,7 @@ return array (
     'latitude' => -31.8941,
     'longitude' => 152.52141,
   ),
-  1003 => 
+  955 => 
   array (
     'id' => 4905,
     'name' => 'Cunnamulla',
@@ -9037,7 +8605,7 @@ return array (
     'latitude' => -28.06766,
     'longitude' => 145.68439,
   ),
-  1004 => 
+  956 => 
   array (
     'id' => 4906,
     'name' => 'Curl Curl',
@@ -9046,7 +8614,7 @@ return array (
     'latitude' => -33.76886,
     'longitude' => 151.28888,
   ),
-  1005 => 
+  957 => 
   array (
     'id' => 4907,
     'name' => 'Curra',
@@ -9055,7 +8623,7 @@ return array (
     'latitude' => -26.06667,
     'longitude' => 152.58333,
   ),
-  1006 => 
+  958 => 
   array (
     'id' => 4908,
     'name' => 'Currajong',
@@ -9064,7 +8632,7 @@ return array (
     'latitude' => -19.27566,
     'longitude' => 146.77918,
   ),
-  1007 => 
+  959 => 
   array (
     'id' => 4909,
     'name' => 'Currambine',
@@ -9073,7 +8641,7 @@ return array (
     'latitude' => -31.73306,
     'longitude' => 115.74766,
   ),
-  1008 => 
+  960 => 
   array (
     'id' => 4910,
     'name' => 'Currans Hill',
@@ -9082,7 +8650,7 @@ return array (
     'latitude' => -34.04311,
     'longitude' => 150.77301,
   ),
-  1009 => 
+  961 => 
   array (
     'id' => 4911,
     'name' => 'Currie',
@@ -9091,7 +8659,7 @@ return array (
     'latitude' => -39.92976,
     'longitude' => 143.85385,
   ),
-  1010 => 
+  962 => 
   array (
     'id' => 4912,
     'name' => 'Currimundi',
@@ -9100,7 +8668,7 @@ return array (
     'latitude' => -26.76925,
     'longitude' => 153.12237,
   ),
-  1011 => 
+  963 => 
   array (
     'id' => 4913,
     'name' => 'Currumbin',
@@ -9109,7 +8677,7 @@ return array (
     'latitude' => -28.13649,
     'longitude' => 153.48158,
   ),
-  1012 => 
+  964 => 
   array (
     'id' => 4914,
     'name' => 'Currumbin Valley',
@@ -9118,7 +8686,7 @@ return array (
     'latitude' => -28.20805,
     'longitude' => 153.39424,
   ),
-  1013 => 
+  965 => 
   array (
     'id' => 4915,
     'name' => 'Currumbin Waters',
@@ -9127,7 +8695,7 @@ return array (
     'latitude' => -28.15442,
     'longitude' => 153.47282,
   ),
-  1014 => 
+  966 => 
   array (
     'id' => 4916,
     'name' => 'Curtin',
@@ -9136,7 +8704,7 @@ return array (
     'latitude' => -35.32464,
     'longitude' => 149.07763,
   ),
-  1015 => 
+  967 => 
   array (
     'id' => 4917,
     'name' => 'Cygnet',
@@ -9145,7 +8713,7 @@ return array (
     'latitude' => -43.15333,
     'longitude' => 147.07253,
   ),
-  1016 => 
+  968 => 
   array (
     'id' => 4918,
     'name' => 'Daceyville',
@@ -9154,7 +8722,7 @@ return array (
     'latitude' => -33.92879,
     'longitude' => 151.22577,
   ),
-  1017 => 
+  969 => 
   array (
     'id' => 4919,
     'name' => 'Daglish',
@@ -9163,7 +8731,7 @@ return array (
     'latitude' => -31.95177,
     'longitude' => 115.8088,
   ),
-  1018 => 
+  970 => 
   array (
     'id' => 4920,
     'name' => 'Daisy Hill',
@@ -9172,7 +8740,7 @@ return array (
     'latitude' => -27.63026,
     'longitude' => 153.15784,
   ),
-  1019 => 
+  971 => 
   array (
     'id' => 4921,
     'name' => 'Dakabin',
@@ -9181,7 +8749,7 @@ return array (
     'latitude' => -27.22594,
     'longitude' => 152.99097,
   ),
-  1020 => 
+  972 => 
   array (
     'id' => 4922,
     'name' => 'Dalby',
@@ -9190,7 +8758,7 @@ return array (
     'latitude' => -27.18169,
     'longitude' => 151.26205,
   ),
-  1021 => 
+  973 => 
   array (
     'id' => 4923,
     'name' => 'Dalkeith',
@@ -9199,7 +8767,7 @@ return array (
     'latitude' => -31.99517,
     'longitude' => 115.7998,
   ),
-  1022 => 
+  974 => 
   array (
     'id' => 4924,
     'name' => 'Dallas',
@@ -9208,7 +8776,7 @@ return array (
     'latitude' => -37.67083,
     'longitude' => 144.93542,
   ),
-  1023 => 
+  975 => 
   array (
     'id' => 4925,
     'name' => 'Dalmeny',
@@ -9217,7 +8785,7 @@ return array (
     'latitude' => -36.16608,
     'longitude' => 150.12912,
   ),
-  1024 => 
+  976 => 
   array (
     'id' => 4926,
     'name' => 'Dalwallinu',
@@ -9226,7 +8794,7 @@ return array (
     'latitude' => -30.12998,
     'longitude' => 116.98401,
   ),
-  1025 => 
+  977 => 
   array (
     'id' => 4927,
     'name' => 'Dalyellup',
@@ -9235,7 +8803,7 @@ return array (
     'latitude' => -33.40844,
     'longitude' => 115.61506,
   ),
-  1026 => 
+  978 => 
   array (
     'id' => 4928,
     'name' => 'Dampier',
@@ -9244,7 +8812,7 @@ return array (
     'latitude' => -20.66275,
     'longitude' => 116.71256,
   ),
-  1027 => 
+  979 => 
   array (
     'id' => 4929,
     'name' => 'Dampier Peninsula',
@@ -9253,7 +8821,7 @@ return array (
     'latitude' => -16.93241,
     'longitude' => 122.86559,
   ),
-  1028 => 
+  980 => 
   array (
     'id' => 4930,
     'name' => 'Dandaragan',
@@ -9262,7 +8830,7 @@ return array (
     'latitude' => -30.54142,
     'longitude' => 115.46132,
   ),
-  1029 => 
+  981 => 
   array (
     'id' => 4931,
     'name' => 'Dandenong',
@@ -9271,7 +8839,7 @@ return array (
     'latitude' => -37.98333,
     'longitude' => 145.2,
   ),
-  1030 => 
+  982 => 
   array (
     'id' => 4932,
     'name' => 'Dandenong North',
@@ -9280,7 +8848,7 @@ return array (
     'latitude' => -37.96649,
     'longitude' => 145.2081,
   ),
-  1031 => 
+  983 => 
   array (
     'id' => 4933,
     'name' => 'Dapto',
@@ -9289,7 +8857,7 @@ return array (
     'latitude' => -34.50386,
     'longitude' => 150.79416,
   ),
-  1032 => 
+  984 => 
   array (
     'id' => 4934,
     'name' => 'Darch',
@@ -9298,7 +8866,7 @@ return array (
     'latitude' => -31.81255,
     'longitude' => 115.8458,
   ),
-  1033 => 
+  985 => 
   array (
     'id' => 4935,
     'name' => 'Dardanup',
@@ -9307,7 +8875,7 @@ return array (
     'latitude' => -33.41611,
     'longitude' => 115.8741,
   ),
-  1034 => 
+  986 => 
   array (
     'id' => 4936,
     'name' => 'Darebin',
@@ -9316,7 +8884,7 @@ return array (
     'latitude' => -37.75153,
     'longitude' => 145.02193,
   ),
-  1035 => 
+  987 => 
   array (
     'id' => 4937,
     'name' => 'Darley',
@@ -9325,7 +8893,7 @@ return array (
     'latitude' => -37.65807,
     'longitude' => 144.44344,
   ),
-  1036 => 
+  988 => 
   array (
     'id' => 4938,
     'name' => 'Darling Downs',
@@ -9334,7 +8902,7 @@ return array (
     'latitude' => -32.19442,
     'longitude' => 115.99187,
   ),
-  1037 => 
+  989 => 
   array (
     'id' => 4939,
     'name' => 'Darling Heights',
@@ -9343,7 +8911,7 @@ return array (
     'latitude' => -27.59659,
     'longitude' => 151.93045,
   ),
-  1038 => 
+  990 => 
   array (
     'id' => 4940,
     'name' => 'Darling Point',
@@ -9352,7 +8920,7 @@ return array (
     'latitude' => -33.87064,
     'longitude' => 151.23895,
   ),
-  1039 => 
+  991 => 
   array (
     'id' => 4941,
     'name' => 'Darlinghurst',
@@ -9361,7 +8929,7 @@ return array (
     'latitude' => -33.87939,
     'longitude' => 151.21925,
   ),
-  1040 => 
+  992 => 
   array (
     'id' => 4942,
     'name' => 'Darlington',
@@ -9370,25 +8938,7 @@ return array (
     'latitude' => -35.03151,
     'longitude' => 138.55527,
   ),
-  1041 => 
-  array (
-    'id' => 4943,
-    'name' => 'Darlington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.91906,
-    'longitude' => 116.0812,
-  ),
-  1042 => 
-  array (
-    'id' => 4944,
-    'name' => 'Darlington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.89103,
-    'longitude' => 151.19548,
-  ),
-  1043 => 
+  993 => 
   array (
     'id' => 4945,
     'name' => 'Darlington Point',
@@ -9397,7 +8947,7 @@ return array (
     'latitude' => -34.56942,
     'longitude' => 145.9987,
   ),
-  1044 => 
+  994 => 
   array (
     'id' => 4946,
     'name' => 'Darra',
@@ -9406,7 +8956,7 @@ return array (
     'latitude' => -27.56693,
     'longitude' => 152.95395,
   ),
-  1045 => 
+  995 => 
   array (
     'id' => 4947,
     'name' => 'Darwin',
@@ -9415,7 +8965,7 @@ return array (
     'latitude' => -12.46113,
     'longitude' => 130.84185,
   ),
-  1046 => 
+  996 => 
   array (
     'id' => 4948,
     'name' => 'Davidson',
@@ -9424,7 +8974,7 @@ return array (
     'latitude' => -33.74297,
     'longitude' => 151.2008,
   ),
-  1047 => 
+  997 => 
   array (
     'id' => 4949,
     'name' => 'Davistown',
@@ -9433,7 +8983,7 @@ return array (
     'latitude' => -33.48559,
     'longitude' => 151.36151,
   ),
-  1048 => 
+  998 => 
   array (
     'id' => 4950,
     'name' => 'Davoren Park',
@@ -9442,7 +8992,7 @@ return array (
     'latitude' => -34.69063,
     'longitude' => 138.66862,
   ),
-  1049 => 
+  999 => 
   array (
     'id' => 4951,
     'name' => 'Daw Park',
@@ -9451,7 +9001,7 @@ return array (
     'latitude' => -34.98975,
     'longitude' => 138.58407,
   ),
-  1050 => 
+  1000 => 
   array (
     'id' => 4952,
     'name' => 'Dawesville',
@@ -9460,7 +9010,7 @@ return array (
     'latitude' => -32.63229,
     'longitude' => 115.62904,
   ),
-  1051 => 
+  1001 => 
   array (
     'id' => 4953,
     'name' => 'Dayboro',
@@ -9469,7 +9019,7 @@ return array (
     'latitude' => -27.19632,
     'longitude' => 152.82253,
   ),
-  1052 => 
+  1002 => 
   array (
     'id' => 4954,
     'name' => 'Daylesford',
@@ -9478,7 +9028,7 @@ return array (
     'latitude' => -37.34113,
     'longitude' => 144.14256,
   ),
-  1053 => 
+  1003 => 
   array (
     'id' => 4955,
     'name' => 'Dayton',
@@ -9487,7 +9037,7 @@ return array (
     'latitude' => -31.85251,
     'longitude' => 115.97494,
   ),
-  1054 => 
+  1004 => 
   array (
     'id' => 4956,
     'name' => 'Deagon',
@@ -9496,7 +9046,7 @@ return array (
     'latitude' => -27.32788,
     'longitude' => 153.06126,
   ),
-  1055 => 
+  1005 => 
   array (
     'id' => 4957,
     'name' => 'Deakin',
@@ -9505,7 +9055,7 @@ return array (
     'latitude' => -35.31927,
     'longitude' => 149.10308,
   ),
-  1056 => 
+  1006 => 
   array (
     'id' => 4958,
     'name' => 'Dean Park',
@@ -9514,7 +9064,7 @@ return array (
     'latitude' => -33.73539,
     'longitude' => 150.85958,
   ),
-  1057 => 
+  1007 => 
   array (
     'id' => 4959,
     'name' => 'Deception Bay',
@@ -9523,7 +9073,7 @@ return array (
     'latitude' => -27.19354,
     'longitude' => 153.02631,
   ),
-  1058 => 
+  1008 => 
   array (
     'id' => 4960,
     'name' => 'Dee Why',
@@ -9532,7 +9082,7 @@ return array (
     'latitude' => -33.7511,
     'longitude' => 151.28886,
   ),
-  1059 => 
+  1009 => 
   array (
     'id' => 4961,
     'name' => 'Deebing Heights',
@@ -9541,7 +9091,7 @@ return array (
     'latitude' => -27.66719,
     'longitude' => 152.74867,
   ),
-  1060 => 
+  1010 => 
   array (
     'id' => 4962,
     'name' => 'Deer Park',
@@ -9550,7 +9100,7 @@ return array (
     'latitude' => -37.76722,
     'longitude' => 144.76657,
   ),
-  1061 => 
+  1011 => 
   array (
     'id' => 4963,
     'name' => 'Deeragun',
@@ -9559,7 +9109,7 @@ return array (
     'latitude' => -19.24741,
     'longitude' => 146.6757,
   ),
-  1062 => 
+  1012 => 
   array (
     'id' => 4964,
     'name' => 'Delacombe',
@@ -9568,7 +9118,7 @@ return array (
     'latitude' => -37.58911,
     'longitude' => 143.81472,
   ),
-  1063 => 
+  1013 => 
   array (
     'id' => 4965,
     'name' => 'Delahey',
@@ -9577,7 +9127,7 @@ return array (
     'latitude' => -37.7198,
     'longitude' => 144.77732,
   ),
-  1064 => 
+  1014 => 
   array (
     'id' => 4966,
     'name' => 'Delaneys Creek',
@@ -9586,7 +9136,7 @@ return array (
     'latitude' => -27.00021,
     'longitude' => 152.79553,
   ),
-  1065 => 
+  1015 => 
   array (
     'id' => 4967,
     'name' => 'Deloraine',
@@ -9595,7 +9145,7 @@ return array (
     'latitude' => -41.52477,
     'longitude' => 146.65701,
   ),
-  1066 => 
+  1016 => 
   array (
     'id' => 4968,
     'name' => 'Denham',
@@ -9604,7 +9154,7 @@ return array (
     'latitude' => -25.92679,
     'longitude' => 113.53327,
   ),
-  1067 => 
+  1017 => 
   array (
     'id' => 4969,
     'name' => 'Denham Court',
@@ -9613,7 +9163,7 @@ return array (
     'latitude' => -33.98307,
     'longitude' => 150.84606,
   ),
-  1068 => 
+  1018 => 
   array (
     'id' => 4970,
     'name' => 'Deniliquin',
@@ -9622,7 +9172,7 @@ return array (
     'latitude' => -35.53245,
     'longitude' => 144.95364,
   ),
-  1069 => 
+  1019 => 
   array (
     'id' => 4971,
     'name' => 'Denistone',
@@ -9631,7 +9181,7 @@ return array (
     'latitude' => -33.79835,
     'longitude' => 151.09051,
   ),
-  1070 => 
+  1020 => 
   array (
     'id' => 4972,
     'name' => 'Denistone East',
@@ -9640,7 +9190,7 @@ return array (
     'latitude' => -33.796,
     'longitude' => 151.0974,
   ),
-  1071 => 
+  1021 => 
   array (
     'id' => 4973,
     'name' => 'Denman',
@@ -9649,7 +9199,7 @@ return array (
     'latitude' => -32.38788,
     'longitude' => 150.68935,
   ),
-  1072 => 
+  1022 => 
   array (
     'id' => 4974,
     'name' => 'Denmark',
@@ -9658,7 +9208,7 @@ return array (
     'latitude' => -34.93473,
     'longitude' => 117.37518,
   ),
-  1073 => 
+  1023 => 
   array (
     'id' => 4975,
     'name' => 'Dennington',
@@ -9667,7 +9217,7 @@ return array (
     'latitude' => -38.35519,
     'longitude' => 142.43361,
   ),
-  1074 => 
+  1024 => 
   array (
     'id' => 4976,
     'name' => 'Depot Hill',
@@ -9676,7 +9226,7 @@ return array (
     'latitude' => -23.39024,
     'longitude' => 150.52102,
   ),
-  1075 => 
+  1025 => 
   array (
     'id' => 4977,
     'name' => 'Derby',
@@ -9685,7 +9235,7 @@ return array (
     'latitude' => -17.30295,
     'longitude' => 123.62864,
   ),
-  1076 => 
+  1026 => 
   array (
     'id' => 4978,
     'name' => 'Derby-West Kimberley',
@@ -9694,7 +9244,7 @@ return array (
     'latitude' => -17.50447,
     'longitude' => 125.28014,
   ),
-  1077 => 
+  1027 => 
   array (
     'id' => 4979,
     'name' => 'Dernancourt',
@@ -9703,7 +9253,7 @@ return array (
     'latitude' => -34.86199,
     'longitude' => 138.67658,
   ),
-  1078 => 
+  1028 => 
   array (
     'id' => 4980,
     'name' => 'Derrimut',
@@ -9712,7 +9262,7 @@ return array (
     'latitude' => -37.79238,
     'longitude' => 144.76994,
   ),
-  1079 => 
+  1029 => 
   array (
     'id' => 4981,
     'name' => 'Derwent Valley',
@@ -9721,7 +9271,7 @@ return array (
     'latitude' => -42.80383,
     'longitude' => 146.5297,
   ),
-  1080 => 
+  1030 => 
   array (
     'id' => 4982,
     'name' => 'Desert Springs',
@@ -9730,7 +9280,7 @@ return array (
     'latitude' => -23.71554,
     'longitude' => 133.88768,
   ),
-  1081 => 
+  1031 => 
   array (
     'id' => 4983,
     'name' => 'Devon Meadows',
@@ -9739,7 +9289,7 @@ return array (
     'latitude' => -38.16667,
     'longitude' => 145.3,
   ),
-  1082 => 
+  1032 => 
   array (
     'id' => 4984,
     'name' => 'Devonport',
@@ -9748,7 +9298,7 @@ return array (
     'latitude' => -41.21296,
     'longitude' => 146.32401,
   ),
-  1083 => 
+  1033 => 
   array (
     'id' => 4985,
     'name' => 'Dharruk',
@@ -9757,7 +9307,7 @@ return array (
     'latitude' => -33.74814,
     'longitude' => 150.81561,
   ),
-  1084 => 
+  1034 => 
   array (
     'id' => 4986,
     'name' => 'Diamantina',
@@ -9766,7 +9316,7 @@ return array (
     'latitude' => -24.57676,
     'longitude' => 140.07163,
   ),
-  1085 => 
+  1035 => 
   array (
     'id' => 4987,
     'name' => 'Diamond Creek',
@@ -9775,7 +9325,7 @@ return array (
     'latitude' => -37.66667,
     'longitude' => 145.15,
   ),
-  1086 => 
+  1036 => 
   array (
     'id' => 4988,
     'name' => 'Dianella',
@@ -9784,7 +9334,7 @@ return array (
     'latitude' => -31.88822,
     'longitude' => 115.87186,
   ),
-  1087 => 
+  1037 => 
   array (
     'id' => 4989,
     'name' => 'Dickson',
@@ -9793,7 +9343,7 @@ return array (
     'latitude' => -35.25082,
     'longitude' => 149.13932,
   ),
-  1088 => 
+  1038 => 
   array (
     'id' => 4990,
     'name' => 'Dicky Beach',
@@ -9802,7 +9352,7 @@ return array (
     'latitude' => -26.78364,
     'longitude' => 153.13766,
   ),
-  1089 => 
+  1039 => 
   array (
     'id' => 4991,
     'name' => 'Diddillibah',
@@ -9811,7 +9361,7 @@ return array (
     'latitude' => -26.64166,
     'longitude' => 153.04959,
   ),
-  1090 => 
+  1040 => 
   array (
     'id' => 4992,
     'name' => 'Diggers Rest',
@@ -9820,7 +9370,7 @@ return array (
     'latitude' => -37.62597,
     'longitude' => 144.71881,
   ),
-  1091 => 
+  1041 => 
   array (
     'id' => 4993,
     'name' => 'Dimboola',
@@ -9829,7 +9379,7 @@ return array (
     'latitude' => -36.45616,
     'longitude' => 142.03287,
   ),
-  1092 => 
+  1042 => 
   array (
     'id' => 4994,
     'name' => 'Dimbulah',
@@ -9838,7 +9388,7 @@ return array (
     'latitude' => -17.14752,
     'longitude' => 145.10969,
   ),
-  1093 => 
+  1043 => 
   array (
     'id' => 4995,
     'name' => 'Dingley Village',
@@ -9847,7 +9397,7 @@ return array (
     'latitude' => -37.9827,
     'longitude' => 145.1342,
   ),
-  1094 => 
+  1044 => 
   array (
     'id' => 4996,
     'name' => 'Dinner Plain',
@@ -9856,7 +9406,7 @@ return array (
     'latitude' => -37.0236,
     'longitude' => 147.24124,
   ),
-  1095 => 
+  1045 => 
   array (
     'id' => 4997,
     'name' => 'Djugun',
@@ -9865,7 +9415,7 @@ return array (
     'latitude' => -17.95395,
     'longitude' => 122.22792,
   ),
-  1096 => 
+  1046 => 
   array (
     'id' => 4998,
     'name' => 'Docklands',
@@ -9874,7 +9424,7 @@ return array (
     'latitude' => -37.8149,
     'longitude' => 144.95052,
   ),
-  1097 => 
+  1047 => 
   array (
     'id' => 4999,
     'name' => 'Dodges Ferry',
@@ -9883,7 +9433,7 @@ return array (
     'latitude' => -42.85315,
     'longitude' => 147.62263,
   ),
-  1098 => 
+  1048 => 
   array (
     'id' => 5000,
     'name' => 'Dolls Point',
@@ -9892,7 +9442,7 @@ return array (
     'latitude' => -33.99341,
     'longitude' => 151.14474,
   ),
-  1099 => 
+  1049 => 
   array (
     'id' => 5001,
     'name' => 'Donald',
@@ -9901,7 +9451,7 @@ return array (
     'latitude' => -36.36864,
     'longitude' => 142.98106,
   ),
-  1100 => 
+  1050 => 
   array (
     'id' => 5002,
     'name' => 'Doncaster',
@@ -9910,7 +9460,7 @@ return array (
     'latitude' => -37.78828,
     'longitude' => 145.12373,
   ),
-  1101 => 
+  1051 => 
   array (
     'id' => 5003,
     'name' => 'Doncaster East',
@@ -9919,7 +9469,7 @@ return array (
     'latitude' => -37.78761,
     'longitude' => 145.14888,
   ),
-  1102 => 
+  1052 => 
   array (
     'id' => 5004,
     'name' => 'Dongara',
@@ -9928,7 +9478,7 @@ return array (
     'latitude' => -29.25818,
     'longitude' => 114.93276,
   ),
-  1103 => 
+  1053 => 
   array (
     'id' => 5005,
     'name' => 'Donnybrook',
@@ -9937,7 +9487,7 @@ return array (
     'latitude' => -33.5713,
     'longitude' => 115.82446,
   ),
-  1104 => 
+  1054 => 
   array (
     'id' => 5006,
     'name' => 'Donnybrook-Balingup',
@@ -9946,7 +9496,7 @@ return array (
     'latitude' => -33.70217,
     'longitude' => 115.97778,
   ),
-  1105 => 
+  1055 => 
   array (
     'id' => 5007,
     'name' => 'Donvale',
@@ -9955,7 +9505,7 @@ return array (
     'latitude' => -37.7891,
     'longitude' => 145.17488,
   ),
-  1106 => 
+  1056 => 
   array (
     'id' => 5008,
     'name' => 'Doolandella',
@@ -9964,7 +9514,7 @@ return array (
     'latitude' => -27.61328,
     'longitude' => 152.98547,
   ),
-  1107 => 
+  1057 => 
   array (
     'id' => 5009,
     'name' => 'Doomadgee',
@@ -9973,7 +9523,7 @@ return array (
     'latitude' => -17.63879,
     'longitude' => 138.74359,
   ),
-  1108 => 
+  1058 => 
   array (
     'id' => 5010,
     'name' => 'Doonan',
@@ -9982,7 +9532,7 @@ return array (
     'latitude' => -26.43964,
     'longitude' => 152.99204,
   ),
-  1109 => 
+  1059 => 
   array (
     'id' => 5011,
     'name' => 'Doonside',
@@ -9991,7 +9541,7 @@ return array (
     'latitude' => -33.76667,
     'longitude' => 150.86667,
   ),
-  1110 => 
+  1060 => 
   array (
     'id' => 5012,
     'name' => 'Dora Creek',
@@ -10000,7 +9550,7 @@ return array (
     'latitude' => -33.08139,
     'longitude' => 151.49677,
   ),
-  1111 => 
+  1061 => 
   array (
     'id' => 5013,
     'name' => 'Doreen',
@@ -10009,7 +9559,7 @@ return array (
     'latitude' => -37.6,
     'longitude' => 145.15,
   ),
-  1112 => 
+  1062 => 
   array (
     'id' => 5014,
     'name' => 'Dorrigo',
@@ -10018,7 +9568,7 @@ return array (
     'latitude' => -30.34112,
     'longitude' => 152.71394,
   ),
-  1113 => 
+  1063 => 
   array (
     'id' => 5015,
     'name' => 'Dorset',
@@ -10027,7 +9577,7 @@ return array (
     'latitude' => -41.04789,
     'longitude' => 147.73167,
   ),
-  1114 => 
+  1064 => 
   array (
     'id' => 5016,
     'name' => 'Double Bay',
@@ -10036,7 +9586,7 @@ return array (
     'latitude' => -33.87782,
     'longitude' => 151.24354,
   ),
-  1115 => 
+  1065 => 
   array (
     'id' => 5017,
     'name' => 'Doubleview',
@@ -10045,7 +9595,7 @@ return array (
     'latitude' => -31.89627,
     'longitude' => 115.78155,
   ),
-  1116 => 
+  1066 => 
   array (
     'id' => 5018,
     'name' => 'Douglas',
@@ -10054,7 +9604,7 @@ return array (
     'latitude' => -19.32394,
     'longitude' => 146.75234,
   ),
-  1117 => 
+  1067 => 
   array (
     'id' => 5019,
     'name' => 'Douglas Park',
@@ -10063,7 +9613,7 @@ return array (
     'latitude' => -34.18496,
     'longitude' => 150.71449,
   ),
-  1118 => 
+  1068 => 
   array (
     'id' => 5020,
     'name' => 'Dover Gardens',
@@ -10072,7 +9622,7 @@ return array (
     'latitude' => -35.024,
     'longitude' => 138.53695,
   ),
-  1119 => 
+  1069 => 
   array (
     'id' => 5021,
     'name' => 'Dover Heights',
@@ -10081,7 +9631,7 @@ return array (
     'latitude' => -33.87083,
     'longitude' => 151.27917,
   ),
-  1120 => 
+  1070 => 
   array (
     'id' => 5022,
     'name' => 'Doveton',
@@ -10090,7 +9640,7 @@ return array (
     'latitude' => -37.99346,
     'longitude' => 145.23891,
   ),
-  1121 => 
+  1071 => 
   array (
     'id' => 5023,
     'name' => 'Dowerin',
@@ -10099,7 +9649,7 @@ return array (
     'latitude' => -31.11328,
     'longitude' => 117.10566,
   ),
-  1122 => 
+  1072 => 
   array (
     'id' => 5024,
     'name' => 'Downer',
@@ -10108,7 +9658,7 @@ return array (
     'latitude' => -35.24457,
     'longitude' => 149.14468,
   ),
-  1123 => 
+  1073 => 
   array (
     'id' => 5025,
     'name' => 'Drayton',
@@ -10117,7 +9667,7 @@ return array (
     'latitude' => -27.60011,
     'longitude' => 151.90109,
   ),
-  1124 => 
+  1074 => 
   array (
     'id' => 5026,
     'name' => 'Drewvale',
@@ -10126,7 +9676,7 @@ return array (
     'latitude' => -27.64768,
     'longitude' => 153.05458,
   ),
-  1125 => 
+  1075 => 
   array (
     'id' => 5027,
     'name' => 'Driver',
@@ -10135,7 +9685,7 @@ return array (
     'latitude' => -12.48602,
     'longitude' => 130.97539,
   ),
-  1126 => 
+  1076 => 
   array (
     'id' => 5028,
     'name' => 'Dromana',
@@ -10144,7 +9694,7 @@ return array (
     'latitude' => -38.33375,
     'longitude' => 144.96458,
   ),
-  1127 => 
+  1077 => 
   array (
     'id' => 5029,
     'name' => 'Drouin',
@@ -10153,7 +9703,7 @@ return array (
     'latitude' => -38.13658,
     'longitude' => 145.85838,
   ),
-  1128 => 
+  1078 => 
   array (
     'id' => 5030,
     'name' => 'Drummond Cove',
@@ -10162,7 +9712,7 @@ return array (
     'latitude' => -28.67379,
     'longitude' => 114.6128,
   ),
-  1129 => 
+  1079 => 
   array (
     'id' => 5031,
     'name' => 'Drummoyne',
@@ -10171,7 +9721,7 @@ return array (
     'latitude' => -33.85237,
     'longitude' => 151.15491,
   ),
-  1130 => 
+  1080 => 
   array (
     'id' => 5032,
     'name' => 'Drysdale',
@@ -10180,7 +9730,7 @@ return array (
     'latitude' => -38.17237,
     'longitude' => 144.56988,
   ),
-  1131 => 
+  1081 => 
   array (
     'id' => 5033,
     'name' => 'Dubbo',
@@ -10189,7 +9739,7 @@ return array (
     'latitude' => -32.24295,
     'longitude' => 148.60484,
   ),
-  1132 => 
+  1082 => 
   array (
     'id' => 5034,
     'name' => 'Dudley',
@@ -10198,7 +9748,7 @@ return array (
     'latitude' => -32.99373,
     'longitude' => 151.72197,
   ),
-  1133 => 
+  1083 => 
   array (
     'id' => 5035,
     'name' => 'Dudley Park',
@@ -10207,7 +9757,7 @@ return array (
     'latitude' => -32.55221,
     'longitude' => 115.731,
   ),
-  1134 => 
+  1084 => 
   array (
     'id' => 5036,
     'name' => 'Duffy',
@@ -10216,7 +9766,7 @@ return array (
     'latitude' => -35.33459,
     'longitude' => 149.03188,
   ),
-  1135 => 
+  1085 => 
   array (
     'id' => 5037,
     'name' => 'Dulwich',
@@ -10225,7 +9775,7 @@ return array (
     'latitude' => -34.9365,
     'longitude' => 138.6272,
   ),
-  1136 => 
+  1086 => 
   array (
     'id' => 5038,
     'name' => 'Dulwich Hill',
@@ -10234,7 +9784,7 @@ return array (
     'latitude' => -33.9041,
     'longitude' => 151.13945,
   ),
-  1137 => 
+  1087 => 
   array (
     'id' => 5039,
     'name' => 'Dumbleyung Shire',
@@ -10243,7 +9793,7 @@ return array (
     'latitude' => -33.2178,
     'longitude' => 117.9875,
   ),
-  1138 => 
+  1088 => 
   array (
     'id' => 5040,
     'name' => 'Duncraig',
@@ -10252,7 +9802,7 @@ return array (
     'latitude' => -31.83291,
     'longitude' => 115.7759,
   ),
-  1139 => 
+  1089 => 
   array (
     'id' => 5041,
     'name' => 'Dundas',
@@ -10261,7 +9811,7 @@ return array (
     'latitude' => -32.12502,
     'longitude' => 124.50582,
   ),
-  1140 => 
+  1090 => 
   array (
     'id' => 5042,
     'name' => 'Dundas Valley',
@@ -10270,7 +9820,7 @@ return array (
     'latitude' => -33.78826,
     'longitude' => 151.05261,
   ),
-  1141 => 
+  1091 => 
   array (
     'id' => 5043,
     'name' => 'Dundowran Beach',
@@ -10279,7 +9829,7 @@ return array (
     'latitude' => -25.26934,
     'longitude' => 152.76232,
   ),
-  1142 => 
+  1092 => 
   array (
     'id' => 5044,
     'name' => 'Dunedoo',
@@ -10288,7 +9838,7 @@ return array (
     'latitude' => -32.01634,
     'longitude' => 149.3871,
   ),
-  1143 => 
+  1093 => 
   array (
     'id' => 5045,
     'name' => 'Dungog',
@@ -10297,7 +9847,7 @@ return array (
     'latitude' => -32.34619,
     'longitude' => 151.61122,
   ),
-  1144 => 
+  1094 => 
   array (
     'id' => 5046,
     'name' => 'Dunlop',
@@ -10306,7 +9856,7 @@ return array (
     'latitude' => -35.19402,
     'longitude' => 149.01984,
   ),
-  1145 => 
+  1095 => 
   array (
     'id' => 5047,
     'name' => 'Dunsborough',
@@ -10315,7 +9865,7 @@ return array (
     'latitude' => -33.61476,
     'longitude' => 115.10445,
   ),
-  1146 => 
+  1096 => 
   array (
     'id' => 5048,
     'name' => 'Durack',
@@ -10324,16 +9874,7 @@ return array (
     'latitude' => -12.47308,
     'longitude' => 130.97208,
   ),
-  1147 => 
-  array (
-    'id' => 5049,
-    'name' => 'Durack',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.58947,
-    'longitude' => 152.98577,
-  ),
-  1148 => 
+  1097 => 
   array (
     'id' => 5050,
     'name' => 'Dural',
@@ -10342,7 +9883,7 @@ return array (
     'latitude' => -33.68333,
     'longitude' => 151.01667,
   ),
-  1149 => 
+  1098 => 
   array (
     'id' => 5051,
     'name' => 'Dutton Park',
@@ -10351,7 +9892,7 @@ return array (
     'latitude' => -27.49662,
     'longitude' => 153.02796,
   ),
-  1150 => 
+  1099 => 
   array (
     'id' => 5052,
     'name' => 'Dynnyrne',
@@ -10360,7 +9901,7 @@ return array (
     'latitude' => -42.90541,
     'longitude' => 147.31576,
   ),
-  1151 => 
+  1100 => 
   array (
     'id' => 5053,
     'name' => 'Dysart',
@@ -10369,7 +9910,7 @@ return array (
     'latitude' => -22.58825,
     'longitude' => 148.34924,
   ),
-  1152 => 
+  1101 => 
   array (
     'id' => 5054,
     'name' => 'D’Aguilar',
@@ -10378,7 +9919,7 @@ return array (
     'latitude' => -26.98333,
     'longitude' => 152.8,
   ),
-  1153 => 
+  1102 => 
   array (
     'id' => 5055,
     'name' => 'Eagle Point',
@@ -10387,7 +9928,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 147.68333,
   ),
-  1154 => 
+  1103 => 
   array (
     'id' => 5056,
     'name' => 'Eagle Vale',
@@ -10396,7 +9937,7 @@ return array (
     'latitude' => -34.03747,
     'longitude' => 150.8136,
   ),
-  1155 => 
+  1104 => 
   array (
     'id' => 5057,
     'name' => 'Eagleby',
@@ -10405,7 +9946,7 @@ return array (
     'latitude' => -27.68333,
     'longitude' => 153.21667,
   ),
-  1156 => 
+  1105 => 
   array (
     'id' => 5058,
     'name' => 'Eaglehawk',
@@ -10414,7 +9955,7 @@ return array (
     'latitude' => -36.71611,
     'longitude' => 144.25049,
   ),
-  1157 => 
+  1106 => 
   array (
     'id' => 5059,
     'name' => 'Eaglemont',
@@ -10423,7 +9964,7 @@ return array (
     'latitude' => -37.76379,
     'longitude' => 145.0638,
   ),
-  1158 => 
+  1107 => 
   array (
     'id' => 5060,
     'name' => 'Earlville',
@@ -10432,7 +9973,7 @@ return array (
     'latitude' => -16.95078,
     'longitude' => 145.73308,
   ),
-  1159 => 
+  1108 => 
   array (
     'id' => 5061,
     'name' => 'Earlwood',
@@ -10441,7 +9982,7 @@ return array (
     'latitude' => -33.9209,
     'longitude' => 151.12506,
   ),
-  1160 => 
+  1109 => 
   array (
     'id' => 5062,
     'name' => 'East Albury',
@@ -10450,7 +9991,7 @@ return array (
     'latitude' => -36.08144,
     'longitude' => 146.92991,
   ),
-  1161 => 
+  1110 => 
   array (
     'id' => 5063,
     'name' => 'East Arnhem',
@@ -10459,7 +10000,7 @@ return array (
     'latitude' => -12.66175,
     'longitude' => 135.82281,
   ),
-  1162 => 
+  1111 => 
   array (
     'id' => 5064,
     'name' => 'East Bairnsdale',
@@ -10468,7 +10009,7 @@ return array (
     'latitude' => -37.83426,
     'longitude' => 147.65548,
   ),
-  1163 => 
+  1112 => 
   array (
     'id' => 5065,
     'name' => 'East Ballina',
@@ -10477,7 +10018,7 @@ return array (
     'latitude' => -28.85709,
     'longitude' => 153.58736,
   ),
-  1164 => 
+  1113 => 
   array (
     'id' => 5066,
     'name' => 'East Bendigo',
@@ -10486,7 +10027,7 @@ return array (
     'latitude' => -36.74157,
     'longitude' => 144.31894,
   ),
-  1165 => 
+  1114 => 
   array (
     'id' => 5067,
     'name' => 'East Branxton',
@@ -10495,7 +10036,7 @@ return array (
     'latitude' => -32.65372,
     'longitude' => 151.36559,
   ),
-  1166 => 
+  1115 => 
   array (
     'id' => 5068,
     'name' => 'East Brisbane',
@@ -10504,7 +10045,7 @@ return array (
     'latitude' => -27.48099,
     'longitude' => 153.04401,
   ),
-  1167 => 
+  1116 => 
   array (
     'id' => 5069,
     'name' => 'East Bunbury',
@@ -10513,7 +10054,7 @@ return array (
     'latitude' => -33.33619,
     'longitude' => 115.66041,
   ),
-  1168 => 
+  1117 => 
   array (
     'id' => 5070,
     'name' => 'East Cannington',
@@ -10522,7 +10063,7 @@ return array (
     'latitude' => -32.0098,
     'longitude' => 115.95503,
   ),
-  1169 => 
+  1118 => 
   array (
     'id' => 5071,
     'name' => 'East Carnarvon',
@@ -10531,7 +10072,7 @@ return array (
     'latitude' => -24.86397,
     'longitude' => 113.67768,
   ),
-  1170 => 
+  1119 => 
   array (
     'id' => 5072,
     'name' => 'East Corrimal',
@@ -10540,7 +10081,7 @@ return array (
     'latitude' => -34.37606,
     'longitude' => 150.91078,
   ),
-  1171 => 
+  1120 => 
   array (
     'id' => 5073,
     'name' => 'East Devonport',
@@ -10549,7 +10090,7 @@ return array (
     'latitude' => -41.18792,
     'longitude' => 146.3866,
   ),
-  1172 => 
+  1121 => 
   array (
     'id' => 5074,
     'name' => 'East Fremantle',
@@ -10558,7 +10099,7 @@ return array (
     'latitude' => -32.03654,
     'longitude' => 115.76714,
   ),
-  1173 => 
+  1122 => 
   array (
     'id' => 5075,
     'name' => 'East Geelong',
@@ -10567,7 +10108,7 @@ return array (
     'latitude' => -38.15568,
     'longitude' => 144.37202,
   ),
-  1174 => 
+  1123 => 
   array (
     'id' => 5076,
     'name' => 'East Gippsland',
@@ -10576,7 +10117,7 @@ return array (
     'latitude' => -37.34564,
     'longitude' => 148.58295,
   ),
-  1175 => 
+  1124 => 
   array (
     'id' => 5077,
     'name' => 'East Gosford',
@@ -10585,7 +10126,7 @@ return array (
     'latitude' => -33.43874,
     'longitude' => 151.35338,
   ),
-  1176 => 
+  1125 => 
   array (
     'id' => 5078,
     'name' => 'East Hills',
@@ -10594,7 +10135,7 @@ return array (
     'latitude' => -33.96099,
     'longitude' => 150.98822,
   ),
-  1177 => 
+  1126 => 
   array (
     'id' => 5079,
     'name' => 'East Innisfail',
@@ -10603,7 +10144,7 @@ return array (
     'latitude' => -17.53324,
     'longitude' => 146.03487,
   ),
-  1178 => 
+  1127 => 
   array (
     'id' => 5080,
     'name' => 'East Ipswich',
@@ -10612,7 +10153,7 @@ return array (
     'latitude' => -27.60637,
     'longitude' => 152.77232,
   ),
-  1179 => 
+  1128 => 
   array (
     'id' => 5081,
     'name' => 'East Jindabyne',
@@ -10621,7 +10162,7 @@ return array (
     'latitude' => -36.39579,
     'longitude' => 148.65137,
   ),
-  1180 => 
+  1129 => 
   array (
     'id' => 5082,
     'name' => 'East Kempsey',
@@ -10630,7 +10171,7 @@ return array (
     'latitude' => -31.08242,
     'longitude' => 152.85253,
   ),
-  1181 => 
+  1130 => 
   array (
     'id' => 5083,
     'name' => 'East Killara',
@@ -10639,7 +10180,7 @@ return array (
     'latitude' => -33.75535,
     'longitude' => 151.18154,
   ),
-  1182 => 
+  1131 => 
   array (
     'id' => 5084,
     'name' => 'East Kurrajong',
@@ -10648,7 +10189,7 @@ return array (
     'latitude' => -33.5055,
     'longitude' => 150.79427,
   ),
-  1183 => 
+  1132 => 
   array (
     'id' => 5085,
     'name' => 'East Launceston',
@@ -10657,7 +10198,7 @@ return array (
     'latitude' => -41.43843,
     'longitude' => 147.15101,
   ),
-  1184 => 
+  1133 => 
   array (
     'id' => 5086,
     'name' => 'East Lindfield',
@@ -10666,7 +10207,7 @@ return array (
     'latitude' => -33.76664,
     'longitude' => 151.18685,
   ),
-  1185 => 
+  1134 => 
   array (
     'id' => 5087,
     'name' => 'East Lismore',
@@ -10675,7 +10216,7 @@ return array (
     'latitude' => -28.82591,
     'longitude' => 153.2888,
   ),
-  1186 => 
+  1135 => 
   array (
     'id' => 5088,
     'name' => 'East Mackay',
@@ -10684,7 +10225,7 @@ return array (
     'latitude' => -21.14979,
     'longitude' => 149.1964,
   ),
-  1187 => 
+  1136 => 
   array (
     'id' => 5089,
     'name' => 'East Maitland',
@@ -10693,7 +10234,7 @@ return array (
     'latitude' => -32.75,
     'longitude' => 151.58333,
   ),
-  1188 => 
+  1137 => 
   array (
     'id' => 5090,
     'name' => 'East Melbourne',
@@ -10702,7 +10243,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 144.9879,
   ),
-  1189 => 
+  1138 => 
   array (
     'id' => 5091,
     'name' => 'East Perth',
@@ -10711,7 +10252,7 @@ return array (
     'latitude' => -31.95872,
     'longitude' => 115.87109,
   ),
-  1190 => 
+  1139 => 
   array (
     'id' => 5092,
     'name' => 'East Pilbara',
@@ -10720,7 +10261,7 @@ return array (
     'latitude' => -21.61331,
     'longitude' => 123.71368,
   ),
-  1191 => 
+  1140 => 
   array (
     'id' => 5093,
     'name' => 'East Ryde',
@@ -10729,7 +10270,7 @@ return array (
     'latitude' => -33.81031,
     'longitude' => 151.13153,
   ),
-  1192 => 
+  1141 => 
   array (
     'id' => 5094,
     'name' => 'East Side',
@@ -10738,7 +10279,7 @@ return array (
     'latitude' => -23.69195,
     'longitude' => 133.8932,
   ),
-  1193 => 
+  1142 => 
   array (
     'id' => 5095,
     'name' => 'East Tamworth',
@@ -10747,7 +10288,7 @@ return array (
     'latitude' => -31.08548,
     'longitude' => 150.93721,
   ),
-  1194 => 
+  1143 => 
   array (
     'id' => 5096,
     'name' => 'East Toowoomba',
@@ -10756,7 +10297,7 @@ return array (
     'latitude' => -27.57086,
     'longitude' => 151.97422,
   ),
-  1195 => 
+  1144 => 
   array (
     'id' => 5097,
     'name' => 'East Victoria Park',
@@ -10765,7 +10306,7 @@ return array (
     'latitude' => -31.98894,
     'longitude' => 115.90388,
   ),
-  1196 => 
+  1145 => 
   array (
     'id' => 5098,
     'name' => 'Eastern Heights',
@@ -10774,7 +10315,7 @@ return array (
     'latitude' => -27.62849,
     'longitude' => 152.77828,
   ),
-  1197 => 
+  1146 => 
   array (
     'id' => 5099,
     'name' => 'Eastlakes',
@@ -10783,7 +10324,7 @@ return array (
     'latitude' => -33.93196,
     'longitude' => 151.21214,
   ),
-  1198 => 
+  1147 => 
   array (
     'id' => 5100,
     'name' => 'Eastwood',
@@ -10792,7 +10333,7 @@ return array (
     'latitude' => -33.79176,
     'longitude' => 151.08057,
   ),
-  1199 => 
+  1148 => 
   array (
     'id' => 5101,
     'name' => 'Eaton',
@@ -10801,7 +10342,7 @@ return array (
     'latitude' => -33.31664,
     'longitude' => 115.70503,
   ),
-  1200 => 
+  1149 => 
   array (
     'id' => 5102,
     'name' => 'Eatons Hill',
@@ -10810,7 +10351,7 @@ return array (
     'latitude' => -27.3392,
     'longitude' => 152.9599,
   ),
-  1201 => 
+  1150 => 
   array (
     'id' => 5103,
     'name' => 'Echuca',
@@ -10819,7 +10360,7 @@ return array (
     'latitude' => -36.14057,
     'longitude' => 144.75185,
   ),
-  1202 => 
+  1151 => 
   array (
     'id' => 5104,
     'name' => 'Echunga',
@@ -10828,7 +10369,7 @@ return array (
     'latitude' => -35.10354,
     'longitude' => 138.79588,
   ),
-  1203 => 
+  1152 => 
   array (
     'id' => 5105,
     'name' => 'Eden',
@@ -10837,7 +10378,7 @@ return array (
     'latitude' => -37.06675,
     'longitude' => 149.90029,
   ),
-  1204 => 
+  1153 => 
   array (
     'id' => 5106,
     'name' => 'Eden Hill',
@@ -10846,7 +10387,7 @@ return array (
     'latitude' => -31.88908,
     'longitude' => 115.94675,
   ),
-  1205 => 
+  1154 => 
   array (
     'id' => 5107,
     'name' => 'Eden Hills',
@@ -10855,7 +10396,7 @@ return array (
     'latitude' => -35.0211,
     'longitude' => 138.59567,
   ),
-  1206 => 
+  1155 => 
   array (
     'id' => 5108,
     'name' => 'Eden Park',
@@ -10864,7 +10405,7 @@ return array (
     'latitude' => -37.48333,
     'longitude' => 145.08333,
   ),
-  1207 => 
+  1156 => 
   array (
     'id' => 5109,
     'name' => 'Edens Landing',
@@ -10873,7 +10414,7 @@ return array (
     'latitude' => -27.7027,
     'longitude' => 153.16943,
   ),
-  1208 => 
+  1157 => 
   array (
     'id' => 5110,
     'name' => 'Edensor Park',
@@ -10882,7 +10423,7 @@ return array (
     'latitude' => -33.87971,
     'longitude' => 150.87778,
   ),
-  1209 => 
+  1158 => 
   array (
     'id' => 5111,
     'name' => 'Edge Hill',
@@ -10891,7 +10432,7 @@ return array (
     'latitude' => -16.9,
     'longitude' => 145.75,
   ),
-  1210 => 
+  1159 => 
   array (
     'id' => 5112,
     'name' => 'Edgecliff',
@@ -10900,7 +10441,7 @@ return array (
     'latitude' => -33.87952,
     'longitude' => 151.23677,
   ),
-  1211 => 
+  1160 => 
   array (
     'id' => 5113,
     'name' => 'Edgewater',
@@ -10909,7 +10450,7 @@ return array (
     'latitude' => -31.76547,
     'longitude' => 115.78223,
   ),
-  1212 => 
+  1161 => 
   array (
     'id' => 5114,
     'name' => 'Edgeworth',
@@ -10918,7 +10459,7 @@ return array (
     'latitude' => -32.92508,
     'longitude' => 151.61612,
   ),
-  1213 => 
+  1162 => 
   array (
     'id' => 5115,
     'name' => 'Edithvale',
@@ -10927,7 +10468,7 @@ return array (
     'latitude' => -38.03724,
     'longitude' => 145.10974,
   ),
-  1214 => 
+  1163 => 
   array (
     'id' => 5116,
     'name' => 'Edmondson Park',
@@ -10936,7 +10477,7 @@ return array (
     'latitude' => -33.95695,
     'longitude' => 150.86134,
   ),
-  1215 => 
+  1164 => 
   array (
     'id' => 5117,
     'name' => 'Edmonton',
@@ -10945,7 +10486,7 @@ return array (
     'latitude' => -17.01902,
     'longitude' => 145.74443,
   ),
-  1216 => 
+  1165 => 
   array (
     'id' => 5118,
     'name' => 'Edwardstown',
@@ -10954,7 +10495,7 @@ return array (
     'latitude' => -34.98018,
     'longitude' => 138.5694,
   ),
-  1217 => 
+  1166 => 
   array (
     'id' => 5119,
     'name' => 'Eglinton',
@@ -10963,16 +10504,7 @@ return array (
     'latitude' => -33.37731,
     'longitude' => 149.54654,
   ),
-  1218 => 
-  array (
-    'id' => 5120,
-    'name' => 'Eglinton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.58677,
-    'longitude' => 115.68878,
-  ),
-  1219 => 
+  1167 => 
   array (
     'id' => 5121,
     'name' => 'Eight Mile Plains',
@@ -10981,7 +10513,7 @@ return array (
     'latitude' => -27.58333,
     'longitude' => 153.1,
   ),
-  1220 => 
+  1168 => 
   array (
     'id' => 5122,
     'name' => 'Eimeo',
@@ -10990,7 +10522,7 @@ return array (
     'latitude' => -21.03766,
     'longitude' => 149.1763,
   ),
-  1221 => 
+  1169 => 
   array (
     'id' => 5123,
     'name' => 'Elanora',
@@ -10999,7 +10531,7 @@ return array (
     'latitude' => -28.13577,
     'longitude' => 153.44931,
   ),
-  1222 => 
+  1170 => 
   array (
     'id' => 5124,
     'name' => 'Elanora Heights',
@@ -11008,7 +10540,7 @@ return array (
     'latitude' => -33.70159,
     'longitude' => 151.27965,
   ),
-  1223 => 
+  1171 => 
   array (
     'id' => 5125,
     'name' => 'Elderslie',
@@ -11017,7 +10549,7 @@ return array (
     'latitude' => -34.05519,
     'longitude' => 150.71367,
   ),
-  1224 => 
+  1172 => 
   array (
     'id' => 5126,
     'name' => 'Eleebana',
@@ -11026,7 +10558,7 @@ return array (
     'latitude' => -32.9896,
     'longitude' => 151.63642,
   ),
-  1225 => 
+  1173 => 
   array (
     'id' => 5127,
     'name' => 'Elermore Vale',
@@ -11035,7 +10567,7 @@ return array (
     'latitude' => -32.91621,
     'longitude' => 151.67665,
   ),
-  1226 => 
+  1174 => 
   array (
     'id' => 5128,
     'name' => 'Eli Waters',
@@ -11044,7 +10576,7 @@ return array (
     'latitude' => -25.27922,
     'longitude' => 152.8091,
   ),
-  1227 => 
+  1175 => 
   array (
     'id' => 5129,
     'name' => 'Elimbah',
@@ -11053,7 +10585,7 @@ return array (
     'latitude' => -27.01667,
     'longitude' => 152.95,
   ),
-  1228 => 
+  1176 => 
   array (
     'id' => 5130,
     'name' => 'Elizabeth Bay',
@@ -11062,7 +10594,7 @@ return array (
     'latitude' => -33.87181,
     'longitude' => 151.22706,
   ),
-  1229 => 
+  1177 => 
   array (
     'id' => 5131,
     'name' => 'Elizabeth Downs',
@@ -11071,7 +10603,7 @@ return array (
     'latitude' => -34.69982,
     'longitude' => 138.69132,
   ),
-  1230 => 
+  1178 => 
   array (
     'id' => 5132,
     'name' => 'Elizabeth East',
@@ -11080,7 +10612,7 @@ return array (
     'latitude' => -34.72513,
     'longitude' => 138.68214,
   ),
-  1231 => 
+  1179 => 
   array (
     'id' => 5133,
     'name' => 'Elizabeth Grove',
@@ -11089,7 +10621,7 @@ return array (
     'latitude' => -34.73528,
     'longitude' => 138.66888,
   ),
-  1232 => 
+  1180 => 
   array (
     'id' => 5134,
     'name' => 'Elizabeth Hills',
@@ -11098,7 +10630,7 @@ return array (
     'latitude' => -33.89863,
     'longitude' => 150.84761,
   ),
-  1233 => 
+  1181 => 
   array (
     'id' => 5135,
     'name' => 'Elizabeth North',
@@ -11107,7 +10639,7 @@ return array (
     'latitude' => -34.70678,
     'longitude' => 138.67609,
   ),
-  1234 => 
+  1182 => 
   array (
     'id' => 5136,
     'name' => 'Elizabeth Park',
@@ -11116,7 +10648,7 @@ return array (
     'latitude' => -34.70974,
     'longitude' => 138.68604,
   ),
-  1235 => 
+  1183 => 
   array (
     'id' => 5137,
     'name' => 'Elizabeth South',
@@ -11125,7 +10657,7 @@ return array (
     'latitude' => -34.73182,
     'longitude' => 138.66192,
   ),
-  1236 => 
+  1184 => 
   array (
     'id' => 5138,
     'name' => 'Elizabeth Vale',
@@ -11134,7 +10666,7 @@ return array (
     'latitude' => -34.74857,
     'longitude' => 138.66819,
   ),
-  1237 => 
+  1185 => 
   array (
     'id' => 5139,
     'name' => 'Ellalong',
@@ -11143,7 +10675,7 @@ return array (
     'latitude' => -32.91507,
     'longitude' => 151.31161,
   ),
-  1238 => 
+  1186 => 
   array (
     'id' => 5140,
     'name' => 'Ellen Grove',
@@ -11152,7 +10684,7 @@ return array (
     'latitude' => -27.61529,
     'longitude' => 152.94385,
   ),
-  1239 => 
+  1187 => 
   array (
     'id' => 5141,
     'name' => 'Ellenbrook',
@@ -11161,7 +10693,7 @@ return array (
     'latitude' => -31.76737,
     'longitude' => 115.96936,
   ),
-  1240 => 
+  1188 => 
   array (
     'id' => 5142,
     'name' => 'Elliminyt',
@@ -11170,7 +10702,7 @@ return array (
     'latitude' => -38.3711,
     'longitude' => 143.58003,
   ),
-  1241 => 
+  1189 => 
   array (
     'id' => 5143,
     'name' => 'Elliott Heads',
@@ -11179,7 +10711,7 @@ return array (
     'latitude' => -24.91622,
     'longitude' => 152.48988,
   ),
-  1242 => 
+  1190 => 
   array (
     'id' => 5144,
     'name' => 'Elliston',
@@ -11188,7 +10720,7 @@ return array (
     'latitude' => -33.53931,
     'longitude' => 135.09514,
   ),
-  1243 => 
+  1191 => 
   array (
     'id' => 5145,
     'name' => 'Elsternwick',
@@ -11197,7 +10729,7 @@ return array (
     'latitude' => -37.88639,
     'longitude' => 145.0025,
   ),
-  1244 => 
+  1192 => 
   array (
     'id' => 5146,
     'name' => 'Eltham',
@@ -11206,7 +10738,7 @@ return array (
     'latitude' => -37.73333,
     'longitude' => 145.15,
   ),
-  1245 => 
+  1193 => 
   array (
     'id' => 5147,
     'name' => 'Eltham North',
@@ -11215,7 +10747,7 @@ return array (
     'latitude' => -37.7,
     'longitude' => 145.15,
   ),
-  1246 => 
+  1194 => 
   array (
     'id' => 5148,
     'name' => 'Elwood',
@@ -11224,7 +10756,7 @@ return array (
     'latitude' => -37.88214,
     'longitude' => 144.98215,
   ),
-  1247 => 
+  1195 => 
   array (
     'id' => 5149,
     'name' => 'Embleton',
@@ -11233,7 +10765,7 @@ return array (
     'latitude' => -31.90355,
     'longitude' => 115.90902,
   ),
-  1248 => 
+  1196 => 
   array (
     'id' => 5150,
     'name' => 'Emerald',
@@ -11242,16 +10774,7 @@ return array (
     'latitude' => -37.93167,
     'longitude' => 145.44093,
   ),
-  1249 => 
-  array (
-    'id' => 5151,
-    'name' => 'Emerald',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -23.52296,
-    'longitude' => 148.15784,
-  ),
-  1250 => 
+  1197 => 
   array (
     'id' => 5152,
     'name' => 'Emerald Beach',
@@ -11260,7 +10783,7 @@ return array (
     'latitude' => -30.16388,
     'longitude' => 153.1819,
   ),
-  1251 => 
+  1198 => 
   array (
     'id' => 5153,
     'name' => 'Emerton',
@@ -11269,7 +10792,7 @@ return array (
     'latitude' => -33.74411,
     'longitude' => 150.80644,
   ),
-  1252 => 
+  1199 => 
   array (
     'id' => 5154,
     'name' => 'Empire Bay',
@@ -11278,7 +10801,7 @@ return array (
     'latitude' => -33.49385,
     'longitude' => 151.3629,
   ),
-  1253 => 
+  1200 => 
   array (
     'id' => 5155,
     'name' => 'Emu Heights',
@@ -11287,7 +10810,7 @@ return array (
     'latitude' => -33.73453,
     'longitude' => 150.64874,
   ),
-  1254 => 
+  1201 => 
   array (
     'id' => 5156,
     'name' => 'Emu Park',
@@ -11296,7 +10819,7 @@ return array (
     'latitude' => -23.2568,
     'longitude' => 150.82679,
   ),
-  1255 => 
+  1202 => 
   array (
     'id' => 5157,
     'name' => 'Emu Plains',
@@ -11305,7 +10828,7 @@ return array (
     'latitude' => -33.75,
     'longitude' => 150.66667,
   ),
-  1256 => 
+  1203 => 
   array (
     'id' => 5158,
     'name' => 'Encounter Bay',
@@ -11314,7 +10837,7 @@ return array (
     'latitude' => -35.57419,
     'longitude' => 138.60055,
   ),
-  1257 => 
+  1204 => 
   array (
     'id' => 5159,
     'name' => 'Endeavour Hills',
@@ -11323,7 +10846,7 @@ return array (
     'latitude' => -37.97695,
     'longitude' => 145.25866,
   ),
-  1258 => 
+  1205 => 
   array (
     'id' => 5160,
     'name' => 'Enfield',
@@ -11332,7 +10855,7 @@ return array (
     'latitude' => -34.8526,
     'longitude' => 138.60255,
   ),
-  1259 => 
+  1206 => 
   array (
     'id' => 5161,
     'name' => 'Engadine',
@@ -11341,7 +10864,7 @@ return array (
     'latitude' => -34.06564,
     'longitude' => 151.01266,
   ),
-  1260 => 
+  1207 => 
   array (
     'id' => 5162,
     'name' => 'Enmore',
@@ -11350,7 +10873,7 @@ return array (
     'latitude' => -33.9005,
     'longitude' => 151.17314,
   ),
-  1261 => 
+  1208 => 
   array (
     'id' => 5163,
     'name' => 'Enoggera',
@@ -11359,7 +10882,7 @@ return array (
     'latitude' => -27.42832,
     'longitude' => 152.97467,
   ),
-  1262 => 
+  1209 => 
   array (
     'id' => 5164,
     'name' => 'Epping',
@@ -11368,16 +10891,7 @@ return array (
     'latitude' => -37.65,
     'longitude' => 145.03333,
   ),
-  1263 => 
-  array (
-    'id' => 5165,
-    'name' => 'Epping',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.77271,
-    'longitude' => 151.08184,
-  ),
-  1264 => 
+  1210 => 
   array (
     'id' => 5166,
     'name' => 'Epsom',
@@ -11386,7 +10900,7 @@ return array (
     'latitude' => -36.71667,
     'longitude' => 144.31667,
   ),
-  1265 => 
+  1211 => 
   array (
     'id' => 5167,
     'name' => 'Erina',
@@ -11395,7 +10909,7 @@ return array (
     'latitude' => -33.43218,
     'longitude' => 151.38972,
   ),
-  1266 => 
+  1212 => 
   array (
     'id' => 5168,
     'name' => 'Erindale',
@@ -11404,7 +10918,7 @@ return array (
     'latitude' => -34.92785,
     'longitude' => 138.66313,
   ),
-  1267 => 
+  1213 => 
   array (
     'id' => 5169,
     'name' => 'Ermington',
@@ -11413,7 +10927,7 @@ return array (
     'latitude' => -33.81483,
     'longitude' => 151.05467,
   ),
-  1268 => 
+  1214 => 
   array (
     'id' => 5170,
     'name' => 'Erskine',
@@ -11422,7 +10936,7 @@ return array (
     'latitude' => -32.55717,
     'longitude' => 115.70657,
   ),
-  1269 => 
+  1215 => 
   array (
     'id' => 5171,
     'name' => 'Erskine Park',
@@ -11431,7 +10945,7 @@ return array (
     'latitude' => -33.81301,
     'longitude' => 150.79773,
   ),
-  1270 => 
+  1216 => 
   array (
     'id' => 5172,
     'name' => 'Erskineville',
@@ -11440,7 +10954,7 @@ return array (
     'latitude' => -33.90254,
     'longitude' => 151.18579,
   ),
-  1271 => 
+  1217 => 
   array (
     'id' => 5173,
     'name' => 'Eschol Park',
@@ -11449,7 +10963,7 @@ return array (
     'latitude' => -34.02982,
     'longitude' => 150.80957,
   ),
-  1272 => 
+  1218 => 
   array (
     'id' => 5174,
     'name' => 'Esk',
@@ -11458,7 +10972,7 @@ return array (
     'latitude' => -27.23895,
     'longitude' => 152.42223,
   ),
-  1273 => 
+  1219 => 
   array (
     'id' => 5175,
     'name' => 'Esperance',
@@ -11467,7 +10981,7 @@ return array (
     'latitude' => -33.85919,
     'longitude' => 121.89164,
   ),
-  1274 => 
+  1220 => 
   array (
     'id' => 5176,
     'name' => 'Esperance Shire',
@@ -11476,7 +10990,7 @@ return array (
     'latitude' => -33.5197,
     'longitude' => 122.15586,
   ),
-  1275 => 
+  1221 => 
   array (
     'id' => 5177,
     'name' => 'Essendon',
@@ -11485,7 +10999,7 @@ return array (
     'latitude' => -37.74981,
     'longitude' => 144.9109,
   ),
-  1276 => 
+  1222 => 
   array (
     'id' => 5178,
     'name' => 'Essendon North',
@@ -11494,7 +11008,7 @@ return array (
     'latitude' => -37.74225,
     'longitude' => 144.90546,
   ),
-  1277 => 
+  1223 => 
   array (
     'id' => 5179,
     'name' => 'Essendon West',
@@ -11503,7 +11017,7 @@ return array (
     'latitude' => -37.75489,
     'longitude' => 144.88338,
   ),
-  1278 => 
+  1224 => 
   array (
     'id' => 5180,
     'name' => 'Estella',
@@ -11512,7 +11026,7 @@ return array (
     'latitude' => -35.07254,
     'longitude' => 147.35748,
   ),
-  1279 => 
+  1225 => 
   array (
     'id' => 5181,
     'name' => 'Ethelton',
@@ -11521,7 +11035,7 @@ return array (
     'latitude' => -34.84869,
     'longitude' => 138.49103,
   ),
-  1280 => 
+  1226 => 
   array (
     'id' => 5182,
     'name' => 'Etheridge',
@@ -11530,7 +11044,7 @@ return array (
     'latitude' => -18.56276,
     'longitude' => 143.53832,
   ),
-  1281 => 
+  1227 => 
   array (
     'id' => 5183,
     'name' => 'Ettalong',
@@ -11539,7 +11053,7 @@ return array (
     'latitude' => -33.51301,
     'longitude' => 151.3383,
   ),
-  1282 => 
+  1228 => 
   array (
     'id' => 5184,
     'name' => 'Ettalong Beach',
@@ -11548,7 +11062,7 @@ return array (
     'latitude' => -33.51058,
     'longitude' => 151.33044,
   ),
-  1283 => 
+  1229 => 
   array (
     'id' => 5185,
     'name' => 'Eudlo',
@@ -11557,7 +11071,7 @@ return array (
     'latitude' => -26.72963,
     'longitude' => 152.95395,
   ),
-  1284 => 
+  1230 => 
   array (
     'id' => 5186,
     'name' => 'Eulomogo',
@@ -11566,7 +11080,7 @@ return array (
     'latitude' => -32.26667,
     'longitude' => 148.68333,
   ),
-  1285 => 
+  1231 => 
   array (
     'id' => 5187,
     'name' => 'Eumemmerring',
@@ -11575,7 +11089,7 @@ return array (
     'latitude' => -37.9978,
     'longitude' => 145.24821,
   ),
-  1286 => 
+  1232 => 
   array (
     'id' => 5188,
     'name' => 'Eumundi',
@@ -11584,7 +11098,7 @@ return array (
     'latitude' => -26.47737,
     'longitude' => 152.95115,
   ),
-  1287 => 
+  1233 => 
   array (
     'id' => 5189,
     'name' => 'Euroa',
@@ -11593,7 +11107,7 @@ return array (
     'latitude' => -36.75555,
     'longitude' => 145.57075,
   ),
-  1288 => 
+  1234 => 
   array (
     'id' => 5190,
     'name' => 'Eurobodalla',
@@ -11602,7 +11116,7 @@ return array (
     'latitude' => -35.93307,
     'longitude' => 149.9278,
   ),
-  1289 => 
+  1235 => 
   array (
     'id' => 5191,
     'name' => 'Evandale',
@@ -11611,16 +11125,7 @@ return array (
     'latitude' => -41.56858,
     'longitude' => 147.25271,
   ),
-  1290 => 
-  array (
-    'id' => 5192,
-    'name' => 'Evandale',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.90552,
-    'longitude' => 138.63542,
-  ),
-  1291 => 
+  1236 => 
   array (
     'id' => 5193,
     'name' => 'Evans Head',
@@ -11629,7 +11134,7 @@ return array (
     'latitude' => -29.11777,
     'longitude' => 153.43072,
   ),
-  1292 => 
+  1237 => 
   array (
     'id' => 5194,
     'name' => 'Evanston',
@@ -11638,7 +11143,7 @@ return array (
     'latitude' => -34.61657,
     'longitude' => 138.73369,
   ),
-  1293 => 
+  1238 => 
   array (
     'id' => 5195,
     'name' => 'Evanston Gardens',
@@ -11647,7 +11152,7 @@ return array (
     'latitude' => -34.62323,
     'longitude' => 138.72166,
   ),
-  1294 => 
+  1239 => 
   array (
     'id' => 5196,
     'name' => 'Evanston Park',
@@ -11656,7 +11161,7 @@ return array (
     'latitude' => -34.62284,
     'longitude' => 138.74123,
   ),
-  1295 => 
+  1240 => 
   array (
     'id' => 5197,
     'name' => 'Evatt',
@@ -11665,7 +11170,7 @@ return array (
     'latitude' => -35.21191,
     'longitude' => 149.06891,
   ),
-  1296 => 
+  1241 => 
   array (
     'id' => 5198,
     'name' => 'Everard Park',
@@ -11674,7 +11179,7 @@ return array (
     'latitude' => -34.95196,
     'longitude' => 138.57481,
   ),
-  1297 => 
+  1242 => 
   array (
     'id' => 5199,
     'name' => 'Everton Hills',
@@ -11683,7 +11188,7 @@ return array (
     'latitude' => -27.38909,
     'longitude' => 152.97126,
   ),
-  1298 => 
+  1243 => 
   array (
     'id' => 5200,
     'name' => 'Everton Park',
@@ -11692,7 +11197,7 @@ return array (
     'latitude' => -27.40732,
     'longitude' => 152.9884,
   ),
-  1299 => 
+  1244 => 
   array (
     'id' => 5201,
     'name' => 'Exeter',
@@ -11701,7 +11206,7 @@ return array (
     'latitude' => -34.83994,
     'longitude' => 138.48902,
   ),
-  1300 => 
+  1245 => 
   array (
     'id' => 5202,
     'name' => 'Exmouth',
@@ -11710,7 +11215,7 @@ return array (
     'latitude' => -22.03643,
     'longitude' => 114.04358,
   ),
-  1301 => 
+  1246 => 
   array (
     'id' => 5203,
     'name' => 'Eynesbury',
@@ -11719,7 +11224,7 @@ return array (
     'latitude' => -37.80043,
     'longitude' => 144.57458,
   ),
-  1302 => 
+  1247 => 
   array (
     'id' => 5204,
     'name' => 'Fadden',
@@ -11728,7 +11233,7 @@ return array (
     'latitude' => -35.405,
     'longitude' => 149.11662,
   ),
-  1303 => 
+  1248 => 
   array (
     'id' => 5205,
     'name' => 'Fairfield',
@@ -11737,25 +11242,7 @@ return array (
     'latitude' => -37.77977,
     'longitude' => 145.01764,
   ),
-  1304 => 
-  array (
-    'id' => 5206,
-    'name' => 'Fairfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.86742,
-    'longitude' => 150.90105,
-  ),
-  1305 => 
-  array (
-    'id' => 5207,
-    'name' => 'Fairfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.50644,
-    'longitude' => 153.02479,
-  ),
-  1306 => 
+  1249 => 
   array (
     'id' => 5208,
     'name' => 'Fairfield East',
@@ -11764,7 +11251,7 @@ return array (
     'latitude' => -33.86938,
     'longitude' => 150.97129,
   ),
-  1307 => 
+  1250 => 
   array (
     'id' => 5209,
     'name' => 'Fairfield Heights',
@@ -11773,7 +11260,7 @@ return array (
     'latitude' => -33.86445,
     'longitude' => 150.93884,
   ),
-  1308 => 
+  1251 => 
   array (
     'id' => 5210,
     'name' => 'Fairfield West',
@@ -11782,7 +11269,7 @@ return array (
     'latitude' => -33.8667,
     'longitude' => 150.917,
   ),
-  1309 => 
+  1252 => 
   array (
     'id' => 5211,
     'name' => 'Fairlight',
@@ -11791,7 +11278,7 @@ return array (
     'latitude' => -33.79575,
     'longitude' => 151.27346,
   ),
-  1310 => 
+  1253 => 
   array (
     'id' => 5212,
     'name' => 'Fairview Park',
@@ -11800,7 +11287,7 @@ return array (
     'latitude' => -34.79998,
     'longitude' => 138.72857,
   ),
-  1311 => 
+  1254 => 
   array (
     'id' => 5213,
     'name' => 'Fairy Meadow',
@@ -11809,7 +11296,7 @@ return array (
     'latitude' => -34.39303,
     'longitude' => 150.89275,
   ),
-  1312 => 
+  1255 => 
   array (
     'id' => 5214,
     'name' => 'Falcon',
@@ -11818,7 +11305,7 @@ return array (
     'latitude' => -32.58244,
     'longitude' => 115.66199,
   ),
-  1313 => 
+  1256 => 
   array (
     'id' => 5215,
     'name' => 'Falls Creek',
@@ -11827,7 +11314,7 @@ return array (
     'latitude' => -36.86535,
     'longitude' => 147.27782,
   ),
-  1314 => 
+  1257 => 
   array (
     'id' => 5216,
     'name' => 'Fannie Bay',
@@ -11836,7 +11323,7 @@ return array (
     'latitude' => -12.42275,
     'longitude' => 130.83627,
   ),
-  1315 => 
+  1258 => 
   array (
     'id' => 5217,
     'name' => 'Farmborough Heights',
@@ -11845,7 +11332,7 @@ return array (
     'latitude' => -34.45499,
     'longitude' => 150.81308,
   ),
-  1316 => 
+  1259 => 
   array (
     'id' => 5218,
     'name' => 'Farrar',
@@ -11854,7 +11341,7 @@ return array (
     'latitude' => -12.48028,
     'longitude' => 130.9982,
   ),
-  1317 => 
+  1260 => 
   array (
     'id' => 5219,
     'name' => 'Farrer',
@@ -11863,7 +11350,7 @@ return array (
     'latitude' => -35.37673,
     'longitude' => 149.105,
   ),
-  1318 => 
+  1261 => 
   array (
     'id' => 5220,
     'name' => 'Faulconbridge',
@@ -11872,7 +11359,7 @@ return array (
     'latitude' => -33.7,
     'longitude' => 150.53333,
   ),
-  1319 => 
+  1262 => 
   array (
     'id' => 5221,
     'name' => 'Fawkner',
@@ -11881,7 +11368,7 @@ return array (
     'latitude' => -37.71667,
     'longitude' => 144.96667,
   ),
-  1320 => 
+  1263 => 
   array (
     'id' => 5222,
     'name' => 'Felixstow',
@@ -11890,7 +11377,7 @@ return array (
     'latitude' => -34.88902,
     'longitude' => 138.64696,
   ),
-  1321 => 
+  1264 => 
   array (
     'id' => 5223,
     'name' => 'Fennell Bay',
@@ -11899,7 +11386,7 @@ return array (
     'latitude' => -32.9922,
     'longitude' => 151.60008,
   ),
-  1322 => 
+  1265 => 
   array (
     'id' => 5224,
     'name' => 'Fern Bay',
@@ -11908,7 +11395,7 @@ return array (
     'latitude' => -32.86428,
     'longitude' => 151.81307,
   ),
-  1323 => 
+  1266 => 
   array (
     'id' => 5225,
     'name' => 'Fern Hill',
@@ -11917,7 +11404,7 @@ return array (
     'latitude' => -34.38294,
     'longitude' => 150.88567,
   ),
-  1324 => 
+  1267 => 
   array (
     'id' => 5226,
     'name' => 'Ferndale',
@@ -11926,7 +11413,7 @@ return array (
     'latitude' => -32.03494,
     'longitude' => 115.92233,
   ),
-  1325 => 
+  1268 => 
   array (
     'id' => 5227,
     'name' => 'Ferntree Gully',
@@ -11935,7 +11422,7 @@ return array (
     'latitude' => -37.88461,
     'longitude' => 145.29539,
   ),
-  1326 => 
+  1269 => 
   array (
     'id' => 5228,
     'name' => 'Fernvale',
@@ -11944,7 +11431,7 @@ return array (
     'latitude' => -27.45475,
     'longitude' => 152.65321,
   ),
-  1327 => 
+  1270 => 
   array (
     'id' => 5229,
     'name' => 'Ferny Creek',
@@ -11953,7 +11440,7 @@ return array (
     'latitude' => -37.88333,
     'longitude' => 145.33333,
   ),
-  1328 => 
+  1271 => 
   array (
     'id' => 5230,
     'name' => 'Ferny Grove',
@@ -11962,7 +11449,7 @@ return array (
     'latitude' => -27.4008,
     'longitude' => 152.93475,
   ),
-  1329 => 
+  1272 => 
   array (
     'id' => 5231,
     'name' => 'Ferny Hills',
@@ -11971,7 +11458,7 @@ return array (
     'latitude' => -27.39594,
     'longitude' => 152.93737,
   ),
-  1330 => 
+  1273 => 
   array (
     'id' => 5232,
     'name' => 'Ferryden Park',
@@ -11980,7 +11467,7 @@ return array (
     'latitude' => -34.86616,
     'longitude' => 138.5618,
   ),
-  1331 => 
+  1274 => 
   array (
     'id' => 5233,
     'name' => 'Fig Tree Pocket',
@@ -11989,7 +11476,7 @@ return array (
     'latitude' => -27.52784,
     'longitude' => 152.9619,
   ),
-  1332 => 
+  1275 => 
   array (
     'id' => 5234,
     'name' => 'Figtree',
@@ -11998,7 +11485,7 @@ return array (
     'latitude' => -34.43556,
     'longitude' => 150.85833,
   ),
-  1333 => 
+  1276 => 
   array (
     'id' => 5235,
     'name' => 'Findon',
@@ -12007,7 +11494,7 @@ return array (
     'latitude' => -34.9,
     'longitude' => 138.53333,
   ),
-  1334 => 
+  1277 => 
   array (
     'id' => 5236,
     'name' => 'Fingal Bay',
@@ -12016,7 +11503,7 @@ return array (
     'latitude' => -32.74969,
     'longitude' => 152.17104,
   ),
-  1335 => 
+  1278 => 
   array (
     'id' => 5237,
     'name' => 'Finley',
@@ -12025,7 +11512,7 @@ return array (
     'latitude' => -35.65498,
     'longitude' => 145.57106,
   ),
-  1336 => 
+  1279 => 
   array (
     'id' => 5238,
     'name' => 'Firle',
@@ -12034,7 +11521,7 @@ return array (
     'latitude' => -34.90459,
     'longitude' => 138.65319,
   ),
-  1337 => 
+  1280 => 
   array (
     'id' => 5239,
     'name' => 'Fisher',
@@ -12043,7 +11530,7 @@ return array (
     'latitude' => -35.36126,
     'longitude' => 149.05704,
   ),
-  1338 => 
+  1281 => 
   array (
     'id' => 5240,
     'name' => 'Fitzgibbon',
@@ -12052,7 +11539,7 @@ return array (
     'latitude' => -27.33971,
     'longitude' => 153.02921,
   ),
-  1339 => 
+  1282 => 
   array (
     'id' => 5241,
     'name' => 'Fitzroy',
@@ -12061,7 +11548,7 @@ return array (
     'latitude' => -37.79839,
     'longitude' => 144.97833,
   ),
-  1340 => 
+  1283 => 
   array (
     'id' => 5242,
     'name' => 'Fitzroy Crossing',
@@ -12070,7 +11557,7 @@ return array (
     'latitude' => -18.19714,
     'longitude' => 125.56663,
   ),
-  1341 => 
+  1284 => 
   array (
     'id' => 5243,
     'name' => 'Fitzroy North',
@@ -12079,7 +11566,7 @@ return array (
     'latitude' => -37.78862,
     'longitude' => 144.97885,
   ),
-  1342 => 
+  1285 => 
   array (
     'id' => 5244,
     'name' => 'Five Dock',
@@ -12088,7 +11575,7 @@ return array (
     'latitude' => -33.8674,
     'longitude' => 151.12905,
   ),
-  1343 => 
+  1286 => 
   array (
     'id' => 5245,
     'name' => 'Flagstaff Hill',
@@ -12097,7 +11584,7 @@ return array (
     'latitude' => -35.04861,
     'longitude' => 138.58285,
   ),
-  1344 => 
+  1287 => 
   array (
     'id' => 5246,
     'name' => 'Flemington',
@@ -12106,7 +11593,7 @@ return array (
     'latitude' => -37.78825,
     'longitude' => 144.93001,
   ),
-  1345 => 
+  1288 => 
   array (
     'id' => 5247,
     'name' => 'Fletcher',
@@ -12115,7 +11602,7 @@ return array (
     'latitude' => -32.87232,
     'longitude' => 151.64008,
   ),
-  1346 => 
+  1289 => 
   array (
     'id' => 5248,
     'name' => 'Flinders',
@@ -12124,25 +11611,7 @@ return array (
     'latitude' => -34.58333,
     'longitude' => 150.85516,
   ),
-  1347 => 
-  array (
-    'id' => 5249,
-    'name' => 'Flinders',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -20.8903,
-    'longitude' => 144.38814,
-  ),
-  1348 => 
-  array (
-    'id' => 5250,
-    'name' => 'Flinders',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -40.03799,
-    'longitude' => 148.13965,
-  ),
-  1349 => 
+  1290 => 
   array (
     'id' => 5251,
     'name' => 'Flinders Park',
@@ -12151,7 +11620,7 @@ return array (
     'latitude' => -34.91026,
     'longitude' => 138.54322,
   ),
-  1350 => 
+  1291 => 
   array (
     'id' => 5252,
     'name' => 'Flinders Ranges',
@@ -12160,7 +11629,7 @@ return array (
     'latitude' => -32.13341,
     'longitude' => 138.33882,
   ),
-  1351 => 
+  1292 => 
   array (
     'id' => 5253,
     'name' => 'Flinders View',
@@ -12169,7 +11638,7 @@ return array (
     'latitude' => -27.65046,
     'longitude' => 152.77451,
   ),
-  1352 => 
+  1293 => 
   array (
     'id' => 5254,
     'name' => 'Flora Hill',
@@ -12178,7 +11647,7 @@ return array (
     'latitude' => -36.78123,
     'longitude' => 144.29562,
   ),
-  1353 => 
+  1294 => 
   array (
     'id' => 5255,
     'name' => 'Floraville',
@@ -12187,7 +11656,7 @@ return array (
     'latitude' => -33.01116,
     'longitude' => 151.6648,
   ),
-  1354 => 
+  1295 => 
   array (
     'id' => 5256,
     'name' => 'Floreat',
@@ -12196,7 +11665,7 @@ return array (
     'latitude' => -31.93862,
     'longitude' => 115.79211,
   ),
-  1355 => 
+  1296 => 
   array (
     'id' => 5257,
     'name' => 'Florey',
@@ -12205,7 +11674,7 @@ return array (
     'latitude' => -35.22588,
     'longitude' => 149.05,
   ),
-  1356 => 
+  1297 => 
   array (
     'id' => 5258,
     'name' => 'Flynn',
@@ -12214,7 +11683,7 @@ return array (
     'latitude' => -35.20593,
     'longitude' => 149.04389,
   ),
-  1357 => 
+  1298 => 
   array (
     'id' => 5259,
     'name' => 'Footscray',
@@ -12223,7 +11692,7 @@ return array (
     'latitude' => -37.8,
     'longitude' => 144.9,
   ),
-  1358 => 
+  1299 => 
   array (
     'id' => 5260,
     'name' => 'Forbes',
@@ -12232,7 +11701,7 @@ return array (
     'latitude' => -33.37898,
     'longitude' => 147.86448,
   ),
-  1359 => 
+  1300 => 
   array (
     'id' => 5261,
     'name' => 'Forde',
@@ -12241,7 +11710,7 @@ return array (
     'latitude' => -35.16823,
     'longitude' => 149.14607,
   ),
-  1360 => 
+  1301 => 
   array (
     'id' => 5262,
     'name' => 'Forest Glen',
@@ -12250,7 +11719,7 @@ return array (
     'latitude' => -26.68864,
     'longitude' => 153.00453,
   ),
-  1361 => 
+  1302 => 
   array (
     'id' => 5263,
     'name' => 'Forest Hill',
@@ -12259,16 +11728,7 @@ return array (
     'latitude' => -35.1481,
     'longitude' => 147.46707,
   ),
-  1362 => 
-  array (
-    'id' => 5264,
-    'name' => 'Forest Hill',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.83333,
-    'longitude' => 145.18333,
-  ),
-  1363 => 
+  1303 => 
   array (
     'id' => 5265,
     'name' => 'Forest Lake',
@@ -12277,7 +11737,7 @@ return array (
     'latitude' => -27.62563,
     'longitude' => 152.96883,
   ),
-  1364 => 
+  1304 => 
   array (
     'id' => 5266,
     'name' => 'Forest Lodge',
@@ -12286,7 +11746,7 @@ return array (
     'latitude' => -33.88137,
     'longitude' => 151.18,
   ),
-  1365 => 
+  1305 => 
   array (
     'id' => 5267,
     'name' => 'Forestdale',
@@ -12295,7 +11755,7 @@ return array (
     'latitude' => -27.66334,
     'longitude' => 153.00383,
   ),
-  1366 => 
+  1306 => 
   array (
     'id' => 5268,
     'name' => 'Forestville',
@@ -12304,16 +11764,7 @@ return array (
     'latitude' => -34.94946,
     'longitude' => 138.57845,
   ),
-  1367 => 
-  array (
-    'id' => 5269,
-    'name' => 'Forestville',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.76667,
-    'longitude' => 151.20833,
-  ),
-  1368 => 
+  1307 => 
   array (
     'id' => 5270,
     'name' => 'Forrest',
@@ -12322,7 +11773,7 @@ return array (
     'latitude' => -35.31499,
     'longitude' => 149.12859,
   ),
-  1369 => 
+  1308 => 
   array (
     'id' => 5271,
     'name' => 'Forrestdale',
@@ -12331,7 +11782,7 @@ return array (
     'latitude' => -32.1552,
     'longitude' => 115.93417,
   ),
-  1370 => 
+  1309 => 
   array (
     'id' => 5272,
     'name' => 'Forresters Beach',
@@ -12340,7 +11791,7 @@ return array (
     'latitude' => -33.407,
     'longitude' => 151.476,
   ),
-  1371 => 
+  1310 => 
   array (
     'id' => 5273,
     'name' => 'Forrestfield',
@@ -12349,7 +11800,7 @@ return array (
     'latitude' => -31.98277,
     'longitude' => 116.00673,
   ),
-  1372 => 
+  1311 => 
   array (
     'id' => 5274,
     'name' => 'Forster',
@@ -12358,7 +11809,7 @@ return array (
     'latitude' => -32.18136,
     'longitude' => 152.51715,
   ),
-  1373 => 
+  1312 => 
   array (
     'id' => 5275,
     'name' => 'Fortitude Valley',
@@ -12367,7 +11818,7 @@ return array (
     'latitude' => -27.45706,
     'longitude' => 153.03178,
   ),
-  1374 => 
+  1313 => 
   array (
     'id' => 5276,
     'name' => 'Foster',
@@ -12376,7 +11827,7 @@ return array (
     'latitude' => -38.65275,
     'longitude' => 146.20073,
   ),
-  1375 => 
+  1314 => 
   array (
     'id' => 5277,
     'name' => 'Franklin',
@@ -12385,16 +11836,7 @@ return array (
     'latitude' => -43.08884,
     'longitude' => 147.00906,
   ),
-  1376 => 
-  array (
-    'id' => 5278,
-    'name' => 'Franklin',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.19946,
-    'longitude' => 149.14329,
-  ),
-  1377 => 
+  1315 => 
   array (
     'id' => 5279,
     'name' => 'Franklin Harbour',
@@ -12403,7 +11845,7 @@ return array (
     'latitude' => -33.60164,
     'longitude' => 136.94148,
   ),
-  1378 => 
+  1316 => 
   array (
     'id' => 5280,
     'name' => 'Frankston',
@@ -12412,7 +11854,7 @@ return array (
     'latitude' => -38.13402,
     'longitude' => 145.16875,
   ),
-  1379 => 
+  1317 => 
   array (
     'id' => 5281,
     'name' => 'Frankston East',
@@ -12421,7 +11863,7 @@ return array (
     'latitude' => -38.13333,
     'longitude' => 145.13333,
   ),
-  1380 => 
+  1318 => 
   array (
     'id' => 5282,
     'name' => 'Frankston North',
@@ -12430,7 +11872,7 @@ return array (
     'latitude' => -38.12352,
     'longitude' => 145.14836,
   ),
-  1381 => 
+  1319 => 
   array (
     'id' => 5283,
     'name' => 'Frankston South',
@@ -12439,7 +11881,7 @@ return array (
     'latitude' => -38.16604,
     'longitude' => 145.13643,
   ),
-  1382 => 
+  1320 => 
   array (
     'id' => 5284,
     'name' => 'Fraser',
@@ -12448,7 +11890,7 @@ return array (
     'latitude' => -35.1917,
     'longitude' => 149.04534,
   ),
-  1383 => 
+  1321 => 
   array (
     'id' => 5285,
     'name' => 'Fraser Coast',
@@ -12457,7 +11899,7 @@ return array (
     'latitude' => -25.34145,
     'longitude' => 152.67024,
   ),
-  1384 => 
+  1322 => 
   array (
     'id' => 5286,
     'name' => 'Frederickton',
@@ -12466,7 +11908,7 @@ return array (
     'latitude' => -31.03749,
     'longitude' => 152.8753,
   ),
-  1385 => 
+  1323 => 
   array (
     'id' => 5287,
     'name' => 'Freeling',
@@ -12475,7 +11917,7 @@ return array (
     'latitude' => -34.45407,
     'longitude' => 138.80868,
   ),
-  1386 => 
+  1324 => 
   array (
     'id' => 5288,
     'name' => 'Freemans Reach',
@@ -12484,7 +11926,7 @@ return array (
     'latitude' => -33.55794,
     'longitude' => 150.79553,
   ),
-  1387 => 
+  1325 => 
   array (
     'id' => 5289,
     'name' => 'Fremantle',
@@ -12493,7 +11935,7 @@ return array (
     'latitude' => -32.05165,
     'longitude' => 115.76379,
   ),
-  1388 => 
+  1326 => 
   array (
     'id' => 5290,
     'name' => 'Frenchs Forest',
@@ -12502,7 +11944,7 @@ return array (
     'latitude' => -33.74821,
     'longitude' => 151.22322,
   ),
-  1389 => 
+  1327 => 
   array (
     'id' => 5291,
     'name' => 'Frenchville',
@@ -12511,7 +11953,7 @@ return array (
     'latitude' => -23.34761,
     'longitude' => 150.5445,
   ),
-  1390 => 
+  1328 => 
   array (
     'id' => 5292,
     'name' => 'Freshwater',
@@ -12520,16 +11962,7 @@ return array (
     'latitude' => -33.77867,
     'longitude' => 151.28569,
   ),
-  1391 => 
-  array (
-    'id' => 5293,
-    'name' => 'Freshwater',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -16.88333,
-    'longitude' => 145.71667,
-  ),
-  1392 => 
+  1329 => 
   array (
     'id' => 5294,
     'name' => 'Fulham',
@@ -12538,7 +11971,7 @@ return array (
     'latitude' => -34.92737,
     'longitude' => 138.51368,
   ),
-  1393 => 
+  1330 => 
   array (
     'id' => 5295,
     'name' => 'Fulham Gardens',
@@ -12547,7 +11980,7 @@ return array (
     'latitude' => -34.91483,
     'longitude' => 138.51324,
   ),
-  1394 => 
+  1331 => 
   array (
     'id' => 5296,
     'name' => 'Fullarton',
@@ -12556,7 +11989,7 @@ return array (
     'latitude' => -34.951,
     'longitude' => 138.629,
   ),
-  1395 => 
+  1332 => 
   array (
     'id' => 5297,
     'name' => 'Gagebrook',
@@ -12565,7 +11998,7 @@ return array (
     'latitude' => -42.7477,
     'longitude' => 147.26984,
   ),
-  1396 => 
+  1333 => 
   array (
     'id' => 5298,
     'name' => 'Gailes',
@@ -12574,7 +12007,7 @@ return array (
     'latitude' => -27.61133,
     'longitude' => 152.9132,
   ),
-  1397 => 
+  1334 => 
   array (
     'id' => 5299,
     'name' => 'Galiwinku',
@@ -12583,7 +12016,7 @@ return array (
     'latitude' => -12.02811,
     'longitude' => 135.56486,
   ),
-  1398 => 
+  1335 => 
   array (
     'id' => 5300,
     'name' => 'Galston',
@@ -12592,7 +12025,7 @@ return array (
     'latitude' => -33.65297,
     'longitude' => 151.04713,
   ),
-  1399 => 
+  1336 => 
   array (
     'id' => 5301,
     'name' => 'Gannawarra',
@@ -12601,7 +12034,7 @@ return array (
     'latitude' => -35.73211,
     'longitude' => 143.85316,
   ),
-  1400 => 
+  1337 => 
   array (
     'id' => 5302,
     'name' => 'Garbutt',
@@ -12610,7 +12043,7 @@ return array (
     'latitude' => -19.26602,
     'longitude' => 146.78224,
   ),
-  1401 => 
+  1338 => 
   array (
     'id' => 5303,
     'name' => 'Garden Island',
@@ -12619,7 +12052,7 @@ return array (
     'latitude' => -32.24264,
     'longitude' => 115.69505,
   ),
-  1402 => 
+  1339 => 
   array (
     'id' => 5304,
     'name' => 'Garden Suburb',
@@ -12628,7 +12061,7 @@ return array (
     'latitude' => -32.94368,
     'longitude' => 151.68085,
   ),
-  1403 => 
+  1340 => 
   array (
     'id' => 5305,
     'name' => 'Garfield',
@@ -12637,7 +12070,7 @@ return array (
     'latitude' => -38.08985,
     'longitude' => 145.67502,
   ),
-  1404 => 
+  1341 => 
   array (
     'id' => 5306,
     'name' => 'Garran',
@@ -12646,7 +12079,7 @@ return array (
     'latitude' => -35.34206,
     'longitude' => 149.10846,
   ),
-  1405 => 
+  1342 => 
   array (
     'id' => 5307,
     'name' => 'Gateshead',
@@ -12655,7 +12088,7 @@ return array (
     'latitude' => -32.98208,
     'longitude' => 151.69188,
   ),
-  1406 => 
+  1343 => 
   array (
     'id' => 5308,
     'name' => 'Gatton',
@@ -12664,7 +12097,7 @@ return array (
     'latitude' => -27.55873,
     'longitude' => 152.27618,
   ),
-  1407 => 
+  1344 => 
   array (
     'id' => 5309,
     'name' => 'Gaven',
@@ -12673,7 +12106,7 @@ return array (
     'latitude' => -27.95651,
     'longitude' => 153.33453,
   ),
-  1408 => 
+  1345 => 
   array (
     'id' => 5310,
     'name' => 'Gawler',
@@ -12682,7 +12115,7 @@ return array (
     'latitude' => -34.62109,
     'longitude' => 138.73228,
   ),
-  1409 => 
+  1346 => 
   array (
     'id' => 5311,
     'name' => 'Gawler East',
@@ -12691,7 +12124,7 @@ return array (
     'latitude' => -34.59889,
     'longitude' => 138.7632,
   ),
-  1410 => 
+  1347 => 
   array (
     'id' => 5312,
     'name' => 'Gawler South',
@@ -12700,7 +12133,7 @@ return array (
     'latitude' => -34.60712,
     'longitude' => 138.74445,
   ),
-  1411 => 
+  1348 => 
   array (
     'id' => 5313,
     'name' => 'Gayndah',
@@ -12709,7 +12142,7 @@ return array (
     'latitude' => -25.62522,
     'longitude' => 151.61144,
   ),
-  1412 => 
+  1349 => 
   array (
     'id' => 5314,
     'name' => 'Gaythorne',
@@ -12718,7 +12151,7 @@ return array (
     'latitude' => -27.41667,
     'longitude' => 152.98333,
   ),
-  1413 => 
+  1350 => 
   array (
     'id' => 5315,
     'name' => 'Geebung',
@@ -12727,7 +12160,7 @@ return array (
     'latitude' => -27.37246,
     'longitude' => 153.04712,
   ),
-  1414 => 
+  1351 => 
   array (
     'id' => 5316,
     'name' => 'Geelong',
@@ -12736,7 +12169,7 @@ return array (
     'latitude' => -38.14711,
     'longitude' => 144.36069,
   ),
-  1415 => 
+  1352 => 
   array (
     'id' => 5317,
     'name' => 'Geelong West',
@@ -12745,7 +12178,7 @@ return array (
     'latitude' => -38.13888,
     'longitude' => 144.34842,
   ),
-  1416 => 
+  1353 => 
   array (
     'id' => 5318,
     'name' => 'Geelong city centre',
@@ -12754,7 +12187,7 @@ return array (
     'latitude' => -38.14996,
     'longitude' => 144.36176,
   ),
-  1417 => 
+  1354 => 
   array (
     'id' => 5319,
     'name' => 'Geeveston',
@@ -12763,7 +12196,7 @@ return array (
     'latitude' => -43.16337,
     'longitude' => 146.92549,
   ),
-  1418 => 
+  1355 => 
   array (
     'id' => 5320,
     'name' => 'Geilston Bay',
@@ -12772,7 +12205,7 @@ return array (
     'latitude' => -42.82955,
     'longitude' => 147.3463,
   ),
-  1419 => 
+  1356 => 
   array (
     'id' => 5321,
     'name' => 'Gelorup',
@@ -12781,7 +12214,7 @@ return array (
     'latitude' => -33.42425,
     'longitude' => 115.64094,
   ),
-  1420 => 
+  1357 => 
   array (
     'id' => 5322,
     'name' => 'Gembrook',
@@ -12790,7 +12223,7 @@ return array (
     'latitude' => -37.95321,
     'longitude' => 145.55536,
   ),
-  1421 => 
+  1358 => 
   array (
     'id' => 5323,
     'name' => 'Geographe',
@@ -12799,7 +12232,7 @@ return array (
     'latitude' => -33.63974,
     'longitude' => 115.38358,
   ),
-  1422 => 
+  1359 => 
   array (
     'id' => 5324,
     'name' => 'George Town',
@@ -12808,7 +12241,7 @@ return array (
     'latitude' => -41.11982,
     'longitude' => 147.01731,
   ),
-  1423 => 
+  1360 => 
   array (
     'id' => 5325,
     'name' => 'Georges Hall',
@@ -12817,7 +12250,7 @@ return array (
     'latitude' => -33.90879,
     'longitude' => 150.98852,
   ),
-  1424 => 
+  1361 => 
   array (
     'id' => 5326,
     'name' => 'Georgetown',
@@ -12826,7 +12259,7 @@ return array (
     'latitude' => -32.9081,
     'longitude' => 151.73119,
   ),
-  1425 => 
+  1362 => 
   array (
     'id' => 5327,
     'name' => 'Geraldton',
@@ -12835,7 +12268,7 @@ return array (
     'latitude' => -28.77897,
     'longitude' => 114.61459,
   ),
-  1426 => 
+  1363 => 
   array (
     'id' => 5328,
     'name' => 'Geraldton city centre',
@@ -12844,7 +12277,7 @@ return array (
     'latitude' => -28.77754,
     'longitude' => 114.61494,
   ),
-  1427 => 
+  1364 => 
   array (
     'id' => 5329,
     'name' => 'Gerringong',
@@ -12853,7 +12286,7 @@ return array (
     'latitude' => -34.74702,
     'longitude' => 150.82809,
   ),
-  1428 => 
+  1365 => 
   array (
     'id' => 5330,
     'name' => 'Gidgegannup',
@@ -12862,7 +12295,7 @@ return array (
     'latitude' => -31.75441,
     'longitude' => 116.18746,
   ),
-  1429 => 
+  1366 => 
   array (
     'id' => 5331,
     'name' => 'Gilberton',
@@ -12871,7 +12304,7 @@ return array (
     'latitude' => -34.90051,
     'longitude' => 138.6126,
   ),
-  1430 => 
+  1367 => 
   array (
     'id' => 5332,
     'name' => 'Gilgandra',
@@ -12880,7 +12313,7 @@ return array (
     'latitude' => -31.63297,
     'longitude' => 148.70354,
   ),
-  1431 => 
+  1368 => 
   array (
     'id' => 5333,
     'name' => 'Gillen',
@@ -12889,7 +12322,7 @@ return array (
     'latitude' => -23.70915,
     'longitude' => 133.86596,
   ),
-  1432 => 
+  1369 => 
   array (
     'id' => 5334,
     'name' => 'Gilles Plains',
@@ -12898,7 +12331,7 @@ return array (
     'latitude' => -34.85,
     'longitude' => 138.65,
   ),
-  1433 => 
+  1370 => 
   array (
     'id' => 5335,
     'name' => 'Gillieston Heights',
@@ -12907,7 +12340,7 @@ return array (
     'latitude' => -32.76164,
     'longitude' => 151.52863,
   ),
-  1434 => 
+  1371 => 
   array (
     'id' => 5336,
     'name' => 'Gilmore',
@@ -12916,7 +12349,7 @@ return array (
     'latitude' => -35.41994,
     'longitude' => 149.13481,
   ),
-  1435 => 
+  1372 => 
   array (
     'id' => 5337,
     'name' => 'Gilston',
@@ -12925,7 +12358,7 @@ return array (
     'latitude' => -28.03333,
     'longitude' => 153.3,
   ),
-  1436 => 
+  1373 => 
   array (
     'id' => 5338,
     'name' => 'Gin Gin',
@@ -12934,7 +12367,7 @@ return array (
     'latitude' => -24.99363,
     'longitude' => 151.95808,
   ),
-  1437 => 
+  1374 => 
   array (
     'id' => 5339,
     'name' => 'Gingin',
@@ -12943,7 +12376,7 @@ return array (
     'latitude' => -31.18435,
     'longitude' => 115.65944,
   ),
-  1438 => 
+  1375 => 
   array (
     'id' => 5340,
     'name' => 'Giralang',
@@ -12952,7 +12385,7 @@ return array (
     'latitude' => -35.21093,
     'longitude' => 149.096,
   ),
-  1439 => 
+  1376 => 
   array (
     'id' => 5341,
     'name' => 'Girards Hill',
@@ -12961,7 +12394,7 @@ return array (
     'latitude' => -28.81693,
     'longitude' => 153.27786,
   ),
-  1440 => 
+  1377 => 
   array (
     'id' => 5342,
     'name' => 'Girraween',
@@ -12970,16 +12403,7 @@ return array (
     'latitude' => -33.799,
     'longitude' => 150.943,
   ),
-  1441 => 
-  array (
-    'id' => 5343,
-    'name' => 'Girraween',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -12.52528,
-    'longitude' => 131.09566,
-  ),
-  1442 => 
+  1378 => 
   array (
     'id' => 5344,
     'name' => 'Girrawheen',
@@ -12988,7 +12412,7 @@ return array (
     'latitude' => -31.84103,
     'longitude' => 115.83978,
   ),
-  1443 => 
+  1379 => 
   array (
     'id' => 5345,
     'name' => 'Gisborne',
@@ -12997,7 +12421,7 @@ return array (
     'latitude' => -37.48858,
     'longitude' => 144.59421,
   ),
-  1444 => 
+  1380 => 
   array (
     'id' => 5346,
     'name' => 'Gladesville',
@@ -13006,7 +12430,7 @@ return array (
     'latitude' => -33.83333,
     'longitude' => 151.13333,
   ),
-  1445 => 
+  1381 => 
   array (
     'id' => 5347,
     'name' => 'Gladstone',
@@ -13015,7 +12439,7 @@ return array (
     'latitude' => -24.01869,
     'longitude' => 151.65818,
   ),
-  1446 => 
+  1382 => 
   array (
     'id' => 5348,
     'name' => 'Gladstone Central',
@@ -13024,7 +12448,7 @@ return array (
     'latitude' => -23.84281,
     'longitude' => 151.24887,
   ),
-  1447 => 
+  1383 => 
   array (
     'id' => 5349,
     'name' => 'Gladstone Park',
@@ -13033,7 +12457,7 @@ return array (
     'latitude' => -37.68742,
     'longitude' => 144.88675,
   ),
-  1448 => 
+  1384 => 
   array (
     'id' => 5350,
     'name' => 'Glamorgan/Spring Bay',
@@ -13042,7 +12466,7 @@ return array (
     'latitude' => -42.27832,
     'longitude' => 147.96675,
   ),
-  1449 => 
+  1385 => 
   array (
     'id' => 5351,
     'name' => 'Glandore',
@@ -13051,7 +12475,7 @@ return array (
     'latitude' => -34.96154,
     'longitude' => 138.56832,
   ),
-  1450 => 
+  1386 => 
   array (
     'id' => 5352,
     'name' => 'Glass House Mountains',
@@ -13060,7 +12484,7 @@ return array (
     'latitude' => -26.89758,
     'longitude' => 152.95319,
   ),
-  1451 => 
+  1387 => 
   array (
     'id' => 5353,
     'name' => 'Glebe',
@@ -13069,7 +12493,7 @@ return array (
     'latitude' => -33.87884,
     'longitude' => 151.18426,
   ),
-  1452 => 
+  1388 => 
   array (
     'id' => 5354,
     'name' => 'Glen Alpine',
@@ -13078,7 +12502,7 @@ return array (
     'latitude' => -34.086,
     'longitude' => 150.78512,
   ),
-  1453 => 
+  1389 => 
   array (
     'id' => 5355,
     'name' => 'Glen Eden',
@@ -13087,7 +12511,7 @@ return array (
     'latitude' => -23.89738,
     'longitude' => 151.27133,
   ),
-  1454 => 
+  1390 => 
   array (
     'id' => 5356,
     'name' => 'Glen Eira',
@@ -13096,7 +12520,7 @@ return array (
     'latitude' => -37.89949,
     'longitude' => 145.04099,
   ),
-  1455 => 
+  1391 => 
   array (
     'id' => 5357,
     'name' => 'Glen Forrest',
@@ -13105,7 +12529,7 @@ return array (
     'latitude' => -31.91929,
     'longitude' => 116.10726,
   ),
-  1456 => 
+  1392 => 
   array (
     'id' => 5358,
     'name' => 'Glen Huntly',
@@ -13114,7 +12538,7 @@ return array (
     'latitude' => -37.89237,
     'longitude' => 145.04135,
   ),
-  1457 => 
+  1393 => 
   array (
     'id' => 5359,
     'name' => 'Glen Innes',
@@ -13123,7 +12547,7 @@ return array (
     'latitude' => -29.73485,
     'longitude' => 151.7385,
   ),
-  1458 => 
+  1394 => 
   array (
     'id' => 5360,
     'name' => 'Glen Innes Severn',
@@ -13132,7 +12556,7 @@ return array (
     'latitude' => -29.63116,
     'longitude' => 151.93957,
   ),
-  1459 => 
+  1395 => 
   array (
     'id' => 5361,
     'name' => 'Glen Iris',
@@ -13141,16 +12565,7 @@ return array (
     'latitude' => -33.33713,
     'longitude' => 115.6743,
   ),
-  1460 => 
-  array (
-    'id' => 5362,
-    'name' => 'Glen Iris',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.86667,
-    'longitude' => 145.06667,
-  ),
-  1461 => 
+  1396 => 
   array (
     'id' => 5363,
     'name' => 'Glen Osmond',
@@ -13159,7 +12574,7 @@ return array (
     'latitude' => -34.9596,
     'longitude' => 138.64873,
   ),
-  1462 => 
+  1397 => 
   array (
     'id' => 5364,
     'name' => 'Glen Waverley',
@@ -13168,7 +12583,7 @@ return array (
     'latitude' => -37.87811,
     'longitude' => 145.16476,
   ),
-  1463 => 
+  1398 => 
   array (
     'id' => 5365,
     'name' => 'Glenalta',
@@ -13177,7 +12592,7 @@ return array (
     'latitude' => -35.00792,
     'longitude' => 138.62592,
   ),
-  1464 => 
+  1399 => 
   array (
     'id' => 5366,
     'name' => 'Glenbrook',
@@ -13186,7 +12601,7 @@ return array (
     'latitude' => -33.76667,
     'longitude' => 150.61667,
   ),
-  1465 => 
+  1400 => 
   array (
     'id' => 5367,
     'name' => 'Glendale',
@@ -13195,7 +12610,7 @@ return array (
     'latitude' => -32.93194,
     'longitude' => 151.64103,
   ),
-  1466 => 
+  1401 => 
   array (
     'id' => 5368,
     'name' => 'Glendalough',
@@ -13204,7 +12619,7 @@ return array (
     'latitude' => -31.91991,
     'longitude' => 115.81945,
   ),
-  1467 => 
+  1402 => 
   array (
     'id' => 5369,
     'name' => 'Glendenning',
@@ -13213,7 +12628,7 @@ return array (
     'latitude' => -33.7483,
     'longitude' => 150.85411,
   ),
-  1468 => 
+  1403 => 
   array (
     'id' => 5370,
     'name' => 'Gleneagle',
@@ -13222,7 +12637,7 @@ return array (
     'latitude' => -27.93333,
     'longitude' => 152.98333,
   ),
-  1469 => 
+  1404 => 
   array (
     'id' => 5371,
     'name' => 'Glenelg',
@@ -13231,16 +12646,7 @@ return array (
     'latitude' => -34.98079,
     'longitude' => 138.515,
   ),
-  1470 => 
-  array (
-    'id' => 5372,
-    'name' => 'Glenelg',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.89083,
-    'longitude' => 141.44238,
-  ),
-  1471 => 
+  1405 => 
   array (
     'id' => 5373,
     'name' => 'Glenelg East',
@@ -13249,7 +12655,7 @@ return array (
     'latitude' => -34.9764,
     'longitude' => 138.52962,
   ),
-  1472 => 
+  1406 => 
   array (
     'id' => 5374,
     'name' => 'Glenelg North',
@@ -13258,7 +12664,7 @@ return array (
     'latitude' => -34.9679,
     'longitude' => 138.51751,
   ),
-  1473 => 
+  1407 => 
   array (
     'id' => 5375,
     'name' => 'Glenelg South',
@@ -13267,7 +12673,7 @@ return array (
     'latitude' => -34.98964,
     'longitude' => 138.51425,
   ),
-  1474 => 
+  1408 => 
   array (
     'id' => 5376,
     'name' => 'Glenella',
@@ -13276,7 +12682,7 @@ return array (
     'latitude' => -21.11768,
     'longitude' => 149.14453,
   ),
-  1475 => 
+  1409 => 
   array (
     'id' => 5377,
     'name' => 'Glenferrie',
@@ -13285,7 +12691,7 @@ return array (
     'latitude' => -37.83333,
     'longitude' => 145.05,
   ),
-  1476 => 
+  1410 => 
   array (
     'id' => 5378,
     'name' => 'Glenfield',
@@ -13294,7 +12700,7 @@ return array (
     'latitude' => -33.96667,
     'longitude' => 150.9,
   ),
-  1477 => 
+  1411 => 
   array (
     'id' => 5379,
     'name' => 'Glenfield Park',
@@ -13303,7 +12709,7 @@ return array (
     'latitude' => -35.13725,
     'longitude' => 147.33285,
   ),
-  1478 => 
+  1412 => 
   array (
     'id' => 5380,
     'name' => 'Glengarry',
@@ -13312,7 +12718,7 @@ return array (
     'latitude' => -38.11667,
     'longitude' => 146.56667,
   ),
-  1479 => 
+  1413 => 
   array (
     'id' => 5381,
     'name' => 'Glengowrie',
@@ -13321,7 +12727,7 @@ return array (
     'latitude' => -34.98708,
     'longitude' => 138.53674,
   ),
-  1480 => 
+  1414 => 
   array (
     'id' => 5382,
     'name' => 'Glenhaven',
@@ -13330,7 +12736,7 @@ return array (
     'latitude' => -33.7,
     'longitude' => 151.0,
   ),
-  1481 => 
+  1415 => 
   array (
     'id' => 5383,
     'name' => 'Glenmore Park',
@@ -13339,7 +12745,7 @@ return array (
     'latitude' => -33.79068,
     'longitude' => 150.6693,
   ),
-  1482 => 
+  1416 => 
   array (
     'id' => 5384,
     'name' => 'Glenning Valley',
@@ -13348,7 +12754,7 @@ return array (
     'latitude' => -33.35369,
     'longitude' => 151.42623,
   ),
-  1483 => 
+  1417 => 
   array (
     'id' => 5385,
     'name' => 'Glenorchy',
@@ -13357,7 +12763,7 @@ return array (
     'latitude' => -42.83188,
     'longitude' => 147.22954,
   ),
-  1484 => 
+  1418 => 
   array (
     'id' => 5386,
     'name' => 'Glenorie',
@@ -13366,7 +12772,7 @@ return array (
     'latitude' => -33.60177,
     'longitude' => 151.00886,
   ),
-  1485 => 
+  1419 => 
   array (
     'id' => 5387,
     'name' => 'Glenroy',
@@ -13375,16 +12781,7 @@ return array (
     'latitude' => -37.7,
     'longitude' => 144.93333,
   ),
-  1486 => 
-  array (
-    'id' => 5388,
-    'name' => 'Glenroy',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -36.05021,
-    'longitude' => 146.91058,
-  ),
-  1487 => 
+  1420 => 
   array (
     'id' => 5389,
     'name' => 'Glenside',
@@ -13393,7 +12790,7 @@ return array (
     'latitude' => -34.94275,
     'longitude' => 138.63375,
   ),
-  1488 => 
+  1421 => 
   array (
     'id' => 5390,
     'name' => 'Glenunga',
@@ -13402,7 +12799,7 @@ return array (
     'latitude' => -34.95013,
     'longitude' => 138.63841,
   ),
-  1489 => 
+  1422 => 
   array (
     'id' => 5391,
     'name' => 'Glenvale',
@@ -13411,7 +12808,7 @@ return array (
     'latitude' => -27.56818,
     'longitude' => 151.8934,
   ),
-  1490 => 
+  1423 => 
   array (
     'id' => 5392,
     'name' => 'Glenview',
@@ -13420,7 +12817,7 @@ return array (
     'latitude' => -26.76667,
     'longitude' => 153.01667,
   ),
-  1491 => 
+  1424 => 
   array (
     'id' => 5393,
     'name' => 'Glenwood',
@@ -13429,7 +12826,7 @@ return array (
     'latitude' => -33.73333,
     'longitude' => 150.93284,
   ),
-  1492 => 
+  1425 => 
   array (
     'id' => 5394,
     'name' => 'Glossodia',
@@ -13438,7 +12835,7 @@ return array (
     'latitude' => -33.53618,
     'longitude' => 150.7739,
   ),
-  1493 => 
+  1426 => 
   array (
     'id' => 5395,
     'name' => 'Gloucester',
@@ -13447,7 +12844,7 @@ return array (
     'latitude' => -32.0077,
     'longitude' => 151.9633,
   ),
-  1494 => 
+  1427 => 
   array (
     'id' => 5396,
     'name' => 'Glynde',
@@ -13456,7 +12853,7 @@ return array (
     'latitude' => -34.89605,
     'longitude' => 138.65253,
   ),
-  1495 => 
+  1428 => 
   array (
     'id' => 5397,
     'name' => 'Gnangara',
@@ -13465,7 +12862,7 @@ return array (
     'latitude' => -31.77612,
     'longitude' => 115.86623,
   ),
-  1496 => 
+  1429 => 
   array (
     'id' => 5398,
     'name' => 'Gnowangerup',
@@ -13474,7 +12871,7 @@ return array (
     'latitude' => -34.08658,
     'longitude' => 118.29832,
   ),
-  1497 => 
+  1430 => 
   array (
     'id' => 5399,
     'name' => 'Gol Gol',
@@ -13483,7 +12880,7 @@ return array (
     'latitude' => -34.17388,
     'longitude' => 142.22187,
   ),
-  1498 => 
+  1431 => 
   array (
     'id' => 5400,
     'name' => 'Gold Coast',
@@ -13492,7 +12889,7 @@ return array (
     'latitude' => -28.00029,
     'longitude' => 153.43088,
   ),
-  1499 => 
+  1432 => 
   array (
     'id' => 5401,
     'name' => 'Golden Bay',
@@ -13501,7 +12898,7 @@ return array (
     'latitude' => -32.42505,
     'longitude' => 115.76099,
   ),
-  1500 => 
+  1433 => 
   array (
     'id' => 5402,
     'name' => 'Golden Beach',
@@ -13510,7 +12907,7 @@ return array (
     'latitude' => -26.82177,
     'longitude' => 153.11972,
   ),
-  1501 => 
+  1434 => 
   array (
     'id' => 5403,
     'name' => 'Golden Grove',
@@ -13519,7 +12916,7 @@ return array (
     'latitude' => -34.78333,
     'longitude' => 138.73333,
   ),
-  1502 => 
+  1435 => 
   array (
     'id' => 5404,
     'name' => 'Golden Plains',
@@ -13528,7 +12925,7 @@ return array (
     'latitude' => -37.85231,
     'longitude' => 143.86352,
   ),
-  1503 => 
+  1436 => 
   array (
     'id' => 5405,
     'name' => 'Golden Point',
@@ -13537,7 +12934,7 @@ return array (
     'latitude' => -37.57493,
     'longitude' => 143.8687,
   ),
-  1504 => 
+  1437 => 
   array (
     'id' => 5406,
     'name' => 'Golden Square',
@@ -13546,7 +12943,7 @@ return array (
     'latitude' => -36.77265,
     'longitude' => 144.25271,
   ),
-  1505 => 
+  1438 => 
   array (
     'id' => 5407,
     'name' => 'Gooburrum',
@@ -13555,7 +12952,7 @@ return array (
     'latitude' => -24.82312,
     'longitude' => 152.33154,
   ),
-  1506 => 
+  1439 => 
   array (
     'id' => 5408,
     'name' => 'Goodna',
@@ -13564,7 +12961,7 @@ return array (
     'latitude' => -27.61046,
     'longitude' => 152.89896,
   ),
-  1507 => 
+  1440 => 
   array (
     'id' => 5409,
     'name' => 'Goodwood',
@@ -13573,16 +12970,7 @@ return array (
     'latitude' => -42.82822,
     'longitude' => 147.29301,
   ),
-  1508 => 
-  array (
-    'id' => 5410,
-    'name' => 'Goodwood',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.95092,
-    'longitude' => 138.5923,
-  ),
-  1509 => 
+  1441 => 
   array (
     'id' => 5411,
     'name' => 'Googong',
@@ -13591,7 +12979,7 @@ return array (
     'latitude' => -35.43873,
     'longitude' => 149.2131,
   ),
-  1510 => 
+  1442 => 
   array (
     'id' => 5412,
     'name' => 'Goolwa',
@@ -13600,7 +12988,7 @@ return array (
     'latitude' => -35.50159,
     'longitude' => 138.78191,
   ),
-  1511 => 
+  1443 => 
   array (
     'id' => 5413,
     'name' => 'Goolwa Beach',
@@ -13609,7 +12997,7 @@ return array (
     'latitude' => -35.50474,
     'longitude' => 138.7732,
   ),
-  1512 => 
+  1444 => 
   array (
     'id' => 5414,
     'name' => 'Goomalling',
@@ -13618,7 +13006,7 @@ return array (
     'latitude' => -31.23457,
     'longitude' => 116.79142,
   ),
-  1513 => 
+  1445 => 
   array (
     'id' => 5415,
     'name' => 'Goondiwindi',
@@ -13627,7 +13015,7 @@ return array (
     'latitude' => -28.46221,
     'longitude' => 150.31345,
   ),
-  1514 => 
+  1446 => 
   array (
     'id' => 5416,
     'name' => 'Goonellabah',
@@ -13636,7 +13024,7 @@ return array (
     'latitude' => -28.81667,
     'longitude' => 153.31667,
   ),
-  1515 => 
+  1447 => 
   array (
     'id' => 5417,
     'name' => 'Gooseberry Hill',
@@ -13645,7 +13033,7 @@ return array (
     'latitude' => -31.95444,
     'longitude' => 116.0492,
   ),
-  1516 => 
+  1448 => 
   array (
     'id' => 5418,
     'name' => 'Gordon',
@@ -13654,25 +13042,7 @@ return array (
     'latitude' => -33.75535,
     'longitude' => 151.15115,
   ),
-  1517 => 
-  array (
-    'id' => 5419,
-    'name' => 'Gordon',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.5823,
-    'longitude' => 144.10925,
-  ),
-  1518 => 
-  array (
-    'id' => 5420,
-    'name' => 'Gordon',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.45676,
-    'longitude' => 149.08498,
-  ),
-  1519 => 
+  1449 => 
   array (
     'id' => 5421,
     'name' => 'Gordon Park',
@@ -13681,7 +13051,7 @@ return array (
     'latitude' => -27.41899,
     'longitude' => 153.02547,
   ),
-  1520 => 
+  1450 => 
   array (
     'id' => 5422,
     'name' => 'Gordonvale',
@@ -13690,7 +13060,7 @@ return array (
     'latitude' => -17.09959,
     'longitude' => 145.78038,
   ),
-  1521 => 
+  1451 => 
   array (
     'id' => 5423,
     'name' => 'Gorokan',
@@ -13699,7 +13069,7 @@ return array (
     'latitude' => -33.25764,
     'longitude' => 151.5097,
   ),
-  1522 => 
+  1452 => 
   array (
     'id' => 5424,
     'name' => 'Gosford',
@@ -13708,7 +13078,7 @@ return array (
     'latitude' => -33.4244,
     'longitude' => 151.34399,
   ),
-  1523 => 
+  1453 => 
   array (
     'id' => 5425,
     'name' => 'Gosnells',
@@ -13717,7 +13087,7 @@ return array (
     'latitude' => -32.06763,
     'longitude' => 116.00203,
   ),
-  1524 => 
+  1454 => 
   array (
     'id' => 5426,
     'name' => 'Goulburn',
@@ -13726,7 +13096,7 @@ return array (
     'latitude' => -34.75155,
     'longitude' => 149.72086,
   ),
-  1525 => 
+  1455 => 
   array (
     'id' => 5427,
     'name' => 'Goulburn Mulwaree',
@@ -13735,7 +13105,7 @@ return array (
     'latitude' => -34.9025,
     'longitude' => 149.902,
   ),
-  1526 => 
+  1456 => 
   array (
     'id' => 5428,
     'name' => 'Gowanbrae',
@@ -13744,7 +13114,7 @@ return array (
     'latitude' => -37.70823,
     'longitude' => 144.89079,
   ),
-  1527 => 
+  1457 => 
   array (
     'id' => 5429,
     'name' => 'Gowrie',
@@ -13753,7 +13123,7 @@ return array (
     'latitude' => -35.41187,
     'longitude' => 149.10903,
   ),
-  1528 => 
+  1458 => 
   array (
     'id' => 5430,
     'name' => 'Gowrie Junction',
@@ -13762,7 +13132,7 @@ return array (
     'latitude' => -27.48333,
     'longitude' => 151.88333,
   ),
-  1529 => 
+  1459 => 
   array (
     'id' => 5431,
     'name' => 'Goyder',
@@ -13771,7 +13141,7 @@ return array (
     'latitude' => -33.7164,
     'longitude' => 139.01655,
   ),
-  1530 => 
+  1460 => 
   array (
     'id' => 5432,
     'name' => 'Gracemere',
@@ -13780,7 +13150,7 @@ return array (
     'latitude' => -23.43792,
     'longitude' => 150.45749,
   ),
-  1531 => 
+  1461 => 
   array (
     'id' => 5433,
     'name' => 'Graceville',
@@ -13789,7 +13159,7 @@ return array (
     'latitude' => -27.52201,
     'longitude' => 152.98222,
   ),
-  1532 => 
+  1462 => 
   array (
     'id' => 5434,
     'name' => 'Grafton',
@@ -13798,7 +13168,7 @@ return array (
     'latitude' => -29.68104,
     'longitude' => 152.93394,
   ),
-  1533 => 
+  1463 => 
   array (
     'id' => 5435,
     'name' => 'Grange',
@@ -13807,16 +13177,7 @@ return array (
     'latitude' => -34.90223,
     'longitude' => 138.49022,
   ),
-  1534 => 
-  array (
-    'id' => 5436,
-    'name' => 'Grange',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.42251,
-    'longitude' => 153.01527,
-  ),
-  1535 => 
+  1464 => 
   array (
     'id' => 5437,
     'name' => 'Grant',
@@ -13825,7 +13186,7 @@ return array (
     'latitude' => -37.83642,
     'longitude' => 140.63316,
   ),
-  1536 => 
+  1465 => 
   array (
     'id' => 5438,
     'name' => 'Granton',
@@ -13834,7 +13195,7 @@ return array (
     'latitude' => -42.75149,
     'longitude' => 147.22795,
   ),
-  1537 => 
+  1466 => 
   array (
     'id' => 5439,
     'name' => 'Granville',
@@ -13843,16 +13204,7 @@ return array (
     'latitude' => -33.8406,
     'longitude' => 151.00748,
   ),
-  1538 => 
-  array (
-    'id' => 5440,
-    'name' => 'Granville',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -25.54486,
-    'longitude' => 152.73346,
-  ),
-  1539 => 
+  1467 => 
   array (
     'id' => 5441,
     'name' => 'Grasmere',
@@ -13861,16 +13213,7 @@ return array (
     'latitude' => -35.01806,
     'longitude' => 117.75556,
   ),
-  1540 => 
-  array (
-    'id' => 5442,
-    'name' => 'Grasmere',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.05392,
-    'longitude' => 150.66602,
-  ),
-  1541 => 
+  1468 => 
   array (
     'id' => 5443,
     'name' => 'Gray',
@@ -13879,7 +13222,7 @@ return array (
     'latitude' => -12.49036,
     'longitude' => 130.98228,
   ),
-  1542 => 
+  1469 => 
   array (
     'id' => 5444,
     'name' => 'Grays Point',
@@ -13888,7 +13231,7 @@ return array (
     'latitude' => -34.05873,
     'longitude' => 151.08604,
   ),
-  1543 => 
+  1470 => 
   array (
     'id' => 5445,
     'name' => 'Greater Bendigo',
@@ -13897,7 +13240,7 @@ return array (
     'latitude' => -36.72278,
     'longitude' => 144.43974,
   ),
-  1544 => 
+  1471 => 
   array (
     'id' => 5446,
     'name' => 'Greater Dandenong',
@@ -13906,7 +13249,7 @@ return array (
     'latitude' => -38.00112,
     'longitude' => 145.19073,
   ),
-  1545 => 
+  1472 => 
   array (
     'id' => 5447,
     'name' => 'Greater Geelong',
@@ -13915,7 +13258,7 @@ return array (
     'latitude' => -38.05182,
     'longitude' => 144.46137,
   ),
-  1546 => 
+  1473 => 
   array (
     'id' => 5448,
     'name' => 'Greater Hume Shire',
@@ -13924,7 +13267,7 @@ return array (
     'latitude' => -35.75837,
     'longitude' => 147.19731,
   ),
-  1547 => 
+  1474 => 
   array (
     'id' => 5449,
     'name' => 'Greater Shepparton',
@@ -13933,7 +13276,7 @@ return array (
     'latitude' => -36.42742,
     'longitude' => 145.41519,
   ),
-  1548 => 
+  1475 => 
   array (
     'id' => 5450,
     'name' => 'Green Valley',
@@ -13942,7 +13285,7 @@ return array (
     'latitude' => -33.90292,
     'longitude' => 150.86713,
   ),
-  1549 => 
+  1476 => 
   array (
     'id' => 5451,
     'name' => 'Greenacre',
@@ -13951,7 +13294,7 @@ return array (
     'latitude' => -33.90034,
     'longitude' => 151.05563,
   ),
-  1550 => 
+  1477 => 
   array (
     'id' => 5452,
     'name' => 'Greenacres',
@@ -13960,7 +13303,7 @@ return array (
     'latitude' => -34.86855,
     'longitude' => 138.628,
   ),
-  1551 => 
+  1478 => 
   array (
     'id' => 5453,
     'name' => 'Greenbank',
@@ -13969,7 +13312,7 @@ return array (
     'latitude' => -27.71667,
     'longitude' => 152.98333,
   ),
-  1552 => 
+  1479 => 
   array (
     'id' => 5454,
     'name' => 'Greenfield Park',
@@ -13978,7 +13321,7 @@ return array (
     'latitude' => -33.87461,
     'longitude' => 150.89189,
   ),
-  1553 => 
+  1480 => 
   array (
     'id' => 5455,
     'name' => 'Greenfields',
@@ -13987,7 +13330,7 @@ return array (
     'latitude' => -32.52429,
     'longitude' => 115.76315,
   ),
-  1554 => 
+  1481 => 
   array (
     'id' => 5456,
     'name' => 'Greenmount',
@@ -13996,7 +13339,7 @@ return array (
     'latitude' => -31.90072,
     'longitude' => 116.0495,
   ),
-  1555 => 
+  1482 => 
   array (
     'id' => 5457,
     'name' => 'Greenock',
@@ -14005,7 +13348,7 @@ return array (
     'latitude' => -34.457,
     'longitude' => 138.92719,
   ),
-  1556 => 
+  1483 => 
   array (
     'id' => 5458,
     'name' => 'Greensborough',
@@ -14014,7 +13357,7 @@ return array (
     'latitude' => -37.70462,
     'longitude' => 145.10302,
   ),
-  1557 => 
+  1484 => 
   array (
     'id' => 5459,
     'name' => 'Greenslopes',
@@ -14023,7 +13366,7 @@ return array (
     'latitude' => -27.50815,
     'longitude' => 153.04951,
   ),
-  1558 => 
+  1485 => 
   array (
     'id' => 5460,
     'name' => 'Greenvale',
@@ -14032,7 +13375,7 @@ return array (
     'latitude' => -37.63333,
     'longitude' => 144.86667,
   ),
-  1559 => 
+  1486 => 
   array (
     'id' => 5461,
     'name' => 'Greenway',
@@ -14041,7 +13384,7 @@ return array (
     'latitude' => -35.41829,
     'longitude' => 149.06658,
   ),
-  1560 => 
+  1487 => 
   array (
     'id' => 5462,
     'name' => 'Greenwell Point',
@@ -14050,7 +13393,7 @@ return array (
     'latitude' => -34.90751,
     'longitude' => 150.73113,
   ),
-  1561 => 
+  1488 => 
   array (
     'id' => 5463,
     'name' => 'Greenwich',
@@ -14059,7 +13402,7 @@ return array (
     'latitude' => -33.83954,
     'longitude' => 151.183,
   ),
-  1562 => 
+  1489 => 
   array (
     'id' => 5464,
     'name' => 'Greenwith',
@@ -14068,7 +13411,7 @@ return array (
     'latitude' => -34.76565,
     'longitude' => 138.71383,
   ),
-  1563 => 
+  1490 => 
   array (
     'id' => 5465,
     'name' => 'Greenwood',
@@ -14077,7 +13420,7 @@ return array (
     'latitude' => -31.82723,
     'longitude' => 115.80247,
   ),
-  1564 => 
+  1491 => 
   array (
     'id' => 5466,
     'name' => 'Gregory Hills',
@@ -14086,7 +13429,7 @@ return array (
     'latitude' => -34.02673,
     'longitude' => 150.7707,
   ),
-  1565 => 
+  1492 => 
   array (
     'id' => 5467,
     'name' => 'Grenfell',
@@ -14095,7 +13438,7 @@ return array (
     'latitude' => -33.89549,
     'longitude' => 148.16438,
   ),
-  1566 => 
+  1493 => 
   array (
     'id' => 5468,
     'name' => 'Greta',
@@ -14104,7 +13447,7 @@ return array (
     'latitude' => -32.67783,
     'longitude' => 151.38924,
   ),
-  1567 => 
+  1494 => 
   array (
     'id' => 5469,
     'name' => 'Greystanes',
@@ -14113,7 +13456,7 @@ return array (
     'latitude' => -33.82346,
     'longitude' => 150.94607,
   ),
-  1568 => 
+  1495 => 
   array (
     'id' => 5470,
     'name' => 'Griffin',
@@ -14122,7 +13465,7 @@ return array (
     'latitude' => -27.27149,
     'longitude' => 153.03942,
   ),
-  1569 => 
+  1496 => 
   array (
     'id' => 5471,
     'name' => 'Griffith',
@@ -14131,16 +13474,7 @@ return array (
     'latitude' => -34.33448,
     'longitude' => 146.02295,
   ),
-  1570 => 
-  array (
-    'id' => 5472,
-    'name' => 'Griffith',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.32533,
-    'longitude' => 149.13714,
-  ),
-  1571 => 
+  1497 => 
   array (
     'id' => 5473,
     'name' => 'Grose Vale',
@@ -14149,7 +13483,7 @@ return array (
     'latitude' => -33.58331,
     'longitude' => 150.6744,
   ),
-  1572 => 
+  1498 => 
   array (
     'id' => 5474,
     'name' => 'Grovedale',
@@ -14158,7 +13492,7 @@ return array (
     'latitude' => -38.2,
     'longitude' => 144.35,
   ),
-  1573 => 
+  1499 => 
   array (
     'id' => 5475,
     'name' => 'Guildford',
@@ -14167,7 +13501,7 @@ return array (
     'latitude' => -31.9,
     'longitude' => 115.96667,
   ),
-  1574 => 
+  1500 => 
   array (
     'id' => 5476,
     'name' => 'Guildford West',
@@ -14176,7 +13510,7 @@ return array (
     'latitude' => -33.84939,
     'longitude' => 150.96475,
   ),
-  1575 => 
+  1501 => 
   array (
     'id' => 5477,
     'name' => 'Gulfview Heights',
@@ -14185,7 +13519,7 @@ return array (
     'latitude' => -34.79545,
     'longitude' => 138.66937,
   ),
-  1576 => 
+  1502 => 
   array (
     'id' => 5478,
     'name' => 'Gulgong',
@@ -14194,7 +13528,7 @@ return array (
     'latitude' => -32.36253,
     'longitude' => 149.53201,
   ),
-  1577 => 
+  1503 => 
   array (
     'id' => 5479,
     'name' => 'Gulliver',
@@ -14203,7 +13537,7 @@ return array (
     'latitude' => -19.28814,
     'longitude' => 146.77691,
   ),
-  1578 => 
+  1504 => 
   array (
     'id' => 5480,
     'name' => 'Gulmarrad',
@@ -14212,7 +13546,7 @@ return array (
     'latitude' => -29.487,
     'longitude' => 153.23341,
   ),
-  1579 => 
+  1505 => 
   array (
     'id' => 5481,
     'name' => 'Gumdale',
@@ -14221,7 +13555,7 @@ return array (
     'latitude' => -27.49188,
     'longitude' => 153.15315,
   ),
-  1580 => 
+  1506 => 
   array (
     'id' => 5482,
     'name' => 'Gunbalanya',
@@ -14230,7 +13564,7 @@ return array (
     'latitude' => -12.32474,
     'longitude' => 133.05087,
   ),
-  1581 => 
+  1507 => 
   array (
     'id' => 5483,
     'name' => 'Gundagai',
@@ -14239,7 +13573,7 @@ return array (
     'latitude' => -35.02623,
     'longitude' => 148.13457,
   ),
-  1582 => 
+  1508 => 
   array (
     'id' => 5484,
     'name' => 'Gundaroo',
@@ -14248,7 +13582,7 @@ return array (
     'latitude' => -35.03333,
     'longitude' => 149.25,
   ),
-  1583 => 
+  1509 => 
   array (
     'id' => 5485,
     'name' => 'Gungahlin',
@@ -14257,7 +13591,7 @@ return array (
     'latitude' => -35.18674,
     'longitude' => 149.13619,
   ),
-  1584 => 
+  1510 => 
   array (
     'id' => 5486,
     'name' => 'Gunn',
@@ -14266,7 +13600,7 @@ return array (
     'latitude' => -12.48765,
     'longitude' => 130.99322,
   ),
-  1585 => 
+  1511 => 
   array (
     'id' => 5487,
     'name' => 'Gunnedah',
@@ -14275,7 +13609,7 @@ return array (
     'latitude' => -31.02404,
     'longitude' => 150.11548,
   ),
-  1586 => 
+  1512 => 
   array (
     'id' => 5488,
     'name' => 'Guyra',
@@ -14284,7 +13618,7 @@ return array (
     'latitude' => -30.2168,
     'longitude' => 151.66785,
   ),
-  1587 => 
+  1513 => 
   array (
     'id' => 5489,
     'name' => 'Gwandalan',
@@ -14293,7 +13627,7 @@ return array (
     'latitude' => -33.13538,
     'longitude' => 151.58285,
   ),
-  1588 => 
+  1514 => 
   array (
     'id' => 5490,
     'name' => 'Gwelup',
@@ -14302,7 +13636,7 @@ return array (
     'latitude' => -31.87163,
     'longitude' => 115.79484,
   ),
-  1589 => 
+  1515 => 
   array (
     'id' => 5491,
     'name' => 'Gwydir',
@@ -14311,7 +13645,7 @@ return array (
     'latitude' => -29.49806,
     'longitude' => 150.53813,
   ),
-  1590 => 
+  1516 => 
   array (
     'id' => 5492,
     'name' => 'Gwynneville',
@@ -14320,7 +13654,7 @@ return array (
     'latitude' => -34.41667,
     'longitude' => 150.8875,
   ),
-  1591 => 
+  1517 => 
   array (
     'id' => 5493,
     'name' => 'Gymea',
@@ -14329,7 +13663,7 @@ return array (
     'latitude' => -34.03637,
     'longitude' => 151.08528,
   ),
-  1592 => 
+  1518 => 
   array (
     'id' => 5494,
     'name' => 'Gymea Bay',
@@ -14338,7 +13672,7 @@ return array (
     'latitude' => -34.05209,
     'longitude' => 151.08795,
   ),
-  1593 => 
+  1519 => 
   array (
     'id' => 5495,
     'name' => 'Gympie',
@@ -14347,7 +13681,7 @@ return array (
     'latitude' => -26.18979,
     'longitude' => 152.66499,
   ),
-  1594 => 
+  1520 => 
   array (
     'id' => 5496,
     'name' => 'Gympie Regional Council',
@@ -14356,7 +13690,7 @@ return array (
     'latitude' => -26.18881,
     'longitude' => 152.65868,
   ),
-  1595 => 
+  1521 => 
   array (
     'id' => 5497,
     'name' => 'Haberfield',
@@ -14365,7 +13699,7 @@ return array (
     'latitude' => -33.88296,
     'longitude' => 151.14389,
   ),
-  1596 => 
+  1522 => 
   array (
     'id' => 5498,
     'name' => 'Hackett',
@@ -14374,7 +13708,7 @@ return array (
     'latitude' => -35.24948,
     'longitude' => 149.16352,
   ),
-  1597 => 
+  1523 => 
   array (
     'id' => 5499,
     'name' => 'Hackham',
@@ -14383,7 +13717,7 @@ return array (
     'latitude' => -35.15514,
     'longitude' => 138.52509,
   ),
-  1598 => 
+  1524 => 
   array (
     'id' => 5500,
     'name' => 'Hackham West',
@@ -14392,7 +13726,7 @@ return array (
     'latitude' => -35.14312,
     'longitude' => 138.51442,
   ),
-  1599 => 
+  1525 => 
   array (
     'id' => 5501,
     'name' => 'Haddon',
@@ -14401,7 +13735,7 @@ return array (
     'latitude' => -37.6,
     'longitude' => 143.71667,
   ),
-  1600 => 
+  1526 => 
   array (
     'id' => 5502,
     'name' => 'Hadfield',
@@ -14410,7 +13744,7 @@ return array (
     'latitude' => -37.70728,
     'longitude' => 144.9416,
   ),
-  1601 => 
+  1527 => 
   array (
     'id' => 5503,
     'name' => 'Hadspen',
@@ -14419,7 +13753,7 @@ return array (
     'latitude' => -41.50059,
     'longitude' => 147.07359,
   ),
-  1602 => 
+  1528 => 
   array (
     'id' => 5504,
     'name' => 'Hahndorf',
@@ -14428,7 +13762,7 @@ return array (
     'latitude' => -35.02863,
     'longitude' => 138.80779,
   ),
-  1603 => 
+  1529 => 
   array (
     'id' => 5505,
     'name' => 'Halekulani',
@@ -14437,7 +13771,7 @@ return array (
     'latitude' => -33.21914,
     'longitude' => 151.55251,
   ),
-  1604 => 
+  1530 => 
   array (
     'id' => 5506,
     'name' => 'Hallam',
@@ -14446,7 +13780,7 @@ return array (
     'latitude' => -38.01667,
     'longitude' => 145.26667,
   ),
-  1605 => 
+  1531 => 
   array (
     'id' => 5507,
     'name' => 'Hallett Cove',
@@ -14455,7 +13789,7 @@ return array (
     'latitude' => -35.07923,
     'longitude' => 138.5146,
   ),
-  1606 => 
+  1532 => 
   array (
     'id' => 5508,
     'name' => 'Halls Creek',
@@ -14464,7 +13798,7 @@ return array (
     'latitude' => -19.00069,
     'longitude' => 127.45204,
   ),
-  1607 => 
+  1533 => 
   array (
     'id' => 5509,
     'name' => 'Halls Head',
@@ -14473,7 +13807,7 @@ return array (
     'latitude' => -32.54315,
     'longitude' => 115.69665,
   ),
-  1608 => 
+  1534 => 
   array (
     'id' => 5510,
     'name' => 'Hamersley',
@@ -14482,7 +13816,7 @@ return array (
     'latitude' => -31.84898,
     'longitude' => 115.80757,
   ),
-  1609 => 
+  1535 => 
   array (
     'id' => 5511,
     'name' => 'Hamilton',
@@ -14491,25 +13825,7 @@ return array (
     'latitude' => -37.74425,
     'longitude' => 142.02202,
   ),
-  1610 => 
-  array (
-    'id' => 5512,
-    'name' => 'Hamilton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.92207,
-    'longitude' => 151.74711,
-  ),
-  1611 => 
-  array (
-    'id' => 5513,
-    'name' => 'Hamilton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.43896,
-    'longitude' => 153.06287,
-  ),
-  1612 => 
+  1536 => 
   array (
     'id' => 5514,
     'name' => 'Hamilton Hill',
@@ -14518,7 +13834,7 @@ return array (
     'latitude' => -32.08451,
     'longitude' => 115.77946,
   ),
-  1613 => 
+  1537 => 
   array (
     'id' => 5515,
     'name' => 'Hamlyn Heights',
@@ -14527,7 +13843,7 @@ return array (
     'latitude' => -38.12108,
     'longitude' => 144.32799,
   ),
-  1614 => 
+  1538 => 
   array (
     'id' => 5516,
     'name' => 'Hamlyn Terrace',
@@ -14536,7 +13852,7 @@ return array (
     'latitude' => -33.25125,
     'longitude' => 151.47627,
   ),
-  1615 => 
+  1539 => 
   array (
     'id' => 5517,
     'name' => 'Hammond Park',
@@ -14545,7 +13861,7 @@ return array (
     'latitude' => -32.16853,
     'longitude' => 115.8504,
   ),
-  1616 => 
+  1540 => 
   array (
     'id' => 5518,
     'name' => 'Hammondville',
@@ -14554,7 +13870,7 @@ return array (
     'latitude' => -33.94827,
     'longitude' => 150.95211,
   ),
-  1617 => 
+  1541 => 
   array (
     'id' => 5519,
     'name' => 'Hampstead Gardens',
@@ -14563,7 +13879,7 @@ return array (
     'latitude' => -34.87448,
     'longitude' => 138.62881,
   ),
-  1618 => 
+  1542 => 
   array (
     'id' => 5520,
     'name' => 'Hampton',
@@ -14572,7 +13888,7 @@ return array (
     'latitude' => -37.95,
     'longitude' => 145.0,
   ),
-  1619 => 
+  1543 => 
   array (
     'id' => 5521,
     'name' => 'Hampton East',
@@ -14581,7 +13897,7 @@ return array (
     'latitude' => -37.93695,
     'longitude' => 145.02863,
   ),
-  1620 => 
+  1544 => 
   array (
     'id' => 5522,
     'name' => 'Hampton Park',
@@ -14590,7 +13906,7 @@ return array (
     'latitude' => -38.03333,
     'longitude' => 145.25,
   ),
-  1621 => 
+  1545 => 
   array (
     'id' => 5523,
     'name' => 'Hannans',
@@ -14599,7 +13915,7 @@ return array (
     'latitude' => -30.71909,
     'longitude' => 121.4548,
   ),
-  1622 => 
+  1546 => 
   array (
     'id' => 5524,
     'name' => 'Hanwood',
@@ -14608,7 +13924,7 @@ return array (
     'latitude' => -34.33095,
     'longitude' => 146.04137,
   ),
-  1623 => 
+  1547 => 
   array (
     'id' => 5525,
     'name' => 'Happy Valley',
@@ -14617,7 +13933,7 @@ return array (
     'latitude' => -35.08333,
     'longitude' => 138.53333,
   ),
-  1624 => 
+  1548 => 
   array (
     'id' => 5526,
     'name' => 'Harlaxton',
@@ -14626,7 +13942,7 @@ return array (
     'latitude' => -27.53333,
     'longitude' => 151.96667,
   ),
-  1625 => 
+  1549 => 
   array (
     'id' => 5527,
     'name' => 'Harrington',
@@ -14635,7 +13951,7 @@ return array (
     'latitude' => -31.88306,
     'longitude' => 152.65924,
   ),
-  1626 => 
+  1550 => 
   array (
     'id' => 5528,
     'name' => 'Harrington Park',
@@ -14644,7 +13960,7 @@ return array (
     'latitude' => -34.02405,
     'longitude' => 150.73501,
   ),
-  1627 => 
+  1551 => 
   array (
     'id' => 5529,
     'name' => 'Harris Park',
@@ -14653,7 +13969,7 @@ return array (
     'latitude' => -33.82285,
     'longitude' => 151.00781,
   ),
-  1628 => 
+  1552 => 
   array (
     'id' => 5530,
     'name' => 'Harrisdale',
@@ -14662,7 +13978,7 @@ return array (
     'latitude' => -32.11084,
     'longitude' => 115.93563,
   ),
-  1629 => 
+  1553 => 
   array (
     'id' => 5531,
     'name' => 'Harrison',
@@ -14671,7 +13987,7 @@ return array (
     'latitude' => -35.19906,
     'longitude' => 149.15631,
   ),
-  1630 => 
+  1554 => 
   array (
     'id' => 5532,
     'name' => 'Harristown',
@@ -14680,7 +13996,7 @@ return array (
     'latitude' => -27.58333,
     'longitude' => 151.93333,
   ),
-  1631 => 
+  1555 => 
   array (
     'id' => 5533,
     'name' => 'Harvey',
@@ -14689,7 +14005,7 @@ return array (
     'latitude' => -33.14976,
     'longitude' => 115.93376,
   ),
-  1632 => 
+  1556 => 
   array (
     'id' => 5534,
     'name' => 'Hassall Grove',
@@ -14698,7 +14014,7 @@ return array (
     'latitude' => -33.73349,
     'longitude' => 150.83542,
   ),
-  1633 => 
+  1557 => 
   array (
     'id' => 5535,
     'name' => 'Hastings',
@@ -14707,7 +14023,7 @@ return array (
     'latitude' => -38.3,
     'longitude' => 145.18333,
   ),
-  1634 => 
+  1558 => 
   array (
     'id' => 5536,
     'name' => 'Hatton Vale',
@@ -14716,7 +14032,7 @@ return array (
     'latitude' => -27.56667,
     'longitude' => 152.46667,
   ),
-  1635 => 
+  1559 => 
   array (
     'id' => 5537,
     'name' => 'Haven',
@@ -14725,7 +14041,7 @@ return array (
     'latitude' => -36.76072,
     'longitude' => 142.19426,
   ),
-  1636 => 
+  1560 => 
   array (
     'id' => 5538,
     'name' => 'Hawker',
@@ -14734,7 +14050,7 @@ return array (
     'latitude' => -35.24707,
     'longitude' => 149.03666,
   ),
-  1637 => 
+  1561 => 
   array (
     'id' => 5539,
     'name' => 'Hawkesbury',
@@ -14743,7 +14059,7 @@ return array (
     'latitude' => -33.34078,
     'longitude' => 150.783,
   ),
-  1638 => 
+  1562 => 
   array (
     'id' => 5540,
     'name' => 'Hawks Nest',
@@ -14752,7 +14068,7 @@ return array (
     'latitude' => -32.66755,
     'longitude' => 152.17831,
   ),
-  1639 => 
+  1563 => 
   array (
     'id' => 5541,
     'name' => 'Hawthorn',
@@ -14761,16 +14077,7 @@ return array (
     'latitude' => -37.81992,
     'longitude' => 145.0358,
   ),
-  1640 => 
-  array (
-    'id' => 5542,
-    'name' => 'Hawthorn',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.97384,
-    'longitude' => 138.60738,
-  ),
-  1641 => 
+  1564 => 
   array (
     'id' => 5543,
     'name' => 'Hawthorn East',
@@ -14779,7 +14086,7 @@ return array (
     'latitude' => -37.82484,
     'longitude' => 145.0464,
   ),
-  1642 => 
+  1565 => 
   array (
     'id' => 5544,
     'name' => 'Hawthorn South',
@@ -14788,7 +14095,7 @@ return array (
     'latitude' => -37.8329,
     'longitude' => 145.0367,
   ),
-  1643 => 
+  1566 => 
   array (
     'id' => 5545,
     'name' => 'Hawthorndene',
@@ -14797,7 +14104,7 @@ return array (
     'latitude' => -35.02229,
     'longitude' => 138.63039,
   ),
-  1644 => 
+  1567 => 
   array (
     'id' => 5546,
     'name' => 'Hawthorne',
@@ -14806,7 +14113,7 @@ return array (
     'latitude' => -27.46696,
     'longitude' => 153.05779,
   ),
-  1645 => 
+  1568 => 
   array (
     'id' => 5547,
     'name' => 'Hay',
@@ -14815,7 +14122,7 @@ return array (
     'latitude' => -34.54276,
     'longitude' => 144.83826,
   ),
-  1646 => 
+  1569 => 
   array (
     'id' => 5548,
     'name' => 'Hay Point',
@@ -14824,7 +14131,7 @@ return array (
     'latitude' => -21.29646,
     'longitude' => 149.27368,
   ),
-  1647 => 
+  1570 => 
   array (
     'id' => 5549,
     'name' => 'Hayborough',
@@ -14833,7 +14140,7 @@ return array (
     'latitude' => -35.53129,
     'longitude' => 138.65037,
   ),
-  1648 => 
+  1571 => 
   array (
     'id' => 5550,
     'name' => 'Haymarket',
@@ -14842,7 +14149,7 @@ return array (
     'latitude' => -33.87868,
     'longitude' => 151.20526,
   ),
-  1649 => 
+  1572 => 
   array (
     'id' => 5551,
     'name' => 'Hazelbrook',
@@ -14851,7 +14158,7 @@ return array (
     'latitude' => -33.72446,
     'longitude' => 150.45839,
   ),
-  1650 => 
+  1573 => 
   array (
     'id' => 5552,
     'name' => 'Hazelwood North',
@@ -14860,7 +14167,7 @@ return array (
     'latitude' => -38.26763,
     'longitude' => 146.48286,
   ),
-  1651 => 
+  1574 => 
   array (
     'id' => 5553,
     'name' => 'Hazelwood Park',
@@ -14869,7 +14176,7 @@ return array (
     'latitude' => -34.93947,
     'longitude' => 138.65879,
   ),
-  1652 => 
+  1575 => 
   array (
     'id' => 5554,
     'name' => 'Healesville',
@@ -14878,7 +14185,7 @@ return array (
     'latitude' => -37.65395,
     'longitude' => 145.51718,
   ),
-  1653 => 
+  1576 => 
   array (
     'id' => 5555,
     'name' => 'Healy',
@@ -14887,7 +14194,7 @@ return array (
     'latitude' => -20.74596,
     'longitude' => 139.5001,
   ),
-  1654 => 
+  1577 => 
   array (
     'id' => 5556,
     'name' => 'Heathcote',
@@ -14896,16 +14203,7 @@ return array (
     'latitude' => -34.0841,
     'longitude' => 151.01305,
   ),
-  1655 => 
-  array (
-    'id' => 5557,
-    'name' => 'Heathcote',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -36.92214,
-    'longitude' => 144.70837,
-  ),
-  1656 => 
+  1578 => 
   array (
     'id' => 5558,
     'name' => 'Heatherton',
@@ -14914,7 +14212,7 @@ return array (
     'latitude' => -37.96667,
     'longitude' => 145.1,
   ),
-  1657 => 
+  1579 => 
   array (
     'id' => 5559,
     'name' => 'Heathmont',
@@ -14923,7 +14221,7 @@ return array (
     'latitude' => -37.83333,
     'longitude' => 145.25,
   ),
-  1658 => 
+  1580 => 
   array (
     'id' => 5560,
     'name' => 'Heathridge',
@@ -14932,7 +14230,7 @@ return array (
     'latitude' => -31.76244,
     'longitude' => 115.75895,
   ),
-  1659 => 
+  1581 => 
   array (
     'id' => 5561,
     'name' => 'Heathwood',
@@ -14941,7 +14239,7 @@ return array (
     'latitude' => -27.63449,
     'longitude' => 152.98814,
   ),
-  1660 => 
+  1582 => 
   array (
     'id' => 5562,
     'name' => 'Heatley',
@@ -14950,7 +14248,7 @@ return array (
     'latitude' => -19.29035,
     'longitude' => 146.75355,
   ),
-  1661 => 
+  1583 => 
   array (
     'id' => 5563,
     'name' => 'Hebersham',
@@ -14959,7 +14257,7 @@ return array (
     'latitude' => -33.74582,
     'longitude' => 150.82385,
   ),
-  1662 => 
+  1584 => 
   array (
     'id' => 5564,
     'name' => 'Heckenberg',
@@ -14968,7 +14266,7 @@ return array (
     'latitude' => -33.90828,
     'longitude' => 150.88982,
   ),
-  1663 => 
+  1585 => 
   array (
     'id' => 5565,
     'name' => 'Hectorville',
@@ -14977,7 +14275,7 @@ return array (
     'latitude' => -34.89157,
     'longitude' => 138.65892,
   ),
-  1664 => 
+  1586 => 
   array (
     'id' => 5566,
     'name' => 'Heddon Greta',
@@ -14986,7 +14284,7 @@ return array (
     'latitude' => -32.80204,
     'longitude' => 151.51327,
   ),
-  1665 => 
+  1587 => 
   array (
     'id' => 5567,
     'name' => 'Heidelberg',
@@ -14995,7 +14293,7 @@ return array (
     'latitude' => -37.75,
     'longitude' => 145.06667,
   ),
-  1666 => 
+  1588 => 
   array (
     'id' => 5568,
     'name' => 'Heidelberg Heights',
@@ -15004,7 +14302,7 @@ return array (
     'latitude' => -37.74313,
     'longitude' => 145.05695,
   ),
-  1667 => 
+  1589 => 
   array (
     'id' => 5569,
     'name' => 'Heidelberg West',
@@ -15013,7 +14311,7 @@ return array (
     'latitude' => -37.73922,
     'longitude' => 145.04034,
   ),
-  1668 => 
+  1590 => 
   array (
     'id' => 5570,
     'name' => 'Helena Valley',
@@ -15022,7 +14320,7 @@ return array (
     'latitude' => -31.91938,
     'longitude' => 116.03982,
   ),
-  1669 => 
+  1591 => 
   array (
     'id' => 5571,
     'name' => 'Helensburgh',
@@ -15031,7 +14329,7 @@ return array (
     'latitude' => -34.17836,
     'longitude' => 150.99522,
   ),
-  1670 => 
+  1592 => 
   array (
     'id' => 5572,
     'name' => 'Helensvale',
@@ -15040,7 +14338,7 @@ return array (
     'latitude' => -27.91828,
     'longitude' => 153.33275,
   ),
-  1671 => 
+  1593 => 
   array (
     'id' => 5573,
     'name' => 'Helidon',
@@ -15049,7 +14347,7 @@ return array (
     'latitude' => -27.55316,
     'longitude' => 152.12398,
   ),
-  1672 => 
+  1594 => 
   array (
     'id' => 5574,
     'name' => 'Hemmant',
@@ -15058,7 +14356,7 @@ return array (
     'latitude' => -27.44776,
     'longitude' => 153.13174,
   ),
-  1673 => 
+  1595 => 
   array (
     'id' => 5575,
     'name' => 'Hendra',
@@ -15067,7 +14365,7 @@ return array (
     'latitude' => -27.41775,
     'longitude' => 153.07025,
   ),
-  1674 => 
+  1596 => 
   array (
     'id' => 5576,
     'name' => 'Henley Beach',
@@ -15076,7 +14374,7 @@ return array (
     'latitude' => -34.92029,
     'longitude' => 138.49442,
   ),
-  1675 => 
+  1597 => 
   array (
     'id' => 5577,
     'name' => 'Henley Beach South',
@@ -15085,7 +14383,7 @@ return array (
     'latitude' => -34.92591,
     'longitude' => 138.49554,
   ),
-  1676 => 
+  1598 => 
   array (
     'id' => 5578,
     'name' => 'Henley Brook',
@@ -15094,7 +14392,7 @@ return array (
     'latitude' => -31.81393,
     'longitude' => 115.98807,
   ),
-  1677 => 
+  1599 => 
   array (
     'id' => 5579,
     'name' => 'Henty',
@@ -15103,7 +14401,7 @@ return array (
     'latitude' => -35.52094,
     'longitude' => 147.03426,
   ),
-  1678 => 
+  1600 => 
   array (
     'id' => 5580,
     'name' => 'Hepburn',
@@ -15112,7 +14410,7 @@ return array (
     'latitude' => -37.31707,
     'longitude' => 144.03355,
   ),
-  1679 => 
+  1601 => 
   array (
     'id' => 5581,
     'name' => 'Herbert',
@@ -15121,7 +14419,7 @@ return array (
     'latitude' => -12.53414,
     'longitude' => 131.16197,
   ),
-  1680 => 
+  1602 => 
   array (
     'id' => 5582,
     'name' => 'Herdsmans Cove',
@@ -15130,7 +14428,7 @@ return array (
     'latitude' => -42.75066,
     'longitude' => 147.26483,
   ),
-  1681 => 
+  1603 => 
   array (
     'id' => 5583,
     'name' => 'Heritage Park',
@@ -15139,7 +14437,7 @@ return array (
     'latitude' => -27.68273,
     'longitude' => 153.06082,
   ),
-  1682 => 
+  1604 => 
   array (
     'id' => 5584,
     'name' => 'Hermit Park',
@@ -15148,7 +14446,7 @@ return array (
     'latitude' => -19.28741,
     'longitude' => 146.80043,
   ),
-  1683 => 
+  1605 => 
   array (
     'id' => 5585,
     'name' => 'Herne Hill',
@@ -15157,16 +14455,7 @@ return array (
     'latitude' => -31.82553,
     'longitude' => 116.0227,
   ),
-  1684 => 
-  array (
-    'id' => 5586,
-    'name' => 'Herne Hill',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.13427,
-    'longitude' => 144.32406,
-  ),
-  1685 => 
+  1606 => 
   array (
     'id' => 5587,
     'name' => 'Herston',
@@ -15175,7 +14464,7 @@ return array (
     'latitude' => -27.44453,
     'longitude' => 153.01852,
   ),
-  1686 => 
+  1607 => 
   array (
     'id' => 5588,
     'name' => 'Hervey Bay',
@@ -15184,7 +14473,7 @@ return array (
     'latitude' => -25.28762,
     'longitude' => 152.76936,
   ),
-  1687 => 
+  1608 => 
   array (
     'id' => 5589,
     'name' => 'Hewett',
@@ -15193,7 +14482,7 @@ return array (
     'latitude' => -34.57801,
     'longitude' => 138.75242,
   ),
-  1688 => 
+  1609 => 
   array (
     'id' => 5590,
     'name' => 'Heyfield',
@@ -15202,7 +14491,7 @@ return array (
     'latitude' => -37.9813,
     'longitude' => 146.78559,
   ),
-  1689 => 
+  1610 => 
   array (
     'id' => 5591,
     'name' => 'Heywood',
@@ -15211,7 +14500,7 @@ return array (
     'latitude' => -38.13294,
     'longitude' => 141.62949,
   ),
-  1690 => 
+  1611 => 
   array (
     'id' => 5592,
     'name' => 'Higgins',
@@ -15220,7 +14509,7 @@ return array (
     'latitude' => -35.23242,
     'longitude' => 149.0272,
   ),
-  1691 => 
+  1612 => 
   array (
     'id' => 5593,
     'name' => 'High Wycombe',
@@ -15229,7 +14518,7 @@ return array (
     'latitude' => -31.94444,
     'longitude' => 116.0034,
   ),
-  1692 => 
+  1613 => 
   array (
     'id' => 5594,
     'name' => 'Highbury',
@@ -15238,7 +14527,7 @@ return array (
     'latitude' => -34.85287,
     'longitude' => 138.6975,
   ),
-  1693 => 
+  1614 => 
   array (
     'id' => 5595,
     'name' => 'Highett',
@@ -15247,7 +14536,7 @@ return array (
     'latitude' => -37.95,
     'longitude' => 145.05,
   ),
-  1694 => 
+  1615 => 
   array (
     'id' => 5596,
     'name' => 'Highfields',
@@ -15256,7 +14545,7 @@ return array (
     'latitude' => -27.46343,
     'longitude' => 151.95386,
   ),
-  1695 => 
+  1616 => 
   array (
     'id' => 5597,
     'name' => 'Highgate',
@@ -15265,16 +14554,7 @@ return array (
     'latitude' => -31.93971,
     'longitude' => 115.87015,
   ),
-  1696 => 
-  array (
-    'id' => 5598,
-    'name' => 'Highgate',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.96177,
-    'longitude' => 138.6218,
-  ),
-  1697 => 
+  1617 => 
   array (
     'id' => 5599,
     'name' => 'Highgate Hill',
@@ -15283,7 +14563,7 @@ return array (
     'latitude' => -27.48912,
     'longitude' => 153.01878,
   ),
-  1698 => 
+  1618 => 
   array (
     'id' => 5600,
     'name' => 'Highland Park',
@@ -15292,7 +14572,7 @@ return array (
     'latitude' => -28.01392,
     'longitude' => 153.33312,
   ),
-  1699 => 
+  1619 => 
   array (
     'id' => 5601,
     'name' => 'Highton',
@@ -15301,7 +14581,7 @@ return array (
     'latitude' => -38.17058,
     'longitude' => 144.3114,
   ),
-  1700 => 
+  1620 => 
   array (
     'id' => 5602,
     'name' => 'Highvale',
@@ -15310,7 +14590,7 @@ return array (
     'latitude' => -27.37227,
     'longitude' => 152.80195,
   ),
-  1701 => 
+  1621 => 
   array (
     'id' => 5603,
     'name' => 'Hilbert',
@@ -15319,7 +14599,7 @@ return array (
     'latitude' => -32.17818,
     'longitude' => 115.9849,
   ),
-  1702 => 
+  1622 => 
   array (
     'id' => 5604,
     'name' => 'Hill Top',
@@ -15328,7 +14608,7 @@ return array (
     'latitude' => -34.34792,
     'longitude' => 150.4955,
   ),
-  1703 => 
+  1623 => 
   array (
     'id' => 5605,
     'name' => 'Hillarys',
@@ -15337,7 +14617,7 @@ return array (
     'latitude' => -31.80698,
     'longitude' => 115.74045,
   ),
-  1704 => 
+  1624 => 
   array (
     'id' => 5606,
     'name' => 'Hillbank',
@@ -15346,7 +14626,7 @@ return array (
     'latitude' => -34.73588,
     'longitude' => 138.68723,
   ),
-  1705 => 
+  1625 => 
   array (
     'id' => 5607,
     'name' => 'Hillcrest',
@@ -15355,25 +14635,7 @@ return array (
     'latitude' => -34.86252,
     'longitude' => 138.64306,
   ),
-  1706 => 
-  array (
-    'id' => 5608,
-    'name' => 'Hillcrest',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.66857,
-    'longitude' => 153.02614,
-  ),
-  1707 => 
-  array (
-    'id' => 5609,
-    'name' => 'Hillcrest',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -41.06324,
-    'longitude' => 145.89437,
-  ),
-  1708 => 
+  1626 => 
   array (
     'id' => 5610,
     'name' => 'Hillman',
@@ -15382,7 +14644,7 @@ return array (
     'latitude' => -32.28327,
     'longitude' => 115.76364,
   ),
-  1709 => 
+  1627 => 
   array (
     'id' => 5611,
     'name' => 'Hillsdale',
@@ -15391,7 +14653,7 @@ return array (
     'latitude' => -33.95151,
     'longitude' => 151.22784,
   ),
-  1710 => 
+  1628 => 
   array (
     'id' => 5612,
     'name' => 'Hillside',
@@ -15400,7 +14662,7 @@ return array (
     'latitude' => -37.69047,
     'longitude' => 144.74172,
   ),
-  1711 => 
+  1629 => 
   array (
     'id' => 5613,
     'name' => 'Hillston',
@@ -15409,7 +14671,7 @@ return array (
     'latitude' => -33.48266,
     'longitude' => 145.53525,
   ),
-  1712 => 
+  1630 => 
   array (
     'id' => 5614,
     'name' => 'Hillvue',
@@ -15418,7 +14680,7 @@ return array (
     'latitude' => -31.12756,
     'longitude' => 150.90711,
   ),
-  1713 => 
+  1631 => 
   array (
     'id' => 5615,
     'name' => 'Hilton',
@@ -15427,7 +14689,7 @@ return array (
     'latitude' => -32.06208,
     'longitude' => 115.78049,
   ),
-  1714 => 
+  1632 => 
   array (
     'id' => 5616,
     'name' => 'Hinchinbrook',
@@ -15436,16 +14698,7 @@ return array (
     'latitude' => -18.6584,
     'longitude' => 146.12296,
   ),
-  1715 => 
-  array (
-    'id' => 5617,
-    'name' => 'Hinchinbrook',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.91878,
-    'longitude' => 150.86314,
-  ),
-  1716 => 
+  1633 => 
   array (
     'id' => 5618,
     'name' => 'Hindmarsh',
@@ -15454,7 +14707,7 @@ return array (
     'latitude' => -36.03293,
     'longitude' => 141.73282,
   ),
-  1717 => 
+  1634 => 
   array (
     'id' => 5619,
     'name' => 'Hindmarsh Island',
@@ -15463,7 +14716,7 @@ return array (
     'latitude' => -35.51014,
     'longitude' => 138.86762,
   ),
-  1718 => 
+  1635 => 
   array (
     'id' => 5620,
     'name' => 'Hmas Cerberus',
@@ -15472,7 +14725,7 @@ return array (
     'latitude' => -38.36491,
     'longitude' => 145.20038,
   ),
-  1719 => 
+  1636 => 
   array (
     'id' => 5621,
     'name' => 'Hobart',
@@ -15481,7 +14734,7 @@ return array (
     'latitude' => -42.87936,
     'longitude' => 147.32941,
   ),
-  1720 => 
+  1637 => 
   array (
     'id' => 5622,
     'name' => 'Hobart city centre',
@@ -15490,7 +14743,7 @@ return array (
     'latitude' => -42.8828,
     'longitude' => 147.32582,
   ),
-  1721 => 
+  1638 => 
   array (
     'id' => 5623,
     'name' => 'Hobartville',
@@ -15499,7 +14752,7 @@ return array (
     'latitude' => -33.60435,
     'longitude' => 150.74299,
   ),
-  1722 => 
+  1639 => 
   array (
     'id' => 5624,
     'name' => 'Hobsons Bay',
@@ -15508,7 +14761,7 @@ return array (
     'latitude' => -37.85694,
     'longitude' => 144.83347,
   ),
-  1723 => 
+  1640 => 
   array (
     'id' => 5625,
     'name' => 'Hocking',
@@ -15517,7 +14770,7 @@ return array (
     'latitude' => -31.77012,
     'longitude' => 115.81832,
   ),
-  1724 => 
+  1641 => 
   array (
     'id' => 5626,
     'name' => 'Hodgson Vale',
@@ -15526,7 +14779,7 @@ return array (
     'latitude' => -27.66518,
     'longitude' => 151.93251,
   ),
-  1725 => 
+  1642 => 
   array (
     'id' => 5627,
     'name' => 'Holbrook',
@@ -15535,7 +14788,7 @@ return array (
     'latitude' => -35.721,
     'longitude' => 147.31605,
   ),
-  1726 => 
+  1643 => 
   array (
     'id' => 5628,
     'name' => 'Holden Hill',
@@ -15544,7 +14797,7 @@ return array (
     'latitude' => -34.85161,
     'longitude' => 138.67232,
   ),
-  1727 => 
+  1644 => 
   array (
     'id' => 5629,
     'name' => 'Holder',
@@ -15553,7 +14806,7 @@ return array (
     'latitude' => -35.33439,
     'longitude' => 149.04614,
   ),
-  1728 => 
+  1645 => 
   array (
     'id' => 5630,
     'name' => 'Holdfast Bay',
@@ -15562,7 +14815,7 @@ return array (
     'latitude' => -35.00244,
     'longitude' => 138.52318,
   ),
-  1729 => 
+  1646 => 
   array (
     'id' => 5631,
     'name' => 'Holland Park',
@@ -15571,7 +14824,7 @@ return array (
     'latitude' => -27.51704,
     'longitude' => 153.06744,
   ),
-  1730 => 
+  1647 => 
   array (
     'id' => 5632,
     'name' => 'Holland Park West',
@@ -15580,7 +14833,7 @@ return array (
     'latitude' => -27.52625,
     'longitude' => 153.06046,
   ),
-  1731 => 
+  1648 => 
   array (
     'id' => 5633,
     'name' => 'Holloways Beach',
@@ -15589,7 +14842,7 @@ return array (
     'latitude' => -16.84209,
     'longitude' => 145.73922,
   ),
-  1732 => 
+  1649 => 
   array (
     'id' => 5634,
     'name' => 'Hollywell',
@@ -15598,7 +14851,7 @@ return array (
     'latitude' => -27.90076,
     'longitude' => 153.39609,
   ),
-  1733 => 
+  1650 => 
   array (
     'id' => 5635,
     'name' => 'Holmesville',
@@ -15607,7 +14860,7 @@ return array (
     'latitude' => -32.91667,
     'longitude' => 151.58333,
   ),
-  1734 => 
+  1651 => 
   array (
     'id' => 5636,
     'name' => 'Holmview',
@@ -15616,7 +14869,7 @@ return array (
     'latitude' => -27.71631,
     'longitude' => 153.17045,
   ),
-  1735 => 
+  1652 => 
   array (
     'id' => 5637,
     'name' => 'Holroyd',
@@ -15625,7 +14878,7 @@ return array (
     'latitude' => -33.83078,
     'longitude' => 150.99725,
   ),
-  1736 => 
+  1653 => 
   array (
     'id' => 5638,
     'name' => 'Holsworthy',
@@ -15634,7 +14887,7 @@ return array (
     'latitude' => -33.98333,
     'longitude' => 150.96667,
   ),
-  1737 => 
+  1654 => 
   array (
     'id' => 5639,
     'name' => 'Holt',
@@ -15643,7 +14896,7 @@ return array (
     'latitude' => -35.22441,
     'longitude' => 149.01188,
   ),
-  1738 => 
+  1655 => 
   array (
     'id' => 5640,
     'name' => 'Holtze',
@@ -15652,7 +14905,7 @@ return array (
     'latitude' => -12.4485,
     'longitude' => 131.00556,
   ),
-  1739 => 
+  1656 => 
   array (
     'id' => 5641,
     'name' => 'Home Hill',
@@ -15661,7 +14914,7 @@ return array (
     'latitude' => -19.65921,
     'longitude' => 147.41232,
   ),
-  1740 => 
+  1657 => 
   array (
     'id' => 5642,
     'name' => 'Homebush',
@@ -15670,7 +14923,7 @@ return array (
     'latitude' => -33.86667,
     'longitude' => 151.08333,
   ),
-  1741 => 
+  1658 => 
   array (
     'id' => 5643,
     'name' => 'Homebush West',
@@ -15679,7 +14932,7 @@ return array (
     'latitude' => -33.86269,
     'longitude' => 151.06696,
   ),
-  1742 => 
+  1659 => 
   array (
     'id' => 5644,
     'name' => 'Hope Island',
@@ -15688,7 +14941,7 @@ return array (
     'latitude' => -27.87036,
     'longitude' => 153.35164,
   ),
-  1743 => 
+  1660 => 
   array (
     'id' => 5645,
     'name' => 'Hope Vale',
@@ -15697,7 +14950,7 @@ return array (
     'latitude' => -15.13588,
     'longitude' => 145.19248,
   ),
-  1744 => 
+  1661 => 
   array (
     'id' => 5646,
     'name' => 'Hope Valley',
@@ -15706,7 +14959,7 @@ return array (
     'latitude' => -34.83333,
     'longitude' => 138.7,
   ),
-  1745 => 
+  1662 => 
   array (
     'id' => 5647,
     'name' => 'Hoppers Crossing',
@@ -15715,7 +14968,7 @@ return array (
     'latitude' => -37.88264,
     'longitude' => 144.7003,
   ),
-  1746 => 
+  1663 => 
   array (
     'id' => 5648,
     'name' => 'Horningsea Park',
@@ -15724,7 +14977,7 @@ return array (
     'latitude' => -33.94341,
     'longitude' => 150.84528,
   ),
-  1747 => 
+  1664 => 
   array (
     'id' => 5649,
     'name' => 'Hornsby',
@@ -15733,7 +14986,7 @@ return array (
     'latitude' => -33.70244,
     'longitude' => 151.09931,
   ),
-  1748 => 
+  1665 => 
   array (
     'id' => 5650,
     'name' => 'Hornsby Heights',
@@ -15742,7 +14995,7 @@ return array (
     'latitude' => -33.6713,
     'longitude' => 151.09428,
   ),
-  1749 => 
+  1666 => 
   array (
     'id' => 5651,
     'name' => 'Hornsby Shire',
@@ -15751,7 +15004,7 @@ return array (
     'latitude' => -33.58315,
     'longitude' => 151.10953,
   ),
-  1750 => 
+  1667 => 
   array (
     'id' => 5652,
     'name' => 'Horsham',
@@ -15760,7 +15013,7 @@ return array (
     'latitude' => -36.82857,
     'longitude' => 142.11448,
   ),
-  1751 => 
+  1668 => 
   array (
     'id' => 5653,
     'name' => 'Horsley',
@@ -15769,7 +15022,7 @@ return array (
     'latitude' => -34.48763,
     'longitude' => 150.77799,
   ),
-  1752 => 
+  1669 => 
   array (
     'id' => 5654,
     'name' => 'Horsley Park',
@@ -15778,7 +15031,7 @@ return array (
     'latitude' => -33.84322,
     'longitude' => 150.84889,
   ),
-  1753 => 
+  1670 => 
   array (
     'id' => 5655,
     'name' => 'Hotham Heights',
@@ -15787,7 +15040,7 @@ return array (
     'latitude' => -36.99298,
     'longitude' => 147.15225,
   ),
-  1754 => 
+  1671 => 
   array (
     'id' => 5656,
     'name' => 'Hove',
@@ -15796,7 +15049,7 @@ return array (
     'latitude' => -35.00814,
     'longitude' => 138.5212,
   ),
-  1755 => 
+  1672 => 
   array (
     'id' => 5657,
     'name' => 'Howard',
@@ -15805,7 +15058,7 @@ return array (
     'latitude' => -25.31934,
     'longitude' => 152.55986,
   ),
-  1756 => 
+  1673 => 
   array (
     'id' => 5658,
     'name' => 'Howard Springs',
@@ -15814,7 +15067,7 @@ return array (
     'latitude' => -12.49576,
     'longitude' => 131.04446,
   ),
-  1757 => 
+  1674 => 
   array (
     'id' => 5659,
     'name' => 'Howlong',
@@ -15823,7 +15076,7 @@ return array (
     'latitude' => -35.98197,
     'longitude' => 146.63248,
   ),
-  1758 => 
+  1675 => 
   array (
     'id' => 5660,
     'name' => 'Howrah',
@@ -15832,7 +15085,7 @@ return array (
     'latitude' => -42.88728,
     'longitude' => 147.40554,
   ),
-  1759 => 
+  1676 => 
   array (
     'id' => 5661,
     'name' => 'Hoxton Park',
@@ -15841,7 +15094,7 @@ return array (
     'latitude' => -33.93126,
     'longitude' => 150.85412,
   ),
-  1760 => 
+  1677 => 
   array (
     'id' => 5662,
     'name' => 'Hughenden',
@@ -15850,7 +15103,7 @@ return array (
     'latitude' => -20.84399,
     'longitude' => 144.20035,
   ),
-  1761 => 
+  1678 => 
   array (
     'id' => 5663,
     'name' => 'Hughes',
@@ -15859,7 +15112,7 @@ return array (
     'latitude' => -35.33269,
     'longitude' => 149.09491,
   ),
-  1762 => 
+  1679 => 
   array (
     'id' => 5664,
     'name' => 'Hughesdale',
@@ -15868,7 +15121,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.08333,
   ),
-  1763 => 
+  1680 => 
   array (
     'id' => 5665,
     'name' => 'Hume',
@@ -15877,7 +15130,7 @@ return array (
     'latitude' => -37.59717,
     'longitude' => 144.80511,
   ),
-  1764 => 
+  1681 => 
   array (
     'id' => 5666,
     'name' => 'Humpty Doo',
@@ -15886,7 +15139,7 @@ return array (
     'latitude' => -12.58406,
     'longitude' => 131.13674,
   ),
-  1765 => 
+  1682 => 
   array (
     'id' => 5667,
     'name' => 'Hunters Hill',
@@ -15895,7 +15148,7 @@ return array (
     'latitude' => -33.83437,
     'longitude' => 151.1451,
   ),
-  1766 => 
+  1683 => 
   array (
     'id' => 5668,
     'name' => 'Hunterview',
@@ -15904,7 +15157,7 @@ return array (
     'latitude' => -32.54343,
     'longitude' => 151.17717,
   ),
-  1767 => 
+  1684 => 
   array (
     'id' => 5669,
     'name' => 'Huntfield Heights',
@@ -15913,7 +15166,7 @@ return array (
     'latitude' => -35.15452,
     'longitude' => 138.51417,
   ),
-  1768 => 
+  1685 => 
   array (
     'id' => 5670,
     'name' => 'Huntingdale',
@@ -15922,16 +15175,7 @@ return array (
     'latitude' => -37.90766,
     'longitude' => 145.10847,
   ),
-  1769 => 
-  array (
-    'id' => 5671,
-    'name' => 'Huntingdale',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.08318,
-    'longitude' => 115.96614,
-  ),
-  1770 => 
+  1686 => 
   array (
     'id' => 5672,
     'name' => 'Huntly',
@@ -15940,7 +15184,7 @@ return array (
     'latitude' => -36.66451,
     'longitude' => 144.33382,
   ),
-  1771 => 
+  1687 => 
   array (
     'id' => 5673,
     'name' => 'Huon Valley',
@@ -15949,7 +15193,7 @@ return array (
     'latitude' => -43.29385,
     'longitude' => 146.56555,
   ),
-  1772 => 
+  1688 => 
   array (
     'id' => 5674,
     'name' => 'Huonville',
@@ -15958,7 +15202,7 @@ return array (
     'latitude' => -43.03124,
     'longitude' => 147.04813,
   ),
-  1773 => 
+  1689 => 
   array (
     'id' => 5675,
     'name' => 'Hurlstone Park',
@@ -15967,7 +15211,7 @@ return array (
     'latitude' => -33.90988,
     'longitude' => 151.12867,
   ),
-  1774 => 
+  1690 => 
   array (
     'id' => 5676,
     'name' => 'Hurstbridge',
@@ -15976,7 +15220,7 @@ return array (
     'latitude' => -37.64157,
     'longitude' => 145.19408,
   ),
-  1775 => 
+  1691 => 
   array (
     'id' => 5677,
     'name' => 'Hurstville',
@@ -15985,7 +15229,7 @@ return array (
     'latitude' => -33.9677,
     'longitude' => 151.10149,
   ),
-  1776 => 
+  1692 => 
   array (
     'id' => 5678,
     'name' => 'Hurstville Grove',
@@ -15994,7 +15238,7 @@ return array (
     'latitude' => -33.97993,
     'longitude' => 151.09029,
   ),
-  1777 => 
+  1693 => 
   array (
     'id' => 5679,
     'name' => 'Hyde Park',
@@ -16003,16 +15247,7 @@ return array (
     'latitude' => -19.27691,
     'longitude' => 146.79653,
   ),
-  1778 => 
-  array (
-    'id' => 5680,
-    'name' => 'Hyde Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.95467,
-    'longitude' => 138.60107,
-  ),
-  1779 => 
+  1694 => 
   array (
     'id' => 5681,
     'name' => 'Idalia',
@@ -16021,7 +15256,7 @@ return array (
     'latitude' => -19.30682,
     'longitude' => 146.81389,
   ),
-  1780 => 
+  1695 => 
   array (
     'id' => 5682,
     'name' => 'Illawong',
@@ -16030,7 +15265,7 @@ return array (
     'latitude' => -34.0,
     'longitude' => 151.03333,
   ),
-  1781 => 
+  1696 => 
   array (
     'id' => 5683,
     'name' => 'Iluka',
@@ -16039,16 +15274,7 @@ return array (
     'latitude' => -31.73554,
     'longitude' => 115.73058,
   ),
-  1782 => 
-  array (
-    'id' => 5684,
-    'name' => 'Iluka',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -29.40147,
-    'longitude' => 153.35112,
-  ),
-  1783 => 
+  1697 => 
   array (
     'id' => 5685,
     'name' => 'Inala',
@@ -16057,7 +15283,7 @@ return array (
     'latitude' => -27.59715,
     'longitude' => 152.97432,
   ),
-  1784 => 
+  1698 => 
   array (
     'id' => 5686,
     'name' => 'Indented Head',
@@ -16066,7 +15292,7 @@ return array (
     'latitude' => -38.14305,
     'longitude' => 144.71343,
   ),
-  1785 => 
+  1699 => 
   array (
     'id' => 5687,
     'name' => 'Indigo',
@@ -16075,7 +15301,7 @@ return array (
     'latitude' => -36.20854,
     'longitude' => 146.68628,
   ),
-  1786 => 
+  1700 => 
   array (
     'id' => 5688,
     'name' => 'Indooroopilly',
@@ -16084,7 +15310,7 @@ return array (
     'latitude' => -27.50302,
     'longitude' => 152.97518,
   ),
-  1787 => 
+  1701 => 
   array (
     'id' => 5689,
     'name' => 'Ingham',
@@ -16093,7 +15319,7 @@ return array (
     'latitude' => -18.64552,
     'longitude' => 146.16248,
   ),
-  1788 => 
+  1702 => 
   array (
     'id' => 5690,
     'name' => 'Ingle Farm',
@@ -16102,7 +15328,7 @@ return array (
     'latitude' => -34.83333,
     'longitude' => 138.63333,
   ),
-  1789 => 
+  1703 => 
   array (
     'id' => 5691,
     'name' => 'Ingleburn',
@@ -16111,7 +15337,7 @@ return array (
     'latitude' => -34.0,
     'longitude' => 150.86667,
   ),
-  1790 => 
+  1704 => 
   array (
     'id' => 5692,
     'name' => 'Inglewood',
@@ -16120,7 +15346,7 @@ return array (
     'latitude' => -31.91663,
     'longitude' => 115.8798,
   ),
-  1791 => 
+  1705 => 
   array (
     'id' => 5693,
     'name' => 'Innaloo',
@@ -16129,7 +15355,7 @@ return array (
     'latitude' => -31.89272,
     'longitude' => 115.79508,
   ),
-  1792 => 
+  1706 => 
   array (
     'id' => 5694,
     'name' => 'Innes Park',
@@ -16138,7 +15364,7 @@ return array (
     'latitude' => -24.86833,
     'longitude' => 152.47992,
   ),
-  1793 => 
+  1707 => 
   array (
     'id' => 5695,
     'name' => 'Innisfail',
@@ -16147,7 +15373,7 @@ return array (
     'latitude' => -17.52209,
     'longitude' => 146.03102,
   ),
-  1794 => 
+  1708 => 
   array (
     'id' => 5696,
     'name' => 'Innisfail Estate',
@@ -16156,7 +15382,7 @@ return array (
     'latitude' => -17.5183,
     'longitude' => 146.04474,
   ),
-  1795 => 
+  1709 => 
   array (
     'id' => 5697,
     'name' => 'Inverell',
@@ -16165,7 +15391,7 @@ return array (
     'latitude' => -29.31526,
     'longitude' => 151.04187,
   ),
-  1796 => 
+  1710 => 
   array (
     'id' => 5698,
     'name' => 'Inverleigh',
@@ -16174,7 +15400,7 @@ return array (
     'latitude' => -38.10177,
     'longitude' => 144.05132,
   ),
-  1797 => 
+  1711 => 
   array (
     'id' => 5699,
     'name' => 'Inverloch',
@@ -16183,7 +15409,7 @@ return array (
     'latitude' => -38.62659,
     'longitude' => 145.7226,
   ),
-  1798 => 
+  1712 => 
   array (
     'id' => 5700,
     'name' => 'Invermay',
@@ -16192,7 +15418,7 @@ return array (
     'latitude' => -41.42036,
     'longitude' => 147.13358,
   ),
-  1799 => 
+  1713 => 
   array (
     'id' => 5701,
     'name' => 'Invermay Park',
@@ -16201,7 +15427,7 @@ return array (
     'latitude' => -37.53063,
     'longitude' => 143.85798,
   ),
-  1800 => 
+  1714 => 
   array (
     'id' => 5702,
     'name' => 'Ipswich',
@@ -16210,7 +15436,7 @@ return array (
     'latitude' => -27.6779,
     'longitude' => 152.66188,
   ),
-  1801 => 
+  1715 => 
   array (
     'id' => 5703,
     'name' => 'Ironbark',
@@ -16219,7 +15445,7 @@ return array (
     'latitude' => -36.75478,
     'longitude' => 144.26378,
   ),
-  1802 => 
+  1716 => 
   array (
     'id' => 5704,
     'name' => 'Irwin',
@@ -16228,7 +15454,7 @@ return array (
     'latitude' => -29.34192,
     'longitude' => 115.04561,
   ),
-  1803 => 
+  1717 => 
   array (
     'id' => 5705,
     'name' => 'Irymple',
@@ -16237,7 +15463,7 @@ return array (
     'latitude' => -34.23537,
     'longitude' => 142.17101,
   ),
-  1804 => 
+  1718 => 
   array (
     'id' => 5706,
     'name' => 'Isaac',
@@ -16246,7 +15472,7 @@ return array (
     'latitude' => -22.24346,
     'longitude' => 148.23672,
   ),
-  1805 => 
+  1719 => 
   array (
     'id' => 5707,
     'name' => 'Isaacs',
@@ -16255,7 +15481,7 @@ return array (
     'latitude' => -35.36862,
     'longitude' => 149.11555,
   ),
-  1806 => 
+  1720 => 
   array (
     'id' => 5708,
     'name' => 'Isabella Plains',
@@ -16264,7 +15490,7 @@ return array (
     'latitude' => -35.42829,
     'longitude' => 149.08795,
   ),
-  1807 => 
+  1721 => 
   array (
     'id' => 5709,
     'name' => 'Islington',
@@ -16273,7 +15499,7 @@ return array (
     'latitude' => -32.91388,
     'longitude' => 151.74739,
   ),
-  1808 => 
+  1722 => 
   array (
     'id' => 5710,
     'name' => 'Ivanhoe',
@@ -16282,7 +15508,7 @@ return array (
     'latitude' => -37.76903,
     'longitude' => 145.04308,
   ),
-  1809 => 
+  1723 => 
   array (
     'id' => 5711,
     'name' => 'Ivanhoe East',
@@ -16291,7 +15517,7 @@ return array (
     'latitude' => -37.7734,
     'longitude' => 145.06195,
   ),
-  1810 => 
+  1724 => 
   array (
     'id' => 5712,
     'name' => 'Jabiru',
@@ -16300,7 +15526,7 @@ return array (
     'latitude' => -12.67049,
     'longitude' => 132.83604,
   ),
-  1811 => 
+  1725 => 
   array (
     'id' => 5713,
     'name' => 'Jacana',
@@ -16309,7 +15535,7 @@ return array (
     'latitude' => -37.68778,
     'longitude' => 144.91111,
   ),
-  1812 => 
+  1726 => 
   array (
     'id' => 5714,
     'name' => 'Jackass Flat',
@@ -16318,7 +15544,7 @@ return array (
     'latitude' => -36.71589,
     'longitude' => 144.28597,
   ),
-  1813 => 
+  1727 => 
   array (
     'id' => 5715,
     'name' => 'Jacobs Well',
@@ -16327,7 +15553,7 @@ return array (
     'latitude' => -27.77992,
     'longitude' => 153.36153,
   ),
-  1814 => 
+  1728 => 
   array (
     'id' => 5716,
     'name' => 'Jamberoo',
@@ -16336,7 +15562,7 @@ return array (
     'latitude' => -34.64745,
     'longitude' => 150.77464,
   ),
-  1815 => 
+  1729 => 
   array (
     'id' => 5717,
     'name' => 'Jamboree Heights',
@@ -16345,7 +15571,7 @@ return array (
     'latitude' => -27.55634,
     'longitude' => 152.93402,
   ),
-  1816 => 
+  1730 => 
   array (
     'id' => 5718,
     'name' => 'Jamestown',
@@ -16354,7 +15580,7 @@ return array (
     'latitude' => -33.20531,
     'longitude' => 138.60503,
   ),
-  1817 => 
+  1731 => 
   array (
     'id' => 5719,
     'name' => 'Jamisontown',
@@ -16363,7 +15589,7 @@ return array (
     'latitude' => -33.76797,
     'longitude' => 150.67681,
   ),
-  1818 => 
+  1732 => 
   array (
     'id' => 5720,
     'name' => 'Jan Juc',
@@ -16372,7 +15598,7 @@ return array (
     'latitude' => -38.34455,
     'longitude' => 144.29518,
   ),
-  1819 => 
+  1733 => 
   array (
     'id' => 5721,
     'name' => 'Jandakot',
@@ -16381,7 +15607,7 @@ return array (
     'latitude' => -32.10158,
     'longitude' => 115.87083,
   ),
-  1820 => 
+  1734 => 
   array (
     'id' => 5722,
     'name' => 'Jandowae',
@@ -16390,7 +15616,7 @@ return array (
     'latitude' => -26.78411,
     'longitude' => 151.1124,
   ),
-  1821 => 
+  1735 => 
   array (
     'id' => 5723,
     'name' => 'Jane Brook',
@@ -16399,7 +15625,7 @@ return array (
     'latitude' => -31.86368,
     'longitude' => 116.05039,
   ),
-  1822 => 
+  1736 => 
   array (
     'id' => 5724,
     'name' => 'Jannali',
@@ -16408,7 +15634,7 @@ return array (
     'latitude' => -34.01643,
     'longitude' => 151.06065,
   ),
-  1823 => 
+  1737 => 
   array (
     'id' => 5725,
     'name' => 'Jarrahdale',
@@ -16417,7 +15643,7 @@ return array (
     'latitude' => -32.3358,
     'longitude' => 116.05951,
   ),
-  1824 => 
+  1738 => 
   array (
     'id' => 5726,
     'name' => 'Jensen',
@@ -16426,7 +15652,7 @@ return array (
     'latitude' => -19.2457,
     'longitude' => 146.65289,
   ),
-  1825 => 
+  1739 => 
   array (
     'id' => 5727,
     'name' => 'Jerilderie',
@@ -16435,7 +15661,7 @@ return array (
     'latitude' => -35.35757,
     'longitude' => 145.72962,
   ),
-  1826 => 
+  1740 => 
   array (
     'id' => 5728,
     'name' => 'Jerrabomberra',
@@ -16444,7 +15670,7 @@ return array (
     'latitude' => -35.38441,
     'longitude' => 149.20248,
   ),
-  1827 => 
+  1741 => 
   array (
     'id' => 5729,
     'name' => 'Jerramungup',
@@ -16453,7 +15679,7 @@ return array (
     'latitude' => -34.0305,
     'longitude' => 119.11369,
   ),
-  1828 => 
+  1742 => 
   array (
     'id' => 5730,
     'name' => 'Jesmond',
@@ -16462,7 +15688,7 @@ return array (
     'latitude' => -32.90275,
     'longitude' => 151.69072,
   ),
-  1829 => 
+  1743 => 
   array (
     'id' => 5731,
     'name' => 'Jewells',
@@ -16471,7 +15697,7 @@ return array (
     'latitude' => -33.01386,
     'longitude' => 151.68308,
   ),
-  1830 => 
+  1744 => 
   array (
     'id' => 5732,
     'name' => 'Jilliby',
@@ -16480,7 +15706,7 @@ return array (
     'latitude' => -33.22605,
     'longitude' => 151.41684,
   ),
-  1831 => 
+  1745 => 
   array (
     'id' => 5733,
     'name' => 'Jimboomba',
@@ -16489,7 +15715,7 @@ return array (
     'latitude' => -27.83118,
     'longitude' => 153.02737,
   ),
-  1832 => 
+  1746 => 
   array (
     'id' => 5734,
     'name' => 'Jindabyne',
@@ -16498,7 +15724,7 @@ return array (
     'latitude' => -36.41745,
     'longitude' => 148.62254,
   ),
-  1833 => 
+  1747 => 
   array (
     'id' => 5735,
     'name' => 'Jindalee',
@@ -16507,16 +15733,7 @@ return array (
     'latitude' => -31.64938,
     'longitude' => 115.69496,
   ),
-  1834 => 
-  array (
-    'id' => 5736,
-    'name' => 'Jindalee',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.53446,
-    'longitude' => 152.93843,
-  ),
-  1835 => 
+  1748 => 
   array (
     'id' => 5737,
     'name' => 'Jindera',
@@ -16525,7 +15742,7 @@ return array (
     'latitude' => -35.95474,
     'longitude' => 146.88852,
   ),
-  1836 => 
+  1749 => 
   array (
     'id' => 5738,
     'name' => 'Jingili',
@@ -16534,7 +15751,7 @@ return array (
     'latitude' => -12.38895,
     'longitude' => 130.87281,
   ),
-  1837 => 
+  1750 => 
   array (
     'id' => 5739,
     'name' => 'Johnston',
@@ -16543,7 +15760,7 @@ return array (
     'latitude' => -12.48764,
     'longitude' => 131.01169,
   ),
-  1838 => 
+  1751 => 
   array (
     'id' => 5740,
     'name' => 'Jolimont',
@@ -16552,7 +15769,7 @@ return array (
     'latitude' => -31.94564,
     'longitude' => 115.80947,
   ),
-  1839 => 
+  1752 => 
   array (
     'id' => 5741,
     'name' => 'Joondalup',
@@ -16561,7 +15778,7 @@ return array (
     'latitude' => -31.77962,
     'longitude' => 115.76498,
   ),
-  1840 => 
+  1753 => 
   array (
     'id' => 5742,
     'name' => 'Joondanna',
@@ -16570,7 +15787,7 @@ return array (
     'latitude' => -31.90767,
     'longitude' => 115.84233,
   ),
-  1841 => 
+  1754 => 
   array (
     'id' => 5743,
     'name' => 'Jordan Springs',
@@ -16579,7 +15796,7 @@ return array (
     'latitude' => -33.72138,
     'longitude' => 150.72873,
   ),
-  1842 => 
+  1755 => 
   array (
     'id' => 5744,
     'name' => 'Joslin',
@@ -16588,7 +15805,7 @@ return array (
     'latitude' => -34.89967,
     'longitude' => 138.62655,
   ),
-  1843 => 
+  1756 => 
   array (
     'id' => 5745,
     'name' => 'Joyner',
@@ -16597,7 +15814,7 @@ return array (
     'latitude' => -27.27613,
     'longitude' => 152.94471,
   ),
-  1844 => 
+  1757 => 
   array (
     'id' => 5746,
     'name' => 'Jubilee Pocket',
@@ -16606,7 +15823,7 @@ return array (
     'latitude' => -20.28809,
     'longitude' => 148.72938,
   ),
-  1845 => 
+  1758 => 
   array (
     'id' => 5747,
     'name' => 'Julatten',
@@ -16615,7 +15832,7 @@ return array (
     'latitude' => -16.6072,
     'longitude' => 145.34118,
   ),
-  1846 => 
+  1759 => 
   array (
     'id' => 5748,
     'name' => 'Junction Hill',
@@ -16624,7 +15841,7 @@ return array (
     'latitude' => -29.64113,
     'longitude' => 152.92491,
   ),
-  1847 => 
+  1760 => 
   array (
     'id' => 5749,
     'name' => 'Junction Village',
@@ -16633,7 +15850,7 @@ return array (
     'latitude' => -38.13636,
     'longitude' => 145.29684,
   ),
-  1848 => 
+  1761 => 
   array (
     'id' => 5750,
     'name' => 'Junee',
@@ -16642,7 +15859,7 @@ return array (
     'latitude' => -34.86819,
     'longitude' => 147.58273,
   ),
-  1849 => 
+  1762 => 
   array (
     'id' => 5751,
     'name' => 'Junortoun',
@@ -16651,7 +15868,7 @@ return array (
     'latitude' => -36.77106,
     'longitude' => 144.36311,
   ),
-  1850 => 
+  1763 => 
   array (
     'id' => 5752,
     'name' => 'Jurien Bay',
@@ -16660,7 +15877,7 @@ return array (
     'latitude' => -30.30591,
     'longitude' => 115.03825,
   ),
-  1851 => 
+  1764 => 
   array (
     'id' => 5753,
     'name' => 'Kadina',
@@ -16669,7 +15886,7 @@ return array (
     'latitude' => -33.96495,
     'longitude' => 137.71634,
   ),
-  1852 => 
+  1765 => 
   array (
     'id' => 5754,
     'name' => 'Kahibah',
@@ -16678,7 +15895,7 @@ return array (
     'latitude' => -32.96175,
     'longitude' => 151.71251,
   ),
-  1853 => 
+  1766 => 
   array (
     'id' => 5755,
     'name' => 'Kalamunda',
@@ -16687,7 +15904,7 @@ return array (
     'latitude' => -32.00398,
     'longitude' => 116.13292,
   ),
-  1854 => 
+  1767 => 
   array (
     'id' => 5756,
     'name' => 'Kalbar',
@@ -16696,7 +15913,7 @@ return array (
     'latitude' => -27.94169,
     'longitude' => 152.62372,
   ),
-  1855 => 
+  1768 => 
   array (
     'id' => 5757,
     'name' => 'Kalbarri',
@@ -16705,7 +15922,7 @@ return array (
     'latitude' => -27.7105,
     'longitude' => 114.16505,
   ),
-  1856 => 
+  1769 => 
   array (
     'id' => 5758,
     'name' => 'Kaleen',
@@ -16714,7 +15931,7 @@ return array (
     'latitude' => -35.21814,
     'longitude' => 149.10516,
   ),
-  1857 => 
+  1770 => 
   array (
     'id' => 5759,
     'name' => 'Kalgoorlie',
@@ -16723,7 +15940,7 @@ return array (
     'latitude' => -30.74614,
     'longitude' => 121.4742,
   ),
-  1858 => 
+  1771 => 
   array (
     'id' => 5760,
     'name' => 'Kalgoorlie/Boulder',
@@ -16732,7 +15949,7 @@ return array (
     'latitude' => -30.77632,
     'longitude' => 124.92347,
   ),
-  1859 => 
+  1772 => 
   array (
     'id' => 5761,
     'name' => 'Kalimna',
@@ -16741,7 +15958,7 @@ return array (
     'latitude' => -37.87011,
     'longitude' => 147.96664,
   ),
-  1860 => 
+  1773 => 
   array (
     'id' => 5762,
     'name' => 'Kalinga',
@@ -16750,7 +15967,7 @@ return array (
     'latitude' => -27.40957,
     'longitude' => 153.05061,
   ),
-  1861 => 
+  1774 => 
   array (
     'id' => 5763,
     'name' => 'Kalkie',
@@ -16759,7 +15976,7 @@ return array (
     'latitude' => -24.84426,
     'longitude' => 152.38532,
   ),
-  1862 => 
+  1775 => 
   array (
     'id' => 5764,
     'name' => 'Kallangur',
@@ -16768,7 +15985,7 @@ return array (
     'latitude' => -27.25204,
     'longitude' => 152.99226,
   ),
-  1863 => 
+  1776 => 
   array (
     'id' => 5765,
     'name' => 'Kallaroo',
@@ -16777,7 +15994,7 @@ return array (
     'latitude' => -31.79098,
     'longitude' => 115.75298,
   ),
-  1864 => 
+  1777 => 
   array (
     'id' => 5766,
     'name' => 'Kallista',
@@ -16786,7 +16003,7 @@ return array (
     'latitude' => -37.89815,
     'longitude' => 145.38226,
   ),
-  1865 => 
+  1778 => 
   array (
     'id' => 5767,
     'name' => 'Kalorama',
@@ -16795,7 +16012,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.36667,
   ),
-  1866 => 
+  1779 => 
   array (
     'id' => 5768,
     'name' => 'Kambah',
@@ -16804,7 +16021,7 @@ return array (
     'latitude' => -35.38624,
     'longitude' => 149.05804,
   ),
-  1867 => 
+  1780 => 
   array (
     'id' => 5769,
     'name' => 'Kambalda East',
@@ -16813,7 +16030,7 @@ return array (
     'latitude' => -31.2055,
     'longitude' => 121.67011,
   ),
-  1868 => 
+  1781 => 
   array (
     'id' => 5770,
     'name' => 'Kambalda West',
@@ -16822,7 +16039,7 @@ return array (
     'latitude' => -31.20169,
     'longitude' => 121.6306,
   ),
-  1869 => 
+  1782 => 
   array (
     'id' => 5771,
     'name' => 'Kamerunga',
@@ -16831,7 +16048,7 @@ return array (
     'latitude' => -16.87321,
     'longitude' => 145.7013,
   ),
-  1870 => 
+  1783 => 
   array (
     'id' => 5772,
     'name' => 'Kanahooka',
@@ -16840,7 +16057,7 @@ return array (
     'latitude' => -34.4916,
     'longitude' => 150.80817,
   ),
-  1871 => 
+  1784 => 
   array (
     'id' => 5773,
     'name' => 'Kandos',
@@ -16849,7 +16066,7 @@ return array (
     'latitude' => -32.85772,
     'longitude' => 149.96832,
   ),
-  1872 => 
+  1785 => 
   array (
     'id' => 5774,
     'name' => 'Kangaroo Flat',
@@ -16858,7 +16075,7 @@ return array (
     'latitude' => -36.8,
     'longitude' => 144.25,
   ),
-  1873 => 
+  1786 => 
   array (
     'id' => 5775,
     'name' => 'Kangaroo Ground',
@@ -16867,7 +16084,7 @@ return array (
     'latitude' => -37.68919,
     'longitude' => 145.2317,
   ),
-  1874 => 
+  1787 => 
   array (
     'id' => 5776,
     'name' => 'Kangaroo Island',
@@ -16876,7 +16093,7 @@ return array (
     'latitude' => -35.8239,
     'longitude' => 137.33392,
   ),
-  1875 => 
+  1788 => 
   array (
     'id' => 5777,
     'name' => 'Kangaroo Point',
@@ -16885,7 +16102,7 @@ return array (
     'latitude' => -27.47679,
     'longitude' => 153.0367,
   ),
-  1876 => 
+  1789 => 
   array (
     'id' => 5778,
     'name' => 'Kanimbla',
@@ -16894,7 +16111,7 @@ return array (
     'latitude' => -16.92307,
     'longitude' => 145.72158,
   ),
-  1877 => 
+  1790 => 
   array (
     'id' => 5779,
     'name' => 'Kanwal',
@@ -16903,7 +16120,7 @@ return array (
     'latitude' => -33.253,
     'longitude' => 151.4911,
   ),
-  1878 => 
+  1791 => 
   array (
     'id' => 5780,
     'name' => 'Kapooka',
@@ -16912,7 +16129,7 @@ return array (
     'latitude' => -35.15693,
     'longitude' => 147.28439,
   ),
-  1879 => 
+  1792 => 
   array (
     'id' => 5781,
     'name' => 'Kapunda',
@@ -16921,7 +16138,7 @@ return array (
     'latitude' => -34.33871,
     'longitude' => 138.91644,
   ),
-  1880 => 
+  1793 => 
   array (
     'id' => 5782,
     'name' => 'Karabar',
@@ -16930,7 +16147,7 @@ return array (
     'latitude' => -35.37595,
     'longitude' => 149.2328,
   ),
-  1881 => 
+  1794 => 
   array (
     'id' => 5783,
     'name' => 'Karalee',
@@ -16939,7 +16156,7 @@ return array (
     'latitude' => -27.56485,
     'longitude' => 152.82446,
   ),
-  1882 => 
+  1795 => 
   array (
     'id' => 5784,
     'name' => 'Karama',
@@ -16948,7 +16165,7 @@ return array (
     'latitude' => -12.40219,
     'longitude' => 130.916,
   ),
-  1883 => 
+  1796 => 
   array (
     'id' => 5785,
     'name' => 'Karana Downs',
@@ -16957,7 +16174,7 @@ return array (
     'latitude' => -27.54857,
     'longitude' => 152.80728,
   ),
-  1884 => 
+  1797 => 
   array (
     'id' => 5786,
     'name' => 'Karawara',
@@ -16966,7 +16183,7 @@ return array (
     'latitude' => -32.0086,
     'longitude' => 115.88114,
   ),
-  1885 => 
+  1798 => 
   array (
     'id' => 5787,
     'name' => 'Kardinya',
@@ -16975,7 +16192,7 @@ return array (
     'latitude' => -32.06561,
     'longitude' => 115.81483,
   ),
-  1886 => 
+  1799 => 
   array (
     'id' => 5788,
     'name' => 'Kareela',
@@ -16984,7 +16201,7 @@ return array (
     'latitude' => -34.01336,
     'longitude' => 151.08345,
   ),
-  1887 => 
+  1800 => 
   array (
     'id' => 5789,
     'name' => 'Kariong',
@@ -16993,7 +16210,7 @@ return array (
     'latitude' => -33.43972,
     'longitude' => 151.29453,
   ),
-  1888 => 
+  1801 => 
   array (
     'id' => 5790,
     'name' => 'Karnup',
@@ -17002,7 +16219,7 @@ return array (
     'latitude' => -32.41894,
     'longitude' => 115.79267,
   ),
-  1889 => 
+  1802 => 
   array (
     'id' => 5791,
     'name' => 'Karoonda East Murray',
@@ -17011,7 +16228,7 @@ return array (
     'latitude' => -34.92846,
     'longitude' => 140.02484,
   ),
-  1890 => 
+  1803 => 
   array (
     'id' => 5792,
     'name' => 'Karratha',
@@ -17020,7 +16237,7 @@ return array (
     'latitude' => -20.73765,
     'longitude' => 116.84629,
   ),
-  1891 => 
+  1804 => 
   array (
     'id' => 5793,
     'name' => 'Karrinyup',
@@ -17029,7 +16246,7 @@ return array (
     'latitude' => -31.87233,
     'longitude' => 115.77684,
   ),
-  1892 => 
+  1805 => 
   array (
     'id' => 5794,
     'name' => 'Karuah',
@@ -17038,7 +16255,7 @@ return array (
     'latitude' => -32.65389,
     'longitude' => 151.9604,
   ),
-  1893 => 
+  1806 => 
   array (
     'id' => 5795,
     'name' => 'Karumba',
@@ -17047,7 +16264,7 @@ return array (
     'latitude' => -17.48691,
     'longitude' => 140.84262,
   ),
-  1894 => 
+  1807 => 
   array (
     'id' => 5796,
     'name' => 'Katanning',
@@ -17056,7 +16273,7 @@ return array (
     'latitude' => -33.62476,
     'longitude' => 117.63965,
   ),
-  1895 => 
+  1808 => 
   array (
     'id' => 5797,
     'name' => 'Katherine',
@@ -17065,7 +16282,7 @@ return array (
     'latitude' => -14.65012,
     'longitude' => 132.17414,
   ),
-  1896 => 
+  1809 => 
   array (
     'id' => 5798,
     'name' => 'Katherine East',
@@ -17074,7 +16291,7 @@ return array (
     'latitude' => -14.46597,
     'longitude' => 132.28556,
   ),
-  1897 => 
+  1810 => 
   array (
     'id' => 5799,
     'name' => 'Katherine South',
@@ -17083,7 +16300,7 @@ return array (
     'latitude' => -14.46784,
     'longitude' => 132.25848,
   ),
-  1898 => 
+  1811 => 
   array (
     'id' => 5800,
     'name' => 'Katoomba',
@@ -17092,7 +16309,7 @@ return array (
     'latitude' => -33.71977,
     'longitude' => 150.30739,
   ),
-  1899 => 
+  1812 => 
   array (
     'id' => 5801,
     'name' => 'Kawana',
@@ -17101,7 +16318,7 @@ return array (
     'latitude' => -23.33933,
     'longitude' => 150.50493,
   ),
-  1900 => 
+  1813 => 
   array (
     'id' => 5802,
     'name' => 'Kawungan',
@@ -17110,7 +16327,7 @@ return array (
     'latitude' => -25.29879,
     'longitude' => 152.846,
   ),
-  1901 => 
+  1814 => 
   array (
     'id' => 5803,
     'name' => 'Kealba',
@@ -17119,7 +16336,7 @@ return array (
     'latitude' => -37.7371,
     'longitude' => 144.8283,
   ),
-  1902 => 
+  1815 => 
   array (
     'id' => 5804,
     'name' => 'Kearneys Spring',
@@ -17128,7 +16345,7 @@ return array (
     'latitude' => -27.60495,
     'longitude' => 151.94098,
   ),
-  1903 => 
+  1816 => 
   array (
     'id' => 5805,
     'name' => 'Kearns',
@@ -17137,7 +16354,7 @@ return array (
     'latitude' => -34.02191,
     'longitude' => 150.80082,
   ),
-  1904 => 
+  1817 => 
   array (
     'id' => 5806,
     'name' => 'Kedron',
@@ -17146,7 +16363,7 @@ return array (
     'latitude' => -27.40286,
     'longitude' => 153.02969,
   ),
-  1905 => 
+  1818 => 
   array (
     'id' => 5807,
     'name' => 'Keilor',
@@ -17155,7 +16372,7 @@ return array (
     'latitude' => -37.71667,
     'longitude' => 144.83333,
   ),
-  1906 => 
+  1819 => 
   array (
     'id' => 5808,
     'name' => 'Keilor Downs',
@@ -17164,7 +16381,7 @@ return array (
     'latitude' => -37.72337,
     'longitude' => 144.80839,
   ),
-  1907 => 
+  1820 => 
   array (
     'id' => 5809,
     'name' => 'Keilor East',
@@ -17173,7 +16390,7 @@ return array (
     'latitude' => -37.73261,
     'longitude' => 144.86504,
   ),
-  1908 => 
+  1821 => 
   array (
     'id' => 5810,
     'name' => 'Keilor Lodge',
@@ -17182,7 +16399,7 @@ return array (
     'latitude' => -37.69997,
     'longitude' => 144.80332,
   ),
-  1909 => 
+  1822 => 
   array (
     'id' => 5811,
     'name' => 'Keilor Park',
@@ -17191,7 +16408,7 @@ return array (
     'latitude' => -37.72025,
     'longitude' => 144.85422,
   ),
-  1910 => 
+  1823 => 
   array (
     'id' => 5812,
     'name' => 'Keiraville',
@@ -17200,7 +16417,7 @@ return array (
     'latitude' => -34.41667,
     'longitude' => 150.86667,
   ),
-  1911 => 
+  1824 => 
   array (
     'id' => 5813,
     'name' => 'Keith',
@@ -17209,7 +16426,7 @@ return array (
     'latitude' => -36.0991,
     'longitude' => 140.35315,
   ),
-  1912 => 
+  1825 => 
   array (
     'id' => 5814,
     'name' => 'Kellerberrin',
@@ -17218,7 +16435,7 @@ return array (
     'latitude' => -31.57709,
     'longitude' => 117.80561,
   ),
-  1913 => 
+  1826 => 
   array (
     'id' => 5815,
     'name' => 'Kellyville',
@@ -17227,7 +16444,7 @@ return array (
     'latitude' => -33.71028,
     'longitude' => 150.95095,
   ),
-  1914 => 
+  1827 => 
   array (
     'id' => 5816,
     'name' => 'Kellyville Ridge',
@@ -17236,7 +16453,7 @@ return array (
     'latitude' => -33.70156,
     'longitude' => 150.9179,
   ),
-  1915 => 
+  1828 => 
   array (
     'id' => 5817,
     'name' => 'Kelmscott',
@@ -17245,7 +16462,7 @@ return array (
     'latitude' => -32.12434,
     'longitude' => 116.0259,
   ),
-  1916 => 
+  1829 => 
   array (
     'id' => 5818,
     'name' => 'Kelso',
@@ -17254,16 +16471,7 @@ return array (
     'latitude' => -33.41667,
     'longitude' => 149.6,
   ),
-  1917 => 
-  array (
-    'id' => 5819,
-    'name' => 'Kelso',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -19.38932,
-    'longitude' => 146.71912,
-  ),
-  1918 => 
+  1830 => 
   array (
     'id' => 5820,
     'name' => 'Kelvin Grove',
@@ -17272,7 +16480,7 @@ return array (
     'latitude' => -27.44819,
     'longitude' => 153.01337,
   ),
-  1919 => 
+  1831 => 
   array (
     'id' => 5821,
     'name' => 'Kemps Creek',
@@ -17281,7 +16489,7 @@ return array (
     'latitude' => -33.88059,
     'longitude' => 150.78761,
   ),
-  1920 => 
+  1832 => 
   array (
     'id' => 5822,
     'name' => 'Kempsey',
@@ -17290,7 +16498,7 @@ return array (
     'latitude' => -30.90553,
     'longitude' => 152.68608,
   ),
-  1921 => 
+  1833 => 
   array (
     'id' => 5823,
     'name' => 'Kendall',
@@ -17299,7 +16507,7 @@ return array (
     'latitude' => -31.63295,
     'longitude' => 152.70393,
   ),
-  1922 => 
+  1834 => 
   array (
     'id' => 5824,
     'name' => 'Kenmore',
@@ -17308,7 +16516,7 @@ return array (
     'latitude' => -27.50759,
     'longitude' => 152.93879,
   ),
-  1923 => 
+  1835 => 
   array (
     'id' => 5825,
     'name' => 'Kenmore Hills',
@@ -17317,7 +16525,7 @@ return array (
     'latitude' => -27.5042,
     'longitude' => 152.93183,
   ),
-  1924 => 
+  1836 => 
   array (
     'id' => 5826,
     'name' => 'Kennington',
@@ -17326,7 +16534,7 @@ return array (
     'latitude' => -36.77128,
     'longitude' => 144.30298,
   ),
-  1925 => 
+  1837 => 
   array (
     'id' => 5827,
     'name' => 'Kensington',
@@ -17335,16 +16543,7 @@ return array (
     'latitude' => -37.79188,
     'longitude' => 144.93114,
   ),
-  1926 => 
-  array (
-    'id' => 5828,
-    'name' => 'Kensington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.92019,
-    'longitude' => 151.22241,
-  ),
-  1927 => 
+  1838 => 
   array (
     'id' => 5829,
     'name' => 'Kensington Gardens',
@@ -17353,7 +16552,7 @@ return array (
     'latitude' => -34.92582,
     'longitude' => 138.66145,
   ),
-  1928 => 
+  1839 => 
   array (
     'id' => 5830,
     'name' => 'Kensington Grove',
@@ -17362,7 +16561,7 @@ return array (
     'latitude' => -27.53278,
     'longitude' => 152.47205,
   ),
-  1929 => 
+  1840 => 
   array (
     'id' => 5831,
     'name' => 'Kensington Park',
@@ -17371,7 +16570,7 @@ return array (
     'latitude' => -34.92022,
     'longitude' => 138.6543,
   ),
-  1930 => 
+  1841 => 
   array (
     'id' => 5832,
     'name' => 'Kent Shire',
@@ -17380,7 +16579,7 @@ return array (
     'latitude' => -33.53881,
     'longitude' => 118.66993,
   ),
-  1931 => 
+  1842 => 
   array (
     'id' => 5833,
     'name' => 'Kent Town',
@@ -17389,7 +16588,7 @@ return array (
     'latitude' => -34.92155,
     'longitude' => 138.62009,
   ),
-  1932 => 
+  1843 => 
   array (
     'id' => 5834,
     'name' => 'Kenthurst',
@@ -17398,7 +16597,7 @@ return array (
     'latitude' => -33.65527,
     'longitude' => 151.00503,
   ),
-  1933 => 
+  1844 => 
   array (
     'id' => 5835,
     'name' => 'Kentish',
@@ -17407,7 +16606,7 @@ return array (
     'latitude' => -41.46341,
     'longitude' => 146.17726,
   ),
-  1934 => 
+  1845 => 
   array (
     'id' => 5836,
     'name' => 'Kenwick',
@@ -17416,7 +16615,7 @@ return array (
     'latitude' => -32.03333,
     'longitude' => 115.96667,
   ),
-  1935 => 
+  1846 => 
   array (
     'id' => 5837,
     'name' => 'Keperra',
@@ -17425,7 +16624,7 @@ return array (
     'latitude' => -27.41376,
     'longitude' => 152.94703,
   ),
-  1936 => 
+  1847 => 
   array (
     'id' => 5838,
     'name' => 'Kepnock',
@@ -17434,7 +16633,7 @@ return array (
     'latitude' => -24.87606,
     'longitude' => 152.37518,
   ),
-  1937 => 
+  1848 => 
   array (
     'id' => 5839,
     'name' => 'Kerang',
@@ -17443,7 +16642,7 @@ return array (
     'latitude' => -35.73489,
     'longitude' => 143.92027,
   ),
-  1938 => 
+  1849 => 
   array (
     'id' => 5840,
     'name' => 'Kersbrook',
@@ -17452,7 +16651,7 @@ return array (
     'latitude' => -34.78305,
     'longitude' => 138.85091,
   ),
-  1939 => 
+  1850 => 
   array (
     'id' => 5841,
     'name' => 'Kew',
@@ -17461,16 +16660,7 @@ return array (
     'latitude' => -37.80639,
     'longitude' => 145.03086,
   ),
-  1940 => 
-  array (
-    'id' => 5842,
-    'name' => 'Kew',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.63602,
-    'longitude' => 152.72662,
-  ),
-  1941 => 
+  1851 => 
   array (
     'id' => 5843,
     'name' => 'Kew East',
@@ -17479,7 +16669,7 @@ return array (
     'latitude' => -37.79758,
     'longitude' => 145.05378,
   ),
-  1942 => 
+  1852 => 
   array (
     'id' => 5844,
     'name' => 'Kewarra Beach',
@@ -17488,7 +16678,7 @@ return array (
     'latitude' => -16.78219,
     'longitude' => 145.68455,
   ),
-  1943 => 
+  1853 => 
   array (
     'id' => 5845,
     'name' => 'Kewdale',
@@ -17497,7 +16687,7 @@ return array (
     'latitude' => -31.97886,
     'longitude' => 115.95159,
   ),
-  1944 => 
+  1854 => 
   array (
     'id' => 5846,
     'name' => 'Keysborough',
@@ -17506,7 +16696,7 @@ return array (
     'latitude' => -37.99116,
     'longitude' => 145.17385,
   ),
-  1945 => 
+  1855 => 
   array (
     'id' => 5847,
     'name' => 'Kialla',
@@ -17515,7 +16705,7 @@ return array (
     'latitude' => -36.44729,
     'longitude' => 145.41422,
   ),
-  1946 => 
+  1856 => 
   array (
     'id' => 5848,
     'name' => 'Kiama',
@@ -17524,7 +16714,7 @@ return array (
     'latitude' => -34.67124,
     'longitude' => 150.84572,
   ),
-  1947 => 
+  1857 => 
   array (
     'id' => 5849,
     'name' => 'Kiama Downs',
@@ -17533,7 +16723,7 @@ return array (
     'latitude' => -34.63341,
     'longitude' => 150.85456,
   ),
-  1948 => 
+  1858 => 
   array (
     'id' => 5850,
     'name' => 'Kiara',
@@ -17542,7 +16732,7 @@ return array (
     'latitude' => -31.88156,
     'longitude' => 115.93893,
   ),
-  1949 => 
+  1859 => 
   array (
     'id' => 5851,
     'name' => 'Kidman Park',
@@ -17551,7 +16741,7 @@ return array (
     'latitude' => -34.91224,
     'longitude' => 138.52693,
   ),
-  1950 => 
+  1860 => 
   array (
     'id' => 5852,
     'name' => 'Kilaben Bay',
@@ -17560,7 +16750,7 @@ return array (
     'latitude' => -33.02395,
     'longitude' => 151.59197,
   ),
-  1951 => 
+  1861 => 
   array (
     'id' => 5853,
     'name' => 'Kilburn',
@@ -17569,7 +16759,7 @@ return array (
     'latitude' => -34.8597,
     'longitude' => 138.58559,
   ),
-  1952 => 
+  1862 => 
   array (
     'id' => 5854,
     'name' => 'Kilcoy',
@@ -17578,7 +16768,7 @@ return array (
     'latitude' => -26.943,
     'longitude' => 152.56545,
   ),
-  1953 => 
+  1863 => 
   array (
     'id' => 5855,
     'name' => 'Kilkenny',
@@ -17587,7 +16777,7 @@ return array (
     'latitude' => -34.87914,
     'longitude' => 138.5529,
   ),
-  1954 => 
+  1864 => 
   array (
     'id' => 5856,
     'name' => 'Killara',
@@ -17596,7 +16786,7 @@ return array (
     'latitude' => -33.76604,
     'longitude' => 151.16213,
   ),
-  1955 => 
+  1865 => 
   array (
     'id' => 5857,
     'name' => 'Killarney Heights',
@@ -17605,7 +16795,7 @@ return array (
     'latitude' => -33.77451,
     'longitude' => 151.22028,
   ),
-  1956 => 
+  1866 => 
   array (
     'id' => 5858,
     'name' => 'Killarney Vale',
@@ -17614,7 +16804,7 @@ return array (
     'latitude' => -33.36319,
     'longitude' => 151.45799,
   ),
-  1957 => 
+  1867 => 
   array (
     'id' => 5859,
     'name' => 'Kilmore',
@@ -17623,7 +16813,7 @@ return array (
     'latitude' => -37.29577,
     'longitude' => 144.95252,
   ),
-  1958 => 
+  1868 => 
   array (
     'id' => 5860,
     'name' => 'Kilsyth',
@@ -17632,7 +16822,7 @@ return array (
     'latitude' => -37.8,
     'longitude' => 145.31667,
   ),
-  1959 => 
+  1869 => 
   array (
     'id' => 5861,
     'name' => 'Kilsyth South',
@@ -17641,7 +16831,7 @@ return array (
     'latitude' => -37.82033,
     'longitude' => 145.31599,
   ),
-  1960 => 
+  1870 => 
   array (
     'id' => 5862,
     'name' => 'Kimba',
@@ -17650,7 +16840,7 @@ return array (
     'latitude' => -33.04817,
     'longitude' => 136.31797,
   ),
-  1961 => 
+  1871 => 
   array (
     'id' => 5863,
     'name' => 'Kin Kora',
@@ -17659,7 +16849,7 @@ return array (
     'latitude' => -23.87705,
     'longitude' => 151.24722,
   ),
-  1962 => 
+  1872 => 
   array (
     'id' => 5864,
     'name' => 'King Creek',
@@ -17668,7 +16858,7 @@ return array (
     'latitude' => -31.49237,
     'longitude' => 152.75658,
   ),
-  1963 => 
+  1873 => 
   array (
     'id' => 5865,
     'name' => 'King Island',
@@ -17677,7 +16867,7 @@ return array (
     'latitude' => -39.87215,
     'longitude' => 143.99153,
   ),
-  1964 => 
+  1874 => 
   array (
     'id' => 5866,
     'name' => 'Kingaroy',
@@ -17686,7 +16876,7 @@ return array (
     'latitude' => -26.53994,
     'longitude' => 151.8373,
   ),
-  1965 => 
+  1875 => 
   array (
     'id' => 5867,
     'name' => 'Kingborough',
@@ -17695,7 +16885,7 @@ return array (
     'latitude' => -42.97451,
     'longitude' => 147.25113,
   ),
-  1966 => 
+  1876 => 
   array (
     'id' => 5868,
     'name' => 'Kinglake',
@@ -17704,7 +16894,7 @@ return array (
     'latitude' => -37.53291,
     'longitude' => 145.33964,
   ),
-  1967 => 
+  1877 => 
   array (
     'id' => 5869,
     'name' => 'Kinglake West',
@@ -17713,7 +16903,7 @@ return array (
     'latitude' => -37.46667,
     'longitude' => 145.23333,
   ),
-  1968 => 
+  1878 => 
   array (
     'id' => 5870,
     'name' => 'Kings Beach',
@@ -17722,7 +16912,7 @@ return array (
     'latitude' => -26.80166,
     'longitude' => 153.14261,
   ),
-  1969 => 
+  1879 => 
   array (
     'id' => 5871,
     'name' => 'Kings Langley',
@@ -17731,7 +16921,7 @@ return array (
     'latitude' => -33.75005,
     'longitude' => 150.93542,
   ),
-  1970 => 
+  1880 => 
   array (
     'id' => 5872,
     'name' => 'Kings Meadows',
@@ -17740,7 +16930,7 @@ return array (
     'latitude' => -41.47041,
     'longitude' => 147.16196,
   ),
-  1971 => 
+  1881 => 
   array (
     'id' => 5873,
     'name' => 'Kings Park',
@@ -17749,16 +16939,7 @@ return array (
     'latitude' => -33.7432,
     'longitude' => 150.90761,
   ),
-  1972 => 
-  array (
-    'id' => 5874,
-    'name' => 'Kings Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.73397,
-    'longitude' => 144.77766,
-  ),
-  1973 => 
+  1882 => 
   array (
     'id' => 5875,
     'name' => 'Kingsbury',
@@ -17767,7 +16948,7 @@ return array (
     'latitude' => -37.71406,
     'longitude' => 145.03509,
   ),
-  1974 => 
+  1883 => 
   array (
     'id' => 5876,
     'name' => 'Kingscliff',
@@ -17776,7 +16957,7 @@ return array (
     'latitude' => -28.25983,
     'longitude' => 153.57816,
   ),
-  1975 => 
+  1884 => 
   array (
     'id' => 5877,
     'name' => 'Kingscote',
@@ -17785,7 +16966,7 @@ return array (
     'latitude' => -35.6559,
     'longitude' => 137.6393,
   ),
-  1976 => 
+  1885 => 
   array (
     'id' => 5878,
     'name' => 'Kingsford',
@@ -17794,7 +16975,7 @@ return array (
     'latitude' => -33.92399,
     'longitude' => 151.22749,
   ),
-  1977 => 
+  1886 => 
   array (
     'id' => 5879,
     'name' => 'Kingsgrove',
@@ -17803,7 +16984,7 @@ return array (
     'latitude' => -33.93932,
     'longitude' => 151.09928,
   ),
-  1978 => 
+  1887 => 
   array (
     'id' => 5880,
     'name' => 'Kingsley',
@@ -17812,7 +16993,7 @@ return array (
     'latitude' => -31.81036,
     'longitude' => 115.80077,
   ),
-  1979 => 
+  1888 => 
   array (
     'id' => 5881,
     'name' => 'Kingsthorpe',
@@ -17821,7 +17002,7 @@ return array (
     'latitude' => -27.47558,
     'longitude' => 151.81409,
   ),
-  1980 => 
+  1889 => 
   array (
     'id' => 5882,
     'name' => 'Kingston',
@@ -17830,43 +17011,7 @@ return array (
     'latitude' => -42.97638,
     'longitude' => 147.30351,
   ),
-  1981 => 
-  array (
-    'id' => 5883,
-    'name' => 'Kingston',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -36.64083,
-    'longitude' => 140.05093,
-  ),
-  1982 => 
-  array (
-    'id' => 5884,
-    'name' => 'Kingston',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.0045,
-    'longitude' => 145.09531,
-  ),
-  1983 => 
-  array (
-    'id' => 5885,
-    'name' => 'Kingston',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.66667,
-    'longitude' => 153.11667,
-  ),
-  1984 => 
-  array (
-    'id' => 5886,
-    'name' => 'Kingston',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.31525,
-    'longitude' => 149.14658,
-  ),
-  1985 => 
+  1890 => 
   array (
     'id' => 5887,
     'name' => 'Kingston Beach',
@@ -17875,7 +17020,7 @@ return array (
     'latitude' => -42.98021,
     'longitude' => 147.31941,
   ),
-  1986 => 
+  1891 => 
   array (
     'id' => 5888,
     'name' => 'Kingston South East',
@@ -17884,7 +17029,7 @@ return array (
     'latitude' => -36.83073,
     'longitude' => 139.8522,
   ),
-  1987 => 
+  1892 => 
   array (
     'id' => 5889,
     'name' => 'Kingsville',
@@ -17893,7 +17038,7 @@ return array (
     'latitude' => -37.80819,
     'longitude' => 144.87911,
   ),
-  1988 => 
+  1893 => 
   array (
     'id' => 5890,
     'name' => 'Kingswood Park',
@@ -17902,7 +17047,7 @@ return array (
     'latitude' => -33.76651,
     'longitude' => 150.7144,
   ),
-  1989 => 
+  1894 => 
   array (
     'id' => 5891,
     'name' => 'Kinross',
@@ -17911,7 +17056,7 @@ return array (
     'latitude' => -31.71868,
     'longitude' => 115.73839,
   ),
-  1990 => 
+  1895 => 
   array (
     'id' => 5892,
     'name' => 'Kippa-Ring',
@@ -17920,7 +17065,7 @@ return array (
     'latitude' => -27.22586,
     'longitude' => 153.0835,
   ),
-  1991 => 
+  1896 => 
   array (
     'id' => 5893,
     'name' => 'Kirkwood',
@@ -17929,7 +17074,7 @@ return array (
     'latitude' => -23.90327,
     'longitude' => 151.23545,
   ),
-  1992 => 
+  1897 => 
   array (
     'id' => 5894,
     'name' => 'Kirrawee',
@@ -17938,7 +17083,7 @@ return array (
     'latitude' => -34.03831,
     'longitude' => 151.06903,
   ),
-  1993 => 
+  1898 => 
   array (
     'id' => 5895,
     'name' => 'Kirribilli',
@@ -17947,7 +17092,7 @@ return array (
     'latitude' => -33.84867,
     'longitude' => 151.2162,
   ),
-  1994 => 
+  1899 => 
   array (
     'id' => 5896,
     'name' => 'Kirwan',
@@ -17956,7 +17101,7 @@ return array (
     'latitude' => -19.30323,
     'longitude' => 146.72531,
   ),
-  1995 => 
+  1900 => 
   array (
     'id' => 5897,
     'name' => 'Kleinton',
@@ -17965,7 +17110,7 @@ return array (
     'latitude' => -27.43333,
     'longitude' => 151.95,
   ),
-  1996 => 
+  1901 => 
   array (
     'id' => 5898,
     'name' => 'Klemzig',
@@ -17974,7 +17119,7 @@ return array (
     'latitude' => -34.87928,
     'longitude' => 138.63562,
   ),
-  1997 => 
+  1902 => 
   array (
     'id' => 5899,
     'name' => 'Knox',
@@ -17983,7 +17128,7 @@ return array (
     'latitude' => -37.89895,
     'longitude' => 145.26923,
   ),
-  1998 => 
+  1903 => 
   array (
     'id' => 5900,
     'name' => 'Knoxfield',
@@ -17992,7 +17137,7 @@ return array (
     'latitude' => -37.88978,
     'longitude' => 145.24962,
   ),
-  1999 => 
+  1904 => 
   array (
     'id' => 5901,
     'name' => 'Kogarah',
@@ -18001,7 +17146,7 @@ return array (
     'latitude' => -33.9681,
     'longitude' => 151.13564,
   ),
-  2000 => 
+  1905 => 
   array (
     'id' => 5902,
     'name' => 'Kogarah Bay',
@@ -18010,7 +17155,7 @@ return array (
     'latitude' => -33.97951,
     'longitude' => 151.12119,
   ),
-  2001 => 
+  1906 => 
   array (
     'id' => 5903,
     'name' => 'Kojonup',
@@ -18019,7 +17164,7 @@ return array (
     'latitude' => -33.92546,
     'longitude' => 117.03982,
   ),
-  2002 => 
+  1907 => 
   array (
     'id' => 5904,
     'name' => 'Kondinin',
@@ -18028,7 +17173,7 @@ return array (
     'latitude' => -32.48431,
     'longitude' => 119.0242,
   ),
-  2003 => 
+  1908 => 
   array (
     'id' => 5905,
     'name' => 'Koo-Wee-Rup',
@@ -18037,7 +17182,7 @@ return array (
     'latitude' => -38.19941,
     'longitude' => 145.49081,
   ),
-  2004 => 
+  1909 => 
   array (
     'id' => 5906,
     'name' => 'Koonawarra',
@@ -18046,7 +17191,7 @@ return array (
     'latitude' => -34.50212,
     'longitude' => 150.80855,
   ),
-  2005 => 
+  1910 => 
   array (
     'id' => 5907,
     'name' => 'Koondoola',
@@ -18055,7 +17200,7 @@ return array (
     'latitude' => -31.84145,
     'longitude' => 115.86654,
   ),
-  2006 => 
+  1911 => 
   array (
     'id' => 5908,
     'name' => 'Koongal',
@@ -18064,7 +17209,7 @@ return array (
     'latitude' => -23.36887,
     'longitude' => 150.54917,
   ),
-  2007 => 
+  1912 => 
   array (
     'id' => 5909,
     'name' => 'Kooralbyn',
@@ -18073,7 +17218,7 @@ return array (
     'latitude' => -28.07955,
     'longitude' => 152.83974,
   ),
-  2008 => 
+  1913 => 
   array (
     'id' => 5910,
     'name' => 'Koorda',
@@ -18082,7 +17227,7 @@ return array (
     'latitude' => -30.60412,
     'longitude' => 117.40736,
   ),
-  2009 => 
+  1914 => 
   array (
     'id' => 5911,
     'name' => 'Kooringal',
@@ -18091,7 +17236,7 @@ return array (
     'latitude' => -35.14069,
     'longitude' => 147.3768,
   ),
-  2010 => 
+  1915 => 
   array (
     'id' => 5912,
     'name' => 'Kootingal',
@@ -18100,7 +17245,7 @@ return array (
     'latitude' => -31.05857,
     'longitude' => 151.0535,
   ),
-  2011 => 
+  1916 => 
   array (
     'id' => 5913,
     'name' => 'Koroit',
@@ -18109,7 +17254,7 @@ return array (
     'latitude' => -38.2918,
     'longitude' => 142.36729,
   ),
-  2012 => 
+  1917 => 
   array (
     'id' => 5914,
     'name' => 'Korora',
@@ -18118,7 +17263,7 @@ return array (
     'latitude' => -30.2462,
     'longitude' => 153.11487,
   ),
-  2013 => 
+  1918 => 
   array (
     'id' => 5915,
     'name' => 'Korumburra',
@@ -18127,7 +17272,7 @@ return array (
     'latitude' => -38.43194,
     'longitude' => 145.82355,
   ),
-  2014 => 
+  1919 => 
   array (
     'id' => 5916,
     'name' => 'Kosciuszko National Park',
@@ -18136,7 +17281,7 @@ return array (
     'latitude' => -36.26436,
     'longitude' => 148.48179,
   ),
-  2015 => 
+  1920 => 
   array (
     'id' => 5917,
     'name' => 'Kotara',
@@ -18145,7 +17290,7 @@ return array (
     'latitude' => -32.94282,
     'longitude' => 151.69585,
   ),
-  2016 => 
+  1921 => 
   array (
     'id' => 5918,
     'name' => 'Kotara South',
@@ -18154,7 +17299,7 @@ return array (
     'latitude' => -32.95261,
     'longitude' => 151.69076,
   ),
-  2017 => 
+  1922 => 
   array (
     'id' => 5919,
     'name' => 'Kowanyama',
@@ -18163,7 +17308,7 @@ return array (
     'latitude' => -15.27882,
     'longitude' => 141.81287,
   ),
-  2018 => 
+  1923 => 
   array (
     'id' => 5920,
     'name' => 'Ku-ring-gai',
@@ -18172,7 +17317,7 @@ return array (
     'latitude' => -33.72701,
     'longitude' => 151.14877,
   ),
-  2019 => 
+  1924 => 
   array (
     'id' => 5921,
     'name' => 'Kulin',
@@ -18181,7 +17326,7 @@ return array (
     'latitude' => -32.66096,
     'longitude' => 118.57544,
   ),
-  2020 => 
+  1925 => 
   array (
     'id' => 5922,
     'name' => 'Kuluin',
@@ -18190,7 +17335,7 @@ return array (
     'latitude' => -26.65779,
     'longitude' => 153.05608,
   ),
-  2021 => 
+  1926 => 
   array (
     'id' => 5923,
     'name' => 'Kununurra',
@@ -18199,7 +17344,7 @@ return array (
     'latitude' => -15.77825,
     'longitude' => 128.74208,
   ),
-  2022 => 
+  1927 => 
   array (
     'id' => 5924,
     'name' => 'Kuraby',
@@ -18208,7 +17353,7 @@ return array (
     'latitude' => -27.60683,
     'longitude' => 153.09367,
   ),
-  2023 => 
+  1928 => 
   array (
     'id' => 5925,
     'name' => 'Kuranda',
@@ -18217,7 +17362,7 @@ return array (
     'latitude' => -16.81978,
     'longitude' => 145.63818,
   ),
-  2024 => 
+  1929 => 
   array (
     'id' => 5926,
     'name' => 'Kurnell',
@@ -18226,7 +17371,7 @@ return array (
     'latitude' => -34.01088,
     'longitude' => 151.20512,
   ),
-  2025 => 
+  1930 => 
   array (
     'id' => 5927,
     'name' => 'Kurraba Point',
@@ -18235,7 +17380,7 @@ return array (
     'latitude' => -33.84235,
     'longitude' => 151.22256,
   ),
-  2026 => 
+  1931 => 
   array (
     'id' => 5928,
     'name' => 'Kurrajong Heights',
@@ -18244,7 +17389,7 @@ return array (
     'latitude' => -33.52772,
     'longitude' => 150.62907,
   ),
-  2027 => 
+  1932 => 
   array (
     'id' => 5929,
     'name' => 'Kurralta Park',
@@ -18253,7 +17398,7 @@ return array (
     'latitude' => -34.95142,
     'longitude' => 138.56702,
   ),
-  2028 => 
+  1933 => 
   array (
     'id' => 5930,
     'name' => 'Kurri Kurri',
@@ -18262,7 +17407,7 @@ return array (
     'latitude' => -32.81933,
     'longitude' => 151.47908,
   ),
-  2029 => 
+  1934 => 
   array (
     'id' => 5931,
     'name' => 'Kurunjang',
@@ -18271,7 +17416,7 @@ return array (
     'latitude' => -37.67587,
     'longitude' => 144.5969,
   ),
-  2030 => 
+  1935 => 
   array (
     'id' => 5932,
     'name' => 'Kurwongbah',
@@ -18280,7 +17425,7 @@ return array (
     'latitude' => -27.2325,
     'longitude' => 152.97621,
   ),
-  2031 => 
+  1936 => 
   array (
     'id' => 5933,
     'name' => 'Kwinana',
@@ -18289,7 +17434,7 @@ return array (
     'latitude' => -32.23391,
     'longitude' => 115.82785,
   ),
-  2032 => 
+  1937 => 
   array (
     'id' => 5934,
     'name' => 'Kyabram',
@@ -18298,7 +17443,7 @@ return array (
     'latitude' => -36.31335,
     'longitude' => 145.05035,
   ),
-  2033 => 
+  1938 => 
   array (
     'id' => 5935,
     'name' => 'Kyle Bay',
@@ -18307,7 +17452,7 @@ return array (
     'latitude' => -33.98787,
     'longitude' => 151.09939,
   ),
-  2034 => 
+  1939 => 
   array (
     'id' => 5936,
     'name' => 'Kyneton',
@@ -18316,7 +17461,7 @@ return array (
     'latitude' => -37.24444,
     'longitude' => 144.45148,
   ),
-  2035 => 
+  1940 => 
   array (
     'id' => 5937,
     'name' => 'Kyogle',
@@ -18325,7 +17470,7 @@ return array (
     'latitude' => -28.64643,
     'longitude' => 152.77871,
   ),
-  2036 => 
+  1941 => 
   array (
     'id' => 5938,
     'name' => 'Labrador',
@@ -18334,7 +17479,7 @@ return array (
     'latitude' => -27.94402,
     'longitude' => 153.39815,
   ),
-  2037 => 
+  1942 => 
   array (
     'id' => 5939,
     'name' => 'Lachlan',
@@ -18343,7 +17488,7 @@ return array (
     'latitude' => -32.79999,
     'longitude' => 146.87556,
   ),
-  2038 => 
+  1943 => 
   array (
     'id' => 5940,
     'name' => 'Laidley',
@@ -18352,7 +17497,7 @@ return array (
     'latitude' => -27.63278,
     'longitude' => 152.39285,
   ),
-  2039 => 
+  1944 => 
   array (
     'id' => 5941,
     'name' => 'Lake Albert',
@@ -18361,7 +17506,7 @@ return array (
     'latitude' => -35.16667,
     'longitude' => 147.38333,
   ),
-  2040 => 
+  1945 => 
   array (
     'id' => 5942,
     'name' => 'Lake Cargelligo',
@@ -18370,7 +17515,7 @@ return array (
     'latitude' => -33.29884,
     'longitude' => 146.37296,
   ),
-  2041 => 
+  1946 => 
   array (
     'id' => 5943,
     'name' => 'Lake Cathie',
@@ -18379,7 +17524,7 @@ return array (
     'latitude' => -31.55183,
     'longitude' => 152.85465,
   ),
-  2042 => 
+  1947 => 
   array (
     'id' => 5944,
     'name' => 'Lake Gardens',
@@ -18388,7 +17533,7 @@ return array (
     'latitude' => -37.54632,
     'longitude' => 143.81653,
   ),
-  2043 => 
+  1948 => 
   array (
     'id' => 5945,
     'name' => 'Lake Grace',
@@ -18397,7 +17542,7 @@ return array (
     'latitude' => -33.1291,
     'longitude' => 119.42041,
   ),
-  2044 => 
+  1949 => 
   array (
     'id' => 5946,
     'name' => 'Lake Haven',
@@ -18406,7 +17551,7 @@ return array (
     'latitude' => -33.24303,
     'longitude' => 151.50434,
   ),
-  2045 => 
+  1950 => 
   array (
     'id' => 5947,
     'name' => 'Lake Heights',
@@ -18415,7 +17560,7 @@ return array (
     'latitude' => -34.48433,
     'longitude' => 150.86649,
   ),
-  2046 => 
+  1951 => 
   array (
     'id' => 5948,
     'name' => 'Lake Illawarra',
@@ -18424,7 +17569,7 @@ return array (
     'latitude' => -34.54658,
     'longitude' => 150.85645,
   ),
-  2047 => 
+  1952 => 
   array (
     'id' => 5949,
     'name' => 'Lake Macdonald',
@@ -18433,7 +17578,7 @@ return array (
     'latitude' => -26.38482,
     'longitude' => 152.93213,
   ),
-  2048 => 
+  1953 => 
   array (
     'id' => 5950,
     'name' => 'Lake Macquarie Shire',
@@ -18442,7 +17587,7 @@ return array (
     'latitude' => -33.03756,
     'longitude' => 151.5347,
   ),
-  2049 => 
+  1954 => 
   array (
     'id' => 5951,
     'name' => 'Lake Munmorah',
@@ -18451,7 +17596,7 @@ return array (
     'latitude' => -33.19716,
     'longitude' => 151.5824,
   ),
-  2050 => 
+  1955 => 
   array (
     'id' => 5952,
     'name' => 'Lake Wendouree',
@@ -18460,7 +17605,7 @@ return array (
     'latitude' => -37.54993,
     'longitude' => 143.8473,
   ),
-  2051 => 
+  1956 => 
   array (
     'id' => 5953,
     'name' => 'Lakelands',
@@ -18469,16 +17614,7 @@ return array (
     'latitude' => -32.47157,
     'longitude' => 115.77291,
   ),
-  2052 => 
-  array (
-    'id' => 5954,
-    'name' => 'Lakelands',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.96185,
-    'longitude' => 151.64972,
-  ),
-  2053 => 
+  1957 => 
   array (
     'id' => 5955,
     'name' => 'Lakemba',
@@ -18487,7 +17623,7 @@ return array (
     'latitude' => -33.91972,
     'longitude' => 151.07592,
   ),
-  2054 => 
+  1958 => 
   array (
     'id' => 5956,
     'name' => 'Lakes Entrance',
@@ -18496,7 +17632,7 @@ return array (
     'latitude' => -37.86679,
     'longitude' => 148.00159,
   ),
-  2055 => 
+  1959 => 
   array (
     'id' => 5957,
     'name' => 'Lakewood',
@@ -18505,7 +17641,7 @@ return array (
     'latitude' => -31.6321,
     'longitude' => 152.7582,
   ),
-  2056 => 
+  1960 => 
   array (
     'id' => 5958,
     'name' => 'Lalor',
@@ -18514,7 +17650,7 @@ return array (
     'latitude' => -37.66667,
     'longitude' => 145.01667,
   ),
-  2057 => 
+  1961 => 
   array (
     'id' => 5959,
     'name' => 'Lalor Park',
@@ -18523,7 +17659,7 @@ return array (
     'latitude' => -33.7609,
     'longitude' => 150.93123,
   ),
-  2058 => 
+  1962 => 
   array (
     'id' => 5960,
     'name' => 'Lambton',
@@ -18532,7 +17668,7 @@ return array (
     'latitude' => -32.91667,
     'longitude' => 151.7,
   ),
-  2059 => 
+  1963 => 
   array (
     'id' => 5961,
     'name' => 'Lamington',
@@ -18541,7 +17677,7 @@ return array (
     'latitude' => -30.73425,
     'longitude' => 121.46163,
   ),
-  2060 => 
+  1964 => 
   array (
     'id' => 5962,
     'name' => 'Lammermoor',
@@ -18550,7 +17686,7 @@ return array (
     'latitude' => -23.16076,
     'longitude' => 150.76079,
   ),
-  2061 => 
+  1965 => 
   array (
     'id' => 5963,
     'name' => 'Lancefield',
@@ -18559,7 +17695,7 @@ return array (
     'latitude' => -37.27733,
     'longitude' => 144.73596,
   ),
-  2062 => 
+  1966 => 
   array (
     'id' => 5964,
     'name' => 'Landsborough',
@@ -18568,7 +17704,7 @@ return array (
     'latitude' => -26.80666,
     'longitude' => 152.96095,
   ),
-  2063 => 
+  1967 => 
   array (
     'id' => 5965,
     'name' => 'Landsdale',
@@ -18577,7 +17713,7 @@ return array (
     'latitude' => -31.8075,
     'longitude' => 115.86599,
   ),
-  2064 => 
+  1968 => 
   array (
     'id' => 5966,
     'name' => 'Lane Cove',
@@ -18586,7 +17722,7 @@ return array (
     'latitude' => -33.82321,
     'longitude' => 151.17028,
   ),
-  2065 => 
+  1969 => 
   array (
     'id' => 5967,
     'name' => 'Lane Cove North',
@@ -18595,7 +17731,7 @@ return array (
     'latitude' => -33.80543,
     'longitude' => 151.16638,
   ),
-  2066 => 
+  1970 => 
   array (
     'id' => 5968,
     'name' => 'Lane Cove West',
@@ -18604,7 +17740,7 @@ return array (
     'latitude' => -33.81613,
     'longitude' => 151.15145,
   ),
-  2067 => 
+  1971 => 
   array (
     'id' => 5969,
     'name' => 'Lang Lang',
@@ -18613,7 +17749,7 @@ return array (
     'latitude' => -38.26605,
     'longitude' => 145.5621,
   ),
-  2068 => 
+  1972 => 
   array (
     'id' => 5970,
     'name' => 'Langford',
@@ -18622,7 +17758,7 @@ return array (
     'latitude' => -32.04092,
     'longitude' => 115.94157,
   ),
-  2069 => 
+  1973 => 
   array (
     'id' => 5971,
     'name' => 'Langwarrin',
@@ -18631,7 +17767,7 @@ return array (
     'latitude' => -38.16667,
     'longitude' => 145.16667,
   ),
-  2070 => 
+  1974 => 
   array (
     'id' => 5972,
     'name' => 'Langwarrin South',
@@ -18640,7 +17776,7 @@ return array (
     'latitude' => -38.18947,
     'longitude' => 145.1935,
   ),
-  2071 => 
+  1975 => 
   array (
     'id' => 5973,
     'name' => 'Lansvale',
@@ -18649,7 +17785,7 @@ return array (
     'latitude' => -33.90073,
     'longitude' => 150.95078,
   ),
-  2072 => 
+  1976 => 
   array (
     'id' => 5974,
     'name' => 'Lara',
@@ -18658,7 +17794,7 @@ return array (
     'latitude' => -38.02388,
     'longitude' => 144.40617,
   ),
-  2073 => 
+  1977 => 
   array (
     'id' => 5975,
     'name' => 'Larapinta',
@@ -18667,7 +17803,7 @@ return array (
     'latitude' => -23.69303,
     'longitude' => 133.83137,
   ),
-  2074 => 
+  1978 => 
   array (
     'id' => 5976,
     'name' => 'Largs',
@@ -18676,7 +17812,7 @@ return array (
     'latitude' => -32.7,
     'longitude' => 151.6,
   ),
-  2075 => 
+  1979 => 
   array (
     'id' => 5977,
     'name' => 'Largs Bay',
@@ -18685,7 +17821,7 @@ return array (
     'latitude' => -34.82582,
     'longitude' => 138.48619,
   ),
-  2076 => 
+  1980 => 
   array (
     'id' => 5978,
     'name' => 'Largs North',
@@ -18694,7 +17830,7 @@ return array (
     'latitude' => -34.8205,
     'longitude' => 138.49241,
   ),
-  2077 => 
+  1981 => 
   array (
     'id' => 5979,
     'name' => 'Larrakeyah',
@@ -18703,7 +17839,7 @@ return array (
     'latitude' => -12.45527,
     'longitude' => 130.83172,
   ),
-  2078 => 
+  1982 => 
   array (
     'id' => 5980,
     'name' => 'Latham',
@@ -18712,7 +17848,7 @@ return array (
     'latitude' => -35.21652,
     'longitude' => 149.03144,
   ),
-  2079 => 
+  1983 => 
   array (
     'id' => 5981,
     'name' => 'Lathlain',
@@ -18721,7 +17857,7 @@ return array (
     'latitude' => -31.96755,
     'longitude' => 115.90631,
   ),
-  2080 => 
+  1984 => 
   array (
     'id' => 5982,
     'name' => 'Latrobe',
@@ -18730,16 +17866,7 @@ return array (
     'latitude' => -41.21551,
     'longitude' => 146.40656,
   ),
-  2081 => 
-  array (
-    'id' => 5983,
-    'name' => 'Latrobe',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.25379,
-    'longitude' => 146.46124,
-  ),
-  2082 => 
+  1985 => 
   array (
     'id' => 5984,
     'name' => 'Lauderdale',
@@ -18748,7 +17875,7 @@ return array (
     'latitude' => -42.91364,
     'longitude' => 147.48747,
   ),
-  2083 => 
+  1986 => 
   array (
     'id' => 5985,
     'name' => 'Launceston',
@@ -18757,7 +17884,7 @@ return array (
     'latitude' => -41.43876,
     'longitude' => 147.13467,
   ),
-  2084 => 
+  1987 => 
   array (
     'id' => 5986,
     'name' => 'Launceston city centre',
@@ -18766,7 +17893,7 @@ return array (
     'latitude' => -41.43352,
     'longitude' => 147.1378,
   ),
-  2085 => 
+  1988 => 
   array (
     'id' => 5987,
     'name' => 'Launching Place',
@@ -18775,7 +17902,7 @@ return array (
     'latitude' => -37.78058,
     'longitude' => 145.56834,
   ),
-  2086 => 
+  1989 => 
   array (
     'id' => 5988,
     'name' => 'Laverton',
@@ -18784,16 +17911,7 @@ return array (
     'latitude' => -37.86201,
     'longitude' => 144.76979,
   ),
-  2087 => 
-  array (
-    'id' => 5989,
-    'name' => 'Laverton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.93793,
-    'longitude' => 125.27127,
-  ),
-  2088 => 
+  1990 => 
   array (
     'id' => 5990,
     'name' => 'Lavington',
@@ -18802,7 +17920,7 @@ return array (
     'latitude' => -36.03976,
     'longitude' => 146.93958,
   ),
-  2089 => 
+  1991 => 
   array (
     'id' => 5991,
     'name' => 'Lawnton',
@@ -18811,7 +17929,7 @@ return array (
     'latitude' => -27.28333,
     'longitude' => 152.98333,
   ),
-  2090 => 
+  1992 => 
   array (
     'id' => 5992,
     'name' => 'Lawrence',
@@ -18820,7 +17938,7 @@ return array (
     'latitude' => -29.4921,
     'longitude' => 153.09689,
   ),
-  2091 => 
+  1993 => 
   array (
     'id' => 5993,
     'name' => 'Lawson',
@@ -18829,7 +17947,7 @@ return array (
     'latitude' => -33.72064,
     'longitude' => 150.42975,
   ),
-  2092 => 
+  1994 => 
   array (
     'id' => 5994,
     'name' => 'Leabrook',
@@ -18838,7 +17956,7 @@ return array (
     'latitude' => -34.92976,
     'longitude' => 138.65862,
   ),
-  2093 => 
+  1995 => 
   array (
     'id' => 5995,
     'name' => 'Leanyer',
@@ -18847,7 +17965,7 @@ return array (
     'latitude' => -12.36667,
     'longitude' => 130.9,
   ),
-  2094 => 
+  1996 => 
   array (
     'id' => 5996,
     'name' => 'Leda',
@@ -18856,7 +17974,7 @@ return array (
     'latitude' => -32.26766,
     'longitude' => 115.7993,
   ),
-  2095 => 
+  1997 => 
   array (
     'id' => 5997,
     'name' => 'Leederville',
@@ -18865,7 +17983,7 @@ return array (
     'latitude' => -31.93628,
     'longitude' => 115.8419,
   ),
-  2096 => 
+  1998 => 
   array (
     'id' => 5998,
     'name' => 'Leeming',
@@ -18874,7 +17992,7 @@ return array (
     'latitude' => -32.07511,
     'longitude' => 115.86613,
   ),
-  2097 => 
+  1999 => 
   array (
     'id' => 5999,
     'name' => 'Leeton',
@@ -18883,7 +18001,7 @@ return array (
     'latitude' => -34.52967,
     'longitude' => 146.26918,
   ),
-  2098 => 
+  2000 => 
   array (
     'id' => 6000,
     'name' => 'Legana',
@@ -18892,7 +18010,7 @@ return array (
     'latitude' => -41.36572,
     'longitude' => 147.04584,
   ),
-  2099 => 
+  2001 => 
   array (
     'id' => 6001,
     'name' => 'Leichhardt',
@@ -18901,16 +18019,7 @@ return array (
     'latitude' => -27.62279,
     'longitude' => 152.73373,
   ),
-  2100 => 
-  array (
-    'id' => 6002,
-    'name' => 'Leichhardt',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.88341,
-    'longitude' => 151.15625,
-  ),
-  2101 => 
+  2002 => 
   array (
     'id' => 6003,
     'name' => 'Leinster',
@@ -18919,7 +18028,7 @@ return array (
     'latitude' => -27.92028,
     'longitude' => 120.6967,
   ),
-  2102 => 
+  2003 => 
   array (
     'id' => 6004,
     'name' => 'Lemon Tree Passage',
@@ -18928,7 +18037,7 @@ return array (
     'latitude' => -32.73047,
     'longitude' => 152.03859,
   ),
-  2103 => 
+  2004 => 
   array (
     'id' => 6005,
     'name' => 'Lenah Valley',
@@ -18937,7 +18046,7 @@ return array (
     'latitude' => -42.87146,
     'longitude' => 147.27514,
   ),
-  2104 => 
+  2005 => 
   array (
     'id' => 6006,
     'name' => 'Lennox Head',
@@ -18946,7 +18055,7 @@ return array (
     'latitude' => -28.79131,
     'longitude' => 153.59201,
   ),
-  2105 => 
+  2006 => 
   array (
     'id' => 6007,
     'name' => 'Leonay',
@@ -18955,7 +18064,7 @@ return array (
     'latitude' => -33.76542,
     'longitude' => 150.64806,
   ),
-  2106 => 
+  2007 => 
   array (
     'id' => 6008,
     'name' => 'Leongatha',
@@ -18964,7 +18073,7 @@ return array (
     'latitude' => -38.47607,
     'longitude' => 145.94685,
   ),
-  2107 => 
+  2008 => 
   array (
     'id' => 6009,
     'name' => 'Leonora',
@@ -18973,7 +18082,7 @@ return array (
     'latitude' => -28.39424,
     'longitude' => 121.2596,
   ),
-  2108 => 
+  2009 => 
   array (
     'id' => 6010,
     'name' => 'Leopold',
@@ -18982,7 +18091,7 @@ return array (
     'latitude' => -38.19001,
     'longitude' => 144.46825,
   ),
-  2109 => 
+  2010 => 
   array (
     'id' => 6011,
     'name' => 'Leppington',
@@ -18991,7 +18100,7 @@ return array (
     'latitude' => -33.96983,
     'longitude' => 150.79675,
   ),
-  2110 => 
+  2011 => 
   array (
     'id' => 6012,
     'name' => 'Leschenault',
@@ -19000,7 +18109,7 @@ return array (
     'latitude' => -33.24519,
     'longitude' => 115.7251,
   ),
-  2111 => 
+  2012 => 
   array (
     'id' => 6013,
     'name' => 'Lesmurdie',
@@ -19009,7 +18118,7 @@ return array (
     'latitude' => -32.00199,
     'longitude' => 116.04821,
   ),
-  2112 => 
+  2013 => 
   array (
     'id' => 6014,
     'name' => 'Lethbridge Park',
@@ -19018,7 +18127,7 @@ return array (
     'latitude' => -33.73716,
     'longitude' => 150.80042,
   ),
-  2113 => 
+  2014 => 
   array (
     'id' => 6015,
     'name' => 'Leumeah',
@@ -19027,7 +18136,7 @@ return array (
     'latitude' => -34.05,
     'longitude' => 150.83333,
   ),
-  2114 => 
+  2015 => 
   array (
     'id' => 6016,
     'name' => 'Leura',
@@ -19036,7 +18145,7 @@ return array (
     'latitude' => -33.71667,
     'longitude' => 150.33333,
   ),
-  2115 => 
+  2016 => 
   array (
     'id' => 6017,
     'name' => 'Lewisham',
@@ -19045,7 +18154,7 @@ return array (
     'latitude' => -33.89719,
     'longitude' => 151.14883,
   ),
-  2116 => 
+  2017 => 
   array (
     'id' => 6018,
     'name' => 'Lewiston',
@@ -19054,7 +18163,7 @@ return array (
     'latitude' => -34.60449,
     'longitude' => 138.59125,
   ),
-  2117 => 
+  2018 => 
   array (
     'id' => 6019,
     'name' => 'Liberty Grove',
@@ -19063,7 +18172,7 @@ return array (
     'latitude' => -33.84095,
     'longitude' => 151.08402,
   ),
-  2118 => 
+  2019 => 
   array (
     'id' => 6020,
     'name' => 'Lidcombe',
@@ -19072,7 +18181,7 @@ return array (
     'latitude' => -33.86436,
     'longitude' => 151.0397,
   ),
-  2119 => 
+  2020 => 
   array (
     'id' => 6021,
     'name' => 'Light',
@@ -19081,7 +18190,7 @@ return array (
     'latitude' => -34.40981,
     'longitude' => 138.84367,
   ),
-  2120 => 
+  2021 => 
   array (
     'id' => 6022,
     'name' => 'Lightning Ridge',
@@ -19090,7 +18199,7 @@ return array (
     'latitude' => -29.42743,
     'longitude' => 147.97865,
   ),
-  2121 => 
+  2022 => 
   array (
     'id' => 6023,
     'name' => 'Lilli Pilli',
@@ -19099,7 +18208,7 @@ return array (
     'latitude' => -34.0683,
     'longitude' => 151.11574,
   ),
-  2122 => 
+  2023 => 
   array (
     'id' => 6024,
     'name' => 'Lilydale',
@@ -19108,7 +18217,7 @@ return array (
     'latitude' => -37.75,
     'longitude' => 145.35,
   ),
-  2123 => 
+  2024 => 
   array (
     'id' => 6025,
     'name' => 'Lilyfield',
@@ -19117,7 +18226,7 @@ return array (
     'latitude' => -33.87499,
     'longitude' => 151.1653,
   ),
-  2124 => 
+  2025 => 
   array (
     'id' => 6026,
     'name' => 'Linden Park',
@@ -19126,7 +18235,7 @@ return array (
     'latitude' => -34.94347,
     'longitude' => 138.64728,
   ),
-  2125 => 
+  2026 => 
   array (
     'id' => 6027,
     'name' => 'Lindfield',
@@ -19135,7 +18244,7 @@ return array (
     'latitude' => -33.78333,
     'longitude' => 151.16667,
   ),
-  2126 => 
+  2027 => 
   array (
     'id' => 6028,
     'name' => 'Lindisfarne',
@@ -19144,7 +18253,7 @@ return array (
     'latitude' => -42.84837,
     'longitude' => 147.36192,
   ),
-  2127 => 
+  2028 => 
   array (
     'id' => 6029,
     'name' => 'Lisarow',
@@ -19153,7 +18262,7 @@ return array (
     'latitude' => -33.38333,
     'longitude' => 151.36667,
   ),
-  2128 => 
+  2029 => 
   array (
     'id' => 6030,
     'name' => 'Lismore',
@@ -19162,7 +18271,7 @@ return array (
     'latitude' => -28.81354,
     'longitude' => 153.2773,
   ),
-  2129 => 
+  2030 => 
   array (
     'id' => 6031,
     'name' => 'Lismore Heights',
@@ -19171,7 +18280,7 @@ return array (
     'latitude' => -28.80102,
     'longitude' => 153.30048,
   ),
-  2130 => 
+  2031 => 
   array (
     'id' => 6032,
     'name' => 'Lismore Municipality',
@@ -19180,7 +18289,7 @@ return array (
     'latitude' => -28.8,
     'longitude' => 153.26667,
   ),
-  2131 => 
+  2032 => 
   array (
     'id' => 6033,
     'name' => 'Litchfield',
@@ -19189,7 +18298,7 @@ return array (
     'latitude' => -12.50228,
     'longitude' => 131.12785,
   ),
-  2132 => 
+  2033 => 
   array (
     'id' => 6034,
     'name' => 'Lithgow',
@@ -19198,7 +18307,7 @@ return array (
     'latitude' => -33.32025,
     'longitude' => 150.18584,
   ),
-  2133 => 
+  2034 => 
   array (
     'id' => 6035,
     'name' => 'Little Bay',
@@ -19207,7 +18316,7 @@ return array (
     'latitude' => -33.97899,
     'longitude' => 151.24299,
   ),
-  2134 => 
+  2035 => 
   array (
     'id' => 6036,
     'name' => 'Little Grove',
@@ -19216,7 +18325,7 @@ return array (
     'latitude' => -35.06803,
     'longitude' => 117.87197,
   ),
-  2135 => 
+  2036 => 
   array (
     'id' => 6037,
     'name' => 'Little Hampton',
@@ -19225,7 +18334,7 @@ return array (
     'latitude' => -35.04225,
     'longitude' => 138.86423,
   ),
-  2136 => 
+  2037 => 
   array (
     'id' => 6038,
     'name' => 'Little Mountain',
@@ -19234,7 +18343,7 @@ return array (
     'latitude' => -26.78436,
     'longitude' => 153.09218,
   ),
-  2137 => 
+  2038 => 
   array (
     'id' => 6039,
     'name' => 'Little River',
@@ -19243,7 +18352,7 @@ return array (
     'latitude' => -37.96667,
     'longitude' => 144.5,
   ),
-  2138 => 
+  2039 => 
   array (
     'id' => 6040,
     'name' => 'Liverpool',
@@ -19252,7 +18361,7 @@ return array (
     'latitude' => -33.92418,
     'longitude' => 150.91232,
   ),
-  2139 => 
+  2040 => 
   array (
     'id' => 6041,
     'name' => 'Liverpool Plains',
@@ -19261,7 +18370,7 @@ return array (
     'latitude' => -31.47024,
     'longitude' => 150.42001,
   ),
-  2140 => 
+  2041 => 
   array (
     'id' => 6042,
     'name' => 'Llanarth',
@@ -19270,7 +18379,7 @@ return array (
     'latitude' => -33.39687,
     'longitude' => 149.55105,
   ),
-  2141 => 
+  2042 => 
   array (
     'id' => 6043,
     'name' => 'Llandilo',
@@ -19279,7 +18388,7 @@ return array (
     'latitude' => -33.71286,
     'longitude' => 150.7465,
   ),
-  2142 => 
+  2043 => 
   array (
     'id' => 6044,
     'name' => 'Lobethal',
@@ -19288,7 +18397,7 @@ return array (
     'latitude' => -34.90455,
     'longitude' => 138.87477,
   ),
-  2143 => 
+  2044 => 
   array (
     'id' => 6045,
     'name' => 'Lockhart',
@@ -19297,7 +18406,7 @@ return array (
     'latitude' => -35.32193,
     'longitude' => 146.79354,
   ),
-  2144 => 
+  2045 => 
   array (
     'id' => 6046,
     'name' => 'Lockhart River',
@@ -19306,7 +18415,7 @@ return array (
     'latitude' => -13.01876,
     'longitude' => 143.25024,
   ),
-  2145 => 
+  2046 => 
   array (
     'id' => 6047,
     'name' => 'Lockleys',
@@ -19315,7 +18424,7 @@ return array (
     'latitude' => -34.92588,
     'longitude' => 138.52803,
   ),
-  2146 => 
+  2047 => 
   array (
     'id' => 6048,
     'name' => 'Lockridge',
@@ -19324,7 +18433,7 @@ return array (
     'latitude' => -31.88168,
     'longitude' => 115.95031,
   ),
-  2147 => 
+  2048 => 
   array (
     'id' => 6049,
     'name' => 'Lockyer',
@@ -19333,7 +18442,7 @@ return array (
     'latitude' => -35.00567,
     'longitude' => 117.85875,
   ),
-  2148 => 
+  2049 => 
   array (
     'id' => 6050,
     'name' => 'Lockyer Valley',
@@ -19342,7 +18451,7 @@ return array (
     'latitude' => -27.68139,
     'longitude' => 152.23036,
   ),
-  2149 => 
+  2050 => 
   array (
     'id' => 6051,
     'name' => 'Loddon',
@@ -19351,7 +18460,7 @@ return array (
     'latitude' => -36.40406,
     'longitude' => 143.82964,
   ),
-  2150 => 
+  2051 => 
   array (
     'id' => 6052,
     'name' => 'Loftus',
@@ -19360,7 +18469,7 @@ return array (
     'latitude' => -34.04467,
     'longitude' => 151.04646,
   ),
-  2151 => 
+  2052 => 
   array (
     'id' => 6053,
     'name' => 'Logan',
@@ -19369,7 +18478,7 @@ return array (
     'latitude' => -27.76294,
     'longitude' => 153.04492,
   ),
-  2152 => 
+  2053 => 
   array (
     'id' => 6054,
     'name' => 'Logan Central',
@@ -19378,7 +18487,7 @@ return array (
     'latitude' => -27.64385,
     'longitude' => 153.10725,
   ),
-  2153 => 
+  2054 => 
   array (
     'id' => 6055,
     'name' => 'Logan City',
@@ -19387,7 +18496,7 @@ return array (
     'latitude' => -27.63917,
     'longitude' => 153.10944,
   ),
-  2154 => 
+  2055 => 
   array (
     'id' => 6056,
     'name' => 'Logan Reserve',
@@ -19396,7 +18505,7 @@ return array (
     'latitude' => -27.72414,
     'longitude' => 153.09002,
   ),
-  2155 => 
+  2056 => 
   array (
     'id' => 6057,
     'name' => 'Logan Village',
@@ -19405,7 +18514,7 @@ return array (
     'latitude' => -27.76832,
     'longitude' => 153.10762,
   ),
-  2156 => 
+  2057 => 
   array (
     'id' => 6058,
     'name' => 'Loganholme',
@@ -19414,7 +18523,7 @@ return array (
     'latitude' => -27.68444,
     'longitude' => 153.1864,
   ),
-  2157 => 
+  2058 => 
   array (
     'id' => 6059,
     'name' => 'Loganlea',
@@ -19423,7 +18532,7 @@ return array (
     'latitude' => -27.67535,
     'longitude' => 153.13472,
   ),
-  2158 => 
+  2059 => 
   array (
     'id' => 6060,
     'name' => 'Londonderry',
@@ -19432,7 +18541,7 @@ return array (
     'latitude' => -33.64656,
     'longitude' => 150.73515,
   ),
-  2159 => 
+  2060 => 
   array (
     'id' => 6061,
     'name' => 'Long Beach',
@@ -19441,7 +18550,7 @@ return array (
     'latitude' => -35.70833,
     'longitude' => 150.24483,
   ),
-  2160 => 
+  2061 => 
   array (
     'id' => 6062,
     'name' => 'Long Gully',
@@ -19450,7 +18559,7 @@ return array (
     'latitude' => -36.74305,
     'longitude' => 144.25788,
   ),
-  2161 => 
+  2062 => 
   array (
     'id' => 6063,
     'name' => 'Long Jetty',
@@ -19459,7 +18568,7 @@ return array (
     'latitude' => -33.35917,
     'longitude' => 151.48834,
   ),
-  2162 => 
+  2063 => 
   array (
     'id' => 6064,
     'name' => 'Longford',
@@ -19468,16 +18577,7 @@ return array (
     'latitude' => -41.60512,
     'longitude' => 147.11887,
   ),
-  2163 => 
-  array (
-    'id' => 6065,
-    'name' => 'Longford',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.16237,
-    'longitude' => 147.08591,
-  ),
-  2164 => 
+  2064 => 
   array (
     'id' => 6066,
     'name' => 'Longreach',
@@ -19486,7 +18586,7 @@ return array (
     'latitude' => -23.876,
     'longitude' => 143.86708,
   ),
-  2165 => 
+  2065 => 
   array (
     'id' => 6067,
     'name' => 'Longueville',
@@ -19495,7 +18595,7 @@ return array (
     'latitude' => -33.83285,
     'longitude' => 151.16531,
   ),
-  2166 => 
+  2066 => 
   array (
     'id' => 6068,
     'name' => 'Longwarry',
@@ -19504,7 +18604,7 @@ return array (
     'latitude' => -38.11279,
     'longitude' => 145.76849,
   ),
-  2167 => 
+  2067 => 
   array (
     'id' => 6069,
     'name' => 'Lorn',
@@ -19513,7 +18613,7 @@ return array (
     'latitude' => -32.72701,
     'longitude' => 151.57245,
   ),
-  2168 => 
+  2068 => 
   array (
     'id' => 6070,
     'name' => 'Lorne',
@@ -19522,7 +18622,7 @@ return array (
     'latitude' => -38.54043,
     'longitude' => 143.97636,
   ),
-  2169 => 
+  2069 => 
   array (
     'id' => 6071,
     'name' => 'Lota',
@@ -19531,7 +18631,7 @@ return array (
     'latitude' => -27.46923,
     'longitude' => 153.1858,
   ),
-  2170 => 
+  2070 => 
   array (
     'id' => 6072,
     'name' => 'Lovely Banks',
@@ -19540,7 +18640,7 @@ return array (
     'latitude' => -38.06667,
     'longitude' => 144.33333,
   ),
-  2171 => 
+  2071 => 
   array (
     'id' => 6073,
     'name' => 'Lower Beechmont',
@@ -19549,7 +18649,7 @@ return array (
     'latitude' => -28.04751,
     'longitude' => 153.24572,
   ),
-  2172 => 
+  2072 => 
   array (
     'id' => 6074,
     'name' => 'Lower Chittering',
@@ -19558,7 +18658,7 @@ return array (
     'latitude' => -31.58333,
     'longitude' => 116.11667,
   ),
-  2173 => 
+  2073 => 
   array (
     'id' => 6075,
     'name' => 'Lower Eyre Peninsula',
@@ -19567,7 +18667,7 @@ return array (
     'latitude' => -34.48806,
     'longitude' => 135.70114,
   ),
-  2174 => 
+  2074 => 
   array (
     'id' => 6076,
     'name' => 'Lower King',
@@ -19576,7 +18676,7 @@ return array (
     'latitude' => -34.95778,
     'longitude' => 117.93833,
   ),
-  2175 => 
+  2075 => 
   array (
     'id' => 6077,
     'name' => 'Lower Mitcham',
@@ -19585,7 +18685,7 @@ return array (
     'latitude' => -34.97731,
     'longitude' => 138.60493,
   ),
-  2176 => 
+  2076 => 
   array (
     'id' => 6078,
     'name' => 'Lower Plenty',
@@ -19594,7 +18694,7 @@ return array (
     'latitude' => -37.73333,
     'longitude' => 145.11667,
   ),
-  2177 => 
+  2077 => 
   array (
     'id' => 6079,
     'name' => 'Lowood',
@@ -19603,7 +18703,7 @@ return array (
     'latitude' => -27.46555,
     'longitude' => 152.57625,
   ),
-  2178 => 
+  2078 => 
   array (
     'id' => 6080,
     'name' => 'Loxton',
@@ -19612,7 +18712,7 @@ return array (
     'latitude' => -34.4502,
     'longitude' => 140.56908,
   ),
-  2179 => 
+  2079 => 
   array (
     'id' => 6081,
     'name' => 'Loxton Waikerie',
@@ -19621,7 +18721,7 @@ return array (
     'latitude' => -34.48161,
     'longitude' => 140.28346,
   ),
-  2180 => 
+  2080 => 
   array (
     'id' => 6082,
     'name' => 'Lucknow',
@@ -19630,7 +18730,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 147.65,
   ),
-  2181 => 
+  2081 => 
   array (
     'id' => 6083,
     'name' => 'Luddenham',
@@ -19639,7 +18739,7 @@ return array (
     'latitude' => -33.8785,
     'longitude' => 150.68863,
   ),
-  2182 => 
+  2082 => 
   array (
     'id' => 6084,
     'name' => 'Ludmilla',
@@ -19648,7 +18748,7 @@ return array (
     'latitude' => -12.42032,
     'longitude' => 130.85506,
   ),
-  2183 => 
+  2083 => 
   array (
     'id' => 6085,
     'name' => 'Lugarno',
@@ -19657,7 +18757,7 @@ return array (
     'latitude' => -33.98267,
     'longitude' => 151.04184,
   ),
-  2184 => 
+  2084 => 
   array (
     'id' => 6086,
     'name' => 'Lurnea',
@@ -19666,7 +18766,7 @@ return array (
     'latitude' => -33.93539,
     'longitude' => 150.89673,
   ),
-  2185 => 
+  2085 => 
   array (
     'id' => 6087,
     'name' => 'Lutana',
@@ -19675,7 +18775,7 @@ return array (
     'latitude' => -42.83475,
     'longitude' => 147.31152,
   ),
-  2186 => 
+  2086 => 
   array (
     'id' => 6088,
     'name' => 'Lutwyche',
@@ -19684,7 +18784,7 @@ return array (
     'latitude' => -27.42275,
     'longitude' => 153.03354,
   ),
-  2187 => 
+  2087 => 
   array (
     'id' => 6089,
     'name' => 'Lynbrook',
@@ -19693,7 +18793,7 @@ return array (
     'latitude' => -38.05588,
     'longitude' => 145.25615,
   ),
-  2188 => 
+  2088 => 
   array (
     'id' => 6090,
     'name' => 'Lyndoch',
@@ -19702,7 +18802,7 @@ return array (
     'latitude' => -34.60124,
     'longitude' => 138.89094,
   ),
-  2189 => 
+  2089 => 
   array (
     'id' => 6091,
     'name' => 'Lyneham',
@@ -19711,7 +18811,7 @@ return array (
     'latitude' => -35.2398,
     'longitude' => 149.13074,
   ),
-  2190 => 
+  2090 => 
   array (
     'id' => 6092,
     'name' => 'Lynwood',
@@ -19720,7 +18820,7 @@ return array (
     'latitude' => -32.04013,
     'longitude' => 115.92888,
   ),
-  2191 => 
+  2091 => 
   array (
     'id' => 6093,
     'name' => 'Lyons',
@@ -19729,16 +18829,7 @@ return array (
     'latitude' => -35.3406,
     'longitude' => 149.07396,
   ),
-  2192 => 
-  array (
-    'id' => 6094,
-    'name' => 'Lyons',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -12.35912,
-    'longitude' => 130.88852,
-  ),
-  2193 => 
+  2092 => 
   array (
     'id' => 6095,
     'name' => 'Lysterfield',
@@ -19747,7 +18838,7 @@ return array (
     'latitude' => -37.93333,
     'longitude' => 145.3,
   ),
-  2194 => 
+  2093 => 
   array (
     'id' => 6096,
     'name' => 'MacDonnell',
@@ -19756,7 +18847,7 @@ return array (
     'latitude' => -24.42671,
     'longitude' => 133.49982,
   ),
-  2195 => 
+  2094 => 
   array (
     'id' => 6097,
     'name' => 'Macarthur',
@@ -19765,7 +18856,7 @@ return array (
     'latitude' => -35.40885,
     'longitude' => 149.12696,
   ),
-  2196 => 
+  2095 => 
   array (
     'id' => 6098,
     'name' => 'Macclesfield',
@@ -19774,7 +18865,7 @@ return array (
     'latitude' => -35.17182,
     'longitude' => 138.83589,
   ),
-  2197 => 
+  2096 => 
   array (
     'id' => 6099,
     'name' => 'Macedon',
@@ -19783,7 +18874,7 @@ return array (
     'latitude' => -37.41963,
     'longitude' => 144.56242,
   ),
-  2198 => 
+  2097 => 
   array (
     'id' => 6100,
     'name' => 'Macedon Ranges',
@@ -19792,7 +18883,7 @@ return array (
     'latitude' => -37.33343,
     'longitude' => 144.61581,
   ),
-  2199 => 
+  2098 => 
   array (
     'id' => 6101,
     'name' => 'Macgregor',
@@ -19801,16 +18892,7 @@ return array (
     'latitude' => -27.5649,
     'longitude' => 153.0665,
   ),
-  2200 => 
-  array (
-    'id' => 6102,
-    'name' => 'Macgregor',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.2098,
-    'longitude' => 149.01101,
-  ),
-  2201 => 
+  2099 => 
   array (
     'id' => 6103,
     'name' => 'Machans Beach',
@@ -19819,7 +18901,7 @@ return array (
     'latitude' => -16.85849,
     'longitude' => 145.74468,
   ),
-  2202 => 
+  2100 => 
   array (
     'id' => 6104,
     'name' => 'Mackay',
@@ -19828,7 +18910,7 @@ return array (
     'latitude' => -21.08189,
     'longitude' => 149.04265,
   ),
-  2203 => 
+  2101 => 
   array (
     'id' => 6105,
     'name' => 'Mackay City',
@@ -19837,7 +18919,7 @@ return array (
     'latitude' => -21.14463,
     'longitude' => 149.18678,
   ),
-  2204 => 
+  2102 => 
   array (
     'id' => 6106,
     'name' => 'Mackenzie',
@@ -19846,7 +18928,7 @@ return array (
     'latitude' => -27.54351,
     'longitude' => 153.12057,
   ),
-  2205 => 
+  2103 => 
   array (
     'id' => 6107,
     'name' => 'Macksville',
@@ -19855,7 +18937,7 @@ return array (
     'latitude' => -30.7078,
     'longitude' => 152.92029,
   ),
-  2206 => 
+  2104 => 
   array (
     'id' => 6108,
     'name' => 'Maclean',
@@ -19864,7 +18946,7 @@ return array (
     'latitude' => -29.4581,
     'longitude' => 153.19753,
   ),
-  2207 => 
+  2105 => 
   array (
     'id' => 6109,
     'name' => 'Macleay Island',
@@ -19873,7 +18955,7 @@ return array (
     'latitude' => -27.61089,
     'longitude' => 153.35996,
   ),
-  2208 => 
+  2106 => 
   array (
     'id' => 6110,
     'name' => 'Macleod',
@@ -19882,7 +18964,7 @@ return array (
     'latitude' => -37.73333,
     'longitude' => 145.06667,
   ),
-  2209 => 
+  2107 => 
   array (
     'id' => 6111,
     'name' => 'Macmasters Beach',
@@ -19891,7 +18973,7 @@ return array (
     'latitude' => -33.49663,
     'longitude' => 151.42215,
   ),
-  2210 => 
+  2108 => 
   array (
     'id' => 6112,
     'name' => 'Macquarie',
@@ -19900,7 +18982,7 @@ return array (
     'latitude' => -35.25126,
     'longitude' => 149.06363,
   ),
-  2211 => 
+  2109 => 
   array (
     'id' => 6113,
     'name' => 'Macquarie Fields',
@@ -19909,7 +18991,7 @@ return array (
     'latitude' => -33.99206,
     'longitude' => 150.89307,
   ),
-  2212 => 
+  2110 => 
   array (
     'id' => 6114,
     'name' => 'Macquarie Hills',
@@ -19918,7 +19000,7 @@ return array (
     'latitude' => -32.95111,
     'longitude' => 151.64461,
   ),
-  2213 => 
+  2111 => 
   array (
     'id' => 6115,
     'name' => 'Macquarie Links',
@@ -19927,7 +19009,7 @@ return array (
     'latitude' => -33.98454,
     'longitude' => 150.87027,
   ),
-  2214 => 
+  2112 => 
   array (
     'id' => 6116,
     'name' => 'Macquarie Park',
@@ -19936,7 +19018,7 @@ return array (
     'latitude' => -33.78105,
     'longitude' => 151.12757,
   ),
-  2215 => 
+  2113 => 
   array (
     'id' => 6117,
     'name' => 'Maddingley',
@@ -19945,7 +19027,7 @@ return array (
     'latitude' => -37.68518,
     'longitude' => 144.43245,
   ),
-  2216 => 
+  2114 => 
   array (
     'id' => 6118,
     'name' => 'Maddington',
@@ -19954,7 +19036,7 @@ return array (
     'latitude' => -32.05,
     'longitude' => 115.98333,
   ),
-  2217 => 
+  2115 => 
   array (
     'id' => 6119,
     'name' => 'Madeley',
@@ -19963,7 +19045,7 @@ return array (
     'latitude' => -31.8111,
     'longitude' => 115.82814,
   ),
-  2218 => 
+  2116 => 
   array (
     'id' => 6120,
     'name' => 'Madora Bay',
@@ -19972,7 +19054,7 @@ return array (
     'latitude' => -32.46951,
     'longitude' => 115.75264,
   ),
-  2219 => 
+  2117 => 
   array (
     'id' => 6121,
     'name' => 'Maffra',
@@ -19981,7 +19063,7 @@ return array (
     'latitude' => -37.97132,
     'longitude' => 146.98366,
   ),
-  2220 => 
+  2118 => 
   array (
     'id' => 6122,
     'name' => 'Magill',
@@ -19990,7 +19072,7 @@ return array (
     'latitude' => -34.90911,
     'longitude' => 138.67498,
   ),
-  2221 => 
+  2119 => 
   array (
     'id' => 6123,
     'name' => 'Magnetic Island',
@@ -19999,7 +19081,7 @@ return array (
     'latitude' => -19.15514,
     'longitude' => 146.8485,
   ),
-  2222 => 
+  2120 => 
   array (
     'id' => 6124,
     'name' => 'Maida Vale',
@@ -20008,7 +19090,7 @@ return array (
     'latitude' => -31.95187,
     'longitude' => 116.02764,
   ),
-  2223 => 
+  2121 => 
   array (
     'id' => 6125,
     'name' => 'Maiden Gully',
@@ -20017,7 +19099,7 @@ return array (
     'latitude' => -36.75389,
     'longitude' => 144.20789,
   ),
-  2224 => 
+  2122 => 
   array (
     'id' => 6126,
     'name' => 'Maidstone',
@@ -20026,7 +19108,7 @@ return array (
     'latitude' => -37.78035,
     'longitude' => 144.87353,
   ),
-  2225 => 
+  2123 => 
   array (
     'id' => 6127,
     'name' => 'Main Beach',
@@ -20035,7 +19117,7 @@ return array (
     'latitude' => -27.97879,
     'longitude' => 153.4266,
   ),
-  2226 => 
+  2124 => 
   array (
     'id' => 6128,
     'name' => 'Maitland',
@@ -20044,16 +19126,7 @@ return array (
     'latitude' => -34.37386,
     'longitude' => 137.67333,
   ),
-  2227 => 
-  array (
-    'id' => 6129,
-    'name' => 'Maitland',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.73308,
-    'longitude' => 151.5574,
-  ),
-  2228 => 
+  2125 => 
   array (
     'id' => 6130,
     'name' => 'Maitland Municipality',
@@ -20062,7 +19135,7 @@ return array (
     'latitude' => -32.73333,
     'longitude' => 151.55,
   ),
-  2229 => 
+  2126 => 
   array (
     'id' => 6131,
     'name' => 'Maitland city centre',
@@ -20071,7 +19144,7 @@ return array (
     'latitude' => -32.73263,
     'longitude' => 151.55331,
   ),
-  2230 => 
+  2127 => 
   array (
     'id' => 6132,
     'name' => 'Malabar',
@@ -20080,7 +19153,7 @@ return array (
     'latitude' => -33.96216,
     'longitude' => 151.24796,
   ),
-  2231 => 
+  2128 => 
   array (
     'id' => 6133,
     'name' => 'Malak',
@@ -20089,7 +19162,7 @@ return array (
     'latitude' => -12.39288,
     'longitude' => 130.90395,
   ),
-  2232 => 
+  2129 => 
   array (
     'id' => 6134,
     'name' => 'Malanda',
@@ -20098,7 +19171,7 @@ return array (
     'latitude' => -17.35228,
     'longitude' => 145.59528,
   ),
-  2233 => 
+  2130 => 
   array (
     'id' => 6135,
     'name' => 'Maldon',
@@ -20107,7 +19180,7 @@ return array (
     'latitude' => -36.9957,
     'longitude' => 144.06834,
   ),
-  2234 => 
+  2131 => 
   array (
     'id' => 6136,
     'name' => 'Maleny',
@@ -20116,7 +19189,7 @@ return array (
     'latitude' => -26.76001,
     'longitude' => 152.84926,
   ),
-  2235 => 
+  2132 => 
   array (
     'id' => 6137,
     'name' => 'Mallacoota',
@@ -20125,7 +19198,7 @@ return array (
     'latitude' => -37.55896,
     'longitude' => 149.75407,
   ),
-  2236 => 
+  2133 => 
   array (
     'id' => 6138,
     'name' => 'Mallala',
@@ -20134,7 +19207,7 @@ return array (
     'latitude' => -34.51035,
     'longitude' => 138.42783,
   ),
-  2237 => 
+  2134 => 
   array (
     'id' => 6139,
     'name' => 'Malua Bay',
@@ -20143,7 +19216,7 @@ return array (
     'latitude' => -35.79382,
     'longitude' => 150.22833,
   ),
-  2238 => 
+  2135 => 
   array (
     'id' => 6140,
     'name' => 'Malvern',
@@ -20152,16 +19225,7 @@ return array (
     'latitude' => -37.86259,
     'longitude' => 145.02811,
   ),
-  2239 => 
-  array (
-    'id' => 6141,
-    'name' => 'Malvern',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.95915,
-    'longitude' => 138.61254,
-  ),
-  2240 => 
+  2136 => 
   array (
     'id' => 6142,
     'name' => 'Malvern East',
@@ -20170,7 +19234,7 @@ return array (
     'latitude' => -37.87397,
     'longitude' => 145.04253,
   ),
-  2241 => 
+  2137 => 
   array (
     'id' => 6143,
     'name' => 'Mandurah',
@@ -20179,7 +19243,7 @@ return array (
     'latitude' => -32.5269,
     'longitude' => 115.7217,
   ),
-  2242 => 
+  2138 => 
   array (
     'id' => 6144,
     'name' => 'Mandurah city centre',
@@ -20188,7 +19252,7 @@ return array (
     'latitude' => -32.52644,
     'longitude' => 115.73361,
   ),
-  2243 => 
+  2139 => 
   array (
     'id' => 6145,
     'name' => 'Mangerton',
@@ -20197,7 +19261,7 @@ return array (
     'latitude' => -34.43667,
     'longitude' => 150.87167,
   ),
-  2244 => 
+  2140 => 
   array (
     'id' => 6146,
     'name' => 'Mango Hill',
@@ -20206,7 +19270,7 @@ return array (
     'latitude' => -27.24349,
     'longitude' => 153.02384,
   ),
-  2245 => 
+  2141 => 
   array (
     'id' => 6147,
     'name' => 'Manifold Heights',
@@ -20215,7 +19279,7 @@ return array (
     'latitude' => -38.13762,
     'longitude' => 144.33369,
   ),
-  2246 => 
+  2142 => 
   array (
     'id' => 6148,
     'name' => 'Manilla',
@@ -20224,7 +19288,7 @@ return array (
     'latitude' => -30.74748,
     'longitude' => 150.71974,
   ),
-  2247 => 
+  2143 => 
   array (
     'id' => 6149,
     'name' => 'Maningrida',
@@ -20233,7 +19297,7 @@ return array (
     'latitude' => -12.0483,
     'longitude' => 134.22941,
   ),
-  2248 => 
+  2144 => 
   array (
     'id' => 6150,
     'name' => 'Manjimup',
@@ -20242,7 +19306,7 @@ return array (
     'latitude' => -34.59789,
     'longitude' => 116.26566,
   ),
-  2249 => 
+  2145 => 
   array (
     'id' => 6151,
     'name' => 'Manly',
@@ -20251,7 +19315,7 @@ return array (
     'latitude' => -33.79798,
     'longitude' => 151.28826,
   ),
-  2250 => 
+  2146 => 
   array (
     'id' => 6152,
     'name' => 'Manly Vale',
@@ -20260,7 +19324,7 @@ return array (
     'latitude' => -33.78457,
     'longitude' => 151.262,
   ),
-  2251 => 
+  2147 => 
   array (
     'id' => 6153,
     'name' => 'Manly West',
@@ -20269,7 +19333,7 @@ return array (
     'latitude' => -27.47382,
     'longitude' => 153.16641,
   ),
-  2252 => 
+  2148 => 
   array (
     'id' => 6154,
     'name' => 'Mannering Park',
@@ -20278,7 +19342,7 @@ return array (
     'latitude' => -33.1581,
     'longitude' => 151.53477,
   ),
-  2253 => 
+  2149 => 
   array (
     'id' => 6155,
     'name' => 'Manning',
@@ -20287,7 +19351,7 @@ return array (
     'latitude' => -32.01594,
     'longitude' => 115.86714,
   ),
-  2254 => 
+  2150 => 
   array (
     'id' => 6156,
     'name' => 'Manningham',
@@ -20296,16 +19360,7 @@ return array (
     'latitude' => -37.7571,
     'longitude' => 145.18053,
   ),
-  2255 => 
-  array (
-    'id' => 6157,
-    'name' => 'Manningham',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.87776,
-    'longitude' => 138.62206,
-  ),
-  2256 => 
+  2151 => 
   array (
     'id' => 6158,
     'name' => 'Mannum',
@@ -20314,7 +19369,7 @@ return array (
     'latitude' => -34.91529,
     'longitude' => 139.30325,
   ),
-  2257 => 
+  2152 => 
   array (
     'id' => 6159,
     'name' => 'Manoora',
@@ -20323,7 +19378,7 @@ return array (
     'latitude' => -16.91706,
     'longitude' => 145.73665,
   ),
-  2258 => 
+  2153 => 
   array (
     'id' => 6160,
     'name' => 'Mansfield',
@@ -20332,16 +19387,7 @@ return array (
     'latitude' => -27.53929,
     'longitude' => 153.09895,
   ),
-  2259 => 
-  array (
-    'id' => 6161,
-    'name' => 'Mansfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.2413,
-    'longitude' => 146.14803,
-  ),
-  2260 => 
+  2154 => 
   array (
     'id' => 6162,
     'name' => 'Mansfield Park',
@@ -20350,7 +19396,7 @@ return array (
     'latitude' => -34.85655,
     'longitude' => 138.55186,
   ),
-  2261 => 
+  2155 => 
   array (
     'id' => 6163,
     'name' => 'Manunda',
@@ -20359,7 +19405,7 @@ return array (
     'latitude' => -16.91721,
     'longitude' => 145.7492,
   ),
-  2262 => 
+  2156 => 
   array (
     'id' => 6164,
     'name' => 'Mapleton',
@@ -20368,7 +19414,7 @@ return array (
     'latitude' => -26.62431,
     'longitude' => 152.86784,
   ),
-  2263 => 
+  2157 => 
   array (
     'id' => 6165,
     'name' => 'Mapoon',
@@ -20377,7 +19423,7 @@ return array (
     'latitude' => -12.1096,
     'longitude' => 141.90216,
   ),
-  2264 => 
+  2158 => 
   array (
     'id' => 6166,
     'name' => 'Maralinga Tjarutja',
@@ -20386,7 +19432,7 @@ return array (
     'latitude' => -29.60092,
     'longitude' => 130.84442,
   ),
-  2265 => 
+  2159 => 
   array (
     'id' => 6167,
     'name' => 'Marangaroo',
@@ -20395,7 +19441,7 @@ return array (
     'latitude' => -31.82711,
     'longitude' => 115.83843,
   ),
-  2266 => 
+  2160 => 
   array (
     'id' => 6168,
     'name' => 'Maranoa',
@@ -20404,7 +19450,7 @@ return array (
     'latitude' => -26.39289,
     'longitude' => 148.43098,
   ),
-  2267 => 
+  2161 => 
   array (
     'id' => 6169,
     'name' => 'Maraylya',
@@ -20413,7 +19459,7 @@ return array (
     'latitude' => -33.59221,
     'longitude' => 150.91979,
   ),
-  2268 => 
+  2162 => 
   array (
     'id' => 6170,
     'name' => 'Marayong',
@@ -20422,7 +19468,7 @@ return array (
     'latitude' => -33.74824,
     'longitude' => 150.89272,
   ),
-  2269 => 
+  2163 => 
   array (
     'id' => 6171,
     'name' => 'Marble Bar',
@@ -20431,7 +19477,7 @@ return array (
     'latitude' => -21.17067,
     'longitude' => 119.74441,
   ),
-  2270 => 
+  2164 => 
   array (
     'id' => 6172,
     'name' => 'Marcoola',
@@ -20440,7 +19486,7 @@ return array (
     'latitude' => -26.5845,
     'longitude' => 153.09465,
   ),
-  2271 => 
+  2165 => 
   array (
     'id' => 6173,
     'name' => 'Marden',
@@ -20449,7 +19495,7 @@ return array (
     'latitude' => -34.89569,
     'longitude' => 138.6378,
   ),
-  2272 => 
+  2166 => 
   array (
     'id' => 6174,
     'name' => 'Mardi',
@@ -20458,7 +19504,7 @@ return array (
     'latitude' => -33.29368,
     'longitude' => 151.4015,
   ),
-  2273 => 
+  2167 => 
   array (
     'id' => 6175,
     'name' => 'Mareeba',
@@ -20467,7 +19513,7 @@ return array (
     'latitude' => -16.99096,
     'longitude' => 145.42306,
   ),
-  2274 => 
+  2168 => 
   array (
     'id' => 6176,
     'name' => 'Margaret River',
@@ -20476,7 +19522,7 @@ return array (
     'latitude' => -33.95504,
     'longitude' => 115.07599,
   ),
-  2275 => 
+  2169 => 
   array (
     'id' => 6177,
     'name' => 'Margate',
@@ -20485,16 +19531,7 @@ return array (
     'latitude' => -43.02814,
     'longitude' => 147.26256,
   ),
-  2276 => 
-  array (
-    'id' => 6178,
-    'name' => 'Margate',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.24761,
-    'longitude' => 153.09809,
-  ),
-  2277 => 
+  2170 => 
   array (
     'id' => 6179,
     'name' => 'Marian',
@@ -20503,7 +19540,7 @@ return array (
     'latitude' => -21.14386,
     'longitude' => 148.94209,
   ),
-  2278 => 
+  2171 => 
   array (
     'id' => 6180,
     'name' => 'Maribyrnong',
@@ -20512,7 +19549,7 @@ return array (
     'latitude' => -37.79141,
     'longitude' => 144.87786,
   ),
-  2279 => 
+  2172 => 
   array (
     'id' => 6181,
     'name' => 'Marino',
@@ -20521,7 +19558,7 @@ return array (
     'latitude' => -35.04468,
     'longitude' => 138.51236,
   ),
-  2280 => 
+  2173 => 
   array (
     'id' => 6182,
     'name' => 'Marion',
@@ -20530,7 +19567,7 @@ return array (
     'latitude' => -35.01322,
     'longitude' => 138.55339,
   ),
-  2281 => 
+  2174 => 
   array (
     'id' => 6183,
     'name' => 'Marks Point',
@@ -20539,7 +19576,7 @@ return array (
     'latitude' => -33.05645,
     'longitude' => 151.64955,
   ),
-  2282 => 
+  2175 => 
   array (
     'id' => 6184,
     'name' => 'Marleston',
@@ -20548,7 +19585,7 @@ return array (
     'latitude' => -34.94763,
     'longitude' => 138.55957,
   ),
-  2283 => 
+  2176 => 
   array (
     'id' => 6185,
     'name' => 'Marmion',
@@ -20557,7 +19594,7 @@ return array (
     'latitude' => -31.84158,
     'longitude' => 115.75692,
   ),
-  2284 => 
+  2177 => 
   array (
     'id' => 6186,
     'name' => 'Marong',
@@ -20566,7 +19603,7 @@ return array (
     'latitude' => -36.73333,
     'longitude' => 144.13333,
   ),
-  2285 => 
+  2178 => 
   array (
     'id' => 6187,
     'name' => 'Maroochy River',
@@ -20575,7 +19612,7 @@ return array (
     'latitude' => -26.57767,
     'longitude' => 153.01884,
   ),
-  2286 => 
+  2179 => 
   array (
     'id' => 6188,
     'name' => 'Maroochydore',
@@ -20584,7 +19621,7 @@ return array (
     'latitude' => -26.66008,
     'longitude' => 153.09953,
   ),
-  2287 => 
+  2180 => 
   array (
     'id' => 6189,
     'name' => 'Maroondah',
@@ -20593,7 +19630,7 @@ return array (
     'latitude' => -37.80288,
     'longitude' => 145.26603,
   ),
-  2288 => 
+  2181 => 
   array (
     'id' => 6190,
     'name' => 'Maroubra',
@@ -20602,7 +19639,7 @@ return array (
     'latitude' => -33.95,
     'longitude' => 151.23333,
   ),
-  2289 => 
+  2182 => 
   array (
     'id' => 6191,
     'name' => 'Marrara',
@@ -20611,7 +19648,7 @@ return array (
     'latitude' => -12.40041,
     'longitude' => 130.8929,
   ),
-  2290 => 
+  2183 => 
   array (
     'id' => 6192,
     'name' => 'Marrickville',
@@ -20620,7 +19657,7 @@ return array (
     'latitude' => -33.90741,
     'longitude' => 151.15546,
   ),
-  2291 => 
+  2184 => 
   array (
     'id' => 6193,
     'name' => 'Marsden',
@@ -20629,7 +19666,7 @@ return array (
     'latitude' => -27.67342,
     'longitude' => 153.09732,
   ),
-  2292 => 
+  2185 => 
   array (
     'id' => 6194,
     'name' => 'Marsfield',
@@ -20638,7 +19675,7 @@ return array (
     'latitude' => -33.77784,
     'longitude' => 151.10574,
   ),
-  2293 => 
+  2186 => 
   array (
     'id' => 6195,
     'name' => 'Martin',
@@ -20647,7 +19684,7 @@ return array (
     'latitude' => -32.07549,
     'longitude' => 116.04536,
   ),
-  2294 => 
+  2187 => 
   array (
     'id' => 6196,
     'name' => 'Marulan',
@@ -20656,7 +19693,7 @@ return array (
     'latitude' => -34.70836,
     'longitude' => 150.00966,
   ),
-  2295 => 
+  2188 => 
   array (
     'id' => 6197,
     'name' => 'Maryborough',
@@ -20665,16 +19702,7 @@ return array (
     'latitude' => -37.04562,
     'longitude' => 143.73923,
   ),
-  2296 => 
-  array (
-    'id' => 6198,
-    'name' => 'Maryborough',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -25.54073,
-    'longitude' => 152.70493,
-  ),
-  2297 => 
+  2189 => 
   array (
     'id' => 6199,
     'name' => 'Maryland',
@@ -20683,7 +19711,7 @@ return array (
     'latitude' => -32.87888,
     'longitude' => 151.66143,
   ),
-  2298 => 
+  2190 => 
   array (
     'id' => 6200,
     'name' => 'Maryville',
@@ -20692,7 +19720,7 @@ return array (
     'latitude' => -32.91121,
     'longitude' => 151.75543,
   ),
-  2299 => 
+  2191 => 
   array (
     'id' => 6201,
     'name' => 'Mascot',
@@ -20701,7 +19729,7 @@ return array (
     'latitude' => -33.92598,
     'longitude' => 151.19347,
   ),
-  2300 => 
+  2192 => 
   array (
     'id' => 6202,
     'name' => 'Maslin Beach',
@@ -20710,7 +19738,7 @@ return array (
     'latitude' => -35.22595,
     'longitude' => 138.47984,
   ),
-  2301 => 
+  2193 => 
   array (
     'id' => 6203,
     'name' => 'Matraville',
@@ -20719,7 +19747,7 @@ return array (
     'latitude' => -33.96344,
     'longitude' => 151.23195,
   ),
-  2302 => 
+  2194 => 
   array (
     'id' => 6204,
     'name' => 'Maudsland',
@@ -20728,7 +19756,7 @@ return array (
     'latitude' => -27.95,
     'longitude' => 153.26667,
   ),
-  2303 => 
+  2195 => 
   array (
     'id' => 6205,
     'name' => 'Mawson',
@@ -20737,7 +19765,7 @@ return array (
     'latitude' => -35.3634,
     'longitude' => 149.09863,
   ),
-  2304 => 
+  2196 => 
   array (
     'id' => 6206,
     'name' => 'Mawson Lakes',
@@ -20746,7 +19774,7 @@ return array (
     'latitude' => -34.81589,
     'longitude' => 138.60809,
   ),
-  2305 => 
+  2197 => 
   array (
     'id' => 6207,
     'name' => 'Mayfield',
@@ -20755,16 +19783,7 @@ return array (
     'latitude' => -41.3876,
     'longitude' => 147.13052,
   ),
-  2306 => 
-  array (
-    'id' => 6208,
-    'name' => 'Mayfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.89793,
-    'longitude' => 151.73613,
-  ),
-  2307 => 
+  2198 => 
   array (
     'id' => 6209,
     'name' => 'Mayfield East',
@@ -20773,7 +19792,7 @@ return array (
     'latitude' => -32.90031,
     'longitude' => 151.74972,
   ),
-  2308 => 
+  2199 => 
   array (
     'id' => 6210,
     'name' => 'Mayfield West',
@@ -20782,7 +19801,7 @@ return array (
     'latitude' => -32.89195,
     'longitude' => 151.72711,
   ),
-  2309 => 
+  2200 => 
   array (
     'id' => 6211,
     'name' => 'Maylands',
@@ -20791,16 +19810,7 @@ return array (
     'latitude' => -31.93097,
     'longitude' => 115.89486,
   ),
-  2310 => 
-  array (
-    'id' => 6212,
-    'name' => 'Maylands',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.91128,
-    'longitude' => 138.63671,
-  ),
-  2311 => 
+  2201 => 
   array (
     'id' => 6213,
     'name' => 'McCracken',
@@ -20809,7 +19819,7 @@ return array (
     'latitude' => -35.5358,
     'longitude' => 138.63121,
   ),
-  2312 => 
+  2202 => 
   array (
     'id' => 6214,
     'name' => 'McCrae',
@@ -20818,7 +19828,7 @@ return array (
     'latitude' => -38.34972,
     'longitude' => 144.92806,
   ),
-  2313 => 
+  2203 => 
   array (
     'id' => 6215,
     'name' => 'McDowall',
@@ -20827,7 +19837,7 @@ return array (
     'latitude' => -27.38266,
     'longitude' => 152.99194,
   ),
-  2314 => 
+  2204 => 
   array (
     'id' => 6216,
     'name' => 'McGraths Hill',
@@ -20836,7 +19846,7 @@ return array (
     'latitude' => -33.61551,
     'longitude' => 150.83372,
   ),
-  2315 => 
+  2205 => 
   array (
     'id' => 6217,
     'name' => 'McKail',
@@ -20845,7 +19855,7 @@ return array (
     'latitude' => -34.98533,
     'longitude' => 117.8301,
   ),
-  2316 => 
+  2206 => 
   array (
     'id' => 6218,
     'name' => 'McKellar',
@@ -20854,7 +19864,7 @@ return array (
     'latitude' => -35.21752,
     'longitude' => 149.07704,
   ),
-  2317 => 
+  2207 => 
   array (
     'id' => 6219,
     'name' => 'McKinlay',
@@ -20863,7 +19873,7 @@ return array (
     'latitude' => -20.59413,
     'longitude' => 141.67448,
   ),
-  2318 => 
+  2208 => 
   array (
     'id' => 6220,
     'name' => 'McKinnon',
@@ -20872,7 +19882,7 @@ return array (
     'latitude' => -37.91667,
     'longitude' => 145.05,
   ),
-  2319 => 
+  2209 => 
   array (
     'id' => 6221,
     'name' => 'McLaren Flat',
@@ -20881,7 +19891,7 @@ return array (
     'latitude' => -35.21667,
     'longitude' => 138.58333,
   ),
-  2320 => 
+  2210 => 
   array (
     'id' => 6222,
     'name' => 'McLaren Vale',
@@ -20890,7 +19900,7 @@ return array (
     'latitude' => -35.21895,
     'longitude' => 138.54326,
   ),
-  2321 => 
+  2211 => 
   array (
     'id' => 6223,
     'name' => 'McMahons Point',
@@ -20899,7 +19909,7 @@ return array (
     'latitude' => -33.84492,
     'longitude' => 151.20307,
   ),
-  2322 => 
+  2212 => 
   array (
     'id' => 6224,
     'name' => 'Meadow Heights',
@@ -20908,7 +19918,7 @@ return array (
     'latitude' => -37.65117,
     'longitude' => 144.91855,
   ),
-  2323 => 
+  2213 => 
   array (
     'id' => 6225,
     'name' => 'Meadow Springs',
@@ -20917,7 +19927,7 @@ return array (
     'latitude' => -32.49718,
     'longitude' => 115.75334,
   ),
-  2324 => 
+  2214 => 
   array (
     'id' => 6226,
     'name' => 'Meadowbank',
@@ -20926,7 +19936,7 @@ return array (
     'latitude' => -33.81668,
     'longitude' => 151.08861,
   ),
-  2325 => 
+  2215 => 
   array (
     'id' => 6227,
     'name' => 'Meadowbrook',
@@ -20935,7 +19945,7 @@ return array (
     'latitude' => -27.66401,
     'longitude' => 153.14465,
   ),
-  2326 => 
+  2216 => 
   array (
     'id' => 6228,
     'name' => 'Meadows',
@@ -20944,7 +19954,7 @@ return array (
     'latitude' => -35.18021,
     'longitude' => 138.7625,
   ),
-  2327 => 
+  2217 => 
   array (
     'id' => 6229,
     'name' => 'Meander Valley',
@@ -20953,7 +19963,7 @@ return array (
     'latitude' => -41.64952,
     'longitude' => 146.54572,
   ),
-  2328 => 
+  2218 => 
   array (
     'id' => 6230,
     'name' => 'Medina',
@@ -20962,7 +19972,7 @@ return array (
     'latitude' => -32.23406,
     'longitude' => 115.79901,
   ),
-  2329 => 
+  2219 => 
   array (
     'id' => 6231,
     'name' => 'Medindie',
@@ -20971,7 +19981,7 @@ return array (
     'latitude' => -34.896,
     'longitude' => 138.605,
   ),
-  2330 => 
+  2220 => 
   array (
     'id' => 6232,
     'name' => 'Medowie',
@@ -20980,7 +19990,7 @@ return array (
     'latitude' => -32.7415,
     'longitude' => 151.8676,
   ),
-  2331 => 
+  2221 => 
   array (
     'id' => 6233,
     'name' => 'Meekatharra',
@@ -20989,7 +19999,7 @@ return array (
     'latitude' => -25.3033,
     'longitude' => 118.99974,
   ),
-  2332 => 
+  2222 => 
   array (
     'id' => 6234,
     'name' => 'Melba',
@@ -20998,7 +20008,7 @@ return array (
     'latitude' => -35.21016,
     'longitude' => 149.05405,
   ),
-  2333 => 
+  2223 => 
   array (
     'id' => 6235,
     'name' => 'Melbourne',
@@ -21007,7 +20017,7 @@ return array (
     'latitude' => -37.814,
     'longitude' => 144.96332,
   ),
-  2334 => 
+  2224 => 
   array (
     'id' => 6236,
     'name' => 'Melbourne City Centre',
@@ -21016,7 +20026,7 @@ return array (
     'latitude' => -37.81501,
     'longitude' => 144.96657,
   ),
-  2335 => 
+  2225 => 
   array (
     'id' => 6237,
     'name' => 'Melrose Park',
@@ -21025,16 +20035,7 @@ return array (
     'latitude' => -33.81491,
     'longitude' => 151.07208,
   ),
-  2336 => 
-  array (
-    'id' => 6238,
-    'name' => 'Melrose Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.98328,
-    'longitude' => 138.57541,
-  ),
-  2337 => 
+  2226 => 
   array (
     'id' => 6239,
     'name' => 'Melton',
@@ -21043,7 +20044,7 @@ return array (
     'latitude' => -37.68144,
     'longitude' => 144.62292,
   ),
-  2338 => 
+  2227 => 
   array (
     'id' => 6240,
     'name' => 'Melton South',
@@ -21052,7 +20053,7 @@ return array (
     'latitude' => -37.70773,
     'longitude' => 144.57493,
   ),
-  2339 => 
+  2228 => 
   array (
     'id' => 6241,
     'name' => 'Melton West',
@@ -21061,7 +20062,7 @@ return array (
     'latitude' => -37.67852,
     'longitude' => 144.56883,
   ),
-  2340 => 
+  2229 => 
   array (
     'id' => 6242,
     'name' => 'Melville',
@@ -21070,7 +20071,7 @@ return array (
     'latitude' => -32.04325,
     'longitude' => 115.83408,
   ),
-  2341 => 
+  2230 => 
   array (
     'id' => 6243,
     'name' => 'Menai',
@@ -21079,7 +20080,7 @@ return array (
     'latitude' => -34.01667,
     'longitude' => 151.01667,
   ),
-  2342 => 
+  2231 => 
   array (
     'id' => 6244,
     'name' => 'Menangle',
@@ -21088,7 +20089,7 @@ return array (
     'latitude' => -34.12675,
     'longitude' => 150.73868,
   ),
-  2343 => 
+  2232 => 
   array (
     'id' => 6245,
     'name' => 'Meningie',
@@ -21097,7 +20098,7 @@ return array (
     'latitude' => -35.68637,
     'longitude' => 139.34007,
   ),
-  2344 => 
+  2233 => 
   array (
     'id' => 6246,
     'name' => 'Menora',
@@ -21106,7 +20107,7 @@ return array (
     'latitude' => -31.91889,
     'longitude' => 115.86208,
   ),
-  2345 => 
+  2234 => 
   array (
     'id' => 6247,
     'name' => 'Mentone',
@@ -21115,7 +20116,7 @@ return array (
     'latitude' => -37.98333,
     'longitude' => 145.06667,
   ),
-  2346 => 
+  2235 => 
   array (
     'id' => 6248,
     'name' => 'Menzies',
@@ -21124,16 +20125,7 @@ return array (
     'latitude' => -29.39176,
     'longitude' => 123.71878,
   ),
-  2347 => 
-  array (
-    'id' => 6249,
-    'name' => 'Menzies',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -20.71809,
-    'longitude' => 139.49717,
-  ),
-  2348 => 
+  2236 => 
   array (
     'id' => 6250,
     'name' => 'Merbein',
@@ -21142,7 +20134,7 @@ return array (
     'latitude' => -34.16802,
     'longitude' => 142.06599,
   ),
-  2349 => 
+  2237 => 
   array (
     'id' => 6251,
     'name' => 'Merewether',
@@ -21151,7 +20143,7 @@ return array (
     'latitude' => -32.94801,
     'longitude' => 151.74325,
   ),
-  2350 => 
+  2238 => 
   array (
     'id' => 6252,
     'name' => 'Merewether Heights',
@@ -21160,7 +20152,7 @@ return array (
     'latitude' => -32.94733,
     'longitude' => 151.73565,
   ),
-  2351 => 
+  2239 => 
   array (
     'id' => 6253,
     'name' => 'Meridan Plains',
@@ -21169,7 +20161,7 @@ return array (
     'latitude' => -26.77351,
     'longitude' => 153.06187,
   ),
-  2352 => 
+  2240 => 
   array (
     'id' => 6254,
     'name' => 'Merimbula',
@@ -21178,7 +20170,7 @@ return array (
     'latitude' => -36.88901,
     'longitude' => 149.90961,
   ),
-  2353 => 
+  2241 => 
   array (
     'id' => 6255,
     'name' => 'Meringandan West',
@@ -21187,7 +20179,7 @@ return array (
     'latitude' => -27.41612,
     'longitude' => 151.88727,
   ),
-  2354 => 
+  2242 => 
   array (
     'id' => 6256,
     'name' => 'Mermaid Beach',
@@ -21196,7 +20188,7 @@ return array (
     'latitude' => -28.04411,
     'longitude' => 153.43472,
   ),
-  2355 => 
+  2243 => 
   array (
     'id' => 6257,
     'name' => 'Mermaid Waters',
@@ -21205,7 +20197,7 @@ return array (
     'latitude' => -28.04912,
     'longitude' => 153.43081,
   ),
-  2356 => 
+  2244 => 
   array (
     'id' => 6258,
     'name' => 'Mernda',
@@ -21214,7 +20206,7 @@ return array (
     'latitude' => -37.60075,
     'longitude' => 145.09555,
   ),
-  2357 => 
+  2245 => 
   array (
     'id' => 6259,
     'name' => 'Merredin',
@@ -21223,7 +20215,7 @@ return array (
     'latitude' => -31.46054,
     'longitude' => 118.38509,
   ),
-  2358 => 
+  2246 => 
   array (
     'id' => 6260,
     'name' => 'Merrimac',
@@ -21232,7 +20224,7 @@ return array (
     'latitude' => -28.05085,
     'longitude' => 153.37307,
   ),
-  2359 => 
+  2247 => 
   array (
     'id' => 6261,
     'name' => 'Merriwa',
@@ -21241,16 +20233,7 @@ return array (
     'latitude' => -32.13922,
     'longitude' => 150.35562,
   ),
-  2360 => 
-  array (
-    'id' => 6262,
-    'name' => 'Merriwa',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.66494,
-    'longitude' => 115.71273,
-  ),
-  2361 => 
+  2248 => 
   array (
     'id' => 6263,
     'name' => 'Merrylands',
@@ -21259,7 +20242,7 @@ return array (
     'latitude' => -33.83333,
     'longitude' => 150.98333,
   ),
-  2362 => 
+  2249 => 
   array (
     'id' => 6264,
     'name' => 'Merrylands West',
@@ -21268,7 +20251,7 @@ return array (
     'latitude' => -33.83269,
     'longitude' => 150.96906,
   ),
-  2363 => 
+  2250 => 
   array (
     'id' => 6265,
     'name' => 'Metford',
@@ -21277,7 +20260,7 @@ return array (
     'latitude' => -32.76497,
     'longitude' => 151.6094,
   ),
-  2364 => 
+  2251 => 
   array (
     'id' => 6266,
     'name' => 'Metung',
@@ -21286,7 +20269,7 @@ return array (
     'latitude' => -37.89154,
     'longitude' => 147.853,
   ),
-  2365 => 
+  2252 => 
   array (
     'id' => 6267,
     'name' => 'Miami',
@@ -21295,7 +20278,7 @@ return array (
     'latitude' => -28.07173,
     'longitude' => 153.44158,
   ),
-  2366 => 
+  2253 => 
   array (
     'id' => 6268,
     'name' => 'Miandetta',
@@ -21304,7 +20287,7 @@ return array (
     'latitude' => -41.1955,
     'longitude' => 146.35322,
   ),
-  2367 => 
+  2254 => 
   array (
     'id' => 6269,
     'name' => 'Mickleham',
@@ -21313,7 +20296,7 @@ return array (
     'latitude' => -37.53664,
     'longitude' => 144.90204,
   ),
-  2368 => 
+  2255 => 
   array (
     'id' => 6270,
     'name' => 'Mid Murray',
@@ -21322,7 +20305,7 @@ return array (
     'latitude' => -34.41566,
     'longitude' => 139.41639,
   ),
-  2369 => 
+  2256 => 
   array (
     'id' => 6271,
     'name' => 'Mid-Western Regional',
@@ -21331,7 +20314,7 @@ return array (
     'latitude' => -32.60202,
     'longitude' => 149.76748,
   ),
-  2370 => 
+  2257 => 
   array (
     'id' => 6272,
     'name' => 'Middle Cove',
@@ -21340,7 +20323,7 @@ return array (
     'latitude' => -33.7928,
     'longitude' => 151.21248,
   ),
-  2371 => 
+  2258 => 
   array (
     'id' => 6273,
     'name' => 'Middle Park',
@@ -21349,16 +20332,7 @@ return array (
     'latitude' => -37.85116,
     'longitude' => 144.96201,
   ),
-  2372 => 
-  array (
-    'id' => 6274,
-    'name' => 'Middle Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.55596,
-    'longitude' => 152.92223,
-  ),
-  2373 => 
+  2259 => 
   array (
     'id' => 6275,
     'name' => 'Middle Ridge',
@@ -21367,7 +20341,7 @@ return array (
     'latitude' => -27.60709,
     'longitude' => 151.96688,
   ),
-  2374 => 
+  2260 => 
   array (
     'id' => 6276,
     'name' => 'Middle Swan',
@@ -21376,7 +20350,7 @@ return array (
     'latitude' => -31.85,
     'longitude' => 116.01667,
   ),
-  2375 => 
+  2261 => 
   array (
     'id' => 6277,
     'name' => 'Middlemount',
@@ -21385,7 +20359,7 @@ return array (
     'latitude' => -22.81226,
     'longitude' => 148.69926,
   ),
-  2376 => 
+  2262 => 
   array (
     'id' => 6278,
     'name' => 'Middleton',
@@ -21394,7 +20368,7 @@ return array (
     'latitude' => -35.51047,
     'longitude' => 138.70377,
   ),
-  2377 => 
+  2263 => 
   array (
     'id' => 6279,
     'name' => 'Middleton Grange',
@@ -21403,7 +20377,7 @@ return array (
     'latitude' => -33.91704,
     'longitude' => 150.84186,
   ),
-  2378 => 
+  2264 => 
   array (
     'id' => 6280,
     'name' => 'Midland',
@@ -21412,7 +20386,7 @@ return array (
     'latitude' => -31.88909,
     'longitude' => 116.0107,
   ),
-  2379 => 
+  2265 => 
   array (
     'id' => 6281,
     'name' => 'Midvale',
@@ -21421,7 +20395,7 @@ return array (
     'latitude' => -31.88881,
     'longitude' => 116.03288,
   ),
-  2380 => 
+  2266 => 
   array (
     'id' => 6282,
     'name' => 'Midway Point',
@@ -21430,7 +20404,7 @@ return array (
     'latitude' => -42.7948,
     'longitude' => 147.52883,
   ),
-  2381 => 
+  2267 => 
   array (
     'id' => 6283,
     'name' => 'Mildura',
@@ -21439,7 +20413,7 @@ return array (
     'latitude' => -34.18551,
     'longitude' => 142.16251,
   ),
-  2382 => 
+  2268 => 
   array (
     'id' => 6284,
     'name' => 'Mildura Shire',
@@ -21448,7 +20422,7 @@ return array (
     'latitude' => -34.8645,
     'longitude' => 141.85232,
   ),
-  2383 => 
+  2269 => 
   array (
     'id' => 6285,
     'name' => 'Mile End',
@@ -21457,7 +20431,7 @@ return array (
     'latitude' => -34.92654,
     'longitude' => 138.57033,
   ),
-  2384 => 
+  2270 => 
   array (
     'id' => 6286,
     'name' => 'Miles',
@@ -21466,7 +20440,7 @@ return array (
     'latitude' => -26.65836,
     'longitude' => 150.18822,
   ),
-  2385 => 
+  2271 => 
   array (
     'id' => 6287,
     'name' => 'Milingimbi',
@@ -21475,7 +20449,7 @@ return array (
     'latitude' => -12.10188,
     'longitude' => 134.91901,
   ),
-  2386 => 
+  2272 => 
   array (
     'id' => 6288,
     'name' => 'Mill Park',
@@ -21484,7 +20458,7 @@ return array (
     'latitude' => -37.66667,
     'longitude' => 145.06667,
   ),
-  2387 => 
+  2273 => 
   array (
     'id' => 6289,
     'name' => 'Millars Well',
@@ -21493,7 +20467,7 @@ return array (
     'latitude' => -20.74168,
     'longitude' => 116.81731,
   ),
-  2388 => 
+  2274 => 
   array (
     'id' => 6290,
     'name' => 'Millbank',
@@ -21502,7 +20476,7 @@ return array (
     'latitude' => -24.87536,
     'longitude' => 152.32217,
   ),
-  2389 => 
+  2275 => 
   array (
     'id' => 6291,
     'name' => 'Millbridge',
@@ -21511,7 +20485,7 @@ return array (
     'latitude' => -33.30617,
     'longitude' => 115.735,
   ),
-  2390 => 
+  2276 => 
   array (
     'id' => 6292,
     'name' => 'Miller',
@@ -21520,7 +20494,7 @@ return array (
     'latitude' => -33.92089,
     'longitude' => 150.88469,
   ),
-  2391 => 
+  2277 => 
   array (
     'id' => 6293,
     'name' => 'Millers Point',
@@ -21529,7 +20503,7 @@ return array (
     'latitude' => -33.85957,
     'longitude' => 151.20406,
   ),
-  2392 => 
+  2278 => 
   array (
     'id' => 6294,
     'name' => 'Millgrove',
@@ -21538,7 +20512,7 @@ return array (
     'latitude' => -37.75527,
     'longitude' => 145.65347,
   ),
-  2393 => 
+  2279 => 
   array (
     'id' => 6295,
     'name' => 'Millicent',
@@ -21547,7 +20521,7 @@ return array (
     'latitude' => -37.59389,
     'longitude' => 140.34947,
   ),
-  2394 => 
+  2280 => 
   array (
     'id' => 6296,
     'name' => 'Millmerran',
@@ -21556,7 +20530,7 @@ return array (
     'latitude' => -27.87913,
     'longitude' => 151.27058,
   ),
-  2395 => 
+  2281 => 
   array (
     'id' => 6297,
     'name' => 'Millner',
@@ -21565,7 +20539,7 @@ return array (
     'latitude' => -12.39186,
     'longitude' => 130.86252,
   ),
-  2396 => 
+  2282 => 
   array (
     'id' => 6298,
     'name' => 'Millstream',
@@ -21574,7 +20548,7 @@ return array (
     'latitude' => -17.65318,
     'longitude' => 145.41401,
   ),
-  2397 => 
+  2283 => 
   array (
     'id' => 6299,
     'name' => 'Millswood',
@@ -21583,7 +20557,7 @@ return array (
     'latitude' => -34.95505,
     'longitude' => 138.58888,
   ),
-  2398 => 
+  2284 => 
   array (
     'id' => 6300,
     'name' => 'Millthorpe',
@@ -21592,7 +20566,7 @@ return array (
     'latitude' => -33.44601,
     'longitude' => 149.18539,
   ),
-  2399 => 
+  2285 => 
   array (
     'id' => 6301,
     'name' => 'Milperra',
@@ -21601,7 +20575,7 @@ return array (
     'latitude' => -33.93934,
     'longitude' => 150.98148,
   ),
-  2400 => 
+  2286 => 
   array (
     'id' => 6302,
     'name' => 'Milsons Point',
@@ -21610,7 +20584,7 @@ return array (
     'latitude' => -33.846,
     'longitude' => 151.21192,
   ),
-  2401 => 
+  2287 => 
   array (
     'id' => 6303,
     'name' => 'Milton',
@@ -21619,16 +20593,7 @@ return array (
     'latitude' => -35.31644,
     'longitude' => 150.4361,
   ),
-  2402 => 
-  array (
-    'id' => 6304,
-    'name' => 'Milton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.47039,
-    'longitude' => 153.00312,
-  ),
-  2403 => 
+  2288 => 
   array (
     'id' => 6305,
     'name' => 'Minchinbury',
@@ -21637,7 +20602,7 @@ return array (
     'latitude' => -33.78724,
     'longitude' => 150.82956,
   ),
-  2404 => 
+  2289 => 
   array (
     'id' => 6306,
     'name' => 'Mindarie',
@@ -21646,7 +20611,7 @@ return array (
     'latitude' => -31.68932,
     'longitude' => 115.70698,
   ),
-  2405 => 
+  2290 => 
   array (
     'id' => 6307,
     'name' => 'Minden',
@@ -21655,7 +20620,7 @@ return array (
     'latitude' => -27.55965,
     'longitude' => 152.54493,
   ),
-  2406 => 
+  2291 => 
   array (
     'id' => 6308,
     'name' => 'Miners Rest',
@@ -21664,7 +20629,7 @@ return array (
     'latitude' => -37.4808,
     'longitude' => 143.80107,
   ),
-  2407 => 
+  2292 => 
   array (
     'id' => 6309,
     'name' => 'Mingenew',
@@ -21673,7 +20638,7 @@ return array (
     'latitude' => -29.14515,
     'longitude' => 115.50123,
   ),
-  2408 => 
+  2293 => 
   array (
     'id' => 6310,
     'name' => 'Minlaton',
@@ -21682,7 +20647,7 @@ return array (
     'latitude' => -34.77101,
     'longitude' => 137.59576,
   ),
-  2409 => 
+  2294 => 
   array (
     'id' => 6311,
     'name' => 'Minto',
@@ -21691,7 +20656,7 @@ return array (
     'latitude' => -34.03333,
     'longitude' => 150.85,
   ),
-  2410 => 
+  2295 => 
   array (
     'id' => 6312,
     'name' => 'Minyama',
@@ -21700,7 +20665,7 @@ return array (
     'latitude' => -26.69573,
     'longitude' => 153.12353,
   ),
-  2411 => 
+  2296 => 
   array (
     'id' => 6313,
     'name' => 'Mira Mar',
@@ -21709,7 +20674,7 @@ return array (
     'latitude' => -35.01517,
     'longitude' => 117.90096,
   ),
-  2412 => 
+  2297 => 
   array (
     'id' => 6314,
     'name' => 'Miranda',
@@ -21718,7 +20683,7 @@ return array (
     'latitude' => -34.03857,
     'longitude' => 151.10005,
   ),
-  2413 => 
+  2298 => 
   array (
     'id' => 6315,
     'name' => 'Mirani',
@@ -21727,7 +20692,7 @@ return array (
     'latitude' => -21.15729,
     'longitude' => 148.86217,
   ),
-  2414 => 
+  2299 => 
   array (
     'id' => 6316,
     'name' => 'Mirboo North',
@@ -21736,7 +20701,7 @@ return array (
     'latitude' => -38.40101,
     'longitude' => 146.16135,
   ),
-  2415 => 
+  2300 => 
   array (
     'id' => 6317,
     'name' => 'Mirrabooka',
@@ -21745,7 +20710,7 @@ return array (
     'latitude' => -31.85963,
     'longitude' => 115.86587,
   ),
-  2416 => 
+  2301 => 
   array (
     'id' => 6318,
     'name' => 'Mission Beach',
@@ -21754,7 +20719,7 @@ return array (
     'latitude' => -17.86885,
     'longitude' => 146.10392,
   ),
-  2417 => 
+  2302 => 
   array (
     'id' => 6319,
     'name' => 'Mission River',
@@ -21763,7 +20728,7 @@ return array (
     'latitude' => -12.59509,
     'longitude' => 141.9576,
   ),
-  2418 => 
+  2303 => 
   array (
     'id' => 6320,
     'name' => 'Mitcham',
@@ -21772,16 +20737,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.2,
   ),
-  2419 => 
-  array (
-    'id' => 6321,
-    'name' => 'Mitcham',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.0069,
-    'longitude' => 138.62218,
-  ),
-  2420 => 
+  2304 => 
   array (
     'id' => 6322,
     'name' => 'Mitchell',
@@ -21790,25 +20746,7 @@ return array (
     'latitude' => -37.17535,
     'longitude' => 144.97999,
   ),
-  2421 => 
-  array (
-    'id' => 6323,
-    'name' => 'Mitchell',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -26.4849,
-    'longitude' => 147.9742,
-  ),
-  2422 => 
-  array (
-    'id' => 6324,
-    'name' => 'Mitchell',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.42732,
-    'longitude' => 149.55674,
-  ),
-  2423 => 
+  2305 => 
   array (
     'id' => 6325,
     'name' => 'Mitchell Park',
@@ -21817,7 +20755,7 @@ return array (
     'latitude' => -35.01031,
     'longitude' => 138.56266,
   ),
-  2424 => 
+  2306 => 
   array (
     'id' => 6326,
     'name' => 'Mitchelton',
@@ -21826,7 +20764,7 @@ return array (
     'latitude' => -27.41667,
     'longitude' => 152.96667,
   ),
-  2425 => 
+  2307 => 
   array (
     'id' => 6327,
     'name' => 'Mittagong',
@@ -21835,7 +20773,7 @@ return array (
     'latitude' => -34.45002,
     'longitude' => 150.44572,
   ),
-  2426 => 
+  2308 => 
   array (
     'id' => 6328,
     'name' => 'Moama',
@@ -21844,7 +20782,7 @@ return array (
     'latitude' => -36.10413,
     'longitude' => 144.7608,
   ),
-  2427 => 
+  2309 => 
   array (
     'id' => 6329,
     'name' => 'Moana',
@@ -21853,7 +20791,7 @@ return array (
     'latitude' => -35.19394,
     'longitude' => 138.47614,
   ),
-  2428 => 
+  2310 => 
   array (
     'id' => 6330,
     'name' => 'Modbury',
@@ -21862,7 +20800,7 @@ return array (
     'latitude' => -34.83333,
     'longitude' => 138.68333,
   ),
-  2429 => 
+  2311 => 
   array (
     'id' => 6331,
     'name' => 'Modbury Heights',
@@ -21871,7 +20809,7 @@ return array (
     'latitude' => -34.80969,
     'longitude' => 138.68544,
   ),
-  2430 => 
+  2312 => 
   array (
     'id' => 6332,
     'name' => 'Modbury North',
@@ -21880,7 +20818,7 @@ return array (
     'latitude' => -34.82848,
     'longitude' => 138.6739,
   ),
-  2431 => 
+  2313 => 
   array (
     'id' => 6333,
     'name' => 'Moe',
@@ -21889,7 +20827,7 @@ return array (
     'latitude' => -38.17828,
     'longitude' => 146.26099,
   ),
-  2432 => 
+  2314 => 
   array (
     'id' => 6334,
     'name' => 'Moffat Beach',
@@ -21898,7 +20836,7 @@ return array (
     'latitude' => -26.79048,
     'longitude' => 153.13997,
   ),
-  2433 => 
+  2315 => 
   array (
     'id' => 6335,
     'name' => 'Moggill',
@@ -21907,7 +20845,7 @@ return array (
     'latitude' => -27.58333,
     'longitude' => 152.86667,
   ),
-  2434 => 
+  2316 => 
   array (
     'id' => 6336,
     'name' => 'Moil',
@@ -21916,7 +20854,7 @@ return array (
     'latitude' => -12.3885,
     'longitude' => 130.88088,
   ),
-  2435 => 
+  2317 => 
   array (
     'id' => 6337,
     'name' => 'Moira',
@@ -21925,7 +20863,7 @@ return array (
     'latitude' => -36.0506,
     'longitude' => 145.53815,
   ),
-  2436 => 
+  2318 => 
   array (
     'id' => 6338,
     'name' => 'Molendinar',
@@ -21934,7 +20872,7 @@ return array (
     'latitude' => -27.97409,
     'longitude' => 153.36069,
   ),
-  2437 => 
+  2319 => 
   array (
     'id' => 6339,
     'name' => 'Mollymook',
@@ -21943,7 +20881,7 @@ return array (
     'latitude' => -35.34107,
     'longitude' => 150.46952,
   ),
-  2438 => 
+  2320 => 
   array (
     'id' => 6340,
     'name' => 'Mollymook Beach',
@@ -21952,7 +20890,7 @@ return array (
     'latitude' => -35.32966,
     'longitude' => 150.47173,
   ),
-  2439 => 
+  2321 => 
   array (
     'id' => 6341,
     'name' => 'Molong',
@@ -21961,7 +20899,7 @@ return array (
     'latitude' => -33.09233,
     'longitude' => 148.87002,
   ),
-  2440 => 
+  2322 => 
   array (
     'id' => 6342,
     'name' => 'Mona Vale',
@@ -21970,7 +20908,7 @@ return array (
     'latitude' => -33.67757,
     'longitude' => 151.30307,
   ),
-  2441 => 
+  2323 => 
   array (
     'id' => 6343,
     'name' => 'Monash',
@@ -21979,25 +20917,7 @@ return array (
     'latitude' => -34.2384,
     'longitude' => 140.56131,
   ),
-  2442 => 
-  array (
-    'id' => 6344,
-    'name' => 'Monash',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.89675,
-    'longitude' => 145.14714,
-  ),
-  2443 => 
-  array (
-    'id' => 6345,
-    'name' => 'Monash',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.41577,
-    'longitude' => 149.09063,
-  ),
-  2444 => 
+  2324 => 
   array (
     'id' => 6346,
     'name' => 'Monbulk',
@@ -22006,7 +20926,7 @@ return array (
     'latitude' => -37.87427,
     'longitude' => 145.42592,
   ),
-  2445 => 
+  2325 => 
   array (
     'id' => 6347,
     'name' => 'Monkland',
@@ -22015,7 +20935,7 @@ return array (
     'latitude' => -26.21191,
     'longitude' => 152.68245,
   ),
-  2446 => 
+  2326 => 
   array (
     'id' => 6348,
     'name' => 'Mont Albert',
@@ -22024,7 +20944,7 @@ return array (
     'latitude' => -37.81788,
     'longitude' => 145.10799,
   ),
-  2447 => 
+  2327 => 
   array (
     'id' => 6349,
     'name' => 'Mont Albert North',
@@ -22033,7 +20953,7 @@ return array (
     'latitude' => -37.80043,
     'longitude' => 145.10828,
   ),
-  2448 => 
+  2328 => 
   array (
     'id' => 6350,
     'name' => 'Montello',
@@ -22042,7 +20962,7 @@ return array (
     'latitude' => -41.05762,
     'longitude' => 145.89626,
   ),
-  2449 => 
+  2329 => 
   array (
     'id' => 6351,
     'name' => 'Monterey',
@@ -22051,7 +20971,7 @@ return array (
     'latitude' => -33.9725,
     'longitude' => 151.1481,
   ),
-  2450 => 
+  2330 => 
   array (
     'id' => 6352,
     'name' => 'Montmorency',
@@ -22060,7 +20980,7 @@ return array (
     'latitude' => -37.71667,
     'longitude' => 145.11667,
   ),
-  2451 => 
+  2331 => 
   array (
     'id' => 6353,
     'name' => 'Monto',
@@ -22069,7 +20989,7 @@ return array (
     'latitude' => -24.86477,
     'longitude' => 151.12199,
   ),
-  2452 => 
+  2332 => 
   array (
     'id' => 6354,
     'name' => 'Montrose',
@@ -22078,16 +20998,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.35,
   ),
-  2453 => 
-  array (
-    'id' => 6355,
-    'name' => 'Montrose',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -42.82895,
-    'longitude' => 147.24735,
-  ),
-  2454 => 
+  2333 => 
   array (
     'id' => 6356,
     'name' => 'Montville',
@@ -22096,7 +21007,7 @@ return array (
     'latitude' => -26.68333,
     'longitude' => 152.88333,
   ),
-  2455 => 
+  2334 => 
   array (
     'id' => 6357,
     'name' => 'Moolap',
@@ -22105,7 +21016,7 @@ return array (
     'latitude' => -38.18333,
     'longitude' => 144.43333,
   ),
-  2456 => 
+  2335 => 
   array (
     'id' => 6358,
     'name' => 'Mooloolaba',
@@ -22114,7 +21025,7 @@ return array (
     'latitude' => -26.68164,
     'longitude' => 153.11925,
   ),
-  2457 => 
+  2336 => 
   array (
     'id' => 6359,
     'name' => 'Moonah',
@@ -22123,7 +21034,7 @@ return array (
     'latitude' => -42.84617,
     'longitude' => 147.30228,
   ),
-  2458 => 
+  2337 => 
   array (
     'id' => 6360,
     'name' => 'Moonbi',
@@ -22132,7 +21043,7 @@ return array (
     'latitude' => -31.01775,
     'longitude' => 151.07062,
   ),
-  2459 => 
+  2338 => 
   array (
     'id' => 6361,
     'name' => 'Moonee Beach',
@@ -22141,7 +21052,7 @@ return array (
     'latitude' => -30.20575,
     'longitude' => 153.15293,
   ),
-  2460 => 
+  2339 => 
   array (
     'id' => 6362,
     'name' => 'Moonee Ponds',
@@ -22150,7 +21061,7 @@ return array (
     'latitude' => -37.76667,
     'longitude' => 144.91667,
   ),
-  2461 => 
+  2340 => 
   array (
     'id' => 6363,
     'name' => 'Moonee Valley',
@@ -22159,7 +21070,7 @@ return array (
     'latitude' => -37.74941,
     'longitude' => 144.89325,
   ),
-  2462 => 
+  2341 => 
   array (
     'id' => 6364,
     'name' => 'Moonta Bay',
@@ -22168,7 +21079,7 @@ return array (
     'latitude' => -34.05,
     'longitude' => 137.56667,
   ),
-  2463 => 
+  2342 => 
   array (
     'id' => 6365,
     'name' => 'Moora',
@@ -22177,7 +21088,7 @@ return array (
     'latitude' => -30.51218,
     'longitude' => 116.2098,
   ),
-  2464 => 
+  2343 => 
   array (
     'id' => 6366,
     'name' => 'Moorabbin',
@@ -22186,7 +21097,7 @@ return array (
     'latitude' => -37.94146,
     'longitude' => 145.05779,
   ),
-  2465 => 
+  2344 => 
   array (
     'id' => 6367,
     'name' => 'Moorabool',
@@ -22195,7 +21106,7 @@ return array (
     'latitude' => -37.63338,
     'longitude' => 144.21946,
   ),
-  2466 => 
+  2345 => 
   array (
     'id' => 6368,
     'name' => 'Moorak',
@@ -22204,7 +21115,7 @@ return array (
     'latitude' => -37.86381,
     'longitude' => 140.74263,
   ),
-  2467 => 
+  2346 => 
   array (
     'id' => 6369,
     'name' => 'Moore Park Beach',
@@ -22213,7 +21124,7 @@ return array (
     'latitude' => -24.71066,
     'longitude' => 152.20905,
   ),
-  2468 => 
+  2347 => 
   array (
     'id' => 6370,
     'name' => 'Moorebank',
@@ -22222,7 +21133,7 @@ return array (
     'latitude' => -33.94372,
     'longitude' => 150.95657,
   ),
-  2469 => 
+  2348 => 
   array (
     'id' => 6371,
     'name' => 'Mooroobool',
@@ -22231,7 +21142,7 @@ return array (
     'latitude' => -16.93489,
     'longitude' => 145.73137,
   ),
-  2470 => 
+  2349 => 
   array (
     'id' => 6372,
     'name' => 'Moorooduc',
@@ -22240,7 +21151,7 @@ return array (
     'latitude' => -38.21667,
     'longitude' => 145.11667,
   ),
-  2471 => 
+  2350 => 
   array (
     'id' => 6373,
     'name' => 'Moorooka',
@@ -22249,7 +21160,7 @@ return array (
     'latitude' => -27.53436,
     'longitude' => 153.0246,
   ),
-  2472 => 
+  2351 => 
   array (
     'id' => 6374,
     'name' => 'Mooroolbark',
@@ -22258,7 +21169,7 @@ return array (
     'latitude' => -37.78247,
     'longitude' => 145.31682,
   ),
-  2473 => 
+  2352 => 
   array (
     'id' => 6375,
     'name' => 'Mooroopna',
@@ -22267,7 +21178,7 @@ return array (
     'latitude' => -36.4,
     'longitude' => 145.35,
   ),
-  2474 => 
+  2353 => 
   array (
     'id' => 6376,
     'name' => 'Moranbah',
@@ -22276,7 +21187,7 @@ return array (
     'latitude' => -22.00163,
     'longitude' => 148.04661,
   ),
-  2475 => 
+  2354 => 
   array (
     'id' => 6377,
     'name' => 'Morawa',
@@ -22285,7 +21196,7 @@ return array (
     'latitude' => -29.03545,
     'longitude' => 116.05643,
   ),
-  2476 => 
+  2355 => 
   array (
     'id' => 6378,
     'name' => 'Morayfield',
@@ -22294,7 +21205,7 @@ return array (
     'latitude' => -27.10876,
     'longitude' => 152.94907,
   ),
-  2477 => 
+  2356 => 
   array (
     'id' => 6379,
     'name' => 'Mordialloc',
@@ -22303,7 +21214,7 @@ return array (
     'latitude' => -38.0,
     'longitude' => 145.08333,
   ),
-  2478 => 
+  2357 => 
   array (
     'id' => 6380,
     'name' => 'Moree',
@@ -22312,7 +21223,7 @@ return array (
     'latitude' => -29.46278,
     'longitude' => 149.84157,
   ),
-  2479 => 
+  2358 => 
   array (
     'id' => 6381,
     'name' => 'Moree Plains',
@@ -22321,7 +21232,7 @@ return array (
     'latitude' => -29.32131,
     'longitude' => 149.58121,
   ),
-  2480 => 
+  2359 => 
   array (
     'id' => 6382,
     'name' => 'Moreland',
@@ -22330,7 +21241,7 @@ return array (
     'latitude' => -37.73557,
     'longitude' => 144.93745,
   ),
-  2481 => 
+  2360 => 
   array (
     'id' => 6383,
     'name' => 'Moreton Bay',
@@ -22339,7 +21250,7 @@ return array (
     'latitude' => -27.10731,
     'longitude' => 152.92937,
   ),
-  2482 => 
+  2361 => 
   array (
     'id' => 6384,
     'name' => 'Morisset',
@@ -22348,7 +21259,7 @@ return array (
     'latitude' => -33.10801,
     'longitude' => 151.48706,
   ),
-  2483 => 
+  2362 => 
   array (
     'id' => 6385,
     'name' => 'Morley',
@@ -22357,7 +21268,7 @@ return array (
     'latitude' => -31.88775,
     'longitude' => 115.9099,
   ),
-  2484 => 
+  2363 => 
   array (
     'id' => 6386,
     'name' => 'Morningside',
@@ -22366,7 +21277,7 @@ return array (
     'latitude' => -27.46165,
     'longitude' => 153.07511,
   ),
-  2485 => 
+  2364 => 
   array (
     'id' => 6387,
     'name' => 'Mornington',
@@ -22375,25 +21286,7 @@ return array (
     'latitude' => -38.21792,
     'longitude' => 145.03876,
   ),
-  2486 => 
-  array (
-    'id' => 6388,
-    'name' => 'Mornington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -16.68436,
-    'longitude' => 139.46682,
-  ),
-  2487 => 
-  array (
-    'id' => 6389,
-    'name' => 'Mornington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -42.86267,
-    'longitude' => 147.39819,
-  ),
-  2488 => 
+  2365 => 
   array (
     'id' => 6390,
     'name' => 'Mornington Peninsula',
@@ -22402,7 +21295,7 @@ return array (
     'latitude' => -38.34004,
     'longitude' => 145.05455,
   ),
-  2489 => 
+  2366 => 
   array (
     'id' => 6391,
     'name' => 'Morpeth',
@@ -22411,7 +21304,7 @@ return array (
     'latitude' => -32.73333,
     'longitude' => 151.63333,
   ),
-  2490 => 
+  2367 => 
   array (
     'id' => 6392,
     'name' => 'Morphett Vale',
@@ -22420,7 +21313,7 @@ return array (
     'latitude' => -35.13333,
     'longitude' => 138.51667,
   ),
-  2491 => 
+  2368 => 
   array (
     'id' => 6393,
     'name' => 'Morphettville',
@@ -22429,7 +21322,7 @@ return array (
     'latitude' => -34.98852,
     'longitude' => 138.53979,
   ),
-  2492 => 
+  2369 => 
   array (
     'id' => 6394,
     'name' => 'Mortdale',
@@ -22438,7 +21331,7 @@ return array (
     'latitude' => -33.96897,
     'longitude' => 151.07231,
   ),
-  2493 => 
+  2370 => 
   array (
     'id' => 6395,
     'name' => 'Mortlake',
@@ -22447,16 +21340,7 @@ return array (
     'latitude' => -38.08102,
     'longitude' => 142.80827,
   ),
-  2494 => 
-  array (
-    'id' => 6396,
-    'name' => 'Mortlake',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.84217,
-    'longitude' => 151.10719,
-  ),
-  2495 => 
+  2371 => 
   array (
     'id' => 6397,
     'name' => 'Moruya',
@@ -22465,7 +21349,7 @@ return array (
     'latitude' => -35.9125,
     'longitude' => 150.08144,
   ),
-  2496 => 
+  2372 => 
   array (
     'id' => 6398,
     'name' => 'Morwell',
@@ -22474,7 +21358,7 @@ return array (
     'latitude' => -38.23476,
     'longitude' => 146.39499,
   ),
-  2497 => 
+  2373 => 
   array (
     'id' => 6399,
     'name' => 'Mosman',
@@ -22483,7 +21367,7 @@ return array (
     'latitude' => -33.82845,
     'longitude' => 151.24866,
   ),
-  2498 => 
+  2374 => 
   array (
     'id' => 6400,
     'name' => 'Mosman Park',
@@ -22492,7 +21376,7 @@ return array (
     'latitude' => -32.01421,
     'longitude' => 115.76613,
   ),
-  2499 => 
+  2375 => 
   array (
     'id' => 6401,
     'name' => 'Moss Vale',
@@ -22501,7 +21385,7 @@ return array (
     'latitude' => -34.55374,
     'longitude' => 150.37115,
   ),
-  2500 => 
+  2376 => 
   array (
     'id' => 6402,
     'name' => 'Mossman',
@@ -22510,7 +21394,7 @@ return array (
     'latitude' => -16.46292,
     'longitude' => 145.37144,
   ),
-  2501 => 
+  2377 => 
   array (
     'id' => 6403,
     'name' => 'Moulden',
@@ -22519,7 +21403,7 @@ return array (
     'latitude' => -12.50559,
     'longitude' => 130.97313,
   ),
-  2502 => 
+  2378 => 
   array (
     'id' => 6404,
     'name' => 'Mount Alexander',
@@ -22528,7 +21412,7 @@ return array (
     'latitude' => -37.07607,
     'longitude' => 144.18825,
   ),
-  2503 => 
+  2379 => 
   array (
     'id' => 6405,
     'name' => 'Mount Annan',
@@ -22537,7 +21421,7 @@ return array (
     'latitude' => -34.05287,
     'longitude' => 150.75984,
   ),
-  2504 => 
+  2380 => 
   array (
     'id' => 6406,
     'name' => 'Mount Austin',
@@ -22546,7 +21430,7 @@ return array (
     'latitude' => -35.13684,
     'longitude' => 147.35304,
   ),
-  2505 => 
+  2381 => 
   array (
     'id' => 6407,
     'name' => 'Mount Barker',
@@ -22555,16 +21439,7 @@ return array (
     'latitude' => -34.63084,
     'longitude' => 117.66606,
   ),
-  2506 => 
-  array (
-    'id' => 6408,
-    'name' => 'Mount Barker',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.06907,
-    'longitude' => 138.86936,
-  ),
-  2507 => 
+  2382 => 
   array (
     'id' => 6409,
     'name' => 'Mount Buller',
@@ -22573,7 +21448,7 @@ return array (
     'latitude' => -37.14595,
     'longitude' => 146.43694,
   ),
-  2508 => 
+  2383 => 
   array (
     'id' => 6410,
     'name' => 'Mount Claremont',
@@ -22582,7 +21457,7 @@ return array (
     'latitude' => -31.96177,
     'longitude' => 115.78337,
   ),
-  2509 => 
+  2384 => 
   array (
     'id' => 6411,
     'name' => 'Mount Clear',
@@ -22591,7 +21466,7 @@ return array (
     'latitude' => -37.6,
     'longitude' => 143.88333,
   ),
-  2510 => 
+  2385 => 
   array (
     'id' => 6412,
     'name' => 'Mount Colah',
@@ -22600,7 +21475,7 @@ return array (
     'latitude' => -33.68333,
     'longitude' => 151.11667,
   ),
-  2511 => 
+  2386 => 
   array (
     'id' => 6413,
     'name' => 'Mount Compass',
@@ -22609,7 +21484,7 @@ return array (
     'latitude' => -35.34685,
     'longitude' => 138.62032,
   ),
-  2512 => 
+  2387 => 
   array (
     'id' => 6414,
     'name' => 'Mount Coolum',
@@ -22618,7 +21493,7 @@ return array (
     'latitude' => -26.56581,
     'longitude' => 153.09139,
   ),
-  2513 => 
+  2388 => 
   array (
     'id' => 6415,
     'name' => 'Mount Cotton',
@@ -22627,7 +21502,7 @@ return array (
     'latitude' => -27.63333,
     'longitude' => 153.23333,
   ),
-  2514 => 
+  2389 => 
   array (
     'id' => 6416,
     'name' => 'Mount Crosby',
@@ -22636,7 +21511,7 @@ return array (
     'latitude' => -27.53948,
     'longitude' => 152.80583,
   ),
-  2515 => 
+  2390 => 
   array (
     'id' => 6417,
     'name' => 'Mount Dandenong',
@@ -22645,7 +21520,7 @@ return array (
     'latitude' => -37.83333,
     'longitude' => 145.36667,
   ),
-  2516 => 
+  2391 => 
   array (
     'id' => 6418,
     'name' => 'Mount Druitt',
@@ -22654,7 +21529,7 @@ return array (
     'latitude' => -33.76667,
     'longitude' => 150.81667,
   ),
-  2517 => 
+  2392 => 
   array (
     'id' => 6419,
     'name' => 'Mount Duneed',
@@ -22663,7 +21538,7 @@ return array (
     'latitude' => -38.24089,
     'longitude' => 144.33748,
   ),
-  2518 => 
+  2393 => 
   array (
     'id' => 6420,
     'name' => 'Mount Eliza',
@@ -22672,7 +21547,7 @@ return array (
     'latitude' => -38.18333,
     'longitude' => 145.08333,
   ),
-  2519 => 
+  2394 => 
   array (
     'id' => 6421,
     'name' => 'Mount Evelyn',
@@ -22681,7 +21556,7 @@ return array (
     'latitude' => -37.78333,
     'longitude' => 145.38333,
   ),
-  2520 => 
+  2395 => 
   array (
     'id' => 6422,
     'name' => 'Mount Gambier',
@@ -22690,7 +21565,7 @@ return array (
     'latitude' => -37.82469,
     'longitude' => 140.78191,
   ),
-  2521 => 
+  2396 => 
   array (
     'id' => 6423,
     'name' => 'Mount Gravatt',
@@ -22699,7 +21574,7 @@ return array (
     'latitude' => -27.53333,
     'longitude' => 153.08333,
   ),
-  2522 => 
+  2397 => 
   array (
     'id' => 6424,
     'name' => 'Mount Gravatt East',
@@ -22708,7 +21583,7 @@ return array (
     'latitude' => -27.5405,
     'longitude' => 153.08221,
   ),
-  2523 => 
+  2398 => 
   array (
     'id' => 6425,
     'name' => 'Mount Hawthorn',
@@ -22717,7 +21592,7 @@ return array (
     'latitude' => -31.92,
     'longitude' => 115.83509,
   ),
-  2524 => 
+  2399 => 
   array (
     'id' => 6426,
     'name' => 'Mount Helen',
@@ -22726,7 +21601,7 @@ return array (
     'latitude' => -37.62463,
     'longitude' => 143.8789,
   ),
-  2525 => 
+  2400 => 
   array (
     'id' => 6427,
     'name' => 'Mount Helena',
@@ -22735,7 +21610,7 @@ return array (
     'latitude' => -31.87606,
     'longitude' => 116.21025,
   ),
-  2526 => 
+  2401 => 
   array (
     'id' => 6428,
     'name' => 'Mount Hutton',
@@ -22744,7 +21619,7 @@ return array (
     'latitude' => -32.98329,
     'longitude' => 151.67012,
   ),
-  2527 => 
+  2402 => 
   array (
     'id' => 6429,
     'name' => 'Mount Isa',
@@ -22753,7 +21628,7 @@ return array (
     'latitude' => -20.72523,
     'longitude' => 139.49727,
   ),
-  2528 => 
+  2403 => 
   array (
     'id' => 6430,
     'name' => 'Mount Keira',
@@ -22762,7 +21637,7 @@ return array (
     'latitude' => -34.39678,
     'longitude' => 150.85268,
   ),
-  2529 => 
+  2404 => 
   array (
     'id' => 6431,
     'name' => 'Mount Kembla',
@@ -22771,7 +21646,7 @@ return array (
     'latitude' => -34.42881,
     'longitude' => 150.82161,
   ),
-  2530 => 
+  2405 => 
   array (
     'id' => 6432,
     'name' => 'Mount Kuring-Gai',
@@ -22780,7 +21655,7 @@ return array (
     'latitude' => -33.64197,
     'longitude' => 151.12865,
   ),
-  2531 => 
+  2406 => 
   array (
     'id' => 6433,
     'name' => 'Mount Lawley',
@@ -22789,7 +21664,7 @@ return array (
     'latitude' => -31.93439,
     'longitude' => 115.8716,
   ),
-  2532 => 
+  2407 => 
   array (
     'id' => 6434,
     'name' => 'Mount Lewis',
@@ -22798,7 +21673,7 @@ return array (
     'latitude' => -33.9175,
     'longitude' => 151.04828,
   ),
-  2533 => 
+  2408 => 
   array (
     'id' => 6435,
     'name' => 'Mount Lofty',
@@ -22807,7 +21682,7 @@ return array (
     'latitude' => -27.54628,
     'longitude' => 151.97218,
   ),
-  2534 => 
+  2409 => 
   array (
     'id' => 6436,
     'name' => 'Mount Louisa',
@@ -22816,7 +21691,7 @@ return array (
     'latitude' => -19.274,
     'longitude' => 146.75091,
   ),
-  2535 => 
+  2410 => 
   array (
     'id' => 6437,
     'name' => 'Mount Low',
@@ -22825,7 +21700,7 @@ return array (
     'latitude' => -19.23209,
     'longitude' => 146.66951,
   ),
-  2536 => 
+  2411 => 
   array (
     'id' => 6438,
     'name' => 'Mount Macedon',
@@ -22834,7 +21709,7 @@ return array (
     'latitude' => -37.40048,
     'longitude' => 144.58412,
   ),
-  2537 => 
+  2412 => 
   array (
     'id' => 6439,
     'name' => 'Mount Magnet',
@@ -22843,7 +21718,7 @@ return array (
     'latitude' => -28.29082,
     'longitude' => 117.96655,
   ),
-  2538 => 
+  2413 => 
   array (
     'id' => 6440,
     'name' => 'Mount Marshall',
@@ -22852,7 +21727,7 @@ return array (
     'latitude' => -30.29376,
     'longitude' => 118.00063,
   ),
-  2539 => 
+  2414 => 
   array (
     'id' => 6441,
     'name' => 'Mount Martha',
@@ -22861,7 +21736,7 @@ return array (
     'latitude' => -38.26667,
     'longitude' => 145.01667,
   ),
-  2540 => 
+  2415 => 
   array (
     'id' => 6442,
     'name' => 'Mount Melville',
@@ -22870,7 +21745,7 @@ return array (
     'latitude' => -35.02216,
     'longitude' => 117.87137,
   ),
-  2541 => 
+  2416 => 
   array (
     'id' => 6443,
     'name' => 'Mount Morgan',
@@ -22879,7 +21754,7 @@ return array (
     'latitude' => -23.64532,
     'longitude' => 150.38902,
   ),
-  2542 => 
+  2417 => 
   array (
     'id' => 6444,
     'name' => 'Mount Nasura',
@@ -22888,7 +21763,7 @@ return array (
     'latitude' => -32.1378,
     'longitude' => 116.02473,
   ),
-  2543 => 
+  2418 => 
   array (
     'id' => 6445,
     'name' => 'Mount Nathan',
@@ -22897,7 +21772,7 @@ return array (
     'latitude' => -27.9643,
     'longitude' => 153.27198,
   ),
-  2544 => 
+  2419 => 
   array (
     'id' => 6446,
     'name' => 'Mount Nelson',
@@ -22906,7 +21781,7 @@ return array (
     'latitude' => -42.92073,
     'longitude' => 147.32069,
   ),
-  2545 => 
+  2420 => 
   array (
     'id' => 6447,
     'name' => 'Mount Ommaney',
@@ -22915,7 +21790,7 @@ return array (
     'latitude' => -27.54609,
     'longitude' => 152.93219,
   ),
-  2546 => 
+  2421 => 
   array (
     'id' => 6448,
     'name' => 'Mount Ousley',
@@ -22924,7 +21799,7 @@ return array (
     'latitude' => -34.40213,
     'longitude' => 150.88786,
   ),
-  2547 => 
+  2422 => 
   array (
     'id' => 6449,
     'name' => 'Mount Pleasant',
@@ -22933,34 +21808,7 @@ return array (
     'latitude' => -37.58333,
     'longitude' => 143.86667,
   ),
-  2548 => 
-  array (
-    'id' => 6450,
-    'name' => 'Mount Pleasant',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.03974,
-    'longitude' => 115.84993,
-  ),
-  2549 => 
-  array (
-    'id' => 6451,
-    'name' => 'Mount Pleasant',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -21.11814,
-    'longitude' => 149.15965,
-  ),
-  2550 => 
-  array (
-    'id' => 6452,
-    'name' => 'Mount Pleasant',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.39531,
-    'longitude' => 150.86658,
-  ),
-  2551 => 
+  2423 => 
   array (
     'id' => 6453,
     'name' => 'Mount Pritchard',
@@ -22969,7 +21817,7 @@ return array (
     'latitude' => -33.90295,
     'longitude' => 150.90465,
   ),
-  2552 => 
+  2424 => 
   array (
     'id' => 6454,
     'name' => 'Mount Remarkable',
@@ -22978,7 +21826,7 @@ return array (
     'latitude' => -32.71813,
     'longitude' => 138.1713,
   ),
-  2553 => 
+  2425 => 
   array (
     'id' => 6455,
     'name' => 'Mount Richon',
@@ -22987,7 +21835,7 @@ return array (
     'latitude' => -32.17349,
     'longitude' => 116.02137,
   ),
-  2554 => 
+  2426 => 
   array (
     'id' => 6456,
     'name' => 'Mount Riverview',
@@ -22996,7 +21844,7 @@ return array (
     'latitude' => -33.73074,
     'longitude' => 150.63532,
   ),
-  2555 => 
+  2427 => 
   array (
     'id' => 6457,
     'name' => 'Mount Saint Thomas',
@@ -23005,7 +21853,7 @@ return array (
     'latitude' => -34.44333,
     'longitude' => 150.87222,
   ),
-  2556 => 
+  2428 => 
   array (
     'id' => 6458,
     'name' => 'Mount Sheridan',
@@ -23014,7 +21862,7 @@ return array (
     'latitude' => -16.98608,
     'longitude' => 145.73244,
   ),
-  2557 => 
+  2429 => 
   array (
     'id' => 6459,
     'name' => 'Mount Stuart',
@@ -23023,7 +21871,7 @@ return array (
     'latitude' => -42.87157,
     'longitude' => 147.30164,
   ),
-  2558 => 
+  2430 => 
   array (
     'id' => 6460,
     'name' => 'Mount Tarcoola',
@@ -23032,7 +21880,7 @@ return array (
     'latitude' => -28.79859,
     'longitude' => 114.6253,
   ),
-  2559 => 
+  2431 => 
   array (
     'id' => 6461,
     'name' => 'Mount Vernon',
@@ -23041,7 +21889,7 @@ return array (
     'latitude' => -33.86036,
     'longitude' => 150.81007,
   ),
-  2560 => 
+  2432 => 
   array (
     'id' => 6462,
     'name' => 'Mount Warren Park',
@@ -23050,7 +21898,7 @@ return array (
     'latitude' => -27.73109,
     'longitude' => 153.20549,
   ),
-  2561 => 
+  2433 => 
   array (
     'id' => 6463,
     'name' => 'Mount Warrigal',
@@ -23059,7 +21907,7 @@ return array (
     'latitude' => -34.54804,
     'longitude' => 150.83752,
   ),
-  2562 => 
+  2434 => 
   array (
     'id' => 6464,
     'name' => 'Mount Waverley',
@@ -23068,7 +21916,7 @@ return array (
     'latitude' => -37.87709,
     'longitude' => 145.12939,
   ),
-  2563 => 
+  2435 => 
   array (
     'id' => 6465,
     'name' => 'Mountain Creek',
@@ -23077,7 +21925,7 @@ return array (
     'latitude' => -26.70278,
     'longitude' => 153.10133,
   ),
-  2564 => 
+  2436 => 
   array (
     'id' => 6466,
     'name' => 'Moura',
@@ -23086,7 +21934,7 @@ return array (
     'latitude' => -24.5722,
     'longitude' => 149.96729,
   ),
-  2565 => 
+  2437 => 
   array (
     'id' => 6467,
     'name' => 'Mowbray',
@@ -23095,7 +21943,7 @@ return array (
     'latitude' => -41.40243,
     'longitude' => 147.15059,
   ),
-  2566 => 
+  2438 => 
   array (
     'id' => 6468,
     'name' => 'Moyne',
@@ -23104,7 +21952,7 @@ return array (
     'latitude' => -38.18785,
     'longitude' => 142.46217,
   ),
-  2567 => 
+  2439 => 
   array (
     'id' => 6469,
     'name' => 'Mudgee',
@@ -23113,7 +21961,7 @@ return array (
     'latitude' => -32.59426,
     'longitude' => 149.5871,
   ),
-  2568 => 
+  2440 => 
   array (
     'id' => 6470,
     'name' => 'Mudgeeraba',
@@ -23122,7 +21970,7 @@ return array (
     'latitude' => -28.08333,
     'longitude' => 153.36667,
   ),
-  2569 => 
+  2441 => 
   array (
     'id' => 6471,
     'name' => 'Mudjimba',
@@ -23131,7 +21979,7 @@ return array (
     'latitude' => -26.61497,
     'longitude' => 153.0989,
   ),
-  2570 => 
+  2442 => 
   array (
     'id' => 6472,
     'name' => 'Muirhead',
@@ -23140,7 +21988,7 @@ return array (
     'latitude' => -12.35863,
     'longitude' => 130.89352,
   ),
-  2571 => 
+  2443 => 
   array (
     'id' => 6473,
     'name' => 'Mukinbudin',
@@ -23149,7 +21997,7 @@ return array (
     'latitude' => -30.63684,
     'longitude' => 118.28648,
   ),
-  2572 => 
+  2444 => 
   array (
     'id' => 6474,
     'name' => 'Mulambin',
@@ -23158,7 +22006,7 @@ return array (
     'latitude' => -23.18755,
     'longitude' => 150.78933,
   ),
-  2573 => 
+  2445 => 
   array (
     'id' => 6475,
     'name' => 'Mulgoa',
@@ -23167,7 +22015,7 @@ return array (
     'latitude' => -33.838,
     'longitude' => 150.64963,
   ),
-  2574 => 
+  2446 => 
   array (
     'id' => 6476,
     'name' => 'Mulgrave',
@@ -23176,7 +22024,7 @@ return array (
     'latitude' => -37.92845,
     'longitude' => 145.17708,
   ),
-  2575 => 
+  2447 => 
   array (
     'id' => 6477,
     'name' => 'Mullaloo',
@@ -23185,7 +22033,7 @@ return array (
     'latitude' => -31.77896,
     'longitude' => 115.73676,
   ),
-  2576 => 
+  2448 => 
   array (
     'id' => 6478,
     'name' => 'Mullumbimby',
@@ -23194,7 +22042,7 @@ return array (
     'latitude' => -28.55236,
     'longitude' => 153.49956,
   ),
-  2577 => 
+  2449 => 
   array (
     'id' => 6479,
     'name' => 'Mulwala',
@@ -23203,7 +22051,7 @@ return array (
     'latitude' => -35.98536,
     'longitude' => 146.00534,
   ),
-  2578 => 
+  2450 => 
   array (
     'id' => 6480,
     'name' => 'Mundaring',
@@ -23212,7 +22060,7 @@ return array (
     'latitude' => -31.88456,
     'longitude' => 116.21551,
   ),
-  2579 => 
+  2451 => 
   array (
     'id' => 6481,
     'name' => 'Mundijong',
@@ -23221,7 +22069,7 @@ return array (
     'latitude' => -32.29217,
     'longitude' => 115.98564,
   ),
-  2580 => 
+  2452 => 
   array (
     'id' => 6482,
     'name' => 'Mundingburra',
@@ -23230,7 +22078,7 @@ return array (
     'latitude' => -19.29851,
     'longitude' => 146.79352,
   ),
-  2581 => 
+  2453 => 
   array (
     'id' => 6483,
     'name' => 'Mundoolun',
@@ -23239,7 +22087,7 @@ return array (
     'latitude' => -27.8994,
     'longitude' => 153.0715,
   ),
-  2582 => 
+  2454 => 
   array (
     'id' => 6484,
     'name' => 'Mundubbera',
@@ -23248,7 +22096,7 @@ return array (
     'latitude' => -25.59266,
     'longitude' => 151.30225,
   ),
-  2583 => 
+  2455 => 
   array (
     'id' => 6485,
     'name' => 'Munno Para',
@@ -23257,7 +22105,7 @@ return array (
     'latitude' => -34.66792,
     'longitude' => 138.70149,
   ),
-  2584 => 
+  2456 => 
   array (
     'id' => 6486,
     'name' => 'Munno Para West',
@@ -23266,7 +22114,7 @@ return array (
     'latitude' => -34.66464,
     'longitude' => 138.68066,
   ),
-  2585 => 
+  2457 => 
   array (
     'id' => 6487,
     'name' => 'Munruben',
@@ -23275,7 +22123,7 @@ return array (
     'latitude' => -27.74635,
     'longitude' => 153.03119,
   ),
-  2586 => 
+  2458 => 
   array (
     'id' => 6488,
     'name' => 'Munster',
@@ -23284,7 +22132,7 @@ return array (
     'latitude' => -32.13647,
     'longitude' => 115.78302,
   ),
-  2587 => 
+  2459 => 
   array (
     'id' => 6489,
     'name' => 'Murarrie',
@@ -23293,7 +22141,7 @@ return array (
     'latitude' => -27.46289,
     'longitude' => 153.09809,
   ),
-  2588 => 
+  2460 => 
   array (
     'id' => 6490,
     'name' => 'Murchison',
@@ -23302,7 +22150,7 @@ return array (
     'latitude' => -27.00893,
     'longitude' => 116.41205,
   ),
-  2589 => 
+  2461 => 
   array (
     'id' => 6491,
     'name' => 'Murdoch',
@@ -23311,7 +22159,7 @@ return array (
     'latitude' => -32.06987,
     'longitude' => 115.83757,
   ),
-  2590 => 
+  2462 => 
   array (
     'id' => 6492,
     'name' => 'Murgon',
@@ -23320,7 +22168,7 @@ return array (
     'latitude' => -26.2417,
     'longitude' => 151.94047,
   ),
-  2591 => 
+  2463 => 
   array (
     'id' => 6493,
     'name' => 'Murray',
@@ -23329,16 +22177,7 @@ return array (
     'latitude' => -32.62391,
     'longitude' => 115.96538,
   ),
-  2592 => 
-  array (
-    'id' => 6494,
-    'name' => 'Murray',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -19.31803,
-    'longitude' => 146.79494,
-  ),
-  2593 => 
+  2464 => 
   array (
     'id' => 6495,
     'name' => 'Murray Bridge',
@@ -23347,7 +22186,7 @@ return array (
     'latitude' => -35.2002,
     'longitude' => 139.3209,
   ),
-  2594 => 
+  2465 => 
   array (
     'id' => 6496,
     'name' => 'Murrindindi',
@@ -23356,7 +22195,7 @@ return array (
     'latitude' => -37.28104,
     'longitude' => 145.67437,
   ),
-  2595 => 
+  2466 => 
   array (
     'id' => 6497,
     'name' => 'Murrumba Downs',
@@ -23365,7 +22204,7 @@ return array (
     'latitude' => -27.26733,
     'longitude' => 153.01053,
   ),
-  2596 => 
+  2467 => 
   array (
     'id' => 6498,
     'name' => 'Murrumbateman',
@@ -23374,7 +22213,7 @@ return array (
     'latitude' => -34.97199,
     'longitude' => 149.02985,
   ),
-  2597 => 
+  2468 => 
   array (
     'id' => 6499,
     'name' => 'Murrumbeena',
@@ -23383,7 +22222,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.06667,
   ),
-  2598 => 
+  2469 => 
   array (
     'id' => 6500,
     'name' => 'Murrurundi',
@@ -23392,7 +22231,7 @@ return array (
     'latitude' => -31.76422,
     'longitude' => 150.83575,
   ),
-  2599 => 
+  2470 => 
   array (
     'id' => 6501,
     'name' => 'Murweh',
@@ -23401,7 +22240,7 @@ return array (
     'latitude' => -26.13609,
     'longitude' => 146.6041,
   ),
-  2600 => 
+  2471 => 
   array (
     'id' => 6502,
     'name' => 'Murwillumbah',
@@ -23410,7 +22249,7 @@ return array (
     'latitude' => -28.32732,
     'longitude' => 153.39339,
   ),
-  2601 => 
+  2472 => 
   array (
     'id' => 6503,
     'name' => 'Muswellbrook',
@@ -23419,7 +22258,7 @@ return array (
     'latitude' => -32.48935,
     'longitude' => 150.69839,
   ),
-  2602 => 
+  2473 => 
   array (
     'id' => 6504,
     'name' => 'Myaree',
@@ -23428,7 +22267,7 @@ return array (
     'latitude' => -32.04,
     'longitude' => 115.81761,
   ),
-  2603 => 
+  2474 => 
   array (
     'id' => 6505,
     'name' => 'Mylor',
@@ -23437,7 +22276,7 @@ return array (
     'latitude' => -35.04303,
     'longitude' => 138.759,
   ),
-  2604 => 
+  2475 => 
   array (
     'id' => 6506,
     'name' => 'Myrtle Bank',
@@ -23446,7 +22285,7 @@ return array (
     'latitude' => -34.96057,
     'longitude' => 138.63377,
   ),
-  2605 => 
+  2476 => 
   array (
     'id' => 6507,
     'name' => 'Myrtleford',
@@ -23455,7 +22294,7 @@ return array (
     'latitude' => -36.56104,
     'longitude' => 146.72371,
   ),
-  2606 => 
+  2477 => 
   array (
     'id' => 6508,
     'name' => 'Nabiac',
@@ -23464,7 +22303,7 @@ return array (
     'latitude' => -32.09837,
     'longitude' => 152.37627,
   ),
-  2607 => 
+  2478 => 
   array (
     'id' => 6509,
     'name' => 'Nagambie',
@@ -23473,7 +22312,7 @@ return array (
     'latitude' => -36.78515,
     'longitude' => 145.15375,
   ),
-  2608 => 
+  2479 => 
   array (
     'id' => 6510,
     'name' => 'Nailsworth',
@@ -23482,7 +22321,7 @@ return array (
     'latitude' => -34.88437,
     'longitude' => 138.60619,
   ),
-  2609 => 
+  2480 => 
   array (
     'id' => 6511,
     'name' => 'Nairne',
@@ -23491,7 +22330,7 @@ return array (
     'latitude' => -35.0345,
     'longitude' => 138.91154,
   ),
-  2610 => 
+  2481 => 
   array (
     'id' => 6512,
     'name' => 'Nakara',
@@ -23500,7 +22339,7 @@ return array (
     'latitude' => -12.37054,
     'longitude' => 130.87728,
   ),
-  2611 => 
+  2482 => 
   array (
     'id' => 6513,
     'name' => 'Nambour',
@@ -23509,7 +22348,7 @@ return array (
     'latitude' => -26.62613,
     'longitude' => 152.95941,
   ),
-  2612 => 
+  2483 => 
   array (
     'id' => 6514,
     'name' => 'Nambucca',
@@ -23518,7 +22357,7 @@ return array (
     'latitude' => -30.63333,
     'longitude' => 152.98333,
   ),
-  2613 => 
+  2484 => 
   array (
     'id' => 6515,
     'name' => 'Nambucca Heads',
@@ -23527,7 +22366,7 @@ return array (
     'latitude' => -30.64318,
     'longitude' => 153.00884,
   ),
-  2614 => 
+  2485 => 
   array (
     'id' => 6516,
     'name' => 'Nambucca Shire',
@@ -23536,7 +22375,7 @@ return array (
     'latitude' => -30.70829,
     'longitude' => 152.71024,
   ),
-  2615 => 
+  2486 => 
   array (
     'id' => 6517,
     'name' => 'Nana Glen',
@@ -23545,7 +22384,7 @@ return array (
     'latitude' => -30.13333,
     'longitude' => 153.01667,
   ),
-  2616 => 
+  2487 => 
   array (
     'id' => 6518,
     'name' => 'Nanango',
@@ -23554,7 +22393,7 @@ return array (
     'latitude' => -26.67157,
     'longitude' => 152.00211,
   ),
-  2617 => 
+  2488 => 
   array (
     'id' => 6519,
     'name' => 'Nannup',
@@ -23563,7 +22402,7 @@ return array (
     'latitude' => -34.13466,
     'longitude' => 115.67375,
   ),
-  2618 => 
+  2489 => 
   array (
     'id' => 6520,
     'name' => 'Nanum',
@@ -23572,7 +22411,7 @@ return array (
     'latitude' => -12.64511,
     'longitude' => 141.86221,
   ),
-  2619 => 
+  2490 => 
   array (
     'id' => 6521,
     'name' => 'Napranum',
@@ -23581,7 +22420,7 @@ return array (
     'latitude' => -12.55322,
     'longitude' => 142.06558,
   ),
-  2620 => 
+  2491 => 
   array (
     'id' => 6522,
     'name' => 'Naracoorte',
@@ -23590,7 +22429,7 @@ return array (
     'latitude' => -36.95785,
     'longitude' => 140.7383,
   ),
-  2621 => 
+  2492 => 
   array (
     'id' => 6523,
     'name' => 'Naracoorte and Lucindale',
@@ -23599,7 +22438,7 @@ return array (
     'latitude' => -36.99542,
     'longitude' => 140.52791,
   ),
-  2622 => 
+  2493 => 
   array (
     'id' => 6524,
     'name' => 'Narangba',
@@ -23608,7 +22447,7 @@ return array (
     'latitude' => -27.20338,
     'longitude' => 152.95923,
   ),
-  2623 => 
+  2494 => 
   array (
     'id' => 6525,
     'name' => 'Narara',
@@ -23617,7 +22456,7 @@ return array (
     'latitude' => -33.39593,
     'longitude' => 151.33527,
   ),
-  2624 => 
+  2495 => 
   array (
     'id' => 6526,
     'name' => 'Narellan',
@@ -23626,7 +22465,7 @@ return array (
     'latitude' => -34.04338,
     'longitude' => 150.73236,
   ),
-  2625 => 
+  2496 => 
   array (
     'id' => 6527,
     'name' => 'Narellan Vale',
@@ -23635,7 +22474,7 @@ return array (
     'latitude' => -34.04974,
     'longitude' => 150.74392,
   ),
-  2626 => 
+  2497 => 
   array (
     'id' => 6528,
     'name' => 'Narembeen',
@@ -23644,7 +22483,7 @@ return array (
     'latitude' => -32.02206,
     'longitude' => 118.6899,
   ),
-  2627 => 
+  2498 => 
   array (
     'id' => 6529,
     'name' => 'Naremburn',
@@ -23653,7 +22492,7 @@ return array (
     'latitude' => -33.81698,
     'longitude' => 151.20079,
   ),
-  2628 => 
+  2499 => 
   array (
     'id' => 6530,
     'name' => 'Narooma',
@@ -23662,7 +22501,7 @@ return array (
     'latitude' => -36.21783,
     'longitude' => 150.13247,
   ),
-  2629 => 
+  2500 => 
   array (
     'id' => 6531,
     'name' => 'Narrabeen',
@@ -23671,7 +22510,7 @@ return array (
     'latitude' => -33.71277,
     'longitude' => 151.29736,
   ),
-  2630 => 
+  2501 => 
   array (
     'id' => 6532,
     'name' => 'Narrabri',
@@ -23680,7 +22519,7 @@ return array (
     'latitude' => -30.32779,
     'longitude' => 149.60242,
   ),
-  2631 => 
+  2502 => 
   array (
     'id' => 6533,
     'name' => 'Narrabundah',
@@ -23689,7 +22528,7 @@ return array (
     'latitude' => -35.3357,
     'longitude' => 149.14924,
   ),
-  2632 => 
+  2503 => 
   array (
     'id' => 6534,
     'name' => 'Narrandera',
@@ -23698,7 +22537,7 @@ return array (
     'latitude' => -34.59107,
     'longitude' => 146.53197,
   ),
-  2633 => 
+  2504 => 
   array (
     'id' => 6535,
     'name' => 'Narrawallee',
@@ -23707,7 +22546,7 @@ return array (
     'latitude' => -35.31243,
     'longitude' => 150.46351,
   ),
-  2634 => 
+  2505 => 
   array (
     'id' => 6536,
     'name' => 'Narraweena',
@@ -23716,7 +22555,7 @@ return array (
     'latitude' => -33.75519,
     'longitude' => 151.27659,
   ),
-  2635 => 
+  2506 => 
   array (
     'id' => 6537,
     'name' => 'Narre Warren',
@@ -23725,7 +22564,7 @@ return array (
     'latitude' => -38.03333,
     'longitude' => 145.3,
   ),
-  2636 => 
+  2507 => 
   array (
     'id' => 6538,
     'name' => 'Narre Warren North',
@@ -23734,7 +22573,7 @@ return array (
     'latitude' => -37.98333,
     'longitude' => 145.31667,
   ),
-  2637 => 
+  2508 => 
   array (
     'id' => 6539,
     'name' => 'Narre Warren South',
@@ -23743,7 +22582,7 @@ return array (
     'latitude' => -38.04369,
     'longitude' => 145.2923,
   ),
-  2638 => 
+  2509 => 
   array (
     'id' => 6540,
     'name' => 'Narrogin',
@@ -23752,7 +22591,7 @@ return array (
     'latitude' => -32.93282,
     'longitude' => 117.17763,
   ),
-  2639 => 
+  2510 => 
   array (
     'id' => 6541,
     'name' => 'Narromine',
@@ -23761,7 +22600,7 @@ return array (
     'latitude' => -32.23174,
     'longitude' => 147.97591,
   ),
-  2640 => 
+  2511 => 
   array (
     'id' => 6542,
     'name' => 'Narwee',
@@ -23770,7 +22609,7 @@ return array (
     'latitude' => -33.94653,
     'longitude' => 151.06919,
   ),
-  2641 => 
+  2512 => 
   array (
     'id' => 6543,
     'name' => 'Nathalia',
@@ -23779,7 +22618,7 @@ return array (
     'latitude' => -36.05772,
     'longitude' => 145.20406,
   ),
-  2642 => 
+  2513 => 
   array (
     'id' => 6544,
     'name' => 'Nathan',
@@ -23788,7 +22627,7 @@ return array (
     'latitude' => -27.55888,
     'longitude' => 153.0623,
   ),
-  2643 => 
+  2514 => 
   array (
     'id' => 6545,
     'name' => 'Nebo',
@@ -23797,7 +22636,7 @@ return array (
     'latitude' => -21.68333,
     'longitude' => 148.68333,
   ),
-  2644 => 
+  2515 => 
   array (
     'id' => 6546,
     'name' => 'Nedlands',
@@ -23806,7 +22645,7 @@ return array (
     'latitude' => -31.97994,
     'longitude' => 115.79942,
   ),
-  2645 => 
+  2516 => 
   array (
     'id' => 6547,
     'name' => 'Neerim South',
@@ -23815,7 +22654,7 @@ return array (
     'latitude' => -38.01683,
     'longitude' => 145.95447,
   ),
-  2646 => 
+  2517 => 
   array (
     'id' => 6548,
     'name' => 'Nelly Bay',
@@ -23824,7 +22663,7 @@ return array (
     'latitude' => -19.15775,
     'longitude' => 146.84977,
   ),
-  2647 => 
+  2518 => 
   array (
     'id' => 6549,
     'name' => 'Nelson Bay',
@@ -23833,7 +22672,7 @@ return array (
     'latitude' => -32.72043,
     'longitude' => 152.14398,
   ),
-  2648 => 
+  2519 => 
   array (
     'id' => 6550,
     'name' => 'Nerang',
@@ -23842,7 +22681,7 @@ return array (
     'latitude' => -27.98941,
     'longitude' => 153.33633,
   ),
-  2649 => 
+  2520 => 
   array (
     'id' => 6551,
     'name' => 'Netherby',
@@ -23851,7 +22690,7 @@ return array (
     'latitude' => -34.97048,
     'longitude' => 138.62503,
   ),
-  2650 => 
+  2521 => 
   array (
     'id' => 6552,
     'name' => 'Netley',
@@ -23860,7 +22699,7 @@ return array (
     'latitude' => -34.94887,
     'longitude' => 138.54983,
   ),
-  2651 => 
+  2522 => 
   array (
     'id' => 6553,
     'name' => 'Neutral Bay',
@@ -23869,7 +22708,7 @@ return array (
     'latitude' => -33.83784,
     'longitude' => 151.2175,
   ),
-  2652 => 
+  2523 => 
   array (
     'id' => 6554,
     'name' => 'New Auckland',
@@ -23878,7 +22717,7 @@ return array (
     'latitude' => -23.88359,
     'longitude' => 151.23563,
   ),
-  2653 => 
+  2524 => 
   array (
     'id' => 6555,
     'name' => 'New Beith',
@@ -23887,7 +22726,7 @@ return array (
     'latitude' => -27.79359,
     'longitude' => 152.88443,
   ),
-  2654 => 
+  2525 => 
   array (
     'id' => 6556,
     'name' => 'New Farm',
@@ -23896,7 +22735,7 @@ return array (
     'latitude' => -27.46777,
     'longitude' => 153.04834,
   ),
-  2655 => 
+  2526 => 
   array (
     'id' => 6557,
     'name' => 'New Gisborne',
@@ -23905,7 +22744,7 @@ return array (
     'latitude' => -37.46065,
     'longitude' => 144.5993,
   ),
-  2656 => 
+  2527 => 
   array (
     'id' => 6558,
     'name' => 'New Lambton',
@@ -23914,7 +22753,7 @@ return array (
     'latitude' => -32.92838,
     'longitude' => 151.7085,
   ),
-  2657 => 
+  2528 => 
   array (
     'id' => 6559,
     'name' => 'New Lambton Heights',
@@ -23923,7 +22762,7 @@ return array (
     'latitude' => -32.92466,
     'longitude' => 151.69364,
   ),
-  2658 => 
+  2529 => 
   array (
     'id' => 6560,
     'name' => 'New Norfolk',
@@ -23932,7 +22771,7 @@ return array (
     'latitude' => -42.78261,
     'longitude' => 147.0587,
   ),
-  2659 => 
+  2530 => 
   array (
     'id' => 6561,
     'name' => 'New Town',
@@ -23941,7 +22780,7 @@ return array (
     'latitude' => -42.85758,
     'longitude' => 147.30869,
   ),
-  2660 => 
+  2531 => 
   array (
     'id' => 6562,
     'name' => 'Newborough',
@@ -23950,7 +22789,7 @@ return array (
     'latitude' => -38.17171,
     'longitude' => 146.29264,
   ),
-  2661 => 
+  2532 => 
   array (
     'id' => 6563,
     'name' => 'Newcastle',
@@ -23959,7 +22798,7 @@ return array (
     'latitude' => -32.92953,
     'longitude' => 151.7801,
   ),
-  2662 => 
+  2533 => 
   array (
     'id' => 6564,
     'name' => 'Newcastle East',
@@ -23968,7 +22807,7 @@ return array (
     'latitude' => -32.92771,
     'longitude' => 151.7884,
   ),
-  2663 => 
+  2534 => 
   array (
     'id' => 6565,
     'name' => 'Newcastle city centre',
@@ -23977,7 +22816,7 @@ return array (
     'latitude' => -32.92885,
     'longitude' => 151.7774,
   ),
-  2664 => 
+  2535 => 
   array (
     'id' => 6566,
     'name' => 'Newcomb',
@@ -23986,7 +22825,7 @@ return array (
     'latitude' => -38.16623,
     'longitude' => 144.39429,
   ),
-  2665 => 
+  2536 => 
   array (
     'id' => 6567,
     'name' => 'Newington',
@@ -23995,16 +22834,7 @@ return array (
     'latitude' => -37.55846,
     'longitude' => 143.82485,
   ),
-  2666 => 
-  array (
-    'id' => 6568,
-    'name' => 'Newington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.83488,
-    'longitude' => 151.05703,
-  ),
-  2667 => 
+  2537 => 
   array (
     'id' => 6569,
     'name' => 'Newman',
@@ -24013,7 +22843,7 @@ return array (
     'latitude' => -23.35644,
     'longitude' => 119.73553,
   ),
-  2668 => 
+  2538 => 
   array (
     'id' => 6570,
     'name' => 'Newmarket',
@@ -24022,7 +22852,7 @@ return array (
     'latitude' => -27.43534,
     'longitude' => 153.00781,
   ),
-  2669 => 
+  2539 => 
   array (
     'id' => 6571,
     'name' => 'Newnham',
@@ -24031,7 +22861,7 @@ return array (
     'latitude' => -41.38969,
     'longitude' => 147.11397,
   ),
-  2670 => 
+  2540 => 
   array (
     'id' => 6572,
     'name' => 'Newport',
@@ -24040,25 +22870,7 @@ return array (
     'latitude' => -33.65639,
     'longitude' => 151.31401,
   ),
-  2671 => 
-  array (
-    'id' => 6573,
-    'name' => 'Newport',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.84427,
-    'longitude' => 144.88483,
-  ),
-  2672 => 
-  array (
-    'id' => 6574,
-    'name' => 'Newport',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.20731,
-    'longitude' => 153.10135,
-  ),
-  2673 => 
+  2541 => 
   array (
     'id' => 6575,
     'name' => 'Newstead',
@@ -24067,16 +22879,7 @@ return array (
     'latitude' => -41.44108,
     'longitude' => 147.16183,
   ),
-  2674 => 
-  array (
-    'id' => 6576,
-    'name' => 'Newstead',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.45314,
-    'longitude' => 153.04183,
-  ),
-  2675 => 
+  2542 => 
   array (
     'id' => 6577,
     'name' => 'Newton',
@@ -24085,7 +22888,7 @@ return array (
     'latitude' => -34.88207,
     'longitude' => 138.68249,
   ),
-  2676 => 
+  2543 => 
   array (
     'id' => 6578,
     'name' => 'Newtown',
@@ -24094,25 +22897,7 @@ return array (
     'latitude' => -33.89835,
     'longitude' => 151.17754,
   ),
-  2677 => 
-  array (
-    'id' => 6579,
-    'name' => 'Newtown',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.55602,
-    'longitude' => 151.93255,
-  ),
-  2678 => 
-  array (
-    'id' => 6580,
-    'name' => 'Newtown',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.15391,
-    'longitude' => 144.33507,
-  ),
-  2679 => 
+  2544 => 
   array (
     'id' => 6581,
     'name' => 'Ngaanyatjarraku',
@@ -24121,7 +22906,7 @@ return array (
     'latitude' => -25.08871,
     'longitude' => 126.83494,
   ),
-  2680 => 
+  2545 => 
   array (
     'id' => 6582,
     'name' => 'Ngukurr',
@@ -24130,7 +22915,7 @@ return array (
     'latitude' => -14.73081,
     'longitude' => 134.73102,
   ),
-  2681 => 
+  2546 => 
   array (
     'id' => 6583,
     'name' => 'Ngunnawal',
@@ -24139,7 +22924,7 @@ return array (
     'latitude' => -35.1728,
     'longitude' => 149.11147,
   ),
-  2682 => 
+  2547 => 
   array (
     'id' => 6584,
     'name' => 'Nhill',
@@ -24148,7 +22933,7 @@ return array (
     'latitude' => -36.33333,
     'longitude' => 141.65006,
   ),
-  2683 => 
+  2548 => 
   array (
     'id' => 6585,
     'name' => 'Nhulunbuy',
@@ -24157,7 +22942,7 @@ return array (
     'latitude' => -12.18165,
     'longitude' => 136.77841,
   ),
-  2684 => 
+  2549 => 
   array (
     'id' => 6586,
     'name' => 'Niagara Park',
@@ -24166,7 +22951,7 @@ return array (
     'latitude' => -33.37638,
     'longitude' => 151.3486,
   ),
-  2685 => 
+  2550 => 
   array (
     'id' => 6587,
     'name' => 'Nicholls',
@@ -24175,7 +22960,7 @@ return array (
     'latitude' => -35.18733,
     'longitude' => 149.09648,
   ),
-  2686 => 
+  2551 => 
   array (
     'id' => 6588,
     'name' => 'Nichols Point',
@@ -24184,7 +22969,7 @@ return array (
     'latitude' => -34.2121,
     'longitude' => 142.21443,
   ),
-  2687 => 
+  2552 => 
   array (
     'id' => 6589,
     'name' => 'Nicholson',
@@ -24193,7 +22978,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 147.73333,
   ),
-  2688 => 
+  2553 => 
   array (
     'id' => 6590,
     'name' => 'Nickol',
@@ -24202,7 +22987,7 @@ return array (
     'latitude' => -20.74558,
     'longitude' => 116.7954,
   ),
-  2689 => 
+  2554 => 
   array (
     'id' => 6591,
     'name' => 'Niddrie',
@@ -24211,7 +22996,7 @@ return array (
     'latitude' => -37.7375,
     'longitude' => 144.89212,
   ),
-  2690 => 
+  2555 => 
   array (
     'id' => 6592,
     'name' => 'Nightcliff',
@@ -24220,7 +23005,7 @@ return array (
     'latitude' => -12.38299,
     'longitude' => 130.8517,
   ),
-  2691 => 
+  2556 => 
   array (
     'id' => 6593,
     'name' => 'Nillumbik',
@@ -24229,7 +23014,7 @@ return array (
     'latitude' => -37.61474,
     'longitude' => 145.21706,
   ),
-  2692 => 
+  2557 => 
   array (
     'id' => 6594,
     'name' => 'Nimbin',
@@ -24238,7 +23023,7 @@ return array (
     'latitude' => -28.59545,
     'longitude' => 153.22336,
   ),
-  2693 => 
+  2558 => 
   array (
     'id' => 6595,
     'name' => 'Ninderry',
@@ -24247,7 +23032,7 @@ return array (
     'latitude' => -26.54094,
     'longitude' => 152.9752,
   ),
-  2694 => 
+  2559 => 
   array (
     'id' => 6596,
     'name' => 'Ningi',
@@ -24256,7 +23041,7 @@ return array (
     'latitude' => -27.06108,
     'longitude' => 153.07883,
   ),
-  2695 => 
+  2560 => 
   array (
     'id' => 6597,
     'name' => 'Noarlunga Downs',
@@ -24265,7 +23050,7 @@ return array (
     'latitude' => -35.1504,
     'longitude' => 138.50395,
   ),
-  2696 => 
+  2561 => 
   array (
     'id' => 6598,
     'name' => 'Noble Park',
@@ -24274,7 +23059,7 @@ return array (
     'latitude' => -37.96667,
     'longitude' => 145.16667,
   ),
-  2697 => 
+  2562 => 
   array (
     'id' => 6599,
     'name' => 'Noble Park North',
@@ -24283,7 +23068,7 @@ return array (
     'latitude' => -37.94978,
     'longitude' => 145.19257,
   ),
-  2698 => 
+  2563 => 
   array (
     'id' => 6600,
     'name' => 'Nollamara',
@@ -24292,7 +23077,7 @@ return array (
     'latitude' => -31.88016,
     'longitude' => 115.84543,
   ),
-  2699 => 
+  2564 => 
   array (
     'id' => 6601,
     'name' => 'Nome',
@@ -24301,7 +23086,7 @@ return array (
     'latitude' => -19.36245,
     'longitude' => 146.94672,
   ),
-  2700 => 
+  2565 => 
   array (
     'id' => 6602,
     'name' => 'Noosa Heads',
@@ -24310,7 +23095,7 @@ return array (
     'latitude' => -26.39433,
     'longitude' => 153.0901,
   ),
-  2701 => 
+  2566 => 
   array (
     'id' => 6603,
     'name' => 'Noosaville',
@@ -24319,7 +23104,7 @@ return array (
     'latitude' => -26.4,
     'longitude' => 153.06667,
   ),
-  2702 => 
+  2567 => 
   array (
     'id' => 6604,
     'name' => 'Noranda',
@@ -24328,7 +23113,7 @@ return array (
     'latitude' => -31.87333,
     'longitude' => 115.89901,
   ),
-  2703 => 
+  2568 => 
   array (
     'id' => 6605,
     'name' => 'Noraville',
@@ -24337,7 +23122,7 @@ return array (
     'latitude' => -33.26785,
     'longitude' => 151.55352,
   ),
-  2704 => 
+  2569 => 
   array (
     'id' => 6606,
     'name' => 'Norlane',
@@ -24346,7 +23131,7 @@ return array (
     'latitude' => -38.10139,
     'longitude' => 144.35417,
   ),
-  2705 => 
+  2570 => 
   array (
     'id' => 6607,
     'name' => 'Norman Gardens',
@@ -24355,7 +23140,7 @@ return array (
     'latitude' => -23.33044,
     'longitude' => 150.52747,
   ),
-  2706 => 
+  2571 => 
   array (
     'id' => 6608,
     'name' => 'Norman Park',
@@ -24364,7 +23149,7 @@ return array (
     'latitude' => -27.47916,
     'longitude' => 153.0625,
   ),
-  2707 => 
+  2572 => 
   array (
     'id' => 6609,
     'name' => 'Normanhurst',
@@ -24373,7 +23158,7 @@ return array (
     'latitude' => -33.7237,
     'longitude' => 151.09576,
   ),
-  2708 => 
+  2573 => 
   array (
     'id' => 6610,
     'name' => 'Normanton',
@@ -24382,7 +23167,7 @@ return array (
     'latitude' => -17.67183,
     'longitude' => 141.07721,
   ),
-  2709 => 
+  2574 => 
   array (
     'id' => 6611,
     'name' => 'Normanville',
@@ -24391,7 +23176,7 @@ return array (
     'latitude' => -35.44623,
     'longitude' => 138.3213,
   ),
-  2710 => 
+  2575 => 
   array (
     'id' => 6612,
     'name' => 'North Adelaide',
@@ -24400,7 +23185,7 @@ return array (
     'latitude' => -34.90733,
     'longitude' => 138.59141,
   ),
-  2711 => 
+  2576 => 
   array (
     'id' => 6613,
     'name' => 'North Albury',
@@ -24409,7 +23194,7 @@ return array (
     'latitude' => -36.05745,
     'longitude' => 146.92995,
   ),
-  2712 => 
+  2577 => 
   array (
     'id' => 6614,
     'name' => 'North Avoca',
@@ -24418,7 +23203,7 @@ return array (
     'latitude' => -33.45608,
     'longitude' => 151.43511,
   ),
-  2713 => 
+  2578 => 
   array (
     'id' => 6615,
     'name' => 'North Balgowlah',
@@ -24427,7 +23212,7 @@ return array (
     'latitude' => -33.78631,
     'longitude' => 151.24801,
   ),
-  2714 => 
+  2579 => 
   array (
     'id' => 6616,
     'name' => 'North Beach',
@@ -24436,7 +23221,7 @@ return array (
     'latitude' => -31.86298,
     'longitude' => 115.75624,
   ),
-  2715 => 
+  2580 => 
   array (
     'id' => 6617,
     'name' => 'North Bendigo',
@@ -24445,7 +23230,7 @@ return array (
     'latitude' => -36.74363,
     'longitude' => 144.28791,
   ),
-  2716 => 
+  2581 => 
   array (
     'id' => 6618,
     'name' => 'North Boambee Valley',
@@ -24454,7 +23239,7 @@ return array (
     'latitude' => -30.31295,
     'longitude' => 153.06925,
   ),
-  2717 => 
+  2582 => 
   array (
     'id' => 6619,
     'name' => 'North Bondi',
@@ -24463,7 +23248,7 @@ return array (
     'latitude' => -33.88787,
     'longitude' => 151.28075,
   ),
-  2718 => 
+  2583 => 
   array (
     'id' => 6620,
     'name' => 'North Booval',
@@ -24472,7 +23257,7 @@ return array (
     'latitude' => -27.60392,
     'longitude' => 152.79485,
   ),
-  2719 => 
+  2584 => 
   array (
     'id' => 6621,
     'name' => 'North Brighton',
@@ -24481,16 +23266,7 @@ return array (
     'latitude' => -37.90694,
     'longitude' => 145.00528,
   ),
-  2720 => 
-  array (
-    'id' => 6622,
-    'name' => 'North Brighton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.00279,
-    'longitude' => 138.52211,
-  ),
-  2721 => 
+  2585 => 
   array (
     'id' => 6623,
     'name' => 'North Burnett',
@@ -24499,7 +23275,7 @@ return array (
     'latitude' => -25.24444,
     'longitude' => 151.32301,
   ),
-  2722 => 
+  2586 => 
   array (
     'id' => 6624,
     'name' => 'North Coogee',
@@ -24508,7 +23284,7 @@ return array (
     'latitude' => -32.09505,
     'longitude' => 115.75972,
   ),
-  2723 => 
+  2587 => 
   array (
     'id' => 6625,
     'name' => 'North Curl Curl',
@@ -24517,7 +23293,7 @@ return array (
     'latitude' => -33.76434,
     'longitude' => 151.29727,
   ),
-  2724 => 
+  2588 => 
   array (
     'id' => 6626,
     'name' => 'North Epping',
@@ -24526,7 +23302,7 @@ return array (
     'latitude' => -33.75944,
     'longitude' => 151.09248,
   ),
-  2725 => 
+  2589 => 
   array (
     'id' => 6627,
     'name' => 'North Fremantle',
@@ -24535,7 +23311,7 @@ return array (
     'latitude' => -32.03333,
     'longitude' => 115.75,
   ),
-  2726 => 
+  2590 => 
   array (
     'id' => 6628,
     'name' => 'North Geelong',
@@ -24544,7 +23320,7 @@ return array (
     'latitude' => -38.10953,
     'longitude' => 144.35134,
   ),
-  2727 => 
+  2591 => 
   array (
     'id' => 6629,
     'name' => 'North Gosford',
@@ -24553,7 +23329,7 @@ return array (
     'latitude' => -33.414,
     'longitude' => 151.3516,
   ),
-  2728 => 
+  2592 => 
   array (
     'id' => 6630,
     'name' => 'North Haven',
@@ -24562,16 +23338,7 @@ return array (
     'latitude' => -31.6368,
     'longitude' => 152.81357,
   ),
-  2729 => 
-  array (
-    'id' => 6631,
-    'name' => 'North Haven',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.78825,
-    'longitude' => 138.49162,
-  ),
-  2730 => 
+  2593 => 
   array (
     'id' => 6632,
     'name' => 'North Hobart',
@@ -24580,7 +23347,7 @@ return array (
     'latitude' => -42.87406,
     'longitude' => 147.31597,
   ),
-  2731 => 
+  2594 => 
   array (
     'id' => 6633,
     'name' => 'North Ipswich',
@@ -24589,7 +23356,7 @@ return array (
     'latitude' => -27.60286,
     'longitude' => 152.76146,
   ),
-  2732 => 
+  2595 => 
   array (
     'id' => 6634,
     'name' => 'North Lake',
@@ -24598,7 +23365,7 @@ return array (
     'latitude' => -32.0819,
     'longitude' => 115.83567,
   ),
-  2733 => 
+  2596 => 
   array (
     'id' => 6635,
     'name' => 'North Lakes',
@@ -24607,7 +23374,7 @@ return array (
     'latitude' => -27.22426,
     'longitude' => 153.02075,
   ),
-  2734 => 
+  2597 => 
   array (
     'id' => 6636,
     'name' => 'North Lambton',
@@ -24616,7 +23383,7 @@ return array (
     'latitude' => -32.90605,
     'longitude' => 151.70574,
   ),
-  2735 => 
+  2598 => 
   array (
     'id' => 6637,
     'name' => 'North Mackay',
@@ -24625,7 +23392,7 @@ return array (
     'latitude' => -21.12009,
     'longitude' => 149.17941,
   ),
-  2736 => 
+  2599 => 
   array (
     'id' => 6638,
     'name' => 'North Maclean',
@@ -24634,7 +23401,7 @@ return array (
     'latitude' => -27.76759,
     'longitude' => 153.01646,
   ),
-  2737 => 
+  2600 => 
   array (
     'id' => 6639,
     'name' => 'North Manly',
@@ -24643,7 +23410,7 @@ return array (
     'latitude' => -33.77561,
     'longitude' => 151.26921,
   ),
-  2738 => 
+  2601 => 
   array (
     'id' => 6640,
     'name' => 'North Melbourne',
@@ -24652,7 +23419,7 @@ return array (
     'latitude' => -37.79798,
     'longitude' => 144.94512,
   ),
-  2739 => 
+  2602 => 
   array (
     'id' => 6641,
     'name' => 'North Narrabeen',
@@ -24661,7 +23428,7 @@ return array (
     'latitude' => -33.70935,
     'longitude' => 151.29607,
   ),
-  2740 => 
+  2603 => 
   array (
     'id' => 6642,
     'name' => 'North Nowra',
@@ -24670,7 +23437,7 @@ return array (
     'latitude' => -34.85822,
     'longitude' => 150.57479,
   ),
-  2741 => 
+  2604 => 
   array (
     'id' => 6643,
     'name' => 'North Parramatta',
@@ -24679,7 +23446,7 @@ return array (
     'latitude' => -33.79351,
     'longitude' => 151.00124,
   ),
-  2742 => 
+  2605 => 
   array (
     'id' => 6644,
     'name' => 'North Perth',
@@ -24688,7 +23455,7 @@ return array (
     'latitude' => -31.92724,
     'longitude' => 115.85276,
   ),
-  2743 => 
+  2606 => 
   array (
     'id' => 6645,
     'name' => 'North Plympton',
@@ -24697,7 +23464,7 @@ return array (
     'latitude' => -34.95769,
     'longitude' => 138.55343,
   ),
-  2744 => 
+  2607 => 
   array (
     'id' => 6646,
     'name' => 'North Richmond',
@@ -24706,7 +23473,7 @@ return array (
     'latitude' => -33.58117,
     'longitude' => 150.71942,
   ),
-  2745 => 
+  2608 => 
   array (
     'id' => 6647,
     'name' => 'North Rocks',
@@ -24715,7 +23482,7 @@ return array (
     'latitude' => -33.77223,
     'longitude' => 151.01718,
   ),
-  2746 => 
+  2609 => 
   array (
     'id' => 6648,
     'name' => 'North Ryde',
@@ -24724,7 +23491,7 @@ return array (
     'latitude' => -33.79677,
     'longitude' => 151.12436,
   ),
-  2747 => 
+  2610 => 
   array (
     'id' => 6649,
     'name' => 'North St Marys',
@@ -24733,7 +23500,7 @@ return array (
     'latitude' => -33.75491,
     'longitude' => 150.78435,
   ),
-  2748 => 
+  2611 => 
   array (
     'id' => 6650,
     'name' => 'North Strathfield',
@@ -24742,7 +23509,7 @@ return array (
     'latitude' => -33.85693,
     'longitude' => 151.09124,
   ),
-  2749 => 
+  2612 => 
   array (
     'id' => 6651,
     'name' => 'North Sydney',
@@ -24751,7 +23518,7 @@ return array (
     'latitude' => -33.83422,
     'longitude' => 151.21019,
   ),
-  2750 => 
+  2613 => 
   array (
     'id' => 6652,
     'name' => 'North Tamworth',
@@ -24760,7 +23527,7 @@ return array (
     'latitude' => -31.07862,
     'longitude' => 150.92219,
   ),
-  2751 => 
+  2614 => 
   array (
     'id' => 6653,
     'name' => 'North Toowoomba',
@@ -24769,7 +23536,7 @@ return array (
     'latitude' => -27.54415,
     'longitude' => 151.96117,
   ),
-  2752 => 
+  2615 => 
   array (
     'id' => 6654,
     'name' => 'North Turramurra',
@@ -24778,7 +23545,7 @@ return array (
     'latitude' => -33.71313,
     'longitude' => 151.14638,
   ),
-  2753 => 
+  2616 => 
   array (
     'id' => 6655,
     'name' => 'North Wahroonga',
@@ -24787,7 +23554,7 @@ return array (
     'latitude' => -33.70531,
     'longitude' => 151.12278,
   ),
-  2754 => 
+  2617 => 
   array (
     'id' => 6656,
     'name' => 'North Ward',
@@ -24796,7 +23563,7 @@ return array (
     'latitude' => -19.24994,
     'longitude' => 146.81477,
   ),
-  2755 => 
+  2618 => 
   array (
     'id' => 6657,
     'name' => 'North Warrandyte',
@@ -24805,7 +23572,7 @@ return array (
     'latitude' => -37.72924,
     'longitude' => 145.21574,
   ),
-  2756 => 
+  2619 => 
   array (
     'id' => 6658,
     'name' => 'North Willoughby',
@@ -24814,7 +23581,7 @@ return array (
     'latitude' => -33.79563,
     'longitude' => 151.20067,
   ),
-  2757 => 
+  2620 => 
   array (
     'id' => 6659,
     'name' => 'North Wollongong',
@@ -24823,7 +23590,7 @@ return array (
     'latitude' => -34.40569,
     'longitude' => 150.89763,
   ),
-  2758 => 
+  2621 => 
   array (
     'id' => 6660,
     'name' => 'North Wonthaggi',
@@ -24832,7 +23599,7 @@ return array (
     'latitude' => -38.57769,
     'longitude' => 145.59302,
   ),
-  2759 => 
+  2622 => 
   array (
     'id' => 6661,
     'name' => 'Northam',
@@ -24841,7 +23608,7 @@ return array (
     'latitude' => -31.69898,
     'longitude' => 116.64964,
   ),
-  2760 => 
+  2623 => 
   array (
     'id' => 6662,
     'name' => 'Northampton Shire',
@@ -24850,7 +23617,7 @@ return array (
     'latitude' => -28.04956,
     'longitude' => 114.49589,
   ),
-  2761 => 
+  2624 => 
   array (
     'id' => 6663,
     'name' => 'Northbridge',
@@ -24859,16 +23626,7 @@ return array (
     'latitude' => -33.81313,
     'longitude' => 151.21728,
   ),
-  2762 => 
-  array (
-    'id' => 6664,
-    'name' => 'Northbridge',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.94784,
-    'longitude' => 115.85881,
-  ),
-  2763 => 
+  2625 => 
   array (
     'id' => 6665,
     'name' => 'Northcote',
@@ -24877,7 +23635,7 @@ return array (
     'latitude' => -37.76667,
     'longitude' => 145.0,
   ),
-  2764 => 
+  2626 => 
   array (
     'id' => 6666,
     'name' => 'Northern Areas',
@@ -24886,7 +23644,7 @@ return array (
     'latitude' => -33.30074,
     'longitude' => 138.47745,
   ),
-  2765 => 
+  2627 => 
   array (
     'id' => 6667,
     'name' => 'Northern Grampians',
@@ -24895,7 +23653,7 @@ return array (
     'latitude' => -36.84962,
     'longitude' => 142.87303,
   ),
-  2766 => 
+  2628 => 
   array (
     'id' => 6668,
     'name' => 'Northern Midlands',
@@ -24904,7 +23662,7 @@ return array (
     'latitude' => -41.87988,
     'longitude' => 147.45776,
   ),
-  2767 => 
+  2629 => 
   array (
     'id' => 6669,
     'name' => 'Northern Peninsula Area',
@@ -24913,7 +23671,7 @@ return array (
     'latitude' => -10.9719,
     'longitude' => 142.35364,
   ),
-  2768 => 
+  2630 => 
   array (
     'id' => 6670,
     'name' => 'Northfield',
@@ -24922,7 +23680,7 @@ return array (
     'latitude' => -34.84979,
     'longitude' => 138.6255,
   ),
-  2769 => 
+  2631 => 
   array (
     'id' => 6671,
     'name' => 'Northgate',
@@ -24931,7 +23689,7 @@ return array (
     'latitude' => -34.85784,
     'longitude' => 138.62908,
   ),
-  2770 => 
+  2632 => 
   array (
     'id' => 6672,
     'name' => 'Northmead',
@@ -24940,7 +23698,7 @@ return array (
     'latitude' => -33.78378,
     'longitude' => 150.99858,
   ),
-  2771 => 
+  2633 => 
   array (
     'id' => 6673,
     'name' => 'Norville',
@@ -24949,7 +23707,7 @@ return array (
     'latitude' => -24.8931,
     'longitude' => 152.34089,
   ),
-  2772 => 
+  2634 => 
   array (
     'id' => 6674,
     'name' => 'Norwood',
@@ -24958,16 +23716,7 @@ return array (
     'latitude' => -41.4592,
     'longitude' => 147.18077,
   ),
-  2773 => 
-  array (
-    'id' => 6675,
-    'name' => 'Norwood',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.9273,
-    'longitude' => 138.62849,
-  ),
-  2774 => 
+  2635 => 
   array (
     'id' => 6676,
     'name' => 'Norwood Payneham St Peters',
@@ -24976,7 +23725,7 @@ return array (
     'latitude' => -34.908,
     'longitude' => 138.63556,
   ),
-  2775 => 
+  2636 => 
   array (
     'id' => 6677,
     'name' => 'Notting Hill',
@@ -24985,7 +23734,7 @@ return array (
     'latitude' => -37.905,
     'longitude' => 145.1427,
   ),
-  2776 => 
+  2637 => 
   array (
     'id' => 6678,
     'name' => 'Novar Gardens',
@@ -24994,7 +23743,7 @@ return array (
     'latitude' => -34.96626,
     'longitude' => 138.53256,
   ),
-  2777 => 
+  2638 => 
   array (
     'id' => 6679,
     'name' => 'Nowra',
@@ -25003,7 +23752,7 @@ return array (
     'latitude' => -34.88422,
     'longitude' => 150.60036,
   ),
-  2778 => 
+  2639 => 
   array (
     'id' => 6680,
     'name' => 'Nowra Hill',
@@ -25012,7 +23761,7 @@ return array (
     'latitude' => -34.92845,
     'longitude' => 150.57243,
   ),
-  2779 => 
+  2640 => 
   array (
     'id' => 6681,
     'name' => 'Nudgee',
@@ -25021,7 +23770,7 @@ return array (
     'latitude' => -27.3691,
     'longitude' => 153.0847,
   ),
-  2780 => 
+  2641 => 
   array (
     'id' => 6682,
     'name' => 'Nullagine',
@@ -25030,7 +23779,7 @@ return array (
     'latitude' => -21.88972,
     'longitude' => 120.1114,
   ),
-  2781 => 
+  2642 => 
   array (
     'id' => 6683,
     'name' => 'Nulsen',
@@ -25039,7 +23788,7 @@ return array (
     'latitude' => -33.85696,
     'longitude' => 121.87499,
   ),
-  2782 => 
+  2643 => 
   array (
     'id' => 6684,
     'name' => 'Numurkah',
@@ -25048,7 +23797,7 @@ return array (
     'latitude' => -36.08846,
     'longitude' => 145.44215,
   ),
-  2783 => 
+  2644 => 
   array (
     'id' => 6685,
     'name' => 'Nunawading',
@@ -25057,7 +23806,7 @@ return array (
     'latitude' => -37.82043,
     'longitude' => 145.17308,
   ),
-  2784 => 
+  2645 => 
   array (
     'id' => 6686,
     'name' => 'Nundah',
@@ -25066,7 +23815,7 @@ return array (
     'latitude' => -27.40252,
     'longitude' => 153.06165,
   ),
-  2785 => 
+  2646 => 
   array (
     'id' => 6687,
     'name' => 'Nungarin',
@@ -25075,7 +23824,7 @@ return array (
     'latitude' => -31.13714,
     'longitude' => 118.21768,
   ),
-  2786 => 
+  2647 => 
   array (
     'id' => 6688,
     'name' => 'Nuriootpa',
@@ -25084,7 +23833,7 @@ return array (
     'latitude' => -34.46825,
     'longitude' => 138.99767,
   ),
-  2787 => 
+  2648 => 
   array (
     'id' => 6689,
     'name' => 'Nyngan',
@@ -25093,7 +23842,7 @@ return array (
     'latitude' => -31.56375,
     'longitude' => 147.19373,
   ),
-  2788 => 
+  2649 => 
   array (
     'id' => 6690,
     'name' => 'Nyora',
@@ -25102,7 +23851,7 @@ return array (
     'latitude' => -38.33364,
     'longitude' => 145.67248,
   ),
-  2789 => 
+  2650 => 
   array (
     'id' => 6691,
     'name' => 'O\\\'Connor',
@@ -25111,7 +23860,7 @@ return array (
     'latitude' => -35.25645,
     'longitude' => 149.11248,
   ),
-  2790 => 
+  2651 => 
   array (
     'id' => 6692,
     'name' => 'O\\\'Sullivan Beach',
@@ -25120,7 +23869,7 @@ return array (
     'latitude' => -35.11879,
     'longitude' => 138.4734,
   ),
-  2791 => 
+  2652 => 
   array (
     'id' => 6693,
     'name' => 'Oak Flats',
@@ -25129,7 +23878,7 @@ return array (
     'latitude' => -34.56229,
     'longitude' => 150.82193,
   ),
-  2792 => 
+  2653 => 
   array (
     'id' => 6694,
     'name' => 'Oak Park',
@@ -25138,7 +23887,7 @@ return array (
     'latitude' => -37.71842,
     'longitude' => 144.91945,
   ),
-  2793 => 
+  2654 => 
   array (
     'id' => 6695,
     'name' => 'Oakdale',
@@ -25147,7 +23896,7 @@ return array (
     'latitude' => -34.0793,
     'longitude' => 150.5132,
   ),
-  2794 => 
+  2655 => 
   array (
     'id' => 6696,
     'name' => 'Oakden',
@@ -25156,7 +23905,7 @@ return array (
     'latitude' => -34.8528,
     'longitude' => 138.6433,
   ),
-  2795 => 
+  2656 => 
   array (
     'id' => 6697,
     'name' => 'Oakdowns',
@@ -25165,7 +23914,7 @@ return array (
     'latitude' => -42.90178,
     'longitude' => 147.45595,
   ),
-  2796 => 
+  2657 => 
   array (
     'id' => 6698,
     'name' => 'Oakey',
@@ -25174,7 +23923,7 @@ return array (
     'latitude' => -27.43305,
     'longitude' => 151.72063,
   ),
-  2797 => 
+  2658 => 
   array (
     'id' => 6699,
     'name' => 'Oakford',
@@ -25183,7 +23932,7 @@ return array (
     'latitude' => -32.20094,
     'longitude' => 115.93391,
   ),
-  2798 => 
+  2659 => 
   array (
     'id' => 6700,
     'name' => 'Oakhurst',
@@ -25192,16 +23941,7 @@ return array (
     'latitude' => -25.51253,
     'longitude' => 152.63583,
   ),
-  2799 => 
-  array (
-    'id' => 6701,
-    'name' => 'Oakhurst',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.73883,
-    'longitude' => 150.83837,
-  ),
-  2800 => 
+  2660 => 
   array (
     'id' => 6702,
     'name' => 'Oaklands Park',
@@ -25210,7 +23950,7 @@ return array (
     'latitude' => -35.00671,
     'longitude' => 138.54457,
   ),
-  2801 => 
+  2661 => 
   array (
     'id' => 6703,
     'name' => 'Oakleigh',
@@ -25219,7 +23959,7 @@ return array (
     'latitude' => -37.89809,
     'longitude' => 145.08837,
   ),
-  2802 => 
+  2662 => 
   array (
     'id' => 6704,
     'name' => 'Oakleigh East',
@@ -25228,7 +23968,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.11667,
   ),
-  2803 => 
+  2663 => 
   array (
     'id' => 6705,
     'name' => 'Oakleigh South',
@@ -25237,7 +23977,7 @@ return array (
     'latitude' => -37.92416,
     'longitude' => 145.09146,
   ),
-  2804 => 
+  2664 => 
   array (
     'id' => 6706,
     'name' => 'Oakville',
@@ -25246,7 +23986,7 @@ return array (
     'latitude' => -33.61558,
     'longitude' => 150.88006,
   ),
-  2805 => 
+  2665 => 
   array (
     'id' => 6707,
     'name' => 'Oatlands',
@@ -25255,7 +23995,7 @@ return array (
     'latitude' => -33.79595,
     'longitude' => 151.02712,
   ),
-  2806 => 
+  2666 => 
   array (
     'id' => 6708,
     'name' => 'Oatley',
@@ -25264,7 +24004,7 @@ return array (
     'latitude' => -33.98004,
     'longitude' => 151.07201,
   ),
-  2807 => 
+  2667 => 
   array (
     'id' => 6709,
     'name' => 'Oberon',
@@ -25273,7 +24013,7 @@ return array (
     'latitude' => -33.84531,
     'longitude' => 149.81795,
   ),
-  2808 => 
+  2668 => 
   array (
     'id' => 6710,
     'name' => 'Ocean Grove',
@@ -25282,7 +24022,7 @@ return array (
     'latitude' => -38.25772,
     'longitude' => 144.51919,
   ),
-  2809 => 
+  2669 => 
   array (
     'id' => 6711,
     'name' => 'Ocean Reef',
@@ -25291,7 +24031,7 @@ return array (
     'latitude' => -31.75871,
     'longitude' => 115.73601,
   ),
-  2810 => 
+  2670 => 
   array (
     'id' => 6712,
     'name' => 'Ocean Shores',
@@ -25300,7 +24040,7 @@ return array (
     'latitude' => -28.5093,
     'longitude' => 153.5376,
   ),
-  2811 => 
+  2671 => 
   array (
     'id' => 6713,
     'name' => 'Officer',
@@ -25309,7 +24049,7 @@ return array (
     'latitude' => -38.05916,
     'longitude' => 145.40947,
   ),
-  2812 => 
+  2672 => 
   array (
     'id' => 6714,
     'name' => 'Old Bar',
@@ -25318,7 +24058,7 @@ return array (
     'latitude' => -31.9694,
     'longitude' => 152.58807,
   ),
-  2813 => 
+  2673 => 
   array (
     'id' => 6715,
     'name' => 'Old Beach',
@@ -25327,7 +24067,7 @@ return array (
     'latitude' => -42.77758,
     'longitude' => 147.26659,
   ),
-  2814 => 
+  2674 => 
   array (
     'id' => 6716,
     'name' => 'Old Erowal Bay',
@@ -25336,7 +24076,7 @@ return array (
     'latitude' => -35.0846,
     'longitude' => 150.64568,
   ),
-  2815 => 
+  2675 => 
   array (
     'id' => 6717,
     'name' => 'Old Guildford',
@@ -25345,7 +24085,7 @@ return array (
     'latitude' => -33.86429,
     'longitude' => 150.98395,
   ),
-  2816 => 
+  2676 => 
   array (
     'id' => 6718,
     'name' => 'Old Noarlunga',
@@ -25354,7 +24094,7 @@ return array (
     'latitude' => -35.18209,
     'longitude' => 138.50138,
   ),
-  2817 => 
+  2677 => 
   array (
     'id' => 6719,
     'name' => 'Old Reynella',
@@ -25363,7 +24103,7 @@ return array (
     'latitude' => -35.10353,
     'longitude' => 138.53365,
   ),
-  2818 => 
+  2678 => 
   array (
     'id' => 6720,
     'name' => 'Old Toongabbie',
@@ -25372,7 +24112,7 @@ return array (
     'latitude' => -33.78763,
     'longitude' => 150.96897,
   ),
-  2819 => 
+  2679 => 
   array (
     'id' => 6721,
     'name' => 'Olinda',
@@ -25381,7 +24121,7 @@ return array (
     'latitude' => -37.85,
     'longitude' => 145.36667,
   ),
-  2820 => 
+  2680 => 
   array (
     'id' => 6722,
     'name' => 'One Mile',
@@ -25390,7 +24130,7 @@ return array (
     'latitude' => -27.62902,
     'longitude' => 152.73768,
   ),
-  2821 => 
+  2681 => 
   array (
     'id' => 6723,
     'name' => 'One Tree Hill',
@@ -25399,7 +24139,7 @@ return array (
     'latitude' => -34.7,
     'longitude' => 138.76667,
   ),
-  2822 => 
+  2682 => 
   array (
     'id' => 6724,
     'name' => 'Onkaparinga',
@@ -25408,7 +24148,7 @@ return array (
     'latitude' => -35.1868,
     'longitude' => 138.57776,
   ),
-  2823 => 
+  2683 => 
   array (
     'id' => 6725,
     'name' => 'Onkaparinga Hills',
@@ -25417,7 +24157,7 @@ return array (
     'latitude' => -35.13514,
     'longitude' => 138.56697,
   ),
-  2824 => 
+  2684 => 
   array (
     'id' => 6726,
     'name' => 'Onslow',
@@ -25426,7 +24166,7 @@ return array (
     'latitude' => -21.63764,
     'longitude' => 115.11221,
   ),
-  2825 => 
+  2685 => 
   array (
     'id' => 6727,
     'name' => 'Oonoonba',
@@ -25435,7 +24175,7 @@ return array (
     'latitude' => -19.29684,
     'longitude' => 146.82091,
   ),
-  2826 => 
+  2686 => 
   array (
     'id' => 6728,
     'name' => 'Ooralea',
@@ -25444,7 +24184,7 @@ return array (
     'latitude' => -21.17394,
     'longitude' => 149.14797,
   ),
-  2827 => 
+  2687 => 
   array (
     'id' => 6729,
     'name' => 'Oran Park',
@@ -25453,7 +24193,7 @@ return array (
     'latitude' => -34.00564,
     'longitude' => 150.74032,
   ),
-  2828 => 
+  2688 => 
   array (
     'id' => 6730,
     'name' => 'Orana',
@@ -25462,7 +24202,7 @@ return array (
     'latitude' => -34.99601,
     'longitude' => 117.85925,
   ),
-  2829 => 
+  2689 => 
   array (
     'id' => 6731,
     'name' => 'Orange',
@@ -25471,7 +24211,7 @@ return array (
     'latitude' => -33.28397,
     'longitude' => 149.10018,
   ),
-  2830 => 
+  2690 => 
   array (
     'id' => 6732,
     'name' => 'Orange Municipality',
@@ -25480,7 +24220,7 @@ return array (
     'latitude' => -33.32834,
     'longitude' => 149.12294,
   ),
-  2831 => 
+  2691 => 
   array (
     'id' => 6733,
     'name' => 'Orangeville',
@@ -25489,7 +24229,7 @@ return array (
     'latitude' => -34.03108,
     'longitude' => 150.60179,
   ),
-  2832 => 
+  2692 => 
   array (
     'id' => 6734,
     'name' => 'Orbost',
@@ -25498,7 +24238,7 @@ return array (
     'latitude' => -37.69644,
     'longitude' => 148.457,
   ),
-  2833 => 
+  2693 => 
   array (
     'id' => 6735,
     'name' => 'Orchard Hills',
@@ -25507,7 +24247,7 @@ return array (
     'latitude' => -33.7823,
     'longitude' => 150.71088,
   ),
-  2834 => 
+  2694 => 
   array (
     'id' => 6736,
     'name' => 'Orelia',
@@ -25516,7 +24256,7 @@ return array (
     'latitude' => -32.2333,
     'longitude' => 115.82227,
   ),
-  2835 => 
+  2695 => 
   array (
     'id' => 6737,
     'name' => 'Ormeau',
@@ -25525,7 +24265,7 @@ return array (
     'latitude' => -27.76791,
     'longitude' => 153.2428,
   ),
-  2836 => 
+  2696 => 
   array (
     'id' => 6738,
     'name' => 'Ormeau Hills',
@@ -25534,7 +24274,7 @@ return array (
     'latitude' => -27.79653,
     'longitude' => 153.2567,
   ),
-  2837 => 
+  2697 => 
   array (
     'id' => 6739,
     'name' => 'Ormiston',
@@ -25543,7 +24283,7 @@ return array (
     'latitude' => -27.51667,
     'longitude' => 153.25,
   ),
-  2838 => 
+  2698 => 
   array (
     'id' => 6740,
     'name' => 'Ormond',
@@ -25552,7 +24292,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.03333,
   ),
-  2839 => 
+  2699 => 
   array (
     'id' => 6741,
     'name' => 'Orroroo/Carrieton',
@@ -25561,7 +24301,7 @@ return array (
     'latitude' => -32.53181,
     'longitude' => 138.6647,
   ),
-  2840 => 
+  2700 => 
   array (
     'id' => 6742,
     'name' => 'Osborne',
@@ -25570,7 +24310,7 @@ return array (
     'latitude' => -34.79804,
     'longitude' => 138.49796,
   ),
-  2841 => 
+  2701 => 
   array (
     'id' => 6743,
     'name' => 'Osborne Park',
@@ -25579,7 +24319,7 @@ return array (
     'latitude' => -31.90066,
     'longitude' => 115.81083,
   ),
-  2842 => 
+  2702 => 
   array (
     'id' => 6744,
     'name' => 'Ottoway',
@@ -25588,7 +24328,7 @@ return array (
     'latitude' => -34.84756,
     'longitude' => 138.53575,
   ),
-  2843 => 
+  2703 => 
   array (
     'id' => 6745,
     'name' => 'Ourimbah',
@@ -25597,7 +24337,7 @@ return array (
     'latitude' => -33.31424,
     'longitude' => 151.33031,
   ),
-  2844 => 
+  2704 => 
   array (
     'id' => 6746,
     'name' => 'Ouyen',
@@ -25606,7 +24346,7 @@ return array (
     'latitude' => -35.07087,
     'longitude' => 142.32034,
   ),
-  2845 => 
+  2705 => 
   array (
     'id' => 6747,
     'name' => 'Oxenford',
@@ -25615,7 +24355,7 @@ return array (
     'latitude' => -27.89033,
     'longitude' => 153.31309,
   ),
-  2846 => 
+  2706 => 
   array (
     'id' => 6748,
     'name' => 'Oxley',
@@ -25624,16 +24364,7 @@ return array (
     'latitude' => -27.55,
     'longitude' => 152.98333,
   ),
-  2847 => 
-  array (
-    'id' => 6749,
-    'name' => 'Oxley',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.40952,
-    'longitude' => 149.0786,
-  ),
-  2848 => 
+  2707 => 
   array (
     'id' => 6750,
     'name' => 'Oxley Park',
@@ -25642,7 +24373,7 @@ return array (
     'latitude' => -33.77072,
     'longitude' => 150.79502,
   ),
-  2849 => 
+  2708 => 
   array (
     'id' => 6751,
     'name' => 'Oxley Vale',
@@ -25651,7 +24382,7 @@ return array (
     'latitude' => -31.06316,
     'longitude' => 150.9006,
   ),
-  2850 => 
+  2709 => 
   array (
     'id' => 6752,
     'name' => 'Oyster Bay',
@@ -25660,7 +24391,7 @@ return array (
     'latitude' => -34.00407,
     'longitude' => 151.07588,
   ),
-  2851 => 
+  2710 => 
   array (
     'id' => 6753,
     'name' => 'O’Halloran Hill',
@@ -25669,7 +24400,7 @@ return array (
     'latitude' => -35.06667,
     'longitude' => 138.55,
   ),
-  2852 => 
+  2711 => 
   array (
     'id' => 6754,
     'name' => 'Pacific Paradise',
@@ -25678,7 +24409,7 @@ return array (
     'latitude' => -26.61807,
     'longitude' => 153.07781,
   ),
-  2853 => 
+  2712 => 
   array (
     'id' => 6755,
     'name' => 'Pacific Pines',
@@ -25687,7 +24418,7 @@ return array (
     'latitude' => -27.93994,
     'longitude' => 153.31436,
   ),
-  2854 => 
+  2713 => 
   array (
     'id' => 6756,
     'name' => 'Padbury',
@@ -25696,7 +24427,7 @@ return array (
     'latitude' => -31.80645,
     'longitude' => 115.7688,
   ),
-  2855 => 
+  2714 => 
   array (
     'id' => 6757,
     'name' => 'Paddington',
@@ -25705,16 +24436,7 @@ return array (
     'latitude' => -33.88419,
     'longitude' => 151.23151,
   ),
-  2856 => 
-  array (
-    'id' => 6758,
-    'name' => 'Paddington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.45939,
-    'longitude' => 152.99509,
-  ),
-  2857 => 
+  2715 => 
   array (
     'id' => 6759,
     'name' => 'Padstow',
@@ -25723,7 +24445,7 @@ return array (
     'latitude' => -33.95687,
     'longitude' => 151.03191,
   ),
-  2858 => 
+  2716 => 
   array (
     'id' => 6760,
     'name' => 'Padstow Heights',
@@ -25732,7 +24454,7 @@ return array (
     'latitude' => -33.9674,
     'longitude' => 151.03991,
   ),
-  2859 => 
+  2717 => 
   array (
     'id' => 6761,
     'name' => 'Page',
@@ -25741,7 +24463,7 @@ return array (
     'latitude' => -35.23864,
     'longitude' => 149.04988,
   ),
-  2860 => 
+  2718 => 
   array (
     'id' => 6762,
     'name' => 'Pagewood',
@@ -25750,7 +24472,7 @@ return array (
     'latitude' => -33.94137,
     'longitude' => 151.21093,
   ),
-  2861 => 
+  2719 => 
   array (
     'id' => 6763,
     'name' => 'Pakenham',
@@ -25759,7 +24481,7 @@ return array (
     'latitude' => -38.07018,
     'longitude' => 145.47411,
   ),
-  2862 => 
+  2720 => 
   array (
     'id' => 6764,
     'name' => 'Pakenham Upper',
@@ -25768,7 +24490,7 @@ return array (
     'latitude' => -38.01667,
     'longitude' => 145.51667,
   ),
-  2863 => 
+  2721 => 
   array (
     'id' => 6765,
     'name' => 'Palm Beach',
@@ -25777,16 +24499,7 @@ return array (
     'latitude' => -28.11694,
     'longitude' => 153.46584,
   ),
-  2864 => 
-  array (
-    'id' => 6766,
-    'name' => 'Palm Beach',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.59664,
-    'longitude' => 151.32384,
-  ),
-  2865 => 
+  2722 => 
   array (
     'id' => 6767,
     'name' => 'Palm Cove',
@@ -25795,7 +24508,7 @@ return array (
     'latitude' => -16.75,
     'longitude' => 145.66667,
   ),
-  2866 => 
+  2723 => 
   array (
     'id' => 6768,
     'name' => 'Palm Island',
@@ -25804,7 +24517,7 @@ return array (
     'latitude' => -18.74893,
     'longitude' => 146.60379,
   ),
-  2867 => 
+  2724 => 
   array (
     'id' => 6769,
     'name' => 'Palmerston',
@@ -25813,16 +24526,7 @@ return array (
     'latitude' => -12.4962,
     'longitude' => 130.97797,
   ),
-  2868 => 
-  array (
-    'id' => 6770,
-    'name' => 'Palmerston',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.19447,
-    'longitude' => 149.1194,
-  ),
-  2869 => 
+  2725 => 
   array (
     'id' => 6771,
     'name' => 'Palmwoods',
@@ -25831,7 +24535,7 @@ return array (
     'latitude' => -26.68584,
     'longitude' => 152.96135,
   ),
-  2870 => 
+  2726 => 
   array (
     'id' => 6772,
     'name' => 'Palmyra',
@@ -25840,7 +24544,7 @@ return array (
     'latitude' => -32.04502,
     'longitude' => 115.78589,
   ),
-  2871 => 
+  2727 => 
   array (
     'id' => 6773,
     'name' => 'Panania',
@@ -25849,7 +24553,7 @@ return array (
     'latitude' => -33.95366,
     'longitude' => 150.99733,
   ),
-  2872 => 
+  2728 => 
   array (
     'id' => 6774,
     'name' => 'Panorama',
@@ -25858,7 +24562,7 @@ return array (
     'latitude' => -34.9908,
     'longitude' => 138.59948,
   ),
-  2873 => 
+  2729 => 
   array (
     'id' => 6775,
     'name' => 'Panton Hill',
@@ -25867,7 +24571,7 @@ return array (
     'latitude' => -37.64082,
     'longitude' => 145.23991,
   ),
-  2874 => 
+  2730 => 
   array (
     'id' => 6776,
     'name' => 'Para Hills',
@@ -25876,7 +24580,7 @@ return array (
     'latitude' => -34.8121,
     'longitude' => 138.65802,
   ),
-  2875 => 
+  2731 => 
   array (
     'id' => 6777,
     'name' => 'Para Hills West',
@@ -25885,7 +24589,7 @@ return array (
     'latitude' => -34.80474,
     'longitude' => 138.64283,
   ),
-  2876 => 
+  2732 => 
   array (
     'id' => 6778,
     'name' => 'Para Vista',
@@ -25894,7 +24598,7 @@ return array (
     'latitude' => -34.82094,
     'longitude' => 138.66111,
   ),
-  2877 => 
+  2733 => 
   array (
     'id' => 6779,
     'name' => 'Paraburdoo',
@@ -25903,7 +24607,7 @@ return array (
     'latitude' => -23.20417,
     'longitude' => 117.66973,
   ),
-  2878 => 
+  2734 => 
   array (
     'id' => 6780,
     'name' => 'Paradise',
@@ -25912,7 +24616,7 @@ return array (
     'latitude' => -34.87361,
     'longitude' => 138.66896,
   ),
-  2879 => 
+  2735 => 
   array (
     'id' => 6781,
     'name' => 'Paradise Point',
@@ -25921,7 +24625,7 @@ return array (
     'latitude' => -27.88663,
     'longitude' => 153.3933,
   ),
-  2880 => 
+  2736 => 
   array (
     'id' => 6782,
     'name' => 'Parafield Gardens',
@@ -25930,7 +24634,7 @@ return array (
     'latitude' => -34.78254,
     'longitude' => 138.61077,
   ),
-  2881 => 
+  2737 => 
   array (
     'id' => 6783,
     'name' => 'Paralowie',
@@ -25939,7 +24643,7 @@ return array (
     'latitude' => -34.75705,
     'longitude' => 138.60819,
   ),
-  2882 => 
+  2738 => 
   array (
     'id' => 6784,
     'name' => 'Parap',
@@ -25948,7 +24652,7 @@ return array (
     'latitude' => -12.43054,
     'longitude' => 130.84142,
   ),
-  2883 => 
+  2739 => 
   array (
     'id' => 6785,
     'name' => 'Paringa',
@@ -25957,7 +24661,7 @@ return array (
     'latitude' => -34.17644,
     'longitude' => 140.78579,
   ),
-  2884 => 
+  2740 => 
   array (
     'id' => 6786,
     'name' => 'Park Avenue',
@@ -25966,7 +24670,7 @@ return array (
     'latitude' => -23.35327,
     'longitude' => 150.5189,
   ),
-  2885 => 
+  2741 => 
   array (
     'id' => 6787,
     'name' => 'Park Grove',
@@ -25975,7 +24679,7 @@ return array (
     'latitude' => -41.05478,
     'longitude' => 145.88201,
   ),
-  2886 => 
+  2742 => 
   array (
     'id' => 6788,
     'name' => 'Park Holme',
@@ -25984,7 +24688,7 @@ return array (
     'latitude' => -34.99443,
     'longitude' => 138.55318,
   ),
-  2887 => 
+  2743 => 
   array (
     'id' => 6789,
     'name' => 'Park Orchards',
@@ -25993,7 +24697,7 @@ return array (
     'latitude' => -37.77688,
     'longitude' => 145.21463,
   ),
-  2888 => 
+  2744 => 
   array (
     'id' => 6790,
     'name' => 'Park Ridge',
@@ -26002,7 +24706,7 @@ return array (
     'latitude' => -27.71667,
     'longitude' => 153.03333,
   ),
-  2889 => 
+  2745 => 
   array (
     'id' => 6791,
     'name' => 'Park Ridge South',
@@ -26011,7 +24715,7 @@ return array (
     'latitude' => -27.72707,
     'longitude' => 153.0332,
   ),
-  2890 => 
+  2746 => 
   array (
     'id' => 6792,
     'name' => 'Parkdale',
@@ -26020,7 +24724,7 @@ return array (
     'latitude' => -37.99187,
     'longitude' => 145.08128,
   ),
-  2891 => 
+  2747 => 
   array (
     'id' => 6793,
     'name' => 'Parkerville',
@@ -26029,7 +24733,7 @@ return array (
     'latitude' => -31.87472,
     'longitude' => 116.138,
   ),
-  2892 => 
+  2748 => 
   array (
     'id' => 6794,
     'name' => 'Parkes',
@@ -26038,7 +24742,7 @@ return array (
     'latitude' => -32.82318,
     'longitude' => 148.02514,
   ),
-  2893 => 
+  2749 => 
   array (
     'id' => 6795,
     'name' => 'Parkhurst',
@@ -26047,7 +24751,7 @@ return array (
     'latitude' => -23.3,
     'longitude' => 150.51667,
   ),
-  2894 => 
+  2750 => 
   array (
     'id' => 6796,
     'name' => 'Parkinson',
@@ -26056,7 +24760,7 @@ return array (
     'latitude' => -27.6434,
     'longitude' => 153.02975,
   ),
-  2895 => 
+  2751 => 
   array (
     'id' => 6797,
     'name' => 'Parklea',
@@ -26065,7 +24769,7 @@ return array (
     'latitude' => -33.72439,
     'longitude' => 150.9182,
   ),
-  2896 => 
+  2752 => 
   array (
     'id' => 6798,
     'name' => 'Parkside',
@@ -26074,16 +24778,7 @@ return array (
     'latitude' => -20.7377,
     'longitude' => 139.48865,
   ),
-  2897 => 
-  array (
-    'id' => 6799,
-    'name' => 'Parkside',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.94512,
-    'longitude' => 138.61304,
-  ),
-  2898 => 
+  2753 => 
   array (
     'id' => 6800,
     'name' => 'Parkville',
@@ -26092,7 +24787,7 @@ return array (
     'latitude' => -37.78333,
     'longitude' => 144.95,
   ),
-  2899 => 
+  2754 => 
   array (
     'id' => 6801,
     'name' => 'Parkwood',
@@ -26101,16 +24796,7 @@ return array (
     'latitude' => -27.95461,
     'longitude' => 153.36304,
   ),
-  2900 => 
-  array (
-    'id' => 6802,
-    'name' => 'Parkwood',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.04913,
-    'longitude' => 115.91838,
-  ),
-  2901 => 
+  2755 => 
   array (
     'id' => 6803,
     'name' => 'Parmelia',
@@ -26119,7 +24805,7 @@ return array (
     'latitude' => -32.25784,
     'longitude' => 115.82208,
   ),
-  2902 => 
+  2756 => 
   array (
     'id' => 6804,
     'name' => 'Paroo',
@@ -26128,7 +24814,7 @@ return array (
     'latitude' => -27.98742,
     'longitude' => 145.71755,
   ),
-  2903 => 
+  2757 => 
   array (
     'id' => 6805,
     'name' => 'Parramatta',
@@ -26137,7 +24823,7 @@ return array (
     'latitude' => -33.81248,
     'longitude' => 151.00262,
   ),
-  2904 => 
+  2758 => 
   array (
     'id' => 6806,
     'name' => 'Parramatta Park',
@@ -26146,7 +24832,7 @@ return array (
     'latitude' => -16.92598,
     'longitude' => 145.76643,
   ),
-  2905 => 
+  2759 => 
   array (
     'id' => 6807,
     'name' => 'Parrearra',
@@ -26155,7 +24841,7 @@ return array (
     'latitude' => -26.71152,
     'longitude' => 153.12197,
   ),
-  2906 => 
+  2760 => 
   array (
     'id' => 6808,
     'name' => 'Pasadena',
@@ -26164,7 +24850,7 @@ return array (
     'latitude' => -35.00274,
     'longitude' => 138.58862,
   ),
-  2907 => 
+  2761 => 
   array (
     'id' => 6809,
     'name' => 'Pascoe Vale',
@@ -26173,7 +24859,7 @@ return array (
     'latitude' => -37.73333,
     'longitude' => 144.93333,
   ),
-  2908 => 
+  2762 => 
   array (
     'id' => 6810,
     'name' => 'Pascoe Vale South',
@@ -26182,7 +24868,7 @@ return array (
     'latitude' => -37.73973,
     'longitude' => 144.94615,
   ),
-  2909 => 
+  2763 => 
   array (
     'id' => 6811,
     'name' => 'Patterson Lakes',
@@ -26191,7 +24877,7 @@ return array (
     'latitude' => -38.06934,
     'longitude' => 145.14327,
   ),
-  2910 => 
+  2764 => 
   array (
     'id' => 6812,
     'name' => 'Payneham',
@@ -26200,7 +24886,7 @@ return array (
     'latitude' => -34.89724,
     'longitude' => 138.64064,
   ),
-  2911 => 
+  2765 => 
   array (
     'id' => 6813,
     'name' => 'Payneham South',
@@ -26209,7 +24895,7 @@ return array (
     'latitude' => -34.90481,
     'longitude' => 138.64448,
   ),
-  2912 => 
+  2766 => 
   array (
     'id' => 6814,
     'name' => 'Paynesville',
@@ -26218,7 +24904,7 @@ return array (
     'latitude' => -37.91886,
     'longitude' => 147.71944,
   ),
-  2913 => 
+  2767 => 
   array (
     'id' => 6815,
     'name' => 'Peachester',
@@ -26227,7 +24913,7 @@ return array (
     'latitude' => -26.84551,
     'longitude' => 152.884,
   ),
-  2914 => 
+  2768 => 
   array (
     'id' => 6816,
     'name' => 'Peak Hill',
@@ -26236,7 +24922,7 @@ return array (
     'latitude' => -32.72387,
     'longitude' => 148.19052,
   ),
-  2915 => 
+  2769 => 
   array (
     'id' => 6817,
     'name' => 'Peakhurst',
@@ -26245,7 +24931,7 @@ return array (
     'latitude' => -33.96288,
     'longitude' => 151.05161,
   ),
-  2916 => 
+  2770 => 
   array (
     'id' => 6818,
     'name' => 'Peakhurst Heights',
@@ -26254,7 +24940,7 @@ return array (
     'latitude' => -33.97735,
     'longitude' => 151.05557,
   ),
-  2917 => 
+  2771 => 
   array (
     'id' => 6819,
     'name' => 'Pearce',
@@ -26263,16 +24949,7 @@ return array (
     'latitude' => -31.66667,
     'longitude' => 116.01667,
   ),
-  2918 => 
-  array (
-    'id' => 6820,
-    'name' => 'Pearce',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.36222,
-    'longitude' => 149.08338,
-  ),
-  2919 => 
+  2772 => 
   array (
     'id' => 6821,
     'name' => 'Pearcedale',
@@ -26281,7 +24958,7 @@ return array (
     'latitude' => -38.203,
     'longitude' => 145.23488,
   ),
-  2920 => 
+  2773 => 
   array (
     'id' => 6822,
     'name' => 'Pearsall',
@@ -26290,7 +24967,7 @@ return array (
     'latitude' => -31.78117,
     'longitude' => 115.81823,
   ),
-  2921 => 
+  2774 => 
   array (
     'id' => 6823,
     'name' => 'Pegs Creek',
@@ -26299,7 +24976,7 @@ return array (
     'latitude' => -20.7383,
     'longitude' => 116.83278,
   ),
-  2922 => 
+  2775 => 
   array (
     'id' => 6824,
     'name' => 'Pelican Waters',
@@ -26308,7 +24985,7 @@ return array (
     'latitude' => -26.83354,
     'longitude' => 153.10013,
   ),
-  2923 => 
+  2776 => 
   array (
     'id' => 6825,
     'name' => 'Pemberton',
@@ -26317,7 +24994,7 @@ return array (
     'latitude' => -34.44311,
     'longitude' => 116.03689,
   ),
-  2924 => 
+  2777 => 
   array (
     'id' => 6826,
     'name' => 'Pemulwuy',
@@ -26326,7 +25003,7 @@ return array (
     'latitude' => -33.82274,
     'longitude' => 150.92395,
   ),
-  2925 => 
+  2778 => 
   array (
     'id' => 6827,
     'name' => 'Pendle Hill',
@@ -26335,7 +25012,7 @@ return array (
     'latitude' => -33.80402,
     'longitude' => 150.95543,
   ),
-  2926 => 
+  2779 => 
   array (
     'id' => 6828,
     'name' => 'Penguin',
@@ -26344,7 +25021,7 @@ return array (
     'latitude' => -41.12258,
     'longitude' => 146.07318,
   ),
-  2927 => 
+  2780 => 
   array (
     'id' => 6829,
     'name' => 'Pennant Hills',
@@ -26353,7 +25030,7 @@ return array (
     'latitude' => -33.73783,
     'longitude' => 151.07216,
   ),
-  2928 => 
+  2781 => 
   array (
     'id' => 6830,
     'name' => 'Pennington',
@@ -26362,7 +25039,7 @@ return array (
     'latitude' => -34.85758,
     'longitude' => 138.5316,
   ),
-  2929 => 
+  2782 => 
   array (
     'id' => 6831,
     'name' => 'Penola',
@@ -26371,7 +25048,7 @@ return array (
     'latitude' => -37.3752,
     'longitude' => 140.83678,
   ),
-  2930 => 
+  2783 => 
   array (
     'id' => 6832,
     'name' => 'Penrith',
@@ -26380,7 +25057,7 @@ return array (
     'latitude' => -33.75,
     'longitude' => 150.7,
   ),
-  2931 => 
+  2784 => 
   array (
     'id' => 6833,
     'name' => 'Penrith Municipality',
@@ -26389,7 +25066,7 @@ return array (
     'latitude' => -33.75,
     'longitude' => 150.7,
   ),
-  2932 => 
+  2785 => 
   array (
     'id' => 6834,
     'name' => 'Penshurst',
@@ -26398,7 +25075,7 @@ return array (
     'latitude' => -33.96667,
     'longitude' => 151.08333,
   ),
-  2933 => 
+  2786 => 
   array (
     'id' => 6835,
     'name' => 'Peppermint Grove',
@@ -26407,7 +25084,7 @@ return array (
     'latitude' => -31.99885,
     'longitude' => 115.76697,
   ),
-  2934 => 
+  2787 => 
   array (
     'id' => 6836,
     'name' => 'Peregian Beach',
@@ -26416,7 +25093,7 @@ return array (
     'latitude' => -26.481,
     'longitude' => 153.096,
   ),
-  2935 => 
+  2788 => 
   array (
     'id' => 6837,
     'name' => 'Peregian Springs',
@@ -26425,7 +25102,7 @@ return array (
     'latitude' => -26.48801,
     'longitude' => 153.07577,
   ),
-  2936 => 
+  2789 => 
   array (
     'id' => 6838,
     'name' => 'Perenjori',
@@ -26434,7 +25111,7 @@ return array (
     'latitude' => -29.39784,
     'longitude' => 116.53543,
   ),
-  2937 => 
+  2790 => 
   array (
     'id' => 6839,
     'name' => 'Perth',
@@ -26443,16 +25120,7 @@ return array (
     'latitude' => -41.57231,
     'longitude' => 147.17096,
   ),
-  2938 => 
-  array (
-    'id' => 6840,
-    'name' => 'Perth',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.95224,
-    'longitude' => 115.8614,
-  ),
-  2939 => 
+  2791 => 
   array (
     'id' => 6841,
     'name' => 'Perth city centre',
@@ -26461,7 +25129,7 @@ return array (
     'latitude' => -31.95289,
     'longitude' => 115.85152,
   ),
-  2940 => 
+  2792 => 
   array (
     'id' => 6842,
     'name' => 'Peterborough',
@@ -26470,7 +25138,7 @@ return array (
     'latitude' => -32.84787,
     'longitude' => 139.02608,
   ),
-  2941 => 
+  2793 => 
   array (
     'id' => 6843,
     'name' => 'Peterhead',
@@ -26479,7 +25147,7 @@ return array (
     'latitude' => -34.83118,
     'longitude' => 138.49892,
   ),
-  2942 => 
+  2794 => 
   array (
     'id' => 6844,
     'name' => 'Petersham',
@@ -26488,7 +25156,7 @@ return array (
     'latitude' => -33.8946,
     'longitude' => 151.15495,
   ),
-  2943 => 
+  2795 => 
   array (
     'id' => 6845,
     'name' => 'Petrie',
@@ -26497,7 +25165,7 @@ return array (
     'latitude' => -27.26667,
     'longitude' => 152.98333,
   ),
-  2944 => 
+  2796 => 
   array (
     'id' => 6846,
     'name' => 'Petrie Terrace',
@@ -26506,7 +25174,7 @@ return array (
     'latitude' => -27.46298,
     'longitude' => 153.01312,
   ),
-  2945 => 
+  2797 => 
   array (
     'id' => 6847,
     'name' => 'Phillip',
@@ -26515,16 +25183,7 @@ return array (
     'latitude' => -31.13333,
     'longitude' => 150.85,
   ),
-  2946 => 
-  array (
-    'id' => 6848,
-    'name' => 'Phillip',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.35035,
-    'longitude' => 149.09151,
-  ),
-  2947 => 
+  2798 => 
   array (
     'id' => 6849,
     'name' => 'Phillip Island',
@@ -26533,7 +25192,7 @@ return array (
     'latitude' => -38.48349,
     'longitude' => 145.23102,
   ),
-  2948 => 
+  2799 => 
   array (
     'id' => 6850,
     'name' => 'Pialba',
@@ -26542,7 +25201,7 @@ return array (
     'latitude' => -25.287,
     'longitude' => 152.84369,
   ),
-  2949 => 
+  2800 => 
   array (
     'id' => 6851,
     'name' => 'Piara Waters',
@@ -26551,7 +25210,7 @@ return array (
     'latitude' => -32.13344,
     'longitude' => 115.91634,
   ),
-  2950 => 
+  2801 => 
   array (
     'id' => 6852,
     'name' => 'Piccadilly',
@@ -26560,7 +25219,7 @@ return array (
     'latitude' => -30.7428,
     'longitude' => 121.46418,
   ),
-  2951 => 
+  2802 => 
   array (
     'id' => 6853,
     'name' => 'Picnic Point',
@@ -26569,7 +25228,7 @@ return array (
     'latitude' => -33.98062,
     'longitude' => 150.99661,
   ),
-  2952 => 
+  2803 => 
   array (
     'id' => 6854,
     'name' => 'Picton',
@@ -26578,7 +25237,7 @@ return array (
     'latitude' => -34.16995,
     'longitude' => 150.61168,
   ),
-  2953 => 
+  2804 => 
   array (
     'id' => 6855,
     'name' => 'Pie Creek',
@@ -26587,7 +25246,7 @@ return array (
     'latitude' => -26.22991,
     'longitude' => 152.60774,
   ),
-  2954 => 
+  2805 => 
   array (
     'id' => 6856,
     'name' => 'Pimlico',
@@ -26596,7 +25255,7 @@ return array (
     'latitude' => -19.28172,
     'longitude' => 146.78803,
   ),
-  2955 => 
+  2806 => 
   array (
     'id' => 6857,
     'name' => 'Pimpama',
@@ -26605,7 +25264,7 @@ return array (
     'latitude' => -27.81667,
     'longitude' => 153.3,
   ),
-  2956 => 
+  2807 => 
   array (
     'id' => 6858,
     'name' => 'Pine Mountain',
@@ -26614,7 +25273,7 @@ return array (
     'latitude' => -27.55,
     'longitude' => 152.7,
   ),
-  2957 => 
+  2808 => 
   array (
     'id' => 6859,
     'name' => 'Pingelly',
@@ -26623,7 +25282,7 @@ return array (
     'latitude' => -32.53174,
     'longitude' => 117.20004,
   ),
-  2958 => 
+  2809 => 
   array (
     'id' => 6860,
     'name' => 'Pinjarra',
@@ -26632,7 +25291,7 @@ return array (
     'latitude' => -32.6298,
     'longitude' => 115.87351,
   ),
-  2959 => 
+  2810 => 
   array (
     'id' => 6861,
     'name' => 'Pioneer',
@@ -26641,7 +25300,7 @@ return array (
     'latitude' => -20.72032,
     'longitude' => 139.50812,
   ),
-  2960 => 
+  2811 => 
   array (
     'id' => 6862,
     'name' => 'Pitt Town',
@@ -26650,7 +25309,7 @@ return array (
     'latitude' => -33.58718,
     'longitude' => 150.85857,
   ),
-  2961 => 
+  2812 => 
   array (
     'id' => 6863,
     'name' => 'Pittsworth',
@@ -26659,7 +25318,7 @@ return array (
     'latitude' => -27.71638,
     'longitude' => 151.63399,
   ),
-  2962 => 
+  2813 => 
   array (
     'id' => 6864,
     'name' => 'Plainland',
@@ -26668,7 +25327,7 @@ return array (
     'latitude' => -27.56667,
     'longitude' => 152.41667,
   ),
-  2963 => 
+  2814 => 
   array (
     'id' => 6865,
     'name' => 'Plantagenet Shire',
@@ -26677,7 +25336,7 @@ return array (
     'latitude' => -34.62508,
     'longitude' => 117.59753,
   ),
-  2964 => 
+  2815 => 
   array (
     'id' => 6866,
     'name' => 'Playford',
@@ -26686,7 +25345,7 @@ return array (
     'latitude' => -34.69419,
     'longitude' => 138.6421,
   ),
-  2965 => 
+  2816 => 
   array (
     'id' => 6867,
     'name' => 'Plenty',
@@ -26695,7 +25354,7 @@ return array (
     'latitude' => -37.66667,
     'longitude' => 145.11667,
   ),
-  2966 => 
+  2817 => 
   array (
     'id' => 6868,
     'name' => 'Plumpton',
@@ -26704,16 +25363,7 @@ return array (
     'latitude' => -37.68701,
     'longitude' => 144.69082,
   ),
-  2967 => 
-  array (
-    'id' => 6869,
-    'name' => 'Plumpton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.75184,
-    'longitude' => 150.83686,
-  ),
-  2968 => 
+  2818 => 
   array (
     'id' => 6870,
     'name' => 'Plympton',
@@ -26722,7 +25372,7 @@ return array (
     'latitude' => -34.962,
     'longitude' => 138.55496,
   ),
-  2969 => 
+  2819 => 
   array (
     'id' => 6871,
     'name' => 'Plympton Park',
@@ -26731,7 +25381,7 @@ return array (
     'latitude' => -34.98071,
     'longitude' => 138.54918,
   ),
-  2970 => 
+  2820 => 
   array (
     'id' => 6872,
     'name' => 'Point Clare',
@@ -26740,7 +25390,7 @@ return array (
     'latitude' => -33.44378,
     'longitude' => 151.32732,
   ),
-  2971 => 
+  2821 => 
   array (
     'id' => 6873,
     'name' => 'Point Cook',
@@ -26749,7 +25399,7 @@ return array (
     'latitude' => -37.91482,
     'longitude' => 144.75088,
   ),
-  2972 => 
+  2822 => 
   array (
     'id' => 6874,
     'name' => 'Point Frederick',
@@ -26758,7 +25408,7 @@ return array (
     'latitude' => -33.44036,
     'longitude' => 151.34322,
   ),
-  2973 => 
+  2823 => 
   array (
     'id' => 6875,
     'name' => 'Point Lonsdale',
@@ -26767,7 +25417,7 @@ return array (
     'latitude' => -38.28173,
     'longitude' => 144.61055,
   ),
-  2974 => 
+  2824 => 
   array (
     'id' => 6876,
     'name' => 'Point Piper',
@@ -26776,7 +25426,7 @@ return array (
     'latitude' => -33.86667,
     'longitude' => 151.25,
   ),
-  2975 => 
+  2825 => 
   array (
     'id' => 6877,
     'name' => 'Point Vernon',
@@ -26785,7 +25435,7 @@ return array (
     'latitude' => -25.25727,
     'longitude' => 152.81725,
   ),
-  2976 => 
+  2826 => 
   array (
     'id' => 6878,
     'name' => 'Pokolbin',
@@ -26794,7 +25444,7 @@ return array (
     'latitude' => -32.8,
     'longitude' => 151.28333,
   ),
-  2977 => 
+  2827 => 
   array (
     'id' => 6879,
     'name' => 'Pomona',
@@ -26803,7 +25453,7 @@ return array (
     'latitude' => -26.36685,
     'longitude' => 152.85574,
   ),
-  2978 => 
+  2828 => 
   array (
     'id' => 6880,
     'name' => 'Pooraka',
@@ -26812,7 +25462,7 @@ return array (
     'latitude' => -34.82471,
     'longitude' => 138.62637,
   ),
-  2979 => 
+  2829 => 
   array (
     'id' => 6881,
     'name' => 'Pormpuraaw',
@@ -26821,7 +25471,7 @@ return array (
     'latitude' => -14.65705,
     'longitude' => 141.83354,
   ),
-  2980 => 
+  2830 => 
   array (
     'id' => 6882,
     'name' => 'Port Adelaide',
@@ -26830,7 +25480,7 @@ return array (
     'latitude' => -34.8462,
     'longitude' => 138.50302,
   ),
-  2981 => 
+  2831 => 
   array (
     'id' => 6883,
     'name' => 'Port Adelaide Enfield',
@@ -26839,7 +25489,7 @@ return array (
     'latitude' => -34.84803,
     'longitude' => 138.50773,
   ),
-  2982 => 
+  2832 => 
   array (
     'id' => 6884,
     'name' => 'Port Augusta',
@@ -26848,7 +25498,7 @@ return array (
     'latitude' => -32.5553,
     'longitude' => 137.71362,
   ),
-  2983 => 
+  2833 => 
   array (
     'id' => 6885,
     'name' => 'Port Augusta West',
@@ -26857,7 +25507,7 @@ return array (
     'latitude' => -32.48611,
     'longitude' => 137.75833,
   ),
-  2984 => 
+  2834 => 
   array (
     'id' => 6886,
     'name' => 'Port Broughton',
@@ -26866,7 +25516,7 @@ return array (
     'latitude' => -33.6007,
     'longitude' => 137.93597,
   ),
-  2985 => 
+  2835 => 
   array (
     'id' => 6887,
     'name' => 'Port Denison',
@@ -26875,7 +25525,7 @@ return array (
     'latitude' => -29.27367,
     'longitude' => 114.92068,
   ),
-  2986 => 
+  2836 => 
   array (
     'id' => 6888,
     'name' => 'Port Douglas',
@@ -26884,7 +25534,7 @@ return array (
     'latitude' => -16.48383,
     'longitude' => 145.46725,
   ),
-  2987 => 
+  2837 => 
   array (
     'id' => 6889,
     'name' => 'Port Elliot',
@@ -26893,7 +25543,7 @@ return array (
     'latitude' => -35.53017,
     'longitude' => 138.67922,
   ),
-  2988 => 
+  2838 => 
   array (
     'id' => 6890,
     'name' => 'Port Fairy',
@@ -26902,7 +25552,7 @@ return array (
     'latitude' => -38.38535,
     'longitude' => 142.2371,
   ),
-  2989 => 
+  2839 => 
   array (
     'id' => 6891,
     'name' => 'Port Hacking',
@@ -26911,7 +25561,7 @@ return array (
     'latitude' => -34.06791,
     'longitude' => 151.12561,
   ),
-  2990 => 
+  2840 => 
   array (
     'id' => 6892,
     'name' => 'Port Hedland',
@@ -26920,7 +25570,7 @@ return array (
     'latitude' => -20.79258,
     'longitude' => 118.63264,
   ),
-  2991 => 
+  2841 => 
   array (
     'id' => 6893,
     'name' => 'Port Kembla',
@@ -26929,7 +25579,7 @@ return array (
     'latitude' => -34.4818,
     'longitude' => 150.9012,
   ),
-  2992 => 
+  2842 => 
   array (
     'id' => 6894,
     'name' => 'Port Kennedy',
@@ -26938,7 +25588,7 @@ return array (
     'latitude' => -32.37342,
     'longitude' => 115.7515,
   ),
-  2993 => 
+  2843 => 
   array (
     'id' => 6895,
     'name' => 'Port Lincoln',
@@ -26947,7 +25597,7 @@ return array (
     'latitude' => -34.72854,
     'longitude' => 135.85748,
   ),
-  2994 => 
+  2844 => 
   array (
     'id' => 6896,
     'name' => 'Port Macquarie',
@@ -26956,7 +25606,7 @@ return array (
     'latitude' => -31.43084,
     'longitude' => 152.90894,
   ),
-  2995 => 
+  2845 => 
   array (
     'id' => 6897,
     'name' => 'Port Macquarie-Hastings',
@@ -26965,7 +25615,7 @@ return array (
     'latitude' => -31.42106,
     'longitude' => 152.51916,
   ),
-  2996 => 
+  2846 => 
   array (
     'id' => 6898,
     'name' => 'Port Melbourne',
@@ -26974,7 +25624,7 @@ return array (
     'latitude' => -37.83961,
     'longitude' => 144.94228,
   ),
-  2997 => 
+  2847 => 
   array (
     'id' => 6899,
     'name' => 'Port Noarlunga',
@@ -26983,7 +25633,7 @@ return array (
     'latitude' => -35.14802,
     'longitude' => 138.47099,
   ),
-  2998 => 
+  2848 => 
   array (
     'id' => 6900,
     'name' => 'Port Noarlunga South',
@@ -26992,7 +25642,7 @@ return array (
     'latitude' => -35.17404,
     'longitude' => 138.46859,
   ),
-  2999 => 
+  2849 => 
   array (
     'id' => 6901,
     'name' => 'Port Phillip',
@@ -27001,7 +25651,7 @@ return array (
     'latitude' => -37.85159,
     'longitude' => 144.96992,
   ),
-  3000 => 
+  2850 => 
   array (
     'id' => 6902,
     'name' => 'Port Pirie',
@@ -27010,7 +25660,7 @@ return array (
     'latitude' => -33.19176,
     'longitude' => 138.01746,
   ),
-  3001 => 
+  2851 => 
   array (
     'id' => 6903,
     'name' => 'Port Pirie City and Dists',
@@ -27019,7 +25669,7 @@ return array (
     'latitude' => -33.36513,
     'longitude' => 138.10706,
   ),
-  3002 => 
+  2852 => 
   array (
     'id' => 6904,
     'name' => 'Port Pirie South',
@@ -27028,7 +25678,7 @@ return array (
     'latitude' => -33.19797,
     'longitude' => 138.01446,
   ),
-  3003 => 
+  2853 => 
   array (
     'id' => 6905,
     'name' => 'Port Pirie West',
@@ -27037,7 +25687,7 @@ return array (
     'latitude' => -33.1779,
     'longitude' => 137.9985,
   ),
-  3004 => 
+  2854 => 
   array (
     'id' => 6906,
     'name' => 'Port Sorell',
@@ -27046,7 +25696,7 @@ return array (
     'latitude' => -41.16652,
     'longitude' => 146.55283,
   ),
-  3005 => 
+  2855 => 
   array (
     'id' => 6907,
     'name' => 'Port Stephens Shire',
@@ -27055,7 +25705,7 @@ return array (
     'latitude' => -32.72855,
     'longitude' => 151.89952,
   ),
-  3006 => 
+  2856 => 
   array (
     'id' => 6908,
     'name' => 'Port Willunga',
@@ -27064,7 +25714,7 @@ return array (
     'latitude' => -35.26181,
     'longitude' => 138.46436,
   ),
-  3007 => 
+  2857 => 
   array (
     'id' => 6909,
     'name' => 'Portarlington',
@@ -27073,7 +25723,7 @@ return array (
     'latitude' => -38.11542,
     'longitude' => 144.65559,
   ),
-  3008 => 
+  2858 => 
   array (
     'id' => 6910,
     'name' => 'Portland',
@@ -27082,16 +25732,7 @@ return array (
     'latitude' => -33.35709,
     'longitude' => 149.98148,
   ),
-  3009 => 
-  array (
-    'id' => 6911,
-    'name' => 'Portland',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.3462,
-    'longitude' => 141.60257,
-  ),
-  3010 => 
+  2859 => 
   array (
     'id' => 6912,
     'name' => 'Potts Point',
@@ -27100,7 +25741,7 @@ return array (
     'latitude' => -33.86701,
     'longitude' => 151.22586,
   ),
-  3011 => 
+  2860 => 
   array (
     'id' => 6913,
     'name' => 'Pottsville',
@@ -27109,7 +25750,7 @@ return array (
     'latitude' => -28.3874,
     'longitude' => 153.55857,
   ),
-  3012 => 
+  2861 => 
   array (
     'id' => 6914,
     'name' => 'Pottsville Beach',
@@ -27118,7 +25759,7 @@ return array (
     'latitude' => -28.38853,
     'longitude' => 153.56564,
   ),
-  3013 => 
+  2862 => 
   array (
     'id' => 6915,
     'name' => 'Prahran',
@@ -27127,7 +25768,7 @@ return array (
     'latitude' => -37.85114,
     'longitude' => 144.99318,
   ),
-  3014 => 
+  2863 => 
   array (
     'id' => 6916,
     'name' => 'Prairiewood',
@@ -27136,7 +25777,7 @@ return array (
     'latitude' => -33.86325,
     'longitude' => 150.90521,
   ),
-  3015 => 
+  2864 => 
   array (
     'id' => 6917,
     'name' => 'Preston',
@@ -27145,7 +25786,7 @@ return array (
     'latitude' => -37.75,
     'longitude' => 145.01667,
   ),
-  3016 => 
+  2865 => 
   array (
     'id' => 6918,
     'name' => 'Prestons',
@@ -27154,7 +25795,7 @@ return array (
     'latitude' => -33.94185,
     'longitude' => 150.8717,
   ),
-  3017 => 
+  2866 => 
   array (
     'id' => 6919,
     'name' => 'Primbee',
@@ -27163,7 +25804,7 @@ return array (
     'latitude' => -34.50358,
     'longitude' => 150.8795,
   ),
-  3018 => 
+  2867 => 
   array (
     'id' => 6920,
     'name' => 'Princes Hill',
@@ -27172,7 +25813,7 @@ return array (
     'latitude' => -37.78185,
     'longitude' => 144.96656,
   ),
-  3019 => 
+  2868 => 
   array (
     'id' => 6921,
     'name' => 'Proserpine',
@@ -27181,7 +25822,7 @@ return array (
     'latitude' => -20.4011,
     'longitude' => 148.5802,
   ),
-  3020 => 
+  2869 => 
   array (
     'id' => 6922,
     'name' => 'Prospect',
@@ -27190,16 +25831,7 @@ return array (
     'latitude' => -34.88457,
     'longitude' => 138.60038,
   ),
-  3021 => 
-  array (
-    'id' => 6923,
-    'name' => 'Prospect',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.80154,
-    'longitude' => 150.91358,
-  ),
-  3022 => 
+  2870 => 
   array (
     'id' => 6924,
     'name' => 'Prospect Vale',
@@ -27208,7 +25840,7 @@ return array (
     'latitude' => -41.481,
     'longitude' => 147.10406,
   ),
-  3023 => 
+  2871 => 
   array (
     'id' => 6925,
     'name' => 'Puckapunyal',
@@ -27217,7 +25849,7 @@ return array (
     'latitude' => -36.99493,
     'longitude' => 145.04005,
   ),
-  3024 => 
+  2872 => 
   array (
     'id' => 6926,
     'name' => 'Pullenvale',
@@ -27226,7 +25858,7 @@ return array (
     'latitude' => -27.52283,
     'longitude' => 152.88651,
   ),
-  3025 => 
+  2873 => 
   array (
     'id' => 6927,
     'name' => 'Punchbowl',
@@ -27235,7 +25867,7 @@ return array (
     'latitude' => -33.92893,
     'longitude' => 151.05111,
   ),
-  3026 => 
+  2874 => 
   array (
     'id' => 6928,
     'name' => 'Putney',
@@ -27244,7 +25876,7 @@ return array (
     'latitude' => -33.82613,
     'longitude' => 151.1063,
   ),
-  3027 => 
+  2875 => 
   array (
     'id' => 6929,
     'name' => 'Pymble',
@@ -27253,7 +25885,7 @@ return array (
     'latitude' => -33.74386,
     'longitude' => 151.14188,
   ),
-  3028 => 
+  2876 => 
   array (
     'id' => 6930,
     'name' => 'Pyrenees',
@@ -27262,7 +25894,7 @@ return array (
     'latitude' => -37.32756,
     'longitude' => 143.36472,
   ),
-  3029 => 
+  2877 => 
   array (
     'id' => 6931,
     'name' => 'Pyrmont',
@@ -27271,7 +25903,7 @@ return array (
     'latitude' => -33.86985,
     'longitude' => 151.19402,
   ),
-  3030 => 
+  2878 => 
   array (
     'id' => 6932,
     'name' => 'Quairading',
@@ -27280,7 +25912,7 @@ return array (
     'latitude' => -32.01462,
     'longitude' => 117.39835,
   ),
-  3031 => 
+  2879 => 
   array (
     'id' => 6933,
     'name' => 'Quakers Hill',
@@ -27289,7 +25921,7 @@ return array (
     'latitude' => -33.73333,
     'longitude' => 150.88333,
   ),
-  3032 => 
+  2880 => 
   array (
     'id' => 6934,
     'name' => 'Quarry Hill',
@@ -27298,7 +25930,7 @@ return array (
     'latitude' => -36.77646,
     'longitude' => 144.28024,
   ),
-  3033 => 
+  2881 => 
   array (
     'id' => 6935,
     'name' => 'Queanbeyan',
@@ -27307,7 +25939,7 @@ return array (
     'latitude' => -35.35493,
     'longitude' => 149.232,
   ),
-  3034 => 
+  2882 => 
   array (
     'id' => 6936,
     'name' => 'Queanbeyan East',
@@ -27316,7 +25948,7 @@ return array (
     'latitude' => -35.34625,
     'longitude' => 149.24596,
   ),
-  3035 => 
+  2883 => 
   array (
     'id' => 6937,
     'name' => 'Queanbeyan West',
@@ -27325,7 +25957,7 @@ return array (
     'latitude' => -35.35497,
     'longitude' => 149.20412,
   ),
-  3036 => 
+  2884 => 
   array (
     'id' => 6938,
     'name' => 'Queens Park',
@@ -27334,16 +25966,7 @@ return array (
     'latitude' => -32.00314,
     'longitude' => 115.94621,
   ),
-  3037 => 
-  array (
-    'id' => 6939,
-    'name' => 'Queens Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.89946,
-    'longitude' => 151.24724,
-  ),
-  3038 => 
+  2885 => 
   array (
     'id' => 6940,
     'name' => 'Queenscliff',
@@ -27352,16 +25975,7 @@ return array (
     'latitude' => -38.26789,
     'longitude' => 144.66193,
   ),
-  3039 => 
-  array (
-    'id' => 6941,
-    'name' => 'Queenscliff',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.78278,
-    'longitude' => 151.28495,
-  ),
-  3040 => 
+  2886 => 
   array (
     'id' => 6942,
     'name' => 'Queenscliffe',
@@ -27370,7 +25984,7 @@ return array (
     'latitude' => -38.26896,
     'longitude' => 144.66248,
   ),
-  3041 => 
+  2887 => 
   array (
     'id' => 6943,
     'name' => 'Queenstown',
@@ -27379,16 +25993,7 @@ return array (
     'latitude' => -42.0805,
     'longitude' => 145.55646,
   ),
-  3042 => 
-  array (
-    'id' => 6944,
-    'name' => 'Queenstown',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.86091,
-    'longitude' => 138.51048,
-  ),
-  3043 => 
+  2888 => 
   array (
     'id' => 6945,
     'name' => 'Queenton',
@@ -27397,7 +26002,7 @@ return array (
     'latitude' => -20.07453,
     'longitude' => 146.2817,
   ),
-  3044 => 
+  2889 => 
   array (
     'id' => 6946,
     'name' => 'Quilpie',
@@ -27406,7 +26011,7 @@ return array (
     'latitude' => -26.15057,
     'longitude' => 143.57936,
   ),
-  3045 => 
+  2890 => 
   array (
     'id' => 6947,
     'name' => 'Quindalup',
@@ -27415,7 +26020,7 @@ return array (
     'latitude' => -33.6356,
     'longitude' => 115.14899,
   ),
-  3046 => 
+  2891 => 
   array (
     'id' => 6948,
     'name' => 'Quinns Rocks',
@@ -27424,7 +26029,7 @@ return array (
     'latitude' => -31.67379,
     'longitude' => 115.70372,
   ),
-  3047 => 
+  2892 => 
   array (
     'id' => 6949,
     'name' => 'Quirindi',
@@ -27433,7 +26038,7 @@ return array (
     'latitude' => -31.50763,
     'longitude' => 150.67902,
   ),
-  3048 => 
+  2893 => 
   array (
     'id' => 6950,
     'name' => 'Quorn',
@@ -27442,7 +26047,7 @@ return array (
     'latitude' => -32.34676,
     'longitude' => 138.04176,
   ),
-  3049 => 
+  2894 => 
   array (
     'id' => 6951,
     'name' => 'Raby',
@@ -27451,7 +26056,7 @@ return array (
     'latitude' => -34.01846,
     'longitude' => 150.81764,
   ),
-  3050 => 
+  2895 => 
   array (
     'id' => 6952,
     'name' => 'Raceview',
@@ -27460,7 +26065,7 @@ return array (
     'latitude' => -27.63472,
     'longitude' => 152.77519,
   ),
-  3051 => 
+  2896 => 
   array (
     'id' => 6953,
     'name' => 'Raglan',
@@ -27469,7 +26074,7 @@ return array (
     'latitude' => -33.41667,
     'longitude' => 149.66667,
   ),
-  3052 => 
+  2897 => 
   array (
     'id' => 6954,
     'name' => 'Railway Estate',
@@ -27478,7 +26083,7 @@ return array (
     'latitude' => -19.2757,
     'longitude' => 146.81962,
   ),
-  3053 => 
+  2898 => 
   array (
     'id' => 6955,
     'name' => 'Rainbow Beach',
@@ -27487,7 +26092,7 @@ return array (
     'latitude' => -25.90432,
     'longitude' => 153.09174,
   ),
-  3054 => 
+  2899 => 
   array (
     'id' => 6956,
     'name' => 'Ramsgate',
@@ -27496,7 +26101,7 @@ return array (
     'latitude' => -33.9822,
     'longitude' => 151.14,
   ),
-  3055 => 
+  2900 => 
   array (
     'id' => 6957,
     'name' => 'Ramsgate Beach',
@@ -27505,7 +26110,7 @@ return array (
     'latitude' => -33.98523,
     'longitude' => 151.14634,
   ),
-  3056 => 
+  2901 => 
   array (
     'id' => 6958,
     'name' => 'Randwick',
@@ -27514,7 +26119,7 @@ return array (
     'latitude' => -33.91667,
     'longitude' => 151.25,
   ),
-  3057 => 
+  2902 => 
   array (
     'id' => 6959,
     'name' => 'Ranelagh',
@@ -27523,7 +26128,7 @@ return array (
     'latitude' => -43.00977,
     'longitude' => 147.03764,
   ),
-  3058 => 
+  2903 => 
   array (
     'id' => 6960,
     'name' => 'Rangeville',
@@ -27532,7 +26137,7 @@ return array (
     'latitude' => -27.58318,
     'longitude' => 151.97997,
   ),
-  3059 => 
+  2904 => 
   array (
     'id' => 6961,
     'name' => 'Rangeway',
@@ -27541,7 +26146,7 @@ return array (
     'latitude' => -28.78665,
     'longitude' => 114.63059,
   ),
-  3060 => 
+  2905 => 
   array (
     'id' => 6962,
     'name' => 'Rangewood',
@@ -27550,7 +26155,7 @@ return array (
     'latitude' => -19.31138,
     'longitude' => 146.63877,
   ),
-  3061 => 
+  2906 => 
   array (
     'id' => 6963,
     'name' => 'Rankin Park',
@@ -27559,7 +26164,7 @@ return array (
     'latitude' => -32.92516,
     'longitude' => 151.68016,
   ),
-  3062 => 
+  2907 => 
   array (
     'id' => 6964,
     'name' => 'Rapid Creek',
@@ -27568,7 +26173,7 @@ return array (
     'latitude' => -12.38042,
     'longitude' => 130.85919,
   ),
-  3063 => 
+  2908 => 
   array (
     'id' => 6965,
     'name' => 'Rasmussen',
@@ -27577,7 +26182,7 @@ return array (
     'latitude' => -19.3524,
     'longitude' => 146.7228,
   ),
-  3064 => 
+  2909 => 
   array (
     'id' => 6966,
     'name' => 'Rathmines',
@@ -27586,7 +26191,7 @@ return array (
     'latitude' => -33.03773,
     'longitude' => 151.58443,
   ),
-  3065 => 
+  2910 => 
   array (
     'id' => 6967,
     'name' => 'Ravenhall',
@@ -27595,7 +26200,7 @@ return array (
     'latitude' => -37.76552,
     'longitude' => 144.75105,
   ),
-  3066 => 
+  2911 => 
   array (
     'id' => 6968,
     'name' => 'Ravenshoe',
@@ -27604,7 +26209,7 @@ return array (
     'latitude' => -17.60901,
     'longitude' => 145.48413,
   ),
-  3067 => 
+  2912 => 
   array (
     'id' => 6969,
     'name' => 'Ravensthorpe',
@@ -27613,7 +26218,7 @@ return array (
     'latitude' => -33.68375,
     'longitude' => 120.15338,
   ),
-  3068 => 
+  2913 => 
   array (
     'id' => 6970,
     'name' => 'Ravenswood',
@@ -27622,16 +26227,7 @@ return array (
     'latitude' => -41.41593,
     'longitude' => 147.1825,
   ),
-  3069 => 
-  array (
-    'id' => 6971,
-    'name' => 'Ravenswood',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.5824,
-    'longitude' => 115.8315,
-  ),
-  3070 => 
+  2914 => 
   array (
     'id' => 6972,
     'name' => 'Raworth',
@@ -27640,7 +26236,7 @@ return array (
     'latitude' => -32.73333,
     'longitude' => 151.61667,
   ),
-  3071 => 
+  2915 => 
   array (
     'id' => 6973,
     'name' => 'Raymond Terrace',
@@ -27649,7 +26245,7 @@ return array (
     'latitude' => -32.75952,
     'longitude' => 151.7505,
   ),
-  3072 => 
+  2916 => 
   array (
     'id' => 6974,
     'name' => 'Razorback',
@@ -27658,7 +26254,7 @@ return array (
     'latitude' => -34.15237,
     'longitude' => 150.65308,
   ),
-  3073 => 
+  2917 => 
   array (
     'id' => 6975,
     'name' => 'Red Cliffs',
@@ -27667,7 +26263,7 @@ return array (
     'latitude' => -34.30942,
     'longitude' => 142.18971,
   ),
-  3074 => 
+  2918 => 
   array (
     'id' => 6976,
     'name' => 'Red Hill',
@@ -27676,16 +26272,7 @@ return array (
     'latitude' => -20.31667,
     'longitude' => 148.5,
   ),
-  3075 => 
-  array (
-    'id' => 6977,
-    'name' => 'Red Hill',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.32624,
-    'longitude' => 149.11906,
-  ),
-  3076 => 
+  2919 => 
   array (
     'id' => 6978,
     'name' => 'Redan',
@@ -27694,7 +26281,7 @@ return array (
     'latitude' => -37.57649,
     'longitude' => 143.83862,
   ),
-  3077 => 
+  2920 => 
   array (
     'id' => 6979,
     'name' => 'Redbank',
@@ -27703,7 +26290,7 @@ return array (
     'latitude' => -27.6,
     'longitude' => 152.86667,
   ),
-  3078 => 
+  2921 => 
   array (
     'id' => 6980,
     'name' => 'Redbank Plains',
@@ -27712,7 +26299,7 @@ return array (
     'latitude' => -27.64613,
     'longitude' => 152.85965,
   ),
-  3079 => 
+  2922 => 
   array (
     'id' => 6981,
     'name' => 'Redcliffe',
@@ -27721,7 +26308,7 @@ return array (
     'latitude' => -31.93845,
     'longitude' => 115.94645,
   ),
-  3080 => 
+  2923 => 
   array (
     'id' => 6982,
     'name' => 'Redfern',
@@ -27730,7 +26317,7 @@ return array (
     'latitude' => -33.89279,
     'longitude' => 151.20415,
   ),
-  3081 => 
+  2924 => 
   array (
     'id' => 6983,
     'name' => 'Redhead',
@@ -27739,7 +26326,7 @@ return array (
     'latitude' => -33.01178,
     'longitude' => 151.71142,
   ),
-  3082 => 
+  2925 => 
   array (
     'id' => 6984,
     'name' => 'Redland',
@@ -27748,7 +26335,7 @@ return array (
     'latitude' => -27.53791,
     'longitude' => 153.24829,
   ),
-  3083 => 
+  2926 => 
   array (
     'id' => 6985,
     'name' => 'Redland Bay',
@@ -27757,7 +26344,7 @@ return array (
     'latitude' => -27.6113,
     'longitude' => 153.30022,
   ),
-  3084 => 
+  2927 => 
   array (
     'id' => 6986,
     'name' => 'Redlynch',
@@ -27766,7 +26353,7 @@ return array (
     'latitude' => -16.9254,
     'longitude' => 145.69559,
   ),
-  3085 => 
+  2928 => 
   array (
     'id' => 6987,
     'name' => 'Redwood Park',
@@ -27775,7 +26362,7 @@ return array (
     'latitude' => -34.81155,
     'longitude' => 138.70695,
   ),
-  3086 => 
+  2929 => 
   array (
     'id' => 6988,
     'name' => 'Reedy Creek',
@@ -27784,7 +26371,7 @@ return array (
     'latitude' => -28.11243,
     'longitude' => 153.39638,
   ),
-  3087 => 
+  2930 => 
   array (
     'id' => 6989,
     'name' => 'Regency Downs',
@@ -27793,7 +26380,7 @@ return array (
     'latitude' => -27.53359,
     'longitude' => 152.44049,
   ),
-  3088 => 
+  2931 => 
   array (
     'id' => 6990,
     'name' => 'Regents Park',
@@ -27802,16 +26389,7 @@ return array (
     'latitude' => -33.88333,
     'longitude' => 151.01667,
   ),
-  3089 => 
-  array (
-    'id' => 6991,
-    'name' => 'Regents Park',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.67664,
-    'longitude' => 153.04165,
-  ),
-  3090 => 
+  2932 => 
   array (
     'id' => 6992,
     'name' => 'Reid',
@@ -27820,7 +26398,7 @@ return array (
     'latitude' => -35.28578,
     'longitude' => 149.13905,
   ),
-  3091 => 
+  2933 => 
   array (
     'id' => 6993,
     'name' => 'Renmark',
@@ -27829,7 +26407,7 @@ return array (
     'latitude' => -34.17702,
     'longitude' => 140.74697,
   ),
-  3092 => 
+  2934 => 
   array (
     'id' => 6994,
     'name' => 'Renmark Paringa',
@@ -27838,7 +26416,7 @@ return array (
     'latitude' => -34.17485,
     'longitude' => 140.7486,
   ),
-  3093 => 
+  2935 => 
   array (
     'id' => 6995,
     'name' => 'Renmark West',
@@ -27847,7 +26425,7 @@ return array (
     'latitude' => -34.16531,
     'longitude' => 140.7097,
   ),
-  3094 => 
+  2936 => 
   array (
     'id' => 6996,
     'name' => 'Renown Park',
@@ -27856,7 +26434,7 @@ return array (
     'latitude' => -34.89174,
     'longitude' => 138.57729,
   ),
-  3095 => 
+  2937 => 
   array (
     'id' => 6997,
     'name' => 'Research',
@@ -27865,7 +26443,7 @@ return array (
     'latitude' => -37.7,
     'longitude' => 145.18333,
   ),
-  3096 => 
+  2938 => 
   array (
     'id' => 6998,
     'name' => 'Reservoir',
@@ -27874,7 +26452,7 @@ return array (
     'latitude' => -37.71667,
     'longitude' => 145.0,
   ),
-  3097 => 
+  2939 => 
   array (
     'id' => 6999,
     'name' => 'Revesby',
@@ -27883,7 +26461,7 @@ return array (
     'latitude' => -33.95,
     'longitude' => 151.01667,
   ),
-  3098 => 
+  2940 => 
   array (
     'id' => 7000,
     'name' => 'Revesby Heights',
@@ -27892,7 +26470,7 @@ return array (
     'latitude' => -33.9671,
     'longitude' => 151.01841,
   ),
-  3099 => 
+  2941 => 
   array (
     'id' => 7001,
     'name' => 'Reynella',
@@ -27901,7 +26479,7 @@ return array (
     'latitude' => -35.09372,
     'longitude' => 138.53082,
   ),
-  3100 => 
+  2942 => 
   array (
     'id' => 7002,
     'name' => 'Reynella East',
@@ -27910,7 +26488,7 @@ return array (
     'latitude' => -35.09197,
     'longitude' => 138.55742,
   ),
-  3101 => 
+  2943 => 
   array (
     'id' => 7003,
     'name' => 'Rhodes',
@@ -27919,7 +26497,7 @@ return array (
     'latitude' => -33.82663,
     'longitude' => 151.0881,
   ),
-  3102 => 
+  2944 => 
   array (
     'id' => 7004,
     'name' => 'Richardson',
@@ -27928,7 +26506,7 @@ return array (
     'latitude' => -35.42787,
     'longitude' => 149.11377,
   ),
-  3103 => 
+  2945 => 
   array (
     'id' => 7005,
     'name' => 'Richlands',
@@ -27937,7 +26515,7 @@ return array (
     'latitude' => -27.59616,
     'longitude' => 152.95321,
   ),
-  3104 => 
+  2946 => 
   array (
     'id' => 7006,
     'name' => 'Richmond',
@@ -27946,43 +26524,7 @@ return array (
     'latitude' => -33.59956,
     'longitude' => 150.75142,
   ),
-  3105 => 
-  array (
-    'id' => 7007,
-    'name' => 'Richmond',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -37.81819,
-    'longitude' => 145.00176,
-  ),
-  3106 => 
-  array (
-    'id' => 7008,
-    'name' => 'Richmond',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -20.56967,
-    'longitude' => 142.91384,
-  ),
-  3107 => 
-  array (
-    'id' => 7009,
-    'name' => 'Richmond',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -42.73554,
-    'longitude' => 147.43833,
-  ),
-  3108 => 
-  array (
-    'id' => 7010,
-    'name' => 'Richmond',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.94199,
-    'longitude' => 138.56322,
-  ),
-  3109 => 
+  2947 => 
   array (
     'id' => 7011,
     'name' => 'Richmond Valley',
@@ -27991,7 +26533,7 @@ return array (
     'latitude' => -29.02684,
     'longitude' => 153.08625,
   ),
-  3110 => 
+  2948 => 
   array (
     'id' => 7012,
     'name' => 'Ridgehaven',
@@ -28000,7 +26542,7 @@ return array (
     'latitude' => -34.82126,
     'longitude' => 138.70467,
   ),
-  3111 => 
+  2949 => 
   array (
     'id' => 7013,
     'name' => 'Ridgewood',
@@ -28009,7 +26551,7 @@ return array (
     'latitude' => -31.6615,
     'longitude' => 115.72261,
   ),
-  3112 => 
+  2950 => 
   array (
     'id' => 7014,
     'name' => 'Ridleyton',
@@ -28018,7 +26560,7 @@ return array (
     'latitude' => -34.8928,
     'longitude' => 138.57159,
   ),
-  3113 => 
+  2951 => 
   array (
     'id' => 7015,
     'name' => 'Ringwood',
@@ -28027,7 +26569,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.23333,
   ),
-  3114 => 
+  2952 => 
   array (
     'id' => 7016,
     'name' => 'Ringwood East',
@@ -28036,7 +26578,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.25,
   ),
-  3115 => 
+  2953 => 
   array (
     'id' => 7017,
     'name' => 'Ringwood North',
@@ -28045,7 +26587,7 @@ return array (
     'latitude' => -37.8,
     'longitude' => 145.23333,
   ),
-  3116 => 
+  2954 => 
   array (
     'id' => 7018,
     'name' => 'Ripponlea',
@@ -28054,7 +26596,7 @@ return array (
     'latitude' => -37.88333,
     'longitude' => 145.0,
   ),
-  3117 => 
+  2955 => 
   array (
     'id' => 7019,
     'name' => 'Risdon Park',
@@ -28063,7 +26605,7 @@ return array (
     'latitude' => -33.19661,
     'longitude' => 137.99399,
   ),
-  3118 => 
+  2956 => 
   array (
     'id' => 7020,
     'name' => 'Risdon Park South',
@@ -28072,7 +26614,7 @@ return array (
     'latitude' => -33.21104,
     'longitude' => 137.99498,
   ),
-  3119 => 
+  2957 => 
   array (
     'id' => 7021,
     'name' => 'Risdon Vale',
@@ -28081,7 +26623,7 @@ return array (
     'latitude' => -42.81242,
     'longitude' => 147.35654,
   ),
-  3120 => 
+  2958 => 
   array (
     'id' => 7022,
     'name' => 'River Heads',
@@ -28090,7 +26632,7 @@ return array (
     'latitude' => -25.41551,
     'longitude' => 152.91315,
   ),
-  3121 => 
+  2959 => 
   array (
     'id' => 7023,
     'name' => 'Riverhills',
@@ -28099,7 +26641,7 @@ return array (
     'latitude' => -27.55928,
     'longitude' => 152.91106,
   ),
-  3122 => 
+  2960 => 
   array (
     'id' => 7024,
     'name' => 'Riverside',
@@ -28108,7 +26650,7 @@ return array (
     'latitude' => -41.42105,
     'longitude' => 147.05086,
   ),
-  3123 => 
+  2961 => 
   array (
     'id' => 7025,
     'name' => 'Riverstone',
@@ -28117,7 +26659,7 @@ return array (
     'latitude' => -33.68333,
     'longitude' => 150.86667,
   ),
-  3124 => 
+  2962 => 
   array (
     'id' => 7026,
     'name' => 'Riverton',
@@ -28126,7 +26668,7 @@ return array (
     'latitude' => -32.03468,
     'longitude' => 115.89856,
   ),
-  3125 => 
+  2963 => 
   array (
     'id' => 7027,
     'name' => 'Rivervale',
@@ -28135,7 +26677,7 @@ return array (
     'latitude' => -31.95546,
     'longitude' => 115.91306,
   ),
-  3126 => 
+  2964 => 
   array (
     'id' => 7028,
     'name' => 'Riverview',
@@ -28144,16 +26686,7 @@ return array (
     'latitude' => -27.6,
     'longitude' => 152.85,
   ),
-  3127 => 
-  array (
-    'id' => 7029,
-    'name' => 'Riverview',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.82465,
-    'longitude' => 151.16243,
-  ),
-  3128 => 
+  2965 => 
   array (
     'id' => 7030,
     'name' => 'Riverwood',
@@ -28162,7 +26695,7 @@ return array (
     'latitude' => -33.94725,
     'longitude' => 151.04973,
   ),
-  3129 => 
+  2966 => 
   array (
     'id' => 7031,
     'name' => 'Rivett',
@@ -28171,7 +26704,7 @@ return array (
     'latitude' => -35.34709,
     'longitude' => 149.0379,
   ),
-  3130 => 
+  2967 => 
   array (
     'id' => 7032,
     'name' => 'Robe',
@@ -28180,7 +26713,7 @@ return array (
     'latitude' => -37.18616,
     'longitude' => 139.99003,
   ),
-  3131 => 
+  2968 => 
   array (
     'id' => 7033,
     'name' => 'Robertson',
@@ -28189,16 +26722,7 @@ return array (
     'latitude' => -27.56583,
     'longitude' => 153.05738,
   ),
-  3132 => 
-  array (
-    'id' => 7034,
-    'name' => 'Robertson',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.58742,
-    'longitude' => 150.59116,
-  ),
-  3133 => 
+  2969 => 
   array (
     'id' => 7035,
     'name' => 'Robina',
@@ -28207,7 +26731,7 @@ return array (
     'latitude' => -28.07071,
     'longitude' => 153.39329,
   ),
-  3134 => 
+  2970 => 
   array (
     'id' => 7036,
     'name' => 'Robinvale',
@@ -28216,7 +26740,7 @@ return array (
     'latitude' => -34.58356,
     'longitude' => 142.77228,
   ),
-  3135 => 
+  2971 => 
   array (
     'id' => 7037,
     'name' => 'Rochedale',
@@ -28225,7 +26749,7 @@ return array (
     'latitude' => -27.56667,
     'longitude' => 153.13333,
   ),
-  3136 => 
+  2972 => 
   array (
     'id' => 7038,
     'name' => 'Rochedale South',
@@ -28234,7 +26758,7 @@ return array (
     'latitude' => -27.59521,
     'longitude' => 153.12332,
   ),
-  3137 => 
+  2973 => 
   array (
     'id' => 7039,
     'name' => 'Rocherlea',
@@ -28243,7 +26767,7 @@ return array (
     'latitude' => -41.38083,
     'longitude' => 147.15738,
   ),
-  3138 => 
+  2974 => 
   array (
     'id' => 7040,
     'name' => 'Rochester',
@@ -28252,7 +26776,7 @@ return array (
     'latitude' => -36.36352,
     'longitude' => 144.70077,
   ),
-  3139 => 
+  2975 => 
   array (
     'id' => 7041,
     'name' => 'Rockbank',
@@ -28261,7 +26785,7 @@ return array (
     'latitude' => -37.73353,
     'longitude' => 144.67003,
   ),
-  3140 => 
+  2976 => 
   array (
     'id' => 7042,
     'name' => 'Rockdale',
@@ -28270,7 +26794,7 @@ return array (
     'latitude' => -33.96611,
     'longitude' => 151.14342,
   ),
-  3141 => 
+  2977 => 
   array (
     'id' => 7043,
     'name' => 'Rockhampton',
@@ -28279,7 +26803,7 @@ return array (
     'latitude' => -23.38032,
     'longitude' => 150.50595,
   ),
-  3142 => 
+  2978 => 
   array (
     'id' => 7044,
     'name' => 'Rockingham',
@@ -28288,7 +26812,7 @@ return array (
     'latitude' => -32.28239,
     'longitude' => 115.73238,
   ),
-  3143 => 
+  2979 => 
   array (
     'id' => 7045,
     'name' => 'Rockingham city centre',
@@ -28297,7 +26821,7 @@ return array (
     'latitude' => -32.28407,
     'longitude' => 115.7354,
   ),
-  3144 => 
+  2980 => 
   array (
     'id' => 7046,
     'name' => 'Rocklea',
@@ -28306,7 +26830,7 @@ return array (
     'latitude' => -27.53917,
     'longitude' => 153.00402,
   ),
-  3145 => 
+  2981 => 
   array (
     'id' => 7047,
     'name' => 'Rockville',
@@ -28315,7 +26839,7 @@ return array (
     'latitude' => -27.53611,
     'longitude' => 151.93805,
   ),
-  3146 => 
+  2982 => 
   array (
     'id' => 7048,
     'name' => 'Rodd Point',
@@ -28324,7 +26848,7 @@ return array (
     'latitude' => -33.86662,
     'longitude' => 151.13995,
   ),
-  3147 => 
+  2983 => 
   array (
     'id' => 7049,
     'name' => 'Roebuck',
@@ -28333,7 +26857,7 @@ return array (
     'latitude' => -18.1713,
     'longitude' => 122.50116,
   ),
-  3148 => 
+  2984 => 
   array (
     'id' => 7050,
     'name' => 'Rokeby',
@@ -28342,7 +26866,7 @@ return array (
     'latitude' => -42.89875,
     'longitude' => 147.44917,
   ),
-  3149 => 
+  2985 => 
   array (
     'id' => 7051,
     'name' => 'Roleystone',
@@ -28351,7 +26875,7 @@ return array (
     'latitude' => -32.11458,
     'longitude' => 116.0706,
   ),
-  3150 => 
+  2986 => 
   array (
     'id' => 7052,
     'name' => 'Roma',
@@ -28360,7 +26884,7 @@ return array (
     'latitude' => -26.56741,
     'longitude' => 148.78751,
   ),
-  3151 => 
+  2987 => 
   array (
     'id' => 7053,
     'name' => 'Romaine',
@@ -28369,7 +26893,7 @@ return array (
     'latitude' => -41.09944,
     'longitude' => 145.89376,
   ),
-  3152 => 
+  2988 => 
   array (
     'id' => 7054,
     'name' => 'Romsey',
@@ -28378,7 +26902,7 @@ return array (
     'latitude' => -37.35075,
     'longitude' => 144.743,
   ),
-  3153 => 
+  2989 => 
   array (
     'id' => 7055,
     'name' => 'Rooty Hill',
@@ -28387,7 +26911,7 @@ return array (
     'latitude' => -33.76667,
     'longitude' => 150.83333,
   ),
-  3154 => 
+  2990 => 
   array (
     'id' => 7056,
     'name' => 'Roper Gulf',
@@ -28396,7 +26920,7 @@ return array (
     'latitude' => -15.30564,
     'longitude' => 134.97356,
   ),
-  3155 => 
+  2991 => 
   array (
     'id' => 7057,
     'name' => 'Ropes Crossing',
@@ -28405,7 +26929,7 @@ return array (
     'latitude' => -33.73276,
     'longitude' => 150.79104,
   ),
-  3156 => 
+  2992 => 
   array (
     'id' => 7058,
     'name' => 'Rosanna',
@@ -28414,7 +26938,7 @@ return array (
     'latitude' => -37.73895,
     'longitude' => 145.06735,
   ),
-  3157 => 
+  2993 => 
   array (
     'id' => 7059,
     'name' => 'Rose Bay',
@@ -28423,7 +26947,7 @@ return array (
     'latitude' => -33.86877,
     'longitude' => 151.2706,
   ),
-  3158 => 
+  2994 => 
   array (
     'id' => 7060,
     'name' => 'Rose Park',
@@ -28432,7 +26956,7 @@ return array (
     'latitude' => -34.93039,
     'longitude' => 138.62825,
   ),
-  3159 => 
+  2995 => 
   array (
     'id' => 7061,
     'name' => 'Rosebery',
@@ -28441,7 +26965,7 @@ return array (
     'latitude' => -12.51046,
     'longitude' => 130.9878,
   ),
-  3160 => 
+  2996 => 
   array (
     'id' => 7062,
     'name' => 'Rosebud',
@@ -28450,7 +26974,7 @@ return array (
     'latitude' => -38.35542,
     'longitude' => 144.9068,
   ),
-  3161 => 
+  2997 => 
   array (
     'id' => 7063,
     'name' => 'Rosebud West',
@@ -28459,7 +26983,7 @@ return array (
     'latitude' => -38.36444,
     'longitude' => 144.87748,
   ),
-  3162 => 
+  2998 => 
   array (
     'id' => 7064,
     'name' => 'Rosedale',
@@ -28468,7 +26992,7 @@ return array (
     'latitude' => -38.15452,
     'longitude' => 146.7886,
   ),
-  3163 => 
+  2999 => 
   array (
     'id' => 7065,
     'name' => 'Rosehill',
@@ -28477,7 +27001,7 @@ return array (
     'latitude' => -33.82009,
     'longitude' => 151.0245,
   ),
-  3164 => 
+  3000 => 
   array (
     'id' => 7066,
     'name' => 'Roselands',
@@ -28486,7 +27010,7 @@ return array (
     'latitude' => -33.93317,
     'longitude' => 151.0732,
   ),
-  3165 => 
+  3001 => 
   array (
     'id' => 7067,
     'name' => 'Rosemeadow',
@@ -28495,7 +27019,7 @@ return array (
     'latitude' => -34.10414,
     'longitude' => 150.79282,
   ),
-  3166 => 
+  3002 => 
   array (
     'id' => 7068,
     'name' => 'Rosemount',
@@ -28504,7 +27028,7 @@ return array (
     'latitude' => -26.6303,
     'longitude' => 152.9997,
   ),
-  3167 => 
+  3003 => 
   array (
     'id' => 7069,
     'name' => 'Rosenthal Heights',
@@ -28513,7 +27037,7 @@ return array (
     'latitude' => -28.24013,
     'longitude' => 152.01327,
   ),
-  3168 => 
+  3004 => 
   array (
     'id' => 7070,
     'name' => 'Rosetta',
@@ -28522,7 +27046,7 @@ return array (
     'latitude' => -42.82105,
     'longitude' => 147.25258,
   ),
-  3169 => 
+  3005 => 
   array (
     'id' => 7071,
     'name' => 'Roseville',
@@ -28531,7 +27055,7 @@ return array (
     'latitude' => -33.78333,
     'longitude' => 151.18333,
   ),
-  3170 => 
+  3006 => 
   array (
     'id' => 7072,
     'name' => 'Roseville Chase',
@@ -28540,7 +27064,7 @@ return array (
     'latitude' => -33.77852,
     'longitude' => 151.19677,
   ),
-  3171 => 
+  3007 => 
   array (
     'id' => 7073,
     'name' => 'Rosewater',
@@ -28549,7 +27073,7 @@ return array (
     'latitude' => -34.852,
     'longitude' => 138.52158,
   ),
-  3172 => 
+  3008 => 
   array (
     'id' => 7074,
     'name' => 'Rosewood',
@@ -28558,7 +27082,7 @@ return array (
     'latitude' => -27.6335,
     'longitude' => 152.58949,
   ),
-  3173 => 
+  3009 => 
   array (
     'id' => 7075,
     'name' => 'Ross',
@@ -28567,7 +27091,7 @@ return array (
     'latitude' => -23.74424,
     'longitude' => 133.90358,
   ),
-  3174 => 
+  3010 => 
   array (
     'id' => 7076,
     'name' => 'Ross Creek',
@@ -28576,7 +27100,7 @@ return array (
     'latitude' => -37.65,
     'longitude' => 143.75,
   ),
-  3175 => 
+  3011 => 
   array (
     'id' => 7077,
     'name' => 'Rosslea',
@@ -28585,7 +27109,7 @@ return array (
     'latitude' => -19.29871,
     'longitude' => 146.79824,
   ),
-  3176 => 
+  3012 => 
   array (
     'id' => 7078,
     'name' => 'Rosslyn Park',
@@ -28594,7 +27118,7 @@ return array (
     'latitude' => -34.92194,
     'longitude' => 138.67553,
   ),
-  3177 => 
+  3013 => 
   array (
     'id' => 7079,
     'name' => 'Rossmoyne',
@@ -28603,7 +27127,7 @@ return array (
     'latitude' => -32.03965,
     'longitude' => 115.86781,
   ),
-  3178 => 
+  3014 => 
   array (
     'id' => 7080,
     'name' => 'Rostrevor',
@@ -28612,7 +27136,7 @@ return array (
     'latitude' => -34.89386,
     'longitude' => 138.69183,
   ),
-  3179 => 
+  3015 => 
   array (
     'id' => 7081,
     'name' => 'Rothwell',
@@ -28621,7 +27145,7 @@ return array (
     'latitude' => -27.21433,
     'longitude' => 153.04676,
   ),
-  3180 => 
+  3016 => 
   array (
     'id' => 7082,
     'name' => 'Rouse Hill',
@@ -28630,7 +27154,7 @@ return array (
     'latitude' => -33.68207,
     'longitude' => 150.9154,
   ),
-  3181 => 
+  3017 => 
   array (
     'id' => 7083,
     'name' => 'Rowville',
@@ -28639,7 +27163,7 @@ return array (
     'latitude' => -37.93333,
     'longitude' => 145.23333,
   ),
-  3182 => 
+  3018 => 
   array (
     'id' => 7084,
     'name' => 'Roxburgh Park',
@@ -28648,7 +27172,7 @@ return array (
     'latitude' => -37.62581,
     'longitude' => 144.92555,
   ),
-  3183 => 
+  3019 => 
   array (
     'id' => 7085,
     'name' => 'Roxby Downs',
@@ -28657,7 +27181,7 @@ return array (
     'latitude' => -30.54892,
     'longitude' => 136.88377,
   ),
-  3184 => 
+  3020 => 
   array (
     'id' => 7086,
     'name' => 'Royal Park',
@@ -28666,7 +27190,7 @@ return array (
     'latitude' => -34.87415,
     'longitude' => 138.51189,
   ),
-  3185 => 
+  3021 => 
   array (
     'id' => 7087,
     'name' => 'Royston Park',
@@ -28675,7 +27199,7 @@ return array (
     'latitude' => -34.89757,
     'longitude' => 138.6315,
   ),
-  3186 => 
+  3022 => 
   array (
     'id' => 7088,
     'name' => 'Rozelle',
@@ -28684,7 +27208,7 @@ return array (
     'latitude' => -33.86141,
     'longitude' => 151.1705,
   ),
-  3187 => 
+  3023 => 
   array (
     'id' => 7089,
     'name' => 'Runaway Bay',
@@ -28693,7 +27217,7 @@ return array (
     'latitude' => -27.91386,
     'longitude' => 153.39775,
   ),
-  3188 => 
+  3024 => 
   array (
     'id' => 7090,
     'name' => 'Runcorn',
@@ -28702,7 +27226,7 @@ return array (
     'latitude' => -27.59756,
     'longitude' => 153.07699,
   ),
-  3189 => 
+  3025 => 
   array (
     'id' => 7091,
     'name' => 'Rural View',
@@ -28711,7 +27235,7 @@ return array (
     'latitude' => -21.06447,
     'longitude' => 149.1646,
   ),
-  3190 => 
+  3026 => 
   array (
     'id' => 7092,
     'name' => 'Ruse',
@@ -28720,7 +27244,7 @@ return array (
     'latitude' => -34.06976,
     'longitude' => 150.84168,
   ),
-  3191 => 
+  3027 => 
   array (
     'id' => 7093,
     'name' => 'Rushcutters Bay',
@@ -28729,7 +27253,7 @@ return array (
     'latitude' => -33.8748,
     'longitude' => 151.22799,
   ),
-  3192 => 
+  3028 => 
   array (
     'id' => 7094,
     'name' => 'Rushworth',
@@ -28738,7 +27262,7 @@ return array (
     'latitude' => -36.58669,
     'longitude' => 145.0175,
   ),
-  3193 => 
+  3029 => 
   array (
     'id' => 7095,
     'name' => 'Russell Island',
@@ -28747,7 +27271,7 @@ return array (
     'latitude' => -27.64867,
     'longitude' => 153.38124,
   ),
-  3194 => 
+  3030 => 
   array (
     'id' => 7096,
     'name' => 'Russell Lea',
@@ -28756,7 +27280,7 @@ return array (
     'latitude' => -33.85889,
     'longitude' => 151.14111,
   ),
-  3195 => 
+  3031 => 
   array (
     'id' => 7097,
     'name' => 'Russell Vale',
@@ -28765,7 +27289,7 @@ return array (
     'latitude' => -34.35542,
     'longitude' => 150.89434,
   ),
-  3196 => 
+  3032 => 
   array (
     'id' => 7098,
     'name' => 'Rutherford',
@@ -28774,7 +27298,7 @@ return array (
     'latitude' => -32.71667,
     'longitude' => 151.53333,
   ),
-  3197 => 
+  3033 => 
   array (
     'id' => 7099,
     'name' => 'Rutherglen',
@@ -28783,7 +27307,7 @@ return array (
     'latitude' => -36.0543,
     'longitude' => 146.46212,
   ),
-  3198 => 
+  3034 => 
   array (
     'id' => 7100,
     'name' => 'Rydalmere',
@@ -28792,7 +27316,7 @@ return array (
     'latitude' => -33.81453,
     'longitude' => 151.03751,
   ),
-  3199 => 
+  3035 => 
   array (
     'id' => 7101,
     'name' => 'Ryde',
@@ -28801,7 +27325,7 @@ return array (
     'latitude' => -33.80149,
     'longitude' => 151.11205,
   ),
-  3200 => 
+  3036 => 
   array (
     'id' => 7102,
     'name' => 'Rye',
@@ -28810,7 +27334,7 @@ return array (
     'latitude' => -38.38528,
     'longitude' => 144.81221,
   ),
-  3201 => 
+  3037 => 
   array (
     'id' => 7103,
     'name' => 'Sadadeen',
@@ -28819,7 +27343,7 @@ return array (
     'latitude' => -23.70399,
     'longitude' => 133.90043,
   ),
-  3202 => 
+  3038 => 
   array (
     'id' => 7104,
     'name' => 'Sadleir',
@@ -28828,7 +27352,7 @@ return array (
     'latitude' => -33.91713,
     'longitude' => 150.89093,
   ),
-  3203 => 
+  3039 => 
   array (
     'id' => 7105,
     'name' => 'Sadliers Crossing',
@@ -28837,7 +27361,7 @@ return array (
     'latitude' => -27.61251,
     'longitude' => 152.74577,
   ),
-  3204 => 
+  3040 => 
   array (
     'id' => 7106,
     'name' => 'Safety Bay',
@@ -28846,7 +27370,7 @@ return array (
     'latitude' => -32.30463,
     'longitude' => 115.74213,
   ),
-  3205 => 
+  3041 => 
   array (
     'id' => 7107,
     'name' => 'Safety Beach',
@@ -28855,7 +27379,7 @@ return array (
     'latitude' => -38.31535,
     'longitude' => 145.00027,
   ),
-  3206 => 
+  3042 => 
   array (
     'id' => 7108,
     'name' => 'Saint Albans',
@@ -28864,7 +27388,7 @@ return array (
     'latitude' => -37.73333,
     'longitude' => 144.8,
   ),
-  3207 => 
+  3043 => 
   array (
     'id' => 7109,
     'name' => 'Saint Andrews',
@@ -28873,7 +27397,7 @@ return array (
     'latitude' => -37.60151,
     'longitude' => 145.27235,
   ),
-  3208 => 
+  3044 => 
   array (
     'id' => 7110,
     'name' => 'Saint Andrews Beach',
@@ -28882,7 +27406,7 @@ return array (
     'latitude' => -38.4141,
     'longitude' => 144.82436,
   ),
-  3209 => 
+  3045 => 
   array (
     'id' => 7111,
     'name' => 'Saint Helena',
@@ -28891,7 +27415,7 @@ return array (
     'latitude' => -37.7,
     'longitude' => 145.13333,
   ),
-  3210 => 
+  3046 => 
   array (
     'id' => 7112,
     'name' => 'Saint Ives',
@@ -28900,7 +27424,7 @@ return array (
     'latitude' => -33.72976,
     'longitude' => 151.15977,
   ),
-  3211 => 
+  3047 => 
   array (
     'id' => 7113,
     'name' => 'Saint Kilda',
@@ -28909,7 +27433,7 @@ return array (
     'latitude' => -37.8676,
     'longitude' => 144.98099,
   ),
-  3212 => 
+  3048 => 
   array (
     'id' => 7114,
     'name' => 'Saint Leonards',
@@ -28918,16 +27442,7 @@ return array (
     'latitude' => -38.17051,
     'longitude' => 144.71803,
   ),
-  3213 => 
-  array (
-    'id' => 7115,
-    'name' => 'Saint Leonards',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -41.45672,
-    'longitude' => 147.19952,
-  ),
-  3214 => 
+  3049 => 
   array (
     'id' => 7116,
     'name' => 'Saint Peters',
@@ -28936,7 +27451,7 @@ return array (
     'latitude' => -33.91667,
     'longitude' => 151.18333,
   ),
-  3215 => 
+  3050 => 
   array (
     'id' => 7117,
     'name' => 'Salamander Bay',
@@ -28945,7 +27460,7 @@ return array (
     'latitude' => -32.72253,
     'longitude' => 152.07945,
   ),
-  3216 => 
+  3051 => 
   array (
     'id' => 7118,
     'name' => 'Sale',
@@ -28954,7 +27469,7 @@ return array (
     'latitude' => -38.11095,
     'longitude' => 147.06802,
   ),
-  3217 => 
+  3052 => 
   array (
     'id' => 7119,
     'name' => 'Salisbury',
@@ -28963,16 +27478,7 @@ return array (
     'latitude' => -34.76827,
     'longitude' => 138.60831,
   ),
-  3218 => 
-  array (
-    'id' => 7120,
-    'name' => 'Salisbury',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.55145,
-    'longitude' => 153.0325,
-  ),
-  3219 => 
+  3053 => 
   array (
     'id' => 7121,
     'name' => 'Salisbury Downs',
@@ -28981,7 +27487,7 @@ return array (
     'latitude' => -34.76772,
     'longitude' => 138.6221,
   ),
-  3220 => 
+  3054 => 
   array (
     'id' => 7122,
     'name' => 'Salisbury East',
@@ -28990,7 +27496,7 @@ return array (
     'latitude' => -34.79052,
     'longitude' => 138.6545,
   ),
-  3221 => 
+  3055 => 
   array (
     'id' => 7123,
     'name' => 'Salisbury Heights',
@@ -28999,7 +27505,7 @@ return array (
     'latitude' => -34.7631,
     'longitude' => 138.67591,
   ),
-  3222 => 
+  3056 => 
   array (
     'id' => 7124,
     'name' => 'Salisbury North',
@@ -29008,7 +27514,7 @@ return array (
     'latitude' => -34.74956,
     'longitude' => 138.6206,
   ),
-  3223 => 
+  3057 => 
   array (
     'id' => 7125,
     'name' => 'Salisbury Park',
@@ -29017,7 +27523,7 @@ return array (
     'latitude' => -34.76155,
     'longitude' => 138.67029,
   ),
-  3224 => 
+  3058 => 
   array (
     'id' => 7126,
     'name' => 'Salisbury Plain',
@@ -29026,7 +27532,7 @@ return array (
     'latitude' => -34.77265,
     'longitude' => 138.6633,
   ),
-  3225 => 
+  3059 => 
   array (
     'id' => 7127,
     'name' => 'Salt Ash',
@@ -29035,7 +27541,7 @@ return array (
     'latitude' => -32.78333,
     'longitude' => 151.91667,
   ),
-  3226 => 
+  3060 => 
   array (
     'id' => 7128,
     'name' => 'Salter Point',
@@ -29044,7 +27550,7 @@ return array (
     'latitude' => -32.02384,
     'longitude' => 115.86582,
   ),
-  3227 => 
+  3061 => 
   array (
     'id' => 7129,
     'name' => 'Samford Valley',
@@ -29053,7 +27559,7 @@ return array (
     'latitude' => -27.3727,
     'longitude' => 152.86699,
   ),
-  3228 => 
+  3062 => 
   array (
     'id' => 7130,
     'name' => 'Samson',
@@ -29062,7 +27568,7 @@ return array (
     'latitude' => -32.06996,
     'longitude' => 115.7977,
   ),
-  3229 => 
+  3063 => 
   array (
     'id' => 7131,
     'name' => 'San Remo',
@@ -29071,16 +27577,7 @@ return array (
     'latitude' => -38.52547,
     'longitude' => 145.37616,
   ),
-  3230 => 
-  array (
-    'id' => 7132,
-    'name' => 'San Remo',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.21469,
-    'longitude' => 151.52102,
-  ),
-  3231 => 
+  3064 => 
   array (
     'id' => 7133,
     'name' => 'Sanctuary Point',
@@ -29089,7 +27586,7 @@ return array (
     'latitude' => -35.10361,
     'longitude' => 150.62667,
   ),
-  3232 => 
+  3065 => 
   array (
     'id' => 7134,
     'name' => 'Sandford',
@@ -29098,7 +27595,7 @@ return array (
     'latitude' => -42.93333,
     'longitude' => 147.5,
   ),
-  3233 => 
+  3066 => 
   array (
     'id' => 7135,
     'name' => 'Sandgate',
@@ -29107,7 +27604,7 @@ return array (
     'latitude' => -27.32198,
     'longitude' => 153.06951,
   ),
-  3234 => 
+  3067 => 
   array (
     'id' => 7136,
     'name' => 'Sandhurst',
@@ -29116,7 +27613,7 @@ return array (
     'latitude' => -38.081,
     'longitude' => 145.20767,
   ),
-  3235 => 
+  3068 => 
   array (
     'id' => 7137,
     'name' => 'Sandringham',
@@ -29125,16 +27622,7 @@ return array (
     'latitude' => -37.95218,
     'longitude' => 145.01129,
   ),
-  3236 => 
-  array (
-    'id' => 7138,
-    'name' => 'Sandringham',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.99447,
-    'longitude' => 151.13913,
-  ),
-  3237 => 
+  3069 => 
   array (
     'id' => 7139,
     'name' => 'Sandstone',
@@ -29143,7 +27631,7 @@ return array (
     'latitude' => -28.42189,
     'longitude' => 118.98846,
   ),
-  3238 => 
+  3070 => 
   array (
     'id' => 7140,
     'name' => 'Sandstone Point',
@@ -29152,7 +27640,7 @@ return array (
     'latitude' => -27.08374,
     'longitude' => 153.13235,
   ),
-  3239 => 
+  3071 => 
   array (
     'id' => 7141,
     'name' => 'Sandy Bay',
@@ -29161,7 +27649,7 @@ return array (
     'latitude' => -42.89449,
     'longitude' => 147.32439,
   ),
-  3240 => 
+  3072 => 
   array (
     'id' => 7142,
     'name' => 'Sandy Beach',
@@ -29170,7 +27658,7 @@ return array (
     'latitude' => -30.14681,
     'longitude' => 153.19238,
   ),
-  3241 => 
+  3073 => 
   array (
     'id' => 7143,
     'name' => 'Sans Souci',
@@ -29179,7 +27667,7 @@ return array (
     'latitude' => -33.9899,
     'longitude' => 151.13334,
   ),
-  3242 => 
+  3074 => 
   array (
     'id' => 7144,
     'name' => 'Sapphire Beach',
@@ -29188,7 +27676,7 @@ return array (
     'latitude' => -30.22614,
     'longitude' => 153.13628,
   ),
-  3243 => 
+  3075 => 
   array (
     'id' => 7145,
     'name' => 'Saratoga',
@@ -29197,7 +27685,7 @@ return array (
     'latitude' => -33.47564,
     'longitude' => 151.35207,
   ),
-  3244 => 
+  3076 => 
   array (
     'id' => 7146,
     'name' => 'Sarina',
@@ -29206,7 +27694,7 @@ return array (
     'latitude' => -21.4191,
     'longitude' => 149.21677,
   ),
-  3245 => 
+  3077 => 
   array (
     'id' => 7147,
     'name' => 'Sassafras',
@@ -29215,7 +27703,7 @@ return array (
     'latitude' => -37.86667,
     'longitude' => 145.35,
   ),
-  3246 => 
+  3078 => 
   array (
     'id' => 7148,
     'name' => 'Sawtell',
@@ -29224,7 +27712,7 @@ return array (
     'latitude' => -30.36459,
     'longitude' => 153.10141,
   ),
-  3247 => 
+  3079 => 
   array (
     'id' => 7149,
     'name' => 'Scarborough',
@@ -29233,16 +27721,7 @@ return array (
     'latitude' => -31.89578,
     'longitude' => 115.76431,
   ),
-  3248 => 
-  array (
-    'id' => 7150,
-    'name' => 'Scarborough',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.20118,
-    'longitude' => 153.10939,
-  ),
-  3249 => 
+  3080 => 
   array (
     'id' => 7151,
     'name' => 'Scarness',
@@ -29251,7 +27730,7 @@ return array (
     'latitude' => -25.28405,
     'longitude' => 152.856,
   ),
-  3250 => 
+  3081 => 
   array (
     'id' => 7152,
     'name' => 'Scenic Rim',
@@ -29260,7 +27739,7 @@ return array (
     'latitude' => -28.04021,
     'longitude' => 152.80688,
   ),
-  3251 => 
+  3082 => 
   array (
     'id' => 7153,
     'name' => 'Schofields',
@@ -29269,7 +27748,7 @@ return array (
     'latitude' => -33.71667,
     'longitude' => 150.86667,
   ),
-  3252 => 
+  3083 => 
   array (
     'id' => 7154,
     'name' => 'Scone',
@@ -29278,7 +27757,7 @@ return array (
     'latitude' => -32.05014,
     'longitude' => 150.86893,
   ),
-  3253 => 
+  3084 => 
   array (
     'id' => 7155,
     'name' => 'Scoresby',
@@ -29287,7 +27766,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.23333,
   ),
-  3254 => 
+  3085 => 
   array (
     'id' => 7156,
     'name' => 'Scottsdale',
@@ -29296,7 +27775,7 @@ return array (
     'latitude' => -41.1578,
     'longitude' => 147.51727,
   ),
-  3255 => 
+  3086 => 
   array (
     'id' => 7157,
     'name' => 'Scullin',
@@ -29305,7 +27784,7 @@ return array (
     'latitude' => -35.23462,
     'longitude' => 149.039,
   ),
-  3256 => 
+  3087 => 
   array (
     'id' => 7158,
     'name' => 'Seabrook',
@@ -29314,7 +27793,7 @@ return array (
     'latitude' => -37.88092,
     'longitude' => 144.75866,
   ),
-  3257 => 
+  3088 => 
   array (
     'id' => 7159,
     'name' => 'Seacliff',
@@ -29323,7 +27802,7 @@ return array (
     'latitude' => -35.03474,
     'longitude' => 138.52288,
   ),
-  3258 => 
+  3089 => 
   array (
     'id' => 7160,
     'name' => 'Seacliff Park',
@@ -29332,7 +27811,7 @@ return array (
     'latitude' => -35.02983,
     'longitude' => 138.53129,
   ),
-  3259 => 
+  3090 => 
   array (
     'id' => 7161,
     'name' => 'Seacombe Gardens',
@@ -29341,7 +27820,7 @@ return array (
     'latitude' => -35.02336,
     'longitude' => 138.5458,
   ),
-  3260 => 
+  3091 => 
   array (
     'id' => 7162,
     'name' => 'Seacombe Heights',
@@ -29350,7 +27829,7 @@ return array (
     'latitude' => -35.03264,
     'longitude' => 138.54584,
   ),
-  3261 => 
+  3092 => 
   array (
     'id' => 7163,
     'name' => 'Seaford',
@@ -29359,16 +27838,7 @@ return array (
     'latitude' => -38.1,
     'longitude' => 145.13333,
   ),
-  3262 => 
-  array (
-    'id' => 7164,
-    'name' => 'Seaford',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.1898,
-    'longitude' => 138.47589,
-  ),
-  3263 => 
+  3093 => 
   array (
     'id' => 7165,
     'name' => 'Seaford Meadows',
@@ -29377,7 +27847,7 @@ return array (
     'latitude' => -35.17276,
     'longitude' => 138.4879,
   ),
-  3264 => 
+  3094 => 
   array (
     'id' => 7166,
     'name' => 'Seaford Rise',
@@ -29386,7 +27856,7 @@ return array (
     'latitude' => -35.19296,
     'longitude' => 138.48172,
   ),
-  3265 => 
+  3095 => 
   array (
     'id' => 7167,
     'name' => 'Seaforth',
@@ -29395,7 +27865,7 @@ return array (
     'latitude' => -33.80145,
     'longitude' => 151.23981,
   ),
-  3266 => 
+  3096 => 
   array (
     'id' => 7168,
     'name' => 'Seaholme',
@@ -29404,7 +27874,7 @@ return array (
     'latitude' => -37.864,
     'longitude' => 144.84504,
   ),
-  3267 => 
+  3097 => 
   array (
     'id' => 7169,
     'name' => 'Seaton',
@@ -29413,7 +27883,7 @@ return array (
     'latitude' => -34.9,
     'longitude' => 138.51667,
   ),
-  3268 => 
+  3098 => 
   array (
     'id' => 7170,
     'name' => 'Seaview Downs',
@@ -29422,7 +27892,7 @@ return array (
     'latitude' => -35.03698,
     'longitude' => 138.53796,
   ),
-  3269 => 
+  3099 => 
   array (
     'id' => 7171,
     'name' => 'Sebastopol',
@@ -29431,7 +27901,7 @@ return array (
     'latitude' => -37.58532,
     'longitude' => 143.83953,
   ),
-  3270 => 
+  3100 => 
   array (
     'id' => 7172,
     'name' => 'Secret Harbour',
@@ -29440,7 +27910,7 @@ return array (
     'latitude' => -32.40589,
     'longitude' => 115.75852,
   ),
-  3271 => 
+  3101 => 
   array (
     'id' => 7173,
     'name' => 'Seddon',
@@ -29449,7 +27919,7 @@ return array (
     'latitude' => -37.80607,
     'longitude' => 144.8907,
   ),
-  3272 => 
+  3102 => 
   array (
     'id' => 7174,
     'name' => 'Sefton',
@@ -29458,7 +27928,7 @@ return array (
     'latitude' => -33.88773,
     'longitude' => 151.01053,
   ),
-  3273 => 
+  3103 => 
   array (
     'id' => 7175,
     'name' => 'Sefton Park',
@@ -29467,7 +27937,7 @@ return array (
     'latitude' => -34.87405,
     'longitude' => 138.60343,
   ),
-  3274 => 
+  3104 => 
   array (
     'id' => 7176,
     'name' => 'Selby',
@@ -29476,7 +27946,7 @@ return array (
     'latitude' => -37.91667,
     'longitude' => 145.38333,
   ),
-  3275 => 
+  3105 => 
   array (
     'id' => 7177,
     'name' => 'Sellicks Beach',
@@ -29485,7 +27955,7 @@ return array (
     'latitude' => -35.33869,
     'longitude' => 138.44734,
   ),
-  3276 => 
+  3106 => 
   array (
     'id' => 7178,
     'name' => 'Semaphore',
@@ -29494,7 +27964,7 @@ return array (
     'latitude' => -34.83934,
     'longitude' => 138.48228,
   ),
-  3277 => 
+  3107 => 
   array (
     'id' => 7179,
     'name' => 'Semaphore Park',
@@ -29503,7 +27973,7 @@ return array (
     'latitude' => -34.85072,
     'longitude' => 138.47889,
   ),
-  3278 => 
+  3108 => 
   array (
     'id' => 7180,
     'name' => 'Semaphore South',
@@ -29512,7 +27982,7 @@ return array (
     'latitude' => -34.84975,
     'longitude' => 138.47949,
   ),
-  3279 => 
+  3109 => 
   array (
     'id' => 7181,
     'name' => 'Serpentine',
@@ -29521,7 +27991,7 @@ return array (
     'latitude' => -32.36051,
     'longitude' => 115.97723,
   ),
-  3280 => 
+  3110 => 
   array (
     'id' => 7182,
     'name' => 'Serpentine-Jarrahdale',
@@ -29530,7 +28000,7 @@ return array (
     'latitude' => -32.32452,
     'longitude' => 116.04507,
   ),
-  3281 => 
+  3111 => 
   array (
     'id' => 7183,
     'name' => 'Seven Hills',
@@ -29539,16 +28009,7 @@ return array (
     'latitude' => -27.48341,
     'longitude' => 153.07474,
   ),
-  3282 => 
-  array (
-    'id' => 7184,
-    'name' => 'Seven Hills',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.78333,
-    'longitude' => 150.93333,
-  ),
-  3283 => 
+  3112 => 
   array (
     'id' => 7185,
     'name' => 'Seven Mile Beach',
@@ -29557,7 +28018,7 @@ return array (
     'latitude' => -42.85863,
     'longitude' => 147.50532,
   ),
-  3284 => 
+  3113 => 
   array (
     'id' => 7186,
     'name' => 'Seventeen Mile Rocks',
@@ -29566,7 +28027,7 @@ return array (
     'latitude' => -27.5507,
     'longitude' => 152.95896,
   ),
-  3285 => 
+  3114 => 
   array (
     'id' => 7187,
     'name' => 'Seville',
@@ -29575,7 +28036,7 @@ return array (
     'latitude' => -37.79802,
     'longitude' => 145.48763,
   ),
-  3286 => 
+  3115 => 
   array (
     'id' => 7188,
     'name' => 'Seville Grove',
@@ -29584,7 +28045,7 @@ return array (
     'latitude' => -32.13645,
     'longitude' => 115.98905,
   ),
-  3287 => 
+  3116 => 
   array (
     'id' => 7189,
     'name' => 'Seymour',
@@ -29593,7 +28054,7 @@ return array (
     'latitude' => -37.02655,
     'longitude' => 145.13924,
   ),
-  3288 => 
+  3117 => 
   array (
     'id' => 7190,
     'name' => 'Shailer Park',
@@ -29602,7 +28063,7 @@ return array (
     'latitude' => -27.6498,
     'longitude' => 153.17753,
   ),
-  3289 => 
+  3118 => 
   array (
     'id' => 7191,
     'name' => 'Shalvey',
@@ -29611,7 +28072,7 @@ return array (
     'latitude' => -33.72687,
     'longitude' => 150.80529,
   ),
-  3290 => 
+  3119 => 
   array (
     'id' => 7192,
     'name' => 'Shark Bay',
@@ -29620,7 +28081,7 @@ return array (
     'latitude' => -26.38916,
     'longitude' => 114.21845,
   ),
-  3291 => 
+  3120 => 
   array (
     'id' => 7193,
     'name' => 'Sharon',
@@ -29629,7 +28090,7 @@ return array (
     'latitude' => -24.87593,
     'longitude' => 152.26994,
   ),
-  3292 => 
+  3121 => 
   array (
     'id' => 7194,
     'name' => 'Shearwater',
@@ -29638,7 +28099,7 @@ return array (
     'latitude' => -41.15673,
     'longitude' => 146.53178,
   ),
-  3293 => 
+  3122 => 
   array (
     'id' => 7195,
     'name' => 'Sheffield',
@@ -29647,7 +28108,7 @@ return array (
     'latitude' => -41.39947,
     'longitude' => 146.33897,
   ),
-  3294 => 
+  3123 => 
   array (
     'id' => 7196,
     'name' => 'Sheidow Park',
@@ -29656,7 +28117,7 @@ return array (
     'latitude' => -35.07928,
     'longitude' => 138.52738,
   ),
-  3295 => 
+  3124 => 
   array (
     'id' => 7197,
     'name' => 'Sheldon',
@@ -29665,7 +28126,7 @@ return array (
     'latitude' => -27.58436,
     'longitude' => 153.20042,
   ),
-  3296 => 
+  3125 => 
   array (
     'id' => 7198,
     'name' => 'Shell Cove',
@@ -29674,7 +28135,7 @@ return array (
     'latitude' => -34.58994,
     'longitude' => 150.86203,
   ),
-  3297 => 
+  3126 => 
   array (
     'id' => 7199,
     'name' => 'Shelley',
@@ -29683,7 +28144,7 @@ return array (
     'latitude' => -32.02957,
     'longitude' => 115.88664,
   ),
-  3298 => 
+  3127 => 
   array (
     'id' => 7200,
     'name' => 'Shellharbour',
@@ -29692,7 +28153,7 @@ return array (
     'latitude' => -34.58333,
     'longitude' => 150.86667,
   ),
-  3299 => 
+  3128 => 
   array (
     'id' => 7201,
     'name' => 'Shelly Beach',
@@ -29701,7 +28162,7 @@ return array (
     'latitude' => -33.36999,
     'longitude' => 151.48522,
   ),
-  3300 => 
+  3129 => 
   array (
     'id' => 7202,
     'name' => 'Shenton Park',
@@ -29710,7 +28171,7 @@ return array (
     'latitude' => -31.95575,
     'longitude' => 115.79807,
   ),
-  3301 => 
+  3130 => 
   array (
     'id' => 7203,
     'name' => 'Shepparton',
@@ -29719,7 +28180,7 @@ return array (
     'latitude' => -36.38047,
     'longitude' => 145.39867,
   ),
-  3302 => 
+  3131 => 
   array (
     'id' => 7204,
     'name' => 'Shepparton East',
@@ -29728,7 +28189,7 @@ return array (
     'latitude' => -36.40156,
     'longitude' => 145.47765,
   ),
-  3303 => 
+  3132 => 
   array (
     'id' => 7205,
     'name' => 'Shoal Bay',
@@ -29737,7 +28198,7 @@ return array (
     'latitude' => -32.72231,
     'longitude' => 152.17498,
   ),
-  3304 => 
+  3133 => 
   array (
     'id' => 7206,
     'name' => 'Shoalhaven Heads',
@@ -29746,7 +28207,7 @@ return array (
     'latitude' => -34.85086,
     'longitude' => 150.74512,
   ),
-  3305 => 
+  3134 => 
   array (
     'id' => 7207,
     'name' => 'Shoalhaven Shire',
@@ -29755,7 +28216,7 @@ return array (
     'latitude' => -35.14162,
     'longitude' => 150.41295,
   ),
-  3306 => 
+  3135 => 
   array (
     'id' => 7208,
     'name' => 'Shoalwater',
@@ -29764,7 +28225,7 @@ return array (
     'latitude' => -32.29088,
     'longitude' => 115.71101,
   ),
-  3307 => 
+  3136 => 
   array (
     'id' => 7209,
     'name' => 'Shorewell Park',
@@ -29773,7 +28234,7 @@ return array (
     'latitude' => -41.0699,
     'longitude' => 145.87689,
   ),
-  3308 => 
+  3137 => 
   array (
     'id' => 7210,
     'name' => 'Shorncliffe',
@@ -29782,7 +28243,7 @@ return array (
     'latitude' => -27.32759,
     'longitude' => 153.08161,
   ),
-  3309 => 
+  3138 => 
   array (
     'id' => 7211,
     'name' => 'Shortland',
@@ -29791,7 +28252,7 @@ return array (
     'latitude' => -32.87883,
     'longitude' => 151.69105,
   ),
-  3310 => 
+  3139 => 
   array (
     'id' => 7212,
     'name' => 'Silkstone',
@@ -29800,7 +28261,7 @@ return array (
     'latitude' => -27.62126,
     'longitude' => 152.78768,
   ),
-  3311 => 
+  3140 => 
   array (
     'id' => 7213,
     'name' => 'Silvan',
@@ -29809,7 +28270,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.41667,
   ),
-  3312 => 
+  3141 => 
   array (
     'id' => 7214,
     'name' => 'Silver Sands',
@@ -29818,7 +28279,7 @@ return array (
     'latitude' => -32.50857,
     'longitude' => 115.73599,
   ),
-  3313 => 
+  3142 => 
   array (
     'id' => 7215,
     'name' => 'Silverdale',
@@ -29827,7 +28288,7 @@ return array (
     'latitude' => -33.9152,
     'longitude' => 150.6096,
   ),
-  3314 => 
+  3143 => 
   array (
     'id' => 7216,
     'name' => 'Silverwater',
@@ -29836,7 +28297,7 @@ return array (
     'latitude' => -33.83343,
     'longitude' => 151.04731,
   ),
-  3315 => 
+  3144 => 
   array (
     'id' => 7217,
     'name' => 'Sinagra',
@@ -29845,7 +28306,7 @@ return array (
     'latitude' => -31.74261,
     'longitude' => 115.80633,
   ),
-  3316 => 
+  3145 => 
   array (
     'id' => 7218,
     'name' => 'Singleton',
@@ -29854,16 +28315,7 @@ return array (
     'latitude' => -32.44403,
     'longitude' => 115.75725,
   ),
-  3317 => 
-  array (
-    'id' => 7219,
-    'name' => 'Singleton',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.60547,
-    'longitude' => 150.91872,
-  ),
-  3318 => 
+  3146 => 
   array (
     'id' => 7220,
     'name' => 'Singleton Heights',
@@ -29872,7 +28324,7 @@ return array (
     'latitude' => -32.5416,
     'longitude' => 151.16089,
   ),
-  3319 => 
+  3147 => 
   array (
     'id' => 7221,
     'name' => 'Sinnamon Park',
@@ -29881,7 +28333,7 @@ return array (
     'latitude' => -27.54436,
     'longitude' => 152.9489,
   ),
-  3320 => 
+  3148 => 
   array (
     'id' => 7222,
     'name' => 'Sippy Downs',
@@ -29890,7 +28342,7 @@ return array (
     'latitude' => -26.71793,
     'longitude' => 153.05475,
   ),
-  3321 => 
+  3149 => 
   array (
     'id' => 7223,
     'name' => 'Skennars Head',
@@ -29899,7 +28351,7 @@ return array (
     'latitude' => -28.82888,
     'longitude' => 153.60209,
   ),
-  3322 => 
+  3150 => 
   array (
     'id' => 7224,
     'name' => 'Skye',
@@ -29908,7 +28360,7 @@ return array (
     'latitude' => -38.10505,
     'longitude' => 145.2163,
   ),
-  3323 => 
+  3151 => 
   array (
     'id' => 7225,
     'name' => 'Slacks Creek',
@@ -29917,7 +28369,7 @@ return array (
     'latitude' => -27.65,
     'longitude' => 153.15,
   ),
-  3324 => 
+  3152 => 
   array (
     'id' => 7226,
     'name' => 'Slade Point',
@@ -29926,7 +28378,7 @@ return array (
     'latitude' => -21.075,
     'longitude' => 149.225,
   ),
-  3325 => 
+  3153 => 
   array (
     'id' => 7227,
     'name' => 'Smithfield',
@@ -29935,16 +28387,7 @@ return array (
     'latitude' => -34.68333,
     'longitude' => 138.68333,
   ),
-  3326 => 
-  array (
-    'id' => 7228,
-    'name' => 'Smithfield',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.85,
-    'longitude' => 150.93333,
-  ),
-  3327 => 
+  3154 => 
   array (
     'id' => 7229,
     'name' => 'Smithfield Plains',
@@ -29953,7 +28396,7 @@ return array (
     'latitude' => -34.67643,
     'longitude' => 138.67785,
   ),
-  3328 => 
+  3155 => 
   array (
     'id' => 7230,
     'name' => 'Smiths Lake',
@@ -29962,7 +28405,7 @@ return array (
     'latitude' => -32.38043,
     'longitude' => 152.50337,
   ),
-  3329 => 
+  3156 => 
   array (
     'id' => 7231,
     'name' => 'Smithton',
@@ -29971,7 +28414,7 @@ return array (
     'latitude' => -40.84587,
     'longitude' => 145.12498,
   ),
-  3330 => 
+  3157 => 
   array (
     'id' => 7232,
     'name' => 'Smythes Creek',
@@ -29980,7 +28423,7 @@ return array (
     'latitude' => -37.6,
     'longitude' => 143.78333,
   ),
-  3331 => 
+  3158 => 
   array (
     'id' => 7233,
     'name' => 'Smythesdale',
@@ -29989,7 +28432,7 @@ return array (
     'latitude' => -37.64308,
     'longitude' => 143.68617,
   ),
-  3332 => 
+  3159 => 
   array (
     'id' => 7234,
     'name' => 'Snug',
@@ -29998,7 +28441,7 @@ return array (
     'latitude' => -43.06669,
     'longitude' => 147.25468,
   ),
-  3333 => 
+  3160 => 
   array (
     'id' => 7235,
     'name' => 'Soldiers Hill',
@@ -30007,16 +28450,7 @@ return array (
     'latitude' => -37.54962,
     'longitude' => 143.85872,
   ),
-  3334 => 
-  array (
-    'id' => 7236,
-    'name' => 'Soldiers Hill',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -20.70533,
-    'longitude' => 139.48988,
-  ),
-  3335 => 
+  3161 => 
   array (
     'id' => 7237,
     'name' => 'Soldiers Point',
@@ -30025,7 +28459,7 @@ return array (
     'latitude' => -32.7105,
     'longitude' => 152.06979,
   ),
-  3336 => 
+  3162 => 
   array (
     'id' => 7238,
     'name' => 'Solomontown',
@@ -30034,7 +28468,7 @@ return array (
     'latitude' => -33.1853,
     'longitude' => 138.02364,
   ),
-  3337 => 
+  3163 => 
   array (
     'id' => 7239,
     'name' => 'Somers',
@@ -30043,7 +28477,7 @@ return array (
     'latitude' => -38.38134,
     'longitude' => 145.15898,
   ),
-  3338 => 
+  3164 => 
   array (
     'id' => 7240,
     'name' => 'Somersby',
@@ -30052,7 +28486,7 @@ return array (
     'latitude' => -33.36667,
     'longitude' => 151.28333,
   ),
-  3339 => 
+  3165 => 
   array (
     'id' => 7241,
     'name' => 'Somerset',
@@ -30061,16 +28495,7 @@ return array (
     'latitude' => -27.01133,
     'longitude' => 152.41521,
   ),
-  3340 => 
-  array (
-    'id' => 7242,
-    'name' => 'Somerset',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -41.04065,
-    'longitude' => 145.83055,
-  ),
-  3341 => 
+  3166 => 
   array (
     'id' => 7243,
     'name' => 'Somerton Park',
@@ -30079,7 +28504,7 @@ return array (
     'latitude' => -34.99705,
     'longitude' => 138.52155,
   ),
-  3342 => 
+  3167 => 
   array (
     'id' => 7244,
     'name' => 'Somerville',
@@ -30088,16 +28513,7 @@ return array (
     'latitude' => -38.21667,
     'longitude' => 145.16667,
   ),
-  3343 => 
-  array (
-    'id' => 7245,
-    'name' => 'Somerville',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -30.76979,
-    'longitude' => 121.45438,
-  ),
-  3344 => 
+  3168 => 
   array (
     'id' => 7246,
     'name' => 'Sorell',
@@ -30106,7 +28522,7 @@ return array (
     'latitude' => -42.78908,
     'longitude' => 147.69488,
   ),
-  3345 => 
+  3169 => 
   array (
     'id' => 7247,
     'name' => 'Sorrento',
@@ -30115,16 +28531,7 @@ return array (
     'latitude' => -38.33958,
     'longitude' => 144.74126,
   ),
-  3346 => 
-  array (
-    'id' => 7248,
-    'name' => 'Sorrento',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.82533,
-    'longitude' => 115.75248,
-  ),
-  3347 => 
+  3170 => 
   array (
     'id' => 7249,
     'name' => 'South Albury',
@@ -30133,7 +28540,7 @@ return array (
     'latitude' => -36.08654,
     'longitude' => 146.90905,
   ),
-  3348 => 
+  3171 => 
   array (
     'id' => 7250,
     'name' => 'South Bathurst',
@@ -30142,7 +28549,7 @@ return array (
     'latitude' => -33.43839,
     'longitude' => 149.57203,
   ),
-  3349 => 
+  3172 => 
   array (
     'id' => 7251,
     'name' => 'South Bowenfels',
@@ -30151,7 +28558,7 @@ return array (
     'latitude' => -33.51667,
     'longitude' => 150.11667,
   ),
-  3350 => 
+  3173 => 
   array (
     'id' => 7252,
     'name' => 'South Brighton',
@@ -30160,7 +28567,7 @@ return array (
     'latitude' => -35.02765,
     'longitude' => 138.52798,
   ),
-  3351 => 
+  3174 => 
   array (
     'id' => 7253,
     'name' => 'South Brisbane',
@@ -30169,7 +28576,7 @@ return array (
     'latitude' => -27.48034,
     'longitude' => 153.02049,
   ),
-  3352 => 
+  3175 => 
   array (
     'id' => 7254,
     'name' => 'South Bunbury',
@@ -30178,7 +28585,7 @@ return array (
     'latitude' => -33.3491,
     'longitude' => 115.63359,
   ),
-  3353 => 
+  3176 => 
   array (
     'id' => 7255,
     'name' => 'South Burnett',
@@ -30187,7 +28594,7 @@ return array (
     'latitude' => -26.40077,
     'longitude' => 151.60166,
   ),
-  3354 => 
+  3177 => 
   array (
     'id' => 7256,
     'name' => 'South Carnarvon',
@@ -30196,7 +28603,7 @@ return array (
     'latitude' => -24.89348,
     'longitude' => 113.65846,
   ),
-  3355 => 
+  3178 => 
   array (
     'id' => 7257,
     'name' => 'South Coogee',
@@ -30205,7 +28612,7 @@ return array (
     'latitude' => -33.93106,
     'longitude' => 151.25599,
   ),
-  3356 => 
+  3179 => 
   array (
     'id' => 7258,
     'name' => 'South Fremantle',
@@ -30214,7 +28621,7 @@ return array (
     'latitude' => -32.06907,
     'longitude' => 115.75453,
   ),
-  3357 => 
+  3180 => 
   array (
     'id' => 7259,
     'name' => 'South Gippsland',
@@ -30223,7 +28630,7 @@ return array (
     'latitude' => -38.69897,
     'longitude' => 146.06702,
   ),
-  3358 => 
+  3181 => 
   array (
     'id' => 7260,
     'name' => 'South Gladstone',
@@ -30232,7 +28639,7 @@ return array (
     'latitude' => -23.86221,
     'longitude' => 151.26801,
   ),
-  3359 => 
+  3182 => 
   array (
     'id' => 7261,
     'name' => 'South Grafton',
@@ -30241,7 +28648,7 @@ return array (
     'latitude' => -29.7076,
     'longitude' => 152.92627,
   ),
-  3360 => 
+  3183 => 
   array (
     'id' => 7262,
     'name' => 'South Granville',
@@ -30250,7 +28657,7 @@ return array (
     'latitude' => -33.85864,
     'longitude' => 151.01066,
   ),
-  3361 => 
+  3184 => 
   array (
     'id' => 7263,
     'name' => 'South Guildford',
@@ -30259,7 +28666,7 @@ return array (
     'latitude' => -31.9122,
     'longitude' => 115.96825,
   ),
-  3362 => 
+  3185 => 
   array (
     'id' => 7264,
     'name' => 'South Hedland',
@@ -30268,7 +28675,7 @@ return array (
     'latitude' => -20.40655,
     'longitude' => 118.60069,
   ),
-  3363 => 
+  3186 => 
   array (
     'id' => 7265,
     'name' => 'South Hobart',
@@ -30277,7 +28684,7 @@ return array (
     'latitude' => -42.89459,
     'longitude' => 147.30924,
   ),
-  3364 => 
+  3187 => 
   array (
     'id' => 7266,
     'name' => 'South Hurstville',
@@ -30286,7 +28693,7 @@ return array (
     'latitude' => -33.97756,
     'longitude' => 151.1055,
   ),
-  3365 => 
+  3188 => 
   array (
     'id' => 7267,
     'name' => 'South Kalgoorlie',
@@ -30295,7 +28702,7 @@ return array (
     'latitude' => -30.76507,
     'longitude' => 121.47334,
   ),
-  3366 => 
+  3189 => 
   array (
     'id' => 7268,
     'name' => 'South Kempsey',
@@ -30304,7 +28711,7 @@ return array (
     'latitude' => -31.12302,
     'longitude' => 152.83253,
   ),
-  3367 => 
+  3190 => 
   array (
     'id' => 7269,
     'name' => 'South Kingsville',
@@ -30313,7 +28720,7 @@ return array (
     'latitude' => -37.83018,
     'longitude' => 144.8709,
   ),
-  3368 => 
+  3191 => 
   array (
     'id' => 7270,
     'name' => 'South Kolan',
@@ -30322,7 +28729,7 @@ return array (
     'latitude' => -24.93202,
     'longitude' => 152.1679,
   ),
-  3369 => 
+  3192 => 
   array (
     'id' => 7271,
     'name' => 'South Lake',
@@ -30331,7 +28738,7 @@ return array (
     'latitude' => -32.11125,
     'longitude' => 115.83873,
   ),
-  3370 => 
+  3193 => 
   array (
     'id' => 7272,
     'name' => 'South Launceston',
@@ -30340,7 +28747,7 @@ return array (
     'latitude' => -41.45506,
     'longitude' => 147.14556,
   ),
-  3371 => 
+  3194 => 
   array (
     'id' => 7273,
     'name' => 'South Lismore',
@@ -30349,7 +28756,7 @@ return array (
     'latitude' => -28.81629,
     'longitude' => 153.25619,
   ),
-  3372 => 
+  3195 => 
   array (
     'id' => 7274,
     'name' => 'South Mackay',
@@ -30358,7 +28765,7 @@ return array (
     'latitude' => -21.16288,
     'longitude' => 149.17751,
   ),
-  3373 => 
+  3196 => 
   array (
     'id' => 7275,
     'name' => 'South Maclean',
@@ -30367,7 +28774,7 @@ return array (
     'latitude' => -27.79245,
     'longitude' => 153.01603,
   ),
-  3374 => 
+  3197 => 
   array (
     'id' => 7276,
     'name' => 'South Melbourne',
@@ -30376,7 +28783,7 @@ return array (
     'latitude' => -37.83333,
     'longitude' => 144.96667,
   ),
-  3375 => 
+  3198 => 
   array (
     'id' => 7277,
     'name' => 'South Morang',
@@ -30385,7 +28792,7 @@ return array (
     'latitude' => -37.65,
     'longitude' => 145.1,
   ),
-  3376 => 
+  3199 => 
   array (
     'id' => 7278,
     'name' => 'South Murwillumbah',
@@ -30394,7 +28801,7 @@ return array (
     'latitude' => -28.33895,
     'longitude' => 153.40004,
   ),
-  3377 => 
+  3200 => 
   array (
     'id' => 7279,
     'name' => 'South Nowra',
@@ -30403,7 +28810,7 @@ return array (
     'latitude' => -34.90332,
     'longitude' => 150.59827,
   ),
-  3378 => 
+  3201 => 
   array (
     'id' => 7280,
     'name' => 'South Penrith',
@@ -30412,7 +28819,7 @@ return array (
     'latitude' => -33.77349,
     'longitude' => 150.69466,
   ),
-  3379 => 
+  3202 => 
   array (
     'id' => 7281,
     'name' => 'South Perth',
@@ -30421,7 +28828,7 @@ return array (
     'latitude' => -31.99884,
     'longitude' => 115.87222,
   ),
-  3380 => 
+  3203 => 
   array (
     'id' => 7282,
     'name' => 'South Plympton',
@@ -30430,7 +28837,7 @@ return array (
     'latitude' => -34.97682,
     'longitude' => 138.55588,
   ),
-  3381 => 
+  3204 => 
   array (
     'id' => 7283,
     'name' => 'South Tamworth',
@@ -30439,7 +28846,7 @@ return array (
     'latitude' => -31.11,
     'longitude' => 150.92254,
   ),
-  3382 => 
+  3205 => 
   array (
     'id' => 7284,
     'name' => 'South Toowoomba',
@@ -30448,7 +28855,7 @@ return array (
     'latitude' => -27.57101,
     'longitude' => 151.9465,
   ),
-  3383 => 
+  3206 => 
   array (
     'id' => 7285,
     'name' => 'South Townsville',
@@ -30457,7 +28864,7 @@ return array (
     'latitude' => -19.26618,
     'longitude' => 146.83331,
   ),
-  3384 => 
+  3207 => 
   array (
     'id' => 7286,
     'name' => 'South Turramurra',
@@ -30466,7 +28873,7 @@ return array (
     'latitude' => -33.74941,
     'longitude' => 151.11257,
   ),
-  3385 => 
+  3208 => 
   array (
     'id' => 7287,
     'name' => 'South Wentworthville',
@@ -30475,7 +28882,7 @@ return array (
     'latitude' => -33.8185,
     'longitude' => 150.96344,
   ),
-  3386 => 
+  3209 => 
   array (
     'id' => 7288,
     'name' => 'South West Rocks',
@@ -30484,7 +28891,7 @@ return array (
     'latitude' => -30.88553,
     'longitude' => 153.04126,
   ),
-  3387 => 
+  3210 => 
   array (
     'id' => 7289,
     'name' => 'South Windsor',
@@ -30493,7 +28900,7 @@ return array (
     'latitude' => -33.61808,
     'longitude' => 150.80443,
   ),
-  3388 => 
+  3211 => 
   array (
     'id' => 7290,
     'name' => 'South Yarra',
@@ -30502,7 +28909,7 @@ return array (
     'latitude' => -37.83834,
     'longitude' => 144.99149,
   ),
-  3389 => 
+  3212 => 
   array (
     'id' => 7291,
     'name' => 'South Yunderup',
@@ -30511,7 +28918,7 @@ return array (
     'latitude' => -32.5851,
     'longitude' => 115.78015,
   ),
-  3390 => 
+  3213 => 
   array (
     'id' => 7292,
     'name' => 'Southbank',
@@ -30520,7 +28927,7 @@ return array (
     'latitude' => -37.8228,
     'longitude' => 144.96434,
   ),
-  3391 => 
+  3214 => 
   array (
     'id' => 7293,
     'name' => 'Southern Downs',
@@ -30529,7 +28936,7 @@ return array (
     'latitude' => -28.50265,
     'longitude' => 151.92165,
   ),
-  3392 => 
+  3215 => 
   array (
     'id' => 7294,
     'name' => 'Southern Grampians',
@@ -30538,7 +28945,7 @@ return array (
     'latitude' => -37.52989,
     'longitude' => 142.02533,
   ),
-  3393 => 
+  3216 => 
   array (
     'id' => 7295,
     'name' => 'Southern Mallee',
@@ -30547,7 +28954,7 @@ return array (
     'latitude' => -35.36733,
     'longitude' => 140.5203,
   ),
-  3394 => 
+  3217 => 
   array (
     'id' => 7296,
     'name' => 'Southern Midlands',
@@ -30556,7 +28963,7 @@ return array (
     'latitude' => -42.41785,
     'longitude' => 147.43414,
   ),
-  3395 => 
+  3218 => 
   array (
     'id' => 7297,
     'name' => 'Southern River',
@@ -30565,7 +28972,7 @@ return array (
     'latitude' => -32.10658,
     'longitude' => 115.95896,
   ),
-  3396 => 
+  3219 => 
   array (
     'id' => 7298,
     'name' => 'Southport',
@@ -30574,7 +28981,7 @@ return array (
     'latitude' => -27.96724,
     'longitude' => 153.39796,
   ),
-  3397 => 
+  3220 => 
   array (
     'id' => 7299,
     'name' => 'Southside',
@@ -30583,7 +28990,7 @@ return array (
     'latitude' => -26.20997,
     'longitude' => 152.64719,
   ),
-  3398 => 
+  3221 => 
   array (
     'id' => 7300,
     'name' => 'Spalding',
@@ -30592,7 +28999,7 @@ return array (
     'latitude' => -28.73525,
     'longitude' => 114.63651,
   ),
-  3399 => 
+  3222 => 
   array (
     'id' => 7301,
     'name' => 'Spearwood',
@@ -30601,7 +29008,7 @@ return array (
     'latitude' => -32.10534,
     'longitude' => 115.77797,
   ),
-  3400 => 
+  3223 => 
   array (
     'id' => 7302,
     'name' => 'Speers Point',
@@ -30610,7 +29017,7 @@ return array (
     'latitude' => -32.96383,
     'longitude' => 151.62618,
   ),
-  3401 => 
+  3224 => 
   array (
     'id' => 7303,
     'name' => 'Spence',
@@ -30619,7 +29026,7 @@ return array (
     'latitude' => -35.19873,
     'longitude' => 149.06438,
   ),
-  3402 => 
+  3225 => 
   array (
     'id' => 7304,
     'name' => 'Spencer Park',
@@ -30628,7 +29035,7 @@ return array (
     'latitude' => -35.00515,
     'longitude' => 117.90005,
   ),
-  3403 => 
+  3226 => 
   array (
     'id' => 7305,
     'name' => 'Spotswood',
@@ -30637,7 +29044,7 @@ return array (
     'latitude' => -37.82975,
     'longitude' => 144.88516,
   ),
-  3404 => 
+  3227 => 
   array (
     'id' => 7306,
     'name' => 'Spreyton',
@@ -30646,7 +29053,7 @@ return array (
     'latitude' => -41.23524,
     'longitude' => 146.35108,
   ),
-  3405 => 
+  3228 => 
   array (
     'id' => 7307,
     'name' => 'Spring Farm',
@@ -30655,7 +29062,7 @@ return array (
     'latitude' => -34.06851,
     'longitude' => 150.71182,
   ),
-  3406 => 
+  3229 => 
   array (
     'id' => 7308,
     'name' => 'Spring Hill',
@@ -30664,7 +29071,7 @@ return array (
     'latitude' => -27.46141,
     'longitude' => 153.02311,
   ),
-  3407 => 
+  3230 => 
   array (
     'id' => 7309,
     'name' => 'Springdale Heights',
@@ -30673,7 +29080,7 @@ return array (
     'latitude' => -36.03095,
     'longitude' => 146.94783,
   ),
-  3408 => 
+  3231 => 
   array (
     'id' => 7310,
     'name' => 'Springfield',
@@ -30682,7 +29089,7 @@ return array (
     'latitude' => -27.65365,
     'longitude' => 152.91716,
   ),
-  3409 => 
+  3232 => 
   array (
     'id' => 7311,
     'name' => 'Springfield Lakes',
@@ -30691,7 +29098,7 @@ return array (
     'latitude' => -27.66757,
     'longitude' => 152.92488,
   ),
-  3410 => 
+  3233 => 
   array (
     'id' => 7312,
     'name' => 'Springsure',
@@ -30700,7 +29107,7 @@ return array (
     'latitude' => -24.11478,
     'longitude' => 148.08849,
   ),
-  3411 => 
+  3234 => 
   array (
     'id' => 7313,
     'name' => 'Springvale',
@@ -30709,16 +29116,7 @@ return array (
     'latitude' => -37.94853,
     'longitude' => 145.15274,
   ),
-  3412 => 
-  array (
-    'id' => 7314,
-    'name' => 'Springvale',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.16687,
-    'longitude' => 147.33058,
-  ),
-  3413 => 
+  3235 => 
   array (
     'id' => 7315,
     'name' => 'Springvale South',
@@ -30727,7 +29125,7 @@ return array (
     'latitude' => -37.96667,
     'longitude' => 145.15,
   ),
-  3414 => 
+  3236 => 
   array (
     'id' => 7316,
     'name' => 'Springwood',
@@ -30736,16 +29134,7 @@ return array (
     'latitude' => -27.61183,
     'longitude' => 153.12899,
   ),
-  3415 => 
-  array (
-    'id' => 7317,
-    'name' => 'Springwood',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.7,
-    'longitude' => 150.55,
-  ),
-  3416 => 
+  3237 => 
   array (
     'id' => 7318,
     'name' => 'St Agnes',
@@ -30754,7 +29143,7 @@ return array (
     'latitude' => -34.83075,
     'longitude' => 138.71074,
   ),
-  3417 => 
+  3238 => 
   array (
     'id' => 7319,
     'name' => 'St Albans Park',
@@ -30763,7 +29152,7 @@ return array (
     'latitude' => -38.18802,
     'longitude' => 144.39207,
   ),
-  3418 => 
+  3239 => 
   array (
     'id' => 7320,
     'name' => 'St Andrews',
@@ -30772,7 +29161,7 @@ return array (
     'latitude' => -34.02243,
     'longitude' => 150.82958,
   ),
-  3419 => 
+  3240 => 
   array (
     'id' => 7321,
     'name' => 'St Clair',
@@ -30781,7 +29170,7 @@ return array (
     'latitude' => -33.79728,
     'longitude' => 150.7847,
   ),
-  3420 => 
+  3241 => 
   array (
     'id' => 7322,
     'name' => 'St George',
@@ -30790,7 +29179,7 @@ return array (
     'latitude' => -27.94763,
     'longitude' => 148.60986,
   ),
-  3421 => 
+  3242 => 
   array (
     'id' => 7323,
     'name' => 'St George Ranges',
@@ -30799,7 +29188,7 @@ return array (
     'latitude' => -18.98204,
     'longitude' => 125.00873,
   ),
-  3422 => 
+  3243 => 
   array (
     'id' => 7324,
     'name' => 'St Georges',
@@ -30808,7 +29197,7 @@ return array (
     'latitude' => -34.952,
     'longitude' => 138.64787,
   ),
-  3423 => 
+  3244 => 
   array (
     'id' => 7325,
     'name' => 'St Helena',
@@ -30817,7 +29206,7 @@ return array (
     'latitude' => -37.68988,
     'longitude' => 145.12315,
   ),
-  3424 => 
+  3245 => 
   array (
     'id' => 7326,
     'name' => 'St Helens',
@@ -30826,7 +29215,7 @@ return array (
     'latitude' => -41.32028,
     'longitude' => 148.23889,
   ),
-  3425 => 
+  3246 => 
   array (
     'id' => 7327,
     'name' => 'St Helens Park',
@@ -30835,7 +29224,7 @@ return array (
     'latitude' => -34.10474,
     'longitude' => 150.81368,
   ),
-  3426 => 
+  3247 => 
   array (
     'id' => 7328,
     'name' => 'St Huberts Island',
@@ -30844,7 +29233,7 @@ return array (
     'latitude' => -33.49562,
     'longitude' => 151.34616,
   ),
-  3427 => 
+  3248 => 
   array (
     'id' => 7329,
     'name' => 'St Ives Chase',
@@ -30853,7 +29242,7 @@ return array (
     'latitude' => -33.70381,
     'longitude' => 151.1646,
   ),
-  3428 => 
+  3249 => 
   array (
     'id' => 7330,
     'name' => 'St James',
@@ -30862,7 +29251,7 @@ return array (
     'latitude' => -32.00004,
     'longitude' => 115.9098,
   ),
-  3429 => 
+  3250 => 
   array (
     'id' => 7331,
     'name' => 'St Johns Park',
@@ -30871,7 +29260,7 @@ return array (
     'latitude' => -33.88295,
     'longitude' => 150.90182,
   ),
-  3430 => 
+  3251 => 
   array (
     'id' => 7332,
     'name' => 'St Kilda East',
@@ -30880,7 +29269,7 @@ return array (
     'latitude' => -37.86594,
     'longitude' => 145.00018,
   ),
-  3431 => 
+  3252 => 
   array (
     'id' => 7333,
     'name' => 'St Kilda West',
@@ -30889,7 +29278,7 @@ return array (
     'latitude' => -37.85988,
     'longitude' => 144.97108,
   ),
-  3432 => 
+  3253 => 
   array (
     'id' => 7334,
     'name' => 'St Leonards',
@@ -30898,7 +29287,7 @@ return array (
     'latitude' => -33.82344,
     'longitude' => 151.19836,
   ),
-  3433 => 
+  3254 => 
   array (
     'id' => 7335,
     'name' => 'St Marys',
@@ -30907,7 +29296,7 @@ return array (
     'latitude' => -35.00423,
     'longitude' => 138.57983,
   ),
-  3434 => 
+  3255 => 
   array (
     'id' => 7336,
     'name' => 'St Morris',
@@ -30916,7 +29305,7 @@ return array (
     'latitude' => -34.91107,
     'longitude' => 138.6536,
   ),
-  3435 => 
+  3256 => 
   array (
     'id' => 7337,
     'name' => 'St Peters',
@@ -30925,7 +29314,7 @@ return array (
     'latitude' => -34.90498,
     'longitude' => 138.62255,
   ),
-  3436 => 
+  3257 => 
   array (
     'id' => 7338,
     'name' => 'St. Georges Basin',
@@ -30934,7 +29323,7 @@ return array (
     'latitude' => -35.08986,
     'longitude' => 150.59801,
   ),
-  3437 => 
+  3258 => 
   array (
     'id' => 7339,
     'name' => 'Stafford',
@@ -30943,7 +29332,7 @@ return array (
     'latitude' => -27.41044,
     'longitude' => 153.01105,
   ),
-  3438 => 
+  3259 => 
   array (
     'id' => 7340,
     'name' => 'Stafford Heights',
@@ -30952,7 +29341,7 @@ return array (
     'latitude' => -27.39354,
     'longitude' => 153.0105,
   ),
-  3439 => 
+  3260 => 
   array (
     'id' => 7341,
     'name' => 'Stanhope Gardens',
@@ -30961,7 +29350,7 @@ return array (
     'latitude' => -33.72206,
     'longitude' => 150.92597,
   ),
-  3440 => 
+  3261 => 
   array (
     'id' => 7342,
     'name' => 'Stanmore',
@@ -30970,7 +29359,7 @@ return array (
     'latitude' => -33.89407,
     'longitude' => 151.16424,
   ),
-  3441 => 
+  3262 => 
   array (
     'id' => 7343,
     'name' => 'Stanthorpe',
@@ -30979,7 +29368,7 @@ return array (
     'latitude' => -28.65425,
     'longitude' => 151.93388,
   ),
-  3442 => 
+  3263 => 
   array (
     'id' => 7344,
     'name' => 'Stanwell Park',
@@ -30988,7 +29377,7 @@ return array (
     'latitude' => -34.2261,
     'longitude' => 150.98583,
   ),
-  3443 => 
+  3264 => 
   array (
     'id' => 7345,
     'name' => 'Stawell',
@@ -30997,7 +29386,7 @@ return array (
     'latitude' => -37.05632,
     'longitude' => 142.78088,
   ),
-  3444 => 
+  3265 => 
   array (
     'id' => 7346,
     'name' => 'Stirling',
@@ -31006,25 +29395,7 @@ return array (
     'latitude' => -35.0022,
     'longitude' => 138.71956,
   ),
-  3445 => 
-  array (
-    'id' => 7347,
-    'name' => 'Stirling',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.8794,
-    'longitude' => 115.80929,
-  ),
-  3446 => 
-  array (
-    'id' => 7348,
-    'name' => 'Stirling',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -35.34969,
-    'longitude' => 149.0493,
-  ),
-  3447 => 
+  3266 => 
   array (
     'id' => 7349,
     'name' => 'Stirling North',
@@ -31033,7 +29404,7 @@ return array (
     'latitude' => -32.47986,
     'longitude' => 137.83804,
   ),
-  3448 => 
+  3267 => 
   array (
     'id' => 7350,
     'name' => 'Stockton',
@@ -31042,7 +29413,7 @@ return array (
     'latitude' => -32.90908,
     'longitude' => 151.7836,
   ),
-  3449 => 
+  3268 => 
   array (
     'id' => 7351,
     'name' => 'Stoneville',
@@ -31051,7 +29422,7 @@ return array (
     'latitude' => -30.86667,
     'longitude' => 121.76667,
   ),
-  3450 => 
+  3269 => 
   array (
     'id' => 7352,
     'name' => 'Stonnington',
@@ -31060,7 +29431,7 @@ return array (
     'latitude' => -37.8613,
     'longitude' => 145.03776,
   ),
-  3451 => 
+  3270 => 
   array (
     'id' => 7353,
     'name' => 'Stonyfell',
@@ -31069,7 +29440,7 @@ return array (
     'latitude' => -34.93422,
     'longitude' => 138.67674,
   ),
-  3452 => 
+  3271 => 
   array (
     'id' => 7354,
     'name' => 'Stratford',
@@ -31078,7 +29449,7 @@ return array (
     'latitude' => -37.9634,
     'longitude' => 147.0826,
   ),
-  3453 => 
+  3272 => 
   array (
     'id' => 7355,
     'name' => 'Strathalbyn',
@@ -31087,16 +29458,7 @@ return array (
     'latitude' => -35.25979,
     'longitude' => 138.89247,
   ),
-  3454 => 
-  array (
-    'id' => 7356,
-    'name' => 'Strathalbyn',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -28.75168,
-    'longitude' => 114.64576,
-  ),
-  3455 => 
+  3273 => 
   array (
     'id' => 7357,
     'name' => 'Strathbogie',
@@ -31105,7 +29467,7 @@ return array (
     'latitude' => -36.72402,
     'longitude' => 145.32938,
   ),
-  3456 => 
+  3274 => 
   array (
     'id' => 7358,
     'name' => 'Strathdale',
@@ -31114,7 +29476,7 @@ return array (
     'latitude' => -36.76572,
     'longitude' => 144.31548,
   ),
-  3457 => 
+  3275 => 
   array (
     'id' => 7359,
     'name' => 'Strathfield',
@@ -31123,7 +29485,7 @@ return array (
     'latitude' => -33.87978,
     'longitude' => 151.07561,
   ),
-  3458 => 
+  3276 => 
   array (
     'id' => 7360,
     'name' => 'Strathfield South',
@@ -31132,7 +29494,7 @@ return array (
     'latitude' => -33.89252,
     'longitude' => 151.08334,
   ),
-  3459 => 
+  3277 => 
   array (
     'id' => 7361,
     'name' => 'Strathfieldsaye',
@@ -31141,7 +29503,7 @@ return array (
     'latitude' => -36.80667,
     'longitude' => 144.35487,
   ),
-  3460 => 
+  3278 => 
   array (
     'id' => 7362,
     'name' => 'Strathmerton',
@@ -31150,7 +29512,7 @@ return array (
     'latitude' => -35.92533,
     'longitude' => 145.47865,
   ),
-  3461 => 
+  3279 => 
   array (
     'id' => 7363,
     'name' => 'Strathmore',
@@ -31159,7 +29521,7 @@ return array (
     'latitude' => -37.73563,
     'longitude' => 144.92065,
   ),
-  3462 => 
+  3280 => 
   array (
     'id' => 7364,
     'name' => 'Strathpine',
@@ -31168,7 +29530,7 @@ return array (
     'latitude' => -27.30414,
     'longitude' => 152.98977,
   ),
-  3463 => 
+  3281 => 
   array (
     'id' => 7365,
     'name' => 'Stratton',
@@ -31177,7 +29539,7 @@ return array (
     'latitude' => -31.86828,
     'longitude' => 116.04066,
   ),
-  3464 => 
+  3282 => 
   array (
     'id' => 7366,
     'name' => 'Streaky Bay',
@@ -31186,7 +29548,7 @@ return array (
     'latitude' => -32.73808,
     'longitude' => 134.55116,
   ),
-  3465 => 
+  3283 => 
   array (
     'id' => 7367,
     'name' => 'Stretton',
@@ -31195,7 +29557,7 @@ return array (
     'latitude' => -27.62205,
     'longitude' => 153.06609,
   ),
-  3466 => 
+  3284 => 
   array (
     'id' => 7368,
     'name' => 'Stuart',
@@ -31204,7 +29566,7 @@ return array (
     'latitude' => -19.34702,
     'longitude' => 146.84378,
   ),
-  3467 => 
+  3285 => 
   array (
     'id' => 7369,
     'name' => 'Stuart Park',
@@ -31213,7 +29575,7 @@ return array (
     'latitude' => -12.4486,
     'longitude' => 130.84249,
   ),
-  3468 => 
+  3286 => 
   array (
     'id' => 7370,
     'name' => 'Sturt',
@@ -31222,7 +29584,7 @@ return array (
     'latitude' => -35.02303,
     'longitude' => 138.55476,
   ),
-  3469 => 
+  3287 => 
   array (
     'id' => 7371,
     'name' => 'Subiaco',
@@ -31231,7 +29593,7 @@ return array (
     'latitude' => -31.95964,
     'longitude' => 115.81564,
   ),
-  3470 => 
+  3288 => 
   array (
     'id' => 7372,
     'name' => 'Success',
@@ -31240,7 +29602,7 @@ return array (
     'latitude' => -32.14281,
     'longitude' => 115.84999,
   ),
-  3471 => 
+  3289 => 
   array (
     'id' => 7373,
     'name' => 'Suffolk Park',
@@ -31249,7 +29611,7 @@ return array (
     'latitude' => -28.6881,
     'longitude' => 153.60977,
   ),
-  3472 => 
+  3290 => 
   array (
     'id' => 7374,
     'name' => 'Summer Hill',
@@ -31258,7 +29620,7 @@ return array (
     'latitude' => -33.89146,
     'longitude' => 151.13825,
   ),
-  3473 => 
+  3291 => 
   array (
     'id' => 7375,
     'name' => 'Summerhill',
@@ -31267,7 +29629,7 @@ return array (
     'latitude' => -41.46747,
     'longitude' => 147.12796,
   ),
-  3474 => 
+  3292 => 
   array (
     'id' => 7376,
     'name' => 'Summerland Point',
@@ -31276,7 +29638,7 @@ return array (
     'latitude' => -33.14091,
     'longitude' => 151.56561,
   ),
-  3475 => 
+  3293 => 
   array (
     'id' => 7377,
     'name' => 'Sun Valley',
@@ -31285,7 +29647,7 @@ return array (
     'latitude' => -23.87516,
     'longitude' => 151.25752,
   ),
-  3476 => 
+  3294 => 
   array (
     'id' => 7378,
     'name' => 'Sunbury',
@@ -31294,7 +29656,7 @@ return array (
     'latitude' => -37.57742,
     'longitude' => 144.72607,
   ),
-  3477 => 
+  3295 => 
   array (
     'id' => 7379,
     'name' => 'Sunnybank',
@@ -31303,7 +29665,7 @@ return array (
     'latitude' => -27.58003,
     'longitude' => 153.06064,
   ),
-  3478 => 
+  3296 => 
   array (
     'id' => 7380,
     'name' => 'Sunnybank Hills',
@@ -31312,7 +29674,7 @@ return array (
     'latitude' => -27.61025,
     'longitude' => 153.05388,
   ),
-  3479 => 
+  3297 => 
   array (
     'id' => 7381,
     'name' => 'Sunrise Beach',
@@ -31321,7 +29683,7 @@ return array (
     'latitude' => -26.41646,
     'longitude' => 153.10305,
   ),
-  3480 => 
+  3298 => 
   array (
     'id' => 7382,
     'name' => 'Sunset',
@@ -31330,7 +29692,7 @@ return array (
     'latitude' => -20.71026,
     'longitude' => 139.50824,
   ),
-  3481 => 
+  3299 => 
   array (
     'id' => 7383,
     'name' => 'Sunset Beach',
@@ -31339,7 +29701,7 @@ return array (
     'latitude' => -28.71907,
     'longitude' => 114.62297,
   ),
-  3482 => 
+  3300 => 
   array (
     'id' => 7384,
     'name' => 'Sunshine',
@@ -31348,7 +29710,7 @@ return array (
     'latitude' => -37.78333,
     'longitude' => 144.83333,
   ),
-  3483 => 
+  3301 => 
   array (
     'id' => 7385,
     'name' => 'Sunshine Bay',
@@ -31357,7 +29719,7 @@ return array (
     'latitude' => -35.7454,
     'longitude' => 150.20792,
   ),
-  3484 => 
+  3302 => 
   array (
     'id' => 7386,
     'name' => 'Sunshine Beach',
@@ -31366,7 +29728,7 @@ return array (
     'latitude' => -26.40579,
     'longitude' => 153.10779,
   ),
-  3485 => 
+  3303 => 
   array (
     'id' => 7387,
     'name' => 'Sunshine Coast',
@@ -31375,7 +29737,7 @@ return array (
     'latitude' => -26.56098,
     'longitude' => 152.85113,
   ),
-  3486 => 
+  3304 => 
   array (
     'id' => 7388,
     'name' => 'Sunshine North',
@@ -31384,7 +29746,7 @@ return array (
     'latitude' => -37.76987,
     'longitude' => 144.82787,
   ),
-  3487 => 
+  3305 => 
   array (
     'id' => 7389,
     'name' => 'Sunshine West',
@@ -31393,7 +29755,7 @@ return array (
     'latitude' => -37.79117,
     'longitude' => 144.81637,
   ),
-  3488 => 
+  3306 => 
   array (
     'id' => 7390,
     'name' => 'Surf Coast',
@@ -31402,7 +29764,7 @@ return array (
     'latitude' => -38.33997,
     'longitude' => 144.1153,
   ),
-  3489 => 
+  3307 => 
   array (
     'id' => 7391,
     'name' => 'Surfers Paradise',
@@ -31411,7 +29773,7 @@ return array (
     'latitude' => -28.00274,
     'longitude' => 153.42999,
   ),
-  3490 => 
+  3308 => 
   array (
     'id' => 7392,
     'name' => 'Surfside',
@@ -31420,7 +29782,7 @@ return array (
     'latitude' => -35.69531,
     'longitude' => 150.19949,
   ),
-  3491 => 
+  3309 => 
   array (
     'id' => 7393,
     'name' => 'Surrey Downs',
@@ -31429,7 +29791,7 @@ return array (
     'latitude' => -34.79951,
     'longitude' => 138.71154,
   ),
-  3492 => 
+  3310 => 
   array (
     'id' => 7394,
     'name' => 'Surrey Hills',
@@ -31438,7 +29800,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 145.1,
   ),
-  3493 => 
+  3311 => 
   array (
     'id' => 7395,
     'name' => 'Surry Hills',
@@ -31447,7 +29809,7 @@ return array (
     'latitude' => -33.88374,
     'longitude' => 151.21282,
   ),
-  3494 => 
+  3312 => 
   array (
     'id' => 7396,
     'name' => 'Sussex Inlet',
@@ -31456,7 +29818,7 @@ return array (
     'latitude' => -35.15671,
     'longitude' => 150.58533,
   ),
-  3495 => 
+  3313 => 
   array (
     'id' => 7397,
     'name' => 'Sutherland',
@@ -31465,7 +29827,7 @@ return array (
     'latitude' => -34.031,
     'longitude' => 151.05532,
   ),
-  3496 => 
+  3314 => 
   array (
     'id' => 7398,
     'name' => 'Sutherland Shire',
@@ -31474,7 +29836,7 @@ return array (
     'latitude' => -34.07202,
     'longitude' => 151.07712,
   ),
-  3497 => 
+  3315 => 
   array (
     'id' => 7399,
     'name' => 'Sutton',
@@ -31483,7 +29845,7 @@ return array (
     'latitude' => -35.16667,
     'longitude' => 149.25,
   ),
-  3498 => 
+  3316 => 
   array (
     'id' => 7400,
     'name' => 'Svensson Heights',
@@ -31492,7 +29854,7 @@ return array (
     'latitude' => -24.88566,
     'longitude' => 152.33183,
   ),
-  3499 => 
+  3317 => 
   array (
     'id' => 7401,
     'name' => 'Swan',
@@ -31501,7 +29863,7 @@ return array (
     'latitude' => -31.77039,
     'longitude' => 116.08746,
   ),
-  3500 => 
+  3318 => 
   array (
     'id' => 7402,
     'name' => 'Swan Hill',
@@ -31510,7 +29872,7 @@ return array (
     'latitude' => -35.10061,
     'longitude' => 143.1681,
   ),
-  3501 => 
+  3319 => 
   array (
     'id' => 7403,
     'name' => 'Swan View',
@@ -31519,7 +29881,7 @@ return array (
     'latitude' => -31.88333,
     'longitude' => 116.05,
   ),
-  3502 => 
+  3320 => 
   array (
     'id' => 7404,
     'name' => 'Swanbourne',
@@ -31528,7 +29890,7 @@ return array (
     'latitude' => -31.96878,
     'longitude' => 115.7673,
   ),
-  3503 => 
+  3321 => 
   array (
     'id' => 7405,
     'name' => 'Swansea',
@@ -31537,7 +29899,7 @@ return array (
     'latitude' => -33.08765,
     'longitude' => 151.63745,
   ),
-  3504 => 
+  3322 => 
   array (
     'id' => 7406,
     'name' => 'Sydenham',
@@ -31546,16 +29908,7 @@ return array (
     'latitude' => -37.7,
     'longitude' => 144.76667,
   ),
-  3505 => 
-  array (
-    'id' => 7407,
-    'name' => 'Sydenham',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.91669,
-    'longitude' => 151.16798,
-  ),
-  3506 => 
+  3323 => 
   array (
     'id' => 7408,
     'name' => 'Sydney',
@@ -31564,7 +29917,7 @@ return array (
     'latitude' => -33.86785,
     'longitude' => 151.20732,
   ),
-  3507 => 
+  3324 => 
   array (
     'id' => 7409,
     'name' => 'Sydney Central Business District',
@@ -31573,7 +29926,7 @@ return array (
     'latitude' => -33.86482,
     'longitude' => 151.20773,
   ),
-  3508 => 
+  3325 => 
   array (
     'id' => 7410,
     'name' => 'Sydney Olympic Park',
@@ -31582,7 +29935,7 @@ return array (
     'latitude' => -33.84983,
     'longitude' => 151.06828,
   ),
-  3509 => 
+  3326 => 
   array (
     'id' => 7411,
     'name' => 'Sylvania',
@@ -31591,7 +29944,7 @@ return array (
     'latitude' => -34.01242,
     'longitude' => 151.09718,
   ),
-  3510 => 
+  3327 => 
   array (
     'id' => 7412,
     'name' => 'Sylvania Waters',
@@ -31600,7 +29953,7 @@ return array (
     'latitude' => -34.01868,
     'longitude' => 151.1086,
   ),
-  3511 => 
+  3328 => 
   array (
     'id' => 7413,
     'name' => 'Table Top',
@@ -31609,7 +29962,7 @@ return array (
     'latitude' => -35.96667,
     'longitude' => 147.0,
   ),
-  3512 => 
+  3329 => 
   array (
     'id' => 7414,
     'name' => 'Tahmoor',
@@ -31618,7 +29971,7 @@ return array (
     'latitude' => -34.22246,
     'longitude' => 150.59467,
   ),
-  3513 => 
+  3330 => 
   array (
     'id' => 7415,
     'name' => 'Taigum',
@@ -31627,7 +29980,7 @@ return array (
     'latitude' => -27.34265,
     'longitude' => 153.04444,
   ),
-  3514 => 
+  3331 => 
   array (
     'id' => 7416,
     'name' => 'Tailem Bend',
@@ -31636,7 +29989,7 @@ return array (
     'latitude' => -35.25226,
     'longitude' => 139.45546,
   ),
-  3515 => 
+  3332 => 
   array (
     'id' => 7417,
     'name' => 'Tallai',
@@ -31645,7 +29998,7 @@ return array (
     'latitude' => -28.06407,
     'longitude' => 153.32589,
   ),
-  3516 => 
+  3333 => 
   array (
     'id' => 7418,
     'name' => 'Tallangatta',
@@ -31654,7 +30007,7 @@ return array (
     'latitude' => -36.21791,
     'longitude' => 147.17699,
   ),
-  3517 => 
+  3334 => 
   array (
     'id' => 7419,
     'name' => 'Tallebudgera',
@@ -31663,7 +30016,7 @@ return array (
     'latitude' => -28.15,
     'longitude' => 153.43333,
   ),
-  3518 => 
+  3335 => 
   array (
     'id' => 7420,
     'name' => 'Tallebudgera Valley',
@@ -31672,7 +30025,7 @@ return array (
     'latitude' => -28.1927,
     'longitude' => 153.35489,
   ),
-  3519 => 
+  3336 => 
   array (
     'id' => 7421,
     'name' => 'Tamarama',
@@ -31681,7 +30034,7 @@ return array (
     'latitude' => -33.89835,
     'longitude' => 151.27059,
   ),
-  3520 => 
+  3337 => 
   array (
     'id' => 7422,
     'name' => 'Tamborine',
@@ -31690,7 +30043,7 @@ return array (
     'latitude' => -27.88333,
     'longitude' => 153.13333,
   ),
-  3521 => 
+  3338 => 
   array (
     'id' => 7423,
     'name' => 'Tamborine Mountain',
@@ -31699,7 +30052,7 @@ return array (
     'latitude' => -27.96954,
     'longitude' => 153.19937,
   ),
-  3522 => 
+  3339 => 
   array (
     'id' => 7424,
     'name' => 'Tammin',
@@ -31708,7 +30061,7 @@ return array (
     'latitude' => -31.60512,
     'longitude' => 117.48306,
   ),
-  3523 => 
+  3340 => 
   array (
     'id' => 7425,
     'name' => 'Tamworth',
@@ -31717,7 +30070,7 @@ return array (
     'latitude' => -31.09048,
     'longitude' => 150.92905,
   ),
-  3524 => 
+  3341 => 
   array (
     'id' => 7426,
     'name' => 'Tamworth Municipality',
@@ -31726,7 +30079,7 @@ return array (
     'latitude' => -30.92204,
     'longitude' => 150.81526,
   ),
-  3525 => 
+  3342 => 
   array (
     'id' => 7427,
     'name' => 'Tanah Merah',
@@ -31735,7 +30088,7 @@ return array (
     'latitude' => -27.67151,
     'longitude' => 153.17019,
   ),
-  3526 => 
+  3343 => 
   array (
     'id' => 7428,
     'name' => 'Tanawha',
@@ -31744,7 +30097,7 @@ return array (
     'latitude' => -26.71981,
     'longitude' => 153.03018,
   ),
-  3527 => 
+  3344 => 
   array (
     'id' => 7429,
     'name' => 'Tanilba Bay',
@@ -31753,7 +30106,7 @@ return array (
     'latitude' => -32.74706,
     'longitude' => 151.99714,
   ),
-  3528 => 
+  3345 => 
   array (
     'id' => 7430,
     'name' => 'Tannum Sands',
@@ -31762,7 +30115,7 @@ return array (
     'latitude' => -23.94749,
     'longitude' => 151.36749,
   ),
-  3529 => 
+  3346 => 
   array (
     'id' => 7431,
     'name' => 'Tanunda',
@@ -31771,7 +30124,7 @@ return array (
     'latitude' => -34.52336,
     'longitude' => 138.95982,
   ),
-  3530 => 
+  3347 => 
   array (
     'id' => 7432,
     'name' => 'Taperoo',
@@ -31780,7 +30133,7 @@ return array (
     'latitude' => -34.80425,
     'longitude' => 138.49593,
   ),
-  3531 => 
+  3348 => 
   array (
     'id' => 7433,
     'name' => 'Tapping',
@@ -31789,7 +30142,7 @@ return array (
     'latitude' => -31.71947,
     'longitude' => 115.79559,
   ),
-  3532 => 
+  3349 => 
   array (
     'id' => 7434,
     'name' => 'Tara',
@@ -31798,7 +30151,7 @@ return array (
     'latitude' => -27.27613,
     'longitude' => 150.45676,
   ),
-  3533 => 
+  3350 => 
   array (
     'id' => 7435,
     'name' => 'Taranganba',
@@ -31807,7 +30160,7 @@ return array (
     'latitude' => -23.14435,
     'longitude' => 150.75139,
   ),
-  3534 => 
+  3351 => 
   array (
     'id' => 7436,
     'name' => 'Tarcoola Beach',
@@ -31816,7 +30169,7 @@ return array (
     'latitude' => -28.81001,
     'longitude' => 114.62236,
   ),
-  3535 => 
+  3352 => 
   array (
     'id' => 7437,
     'name' => 'Taree',
@@ -31825,7 +30178,7 @@ return array (
     'latitude' => -31.91099,
     'longitude' => 152.45387,
   ),
-  3536 => 
+  3353 => 
   array (
     'id' => 7438,
     'name' => 'Taren Point',
@@ -31834,7 +30187,7 @@ return array (
     'latitude' => -34.01936,
     'longitude' => 151.11826,
   ),
-  3537 => 
+  3354 => 
   array (
     'id' => 7439,
     'name' => 'Taringa',
@@ -31843,7 +30196,7 @@ return array (
     'latitude' => -27.49061,
     'longitude' => 152.97861,
   ),
-  3538 => 
+  3355 => 
   array (
     'id' => 7440,
     'name' => 'Tarneit',
@@ -31852,7 +30205,7 @@ return array (
     'latitude' => -37.83634,
     'longitude' => 144.65952,
   ),
-  3539 => 
+  3356 => 
   array (
     'id' => 7441,
     'name' => 'Taroona',
@@ -31861,7 +30214,7 @@ return array (
     'latitude' => -42.9452,
     'longitude' => 147.3484,
   ),
-  3540 => 
+  3357 => 
   array (
     'id' => 7442,
     'name' => 'Tarragindi',
@@ -31870,7 +30223,7 @@ return array (
     'latitude' => -27.52713,
     'longitude' => 153.04556,
   ),
-  3541 => 
+  3358 => 
   array (
     'id' => 7443,
     'name' => 'Tarrawanna',
@@ -31879,7 +30232,7 @@ return array (
     'latitude' => -34.38152,
     'longitude' => 150.88799,
   ),
-  3542 => 
+  3359 => 
   array (
     'id' => 7444,
     'name' => 'Tarro',
@@ -31888,7 +30241,7 @@ return array (
     'latitude' => -32.8,
     'longitude' => 151.66667,
   ),
-  3543 => 
+  3360 => 
   array (
     'id' => 7445,
     'name' => 'Tascott',
@@ -31897,7 +30250,7 @@ return array (
     'latitude' => -33.45017,
     'longitude' => 151.31375,
   ),
-  3544 => 
+  3361 => 
   array (
     'id' => 7446,
     'name' => 'Tasman Peninsula',
@@ -31906,7 +30259,7 @@ return array (
     'latitude' => -43.16245,
     'longitude' => 147.94739,
   ),
-  3545 => 
+  3362 => 
   array (
     'id' => 7447,
     'name' => 'Tathra',
@@ -31915,7 +30268,7 @@ return array (
     'latitude' => -36.73126,
     'longitude' => 149.98328,
   ),
-  3546 => 
+  3363 => 
   array (
     'id' => 7448,
     'name' => 'Tatiara',
@@ -31924,7 +30277,7 @@ return array (
     'latitude' => -36.22232,
     'longitude' => 140.50748,
   ),
-  3547 => 
+  3364 => 
   array (
     'id' => 7449,
     'name' => 'Tatton',
@@ -31933,7 +30286,7 @@ return array (
     'latitude' => -35.1599,
     'longitude' => 147.35875,
   ),
-  3548 => 
+  3365 => 
   array (
     'id' => 7450,
     'name' => 'Tatura',
@@ -31942,7 +30295,7 @@ return array (
     'latitude' => -36.43962,
     'longitude' => 145.22994,
   ),
-  3549 => 
+  3366 => 
   array (
     'id' => 7451,
     'name' => 'Taylors Hill',
@@ -31951,7 +30304,7 @@ return array (
     'latitude' => -37.70988,
     'longitude' => 144.75483,
   ),
-  3550 => 
+  3367 => 
   array (
     'id' => 7452,
     'name' => 'Taylors Lakes',
@@ -31960,7 +30313,7 @@ return array (
     'latitude' => -37.69863,
     'longitude' => 144.78631,
   ),
-  3551 => 
+  3368 => 
   array (
     'id' => 7453,
     'name' => 'Tea Gardens',
@@ -31969,7 +30322,7 @@ return array (
     'latitude' => -32.66351,
     'longitude' => 152.15404,
   ),
-  3552 => 
+  3369 => 
   array (
     'id' => 7454,
     'name' => 'Tea Tree Gully',
@@ -31978,7 +30331,7 @@ return array (
     'latitude' => -34.80171,
     'longitude' => 138.71994,
   ),
-  3553 => 
+  3370 => 
   array (
     'id' => 7455,
     'name' => 'Tecoma',
@@ -31987,7 +30340,7 @@ return array (
     'latitude' => -37.90303,
     'longitude' => 145.34468,
   ),
-  3554 => 
+  3371 => 
   array (
     'id' => 7456,
     'name' => 'Teesdale',
@@ -31996,7 +30349,7 @@ return array (
     'latitude' => -38.03333,
     'longitude' => 144.05,
   ),
-  3555 => 
+  3372 => 
   array (
     'id' => 7457,
     'name' => 'Telarah',
@@ -32005,7 +30358,7 @@ return array (
     'latitude' => -32.72876,
     'longitude' => 151.53453,
   ),
-  3556 => 
+  3373 => 
   array (
     'id' => 7458,
     'name' => 'Telfer',
@@ -32014,7 +30367,7 @@ return array (
     'latitude' => -21.21169,
     'longitude' => 123.26175,
   ),
-  3557 => 
+  3374 => 
   array (
     'id' => 7459,
     'name' => 'Telina',
@@ -32023,7 +30376,7 @@ return array (
     'latitude' => -23.88834,
     'longitude' => 151.25379,
   ),
-  3558 => 
+  3375 => 
   array (
     'id' => 7460,
     'name' => 'Telopea',
@@ -32032,7 +30385,7 @@ return array (
     'latitude' => -33.79279,
     'longitude' => 151.03858,
   ),
-  3559 => 
+  3376 => 
   array (
     'id' => 7461,
     'name' => 'Temora',
@@ -32041,7 +30394,7 @@ return array (
     'latitude' => -34.44834,
     'longitude' => 147.53558,
   ),
-  3560 => 
+  3377 => 
   array (
     'id' => 7462,
     'name' => 'Temora Municipality',
@@ -32050,7 +30403,7 @@ return array (
     'latitude' => -34.38314,
     'longitude' => 147.47917,
   ),
-  3561 => 
+  3378 => 
   array (
     'id' => 7463,
     'name' => 'Tempe',
@@ -32059,7 +30412,7 @@ return array (
     'latitude' => -33.92335,
     'longitude' => 151.1602,
   ),
-  3562 => 
+  3379 => 
   array (
     'id' => 7464,
     'name' => 'Templestowe',
@@ -32068,7 +30421,7 @@ return array (
     'latitude' => -37.75405,
     'longitude' => 145.14864,
   ),
-  3563 => 
+  3380 => 
   array (
     'id' => 7465,
     'name' => 'Templestowe Lower',
@@ -32077,7 +30430,7 @@ return array (
     'latitude' => -37.76667,
     'longitude' => 145.11667,
   ),
-  3564 => 
+  3381 => 
   array (
     'id' => 7466,
     'name' => 'Tenambit',
@@ -32086,7 +30439,7 @@ return array (
     'latitude' => -32.73967,
     'longitude' => 151.61293,
   ),
-  3565 => 
+  3382 => 
   array (
     'id' => 7467,
     'name' => 'Teneriffe',
@@ -32095,7 +30448,7 @@ return array (
     'latitude' => -27.45587,
     'longitude' => 153.04696,
   ),
-  3566 => 
+  3383 => 
   array (
     'id' => 7468,
     'name' => 'Tennant Creek',
@@ -32104,7 +30457,7 @@ return array (
     'latitude' => -19.6497,
     'longitude' => 134.19147,
   ),
-  3567 => 
+  3384 => 
   array (
     'id' => 7469,
     'name' => 'Tennyson',
@@ -32113,7 +30466,7 @@ return array (
     'latitude' => -34.88601,
     'longitude' => 138.48588,
   ),
-  3568 => 
+  3385 => 
   array (
     'id' => 7470,
     'name' => 'Tennyson Point',
@@ -32122,7 +30475,7 @@ return array (
     'latitude' => -33.83172,
     'longitude' => 151.11682,
   ),
-  3569 => 
+  3386 => 
   array (
     'id' => 7471,
     'name' => 'Tenterfield',
@@ -32131,7 +30484,7 @@ return array (
     'latitude' => -29.04946,
     'longitude' => 152.01952,
   ),
-  3570 => 
+  3387 => 
   array (
     'id' => 7472,
     'name' => 'Tenterfield Municipality',
@@ -32140,7 +30493,7 @@ return array (
     'latitude' => -29.06897,
     'longitude' => 152.04803,
   ),
-  3571 => 
+  3388 => 
   array (
     'id' => 7473,
     'name' => 'Teralba',
@@ -32149,7 +30502,7 @@ return array (
     'latitude' => -32.96667,
     'longitude' => 151.6,
   ),
-  3572 => 
+  3389 => 
   array (
     'id' => 7474,
     'name' => 'Terang',
@@ -32158,7 +30511,7 @@ return array (
     'latitude' => -38.24084,
     'longitude' => 142.92123,
   ),
-  3573 => 
+  3390 => 
   array (
     'id' => 7475,
     'name' => 'Terranora',
@@ -32167,7 +30520,7 @@ return array (
     'latitude' => -28.23832,
     'longitude' => 153.50078,
   ),
-  3574 => 
+  3391 => 
   array (
     'id' => 7476,
     'name' => 'Terrigal',
@@ -32176,7 +30529,7 @@ return array (
     'latitude' => -33.44815,
     'longitude' => 151.44665,
   ),
-  3575 => 
+  3392 => 
   array (
     'id' => 7477,
     'name' => 'Terry Hills',
@@ -32185,7 +30538,7 @@ return array (
     'latitude' => -33.68333,
     'longitude' => 151.23333,
   ),
-  3576 => 
+  3393 => 
   array (
     'id' => 7478,
     'name' => 'Tewantin',
@@ -32194,7 +30547,7 @@ return array (
     'latitude' => -26.39104,
     'longitude' => 153.03432,
   ),
-  3577 => 
+  3394 => 
   array (
     'id' => 7479,
     'name' => 'Thabeban',
@@ -32203,7 +30556,7 @@ return array (
     'latitude' => -24.9,
     'longitude' => 152.35,
   ),
-  3578 => 
+  3395 => 
   array (
     'id' => 7480,
     'name' => 'The Basin',
@@ -32212,7 +30565,7 @@ return array (
     'latitude' => -37.85,
     'longitude' => 145.31667,
   ),
-  3579 => 
+  3396 => 
   array (
     'id' => 7481,
     'name' => 'The Coorong',
@@ -32221,7 +30574,7 @@ return array (
     'latitude' => -35.71844,
     'longitude' => 139.70329,
   ),
-  3580 => 
+  3397 => 
   array (
     'id' => 7482,
     'name' => 'The Entrance',
@@ -32230,7 +30583,7 @@ return array (
     'latitude' => -33.33876,
     'longitude' => 151.4978,
   ),
-  3581 => 
+  3398 => 
   array (
     'id' => 7483,
     'name' => 'The Entrance North',
@@ -32239,7 +30592,7 @@ return array (
     'latitude' => -33.33573,
     'longitude' => 151.50335,
   ),
-  3582 => 
+  3399 => 
   array (
     'id' => 7484,
     'name' => 'The Gap',
@@ -32248,16 +30601,7 @@ return array (
     'latitude' => -27.44187,
     'longitude' => 152.93861,
   ),
-  3583 => 
-  array (
-    'id' => 7485,
-    'name' => 'The Gap',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -23.71333,
-    'longitude' => 133.87386,
-  ),
-  3584 => 
+  3400 => 
   array (
     'id' => 7486,
     'name' => 'The Gemfields',
@@ -32266,7 +30610,7 @@ return array (
     'latitude' => -23.53014,
     'longitude' => 147.79679,
   ),
-  3585 => 
+  3401 => 
   array (
     'id' => 7487,
     'name' => 'The Hill',
@@ -32275,7 +30619,7 @@ return array (
     'latitude' => -32.93089,
     'longitude' => 151.77835,
   ),
-  3586 => 
+  3402 => 
   array (
     'id' => 7488,
     'name' => 'The Hills Shire',
@@ -32284,7 +30628,7 @@ return array (
     'latitude' => -33.59118,
     'longitude' => 150.961,
   ),
-  3587 => 
+  3403 => 
   array (
     'id' => 7489,
     'name' => 'The Junction',
@@ -32293,7 +30637,7 @@ return array (
     'latitude' => -32.93822,
     'longitude' => 151.75909,
   ),
-  3588 => 
+  3404 => 
   array (
     'id' => 7490,
     'name' => 'The Oaks',
@@ -32302,7 +30646,7 @@ return array (
     'latitude' => -34.07995,
     'longitude' => 150.56998,
   ),
-  3589 => 
+  3405 => 
   array (
     'id' => 7491,
     'name' => 'The Patch',
@@ -32311,7 +30655,7 @@ return array (
     'latitude' => -37.89187,
     'longitude' => 145.40216,
   ),
-  3590 => 
+  3406 => 
   array (
     'id' => 7492,
     'name' => 'The Ponds',
@@ -32320,7 +30664,7 @@ return array (
     'latitude' => -33.70228,
     'longitude' => 150.91086,
   ),
-  3591 => 
+  3407 => 
   array (
     'id' => 7493,
     'name' => 'The Range',
@@ -32329,7 +30673,7 @@ return array (
     'latitude' => -23.392,
     'longitude' => 150.49624,
   ),
-  3592 => 
+  3408 => 
   array (
     'id' => 7494,
     'name' => 'The Rock',
@@ -32338,7 +30682,7 @@ return array (
     'latitude' => -35.27302,
     'longitude' => 147.11381,
   ),
-  3593 => 
+  3409 => 
   array (
     'id' => 7495,
     'name' => 'The Rocks',
@@ -32347,7 +30691,7 @@ return array (
     'latitude' => -33.85923,
     'longitude' => 151.2081,
   ),
-  3594 => 
+  3410 => 
   array (
     'id' => 7496,
     'name' => 'The Vines',
@@ -32356,7 +30700,7 @@ return array (
     'latitude' => -31.75492,
     'longitude' => 116.00238,
   ),
-  3595 => 
+  3411 => 
   array (
     'id' => 7497,
     'name' => 'Thebarton',
@@ -32365,7 +30709,7 @@ return array (
     'latitude' => -34.91667,
     'longitude' => 138.56667,
   ),
-  3596 => 
+  3412 => 
   array (
     'id' => 7498,
     'name' => 'Theodore',
@@ -32374,7 +30718,7 @@ return array (
     'latitude' => -35.44962,
     'longitude' => 149.11971,
   ),
-  3597 => 
+  3413 => 
   array (
     'id' => 7499,
     'name' => 'Thirlmere',
@@ -32383,7 +30727,7 @@ return array (
     'latitude' => -34.20455,
     'longitude' => 150.56767,
   ),
-  3598 => 
+  3414 => 
   array (
     'id' => 7500,
     'name' => 'Thirroul',
@@ -32392,7 +30736,7 @@ return array (
     'latitude' => -34.31604,
     'longitude' => 150.92142,
   ),
-  3599 => 
+  3415 => 
   array (
     'id' => 7501,
     'name' => 'Thomastown',
@@ -32401,7 +30745,7 @@ return array (
     'latitude' => -37.68333,
     'longitude' => 145.01667,
   ),
-  3600 => 
+  3416 => 
   array (
     'id' => 7502,
     'name' => 'Thomson',
@@ -32410,7 +30754,7 @@ return array (
     'latitude' => -38.16984,
     'longitude' => 144.3789,
   ),
-  3601 => 
+  3417 => 
   array (
     'id' => 7503,
     'name' => 'Thornbury',
@@ -32419,7 +30763,7 @@ return array (
     'latitude' => -37.75819,
     'longitude' => 145.00583,
   ),
-  3602 => 
+  3418 => 
   array (
     'id' => 7504,
     'name' => 'Thorneside',
@@ -32428,7 +30772,7 @@ return array (
     'latitude' => -27.48777,
     'longitude' => 153.19821,
   ),
-  3603 => 
+  3419 => 
   array (
     'id' => 7505,
     'name' => 'Thornlands',
@@ -32437,7 +30781,7 @@ return array (
     'latitude' => -27.55751,
     'longitude' => 153.26481,
   ),
-  3604 => 
+  3420 => 
   array (
     'id' => 7506,
     'name' => 'Thornleigh',
@@ -32446,7 +30790,7 @@ return array (
     'latitude' => -33.73228,
     'longitude' => 151.07895,
   ),
-  3605 => 
+  3421 => 
   array (
     'id' => 7507,
     'name' => 'Thornlie',
@@ -32455,7 +30799,7 @@ return array (
     'latitude' => -32.06003,
     'longitude' => 115.955,
   ),
-  3606 => 
+  3422 => 
   array (
     'id' => 7508,
     'name' => 'Thornton',
@@ -32464,7 +30808,7 @@ return array (
     'latitude' => -32.78333,
     'longitude' => 151.63333,
   ),
-  3607 => 
+  3423 => 
   array (
     'id' => 7509,
     'name' => 'Three Springs',
@@ -32473,7 +30817,7 @@ return array (
     'latitude' => -29.51386,
     'longitude' => 115.63158,
   ),
-  3608 => 
+  3424 => 
   array (
     'id' => 7510,
     'name' => 'Thurgoona',
@@ -32482,7 +30826,7 @@ return array (
     'latitude' => -36.03626,
     'longitude' => 146.99609,
   ),
-  3609 => 
+  3425 => 
   array (
     'id' => 7511,
     'name' => 'Thursday Island',
@@ -32491,7 +30835,7 @@ return array (
     'latitude' => -10.58257,
     'longitude' => 142.21949,
   ),
-  3610 => 
+  3426 => 
   array (
     'id' => 7512,
     'name' => 'Tieri',
@@ -32500,7 +30844,7 @@ return array (
     'latitude' => -23.03829,
     'longitude' => 148.34463,
   ),
-  3611 => 
+  3427 => 
   array (
     'id' => 7513,
     'name' => 'Tighes Hill',
@@ -32509,7 +30853,7 @@ return array (
     'latitude' => -32.90732,
     'longitude' => 151.7509,
   ),
-  3612 => 
+  3428 => 
   array (
     'id' => 7514,
     'name' => 'Timboon',
@@ -32518,7 +30862,7 @@ return array (
     'latitude' => -38.48434,
     'longitude' => 142.98033,
   ),
-  3613 => 
+  3429 => 
   array (
     'id' => 7515,
     'name' => 'Tin Can Bay',
@@ -32527,7 +30871,7 @@ return array (
     'latitude' => -25.91914,
     'longitude' => 153.0032,
   ),
-  3614 => 
+  3430 => 
   array (
     'id' => 7516,
     'name' => 'Tinana',
@@ -32536,7 +30880,7 @@ return array (
     'latitude' => -25.55196,
     'longitude' => 152.6659,
   ),
-  3615 => 
+  3431 => 
   array (
     'id' => 7517,
     'name' => 'Tingalpa',
@@ -32545,7 +30889,7 @@ return array (
     'latitude' => -27.4736,
     'longitude' => 153.12704,
   ),
-  3616 => 
+  3432 => 
   array (
     'id' => 7518,
     'name' => 'Tingira Heights',
@@ -32554,7 +30898,7 @@ return array (
     'latitude' => -32.99725,
     'longitude' => 151.67021,
   ),
-  3617 => 
+  3433 => 
   array (
     'id' => 7519,
     'name' => 'Tinonee',
@@ -32563,7 +30907,7 @@ return array (
     'latitude' => -31.93634,
     'longitude' => 152.41425,
   ),
-  3618 => 
+  3434 => 
   array (
     'id' => 7520,
     'name' => 'Tivoli',
@@ -32572,7 +30916,7 @@ return array (
     'latitude' => -27.59278,
     'longitude' => 152.76798,
   ),
-  3619 => 
+  3435 => 
   array (
     'id' => 7521,
     'name' => 'Tiwi',
@@ -32581,7 +30925,7 @@ return array (
     'latitude' => -12.35876,
     'longitude' => 130.878,
   ),
-  3620 => 
+  3436 => 
   array (
     'id' => 7522,
     'name' => 'Tiwi Islands',
@@ -32590,7 +30934,7 @@ return array (
     'latitude' => -11.55324,
     'longitude' => 130.78178,
   ),
-  3621 => 
+  3437 => 
   array (
     'id' => 7523,
     'name' => 'Tocumwal',
@@ -32599,7 +30943,7 @@ return array (
     'latitude' => -35.8115,
     'longitude' => 145.56922,
   ),
-  3622 => 
+  3438 => 
   array (
     'id' => 7524,
     'name' => 'Tolga',
@@ -32608,7 +30952,7 @@ return array (
     'latitude' => -17.18557,
     'longitude' => 145.47707,
   ),
-  3623 => 
+  3439 => 
   array (
     'id' => 7525,
     'name' => 'Tolland',
@@ -32617,7 +30961,7 @@ return array (
     'latitude' => -35.14521,
     'longitude' => 147.35162,
   ),
-  3624 => 
+  3440 => 
   array (
     'id' => 7526,
     'name' => 'Tom Price',
@@ -32626,7 +30970,7 @@ return array (
     'latitude' => -22.6939,
     'longitude' => 117.7931,
   ),
-  3625 => 
+  3441 => 
   array (
     'id' => 7527,
     'name' => 'Tomakin',
@@ -32635,7 +30979,7 @@ return array (
     'latitude' => -35.82335,
     'longitude' => 150.18794,
   ),
-  3626 => 
+  3442 => 
   array (
     'id' => 7528,
     'name' => 'Tomerong',
@@ -32644,7 +30988,7 @@ return array (
     'latitude' => -35.05231,
     'longitude' => 150.5865,
   ),
-  3627 => 
+  3443 => 
   array (
     'id' => 7529,
     'name' => 'Tongala',
@@ -32653,7 +30997,7 @@ return array (
     'latitude' => -36.25466,
     'longitude' => 144.95622,
   ),
-  3628 => 
+  3444 => 
   array (
     'id' => 7530,
     'name' => 'Toodyay',
@@ -32662,7 +31006,7 @@ return array (
     'latitude' => -31.46991,
     'longitude' => 116.38804,
   ),
-  3629 => 
+  3445 => 
   array (
     'id' => 7531,
     'name' => 'Toogoolawah',
@@ -32671,7 +31015,7 @@ return array (
     'latitude' => -27.08661,
     'longitude' => 152.37636,
   ),
-  3630 => 
+  3446 => 
   array (
     'id' => 7532,
     'name' => 'Toogoom',
@@ -32680,7 +31024,7 @@ return array (
     'latitude' => -25.25637,
     'longitude' => 152.69025,
   ),
-  3631 => 
+  3447 => 
   array (
     'id' => 7533,
     'name' => 'Toongabbie',
@@ -32689,7 +31033,7 @@ return array (
     'latitude' => -33.78333,
     'longitude' => 150.95,
   ),
-  3632 => 
+  3448 => 
   array (
     'id' => 7534,
     'name' => 'Tooradin',
@@ -32698,7 +31042,7 @@ return array (
     'latitude' => -38.21475,
     'longitude' => 145.38325,
   ),
-  3633 => 
+  3449 => 
   array (
     'id' => 7535,
     'name' => 'Toorak',
@@ -32707,7 +31051,7 @@ return array (
     'latitude' => -37.84165,
     'longitude' => 145.01438,
   ),
-  3634 => 
+  3450 => 
   array (
     'id' => 7536,
     'name' => 'Toorak Gardens',
@@ -32716,7 +31060,7 @@ return array (
     'latitude' => -34.93478,
     'longitude' => 138.63639,
   ),
-  3635 => 
+  3451 => 
   array (
     'id' => 7537,
     'name' => 'Toormina',
@@ -32725,7 +31069,7 @@ return array (
     'latitude' => -30.35384,
     'longitude' => 153.08843,
   ),
-  3636 => 
+  3452 => 
   array (
     'id' => 7538,
     'name' => 'Tootgarook',
@@ -32734,7 +31078,7 @@ return array (
     'latitude' => -38.3777,
     'longitude' => 144.85015,
   ),
-  3637 => 
+  3453 => 
   array (
     'id' => 7539,
     'name' => 'Toowong',
@@ -32743,7 +31087,7 @@ return array (
     'latitude' => -27.48333,
     'longitude' => 152.98333,
   ),
-  3638 => 
+  3454 => 
   array (
     'id' => 7540,
     'name' => 'Toowoomba',
@@ -32752,7 +31096,7 @@ return array (
     'latitude' => -27.47958,
     'longitude' => 151.47705,
   ),
-  3639 => 
+  3455 => 
   array (
     'id' => 7541,
     'name' => 'Toronto',
@@ -32761,7 +31105,7 @@ return array (
     'latitude' => -33.01357,
     'longitude' => 151.59373,
   ),
-  3640 => 
+  3456 => 
   array (
     'id' => 7542,
     'name' => 'Torquay',
@@ -32770,16 +31114,7 @@ return array (
     'latitude' => -25.28496,
     'longitude' => 152.87886,
   ),
-  3641 => 
-  array (
-    'id' => 7543,
-    'name' => 'Torquay',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -38.33085,
-    'longitude' => 144.32638,
-  ),
-  3642 => 
+  3457 => 
   array (
     'id' => 7544,
     'name' => 'Torrens',
@@ -32788,7 +31123,7 @@ return array (
     'latitude' => -35.37203,
     'longitude' => 149.08773,
   ),
-  3643 => 
+  3458 => 
   array (
     'id' => 7545,
     'name' => 'Torrens Park',
@@ -32797,7 +31132,7 @@ return array (
     'latitude' => -34.97607,
     'longitude' => 138.61034,
   ),
-  3644 => 
+  3459 => 
   array (
     'id' => 7546,
     'name' => 'Torrensville',
@@ -32806,7 +31141,7 @@ return array (
     'latitude' => -34.92046,
     'longitude' => 138.56149,
   ),
-  3645 => 
+  3460 => 
   array (
     'id' => 7547,
     'name' => 'Torres',
@@ -32815,7 +31150,7 @@ return array (
     'latitude' => -10.57928,
     'longitude' => 142.22059,
   ),
-  3646 => 
+  3461 => 
   array (
     'id' => 7548,
     'name' => 'Torres Strait Island Region',
@@ -32824,7 +31159,7 @@ return array (
     'latitude' => -10.20141,
     'longitude' => 142.27295,
   ),
-  3647 => 
+  3462 => 
   array (
     'id' => 7549,
     'name' => 'Toukley',
@@ -32833,7 +31168,7 @@ return array (
     'latitude' => -33.26367,
     'longitude' => 151.53841,
   ),
-  3648 => 
+  3463 => 
   array (
     'id' => 7550,
     'name' => 'Townsville',
@@ -32842,7 +31177,7 @@ return array (
     'latitude' => -19.26639,
     'longitude' => 146.80569,
   ),
-  3649 => 
+  3464 => 
   array (
     'id' => 7551,
     'name' => 'Townview',
@@ -32851,7 +31186,7 @@ return array (
     'latitude' => -20.73252,
     'longitude' => 139.50482,
   ),
-  3650 => 
+  3465 => 
   array (
     'id' => 7552,
     'name' => 'Towong',
@@ -32860,7 +31195,7 @@ return array (
     'latitude' => -36.36587,
     'longitude' => 147.62717,
   ),
-  3651 => 
+  3466 => 
   array (
     'id' => 7553,
     'name' => 'Towradgi',
@@ -32869,7 +31204,7 @@ return array (
     'latitude' => -34.38667,
     'longitude' => 150.90278,
   ),
-  3652 => 
+  3467 => 
   array (
     'id' => 7554,
     'name' => 'Trafalgar',
@@ -32878,7 +31213,7 @@ return array (
     'latitude' => -38.20906,
     'longitude' => 146.15347,
   ),
-  3653 => 
+  3468 => 
   array (
     'id' => 7555,
     'name' => 'Trangie',
@@ -32887,7 +31222,7 @@ return array (
     'latitude' => -32.03147,
     'longitude' => 147.98344,
   ),
-  3654 => 
+  3469 => 
   array (
     'id' => 7556,
     'name' => 'Tranmere',
@@ -32896,16 +31231,7 @@ return array (
     'latitude' => -42.92179,
     'longitude' => 147.41701,
   ),
-  3655 => 
-  array (
-    'id' => 7557,
-    'name' => 'Tranmere',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.9055,
-    'longitude' => 138.66212,
-  ),
-  3656 => 
+  3470 => 
   array (
     'id' => 7558,
     'name' => 'Traralgon',
@@ -32914,7 +31240,7 @@ return array (
     'latitude' => -38.19528,
     'longitude' => 146.5415,
   ),
-  3657 => 
+  3471 => 
   array (
     'id' => 7559,
     'name' => 'Travancore',
@@ -32923,7 +31249,7 @@ return array (
     'latitude' => -37.78076,
     'longitude' => 144.93545,
   ),
-  3658 => 
+  3472 => 
   array (
     'id' => 7560,
     'name' => 'Trayning',
@@ -32932,7 +31258,7 @@ return array (
     'latitude' => -31.16681,
     'longitude' => 117.83812,
   ),
-  3659 => 
+  3473 => 
   array (
     'id' => 7561,
     'name' => 'Tregear',
@@ -32941,7 +31267,7 @@ return array (
     'latitude' => -33.74562,
     'longitude' => 150.79294,
   ),
-  3660 => 
+  3474 => 
   array (
     'id' => 7562,
     'name' => 'Trentham',
@@ -32950,7 +31276,7 @@ return array (
     'latitude' => -37.38876,
     'longitude' => 144.32164,
   ),
-  3661 => 
+  3475 => 
   array (
     'id' => 7563,
     'name' => 'Trevallyn',
@@ -32959,7 +31285,7 @@ return array (
     'latitude' => -41.44246,
     'longitude' => 147.10484,
   ),
-  3662 => 
+  3476 => 
   array (
     'id' => 7564,
     'name' => 'Trigg',
@@ -32968,7 +31294,7 @@ return array (
     'latitude' => -31.86939,
     'longitude' => 115.7571,
   ),
-  3663 => 
+  3477 => 
   array (
     'id' => 7565,
     'name' => 'Trinity Beach',
@@ -32977,7 +31303,7 @@ return array (
     'latitude' => -16.78876,
     'longitude' => 145.69682,
   ),
-  3664 => 
+  3478 => 
   array (
     'id' => 7566,
     'name' => 'Trinity Gardens',
@@ -32986,7 +31312,7 @@ return array (
     'latitude' => -34.91438,
     'longitude' => 138.64141,
   ),
-  3665 => 
+  3479 => 
   array (
     'id' => 7567,
     'name' => 'Trinity Park',
@@ -32995,7 +31321,7 @@ return array (
     'latitude' => -16.80684,
     'longitude' => 145.70549,
   ),
-  3666 => 
+  3480 => 
   array (
     'id' => 7568,
     'name' => 'Trott Park',
@@ -33004,7 +31330,7 @@ return array (
     'latitude' => -35.07576,
     'longitude' => 138.54189,
   ),
-  3667 => 
+  3481 => 
   array (
     'id' => 7569,
     'name' => 'Truganina',
@@ -33013,7 +31339,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 144.75,
   ),
-  3668 => 
+  3482 => 
   array (
     'id' => 7570,
     'name' => 'Trunding',
@@ -33022,7 +31348,7 @@ return array (
     'latitude' => -12.63422,
     'longitude' => 141.86963,
   ),
-  3669 => 
+  3483 => 
   array (
     'id' => 7571,
     'name' => 'Tuart Hill',
@@ -33031,7 +31357,7 @@ return array (
     'latitude' => -31.89808,
     'longitude' => 115.83495,
   ),
-  3670 => 
+  3484 => 
   array (
     'id' => 7572,
     'name' => 'Tuggerawong',
@@ -33040,7 +31366,7 @@ return array (
     'latitude' => -33.2804,
     'longitude' => 151.48044,
   ),
-  3671 => 
+  3485 => 
   array (
     'id' => 7573,
     'name' => 'Tugun',
@@ -33049,7 +31375,7 @@ return array (
     'latitude' => -28.15,
     'longitude' => 153.5,
   ),
-  3672 => 
+  3486 => 
   array (
     'id' => 7574,
     'name' => 'Tullamarine',
@@ -33058,7 +31384,7 @@ return array (
     'latitude' => -37.70128,
     'longitude' => 144.881,
   ),
-  3673 => 
+  3487 => 
   array (
     'id' => 7575,
     'name' => 'Tully',
@@ -33067,7 +31393,7 @@ return array (
     'latitude' => -17.93264,
     'longitude' => 145.92277,
   ),
-  3674 => 
+  3488 => 
   array (
     'id' => 7576,
     'name' => 'Tumbarumba',
@@ -33076,7 +31402,7 @@ return array (
     'latitude' => -35.77806,
     'longitude' => 148.01172,
   ),
-  3675 => 
+  3489 => 
   array (
     'id' => 7577,
     'name' => 'Tumbi Vmbi',
@@ -33085,7 +31411,7 @@ return array (
     'latitude' => -33.36667,
     'longitude' => 151.45,
   ),
-  3676 => 
+  3490 => 
   array (
     'id' => 7578,
     'name' => 'Tumby Bay',
@@ -33094,7 +31420,7 @@ return array (
     'latitude' => -34.19697,
     'longitude' => 136.13649,
   ),
-  3677 => 
+  3491 => 
   array (
     'id' => 7579,
     'name' => 'Tumut',
@@ -33103,7 +31429,7 @@ return array (
     'latitude' => -35.30642,
     'longitude' => 148.21818,
   ),
-  3678 => 
+  3492 => 
   array (
     'id' => 7580,
     'name' => 'Tuncurry',
@@ -33112,7 +31438,7 @@ return array (
     'latitude' => -32.17443,
     'longitude' => 152.49876,
   ),
-  3679 => 
+  3493 => 
   array (
     'id' => 7581,
     'name' => 'Tura Beach',
@@ -33121,7 +31447,7 @@ return array (
     'latitude' => -36.86358,
     'longitude' => 149.93027,
   ),
-  3680 => 
+  3494 => 
   array (
     'id' => 7582,
     'name' => 'Turner',
@@ -33130,7 +31456,7 @@ return array (
     'latitude' => -35.26881,
     'longitude' => 149.12465,
   ),
-  3681 => 
+  3495 => 
   array (
     'id' => 7583,
     'name' => 'Turners Beach',
@@ -33139,7 +31465,7 @@ return array (
     'latitude' => -41.1606,
     'longitude' => 146.23193,
   ),
-  3682 => 
+  3496 => 
   array (
     'id' => 7584,
     'name' => 'Tuross Head',
@@ -33148,7 +31474,7 @@ return array (
     'latitude' => -36.05328,
     'longitude' => 150.13322,
   ),
-  3683 => 
+  3497 => 
   array (
     'id' => 7585,
     'name' => 'Turramurra',
@@ -33157,7 +31483,7 @@ return array (
     'latitude' => -33.73342,
     'longitude' => 151.12849,
   ),
-  3684 => 
+  3498 => 
   array (
     'id' => 7586,
     'name' => 'Turrella',
@@ -33166,7 +31492,7 @@ return array (
     'latitude' => -33.93033,
     'longitude' => 151.14209,
   ),
-  3685 => 
+  3499 => 
   array (
     'id' => 7587,
     'name' => 'Turvey Park',
@@ -33175,7 +31501,7 @@ return array (
     'latitude' => -35.12849,
     'longitude' => 147.36264,
   ),
-  3686 => 
+  3500 => 
   array (
     'id' => 7588,
     'name' => 'Tusmore',
@@ -33184,7 +31510,7 @@ return array (
     'latitude' => -34.93894,
     'longitude' => 138.65059,
   ),
-  3687 => 
+  3501 => 
   array (
     'id' => 7589,
     'name' => 'Tweed',
@@ -33193,7 +31519,7 @@ return array (
     'latitude' => -28.34991,
     'longitude' => 153.34652,
   ),
-  3688 => 
+  3502 => 
   array (
     'id' => 7590,
     'name' => 'Tweed Heads',
@@ -33202,7 +31528,7 @@ return array (
     'latitude' => -28.17671,
     'longitude' => 153.5452,
   ),
-  3689 => 
+  3503 => 
   array (
     'id' => 7591,
     'name' => 'Tweed Heads South',
@@ -33211,7 +31537,7 @@ return array (
     'latitude' => -28.19517,
     'longitude' => 153.53964,
   ),
-  3690 => 
+  3504 => 
   array (
     'id' => 7592,
     'name' => 'Tweed Heads West',
@@ -33220,7 +31546,7 @@ return array (
     'latitude' => -28.18736,
     'longitude' => 153.52278,
   ),
-  3691 => 
+  3505 => 
   array (
     'id' => 7593,
     'name' => 'Twin Waters',
@@ -33229,7 +31555,7 @@ return array (
     'latitude' => -26.63422,
     'longitude' => 153.08114,
   ),
-  3692 => 
+  3506 => 
   array (
     'id' => 7594,
     'name' => 'Two Rocks',
@@ -33238,7 +31564,7 @@ return array (
     'latitude' => -31.49985,
     'longitude' => 115.58737,
   ),
-  3693 => 
+  3507 => 
   array (
     'id' => 7595,
     'name' => 'Two Wells',
@@ -33247,7 +31573,7 @@ return array (
     'latitude' => -34.59327,
     'longitude' => 138.51367,
   ),
-  3694 => 
+  3508 => 
   array (
     'id' => 7596,
     'name' => 'Tyabb',
@@ -33256,7 +31582,7 @@ return array (
     'latitude' => -38.25,
     'longitude' => 145.18333,
   ),
-  3695 => 
+  3509 => 
   array (
     'id' => 7597,
     'name' => 'Ulladulla',
@@ -33265,7 +31591,7 @@ return array (
     'latitude' => -35.35906,
     'longitude' => 150.47247,
   ),
-  3696 => 
+  3510 => 
   array (
     'id' => 7598,
     'name' => 'Ultimo',
@@ -33274,7 +31600,7 @@ return array (
     'latitude' => -33.87722,
     'longitude' => 151.1972,
   ),
-  3697 => 
+  3511 => 
   array (
     'id' => 7599,
     'name' => 'Ulverstone',
@@ -33283,7 +31609,7 @@ return array (
     'latitude' => -41.16026,
     'longitude' => 146.18242,
   ),
-  3698 => 
+  3512 => 
   array (
     'id' => 7600,
     'name' => 'Umina Beach',
@@ -33292,7 +31618,7 @@ return array (
     'latitude' => -33.52314,
     'longitude' => 151.31325,
   ),
-  3699 => 
+  3513 => 
   array (
     'id' => 7601,
     'name' => 'Unanderra',
@@ -33301,7 +31627,7 @@ return array (
     'latitude' => -34.45306,
     'longitude' => 150.84746,
   ),
-  3700 => 
+  3514 => 
   array (
     'id' => 7602,
     'name' => 'Underdale',
@@ -33310,7 +31636,7 @@ return array (
     'latitude' => -34.91803,
     'longitude' => 138.54704,
   ),
-  3701 => 
+  3515 => 
   array (
     'id' => 7603,
     'name' => 'Underwood',
@@ -33319,7 +31645,7 @@ return array (
     'latitude' => -27.60885,
     'longitude' => 153.1113,
   ),
-  3702 => 
+  3516 => 
   array (
     'id' => 7604,
     'name' => 'Unley',
@@ -33328,7 +31654,7 @@ return array (
     'latitude' => -34.95392,
     'longitude' => 138.60798,
   ),
-  3703 => 
+  3517 => 
   array (
     'id' => 7605,
     'name' => 'Unley Park',
@@ -33337,7 +31663,7 @@ return array (
     'latitude' => -34.96388,
     'longitude' => 138.60776,
   ),
-  3704 => 
+  3518 => 
   array (
     'id' => 7606,
     'name' => 'Upper Burnie',
@@ -33346,7 +31672,7 @@ return array (
     'latitude' => -41.07139,
     'longitude' => 145.8996,
   ),
-  3705 => 
+  3519 => 
   array (
     'id' => 7607,
     'name' => 'Upper Caboolture',
@@ -33355,7 +31681,7 @@ return array (
     'latitude' => -27.11667,
     'longitude' => 152.88333,
   ),
-  3706 => 
+  3520 => 
   array (
     'id' => 7608,
     'name' => 'Upper Coomera',
@@ -33364,7 +31690,7 @@ return array (
     'latitude' => -27.87683,
     'longitude' => 153.28572,
   ),
-  3707 => 
+  3521 => 
   array (
     'id' => 7609,
     'name' => 'Upper Gascoyne',
@@ -33373,7 +31699,7 @@ return array (
     'latitude' => -24.71935,
     'longitude' => 116.33876,
   ),
-  3708 => 
+  3522 => 
   array (
     'id' => 7610,
     'name' => 'Upper Hunter Shire',
@@ -33382,7 +31708,7 @@ return array (
     'latitude' => -31.98126,
     'longitude' => 150.69282,
   ),
-  3709 => 
+  3523 => 
   array (
     'id' => 7611,
     'name' => 'Upper Kedron',
@@ -33391,7 +31717,7 @@ return array (
     'latitude' => -27.41879,
     'longitude' => 152.91777,
   ),
-  3710 => 
+  3524 => 
   array (
     'id' => 7612,
     'name' => 'Upper Lachlan Shire',
@@ -33400,7 +31726,7 @@ return array (
     'latitude' => -34.41867,
     'longitude' => 149.53061,
   ),
-  3711 => 
+  3525 => 
   array (
     'id' => 7613,
     'name' => 'Upper Mount Gravatt',
@@ -33409,7 +31735,7 @@ return array (
     'latitude' => -27.56128,
     'longitude' => 153.08453,
   ),
-  3712 => 
+  3526 => 
   array (
     'id' => 7614,
     'name' => 'Upwey',
@@ -33418,7 +31744,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.33333,
   ),
-  3713 => 
+  3527 => 
   array (
     'id' => 7615,
     'name' => 'Uralla',
@@ -33427,7 +31753,7 @@ return array (
     'latitude' => -30.48548,
     'longitude' => 151.35451,
   ),
-  3714 => 
+  3528 => 
   array (
     'id' => 7616,
     'name' => 'Urangan',
@@ -33436,7 +31762,7 @@ return array (
     'latitude' => -25.29214,
     'longitude' => 152.90535,
   ),
-  3715 => 
+  3529 => 
   array (
     'id' => 7617,
     'name' => 'Urraween',
@@ -33445,7 +31771,7 @@ return array (
     'latitude' => -25.29522,
     'longitude' => 152.82206,
   ),
-  3716 => 
+  3530 => 
   array (
     'id' => 7618,
     'name' => 'Urunga',
@@ -33454,7 +31780,7 @@ return array (
     'latitude' => -30.49701,
     'longitude' => 153.01422,
   ),
-  3717 => 
+  3531 => 
   array (
     'id' => 7619,
     'name' => 'Usher',
@@ -33463,7 +31789,7 @@ return array (
     'latitude' => -33.37982,
     'longitude' => 115.6292,
   ),
-  3718 => 
+  3532 => 
   array (
     'id' => 7620,
     'name' => 'Utakarra',
@@ -33472,7 +31798,7 @@ return array (
     'latitude' => -28.78333,
     'longitude' => 114.65,
   ),
-  3719 => 
+  3533 => 
   array (
     'id' => 7621,
     'name' => 'Vale Park',
@@ -33481,7 +31807,7 @@ return array (
     'latitude' => -34.88604,
     'longitude' => 138.62714,
   ),
-  3720 => 
+  3534 => 
   array (
     'id' => 7622,
     'name' => 'Valentine',
@@ -33490,7 +31816,7 @@ return array (
     'latitude' => -33.01504,
     'longitude' => 151.6429,
   ),
-  3721 => 
+  3535 => 
   array (
     'id' => 7623,
     'name' => 'Valla Beach',
@@ -33499,7 +31825,7 @@ return array (
     'latitude' => -30.59259,
     'longitude' => 153.01131,
   ),
-  3722 => 
+  3536 => 
   array (
     'id' => 7624,
     'name' => 'Valley Heights',
@@ -33508,7 +31834,7 @@ return array (
     'latitude' => -33.7,
     'longitude' => 150.58333,
   ),
-  3723 => 
+  3537 => 
   array (
     'id' => 7625,
     'name' => 'Valley View',
@@ -33517,7 +31843,7 @@ return array (
     'latitude' => -34.83994,
     'longitude' => 138.66072,
   ),
-  3724 => 
+  3538 => 
   array (
     'id' => 7626,
     'name' => 'Varsity Lakes',
@@ -33526,7 +31852,7 @@ return array (
     'latitude' => -28.0894,
     'longitude' => 153.4122,
   ),
-  3725 => 
+  3539 => 
   array (
     'id' => 7627,
     'name' => 'Vasse',
@@ -33535,7 +31861,7 @@ return array (
     'latitude' => -33.69337,
     'longitude' => 115.2678,
   ),
-  3726 => 
+  3540 => 
   array (
     'id' => 7628,
     'name' => 'Vaucluse',
@@ -33544,7 +31870,7 @@ return array (
     'latitude' => -33.85549,
     'longitude' => 151.27754,
   ),
-  3727 => 
+  3541 => 
   array (
     'id' => 7629,
     'name' => 'Vermont',
@@ -33553,7 +31879,7 @@ return array (
     'latitude' => -37.83616,
     'longitude' => 145.19428,
   ),
-  3728 => 
+  3542 => 
   array (
     'id' => 7630,
     'name' => 'Vermont South',
@@ -33562,7 +31888,7 @@ return array (
     'latitude' => -37.85747,
     'longitude' => 145.1827,
   ),
-  3729 => 
+  3543 => 
   array (
     'id' => 7631,
     'name' => 'Victor Harbor',
@@ -33571,7 +31897,7 @@ return array (
     'latitude' => -35.51605,
     'longitude' => 138.5461,
   ),
-  3730 => 
+  3544 => 
   array (
     'id' => 7632,
     'name' => 'Victoria Daly',
@@ -33580,7 +31906,7 @@ return array (
     'latitude' => -15.9292,
     'longitude' => 130.76166,
   ),
-  3731 => 
+  3545 => 
   array (
     'id' => 7633,
     'name' => 'Victoria Park',
@@ -33589,7 +31915,7 @@ return array (
     'latitude' => -31.97651,
     'longitude' => 115.90592,
   ),
-  3732 => 
+  3546 => 
   array (
     'id' => 7634,
     'name' => 'Victoria Plains',
@@ -33598,7 +31924,7 @@ return array (
     'latitude' => -31.01632,
     'longitude' => 116.28546,
   ),
-  3733 => 
+  3547 => 
   array (
     'id' => 7635,
     'name' => 'Victoria Point',
@@ -33607,7 +31933,7 @@ return array (
     'latitude' => -27.58329,
     'longitude' => 153.31172,
   ),
-  3734 => 
+  3548 => 
   array (
     'id' => 7636,
     'name' => 'Viewbank',
@@ -33616,7 +31942,7 @@ return array (
     'latitude' => -37.73991,
     'longitude' => 145.09323,
   ),
-  3735 => 
+  3549 => 
   array (
     'id' => 7637,
     'name' => 'Villawood',
@@ -33625,7 +31951,7 @@ return array (
     'latitude' => -33.88434,
     'longitude' => 150.98027,
   ),
-  3736 => 
+  3550 => 
   array (
     'id' => 7638,
     'name' => 'Vincent',
@@ -33634,16 +31960,7 @@ return array (
     'latitude' => -31.93138,
     'longitude' => 115.85412,
   ),
-  3737 => 
-  array (
-    'id' => 7639,
-    'name' => 'Vincent',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -19.28341,
-    'longitude' => 146.76463,
-  ),
-  3738 => 
+  3551 => 
   array (
     'id' => 7640,
     'name' => 'Vincentia',
@@ -33652,7 +31969,7 @@ return array (
     'latitude' => -35.06825,
     'longitude' => 150.6748,
   ),
-  3739 => 
+  3552 => 
   array (
     'id' => 7641,
     'name' => 'Vineyard',
@@ -33661,7 +31978,7 @@ return array (
     'latitude' => -33.64995,
     'longitude' => 150.85259,
   ),
-  3740 => 
+  3553 => 
   array (
     'id' => 7642,
     'name' => 'Virginia',
@@ -33670,25 +31987,7 @@ return array (
     'latitude' => -34.6663,
     'longitude' => 138.56027,
   ),
-  3741 => 
-  array (
-    'id' => 7643,
-    'name' => 'Virginia',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -12.51895,
-    'longitude' => 131.02844,
-  ),
-  3742 => 
-  array (
-    'id' => 7644,
-    'name' => 'Virginia',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.38333,
-    'longitude' => 153.06667,
-  ),
-  3743 => 
+  3554 => 
   array (
     'id' => 7645,
     'name' => 'Viveash',
@@ -33697,7 +31996,7 @@ return array (
     'latitude' => -31.87861,
     'longitude' => 115.99661,
   ),
-  3744 => 
+  3555 => 
   array (
     'id' => 7646,
     'name' => 'Voyager Point',
@@ -33706,7 +32005,7 @@ return array (
     'latitude' => -33.95871,
     'longitude' => 150.97417,
   ),
-  3745 => 
+  3556 => 
   array (
     'id' => 7647,
     'name' => 'Wacol',
@@ -33715,7 +32014,7 @@ return array (
     'latitude' => -27.58333,
     'longitude' => 152.93333,
   ),
-  3746 => 
+  3557 => 
   array (
     'id' => 7648,
     'name' => 'Wadalba',
@@ -33724,7 +32023,7 @@ return array (
     'latitude' => -33.2723,
     'longitude' => 151.46487,
   ),
-  3747 => 
+  3558 => 
   array (
     'id' => 7649,
     'name' => 'Wadeye',
@@ -33733,7 +32032,7 @@ return array (
     'latitude' => -14.23834,
     'longitude' => 129.52177,
   ),
-  3748 => 
+  3559 => 
   array (
     'id' => 7650,
     'name' => 'Wagait',
@@ -33742,7 +32041,7 @@ return array (
     'latitude' => -12.44161,
     'longitude' => 130.7537,
   ),
-  3749 => 
+  3560 => 
   array (
     'id' => 7651,
     'name' => 'Wagaman',
@@ -33751,7 +32050,7 @@ return array (
     'latitude' => -12.38074,
     'longitude' => 130.88538,
   ),
-  3750 => 
+  3561 => 
   array (
     'id' => 7652,
     'name' => 'Wagga Wagga',
@@ -33760,7 +32059,7 @@ return array (
     'latitude' => -35.18587,
     'longitude' => 147.35509,
   ),
-  3751 => 
+  3562 => 
   array (
     'id' => 7653,
     'name' => 'Waggrakine',
@@ -33769,7 +32068,7 @@ return array (
     'latitude' => -28.71883,
     'longitude' => 114.63924,
   ),
-  3752 => 
+  3563 => 
   array (
     'id' => 7654,
     'name' => 'Wagin',
@@ -33778,7 +32077,7 @@ return array (
     'latitude' => -33.27501,
     'longitude' => 117.38554,
   ),
-  3753 => 
+  3564 => 
   array (
     'id' => 7655,
     'name' => 'Wahgunyah',
@@ -33787,7 +32086,7 @@ return array (
     'latitude' => -36.01178,
     'longitude' => 146.39714,
   ),
-  3754 => 
+  3565 => 
   array (
     'id' => 7656,
     'name' => 'Wahroonga',
@@ -33796,7 +32095,7 @@ return array (
     'latitude' => -33.71816,
     'longitude' => 151.11561,
   ),
-  3755 => 
+  3566 => 
   array (
     'id' => 7657,
     'name' => 'Waikerie',
@@ -33805,7 +32104,7 @@ return array (
     'latitude' => -34.18178,
     'longitude' => 139.98552,
   ),
-  3756 => 
+  3567 => 
   array (
     'id' => 7658,
     'name' => 'Waikiki',
@@ -33814,7 +32113,7 @@ return array (
     'latitude' => -32.31606,
     'longitude' => 115.7546,
   ),
-  3757 => 
+  3568 => 
   array (
     'id' => 7659,
     'name' => 'Waitara',
@@ -33823,7 +32122,7 @@ return array (
     'latitude' => -33.71092,
     'longitude' => 151.1033,
   ),
-  3758 => 
+  3569 => 
   array (
     'id' => 7660,
     'name' => 'Wakefield',
@@ -33832,7 +32131,7 @@ return array (
     'latitude' => -34.00743,
     'longitude' => 138.39455,
   ),
-  3759 => 
+  3570 => 
   array (
     'id' => 7661,
     'name' => 'Wakeley',
@@ -33841,7 +32140,7 @@ return array (
     'latitude' => -33.87427,
     'longitude' => 150.90976,
   ),
-  3760 => 
+  3571 => 
   array (
     'id' => 7662,
     'name' => 'Wakerley',
@@ -33850,7 +32149,7 @@ return array (
     'latitude' => -27.483,
     'longitude' => 153.15589,
   ),
-  3761 => 
+  3572 => 
   array (
     'id' => 7663,
     'name' => 'Walcha',
@@ -33859,7 +32158,7 @@ return array (
     'latitude' => -31.19757,
     'longitude' => 151.81854,
   ),
-  3762 => 
+  3573 => 
   array (
     'id' => 7664,
     'name' => 'Walgett',
@@ -33868,7 +32167,7 @@ return array (
     'latitude' => -29.79031,
     'longitude' => 148.13393,
   ),
-  3763 => 
+  3574 => 
   array (
     'id' => 7665,
     'name' => 'Walkerston',
@@ -33877,7 +32176,7 @@ return array (
     'latitude' => -21.16097,
     'longitude' => 149.05814,
   ),
-  3764 => 
+  3575 => 
   array (
     'id' => 7666,
     'name' => 'Walkervale',
@@ -33886,7 +32185,7 @@ return array (
     'latitude' => -24.88266,
     'longitude' => 152.35886,
   ),
-  3765 => 
+  3576 => 
   array (
     'id' => 7667,
     'name' => 'Walkerville',
@@ -33895,7 +32194,7 @@ return array (
     'latitude' => -34.89443,
     'longitude' => 138.61626,
   ),
-  3766 => 
+  3577 => 
   array (
     'id' => 7668,
     'name' => 'Walkley Heights',
@@ -33904,7 +32203,7 @@ return array (
     'latitude' => -34.83668,
     'longitude' => 138.64368,
   ),
-  3767 => 
+  3578 => 
   array (
     'id' => 7669,
     'name' => 'Wallacia',
@@ -33913,7 +32212,7 @@ return array (
     'latitude' => -33.86577,
     'longitude' => 150.64021,
   ),
-  3768 => 
+  3579 => 
   array (
     'id' => 7670,
     'name' => 'Wallalong',
@@ -33922,7 +32221,7 @@ return array (
     'latitude' => -32.69556,
     'longitude' => 151.64957,
   ),
-  3769 => 
+  3580 => 
   array (
     'id' => 7671,
     'name' => 'Wallan',
@@ -33931,7 +32230,7 @@ return array (
     'latitude' => -37.41625,
     'longitude' => 144.97859,
   ),
-  3770 => 
+  3581 => 
   array (
     'id' => 7672,
     'name' => 'Wallaroo',
@@ -33940,7 +32239,7 @@ return array (
     'latitude' => -33.93881,
     'longitude' => 137.63365,
   ),
-  3771 => 
+  3582 => 
   array (
     'id' => 7673,
     'name' => 'Wallerawang',
@@ -33949,7 +32248,7 @@ return array (
     'latitude' => -33.41096,
     'longitude' => 150.06456,
   ),
-  3772 => 
+  3583 => 
   array (
     'id' => 7674,
     'name' => 'Wallington',
@@ -33958,7 +32257,7 @@ return array (
     'latitude' => -38.22641,
     'longitude' => 144.51199,
   ),
-  3773 => 
+  3584 => 
   array (
     'id' => 7675,
     'name' => 'Walloon',
@@ -33967,7 +32266,7 @@ return array (
     'latitude' => -27.60545,
     'longitude' => 152.66429,
   ),
-  3774 => 
+  3585 => 
   array (
     'id' => 7676,
     'name' => 'Wallsend',
@@ -33976,7 +32275,7 @@ return array (
     'latitude' => -32.90133,
     'longitude' => 151.66432,
   ),
-  3775 => 
+  3586 => 
   array (
     'id' => 7677,
     'name' => 'Wamberal',
@@ -33985,7 +32284,7 @@ return array (
     'latitude' => -33.41554,
     'longitude' => 151.44559,
   ),
-  3776 => 
+  3587 => 
   array (
     'id' => 7678,
     'name' => 'Wamboin',
@@ -33994,7 +32293,7 @@ return array (
     'latitude' => -35.25073,
     'longitude' => 149.33284,
   ),
-  3777 => 
+  3588 => 
   array (
     'id' => 7679,
     'name' => 'Wamuran',
@@ -34003,7 +32302,7 @@ return array (
     'latitude' => -27.03909,
     'longitude' => 152.86542,
   ),
-  3778 => 
+  3589 => 
   array (
     'id' => 7680,
     'name' => 'Wandal',
@@ -34012,7 +32311,7 @@ return array (
     'latitude' => -23.36878,
     'longitude' => 150.49381,
   ),
-  3779 => 
+  3590 => 
   array (
     'id' => 7681,
     'name' => 'Wandana Heights',
@@ -34021,7 +32320,7 @@ return array (
     'latitude' => -38.17577,
     'longitude' => 144.30387,
   ),
-  3780 => 
+  3591 => 
   array (
     'id' => 7682,
     'name' => 'Wandering',
@@ -34030,7 +32329,7 @@ return array (
     'latitude' => -32.52589,
     'longitude' => 116.56668,
   ),
-  3781 => 
+  3592 => 
   array (
     'id' => 7683,
     'name' => 'Wandi',
@@ -34039,7 +32338,7 @@ return array (
     'latitude' => -32.1943,
     'longitude' => 115.8763,
   ),
-  3782 => 
+  3593 => 
   array (
     'id' => 7684,
     'name' => 'Wandin North',
@@ -34048,7 +32347,7 @@ return array (
     'latitude' => -37.78333,
     'longitude' => 145.43333,
   ),
-  3783 => 
+  3594 => 
   array (
     'id' => 7685,
     'name' => 'Wandina',
@@ -34057,7 +32356,7 @@ return array (
     'latitude' => -28.81938,
     'longitude' => 114.63464,
   ),
-  3784 => 
+  3595 => 
   array (
     'id' => 7686,
     'name' => 'Wandoan',
@@ -34066,7 +32365,7 @@ return array (
     'latitude' => -26.12285,
     'longitude' => 149.96028,
   ),
-  3785 => 
+  3596 => 
   array (
     'id' => 7687,
     'name' => 'Wandong',
@@ -34075,7 +32374,7 @@ return array (
     'latitude' => -37.3719,
     'longitude' => 145.03207,
   ),
-  3786 => 
+  3597 => 
   array (
     'id' => 7688,
     'name' => 'Wangaratta',
@@ -34084,7 +32383,7 @@ return array (
     'latitude' => -36.61599,
     'longitude' => 146.42839,
   ),
-  3787 => 
+  3598 => 
   array (
     'id' => 7689,
     'name' => 'Wangi Wangi',
@@ -34093,7 +32392,7 @@ return array (
     'latitude' => -33.07185,
     'longitude' => 151.5984,
   ),
-  3788 => 
+  3599 => 
   array (
     'id' => 7690,
     'name' => 'Wanguri',
@@ -34102,7 +32401,7 @@ return array (
     'latitude' => -12.37129,
     'longitude' => 130.88815,
   ),
-  3789 => 
+  3600 => 
   array (
     'id' => 7691,
     'name' => 'Wannanup',
@@ -34111,7 +32410,7 @@ return array (
     'latitude' => -32.59946,
     'longitude' => 115.64488,
   ),
-  3790 => 
+  3601 => 
   array (
     'id' => 7692,
     'name' => 'Wanneroo',
@@ -34120,7 +32419,7 @@ return array (
     'latitude' => -31.65293,
     'longitude' => 115.72211,
   ),
-  3791 => 
+  3602 => 
   array (
     'id' => 7693,
     'name' => 'Wanniassa',
@@ -34129,7 +32428,7 @@ return array (
     'latitude' => -35.39783,
     'longitude' => 149.09086,
   ),
-  3792 => 
+  3603 => 
   array (
     'id' => 7694,
     'name' => 'Wantirna',
@@ -34138,7 +32437,7 @@ return array (
     'latitude' => -37.85,
     'longitude' => 145.21667,
   ),
-  3793 => 
+  3604 => 
   array (
     'id' => 7695,
     'name' => 'Wantirna South',
@@ -34147,7 +32446,7 @@ return array (
     'latitude' => -37.88333,
     'longitude' => 145.21667,
   ),
-  3794 => 
+  3605 => 
   array (
     'id' => 7696,
     'name' => 'Warabrook',
@@ -34156,7 +32455,7 @@ return array (
     'latitude' => -32.88885,
     'longitude' => 151.71493,
   ),
-  3795 => 
+  3606 => 
   array (
     'id' => 7697,
     'name' => 'Waramanga',
@@ -34165,7 +32464,7 @@ return array (
     'latitude' => -35.35297,
     'longitude' => 149.06214,
   ),
-  3796 => 
+  3607 => 
   array (
     'id' => 7698,
     'name' => 'Warana',
@@ -34174,7 +32473,7 @@ return array (
     'latitude' => -26.72273,
     'longitude' => 153.12688,
   ),
-  3797 => 
+  3608 => 
   array (
     'id' => 7699,
     'name' => 'Waratah',
@@ -34183,7 +32482,7 @@ return array (
     'latitude' => -32.90667,
     'longitude' => 151.72647,
   ),
-  3798 => 
+  3609 => 
   array (
     'id' => 7700,
     'name' => 'Waratah West',
@@ -34192,7 +32491,7 @@ return array (
     'latitude' => -32.90003,
     'longitude' => 151.7117,
   ),
-  3799 => 
+  3610 => 
   array (
     'id' => 7701,
     'name' => 'Waratah/Wynyard',
@@ -34201,7 +32500,7 @@ return array (
     'latitude' => -41.30709,
     'longitude' => 145.45831,
   ),
-  3800 => 
+  3611 => 
   array (
     'id' => 7702,
     'name' => 'Warburton',
@@ -34210,7 +32509,7 @@ return array (
     'latitude' => -37.75375,
     'longitude' => 145.69037,
   ),
-  3801 => 
+  3612 => 
   array (
     'id' => 7703,
     'name' => 'Wareemba',
@@ -34219,7 +32518,7 @@ return array (
     'latitude' => -33.85819,
     'longitude' => 151.13085,
   ),
-  3802 => 
+  3613 => 
   array (
     'id' => 7704,
     'name' => 'Warialda',
@@ -34228,7 +32527,7 @@ return array (
     'latitude' => -29.54354,
     'longitude' => 150.57542,
   ),
-  3803 => 
+  3614 => 
   array (
     'id' => 7705,
     'name' => 'Warilla',
@@ -34237,7 +32536,7 @@ return array (
     'latitude' => -34.55185,
     'longitude' => 150.85831,
   ),
-  3804 => 
+  3615 => 
   array (
     'id' => 7706,
     'name' => 'Warnbro',
@@ -34246,7 +32545,7 @@ return array (
     'latitude' => -32.34017,
     'longitude' => 115.7473,
   ),
-  3805 => 
+  3616 => 
   array (
     'id' => 7707,
     'name' => 'Warner',
@@ -34255,7 +32554,7 @@ return array (
     'latitude' => -27.31222,
     'longitude' => 152.94981,
   ),
-  3806 => 
+  3617 => 
   array (
     'id' => 7708,
     'name' => 'Warners Bay',
@@ -34264,7 +32563,7 @@ return array (
     'latitude' => -32.97251,
     'longitude' => 151.65268,
   ),
-  3807 => 
+  3618 => 
   array (
     'id' => 7709,
     'name' => 'Waroona',
@@ -34273,7 +32572,7 @@ return array (
     'latitude' => -32.84916,
     'longitude' => 115.90429,
   ),
-  3808 => 
+  3619 => 
   array (
     'id' => 7710,
     'name' => 'Warracknabeal',
@@ -34282,7 +32581,7 @@ return array (
     'latitude' => -36.25326,
     'longitude' => 142.39281,
   ),
-  3809 => 
+  3620 => 
   array (
     'id' => 7711,
     'name' => 'Warradale',
@@ -34291,7 +32590,7 @@ return array (
     'latitude' => -34.99717,
     'longitude' => 138.53155,
   ),
-  3810 => 
+  3621 => 
   array (
     'id' => 7712,
     'name' => 'Warragamba',
@@ -34300,7 +32599,7 @@ return array (
     'latitude' => -33.89191,
     'longitude' => 150.60461,
   ),
-  3811 => 
+  3622 => 
   array (
     'id' => 7713,
     'name' => 'Warragul',
@@ -34309,7 +32608,7 @@ return array (
     'latitude' => -38.15912,
     'longitude' => 145.93118,
   ),
-  3812 => 
+  3623 => 
   array (
     'id' => 7714,
     'name' => 'Warrandyte',
@@ -34318,7 +32617,7 @@ return array (
     'latitude' => -37.75,
     'longitude' => 145.23333,
   ),
-  3813 => 
+  3624 => 
   array (
     'id' => 7715,
     'name' => 'Warrane',
@@ -34327,7 +32626,7 @@ return array (
     'latitude' => -42.85546,
     'longitude' => 147.38297,
   ),
-  3814 => 
+  3625 => 
   array (
     'id' => 7716,
     'name' => 'Warranwood',
@@ -34336,7 +32635,7 @@ return array (
     'latitude' => -37.77555,
     'longitude' => 145.24728,
   ),
-  3815 => 
+  3626 => 
   array (
     'id' => 7717,
     'name' => 'Warrawee',
@@ -34345,7 +32644,7 @@ return array (
     'latitude' => -33.72884,
     'longitude' => 151.12051,
   ),
-  3816 => 
+  3627 => 
   array (
     'id' => 7718,
     'name' => 'Warrawong',
@@ -34354,7 +32653,7 @@ return array (
     'latitude' => -34.485,
     'longitude' => 150.88833,
   ),
-  3817 => 
+  3628 => 
   array (
     'id' => 7719,
     'name' => 'Warren',
@@ -34363,7 +32662,7 @@ return array (
     'latitude' => -31.70224,
     'longitude' => 147.83392,
   ),
-  3818 => 
+  3629 => 
   array (
     'id' => 7720,
     'name' => 'Warren Shire',
@@ -34372,7 +32671,7 @@ return array (
     'latitude' => -31.29549,
     'longitude' => 147.72853,
   ),
-  3819 => 
+  3630 => 
   array (
     'id' => 7721,
     'name' => 'Warriewood',
@@ -34381,7 +32680,7 @@ return array (
     'latitude' => -33.68857,
     'longitude' => 151.29534,
   ),
-  3820 => 
+  3631 => 
   array (
     'id' => 7722,
     'name' => 'Warrimoo',
@@ -34390,7 +32689,7 @@ return array (
     'latitude' => -33.71667,
     'longitude' => 150.6,
   ),
-  3821 => 
+  3632 => 
   array (
     'id' => 7723,
     'name' => 'Warrnambool',
@@ -34399,7 +32698,7 @@ return array (
     'latitude' => -38.38176,
     'longitude' => 142.48799,
   ),
-  3822 => 
+  3633 => 
   array (
     'id' => 7724,
     'name' => 'Warrumbungle Shire',
@@ -34408,7 +32707,7 @@ return array (
     'latitude' => -31.45519,
     'longitude' => 149.45377,
   ),
-  3823 => 
+  3634 => 
   array (
     'id' => 7725,
     'name' => 'Warwick',
@@ -34417,16 +32716,7 @@ return array (
     'latitude' => -28.21901,
     'longitude' => 152.03438,
   ),
-  3824 => 
-  array (
-    'id' => 7726,
-    'name' => 'Warwick',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.83974,
-    'longitude' => 115.80855,
-  ),
-  3825 => 
+  3635 => 
   array (
     'id' => 7727,
     'name' => 'Warwick Farm',
@@ -34435,7 +32725,7 @@ return array (
     'latitude' => -33.91291,
     'longitude' => 150.93701,
   ),
-  3826 => 
+  3636 => 
   array (
     'id' => 7728,
     'name' => 'Watanobbi',
@@ -34444,7 +32734,7 @@ return array (
     'latitude' => -33.26772,
     'longitude' => 151.42246,
   ),
-  3827 => 
+  3637 => 
   array (
     'id' => 7729,
     'name' => 'Waterford',
@@ -34453,7 +32743,7 @@ return array (
     'latitude' => -32.01574,
     'longitude' => 115.88662,
   ),
-  3828 => 
+  3638 => 
   array (
     'id' => 7730,
     'name' => 'Waterford West',
@@ -34462,7 +32752,7 @@ return array (
     'latitude' => -27.69056,
     'longitude' => 153.13319,
   ),
-  3829 => 
+  3639 => 
   array (
     'id' => 7731,
     'name' => 'Waterloo Corner',
@@ -34471,7 +32761,7 @@ return array (
     'latitude' => -34.71667,
     'longitude' => 138.58333,
   ),
-  3830 => 
+  3640 => 
   array (
     'id' => 7732,
     'name' => 'Watermans Bay',
@@ -34480,7 +32770,7 @@ return array (
     'latitude' => -31.84915,
     'longitude' => 115.7559,
   ),
-  3831 => 
+  3641 => 
   array (
     'id' => 7733,
     'name' => 'Waterview Heights',
@@ -34489,7 +32779,7 @@ return array (
     'latitude' => -29.69775,
     'longitude' => 152.83922,
   ),
-  3832 => 
+  3642 => 
   array (
     'id' => 7734,
     'name' => 'Waterways',
@@ -34498,7 +32788,7 @@ return array (
     'latitude' => -38.01478,
     'longitude' => 145.1305,
   ),
-  3833 => 
+  3643 => 
   array (
     'id' => 7735,
     'name' => 'Watson',
@@ -34507,7 +32797,7 @@ return array (
     'latitude' => -35.23815,
     'longitude' => 149.15271,
   ),
-  3834 => 
+  3644 => 
   array (
     'id' => 7736,
     'name' => 'Watsonia',
@@ -34516,7 +32806,7 @@ return array (
     'latitude' => -37.71667,
     'longitude' => 145.08333,
   ),
-  3835 => 
+  3645 => 
   array (
     'id' => 7737,
     'name' => 'Watsonia North',
@@ -34525,7 +32815,7 @@ return array (
     'latitude' => -37.69981,
     'longitude' => 145.08468,
   ),
-  3836 => 
+  3646 => 
   array (
     'id' => 7738,
     'name' => 'Wattle Grove',
@@ -34534,16 +32824,7 @@ return array (
     'latitude' => -33.95443,
     'longitude' => 150.94447,
   ),
-  3837 => 
-  array (
-    'id' => 7739,
-    'name' => 'Wattle Grove',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.00672,
-    'longitude' => 116.00046,
-  ),
-  3838 => 
+  3647 => 
   array (
     'id' => 7740,
     'name' => 'Wattle Park',
@@ -34552,7 +32833,7 @@ return array (
     'latitude' => -34.92516,
     'longitude' => 138.67501,
   ),
-  3839 => 
+  3648 => 
   array (
     'id' => 7741,
     'name' => 'Wattle Ponds',
@@ -34561,7 +32842,7 @@ return array (
     'latitude' => -32.52026,
     'longitude' => 151.19359,
   ),
-  3840 => 
+  3649 => 
   array (
     'id' => 7742,
     'name' => 'Wattle Range',
@@ -34570,7 +32851,7 @@ return array (
     'latitude' => -37.50804,
     'longitude' => 140.42114,
   ),
-  3841 => 
+  3650 => 
   array (
     'id' => 7743,
     'name' => 'Wattleglen',
@@ -34579,7 +32860,7 @@ return array (
     'latitude' => -37.66667,
     'longitude' => 145.18333,
   ),
-  3842 => 
+  3651 => 
   array (
     'id' => 7744,
     'name' => 'Wauchope',
@@ -34588,7 +32869,7 @@ return array (
     'latitude' => -31.45792,
     'longitude' => 152.72617,
   ),
-  3843 => 
+  3652 => 
   array (
     'id' => 7745,
     'name' => 'Waurn Ponds',
@@ -34597,7 +32878,7 @@ return array (
     'latitude' => -38.21667,
     'longitude' => 144.28333,
   ),
-  3844 => 
+  3653 => 
   array (
     'id' => 7746,
     'name' => 'Wavell Heights',
@@ -34606,7 +32887,7 @@ return array (
     'latitude' => -27.39385,
     'longitude' => 153.04698,
   ),
-  3845 => 
+  3654 => 
   array (
     'id' => 7747,
     'name' => 'Waverley',
@@ -34615,16 +32896,7 @@ return array (
     'latitude' => -33.90181,
     'longitude' => 151.25599,
   ),
-  3846 => 
-  array (
-    'id' => 7748,
-    'name' => 'Waverley',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -41.43602,
-    'longitude' => 147.18588,
-  ),
-  3847 => 
+  3655 => 
   array (
     'id' => 7749,
     'name' => 'Waverton',
@@ -34633,7 +32905,7 @@ return array (
     'latitude' => -33.83863,
     'longitude' => 151.20046,
   ),
-  3848 => 
+  3656 => 
   array (
     'id' => 7750,
     'name' => 'Wayville',
@@ -34642,7 +32914,7 @@ return array (
     'latitude' => -34.94468,
     'longitude' => 138.59132,
   ),
-  3849 => 
+  3657 => 
   array (
     'id' => 7751,
     'name' => 'Weddin',
@@ -34651,7 +32923,7 @@ return array (
     'latitude' => -33.87903,
     'longitude' => 148.01125,
   ),
-  3850 => 
+  3658 => 
   array (
     'id' => 7752,
     'name' => 'Wee Waa',
@@ -34660,7 +32932,7 @@ return array (
     'latitude' => -30.2266,
     'longitude' => 149.44041,
   ),
-  3851 => 
+  3659 => 
   array (
     'id' => 7753,
     'name' => 'Weetangera',
@@ -34669,7 +32941,7 @@ return array (
     'latitude' => -35.25,
     'longitude' => 149.05,
   ),
-  3852 => 
+  3660 => 
   array (
     'id' => 7754,
     'name' => 'Weipa',
@@ -34678,7 +32950,7 @@ return array (
     'latitude' => -12.63671,
     'longitude' => 141.87555,
   ),
-  3853 => 
+  3661 => 
   array (
     'id' => 7755,
     'name' => 'Wellard',
@@ -34687,7 +32959,7 @@ return array (
     'latitude' => -32.26667,
     'longitude' => 115.83333,
   ),
-  3854 => 
+  3662 => 
   array (
     'id' => 7756,
     'name' => 'Wellesley Islands',
@@ -34696,7 +32968,7 @@ return array (
     'latitude' => -16.63184,
     'longitude' => 139.4014,
   ),
-  3855 => 
+  3663 => 
   array (
     'id' => 7757,
     'name' => 'Wellington',
@@ -34705,16 +32977,7 @@ return array (
     'latitude' => -38.03765,
     'longitude' => 147.01697,
   ),
-  3856 => 
-  array (
-    'id' => 7758,
-    'name' => 'Wellington',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -32.55588,
-    'longitude' => 148.94508,
-  ),
-  3857 => 
+  3664 => 
   array (
     'id' => 7759,
     'name' => 'Wellington Point',
@@ -34723,7 +32986,7 @@ return array (
     'latitude' => -27.48333,
     'longitude' => 153.25,
   ),
-  3858 => 
+  3665 => 
   array (
     'id' => 7760,
     'name' => 'Wembley',
@@ -34732,7 +32995,7 @@ return array (
     'latitude' => -31.93308,
     'longitude' => 115.81783,
   ),
-  3859 => 
+  3666 => 
   array (
     'id' => 7761,
     'name' => 'Wembley Downs',
@@ -34741,7 +33004,7 @@ return array (
     'latitude' => -31.91169,
     'longitude' => 115.77358,
   ),
-  3860 => 
+  3667 => 
   array (
     'id' => 7762,
     'name' => 'Wendouree',
@@ -34750,7 +33013,7 @@ return array (
     'latitude' => -37.53078,
     'longitude' => 143.82838,
   ),
-  3861 => 
+  3668 => 
   array (
     'id' => 7763,
     'name' => 'Wentworth',
@@ -34759,7 +33022,7 @@ return array (
     'latitude' => -33.67106,
     'longitude' => 142.33675,
   ),
-  3862 => 
+  3669 => 
   array (
     'id' => 7764,
     'name' => 'Wentworth Falls',
@@ -34768,7 +33031,7 @@ return array (
     'latitude' => -33.71033,
     'longitude' => 150.37534,
   ),
-  3863 => 
+  3670 => 
   array (
     'id' => 7765,
     'name' => 'Wentworth Point',
@@ -34777,7 +33040,7 @@ return array (
     'latitude' => -33.8308,
     'longitude' => 151.07441,
   ),
-  3864 => 
+  3671 => 
   array (
     'id' => 7766,
     'name' => 'Wentworthville',
@@ -34786,7 +33049,7 @@ return array (
     'latitude' => -33.80652,
     'longitude' => 150.96785,
   ),
-  3865 => 
+  3672 => 
   array (
     'id' => 7767,
     'name' => 'Werribee',
@@ -34795,7 +33058,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 144.66667,
   ),
-  3866 => 
+  3673 => 
   array (
     'id' => 7768,
     'name' => 'Werribee South',
@@ -34804,7 +33067,7 @@ return array (
     'latitude' => -37.9475,
     'longitude' => 144.71667,
   ),
-  3867 => 
+  3674 => 
   array (
     'id' => 7769,
     'name' => 'Werrington',
@@ -34813,7 +33076,7 @@ return array (
     'latitude' => -33.7592,
     'longitude' => 150.75266,
   ),
-  3868 => 
+  3675 => 
   array (
     'id' => 7770,
     'name' => 'Werrington County',
@@ -34822,7 +33085,7 @@ return array (
     'latitude' => -33.7465,
     'longitude' => 150.73929,
   ),
-  3869 => 
+  3676 => 
   array (
     'id' => 7771,
     'name' => 'Werrington Downs',
@@ -34831,7 +33094,7 @@ return array (
     'latitude' => -33.74206,
     'longitude' => 150.72779,
   ),
-  3870 => 
+  3677 => 
   array (
     'id' => 7772,
     'name' => 'Werris Creek',
@@ -34840,7 +33103,7 @@ return array (
     'latitude' => -31.34908,
     'longitude' => 150.6487,
   ),
-  3871 => 
+  3678 => 
   array (
     'id' => 7773,
     'name' => 'Wesburn',
@@ -34849,7 +33112,7 @@ return array (
     'latitude' => -37.76667,
     'longitude' => 145.63333,
   ),
-  3872 => 
+  3679 => 
   array (
     'id' => 7774,
     'name' => 'West Albury',
@@ -34858,7 +33121,7 @@ return array (
     'latitude' => -36.07979,
     'longitude' => 146.89227,
   ),
-  3873 => 
+  3680 => 
   array (
     'id' => 7775,
     'name' => 'West Arnhem',
@@ -34867,7 +33130,7 @@ return array (
     'latitude' => -12.38723,
     'longitude' => 133.37935,
   ),
-  3874 => 
+  3681 => 
   array (
     'id' => 7776,
     'name' => 'West Arthur',
@@ -34876,7 +33139,7 @@ return array (
     'latitude' => -33.44057,
     'longitude' => 116.68597,
   ),
-  3875 => 
+  3682 => 
   array (
     'id' => 7777,
     'name' => 'West Ballina',
@@ -34885,7 +33148,7 @@ return array (
     'latitude' => -28.862,
     'longitude' => 153.53291,
   ),
-  3876 => 
+  3683 => 
   array (
     'id' => 7778,
     'name' => 'West Bathurst',
@@ -34894,7 +33157,7 @@ return array (
     'latitude' => -33.4092,
     'longitude' => 149.56324,
   ),
-  3877 => 
+  3684 => 
   array (
     'id' => 7779,
     'name' => 'West Beach',
@@ -34903,16 +33166,7 @@ return array (
     'latitude' => -34.94597,
     'longitude' => 138.50935,
   ),
-  3878 => 
-  array (
-    'id' => 7780,
-    'name' => 'West Beach',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.87464,
-    'longitude' => 121.89013,
-  ),
-  3879 => 
+  3685 => 
   array (
     'id' => 7781,
     'name' => 'West Busselton',
@@ -34921,7 +33175,7 @@ return array (
     'latitude' => -33.65792,
     'longitude' => 115.32293,
   ),
-  3880 => 
+  3686 => 
   array (
     'id' => 7782,
     'name' => 'West Coast',
@@ -34930,7 +33184,7 @@ return array (
     'latitude' => -42.45246,
     'longitude' => 145.52264,
   ),
-  3881 => 
+  3687 => 
   array (
     'id' => 7783,
     'name' => 'West Croydon',
@@ -34939,7 +33193,7 @@ return array (
     'latitude' => -34.89448,
     'longitude' => 138.55931,
   ),
-  3882 => 
+  3688 => 
   array (
     'id' => 7784,
     'name' => 'West End',
@@ -34948,7 +33202,7 @@ return array (
     'latitude' => -27.47923,
     'longitude' => 153.0096,
   ),
-  3883 => 
+  3689 => 
   array (
     'id' => 7785,
     'name' => 'West Footscray',
@@ -34957,7 +33211,7 @@ return array (
     'latitude' => -37.79746,
     'longitude' => 144.87727,
   ),
-  3884 => 
+  3690 => 
   array (
     'id' => 7786,
     'name' => 'West Gladstone',
@@ -34966,7 +33220,7 @@ return array (
     'latitude' => -23.86123,
     'longitude' => 151.2453,
   ),
-  3885 => 
+  3691 => 
   array (
     'id' => 7787,
     'name' => 'West Gosford',
@@ -34975,7 +33229,7 @@ return array (
     'latitude' => -33.42578,
     'longitude' => 151.31701,
   ),
-  3886 => 
+  3692 => 
   array (
     'id' => 7788,
     'name' => 'West Haven',
@@ -34984,7 +33238,7 @@ return array (
     'latitude' => -31.63555,
     'longitude' => 152.78378,
   ),
-  3887 => 
+  3693 => 
   array (
     'id' => 7789,
     'name' => 'West Hindmarsh',
@@ -34993,7 +33247,7 @@ return array (
     'latitude' => -34.90794,
     'longitude' => 138.56412,
   ),
-  3888 => 
+  3694 => 
   array (
     'id' => 7790,
     'name' => 'West Hobart',
@@ -35002,7 +33256,7 @@ return array (
     'latitude' => -42.87658,
     'longitude' => 147.30688,
   ),
-  3889 => 
+  3695 => 
   array (
     'id' => 7791,
     'name' => 'West Hoxton',
@@ -35011,7 +33265,7 @@ return array (
     'latitude' => -33.93388,
     'longitude' => 150.83234,
   ),
-  3890 => 
+  3696 => 
   array (
     'id' => 7792,
     'name' => 'West Kempsey',
@@ -35020,7 +33274,7 @@ return array (
     'latitude' => -31.05757,
     'longitude' => 152.82794,
   ),
-  3891 => 
+  3697 => 
   array (
     'id' => 7793,
     'name' => 'West Lakes',
@@ -35029,7 +33283,7 @@ return array (
     'latitude' => -34.87299,
     'longitude' => 138.49458,
   ),
-  3892 => 
+  3698 => 
   array (
     'id' => 7794,
     'name' => 'West Lakes Shore',
@@ -35038,7 +33292,7 @@ return array (
     'latitude' => -34.8601,
     'longitude' => 138.48966,
   ),
-  3893 => 
+  3699 => 
   array (
     'id' => 7795,
     'name' => 'West Lamington',
@@ -35047,7 +33301,7 @@ return array (
     'latitude' => -30.74707,
     'longitude' => 121.45248,
   ),
-  3894 => 
+  3700 => 
   array (
     'id' => 7796,
     'name' => 'West Launceston',
@@ -35056,7 +33310,7 @@ return array (
     'latitude' => -41.45092,
     'longitude' => 147.13114,
   ),
-  3895 => 
+  3701 => 
   array (
     'id' => 7797,
     'name' => 'West Leederville',
@@ -35065,7 +33319,7 @@ return array (
     'latitude' => -31.94141,
     'longitude' => 115.83117,
   ),
-  3896 => 
+  3702 => 
   array (
     'id' => 7798,
     'name' => 'West Mackay',
@@ -35074,7 +33328,7 @@ return array (
     'latitude' => -21.15467,
     'longitude' => 149.16181,
   ),
-  3897 => 
+  3703 => 
   array (
     'id' => 7799,
     'name' => 'West Melbourne',
@@ -35083,7 +33337,7 @@ return array (
     'latitude' => -37.81014,
     'longitude' => 144.95,
   ),
-  3898 => 
+  3704 => 
   array (
     'id' => 7800,
     'name' => 'West Moonah',
@@ -35092,7 +33346,7 @@ return array (
     'latitude' => -42.84996,
     'longitude' => 147.28181,
   ),
-  3899 => 
+  3705 => 
   array (
     'id' => 7801,
     'name' => 'West Nowra',
@@ -35101,7 +33355,7 @@ return array (
     'latitude' => -34.88593,
     'longitude' => 150.58333,
   ),
-  3900 => 
+  3706 => 
   array (
     'id' => 7802,
     'name' => 'West Pennant Hills',
@@ -35110,7 +33364,7 @@ return array (
     'latitude' => -33.7457,
     'longitude' => 151.04764,
   ),
-  3901 => 
+  3707 => 
   array (
     'id' => 7803,
     'name' => 'West Perth',
@@ -35119,7 +33373,7 @@ return array (
     'latitude' => -31.94896,
     'longitude' => 115.84199,
   ),
-  3902 => 
+  3708 => 
   array (
     'id' => 7804,
     'name' => 'West Pymble',
@@ -35128,7 +33382,7 @@ return array (
     'latitude' => -33.76667,
     'longitude' => 151.13333,
   ),
-  3903 => 
+  3709 => 
   array (
     'id' => 7805,
     'name' => 'West Rockhampton',
@@ -35137,7 +33391,7 @@ return array (
     'latitude' => -23.37941,
     'longitude' => 150.48175,
   ),
-  3904 => 
+  3710 => 
   array (
     'id' => 7806,
     'name' => 'West Ryde',
@@ -35146,7 +33400,7 @@ return array (
     'latitude' => -33.80543,
     'longitude' => 151.07386,
   ),
-  3905 => 
+  3711 => 
   array (
     'id' => 7807,
     'name' => 'West Tamar',
@@ -35155,7 +33409,7 @@ return array (
     'latitude' => -41.26441,
     'longitude' => 146.89123,
   ),
-  3906 => 
+  3712 => 
   array (
     'id' => 7808,
     'name' => 'West Tamworth',
@@ -35164,7 +33418,7 @@ return array (
     'latitude' => -31.10236,
     'longitude' => 150.91447,
   ),
-  3907 => 
+  3713 => 
   array (
     'id' => 7809,
     'name' => 'West Ulverstone',
@@ -35173,7 +33427,7 @@ return array (
     'latitude' => -41.14744,
     'longitude' => 146.1267,
   ),
-  3908 => 
+  3714 => 
   array (
     'id' => 7810,
     'name' => 'West Wallsend',
@@ -35182,7 +33436,7 @@ return array (
     'latitude' => -32.9,
     'longitude' => 151.58333,
   ),
-  3909 => 
+  3715 => 
   array (
     'id' => 7811,
     'name' => 'West Wimmera',
@@ -35191,7 +33445,7 @@ return array (
     'latitude' => -36.59921,
     'longitude' => 141.40038,
   ),
-  3910 => 
+  3716 => 
   array (
     'id' => 7812,
     'name' => 'West Wodonga',
@@ -35200,7 +33454,7 @@ return array (
     'latitude' => -36.12346,
     'longitude' => 146.85193,
   ),
-  3911 => 
+  3717 => 
   array (
     'id' => 7813,
     'name' => 'West Wollongong',
@@ -35209,7 +33463,7 @@ return array (
     'latitude' => -34.4248,
     'longitude' => 150.86417,
   ),
-  3912 => 
+  3718 => 
   array (
     'id' => 7814,
     'name' => 'West Woombye',
@@ -35218,7 +33472,7 @@ return array (
     'latitude' => -26.66644,
     'longitude' => 152.92557,
   ),
-  3913 => 
+  3719 => 
   array (
     'id' => 7815,
     'name' => 'West Wyalong',
@@ -35227,7 +33481,7 @@ return array (
     'latitude' => -33.92373,
     'longitude' => 147.20473,
   ),
-  3914 => 
+  3720 => 
   array (
     'id' => 7816,
     'name' => 'Westbourne Park',
@@ -35236,7 +33490,7 @@ return array (
     'latitude' => -34.97165,
     'longitude' => 138.59525,
   ),
-  3915 => 
+  3721 => 
   array (
     'id' => 7817,
     'name' => 'Westbrook',
@@ -35245,7 +33499,7 @@ return array (
     'latitude' => -27.61667,
     'longitude' => 151.86667,
   ),
-  3916 => 
+  3722 => 
   array (
     'id' => 7818,
     'name' => 'Westbury',
@@ -35254,7 +33508,7 @@ return array (
     'latitude' => -41.52914,
     'longitude' => 146.83914,
   ),
-  3917 => 
+  3723 => 
   array (
     'id' => 7819,
     'name' => 'Westcourt',
@@ -35263,7 +33517,7 @@ return array (
     'latitude' => -26.8,
     'longitude' => 150.15,
   ),
-  3918 => 
+  3724 => 
   array (
     'id' => 7820,
     'name' => 'Westdale',
@@ -35272,7 +33526,7 @@ return array (
     'latitude' => -31.09052,
     'longitude' => 150.85678,
   ),
-  3919 => 
+  3725 => 
   array (
     'id' => 7821,
     'name' => 'Western Downs',
@@ -35281,7 +33535,7 @@ return array (
     'latitude' => -26.80665,
     'longitude' => 150.3859,
   ),
-  3920 => 
+  3726 => 
   array (
     'id' => 7822,
     'name' => 'Westlake',
@@ -35290,7 +33544,7 @@ return array (
     'latitude' => -27.54862,
     'longitude' => 152.91276,
   ),
-  3921 => 
+  3727 => 
   array (
     'id' => 7823,
     'name' => 'Westleigh',
@@ -35299,7 +33553,7 @@ return array (
     'latitude' => -33.71176,
     'longitude' => 151.07139,
   ),
-  3922 => 
+  3728 => 
   array (
     'id' => 7824,
     'name' => 'Westmead',
@@ -35308,7 +33562,7 @@ return array (
     'latitude' => -33.80383,
     'longitude' => 150.98768,
   ),
-  3923 => 
+  3729 => 
   array (
     'id' => 7825,
     'name' => 'Westmeadows',
@@ -35317,7 +33571,7 @@ return array (
     'latitude' => -37.67604,
     'longitude' => 144.88701,
   ),
-  3924 => 
+  3730 => 
   array (
     'id' => 7826,
     'name' => 'Westminster',
@@ -35326,7 +33580,7 @@ return array (
     'latitude' => -31.86744,
     'longitude' => 115.83919,
   ),
-  3925 => 
+  3731 => 
   array (
     'id' => 7827,
     'name' => 'Weston',
@@ -35335,7 +33589,7 @@ return array (
     'latitude' => -35.33582,
     'longitude' => 149.05929,
   ),
-  3926 => 
+  3732 => 
   array (
     'id' => 7828,
     'name' => 'Westonia',
@@ -35344,7 +33598,7 @@ return array (
     'latitude' => -30.88436,
     'longitude' => 118.72974,
   ),
-  3927 => 
+  3733 => 
   array (
     'id' => 7829,
     'name' => 'Wetherill Park',
@@ -35353,7 +33607,7 @@ return array (
     'latitude' => -33.84277,
     'longitude' => 150.90061,
   ),
-  3928 => 
+  3734 => 
   array (
     'id' => 7830,
     'name' => 'Whalan',
@@ -35362,7 +33616,7 @@ return array (
     'latitude' => -33.75697,
     'longitude' => 150.80402,
   ),
-  3929 => 
+  3735 => 
   array (
     'id' => 7831,
     'name' => 'Wheeler Heights',
@@ -35371,7 +33625,7 @@ return array (
     'latitude' => -33.73119,
     'longitude' => 151.28049,
   ),
-  3930 => 
+  3736 => 
   array (
     'id' => 7832,
     'name' => 'Wheelers Hill',
@@ -35380,7 +33634,7 @@ return array (
     'latitude' => -37.9,
     'longitude' => 145.18333,
   ),
-  3931 => 
+  3737 => 
   array (
     'id' => 7833,
     'name' => 'White Gum Valley',
@@ -35389,7 +33643,7 @@ return array (
     'latitude' => -32.06031,
     'longitude' => 115.77058,
   ),
-  3932 => 
+  3738 => 
   array (
     'id' => 7834,
     'name' => 'White Hills',
@@ -35398,7 +33652,7 @@ return array (
     'latitude' => -36.72875,
     'longitude' => 144.30525,
   ),
-  3933 => 
+  3739 => 
   array (
     'id' => 7835,
     'name' => 'White Rock',
@@ -35407,7 +33661,7 @@ return array (
     'latitude' => -16.97438,
     'longitude' => 145.7633,
   ),
-  3934 => 
+  3740 => 
   array (
     'id' => 7836,
     'name' => 'Whitebridge',
@@ -35416,7 +33670,7 @@ return array (
     'latitude' => -32.97436,
     'longitude' => 151.71614,
   ),
-  3935 => 
+  3741 => 
   array (
     'id' => 7837,
     'name' => 'Whitehorse',
@@ -35425,7 +33679,7 @@ return array (
     'latitude' => -37.82868,
     'longitude' => 145.15432,
   ),
-  3936 => 
+  3742 => 
   array (
     'id' => 7838,
     'name' => 'Whitfield',
@@ -35434,7 +33688,7 @@ return array (
     'latitude' => -16.89508,
     'longitude' => 145.73335,
   ),
-  3937 => 
+  3743 => 
   array (
     'id' => 7839,
     'name' => 'Whitsunday',
@@ -35443,7 +33697,7 @@ return array (
     'latitude' => -20.6978,
     'longitude' => 148.01349,
   ),
-  3938 => 
+  3744 => 
   array (
     'id' => 7840,
     'name' => 'Whitsundays',
@@ -35452,7 +33706,7 @@ return array (
     'latitude' => -20.11943,
     'longitude' => 148.91325,
   ),
-  3939 => 
+  3745 => 
   array (
     'id' => 7841,
     'name' => 'Whittington',
@@ -35461,7 +33715,7 @@ return array (
     'latitude' => -38.1808,
     'longitude' => 144.39322,
   ),
-  3940 => 
+  3746 => 
   array (
     'id' => 7842,
     'name' => 'Whittlesea',
@@ -35470,7 +33724,7 @@ return array (
     'latitude' => -37.55087,
     'longitude' => 145.09375,
   ),
-  3941 => 
+  3747 => 
   array (
     'id' => 7843,
     'name' => 'Whyalla',
@@ -35479,7 +33733,7 @@ return array (
     'latitude' => -33.04569,
     'longitude' => 137.54468,
   ),
-  3942 => 
+  3748 => 
   array (
     'id' => 7844,
     'name' => 'Whyalla Jenkins',
@@ -35488,7 +33742,7 @@ return array (
     'latitude' => -33.02205,
     'longitude' => 137.51269,
   ),
-  3943 => 
+  3749 => 
   array (
     'id' => 7845,
     'name' => 'Whyalla Norrie',
@@ -35497,7 +33751,7 @@ return array (
     'latitude' => -33.02903,
     'longitude' => 137.53922,
   ),
-  3944 => 
+  3750 => 
   array (
     'id' => 7846,
     'name' => 'Whyalla Playford',
@@ -35506,7 +33760,7 @@ return array (
     'latitude' => -33.02788,
     'longitude' => 137.56196,
   ),
-  3945 => 
+  3751 => 
   array (
     'id' => 7847,
     'name' => 'Whyalla Stuart',
@@ -35515,7 +33769,7 @@ return array (
     'latitude' => -33.02493,
     'longitude' => 137.52471,
   ),
-  3946 => 
+  3752 => 
   array (
     'id' => 7848,
     'name' => 'Wickepin',
@@ -35524,7 +33778,7 @@ return array (
     'latitude' => -32.82211,
     'longitude' => 117.63996,
   ),
-  3947 => 
+  3753 => 
   array (
     'id' => 7849,
     'name' => 'Wickham',
@@ -35533,16 +33787,7 @@ return array (
     'latitude' => -32.91923,
     'longitude' => 151.75693,
   ),
-  3948 => 
-  array (
-    'id' => 7850,
-    'name' => 'Wickham',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -20.67474,
-    'longitude' => 117.13784,
-  ),
-  3949 => 
+  3754 => 
   array (
     'id' => 7851,
     'name' => 'Wilberforce',
@@ -35551,7 +33796,7 @@ return array (
     'latitude' => -33.56256,
     'longitude' => 150.83784,
   ),
-  3950 => 
+  3755 => 
   array (
     'id' => 7852,
     'name' => 'Wiley Park',
@@ -35560,7 +33805,7 @@ return array (
     'latitude' => -33.9242,
     'longitude' => 151.06737,
   ),
-  3951 => 
+  3756 => 
   array (
     'id' => 7853,
     'name' => 'Willagee',
@@ -35569,7 +33814,7 @@ return array (
     'latitude' => -32.05196,
     'longitude' => 115.80533,
   ),
-  3952 => 
+  3757 => 
   array (
     'id' => 7854,
     'name' => 'Willaston',
@@ -35578,7 +33823,7 @@ return array (
     'latitude' => -34.5864,
     'longitude' => 138.74124,
   ),
-  3953 => 
+  3758 => 
   array (
     'id' => 7855,
     'name' => 'Willetton',
@@ -35587,7 +33832,7 @@ return array (
     'latitude' => -32.05251,
     'longitude' => 115.88782,
   ),
-  3954 => 
+  3759 => 
   array (
     'id' => 7856,
     'name' => 'Williams',
@@ -35596,7 +33841,7 @@ return array (
     'latitude' => -33.05217,
     'longitude' => 116.70943,
   ),
-  3955 => 
+  3760 => 
   array (
     'id' => 7857,
     'name' => 'Williams Landing',
@@ -35605,7 +33850,7 @@ return array (
     'latitude' => -37.8619,
     'longitude' => 144.74371,
   ),
-  3956 => 
+  3761 => 
   array (
     'id' => 7858,
     'name' => 'Williamstown',
@@ -35614,16 +33859,7 @@ return array (
     'latitude' => -37.86349,
     'longitude' => 144.899,
   ),
-  3957 => 
-  array (
-    'id' => 7859,
-    'name' => 'Williamstown',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -34.6721,
-    'longitude' => 138.89108,
-  ),
-  3958 => 
+  3762 => 
   array (
     'id' => 7860,
     'name' => 'Williamstown North',
@@ -35632,7 +33868,7 @@ return array (
     'latitude' => -37.85515,
     'longitude' => 144.88259,
   ),
-  3959 => 
+  3763 => 
   array (
     'id' => 7861,
     'name' => 'Williamtown',
@@ -35641,7 +33877,7 @@ return array (
     'latitude' => -32.80638,
     'longitude' => 151.84361,
   ),
-  3960 => 
+  3764 => 
   array (
     'id' => 7862,
     'name' => 'Willmot',
@@ -35650,7 +33886,7 @@ return array (
     'latitude' => -33.72534,
     'longitude' => 150.79259,
   ),
-  3961 => 
+  3765 => 
   array (
     'id' => 7863,
     'name' => 'Willoughby',
@@ -35659,7 +33895,7 @@ return array (
     'latitude' => -33.80167,
     'longitude' => 151.18782,
   ),
-  3962 => 
+  3766 => 
   array (
     'id' => 7864,
     'name' => 'Willoughby East',
@@ -35668,7 +33904,7 @@ return array (
     'latitude' => -33.79844,
     'longitude' => 151.20518,
   ),
-  3963 => 
+  3767 => 
   array (
     'id' => 7865,
     'name' => 'Willow Vale',
@@ -35677,7 +33913,7 @@ return array (
     'latitude' => -27.84499,
     'longitude' => 153.2631,
   ),
-  3964 => 
+  3768 => 
   array (
     'id' => 7866,
     'name' => 'Willowbank',
@@ -35686,7 +33922,7 @@ return array (
     'latitude' => -27.68215,
     'longitude' => 152.67407,
   ),
-  3965 => 
+  3769 => 
   array (
     'id' => 7867,
     'name' => 'Willunga',
@@ -35695,7 +33931,7 @@ return array (
     'latitude' => -35.27127,
     'longitude' => 138.55417,
   ),
-  3966 => 
+  3770 => 
   array (
     'id' => 7868,
     'name' => 'Wilson',
@@ -35704,7 +33940,7 @@ return array (
     'latitude' => -32.02058,
     'longitude' => 115.91181,
   ),
-  3967 => 
+  3771 => 
   array (
     'id' => 7869,
     'name' => 'Wilsonton',
@@ -35713,7 +33949,7 @@ return array (
     'latitude' => -27.54312,
     'longitude' => 151.91684,
   ),
-  3968 => 
+  3772 => 
   array (
     'id' => 7870,
     'name' => 'Wilsonton Heights',
@@ -35722,7 +33958,7 @@ return array (
     'latitude' => -27.53227,
     'longitude' => 151.92444,
   ),
-  3969 => 
+  3773 => 
   array (
     'id' => 7871,
     'name' => 'Wilston',
@@ -35731,7 +33967,7 @@ return array (
     'latitude' => -27.43218,
     'longitude' => 153.01904,
   ),
-  3970 => 
+  3774 => 
   array (
     'id' => 7872,
     'name' => 'Wilton',
@@ -35740,7 +33976,7 @@ return array (
     'latitude' => -34.24053,
     'longitude' => 150.69771,
   ),
-  3971 => 
+  3775 => 
   array (
     'id' => 7873,
     'name' => 'Wiluna',
@@ -35749,7 +33985,7 @@ return array (
     'latitude' => -25.3663,
     'longitude' => 121.93243,
   ),
-  3972 => 
+  3776 => 
   array (
     'id' => 7874,
     'name' => 'Winchelsea',
@@ -35758,7 +33994,7 @@ return array (
     'latitude' => -38.24485,
     'longitude' => 143.98322,
   ),
-  3973 => 
+  3777 => 
   array (
     'id' => 7875,
     'name' => 'Windale',
@@ -35767,7 +34003,7 @@ return array (
     'latitude' => -32.99277,
     'longitude' => 151.68167,
   ),
-  3974 => 
+  3778 => 
   array (
     'id' => 7876,
     'name' => 'Windang',
@@ -35776,7 +34012,7 @@ return array (
     'latitude' => -34.53333,
     'longitude' => 150.86667,
   ),
-  3975 => 
+  3779 => 
   array (
     'id' => 7877,
     'name' => 'Windaroo',
@@ -35785,7 +34021,7 @@ return array (
     'latitude' => -27.74587,
     'longitude' => 153.19339,
   ),
-  3976 => 
+  3780 => 
   array (
     'id' => 7878,
     'name' => 'Windradyne',
@@ -35794,7 +34030,7 @@ return array (
     'latitude' => -33.40539,
     'longitude' => 149.54507,
   ),
-  3977 => 
+  3781 => 
   array (
     'id' => 7879,
     'name' => 'Windsor',
@@ -35803,25 +34039,7 @@ return array (
     'latitude' => -37.85344,
     'longitude' => 144.99241,
   ),
-  3978 => 
-  array (
-    'id' => 7880,
-    'name' => 'Windsor',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.43631,
-    'longitude' => 153.02882,
-  ),
-  3979 => 
-  array (
-    'id' => 7881,
-    'name' => 'Windsor',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.61309,
-    'longitude' => 150.81416,
-  ),
-  3980 => 
+  3782 => 
   array (
     'id' => 7882,
     'name' => 'Windsor Downs',
@@ -35830,7 +34048,7 @@ return array (
     'latitude' => -33.65857,
     'longitude' => 150.81079,
   ),
-  3981 => 
+  3783 => 
   array (
     'id' => 7883,
     'name' => 'Windsor Gardens',
@@ -35839,7 +34057,7 @@ return array (
     'latitude' => -34.86538,
     'longitude' => 138.64703,
   ),
-  3982 => 
+  3784 => 
   array (
     'id' => 7884,
     'name' => 'Wingecarribee',
@@ -35848,7 +34066,7 @@ return array (
     'latitude' => -34.49091,
     'longitude' => 150.35486,
   ),
-  3983 => 
+  3785 => 
   array (
     'id' => 7885,
     'name' => 'Wingham',
@@ -35857,7 +34075,7 @@ return array (
     'latitude' => -31.86676,
     'longitude' => 152.36989,
   ),
-  3984 => 
+  3786 => 
   array (
     'id' => 7886,
     'name' => 'Winmalee',
@@ -35866,7 +34084,7 @@ return array (
     'latitude' => -33.67847,
     'longitude' => 150.61213,
   ),
-  3985 => 
+  3787 => 
   array (
     'id' => 7887,
     'name' => 'Winston',
@@ -35875,7 +34093,7 @@ return array (
     'latitude' => -20.70374,
     'longitude' => 139.49913,
   ),
-  3986 => 
+  3788 => 
   array (
     'id' => 7888,
     'name' => 'Winston Hills',
@@ -35884,7 +34102,7 @@ return array (
     'latitude' => -33.77645,
     'longitude' => 150.98051,
   ),
-  3987 => 
+  3789 => 
   array (
     'id' => 7889,
     'name' => 'Winthrop',
@@ -35893,7 +34111,7 @@ return array (
     'latitude' => -32.05216,
     'longitude' => 115.82972,
   ),
-  3988 => 
+  3790 => 
   array (
     'id' => 7890,
     'name' => 'Winton',
@@ -35902,7 +34120,7 @@ return array (
     'latitude' => -22.50749,
     'longitude' => 142.66199,
   ),
-  3989 => 
+  3791 => 
   array (
     'id' => 7891,
     'name' => 'Wishart',
@@ -35911,7 +34129,7 @@ return array (
     'latitude' => -27.55448,
     'longitude' => 153.10107,
   ),
-  3990 => 
+  3792 => 
   array (
     'id' => 7892,
     'name' => 'Withcott',
@@ -35920,7 +34138,7 @@ return array (
     'latitude' => -27.55408,
     'longitude' => 152.02432,
   ),
-  3991 => 
+  3793 => 
   array (
     'id' => 7893,
     'name' => 'Withers',
@@ -35929,7 +34147,7 @@ return array (
     'latitude' => -33.36807,
     'longitude' => 115.6305,
   ),
-  3992 => 
+  3794 => 
   array (
     'id' => 7894,
     'name' => 'Witta',
@@ -35938,7 +34156,7 @@ return array (
     'latitude' => -26.7,
     'longitude' => 152.81667,
   ),
-  3993 => 
+  3795 => 
   array (
     'id' => 7895,
     'name' => 'Wodonga',
@@ -35947,7 +34165,7 @@ return array (
     'latitude' => -36.14469,
     'longitude' => 146.88818,
   ),
-  3994 => 
+  3796 => 
   array (
     'id' => 7896,
     'name' => 'Wollert',
@@ -35956,7 +34174,7 @@ return array (
     'latitude' => -37.58333,
     'longitude' => 145.03333,
   ),
-  3995 => 
+  3797 => 
   array (
     'id' => 7897,
     'name' => 'Wolli Creek',
@@ -35965,7 +34183,7 @@ return array (
     'latitude' => -33.93133,
     'longitude' => 151.15222,
   ),
-  3996 => 
+  3798 => 
   array (
     'id' => 7898,
     'name' => 'Wollondilly',
@@ -35974,7 +34192,7 @@ return array (
     'latitude' => -34.06958,
     'longitude' => 150.46265,
   ),
-  3997 => 
+  3799 => 
   array (
     'id' => 7899,
     'name' => 'Wollongbar',
@@ -35983,7 +34201,7 @@ return array (
     'latitude' => -28.8182,
     'longitude' => 153.39686,
   ),
-  3998 => 
+  3800 => 
   array (
     'id' => 7900,
     'name' => 'Wollongong',
@@ -35992,7 +34210,7 @@ return array (
     'latitude' => -34.424,
     'longitude' => 150.89345,
   ),
-  3999 => 
+  3801 => 
   array (
     'id' => 7901,
     'name' => 'Wollongong city centre',
@@ -36001,7 +34219,7 @@ return array (
     'latitude' => -34.4279,
     'longitude' => 150.89268,
   ),
-  4000 => 
+  3802 => 
   array (
     'id' => 7902,
     'name' => 'Wollstonecraft',
@@ -36010,7 +34228,7 @@ return array (
     'latitude' => -33.8328,
     'longitude' => 151.18981,
   ),
-  4001 => 
+  3803 => 
   array (
     'id' => 7903,
     'name' => 'Wondai',
@@ -36019,7 +34237,7 @@ return array (
     'latitude' => -26.3177,
     'longitude' => 151.87242,
   ),
-  4002 => 
+  3804 => 
   array (
     'id' => 7904,
     'name' => 'Wondunna',
@@ -36028,7 +34246,7 @@ return array (
     'latitude' => -25.31758,
     'longitude' => 152.85912,
   ),
-  4003 => 
+  3805 => 
   array (
     'id' => 7905,
     'name' => 'Wonga Park',
@@ -36037,7 +34255,7 @@ return array (
     'latitude' => -37.73333,
     'longitude' => 145.26667,
   ),
-  4004 => 
+  3806 => 
   array (
     'id' => 7906,
     'name' => 'Wongaling Beach',
@@ -36046,7 +34264,7 @@ return array (
     'latitude' => -17.91327,
     'longitude' => 146.09611,
   ),
-  4005 => 
+  3807 => 
   array (
     'id' => 7907,
     'name' => 'Wongan-Ballidu',
@@ -36055,7 +34273,7 @@ return array (
     'latitude' => -30.73138,
     'longitude' => 116.84854,
   ),
-  4006 => 
+  3808 => 
   array (
     'id' => 7908,
     'name' => 'Wongawallan',
@@ -36064,7 +34282,7 @@ return array (
     'latitude' => -27.87553,
     'longitude' => 153.22865,
   ),
-  4007 => 
+  3809 => 
   array (
     'id' => 7909,
     'name' => 'Wonthaggi',
@@ -36073,7 +34291,7 @@ return array (
     'latitude' => -38.60586,
     'longitude' => 145.59355,
   ),
-  4008 => 
+  3810 => 
   array (
     'id' => 7910,
     'name' => 'Wonthella',
@@ -36082,7 +34300,7 @@ return array (
     'latitude' => -28.76689,
     'longitude' => 114.63338,
   ),
-  4009 => 
+  3811 => 
   array (
     'id' => 7911,
     'name' => 'Woodanilling',
@@ -36091,7 +34309,7 @@ return array (
     'latitude' => -33.51937,
     'longitude' => 117.3358,
   ),
-  4010 => 
+  3812 => 
   array (
     'id' => 7912,
     'name' => 'Woodberry',
@@ -36100,7 +34318,7 @@ return array (
     'latitude' => -32.79311,
     'longitude' => 151.67687,
   ),
-  4011 => 
+  3813 => 
   array (
     'id' => 7913,
     'name' => 'Woodbine',
@@ -36109,7 +34327,7 @@ return array (
     'latitude' => -34.04589,
     'longitude' => 150.82146,
   ),
-  4012 => 
+  3814 => 
   array (
     'id' => 7914,
     'name' => 'Woodbridge',
@@ -36118,7 +34336,7 @@ return array (
     'latitude' => -31.88695,
     'longitude' => 115.99196,
   ),
-  4013 => 
+  3815 => 
   array (
     'id' => 7915,
     'name' => 'Woodcroft',
@@ -36127,16 +34345,7 @@ return array (
     'latitude' => -35.10236,
     'longitude' => 138.56292,
   ),
-  4014 => 
-  array (
-    'id' => 7916,
-    'name' => 'Woodcroft',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.75637,
-    'longitude' => 150.88071,
-  ),
-  4015 => 
+  3816 => 
   array (
     'id' => 7917,
     'name' => 'Woodend',
@@ -36145,16 +34354,7 @@ return array (
     'latitude' => -37.35469,
     'longitude' => 144.52902,
   ),
-  4016 => 
-  array (
-    'id' => 7918,
-    'name' => 'Woodend',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -27.60554,
-    'longitude' => 152.75307,
-  ),
-  4017 => 
+  3817 => 
   array (
     'id' => 7919,
     'name' => 'Woodford',
@@ -36163,16 +34363,7 @@ return array (
     'latitude' => -26.95291,
     'longitude' => 152.77747,
   ),
-  4018 => 
-  array (
-    'id' => 7920,
-    'name' => 'Woodford',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.73333,
-    'longitude' => 150.48333,
-  ),
-  4019 => 
+  3818 => 
   array (
     'id' => 7921,
     'name' => 'Woodgate',
@@ -36181,7 +34372,7 @@ return array (
     'latitude' => -25.1083,
     'longitude' => 152.56254,
   ),
-  4020 => 
+  3819 => 
   array (
     'id' => 7922,
     'name' => 'Woodpark',
@@ -36190,7 +34381,7 @@ return array (
     'latitude' => -33.84137,
     'longitude' => 150.96055,
   ),
-  4021 => 
+  3820 => 
   array (
     'id' => 7923,
     'name' => 'Woodridge',
@@ -36199,7 +34390,7 @@ return array (
     'latitude' => -27.63333,
     'longitude' => 153.1,
   ),
-  4022 => 
+  3821 => 
   array (
     'id' => 7924,
     'name' => 'Woodrising',
@@ -36208,7 +34399,7 @@ return array (
     'latitude' => -32.98595,
     'longitude' => 151.60657,
   ),
-  4023 => 
+  3822 => 
   array (
     'id' => 7925,
     'name' => 'Woodroffe',
@@ -36217,7 +34408,7 @@ return array (
     'latitude' => -12.50173,
     'longitude' => 130.98016,
   ),
-  4024 => 
+  3823 => 
   array (
     'id' => 7926,
     'name' => 'Woodside',
@@ -36226,7 +34417,7 @@ return array (
     'latitude' => -34.95433,
     'longitude' => 138.87901,
   ),
-  4025 => 
+  3824 => 
   array (
     'id' => 7927,
     'name' => 'Woodvale',
@@ -36235,7 +34426,7 @@ return array (
     'latitude' => -31.78928,
     'longitude' => 115.79676,
   ),
-  4026 => 
+  3825 => 
   array (
     'id' => 7928,
     'name' => 'Woodville',
@@ -36244,7 +34435,7 @@ return array (
     'latitude' => -34.877,
     'longitude' => 138.54291,
   ),
-  4027 => 
+  3826 => 
   array (
     'id' => 7929,
     'name' => 'Woodville Gardens',
@@ -36253,7 +34444,7 @@ return array (
     'latitude' => -34.86788,
     'longitude' => 138.54798,
   ),
-  4028 => 
+  3827 => 
   array (
     'id' => 7930,
     'name' => 'Woodville North',
@@ -36262,7 +34453,7 @@ return array (
     'latitude' => -34.872,
     'longitude' => 138.54309,
   ),
-  4029 => 
+  3828 => 
   array (
     'id' => 7931,
     'name' => 'Woodville Park',
@@ -36271,7 +34462,7 @@ return array (
     'latitude' => -34.88696,
     'longitude' => 138.54648,
   ),
-  4030 => 
+  3829 => 
   array (
     'id' => 7932,
     'name' => 'Woodville South',
@@ -36280,7 +34471,7 @@ return array (
     'latitude' => -34.88186,
     'longitude' => 138.53477,
   ),
-  4031 => 
+  3830 => 
   array (
     'id' => 7933,
     'name' => 'Woodville West',
@@ -36289,7 +34480,7 @@ return array (
     'latitude' => -34.8864,
     'longitude' => 138.53095,
   ),
-  4032 => 
+  3831 => 
   array (
     'id' => 7934,
     'name' => 'Woody Point',
@@ -36298,7 +34489,7 @@ return array (
     'latitude' => -27.25608,
     'longitude' => 153.10427,
   ),
-  4033 => 
+  3832 => 
   array (
     'id' => 7935,
     'name' => 'Woolgoolga',
@@ -36307,7 +34498,7 @@ return array (
     'latitude' => -30.11058,
     'longitude' => 153.20067,
   ),
-  4034 => 
+  3833 => 
   array (
     'id' => 7936,
     'name' => 'Woollahra',
@@ -36316,7 +34507,7 @@ return array (
     'latitude' => -33.87901,
     'longitude' => 151.24706,
   ),
-  4035 => 
+  3834 => 
   array (
     'id' => 7937,
     'name' => 'Woolloomooloo',
@@ -36325,7 +34516,7 @@ return array (
     'latitude' => -33.87042,
     'longitude' => 151.21968,
   ),
-  4036 => 
+  3835 => 
   array (
     'id' => 7938,
     'name' => 'Woolloongabba',
@@ -36334,7 +34525,7 @@ return array (
     'latitude' => -27.48855,
     'longitude' => 153.03655,
   ),
-  4037 => 
+  3836 => 
   array (
     'id' => 7939,
     'name' => 'Woolooware',
@@ -36343,7 +34534,7 @@ return array (
     'latitude' => -34.04583,
     'longitude' => 151.14312,
   ),
-  4038 => 
+  3837 => 
   array (
     'id' => 7940,
     'name' => 'Wooloowin',
@@ -36352,7 +34543,7 @@ return array (
     'latitude' => -27.42244,
     'longitude' => 153.04204,
   ),
-  4039 => 
+  3838 => 
   array (
     'id' => 7941,
     'name' => 'Woombye',
@@ -36361,7 +34552,7 @@ return array (
     'latitude' => -26.66054,
     'longitude' => 152.96947,
   ),
-  4040 => 
+  3839 => 
   array (
     'id' => 7942,
     'name' => 'Woongarrah',
@@ -36370,7 +34561,7 @@ return array (
     'latitude' => -33.24134,
     'longitude' => 151.47563,
   ),
-  4041 => 
+  3840 => 
   array (
     'id' => 7943,
     'name' => 'Woonona',
@@ -36379,7 +34570,7 @@ return array (
     'latitude' => -34.34932,
     'longitude' => 150.91443,
   ),
-  4042 => 
+  3841 => 
   array (
     'id' => 7944,
     'name' => 'Woorabinda',
@@ -36388,7 +34579,7 @@ return array (
     'latitude' => -24.1501,
     'longitude' => 149.44977,
   ),
-  4043 => 
+  3842 => 
   array (
     'id' => 7945,
     'name' => 'Woori Yallock',
@@ -36397,7 +34588,7 @@ return array (
     'latitude' => -37.78062,
     'longitude' => 145.53819,
   ),
-  4044 => 
+  3843 => 
   array (
     'id' => 7946,
     'name' => 'Woorim',
@@ -36406,7 +34597,7 @@ return array (
     'latitude' => -27.06931,
     'longitude' => 153.20427,
   ),
-  4045 => 
+  3844 => 
   array (
     'id' => 7947,
     'name' => 'Wooroloo',
@@ -36415,7 +34606,7 @@ return array (
     'latitude' => -31.8038,
     'longitude' => 116.31311,
   ),
-  4046 => 
+  3845 => 
   array (
     'id' => 7948,
     'name' => 'Woorree',
@@ -36424,7 +34615,7 @@ return array (
     'latitude' => -28.76677,
     'longitude' => 114.65806,
   ),
-  4047 => 
+  3846 => 
   array (
     'id' => 7949,
     'name' => 'Woree',
@@ -36433,7 +34624,7 @@ return array (
     'latitude' => -16.95,
     'longitude' => 145.75,
   ),
-  4048 => 
+  3847 => 
   array (
     'id' => 7950,
     'name' => 'Worongary',
@@ -36442,7 +34633,7 @@ return array (
     'latitude' => -28.05,
     'longitude' => 153.35,
   ),
-  4049 => 
+  3848 => 
   array (
     'id' => 7951,
     'name' => 'Woronora',
@@ -36451,7 +34642,7 @@ return array (
     'latitude' => -34.02436,
     'longitude' => 151.03862,
   ),
-  4050 => 
+  3849 => 
   array (
     'id' => 7952,
     'name' => 'Woronora Heights',
@@ -36460,7 +34651,7 @@ return array (
     'latitude' => -34.03562,
     'longitude' => 151.02734,
   ),
-  4051 => 
+  3850 => 
   array (
     'id' => 7953,
     'name' => 'Worrigee',
@@ -36469,7 +34660,7 @@ return array (
     'latitude' => -34.9,
     'longitude' => 150.63333,
   ),
-  4052 => 
+  3851 => 
   array (
     'id' => 7954,
     'name' => 'Woy Woy',
@@ -36478,7 +34669,7 @@ return array (
     'latitude' => -33.48433,
     'longitude' => 151.32471,
   ),
-  4053 => 
+  3852 => 
   array (
     'id' => 7955,
     'name' => 'Wright',
@@ -36487,7 +34678,7 @@ return array (
     'latitude' => -35.32239,
     'longitude' => 149.03456,
   ),
-  4054 => 
+  3853 => 
   array (
     'id' => 7956,
     'name' => 'Wudinna',
@@ -36496,7 +34687,7 @@ return array (
     'latitude' => -32.97747,
     'longitude' => 135.3917,
   ),
-  4055 => 
+  3854 => 
   array (
     'id' => 7957,
     'name' => 'Wujal Wujal',
@@ -36505,7 +34696,7 @@ return array (
     'latitude' => -15.96904,
     'longitude' => 145.3152,
   ),
-  4056 => 
+  3855 => 
   array (
     'id' => 7958,
     'name' => 'Wulagi',
@@ -36514,7 +34705,7 @@ return array (
     'latitude' => -12.38345,
     'longitude' => 130.89543,
   ),
-  4057 => 
+  3856 => 
   array (
     'id' => 7959,
     'name' => 'Wulguru',
@@ -36523,7 +34714,7 @@ return array (
     'latitude' => -19.3285,
     'longitude' => 146.81842,
   ),
-  4058 => 
+  3857 => 
   array (
     'id' => 7960,
     'name' => 'Wulkuraka',
@@ -36532,7 +34723,7 @@ return array (
     'latitude' => -27.61429,
     'longitude' => 152.72191,
   ),
-  4059 => 
+  3858 => 
   array (
     'id' => 7961,
     'name' => 'Wundowie',
@@ -36541,7 +34732,7 @@ return array (
     'latitude' => -31.76163,
     'longitude' => 116.3799,
   ),
-  4060 => 
+  3859 => 
   array (
     'id' => 7962,
     'name' => 'Wurruk',
@@ -36550,7 +34741,7 @@ return array (
     'latitude' => -38.11667,
     'longitude' => 147.03333,
   ),
-  4061 => 
+  3860 => 
   array (
     'id' => 7963,
     'name' => 'Wurrumiyanga',
@@ -36559,7 +34750,7 @@ return array (
     'latitude' => -11.76082,
     'longitude' => 130.62555,
   ),
-  4062 => 
+  3861 => 
   array (
     'id' => 7964,
     'name' => 'Wurtulla',
@@ -36568,7 +34759,7 @@ return array (
     'latitude' => -26.75648,
     'longitude' => 153.12805,
   ),
-  4063 => 
+  3862 => 
   array (
     'id' => 7965,
     'name' => 'Wy Yung',
@@ -36577,7 +34768,7 @@ return array (
     'latitude' => -37.8,
     'longitude' => 147.58333,
   ),
-  4064 => 
+  3863 => 
   array (
     'id' => 7966,
     'name' => 'Wyalkatchem',
@@ -36586,7 +34777,7 @@ return array (
     'latitude' => -31.19528,
     'longitude' => 117.44682,
   ),
-  4065 => 
+  3864 => 
   array (
     'id' => 7967,
     'name' => 'Wyee',
@@ -36595,7 +34786,7 @@ return array (
     'latitude' => -33.18252,
     'longitude' => 151.48804,
   ),
-  4066 => 
+  3865 => 
   array (
     'id' => 7968,
     'name' => 'Wyee Point',
@@ -36604,7 +34795,7 @@ return array (
     'latitude' => -33.14585,
     'longitude' => 151.50783,
   ),
-  4067 => 
+  3866 => 
   array (
     'id' => 7969,
     'name' => 'Wyndham',
@@ -36613,7 +34804,7 @@ return array (
     'latitude' => -37.8928,
     'longitude' => 144.63573,
   ),
-  4068 => 
+  3867 => 
   array (
     'id' => 7970,
     'name' => 'Wyndham Vale',
@@ -36622,7 +34813,7 @@ return array (
     'latitude' => -37.89138,
     'longitude' => 144.62368,
   ),
-  4069 => 
+  3868 => 
   array (
     'id' => 7971,
     'name' => 'Wyndham-East Kimberley',
@@ -36631,7 +34822,7 @@ return array (
     'latitude' => -15.51291,
     'longitude' => 126.58779,
   ),
-  4070 => 
+  3869 => 
   array (
     'id' => 7972,
     'name' => 'Wynn Vale',
@@ -36640,7 +34831,7 @@ return array (
     'latitude' => -34.79942,
     'longitude' => 138.68714,
   ),
-  4071 => 
+  3870 => 
   array (
     'id' => 7973,
     'name' => 'Wynnum',
@@ -36649,7 +34840,7 @@ return array (
     'latitude' => -27.44527,
     'longitude' => 153.15813,
   ),
-  4072 => 
+  3871 => 
   array (
     'id' => 7974,
     'name' => 'Wynnum West',
@@ -36658,7 +34849,7 @@ return array (
     'latitude' => -27.45824,
     'longitude' => 153.15319,
   ),
-  4073 => 
+  3872 => 
   array (
     'id' => 7975,
     'name' => 'Wynyard',
@@ -36667,7 +34858,7 @@ return array (
     'latitude' => -40.9897,
     'longitude' => 145.72617,
   ),
-  4074 => 
+  3873 => 
   array (
     'id' => 7976,
     'name' => 'Wyoming',
@@ -36676,7 +34867,7 @@ return array (
     'latitude' => -33.40387,
     'longitude' => 151.36254,
   ),
-  4075 => 
+  3874 => 
   array (
     'id' => 7977,
     'name' => 'Wyong',
@@ -36685,7 +34876,7 @@ return array (
     'latitude' => -33.28254,
     'longitude' => 151.42327,
   ),
-  4076 => 
+  3875 => 
   array (
     'id' => 7978,
     'name' => 'Wyongah',
@@ -36694,7 +34885,7 @@ return array (
     'latitude' => -33.27468,
     'longitude' => 151.48898,
   ),
-  4077 => 
+  3876 => 
   array (
     'id' => 7979,
     'name' => 'Wyreema',
@@ -36703,7 +34894,7 @@ return array (
     'latitude' => -27.65583,
     'longitude' => 151.85532,
   ),
-  4078 => 
+  3877 => 
   array (
     'id' => 7980,
     'name' => 'Yackandandah',
@@ -36712,7 +34903,7 @@ return array (
     'latitude' => -36.31371,
     'longitude' => 146.83958,
   ),
-  4079 => 
+  3878 => 
   array (
     'id' => 7981,
     'name' => 'Yagoona',
@@ -36721,7 +34912,7 @@ return array (
     'latitude' => -33.9049,
     'longitude' => 151.01996,
   ),
-  4080 => 
+  3879 => 
   array (
     'id' => 7982,
     'name' => 'Yakamia',
@@ -36730,7 +34921,7 @@ return array (
     'latitude' => -35.00392,
     'longitude' => 117.87828,
   ),
-  4081 => 
+  3880 => 
   array (
     'id' => 7983,
     'name' => 'Yalgoo',
@@ -36739,7 +34930,7 @@ return array (
     'latitude' => -28.48787,
     'longitude' => 117.15818,
   ),
-  4082 => 
+  3881 => 
   array (
     'id' => 7984,
     'name' => 'Yallambie',
@@ -36748,7 +34939,7 @@ return array (
     'latitude' => -37.72515,
     'longitude' => 145.09352,
   ),
-  4083 => 
+  3882 => 
   array (
     'id' => 7985,
     'name' => 'Yallingup',
@@ -36757,7 +34948,7 @@ return array (
     'latitude' => -33.64592,
     'longitude' => 115.03514,
   ),
-  4084 => 
+  3883 => 
   array (
     'id' => 7986,
     'name' => 'Yallourn North',
@@ -36766,7 +34957,7 @@ return array (
     'latitude' => -38.16053,
     'longitude' => 146.36449,
   ),
-  4085 => 
+  3884 => 
   array (
     'id' => 7987,
     'name' => 'Yalyalup',
@@ -36775,7 +34966,7 @@ return array (
     'latitude' => -33.67496,
     'longitude' => 115.41449,
   ),
-  4086 => 
+  3885 => 
   array (
     'id' => 7988,
     'name' => 'Yamanto',
@@ -36784,7 +34975,7 @@ return array (
     'latitude' => -27.66027,
     'longitude' => 152.73863,
   ),
-  4087 => 
+  3886 => 
   array (
     'id' => 7989,
     'name' => 'Yamba',
@@ -36793,7 +34984,7 @@ return array (
     'latitude' => -29.4375,
     'longitude' => 153.35914,
   ),
-  4088 => 
+  3887 => 
   array (
     'id' => 7990,
     'name' => 'Yanchep',
@@ -36802,7 +34993,7 @@ return array (
     'latitude' => -31.54678,
     'longitude' => 115.63171,
   ),
-  4089 => 
+  3888 => 
   array (
     'id' => 7991,
     'name' => 'Yandina',
@@ -36811,7 +35002,7 @@ return array (
     'latitude' => -26.56165,
     'longitude' => 152.95595,
   ),
-  4090 => 
+  3889 => 
   array (
     'id' => 7992,
     'name' => 'Yangebup',
@@ -36820,7 +35011,7 @@ return array (
     'latitude' => -32.12065,
     'longitude' => 115.81623,
   ),
-  4091 => 
+  3890 => 
   array (
     'id' => 7993,
     'name' => 'Yankalilla',
@@ -36829,7 +35020,7 @@ return array (
     'latitude' => -35.4939,
     'longitude' => 138.34225,
   ),
-  4092 => 
+  3891 => 
   array (
     'id' => 7994,
     'name' => 'Yaroomba',
@@ -36838,7 +35029,7 @@ return array (
     'latitude' => -26.55126,
     'longitude' => 153.09701,
   ),
-  4093 => 
+  3892 => 
   array (
     'id' => 7995,
     'name' => 'Yarra',
@@ -36847,7 +35038,7 @@ return array (
     'latitude' => -37.80178,
     'longitude' => 144.99593,
   ),
-  4094 => 
+  3893 => 
   array (
     'id' => 7996,
     'name' => 'Yarra Glen',
@@ -36856,7 +35047,7 @@ return array (
     'latitude' => -37.65794,
     'longitude' => 145.37416,
   ),
-  4095 => 
+  3894 => 
   array (
     'id' => 7997,
     'name' => 'Yarra Junction',
@@ -36865,7 +35056,7 @@ return array (
     'latitude' => -37.78192,
     'longitude' => 145.6143,
   ),
-  4096 => 
+  3895 => 
   array (
     'id' => 7998,
     'name' => 'Yarra Ranges',
@@ -36874,7 +35065,7 @@ return array (
     'latitude' => -37.75006,
     'longitude' => 145.73708,
   ),
-  4097 => 
+  3896 => 
   array (
     'id' => 7999,
     'name' => 'Yarrabah',
@@ -36883,7 +35074,7 @@ return array (
     'latitude' => -16.99463,
     'longitude' => 145.88058,
   ),
-  4098 => 
+  3897 => 
   array (
     'id' => 8000,
     'name' => 'Yarrabilba',
@@ -36892,7 +35083,7 @@ return array (
     'latitude' => -27.80864,
     'longitude' => 153.11163,
   ),
-  4099 => 
+  3898 => 
   array (
     'id' => 8001,
     'name' => 'Yarragon',
@@ -36901,7 +35092,7 @@ return array (
     'latitude' => -38.20525,
     'longitude' => 146.06079,
   ),
-  4100 => 
+  3899 => 
   array (
     'id' => 8002,
     'name' => 'Yarralumla',
@@ -36910,7 +35101,7 @@ return array (
     'latitude' => -35.2998,
     'longitude' => 149.10585,
   ),
-  4101 => 
+  3900 => 
   array (
     'id' => 8003,
     'name' => 'Yarram',
@@ -36919,7 +35110,7 @@ return array (
     'latitude' => -38.56479,
     'longitude' => 146.67557,
   ),
-  4102 => 
+  3901 => 
   array (
     'id' => 8004,
     'name' => 'Yarraman',
@@ -36928,7 +35119,7 @@ return array (
     'latitude' => -26.84167,
     'longitude' => 151.98138,
   ),
-  4103 => 
+  3902 => 
   array (
     'id' => 8005,
     'name' => 'Yarrambat',
@@ -36937,7 +35128,7 @@ return array (
     'latitude' => -37.63751,
     'longitude' => 145.13486,
   ),
-  4104 => 
+  3903 => 
   array (
     'id' => 8006,
     'name' => 'Yarravel',
@@ -36946,7 +35137,7 @@ return array (
     'latitude' => -31.04295,
     'longitude' => 152.76191,
   ),
-  4105 => 
+  3904 => 
   array (
     'id' => 8007,
     'name' => 'Yarraville',
@@ -36955,7 +35146,7 @@ return array (
     'latitude' => -37.81667,
     'longitude' => 144.9,
   ),
-  4106 => 
+  3905 => 
   array (
     'id' => 8008,
     'name' => 'Yarrawarrah',
@@ -36964,7 +35155,7 @@ return array (
     'latitude' => -34.05351,
     'longitude' => 151.03563,
   ),
-  4107 => 
+  3906 => 
   array (
     'id' => 8009,
     'name' => 'Yarrawonga',
@@ -36973,7 +35164,7 @@ return array (
     'latitude' => -36.01923,
     'longitude' => 145.99973,
   ),
-  4108 => 
+  3907 => 
   array (
     'id' => 8010,
     'name' => 'Yarriambiack',
@@ -36982,7 +35173,7 @@ return array (
     'latitude' => -36.02618,
     'longitude' => 142.40452,
   ),
-  4109 => 
+  3908 => 
   array (
     'id' => 8011,
     'name' => 'Yass',
@@ -36991,7 +35182,7 @@ return array (
     'latitude' => -34.84036,
     'longitude' => 148.90987,
   ),
-  4110 => 
+  3909 => 
   array (
     'id' => 8012,
     'name' => 'Yass Valley',
@@ -37000,7 +35191,7 @@ return array (
     'latitude' => -34.9263,
     'longitude' => 148.9724,
   ),
-  4111 => 
+  3910 => 
   array (
     'id' => 8013,
     'name' => 'Yatala',
@@ -37009,7 +35200,7 @@ return array (
     'latitude' => -27.71667,
     'longitude' => 153.21667,
   ),
-  4112 => 
+  3911 => 
   array (
     'id' => 8014,
     'name' => 'Yea',
@@ -37018,7 +35209,7 @@ return array (
     'latitude' => -37.21067,
     'longitude' => 145.42755,
   ),
-  4113 => 
+  3912 => 
   array (
     'id' => 8015,
     'name' => 'Yeerongpilly',
@@ -37027,7 +35218,7 @@ return array (
     'latitude' => -27.53097,
     'longitude' => 153.00935,
   ),
-  4114 => 
+  3913 => 
   array (
     'id' => 8016,
     'name' => 'Yenda',
@@ -37036,7 +35227,7 @@ return array (
     'latitude' => -34.24525,
     'longitude' => 146.20273,
   ),
-  4115 => 
+  3914 => 
   array (
     'id' => 8017,
     'name' => 'Yennora',
@@ -37045,7 +35236,7 @@ return array (
     'latitude' => -33.86173,
     'longitude' => 150.96865,
   ),
-  4116 => 
+  3915 => 
   array (
     'id' => 8018,
     'name' => 'Yeppoon',
@@ -37054,7 +35245,7 @@ return array (
     'latitude' => -23.12683,
     'longitude' => 150.74406,
   ),
-  4117 => 
+  3916 => 
   array (
     'id' => 8019,
     'name' => 'Yeppoon city centre',
@@ -37063,7 +35254,7 @@ return array (
     'latitude' => -23.1295,
     'longitude' => 150.73639,
   ),
-  4118 => 
+  3917 => 
   array (
     'id' => 8020,
     'name' => 'Yeronga',
@@ -37072,7 +35263,7 @@ return array (
     'latitude' => -27.51571,
     'longitude' => 153.01642,
   ),
-  4119 => 
+  3918 => 
   array (
     'id' => 8021,
     'name' => 'Yerrinbool',
@@ -37081,7 +35272,7 @@ return array (
     'latitude' => -34.36884,
     'longitude' => 150.53848,
   ),
-  4120 => 
+  3919 => 
   array (
     'id' => 8022,
     'name' => 'Yilgarn',
@@ -37090,7 +35281,7 @@ return array (
     'latitude' => -30.90938,
     'longitude' => 119.25881,
   ),
-  4121 => 
+  3920 => 
   array (
     'id' => 8023,
     'name' => 'Yokine',
@@ -37099,7 +35290,7 @@ return array (
     'latitude' => -31.90113,
     'longitude' => 115.85319,
   ),
-  4122 => 
+  3921 => 
   array (
     'id' => 8024,
     'name' => 'Yoogali',
@@ -37108,7 +35299,7 @@ return array (
     'latitude' => -34.29944,
     'longitude' => 146.08443,
   ),
-  4123 => 
+  3922 => 
   array (
     'id' => 8025,
     'name' => 'York',
@@ -37117,7 +35308,7 @@ return array (
     'latitude' => -31.88809,
     'longitude' => 116.7678,
   ),
-  4124 => 
+  3923 => 
   array (
     'id' => 8026,
     'name' => 'Yorke Peninsula',
@@ -37126,7 +35317,7 @@ return array (
     'latitude' => -34.70549,
     'longitude' => 137.58179,
   ),
-  4125 => 
+  3924 => 
   array (
     'id' => 8027,
     'name' => 'Yorkeys Knob',
@@ -37135,7 +35326,7 @@ return array (
     'latitude' => -16.80278,
     'longitude' => 145.72083,
   ),
-  4126 => 
+  3925 => 
   array (
     'id' => 8028,
     'name' => 'Young',
@@ -37144,7 +35335,7 @@ return array (
     'latitude' => -34.3135,
     'longitude' => 148.30107,
   ),
-  4127 => 
+  3926 => 
   array (
     'id' => 8029,
     'name' => 'Youngtown',
@@ -37153,7 +35344,7 @@ return array (
     'latitude' => -41.48332,
     'longitude' => 147.17067,
   ),
-  4128 => 
+  3927 => 
   array (
     'id' => 8030,
     'name' => 'Yowie Bay',
@@ -37162,7 +35353,7 @@ return array (
     'latitude' => -34.05116,
     'longitude' => 151.10228,
   ),
-  4129 => 
+  3928 => 
   array (
     'id' => 8031,
     'name' => 'Yulara',
@@ -37171,7 +35362,7 @@ return array (
     'latitude' => -25.2406,
     'longitude' => 130.9889,
   ),
-  4130 => 
+  3929 => 
   array (
     'id' => 8032,
     'name' => 'Yungaburra',
@@ -37180,7 +35371,7 @@ return array (
     'latitude' => -17.27058,
     'longitude' => 145.58335,
   ),
-  4131 => 
+  3930 => 
   array (
     'id' => 8033,
     'name' => 'Zetland',
@@ -37189,7 +35380,7 @@ return array (
     'latitude' => -33.90748,
     'longitude' => 151.20857,
   ),
-  4132 => 
+  3931 => 
   array (
     'id' => 8034,
     'name' => 'Zillmere',
@@ -37198,7 +35389,7 @@ return array (
     'latitude' => -27.35591,
     'longitude' => 153.04453,
   ),
-  4133 => 
+  3932 => 
   array (
     'id' => 8035,
     'name' => 'Zilzie',
@@ -37207,7 +35398,7 @@ return array (
     'latitude' => -23.28867,
     'longitude' => 150.7982,
   ),
-  4134 => 
+  3933 => 
   array (
     'id' => 8036,
     'name' => 'Zuccoli',
@@ -37216,16 +35407,7 @@ return array (
     'latitude' => -12.50727,
     'longitude' => 131.00694,
   ),
-  4135 => 
-  array (
-    'id' => 149144,
-    'name' => 'Rosebery',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -33.9185533,
-    'longitude' => 151.1961244,
-  ),
-  4136 => 
+  3934 => 
   array (
     'id' => 149145,
     'name' => 'Yallah',
@@ -37234,7 +35416,7 @@ return array (
     'latitude' => -34.5337578,
     'longitude' => 150.7776845,
   ),
-  4137 => 
+  3935 => 
   array (
     'id' => 149215,
     'name' => 'Banksmeadow',
@@ -37243,7 +35425,7 @@ return array (
     'latitude' => -33.9560301,
     'longitude' => 151.197362,
   ),
-  4138 => 
+  3936 => 
   array (
     'id' => 149216,
     'name' => 'Whale Beach',
@@ -37252,7 +35434,7 @@ return array (
     'latitude' => -33.6124118,
     'longitude' => 151.3254065,
   ),
-  4139 => 
+  3937 => 
   array (
     'id' => 149308,
     'name' => 'Huntingwood',
@@ -37261,7 +35443,7 @@ return array (
     'latitude' => -33.7975932,
     'longitude' => 150.874809,
   ),
-  4140 => 
+  3938 => 
   array (
     'id' => 149309,
     'name' => 'Eagle Farm',
@@ -37270,7 +35452,7 @@ return array (
     'latitude' => -27.4315185,
     'longitude' => 153.0722913,
   ),
-  4141 => 
+  3939 => 
   array (
     'id' => 149549,
     'name' => 'Malaga',
@@ -37279,7 +35461,7 @@ return array (
     'latitude' => -31.8581429,
     'longitude' => 115.8798645,
   ),
-  4142 => 
+  3940 => 
   array (
     'id' => 149550,
     'name' => 'Badgingarra',
@@ -37288,7 +35470,7 @@ return array (
     'latitude' => -30.4436733,
     'longitude' => 115.4747145,
   ),
-  4143 => 
+  3941 => 
   array (
     'id' => 149551,
     'name' => 'Muchea',
@@ -37297,7 +35479,7 @@ return array (
     'latitude' => -31.5493638,
     'longitude' => 115.870362,
   ),
-  4144 => 
+  3942 => 
   array (
     'id' => 149552,
     'name' => 'Cervantes',
@@ -37306,16 +35488,7 @@ return array (
     'latitude' => -30.5026475,
     'longitude' => 115.0541767,
   ),
-  4145 => 
-  array (
-    'id' => 149553,
-    'name' => 'Woodridge',
-    'country_id' => 14,
-    'country_code' => 'AU',
-    'latitude' => -31.3314368,
-    'longitude' => 115.5825247,
-  ),
-  4146 => 
+  3943 => 
   array (
     'id' => 149554,
     'name' => 'Leeman',
@@ -37324,7 +35497,7 @@ return array (
     'latitude' => -29.9873579,
     'longitude' => 114.9578904,
   ),
-  4147 => 
+  3944 => 
   array (
     'id' => 149555,
     'name' => 'Lancelin',
@@ -37333,7 +35506,7 @@ return array (
     'latitude' => -31.0223127,
     'longitude' => 115.3239809,
   ),
-  4148 => 
+  3945 => 
   array (
     'id' => 149556,
     'name' => 'Green Head',
@@ -37342,7 +35515,7 @@ return array (
     'latitude' => -30.0774961,
     'longitude' => 114.9585129,
   ),
-  4149 => 
+  3946 => 
   array (
     'id' => 149557,
     'name' => 'Cataby',
@@ -37351,7 +35524,7 @@ return array (
     'latitude' => -30.7274473,
     'longitude' => 115.432016,
   ),
-  4150 => 
+  3947 => 
   array (
     'id' => 149558,
     'name' => 'Regans Ford',
@@ -37360,7 +35533,7 @@ return array (
     'latitude' => -30.9555288,
     'longitude' => 115.6073405,
   ),
-  4151 => 
+  3948 => 
   array (
     'id' => 149559,
     'name' => 'Hill River',

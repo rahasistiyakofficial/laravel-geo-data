@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -192,15 +192,6 @@ return array (
   ),
   21 => 
   array (
-    'id' => 52422,
-    'name' => 'Agía Paraskeví',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.4815,
-    'longitude' => 23.04863,
-  ),
-  22 => 
-  array (
     'id' => 52423,
     'name' => 'Agía Triáda',
     'country_id' => 85,
@@ -208,25 +199,7 @@ return array (
     'latitude' => 38.35505,
     'longitude' => 22.90881,
   ),
-  23 => 
-  array (
-    'id' => 52424,
-    'name' => 'Agía Triáda',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 39.46361,
-    'longitude' => 21.89848,
-  ),
-  24 => 
-  array (
-    'id' => 52425,
-    'name' => 'Agía Triáda',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.50003,
-    'longitude' => 22.87351,
-  ),
-  25 => 
+  22 => 
   array (
     'id' => 52426,
     'name' => 'Agía Varvára',
@@ -235,16 +208,7 @@ return array (
     'latitude' => 37.98938,
     'longitude' => 23.66011,
   ),
-  26 => 
-  array (
-    'id' => 52427,
-    'name' => 'Agía Varvára',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 35.13715,
-    'longitude' => 25.00131,
-  ),
-  27 => 
+  23 => 
   array (
     'id' => 52428,
     'name' => 'Aianí',
@@ -253,7 +217,7 @@ return array (
     'latitude' => 40.16381,
     'longitude' => 21.81945,
   ),
-  28 => 
+  24 => 
   array (
     'id' => 52429,
     'name' => 'Aidipsós',
@@ -262,7 +226,7 @@ return array (
     'latitude' => 38.87924,
     'longitude' => 23.04691,
   ),
-  29 => 
+  25 => 
   array (
     'id' => 52430,
     'name' => 'Aigáleo',
@@ -271,7 +235,7 @@ return array (
     'latitude' => 37.98333,
     'longitude' => 23.68333,
   ),
-  30 => 
+  26 => 
   array (
     'id' => 52431,
     'name' => 'Aigínio',
@@ -280,7 +244,7 @@ return array (
     'latitude' => 40.50139,
     'longitude' => 22.54,
   ),
-  31 => 
+  27 => 
   array (
     'id' => 52432,
     'name' => 'Aitolikó',
@@ -289,7 +253,7 @@ return array (
     'latitude' => 38.43704,
     'longitude' => 21.35358,
   ),
-  32 => 
+  28 => 
   array (
     'id' => 52433,
     'name' => 'Aiánteio',
@@ -298,7 +262,7 @@ return array (
     'latitude' => 37.92135,
     'longitude' => 23.45877,
   ),
-  33 => 
+  29 => 
   array (
     'id' => 52434,
     'name' => 'Akraifnía',
@@ -307,7 +271,7 @@ return array (
     'latitude' => 38.45663,
     'longitude' => 23.22093,
   ),
-  34 => 
+  30 => 
   array (
     'id' => 52435,
     'name' => 'Akriní',
@@ -316,7 +280,7 @@ return array (
     'latitude' => 40.43492,
     'longitude' => 21.90609,
   ),
-  35 => 
+  31 => 
   array (
     'id' => 52436,
     'name' => 'Akrolímni',
@@ -325,7 +289,7 @@ return array (
     'latitude' => 40.6802,
     'longitude' => 22.2645,
   ),
-  36 => 
+  32 => 
   array (
     'id' => 52437,
     'name' => 'Akráta',
@@ -334,7 +298,7 @@ return array (
     'latitude' => 38.15469,
     'longitude' => 22.3183,
   ),
-  37 => 
+  33 => 
   array (
     'id' => 52438,
     'name' => 'Aktaío',
@@ -343,7 +307,7 @@ return array (
     'latitude' => 38.30444,
     'longitude' => 21.7944,
   ),
-  38 => 
+  34 => 
   array (
     'id' => 52439,
     'name' => 'Alepoú',
@@ -352,7 +316,7 @@ return array (
     'latitude' => 39.61594,
     'longitude' => 19.89564,
   ),
-  39 => 
+  35 => 
   array (
     'id' => 52440,
     'name' => 'Alexandroupoli',
@@ -361,7 +325,7 @@ return array (
     'latitude' => 40.84995,
     'longitude' => 25.87644,
   ),
-  40 => 
+  36 => 
   array (
     'id' => 52441,
     'name' => 'Alexándreia',
@@ -370,7 +334,7 @@ return array (
     'latitude' => 40.62667,
     'longitude' => 22.44417,
   ),
-  41 => 
+  37 => 
   array (
     'id' => 52442,
     'name' => 'Alfeioúsa',
@@ -379,7 +343,7 @@ return array (
     'latitude' => 37.64019,
     'longitude' => 21.5375,
   ),
-  42 => 
+  38 => 
   array (
     'id' => 52443,
     'name' => 'Alistráti',
@@ -388,7 +352,7 @@ return array (
     'latitude' => 41.06443,
     'longitude' => 23.95751,
   ),
-  43 => 
+  39 => 
   array (
     'id' => 52444,
     'name' => 'Alivéri',
@@ -397,7 +361,7 @@ return array (
     'latitude' => 38.41667,
     'longitude' => 24.03333,
   ),
-  44 => 
+  40 => 
   array (
     'id' => 52445,
     'name' => 'Almyrós',
@@ -406,7 +370,7 @@ return array (
     'latitude' => 39.18222,
     'longitude' => 22.75944,
   ),
-  45 => 
+  41 => 
   array (
     'id' => 52446,
     'name' => 'Alíartos',
@@ -415,7 +379,7 @@ return array (
     'latitude' => 38.36667,
     'longitude' => 23.1,
   ),
-  46 => 
+  42 => 
   array (
     'id' => 52447,
     'name' => 'Amaliáda',
@@ -424,7 +388,7 @@ return array (
     'latitude' => 37.79842,
     'longitude' => 21.35068,
   ),
-  47 => 
+  43 => 
   array (
     'id' => 52448,
     'name' => 'Ambelókipoi',
@@ -433,7 +397,7 @@ return array (
     'latitude' => 37.75809,
     'longitude' => 20.87248,
   ),
-  48 => 
+  44 => 
   array (
     'id' => 52449,
     'name' => 'Amfilochía',
@@ -442,7 +406,7 @@ return array (
     'latitude' => 38.85944,
     'longitude' => 21.16639,
   ),
-  49 => 
+  45 => 
   array (
     'id' => 52450,
     'name' => 'Amfíkleia',
@@ -451,7 +415,7 @@ return array (
     'latitude' => 38.63912,
     'longitude' => 22.59171,
   ),
-  50 => 
+  46 => 
   array (
     'id' => 52451,
     'name' => 'Ammochóri',
@@ -460,7 +424,7 @@ return array (
     'latitude' => 40.78203,
     'longitude' => 21.48458,
   ),
-  51 => 
+  47 => 
   array (
     'id' => 52452,
     'name' => 'Amorgós',
@@ -469,7 +433,7 @@ return array (
     'latitude' => 36.83175,
     'longitude' => 25.89821,
   ),
-  52 => 
+  48 => 
   array (
     'id' => 52453,
     'name' => 'Ampeleíes',
@@ -478,7 +442,7 @@ return array (
     'latitude' => 40.83417,
     'longitude' => 22.38767,
   ),
-  53 => 
+  49 => 
   array (
     'id' => 52454,
     'name' => 'Ampelákia',
@@ -487,7 +451,7 @@ return array (
     'latitude' => 37.95055,
     'longitude' => 23.52803,
   ),
-  54 => 
+  50 => 
   array (
     'id' => 52455,
     'name' => 'Ampelókipoi',
@@ -496,7 +460,7 @@ return array (
     'latitude' => 40.65304,
     'longitude' => 22.92624,
   ),
-  55 => 
+  51 => 
   array (
     'id' => 52456,
     'name' => 'Amygdaleónas',
@@ -505,7 +469,7 @@ return array (
     'latitude' => 40.96346,
     'longitude' => 24.36007,
   ),
-  56 => 
+  52 => 
   array (
     'id' => 52457,
     'name' => 'Amárynthos',
@@ -514,7 +478,7 @@ return array (
     'latitude' => 38.393,
     'longitude' => 23.88492,
   ),
-  57 => 
+  53 => 
   array (
     'id' => 52458,
     'name' => 'Amýntaio',
@@ -523,7 +487,7 @@ return array (
     'latitude' => 40.68967,
     'longitude' => 21.67974,
   ),
-  58 => 
+  54 => 
   array (
     'id' => 52459,
     'name' => 'Anakasiá',
@@ -532,7 +496,7 @@ return array (
     'latitude' => 39.38112,
     'longitude' => 22.97484,
   ),
-  59 => 
+  55 => 
   array (
     'id' => 52460,
     'name' => 'Anaráchi',
@@ -541,7 +505,7 @@ return array (
     'latitude' => 40.49234,
     'longitude' => 21.57279,
   ),
-  60 => 
+  56 => 
   array (
     'id' => 52461,
     'name' => 'Anatolikó',
@@ -550,7 +514,7 @@ return array (
     'latitude' => 40.66152,
     'longitude' => 22.7119,
   ),
-  61 => 
+  57 => 
   array (
     'id' => 52462,
     'name' => 'Anatolí',
@@ -559,7 +523,7 @@ return array (
     'latitude' => 39.63531,
     'longitude' => 20.86578,
   ),
-  62 => 
+  58 => 
   array (
     'id' => 52463,
     'name' => 'Andravída',
@@ -568,7 +532,7 @@ return array (
     'latitude' => 37.90588,
     'longitude' => 21.26936,
   ),
-  63 => 
+  59 => 
   array (
     'id' => 52464,
     'name' => 'Andros',
@@ -577,7 +541,7 @@ return array (
     'latitude' => 37.83333,
     'longitude' => 24.93333,
   ),
-  64 => 
+  60 => 
   array (
     'id' => 52465,
     'name' => 'Angelochóri',
@@ -586,7 +550,7 @@ return array (
     'latitude' => 40.67862,
     'longitude' => 22.19933,
   ),
-  65 => 
+  61 => 
   array (
     'id' => 52466,
     'name' => 'Angelókastro',
@@ -595,7 +559,7 @@ return array (
     'latitude' => 38.56585,
     'longitude' => 21.29631,
   ),
-  66 => 
+  62 => 
   array (
     'id' => 52467,
     'name' => 'Ano Arhanes',
@@ -604,7 +568,7 @@ return array (
     'latitude' => 35.23333,
     'longitude' => 25.16667,
   ),
-  67 => 
+  63 => 
   array (
     'id' => 52468,
     'name' => 'Anoixi',
@@ -613,7 +577,7 @@ return array (
     'latitude' => 38.13267,
     'longitude' => 23.85874,
   ),
-  68 => 
+  64 => 
   array (
     'id' => 52469,
     'name' => 'Anthiró',
@@ -622,7 +586,7 @@ return array (
     'latitude' => 39.34722,
     'longitude' => 21.45833,
   ),
-  69 => 
+  65 => 
   array (
     'id' => 52470,
     'name' => 'Anthoúsa',
@@ -631,7 +595,7 @@ return array (
     'latitude' => 38.02544,
     'longitude' => 23.87617,
   ),
-  70 => 
+  66 => 
   array (
     'id' => 52471,
     'name' => 'Anthíli',
@@ -640,7 +604,7 @@ return array (
     'latitude' => 38.85,
     'longitude' => 22.47906,
   ),
-  71 => 
+  67 => 
   array (
     'id' => 52472,
     'name' => 'Antikyra',
@@ -649,7 +613,7 @@ return array (
     'latitude' => 38.38333,
     'longitude' => 22.63333,
   ),
-  72 => 
+  68 => 
   array (
     'id' => 52473,
     'name' => 'Antimácheia',
@@ -658,7 +622,7 @@ return array (
     'latitude' => 36.80888,
     'longitude' => 27.09764,
   ),
-  73 => 
+  69 => 
   array (
     'id' => 52474,
     'name' => 'Antirrio',
@@ -667,7 +631,7 @@ return array (
     'latitude' => 38.33014,
     'longitude' => 21.76413,
   ),
-  74 => 
+  70 => 
   array (
     'id' => 52475,
     'name' => 'Antíparos',
@@ -676,7 +640,7 @@ return array (
     'latitude' => 37.0394,
     'longitude' => 25.08258,
   ),
-  75 => 
+  71 => 
   array (
     'id' => 52476,
     'name' => 'Anáfi',
@@ -685,7 +649,7 @@ return array (
     'latitude' => 36.35,
     'longitude' => 25.76667,
   ),
-  76 => 
+  72 => 
   array (
     'id' => 52477,
     'name' => 'Anávra',
@@ -694,7 +658,7 @@ return array (
     'latitude' => 39.18996,
     'longitude' => 22.09308,
   ),
-  77 => 
+  73 => 
   array (
     'id' => 52478,
     'name' => 'Anávyssos',
@@ -703,7 +667,7 @@ return array (
     'latitude' => 37.73414,
     'longitude' => 23.94389,
   ),
-  78 => 
+  74 => 
   array (
     'id' => 52479,
     'name' => 'Anéza',
@@ -712,7 +676,7 @@ return array (
     'latitude' => 39.08658,
     'longitude' => 20.923,
   ),
-  79 => 
+  75 => 
   array (
     'id' => 52480,
     'name' => 'Anógeia',
@@ -721,7 +685,7 @@ return array (
     'latitude' => 35.29084,
     'longitude' => 24.88412,
   ),
-  80 => 
+  76 => 
   array (
     'id' => 52481,
     'name' => 'Aravissós',
@@ -730,7 +694,7 @@ return array (
     'latitude' => 40.84352,
     'longitude' => 22.30178,
   ),
-  81 => 
+  77 => 
   array (
     'id' => 52482,
     'name' => 'Archaía Olympía',
@@ -739,7 +703,7 @@ return array (
     'latitude' => 37.64788,
     'longitude' => 21.6271,
   ),
-  82 => 
+  78 => 
   array (
     'id' => 52483,
     'name' => 'Archontochóri',
@@ -748,7 +712,7 @@ return array (
     'latitude' => 38.70053,
     'longitude' => 21.03896,
   ),
-  83 => 
+  79 => 
   array (
     'id' => 52484,
     'name' => 'Archángelos',
@@ -757,7 +721,7 @@ return array (
     'latitude' => 36.21492,
     'longitude' => 28.11487,
   ),
-  84 => 
+  80 => 
   array (
     'id' => 52485,
     'name' => 'Arfará',
@@ -766,7 +730,7 @@ return array (
     'latitude' => 37.15619,
     'longitude' => 22.04485,
   ),
-  85 => 
+  81 => 
   array (
     'id' => 52486,
     'name' => 'Argalastí',
@@ -775,7 +739,7 @@ return array (
     'latitude' => 39.22627,
     'longitude' => 23.21868,
   ),
-  86 => 
+  82 => 
   array (
     'id' => 52487,
     'name' => 'Argithéa',
@@ -784,7 +748,7 @@ return array (
     'latitude' => 37.97506,
     'longitude' => 23.88556,
   ),
-  87 => 
+  83 => 
   array (
     'id' => 52488,
     'name' => 'Argos Orestiko',
@@ -793,7 +757,7 @@ return array (
     'latitude' => 40.45354,
     'longitude' => 21.25889,
   ),
-  88 => 
+  84 => 
   array (
     'id' => 52489,
     'name' => 'Argostólion',
@@ -802,7 +766,7 @@ return array (
     'latitude' => 38.18109,
     'longitude' => 20.48903,
   ),
-  89 => 
+  85 => 
   array (
     'id' => 52490,
     'name' => 'Argyroúpoli',
@@ -811,7 +775,7 @@ return array (
     'latitude' => 37.90594,
     'longitude' => 23.75035,
   ),
-  90 => 
+  86 => 
   array (
     'id' => 52491,
     'name' => 'Aria',
@@ -820,7 +784,7 @@ return array (
     'latitude' => 37.57372,
     'longitude' => 22.83539,
   ),
-  91 => 
+  87 => 
   array (
     'id' => 52492,
     'name' => 'Aridaía',
@@ -829,7 +793,7 @@ return array (
     'latitude' => 40.97306,
     'longitude' => 22.05639,
   ),
-  92 => 
+  88 => 
   array (
     'id' => 52493,
     'name' => 'Arkalochóri',
@@ -838,7 +802,7 @@ return array (
     'latitude' => 35.14634,
     'longitude' => 25.26538,
   ),
-  93 => 
+  89 => 
   array (
     'id' => 52494,
     'name' => 'Arkhaía Kórinthos',
@@ -847,7 +811,7 @@ return array (
     'latitude' => 37.90953,
     'longitude' => 22.88353,
   ),
-  94 => 
+  90 => 
   array (
     'id' => 52495,
     'name' => 'Arkoúdi',
@@ -856,7 +820,7 @@ return array (
     'latitude' => 37.84681,
     'longitude' => 21.11022,
   ),
-  95 => 
+  91 => 
   array (
     'id' => 52496,
     'name' => 'Arnaía',
@@ -865,7 +829,7 @@ return array (
     'latitude' => 40.48652,
     'longitude' => 23.59537,
   ),
-  96 => 
+  92 => 
   array (
     'id' => 52497,
     'name' => 'Arrianá',
@@ -874,7 +838,7 @@ return array (
     'latitude' => 41.08131,
     'longitude' => 25.69494,
   ),
-  97 => 
+  93 => 
   array (
     'id' => 52498,
     'name' => 'Arsénio',
@@ -883,7 +847,7 @@ return array (
     'latitude' => 40.71412,
     'longitude' => 22.15923,
   ),
-  98 => 
+  94 => 
   array (
     'id' => 52499,
     'name' => 'Artesianó',
@@ -892,7 +856,7 @@ return array (
     'latitude' => 39.40194,
     'longitude' => 21.89649,
   ),
-  99 => 
+  95 => 
   array (
     'id' => 52500,
     'name' => 'Artémida',
@@ -901,7 +865,7 @@ return array (
     'latitude' => 37.96727,
     'longitude' => 23.99684,
   ),
-  100 => 
+  96 => 
   array (
     'id' => 52501,
     'name' => 'Aráchova',
@@ -910,7 +874,7 @@ return array (
     'latitude' => 38.47958,
     'longitude' => 22.5835,
   ),
-  101 => 
+  97 => 
   array (
     'id' => 52502,
     'name' => 'Arísvi',
@@ -919,7 +883,7 @@ return array (
     'latitude' => 41.07,
     'longitude' => 25.59041,
   ),
-  102 => 
+  98 => 
   array (
     'id' => 52503,
     'name' => 'Askós',
@@ -928,7 +892,7 @@ return array (
     'latitude' => 40.75105,
     'longitude' => 23.38721,
   ),
-  103 => 
+  99 => 
   array (
     'id' => 52504,
     'name' => 'Asopía',
@@ -937,7 +901,7 @@ return array (
     'latitude' => 38.29882,
     'longitude' => 23.50189,
   ),
-  104 => 
+  100 => 
   array (
     'id' => 52505,
     'name' => 'Asopós',
@@ -946,7 +910,7 @@ return array (
     'latitude' => 36.72986,
     'longitude' => 22.85455,
   ),
-  105 => 
+  101 => 
   array (
     'id' => 52506,
     'name' => 'Asproválta',
@@ -955,7 +919,7 @@ return array (
     'latitude' => 40.73049,
     'longitude' => 23.7118,
   ),
-  106 => 
+  102 => 
   array (
     'id' => 52507,
     'name' => 'Asprángeloi',
@@ -964,7 +928,7 @@ return array (
     'latitude' => 39.82328,
     'longitude' => 20.72862,
   ),
-  107 => 
+  103 => 
   array (
     'id' => 52508,
     'name' => 'Asprópyrgos',
@@ -973,7 +937,7 @@ return array (
     'latitude' => 38.06134,
     'longitude' => 23.58971,
   ),
-  108 => 
+  104 => 
   array (
     'id' => 52509,
     'name' => 'Astakós',
@@ -982,7 +946,7 @@ return array (
     'latitude' => 38.53556,
     'longitude' => 21.08135,
   ),
-  109 => 
+  105 => 
   array (
     'id' => 52510,
     'name' => 'Astypálaia',
@@ -991,7 +955,7 @@ return array (
     'latitude' => 36.55,
     'longitude' => 26.35,
   ),
-  110 => 
+  106 => 
   array (
     'id' => 52511,
     'name' => 'Asvestochóri',
@@ -1000,7 +964,7 @@ return array (
     'latitude' => 40.64125,
     'longitude' => 23.02528,
   ),
-  111 => 
+  107 => 
   array (
     'id' => 52512,
     'name' => 'Asímion',
@@ -1009,7 +973,7 @@ return array (
     'latitude' => 35.04321,
     'longitude' => 25.09277,
   ),
-  112 => 
+  108 => 
   array (
     'id' => 52513,
     'name' => 'Asíni',
@@ -1018,7 +982,7 @@ return array (
     'latitude' => 37.54431,
     'longitude' => 22.86435,
   ),
-  113 => 
+  109 => 
   array (
     'id' => 52514,
     'name' => 'Atalánti',
@@ -1027,7 +991,7 @@ return array (
     'latitude' => 38.65111,
     'longitude' => 22.99917,
   ),
-  114 => 
+  110 => 
   array (
     'id' => 52515,
     'name' => 'Athens',
@@ -1036,7 +1000,7 @@ return array (
     'latitude' => 37.98376,
     'longitude' => 23.72784,
   ),
-  115 => 
+  111 => 
   array (
     'id' => 52516,
     'name' => 'Athíkia',
@@ -1045,7 +1009,7 @@ return array (
     'latitude' => 37.81675,
     'longitude' => 22.92939,
   ),
-  116 => 
+  112 => 
   array (
     'id' => 52517,
     'name' => 'Atsipópoulo',
@@ -1054,7 +1018,7 @@ return array (
     'latitude' => 35.35253,
     'longitude' => 24.43378,
   ),
-  117 => 
+  113 => 
   array (
     'id' => 52518,
     'name' => 'Avlónas',
@@ -1063,7 +1027,7 @@ return array (
     'latitude' => 38.25149,
     'longitude' => 23.69554,
   ),
-  118 => 
+  114 => 
   array (
     'id' => 52519,
     'name' => 'Axioúpoli',
@@ -1072,7 +1036,7 @@ return array (
     'latitude' => 40.98582,
     'longitude' => 22.54165,
   ),
-  119 => 
+  115 => 
   array (
     'id' => 52520,
     'name' => 'Axós',
@@ -1081,7 +1045,7 @@ return array (
     'latitude' => 40.80223,
     'longitude' => 22.36158,
   ),
-  120 => 
+  116 => 
   array (
     'id' => 52521,
     'name' => 'Ayía Triás',
@@ -1090,7 +1054,7 @@ return array (
     'latitude' => 37.63707,
     'longitude' => 22.80504,
   ),
-  121 => 
+  117 => 
   array (
     'id' => 52522,
     'name' => 'Aígio',
@@ -1099,7 +1063,7 @@ return array (
     'latitude' => 38.24861,
     'longitude' => 22.08194,
   ),
-  122 => 
+  118 => 
   array (
     'id' => 52523,
     'name' => 'Aíyira',
@@ -1108,7 +1072,7 @@ return array (
     'latitude' => 38.14846,
     'longitude' => 22.35426,
   ),
-  123 => 
+  119 => 
   array (
     'id' => 52524,
     'name' => 'Chairóneia',
@@ -1117,7 +1081,7 @@ return array (
     'latitude' => 38.49551,
     'longitude' => 22.84424,
   ),
-  124 => 
+  120 => 
   array (
     'id' => 52525,
     'name' => 'Chalandrítsa',
@@ -1126,7 +1090,7 @@ return array (
     'latitude' => 38.10843,
     'longitude' => 21.78349,
   ),
-  125 => 
+  121 => 
   array (
     'id' => 52526,
     'name' => 'Chalkidóna',
@@ -1135,7 +1099,7 @@ return array (
     'latitude' => 40.73184,
     'longitude' => 22.59992,
   ),
-  126 => 
+  122 => 
   array (
     'id' => 52527,
     'name' => 'Chalkiádes',
@@ -1144,7 +1108,7 @@ return array (
     'latitude' => 39.15981,
     'longitude' => 20.93292,
   ),
-  127 => 
+  123 => 
   array (
     'id' => 52528,
     'name' => 'Chalkída',
@@ -1153,7 +1117,7 @@ return array (
     'latitude' => 38.46354,
     'longitude' => 23.60284,
   ),
-  128 => 
+  124 => 
   array (
     'id' => 52529,
     'name' => 'Chalástra',
@@ -1162,7 +1126,7 @@ return array (
     'latitude' => 40.62643,
     'longitude' => 22.73291,
   ),
-  129 => 
+  125 => 
   array (
     'id' => 52530,
     'name' => 'Chaniá',
@@ -1171,7 +1135,7 @@ return array (
     'latitude' => 35.51124,
     'longitude' => 24.02921,
   ),
-  130 => 
+  126 => 
   array (
     'id' => 52531,
     'name' => 'Charopó',
@@ -1180,7 +1144,7 @@ return array (
     'latitude' => 41.26031,
     'longitude' => 23.37279,
   ),
-  131 => 
+  127 => 
   array (
     'id' => 52532,
     'name' => 'Chaïdári',
@@ -1189,7 +1153,7 @@ return array (
     'latitude' => 38.01135,
     'longitude' => 23.66597,
   ),
-  132 => 
+  128 => 
   array (
     'id' => 52533,
     'name' => 'Chlói',
@@ -1198,7 +1162,7 @@ return array (
     'latitude' => 40.53918,
     'longitude' => 21.25923,
   ),
-  133 => 
+  129 => 
   array (
     'id' => 52534,
     'name' => 'Cholargós',
@@ -1207,7 +1171,7 @@ return array (
     'latitude' => 38.0,
     'longitude' => 23.8,
   ),
-  134 => 
+  130 => 
   array (
     'id' => 52535,
     'name' => 'Choristí',
@@ -1216,7 +1180,7 @@ return array (
     'latitude' => 41.13056,
     'longitude' => 24.20843,
   ),
-  135 => 
+  131 => 
   array (
     'id' => 52536,
     'name' => 'Chortiátis',
@@ -1225,7 +1189,7 @@ return array (
     'latitude' => 40.60954,
     'longitude' => 23.10014,
   ),
-  136 => 
+  132 => 
   array (
     'id' => 52537,
     'name' => 'Chrysochórafa',
@@ -1234,7 +1198,7 @@ return array (
     'latitude' => 41.18097,
     'longitude' => 23.23551,
   ),
-  137 => 
+  133 => 
   array (
     'id' => 52538,
     'name' => 'Chrysochóri',
@@ -1243,7 +1207,7 @@ return array (
     'latitude' => 40.93328,
     'longitude' => 24.71088,
   ),
-  138 => 
+  134 => 
   array (
     'id' => 52539,
     'name' => 'Chrysoúpolis',
@@ -1252,7 +1216,7 @@ return array (
     'latitude' => 40.98556,
     'longitude' => 24.69389,
   ),
-  139 => 
+  135 => 
   array (
     'id' => 52540,
     'name' => 'Chrysó',
@@ -1261,7 +1225,7 @@ return array (
     'latitude' => 41.05806,
     'longitude' => 23.65108,
   ),
-  140 => 
+  136 => 
   array (
     'id' => 52541,
     'name' => 'Chálki',
@@ -1270,7 +1234,7 @@ return array (
     'latitude' => 36.22243,
     'longitude' => 27.61191,
   ),
-  141 => 
+  137 => 
   array (
     'id' => 52542,
     'name' => 'Chávari',
@@ -1279,7 +1243,7 @@ return array (
     'latitude' => 37.84842,
     'longitude' => 21.38403,
   ),
-  142 => 
+  138 => 
   array (
     'id' => 52543,
     'name' => 'Chóra',
@@ -1288,7 +1252,7 @@ return array (
     'latitude' => 37.05106,
     'longitude' => 21.7169,
   ),
-  143 => 
+  139 => 
   array (
     'id' => 52544,
     'name' => 'Chóra Sfakíon',
@@ -1297,7 +1261,7 @@ return array (
     'latitude' => 35.20176,
     'longitude' => 24.13711,
   ),
-  144 => 
+  140 => 
   array (
     'id' => 52545,
     'name' => 'Corfu',
@@ -1306,7 +1270,7 @@ return array (
     'latitude' => 39.62069,
     'longitude' => 19.91975,
   ),
-  145 => 
+  141 => 
   array (
     'id' => 52546,
     'name' => 'Darátsos',
@@ -1315,7 +1279,7 @@ return array (
     'latitude' => 35.49955,
     'longitude' => 23.97488,
   ),
-  146 => 
+  142 => 
   array (
     'id' => 52547,
     'name' => 'Delphi',
@@ -1324,7 +1288,7 @@ return array (
     'latitude' => 38.47942,
     'longitude' => 22.49357,
   ),
-  147 => 
+  143 => 
   array (
     'id' => 52548,
     'name' => 'Deskáti',
@@ -1333,7 +1297,7 @@ return array (
     'latitude' => 39.92422,
     'longitude' => 21.81031,
   ),
-  148 => 
+  144 => 
   array (
     'id' => 52549,
     'name' => 'Dhafní',
@@ -1342,7 +1306,7 @@ return array (
     'latitude' => 37.95002,
     'longitude' => 23.73437,
   ),
-  149 => 
+  145 => 
   array (
     'id' => 52550,
     'name' => 'Dhokímion',
@@ -1351,7 +1315,7 @@ return array (
     'latitude' => 38.61352,
     'longitude' => 21.38072,
   ),
-  150 => 
+  146 => 
   array (
     'id' => 52551,
     'name' => 'Dhrosiá',
@@ -1360,7 +1324,7 @@ return array (
     'latitude' => 38.48413,
     'longitude' => 23.54774,
   ),
-  151 => 
+  147 => 
   array (
     'id' => 52552,
     'name' => 'Dhráfi',
@@ -1369,7 +1333,7 @@ return array (
     'latitude' => 38.02375,
     'longitude' => 23.90788,
   ),
-  152 => 
+  148 => 
   array (
     'id' => 52553,
     'name' => 'Diavatá',
@@ -1378,7 +1342,7 @@ return array (
     'latitude' => 40.68744,
     'longitude' => 22.85799,
   ),
-  153 => 
+  149 => 
   array (
     'id' => 52554,
     'name' => 'Diavatós',
@@ -1387,7 +1351,7 @@ return array (
     'latitude' => 40.54606,
     'longitude' => 22.26686,
   ),
-  154 => 
+  150 => 
   array (
     'id' => 52555,
     'name' => 'Didymóteicho',
@@ -1396,7 +1360,7 @@ return array (
     'latitude' => 41.34806,
     'longitude' => 26.49611,
   ),
-  155 => 
+  151 => 
   array (
     'id' => 52556,
     'name' => 'Dimitsána',
@@ -1405,7 +1369,7 @@ return array (
     'latitude' => 37.59524,
     'longitude' => 22.04025,
   ),
-  156 => 
+  152 => 
   array (
     'id' => 52557,
     'name' => 'Dióni',
@@ -1414,7 +1378,7 @@ return array (
     'latitude' => 38.02328,
     'longitude' => 23.93286,
   ),
-  157 => 
+  153 => 
   array (
     'id' => 52558,
     'name' => 'Diónysos',
@@ -1423,7 +1387,7 @@ return array (
     'latitude' => 38.10458,
     'longitude' => 23.87938,
   ),
-  158 => 
+  154 => 
   array (
     'id' => 52559,
     'name' => 'Domokós',
@@ -1432,7 +1396,7 @@ return array (
     'latitude' => 39.12722,
     'longitude' => 22.30028,
   ),
-  159 => 
+  155 => 
   array (
     'id' => 52560,
     'name' => 'Domvraína',
@@ -1441,7 +1405,7 @@ return array (
     'latitude' => 38.253,
     'longitude' => 22.98211,
   ),
-  160 => 
+  156 => 
   array (
     'id' => 52561,
     'name' => 'Drapetsóna',
@@ -1450,7 +1414,7 @@ return array (
     'latitude' => 37.94988,
     'longitude' => 23.62309,
   ),
-  161 => 
+  157 => 
   array (
     'id' => 52562,
     'name' => 'Dravískos',
@@ -1459,7 +1423,7 @@ return array (
     'latitude' => 40.92393,
     'longitude' => 23.87119,
   ),
-  162 => 
+  158 => 
   array (
     'id' => 52563,
     'name' => 'Drosiá',
@@ -1468,7 +1432,7 @@ return array (
     'latitude' => 38.11977,
     'longitude' => 23.86428,
   ),
-  163 => 
+  159 => 
   array (
     'id' => 52564,
     'name' => 'Drymós',
@@ -1477,7 +1441,7 @@ return array (
     'latitude' => 40.78099,
     'longitude' => 22.95889,
   ),
-  164 => 
+  160 => 
   array (
     'id' => 52565,
     'name' => 'Dráma',
@@ -1486,7 +1450,7 @@ return array (
     'latitude' => 41.15283,
     'longitude' => 24.1473,
   ),
-  165 => 
+  161 => 
   array (
     'id' => 52566,
     'name' => 'Drépanon',
@@ -1495,7 +1459,7 @@ return array (
     'latitude' => 37.53888,
     'longitude' => 22.89323,
   ),
-  166 => 
+  162 => 
   array (
     'id' => 52567,
     'name' => 'Dídyma',
@@ -1504,7 +1468,7 @@ return array (
     'latitude' => 37.4625,
     'longitude' => 23.17183,
   ),
-  167 => 
+  163 => 
   array (
     'id' => 52568,
     'name' => 'Dílesi',
@@ -1513,7 +1477,7 @@ return array (
     'latitude' => 38.33762,
     'longitude' => 23.67077,
   ),
-  168 => 
+  164 => 
   array (
     'id' => 52569,
     'name' => 'Díon',
@@ -1522,7 +1486,7 @@ return array (
     'latitude' => 40.17169,
     'longitude' => 22.48463,
   ),
-  169 => 
+  165 => 
   array (
     'id' => 52570,
     'name' => 'Dístomo',
@@ -1531,7 +1495,7 @@ return array (
     'latitude' => 38.42892,
     'longitude' => 22.66728,
   ),
-  170 => 
+  166 => 
   array (
     'id' => 52571,
     'name' => 'Echínos',
@@ -1540,7 +1504,7 @@ return array (
     'latitude' => 41.27558,
     'longitude' => 24.97237,
   ),
-  171 => 
+  167 => 
   array (
     'id' => 52572,
     'name' => 'Efkarpía',
@@ -1549,7 +1513,7 @@ return array (
     'latitude' => 40.68797,
     'longitude' => 22.95348,
   ),
-  172 => 
+  168 => 
   array (
     'id' => 52573,
     'name' => 'Eirinoúpoli',
@@ -1558,7 +1522,7 @@ return array (
     'latitude' => 40.67806,
     'longitude' => 22.19278,
   ),
-  173 => 
+  169 => 
   array (
     'id' => 52574,
     'name' => 'Eksochí',
@@ -1567,7 +1531,7 @@ return array (
     'latitude' => 39.68744,
     'longitude' => 20.8224,
   ),
-  174 => 
+  170 => 
   array (
     'id' => 52575,
     'name' => 'Ekáli',
@@ -1576,7 +1540,7 @@ return array (
     'latitude' => 38.11035,
     'longitude' => 23.83505,
   ),
-  175 => 
+  171 => 
   array (
     'id' => 52576,
     'name' => 'Elaiochóri',
@@ -1585,7 +1549,7 @@ return array (
     'latitude' => 40.8203,
     'longitude' => 24.24373,
   ),
-  176 => 
+  172 => 
   array (
     'id' => 52577,
     'name' => 'Elefsína',
@@ -1594,7 +1558,7 @@ return array (
     'latitude' => 38.04135,
     'longitude' => 23.54295,
   ),
-  177 => 
+  173 => 
   array (
     'id' => 52578,
     'name' => 'Eleftheroúpolis',
@@ -1603,7 +1567,7 @@ return array (
     'latitude' => 40.91389,
     'longitude' => 24.25139,
   ),
-  178 => 
+  174 => 
   array (
     'id' => 52579,
     'name' => 'Eleftherés',
@@ -1612,7 +1576,7 @@ return array (
     'latitude' => 40.84666,
     'longitude' => 24.25431,
   ),
-  179 => 
+  175 => 
   array (
     'id' => 52580,
     'name' => 'Eleoúsa',
@@ -1621,7 +1585,7 @@ return array (
     'latitude' => 39.15278,
     'longitude' => 20.96214,
   ),
-  180 => 
+  176 => 
   array (
     'id' => 52581,
     'name' => 'Ellinikó',
@@ -1630,7 +1594,7 @@ return array (
     'latitude' => 37.89013,
     'longitude' => 23.74406,
   ),
-  181 => 
+  177 => 
   array (
     'id' => 52582,
     'name' => 'Eloúnda',
@@ -1639,7 +1603,7 @@ return array (
     'latitude' => 35.265,
     'longitude' => 25.72127,
   ),
-  182 => 
+  178 => 
   array (
     'id' => 52583,
     'name' => 'Eláteia',
@@ -1648,7 +1612,7 @@ return array (
     'latitude' => 38.6277,
     'longitude' => 22.76492,
   ),
-  183 => 
+  179 => 
   array (
     'id' => 52584,
     'name' => 'Emporeío',
@@ -1657,7 +1621,7 @@ return array (
     'latitude' => 36.35816,
     'longitude' => 25.44615,
   ),
-  184 => 
+  180 => 
   array (
     'id' => 52585,
     'name' => 'Empório',
@@ -1666,7 +1630,7 @@ return array (
     'latitude' => 40.48866,
     'longitude' => 21.55768,
   ),
-  185 => 
+  181 => 
   array (
     'id' => 52586,
     'name' => 'Epanomí',
@@ -1675,7 +1639,7 @@ return array (
     'latitude' => 40.42614,
     'longitude' => 22.92782,
   ),
-  186 => 
+  182 => 
   array (
     'id' => 52587,
     'name' => 'Episkopí',
@@ -1684,7 +1648,7 @@ return array (
     'latitude' => 40.68748,
     'longitude' => 22.1364,
   ),
-  187 => 
+  183 => 
   array (
     'id' => 52588,
     'name' => 'Epitálio',
@@ -1693,7 +1657,7 @@ return array (
     'latitude' => 37.62675,
     'longitude' => 21.49528,
   ),
-  188 => 
+  184 => 
   array (
     'id' => 52589,
     'name' => 'Ermióni',
@@ -1702,7 +1666,7 @@ return array (
     'latitude' => 37.38492,
     'longitude' => 23.24686,
   ),
-  189 => 
+  185 => 
   array (
     'id' => 52590,
     'name' => 'Ermoúpolis',
@@ -1711,7 +1675,7 @@ return array (
     'latitude' => 37.44466,
     'longitude' => 24.9429,
   ),
-  190 => 
+  186 => 
   array (
     'id' => 52591,
     'name' => 'Erythrés',
@@ -1720,7 +1684,7 @@ return array (
     'latitude' => 38.21741,
     'longitude' => 23.32234,
   ),
-  191 => 
+  187 => 
   array (
     'id' => 52592,
     'name' => 'Erátyra',
@@ -1729,7 +1693,7 @@ return array (
     'latitude' => 40.34253,
     'longitude' => 21.51333,
   ),
-  192 => 
+  188 => 
   array (
     'id' => 52593,
     'name' => 'Erétria',
@@ -1738,7 +1702,7 @@ return array (
     'latitude' => 38.40097,
     'longitude' => 23.8022,
   ),
-  193 => 
+  189 => 
   array (
     'id' => 52594,
     'name' => 'Evropós',
@@ -1747,7 +1711,7 @@ return array (
     'latitude' => 40.89703,
     'longitude' => 22.55277,
   ),
-  194 => 
+  190 => 
   array (
     'id' => 52595,
     'name' => 'Evxinoúpolis',
@@ -1756,7 +1720,7 @@ return array (
     'latitude' => 39.18414,
     'longitude' => 22.73831,
   ),
-  195 => 
+  191 => 
   array (
     'id' => 52596,
     'name' => 'Examília',
@@ -1765,7 +1729,7 @@ return array (
     'latitude' => 37.89736,
     'longitude' => 22.92832,
   ),
-  196 => 
+  192 => 
   array (
     'id' => 52597,
     'name' => 'Exaplátanos',
@@ -1774,7 +1738,7 @@ return array (
     'latitude' => 40.97643,
     'longitude' => 22.12958,
   ),
-  197 => 
+  193 => 
   array (
     'id' => 52598,
     'name' => 'Faliraki',
@@ -1783,7 +1747,7 @@ return array (
     'latitude' => 36.33981,
     'longitude' => 28.19942,
   ),
-  198 => 
+  194 => 
   array (
     'id' => 52599,
     'name' => 'Farkadóna',
@@ -1792,7 +1756,7 @@ return array (
     'latitude' => 39.6,
     'longitude' => 22.06667,
   ),
-  199 => 
+  195 => 
   array (
     'id' => 52600,
     'name' => 'Filiatrá',
@@ -1801,7 +1765,7 @@ return array (
     'latitude' => 37.15637,
     'longitude' => 21.58532,
   ),
-  200 => 
+  196 => 
   array (
     'id' => 52601,
     'name' => 'Filippiáda',
@@ -1810,7 +1774,7 @@ return array (
     'latitude' => 39.20472,
     'longitude' => 20.88222,
   ),
-  201 => 
+  197 => 
   array (
     'id' => 52602,
     'name' => 'Filiátes',
@@ -1819,7 +1783,7 @@ return array (
     'latitude' => 39.60111,
     'longitude' => 20.31194,
   ),
-  202 => 
+  198 => 
   array (
     'id' => 52603,
     'name' => 'Fillýra',
@@ -1828,7 +1792,7 @@ return array (
     'latitude' => 41.11667,
     'longitude' => 25.63333,
   ),
-  203 => 
+  199 => 
   array (
     'id' => 52604,
     'name' => 'Filothéi',
@@ -1837,7 +1801,7 @@ return array (
     'latitude' => 38.02524,
     'longitude' => 23.78257,
   ),
-  204 => 
+  200 => 
   array (
     'id' => 52605,
     'name' => 'Filótas',
@@ -1846,7 +1810,7 @@ return array (
     'latitude' => 40.6252,
     'longitude' => 21.70851,
   ),
-  205 => 
+  201 => 
   array (
     'id' => 52606,
     'name' => 'Filótion',
@@ -1855,7 +1819,7 @@ return array (
     'latitude' => 37.05167,
     'longitude' => 25.49829,
   ),
-  206 => 
+  202 => 
   array (
     'id' => 52607,
     'name' => 'Fira',
@@ -1864,7 +1828,7 @@ return array (
     'latitude' => 36.42107,
     'longitude' => 25.43087,
   ),
-  207 => 
+  203 => 
   array (
     'id' => 52608,
     'name' => 'Flórina',
@@ -1873,7 +1837,7 @@ return array (
     'latitude' => 40.78197,
     'longitude' => 21.40981,
   ),
-  208 => 
+  204 => 
   array (
     'id' => 52609,
     'name' => 'Folégandros',
@@ -1882,7 +1846,7 @@ return array (
     'latitude' => 36.62794,
     'longitude' => 24.92021,
   ),
-  209 => 
+  205 => 
   array (
     'id' => 52610,
     'name' => 'Fotolívos',
@@ -1891,7 +1855,7 @@ return array (
     'latitude' => 41.06013,
     'longitude' => 24.04724,
   ),
-  210 => 
+  206 => 
   array (
     'id' => 52611,
     'name' => 'Fry',
@@ -1900,7 +1864,7 @@ return array (
     'latitude' => 35.41623,
     'longitude' => 26.92328,
   ),
-  211 => 
+  207 => 
   array (
     'id' => 52612,
     'name' => 'Fteliá',
@@ -1909,7 +1873,7 @@ return array (
     'latitude' => 41.08266,
     'longitude' => 24.18968,
   ),
-  212 => 
+  208 => 
   array (
     'id' => 52613,
     'name' => 'Fylí',
@@ -1918,7 +1882,7 @@ return array (
     'latitude' => 38.10235,
     'longitude' => 23.66901,
   ),
-  213 => 
+  209 => 
   array (
     'id' => 52614,
     'name' => 'Fyteíes',
@@ -1927,7 +1891,7 @@ return array (
     'latitude' => 38.69524,
     'longitude' => 21.18467,
   ),
-  214 => 
+  210 => 
   array (
     'id' => 52615,
     'name' => 'Fáros',
@@ -1936,7 +1900,7 @@ return array (
     'latitude' => 38.39959,
     'longitude' => 23.62275,
   ),
-  215 => 
+  211 => 
   array (
     'id' => 52616,
     'name' => 'Féres',
@@ -1945,7 +1909,7 @@ return array (
     'latitude' => 40.89305,
     'longitude' => 26.17234,
   ),
-  216 => 
+  212 => 
   array (
     'id' => 52617,
     'name' => 'Fíki',
@@ -1954,7 +1918,7 @@ return array (
     'latitude' => 39.51602,
     'longitude' => 21.65556,
   ),
-  217 => 
+  213 => 
   array (
     'id' => 52618,
     'name' => 'Fíliro',
@@ -1963,7 +1927,7 @@ return array (
     'latitude' => 40.69151,
     'longitude' => 23.0046,
   ),
-  218 => 
+  214 => 
   array (
     'id' => 52619,
     'name' => 'Fílla',
@@ -1972,7 +1936,7 @@ return array (
     'latitude' => 38.44177,
     'longitude' => 23.68306,
   ),
-  219 => 
+  215 => 
   array (
     'id' => 52620,
     'name' => 'Galatiní',
@@ -1981,7 +1945,7 @@ return array (
     'latitude' => 40.31966,
     'longitude' => 21.55148,
   ),
-  220 => 
+  216 => 
   array (
     'id' => 52621,
     'name' => 'Galatádes',
@@ -1990,7 +1954,7 @@ return array (
     'latitude' => 40.7559,
     'longitude' => 22.28062,
   ),
-  221 => 
+  217 => 
   array (
     'id' => 52622,
     'name' => 'Galatás',
@@ -1999,25 +1963,7 @@ return array (
     'latitude' => 38.35742,
     'longitude' => 21.56222,
   ),
-  222 => 
-  array (
-    'id' => 52623,
-    'name' => 'Galatás',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 35.49864,
-    'longitude' => 23.96341,
-  ),
-  223 => 
-  array (
-    'id' => 52624,
-    'name' => 'Galatás',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.49618,
-    'longitude' => 23.44886,
-  ),
-  224 => 
+  218 => 
   array (
     'id' => 52625,
     'name' => 'Galaxídhion',
@@ -2026,7 +1972,7 @@ return array (
     'latitude' => 38.38067,
     'longitude' => 22.38001,
   ),
-  225 => 
+  219 => 
   array (
     'id' => 52626,
     'name' => 'Galátista',
@@ -2035,7 +1981,7 @@ return array (
     'latitude' => 40.4682,
     'longitude' => 23.28015,
   ),
-  226 => 
+  220 => 
   array (
     'id' => 52627,
     'name' => 'Galátsi',
@@ -2044,7 +1990,7 @@ return array (
     'latitude' => 38.01667,
     'longitude' => 23.75,
   ),
-  227 => 
+  221 => 
   array (
     'id' => 52628,
     'name' => 'Gargaliánoi',
@@ -2053,7 +1999,7 @@ return array (
     'latitude' => 37.06518,
     'longitude' => 21.63809,
   ),
-  228 => 
+  222 => 
   array (
     'id' => 52629,
     'name' => 'Gastoúni',
@@ -2062,7 +2008,7 @@ return array (
     'latitude' => 37.85,
     'longitude' => 21.25,
   ),
-  229 => 
+  223 => 
   array (
     'id' => 52630,
     'name' => 'Gavaloú',
@@ -2071,7 +2017,7 @@ return array (
     'latitude' => 38.52903,
     'longitude' => 21.53226,
   ),
-  230 => 
+  224 => 
   array (
     'id' => 52631,
     'name' => 'Gaïtánion',
@@ -2080,7 +2026,7 @@ return array (
     'latitude' => 37.79134,
     'longitude' => 20.87407,
   ),
-  231 => 
+  225 => 
   array (
     'id' => 52632,
     'name' => 'Genisséa',
@@ -2089,7 +2035,7 @@ return array (
     'latitude' => 41.06165,
     'longitude' => 24.96248,
   ),
-  232 => 
+  226 => 
   array (
     'id' => 52633,
     'name' => 'Georgioupolis',
@@ -2098,7 +2044,7 @@ return array (
     'latitude' => 35.36225,
     'longitude' => 24.26013,
   ),
-  233 => 
+  227 => 
   array (
     'id' => 52634,
     'name' => 'Gerakaroú',
@@ -2107,7 +2053,7 @@ return array (
     'latitude' => 40.62666,
     'longitude' => 23.21566,
   ),
-  234 => 
+  228 => 
   array (
     'id' => 52635,
     'name' => 'Geráki',
@@ -2116,7 +2062,7 @@ return array (
     'latitude' => 36.99227,
     'longitude' => 22.70663,
   ),
-  235 => 
+  229 => 
   array (
     'id' => 52636,
     'name' => 'Geráni',
@@ -2125,7 +2071,7 @@ return array (
     'latitude' => 35.51721,
     'longitude' => 23.87818,
   ),
-  236 => 
+  230 => 
   array (
     'id' => 52637,
     'name' => 'Giannitsá',
@@ -2134,7 +2080,7 @@ return array (
     'latitude' => 40.79194,
     'longitude' => 22.4075,
   ),
-  237 => 
+  231 => 
   array (
     'id' => 52638,
     'name' => 'Glyfáda',
@@ -2143,7 +2089,7 @@ return array (
     'latitude' => 37.86289,
     'longitude' => 23.75802,
   ),
-  238 => 
+  232 => 
   array (
     'id' => 52639,
     'name' => 'Gouménissa',
@@ -2152,7 +2098,7 @@ return array (
     'latitude' => 40.94604,
     'longitude' => 22.44974,
   ),
-  239 => 
+  233 => 
   array (
     'id' => 52640,
     'name' => 'Goúmero',
@@ -2161,7 +2107,7 @@ return array (
     'latitude' => 37.76236,
     'longitude' => 21.61853,
   ),
-  240 => 
+  234 => 
   array (
     'id' => 52641,
     'name' => 'Goúrnes',
@@ -2170,7 +2116,7 @@ return array (
     'latitude' => 35.32626,
     'longitude' => 25.2774,
   ),
-  241 => 
+  235 => 
   array (
     'id' => 52642,
     'name' => 'Gra Liyiá',
@@ -2179,7 +2125,7 @@ return array (
     'latitude' => 35.01467,
     'longitude' => 25.69127,
   ),
-  242 => 
+  236 => 
   array (
     'id' => 52643,
     'name' => 'Graikochóri',
@@ -2188,7 +2134,7 @@ return array (
     'latitude' => 39.49789,
     'longitude' => 20.27608,
   ),
-  243 => 
+  237 => 
   array (
     'id' => 52644,
     'name' => 'Grammatikó',
@@ -2197,7 +2143,7 @@ return array (
     'latitude' => 38.20251,
     'longitude' => 23.96504,
   ),
-  244 => 
+  238 => 
   array (
     'id' => 52645,
     'name' => 'Grammenítsa',
@@ -2206,7 +2152,7 @@ return array (
     'latitude' => 39.18444,
     'longitude' => 20.97933,
   ),
-  245 => 
+  239 => 
   array (
     'id' => 52646,
     'name' => 'Grevená',
@@ -2215,7 +2161,7 @@ return array (
     'latitude' => 40.08452,
     'longitude' => 21.42744,
   ),
-  246 => 
+  240 => 
   array (
     'id' => 52647,
     'name' => 'Grizáno',
@@ -2224,7 +2170,7 @@ return array (
     'latitude' => 39.63192,
     'longitude' => 22.05258,
   ),
-  247 => 
+  241 => 
   array (
     'id' => 52648,
     'name' => 'Gázi',
@@ -2233,7 +2179,7 @@ return array (
     'latitude' => 35.32531,
     'longitude' => 25.06694,
   ),
-  248 => 
+  242 => 
   array (
     'id' => 52649,
     'name' => 'Gázoros',
@@ -2242,7 +2188,7 @@ return array (
     'latitude' => 41.02557,
     'longitude' => 23.77574,
   ),
-  249 => 
+  243 => 
   array (
     'id' => 52650,
     'name' => 'Gáïos',
@@ -2251,7 +2197,7 @@ return array (
     'latitude' => 39.19722,
     'longitude' => 20.18556,
   ),
-  250 => 
+  244 => 
   array (
     'id' => 52651,
     'name' => 'Géfyra',
@@ -2260,16 +2206,7 @@ return array (
     'latitude' => 40.73253,
     'longitude' => 22.69359,
   ),
-  251 => 
-  array (
-    'id' => 52652,
-    'name' => 'Géfyra',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 36.68715,
-    'longitude' => 23.03509,
-  ),
-  252 => 
+  245 => 
   array (
     'id' => 52653,
     'name' => 'Gérakas',
@@ -2278,7 +2215,7 @@ return array (
     'latitude' => 38.02277,
     'longitude' => 23.8576,
   ),
-  253 => 
+  246 => 
   array (
     'id' => 52654,
     'name' => 'Gérgeri',
@@ -2287,7 +2224,7 @@ return array (
     'latitude' => 35.13281,
     'longitude' => 24.94963,
   ),
-  254 => 
+  247 => 
   array (
     'id' => 52655,
     'name' => 'Gómfoi',
@@ -2296,7 +2233,7 @@ return array (
     'latitude' => 39.46413,
     'longitude' => 21.69342,
   ),
-  255 => 
+  248 => 
   array (
     'id' => 52656,
     'name' => 'Gýtheio',
@@ -2305,7 +2242,7 @@ return array (
     'latitude' => 36.755,
     'longitude' => 22.56417,
   ),
-  256 => 
+  249 => 
   array (
     'id' => 52657,
     'name' => 'Ialysós',
@@ -2314,7 +2251,7 @@ return array (
     'latitude' => 36.41352,
     'longitude' => 28.15516,
   ),
-  257 => 
+  250 => 
   array (
     'id' => 52658,
     'name' => 'Ierissós',
@@ -2323,7 +2260,7 @@ return array (
     'latitude' => 40.39748,
     'longitude' => 23.87505,
   ),
-  258 => 
+  251 => 
   array (
     'id' => 52659,
     'name' => 'Ierápetra',
@@ -2332,7 +2269,7 @@ return array (
     'latitude' => 35.01186,
     'longitude' => 25.74234,
   ),
-  259 => 
+  252 => 
   array (
     'id' => 52660,
     'name' => 'Igoumenítsa',
@@ -2341,7 +2278,7 @@ return array (
     'latitude' => 39.50342,
     'longitude' => 20.26728,
   ),
-  260 => 
+  253 => 
   array (
     'id' => 52661,
     'name' => 'Iliokentima',
@@ -2350,7 +2287,7 @@ return array (
     'latitude' => 40.94931,
     'longitude' => 24.78859,
   ),
-  261 => 
+  254 => 
   array (
     'id' => 52662,
     'name' => 'Ilioúpoli',
@@ -2359,7 +2296,7 @@ return array (
     'latitude' => 37.93149,
     'longitude' => 23.76779,
   ),
-  262 => 
+  255 => 
   array (
     'id' => 52663,
     'name' => 'Ioánnina',
@@ -2368,7 +2305,7 @@ return array (
     'latitude' => 39.66486,
     'longitude' => 20.85189,
   ),
-  263 => 
+  256 => 
   array (
     'id' => 52664,
     'name' => 'Irákleia',
@@ -2377,7 +2314,7 @@ return array (
     'latitude' => 41.18217,
     'longitude' => 23.28243,
   ),
-  264 => 
+  257 => 
   array (
     'id' => 52665,
     'name' => 'Irákleio',
@@ -2386,7 +2323,7 @@ return array (
     'latitude' => 38.05282,
     'longitude' => 23.76523,
   ),
-  265 => 
+  258 => 
   array (
     'id' => 52666,
     'name' => 'Irákleion',
@@ -2395,7 +2332,7 @@ return array (
     'latitude' => 35.32787,
     'longitude' => 25.14341,
   ),
-  266 => 
+  259 => 
   array (
     'id' => 52667,
     'name' => 'Isthmía',
@@ -2404,7 +2341,7 @@ return array (
     'latitude' => 37.91356,
     'longitude' => 23.0046,
   ),
-  267 => 
+  260 => 
   array (
     'id' => 52668,
     'name' => 'Istiaía',
@@ -2413,7 +2350,7 @@ return array (
     'latitude' => 38.9552,
     'longitude' => 23.1521,
   ),
-  268 => 
+  261 => 
   array (
     'id' => 52669,
     'name' => 'Itháki',
@@ -2422,7 +2359,7 @@ return array (
     'latitude' => 38.36421,
     'longitude' => 20.71848,
   ),
-  269 => 
+  262 => 
   array (
     'id' => 52670,
     'name' => 'Itéa',
@@ -2431,16 +2368,7 @@ return array (
     'latitude' => 39.45669,
     'longitude' => 22.16577,
   ),
-  270 => 
-  array (
-    'id' => 52671,
-    'name' => 'Itéa',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 38.43201,
-    'longitude' => 22.42443,
-  ),
-  271 => 
+  263 => 
   array (
     'id' => 52672,
     'name' => 'Kainoúryion',
@@ -2449,16 +2377,7 @@ return array (
     'latitude' => 38.60453,
     'longitude' => 21.48776,
   ),
-  272 => 
-  array (
-    'id' => 52673,
-    'name' => 'Kainoúryion',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 38.79283,
-    'longitude' => 22.7247,
-  ),
-  273 => 
+  264 => 
   array (
     'id' => 52674,
     'name' => 'Kaisarianí',
@@ -2467,7 +2386,7 @@ return array (
     'latitude' => 37.9634,
     'longitude' => 23.76523,
   ),
-  274 => 
+  265 => 
   array (
     'id' => 52675,
     'name' => 'Kalamariá',
@@ -2476,7 +2395,7 @@ return array (
     'latitude' => 40.5825,
     'longitude' => 22.95028,
   ),
-  275 => 
+  266 => 
   array (
     'id' => 52676,
     'name' => 'Kalamata',
@@ -2485,7 +2404,7 @@ return array (
     'latitude' => 37.03913,
     'longitude' => 22.11265,
   ),
-  276 => 
+  267 => 
   array (
     'id' => 52677,
     'name' => 'Kalamiá',
@@ -2494,7 +2413,7 @@ return array (
     'latitude' => 39.16528,
     'longitude' => 20.93206,
   ),
-  277 => 
+  268 => 
   array (
     'id' => 52678,
     'name' => 'Kalampáka',
@@ -2503,7 +2422,7 @@ return array (
     'latitude' => 39.70444,
     'longitude' => 21.62694,
   ),
-  278 => 
+  269 => 
   array (
     'id' => 52679,
     'name' => 'Kalampáki',
@@ -2512,7 +2431,7 @@ return array (
     'latitude' => 41.05,
     'longitude' => 24.18333,
   ),
-  279 => 
+  270 => 
   array (
     'id' => 52680,
     'name' => 'Kallifóni',
@@ -2521,7 +2440,7 @@ return array (
     'latitude' => 39.27712,
     'longitude' => 21.96128,
   ),
-  280 => 
+  271 => 
   array (
     'id' => 52681,
     'name' => 'Kallithéa',
@@ -2530,16 +2449,7 @@ return array (
     'latitude' => 37.95,
     'longitude' => 23.7,
   ),
-  281 => 
-  array (
-    'id' => 52682,
-    'name' => 'Kallithéa',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.07374,
-    'longitude' => 23.44637,
-  ),
-  282 => 
+  272 => 
   array (
     'id' => 52683,
     'name' => 'Kallífytos',
@@ -2548,7 +2458,7 @@ return array (
     'latitude' => 41.1728,
     'longitude' => 24.21527,
   ),
-  283 => 
+  273 => 
   array (
     'id' => 52684,
     'name' => 'Kallíthiro',
@@ -2557,7 +2467,7 @@ return array (
     'latitude' => 39.28099,
     'longitude' => 21.90491,
   ),
-  284 => 
+  274 => 
   array (
     'id' => 52685,
     'name' => 'Kalochóri',
@@ -2566,7 +2476,7 @@ return array (
     'latitude' => 40.64189,
     'longitude' => 22.85734,
   ),
-  285 => 
+  275 => 
   array (
     'id' => 52686,
     'name' => 'Kalpáki',
@@ -2575,7 +2485,7 @@ return array (
     'latitude' => 39.88778,
     'longitude' => 20.62389,
   ),
-  286 => 
+  276 => 
   array (
     'id' => 52687,
     'name' => 'Kalá Déndra',
@@ -2584,7 +2494,7 @@ return array (
     'latitude' => 41.09941,
     'longitude' => 23.42396,
   ),
-  287 => 
+  277 => 
   array (
     'id' => 52688,
     'name' => 'Kalávryta',
@@ -2593,7 +2503,7 @@ return array (
     'latitude' => 38.03222,
     'longitude' => 22.1125,
   ),
-  288 => 
+  278 => 
   array (
     'id' => 52689,
     'name' => 'Kalí',
@@ -2602,7 +2512,7 @@ return array (
     'latitude' => 40.81931,
     'longitude' => 22.17761,
   ),
-  289 => 
+  279 => 
   array (
     'id' => 52690,
     'name' => 'Kalí Vrýsi',
@@ -2611,7 +2521,7 @@ return array (
     'latitude' => 41.14653,
     'longitude' => 23.90667,
   ),
-  290 => 
+  280 => 
   array (
     'id' => 52691,
     'name' => 'Kalós Agrós',
@@ -2620,7 +2530,7 @@ return array (
     'latitude' => 41.10543,
     'longitude' => 24.0857,
   ),
-  291 => 
+  281 => 
   array (
     'id' => 52692,
     'name' => 'Kalýves',
@@ -2629,7 +2539,7 @@ return array (
     'latitude' => 35.45046,
     'longitude' => 24.17507,
   ),
-  292 => 
+  282 => 
   array (
     'id' => 52693,
     'name' => 'Kalýves Polygýrou',
@@ -2638,7 +2548,7 @@ return array (
     'latitude' => 40.28659,
     'longitude' => 23.39033,
   ),
-  293 => 
+  283 => 
   array (
     'id' => 52694,
     'name' => 'Kalývia',
@@ -2647,7 +2557,7 @@ return array (
     'latitude' => 40.75508,
     'longitude' => 22.21753,
   ),
-  294 => 
+  284 => 
   array (
     'id' => 52695,
     'name' => 'Kalývia Thorikoú',
@@ -2656,7 +2566,7 @@ return array (
     'latitude' => 37.83894,
     'longitude' => 23.92505,
   ),
-  295 => 
+  285 => 
   array (
     'id' => 52696,
     'name' => 'Kamariótissa',
@@ -2665,7 +2575,7 @@ return array (
     'latitude' => 40.47501,
     'longitude' => 25.47456,
   ),
-  296 => 
+  286 => 
   array (
     'id' => 52697,
     'name' => 'Kamaterón',
@@ -2674,7 +2584,7 @@ return array (
     'latitude' => 38.05586,
     'longitude' => 23.70515,
   ),
-  297 => 
+  287 => 
   array (
     'id' => 52698,
     'name' => 'Kampánis',
@@ -2683,7 +2593,7 @@ return array (
     'latitude' => 40.88951,
     'longitude' => 22.91682,
   ),
-  298 => 
+  288 => 
   array (
     'id' => 52699,
     'name' => 'Kamárai',
@@ -2692,7 +2602,7 @@ return array (
     'latitude' => 38.29881,
     'longitude' => 21.99892,
   ),
-  299 => 
+  289 => 
   array (
     'id' => 52700,
     'name' => 'Kaména Voúrla',
@@ -2701,7 +2611,7 @@ return array (
     'latitude' => 38.77844,
     'longitude' => 22.78573,
   ),
-  300 => 
+  290 => 
   array (
     'id' => 52701,
     'name' => 'Kanaláki',
@@ -2710,7 +2620,7 @@ return array (
     'latitude' => 39.23361,
     'longitude' => 20.6,
   ),
-  301 => 
+  291 => 
   array (
     'id' => 52702,
     'name' => 'Kandíla',
@@ -2719,7 +2629,7 @@ return array (
     'latitude' => 38.70564,
     'longitude' => 20.94749,
   ),
-  302 => 
+  292 => 
   array (
     'id' => 52703,
     'name' => 'Kanáli',
@@ -2728,7 +2638,7 @@ return array (
     'latitude' => 39.60556,
     'longitude' => 19.8925,
   ),
-  303 => 
+  293 => 
   array (
     'id' => 52704,
     'name' => 'Kanália',
@@ -2737,7 +2647,7 @@ return array (
     'latitude' => 39.49928,
     'longitude' => 22.88589,
   ),
-  304 => 
+  294 => 
   array (
     'id' => 52705,
     'name' => 'Kapandríti',
@@ -2746,7 +2656,7 @@ return array (
     'latitude' => 38.21579,
     'longitude' => 23.87938,
   ),
-  305 => 
+  295 => 
   array (
     'id' => 52706,
     'name' => 'Kaparéllion',
@@ -2755,7 +2665,7 @@ return array (
     'latitude' => 38.23697,
     'longitude' => 23.21411,
   ),
-  306 => 
+  296 => 
   array (
     'id' => 52707,
     'name' => 'Kardamás',
@@ -2764,7 +2674,7 @@ return array (
     'latitude' => 37.76729,
     'longitude' => 21.33946,
   ),
-  307 => 
+  297 => 
   array (
     'id' => 52708,
     'name' => 'Kardamítsia',
@@ -2773,7 +2683,7 @@ return array (
     'latitude' => 39.67816,
     'longitude' => 20.81956,
   ),
-  308 => 
+  298 => 
   array (
     'id' => 52709,
     'name' => 'Kardamýli',
@@ -2782,7 +2692,7 @@ return array (
     'latitude' => 36.88778,
     'longitude' => 22.23317,
   ),
-  309 => 
+  299 => 
   array (
     'id' => 52710,
     'name' => 'Karditsomagoúla',
@@ -2791,7 +2701,7 @@ return array (
     'latitude' => 39.39061,
     'longitude' => 21.9233,
   ),
-  310 => 
+  300 => 
   array (
     'id' => 52711,
     'name' => 'Kardiá',
@@ -2800,7 +2710,7 @@ return array (
     'latitude' => 40.46909,
     'longitude' => 22.99378,
   ),
-  311 => 
+  301 => 
   array (
     'id' => 52712,
     'name' => 'Kardámaina',
@@ -2809,7 +2719,7 @@ return array (
     'latitude' => 36.78305,
     'longitude' => 27.14289,
   ),
-  312 => 
+  302 => 
   array (
     'id' => 52713,
     'name' => 'Kardítsa',
@@ -2818,7 +2728,7 @@ return array (
     'latitude' => 39.36485,
     'longitude' => 21.92191,
   ),
-  313 => 
+  303 => 
   array (
     'id' => 52714,
     'name' => 'Karellás',
@@ -2827,7 +2737,7 @@ return array (
     'latitude' => 37.93445,
     'longitude' => 23.86484,
   ),
-  314 => 
+  304 => 
   array (
     'id' => 52715,
     'name' => 'Karpathos',
@@ -2836,7 +2746,7 @@ return array (
     'latitude' => 35.50701,
     'longitude' => 27.21322,
   ),
-  315 => 
+  305 => 
   array (
     'id' => 52716,
     'name' => 'Karpenísi',
@@ -2845,7 +2755,7 @@ return array (
     'latitude' => 38.91218,
     'longitude' => 21.79836,
   ),
-  316 => 
+  306 => 
   array (
     'id' => 52717,
     'name' => 'Karpochóri',
@@ -2854,7 +2764,7 @@ return array (
     'latitude' => 39.33575,
     'longitude' => 22.01129,
   ),
-  317 => 
+  307 => 
   array (
     'id' => 52718,
     'name' => 'Karyés',
@@ -2863,7 +2773,7 @@ return array (
     'latitude' => 37.29119,
     'longitude' => 22.50066,
   ),
-  318 => 
+  308 => 
   array (
     'id' => 52719,
     'name' => 'Karyótissa',
@@ -2872,7 +2782,7 @@ return array (
     'latitude' => 40.76915,
     'longitude' => 22.31331,
   ),
-  319 => 
+  309 => 
   array (
     'id' => 52720,
     'name' => 'Karátoula',
@@ -2881,7 +2791,7 @@ return array (
     'latitude' => 37.73564,
     'longitude' => 21.53578,
   ),
-  320 => 
+  310 => 
   array (
     'id' => 52721,
     'name' => 'Karítsa',
@@ -2890,7 +2800,7 @@ return array (
     'latitude' => 40.18745,
     'longitude' => 22.48171,
   ),
-  321 => 
+  311 => 
   array (
     'id' => 52722,
     'name' => 'Kassándreia',
@@ -2899,7 +2809,7 @@ return array (
     'latitude' => 40.04835,
     'longitude' => 23.41362,
   ),
-  322 => 
+  312 => 
   array (
     'id' => 52723,
     'name' => 'Kastaniés',
@@ -2908,7 +2818,7 @@ return array (
     'latitude' => 41.64551,
     'longitude' => 26.47676,
   ),
-  323 => 
+  313 => 
   array (
     'id' => 52724,
     'name' => 'Kastoria',
@@ -2917,7 +2827,7 @@ return array (
     'latitude' => 40.52165,
     'longitude' => 21.26341,
   ),
-  324 => 
+  314 => 
   array (
     'id' => 52725,
     'name' => 'Kastráki',
@@ -2926,7 +2836,7 @@ return array (
     'latitude' => 39.71692,
     'longitude' => 21.61865,
   ),
-  325 => 
+  315 => 
   array (
     'id' => 52726,
     'name' => 'Kastrí',
@@ -2935,7 +2845,7 @@ return array (
     'latitude' => 34.8346,
     'longitude' => 24.08572,
   ),
-  326 => 
+  316 => 
   array (
     'id' => 52727,
     'name' => 'Kastélla',
@@ -2944,7 +2854,7 @@ return array (
     'latitude' => 38.57048,
     'longitude' => 23.63131,
   ),
-  327 => 
+  317 => 
   array (
     'id' => 52728,
     'name' => 'Kastélli',
@@ -2953,7 +2863,7 @@ return array (
     'latitude' => 35.20902,
     'longitude' => 25.33773,
   ),
-  328 => 
+  318 => 
   array (
     'id' => 52729,
     'name' => 'Katastárion',
@@ -2962,7 +2872,7 @@ return array (
     'latitude' => 37.83012,
     'longitude' => 20.75755,
   ),
-  329 => 
+  319 => 
   array (
     'id' => 52730,
     'name' => 'Kateríni',
@@ -2971,7 +2881,7 @@ return array (
     'latitude' => 40.26956,
     'longitude' => 22.50608,
   ),
-  330 => 
+  320 => 
   array (
     'id' => 52731,
     'name' => 'Katochí',
@@ -2980,7 +2890,7 @@ return array (
     'latitude' => 38.41237,
     'longitude' => 21.25258,
   ),
-  331 => 
+  321 => 
   array (
     'id' => 52732,
     'name' => 'Katoúna',
@@ -2989,7 +2899,7 @@ return array (
     'latitude' => 38.78547,
     'longitude' => 21.11417,
   ),
-  332 => 
+  322 => 
   array (
     'id' => 52733,
     'name' => 'Katsikás',
@@ -2998,7 +2908,7 @@ return array (
     'latitude' => 39.62281,
     'longitude' => 20.88758,
   ),
-  333 => 
+  323 => 
   array (
     'id' => 52734,
     'name' => 'Kavallári',
@@ -3007,7 +2917,7 @@ return array (
     'latitude' => 40.71539,
     'longitude' => 23.04588,
   ),
-  334 => 
+  324 => 
   array (
     'id' => 52735,
     'name' => 'Kavála',
@@ -3016,7 +2926,7 @@ return array (
     'latitude' => 40.93959,
     'longitude' => 24.40687,
   ),
-  335 => 
+  325 => 
   array (
     'id' => 52736,
     'name' => 'Kavásila',
@@ -3025,7 +2935,7 @@ return array (
     'latitude' => 37.87581,
     'longitude' => 21.26422,
   ),
-  336 => 
+  326 => 
   array (
     'id' => 52737,
     'name' => 'Kavýli',
@@ -3034,7 +2944,7 @@ return array (
     'latitude' => 41.56225,
     'longitude' => 26.5147,
   ),
-  337 => 
+  327 => 
   array (
     'id' => 52738,
     'name' => 'Kentrí',
@@ -3043,7 +2953,7 @@ return array (
     'latitude' => 35.03258,
     'longitude' => 25.7528,
   ),
-  338 => 
+  328 => 
   array (
     'id' => 52739,
     'name' => 'Keramotí',
@@ -3052,7 +2962,7 @@ return array (
     'latitude' => 40.85591,
     'longitude' => 24.70595,
   ),
-  339 => 
+  329 => 
   array (
     'id' => 52740,
     'name' => 'Kerasochóri',
@@ -3061,7 +2971,7 @@ return array (
     'latitude' => 39.00556,
     'longitude' => 21.63778,
   ),
-  340 => 
+  330 => 
   array (
     'id' => 52741,
     'name' => 'Keratsíni',
@@ -3070,7 +2980,7 @@ return array (
     'latitude' => 37.9625,
     'longitude' => 23.61972,
   ),
-  341 => 
+  331 => 
   array (
     'id' => 52742,
     'name' => 'Keratéa',
@@ -3079,7 +2989,7 @@ return array (
     'latitude' => 37.80585,
     'longitude' => 23.9774,
   ),
-  342 => 
+  332 => 
   array (
     'id' => 52743,
     'name' => 'Khalkoútsion',
@@ -3088,7 +2998,7 @@ return array (
     'latitude' => 38.33263,
     'longitude' => 23.73188,
   ),
-  343 => 
+  333 => 
   array (
     'id' => 52744,
     'name' => 'Khalándrion',
@@ -3097,7 +3007,7 @@ return array (
     'latitude' => 38.02369,
     'longitude' => 23.80068,
   ),
-  344 => 
+  334 => 
   array (
     'id' => 52745,
     'name' => 'Khiliomódhi',
@@ -3106,7 +3016,7 @@ return array (
     'latitude' => 37.81016,
     'longitude' => 22.86972,
   ),
-  345 => 
+  335 => 
   array (
     'id' => 52746,
     'name' => 'Kifisiá',
@@ -3115,7 +3025,7 @@ return array (
     'latitude' => 38.07438,
     'longitude' => 23.81106,
   ),
-  346 => 
+  336 => 
   array (
     'id' => 52747,
     'name' => 'Kilkís',
@@ -3124,7 +3034,7 @@ return array (
     'latitude' => 40.99302,
     'longitude' => 22.87433,
   ),
-  347 => 
+  337 => 
   array (
     'id' => 52748,
     'name' => 'Kimméria',
@@ -3133,7 +3043,7 @@ return array (
     'latitude' => 41.14788,
     'longitude' => 24.93869,
   ),
-  348 => 
+  338 => 
   array (
     'id' => 52749,
     'name' => 'Kinéta',
@@ -3142,7 +3052,7 @@ return array (
     'latitude' => 37.96843,
     'longitude' => 23.21351,
   ),
-  349 => 
+  339 => 
   array (
     'id' => 52750,
     'name' => 'Kipséli',
@@ -3151,7 +3061,7 @@ return array (
     'latitude' => 38.00288,
     'longitude' => 23.73755,
   ),
-  350 => 
+  340 => 
   array (
     'id' => 52751,
     'name' => 'Kiáto',
@@ -3160,7 +3070,7 @@ return array (
     'latitude' => 38.01321,
     'longitude' => 22.74839,
   ),
-  351 => 
+  341 => 
   array (
     'id' => 52752,
     'name' => 'Kleidí',
@@ -3169,7 +3079,7 @@ return array (
     'latitude' => 40.56632,
     'longitude' => 22.59033,
   ),
-  352 => 
+  342 => 
   array (
     'id' => 52753,
     'name' => 'Kleítos',
@@ -3178,7 +3088,7 @@ return array (
     'latitude' => 40.4314,
     'longitude' => 21.85806,
   ),
-  353 => 
+  343 => 
   array (
     'id' => 52754,
     'name' => 'Koilás',
@@ -3187,7 +3097,7 @@ return array (
     'latitude' => 37.4123,
     'longitude' => 23.12553,
   ),
-  354 => 
+  344 => 
   array (
     'id' => 52755,
     'name' => 'Kokkinóchoma',
@@ -3196,7 +3106,7 @@ return array (
     'latitude' => 40.9269,
     'longitude' => 24.30805,
   ),
-  355 => 
+  345 => 
   array (
     'id' => 52756,
     'name' => 'Kokkíni Cháni',
@@ -3205,7 +3115,7 @@ return array (
     'latitude' => 35.32827,
     'longitude' => 25.2581,
   ),
-  356 => 
+  346 => 
   array (
     'id' => 52757,
     'name' => 'Kokkónion',
@@ -3214,7 +3124,7 @@ return array (
     'latitude' => 37.97061,
     'longitude' => 22.78018,
   ),
-  357 => 
+  347 => 
   array (
     'id' => 52758,
     'name' => 'Kolchikón',
@@ -3223,7 +3133,7 @@ return array (
     'latitude' => 40.75662,
     'longitude' => 23.13377,
   ),
-  358 => 
+  348 => 
   array (
     'id' => 52759,
     'name' => 'Kolindrós',
@@ -3232,7 +3142,7 @@ return array (
     'latitude' => 40.47888,
     'longitude' => 22.48319,
   ),
-  359 => 
+  349 => 
   array (
     'id' => 52760,
     'name' => 'Kolympári',
@@ -3241,7 +3151,7 @@ return array (
     'latitude' => 35.54115,
     'longitude' => 23.77995,
   ),
-  360 => 
+  350 => 
   array (
     'id' => 52761,
     'name' => 'Komniná',
@@ -3250,7 +3160,7 @@ return array (
     'latitude' => 40.59057,
     'longitude' => 21.77671,
   ),
-  361 => 
+  351 => 
   array (
     'id' => 52762,
     'name' => 'Komotiní',
@@ -3259,7 +3169,7 @@ return array (
     'latitude' => 41.11917,
     'longitude' => 25.40535,
   ),
-  362 => 
+  352 => 
   array (
     'id' => 52763,
     'name' => 'Kompóti',
@@ -3268,7 +3178,7 @@ return array (
     'latitude' => 39.10255,
     'longitude' => 21.08389,
   ),
-  363 => 
+  353 => 
   array (
     'id' => 52764,
     'name' => 'Kontariótissa',
@@ -3277,7 +3187,7 @@ return array (
     'latitude' => 40.22754,
     'longitude' => 22.461,
   ),
-  364 => 
+  354 => 
   array (
     'id' => 52765,
     'name' => 'Kontokáli',
@@ -3286,7 +3196,7 @@ return array (
     'latitude' => 39.64436,
     'longitude' => 19.85194,
   ),
-  365 => 
+  355 => 
   array (
     'id' => 52766,
     'name' => 'Kopanáki',
@@ -3295,7 +3205,7 @@ return array (
     'latitude' => 37.28913,
     'longitude' => 21.81854,
   ),
-  366 => 
+  356 => 
   array (
     'id' => 52767,
     'name' => 'Kopanós',
@@ -3304,7 +3214,7 @@ return array (
     'latitude' => 40.63382,
     'longitude' => 22.12893,
   ),
-  367 => 
+  357 => 
   array (
     'id' => 52768,
     'name' => 'Korinós',
@@ -3313,7 +3223,7 @@ return array (
     'latitude' => 40.31659,
     'longitude' => 22.58817,
   ),
-  368 => 
+  358 => 
   array (
     'id' => 52769,
     'name' => 'Koropí',
@@ -3322,7 +3232,7 @@ return array (
     'latitude' => 37.89886,
     'longitude' => 23.87181,
   ),
-  369 => 
+  359 => 
   array (
     'id' => 52770,
     'name' => 'Korydallós',
@@ -3331,7 +3241,7 @@ return array (
     'latitude' => 37.98468,
     'longitude' => 23.64711,
   ),
-  370 => 
+  360 => 
   array (
     'id' => 52771,
     'name' => 'Koryfí',
@@ -3340,7 +3250,7 @@ return array (
     'latitude' => 40.60286,
     'longitude' => 22.50681,
   ),
-  371 => 
+  361 => 
   array (
     'id' => 52772,
     'name' => 'Koróni',
@@ -3349,7 +3259,7 @@ return array (
     'latitude' => 36.79526,
     'longitude' => 21.95794,
   ),
-  372 => 
+  362 => 
   array (
     'id' => 52773,
     'name' => 'Kos',
@@ -3358,7 +3268,7 @@ return array (
     'latitude' => 36.89295,
     'longitude' => 27.28768,
   ),
-  373 => 
+  363 => 
   array (
     'id' => 52774,
     'name' => 'Kostakioí',
@@ -3367,7 +3277,7 @@ return array (
     'latitude' => 39.13672,
     'longitude' => 20.95761,
   ),
-  374 => 
+  364 => 
   array (
     'id' => 52775,
     'name' => 'Koufália',
@@ -3376,7 +3286,7 @@ return array (
     'latitude' => 40.77778,
     'longitude' => 22.57194,
   ),
-  375 => 
+  365 => 
   array (
     'id' => 52776,
     'name' => 'Kouloúra',
@@ -3385,7 +3295,7 @@ return array (
     'latitude' => 40.54652,
     'longitude' => 22.31795,
   ),
-  376 => 
+  366 => 
   array (
     'id' => 52777,
     'name' => 'Koutselió',
@@ -3394,7 +3304,7 @@ return array (
     'latitude' => 39.58808,
     'longitude' => 20.91197,
   ),
-  377 => 
+  367 => 
   array (
     'id' => 52778,
     'name' => 'Koutsopódi',
@@ -3403,7 +3313,7 @@ return array (
     'latitude' => 37.68426,
     'longitude' => 22.71355,
   ),
-  378 => 
+  368 => 
   array (
     'id' => 52779,
     'name' => 'Kouvarás',
@@ -3412,7 +3322,7 @@ return array (
     'latitude' => 37.82711,
     'longitude' => 23.96715,
   ),
-  379 => 
+  369 => 
   array (
     'id' => 52780,
     'name' => 'Kozáni',
@@ -3421,7 +3331,7 @@ return array (
     'latitude' => 40.30069,
     'longitude' => 21.78896,
   ),
-  380 => 
+  370 => 
   array (
     'id' => 52781,
     'name' => 'Koíla',
@@ -3430,7 +3340,7 @@ return array (
     'latitude' => 40.33055,
     'longitude' => 21.79102,
   ),
-  381 => 
+  371 => 
   array (
     'id' => 52782,
     'name' => 'Koímisi',
@@ -3439,7 +3349,7 @@ return array (
     'latitude' => 41.21282,
     'longitude' => 23.30035,
   ),
-  382 => 
+  372 => 
   array (
     'id' => 52783,
     'name' => 'Kranídi',
@@ -3448,7 +3358,7 @@ return array (
     'latitude' => 37.37974,
     'longitude' => 23.15969,
   ),
-  383 => 
+  373 => 
   array (
     'id' => 52784,
     'name' => 'Kremastí',
@@ -3457,7 +3367,7 @@ return array (
     'latitude' => 36.40981,
     'longitude' => 28.1192,
   ),
-  384 => 
+  374 => 
   array (
     'id' => 52785,
     'name' => 'Krinídes',
@@ -3466,7 +3376,7 @@ return array (
     'latitude' => 41.01396,
     'longitude' => 24.29647,
   ),
-  385 => 
+  375 => 
   array (
     'id' => 52786,
     'name' => 'Krithiá',
@@ -3475,7 +3385,7 @@ return array (
     'latitude' => 40.84184,
     'longitude' => 22.98292,
   ),
-  386 => 
+  376 => 
   array (
     'id' => 52787,
     'name' => 'Kritsá',
@@ -3484,7 +3394,7 @@ return array (
     'latitude' => 35.15821,
     'longitude' => 25.64459,
   ),
-  387 => 
+  377 => 
   array (
     'id' => 52788,
     'name' => 'Krokeés',
@@ -3493,7 +3403,7 @@ return array (
     'latitude' => 36.88297,
     'longitude' => 22.54683,
   ),
-  388 => 
+  378 => 
   array (
     'id' => 52789,
     'name' => 'Krousón',
@@ -3502,7 +3412,7 @@ return array (
     'latitude' => 35.23062,
     'longitude' => 24.98291,
   ),
-  389 => 
+  379 => 
   array (
     'id' => 52790,
     'name' => 'Kryonéri',
@@ -3511,7 +3421,7 @@ return array (
     'latitude' => 38.13712,
     'longitude' => 23.83055,
   ),
-  390 => 
+  380 => 
   array (
     'id' => 52791,
     'name' => 'Kréstena',
@@ -3520,7 +3430,7 @@ return array (
     'latitude' => 37.59193,
     'longitude' => 21.62034,
   ),
-  391 => 
+  381 => 
   array (
     'id' => 52792,
     'name' => 'Kríkellos',
@@ -3529,7 +3439,7 @@ return array (
     'latitude' => 38.94532,
     'longitude' => 21.1791,
   ),
-  392 => 
+  382 => 
   array (
     'id' => 52793,
     'name' => 'Krókos',
@@ -3538,7 +3448,7 @@ return array (
     'latitude' => 40.26349,
     'longitude' => 21.8176,
   ),
-  393 => 
+  383 => 
   array (
     'id' => 52794,
     'name' => 'Krýa Vrýsi',
@@ -3547,7 +3457,7 @@ return array (
     'latitude' => 40.68738,
     'longitude' => 22.30516,
   ),
-  394 => 
+  384 => 
   array (
     'id' => 52795,
     'name' => 'Kyllíni',
@@ -3556,7 +3466,7 @@ return array (
     'latitude' => 37.93542,
     'longitude' => 21.14503,
   ),
-  395 => 
+  385 => 
   array (
     'id' => 52796,
     'name' => 'Kynopiástes',
@@ -3565,7 +3475,7 @@ return array (
     'latitude' => 39.56785,
     'longitude' => 19.88362,
   ),
-  396 => 
+  386 => 
   array (
     'id' => 52797,
     'name' => 'Kyparissía',
@@ -3574,7 +3484,7 @@ return array (
     'latitude' => 37.25111,
     'longitude' => 21.67361,
   ),
-  397 => 
+  387 => 
   array (
     'id' => 52798,
     'name' => 'Kyprínos',
@@ -3583,7 +3493,7 @@ return array (
     'latitude' => 41.57542,
     'longitude' => 26.22905,
   ),
-  398 => 
+  388 => 
   array (
     'id' => 52799,
     'name' => 'Kypséli',
@@ -3592,7 +3502,7 @@ return array (
     'latitude' => 37.76021,
     'longitude' => 23.45448,
   ),
-  399 => 
+  389 => 
   array (
     'id' => 52800,
     'name' => 'Kyriáki',
@@ -3601,7 +3511,7 @@ return array (
     'latitude' => 38.35365,
     'longitude' => 22.78841,
   ),
-  400 => 
+  390 => 
   array (
     'id' => 52801,
     'name' => 'Kyrás Vrýsi',
@@ -3610,7 +3520,7 @@ return array (
     'latitude' => 37.91295,
     'longitude' => 22.98651,
   ),
-  401 => 
+  391 => 
   array (
     'id' => 52802,
     'name' => 'Kálamos',
@@ -3619,7 +3529,7 @@ return array (
     'latitude' => 38.28447,
     'longitude' => 23.86308,
   ),
-  402 => 
+  392 => 
   array (
     'id' => 52803,
     'name' => 'Kálymnos',
@@ -3628,7 +3538,7 @@ return array (
     'latitude' => 36.9503,
     'longitude' => 26.98388,
   ),
-  403 => 
+  393 => 
   array (
     'id' => 52804,
     'name' => 'Kárystos',
@@ -3637,7 +3547,7 @@ return array (
     'latitude' => 38.01333,
     'longitude' => 24.41611,
   ),
-  404 => 
+  394 => 
   array (
     'id' => 52805,
     'name' => 'Káto Achaḯa',
@@ -3646,7 +3556,7 @@ return array (
     'latitude' => 38.15,
     'longitude' => 21.55,
   ),
-  405 => 
+  395 => 
   array (
     'id' => 52806,
     'name' => 'Káto Asítai',
@@ -3655,7 +3565,7 @@ return array (
     'latitude' => 35.20271,
     'longitude' => 24.99827,
   ),
-  406 => 
+  396 => 
   array (
     'id' => 52807,
     'name' => 'Káto Dhiminió',
@@ -3664,7 +3574,7 @@ return array (
     'latitude' => 38.0249,
     'longitude' => 22.73294,
   ),
-  407 => 
+  397 => 
   array (
     'id' => 52808,
     'name' => 'Káto Glykóvrysi',
@@ -3673,7 +3583,7 @@ return array (
     'latitude' => 36.82791,
     'longitude' => 22.77732,
   ),
-  408 => 
+  398 => 
   array (
     'id' => 52809,
     'name' => 'Káto Goúves',
@@ -3682,7 +3592,7 @@ return array (
     'latitude' => 35.32934,
     'longitude' => 25.31353,
   ),
-  409 => 
+  399 => 
   array (
     'id' => 52810,
     'name' => 'Káto Kamíla',
@@ -3691,7 +3601,7 @@ return array (
     'latitude' => 41.02119,
     'longitude' => 23.48336,
   ),
-  410 => 
+  400 => 
   array (
     'id' => 52811,
     'name' => 'Káto Lekhónia',
@@ -3700,7 +3610,7 @@ return array (
     'latitude' => 39.33091,
     'longitude' => 23.03957,
   ),
-  411 => 
+  401 => 
   array (
     'id' => 52812,
     'name' => 'Káto Lipochóri',
@@ -3709,7 +3619,7 @@ return array (
     'latitude' => 40.75754,
     'longitude' => 22.17962,
   ),
-  412 => 
+  402 => 
   array (
     'id' => 52813,
     'name' => 'Káto Mazaráki',
@@ -3718,7 +3628,7 @@ return array (
     'latitude' => 38.07035,
     'longitude' => 21.65097,
   ),
-  413 => 
+  403 => 
   array (
     'id' => 52814,
     'name' => 'Káto Miliá',
@@ -3727,7 +3637,7 @@ return array (
     'latitude' => 40.25403,
     'longitude' => 22.34342,
   ),
-  414 => 
+  404 => 
   array (
     'id' => 52815,
     'name' => 'Káto Nevrokópi',
@@ -3736,7 +3646,7 @@ return array (
     'latitude' => 41.35,
     'longitude' => 23.86667,
   ),
-  415 => 
+  405 => 
   array (
     'id' => 52816,
     'name' => 'Káto Scholári',
@@ -3745,7 +3655,7 @@ return array (
     'latitude' => 40.42906,
     'longitude' => 23.02978,
   ),
-  416 => 
+  406 => 
   array (
     'id' => 52817,
     'name' => 'Káto Soúlion',
@@ -3754,7 +3664,7 @@ return array (
     'latitude' => 38.16803,
     'longitude' => 24.01628,
   ),
-  417 => 
+  407 => 
   array (
     'id' => 52818,
     'name' => 'Káto Tithoréa',
@@ -3763,7 +3673,7 @@ return array (
     'latitude' => 38.60751,
     'longitude' => 22.71348,
   ),
-  418 => 
+  408 => 
   array (
     'id' => 52819,
     'name' => 'Kéfalos',
@@ -3772,7 +3682,7 @@ return array (
     'latitude' => 36.74507,
     'longitude' => 26.95961,
   ),
-  419 => 
+  409 => 
   array (
     'id' => 52820,
     'name' => 'Kímolos',
@@ -3781,7 +3691,7 @@ return array (
     'latitude' => 36.79368,
     'longitude' => 24.57577,
   ),
-  420 => 
+  410 => 
   array (
     'id' => 52821,
     'name' => 'Kírra',
@@ -3790,7 +3700,7 @@ return array (
     'latitude' => 38.42944,
     'longitude' => 22.44443,
   ),
-  421 => 
+  411 => 
   array (
     'id' => 52822,
     'name' => 'Kíssamos',
@@ -3799,7 +3709,7 @@ return array (
     'latitude' => 35.49459,
     'longitude' => 23.65375,
   ),
-  422 => 
+  412 => 
   array (
     'id' => 52823,
     'name' => 'Kítros',
@@ -3808,7 +3718,7 @@ return array (
     'latitude' => 40.37399,
     'longitude' => 22.57862,
   ),
-  423 => 
+  413 => 
   array (
     'id' => 52824,
     'name' => 'Kítsi',
@@ -3817,7 +3727,7 @@ return array (
     'latitude' => 37.85181,
     'longitude' => 23.84068,
   ),
-  424 => 
+  414 => 
   array (
     'id' => 52825,
     'name' => 'Kónitsa',
@@ -3826,7 +3736,7 @@ return array (
     'latitude' => 40.04861,
     'longitude' => 20.75667,
   ),
-  425 => 
+  415 => 
   array (
     'id' => 52826,
     'name' => 'Kórinthos',
@@ -3835,7 +3745,7 @@ return array (
     'latitude' => 37.94007,
     'longitude' => 22.9513,
   ),
-  426 => 
+  416 => 
   array (
     'id' => 52827,
     'name' => 'Kými',
@@ -3844,7 +3754,7 @@ return array (
     'latitude' => 38.63477,
     'longitude' => 24.10287,
   ),
-  427 => 
+  417 => 
   array (
     'id' => 52828,
     'name' => 'Kýmina',
@@ -3853,7 +3763,7 @@ return array (
     'latitude' => 40.61354,
     'longitude' => 22.69278,
   ),
-  428 => 
+  418 => 
   array (
     'id' => 52829,
     'name' => 'Kýria',
@@ -3862,7 +3772,7 @@ return array (
     'latitude' => 41.099,
     'longitude' => 24.28915,
   ),
-  429 => 
+  419 => 
   array (
     'id' => 52830,
     'name' => 'Kýthira',
@@ -3871,7 +3781,7 @@ return array (
     'latitude' => 36.14955,
     'longitude' => 22.98979,
   ),
-  430 => 
+  420 => 
   array (
     'id' => 52831,
     'name' => 'Kýthnos',
@@ -3880,7 +3790,7 @@ return array (
     'latitude' => 37.41237,
     'longitude' => 24.43068,
   ),
-  431 => 
+  421 => 
   array (
     'id' => 52832,
     'name' => 'Lagkadás',
@@ -3889,7 +3799,7 @@ return array (
     'latitude' => 40.75,
     'longitude' => 23.06667,
   ),
-  432 => 
+  422 => 
   array (
     'id' => 52833,
     'name' => 'Lagyná',
@@ -3898,7 +3808,7 @@ return array (
     'latitude' => 40.72351,
     'longitude' => 23.0042,
   ),
-  433 => 
+  423 => 
   array (
     'id' => 52834,
     'name' => 'Lagós',
@@ -3907,7 +3817,7 @@ return array (
     'latitude' => 41.45102,
     'longitude' => 26.46067,
   ),
-  434 => 
+  424 => 
   array (
     'id' => 52835,
     'name' => 'Laimós',
@@ -3916,7 +3826,7 @@ return array (
     'latitude' => 40.83628,
     'longitude' => 21.14061,
   ),
-  435 => 
+  425 => 
   array (
     'id' => 52836,
     'name' => 'Lakkí',
@@ -3925,7 +3835,7 @@ return array (
     'latitude' => 37.13344,
     'longitude' => 26.85237,
   ),
-  436 => 
+  426 => 
   array (
     'id' => 52837,
     'name' => 'Lamía',
@@ -3934,7 +3844,7 @@ return array (
     'latitude' => 38.9,
     'longitude' => 22.43333,
   ),
-  437 => 
+  427 => 
   array (
     'id' => 52838,
     'name' => 'Langádhia',
@@ -3943,7 +3853,7 @@ return array (
     'latitude' => 37.68186,
     'longitude' => 22.03002,
   ),
-  438 => 
+  428 => 
   array (
     'id' => 52839,
     'name' => 'Lechainá',
@@ -3952,7 +3862,7 @@ return array (
     'latitude' => 37.93333,
     'longitude' => 21.26667,
   ),
-  439 => 
+  429 => 
   array (
     'id' => 52840,
     'name' => 'Lefkada',
@@ -3961,7 +3871,7 @@ return array (
     'latitude' => 38.75,
     'longitude' => 20.66667,
   ),
-  440 => 
+  430 => 
   array (
     'id' => 52842,
     'name' => 'Lefkímmi',
@@ -3970,7 +3880,7 @@ return array (
     'latitude' => 39.42336,
     'longitude' => 20.07094,
   ),
-  441 => 
+  431 => 
   array (
     'id' => 52843,
     'name' => 'Lefkónas',
@@ -3979,7 +3889,7 @@ return array (
     'latitude' => 41.10029,
     'longitude' => 23.49658,
   ),
-  442 => 
+  432 => 
   array (
     'id' => 52844,
     'name' => 'Leondárion',
@@ -3988,7 +3898,7 @@ return array (
     'latitude' => 37.987,
     'longitude' => 23.85518,
   ),
-  443 => 
+  433 => 
   array (
     'id' => 52845,
     'name' => 'Leonídio',
@@ -3997,7 +3907,7 @@ return array (
     'latitude' => 37.16679,
     'longitude' => 22.85773,
   ),
-  444 => 
+  434 => 
   array (
     'id' => 52846,
     'name' => 'Lepenoú',
@@ -4006,7 +3916,7 @@ return array (
     'latitude' => 38.70839,
     'longitude' => 21.2897,
   ),
-  445 => 
+  435 => 
   array (
     'id' => 52847,
     'name' => 'Leptokaryá',
@@ -4015,7 +3925,7 @@ return array (
     'latitude' => 40.06032,
     'longitude' => 22.5612,
   ),
-  446 => 
+  436 => 
   array (
     'id' => 52848,
     'name' => 'Levídion',
@@ -4024,7 +3934,7 @@ return array (
     'latitude' => 37.68269,
     'longitude' => 22.29586,
   ),
-  447 => 
+  437 => 
   array (
     'id' => 52849,
     'name' => 'Lianokládhion',
@@ -4033,7 +3943,7 @@ return array (
     'latitude' => 38.91655,
     'longitude' => 22.30336,
   ),
-  448 => 
+  438 => 
   array (
     'id' => 52850,
     'name' => 'Lianovérgi',
@@ -4042,7 +3952,7 @@ return array (
     'latitude' => 40.63526,
     'longitude' => 22.5082,
   ),
-  449 => 
+  439 => 
   array (
     'id' => 52851,
     'name' => 'Lidoríki',
@@ -4051,7 +3961,7 @@ return array (
     'latitude' => 38.52389,
     'longitude' => 22.19972,
   ),
-  450 => 
+  440 => 
   array (
     'id' => 52852,
     'name' => 'Ligourión',
@@ -4060,7 +3970,7 @@ return array (
     'latitude' => 37.61233,
     'longitude' => 23.03773,
   ),
-  451 => 
+  441 => 
   array (
     'id' => 52853,
     'name' => 'Limenária',
@@ -4069,7 +3979,7 @@ return array (
     'latitude' => 40.62741,
     'longitude' => 24.5765,
   ),
-  452 => 
+  442 => 
   array (
     'id' => 52854,
     'name' => 'Limnokhórion',
@@ -4078,7 +3988,7 @@ return array (
     'latitude' => 38.14115,
     'longitude' => 21.48047,
   ),
-  453 => 
+  443 => 
   array (
     'id' => 52855,
     'name' => 'Limín Khersonísou',
@@ -4087,7 +3997,7 @@ return array (
     'latitude' => 35.32297,
     'longitude' => 25.39275,
   ),
-  454 => 
+  444 => 
   array (
     'id' => 52856,
     'name' => 'Limín Mesoyaías',
@@ -4096,7 +4006,7 @@ return array (
     'latitude' => 37.89108,
     'longitude' => 24.00307,
   ),
-  455 => 
+  445 => 
   array (
     'id' => 52857,
     'name' => 'Lithakiá',
@@ -4105,7 +4015,7 @@ return array (
     'latitude' => 37.71935,
     'longitude' => 20.83013,
   ),
-  456 => 
+  446 => 
   array (
     'id' => 52858,
     'name' => 'Lití',
@@ -4114,7 +4024,7 @@ return array (
     'latitude' => 40.74533,
     'longitude' => 22.97982,
   ),
-  457 => 
+  447 => 
   array (
     'id' => 52859,
     'name' => 'Litóchoro',
@@ -4123,7 +4033,7 @@ return array (
     'latitude' => 40.10056,
     'longitude' => 22.49778,
   ),
-  458 => 
+  448 => 
   array (
     'id' => 52860,
     'name' => 'Livadeiá',
@@ -4132,7 +4042,7 @@ return array (
     'latitude' => 38.43616,
     'longitude' => 22.87665,
   ),
-  459 => 
+  449 => 
   array (
     'id' => 52861,
     'name' => 'Livaderó',
@@ -4141,7 +4051,7 @@ return array (
     'latitude' => 40.03455,
     'longitude' => 21.94279,
   ),
-  460 => 
+  450 => 
   array (
     'id' => 52862,
     'name' => 'Livanátes',
@@ -4150,7 +4060,7 @@ return array (
     'latitude' => 38.711,
     'longitude' => 23.0503,
   ),
-  461 => 
+  451 => 
   array (
     'id' => 52863,
     'name' => 'Lixoúri',
@@ -4159,7 +4069,7 @@ return array (
     'latitude' => 38.20133,
     'longitude' => 20.43706,
   ),
-  462 => 
+  452 => 
   array (
     'id' => 52864,
     'name' => 'Loukísia',
@@ -4168,7 +4078,7 @@ return array (
     'latitude' => 38.47946,
     'longitude' => 23.44796,
   ),
-  463 => 
+  453 => 
   array (
     'id' => 52865,
     'name' => 'Loutrá Aidhipsoú',
@@ -4177,7 +4087,7 @@ return array (
     'latitude' => 38.85695,
     'longitude' => 23.04739,
   ),
-  464 => 
+  454 => 
   array (
     'id' => 52866,
     'name' => 'Loutrá Oraías Elénis',
@@ -4186,7 +4096,7 @@ return array (
     'latitude' => 37.86466,
     'longitude' => 22.99614,
   ),
-  465 => 
+  455 => 
   array (
     'id' => 52867,
     'name' => 'Loutráki',
@@ -4195,16 +4105,7 @@ return array (
     'latitude' => 37.9783,
     'longitude' => 22.97781,
   ),
-  466 => 
-  array (
-    'id' => 52868,
-    'name' => 'Loutráki',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.97116,
-    'longitude' => 21.94659,
-  ),
-  467 => 
+  456 => 
   array (
     'id' => 52869,
     'name' => 'Loutrós',
@@ -4213,7 +4114,7 @@ return array (
     'latitude' => 40.58873,
     'longitude' => 22.39976,
   ),
-  468 => 
+  457 => 
   array (
     'id' => 52870,
     'name' => 'Loúros',
@@ -4222,7 +4123,7 @@ return array (
     'latitude' => 39.166,
     'longitude' => 20.75608,
   ),
-  469 => 
+  458 => 
   array (
     'id' => 52871,
     'name' => 'Lykóvrysi',
@@ -4231,7 +4132,7 @@ return array (
     'latitude' => 38.06933,
     'longitude' => 23.78223,
   ),
-  470 => 
+  459 => 
   array (
     'id' => 52872,
     'name' => 'Lákkoma',
@@ -4240,7 +4141,7 @@ return array (
     'latitude' => 40.39139,
     'longitude' => 23.05578,
   ),
-  471 => 
+  460 => 
   array (
     'id' => 52873,
     'name' => 'Lálas',
@@ -4249,7 +4150,7 @@ return array (
     'latitude' => 37.70936,
     'longitude' => 21.72117,
   ),
-  472 => 
+  461 => 
   array (
     'id' => 52874,
     'name' => 'Lápas',
@@ -4258,7 +4159,7 @@ return array (
     'latitude' => 38.09755,
     'longitude' => 21.41861,
   ),
-  473 => 
+  462 => 
   array (
     'id' => 52875,
     'name' => 'Lárdos',
@@ -4267,7 +4168,7 @@ return array (
     'latitude' => 36.09419,
     'longitude' => 28.01565,
   ),
-  474 => 
+  463 => 
   array (
     'id' => 52876,
     'name' => 'Lávara',
@@ -4276,7 +4177,7 @@ return array (
     'latitude' => 41.26957,
     'longitude' => 26.38522,
   ),
-  475 => 
+  464 => 
   array (
     'id' => 52877,
     'name' => 'Lávrio',
@@ -4285,7 +4186,7 @@ return array (
     'latitude' => 37.71445,
     'longitude' => 24.05647,
   ),
-  476 => 
+  465 => 
   array (
     'id' => 52878,
     'name' => 'Léchovo',
@@ -4294,7 +4195,7 @@ return array (
     'latitude' => 40.58442,
     'longitude' => 21.49218,
   ),
-  477 => 
+  466 => 
   array (
     'id' => 52879,
     'name' => 'Lékhaio',
@@ -4303,7 +4204,7 @@ return array (
     'latitude' => 37.93279,
     'longitude' => 22.85002,
   ),
-  478 => 
+  467 => 
   array (
     'id' => 52880,
     'name' => 'Límni',
@@ -4312,7 +4213,7 @@ return array (
     'latitude' => 38.76667,
     'longitude' => 23.31667,
   ),
-  479 => 
+  468 => 
   array (
     'id' => 52881,
     'name' => 'Lófos',
@@ -4321,7 +4222,7 @@ return array (
     'latitude' => 40.24395,
     'longitude' => 22.38033,
   ),
-  480 => 
+  469 => 
   array (
     'id' => 52882,
     'name' => 'Lýkeio',
@@ -4330,7 +4231,7 @@ return array (
     'latitude' => 41.06413,
     'longitude' => 25.6857,
   ),
-  481 => 
+  470 => 
   array (
     'id' => 52883,
     'name' => 'Magoúla',
@@ -4339,34 +4240,7 @@ return array (
     'latitude' => 38.41178,
     'longitude' => 23.82128,
   ),
-  482 => 
-  array (
-    'id' => 52884,
-    'name' => 'Magoúla',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 39.45395,
-    'longitude' => 21.80351,
-  ),
-  483 => 
-  array (
-    'id' => 52885,
-    'name' => 'Magoúla',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 38.07989,
-    'longitude' => 23.52108,
-  ),
-  484 => 
-  array (
-    'id' => 52886,
-    'name' => 'Magoúla',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.08007,
-    'longitude' => 22.40469,
-  ),
-  485 => 
+  471 => 
   array (
     'id' => 52887,
     'name' => 'Makrakómi',
@@ -4375,7 +4249,7 @@ return array (
     'latitude' => 38.9415,
     'longitude' => 22.11535,
   ),
-  486 => 
+  472 => 
   array (
     'id' => 52888,
     'name' => 'Makrochóri',
@@ -4384,7 +4258,7 @@ return array (
     'latitude' => 40.55125,
     'longitude' => 22.24955,
   ),
-  487 => 
+  473 => 
   array (
     'id' => 52889,
     'name' => 'Makrychóri',
@@ -4393,7 +4267,7 @@ return array (
     'latitude' => 39.43978,
     'longitude' => 21.96582,
   ),
-  488 => 
+  474 => 
   array (
     'id' => 52890,
     'name' => 'Makrísia',
@@ -4402,7 +4276,7 @@ return array (
     'latitude' => 37.60957,
     'longitude' => 21.60509,
   ),
-  489 => 
+  475 => 
   array (
     'id' => 52891,
     'name' => 'Makrýgialos',
@@ -4411,7 +4285,7 @@ return array (
     'latitude' => 40.41551,
     'longitude' => 22.60392,
   ),
-  490 => 
+  476 => 
   array (
     'id' => 52892,
     'name' => 'Malakónta',
@@ -4420,7 +4294,7 @@ return array (
     'latitude' => 38.4,
     'longitude' => 23.76667,
   ),
-  491 => 
+  477 => 
   array (
     'id' => 52893,
     'name' => 'Malesína',
@@ -4429,7 +4303,7 @@ return array (
     'latitude' => 38.62225,
     'longitude' => 23.2337,
   ),
-  492 => 
+  478 => 
   array (
     'id' => 52894,
     'name' => 'Mandráki',
@@ -4438,7 +4312,7 @@ return array (
     'latitude' => 36.61139,
     'longitude' => 27.13333,
   ),
-  493 => 
+  479 => 
   array (
     'id' => 52895,
     'name' => 'Maniákoi',
@@ -4447,7 +4321,7 @@ return array (
     'latitude' => 40.50064,
     'longitude' => 21.24446,
   ),
-  494 => 
+  480 => 
   array (
     'id' => 52896,
     'name' => 'Manoláda',
@@ -4456,7 +4330,7 @@ return array (
     'latitude' => 38.04708,
     'longitude' => 21.34814,
   ),
-  495 => 
+  481 => 
   array (
     'id' => 52897,
     'name' => 'Mantoúdi',
@@ -4465,7 +4339,7 @@ return array (
     'latitude' => 38.79808,
     'longitude' => 23.47967,
   ),
-  496 => 
+  482 => 
   array (
     'id' => 52898,
     'name' => 'Marathónas',
@@ -4474,7 +4348,7 @@ return array (
     'latitude' => 38.15317,
     'longitude' => 23.96278,
   ),
-  497 => 
+  483 => 
   array (
     'id' => 52899,
     'name' => 'Markópoulo',
@@ -4483,7 +4357,7 @@ return array (
     'latitude' => 37.88333,
     'longitude' => 23.93333,
   ),
-  498 => 
+  484 => 
   array (
     'id' => 52900,
     'name' => 'Markópoulo Oropoú',
@@ -4492,7 +4366,7 @@ return array (
     'latitude' => 38.2898,
     'longitude' => 23.82475,
   ),
-  499 => 
+  485 => 
   array (
     'id' => 52901,
     'name' => 'Marmárion',
@@ -4501,7 +4375,7 @@ return array (
     'latitude' => 38.04839,
     'longitude' => 24.32039,
   ),
-  500 => 
+  486 => 
   array (
     'id' => 52902,
     'name' => 'Maroúsi',
@@ -4510,7 +4384,7 @@ return array (
     'latitude' => 38.05,
     'longitude' => 23.8,
   ),
-  501 => 
+  487 => 
   array (
     'id' => 52903,
     'name' => 'Martínon',
@@ -4519,7 +4393,7 @@ return array (
     'latitude' => 38.56817,
     'longitude' => 23.21458,
   ),
-  502 => 
+  488 => 
   array (
     'id' => 52904,
     'name' => 'Marína',
@@ -4528,7 +4402,7 @@ return array (
     'latitude' => 40.692,
     'longitude' => 22.10099,
   ),
-  503 => 
+  489 => 
   array (
     'id' => 52905,
     'name' => 'Mataránga',
@@ -4537,7 +4411,7 @@ return array (
     'latitude' => 38.52359,
     'longitude' => 21.47325,
   ),
-  504 => 
+  490 => 
   array (
     'id' => 52906,
     'name' => 'Mavrochóri',
@@ -4546,7 +4420,7 @@ return array (
     'latitude' => 40.51224,
     'longitude' => 21.32038,
   ),
-  505 => 
+  491 => 
   array (
     'id' => 52907,
     'name' => 'Mavrommáti',
@@ -4555,7 +4429,7 @@ return array (
     'latitude' => 39.42386,
     'longitude' => 21.69379,
   ),
-  506 => 
+  492 => 
   array (
     'id' => 52908,
     'name' => 'Mavrothálassa',
@@ -4564,7 +4438,7 @@ return array (
     'latitude' => 40.89427,
     'longitude' => 23.75048,
   ),
-  507 => 
+  493 => 
   array (
     'id' => 52909,
     'name' => 'Mavrovoúni',
@@ -4573,7 +4447,7 @@ return array (
     'latitude' => 40.78243,
     'longitude' => 22.15629,
   ),
-  508 => 
+  494 => 
   array (
     'id' => 52910,
     'name' => 'Megalochóri',
@@ -4582,16 +4456,7 @@ return array (
     'latitude' => 39.55982,
     'longitude' => 21.84195,
   ),
-  509 => 
-  array (
-    'id' => 52911,
-    'name' => 'Megalochóri',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.71051,
-    'longitude' => 23.34659,
-  ),
-  510 => 
+  495 => 
   array (
     'id' => 52912,
     'name' => 'Megalópoli',
@@ -4600,7 +4465,7 @@ return array (
     'latitude' => 37.40111,
     'longitude' => 22.14222,
   ),
-  511 => 
+  496 => 
   array (
     'id' => 52913,
     'name' => 'Megála Kalývia',
@@ -4609,7 +4474,7 @@ return array (
     'latitude' => 39.49693,
     'longitude' => 21.78802,
   ),
-  512 => 
+  497 => 
   array (
     'id' => 52914,
     'name' => 'Megáli Khóra',
@@ -4618,7 +4483,7 @@ return array (
     'latitude' => 38.64629,
     'longitude' => 21.37309,
   ),
-  513 => 
+  498 => 
   array (
     'id' => 52915,
     'name' => 'Megáli Panagía',
@@ -4627,7 +4492,7 @@ return array (
     'latitude' => 40.44505,
     'longitude' => 23.67999,
   ),
-  514 => 
+  499 => 
   array (
     'id' => 52916,
     'name' => 'Megálo Chorió',
@@ -4636,7 +4501,7 @@ return array (
     'latitude' => 37.4582,
     'longitude' => 26.97272,
   ),
-  515 => 
+  500 => 
   array (
     'id' => 52917,
     'name' => 'Megísti',
@@ -4645,7 +4510,7 @@ return array (
     'latitude' => 36.14889,
     'longitude' => 29.59361,
   ),
-  516 => 
+  501 => 
   array (
     'id' => 52918,
     'name' => 'Meligalás',
@@ -4654,7 +4519,7 @@ return array (
     'latitude' => 37.21667,
     'longitude' => 21.96667,
   ),
-  517 => 
+  502 => 
   array (
     'id' => 52919,
     'name' => 'Melissochóri',
@@ -4663,7 +4528,7 @@ return array (
     'latitude' => 40.76796,
     'longitude' => 22.92858,
   ),
-  518 => 
+  503 => 
   array (
     'id' => 52920,
     'name' => 'Melíki',
@@ -4672,7 +4537,7 @@ return array (
     'latitude' => 40.51685,
     'longitude' => 22.39599,
   ),
-  519 => 
+  504 => 
   array (
     'id' => 52921,
     'name' => 'Melíssi',
@@ -4681,7 +4546,7 @@ return array (
     'latitude' => 40.77406,
     'longitude' => 22.35304,
   ),
-  520 => 
+  505 => 
   array (
     'id' => 52922,
     'name' => 'Melíssia',
@@ -4690,7 +4555,7 @@ return array (
     'latitude' => 38.05,
     'longitude' => 23.83333,
   ),
-  521 => 
+  506 => 
   array (
     'id' => 52923,
     'name' => 'Melíti',
@@ -4699,7 +4564,7 @@ return array (
     'latitude' => 40.83434,
     'longitude' => 21.58426,
   ),
-  522 => 
+  507 => 
   array (
     'id' => 52924,
     'name' => 'Meneméni',
@@ -4708,7 +4573,7 @@ return array (
     'latitude' => 40.65829,
     'longitude' => 22.89712,
   ),
-  523 => 
+  508 => 
   array (
     'id' => 52925,
     'name' => 'Menídi',
@@ -4717,7 +4582,7 @@ return array (
     'latitude' => 39.04213,
     'longitude' => 21.11875,
   ),
-  524 => 
+  509 => 
   array (
     'id' => 52926,
     'name' => 'Mesariá',
@@ -4726,7 +4591,7 @@ return array (
     'latitude' => 36.39893,
     'longitude' => 25.44807,
   ),
-  525 => 
+  510 => 
   array (
     'id' => 52927,
     'name' => 'Mesiméri',
@@ -4735,7 +4600,7 @@ return array (
     'latitude' => 40.41344,
     'longitude' => 23.0075,
   ),
-  526 => 
+  511 => 
   array (
     'id' => 52928,
     'name' => 'Mesolóngi',
@@ -4744,7 +4609,7 @@ return array (
     'latitude' => 38.37138,
     'longitude' => 21.43151,
   ),
-  527 => 
+  512 => 
   array (
     'id' => 52929,
     'name' => 'Mesopotamía',
@@ -4753,7 +4618,7 @@ return array (
     'latitude' => 40.50252,
     'longitude' => 21.1611,
   ),
-  528 => 
+  513 => 
   array (
     'id' => 52930,
     'name' => 'Messíni',
@@ -4762,7 +4627,7 @@ return array (
     'latitude' => 37.05111,
     'longitude' => 22.00778,
   ),
-  529 => 
+  514 => 
   array (
     'id' => 52931,
     'name' => 'Metamórfosi',
@@ -4771,7 +4636,7 @@ return array (
     'latitude' => 38.06576,
     'longitude' => 23.76356,
   ),
-  530 => 
+  515 => 
   array (
     'id' => 52932,
     'name' => 'Methóni',
@@ -4780,7 +4645,7 @@ return array (
     'latitude' => 36.81973,
     'longitude' => 21.70486,
   ),
-  531 => 
+  516 => 
   array (
     'id' => 52933,
     'name' => 'Metsovo',
@@ -4789,7 +4654,7 @@ return array (
     'latitude' => 39.76944,
     'longitude' => 21.18222,
   ),
-  532 => 
+  517 => 
   array (
     'id' => 52934,
     'name' => 'Mikró Monastíri',
@@ -4798,7 +4663,7 @@ return array (
     'latitude' => 40.7043,
     'longitude' => 22.54112,
   ),
-  533 => 
+  518 => 
   array (
     'id' => 52935,
     'name' => 'Mikrópolis',
@@ -4807,7 +4672,7 @@ return array (
     'latitude' => 41.19351,
     'longitude' => 23.8157,
   ),
-  534 => 
+  519 => 
   array (
     'id' => 52936,
     'name' => 'Mindilóglion',
@@ -4816,7 +4681,7 @@ return array (
     'latitude' => 38.18387,
     'longitude' => 21.70133,
   ),
-  535 => 
+  520 => 
   array (
     'id' => 52937,
     'name' => 'Mitroúsi',
@@ -4825,7 +4690,7 @@ return array (
     'latitude' => 41.07041,
     'longitude' => 23.46064,
   ),
-  536 => 
+  521 => 
   array (
     'id' => 52938,
     'name' => 'Mitrópoli',
@@ -4834,7 +4699,7 @@ return array (
     'latitude' => 39.33933,
     'longitude' => 21.83751,
   ),
-  537 => 
+  522 => 
   array (
     'id' => 52939,
     'name' => 'Mokhós',
@@ -4843,7 +4708,7 @@ return array (
     'latitude' => 35.26342,
     'longitude' => 25.42305,
   ),
-  538 => 
+  523 => 
   array (
     'id' => 52940,
     'name' => 'Moláoi',
@@ -4852,7 +4717,7 @@ return array (
     'latitude' => 36.80757,
     'longitude' => 22.85132,
   ),
-  539 => 
+  524 => 
   array (
     'id' => 52941,
     'name' => 'Monastiráki',
@@ -4861,7 +4726,7 @@ return array (
     'latitude' => 38.85053,
     'longitude' => 20.94458,
   ),
-  540 => 
+  525 => 
   array (
     'id' => 52942,
     'name' => 'Morfovoúni',
@@ -4870,7 +4735,7 @@ return array (
     'latitude' => 39.3525,
     'longitude' => 21.75,
   ),
-  541 => 
+  526 => 
   array (
     'id' => 52943,
     'name' => 'Moskháton',
@@ -4879,7 +4744,7 @@ return array (
     'latitude' => 37.94789,
     'longitude' => 23.6788,
   ),
-  542 => 
+  527 => 
   array (
     'id' => 52944,
     'name' => 'Mourniés',
@@ -4888,7 +4753,7 @@ return array (
     'latitude' => 35.48228,
     'longitude' => 24.01253,
   ),
-  543 => 
+  528 => 
   array (
     'id' => 52945,
     'name' => 'Mouzaki',
@@ -4897,7 +4762,7 @@ return array (
     'latitude' => 37.73565,
     'longitude' => 20.82291,
   ),
-  544 => 
+  529 => 
   array (
     'id' => 52946,
     'name' => 'Mouzourás',
@@ -4906,7 +4771,7 @@ return array (
     'latitude' => 35.53885,
     'longitude' => 24.15554,
   ),
-  545 => 
+  530 => 
   array (
     'id' => 52947,
     'name' => 'Mouzáki',
@@ -4915,7 +4780,7 @@ return array (
     'latitude' => 39.42972,
     'longitude' => 21.66361,
   ),
-  546 => 
+  531 => 
   array (
     'id' => 52948,
     'name' => 'Moíres',
@@ -4924,7 +4789,7 @@ return array (
     'latitude' => 35.05143,
     'longitude' => 24.8733,
   ),
-  547 => 
+  532 => 
   array (
     'id' => 52949,
     'name' => 'Moúlki',
@@ -4933,7 +4798,7 @@ return array (
     'latitude' => 37.99319,
     'longitude' => 22.72531,
   ),
-  548 => 
+  533 => 
   array (
     'id' => 52950,
     'name' => 'Mykonos',
@@ -4942,7 +4807,7 @@ return array (
     'latitude' => 37.44529,
     'longitude' => 25.32872,
   ),
-  549 => 
+  534 => 
   array (
     'id' => 52951,
     'name' => 'Myrsíni',
@@ -4951,7 +4816,7 @@ return array (
     'latitude' => 37.92117,
     'longitude' => 21.237,
   ),
-  550 => 
+  535 => 
   array (
     'id' => 52952,
     'name' => 'Mytikas',
@@ -4960,7 +4825,7 @@ return array (
     'latitude' => 38.44373,
     'longitude' => 23.65365,
   ),
-  551 => 
+  536 => 
   array (
     'id' => 52953,
     'name' => 'Mália',
@@ -4969,7 +4834,7 @@ return array (
     'latitude' => 35.28367,
     'longitude' => 25.46262,
   ),
-  552 => 
+  537 => 
   array (
     'id' => 52954,
     'name' => 'Mándalo',
@@ -4978,7 +4843,7 @@ return array (
     'latitude' => 40.85677,
     'longitude' => 22.21264,
   ),
-  553 => 
+  538 => 
   array (
     'id' => 52955,
     'name' => 'Mándra',
@@ -4987,7 +4852,7 @@ return array (
     'latitude' => 38.06667,
     'longitude' => 23.5,
   ),
-  554 => 
+  539 => 
   array (
     'id' => 52956,
     'name' => 'Mégara',
@@ -4996,7 +4861,7 @@ return array (
     'latitude' => 37.99471,
     'longitude' => 23.34324,
   ),
-  555 => 
+  540 => 
   array (
     'id' => 52957,
     'name' => 'Mílos',
@@ -5005,7 +4870,7 @@ return array (
     'latitude' => 36.74536,
     'longitude' => 24.4265,
   ),
-  556 => 
+  541 => 
   array (
     'id' => 52958,
     'name' => 'Mólos',
@@ -5014,7 +4879,7 @@ return array (
     'latitude' => 38.80998,
     'longitude' => 22.64544,
   ),
-  557 => 
+  542 => 
   array (
     'id' => 52959,
     'name' => 'Mýki',
@@ -5023,7 +4888,7 @@ return array (
     'latitude' => 41.24384,
     'longitude' => 24.92084,
   ),
-  558 => 
+  543 => 
   array (
     'id' => 52960,
     'name' => 'Nea Lava',
@@ -5032,7 +4897,7 @@ return array (
     'latitude' => 40.19048,
     'longitude' => 22.0132,
   ),
-  559 => 
+  544 => 
   array (
     'id' => 52961,
     'name' => 'Neapoli',
@@ -5041,7 +4906,7 @@ return array (
     'latitude' => 40.6532,
     'longitude' => 22.94156,
   ),
-  560 => 
+  545 => 
   array (
     'id' => 52962,
     'name' => 'Neméa',
@@ -5050,7 +4915,7 @@ return array (
     'latitude' => 37.82068,
     'longitude' => 22.66102,
   ),
-  561 => 
+  546 => 
   array (
     'id' => 52963,
     'name' => 'Neochoroúda',
@@ -5059,7 +4924,7 @@ return array (
     'latitude' => 40.73817,
     'longitude' => 22.87557,
   ),
-  562 => 
+  547 => 
   array (
     'id' => 52964,
     'name' => 'Neochorópoulo',
@@ -5068,7 +4933,7 @@ return array (
     'latitude' => 39.62553,
     'longitude' => 20.83558,
   ),
-  563 => 
+  548 => 
   array (
     'id' => 52965,
     'name' => 'Neochóri',
@@ -5077,34 +4942,7 @@ return array (
     'latitude' => 39.07025,
     'longitude' => 21.01892,
   ),
-  564 => 
-  array (
-    'id' => 52966,
-    'name' => 'Neochóri',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 41.05231,
-    'longitude' => 23.57997,
-  ),
-  565 => 
-  array (
-    'id' => 52967,
-    'name' => 'Neochóri',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 41.51131,
-    'longitude' => 26.4574,
-  ),
-  566 => 
-  array (
-    'id' => 52968,
-    'name' => 'Neochóri',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.90794,
-    'longitude' => 21.20392,
-  ),
-  567 => 
+  549 => 
   array (
     'id' => 52969,
     'name' => 'Neochórion',
@@ -5113,7 +4951,7 @@ return array (
     'latitude' => 38.40847,
     'longitude' => 21.27511,
   ),
-  568 => 
+  550 => 
   array (
     'id' => 52970,
     'name' => 'Neos Voutzás',
@@ -5122,7 +4960,7 @@ return array (
     'latitude' => 38.04312,
     'longitude' => 23.97749,
   ),
-  569 => 
+  551 => 
   array (
     'id' => 52971,
     'name' => 'Nerokoúros',
@@ -5131,7 +4969,7 @@ return array (
     'latitude' => 35.47587,
     'longitude' => 24.03995,
   ),
-  570 => 
+  552 => 
   array (
     'id' => 52972,
     'name' => 'Nestório',
@@ -5140,7 +4978,7 @@ return array (
     'latitude' => 40.41278,
     'longitude' => 21.06222,
   ),
-  571 => 
+  553 => 
   array (
     'id' => 52973,
     'name' => 'Neápoli',
@@ -5149,7 +4987,7 @@ return array (
     'latitude' => 35.25627,
     'longitude' => 25.60415,
   ),
-  572 => 
+  554 => 
   array (
     'id' => 52974,
     'name' => 'Neápolis',
@@ -5158,7 +4996,7 @@ return array (
     'latitude' => 38.67144,
     'longitude' => 21.36274,
   ),
-  573 => 
+  555 => 
   array (
     'id' => 52975,
     'name' => 'Nigríta',
@@ -5167,7 +5005,7 @@ return array (
     'latitude' => 40.90528,
     'longitude' => 23.49944,
   ),
-  574 => 
+  556 => 
   array (
     'id' => 52976,
     'name' => 'Nikísiani',
@@ -5176,7 +5014,7 @@ return array (
     'latitude' => 40.94739,
     'longitude' => 24.14311,
   ),
-  575 => 
+  557 => 
   array (
     'id' => 52977,
     'name' => 'Nisí',
@@ -5185,7 +5023,7 @@ return array (
     'latitude' => 40.6361,
     'longitude' => 22.38884,
   ),
-  576 => 
+  558 => 
   array (
     'id' => 52978,
     'name' => 'Nomós Achaḯas',
@@ -5194,7 +5032,7 @@ return array (
     'latitude' => 38.0,
     'longitude' => 22.0,
   ),
-  577 => 
+  559 => 
   array (
     'id' => 52979,
     'name' => 'Nomós Aitolías kai Akarnanías',
@@ -5203,7 +5041,7 @@ return array (
     'latitude' => 38.5,
     'longitude' => 21.5,
   ),
-  578 => 
+  560 => 
   array (
     'id' => 52980,
     'name' => 'Nomós Arkadías',
@@ -5212,7 +5050,7 @@ return array (
     'latitude' => 37.58333,
     'longitude' => 22.25,
   ),
-  579 => 
+  561 => 
   array (
     'id' => 52981,
     'name' => 'Nomós Chalkidikís',
@@ -5221,7 +5059,7 @@ return array (
     'latitude' => 40.41667,
     'longitude' => 23.5,
   ),
-  580 => 
+  562 => 
   array (
     'id' => 52982,
     'name' => 'Nomós Evrytanías',
@@ -5230,7 +5068,7 @@ return array (
     'latitude' => 39.0,
     'longitude' => 21.66667,
   ),
-  581 => 
+  563 => 
   array (
     'id' => 52983,
     'name' => 'Nomós Fokídos',
@@ -5239,7 +5077,7 @@ return array (
     'latitude' => 38.5,
     'longitude' => 22.25,
   ),
-  582 => 
+  564 => 
   array (
     'id' => 52984,
     'name' => 'Nomós Ileías',
@@ -5248,7 +5086,7 @@ return array (
     'latitude' => 37.75,
     'longitude' => 21.58333,
   ),
-  583 => 
+  565 => 
   array (
     'id' => 52985,
     'name' => 'Nomós Ioannínon',
@@ -5257,7 +5095,7 @@ return array (
     'latitude' => 39.75,
     'longitude' => 20.66667,
   ),
-  584 => 
+  566 => 
   array (
     'id' => 52986,
     'name' => 'Nomós Irakleíou',
@@ -5266,7 +5104,7 @@ return array (
     'latitude' => 35.32969,
     'longitude' => 25.12985,
   ),
-  585 => 
+  567 => 
   array (
     'id' => 52987,
     'name' => 'Nomós Kerkýras',
@@ -5275,7 +5113,7 @@ return array (
     'latitude' => 39.66667,
     'longitude' => 19.75,
   ),
-  586 => 
+  568 => 
   array (
     'id' => 52988,
     'name' => 'Nomós Kozánis',
@@ -5284,7 +5122,7 @@ return array (
     'latitude' => 40.33333,
     'longitude' => 21.71667,
   ),
-  587 => 
+  569 => 
   array (
     'id' => 52989,
     'name' => 'Nomós Kykládon',
@@ -5293,7 +5131,7 @@ return array (
     'latitude' => 37.41667,
     'longitude' => 24.91667,
   ),
-  588 => 
+  570 => 
   array (
     'id' => 52990,
     'name' => 'Nomós Péllis',
@@ -5302,7 +5140,7 @@ return array (
     'latitude' => 40.83333,
     'longitude' => 22.25,
   ),
-  589 => 
+  571 => 
   array (
     'id' => 52991,
     'name' => 'Nomós Rethýmnis',
@@ -5311,7 +5149,7 @@ return array (
     'latitude' => 35.25,
     'longitude' => 24.58333,
   ),
-  590 => 
+  572 => 
   array (
     'id' => 52992,
     'name' => 'Nomós Thessaloníkis',
@@ -5320,7 +5158,7 @@ return array (
     'latitude' => 40.66667,
     'longitude' => 23.0,
   ),
-  591 => 
+  573 => 
   array (
     'id' => 52993,
     'name' => 'Nomós Zakýnthou',
@@ -5329,7 +5167,7 @@ return array (
     'latitude' => 37.75,
     'longitude' => 20.75,
   ),
-  592 => 
+  574 => 
   array (
     'id' => 52994,
     'name' => 'Náfpaktos',
@@ -5338,7 +5176,7 @@ return array (
     'latitude' => 38.39167,
     'longitude' => 21.8275,
   ),
-  593 => 
+  575 => 
   array (
     'id' => 52995,
     'name' => 'Náfplio',
@@ -5347,7 +5185,7 @@ return array (
     'latitude' => 37.56863,
     'longitude' => 22.80691,
   ),
-  594 => 
+  576 => 
   array (
     'id' => 52996,
     'name' => 'Náousa',
@@ -5356,16 +5194,7 @@ return array (
     'latitude' => 40.62944,
     'longitude' => 22.06806,
   ),
-  595 => 
-  array (
-    'id' => 52997,
-    'name' => 'Náousa',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.12181,
-    'longitude' => 25.24014,
-  ),
-  596 => 
+  577 => 
   array (
     'id' => 52998,
     'name' => 'Náxos',
@@ -5374,7 +5203,7 @@ return array (
     'latitude' => 37.10556,
     'longitude' => 25.37639,
   ),
-  597 => 
+  578 => 
   array (
     'id' => 52999,
     'name' => 'Néa Alikarnassós',
@@ -5383,7 +5212,7 @@ return array (
     'latitude' => 35.33977,
     'longitude' => 25.15895,
   ),
-  598 => 
+  579 => 
   array (
     'id' => 53000,
     'name' => 'Néa Anatolí',
@@ -5392,7 +5221,7 @@ return array (
     'latitude' => 35.0092,
     'longitude' => 25.6617,
   ),
-  599 => 
+  580 => 
   array (
     'id' => 53001,
     'name' => 'Néa Anchiálos',
@@ -5401,7 +5230,7 @@ return array (
     'latitude' => 39.28015,
     'longitude' => 22.81819,
   ),
-  600 => 
+  581 => 
   array (
     'id' => 53002,
     'name' => 'Néa Apollonía',
@@ -5410,7 +5239,7 @@ return array (
     'latitude' => 40.62558,
     'longitude' => 23.44074,
   ),
-  601 => 
+  582 => 
   array (
     'id' => 53003,
     'name' => 'Néa Artáki',
@@ -5419,7 +5248,7 @@ return array (
     'latitude' => 38.52027,
     'longitude' => 23.63296,
   ),
-  602 => 
+  583 => 
   array (
     'id' => 53004,
     'name' => 'Néa Chalkidóna',
@@ -5428,7 +5257,7 @@ return array (
     'latitude' => 38.0271,
     'longitude' => 23.73051,
   ),
-  603 => 
+  584 => 
   array (
     'id' => 53005,
     'name' => 'Néa Erythraía',
@@ -5437,7 +5266,7 @@ return array (
     'latitude' => 38.0927,
     'longitude' => 23.82223,
   ),
-  604 => 
+  585 => 
   array (
     'id' => 53006,
     'name' => 'Néa Filadélfeia',
@@ -5446,7 +5275,7 @@ return array (
     'latitude' => 38.03491,
     'longitude' => 23.73811,
   ),
-  605 => 
+  586 => 
   array (
     'id' => 53007,
     'name' => 'Néa Flogitá',
@@ -5455,7 +5284,7 @@ return array (
     'latitude' => 40.26108,
     'longitude' => 23.22107,
   ),
-  606 => 
+  587 => 
   array (
     'id' => 53008,
     'name' => 'Néa Fókaia',
@@ -5464,7 +5293,7 @@ return array (
     'latitude' => 40.13333,
     'longitude' => 23.39754,
   ),
-  607 => 
+  588 => 
   array (
     'id' => 53009,
     'name' => 'Néa Ionía',
@@ -5473,16 +5302,7 @@ return array (
     'latitude' => 38.0357,
     'longitude' => 23.75733,
   ),
-  608 => 
-  array (
-    'id' => 53010,
-    'name' => 'Néa Ionía',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 39.37904,
-    'longitude' => 22.92752,
-  ),
-  609 => 
+  589 => 
   array (
     'id' => 53011,
     'name' => 'Néa Iraklítsa',
@@ -5491,7 +5311,7 @@ return array (
     'latitude' => 40.86442,
     'longitude' => 24.3165,
   ),
-  610 => 
+  590 => 
   array (
     'id' => 53012,
     'name' => 'Néa Kallikráteia',
@@ -5500,7 +5320,7 @@ return array (
     'latitude' => 40.31312,
     'longitude' => 23.06343,
   ),
-  611 => 
+  591 => 
   array (
     'id' => 53013,
     'name' => 'Néa Karváli',
@@ -5509,7 +5329,7 @@ return array (
     'latitude' => 40.96148,
     'longitude' => 24.51132,
   ),
-  612 => 
+  592 => 
   array (
     'id' => 53014,
     'name' => 'Néa Karyá',
@@ -5518,7 +5338,7 @@ return array (
     'latitude' => 40.90621,
     'longitude' => 24.70726,
   ),
-  613 => 
+  593 => 
   array (
     'id' => 53015,
     'name' => 'Néa Kíos',
@@ -5527,7 +5347,7 @@ return array (
     'latitude' => 37.59023,
     'longitude' => 22.74342,
   ),
-  614 => 
+  594 => 
   array (
     'id' => 53016,
     'name' => 'Néa Lámpsakos',
@@ -5536,7 +5356,7 @@ return array (
     'latitude' => 38.43729,
     'longitude' => 23.62824,
   ),
-  615 => 
+  595 => 
   array (
     'id' => 53017,
     'name' => 'Néa Magnisía',
@@ -5545,7 +5365,7 @@ return array (
     'latitude' => 40.68785,
     'longitude' => 22.84582,
   ),
-  616 => 
+  596 => 
   array (
     'id' => 53018,
     'name' => 'Néa Manoláda',
@@ -5554,7 +5374,7 @@ return array (
     'latitude' => 38.05378,
     'longitude' => 21.38189,
   ),
-  617 => 
+  597 => 
   array (
     'id' => 53019,
     'name' => 'Néa Mesimvría',
@@ -5563,7 +5383,7 @@ return array (
     'latitude' => 40.75158,
     'longitude' => 22.76904,
   ),
-  618 => 
+  598 => 
   array (
     'id' => 53020,
     'name' => 'Néa Michanióna',
@@ -5572,7 +5392,7 @@ return array (
     'latitude' => 40.46371,
     'longitude' => 22.8617,
   ),
-  619 => 
+  599 => 
   array (
     'id' => 53021,
     'name' => 'Néa Moudhaniá',
@@ -5581,7 +5401,7 @@ return array (
     'latitude' => 40.2439,
     'longitude' => 23.28484,
   ),
-  620 => 
+  600 => 
   array (
     'id' => 53022,
     'name' => 'Néa Mákri',
@@ -5590,7 +5410,7 @@ return array (
     'latitude' => 38.08733,
     'longitude' => 23.97642,
   ),
-  621 => 
+  601 => 
   array (
     'id' => 53023,
     'name' => 'Néa Málgara',
@@ -5599,7 +5419,7 @@ return array (
     'latitude' => 40.60985,
     'longitude' => 22.68196,
   ),
-  622 => 
+  602 => 
   array (
     'id' => 53024,
     'name' => 'Néa Palátia',
@@ -5608,7 +5428,7 @@ return array (
     'latitude' => 38.31942,
     'longitude' => 23.79649,
   ),
-  623 => 
+  603 => 
   array (
     'id' => 53025,
     'name' => 'Néa Pentéli',
@@ -5617,7 +5437,7 @@ return array (
     'latitude' => 38.06059,
     'longitude' => 23.85926,
   ),
-  624 => 
+  604 => 
   array (
     'id' => 53026,
     'name' => 'Néa Plágia',
@@ -5626,7 +5446,7 @@ return array (
     'latitude' => 40.26537,
     'longitude' => 23.20376,
   ),
-  625 => 
+  605 => 
   array (
     'id' => 53027,
     'name' => 'Néa Poteídaia',
@@ -5635,7 +5455,7 @@ return array (
     'latitude' => 40.19409,
     'longitude' => 23.32832,
   ),
-  626 => 
+  606 => 
   array (
     'id' => 53028,
     'name' => 'Néa Potídhaia',
@@ -5644,7 +5464,7 @@ return array (
     'latitude' => 40.19428,
     'longitude' => 23.32874,
   ),
-  627 => 
+  607 => 
   array (
     'id' => 53029,
     'name' => 'Néa Pélla',
@@ -5653,7 +5473,7 @@ return array (
     'latitude' => 40.76516,
     'longitude' => 22.49173,
   ),
-  628 => 
+  608 => 
   array (
     'id' => 53030,
     'name' => 'Néa Péramos',
@@ -5662,16 +5482,7 @@ return array (
     'latitude' => 38.00647,
     'longitude' => 23.42348,
   ),
-  629 => 
-  array (
-    'id' => 53031,
-    'name' => 'Néa Péramos',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.83854,
-    'longitude' => 24.3013,
-  ),
-  630 => 
+  609 => 
   array (
     'id' => 53032,
     'name' => 'Néa Róda',
@@ -5680,7 +5491,7 @@ return array (
     'latitude' => 40.38119,
     'longitude' => 23.92374,
   ),
-  631 => 
+  610 => 
   array (
     'id' => 53033,
     'name' => 'Néa Seléfkeia',
@@ -5689,7 +5500,7 @@ return array (
     'latitude' => 39.52461,
     'longitude' => 20.25519,
   ),
-  632 => 
+  611 => 
   array (
     'id' => 53034,
     'name' => 'Néa Smýrni',
@@ -5698,7 +5509,7 @@ return array (
     'latitude' => 37.94504,
     'longitude' => 23.71416,
   ),
-  633 => 
+  612 => 
   array (
     'id' => 53035,
     'name' => 'Néa Stíra',
@@ -5707,7 +5518,7 @@ return array (
     'latitude' => 38.17935,
     'longitude' => 24.20842,
   ),
-  634 => 
+  613 => 
   array (
     'id' => 53036,
     'name' => 'Néa Sánta',
@@ -5716,7 +5527,7 @@ return array (
     'latitude' => 40.84084,
     'longitude' => 22.92163,
   ),
-  635 => 
+  614 => 
   array (
     'id' => 53037,
     'name' => 'Néa Tríglia',
@@ -5725,7 +5536,7 @@ return array (
     'latitude' => 40.30575,
     'longitude' => 23.2066,
   ),
-  636 => 
+  615 => 
   array (
     'id' => 53038,
     'name' => 'Néa Tírins',
@@ -5734,7 +5545,7 @@ return array (
     'latitude' => 37.60793,
     'longitude' => 22.81996,
   ),
-  637 => 
+  616 => 
   array (
     'id' => 53039,
     'name' => 'Néa Vrasná',
@@ -5743,7 +5554,7 @@ return array (
     'latitude' => 40.70592,
     'longitude' => 23.6985,
   ),
-  638 => 
+  617 => 
   array (
     'id' => 53040,
     'name' => 'Néa Výssa',
@@ -5752,7 +5563,7 @@ return array (
     'latitude' => 41.58449,
     'longitude' => 26.54318,
   ),
-  639 => 
+  618 => 
   array (
     'id' => 53041,
     'name' => 'Néa Zíchni',
@@ -5761,7 +5572,7 @@ return array (
     'latitude' => 41.03204,
     'longitude' => 23.8287,
   ),
-  640 => 
+  619 => 
   array (
     'id' => 53042,
     'name' => 'Néa Éfesos',
@@ -5770,7 +5581,7 @@ return array (
     'latitude' => 40.22923,
     'longitude' => 22.49811,
   ),
-  641 => 
+  620 => 
   array (
     'id' => 53043,
     'name' => 'Néo Agionéri',
@@ -5779,7 +5590,7 @@ return array (
     'latitude' => 40.80826,
     'longitude' => 22.70733,
   ),
-  642 => 
+  621 => 
   array (
     'id' => 53044,
     'name' => 'Néo Petrítsi',
@@ -5788,7 +5599,7 @@ return array (
     'latitude' => 41.27459,
     'longitude' => 23.29381,
   ),
-  643 => 
+  622 => 
   array (
     'id' => 53045,
     'name' => 'Néo Psychikó',
@@ -5797,7 +5608,7 @@ return array (
     'latitude' => 38.00624,
     'longitude' => 23.78373,
   ),
-  644 => 
+  623 => 
   array (
     'id' => 53046,
     'name' => 'Néo Rýsi',
@@ -5806,7 +5617,7 @@ return array (
     'latitude' => 40.49605,
     'longitude' => 22.98794,
   ),
-  645 => 
+  624 => 
   array (
     'id' => 53047,
     'name' => 'Néo Soúli',
@@ -5815,7 +5626,7 @@ return array (
     'latitude' => 41.09397,
     'longitude' => 23.64376,
   ),
-  646 => 
+  625 => 
   array (
     'id' => 53048,
     'name' => 'Néoi Epivátes',
@@ -5824,7 +5635,7 @@ return array (
     'latitude' => 40.49863,
     'longitude' => 22.91192,
   ),
-  647 => 
+  626 => 
   array (
     'id' => 53049,
     'name' => 'Néon Monastírion',
@@ -5833,7 +5644,7 @@ return array (
     'latitude' => 39.23988,
     'longitude' => 22.27465,
   ),
-  648 => 
+  627 => 
   array (
     'id' => 53050,
     'name' => 'Néos Marmarás',
@@ -5842,7 +5653,7 @@ return array (
     'latitude' => 40.0961,
     'longitude' => 23.78323,
   ),
-  649 => 
+  628 => 
   array (
     'id' => 53051,
     'name' => 'Néos Mylótopos',
@@ -5851,7 +5662,7 @@ return array (
     'latitude' => 40.81872,
     'longitude' => 22.35489,
   ),
-  650 => 
+  629 => 
   array (
     'id' => 53052,
     'name' => 'Néos Oropós',
@@ -5860,7 +5671,7 @@ return array (
     'latitude' => 39.15064,
     'longitude' => 20.73636,
   ),
-  651 => 
+  630 => 
   array (
     'id' => 53053,
     'name' => 'Néos Skopós',
@@ -5869,7 +5680,7 @@ return array (
     'latitude' => 41.0239,
     'longitude' => 23.60927,
   ),
-  652 => 
+  631 => 
   array (
     'id' => 53054,
     'name' => 'Níkaia',
@@ -5878,7 +5689,7 @@ return array (
     'latitude' => 37.96667,
     'longitude' => 23.65,
   ),
-  653 => 
+  632 => 
   array (
     'id' => 53055,
     'name' => 'Níkiti',
@@ -5887,7 +5698,7 @@ return array (
     'latitude' => 40.22204,
     'longitude' => 23.66837,
   ),
-  654 => 
+  633 => 
   array (
     'id' => 53056,
     'name' => 'Oichalía',
@@ -5896,7 +5707,7 @@ return array (
     'latitude' => 39.60827,
     'longitude' => 21.97996,
   ),
-  655 => 
+  634 => 
   array (
     'id' => 53057,
     'name' => 'Oinófyta',
@@ -5905,7 +5716,7 @@ return array (
     'latitude' => 38.31163,
     'longitude' => 23.64,
   ),
-  656 => 
+  635 => 
   array (
     'id' => 53058,
     'name' => 'Omvriakí',
@@ -5914,7 +5725,7 @@ return array (
     'latitude' => 39.10118,
     'longitude' => 22.27106,
   ),
-  657 => 
+  636 => 
   array (
     'id' => 53059,
     'name' => 'Oraiókastro',
@@ -5923,7 +5734,7 @@ return array (
     'latitude' => 40.73083,
     'longitude' => 22.91722,
   ),
-  658 => 
+  637 => 
   array (
     'id' => 53060,
     'name' => 'Orchomenós',
@@ -5932,7 +5743,7 @@ return array (
     'latitude' => 38.4929,
     'longitude' => 22.97962,
   ),
-  659 => 
+  638 => 
   array (
     'id' => 53061,
     'name' => 'Oreoí',
@@ -5941,7 +5752,7 @@ return array (
     'latitude' => 38.95034,
     'longitude' => 23.09191,
   ),
-  660 => 
+  639 => 
   array (
     'id' => 53062,
     'name' => 'Orestiáda',
@@ -5950,7 +5761,7 @@ return array (
     'latitude' => 41.50306,
     'longitude' => 26.52972,
   ),
-  661 => 
+  640 => 
   array (
     'id' => 53063,
     'name' => 'Ormýlia',
@@ -5959,7 +5770,7 @@ return array (
     'latitude' => 40.29451,
     'longitude' => 23.54332,
   ),
-  662 => 
+  641 => 
   array (
     'id' => 53064,
     'name' => 'Ornós',
@@ -5968,7 +5779,7 @@ return array (
     'latitude' => 37.42391,
     'longitude' => 25.32248,
   ),
-  663 => 
+  642 => 
   array (
     'id' => 53065,
     'name' => 'Oropós',
@@ -5977,7 +5788,7 @@ return array (
     'latitude' => 38.30326,
     'longitude' => 23.75549,
   ),
-  664 => 
+  643 => 
   array (
     'id' => 53066,
     'name' => 'Ouranoupolis',
@@ -5986,7 +5797,7 @@ return array (
     'latitude' => 40.33333,
     'longitude' => 23.98333,
   ),
-  665 => 
+  644 => 
   array (
     'id' => 53067,
     'name' => 'Ovriá',
@@ -5995,7 +5806,7 @@ return array (
     'latitude' => 38.18866,
     'longitude' => 21.72903,
   ),
-  666 => 
+  645 => 
   array (
     'id' => 53068,
     'name' => 'Oxílithos',
@@ -6004,7 +5815,7 @@ return array (
     'latitude' => 38.57988,
     'longitude' => 24.11184,
   ),
-  667 => 
+  646 => 
   array (
     'id' => 53069,
     'name' => 'Oía',
@@ -6013,7 +5824,7 @@ return array (
     'latitude' => 36.4626,
     'longitude' => 25.37637,
   ),
-  668 => 
+  647 => 
   array (
     'id' => 53070,
     'name' => 'Paianía',
@@ -6022,7 +5833,7 @@ return array (
     'latitude' => 37.95527,
     'longitude' => 23.85443,
   ),
-  669 => 
+  648 => 
   array (
     'id' => 53071,
     'name' => 'Palaiochóri',
@@ -6031,16 +5842,7 @@ return array (
     'latitude' => 40.94338,
     'longitude' => 24.17747,
   ),
-  670 => 
-  array (
-    'id' => 53072,
-    'name' => 'Palaiochóri',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.49186,
-    'longitude' => 23.64928,
-  ),
-  671 => 
+  649 => 
   array (
     'id' => 53073,
     'name' => 'Palaiokómi',
@@ -6049,7 +5851,7 @@ return array (
     'latitude' => 40.87068,
     'longitude' => 23.90121,
   ),
-  672 => 
+  650 => 
   array (
     'id' => 53074,
     'name' => 'Palaiomonástiro',
@@ -6058,7 +5860,7 @@ return array (
     'latitude' => 39.46269,
     'longitude' => 21.65793,
   ),
-  673 => 
+  651 => 
   array (
     'id' => 53075,
     'name' => 'Palaiá Epídavros',
@@ -6067,7 +5869,7 @@ return array (
     'latitude' => 37.63847,
     'longitude' => 23.15609,
   ),
-  674 => 
+  652 => 
   array (
     'id' => 53076,
     'name' => 'Palaiá Fókaia',
@@ -6076,7 +5878,7 @@ return array (
     'latitude' => 37.71998,
     'longitude' => 23.94792,
   ),
-  675 => 
+  653 => 
   array (
     'id' => 53077,
     'name' => 'Palaió Fáliro',
@@ -6085,7 +5887,7 @@ return array (
     'latitude' => 37.92812,
     'longitude' => 23.70105,
   ),
-  676 => 
+  654 => 
   array (
     'id' => 53078,
     'name' => 'Palaió Tsiflíki',
@@ -6094,7 +5896,7 @@ return array (
     'latitude' => 40.90495,
     'longitude' => 24.35083,
   ),
-  677 => 
+  655 => 
   array (
     'id' => 53079,
     'name' => 'Palaióchora',
@@ -6103,7 +5905,7 @@ return array (
     'latitude' => 35.23128,
     'longitude' => 23.68185,
   ),
-  678 => 
+  656 => 
   array (
     'id' => 53080,
     'name' => 'Palaiópyrgos',
@@ -6112,7 +5914,7 @@ return array (
     'latitude' => 39.60845,
     'longitude' => 21.8172,
   ),
-  679 => 
+  657 => 
   array (
     'id' => 53081,
     'name' => 'Palamás',
@@ -6121,7 +5923,7 @@ return array (
     'latitude' => 39.46667,
     'longitude' => 22.08333,
   ),
-  680 => 
+  658 => 
   array (
     'id' => 53082,
     'name' => 'Palaífyto',
@@ -6130,7 +5932,7 @@ return array (
     'latitude' => 40.78283,
     'longitude' => 22.27388,
   ),
-  681 => 
+  659 => 
   array (
     'id' => 53083,
     'name' => 'Palekastro',
@@ -6139,7 +5941,7 @@ return array (
     'latitude' => 35.19793,
     'longitude' => 26.25429,
   ),
-  682 => 
+  660 => 
   array (
     'id' => 53084,
     'name' => 'Pallíni',
@@ -6148,7 +5950,7 @@ return array (
     'latitude' => 38.00514,
     'longitude' => 23.88302,
   ),
-  683 => 
+  661 => 
   array (
     'id' => 53085,
     'name' => 'Panaitólion',
@@ -6157,7 +5959,7 @@ return array (
     'latitude' => 38.58316,
     'longitude' => 21.44729,
   ),
-  684 => 
+  662 => 
   array (
     'id' => 53086,
     'name' => 'Panórama',
@@ -6166,7 +5968,7 @@ return array (
     'latitude' => 40.58779,
     'longitude' => 23.0315,
   ),
-  685 => 
+  663 => 
   array (
     'id' => 53087,
     'name' => 'Pappadhátai',
@@ -6175,7 +5977,7 @@ return array (
     'latitude' => 38.52816,
     'longitude' => 21.45016,
   ),
-  686 => 
+  664 => 
   array (
     'id' => 53088,
     'name' => 'Pappadátes',
@@ -6184,7 +5986,7 @@ return array (
     'latitude' => 39.31444,
     'longitude' => 20.79314,
   ),
-  687 => 
+  665 => 
   array (
     'id' => 53089,
     'name' => 'Papágou',
@@ -6193,7 +5995,7 @@ return array (
     'latitude' => 37.98642,
     'longitude' => 23.79347,
   ),
-  688 => 
+  666 => 
   array (
     'id' => 53090,
     'name' => 'Paralía',
@@ -6202,16 +6004,7 @@ return array (
     'latitude' => 38.19833,
     'longitude' => 21.70263,
   ),
-  689 => 
-  array (
-    'id' => 53091,
-    'name' => 'Paralía',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.2671,
-    'longitude' => 22.59615,
-  ),
-  690 => 
+  667 => 
   array (
     'id' => 53092,
     'name' => 'Paralía Avlídhos',
@@ -6220,7 +6013,7 @@ return array (
     'latitude' => 38.38002,
     'longitude' => 23.62842,
   ),
-  691 => 
+  668 => 
   array (
     'id' => 53093,
     'name' => 'Paralía Ofryníou',
@@ -6229,7 +6022,7 @@ return array (
     'latitude' => 40.76663,
     'longitude' => 23.90039,
   ),
-  692 => 
+  669 => 
   array (
     'id' => 53094,
     'name' => 'Paralía Vérgas',
@@ -6238,7 +6031,7 @@ return array (
     'latitude' => 37.00708,
     'longitude' => 22.15676,
   ),
-  693 => 
+  670 => 
   array (
     'id' => 53095,
     'name' => 'Paramythiá',
@@ -6247,7 +6040,7 @@ return array (
     'latitude' => 39.47111,
     'longitude' => 20.51111,
   ),
-  694 => 
+  671 => 
   array (
     'id' => 53096,
     'name' => 'Paranésti',
@@ -6256,7 +6049,7 @@ return array (
     'latitude' => 41.26667,
     'longitude' => 24.5,
   ),
-  695 => 
+  672 => 
   array (
     'id' => 53097,
     'name' => 'Parapótamos',
@@ -6265,7 +6058,7 @@ return array (
     'latitude' => 39.54858,
     'longitude' => 20.32436,
   ),
-  696 => 
+  673 => 
   array (
     'id' => 53098,
     'name' => 'Paravóla',
@@ -6274,7 +6067,7 @@ return array (
     'latitude' => 38.61472,
     'longitude' => 21.52046,
   ),
-  697 => 
+  674 => 
   array (
     'id' => 53099,
     'name' => 'Patitírion',
@@ -6283,7 +6076,7 @@ return array (
     'latitude' => 39.14657,
     'longitude' => 23.86494,
   ),
-  698 => 
+  675 => 
   array (
     'id' => 53100,
     'name' => 'Patrída',
@@ -6292,7 +6085,7 @@ return array (
     'latitude' => 40.56071,
     'longitude' => 22.18545,
   ),
-  699 => 
+  676 => 
   array (
     'id' => 53101,
     'name' => 'Pediní',
@@ -6301,7 +6094,7 @@ return array (
     'latitude' => 39.59994,
     'longitude' => 20.84261,
   ),
-  700 => 
+  677 => 
   array (
     'id' => 53102,
     'name' => 'Pefkochóri',
@@ -6310,7 +6103,7 @@ return array (
     'latitude' => 39.98784,
     'longitude' => 23.61219,
   ),
-  701 => 
+  678 => 
   array (
     'id' => 53103,
     'name' => 'Pelasgía',
@@ -6319,7 +6112,7 @@ return array (
     'latitude' => 38.94813,
     'longitude' => 22.8398,
   ),
-  702 => 
+  679 => 
   array (
     'id' => 53104,
     'name' => 'Pelópi',
@@ -6328,7 +6121,7 @@ return array (
     'latitude' => 37.67444,
     'longitude' => 21.59344,
   ),
-  703 => 
+  680 => 
   array (
     'id' => 53105,
     'name' => 'Pentaplátano',
@@ -6337,7 +6130,7 @@ return array (
     'latitude' => 40.81902,
     'longitude' => 22.41903,
   ),
-  704 => 
+  681 => 
   array (
     'id' => 53106,
     'name' => 'Pentálofos',
@@ -6346,7 +6139,7 @@ return array (
     'latitude' => 40.74296,
     'longitude' => 22.85256,
   ),
-  705 => 
+  682 => 
   array (
     'id' => 53107,
     'name' => 'Pentéli',
@@ -6355,7 +6148,7 @@ return array (
     'latitude' => 38.05,
     'longitude' => 23.86667,
   ),
-  706 => 
+  683 => 
   array (
     'id' => 53108,
     'name' => 'Perachóra',
@@ -6364,7 +6157,7 @@ return array (
     'latitude' => 38.03021,
     'longitude' => 22.94902,
   ),
-  707 => 
+  684 => 
   array (
     'id' => 53109,
     'name' => 'Perama',
@@ -6373,7 +6166,7 @@ return array (
     'latitude' => 39.58289,
     'longitude' => 19.9122,
   ),
-  708 => 
+  685 => 
   array (
     'id' => 53110,
     'name' => 'Peraía',
@@ -6382,7 +6175,7 @@ return array (
     'latitude' => 40.49874,
     'longitude' => 22.92617,
   ),
-  709 => 
+  686 => 
   array (
     'id' => 53111,
     'name' => 'Peristerá',
@@ -6391,7 +6184,7 @@ return array (
     'latitude' => 40.54881,
     'longitude' => 23.1654,
   ),
-  710 => 
+  687 => 
   array (
     'id' => 53112,
     'name' => 'Peristéri',
@@ -6400,7 +6193,7 @@ return array (
     'latitude' => 38.01539,
     'longitude' => 23.69187,
   ),
-  711 => 
+  688 => 
   array (
     'id' => 53113,
     'name' => 'Perivóli',
@@ -6409,7 +6202,7 @@ return array (
     'latitude' => 39.41936,
     'longitude' => 20.01469,
   ),
-  712 => 
+  689 => 
   array (
     'id' => 53114,
     'name' => 'Perivólia',
@@ -6418,7 +6211,7 @@ return array (
     'latitude' => 35.48491,
     'longitude' => 23.99421,
   ),
-  713 => 
+  690 => 
   array (
     'id' => 53115,
     'name' => 'Periyiáli',
@@ -6427,7 +6220,7 @@ return array (
     'latitude' => 37.94041,
     'longitude' => 22.83946,
   ),
-  714 => 
+  691 => 
   array (
     'id' => 53116,
     'name' => 'Perístasi',
@@ -6436,7 +6229,7 @@ return array (
     'latitude' => 40.27443,
     'longitude' => 22.54164,
   ),
-  715 => 
+  692 => 
   array (
     'id' => 53117,
     'name' => 'Peteinós',
@@ -6445,7 +6238,7 @@ return array (
     'latitude' => 41.10056,
     'longitude' => 24.89847,
   ),
-  716 => 
+  693 => 
   array (
     'id' => 53118,
     'name' => 'Petrochóri',
@@ -6454,7 +6247,7 @@ return array (
     'latitude' => 41.08742,
     'longitude' => 24.84092,
   ),
-  717 => 
+  694 => 
   array (
     'id' => 53119,
     'name' => 'Petroúpolis',
@@ -6463,7 +6256,7 @@ return array (
     'latitude' => 38.04187,
     'longitude' => 23.68494,
   ),
-  718 => 
+  695 => 
   array (
     'id' => 53120,
     'name' => 'Petroússa',
@@ -6472,7 +6265,7 @@ return array (
     'latitude' => 41.1947,
     'longitude' => 24.01731,
   ),
-  719 => 
+  696 => 
   array (
     'id' => 53121,
     'name' => 'Pigí',
@@ -6481,7 +6274,7 @@ return array (
     'latitude' => 39.51061,
     'longitude' => 21.70103,
   ),
-  720 => 
+  697 => 
   array (
     'id' => 53122,
     'name' => 'Pikérmi',
@@ -6490,7 +6283,7 @@ return array (
     'latitude' => 38.00161,
     'longitude' => 23.94075,
   ),
-  721 => 
+  698 => 
   array (
     'id' => 53123,
     'name' => 'Piraeus',
@@ -6499,7 +6292,7 @@ return array (
     'latitude' => 37.94203,
     'longitude' => 23.64619,
   ),
-  722 => 
+  699 => 
   array (
     'id' => 53124,
     'name' => 'Pithári',
@@ -6508,7 +6301,7 @@ return array (
     'latitude' => 35.51672,
     'longitude' => 24.08653,
   ),
-  723 => 
+  700 => 
   array (
     'id' => 53125,
     'name' => 'Plagiári',
@@ -6517,7 +6310,7 @@ return array (
     'latitude' => 40.47276,
     'longitude' => 22.9579,
   ),
-  724 => 
+  701 => 
   array (
     'id' => 53126,
     'name' => 'Platanórevma',
@@ -6526,7 +6319,7 @@ return array (
     'latitude' => 40.20083,
     'longitude' => 22.02488,
   ),
-  725 => 
+  702 => 
   array (
     'id' => 53127,
     'name' => 'Platariá',
@@ -6535,7 +6328,7 @@ return array (
     'latitude' => 39.45044,
     'longitude' => 20.27781,
   ),
-  726 => 
+  703 => 
   array (
     'id' => 53128,
     'name' => 'Platý',
@@ -6544,7 +6337,7 @@ return array (
     'latitude' => 40.64241,
     'longitude' => 22.53458,
   ),
-  727 => 
+  704 => 
   array (
     'id' => 53129,
     'name' => 'Pláka Dílesi',
@@ -6553,7 +6346,7 @@ return array (
     'latitude' => 38.3495,
     'longitude' => 23.65056,
   ),
-  728 => 
+  705 => 
   array (
     'id' => 53130,
     'name' => 'Plátanos',
@@ -6562,7 +6355,7 @@ return array (
     'latitude' => 37.66731,
     'longitude' => 21.61108,
   ),
-  729 => 
+  706 => 
   array (
     'id' => 53131,
     'name' => 'Politiká',
@@ -6571,7 +6364,7 @@ return array (
     'latitude' => 38.59673,
     'longitude' => 23.54457,
   ),
-  730 => 
+  707 => 
   array (
     'id' => 53132,
     'name' => 'Polydéndri',
@@ -6580,7 +6373,7 @@ return array (
     'latitude' => 38.216,
     'longitude' => 23.86806,
   ),
-  731 => 
+  708 => 
   array (
     'id' => 53133,
     'name' => 'Polykárpi',
@@ -6589,7 +6382,7 @@ return array (
     'latitude' => 40.92598,
     'longitude' => 22.01634,
   ),
-  732 => 
+  709 => 
   array (
     'id' => 53134,
     'name' => 'Políchni',
@@ -6598,7 +6391,7 @@ return array (
     'latitude' => 40.66671,
     'longitude' => 22.94881,
   ),
-  733 => 
+  710 => 
   array (
     'id' => 53135,
     'name' => 'Polýgyros',
@@ -6607,7 +6400,7 @@ return array (
     'latitude' => 40.37704,
     'longitude' => 23.44135,
   ),
-  734 => 
+  711 => 
   array (
     'id' => 53136,
     'name' => 'Polýkastro',
@@ -6616,7 +6409,7 @@ return array (
     'latitude' => 40.99444,
     'longitude' => 22.56909,
   ),
-  735 => 
+  712 => 
   array (
     'id' => 53137,
     'name' => 'Pontisméno',
@@ -6625,7 +6418,7 @@ return array (
     'latitude' => 41.20885,
     'longitude' => 23.28325,
   ),
-  736 => 
+  713 => 
   array (
     'id' => 53138,
     'name' => 'Portariá',
@@ -6634,16 +6427,7 @@ return array (
     'latitude' => 39.3895,
     'longitude' => 22.99948,
   ),
-  737 => 
-  array (
-    'id' => 53139,
-    'name' => 'Portariá',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.28405,
-    'longitude' => 23.29549,
-  ),
-  738 => 
+  714 => 
   array (
     'id' => 53140,
     'name' => 'Potamiá',
@@ -6652,7 +6436,7 @@ return array (
     'latitude' => 40.71633,
     'longitude' => 24.72859,
   ),
-  739 => 
+  715 => 
   array (
     'id' => 53141,
     'name' => 'Potamós',
@@ -6661,7 +6445,7 @@ return array (
     'latitude' => 39.6242,
     'longitude' => 19.87826,
   ),
-  740 => 
+  716 => 
   array (
     'id' => 53142,
     'name' => 'Profítis Ilías',
@@ -6670,16 +6454,7 @@ return array (
     'latitude' => 35.20555,
     'longitude' => 25.09985,
   ),
-  741 => 
-  array (
-    'id' => 53143,
-    'name' => 'Profítis Ilías',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.81373,
-    'longitude' => 22.16166,
-  ),
-  742 => 
+  717 => 
   array (
     'id' => 53144,
     'name' => 'Prokópi',
@@ -6688,7 +6463,7 @@ return array (
     'latitude' => 38.73402,
     'longitude' => 23.4906,
   ),
-  743 => 
+  718 => 
   array (
     'id' => 53145,
     'name' => 'Prosotsáni',
@@ -6697,7 +6472,7 @@ return array (
     'latitude' => 41.18333,
     'longitude' => 23.96667,
   ),
-  744 => 
+  719 => 
   array (
     'id' => 53146,
     'name' => 'Provatás',
@@ -6706,7 +6481,7 @@ return array (
     'latitude' => 41.06825,
     'longitude' => 23.3903,
   ),
-  745 => 
+  720 => 
   array (
     'id' => 53147,
     'name' => 'Proástio',
@@ -6715,7 +6490,7 @@ return array (
     'latitude' => 39.48682,
     'longitude' => 21.90288,
   ),
-  746 => 
+  721 => 
   array (
     'id' => 53148,
     'name' => 'Prámanta',
@@ -6724,7 +6499,7 @@ return array (
     'latitude' => 39.52306,
     'longitude' => 21.10139,
   ),
-  747 => 
+  722 => 
   array (
     'id' => 53149,
     'name' => 'Préveza',
@@ -6733,7 +6508,7 @@ return array (
     'latitude' => 38.95617,
     'longitude' => 20.7505,
   ),
-  748 => 
+  723 => 
   array (
     'id' => 53150,
     'name' => 'Prínos',
@@ -6742,7 +6517,7 @@ return array (
     'latitude' => 40.7409,
     'longitude' => 24.57787,
   ),
-  749 => 
+  724 => 
   array (
     'id' => 53151,
     'name' => 'Próchoma',
@@ -6751,7 +6526,7 @@ return array (
     'latitude' => 40.79826,
     'longitude' => 22.66659,
   ),
-  750 => 
+  725 => 
   array (
     'id' => 53152,
     'name' => 'Prómachoi',
@@ -6760,7 +6535,7 @@ return array (
     'latitude' => 41.02517,
     'longitude' => 22.00437,
   ),
-  751 => 
+  726 => 
   array (
     'id' => 53153,
     'name' => 'Próti',
@@ -6769,7 +6544,7 @@ return array (
     'latitude' => 40.94411,
     'longitude' => 24.00118,
   ),
-  752 => 
+  727 => 
   array (
     'id' => 53154,
     'name' => 'Psachná',
@@ -6778,7 +6553,7 @@ return array (
     'latitude' => 38.57852,
     'longitude' => 23.64326,
   ),
-  753 => 
+  728 => 
   array (
     'id' => 53155,
     'name' => 'Psychikó',
@@ -6787,7 +6562,7 @@ return array (
     'latitude' => 38.01324,
     'longitude' => 23.77223,
   ),
-  754 => 
+  729 => 
   array (
     'id' => 53156,
     'name' => 'Pteleós',
@@ -6796,7 +6571,7 @@ return array (
     'latitude' => 39.05261,
     'longitude' => 22.95271,
   ),
-  755 => 
+  730 => 
   array (
     'id' => 53157,
     'name' => 'Ptolemaḯda',
@@ -6805,7 +6580,7 @@ return array (
     'latitude' => 40.51472,
     'longitude' => 21.67861,
   ),
-  756 => 
+  731 => 
   array (
     'id' => 53158,
     'name' => 'Pylaía',
@@ -6814,7 +6589,7 @@ return array (
     'latitude' => 40.59918,
     'longitude' => 22.98613,
   ),
-  757 => 
+  732 => 
   array (
     'id' => 53159,
     'name' => 'Pylí',
@@ -6823,7 +6598,7 @@ return array (
     'latitude' => 36.84472,
     'longitude' => 27.15932,
   ),
-  758 => 
+  733 => 
   array (
     'id' => 53160,
     'name' => 'Pyrgetós',
@@ -6832,7 +6607,7 @@ return array (
     'latitude' => 39.55276,
     'longitude' => 21.74846,
   ),
-  759 => 
+  734 => 
   array (
     'id' => 53161,
     'name' => 'Páchni',
@@ -6841,7 +6616,7 @@ return array (
     'latitude' => 41.30506,
     'longitude' => 24.89438,
   ),
-  760 => 
+  735 => 
   array (
     'id' => 53162,
     'name' => 'Pálairos',
@@ -6850,7 +6625,7 @@ return array (
     'latitude' => 38.783,
     'longitude' => 20.88183,
   ),
-  761 => 
+  736 => 
   array (
     'id' => 53163,
     'name' => 'Pánormos',
@@ -6859,16 +6634,7 @@ return array (
     'latitude' => 35.41815,
     'longitude' => 24.69091,
   ),
-  762 => 
-  array (
-    'id' => 53164,
-    'name' => 'Pánormos',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 36.97156,
-    'longitude' => 26.93727,
-  ),
-  763 => 
+  737 => 
   array (
     'id' => 53165,
     'name' => 'Párga',
@@ -6877,7 +6643,7 @@ return array (
     'latitude' => 39.28572,
     'longitude' => 20.40044,
   ),
-  764 => 
+  738 => 
   array (
     'id' => 53166,
     'name' => 'Páros',
@@ -6886,7 +6652,7 @@ return array (
     'latitude' => 37.08333,
     'longitude' => 25.15,
   ),
-  765 => 
+  739 => 
   array (
     'id' => 53167,
     'name' => 'Pásion',
@@ -6895,7 +6661,7 @@ return array (
     'latitude' => 38.01294,
     'longitude' => 22.72814,
   ),
-  766 => 
+  740 => 
   array (
     'id' => 53168,
     'name' => 'Pátmos',
@@ -6904,7 +6670,7 @@ return array (
     'latitude' => 37.30895,
     'longitude' => 26.54723,
   ),
-  767 => 
+  741 => 
   array (
     'id' => 53169,
     'name' => 'Pátra',
@@ -6913,7 +6679,7 @@ return array (
     'latitude' => 38.24444,
     'longitude' => 21.73444,
   ),
-  768 => 
+  742 => 
   array (
     'id' => 53170,
     'name' => 'Péfka',
@@ -6922,7 +6688,7 @@ return array (
     'latitude' => 40.65806,
     'longitude' => 22.99378,
   ),
-  769 => 
+  743 => 
   array (
     'id' => 53171,
     'name' => 'Péfki',
@@ -6931,7 +6697,7 @@ return array (
     'latitude' => 38.06019,
     'longitude' => 23.79264,
   ),
-  770 => 
+  744 => 
   array (
     'id' => 53172,
     'name' => 'Pélla',
@@ -6940,7 +6706,7 @@ return array (
     'latitude' => 40.76169,
     'longitude' => 22.52637,
   ),
-  771 => 
+  745 => 
   array (
     'id' => 53173,
     'name' => 'Péplos',
@@ -6949,7 +6715,7 @@ return array (
     'latitude' => 40.95755,
     'longitude' => 26.26577,
   ),
-  772 => 
+  746 => 
   array (
     'id' => 53174,
     'name' => 'Pérama',
@@ -6958,25 +6724,7 @@ return array (
     'latitude' => 39.69331,
     'longitude' => 20.84656,
   ),
-  773 => 
-  array (
-    'id' => 53175,
-    'name' => 'Pérama',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.96775,
-    'longitude' => 23.5721,
-  ),
-  774 => 
-  array (
-    'id' => 53176,
-    'name' => 'Pérama',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 35.3703,
-    'longitude' => 24.70345,
-  ),
-  775 => 
+  747 => 
   array (
     'id' => 53177,
     'name' => 'Pérdika',
@@ -6985,7 +6733,7 @@ return array (
     'latitude' => 39.36967,
     'longitude' => 20.30419,
   ),
-  776 => 
+  748 => 
   array (
     'id' => 53178,
     'name' => 'Péta',
@@ -6994,7 +6742,7 @@ return array (
     'latitude' => 39.16667,
     'longitude' => 21.03472,
   ),
-  777 => 
+  749 => 
   array (
     'id' => 53179,
     'name' => 'Póros',
@@ -7003,16 +6751,7 @@ return array (
     'latitude' => 38.15369,
     'longitude' => 20.7712,
   ),
-  778 => 
-  array (
-    'id' => 53180,
-    'name' => 'Póros',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.49944,
-    'longitude' => 23.45361,
-  ),
-  779 => 
+  750 => 
   array (
     'id' => 53181,
     'name' => 'Pórto Chéli',
@@ -7021,7 +6760,7 @@ return array (
     'latitude' => 37.32786,
     'longitude' => 23.14384,
   ),
-  780 => 
+  751 => 
   array (
     'id' => 53182,
     'name' => 'Pýli',
@@ -7030,7 +6769,7 @@ return array (
     'latitude' => 39.45806,
     'longitude' => 21.61889,
   ),
-  781 => 
+  752 => 
   array (
     'id' => 53183,
     'name' => 'Pýlos',
@@ -7039,7 +6778,7 @@ return array (
     'latitude' => 36.91298,
     'longitude' => 21.6965,
   ),
-  782 => 
+  753 => 
   array (
     'id' => 53184,
     'name' => 'Pýrgos',
@@ -7048,16 +6787,7 @@ return array (
     'latitude' => 37.67513,
     'longitude' => 21.44102,
   ),
-  783 => 
-  array (
-    'id' => 53185,
-    'name' => 'Pýrgos',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 35.00611,
-    'longitude' => 25.15191,
-  ),
-  784 => 
+  754 => 
   array (
     'id' => 53186,
     'name' => 'Rafína',
@@ -7066,7 +6796,7 @@ return array (
     'latitude' => 38.01812,
     'longitude' => 24.00599,
   ),
-  785 => 
+  755 => 
   array (
     'id' => 53187,
     'name' => 'Rethymno',
@@ -7075,7 +6805,7 @@ return array (
     'latitude' => 35.36555,
     'longitude' => 24.48232,
   ),
-  786 => 
+  756 => 
   array (
     'id' => 53188,
     'name' => 'Ritíni',
@@ -7084,7 +6814,7 @@ return array (
     'latitude' => 40.28835,
     'longitude' => 22.28361,
   ),
-  787 => 
+  757 => 
   array (
     'id' => 53189,
     'name' => 'Rizári',
@@ -7093,7 +6823,7 @@ return array (
     'latitude' => 40.78373,
     'longitude' => 22.088,
   ),
-  788 => 
+  758 => 
   array (
     'id' => 53190,
     'name' => 'Rizó',
@@ -7102,7 +6832,7 @@ return array (
     'latitude' => 40.73331,
     'longitude' => 22.13674,
   ),
-  789 => 
+  759 => 
   array (
     'id' => 53191,
     'name' => 'Rizómata',
@@ -7111,7 +6841,7 @@ return array (
     'latitude' => 40.35061,
     'longitude' => 22.21079,
   ),
-  790 => 
+  760 => 
   array (
     'id' => 53192,
     'name' => 'Rizómylos',
@@ -7120,7 +6850,7 @@ return array (
     'latitude' => 39.42763,
     'longitude' => 22.74717,
   ),
-  791 => 
+  761 => 
   array (
     'id' => 53193,
     'name' => 'Rodhítsa',
@@ -7129,7 +6859,7 @@ return array (
     'latitude' => 38.88829,
     'longitude' => 22.4641,
   ),
-  792 => 
+  762 => 
   array (
     'id' => 53194,
     'name' => 'Rododáfni',
@@ -7138,7 +6868,7 @@ return array (
     'latitude' => 38.26976,
     'longitude' => 22.04875,
   ),
-  793 => 
+  763 => 
   array (
     'id' => 53195,
     'name' => 'Rodolívos',
@@ -7147,7 +6877,7 @@ return array (
     'latitude' => 40.92055,
     'longitude' => 23.97489,
   ),
-  794 => 
+  764 => 
   array (
     'id' => 53196,
     'name' => 'Rodotópi',
@@ -7156,7 +6886,7 @@ return array (
     'latitude' => 39.70822,
     'longitude' => 20.72656,
   ),
-  795 => 
+  765 => 
   array (
     'id' => 53197,
     'name' => 'Rodópoli',
@@ -7165,7 +6895,7 @@ return array (
     'latitude' => 38.11669,
     'longitude' => 23.87572,
   ),
-  796 => 
+  766 => 
   array (
     'id' => 53198,
     'name' => 'Roviés',
@@ -7174,7 +6904,7 @@ return array (
     'latitude' => 38.80971,
     'longitude' => 23.23073,
   ),
-  797 => 
+  767 => 
   array (
     'id' => 53199,
     'name' => 'Royítika',
@@ -7183,7 +6913,7 @@ return array (
     'latitude' => 38.18268,
     'longitude' => 21.68414,
   ),
-  798 => 
+  768 => 
   array (
     'id' => 53200,
     'name' => 'Río',
@@ -7192,7 +6922,7 @@ return array (
     'latitude' => 38.29558,
     'longitude' => 21.78504,
   ),
-  799 => 
+  769 => 
   array (
     'id' => 53201,
     'name' => 'Rízia',
@@ -7201,7 +6931,7 @@ return array (
     'latitude' => 41.6249,
     'longitude' => 26.42771,
   ),
-  800 => 
+  770 => 
   array (
     'id' => 53202,
     'name' => 'Rízoma',
@@ -7210,7 +6940,7 @@ return array (
     'latitude' => 39.66432,
     'longitude' => 21.73541,
   ),
-  801 => 
+  771 => 
   array (
     'id' => 53203,
     'name' => 'Ródos',
@@ -7219,7 +6949,7 @@ return array (
     'latitude' => 36.43556,
     'longitude' => 28.22199,
   ),
-  802 => 
+  772 => 
   array (
     'id' => 53204,
     'name' => 'Salamína',
@@ -7228,7 +6958,7 @@ return array (
     'latitude' => 37.96427,
     'longitude' => 23.49649,
   ),
-  803 => 
+  773 => 
   array (
     'id' => 53205,
     'name' => 'Samothráki',
@@ -7237,7 +6967,7 @@ return array (
     'latitude' => 40.47333,
     'longitude' => 25.52222,
   ),
-  804 => 
+  774 => 
   array (
     'id' => 53206,
     'name' => 'Sardínia',
@@ -7246,7 +6976,7 @@ return array (
     'latitude' => 38.89003,
     'longitude' => 21.20619,
   ),
-  805 => 
+  775 => 
   array (
     'id' => 53207,
     'name' => 'Saronída',
@@ -7255,7 +6985,7 @@ return array (
     'latitude' => 37.74809,
     'longitude' => 23.91059,
   ),
-  806 => 
+  776 => 
   array (
     'id' => 53208,
     'name' => 'Savália',
@@ -7264,7 +6994,7 @@ return array (
     'latitude' => 37.82158,
     'longitude' => 21.29425,
   ),
-  807 => 
+  777 => 
   array (
     'id' => 53209,
     'name' => 'Schimatári',
@@ -7273,7 +7003,7 @@ return array (
     'latitude' => 38.35,
     'longitude' => 23.58333,
   ),
-  808 => 
+  778 => 
   array (
     'id' => 53210,
     'name' => 'Schísma Eloúndas',
@@ -7282,7 +7012,7 @@ return array (
     'latitude' => 35.25757,
     'longitude' => 25.72796,
   ),
-  809 => 
+  779 => 
   array (
     'id' => 53211,
     'name' => 'Selínia',
@@ -7291,7 +7021,7 @@ return array (
     'latitude' => 37.9332,
     'longitude' => 23.53147,
   ),
-  810 => 
+  780 => 
   array (
     'id' => 53212,
     'name' => 'Sevastianá',
@@ -7300,7 +7030,7 @@ return array (
     'latitude' => 40.76874,
     'longitude' => 22.12346,
   ),
-  811 => 
+  781 => 
   array (
     'id' => 53213,
     'name' => 'Sfendámi',
@@ -7309,7 +7039,7 @@ return array (
     'latitude' => 40.41307,
     'longitude' => 22.54677,
   ),
-  812 => 
+  782 => 
   array (
     'id' => 53214,
     'name' => 'Sidirókastro',
@@ -7318,7 +7048,7 @@ return array (
     'latitude' => 41.23499,
     'longitude' => 23.38899,
   ),
-  813 => 
+  783 => 
   array (
     'id' => 53215,
     'name' => 'Sikyón',
@@ -7327,7 +7057,7 @@ return array (
     'latitude' => 37.9823,
     'longitude' => 22.72462,
   ),
-  814 => 
+  784 => 
   array (
     'id' => 53216,
     'name' => 'Sitagroí',
@@ -7336,7 +7066,7 @@ return array (
     'latitude' => 41.11067,
     'longitude' => 24.02755,
   ),
-  815 => 
+  785 => 
   array (
     'id' => 53217,
     'name' => 'Sitia',
@@ -7345,7 +7075,7 @@ return array (
     'latitude' => 35.20783,
     'longitude' => 26.10467,
   ),
-  816 => 
+  786 => 
   array (
     'id' => 53218,
     'name' => 'Siátista',
@@ -7354,7 +7084,7 @@ return array (
     'latitude' => 40.26194,
     'longitude' => 21.54417,
   ),
-  817 => 
+  787 => 
   array (
     'id' => 53219,
     'name' => 'Skalánion',
@@ -7363,7 +7093,7 @@ return array (
     'latitude' => 35.28262,
     'longitude' => 25.18684,
   ),
-  818 => 
+  788 => 
   array (
     'id' => 53220,
     'name' => 'Skarmagkás',
@@ -7372,7 +7102,7 @@ return array (
     'latitude' => 38.01133,
     'longitude' => 23.60303,
   ),
-  819 => 
+  789 => 
   array (
     'id' => 53221,
     'name' => 'Skiáthos',
@@ -7381,7 +7111,7 @@ return array (
     'latitude' => 39.16227,
     'longitude' => 23.49089,
   ),
-  820 => 
+  790 => 
   array (
     'id' => 53222,
     'name' => 'Skotoússa',
@@ -7390,7 +7120,7 @@ return array (
     'latitude' => 41.12844,
     'longitude' => 23.38174,
   ),
-  821 => 
+  791 => 
   array (
     'id' => 53223,
     'name' => 'Skoútari',
@@ -7399,7 +7129,7 @@ return array (
     'latitude' => 41.01871,
     'longitude' => 23.51971,
   ),
-  822 => 
+  792 => 
   array (
     'id' => 53224,
     'name' => 'Skála',
@@ -7408,16 +7138,7 @@ return array (
     'latitude' => 37.32218,
     'longitude' => 26.543,
   ),
-  823 => 
-  array (
-    'id' => 53225,
-    'name' => 'Skála',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 36.85,
-    'longitude' => 22.66667,
-  ),
-  824 => 
+  793 => 
   array (
     'id' => 53226,
     'name' => 'Skála Oropoú',
@@ -7426,7 +7147,7 @@ return array (
     'latitude' => 38.31964,
     'longitude' => 23.78763,
   ),
-  825 => 
+  794 => 
   array (
     'id' => 53227,
     'name' => 'Skópelos',
@@ -7435,7 +7156,7 @@ return array (
     'latitude' => 39.12144,
     'longitude' => 23.72686,
   ),
-  826 => 
+  795 => 
   array (
     'id' => 53228,
     'name' => 'Skýdra',
@@ -7444,7 +7165,7 @@ return array (
     'latitude' => 40.76722,
     'longitude' => 22.15194,
   ),
-  827 => 
+  796 => 
   array (
     'id' => 53229,
     'name' => 'Skýros',
@@ -7453,7 +7174,7 @@ return array (
     'latitude' => 38.90417,
     'longitude' => 24.56306,
   ),
-  828 => 
+  797 => 
   array (
     'id' => 53230,
     'name' => 'Smínthi',
@@ -7462,7 +7183,7 @@ return array (
     'latitude' => 41.23333,
     'longitude' => 24.86667,
   ),
-  829 => 
+  798 => 
   array (
     'id' => 53231,
     'name' => 'Sochós',
@@ -7471,7 +7192,7 @@ return array (
     'latitude' => 40.81788,
     'longitude' => 23.35546,
   ),
-  830 => 
+  799 => 
   array (
     'id' => 53232,
     'name' => 'Sofikón',
@@ -7480,7 +7201,7 @@ return array (
     'latitude' => 37.79412,
     'longitude' => 23.05204,
   ),
-  831 => 
+  800 => 
   array (
     'id' => 53233,
     'name' => 'Sofádes',
@@ -7489,7 +7210,7 @@ return array (
     'latitude' => 39.33333,
     'longitude' => 22.1,
   ),
-  832 => 
+  801 => 
   array (
     'id' => 53234,
     'name' => 'Sosándra',
@@ -7498,7 +7219,7 @@ return array (
     'latitude' => 40.99894,
     'longitude' => 22.03254,
   ),
-  833 => 
+  802 => 
   array (
     'id' => 53235,
     'name' => 'Souflí',
@@ -7507,7 +7228,7 @@ return array (
     'latitude' => 41.19194,
     'longitude' => 26.29944,
   ),
-  834 => 
+  803 => 
   array (
     'id' => 53236,
     'name' => 'Sourotí',
@@ -7516,7 +7237,7 @@ return array (
     'latitude' => 40.47274,
     'longitude' => 23.09197,
   ),
-  835 => 
+  804 => 
   array (
     'id' => 53237,
     'name' => 'Soúda',
@@ -7525,7 +7246,7 @@ return array (
     'latitude' => 35.48717,
     'longitude' => 24.07344,
   ),
-  836 => 
+  805 => 
   array (
     'id' => 53238,
     'name' => 'Soúrpi',
@@ -7534,7 +7255,7 @@ return array (
     'latitude' => 39.10319,
     'longitude' => 22.89789,
   ),
-  837 => 
+  806 => 
   array (
     'id' => 53239,
     'name' => 'Spercheiáda',
@@ -7543,7 +7264,7 @@ return array (
     'latitude' => 38.90656,
     'longitude' => 22.12792,
   ),
-  838 => 
+  807 => 
   array (
     'id' => 53240,
     'name' => 'Sperchógeia',
@@ -7552,7 +7273,7 @@ return array (
     'latitude' => 37.07405,
     'longitude' => 22.06248,
   ),
-  839 => 
+  808 => 
   array (
     'id' => 53241,
     'name' => 'Spárti',
@@ -7561,7 +7282,7 @@ return array (
     'latitude' => 37.07446,
     'longitude' => 22.43009,
   ),
-  840 => 
+  809 => 
   array (
     'id' => 53242,
     'name' => 'Spáta',
@@ -7570,7 +7291,7 @@ return array (
     'latitude' => 37.96163,
     'longitude' => 23.91514,
   ),
-  841 => 
+  810 => 
   array (
     'id' => 53243,
     'name' => 'Spétses',
@@ -7579,7 +7300,7 @@ return array (
     'latitude' => 37.26191,
     'longitude' => 23.15943,
   ),
-  842 => 
+  811 => 
   array (
     'id' => 53244,
     'name' => 'Stalís',
@@ -7588,7 +7309,7 @@ return array (
     'latitude' => 35.29257,
     'longitude' => 25.43292,
   ),
-  843 => 
+  812 => 
   array (
     'id' => 53245,
     'name' => 'Stamáta',
@@ -7597,7 +7318,7 @@ return array (
     'latitude' => 38.12546,
     'longitude' => 23.88038,
   ),
-  844 => 
+  813 => 
   array (
     'id' => 53246,
     'name' => 'Stathmós Mourión',
@@ -7606,7 +7327,7 @@ return array (
     'latitude' => 41.26378,
     'longitude' => 22.83855,
   ),
-  845 => 
+  814 => 
   array (
     'id' => 53247,
     'name' => 'Stavroúpoli',
@@ -7615,7 +7336,7 @@ return array (
     'latitude' => 40.66944,
     'longitude' => 22.93806,
   ),
-  846 => 
+  815 => 
   array (
     'id' => 53248,
     'name' => 'Stavráki',
@@ -7624,7 +7345,7 @@ return array (
     'latitude' => 39.65614,
     'longitude' => 20.81806,
   ),
-  847 => 
+  816 => 
   array (
     'id' => 53249,
     'name' => 'Stavrós',
@@ -7633,16 +7354,7 @@ return array (
     'latitude' => 38.89641,
     'longitude' => 22.37082,
   ),
-  848 => 
-  array (
-    'id' => 53250,
-    'name' => 'Stavrós',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.66498,
-    'longitude' => 23.70015,
-  ),
-  849 => 
+  817 => 
   array (
     'id' => 53251,
     'name' => 'Stefanovíkeio',
@@ -7651,7 +7363,7 @@ return array (
     'latitude' => 39.46354,
     'longitude' => 22.74198,
   ),
-  850 => 
+  818 => 
   array (
     'id' => 53252,
     'name' => 'Steíri',
@@ -7660,7 +7372,7 @@ return array (
     'latitude' => 38.40831,
     'longitude' => 22.71162,
   ),
-  851 => 
+  819 => 
   array (
     'id' => 53253,
     'name' => 'Stratónion',
@@ -7669,7 +7381,7 @@ return array (
     'latitude' => 40.51406,
     'longitude' => 23.82471,
   ),
-  852 => 
+  820 => 
   array (
     'id' => 53254,
     'name' => 'Strymonikó',
@@ -7678,7 +7390,7 @@ return array (
     'latitude' => 41.04144,
     'longitude' => 23.31487,
   ),
-  853 => 
+  821 => 
   array (
     'id' => 53255,
     'name' => 'Stylída',
@@ -7687,7 +7399,7 @@ return array (
     'latitude' => 38.91667,
     'longitude' => 22.61667,
   ),
-  854 => 
+  822 => 
   array (
     'id' => 53256,
     'name' => 'Stános',
@@ -7696,7 +7408,7 @@ return array (
     'latitude' => 38.80453,
     'longitude' => 21.17461,
   ),
-  855 => 
+  823 => 
   array (
     'id' => 53257,
     'name' => 'Svorónos',
@@ -7705,7 +7417,7 @@ return array (
     'latitude' => 40.26805,
     'longitude' => 22.46366,
   ),
-  856 => 
+  824 => 
   array (
     'id' => 53258,
     'name' => 'Sykiá',
@@ -7714,16 +7426,7 @@ return array (
     'latitude' => 36.76398,
     'longitude' => 22.94302,
   ),
-  857 => 
-  array (
-    'id' => 53259,
-    'name' => 'Sykiá',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.03874,
-    'longitude' => 23.94046,
-  ),
-  858 => 
+  825 => 
   array (
     'id' => 53260,
     'name' => 'Sykiés',
@@ -7732,7 +7435,7 @@ return array (
     'latitude' => 40.64944,
     'longitude' => 22.95083,
   ),
-  859 => 
+  826 => 
   array (
     'id' => 53261,
     'name' => 'Sylivainiótika',
@@ -7741,7 +7444,7 @@ return array (
     'latitude' => 38.16139,
     'longitude' => 22.33156,
   ),
-  860 => 
+  827 => 
   array (
     'id' => 53262,
     'name' => 'Synoikismós Chavaríou',
@@ -7750,7 +7453,7 @@ return array (
     'latitude' => 37.85575,
     'longitude' => 21.38789,
   ),
-  861 => 
+  828 => 
   array (
     'id' => 53263,
     'name' => 'Sámi',
@@ -7759,7 +7462,7 @@ return array (
     'latitude' => 38.25081,
     'longitude' => 20.64686,
   ),
-  862 => 
+  829 => 
   array (
     'id' => 53264,
     'name' => 'Sápes',
@@ -7768,7 +7471,7 @@ return array (
     'latitude' => 41.02861,
     'longitude' => 25.69306,
   ),
-  863 => 
+  830 => 
   array (
     'id' => 53265,
     'name' => 'Sárti',
@@ -7777,7 +7480,7 @@ return array (
     'latitude' => 40.09369,
     'longitude' => 23.97859,
   ),
-  864 => 
+  831 => 
   array (
     'id' => 53266,
     'name' => 'Sélero',
@@ -7786,7 +7489,7 @@ return array (
     'latitude' => 41.13382,
     'longitude' => 24.99408,
   ),
-  865 => 
+  832 => 
   array (
     'id' => 53267,
     'name' => 'Sérifos',
@@ -7795,7 +7498,7 @@ return array (
     'latitude' => 37.15397,
     'longitude' => 24.50614,
   ),
-  866 => 
+  833 => 
   array (
     'id' => 53268,
     'name' => 'Sérres',
@@ -7804,7 +7507,7 @@ return array (
     'latitude' => 41.08499,
     'longitude' => 23.54757,
   ),
-  867 => 
+  834 => 
   array (
     'id' => 53269,
     'name' => 'Sérvia',
@@ -7813,7 +7516,7 @@ return array (
     'latitude' => 40.17972,
     'longitude' => 21.99444,
   ),
-  868 => 
+  835 => 
   array (
     'id' => 53270,
     'name' => 'Símantra',
@@ -7822,7 +7525,7 @@ return array (
     'latitude' => 40.34563,
     'longitude' => 23.31026,
   ),
-  869 => 
+  836 => 
   array (
     'id' => 53271,
     'name' => 'Síndos',
@@ -7831,7 +7534,7 @@ return array (
     'latitude' => 40.67045,
     'longitude' => 22.80545,
   ),
-  870 => 
+  837 => 
   array (
     'id' => 53272,
     'name' => 'Sísion',
@@ -7840,7 +7543,7 @@ return array (
     'latitude' => 35.3077,
     'longitude' => 25.52021,
   ),
-  871 => 
+  838 => 
   array (
     'id' => 53273,
     'name' => 'Sými',
@@ -7849,7 +7552,7 @@ return array (
     'latitude' => 36.61547,
     'longitude' => 27.83619,
   ),
-  872 => 
+  839 => 
   array (
     'id' => 53274,
     'name' => 'Taxiárches',
@@ -7858,7 +7561,7 @@ return array (
     'latitude' => 39.57565,
     'longitude' => 21.89245,
   ),
-  873 => 
+  840 => 
   array (
     'id' => 53275,
     'name' => 'Terpní',
@@ -7867,7 +7570,7 @@ return array (
     'latitude' => 40.91643,
     'longitude' => 23.48137,
   ),
-  874 => 
+  841 => 
   array (
     'id' => 53276,
     'name' => 'Thespiés',
@@ -7876,7 +7579,7 @@ return array (
     'latitude' => 38.303,
     'longitude' => 23.15016,
   ),
-  875 => 
+  842 => 
   array (
     'id' => 53277,
     'name' => 'Thesprotikó',
@@ -7885,7 +7588,7 @@ return array (
     'latitude' => 39.25114,
     'longitude' => 20.78528,
   ),
-  876 => 
+  843 => 
   array (
     'id' => 53278,
     'name' => 'Thessaloníki',
@@ -7894,7 +7597,7 @@ return array (
     'latitude' => 40.64361,
     'longitude' => 22.93086,
   ),
-  877 => 
+  844 => 
   array (
     'id' => 53279,
     'name' => 'Thouría',
@@ -7903,7 +7606,7 @@ return array (
     'latitude' => 37.08356,
     'longitude' => 22.04891,
   ),
-  878 => 
+  845 => 
   array (
     'id' => 53280,
     'name' => 'Thrakomakedónes',
@@ -7912,7 +7615,7 @@ return array (
     'latitude' => 38.12964,
     'longitude' => 23.75751,
   ),
-  879 => 
+  846 => 
   array (
     'id' => 53281,
     'name' => 'Thrapsanón',
@@ -7921,7 +7624,7 @@ return array (
     'latitude' => 35.18798,
     'longitude' => 25.28091,
   ),
-  880 => 
+  847 => 
   array (
     'id' => 53282,
     'name' => 'Thásos',
@@ -7930,7 +7633,7 @@ return array (
     'latitude' => 40.77806,
     'longitude' => 24.70944,
   ),
-  881 => 
+  848 => 
   array (
     'id' => 53283,
     'name' => 'Thérmi',
@@ -7939,7 +7642,7 @@ return array (
     'latitude' => 40.54712,
     'longitude' => 23.01967,
   ),
-  882 => 
+  849 => 
   array (
     'id' => 53284,
     'name' => 'Thérmo',
@@ -7948,7 +7651,7 @@ return array (
     'latitude' => 38.57358,
     'longitude' => 21.66628,
   ),
-  883 => 
+  850 => 
   array (
     'id' => 53285,
     'name' => 'Thívai',
@@ -7957,7 +7660,7 @@ return array (
     'latitude' => 38.325,
     'longitude' => 23.31889,
   ),
-  884 => 
+  851 => 
   array (
     'id' => 53286,
     'name' => 'Tolón',
@@ -7966,7 +7669,7 @@ return array (
     'latitude' => 37.52021,
     'longitude' => 22.8586,
   ),
-  885 => 
+  852 => 
   array (
     'id' => 53287,
     'name' => 'Traganón',
@@ -7975,7 +7678,7 @@ return array (
     'latitude' => 37.89789,
     'longitude' => 21.31245,
   ),
-  886 => 
+  853 => 
   array (
     'id' => 53288,
     'name' => 'Triandaíika',
@@ -7984,7 +7687,7 @@ return array (
     'latitude' => 38.6553,
     'longitude' => 21.38315,
   ),
-  887 => 
+  854 => 
   array (
     'id' => 53289,
     'name' => 'Triandría',
@@ -7993,7 +7696,7 @@ return array (
     'latitude' => 40.615,
     'longitude' => 22.9762,
   ),
-  888 => 
+  855 => 
   array (
     'id' => 53290,
     'name' => 'Tríkala',
@@ -8002,16 +7705,7 @@ return array (
     'latitude' => 40.59814,
     'longitude' => 22.55733,
   ),
-  889 => 
-  array (
-    'id' => 53291,
-    'name' => 'Tríkala',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 39.55493,
-    'longitude' => 21.76837,
-  ),
-  890 => 
+  856 => 
   array (
     'id' => 53292,
     'name' => 'Tríkeri',
@@ -8020,7 +7714,7 @@ return array (
     'latitude' => 39.10114,
     'longitude' => 23.07669,
   ),
-  891 => 
+  857 => 
   array (
     'id' => 53293,
     'name' => 'Trílofos',
@@ -8029,7 +7723,7 @@ return array (
     'latitude' => 40.46898,
     'longitude' => 22.9718,
   ),
-  892 => 
+  858 => 
   array (
     'id' => 53294,
     'name' => 'Trípoli',
@@ -8038,7 +7732,7 @@ return array (
     'latitude' => 37.50889,
     'longitude' => 22.37944,
   ),
-  893 => 
+  859 => 
   array (
     'id' => 53295,
     'name' => 'Tsiflikópoulo',
@@ -8047,7 +7741,7 @@ return array (
     'latitude' => 39.65624,
     'longitude' => 20.83882,
   ),
-  894 => 
+  860 => 
   array (
     'id' => 53296,
     'name' => 'Tsikalariá',
@@ -8056,7 +7750,7 @@ return array (
     'latitude' => 35.47623,
     'longitude' => 24.06274,
   ),
-  895 => 
+  861 => 
   array (
     'id' => 53297,
     'name' => 'Tsotíli',
@@ -8065,7 +7759,7 @@ return array (
     'latitude' => 40.26147,
     'longitude' => 21.32533,
   ),
-  896 => 
+  862 => 
   array (
     'id' => 53298,
     'name' => 'Tycheró',
@@ -8074,7 +7768,7 @@ return array (
     'latitude' => 41.02878,
     'longitude' => 26.29455,
   ),
-  897 => 
+  863 => 
   array (
     'id' => 53299,
     'name' => 'Tympáki',
@@ -8083,7 +7777,7 @@ return array (
     'latitude' => 35.07286,
     'longitude' => 24.76851,
   ),
-  898 => 
+  864 => 
   array (
     'id' => 53300,
     'name' => 'Távros',
@@ -8092,7 +7786,7 @@ return array (
     'latitude' => 37.97064,
     'longitude' => 23.69043,
   ),
-  899 => 
+  865 => 
   array (
     'id' => 53301,
     'name' => 'Témeni',
@@ -8101,7 +7795,7 @@ return array (
     'latitude' => 38.23707,
     'longitude' => 22.12533,
   ),
-  900 => 
+  866 => 
   array (
     'id' => 53302,
     'name' => 'Tílisos',
@@ -8110,7 +7804,7 @@ return array (
     'latitude' => 35.29607,
     'longitude' => 25.01587,
   ),
-  901 => 
+  867 => 
   array (
     'id' => 53303,
     'name' => 'Tínos',
@@ -8119,7 +7813,7 @@ return array (
     'latitude' => 37.53753,
     'longitude' => 25.16343,
   ),
-  902 => 
+  868 => 
   array (
     'id' => 53304,
     'name' => 'Valsamáta',
@@ -8128,7 +7822,7 @@ return array (
     'latitude' => 38.176,
     'longitude' => 20.58392,
   ),
-  903 => 
+  869 => 
   array (
     'id' => 53305,
     'name' => 'Valteró',
@@ -8137,7 +7831,7 @@ return array (
     'latitude' => 41.17927,
     'longitude' => 23.32022,
   ),
-  904 => 
+  870 => 
   array (
     'id' => 53306,
     'name' => 'Vamvakófyto',
@@ -8146,7 +7840,7 @@ return array (
     'latitude' => 41.17916,
     'longitude' => 23.39602,
   ),
-  905 => 
+  871 => 
   array (
     'id' => 53307,
     'name' => 'Vanáton',
@@ -8155,7 +7849,7 @@ return array (
     'latitude' => 37.79446,
     'longitude' => 20.85188,
   ),
-  906 => 
+  872 => 
   array (
     'id' => 53308,
     'name' => 'Varnávas',
@@ -8164,7 +7858,7 @@ return array (
     'latitude' => 38.22358,
     'longitude' => 23.92307,
   ),
-  907 => 
+  873 => 
   array (
     'id' => 53309,
     'name' => 'Vartholomió',
@@ -8173,7 +7867,7 @@ return array (
     'latitude' => 37.86219,
     'longitude' => 21.20575,
   ),
-  908 => 
+  874 => 
   array (
     'id' => 53310,
     'name' => 'Varvásaina',
@@ -8182,7 +7876,7 @@ return array (
     'latitude' => 37.67106,
     'longitude' => 21.49886,
   ),
-  909 => 
+  875 => 
   array (
     'id' => 53311,
     'name' => 'Varybóbi',
@@ -8191,7 +7885,7 @@ return array (
     'latitude' => 38.12723,
     'longitude' => 23.78729,
   ),
-  910 => 
+  876 => 
   array (
     'id' => 53312,
     'name' => 'Vasiliká',
@@ -8200,7 +7894,7 @@ return array (
     'latitude' => 40.47966,
     'longitude' => 23.13695,
   ),
-  911 => 
+  877 => 
   array (
     'id' => 53313,
     'name' => 'Vasilikí',
@@ -8209,7 +7903,7 @@ return array (
     'latitude' => 39.63984,
     'longitude' => 21.70448,
   ),
-  912 => 
+  878 => 
   array (
     'id' => 53314,
     'name' => 'Vasilikón',
@@ -8218,7 +7912,7 @@ return array (
     'latitude' => 38.42586,
     'longitude' => 23.67189,
   ),
-  913 => 
+  879 => 
   array (
     'id' => 53315,
     'name' => 'Vathí',
@@ -8227,7 +7921,7 @@ return array (
     'latitude' => 38.4049,
     'longitude' => 23.60332,
   ),
-  914 => 
+  880 => 
   array (
     'id' => 53316,
     'name' => 'Vathý',
@@ -8236,7 +7930,7 @@ return array (
     'latitude' => 37.7642,
     'longitude' => 23.48011,
   ),
-  915 => 
+  881 => 
   array (
     'id' => 53317,
     'name' => 'Vathýlakkos',
@@ -8245,7 +7939,7 @@ return array (
     'latitude' => 40.76942,
     'longitude' => 22.7088,
   ),
-  916 => 
+  882 => 
   array (
     'id' => 53318,
     'name' => 'Velestíno',
@@ -8254,7 +7948,7 @@ return array (
     'latitude' => 39.38181,
     'longitude' => 22.74616,
   ),
-  917 => 
+  883 => 
   array (
     'id' => 53319,
     'name' => 'Velventós',
@@ -8263,7 +7957,7 @@ return array (
     'latitude' => 40.25532,
     'longitude' => 22.07543,
   ),
-  918 => 
+  884 => 
   array (
     'id' => 53320,
     'name' => 'Vergína',
@@ -8272,7 +7966,7 @@ return array (
     'latitude' => 40.48654,
     'longitude' => 22.31735,
   ),
-  919 => 
+  885 => 
   array (
     'id' => 53321,
     'name' => 'Violí Charáki',
@@ -8281,7 +7975,7 @@ return array (
     'latitude' => 35.35864,
     'longitude' => 24.43857,
   ),
-  920 => 
+  886 => 
   array (
     'id' => 53322,
     'name' => 'Virós',
@@ -8290,7 +7984,7 @@ return array (
     'latitude' => 39.5834,
     'longitude' => 19.8827,
   ),
-  921 => 
+  887 => 
   array (
     'id' => 53323,
     'name' => 'Vlachiótis',
@@ -8299,7 +7993,7 @@ return array (
     'latitude' => 36.86094,
     'longitude' => 22.70831,
   ),
-  922 => 
+  888 => 
   array (
     'id' => 53324,
     'name' => 'Vlachópoulo',
@@ -8308,7 +8002,7 @@ return array (
     'latitude' => 37.03186,
     'longitude' => 21.79158,
   ),
-  923 => 
+  889 => 
   array (
     'id' => 53325,
     'name' => 'Vlycháda',
@@ -8317,7 +8011,7 @@ return array (
     'latitude' => 38.02734,
     'longitude' => 23.43663,
   ),
-  924 => 
+  890 => 
   array (
     'id' => 53326,
     'name' => 'Vokhaïkó',
@@ -8326,7 +8020,7 @@ return array (
     'latitude' => 37.94843,
     'longitude' => 22.79203,
   ),
-  925 => 
+  891 => 
   array (
     'id' => 53327,
     'name' => 'Volos',
@@ -8335,7 +8029,7 @@ return array (
     'latitude' => 39.36103,
     'longitude' => 22.94248,
   ),
-  926 => 
+  892 => 
   array (
     'id' => 53328,
     'name' => 'Voulgaréli',
@@ -8344,7 +8038,7 @@ return array (
     'latitude' => 39.37194,
     'longitude' => 21.18333,
   ),
-  927 => 
+  893 => 
   array (
     'id' => 53329,
     'name' => 'Vouliagméni',
@@ -8353,7 +8047,7 @@ return array (
     'latitude' => 37.81423,
     'longitude' => 23.77892,
   ),
-  928 => 
+  894 => 
   array (
     'id' => 53330,
     'name' => 'Vounoplagiá',
@@ -8362,7 +8056,7 @@ return array (
     'latitude' => 39.69161,
     'longitude' => 20.78597,
   ),
-  929 => 
+  895 => 
   array (
     'id' => 53331,
     'name' => 'Voúla',
@@ -8371,7 +8065,7 @@ return array (
     'latitude' => 37.84221,
     'longitude' => 23.77651,
   ),
-  930 => 
+  896 => 
   array (
     'id' => 53332,
     'name' => 'Vrachnaíika',
@@ -8380,7 +8074,7 @@ return array (
     'latitude' => 38.16253,
     'longitude' => 21.66693,
   ),
-  931 => 
+  897 => 
   array (
     'id' => 53333,
     'name' => 'Vrakháti',
@@ -8389,7 +8083,7 @@ return array (
     'latitude' => 37.95895,
     'longitude' => 22.80573,
   ),
-  932 => 
+  898 => 
   array (
     'id' => 53334,
     'name' => 'Vraná',
@@ -8398,7 +8092,7 @@ return array (
     'latitude' => 38.12497,
     'longitude' => 23.95198,
   ),
-  933 => 
+  899 => 
   array (
     'id' => 53335,
     'name' => 'Vrilissia',
@@ -8407,7 +8101,7 @@ return array (
     'latitude' => 38.03381,
     'longitude' => 23.82962,
   ),
-  934 => 
+  900 => 
   array (
     'id' => 53336,
     'name' => 'Vrontoú',
@@ -8416,7 +8110,7 @@ return array (
     'latitude' => 40.19356,
     'longitude' => 22.43203,
   ),
-  935 => 
+  901 => 
   array (
     'id' => 53337,
     'name' => 'Vrýses',
@@ -8425,7 +8119,7 @@ return array (
     'latitude' => 35.37585,
     'longitude' => 24.20109,
   ),
-  936 => 
+  902 => 
   array (
     'id' => 53338,
     'name' => 'Vágia',
@@ -8434,7 +8128,7 @@ return array (
     'latitude' => 38.31748,
     'longitude' => 23.17752,
   ),
-  937 => 
+  903 => 
   array (
     'id' => 53339,
     'name' => 'Várda',
@@ -8443,7 +8137,7 @@ return array (
     'latitude' => 38.03058,
     'longitude' => 21.36506,
   ),
-  938 => 
+  904 => 
   array (
     'id' => 53340,
     'name' => 'Vári',
@@ -8452,16 +8146,7 @@ return array (
     'latitude' => 37.8332,
     'longitude' => 23.80311,
   ),
-  939 => 
-  array (
-    'id' => 53341,
-    'name' => 'Vári',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 37.39859,
-    'longitude' => 24.94904,
-  ),
-  940 => 
+  905 => 
   array (
     'id' => 53342,
     'name' => 'Vélo',
@@ -8470,7 +8155,7 @@ return array (
     'latitude' => 37.9761,
     'longitude' => 22.75985,
   ),
-  941 => 
+  906 => 
   array (
     'id' => 53343,
     'name' => 'Véroia',
@@ -8479,7 +8164,7 @@ return array (
     'latitude' => 40.52437,
     'longitude' => 22.20242,
   ),
-  942 => 
+  907 => 
   array (
     'id' => 53344,
     'name' => 'Vília',
@@ -8488,7 +8173,7 @@ return array (
     'latitude' => 38.16716,
     'longitude' => 23.33659,
   ),
-  943 => 
+  908 => 
   array (
     'id' => 53345,
     'name' => 'Vólakas',
@@ -8497,7 +8182,7 @@ return array (
     'latitude' => 41.31661,
     'longitude' => 24.00215,
   ),
-  944 => 
+  909 => 
   array (
     'id' => 53346,
     'name' => 'Vónitsa',
@@ -8506,7 +8191,7 @@ return array (
     'latitude' => 38.91639,
     'longitude' => 20.88639,
   ),
-  945 => 
+  910 => 
   array (
     'id' => 53347,
     'name' => 'Výronas',
@@ -8515,7 +8200,7 @@ return array (
     'latitude' => 37.96105,
     'longitude' => 23.753,
   ),
-  946 => 
+  911 => 
   array (
     'id' => 53348,
     'name' => 'Xilópolis',
@@ -8524,7 +8209,7 @@ return array (
     'latitude' => 40.92713,
     'longitude' => 23.17944,
   ),
-  947 => 
+  912 => 
   array (
     'id' => 53349,
     'name' => 'Xinó Neró',
@@ -8533,7 +8218,7 @@ return array (
     'latitude' => 40.69028,
     'longitude' => 21.62324,
   ),
-  948 => 
+  913 => 
   array (
     'id' => 53350,
     'name' => 'Xiropótamos',
@@ -8542,7 +8227,7 @@ return array (
     'latitude' => 41.19206,
     'longitude' => 24.10385,
   ),
-  949 => 
+  914 => 
   array (
     'id' => 53351,
     'name' => 'Xylaganí',
@@ -8551,7 +8236,7 @@ return array (
     'latitude' => 40.97437,
     'longitude' => 25.42022,
   ),
-  950 => 
+  915 => 
   array (
     'id' => 53352,
     'name' => 'Xylókastro',
@@ -8560,7 +8245,7 @@ return array (
     'latitude' => 38.07762,
     'longitude' => 22.63166,
   ),
-  951 => 
+  916 => 
   array (
     'id' => 53353,
     'name' => 'Xánthi',
@@ -8569,7 +8254,7 @@ return array (
     'latitude' => 41.13488,
     'longitude' => 24.888,
   ),
-  952 => 
+  917 => 
   array (
     'id' => 53354,
     'name' => 'Yimnón',
@@ -8578,7 +8263,7 @@ return array (
     'latitude' => 38.44048,
     'longitude' => 23.884,
   ),
-  953 => 
+  918 => 
   array (
     'id' => 53355,
     'name' => 'Ymittos',
@@ -8587,7 +8272,7 @@ return array (
     'latitude' => 37.95342,
     'longitude' => 23.74897,
   ),
-  954 => 
+  919 => 
   array (
     'id' => 53356,
     'name' => 'Zacháro',
@@ -8596,7 +8281,7 @@ return array (
     'latitude' => 37.48333,
     'longitude' => 21.65,
   ),
-  955 => 
+  920 => 
   array (
     'id' => 53357,
     'name' => 'Zagorá',
@@ -8605,7 +8290,7 @@ return array (
     'latitude' => 39.45,
     'longitude' => 23.1,
   ),
-  956 => 
+  921 => 
   array (
     'id' => 53358,
     'name' => 'Zakynthos',
@@ -8614,7 +8299,7 @@ return array (
     'latitude' => 37.78022,
     'longitude' => 20.89555,
   ),
-  957 => 
+  922 => 
   array (
     'id' => 53359,
     'name' => 'Zarós',
@@ -8623,7 +8308,7 @@ return array (
     'latitude' => 35.1303,
     'longitude' => 24.90412,
   ),
-  958 => 
+  923 => 
   array (
     'id' => 53360,
     'name' => 'Zefyri',
@@ -8632,7 +8317,7 @@ return array (
     'latitude' => 38.06647,
     'longitude' => 23.71701,
   ),
-  959 => 
+  924 => 
   array (
     'id' => 53361,
     'name' => 'Zevgolateió',
@@ -8641,7 +8326,7 @@ return array (
     'latitude' => 37.93333,
     'longitude' => 22.8,
   ),
-  960 => 
+  925 => 
   array (
     'id' => 53362,
     'name' => 'Zipári',
@@ -8650,7 +8335,7 @@ return array (
     'latitude' => 36.87696,
     'longitude' => 27.20532,
   ),
-  961 => 
+  926 => 
   array (
     'id' => 53363,
     'name' => 'Zográfos',
@@ -8659,7 +8344,7 @@ return array (
     'latitude' => 37.97574,
     'longitude' => 23.76911,
   ),
-  962 => 
+  927 => 
   array (
     'id' => 53364,
     'name' => 'Zonianá',
@@ -8668,7 +8353,7 @@ return array (
     'latitude' => 35.29502,
     'longitude' => 24.82944,
   ),
-  963 => 
+  928 => 
   array (
     'id' => 53365,
     'name' => 'Zygós',
@@ -8677,7 +8362,7 @@ return array (
     'latitude' => 41.0132,
     'longitude' => 24.38132,
   ),
-  964 => 
+  929 => 
   array (
     'id' => 53366,
     'name' => 'Zárkos',
@@ -8686,7 +8371,7 @@ return array (
     'latitude' => 39.6086,
     'longitude' => 22.12336,
   ),
-  965 => 
+  930 => 
   array (
     'id' => 53367,
     'name' => 'Ádendro',
@@ -8695,7 +8380,7 @@ return array (
     'latitude' => 40.67131,
     'longitude' => 22.60466,
   ),
-  966 => 
+  931 => 
   array (
     'id' => 53368,
     'name' => 'Áfytos',
@@ -8704,7 +8389,7 @@ return array (
     'latitude' => 40.09915,
     'longitude' => 23.4367,
   ),
-  967 => 
+  932 => 
   array (
     'id' => 53369,
     'name' => 'Ágio Pnévma',
@@ -8713,7 +8398,7 @@ return array (
     'latitude' => 41.10142,
     'longitude' => 23.67992,
   ),
-  968 => 
+  933 => 
   array (
     'id' => 53370,
     'name' => 'Ágioi Anárgyroi',
@@ -8722,7 +8407,7 @@ return array (
     'latitude' => 38.03013,
     'longitude' => 23.72379,
   ),
-  969 => 
+  934 => 
   array (
     'id' => 53371,
     'name' => 'Ágioi Déka',
@@ -8731,7 +8416,7 @@ return array (
     'latitude' => 35.06667,
     'longitude' => 24.96667,
   ),
-  970 => 
+  935 => 
   array (
     'id' => 53372,
     'name' => 'Ágioi Theódoroi',
@@ -8740,7 +8425,7 @@ return array (
     'latitude' => 37.92736,
     'longitude' => 23.14221,
   ),
-  971 => 
+  936 => 
   array (
     'id' => 53373,
     'name' => 'Ágios Andréas',
@@ -8749,7 +8434,7 @@ return array (
     'latitude' => 37.34519,
     'longitude' => 22.76466,
   ),
-  972 => 
+  937 => 
   array (
     'id' => 53374,
     'name' => 'Ágios Athanásios',
@@ -8758,16 +8443,7 @@ return array (
     'latitude' => 40.71598,
     'longitude' => 22.72841,
   ),
-  973 => 
-  array (
-    'id' => 53375,
-    'name' => 'Ágios Athanásios',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 41.07463,
-    'longitude' => 24.24545,
-  ),
-  974 => 
+  938 => 
   array (
     'id' => 53376,
     'name' => 'Ágios Geórgios',
@@ -8776,16 +8452,7 @@ return array (
     'latitude' => 38.39343,
     'longitude' => 22.93189,
   ),
-  975 => 
-  array (
-    'id' => 53377,
-    'name' => 'Ágios Geórgios',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.60215,
-    'longitude' => 22.1943,
-  ),
-  976 => 
+  939 => 
   array (
     'id' => 53378,
     'name' => 'Ágios Loukás',
@@ -8794,7 +8461,7 @@ return array (
     'latitude' => 40.71799,
     'longitude' => 22.29545,
   ),
-  977 => 
+  940 => 
   array (
     'id' => 53379,
     'name' => 'Ágios Matthaíos',
@@ -8803,7 +8470,7 @@ return array (
     'latitude' => 39.49506,
     'longitude' => 19.87336,
   ),
-  978 => 
+  941 => 
   array (
     'id' => 53380,
     'name' => 'Ágios Nikólaos',
@@ -8812,16 +8479,7 @@ return array (
     'latitude' => 35.19106,
     'longitude' => 25.71524,
   ),
-  979 => 
-  array (
-    'id' => 53381,
-    'name' => 'Ágios Nikólaos',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 40.24926,
-    'longitude' => 23.69616,
-  ),
-  980 => 
+  942 => 
   array (
     'id' => 53382,
     'name' => 'Ágios Pávlos',
@@ -8830,7 +8488,7 @@ return array (
     'latitude' => 40.64075,
     'longitude' => 22.96039,
   ),
-  981 => 
+  943 => 
   array (
     'id' => 53383,
     'name' => 'Ágios Pétros',
@@ -8839,7 +8497,7 @@ return array (
     'latitude' => 40.86725,
     'longitude' => 22.58298,
   ),
-  982 => 
+  944 => 
   array (
     'id' => 53384,
     'name' => 'Ágios Spyrídon',
@@ -8848,7 +8506,7 @@ return array (
     'latitude' => 40.20778,
     'longitude' => 22.44311,
   ),
-  983 => 
+  945 => 
   array (
     'id' => 53385,
     'name' => 'Ágios Stéfanos',
@@ -8857,7 +8515,7 @@ return array (
     'latitude' => 38.14657,
     'longitude' => 23.85608,
   ),
-  984 => 
+  946 => 
   array (
     'id' => 53386,
     'name' => 'Ágios Vasíleios',
@@ -8866,7 +8524,7 @@ return array (
     'latitude' => 40.66424,
     'longitude' => 23.11373,
   ),
-  985 => 
+  947 => 
   array (
     'id' => 53387,
     'name' => 'Álimos',
@@ -8875,7 +8533,7 @@ return array (
     'latitude' => 37.91033,
     'longitude' => 23.72361,
   ),
-  986 => 
+  948 => 
   array (
     'id' => 53388,
     'name' => 'Álli Meriá',
@@ -8884,7 +8542,7 @@ return array (
     'latitude' => 39.37039,
     'longitude' => 22.9835,
   ),
-  987 => 
+  949 => 
   array (
     'id' => 53389,
     'name' => 'Ámfissa',
@@ -8893,7 +8551,7 @@ return array (
     'latitude' => 38.52813,
     'longitude' => 22.37713,
   ),
-  988 => 
+  950 => 
   array (
     'id' => 53390,
     'name' => 'Áno Kalentíni',
@@ -8902,7 +8560,7 @@ return array (
     'latitude' => 39.25,
     'longitude' => 21.18528,
   ),
-  989 => 
+  951 => 
   array (
     'id' => 53391,
     'name' => 'Áno Kastrítsi',
@@ -8911,7 +8569,7 @@ return array (
     'latitude' => 38.27228,
     'longitude' => 21.836,
   ),
-  990 => 
+  952 => 
   array (
     'id' => 53392,
     'name' => 'Áno Kómi',
@@ -8920,7 +8578,7 @@ return array (
     'latitude' => 40.2266,
     'longitude' => 21.82827,
   ),
-  991 => 
+  953 => 
   array (
     'id' => 53393,
     'name' => 'Áno Lekhónia',
@@ -8929,7 +8587,7 @@ return array (
     'latitude' => 39.32763,
     'longitude' => 23.05395,
   ),
-  992 => 
+  954 => 
   array (
     'id' => 53394,
     'name' => 'Áno Liósia',
@@ -8938,7 +8596,7 @@ return array (
     'latitude' => 38.08333,
     'longitude' => 23.7,
   ),
-  993 => 
+  955 => 
   array (
     'id' => 53395,
     'name' => 'Áno Merá',
@@ -8947,7 +8605,7 @@ return array (
     'latitude' => 37.44904,
     'longitude' => 25.39095,
   ),
-  994 => 
+  956 => 
   array (
     'id' => 53396,
     'name' => 'Áno Sýros',
@@ -8956,7 +8614,7 @@ return array (
     'latitude' => 37.44997,
     'longitude' => 24.93562,
   ),
-  995 => 
+  957 => 
   array (
     'id' => 53397,
     'name' => 'Ápsalos',
@@ -8965,7 +8623,7 @@ return array (
     'latitude' => 40.8924,
     'longitude' => 22.05709,
   ),
-  996 => 
+  958 => 
   array (
     'id' => 53398,
     'name' => 'Áratos',
@@ -8974,7 +8632,7 @@ return array (
     'latitude' => 41.08139,
     'longitude' => 25.55186,
   ),
-  997 => 
+  959 => 
   array (
     'id' => 53399,
     'name' => 'Árgos',
@@ -8983,7 +8641,7 @@ return array (
     'latitude' => 37.63333,
     'longitude' => 22.73333,
   ),
-  998 => 
+  960 => 
   array (
     'id' => 53400,
     'name' => 'Áris',
@@ -8992,7 +8650,7 @@ return array (
     'latitude' => 37.0992,
     'longitude' => 22.00443,
   ),
-  999 => 
+  961 => 
   array (
     'id' => 53401,
     'name' => 'Árma',
@@ -9001,7 +8659,7 @@ return array (
     'latitude' => 38.35121,
     'longitude' => 23.48599,
   ),
-  1000 => 
+  962 => 
   array (
     'id' => 53402,
     'name' => 'Árnissa',
@@ -9010,7 +8668,7 @@ return array (
     'latitude' => 40.79555,
     'longitude' => 21.83577,
   ),
-  1001 => 
+  963 => 
   array (
     'id' => 53403,
     'name' => 'Árta',
@@ -9019,7 +8677,7 @@ return array (
     'latitude' => 39.16014,
     'longitude' => 20.98561,
   ),
-  1002 => 
+  964 => 
   array (
     'id' => 53404,
     'name' => 'Ássiros',
@@ -9028,7 +8686,7 @@ return array (
     'latitude' => 40.82143,
     'longitude' => 23.03008,
   ),
-  1003 => 
+  965 => 
   array (
     'id' => 53405,
     'name' => 'Ássos',
@@ -9037,7 +8695,7 @@ return array (
     'latitude' => 37.93955,
     'longitude' => 22.82223,
   ),
-  1004 => 
+  966 => 
   array (
     'id' => 53406,
     'name' => 'Ástros',
@@ -9046,7 +8704,7 @@ return array (
     'latitude' => 37.40395,
     'longitude' => 22.72118,
   ),
-  1005 => 
+  967 => 
   array (
     'id' => 53407,
     'name' => 'Áthyra',
@@ -9055,7 +8713,7 @@ return array (
     'latitude' => 40.82615,
     'longitude' => 22.59279,
   ),
-  1006 => 
+  968 => 
   array (
     'id' => 53408,
     'name' => 'Ávato',
@@ -9064,7 +8722,7 @@ return array (
     'latitude' => 40.96279,
     'longitude' => 24.80441,
   ),
-  1007 => 
+  969 => 
   array (
     'id' => 53409,
     'name' => 'Áyioi Apóstoloi',
@@ -9073,7 +8731,7 @@ return array (
     'latitude' => 38.29169,
     'longitude' => 23.91011,
   ),
-  1008 => 
+  970 => 
   array (
     'id' => 53410,
     'name' => 'Áyios Adhrianós',
@@ -9082,7 +8740,7 @@ return array (
     'latitude' => 37.59975,
     'longitude' => 22.8456,
   ),
-  1009 => 
+  971 => 
   array (
     'id' => 53411,
     'name' => 'Áyios Konstandínos',
@@ -9091,16 +8749,7 @@ return array (
     'latitude' => 38.63337,
     'longitude' => 21.3995,
   ),
-  1010 => 
-  array (
-    'id' => 53412,
-    'name' => 'Áyios Konstandínos',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 38.75612,
-    'longitude' => 22.85757,
-  ),
-  1011 => 
+  972 => 
   array (
     'id' => 53413,
     'name' => 'Áyios Nikólaos',
@@ -9109,7 +8758,7 @@ return array (
     'latitude' => 38.42051,
     'longitude' => 23.64772,
   ),
-  1012 => 
+  973 => 
   array (
     'id' => 53414,
     'name' => 'Áyios Thomás',
@@ -9118,7 +8767,7 @@ return array (
     'latitude' => 38.27717,
     'longitude' => 23.58906,
   ),
-  1013 => 
+  974 => 
   array (
     'id' => 53415,
     'name' => 'Áyios Vasílios',
@@ -9127,7 +8776,7 @@ return array (
     'latitude' => 37.79763,
     'longitude' => 22.79727,
   ),
-  1014 => 
+  975 => 
   array (
     'id' => 53416,
     'name' => 'Édessa',
@@ -9136,7 +8785,7 @@ return array (
     'latitude' => 40.8026,
     'longitude' => 22.04751,
   ),
-  1015 => 
+  976 => 
   array (
     'id' => 53417,
     'name' => 'Émponas',
@@ -9145,7 +8794,7 @@ return array (
     'latitude' => 36.22683,
     'longitude' => 27.85645,
   ),
-  1016 => 
+  977 => 
   array (
     'id' => 53418,
     'name' => 'Évlalo',
@@ -9154,7 +8803,7 @@ return array (
     'latitude' => 40.98333,
     'longitude' => 24.8,
   ),
-  1017 => 
+  978 => 
   array (
     'id' => 53419,
     'name' => 'Évosmos',
@@ -9163,7 +8812,7 @@ return array (
     'latitude' => 40.67056,
     'longitude' => 22.90833,
   ),
-  1018 => 
+  979 => 
   array (
     'id' => 53420,
     'name' => 'Íasmos',
@@ -9172,7 +8821,7 @@ return array (
     'latitude' => 41.12747,
     'longitude' => 25.18573,
   ),
-  1019 => 
+  980 => 
   array (
     'id' => 53421,
     'name' => 'Ílion',
@@ -9181,7 +8830,7 @@ return array (
     'latitude' => 38.03333,
     'longitude' => 23.7,
   ),
-  1020 => 
+  981 => 
   array (
     'id' => 53422,
     'name' => 'Íos',
@@ -9190,7 +8839,7 @@ return array (
     'latitude' => 36.73333,
     'longitude' => 25.28333,
   ),
-  1021 => 
+  982 => 
   array (
     'id' => 53423,
     'name' => 'Ólynthos',
@@ -9199,7 +8848,7 @@ return array (
     'latitude' => 40.29147,
     'longitude' => 23.34205,
   ),
-  1022 => 
+  983 => 
   array (
     'id' => 53424,
     'name' => 'Ýdra',
@@ -9208,7 +8857,7 @@ return array (
     'latitude' => 37.34976,
     'longitude' => 23.4656,
   ),
-  1023 => 
+  984 => 
   array (
     'id' => 153541,
     'name' => 'Heraklion',
@@ -9217,7 +8866,7 @@ return array (
     'latitude' => 35.3387,
     'longitude' => 25.1442,
   ),
-  1024 => 
+  985 => 
   array (
     'id' => 154183,
     'name' => 'Evros',
@@ -9226,7 +8875,7 @@ return array (
     'latitude' => 41.0657898,
     'longitude' => 24.719878,
   ),
-  1025 => 
+  986 => 
   array (
     'id' => 154184,
     'name' => 'Drama',
@@ -9235,7 +8884,7 @@ return array (
     'latitude' => 41.2698592,
     'longitude' => 23.5442795,
   ),
-  1026 => 
+  987 => 
   array (
     'id' => 154185,
     'name' => 'Rhodope',
@@ -9244,7 +8893,7 @@ return array (
     'latitude' => 41.1026544,
     'longitude' => 25.1748878,
   ),
-  1027 => 
+  988 => 
   array (
     'id' => 154186,
     'name' => 'Kavala',
@@ -9253,7 +8902,7 @@ return array (
     'latitude' => 40.962738,
     'longitude' => 24.0026949,
   ),
-  1028 => 
+  989 => 
   array (
     'id' => 154187,
     'name' => 'Xanthi',
@@ -9262,7 +8911,7 @@ return array (
     'latitude' => 41.1270648,
     'longitude' => 24.5132893,
   ),
-  1029 => 
+  990 => 
   array (
     'id' => 154188,
     'name' => 'Alexandroupolis',
@@ -9271,7 +8920,7 @@ return array (
     'latitude' => 40.849166,
     'longitude' => 25.8547107,
   ),
-  1030 => 
+  991 => 
   array (
     'id' => 154189,
     'name' => 'Didymoteicho',
@@ -9280,7 +8929,7 @@ return array (
     'latitude' => 41.349858,
     'longitude' => 26.4868266,
   ),
-  1031 => 
+  992 => 
   array (
     'id' => 154190,
     'name' => 'Orestiada',
@@ -9289,7 +8938,7 @@ return array (
     'latitude' => 41.5043779,
     'longitude' => 26.4534423,
   ),
-  1032 => 
+  993 => 
   array (
     'id' => 154191,
     'name' => 'Samothrace',
@@ -9298,7 +8947,7 @@ return array (
     'latitude' => 40.4514239,
     'longitude' => 25.4067672,
   ),
-  1033 => 
+  994 => 
   array (
     'id' => 154192,
     'name' => 'Soufli',
@@ -9307,7 +8956,7 @@ return array (
     'latitude' => 41.1794307,
     'longitude' => 25.8528596,
   ),
-  1034 => 
+  995 => 
   array (
     'id' => 154193,
     'name' => 'Doxato',
@@ -9316,7 +8965,7 @@ return array (
     'latitude' => 41.0926285,
     'longitude' => 24.2197993,
   ),
-  1035 => 
+  996 => 
   array (
     'id' => 154194,
     'name' => 'Kato Nevrokopi',
@@ -9325,7 +8974,7 @@ return array (
     'latitude' => 41.3422444,
     'longitude' => 23.8569312,
   ),
-  1036 => 
+  997 => 
   array (
     'id' => 154195,
     'name' => 'Paranesti',
@@ -9334,7 +8983,7 @@ return array (
     'latitude' => 41.2677108,
     'longitude' => 24.4947093,
   ),
-  1037 => 
+  998 => 
   array (
     'id' => 154196,
     'name' => 'Prosotsani',
@@ -9343,7 +8992,7 @@ return array (
     'latitude' => 41.1812894,
     'longitude' => 23.9617749,
   ),
-  1038 => 
+  999 => 
   array (
     'id' => 154197,
     'name' => 'Arriana',
@@ -9352,7 +9001,7 @@ return array (
     'latitude' => 41.0821078,
     'longitude' => 25.6903593,
   ),
-  1039 => 
+  1000 => 
   array (
     'id' => 154198,
     'name' => 'Iasmos',
@@ -9361,7 +9010,7 @@ return array (
     'latitude' => 41.1262512,
     'longitude' => 25.1742861,
   ),
-  1040 => 
+  1001 => 
   array (
     'id' => 154199,
     'name' => 'Komotini',
@@ -9370,7 +9019,7 @@ return array (
     'latitude' => 41.1181272,
     'longitude' => 25.3863295,
   ),
-  1041 => 
+  1002 => 
   array (
     'id' => 154200,
     'name' => 'Maroneia-Sapes',
@@ -9379,7 +9028,7 @@ return array (
     'latitude' => 40.9967086,
     'longitude' => 25.4972172,
   ),
-  1042 => 
+  1003 => 
   array (
     'id' => 154201,
     'name' => 'Pangaio',
@@ -9388,7 +9037,7 @@ return array (
     'latitude' => 40.862375,
     'longitude' => 23.7791664,
   ),
-  1043 => 
+  1004 => 
   array (
     'id' => 154202,
     'name' => 'Myki',
@@ -9397,7 +9046,7 @@ return array (
     'latitude' => 41.2449567,
     'longitude' => 24.9148614,
   ),
-  1044 => 
+  1005 => 
   array (
     'id' => 154203,
     'name' => 'Topeiros',
@@ -9406,7 +9055,7 @@ return array (
     'latitude' => 41.0101736,
     'longitude' => 24.4743152,
   ),
-  1045 => 
+  1006 => 
   array (
     'id' => 154204,
     'name' => 'Karditsa',
@@ -9415,7 +9064,7 @@ return array (
     'latitude' => 39.290949,
     'longitude' => 21.476486,
   ),
-  1046 => 
+  1007 => 
   array (
     'id' => 154205,
     'name' => 'Larissa',
@@ -9424,7 +9073,7 @@ return array (
     'latitude' => 39.6283748,
     'longitude' => 22.1801145,
   ),
-  1047 => 
+  1008 => 
   array (
     'id' => 154206,
     'name' => 'Magnesia',
@@ -9433,7 +9082,7 @@ return array (
     'latitude' => 39.2855218,
     'longitude' => 22.2614493,
   ),
-  1048 => 
+  1009 => 
   array (
     'id' => 154207,
     'name' => 'Sporades',
@@ -9442,7 +9091,7 @@ return array (
     'latitude' => 39.2694801,
     'longitude' => 23.5302368,
   ),
-  1049 => 
+  1010 => 
   array (
     'id' => 154208,
     'name' => 'Trikala',
@@ -9451,7 +9100,7 @@ return array (
     'latitude' => 39.6274703,
     'longitude' => 21.0134613,
   ),
-  1050 => 
+  1011 => 
   array (
     'id' => 154209,
     'name' => 'Argithea',
@@ -9460,7 +9109,7 @@ return array (
     'latitude' => 39.3593096,
     'longitude' => 21.5270906,
   ),
-  1051 => 
+  1012 => 
   array (
     'id' => 154210,
     'name' => 'Lake Plastiras',
@@ -9469,16 +9118,7 @@ return array (
     'latitude' => 39.3010872,
     'longitude' => 21.5642521,
   ),
-  1052 => 
-  array (
-    'id' => 154211,
-    'name' => 'Mouzaki',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 39.4278035,
-    'longitude' => 21.6521625,
-  ),
-  1053 => 
+  1013 => 
   array (
     'id' => 154212,
     'name' => 'Palamas',
@@ -9487,7 +9127,7 @@ return array (
     'latitude' => 39.4661894,
     'longitude' => 22.0632778,
   ),
-  1054 => 
+  1014 => 
   array (
     'id' => 154213,
     'name' => 'Sofades',
@@ -9496,7 +9136,7 @@ return array (
     'latitude' => 39.3356899,
     'longitude' => 22.0770513,
   ),
-  1055 => 
+  1015 => 
   array (
     'id' => 154214,
     'name' => 'Agia',
@@ -9505,7 +9145,7 @@ return array (
     'latitude' => 39.7179466,
     'longitude' => 22.7461475,
   ),
-  1056 => 
+  1016 => 
   array (
     'id' => 154215,
     'name' => 'Elassona',
@@ -9514,7 +9154,7 @@ return array (
     'latitude' => 39.8900566,
     'longitude' => 22.1792011,
   ),
-  1057 => 
+  1017 => 
   array (
     'id' => 154216,
     'name' => 'Farsala',
@@ -9523,7 +9163,7 @@ return array (
     'latitude' => 39.296579,
     'longitude' => 22.36031,
   ),
-  1058 => 
+  1018 => 
   array (
     'id' => 154217,
     'name' => 'Kileler',
@@ -9532,7 +9172,7 @@ return array (
     'latitude' => 39.5049665,
     'longitude' => 22.6286141,
   ),
-  1059 => 
+  1019 => 
   array (
     'id' => 154219,
     'name' => 'Tempi',
@@ -9541,7 +9181,7 @@ return array (
     'latitude' => 39.8593749,
     'longitude' => 22.5284198,
   ),
-  1060 => 
+  1020 => 
   array (
     'id' => 154220,
     'name' => 'Tyrnavos',
@@ -9550,7 +9190,7 @@ return array (
     'latitude' => 39.7405486,
     'longitude' => 22.265109,
   ),
-  1061 => 
+  1021 => 
   array (
     'id' => 154221,
     'name' => 'Almyros',
@@ -9559,7 +9199,7 @@ return array (
     'latitude' => 39.1826301,
     'longitude' => 22.7501588,
   ),
-  1062 => 
+  1022 => 
   array (
     'id' => 154222,
     'name' => 'Rigas Feraios',
@@ -9568,7 +9208,7 @@ return array (
     'latitude' => 39.4319329,
     'longitude' => 22.4907738,
   ),
-  1063 => 
+  1023 => 
   array (
     'id' => 154223,
     'name' => 'South Pelion',
@@ -9577,16 +9217,7 @@ return array (
     'latitude' => 39.2328712,
     'longitude' => 22.8690876,
   ),
-  1064 => 
-  array (
-    'id' => 154224,
-    'name' => 'Volos',
-    'country_id' => 85,
-    'country_code' => 'GR',
-    'latitude' => 39.3652645,
-    'longitude' => 22.9061203,
-  ),
-  1065 => 
+  1024 => 
   array (
     'id' => 154225,
     'name' => 'Zagora-Mouresi',
@@ -9595,7 +9226,7 @@ return array (
     'latitude' => 39.4381789,
     'longitude' => 22.9406918,
   ),
-  1066 => 
+  1025 => 
   array (
     'id' => 154226,
     'name' => 'Alonnisos',
@@ -9604,7 +9235,7 @@ return array (
     'latitude' => 39.1498265,
     'longitude' => 23.8425617,
   ),
-  1067 => 
+  1026 => 
   array (
     'id' => 154227,
     'name' => 'Skiathos',
@@ -9613,7 +9244,7 @@ return array (
     'latitude' => 39.1667413,
     'longitude' => 23.4761508,
   ),
-  1068 => 
+  1027 => 
   array (
     'id' => 154228,
     'name' => 'Skopelos',
@@ -9622,7 +9253,7 @@ return array (
     'latitude' => 39.1190126,
     'longitude' => 23.7224244,
   ),
-  1069 => 
+  1028 => 
   array (
     'id' => 154229,
     'name' => 'Farkadona',
@@ -9631,7 +9262,7 @@ return array (
     'latitude' => 39.5926028,
     'longitude' => 22.0575341,
   ),
-  1070 => 
+  1029 => 
   array (
     'id' => 154230,
     'name' => 'Kalampaka',
@@ -9640,7 +9271,7 @@ return array (
     'latitude' => 39.7044204,
     'longitude' => 21.6173882,
   ),
-  1071 => 
+  1030 => 
   array (
     'id' => 154231,
     'name' => 'Pyli',
@@ -9649,7 +9280,7 @@ return array (
     'latitude' => 39.4596818,
     'longitude' => 21.6113291,
   ),
-  1072 => 
+  1031 => 
   array (
     'id' => 154232,
     'name' => 'Agiou Pavlou',
@@ -9658,7 +9289,7 @@ return array (
     'latitude' => 40.160417,
     'longitude' => 24.2882986,
   ),
-  1073 => 
+  1032 => 
   array (
     'id' => 154233,
     'name' => 'Dionysiou',
@@ -9667,7 +9298,7 @@ return array (
     'latitude' => 40.1682855,
     'longitude' => 24.2718839,
   ),
-  1074 => 
+  1033 => 
   array (
     'id' => 154234,
     'name' => 'Osiou Gregoriou',
@@ -9676,7 +9307,7 @@ return array (
     'latitude' => 40.1955136,
     'longitude' => 24.1974812,
   ),
-  1075 => 
+  1034 => 
   array (
     'id' => 154235,
     'name' => 'Simonopetra',
@@ -9685,7 +9316,7 @@ return array (
     'latitude' => 40.1908988,
     'longitude' => 24.2447271,
   ),
-  1076 => 
+  1035 => 
   array (
     'id' => 154236,
     'name' => 'Xeropotamou',
@@ -9694,7 +9325,7 @@ return array (
     'latitude' => 40.2349446,
     'longitude' => 24.1485644,
   ),
-  1077 => 
+  1036 => 
   array (
     'id' => 154237,
     'name' => 'St. Panteleimon',
@@ -9703,7 +9334,7 @@ return array (
     'latitude' => 40.2378439,
     'longitude' => 24.1987318,
   ),
-  1078 => 
+  1037 => 
   array (
     'id' => 154238,
     'name' => 'Xenophontos',
@@ -9712,7 +9343,7 @@ return array (
     'latitude' => 40.2586399,
     'longitude' => 24.176092,
   ),
-  1079 => 
+  1038 => 
   array (
     'id' => 154239,
     'name' => 'Docheiariou',
@@ -9721,7 +9352,7 @@ return array (
     'latitude' => 40.2679135,
     'longitude' => 24.1641472,
   ),
-  1080 => 
+  1039 => 
   array (
     'id' => 154240,
     'name' => 'Konstamonitou',
@@ -9730,7 +9361,7 @@ return array (
     'latitude' => 40.2886739,
     'longitude' => 24.1723228,
   ),
-  1081 => 
+  1040 => 
   array (
     'id' => 154241,
     'name' => 'Zografou',
@@ -9739,7 +9370,7 @@ return array (
     'latitude' => 40.3062721,
     'longitude' => 24.1576616,
   ),
-  1082 => 
+  1041 => 
   array (
     'id' => 154242,
     'name' => 'Hilandar',
@@ -9748,7 +9379,7 @@ return array (
     'latitude' => 40.3400108,
     'longitude' => 24.1180966,
   ),
-  1083 => 
+  1042 => 
   array (
     'id' => 154243,
     'name' => 'Esphigmenou',
@@ -9757,7 +9388,7 @@ return array (
     'latitude' => 40.3526124,
     'longitude' => 24.1355338,
   ),
-  1084 => 
+  1043 => 
   array (
     'id' => 154244,
     'name' => 'Vatopedi',
@@ -9766,7 +9397,7 @@ return array (
     'latitude' => 40.3147582,
     'longitude' => 24.2083269,
   ),
-  1085 => 
+  1044 => 
   array (
     'id' => 154245,
     'name' => 'Pantokratoros',
@@ -9775,7 +9406,7 @@ return array (
     'latitude' => 40.2791829,
     'longitude' => 24.2339853,
   ),
-  1086 => 
+  1045 => 
   array (
     'id' => 154246,
     'name' => 'Stavronikita',
@@ -9784,7 +9415,7 @@ return array (
     'latitude' => 40.2673189,
     'longitude' => 24.2734189,
   ),
-  1087 => 
+  1046 => 
   array (
     'id' => 154247,
     'name' => 'Koutloumousiou',
@@ -9793,7 +9424,7 @@ return array (
     'latitude' => 40.2531634,
     'longitude' => 24.2452006,
   ),
-  1088 => 
+  1047 => 
   array (
     'id' => 154248,
     'name' => 'Iviron',
@@ -9802,7 +9433,7 @@ return array (
     'latitude' => 40.2460732,
     'longitude' => 24.2823018,
   ),
-  1089 => 
+  1048 => 
   array (
     'id' => 154249,
     'name' => 'Philotheou ',
@@ -9811,7 +9442,7 @@ return array (
     'latitude' => 40.2256458,
     'longitude' => 24.2886713,
   ),
-  1090 => 
+  1049 => 
   array (
     'id' => 154250,
     'name' => 'Karakallou',
@@ -9820,7 +9451,7 @@ return array (
     'latitude' => 40.2234118,
     'longitude' => 24.306265,
   ),
-  1091 => 
+  1050 => 
   array (
     'id' => 154251,
     'name' => 'Megisti Lavra',
@@ -9829,7 +9460,7 @@ return array (
     'latitude' => 40.1708291,
     'longitude' => 24.3801444,
   ),
-  1092 => 
+  1051 => 
   array (
     'id' => 154252,
     'name' => 'Chios',
@@ -9838,7 +9469,7 @@ return array (
     'latitude' => 38.374514,
     'longitude' => 26.0894052,
   ),
-  1093 => 
+  1052 => 
   array (
     'id' => 154253,
     'name' => 'Ikaria',
@@ -9847,7 +9478,7 @@ return array (
     'latitude' => 37.5973962,
     'longitude' => 25.9416643,
   ),
-  1094 => 
+  1053 => 
   array (
     'id' => 154254,
     'name' => 'Lemnos',
@@ -9856,7 +9487,7 @@ return array (
     'latitude' => 39.9090413,
     'longitude' => 25.0755253,
   ),
-  1095 => 
+  1054 => 
   array (
     'id' => 154255,
     'name' => 'Lesbos',
@@ -9865,7 +9496,7 @@ return array (
     'latitude' => 39.1710726,
     'longitude' => 25.0409859,
   ),
-  1096 => 
+  1055 => 
   array (
     'id' => 154256,
     'name' => 'Samos',
@@ -9874,7 +9505,7 @@ return array (
     'latitude' => 37.7135674,
     'longitude' => 25.6351504,
   ),
-  1097 => 
+  1056 => 
   array (
     'id' => 154257,
     'name' => 'Oinousses',
@@ -9883,7 +9514,7 @@ return array (
     'latitude' => 38.5145746,
     'longitude' => 26.215269,
   ),
-  1098 => 
+  1057 => 
   array (
     'id' => 154258,
     'name' => 'Psara',
@@ -9892,7 +9523,7 @@ return array (
     'latitude' => 38.5414418,
     'longitude' => 25.5584773,
   ),
-  1099 => 
+  1058 => 
   array (
     'id' => 154259,
     'name' => 'Fournoi Korseon',
@@ -9901,7 +9532,7 @@ return array (
     'latitude' => 37.5797847,
     'longitude' => 26.3176132,
   ),
-  1100 => 
+  1059 => 
   array (
     'id' => 154260,
     'name' => 'Agios Efstratios',
@@ -9910,7 +9541,7 @@ return array (
     'latitude' => 39.539105,
     'longitude' => 24.9845113,
   ),
-  1101 => 
+  1060 => 
   array (
     'id' => 154261,
     'name' => 'Mytilene ',
@@ -9919,7 +9550,7 @@ return array (
     'latitude' => 39.0995382,
     'longitude' => 26.5154529,
   ),
-  1102 => 
+  1061 => 
   array (
     'id' => 154262,
     'name' => 'West Lesbos',

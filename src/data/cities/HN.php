@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -399,15 +399,6 @@ return array (
   ),
   44 => 
   array (
-    'id' => 53879,
-    'name' => 'Cabañas',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.99419,
-    'longitude' => -88.02864,
-  ),
-  45 => 
-  array (
     'id' => 53880,
     'name' => 'Callejones',
     'country_id' => 97,
@@ -415,7 +406,7 @@ return array (
     'latitude' => 15.16667,
     'longitude' => -88.65,
   ),
-  46 => 
+  45 => 
   array (
     'id' => 53881,
     'name' => 'Camalote',
@@ -424,7 +415,7 @@ return array (
     'latitude' => 15.33333,
     'longitude' => -88.33333,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 53882,
     'name' => 'Camasca',
@@ -433,7 +424,7 @@ return array (
     'latitude' => 14.0,
     'longitude' => -88.38333,
   ),
-  48 => 
+  47 => 
   array (
     'id' => 53883,
     'name' => 'Campamento',
@@ -442,7 +433,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => -86.65,
   ),
-  49 => 
+  48 => 
   array (
     'id' => 53884,
     'name' => 'Candelaria',
@@ -451,7 +442,7 @@ return array (
     'latitude' => 14.06072,
     'longitude' => -88.55913,
   ),
-  50 => 
+  49 => 
   array (
     'id' => 53885,
     'name' => 'Cane',
@@ -460,7 +451,7 @@ return array (
     'latitude' => 14.28333,
     'longitude' => -87.66667,
   ),
-  51 => 
+  50 => 
   array (
     'id' => 53886,
     'name' => 'Carbajales',
@@ -469,7 +460,7 @@ return array (
     'latitude' => 15.51667,
     'longitude' => -86.35,
   ),
-  52 => 
+  51 => 
   array (
     'id' => 53887,
     'name' => 'Caridad',
@@ -478,7 +469,7 @@ return array (
     'latitude' => 13.81562,
     'longitude' => -87.68121,
   ),
-  53 => 
+  52 => 
   array (
     'id' => 53888,
     'name' => 'Casa Quemada',
@@ -487,16 +478,7 @@ return array (
     'latitude' => 15.26667,
     'longitude' => -88.55,
   ),
-  54 => 
-  array (
-    'id' => 53889,
-    'name' => 'Casa Quemada',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.11667,
-    'longitude' => -88.08333,
-  ),
-  55 => 
+  53 => 
   array (
     'id' => 53890,
     'name' => 'Catacamas',
@@ -505,7 +487,7 @@ return array (
     'latitude' => 14.60384,
     'longitude' => -85.54261,
   ),
-  56 => 
+  54 => 
   array (
     'id' => 53891,
     'name' => 'Cañaveral',
@@ -514,7 +496,7 @@ return array (
     'latitude' => 14.98333,
     'longitude' => -88.01667,
   ),
-  57 => 
+  55 => 
   array (
     'id' => 53892,
     'name' => 'Cedros',
@@ -523,7 +505,7 @@ return array (
     'latitude' => 14.50464,
     'longitude' => -87.2168,
   ),
-  58 => 
+  56 => 
   array (
     'id' => 53893,
     'name' => 'Ceguaca',
@@ -532,7 +514,7 @@ return array (
     'latitude' => 14.8,
     'longitude' => -88.2,
   ),
-  59 => 
+  57 => 
   array (
     'id' => 53894,
     'name' => 'Cerro Blanco',
@@ -541,7 +523,7 @@ return array (
     'latitude' => 14.66667,
     'longitude' => -87.78333,
   ),
-  60 => 
+  58 => 
   array (
     'id' => 53895,
     'name' => 'Cerro Grande',
@@ -550,7 +532,7 @@ return array (
     'latitude' => 13.81667,
     'longitude' => -87.25,
   ),
-  61 => 
+  59 => 
   array (
     'id' => 53896,
     'name' => 'Chalmeca',
@@ -559,7 +541,7 @@ return array (
     'latitude' => 15.1,
     'longitude' => -88.68333,
   ),
-  62 => 
+  60 => 
   array (
     'id' => 53897,
     'name' => 'Chinacla',
@@ -568,7 +550,7 @@ return array (
     'latitude' => 14.18289,
     'longitude' => -87.95395,
   ),
-  63 => 
+  61 => 
   array (
     'id' => 53898,
     'name' => 'Chinda',
@@ -577,7 +559,7 @@ return array (
     'latitude' => 15.11667,
     'longitude' => -88.2,
   ),
-  64 => 
+  62 => 
   array (
     'id' => 53899,
     'name' => 'Chivana',
@@ -586,7 +568,7 @@ return array (
     'latitude' => 15.75,
     'longitude' => -87.98333,
   ),
-  65 => 
+  63 => 
   array (
     'id' => 53900,
     'name' => 'Choloma',
@@ -595,7 +577,7 @@ return array (
     'latitude' => 15.64,
     'longitude' => -87.92,
   ),
-  66 => 
+  64 => 
   array (
     'id' => 53901,
     'name' => 'Choluteca',
@@ -604,7 +586,7 @@ return array (
     'latitude' => 13.28261,
     'longitude' => -87.20119,
   ),
-  67 => 
+  65 => 
   array (
     'id' => 53902,
     'name' => 'Chotepe',
@@ -613,7 +595,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => -87.98333,
   ),
-  68 => 
+  66 => 
   array (
     'id' => 53903,
     'name' => 'Ciudad Choluteca',
@@ -622,7 +604,7 @@ return array (
     'latitude' => 13.30028,
     'longitude' => -87.19083,
   ),
-  69 => 
+  67 => 
   array (
     'id' => 53904,
     'name' => 'Cofradía',
@@ -631,16 +613,7 @@ return array (
     'latitude' => 15.4,
     'longitude' => -88.15,
   ),
-  70 => 
-  array (
-    'id' => 53905,
-    'name' => 'Cofradía',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.21667,
-    'longitude' => -87.18333,
-  ),
-  71 => 
+  68 => 
   array (
     'id' => 53906,
     'name' => 'Cololaca',
@@ -649,7 +622,7 @@ return array (
     'latitude' => 14.31189,
     'longitude' => -88.8772,
   ),
-  72 => 
+  69 => 
   array (
     'id' => 53907,
     'name' => 'Colomoncagua',
@@ -658,7 +631,7 @@ return array (
     'latitude' => 13.97245,
     'longitude' => -88.27673,
   ),
-  73 => 
+  70 => 
   array (
     'id' => 53908,
     'name' => 'Comayagua',
@@ -667,7 +640,7 @@ return array (
     'latitude' => 14.48412,
     'longitude' => -87.6006,
   ),
-  74 => 
+  71 => 
   array (
     'id' => 53909,
     'name' => 'Concepción',
@@ -676,25 +649,7 @@ return array (
     'latitude' => 14.52383,
     'longitude' => -89.19371,
   ),
-  75 => 
-  array (
-    'id' => 53910,
-    'name' => 'Concepción',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.04725,
-    'longitude' => -88.31942,
-  ),
-  76 => 
-  array (
-    'id' => 53911,
-    'name' => 'Concepción',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.88077,
-    'longitude' => -88.87919,
-  ),
-  77 => 
+  72 => 
   array (
     'id' => 53912,
     'name' => 'Concepción de Guasistagua',
@@ -703,7 +658,7 @@ return array (
     'latitude' => 14.6,
     'longitude' => -87.65,
   ),
-  78 => 
+  73 => 
   array (
     'id' => 53913,
     'name' => 'Concepción de María',
@@ -712,7 +667,7 @@ return array (
     'latitude' => 13.22363,
     'longitude' => -86.96244,
   ),
-  79 => 
+  74 => 
   array (
     'id' => 53914,
     'name' => 'Concepción de la Barranca',
@@ -721,7 +676,7 @@ return array (
     'latitude' => 15.16667,
     'longitude' => -88.71667,
   ),
-  80 => 
+  75 => 
   array (
     'id' => 53915,
     'name' => 'Concepción del Norte',
@@ -730,7 +685,7 @@ return array (
     'latitude' => 15.20227,
     'longitude' => -88.13728,
   ),
-  81 => 
+  76 => 
   array (
     'id' => 53916,
     'name' => 'Concepción del Sur',
@@ -739,7 +694,7 @@ return array (
     'latitude' => 14.81263,
     'longitude' => -88.15316,
   ),
-  82 => 
+  77 => 
   array (
     'id' => 53917,
     'name' => 'Concordia',
@@ -748,7 +703,7 @@ return array (
     'latitude' => 14.61667,
     'longitude' => -86.65,
   ),
-  83 => 
+  78 => 
   array (
     'id' => 53918,
     'name' => 'Copán',
@@ -757,7 +712,7 @@ return array (
     'latitude' => 14.83333,
     'longitude' => -89.15,
   ),
-  84 => 
+  79 => 
   array (
     'id' => 53919,
     'name' => 'Copán Ruinas',
@@ -766,7 +721,7 @@ return array (
     'latitude' => 14.92,
     'longitude' => -89.15,
   ),
-  85 => 
+  80 => 
   array (
     'id' => 53920,
     'name' => 'Corocito',
@@ -775,7 +730,7 @@ return array (
     'latitude' => 15.75,
     'longitude' => -85.78333,
   ),
-  86 => 
+  81 => 
   array (
     'id' => 53921,
     'name' => 'Corozal',
@@ -784,7 +739,7 @@ return array (
     'latitude' => 15.8,
     'longitude' => -86.71667,
   ),
-  87 => 
+  82 => 
   array (
     'id' => 53922,
     'name' => 'Corpus',
@@ -793,7 +748,7 @@ return array (
     'latitude' => 13.28889,
     'longitude' => -87.03472,
   ),
-  88 => 
+  83 => 
   array (
     'id' => 53923,
     'name' => 'Corquín',
@@ -802,7 +757,7 @@ return array (
     'latitude' => 14.56667,
     'longitude' => -88.86667,
   ),
-  89 => 
+  84 => 
   array (
     'id' => 53924,
     'name' => 'Correderos',
@@ -811,7 +766,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => -88.45,
   ),
-  90 => 
+  85 => 
   array (
     'id' => 53925,
     'name' => 'Coxen Hole',
@@ -820,7 +775,7 @@ return array (
     'latitude' => 16.31759,
     'longitude' => -86.53793,
   ),
-  91 => 
+  86 => 
   array (
     'id' => 53926,
     'name' => 'Coyoles Central',
@@ -829,7 +784,7 @@ return array (
     'latitude' => 15.4,
     'longitude' => -86.66667,
   ),
-  92 => 
+  87 => 
   array (
     'id' => 53927,
     'name' => 'Cucuyagua',
@@ -838,7 +793,7 @@ return array (
     'latitude' => 14.65,
     'longitude' => -88.86667,
   ),
-  93 => 
+  88 => 
   array (
     'id' => 53928,
     'name' => 'Curarén',
@@ -847,7 +802,7 @@ return array (
     'latitude' => 13.83,
     'longitude' => -87.57,
   ),
-  94 => 
+  89 => 
   array (
     'id' => 53929,
     'name' => 'Cusuna',
@@ -856,7 +811,7 @@ return array (
     'latitude' => 15.85,
     'longitude' => -85.23333,
   ),
-  95 => 
+  90 => 
   array (
     'id' => 53930,
     'name' => 'Cuyalí',
@@ -865,7 +820,7 @@ return array (
     'latitude' => 13.88333,
     'longitude' => -86.55,
   ),
-  96 => 
+  91 => 
   array (
     'id' => 53931,
     'name' => 'Cuyamel',
@@ -874,7 +829,7 @@ return array (
     'latitude' => 15.66667,
     'longitude' => -88.2,
   ),
-  97 => 
+  92 => 
   array (
     'id' => 53932,
     'name' => 'Danlí',
@@ -883,7 +838,7 @@ return array (
     'latitude' => 14.03333,
     'longitude' => -86.58333,
   ),
-  98 => 
+  93 => 
   array (
     'id' => 53933,
     'name' => 'Distrito Central',
@@ -892,7 +847,7 @@ return array (
     'latitude' => 14.14975,
     'longitude' => -87.24806,
   ),
-  99 => 
+  94 => 
   array (
     'id' => 53934,
     'name' => 'Dolores',
@@ -901,16 +856,7 @@ return array (
     'latitude' => 14.86667,
     'longitude' => -88.83333,
   ),
-  100 => 
-  array (
-    'id' => 53935,
-    'name' => 'Dolores',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.26188,
-    'longitude' => -88.35787,
-  ),
-  101 => 
+  95 => 
   array (
     'id' => 53936,
     'name' => 'Dolores Merendón',
@@ -919,7 +865,7 @@ return array (
     'latitude' => 14.55095,
     'longitude' => -89.12493,
   ),
-  102 => 
+  96 => 
   array (
     'id' => 53937,
     'name' => 'Dulce Nombre',
@@ -928,7 +874,7 @@ return array (
     'latitude' => 14.85552,
     'longitude' => -88.83856,
   ),
-  103 => 
+  97 => 
   array (
     'id' => 53938,
     'name' => 'Dulce Nombre de Culmí',
@@ -937,7 +883,7 @@ return array (
     'latitude' => 15.1,
     'longitude' => -85.53333,
   ),
-  104 => 
+  98 => 
   array (
     'id' => 53939,
     'name' => 'Duyure',
@@ -946,7 +892,7 @@ return array (
     'latitude' => 13.63333,
     'longitude' => -86.81667,
   ),
-  105 => 
+  99 => 
   array (
     'id' => 53940,
     'name' => 'El Achiotal',
@@ -955,7 +901,7 @@ return array (
     'latitude' => 14.08333,
     'longitude' => -88.75,
   ),
-  106 => 
+  100 => 
   array (
     'id' => 53941,
     'name' => 'El Agua Dulcita',
@@ -964,7 +910,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -87.75,
   ),
-  107 => 
+  101 => 
   array (
     'id' => 53942,
     'name' => 'El Benque',
@@ -973,7 +919,7 @@ return array (
     'latitude' => 14.03333,
     'longitude' => -86.46667,
   ),
-  108 => 
+  102 => 
   array (
     'id' => 53943,
     'name' => 'El Bálsamo',
@@ -982,7 +928,7 @@ return array (
     'latitude' => 15.06667,
     'longitude' => -87.46667,
   ),
-  109 => 
+  103 => 
   array (
     'id' => 53944,
     'name' => 'El Chichicaste',
@@ -991,7 +937,7 @@ return array (
     'latitude' => 14.06667,
     'longitude' => -86.3,
   ),
-  110 => 
+  104 => 
   array (
     'id' => 53945,
     'name' => 'El Chimbo',
@@ -1000,7 +946,7 @@ return array (
     'latitude' => 14.13333,
     'longitude' => -87.11667,
   ),
-  111 => 
+  105 => 
   array (
     'id' => 53946,
     'name' => 'El Ciruelo',
@@ -1009,7 +955,7 @@ return array (
     'latitude' => 15.3,
     'longitude' => -88.5,
   ),
-  112 => 
+  106 => 
   array (
     'id' => 53947,
     'name' => 'El Corozal',
@@ -1018,7 +964,7 @@ return array (
     'latitude' => 15.06667,
     'longitude' => -88.61667,
   ),
-  113 => 
+  107 => 
   array (
     'id' => 53948,
     'name' => 'El Corpus',
@@ -1027,16 +973,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -88.91667,
   ),
-  114 => 
-  array (
-    'id' => 53949,
-    'name' => 'El Corpus',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.30464,
-    'longitude' => -87.0097,
-  ),
-  115 => 
+  108 => 
   array (
     'id' => 53950,
     'name' => 'El Cubolero',
@@ -1045,7 +982,7 @@ return array (
     'latitude' => 13.46667,
     'longitude' => -87.66667,
   ),
-  116 => 
+  109 => 
   array (
     'id' => 53951,
     'name' => 'El Escanito',
@@ -1054,7 +991,7 @@ return array (
     'latitude' => 14.66667,
     'longitude' => -87.1,
   ),
-  117 => 
+  110 => 
   array (
     'id' => 53952,
     'name' => 'El Escaño de Tepale',
@@ -1063,7 +1000,7 @@ return array (
     'latitude' => 14.75,
     'longitude' => -87.06667,
   ),
-  118 => 
+  111 => 
   array (
     'id' => 53953,
     'name' => 'El Guante',
@@ -1072,7 +1009,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => -87.1,
   ),
-  119 => 
+  112 => 
   array (
     'id' => 53954,
     'name' => 'El Guantillo',
@@ -1081,7 +1018,7 @@ return array (
     'latitude' => 14.6,
     'longitude' => -87.3,
   ),
-  120 => 
+  113 => 
   array (
     'id' => 53955,
     'name' => 'El Guapinol',
@@ -1090,7 +1027,7 @@ return array (
     'latitude' => 13.76667,
     'longitude' => -87.46667,
   ),
-  121 => 
+  114 => 
   array (
     'id' => 53956,
     'name' => 'El Guayabito',
@@ -1099,7 +1036,7 @@ return array (
     'latitude' => 14.83333,
     'longitude' => -86.03333,
   ),
-  122 => 
+  115 => 
   array (
     'id' => 53957,
     'name' => 'El Juncal',
@@ -1108,7 +1045,7 @@ return array (
     'latitude' => 15.45,
     'longitude' => -86.43333,
   ),
-  123 => 
+  116 => 
   array (
     'id' => 53958,
     'name' => 'El Llano',
@@ -1117,7 +1054,7 @@ return array (
     'latitude' => 15.15,
     'longitude' => -87.88333,
   ),
-  124 => 
+  117 => 
   array (
     'id' => 53959,
     'name' => 'El Lolo',
@@ -1126,7 +1063,7 @@ return array (
     'latitude' => 14.11667,
     'longitude' => -87.26667,
   ),
-  125 => 
+  118 => 
   array (
     'id' => 53960,
     'name' => 'El Marañón',
@@ -1135,7 +1072,7 @@ return array (
     'latitude' => 15.4,
     'longitude' => -88.05,
   ),
-  126 => 
+  119 => 
   array (
     'id' => 53961,
     'name' => 'El Milagro',
@@ -1144,7 +1081,7 @@ return array (
     'latitude' => 15.4,
     'longitude' => -87.96667,
   ),
-  127 => 
+  120 => 
   array (
     'id' => 53962,
     'name' => 'El Mochito',
@@ -1153,7 +1090,7 @@ return array (
     'latitude' => 14.86667,
     'longitude' => -88.08333,
   ),
-  128 => 
+  121 => 
   array (
     'id' => 53963,
     'name' => 'El Negrito',
@@ -1162,7 +1099,7 @@ return array (
     'latitude' => 15.31667,
     'longitude' => -87.7,
   ),
-  129 => 
+  122 => 
   array (
     'id' => 53964,
     'name' => 'El Níspero',
@@ -1171,7 +1108,7 @@ return array (
     'latitude' => 14.75957,
     'longitude' => -88.34438,
   ),
-  130 => 
+  123 => 
   array (
     'id' => 53965,
     'name' => 'El Obraje',
@@ -1180,16 +1117,7 @@ return array (
     'latitude' => 13.15417,
     'longitude' => -87.13083,
   ),
-  131 => 
-  array (
-    'id' => 53966,
-    'name' => 'El Obraje',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.0,
-    'longitude' => -86.43333,
-  ),
-  132 => 
+  124 => 
   array (
     'id' => 53967,
     'name' => 'El Ocote',
@@ -1198,7 +1126,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => -86.56667,
   ),
-  133 => 
+  125 => 
   array (
     'id' => 53968,
     'name' => 'El Ocotón',
@@ -1207,7 +1135,7 @@ return array (
     'latitude' => 15.03333,
     'longitude' => -88.88333,
   ),
-  134 => 
+  126 => 
   array (
     'id' => 53969,
     'name' => 'El Olivar',
@@ -1216,7 +1144,7 @@ return array (
     'latitude' => 15.08333,
     'longitude' => -87.88333,
   ),
-  135 => 
+  127 => 
   array (
     'id' => 53970,
     'name' => 'El Paraíso',
@@ -1225,16 +1153,7 @@ return array (
     'latitude' => 13.85381,
     'longitude' => -86.53094,
   ),
-  136 => 
-  array (
-    'id' => 53971,
-    'name' => 'El Paraíso',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.04217,
-    'longitude' => -88.98045,
-  ),
-  137 => 
+  128 => 
   array (
     'id' => 53972,
     'name' => 'El Pedernal',
@@ -1243,7 +1162,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -87.11667,
   ),
-  138 => 
+  129 => 
   array (
     'id' => 53973,
     'name' => 'El Perico',
@@ -1252,7 +1171,7 @@ return array (
     'latitude' => 15.08333,
     'longitude' => -88.1,
   ),
-  139 => 
+  130 => 
   array (
     'id' => 53974,
     'name' => 'El Pino',
@@ -1261,7 +1180,7 @@ return array (
     'latitude' => 15.7,
     'longitude' => -86.93333,
   ),
-  140 => 
+  131 => 
   array (
     'id' => 53975,
     'name' => 'El Plan',
@@ -1270,7 +1189,7 @@ return array (
     'latitude' => 15.28333,
     'longitude' => -87.96667,
   ),
-  141 => 
+  132 => 
   array (
     'id' => 53976,
     'name' => 'El Porvenir',
@@ -1279,34 +1198,7 @@ return array (
     'latitude' => 15.75,
     'longitude' => -86.93333,
   ),
-  142 => 
-  array (
-    'id' => 53977,
-    'name' => 'El Porvenir',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.83333,
-    'longitude' => -87.93333,
-  ),
-  143 => 
-  array (
-    'id' => 53978,
-    'name' => 'El Porvenir',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.58333,
-    'longitude' => -87.88333,
-  ),
-  144 => 
-  array (
-    'id' => 53979,
-    'name' => 'El Porvenir',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.72009,
-    'longitude' => -87.21039,
-  ),
-  145 => 
+  133 => 
   array (
     'id' => 53980,
     'name' => 'El Progreso',
@@ -1315,7 +1207,7 @@ return array (
     'latitude' => 15.42762,
     'longitude' => -87.77396,
   ),
-  146 => 
+  134 => 
   array (
     'id' => 53981,
     'name' => 'El Puente',
@@ -1324,7 +1216,7 @@ return array (
     'latitude' => 13.28333,
     'longitude' => -87.11667,
   ),
-  147 => 
+  135 => 
   array (
     'id' => 53982,
     'name' => 'El Rancho',
@@ -1333,16 +1225,7 @@ return array (
     'latitude' => 15.66667,
     'longitude' => -87.95,
   ),
-  148 => 
-  array (
-    'id' => 53983,
-    'name' => 'El Rancho',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.68333,
-    'longitude' => -87.5,
-  ),
-  149 => 
+  136 => 
   array (
     'id' => 53984,
     'name' => 'El Rincón',
@@ -1351,7 +1234,7 @@ return array (
     'latitude' => 14.58333,
     'longitude' => -87.93333,
   ),
-  150 => 
+  137 => 
   array (
     'id' => 53985,
     'name' => 'El Rosario',
@@ -1360,16 +1243,7 @@ return array (
     'latitude' => 14.575,
     'longitude' => -87.74306,
   ),
-  151 => 
-  array (
-    'id' => 53986,
-    'name' => 'El Rosario',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.8872,
-    'longitude' => -86.68764,
-  ),
-  152 => 
+  138 => 
   array (
     'id' => 53987,
     'name' => 'El Rusio',
@@ -1378,7 +1252,7 @@ return array (
     'latitude' => 14.46667,
     'longitude' => -86.36667,
   ),
-  153 => 
+  139 => 
   array (
     'id' => 53988,
     'name' => 'El Sauce',
@@ -1387,7 +1261,7 @@ return array (
     'latitude' => 14.5285,
     'longitude' => -87.66571,
   ),
-  154 => 
+  140 => 
   array (
     'id' => 53989,
     'name' => 'El Socorro',
@@ -1396,7 +1270,7 @@ return array (
     'latitude' => 14.63333,
     'longitude' => -87.91667,
   ),
-  155 => 
+  141 => 
   array (
     'id' => 53990,
     'name' => 'El Suyatal',
@@ -1405,7 +1279,7 @@ return array (
     'latitude' => 14.51667,
     'longitude' => -87.21667,
   ),
-  156 => 
+  142 => 
   array (
     'id' => 53991,
     'name' => 'El Tablón',
@@ -1414,7 +1288,7 @@ return array (
     'latitude' => 14.03333,
     'longitude' => -87.16667,
   ),
-  157 => 
+  143 => 
   array (
     'id' => 53992,
     'name' => 'El Terrero',
@@ -1423,7 +1297,7 @@ return array (
     'latitude' => 14.06667,
     'longitude' => -87.06667,
   ),
-  158 => 
+  144 => 
   array (
     'id' => 53993,
     'name' => 'El Tigre',
@@ -1432,7 +1306,7 @@ return array (
     'latitude' => 14.93333,
     'longitude' => -87.98333,
   ),
-  159 => 
+  145 => 
   array (
     'id' => 53994,
     'name' => 'El Triunfo',
@@ -1441,7 +1315,7 @@ return array (
     'latitude' => 13.08024,
     'longitude' => -87.0178,
   ),
-  160 => 
+  146 => 
   array (
     'id' => 53995,
     'name' => 'El Triunfo de la Cruz',
@@ -1450,7 +1324,7 @@ return array (
     'latitude' => 15.76667,
     'longitude' => -87.43333,
   ),
-  161 => 
+  147 => 
   array (
     'id' => 53996,
     'name' => 'El Tránsito',
@@ -1459,7 +1333,7 @@ return array (
     'latitude' => 14.38333,
     'longitude' => -88.91667,
   ),
-  162 => 
+  148 => 
   array (
     'id' => 53997,
     'name' => 'El Tular',
@@ -1468,7 +1342,7 @@ return array (
     'latitude' => 13.46639,
     'longitude' => -87.51528,
   ),
-  163 => 
+  149 => 
   array (
     'id' => 53998,
     'name' => 'El Zapotal del Norte',
@@ -1477,7 +1351,7 @@ return array (
     'latitude' => 15.51667,
     'longitude' => -88.05,
   ),
-  164 => 
+  150 => 
   array (
     'id' => 53999,
     'name' => 'Elíxir',
@@ -1486,7 +1360,7 @@ return array (
     'latitude' => 15.48333,
     'longitude' => -86.3,
   ),
-  165 => 
+  151 => 
   array (
     'id' => 54000,
     'name' => 'Erandique',
@@ -1495,7 +1369,7 @@ return array (
     'latitude' => 14.23333,
     'longitude' => -88.46667,
   ),
-  166 => 
+  152 => 
   array (
     'id' => 54001,
     'name' => 'Esparta',
@@ -1504,7 +1378,7 @@ return array (
     'latitude' => 15.66291,
     'longitude' => -87.25622,
   ),
-  167 => 
+  153 => 
   array (
     'id' => 54002,
     'name' => 'Esquipulas del Norte',
@@ -1513,7 +1387,7 @@ return array (
     'latitude' => 15.27763,
     'longitude' => -86.5576,
   ),
-  168 => 
+  154 => 
   array (
     'id' => 54003,
     'name' => 'Esquías',
@@ -1522,7 +1396,7 @@ return array (
     'latitude' => 14.73333,
     'longitude' => -87.36667,
   ),
-  169 => 
+  155 => 
   array (
     'id' => 54004,
     'name' => 'Flores',
@@ -1531,7 +1405,7 @@ return array (
     'latitude' => 14.28333,
     'longitude' => -87.56667,
   ),
-  170 => 
+  156 => 
   array (
     'id' => 54005,
     'name' => 'Florida',
@@ -1540,7 +1414,7 @@ return array (
     'latitude' => 15.03333,
     'longitude' => -88.83333,
   ),
-  171 => 
+  157 => 
   array (
     'id' => 54006,
     'name' => 'Francia',
@@ -1549,7 +1423,7 @@ return array (
     'latitude' => 15.85,
     'longitude' => -85.58333,
   ),
-  172 => 
+  158 => 
   array (
     'id' => 54007,
     'name' => 'Fraternidad',
@@ -1558,7 +1432,7 @@ return array (
     'latitude' => 14.58087,
     'longitude' => -89.0774,
   ),
-  173 => 
+  159 => 
   array (
     'id' => 54008,
     'name' => 'French Harbor',
@@ -1567,7 +1441,7 @@ return array (
     'latitude' => 16.35,
     'longitude' => -86.43333,
   ),
-  174 => 
+  160 => 
   array (
     'id' => 54009,
     'name' => 'Goascorán',
@@ -1576,7 +1450,7 @@ return array (
     'latitude' => 13.58333,
     'longitude' => -87.61667,
   ),
-  175 => 
+  161 => 
   array (
     'id' => 54010,
     'name' => 'Gracias',
@@ -1585,7 +1459,7 @@ return array (
     'latitude' => 14.59028,
     'longitude' => -88.58194,
   ),
-  176 => 
+  162 => 
   array (
     'id' => 54011,
     'name' => 'Guacamaya',
@@ -1594,7 +1468,7 @@ return array (
     'latitude' => 15.01667,
     'longitude' => -88.15,
   ),
-  177 => 
+  163 => 
   array (
     'id' => 54012,
     'name' => 'Guaimaca',
@@ -1603,7 +1477,7 @@ return array (
     'latitude' => 14.53333,
     'longitude' => -86.81667,
   ),
-  178 => 
+  164 => 
   array (
     'id' => 54013,
     'name' => 'Guaimitas',
@@ -1612,7 +1486,7 @@ return array (
     'latitude' => 15.5,
     'longitude' => -87.71667,
   ),
-  179 => 
+  165 => 
   array (
     'id' => 54014,
     'name' => 'Guajiquiro',
@@ -1621,7 +1495,7 @@ return array (
     'latitude' => 14.06982,
     'longitude' => -87.77451,
   ),
-  180 => 
+  166 => 
   array (
     'id' => 54015,
     'name' => 'Gualaco',
@@ -1630,7 +1504,7 @@ return array (
     'latitude' => 15.02521,
     'longitude' => -86.07076,
   ),
-  181 => 
+  167 => 
   array (
     'id' => 54016,
     'name' => 'Gualala',
@@ -1639,7 +1513,7 @@ return array (
     'latitude' => 14.98,
     'longitude' => -88.17,
   ),
-  182 => 
+  168 => 
   array (
     'id' => 54017,
     'name' => 'Gualcince',
@@ -1648,7 +1522,7 @@ return array (
     'latitude' => 14.12869,
     'longitude' => -88.56812,
   ),
-  183 => 
+  169 => 
   array (
     'id' => 54018,
     'name' => 'Gualjoco',
@@ -1657,7 +1531,7 @@ return array (
     'latitude' => 14.95,
     'longitude' => -88.23333,
   ),
-  184 => 
+  170 => 
   array (
     'id' => 54019,
     'name' => 'Guanaja',
@@ -1666,7 +1540,7 @@ return array (
     'latitude' => 16.44795,
     'longitude' => -85.89431,
   ),
-  185 => 
+  171 => 
   array (
     'id' => 54020,
     'name' => 'Guarita',
@@ -1675,7 +1549,7 @@ return array (
     'latitude' => 14.20784,
     'longitude' => -88.85161,
   ),
-  186 => 
+  172 => 
   array (
     'id' => 54021,
     'name' => 'Guarizama',
@@ -1684,7 +1558,7 @@ return array (
     'latitude' => 14.91667,
     'longitude' => -86.33333,
   ),
-  187 => 
+  173 => 
   array (
     'id' => 54022,
     'name' => 'Guata',
@@ -1693,7 +1567,7 @@ return array (
     'latitude' => 15.15133,
     'longitude' => -86.37624,
   ),
-  188 => 
+  174 => 
   array (
     'id' => 54023,
     'name' => 'Guayape',
@@ -1702,7 +1576,7 @@ return array (
     'latitude' => 14.71667,
     'longitude' => -86.83333,
   ),
-  189 => 
+  175 => 
   array (
     'id' => 54024,
     'name' => 'Güinope',
@@ -1711,7 +1585,7 @@ return array (
     'latitude' => 13.88333,
     'longitude' => -86.93333,
   ),
-  190 => 
+  176 => 
   array (
     'id' => 54025,
     'name' => 'Humuya',
@@ -1720,7 +1594,7 @@ return array (
     'latitude' => 14.25,
     'longitude' => -87.66667,
   ),
-  191 => 
+  177 => 
   array (
     'id' => 54026,
     'name' => 'Ilama',
@@ -1729,7 +1603,7 @@ return array (
     'latitude' => 15.06667,
     'longitude' => -88.21667,
   ),
-  192 => 
+  178 => 
   array (
     'id' => 54027,
     'name' => 'Intibucá',
@@ -1738,7 +1612,7 @@ return array (
     'latitude' => 14.43,
     'longitude' => -88.17,
   ),
-  193 => 
+  179 => 
   array (
     'id' => 54028,
     'name' => 'Iralaya',
@@ -1747,7 +1621,7 @@ return array (
     'latitude' => 15.0,
     'longitude' => -83.23333,
   ),
-  194 => 
+  180 => 
   array (
     'id' => 54029,
     'name' => 'Iriona',
@@ -1756,7 +1630,7 @@ return array (
     'latitude' => 15.59079,
     'longitude' => -85.20549,
   ),
-  195 => 
+  181 => 
   array (
     'id' => 54030,
     'name' => 'Jacaleapa',
@@ -1765,7 +1639,7 @@ return array (
     'latitude' => 14.01667,
     'longitude' => -86.66667,
   ),
-  196 => 
+  182 => 
   array (
     'id' => 54031,
     'name' => 'Jamalteca',
@@ -1774,7 +1648,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -87.58333,
   ),
-  197 => 
+  183 => 
   array (
     'id' => 54032,
     'name' => 'Jano',
@@ -1783,7 +1657,7 @@ return array (
     'latitude' => 15.07902,
     'longitude' => -86.51521,
   ),
-  198 => 
+  184 => 
   array (
     'id' => 54033,
     'name' => 'Jericó',
@@ -1792,7 +1666,7 @@ return array (
     'latitude' => 15.95,
     'longitude' => -85.96667,
   ),
-  199 => 
+  185 => 
   array (
     'id' => 54034,
     'name' => 'Jesús de Otoro',
@@ -1801,7 +1675,7 @@ return array (
     'latitude' => 14.48333,
     'longitude' => -87.98333,
   ),
-  200 => 
+  186 => 
   array (
     'id' => 54035,
     'name' => 'Jiquinlaca',
@@ -1810,7 +1684,7 @@ return array (
     'latitude' => 14.0,
     'longitude' => -88.35,
   ),
-  201 => 
+  187 => 
   array (
     'id' => 54036,
     'name' => 'Joconal',
@@ -1819,7 +1693,7 @@ return array (
     'latitude' => 15.35444,
     'longitude' => -88.63556,
   ),
-  202 => 
+  188 => 
   array (
     'id' => 54037,
     'name' => 'Jocón',
@@ -1828,7 +1702,7 @@ return array (
     'latitude' => 15.28333,
     'longitude' => -86.96667,
   ),
-  203 => 
+  189 => 
   array (
     'id' => 54038,
     'name' => 'José Santos Guardiola',
@@ -1837,7 +1711,7 @@ return array (
     'latitude' => 16.41765,
     'longitude' => -86.30631,
   ),
-  204 => 
+  190 => 
   array (
     'id' => 54039,
     'name' => 'Juan Francisco Bulnes',
@@ -1846,7 +1720,7 @@ return array (
     'latitude' => 15.91676,
     'longitude' => -84.9099,
   ),
-  205 => 
+  191 => 
   array (
     'id' => 54040,
     'name' => 'Jutiapa',
@@ -1855,16 +1729,7 @@ return array (
     'latitude' => 13.98333,
     'longitude' => -86.4,
   ),
-  206 => 
-  array (
-    'id' => 54041,
-    'name' => 'Jutiapa',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.69586,
-    'longitude' => -86.50414,
-  ),
-  207 => 
+  192 => 
   array (
     'id' => 54042,
     'name' => 'Juticalpa',
@@ -1873,7 +1738,7 @@ return array (
     'latitude' => 14.66667,
     'longitude' => -86.21944,
   ),
-  208 => 
+  193 => 
   array (
     'id' => 54043,
     'name' => 'Jutiquile',
@@ -1882,7 +1747,7 @@ return array (
     'latitude' => 14.71667,
     'longitude' => -86.08333,
   ),
-  209 => 
+  194 => 
   array (
     'id' => 54044,
     'name' => 'Jícaro Galán',
@@ -1891,7 +1756,7 @@ return array (
     'latitude' => 13.53167,
     'longitude' => -87.43889,
   ),
-  210 => 
+  195 => 
   array (
     'id' => 54045,
     'name' => 'La Alianza',
@@ -1900,7 +1765,7 @@ return array (
     'latitude' => 13.51222,
     'longitude' => -87.72444,
   ),
-  211 => 
+  196 => 
   array (
     'id' => 54046,
     'name' => 'La Brea',
@@ -1909,7 +1774,7 @@ return array (
     'latitude' => 15.8,
     'longitude' => -85.96667,
   ),
-  212 => 
+  197 => 
   array (
     'id' => 54047,
     'name' => 'La Campa',
@@ -1918,7 +1783,7 @@ return array (
     'latitude' => 14.4728,
     'longitude' => -88.5609,
   ),
-  213 => 
+  198 => 
   array (
     'id' => 54048,
     'name' => 'La Ceiba',
@@ -1927,7 +1792,7 @@ return array (
     'latitude' => 15.75971,
     'longitude' => -86.78221,
   ),
-  214 => 
+  199 => 
   array (
     'id' => 54049,
     'name' => 'La Concepción',
@@ -1936,7 +1801,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -86.23333,
   ),
-  215 => 
+  200 => 
   array (
     'id' => 54050,
     'name' => 'La Criba',
@@ -1945,7 +1810,7 @@ return array (
     'latitude' => 13.45361,
     'longitude' => -87.41333,
   ),
-  216 => 
+  201 => 
   array (
     'id' => 54051,
     'name' => 'La Encarnación',
@@ -1954,7 +1819,7 @@ return array (
     'latitude' => 14.66667,
     'longitude' => -89.04742,
   ),
-  217 => 
+  202 => 
   array (
     'id' => 54052,
     'name' => 'La Entrada',
@@ -1963,7 +1828,7 @@ return array (
     'latitude' => 15.05,
     'longitude' => -88.73333,
   ),
-  218 => 
+  203 => 
   array (
     'id' => 54053,
     'name' => 'La Ermita',
@@ -1972,7 +1837,7 @@ return array (
     'latitude' => 14.46667,
     'longitude' => -87.06667,
   ),
-  219 => 
+  204 => 
   array (
     'id' => 54054,
     'name' => 'La Esperanza',
@@ -1981,16 +1846,7 @@ return array (
     'latitude' => 14.31111,
     'longitude' => -88.18056,
   ),
-  220 => 
-  array (
-    'id' => 54055,
-    'name' => 'La Esperanza',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.63333,
-    'longitude' => -85.76667,
-  ),
-  221 => 
+  205 => 
   array (
     'id' => 54056,
     'name' => 'La Estancia',
@@ -1999,16 +1855,7 @@ return array (
     'latitude' => 15.28333,
     'longitude' => -87.55,
   ),
-  222 => 
-  array (
-    'id' => 54057,
-    'name' => 'La Estancia',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.05,
-    'longitude' => -86.35,
-  ),
-  223 => 
+  206 => 
   array (
     'id' => 54058,
     'name' => 'La Flecha',
@@ -2017,7 +1864,7 @@ return array (
     'latitude' => 15.28333,
     'longitude' => -88.48333,
   ),
-  224 => 
+  207 => 
   array (
     'id' => 54059,
     'name' => 'La Guacamaya',
@@ -2026,7 +1873,7 @@ return array (
     'latitude' => 15.25,
     'longitude' => -87.8,
   ),
-  225 => 
+  208 => 
   array (
     'id' => 54060,
     'name' => 'La Guama',
@@ -2035,7 +1882,7 @@ return array (
     'latitude' => 14.88333,
     'longitude' => -87.93333,
   ),
-  226 => 
+  209 => 
   array (
     'id' => 54061,
     'name' => 'La Guata',
@@ -2044,7 +1891,7 @@ return array (
     'latitude' => 15.08333,
     'longitude' => -86.38333,
   ),
-  227 => 
+  210 => 
   array (
     'id' => 54062,
     'name' => 'La Huesa',
@@ -2053,7 +1900,7 @@ return array (
     'latitude' => 15.58333,
     'longitude' => -87.88333,
   ),
-  228 => 
+  211 => 
   array (
     'id' => 54063,
     'name' => 'La Iguala',
@@ -2062,7 +1909,7 @@ return array (
     'latitude' => 14.66441,
     'longitude' => -88.4636,
   ),
-  229 => 
+  212 => 
   array (
     'id' => 54064,
     'name' => 'La Jigua',
@@ -2071,7 +1918,7 @@ return array (
     'latitude' => 15.1,
     'longitude' => -88.76,
   ),
-  230 => 
+  213 => 
   array (
     'id' => 54065,
     'name' => 'La Jutosa',
@@ -2080,7 +1927,7 @@ return array (
     'latitude' => 15.63333,
     'longitude' => -88.0,
   ),
-  231 => 
+  214 => 
   array (
     'id' => 54066,
     'name' => 'La Labor',
@@ -2089,7 +1936,7 @@ return array (
     'latitude' => 14.48333,
     'longitude' => -89.0,
   ),
-  232 => 
+  215 => 
   array (
     'id' => 54067,
     'name' => 'La Libertad',
@@ -2098,25 +1945,7 @@ return array (
     'latitude' => 14.8,
     'longitude' => -88.58333,
   ),
-  233 => 
-  array (
-    'id' => 54068,
-    'name' => 'La Libertad',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.88,
-    'longitude' => -87.55,
-  ),
-  234 => 
-  array (
-    'id' => 54069,
-    'name' => 'La Libertad',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.70662,
-    'longitude' => -87.50421,
-  ),
-  235 => 
+  216 => 
   array (
     'id' => 54070,
     'name' => 'La Lima',
@@ -2125,7 +1954,7 @@ return array (
     'latitude' => 15.43333,
     'longitude' => -87.91667,
   ),
-  236 => 
+  217 => 
   array (
     'id' => 54071,
     'name' => 'La Masica',
@@ -2134,7 +1963,7 @@ return array (
     'latitude' => 15.59865,
     'longitude' => -87.135,
   ),
-  237 => 
+  218 => 
   array (
     'id' => 54072,
     'name' => 'La Mina',
@@ -2143,7 +1972,7 @@ return array (
     'latitude' => 15.31667,
     'longitude' => -87.83333,
   ),
-  238 => 
+  219 => 
   array (
     'id' => 54073,
     'name' => 'La Paz',
@@ -2152,7 +1981,7 @@ return array (
     'latitude' => 14.31944,
     'longitude' => -87.67917,
   ),
-  239 => 
+  220 => 
   array (
     'id' => 54074,
     'name' => 'La Playona',
@@ -2161,7 +1990,7 @@ return array (
     'latitude' => 15.11667,
     'longitude' => -88.98333,
   ),
-  240 => 
+  221 => 
   array (
     'id' => 54075,
     'name' => 'La Rosa',
@@ -2170,7 +1999,7 @@ return array (
     'latitude' => 15.35,
     'longitude' => -87.06667,
   ),
-  241 => 
+  222 => 
   array (
     'id' => 54076,
     'name' => 'La Sabana',
@@ -2179,7 +2008,7 @@ return array (
     'latitude' => 15.36667,
     'longitude' => -87.93333,
   ),
-  242 => 
+  223 => 
   array (
     'id' => 54077,
     'name' => 'La Sarrosa',
@@ -2188,7 +2017,7 @@ return array (
     'latitude' => 15.23333,
     'longitude' => -87.83333,
   ),
-  243 => 
+  224 => 
   array (
     'id' => 54078,
     'name' => 'La Trinidad',
@@ -2197,16 +2026,7 @@ return array (
     'latitude' => 15.1,
     'longitude' => -87.2,
   ),
-  244 => 
-  array (
-    'id' => 54079,
-    'name' => 'La Trinidad',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.7,
-    'longitude' => -87.66286,
-  ),
-  245 => 
+  225 => 
   array (
     'id' => 54080,
     'name' => 'La Unión',
@@ -2215,34 +2035,7 @@ return array (
     'latitude' => 15.71667,
     'longitude' => -87.0,
   ),
-  246 => 
-  array (
-    'id' => 54081,
-    'name' => 'La Unión',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.81667,
-    'longitude' => -88.4,
-  ),
-  247 => 
-  array (
-    'id' => 54082,
-    'name' => 'La Unión',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.09759,
-    'longitude' => -86.6891,
-  ),
-  248 => 
-  array (
-    'id' => 54083,
-    'name' => 'La Unión',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.6935,
-    'longitude' => -88.94734,
-  ),
-  249 => 
+  226 => 
   array (
     'id' => 54084,
     'name' => 'La Venta',
@@ -2251,7 +2044,7 @@ return array (
     'latitude' => 13.73113,
     'longitude' => -87.32874,
   ),
-  250 => 
+  227 => 
   array (
     'id' => 54085,
     'name' => 'La Virtud',
@@ -2260,7 +2053,7 @@ return array (
     'latitude' => 14.07156,
     'longitude' => -88.68584,
   ),
-  251 => 
+  228 => 
   array (
     'id' => 54086,
     'name' => 'La Zumbadora',
@@ -2269,7 +2062,7 @@ return array (
     'latitude' => 15.01667,
     'longitude' => -88.9,
   ),
-  252 => 
+  229 => 
   array (
     'id' => 54087,
     'name' => 'Laguna Seca',
@@ -2278,7 +2071,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -86.1,
   ),
-  253 => 
+  230 => 
   array (
     'id' => 54088,
     'name' => 'Laguna Verde',
@@ -2287,7 +2080,7 @@ return array (
     'latitude' => 15.2,
     'longitude' => -88.16667,
   ),
-  254 => 
+  231 => 
   array (
     'id' => 54089,
     'name' => 'Lamaní',
@@ -2296,7 +2089,7 @@ return array (
     'latitude' => 14.2,
     'longitude' => -87.61667,
   ),
-  255 => 
+  232 => 
   array (
     'id' => 54090,
     'name' => 'Langue',
@@ -2305,7 +2098,7 @@ return array (
     'latitude' => 13.62083,
     'longitude' => -87.6525,
   ),
-  256 => 
+  233 => 
   array (
     'id' => 54091,
     'name' => 'Las Flores',
@@ -2314,7 +2107,7 @@ return array (
     'latitude' => 14.6793,
     'longitude' => -88.6504,
   ),
-  257 => 
+  234 => 
   array (
     'id' => 54092,
     'name' => 'Las Lajas',
@@ -2323,7 +2116,7 @@ return array (
     'latitude' => 14.9,
     'longitude' => -87.58333,
   ),
-  258 => 
+  235 => 
   array (
     'id' => 54093,
     'name' => 'Las Tejeras',
@@ -2332,7 +2125,7 @@ return array (
     'latitude' => 14.8,
     'longitude' => -88.6,
   ),
-  259 => 
+  236 => 
   array (
     'id' => 54094,
     'name' => 'Las Trojes',
@@ -2341,7 +2134,7 @@ return array (
     'latitude' => 14.06667,
     'longitude' => -85.98333,
   ),
-  260 => 
+  237 => 
   array (
     'id' => 54095,
     'name' => 'Las Vegas',
@@ -2350,16 +2143,7 @@ return array (
     'latitude' => 15.01667,
     'longitude' => -87.45,
   ),
-  261 => 
-  array (
-    'id' => 54096,
-    'name' => 'Las Vegas',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.86636,
-    'longitude' => -88.07233,
-  ),
-  262 => 
+  238 => 
   array (
     'id' => 54097,
     'name' => 'Las Vegas Santa Barbara',
@@ -2368,7 +2152,7 @@ return array (
     'latitude' => 14.87649,
     'longitude' => -88.07473,
   ),
-  263 => 
+  239 => 
   array (
     'id' => 54098,
     'name' => 'Las Ánimas',
@@ -2377,7 +2161,7 @@ return array (
     'latitude' => 14.25,
     'longitude' => -86.56667,
   ),
-  264 => 
+  240 => 
   array (
     'id' => 54099,
     'name' => 'Lauterique',
@@ -2386,7 +2170,7 @@ return array (
     'latitude' => 13.86425,
     'longitude' => -87.65792,
   ),
-  265 => 
+  241 => 
   array (
     'id' => 54100,
     'name' => 'Lejamaní',
@@ -2395,7 +2179,7 @@ return array (
     'latitude' => 14.36667,
     'longitude' => -87.7,
   ),
-  266 => 
+  242 => 
   array (
     'id' => 54101,
     'name' => 'Lepaera',
@@ -2404,7 +2188,7 @@ return array (
     'latitude' => 14.78333,
     'longitude' => -88.58333,
   ),
-  267 => 
+  243 => 
   array (
     'id' => 54102,
     'name' => 'Lepaterique',
@@ -2413,7 +2197,7 @@ return array (
     'latitude' => 14.0559,
     'longitude' => -87.47908,
   ),
-  268 => 
+  244 => 
   array (
     'id' => 54103,
     'name' => 'Limón',
@@ -2422,7 +2206,7 @@ return array (
     'latitude' => 15.79664,
     'longitude' => -85.50805,
   ),
-  269 => 
+  245 => 
   array (
     'id' => 54104,
     'name' => 'Liure',
@@ -2431,7 +2215,7 @@ return array (
     'latitude' => 13.53583,
     'longitude' => -87.09194,
   ),
-  270 => 
+  246 => 
   array (
     'id' => 54105,
     'name' => 'Loma Alta',
@@ -2440,7 +2224,7 @@ return array (
     'latitude' => 15.39667,
     'longitude' => -88.55972,
   ),
-  271 => 
+  247 => 
   array (
     'id' => 54106,
     'name' => 'Lomitas',
@@ -2449,7 +2233,7 @@ return array (
     'latitude' => 15.1,
     'longitude' => -87.21667,
   ),
-  272 => 
+  248 => 
   array (
     'id' => 54107,
     'name' => 'Los Caminos',
@@ -2458,7 +2242,7 @@ return array (
     'latitude' => 14.95,
     'longitude' => -87.96667,
   ),
-  273 => 
+  249 => 
   array (
     'id' => 54108,
     'name' => 'Los Llanitos',
@@ -2467,7 +2251,7 @@ return array (
     'latitude' => 13.28694,
     'longitude' => -87.33444,
   ),
-  274 => 
+  250 => 
   array (
     'id' => 54109,
     'name' => 'Los Naranjos',
@@ -2476,7 +2260,7 @@ return array (
     'latitude' => 14.9,
     'longitude' => -88.05,
   ),
-  275 => 
+  251 => 
   array (
     'id' => 54110,
     'name' => 'Los Planes',
@@ -2485,7 +2269,7 @@ return array (
     'latitude' => 14.05,
     'longitude' => -88.01667,
   ),
-  276 => 
+  252 => 
   array (
     'id' => 54111,
     'name' => 'Los Tangos',
@@ -2494,7 +2278,7 @@ return array (
     'latitude' => 15.15,
     'longitude' => -88.68333,
   ),
-  277 => 
+  253 => 
   array (
     'id' => 54112,
     'name' => 'Lucerna',
@@ -2503,7 +2287,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => -88.93333,
   ),
-  278 => 
+  254 => 
   array (
     'id' => 54113,
     'name' => 'Macuelizo',
@@ -2512,7 +2296,7 @@ return array (
     'latitude' => 15.26,
     'longitude' => -88.66,
   ),
-  279 => 
+  255 => 
   array (
     'id' => 54114,
     'name' => 'Magdalena',
@@ -2521,7 +2305,7 @@ return array (
     'latitude' => 13.92452,
     'longitude' => -88.36675,
   ),
-  280 => 
+  256 => 
   array (
     'id' => 54115,
     'name' => 'Mangulile',
@@ -2530,7 +2314,7 @@ return array (
     'latitude' => 15.06667,
     'longitude' => -86.8,
   ),
-  281 => 
+  257 => 
   array (
     'id' => 54116,
     'name' => 'Manto',
@@ -2539,7 +2323,7 @@ return array (
     'latitude' => 14.91667,
     'longitude' => -86.38333,
   ),
-  282 => 
+  258 => 
   array (
     'id' => 54117,
     'name' => 'Mapulaca',
@@ -2548,7 +2332,7 @@ return array (
     'latitude' => 14.04293,
     'longitude' => -88.6244,
   ),
-  283 => 
+  259 => 
   array (
     'id' => 54118,
     'name' => 'Maraita',
@@ -2557,7 +2341,7 @@ return array (
     'latitude' => 13.87197,
     'longitude' => -87.05633,
   ),
-  284 => 
+  260 => 
   array (
     'id' => 54119,
     'name' => 'Marale',
@@ -2566,7 +2350,7 @@ return array (
     'latitude' => 14.94113,
     'longitude' => -87.09892,
   ),
-  285 => 
+  261 => 
   array (
     'id' => 54120,
     'name' => 'Marcala',
@@ -2575,7 +2359,7 @@ return array (
     'latitude' => 14.14845,
     'longitude' => -88.02405,
   ),
-  286 => 
+  262 => 
   array (
     'id' => 54121,
     'name' => 'Marcovia',
@@ -2584,7 +2368,7 @@ return array (
     'latitude' => 13.28806,
     'longitude' => -87.30972,
   ),
-  287 => 
+  263 => 
   array (
     'id' => 54122,
     'name' => 'Masaguara',
@@ -2593,7 +2377,7 @@ return array (
     'latitude' => 14.40428,
     'longitude' => -87.98247,
   ),
-  288 => 
+  264 => 
   array (
     'id' => 54123,
     'name' => 'Mata de Plátano',
@@ -2602,7 +2386,7 @@ return array (
     'latitude' => 14.6,
     'longitude' => -87.28333,
   ),
-  289 => 
+  265 => 
   array (
     'id' => 54124,
     'name' => 'Mateo',
@@ -2611,7 +2395,7 @@ return array (
     'latitude' => 14.08333,
     'longitude' => -87.31667,
   ),
-  290 => 
+  266 => 
   array (
     'id' => 54125,
     'name' => 'Mercedes',
@@ -2620,7 +2404,7 @@ return array (
     'latitude' => 14.31667,
     'longitude' => -88.98333,
   ),
-  291 => 
+  267 => 
   array (
     'id' => 54126,
     'name' => 'Mercedes de Oriente',
@@ -2629,7 +2413,7 @@ return array (
     'latitude' => 13.90937,
     'longitude' => -87.77795,
   ),
-  292 => 
+  268 => 
   array (
     'id' => 54127,
     'name' => 'Mezapa',
@@ -2638,7 +2422,7 @@ return array (
     'latitude' => 15.58333,
     'longitude' => -87.65,
   ),
-  293 => 
+  269 => 
   array (
     'id' => 54128,
     'name' => 'Meámbar',
@@ -2647,7 +2431,7 @@ return array (
     'latitude' => 14.82047,
     'longitude' => -87.78424,
   ),
-  294 => 
+  270 => 
   array (
     'id' => 54129,
     'name' => 'Minas de Oro',
@@ -2656,7 +2440,7 @@ return array (
     'latitude' => 14.8,
     'longitude' => -87.35,
   ),
-  295 => 
+  271 => 
   array (
     'id' => 54130,
     'name' => 'Mojimán',
@@ -2665,7 +2449,7 @@ return array (
     'latitude' => 15.26667,
     'longitude' => -87.6,
   ),
-  296 => 
+  272 => 
   array (
     'id' => 54131,
     'name' => 'Monjarás',
@@ -2674,7 +2458,7 @@ return array (
     'latitude' => 13.20056,
     'longitude' => -87.37417,
   ),
-  297 => 
+  273 => 
   array (
     'id' => 54132,
     'name' => 'Monterrey',
@@ -2683,7 +2467,7 @@ return array (
     'latitude' => 15.58333,
     'longitude' => -87.88333,
   ),
-  298 => 
+  274 => 
   array (
     'id' => 54133,
     'name' => 'Morazán',
@@ -2692,7 +2476,7 @@ return array (
     'latitude' => 15.31667,
     'longitude' => -87.6,
   ),
-  299 => 
+  275 => 
   array (
     'id' => 54134,
     'name' => 'Morocelí',
@@ -2701,7 +2485,7 @@ return array (
     'latitude' => 14.11667,
     'longitude' => -86.86667,
   ),
-  300 => 
+  276 => 
   array (
     'id' => 54135,
     'name' => 'Morolica',
@@ -2710,7 +2494,7 @@ return array (
     'latitude' => 13.568,
     'longitude' => -86.88821,
   ),
-  301 => 
+  277 => 
   array (
     'id' => 54136,
     'name' => 'Municipio de Sabá',
@@ -2719,7 +2503,7 @@ return array (
     'latitude' => 15.48654,
     'longitude' => -86.16322,
   ),
-  302 => 
+  278 => 
   array (
     'id' => 54137,
     'name' => 'Municipio de San Francisco de La Paz',
@@ -2728,7 +2512,7 @@ return array (
     'latitude' => 14.84183,
     'longitude' => -86.11819,
   ),
-  303 => 
+  279 => 
   array (
     'id' => 54138,
     'name' => 'Municipio de Texiguat',
@@ -2737,7 +2521,7 @@ return array (
     'latitude' => 13.66372,
     'longitude' => -87.03479,
   ),
-  304 => 
+  280 => 
   array (
     'id' => 54139,
     'name' => 'Nacaome',
@@ -2746,7 +2530,7 @@ return array (
     'latitude' => 13.52209,
     'longitude' => -87.52477,
   ),
-  305 => 
+  281 => 
   array (
     'id' => 54140,
     'name' => 'Naco',
@@ -2755,7 +2539,7 @@ return array (
     'latitude' => 15.38333,
     'longitude' => -88.18333,
   ),
-  306 => 
+  282 => 
   array (
     'id' => 54141,
     'name' => 'Namasigüe',
@@ -2764,7 +2548,7 @@ return array (
     'latitude' => 13.20472,
     'longitude' => -87.13889,
   ),
-  307 => 
+  283 => 
   array (
     'id' => 54142,
     'name' => 'Naranjito',
@@ -2773,7 +2557,7 @@ return array (
     'latitude' => 14.95,
     'longitude' => -88.68333,
   ),
-  308 => 
+  284 => 
   array (
     'id' => 54143,
     'name' => 'Nombre de Jesús',
@@ -2782,7 +2566,7 @@ return array (
     'latitude' => 15.35,
     'longitude' => -86.68333,
   ),
-  309 => 
+  285 => 
   array (
     'id' => 54144,
     'name' => 'Nueva Arcadia',
@@ -2791,7 +2575,7 @@ return array (
     'latitude' => 15.08,
     'longitude' => -88.69,
   ),
-  310 => 
+  286 => 
   array (
     'id' => 54145,
     'name' => 'Nueva Armenia',
@@ -2800,16 +2584,7 @@ return array (
     'latitude' => 15.79556,
     'longitude' => -86.49845,
   ),
-  311 => 
-  array (
-    'id' => 54146,
-    'name' => 'Nueva Armenia',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.75,
-    'longitude' => -87.15307,
-  ),
-  312 => 
+  287 => 
   array (
     'id' => 54147,
     'name' => 'Nueva Esperanza',
@@ -2818,7 +2593,7 @@ return array (
     'latitude' => 15.26667,
     'longitude' => -87.6,
   ),
-  313 => 
+  288 => 
   array (
     'id' => 54148,
     'name' => 'Nueva Frontera',
@@ -2827,7 +2602,7 @@ return array (
     'latitude' => 15.21,
     'longitude' => -88.56,
   ),
-  314 => 
+  289 => 
   array (
     'id' => 54149,
     'name' => 'Nueva Jalapa',
@@ -2836,7 +2611,7 @@ return array (
     'latitude' => 14.91667,
     'longitude' => -88.33333,
   ),
-  315 => 
+  290 => 
   array (
     'id' => 54150,
     'name' => 'Nueva Ocotepeque',
@@ -2845,7 +2620,7 @@ return array (
     'latitude' => 14.43333,
     'longitude' => -89.18333,
   ),
-  316 => 
+  291 => 
   array (
     'id' => 54151,
     'name' => 'Nuevo Celilac',
@@ -2854,7 +2629,7 @@ return array (
     'latitude' => 14.97554,
     'longitude' => -88.36726,
   ),
-  317 => 
+  292 => 
   array (
     'id' => 54152,
     'name' => 'Nuevo Chamelecón',
@@ -2863,7 +2638,7 @@ return array (
     'latitude' => 15.38333,
     'longitude' => -88.01667,
   ),
-  318 => 
+  293 => 
   array (
     'id' => 54153,
     'name' => 'Ocote Paulino',
@@ -2872,7 +2647,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => -87.6,
   ),
-  319 => 
+  294 => 
   array (
     'id' => 54154,
     'name' => 'Ojo de Agua',
@@ -2881,7 +2656,7 @@ return array (
     'latitude' => 14.01667,
     'longitude' => -86.35,
   ),
-  320 => 
+  295 => 
   array (
     'id' => 54155,
     'name' => 'Ojojona',
@@ -2890,7 +2665,7 @@ return array (
     'latitude' => 13.93389,
     'longitude' => -87.29583,
   ),
-  321 => 
+  296 => 
   array (
     'id' => 54156,
     'name' => 'Ojos de Agua',
@@ -2899,16 +2674,7 @@ return array (
     'latitude' => 14.7,
     'longitude' => -88.81667,
   ),
-  322 => 
-  array (
-    'id' => 54157,
-    'name' => 'Ojos de Agua',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.79498,
-    'longitude' => -87.6501,
-  ),
-  323 => 
+  297 => 
   array (
     'id' => 54158,
     'name' => 'Olanchito',
@@ -2917,7 +2683,7 @@ return array (
     'latitude' => 15.48131,
     'longitude' => -86.57415,
   ),
-  324 => 
+  298 => 
   array (
     'id' => 54159,
     'name' => 'Omoa',
@@ -2926,7 +2692,7 @@ return array (
     'latitude' => 15.76667,
     'longitude' => -88.03333,
   ),
-  325 => 
+  299 => 
   array (
     'id' => 54160,
     'name' => 'Opatoro',
@@ -2935,7 +2701,7 @@ return array (
     'latitude' => 14.02451,
     'longitude' => -87.87982,
   ),
-  326 => 
+  300 => 
   array (
     'id' => 54161,
     'name' => 'Orica',
@@ -2944,7 +2710,7 @@ return array (
     'latitude' => 14.80645,
     'longitude' => -86.9576,
   ),
-  327 => 
+  301 => 
   array (
     'id' => 54162,
     'name' => 'Orocuina',
@@ -2953,7 +2719,7 @@ return array (
     'latitude' => 13.48167,
     'longitude' => -87.105,
   ),
-  328 => 
+  302 => 
   array (
     'id' => 54163,
     'name' => 'Oropolí',
@@ -2962,7 +2728,7 @@ return array (
     'latitude' => 13.81667,
     'longitude' => -86.81667,
   ),
-  329 => 
+  303 => 
   array (
     'id' => 54164,
     'name' => 'Oropéndolas',
@@ -2971,7 +2737,7 @@ return array (
     'latitude' => 15.01667,
     'longitude' => -87.93333,
   ),
-  330 => 
+  304 => 
   array (
     'id' => 54165,
     'name' => 'Paptalaya',
@@ -2980,7 +2746,7 @@ return array (
     'latitude' => 15.5,
     'longitude' => -84.31667,
   ),
-  331 => 
+  305 => 
   array (
     'id' => 54166,
     'name' => 'Patuca',
@@ -2989,7 +2755,7 @@ return array (
     'latitude' => 14.36,
     'longitude' => -85.97,
   ),
-  332 => 
+  306 => 
   array (
     'id' => 54167,
     'name' => 'Paujiles',
@@ -2998,7 +2764,7 @@ return array (
     'latitude' => 15.1,
     'longitude' => -87.35,
   ),
-  333 => 
+  307 => 
   array (
     'id' => 54168,
     'name' => 'Pespire',
@@ -3007,7 +2773,7 @@ return array (
     'latitude' => 13.59222,
     'longitude' => -87.36167,
   ),
-  334 => 
+  308 => 
   array (
     'id' => 54169,
     'name' => 'Petoa',
@@ -3016,7 +2782,7 @@ return array (
     'latitude' => 15.26667,
     'longitude' => -88.28333,
   ),
-  335 => 
+  309 => 
   array (
     'id' => 54170,
     'name' => 'Peña Blanca',
@@ -3025,7 +2791,7 @@ return array (
     'latitude' => 15.53333,
     'longitude' => -88.05,
   ),
-  336 => 
+  310 => 
   array (
     'id' => 54171,
     'name' => 'Pimienta',
@@ -3034,7 +2800,7 @@ return array (
     'latitude' => 15.265,
     'longitude' => -87.96667,
   ),
-  337 => 
+  311 => 
   array (
     'id' => 54172,
     'name' => 'Pimienta Vieja',
@@ -3043,7 +2809,7 @@ return array (
     'latitude' => 15.23333,
     'longitude' => -87.96667,
   ),
-  338 => 
+  312 => 
   array (
     'id' => 54173,
     'name' => 'Pinalejo',
@@ -3052,7 +2818,7 @@ return array (
     'latitude' => 15.38333,
     'longitude' => -88.4,
   ),
-  339 => 
+  313 => 
   array (
     'id' => 54174,
     'name' => 'Piraera',
@@ -3061,7 +2827,7 @@ return array (
     'latitude' => 14.06261,
     'longitude' => -88.46319,
   ),
-  340 => 
+  314 => 
   array (
     'id' => 54175,
     'name' => 'Potrerillos',
@@ -3070,25 +2836,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => -87.86667,
   ),
-  341 => 
-  array (
-    'id' => 54176,
-    'name' => 'Potrerillos',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.21,
-    'longitude' => -87.95,
-  ),
-  342 => 
-  array (
-    'id' => 54177,
-    'name' => 'Potrerillos',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.04478,
-    'longitude' => -86.76201,
-  ),
-  343 => 
+  315 => 
   array (
     'id' => 54178,
     'name' => 'Prieta',
@@ -3097,7 +2845,7 @@ return array (
     'latitude' => 15.5806,
     'longitude' => -86.13664,
   ),
-  344 => 
+  316 => 
   array (
     'id' => 54179,
     'name' => 'Protección',
@@ -3106,7 +2854,7 @@ return array (
     'latitude' => 15.03333,
     'longitude' => -88.65,
   ),
-  345 => 
+  317 => 
   array (
     'id' => 54180,
     'name' => 'Pueblo Nuevo',
@@ -3115,16 +2863,7 @@ return array (
     'latitude' => 15.28333,
     'longitude' => -88.01667,
   ),
-  346 => 
-  array (
-    'id' => 54181,
-    'name' => 'Pueblo Nuevo',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.0,
-    'longitude' => -88.75,
-  ),
-  347 => 
+  318 => 
   array (
     'id' => 54182,
     'name' => 'Puerto Alto',
@@ -3133,7 +2872,7 @@ return array (
     'latitude' => 15.7,
     'longitude' => -87.86667,
   ),
-  348 => 
+  319 => 
   array (
     'id' => 54183,
     'name' => 'Puerto Castilla',
@@ -3142,7 +2881,7 @@ return array (
     'latitude' => 16.01667,
     'longitude' => -85.96667,
   ),
-  349 => 
+  320 => 
   array (
     'id' => 54184,
     'name' => 'Puerto Cortez',
@@ -3151,7 +2890,7 @@ return array (
     'latitude' => 15.82562,
     'longitude' => -87.92968,
   ),
-  350 => 
+  321 => 
   array (
     'id' => 54185,
     'name' => 'Puerto Cortés',
@@ -3160,7 +2899,7 @@ return array (
     'latitude' => 15.79,
     'longitude' => -87.849,
   ),
-  351 => 
+  322 => 
   array (
     'id' => 54186,
     'name' => 'Puerto Lempira',
@@ -3169,7 +2908,7 @@ return array (
     'latitude' => 15.26667,
     'longitude' => -83.77222,
   ),
-  352 => 
+  323 => 
   array (
     'id' => 54187,
     'name' => 'Punta Ocote',
@@ -3178,7 +2917,7 @@ return array (
     'latitude' => 15.2,
     'longitude' => -87.28333,
   ),
-  353 => 
+  324 => 
   array (
     'id' => 54188,
     'name' => 'Punta Piedra',
@@ -3187,7 +2926,7 @@ return array (
     'latitude' => 15.9,
     'longitude' => -85.28333,
   ),
-  354 => 
+  325 => 
   array (
     'id' => 54189,
     'name' => 'Punuare',
@@ -3196,7 +2935,7 @@ return array (
     'latitude' => 14.73333,
     'longitude' => -85.96667,
   ),
-  355 => 
+  326 => 
   array (
     'id' => 54190,
     'name' => 'Quebrada Larga',
@@ -3205,7 +2944,7 @@ return array (
     'latitude' => 14.1,
     'longitude' => -86.36667,
   ),
-  356 => 
+  327 => 
   array (
     'id' => 54191,
     'name' => 'Quebrada Seca',
@@ -3214,7 +2953,7 @@ return array (
     'latitude' => 15.66667,
     'longitude' => -87.95,
   ),
-  357 => 
+  328 => 
   array (
     'id' => 54192,
     'name' => 'Quebrada de Arena',
@@ -3223,7 +2962,7 @@ return array (
     'latitude' => 15.76667,
     'longitude' => -85.91667,
   ),
-  358 => 
+  329 => 
   array (
     'id' => 54193,
     'name' => 'Quebradas',
@@ -3232,7 +2971,7 @@ return array (
     'latitude' => 14.5,
     'longitude' => -87.35,
   ),
-  359 => 
+  330 => 
   array (
     'id' => 54194,
     'name' => 'Quezailica',
@@ -3241,7 +2980,7 @@ return array (
     'latitude' => 14.88333,
     'longitude' => -88.73333,
   ),
-  360 => 
+  331 => 
   array (
     'id' => 54195,
     'name' => 'Quimistán',
@@ -3250,7 +2989,7 @@ return array (
     'latitude' => 15.35,
     'longitude' => -88.4,
   ),
-  361 => 
+  332 => 
   array (
     'id' => 54196,
     'name' => 'Reitoca',
@@ -3259,7 +2998,7 @@ return array (
     'latitude' => 13.82583,
     'longitude' => -87.46528,
   ),
-  362 => 
+  333 => 
   array (
     'id' => 54197,
     'name' => 'Roatán',
@@ -3268,7 +3007,7 @@ return array (
     'latitude' => 16.34098,
     'longitude' => -86.53763,
   ),
-  363 => 
+  334 => 
   array (
     'id' => 54198,
     'name' => 'Río Abajo',
@@ -3277,7 +3016,7 @@ return array (
     'latitude' => 14.16667,
     'longitude' => -87.21667,
   ),
-  364 => 
+  335 => 
   array (
     'id' => 54199,
     'name' => 'Río Blanquito',
@@ -3286,7 +3025,7 @@ return array (
     'latitude' => 15.73333,
     'longitude' => -87.9,
   ),
-  365 => 
+  336 => 
   array (
     'id' => 54200,
     'name' => 'Río Bonito',
@@ -3295,7 +3034,7 @@ return array (
     'latitude' => 14.76667,
     'longitude' => -87.88333,
   ),
-  366 => 
+  337 => 
   array (
     'id' => 54201,
     'name' => 'Río Chiquito',
@@ -3304,7 +3043,7 @@ return array (
     'latitude' => 15.63333,
     'longitude' => -88.25,
   ),
-  367 => 
+  338 => 
   array (
     'id' => 54202,
     'name' => 'Río Esteban',
@@ -3313,7 +3052,7 @@ return array (
     'latitude' => 15.83333,
     'longitude' => -86.3,
   ),
-  368 => 
+  339 => 
   array (
     'id' => 54203,
     'name' => 'Río Lindo',
@@ -3322,7 +3061,7 @@ return array (
     'latitude' => 15.03333,
     'longitude' => -87.98333,
   ),
-  369 => 
+  340 => 
   array (
     'id' => 54204,
     'name' => 'Sabanagrande',
@@ -3331,7 +3070,7 @@ return array (
     'latitude' => 13.80778,
     'longitude' => -87.25917,
   ),
-  370 => 
+  341 => 
   array (
     'id' => 54205,
     'name' => 'Sabá',
@@ -3340,7 +3079,7 @@ return array (
     'latitude' => 15.46667,
     'longitude' => -86.25,
   ),
-  371 => 
+  342 => 
   array (
     'id' => 54206,
     'name' => 'Salamá',
@@ -3349,16 +3088,7 @@ return array (
     'latitude' => 15.75,
     'longitude' => -85.96667,
   ),
-  372 => 
-  array (
-    'id' => 54207,
-    'name' => 'Salamá',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.81052,
-    'longitude' => -86.61996,
-  ),
-  373 => 
+  343 => 
   array (
     'id' => 54208,
     'name' => 'Sambo Creek',
@@ -3367,7 +3097,7 @@ return array (
     'latitude' => 15.81667,
     'longitude' => -86.68333,
   ),
-  374 => 
+  344 => 
   array (
     'id' => 54209,
     'name' => 'San Agustín',
@@ -3376,7 +3106,7 @@ return array (
     'latitude' => 14.81973,
     'longitude' => -88.93027,
   ),
-  375 => 
+  345 => 
   array (
     'id' => 54210,
     'name' => 'San Andrés',
@@ -3385,7 +3115,7 @@ return array (
     'latitude' => 14.21968,
     'longitude' => -88.54981,
   ),
-  376 => 
+  346 => 
   array (
     'id' => 54211,
     'name' => 'San Antonio',
@@ -3394,34 +3124,7 @@ return array (
     'latitude' => 15.33333,
     'longitude' => -87.15,
   ),
-  377 => 
-  array (
-    'id' => 54212,
-    'name' => 'San Antonio',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.6,
-    'longitude' => -87.15,
-  ),
-  378 => 
-  array (
-    'id' => 54213,
-    'name' => 'San Antonio',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.95043,
-    'longitude' => -88.46493,
-  ),
-  379 => 
-  array (
-    'id' => 54214,
-    'name' => 'San Antonio',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.04,
-    'longitude' => -88.88,
-  ),
-  380 => 
+  347 => 
   array (
     'id' => 54215,
     'name' => 'San Antonio de Cortés',
@@ -3430,7 +3133,7 @@ return array (
     'latitude' => 15.11667,
     'longitude' => -88.03333,
   ),
-  381 => 
+  348 => 
   array (
     'id' => 54216,
     'name' => 'San Antonio de Flores',
@@ -3439,16 +3142,7 @@ return array (
     'latitude' => 13.64152,
     'longitude' => -87.34075,
   ),
-  382 => 
-  array (
-    'id' => 54217,
-    'name' => 'San Antonio de Flores',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.71089,
-    'longitude' => -86.84226,
-  ),
-  383 => 
+  349 => 
   array (
     'id' => 54218,
     'name' => 'San Antonio de Oriente',
@@ -3457,7 +3151,7 @@ return array (
     'latitude' => 14.03859,
     'longitude' => -86.98951,
   ),
-  384 => 
+  350 => 
   array (
     'id' => 54219,
     'name' => 'San Antonio de la Cuesta',
@@ -3466,7 +3160,7 @@ return array (
     'latitude' => 14.63333,
     'longitude' => -87.6,
   ),
-  385 => 
+  351 => 
   array (
     'id' => 54220,
     'name' => 'San Antonio del Norte',
@@ -3475,7 +3169,7 @@ return array (
     'latitude' => 13.88,
     'longitude' => -87.72,
   ),
-  386 => 
+  352 => 
   array (
     'id' => 54221,
     'name' => 'San Buenaventura',
@@ -3484,16 +3178,7 @@ return array (
     'latitude' => 15.01667,
     'longitude' => -88.0,
   ),
-  387 => 
-  array (
-    'id' => 54222,
-    'name' => 'San Buenaventura',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.891,
-    'longitude' => -87.18554,
-  ),
-  388 => 
+  353 => 
   array (
     'id' => 54223,
     'name' => 'San Diego',
@@ -3502,7 +3187,7 @@ return array (
     'latitude' => 14.05,
     'longitude' => -86.46667,
   ),
-  389 => 
+  354 => 
   array (
     'id' => 54224,
     'name' => 'San Esteban',
@@ -3511,7 +3196,7 @@ return array (
     'latitude' => 15.29467,
     'longitude' => -85.69487,
   ),
-  390 => 
+  355 => 
   array (
     'id' => 54225,
     'name' => 'San Fernando',
@@ -3520,7 +3205,7 @@ return array (
     'latitude' => 14.68793,
     'longitude' => -89.10153,
   ),
-  391 => 
+  356 => 
   array (
     'id' => 54226,
     'name' => 'San Francisco',
@@ -3529,16 +3214,7 @@ return array (
     'latitude' => 15.65246,
     'longitude' => -87.01736,
   ),
-  392 => 
-  array (
-    'id' => 54227,
-    'name' => 'San Francisco',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.12435,
-    'longitude' => -88.37189,
-  ),
-  393 => 
+  357 => 
   array (
     'id' => 54228,
     'name' => 'San Francisco de Becerra',
@@ -3547,7 +3223,7 @@ return array (
     'latitude' => 14.63333,
     'longitude' => -86.1,
   ),
-  394 => 
+  358 => 
   array (
     'id' => 54229,
     'name' => 'San Francisco de Cones',
@@ -3556,7 +3232,7 @@ return array (
     'latitude' => 14.51667,
     'longitude' => -88.9,
   ),
-  395 => 
+  359 => 
   array (
     'id' => 54230,
     'name' => 'San Francisco de Coray',
@@ -3565,7 +3241,7 @@ return array (
     'latitude' => 13.66139,
     'longitude' => -87.53278,
   ),
-  396 => 
+  360 => 
   array (
     'id' => 54231,
     'name' => 'San Francisco de Ojuera',
@@ -3574,7 +3250,7 @@ return array (
     'latitude' => 14.67,
     'longitude' => -88.21,
   ),
-  397 => 
+  361 => 
   array (
     'id' => 54232,
     'name' => 'San Francisco de Opalaca',
@@ -3583,7 +3259,7 @@ return array (
     'latitude' => 14.58441,
     'longitude' => -88.30253,
   ),
-  398 => 
+  362 => 
   array (
     'id' => 54233,
     'name' => 'San Francisco de Yojoa',
@@ -3592,7 +3268,7 @@ return array (
     'latitude' => 15.01667,
     'longitude' => -87.96667,
   ),
-  399 => 
+  363 => 
   array (
     'id' => 54234,
     'name' => 'San Francisco de la Paz',
@@ -3601,7 +3277,7 @@ return array (
     'latitude' => 14.9,
     'longitude' => -86.2,
   ),
-  400 => 
+  364 => 
   array (
     'id' => 54235,
     'name' => 'San Francisco del Valle',
@@ -3610,7 +3286,7 @@ return array (
     'latitude' => 14.43333,
     'longitude' => -88.95,
   ),
-  401 => 
+  365 => 
   array (
     'id' => 54236,
     'name' => 'San Ignacio',
@@ -3619,7 +3295,7 @@ return array (
     'latitude' => 14.73795,
     'longitude' => -87.04759,
   ),
-  402 => 
+  366 => 
   array (
     'id' => 54237,
     'name' => 'San Isidro',
@@ -3628,16 +3304,7 @@ return array (
     'latitude' => 13.64454,
     'longitude' => -87.26093,
   ),
-  403 => 
-  array (
-    'id' => 54238,
-    'name' => 'San Isidro',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.56763,
-    'longitude' => -88.11743,
-  ),
-  404 => 
+  367 => 
   array (
     'id' => 54239,
     'name' => 'San Jerónimo',
@@ -3646,25 +3313,7 @@ return array (
     'latitude' => 13.17667,
     'longitude' => -87.13639,
   ),
-  405 => 
-  array (
-    'id' => 54240,
-    'name' => 'San Jerónimo',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.64043,
-    'longitude' => -87.56768,
-  ),
-  406 => 
-  array (
-    'id' => 54241,
-    'name' => 'San Jerónimo',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.96207,
-    'longitude' => -88.9027,
-  ),
-  407 => 
+  368 => 
   array (
     'id' => 54242,
     'name' => 'San Joaquín',
@@ -3673,7 +3322,7 @@ return array (
     'latitude' => 15.05,
     'longitude' => -88.9,
   ),
-  408 => 
+  369 => 
   array (
     'id' => 54243,
     'name' => 'San Jorge',
@@ -3682,7 +3331,7 @@ return array (
     'latitude' => 14.63697,
     'longitude' => -89.1186,
   ),
-  409 => 
+  370 => 
   array (
     'id' => 54244,
     'name' => 'San José',
@@ -3691,34 +3340,7 @@ return array (
     'latitude' => 15.31667,
     'longitude' => -87.16667,
   ),
-  410 => 
-  array (
-    'id' => 54245,
-    'name' => 'San José',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.91184,
-    'longitude' => -88.71667,
-  ),
-  411 => 
-  array (
-    'id' => 54246,
-    'name' => 'San José',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.22642,
-    'longitude' => -87.96238,
-  ),
-  412 => 
-  array (
-    'id' => 54247,
-    'name' => 'San José',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.71415,
-    'longitude' => -87.42256,
-  ),
-  413 => 
+  371 => 
   array (
     'id' => 54248,
     'name' => 'San José de Colinas',
@@ -3727,7 +3349,7 @@ return array (
     'latitude' => 15.03333,
     'longitude' => -88.3,
   ),
-  414 => 
+  372 => 
   array (
     'id' => 54249,
     'name' => 'San José de Comayagua',
@@ -3736,7 +3358,7 @@ return array (
     'latitude' => 14.73333,
     'longitude' => -88.03333,
   ),
-  415 => 
+  373 => 
   array (
     'id' => 54250,
     'name' => 'San José de Copán',
@@ -3745,7 +3367,7 @@ return array (
     'latitude' => 14.9,
     'longitude' => -88.71667,
   ),
-  416 => 
+  374 => 
   array (
     'id' => 54251,
     'name' => 'San José de Las Conchas',
@@ -3754,7 +3376,7 @@ return array (
     'latitude' => 13.32528,
     'longitude' => -87.39556,
   ),
-  417 => 
+  375 => 
   array (
     'id' => 54252,
     'name' => 'San José de Río Tinto',
@@ -3763,7 +3385,7 @@ return array (
     'latitude' => 14.93333,
     'longitude' => -85.7,
   ),
-  418 => 
+  376 => 
   array (
     'id' => 54253,
     'name' => 'San José de Tarros',
@@ -3772,7 +3394,7 @@ return array (
     'latitude' => 15.3,
     'longitude' => -88.7,
   ),
-  419 => 
+  377 => 
   array (
     'id' => 54254,
     'name' => 'San José del Boquerón',
@@ -3781,7 +3403,7 @@ return array (
     'latitude' => 15.48333,
     'longitude' => -87.86667,
   ),
-  420 => 
+  378 => 
   array (
     'id' => 54255,
     'name' => 'San José del Potrero',
@@ -3790,7 +3412,7 @@ return array (
     'latitude' => 14.86203,
     'longitude' => -87.29049,
   ),
-  421 => 
+  379 => 
   array (
     'id' => 54256,
     'name' => 'San Juan',
@@ -3799,16 +3421,7 @@ return array (
     'latitude' => 14.42127,
     'longitude' => -88.41953,
   ),
-  422 => 
-  array (
-    'id' => 54257,
-    'name' => 'San Juan',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.95428,
-    'longitude' => -87.72948,
-  ),
-  423 => 
+  380 => 
   array (
     'id' => 54258,
     'name' => 'San Juan Guarita',
@@ -3817,7 +3430,7 @@ return array (
     'latitude' => 14.15492,
     'longitude' => -88.77477,
   ),
-  424 => 
+  381 => 
   array (
     'id' => 54259,
     'name' => 'San Juan Pueblo',
@@ -3826,7 +3439,7 @@ return array (
     'latitude' => 15.58333,
     'longitude' => -87.23333,
   ),
-  425 => 
+  382 => 
   array (
     'id' => 54260,
     'name' => 'San Juan de Flores',
@@ -3835,7 +3448,7 @@ return array (
     'latitude' => 14.26667,
     'longitude' => -87.03333,
   ),
-  426 => 
+  383 => 
   array (
     'id' => 54261,
     'name' => 'San Juan de Opoa',
@@ -3844,7 +3457,7 @@ return array (
     'latitude' => 14.78333,
     'longitude' => -88.7,
   ),
-  427 => 
+  384 => 
   array (
     'id' => 54262,
     'name' => 'San Juan de Planes',
@@ -3853,7 +3466,7 @@ return array (
     'latitude' => 14.93333,
     'longitude' => -88.78333,
   ),
-  428 => 
+  385 => 
   array (
     'id' => 54263,
     'name' => 'San Lorenzo',
@@ -3862,7 +3475,7 @@ return array (
     'latitude' => 13.45149,
     'longitude' => -87.40743,
   ),
-  429 => 
+  386 => 
   array (
     'id' => 54264,
     'name' => 'San Lucas',
@@ -3871,7 +3484,7 @@ return array (
     'latitude' => 13.74586,
     'longitude' => -86.95163,
   ),
-  430 => 
+  387 => 
   array (
     'id' => 54265,
     'name' => 'San Luis',
@@ -3880,16 +3493,7 @@ return array (
     'latitude' => 15.08333,
     'longitude' => -88.38333,
   ),
-  431 => 
-  array (
-    'id' => 54266,
-    'name' => 'San Luis',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.75,
-    'longitude' => -87.41667,
-  ),
-  432 => 
+  388 => 
   array (
     'id' => 54267,
     'name' => 'San Luis de Planes',
@@ -3898,7 +3502,7 @@ return array (
     'latitude' => 14.98333,
     'longitude' => -88.13333,
   ),
-  433 => 
+  389 => 
   array (
     'id' => 54268,
     'name' => 'San Manuel',
@@ -3907,7 +3511,7 @@ return array (
     'latitude' => 15.37279,
     'longitude' => -87.90167,
   ),
-  434 => 
+  390 => 
   array (
     'id' => 54269,
     'name' => 'San Manuel Colohete',
@@ -3916,7 +3520,7 @@ return array (
     'latitude' => 14.44435,
     'longitude' => -88.6705,
   ),
-  435 => 
+  391 => 
   array (
     'id' => 54270,
     'name' => 'San Marcos',
@@ -3925,16 +3529,7 @@ return array (
     'latitude' => 15.3,
     'longitude' => -88.41667,
   ),
-  436 => 
-  array (
-    'id' => 54271,
-    'name' => 'San Marcos',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.38,
-    'longitude' => -88.92,
-  ),
-  437 => 
+  392 => 
   array (
     'id' => 54272,
     'name' => 'San Marcos de Caiquin',
@@ -3943,7 +3538,7 @@ return array (
     'latitude' => 14.41614,
     'longitude' => -88.60126,
   ),
-  438 => 
+  393 => 
   array (
     'id' => 54273,
     'name' => 'San Marcos de Colón',
@@ -3952,7 +3547,7 @@ return array (
     'latitude' => 13.41512,
     'longitude' => -86.82095,
   ),
-  439 => 
+  394 => 
   array (
     'id' => 54274,
     'name' => 'San Marcos de la Sierra',
@@ -3961,7 +3556,7 @@ return array (
     'latitude' => 14.13236,
     'longitude' => -88.2469,
   ),
-  440 => 
+  395 => 
   array (
     'id' => 54275,
     'name' => 'San Matías',
@@ -3970,7 +3565,7 @@ return array (
     'latitude' => 13.95966,
     'longitude' => -86.64032,
   ),
-  441 => 
+  396 => 
   array (
     'id' => 54276,
     'name' => 'San Miguelito',
@@ -3979,16 +3574,7 @@ return array (
     'latitude' => 13.74572,
     'longitude' => -87.49233,
   ),
-  442 => 
-  array (
-    'id' => 54277,
-    'name' => 'San Miguelito',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.34875,
-    'longitude' => -88.33983,
-  ),
-  443 => 
+  397 => 
   array (
     'id' => 54278,
     'name' => 'San Nicolás',
@@ -3997,25 +3583,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => -86.25,
   ),
-  444 => 
-  array (
-    'id' => 54279,
-    'name' => 'San Nicolás',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.98,
-    'longitude' => -88.73,
-  ),
-  445 => 
-  array (
-    'id' => 54280,
-    'name' => 'San Nicolás',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.91913,
-    'longitude' => -88.3791,
-  ),
-  446 => 
+  398 => 
   array (
     'id' => 54281,
     'name' => 'San Pedro Sula',
@@ -4024,7 +3592,7 @@ return array (
     'latitude' => 15.50417,
     'longitude' => -88.025,
   ),
-  447 => 
+  399 => 
   array (
     'id' => 54282,
     'name' => 'San Pedro Zacapa',
@@ -4033,7 +3601,7 @@ return array (
     'latitude' => 14.75,
     'longitude' => -88.11667,
   ),
-  448 => 
+  400 => 
   array (
     'id' => 54283,
     'name' => 'San Pedro de Copán',
@@ -4042,7 +3610,7 @@ return array (
     'latitude' => 14.61667,
     'longitude' => -88.8,
   ),
-  449 => 
+  401 => 
   array (
     'id' => 54284,
     'name' => 'San Pedro de Tutule',
@@ -4051,7 +3619,7 @@ return array (
     'latitude' => 14.25,
     'longitude' => -87.85,
   ),
-  450 => 
+  402 => 
   array (
     'id' => 54285,
     'name' => 'San Rafael',
@@ -4060,7 +3628,7 @@ return array (
     'latitude' => 14.73333,
     'longitude' => -88.41667,
   ),
-  451 => 
+  403 => 
   array (
     'id' => 54286,
     'name' => 'San Sebastián',
@@ -4069,16 +3637,7 @@ return array (
     'latitude' => 14.23687,
     'longitude' => -87.63215,
   ),
-  452 => 
-  array (
-    'id' => 54287,
-    'name' => 'San Sebastián',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.34594,
-    'longitude' => -88.73487,
-  ),
-  453 => 
+  404 => 
   array (
     'id' => 54288,
     'name' => 'San Vicente Centenario',
@@ -4087,7 +3646,7 @@ return array (
     'latitude' => 14.88333,
     'longitude' => -88.28333,
   ),
-  454 => 
+  405 => 
   array (
     'id' => 54289,
     'name' => 'Sandy Bay',
@@ -4096,7 +3655,7 @@ return array (
     'latitude' => 16.32923,
     'longitude' => -86.56446,
   ),
-  455 => 
+  406 => 
   array (
     'id' => 54290,
     'name' => 'Santa Ana',
@@ -4105,25 +3664,7 @@ return array (
     'latitude' => 15.65,
     'longitude' => -87.06667,
   ),
-  456 => 
-  array (
-    'id' => 54291,
-    'name' => 'Santa Ana',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.94,
-    'longitude' => -87.21,
-  ),
-  457 => 
-  array (
-    'id' => 54292,
-    'name' => 'Santa Ana',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.00011,
-    'longitude' => -87.94107,
-  ),
-  458 => 
+  407 => 
   array (
     'id' => 54293,
     'name' => 'Santa Ana de Yusguare',
@@ -4132,7 +3673,7 @@ return array (
     'latitude' => 13.30056,
     'longitude' => -87.11389,
   ),
-  459 => 
+  408 => 
   array (
     'id' => 54294,
     'name' => 'Santa Bárbara',
@@ -4141,7 +3682,7 @@ return array (
     'latitude' => 14.91944,
     'longitude' => -88.23611,
   ),
-  460 => 
+  409 => 
   array (
     'id' => 54295,
     'name' => 'Santa Cruz',
@@ -4150,25 +3691,7 @@ return array (
     'latitude' => 13.25806,
     'longitude' => -87.34833,
   ),
-  461 => 
-  array (
-    'id' => 54296,
-    'name' => 'Santa Cruz',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.86667,
-    'longitude' => -86.63333,
-  ),
-  462 => 
-  array (
-    'id' => 54297,
-    'name' => 'Santa Cruz',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.34427,
-    'longitude' => -88.52684,
-  ),
-  463 => 
+  410 => 
   array (
     'id' => 54298,
     'name' => 'Santa Cruz de Yojoa',
@@ -4177,7 +3700,7 @@ return array (
     'latitude' => 14.98333,
     'longitude' => -87.9,
   ),
-  464 => 
+  411 => 
   array (
     'id' => 54299,
     'name' => 'Santa Elena',
@@ -4186,16 +3709,7 @@ return array (
     'latitude' => 15.38333,
     'longitude' => -88.13333,
   ),
-  465 => 
-  array (
-    'id' => 54300,
-    'name' => 'Santa Elena',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.07149,
-    'longitude' => -88.15445,
-  ),
-  466 => 
+  412 => 
   array (
     'id' => 54301,
     'name' => 'Santa Fe',
@@ -4204,16 +3718,7 @@ return array (
     'latitude' => 14.50038,
     'longitude' => -89.2732,
   ),
-  467 => 
-  array (
-    'id' => 54302,
-    'name' => 'Santa Fe',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 15.85424,
-    'longitude' => -86.11083,
-  ),
-  468 => 
+  413 => 
   array (
     'id' => 54303,
     'name' => 'Santa Lucía',
@@ -4222,25 +3727,7 @@ return array (
     'latitude' => 14.41667,
     'longitude' => -89.2,
   ),
-  469 => 
-  array (
-    'id' => 54304,
-    'name' => 'Santa Lucía',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 13.90812,
-    'longitude' => -88.41566,
-  ),
-  470 => 
-  array (
-    'id' => 54305,
-    'name' => 'Santa Lucía',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.12595,
-    'longitude' => -87.09175,
-  ),
-  471 => 
+  414 => 
   array (
     'id' => 54306,
     'name' => 'Santa María',
@@ -4249,7 +3736,7 @@ return array (
     'latitude' => 14.26904,
     'longitude' => -87.91164,
   ),
-  472 => 
+  415 => 
   array (
     'id' => 54307,
     'name' => 'Santa María del Real',
@@ -4258,7 +3745,7 @@ return array (
     'latitude' => 14.76667,
     'longitude' => -85.95,
   ),
-  473 => 
+  416 => 
   array (
     'id' => 54308,
     'name' => 'Santa Rita',
@@ -4267,25 +3754,7 @@ return array (
     'latitude' => 15.18,
     'longitude' => -87.81,
   ),
-  474 => 
-  array (
-    'id' => 54309,
-    'name' => 'Santa Rita',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.76015,
-    'longitude' => -88.26782,
-  ),
-  475 => 
-  array (
-    'id' => 54310,
-    'name' => 'Santa Rita',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.88,
-    'longitude' => -89.01,
-  ),
-  476 => 
+  417 => 
   array (
     'id' => 54311,
     'name' => 'Santa Rita Copan',
@@ -4294,7 +3763,7 @@ return array (
     'latitude' => 14.86748,
     'longitude' => -89.1,
   ),
-  477 => 
+  418 => 
   array (
     'id' => 54312,
     'name' => 'Santa Rosa de Aguán',
@@ -4303,7 +3772,7 @@ return array (
     'latitude' => 15.95,
     'longitude' => -85.71667,
   ),
-  478 => 
+  419 => 
   array (
     'id' => 54313,
     'name' => 'Santa Rosa de Copán',
@@ -4312,7 +3781,7 @@ return array (
     'latitude' => 14.76667,
     'longitude' => -88.77917,
   ),
-  479 => 
+  420 => 
   array (
     'id' => 54314,
     'name' => 'Santiago Puringla',
@@ -4321,7 +3790,7 @@ return array (
     'latitude' => 14.35,
     'longitude' => -87.9,
   ),
-  480 => 
+  421 => 
   array (
     'id' => 54315,
     'name' => 'Savannah Bight',
@@ -4330,7 +3799,7 @@ return array (
     'latitude' => 16.45,
     'longitude' => -85.85,
   ),
-  481 => 
+  422 => 
   array (
     'id' => 54316,
     'name' => 'Sensenti',
@@ -4339,7 +3808,7 @@ return array (
     'latitude' => 14.48333,
     'longitude' => -88.93333,
   ),
-  482 => 
+  423 => 
   array (
     'id' => 54317,
     'name' => 'Siguatepeque',
@@ -4348,7 +3817,7 @@ return array (
     'latitude' => 14.6,
     'longitude' => -87.83333,
   ),
-  483 => 
+  424 => 
   array (
     'id' => 54318,
     'name' => 'Silca',
@@ -4357,7 +3826,7 @@ return array (
     'latitude' => 14.76205,
     'longitude' => -86.51521,
   ),
-  484 => 
+  425 => 
   array (
     'id' => 54319,
     'name' => 'Sinuapa',
@@ -4366,7 +3835,7 @@ return array (
     'latitude' => 14.45,
     'longitude' => -89.18333,
   ),
-  485 => 
+  426 => 
   array (
     'id' => 54320,
     'name' => 'Soledad',
@@ -4375,7 +3844,7 @@ return array (
     'latitude' => 13.58333,
     'longitude' => -87.11667,
   ),
-  486 => 
+  427 => 
   array (
     'id' => 54321,
     'name' => 'Sonaguera',
@@ -4384,7 +3853,7 @@ return array (
     'latitude' => 15.64,
     'longitude' => -86.26,
   ),
-  487 => 
+  428 => 
   array (
     'id' => 54322,
     'name' => 'Subirana',
@@ -4393,7 +3862,7 @@ return array (
     'latitude' => 15.2,
     'longitude' => -87.45,
   ),
-  488 => 
+  429 => 
   array (
     'id' => 54323,
     'name' => 'Sula',
@@ -4402,7 +3871,7 @@ return array (
     'latitude' => 15.25,
     'longitude' => -88.56667,
   ),
-  489 => 
+  430 => 
   array (
     'id' => 54324,
     'name' => 'Sulaco',
@@ -4411,7 +3880,7 @@ return array (
     'latitude' => 14.91667,
     'longitude' => -87.26667,
   ),
-  490 => 
+  431 => 
   array (
     'id' => 54325,
     'name' => 'Talanga',
@@ -4420,7 +3889,7 @@ return array (
     'latitude' => 14.41393,
     'longitude' => -87.06941,
   ),
-  491 => 
+  432 => 
   array (
     'id' => 54326,
     'name' => 'Talgua',
@@ -4429,7 +3898,7 @@ return array (
     'latitude' => 14.6811,
     'longitude' => -88.728,
   ),
-  492 => 
+  433 => 
   array (
     'id' => 54327,
     'name' => 'Tambla',
@@ -4438,7 +3907,7 @@ return array (
     'latitude' => 14.21276,
     'longitude' => -88.76768,
   ),
-  493 => 
+  434 => 
   array (
     'id' => 54328,
     'name' => 'Taragual',
@@ -4447,7 +3916,7 @@ return array (
     'latitude' => 14.75,
     'longitude' => -88.48333,
   ),
-  494 => 
+  435 => 
   array (
     'id' => 54329,
     'name' => 'Tatumbla',
@@ -4456,7 +3925,7 @@ return array (
     'latitude' => 13.98467,
     'longitude' => -87.06977,
   ),
-  495 => 
+  436 => 
   array (
     'id' => 54330,
     'name' => 'Taujica',
@@ -4465,7 +3934,7 @@ return array (
     'latitude' => 15.7,
     'longitude' => -85.91667,
   ),
-  496 => 
+  437 => 
   array (
     'id' => 54331,
     'name' => 'Taulabé',
@@ -4474,7 +3943,7 @@ return array (
     'latitude' => 14.67145,
     'longitude' => -87.98693,
   ),
-  497 => 
+  438 => 
   array (
     'id' => 54332,
     'name' => 'Teguajinal',
@@ -4483,7 +3952,7 @@ return array (
     'latitude' => 15.36667,
     'longitude' => -86.6,
   ),
-  498 => 
+  439 => 
   array (
     'id' => 54333,
     'name' => 'Tegucigalpa',
@@ -4492,7 +3961,7 @@ return array (
     'latitude' => 14.0818,
     'longitude' => -87.20681,
   ),
-  499 => 
+  440 => 
   array (
     'id' => 54334,
     'name' => 'Tela',
@@ -4501,7 +3970,7 @@ return array (
     'latitude' => 15.77425,
     'longitude' => -87.46731,
   ),
-  500 => 
+  441 => 
   array (
     'id' => 54335,
     'name' => 'Tepanguare',
@@ -4510,7 +3979,7 @@ return array (
     'latitude' => 14.33333,
     'longitude' => -87.75,
   ),
-  501 => 
+  442 => 
   array (
     'id' => 54336,
     'name' => 'Tepusteca',
@@ -4519,7 +3988,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => -86.31667,
   ),
-  502 => 
+  443 => 
   array (
     'id' => 54337,
     'name' => 'Teupasenti',
@@ -4528,7 +3997,7 @@ return array (
     'latitude' => 14.21667,
     'longitude' => -86.7,
   ),
-  503 => 
+  444 => 
   array (
     'id' => 54338,
     'name' => 'Texíguat',
@@ -4537,7 +4006,7 @@ return array (
     'latitude' => 13.64972,
     'longitude' => -87.0225,
   ),
-  504 => 
+  445 => 
   array (
     'id' => 54339,
     'name' => 'Tocoa',
@@ -4546,7 +4015,7 @@ return array (
     'latitude' => 15.68333,
     'longitude' => -86.0,
   ),
-  505 => 
+  446 => 
   array (
     'id' => 54340,
     'name' => 'Tomalá',
@@ -4555,7 +4024,7 @@ return array (
     'latitude' => 14.2433,
     'longitude' => -88.7314,
   ),
-  506 => 
+  447 => 
   array (
     'id' => 54341,
     'name' => 'Tornabé',
@@ -4564,7 +4033,7 @@ return array (
     'latitude' => 15.75,
     'longitude' => -87.55,
   ),
-  507 => 
+  448 => 
   array (
     'id' => 54342,
     'name' => 'Toyós',
@@ -4573,7 +4042,7 @@ return array (
     'latitude' => 15.55,
     'longitude' => -87.65,
   ),
-  508 => 
+  449 => 
   array (
     'id' => 54343,
     'name' => 'Tras Cerros',
@@ -4582,7 +4051,7 @@ return array (
     'latitude' => 15.3,
     'longitude' => -88.66667,
   ),
-  509 => 
+  450 => 
   array (
     'id' => 54344,
     'name' => 'Travesía',
@@ -4591,7 +4060,7 @@ return array (
     'latitude' => 15.86667,
     'longitude' => -87.9,
   ),
-  510 => 
+  451 => 
   array (
     'id' => 54345,
     'name' => 'Trinidad',
@@ -4600,7 +4069,7 @@ return array (
     'latitude' => 15.13333,
     'longitude' => -88.23333,
   ),
-  511 => 
+  452 => 
   array (
     'id' => 54346,
     'name' => 'Trinidad de Copán',
@@ -4609,7 +4078,7 @@ return array (
     'latitude' => 14.95,
     'longitude' => -88.75,
   ),
-  512 => 
+  453 => 
   array (
     'id' => 54347,
     'name' => 'Trojas',
@@ -4618,7 +4087,7 @@ return array (
     'latitude' => 15.35,
     'longitude' => -86.7,
   ),
-  513 => 
+  454 => 
   array (
     'id' => 54348,
     'name' => 'Trojes',
@@ -4627,7 +4096,7 @@ return array (
     'latitude' => 14.05966,
     'longitude' => -86.00166,
   ),
-  514 => 
+  455 => 
   array (
     'id' => 54349,
     'name' => 'Trujillo',
@@ -4636,7 +4105,7 @@ return array (
     'latitude' => 15.91667,
     'longitude' => -85.95417,
   ),
-  515 => 
+  456 => 
   array (
     'id' => 54350,
     'name' => 'Támara',
@@ -4645,7 +4114,7 @@ return array (
     'latitude' => 14.15,
     'longitude' => -87.33333,
   ),
-  516 => 
+  457 => 
   array (
     'id' => 54351,
     'name' => 'Utila',
@@ -4654,7 +4123,7 @@ return array (
     'latitude' => 16.10026,
     'longitude' => -86.9307,
   ),
-  517 => 
+  458 => 
   array (
     'id' => 54352,
     'name' => 'Vado Ancho',
@@ -4663,7 +4132,7 @@ return array (
     'latitude' => 13.64355,
     'longitude' => -86.95546,
   ),
-  518 => 
+  459 => 
   array (
     'id' => 54353,
     'name' => 'Valladolid',
@@ -4672,7 +4141,7 @@ return array (
     'latitude' => 14.1471,
     'longitude' => -88.7084,
   ),
-  519 => 
+  460 => 
   array (
     'id' => 54354,
     'name' => 'Valle de Ángeles',
@@ -4681,16 +4150,7 @@ return array (
     'latitude' => 14.15,
     'longitude' => -87.03333,
   ),
-  520 => 
-  array (
-    'id' => 54355,
-    'name' => 'Valle de Ángeles',
-    'country_id' => 97,
-    'country_code' => 'HN',
-    'latitude' => 14.5,
-    'longitude' => -87.63333,
-  ),
-  521 => 
+  461 => 
   array (
     'id' => 54356,
     'name' => 'Vallecillo',
@@ -4699,7 +4159,7 @@ return array (
     'latitude' => 14.51313,
     'longitude' => -87.40242,
   ),
-  522 => 
+  462 => 
   array (
     'id' => 54357,
     'name' => 'Veracruz',
@@ -4708,7 +4168,7 @@ return array (
     'latitude' => 14.88343,
     'longitude' => -88.7857,
   ),
-  523 => 
+  463 => 
   array (
     'id' => 54358,
     'name' => 'Victoria',
@@ -4717,7 +4177,7 @@ return array (
     'latitude' => 15.10012,
     'longitude' => -87.5302,
   ),
-  524 => 
+  464 => 
   array (
     'id' => 54359,
     'name' => 'Villa Nueva',
@@ -4726,7 +4186,7 @@ return array (
     'latitude' => 14.03333,
     'longitude' => -87.13333,
   ),
-  525 => 
+  465 => 
   array (
     'id' => 54360,
     'name' => 'Villa de San Antonio',
@@ -4735,7 +4195,7 @@ return array (
     'latitude' => 14.31667,
     'longitude' => -87.61667,
   ),
-  526 => 
+  466 => 
   array (
     'id' => 54361,
     'name' => 'Villa de San Francisco',
@@ -4744,7 +4204,7 @@ return array (
     'latitude' => 14.16667,
     'longitude' => -86.96667,
   ),
-  527 => 
+  467 => 
   array (
     'id' => 54362,
     'name' => 'Villanueva',
@@ -4753,7 +4213,7 @@ return array (
     'latitude' => 15.31667,
     'longitude' => -88.0,
   ),
-  528 => 
+  468 => 
   array (
     'id' => 54363,
     'name' => 'Villeda Morales',
@@ -4762,7 +4222,7 @@ return array (
     'latitude' => 15.08472,
     'longitude' => -83.35361,
   ),
-  529 => 
+  469 => 
   array (
     'id' => 54364,
     'name' => 'Virginia',
@@ -4771,7 +4231,7 @@ return array (
     'latitude' => 14.00522,
     'longitude' => -88.56193,
   ),
-  530 => 
+  470 => 
   array (
     'id' => 54365,
     'name' => 'Wampusirpi',
@@ -4780,7 +4240,7 @@ return array (
     'latitude' => 15.18333,
     'longitude' => -84.61667,
   ),
-  531 => 
+  471 => 
   array (
     'id' => 54366,
     'name' => 'Wawina',
@@ -4789,7 +4249,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => -84.43333,
   ),
-  532 => 
+  472 => 
   array (
     'id' => 54367,
     'name' => 'Yaguacire',
@@ -4798,7 +4258,7 @@ return array (
     'latitude' => 14.01667,
     'longitude' => -87.21667,
   ),
-  533 => 
+  473 => 
   array (
     'id' => 54368,
     'name' => 'Yamaranguila',
@@ -4807,7 +4267,7 @@ return array (
     'latitude' => 14.26826,
     'longitude' => -88.24652,
   ),
-  534 => 
+  474 => 
   array (
     'id' => 54369,
     'name' => 'Yaruchel',
@@ -4816,7 +4276,7 @@ return array (
     'latitude' => 14.53333,
     'longitude' => -88.81667,
   ),
-  535 => 
+  475 => 
   array (
     'id' => 54370,
     'name' => 'Yarula',
@@ -4825,7 +4285,7 @@ return array (
     'latitude' => 14.1,
     'longitude' => -88.08,
   ),
-  536 => 
+  476 => 
   array (
     'id' => 54371,
     'name' => 'Yarumela',
@@ -4834,7 +4294,7 @@ return array (
     'latitude' => 14.33333,
     'longitude' => -87.63333,
   ),
-  537 => 
+  477 => 
   array (
     'id' => 54372,
     'name' => 'Yauyupe',
@@ -4843,7 +4303,7 @@ return array (
     'latitude' => 13.74867,
     'longitude' => -87.0761,
   ),
-  538 => 
+  478 => 
   array (
     'id' => 54373,
     'name' => 'Yocón',
@@ -4852,7 +4312,7 @@ return array (
     'latitude' => 14.95,
     'longitude' => -86.82,
   ),
-  539 => 
+  479 => 
   array (
     'id' => 54374,
     'name' => 'Yorito',
@@ -4861,7 +4321,7 @@ return array (
     'latitude' => 15.06667,
     'longitude' => -87.28333,
   ),
-  540 => 
+  480 => 
   array (
     'id' => 54375,
     'name' => 'Yoro',
@@ -4870,7 +4330,7 @@ return array (
     'latitude' => 15.1375,
     'longitude' => -87.12778,
   ),
-  541 => 
+  481 => 
   array (
     'id' => 54376,
     'name' => 'Yuscarán',
@@ -4879,7 +4339,7 @@ return array (
     'latitude' => 13.95708,
     'longitude' => -86.8317,
   ),
-  542 => 
+  482 => 
   array (
     'id' => 54377,
     'name' => 'Zambrano',
@@ -4888,7 +4348,7 @@ return array (
     'latitude' => 14.26667,
     'longitude' => -87.4,
   ),
-  543 => 
+  483 => 
   array (
     'id' => 54378,
     'name' => 'Zamora',
@@ -4897,7 +4357,7 @@ return array (
     'latitude' => 15.63333,
     'longitude' => -86.06667,
   ),
-  544 => 
+  484 => 
   array (
     'id' => 54379,
     'name' => 'Zopilotepe',

@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -594,14 +594,5 @@ return array (
     'country_code' => 'AO',
     'latitude' => -12.6133,
     'longitude' => 14.4194,
-  ),
-  66 => 
-  array (
-    'id' => 153660,
-    'name' => 'Sumbe',
-    'country_id' => 7,
-    'country_code' => 'AO',
-    'latitude' => -11.2061,
-    'longitude' => 13.8448,
   ),
 );

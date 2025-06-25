@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -669,15 +669,6 @@ return array (
   ),
   74 => 
   array (
-    'id' => 57662,
-    'name' => 'Amarpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.5257,
-    'longitude' => 91.65879,
-  ),
-  75 => 
-  array (
     'id' => 57663,
     'name' => 'Amarpatan',
     'country_id' => 101,
@@ -685,7 +676,7 @@ return array (
     'latitude' => 24.31371,
     'longitude' => 80.97703,
   ),
-  76 => 
+  75 => 
   array (
     'id' => 57664,
     'name' => 'Amarwara',
@@ -694,7 +685,7 @@ return array (
     'latitude' => 22.2978,
     'longitude' => 79.16943,
   ),
-  77 => 
+  76 => 
   array (
     'id' => 57665,
     'name' => 'Ambad',
@@ -703,7 +694,7 @@ return array (
     'latitude' => 19.61301,
     'longitude' => 75.78906,
   ),
-  78 => 
+  77 => 
   array (
     'id' => 57666,
     'name' => 'Ambahta',
@@ -712,7 +703,7 @@ return array (
     'latitude' => 29.85706,
     'longitude' => 77.33583,
   ),
-  79 => 
+  78 => 
   array (
     'id' => 57667,
     'name' => 'Ambasamudram',
@@ -721,7 +712,7 @@ return array (
     'latitude' => 8.71068,
     'longitude' => 77.4519,
   ),
-  80 => 
+  79 => 
   array (
     'id' => 57668,
     'name' => 'Ambattur',
@@ -730,7 +721,7 @@ return array (
     'latitude' => 13.09818,
     'longitude' => 80.16152,
   ),
-  81 => 
+  80 => 
   array (
     'id' => 57669,
     'name' => 'Ambedkar Nagar',
@@ -739,7 +730,7 @@ return array (
     'latitude' => 26.40544,
     'longitude' => 82.69762,
   ),
-  82 => 
+  81 => 
   array (
     'id' => 57670,
     'name' => 'Ambikapur',
@@ -748,7 +739,7 @@ return array (
     'latitude' => 23.11892,
     'longitude' => 83.19537,
   ),
-  83 => 
+  82 => 
   array (
     'id' => 57671,
     'name' => 'Ambur',
@@ -757,7 +748,7 @@ return array (
     'latitude' => 12.79163,
     'longitude' => 78.71644,
   ),
-  84 => 
+  83 => 
   array (
     'id' => 57672,
     'name' => 'Ambagarh Chauki',
@@ -766,7 +757,7 @@ return array (
     'latitude' => 20.77644,
     'longitude' => 80.74608,
   ),
-  85 => 
+  84 => 
   array (
     'id' => 57673,
     'name' => 'Ambah',
@@ -775,7 +766,7 @@ return array (
     'latitude' => 26.70423,
     'longitude' => 78.22678,
   ),
-  86 => 
+  85 => 
   array (
     'id' => 57674,
     'name' => 'Ambajogai',
@@ -784,7 +775,7 @@ return array (
     'latitude' => 18.73312,
     'longitude' => 76.38616,
   ),
-  87 => 
+  86 => 
   array (
     'id' => 57675,
     'name' => 'Ambala',
@@ -793,7 +784,7 @@ return array (
     'latitude' => 30.32854,
     'longitude' => 76.9422,
   ),
-  88 => 
+  87 => 
   array (
     'id' => 57676,
     'name' => 'Amet',
@@ -802,7 +793,7 @@ return array (
     'latitude' => 25.30609,
     'longitude' => 73.9258,
   ),
-  89 => 
+  88 => 
   array (
     'id' => 57677,
     'name' => 'Amethi',
@@ -811,7 +802,7 @@ return array (
     'latitude' => 28.01667,
     'longitude' => 81.05,
   ),
-  90 => 
+  89 => 
   array (
     'id' => 57679,
     'name' => 'Amguri',
@@ -820,7 +811,7 @@ return array (
     'latitude' => 26.81482,
     'longitude' => 94.52614,
   ),
-  91 => 
+  90 => 
   array (
     'id' => 57680,
     'name' => 'Amla',
@@ -829,7 +820,7 @@ return array (
     'latitude' => 21.92485,
     'longitude' => 78.12786,
   ),
-  92 => 
+  91 => 
   array (
     'id' => 57681,
     'name' => 'Amloh',
@@ -838,7 +829,7 @@ return array (
     'latitude' => 30.60837,
     'longitude' => 76.23199,
   ),
-  93 => 
+  92 => 
   array (
     'id' => 57682,
     'name' => 'Ammapettai',
@@ -847,7 +838,7 @@ return array (
     'latitude' => 10.79476,
     'longitude' => 79.31986,
   ),
-  94 => 
+  93 => 
   array (
     'id' => 57683,
     'name' => 'Amod',
@@ -856,7 +847,7 @@ return array (
     'latitude' => 21.99317,
     'longitude' => 72.87047,
   ),
-  95 => 
+  94 => 
   array (
     'id' => 57685,
     'name' => 'Amreli',
@@ -865,7 +856,7 @@ return array (
     'latitude' => 21.50789,
     'longitude' => 71.18323,
   ),
-  96 => 
+  95 => 
   array (
     'id' => 57686,
     'name' => 'Amritsar',
@@ -874,7 +865,7 @@ return array (
     'latitude' => 31.67,
     'longitude' => 74.84,
   ),
-  97 => 
+  96 => 
   array (
     'id' => 57687,
     'name' => 'Amroha',
@@ -883,7 +874,7 @@ return array (
     'latitude' => 28.90314,
     'longitude' => 78.46984,
   ),
-  98 => 
+  97 => 
   array (
     'id' => 57688,
     'name' => 'Amroli',
@@ -892,7 +883,7 @@ return array (
     'latitude' => 21.25084,
     'longitude' => 72.83878,
   ),
-  99 => 
+  98 => 
   array (
     'id' => 57689,
     'name' => 'Amravati',
@@ -901,7 +892,7 @@ return array (
     'latitude' => 20.93333,
     'longitude' => 77.75,
   ),
-  100 => 
+  99 => 
   array (
     'id' => 57690,
     'name' => 'Amudalavalasa',
@@ -910,7 +901,7 @@ return array (
     'latitude' => 18.41025,
     'longitude' => 83.90295,
   ),
-  101 => 
+  100 => 
   array (
     'id' => 57691,
     'name' => 'Amanganj',
@@ -919,7 +910,7 @@ return array (
     'latitude' => 24.42664,
     'longitude' => 80.03579,
   ),
-  102 => 
+  101 => 
   array (
     'id' => 57692,
     'name' => 'Amanpur',
@@ -928,7 +919,7 @@ return array (
     'latitude' => 27.71222,
     'longitude' => 78.73788,
   ),
-  103 => 
+  102 => 
   array (
     'id' => 57693,
     'name' => 'Anakapalle',
@@ -937,7 +928,7 @@ return array (
     'latitude' => 17.69134,
     'longitude' => 83.00395,
   ),
-  104 => 
+  103 => 
   array (
     'id' => 57694,
     'name' => 'Anamalais',
@@ -946,7 +937,7 @@ return array (
     'latitude' => 10.58303,
     'longitude' => 76.93441,
   ),
-  105 => 
+  104 => 
   array (
     'id' => 57695,
     'name' => 'Anand',
@@ -955,7 +946,7 @@ return array (
     'latitude' => 22.4,
     'longitude' => 72.75,
   ),
-  106 => 
+  105 => 
   array (
     'id' => 57696,
     'name' => 'Anandnagar',
@@ -964,7 +955,7 @@ return array (
     'latitude' => 27.10062,
     'longitude' => 83.27156,
   ),
-  107 => 
+  106 => 
   array (
     'id' => 57697,
     'name' => 'Anandpur Sahib',
@@ -973,7 +964,7 @@ return array (
     'latitude' => 31.23926,
     'longitude' => 76.50253,
   ),
-  108 => 
+  107 => 
   array (
     'id' => 57698,
     'name' => 'Anantapur',
@@ -982,7 +973,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => 77.41667,
   ),
-  109 => 
+  108 => 
   array (
     'id' => 57699,
     'name' => 'Anantnag',
@@ -991,7 +982,7 @@ return array (
     'latitude' => 33.73068,
     'longitude' => 75.15418,
   ),
-  110 => 
+  109 => 
   array (
     'id' => 57701,
     'name' => 'Andol',
@@ -1000,7 +991,7 @@ return array (
     'latitude' => 17.81458,
     'longitude' => 78.07713,
   ),
-  111 => 
+  110 => 
   array (
     'id' => 57702,
     'name' => 'Anekal',
@@ -1009,7 +1000,7 @@ return array (
     'latitude' => 12.7111,
     'longitude' => 77.69557,
   ),
-  112 => 
+  111 => 
   array (
     'id' => 57703,
     'name' => 'Angamali',
@@ -1018,7 +1009,7 @@ return array (
     'latitude' => 10.19055,
     'longitude' => 76.38789,
   ),
-  113 => 
+  112 => 
   array (
     'id' => 57704,
     'name' => 'Angul',
@@ -1027,7 +1018,7 @@ return array (
     'latitude' => 20.84089,
     'longitude' => 85.10192,
   ),
-  114 => 
+  113 => 
   array (
     'id' => 57705,
     'name' => 'Angul District',
@@ -1036,7 +1027,7 @@ return array (
     'latitude' => 20.84903,
     'longitude' => 85.06079,
   ),
-  115 => 
+  114 => 
   array (
     'id' => 57706,
     'name' => 'Anjad',
@@ -1045,7 +1036,7 @@ return array (
     'latitude' => 22.04171,
     'longitude' => 75.05519,
   ),
-  116 => 
+  115 => 
   array (
     'id' => 57707,
     'name' => 'Anjangaon',
@@ -1054,7 +1045,7 @@ return array (
     'latitude' => 21.16516,
     'longitude' => 77.3091,
   ),
-  117 => 
+  116 => 
   array (
     'id' => 57708,
     'name' => 'Anjaw',
@@ -1063,7 +1054,7 @@ return array (
     'latitude' => 28.06549,
     'longitude' => 96.82878,
   ),
-  118 => 
+  117 => 
   array (
     'id' => 57709,
     'name' => 'Anjar',
@@ -1072,7 +1063,7 @@ return array (
     'latitude' => 23.11316,
     'longitude' => 70.02671,
   ),
-  119 => 
+  118 => 
   array (
     'id' => 57710,
     'name' => 'Ankleshwar',
@@ -1081,7 +1072,7 @@ return array (
     'latitude' => 21.63236,
     'longitude' => 72.99001,
   ),
-  120 => 
+  119 => 
   array (
     'id' => 57711,
     'name' => 'Ankola',
@@ -1090,7 +1081,7 @@ return array (
     'latitude' => 14.66049,
     'longitude' => 74.3047,
   ),
-  121 => 
+  120 => 
   array (
     'id' => 57712,
     'name' => 'Annavasal',
@@ -1099,7 +1090,7 @@ return array (
     'latitude' => 10.4606,
     'longitude' => 78.70029,
   ),
-  122 => 
+  121 => 
   array (
     'id' => 57713,
     'name' => 'Annigeri',
@@ -1108,7 +1099,7 @@ return array (
     'latitude' => 15.42513,
     'longitude' => 75.4335,
   ),
-  123 => 
+  122 => 
   array (
     'id' => 57714,
     'name' => 'Annur',
@@ -1117,7 +1108,7 @@ return array (
     'latitude' => 11.23616,
     'longitude' => 77.10514,
   ),
-  124 => 
+  123 => 
   array (
     'id' => 57715,
     'name' => 'Annamalainagar',
@@ -1126,7 +1117,7 @@ return array (
     'latitude' => 11.4,
     'longitude' => 79.73333,
   ),
-  125 => 
+  124 => 
   array (
     'id' => 57716,
     'name' => 'Anshing',
@@ -1135,7 +1126,7 @@ return array (
     'latitude' => 20.0409,
     'longitude' => 77.31501,
   ),
-  126 => 
+  125 => 
   array (
     'id' => 57717,
     'name' => 'Anta',
@@ -1144,7 +1135,7 @@ return array (
     'latitude' => 25.15,
     'longitude' => 76.3,
   ),
-  127 => 
+  126 => 
   array (
     'id' => 57718,
     'name' => 'Anthiyur',
@@ -1153,7 +1144,7 @@ return array (
     'latitude' => 11.57506,
     'longitude' => 77.59043,
   ),
-  128 => 
+  127 => 
   array (
     'id' => 57719,
     'name' => 'Antri',
@@ -1162,7 +1153,7 @@ return array (
     'latitude' => 26.05804,
     'longitude' => 78.21027,
   ),
-  129 => 
+  128 => 
   array (
     'id' => 57720,
     'name' => 'Antu',
@@ -1171,7 +1162,7 @@ return array (
     'latitude' => 26.05654,
     'longitude' => 81.90267,
   ),
-  130 => 
+  129 => 
   array (
     'id' => 57721,
     'name' => 'Anuppur',
@@ -1180,7 +1171,7 @@ return array (
     'latitude' => 23.05674,
     'longitude' => 81.68399,
   ),
-  131 => 
+  130 => 
   array (
     'id' => 57722,
     'name' => 'Anupgarh',
@@ -1189,7 +1180,7 @@ return array (
     'latitude' => 29.19111,
     'longitude' => 73.20861,
   ),
-  132 => 
+  131 => 
   array (
     'id' => 57724,
     'name' => 'Anupshahr',
@@ -1198,7 +1189,7 @@ return array (
     'latitude' => 28.35748,
     'longitude' => 78.26914,
   ),
-  133 => 
+  132 => 
   array (
     'id' => 57725,
     'name' => 'Aonla',
@@ -1207,7 +1198,7 @@ return array (
     'latitude' => 28.27402,
     'longitude' => 79.16521,
   ),
-  134 => 
+  133 => 
   array (
     'id' => 57726,
     'name' => 'Arakkonam',
@@ -1216,7 +1207,7 @@ return array (
     'latitude' => 13.08449,
     'longitude' => 79.67053,
   ),
-  135 => 
+  134 => 
   array (
     'id' => 57727,
     'name' => 'Arambol',
@@ -1225,7 +1216,7 @@ return array (
     'latitude' => 15.68681,
     'longitude' => 73.70449,
   ),
-  136 => 
+  135 => 
   array (
     'id' => 57728,
     'name' => 'Arang',
@@ -1234,7 +1225,7 @@ return array (
     'latitude' => 21.19639,
     'longitude' => 81.96912,
   ),
-  137 => 
+  136 => 
   array (
     'id' => 57729,
     'name' => 'Arantangi',
@@ -1243,7 +1234,7 @@ return array (
     'latitude' => 10.17235,
     'longitude' => 78.99118,
   ),
-  138 => 
+  137 => 
   array (
     'id' => 57730,
     'name' => 'Araria',
@@ -1252,7 +1243,7 @@ return array (
     'latitude' => 26.2,
     'longitude' => 87.4,
   ),
-  139 => 
+  138 => 
   array (
     'id' => 57731,
     'name' => 'Arcot',
@@ -1261,7 +1252,7 @@ return array (
     'latitude' => 12.90569,
     'longitude' => 79.31897,
   ),
-  140 => 
+  139 => 
   array (
     'id' => 57732,
     'name' => 'Arimalam',
@@ -1270,7 +1261,7 @@ return array (
     'latitude' => 10.25498,
     'longitude' => 78.88403,
   ),
-  141 => 
+  140 => 
   array (
     'id' => 57733,
     'name' => 'Ariyalur',
@@ -1279,7 +1270,7 @@ return array (
     'latitude' => 11.15,
     'longitude' => 79.25,
   ),
-  142 => 
+  141 => 
   array (
     'id' => 57735,
     'name' => 'Arkalgud',
@@ -1288,7 +1279,7 @@ return array (
     'latitude' => 12.76171,
     'longitude' => 76.06035,
   ),
-  143 => 
+  142 => 
   array (
     'id' => 57736,
     'name' => 'Arki',
@@ -1297,7 +1288,7 @@ return array (
     'latitude' => 31.15196,
     'longitude' => 76.96675,
   ),
-  144 => 
+  143 => 
   array (
     'id' => 57737,
     'name' => 'Arni',
@@ -1306,7 +1297,7 @@ return array (
     'latitude' => 12.66771,
     'longitude' => 79.28529,
   ),
-  145 => 
+  144 => 
   array (
     'id' => 57738,
     'name' => 'Aroor',
@@ -1315,7 +1306,7 @@ return array (
     'latitude' => 9.8694,
     'longitude' => 76.30498,
   ),
-  146 => 
+  145 => 
   array (
     'id' => 57739,
     'name' => 'Arrah',
@@ -1324,7 +1315,7 @@ return array (
     'latitude' => 25.55629,
     'longitude' => 84.66335,
   ),
-  147 => 
+  146 => 
   array (
     'id' => 57740,
     'name' => 'Arsikere',
@@ -1333,7 +1324,7 @@ return array (
     'latitude' => 13.31446,
     'longitude' => 76.25704,
   ),
-  148 => 
+  147 => 
   array (
     'id' => 57741,
     'name' => 'Artist Village',
@@ -1342,7 +1333,7 @@ return array (
     'latitude' => 19.03227,
     'longitude' => 73.04276,
   ),
-  149 => 
+  148 => 
   array (
     'id' => 57742,
     'name' => 'Arukutti',
@@ -1351,7 +1342,7 @@ return array (
     'latitude' => 9.86667,
     'longitude' => 76.35,
   ),
-  150 => 
+  149 => 
   array (
     'id' => 57743,
     'name' => 'Arumbavur',
@@ -1360,7 +1351,7 @@ return array (
     'latitude' => 11.38096,
     'longitude' => 78.72965,
   ),
-  151 => 
+  150 => 
   array (
     'id' => 57744,
     'name' => 'Arumuganeri',
@@ -1369,7 +1360,7 @@ return array (
     'latitude' => 8.5688,
     'longitude' => 78.09091,
   ),
-  152 => 
+  151 => 
   array (
     'id' => 57745,
     'name' => 'Aruppukkottai',
@@ -1378,7 +1369,7 @@ return array (
     'latitude' => 9.5096,
     'longitude' => 78.09588,
   ),
-  153 => 
+  152 => 
   array (
     'id' => 57746,
     'name' => 'Aruvankad',
@@ -1387,7 +1378,7 @@ return array (
     'latitude' => 11.36315,
     'longitude' => 76.7579,
   ),
-  154 => 
+  153 => 
   array (
     'id' => 57747,
     'name' => 'Arwal',
@@ -1396,7 +1387,7 @@ return array (
     'latitude' => 25.16158,
     'longitude' => 84.6904,
   ),
-  155 => 
+  154 => 
   array (
     'id' => 57749,
     'name' => 'Asarganj',
@@ -1405,7 +1396,7 @@ return array (
     'latitude' => 25.15046,
     'longitude' => 86.68639,
   ),
-  156 => 
+  155 => 
   array (
     'id' => 57750,
     'name' => 'Ashoknagar',
@@ -1414,7 +1405,7 @@ return array (
     'latitude' => 24.58,
     'longitude' => 77.73,
   ),
-  157 => 
+  156 => 
   array (
     'id' => 57751,
     'name' => 'Ashta',
@@ -1423,16 +1414,7 @@ return array (
     'latitude' => 16.94943,
     'longitude' => 74.40936,
   ),
-  158 => 
-  array (
-    'id' => 57752,
-    'name' => 'Ashta',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.01754,
-    'longitude' => 76.72208,
-  ),
-  159 => 
+  157 => 
   array (
     'id' => 57753,
     'name' => 'Ashti',
@@ -1441,7 +1423,7 @@ return array (
     'latitude' => 19.37671,
     'longitude' => 76.2252,
   ),
-  160 => 
+  158 => 
   array (
     'id' => 57754,
     'name' => 'Asifabad',
@@ -1450,7 +1432,7 @@ return array (
     'latitude' => 19.35851,
     'longitude' => 79.28415,
   ),
-  161 => 
+  159 => 
   array (
     'id' => 57755,
     'name' => 'Atarra',
@@ -1459,7 +1441,7 @@ return array (
     'latitude' => 25.28618,
     'longitude' => 80.57155,
   ),
-  162 => 
+  160 => 
   array (
     'id' => 57756,
     'name' => 'Ateli Mandi',
@@ -1468,7 +1450,7 @@ return array (
     'latitude' => 28.1008,
     'longitude' => 76.2598,
   ),
-  163 => 
+  161 => 
   array (
     'id' => 57757,
     'name' => 'Athni',
@@ -1477,7 +1459,7 @@ return array (
     'latitude' => 16.72613,
     'longitude' => 75.06421,
   ),
-  164 => 
+  162 => 
   array (
     'id' => 57758,
     'name' => 'Atmakur',
@@ -1486,7 +1468,7 @@ return array (
     'latitude' => 15.88109,
     'longitude' => 78.58704,
   ),
-  165 => 
+  163 => 
   array (
     'id' => 57759,
     'name' => 'Atraulia',
@@ -1495,7 +1477,7 @@ return array (
     'latitude' => 26.3333,
     'longitude' => 82.94727,
   ),
-  166 => 
+  164 => 
   array (
     'id' => 57760,
     'name' => 'Atrauli',
@@ -1504,7 +1486,7 @@ return array (
     'latitude' => 28.02964,
     'longitude' => 78.28571,
   ),
-  167 => 
+  165 => 
   array (
     'id' => 57761,
     'name' => 'Attili',
@@ -1513,7 +1495,7 @@ return array (
     'latitude' => 16.7,
     'longitude' => 81.6,
   ),
-  168 => 
+  166 => 
   array (
     'id' => 57762,
     'name' => 'Attingal',
@@ -1522,7 +1504,7 @@ return array (
     'latitude' => 8.69609,
     'longitude' => 76.81507,
   ),
-  169 => 
+  167 => 
   array (
     'id' => 57763,
     'name' => 'Attur',
@@ -1531,7 +1513,7 @@ return array (
     'latitude' => 11.59414,
     'longitude' => 78.60143,
   ),
-  170 => 
+  168 => 
   array (
     'id' => 57764,
     'name' => 'Auraiya',
@@ -1540,7 +1522,7 @@ return array (
     'latitude' => 26.64692,
     'longitude' => 79.42858,
   ),
-  171 => 
+  169 => 
   array (
     'id' => 57765,
     'name' => 'Aurangabad',
@@ -1549,16 +1531,7 @@ return array (
     'latitude' => 19.88467,
     'longitude' => 75.33986,
   ),
-  172 => 
-  array (
-    'id' => 57766,
-    'name' => 'Aurangabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.75204,
-    'longitude' => 84.3742,
-  ),
-  173 => 
+  170 => 
   array (
     'id' => 57767,
     'name' => 'Auroville',
@@ -1567,7 +1540,7 @@ return array (
     'latitude' => 12.00549,
     'longitude' => 79.80885,
   ),
-  174 => 
+  171 => 
   array (
     'id' => 57768,
     'name' => 'Aurad',
@@ -1576,7 +1549,7 @@ return array (
     'latitude' => 18.25397,
     'longitude' => 77.41761,
   ),
-  175 => 
+  172 => 
   array (
     'id' => 57769,
     'name' => 'Auras',
@@ -1585,7 +1558,7 @@ return array (
     'latitude' => 26.91414,
     'longitude' => 80.50792,
   ),
-  176 => 
+  173 => 
   array (
     'id' => 57770,
     'name' => 'Ausa',
@@ -1594,7 +1567,7 @@ return array (
     'latitude' => 18.24728,
     'longitude' => 76.4993,
   ),
-  177 => 
+  174 => 
   array (
     'id' => 57771,
     'name' => 'Avanigadda',
@@ -1603,7 +1576,7 @@ return array (
     'latitude' => 16.02148,
     'longitude' => 80.91808,
   ),
-  178 => 
+  175 => 
   array (
     'id' => 57772,
     'name' => 'Avanoor',
@@ -1612,7 +1585,7 @@ return array (
     'latitude' => 10.60826,
     'longitude' => 76.1762,
   ),
-  179 => 
+  176 => 
   array (
     'id' => 57773,
     'name' => 'Avinashi',
@@ -1621,7 +1594,7 @@ return array (
     'latitude' => 11.19297,
     'longitude' => 77.26865,
   ),
-  180 => 
+  177 => 
   array (
     'id' => 57774,
     'name' => 'Awantipur',
@@ -1630,7 +1603,7 @@ return array (
     'latitude' => 33.91978,
     'longitude' => 75.01515,
   ),
-  181 => 
+  178 => 
   array (
     'id' => 57775,
     'name' => 'Ayakudi',
@@ -1639,7 +1612,7 @@ return array (
     'latitude' => 10.44992,
     'longitude' => 77.55198,
   ),
-  182 => 
+  179 => 
   array (
     'id' => 57776,
     'name' => 'Ayyampettai',
@@ -1648,7 +1621,7 @@ return array (
     'latitude' => 10.90141,
     'longitude' => 79.17984,
   ),
-  183 => 
+  180 => 
   array (
     'id' => 57777,
     'name' => 'Azamgarh',
@@ -1657,7 +1630,7 @@ return array (
     'latitude' => 26.06832,
     'longitude' => 83.18358,
   ),
-  184 => 
+  181 => 
   array (
     'id' => 57778,
     'name' => 'Azhikkal',
@@ -1666,7 +1639,7 @@ return array (
     'latitude' => 11.91524,
     'longitude' => 75.34761,
   ),
-  185 => 
+  182 => 
   array (
     'id' => 57779,
     'name' => 'Baberu',
@@ -1675,7 +1648,7 @@ return array (
     'latitude' => 25.54711,
     'longitude' => 80.70443,
   ),
-  186 => 
+  183 => 
   array (
     'id' => 57780,
     'name' => 'Babrala',
@@ -1684,7 +1657,7 @@ return array (
     'latitude' => 28.26419,
     'longitude' => 78.4056,
   ),
-  187 => 
+  184 => 
   array (
     'id' => 57781,
     'name' => 'Babugarh',
@@ -1693,7 +1666,7 @@ return array (
     'latitude' => 28.72353,
     'longitude' => 77.84677,
   ),
-  188 => 
+  185 => 
   array (
     'id' => 57782,
     'name' => 'Babina',
@@ -1702,7 +1675,7 @@ return array (
     'latitude' => 25.23947,
     'longitude' => 78.47028,
   ),
-  189 => 
+  186 => 
   array (
     'id' => 57783,
     'name' => 'Bachhraon',
@@ -1711,7 +1684,7 @@ return array (
     'latitude' => 28.92694,
     'longitude' => 78.23456,
   ),
-  190 => 
+  187 => 
   array (
     'id' => 57784,
     'name' => 'Bachhrawan',
@@ -1720,7 +1693,7 @@ return array (
     'latitude' => 26.4709,
     'longitude' => 81.1158,
   ),
-  191 => 
+  188 => 
   array (
     'id' => 57785,
     'name' => 'Bada Barabil',
@@ -1729,7 +1702,7 @@ return array (
     'latitude' => 22.11186,
     'longitude' => 85.38684,
   ),
-  192 => 
+  189 => 
   array (
     'id' => 57786,
     'name' => 'Vatakara',
@@ -1738,7 +1711,7 @@ return array (
     'latitude' => 11.59776,
     'longitude' => 75.58142,
   ),
-  193 => 
+  190 => 
   array (
     'id' => 57787,
     'name' => 'Badarpur',
@@ -1747,7 +1720,7 @@ return array (
     'latitude' => 24.86852,
     'longitude' => 92.59606,
   ),
-  194 => 
+  191 => 
   array (
     'id' => 57788,
     'name' => 'Badarwas',
@@ -1756,7 +1729,7 @@ return array (
     'latitude' => 24.97516,
     'longitude' => 77.5649,
   ),
-  195 => 
+  192 => 
   array (
     'id' => 57789,
     'name' => 'Baddi',
@@ -1765,7 +1738,7 @@ return array (
     'latitude' => 30.95783,
     'longitude' => 76.79136,
   ),
-  196 => 
+  193 => 
   array (
     'id' => 57790,
     'name' => 'Badgam',
@@ -1774,7 +1747,7 @@ return array (
     'latitude' => 33.89001,
     'longitude' => 74.66297,
   ),
-  197 => 
+  194 => 
   array (
     'id' => 57791,
     'name' => 'Badhni Kalan',
@@ -1783,7 +1756,7 @@ return array (
     'latitude' => 30.6813,
     'longitude' => 75.29087,
   ),
-  198 => 
+  195 => 
   array (
     'id' => 57792,
     'name' => 'Badlapur',
@@ -1792,7 +1765,7 @@ return array (
     'latitude' => 19.15516,
     'longitude' => 73.26553,
   ),
-  199 => 
+  196 => 
   array (
     'id' => 57793,
     'name' => 'Badnawar',
@@ -1801,7 +1774,7 @@ return array (
     'latitude' => 23.02181,
     'longitude' => 75.23268,
   ),
-  200 => 
+  197 => 
   array (
     'id' => 57794,
     'name' => 'Badvel',
@@ -1810,7 +1783,7 @@ return array (
     'latitude' => 14.7451,
     'longitude' => 79.06288,
   ),
-  201 => 
+  198 => 
   array (
     'id' => 57795,
     'name' => 'Baga',
@@ -1819,7 +1792,7 @@ return array (
     'latitude' => 15.56517,
     'longitude' => 73.75517,
   ),
-  202 => 
+  199 => 
   array (
     'id' => 57796,
     'name' => 'Bagaha',
@@ -1828,7 +1801,7 @@ return array (
     'latitude' => 27.09918,
     'longitude' => 84.09003,
   ),
-  203 => 
+  200 => 
   array (
     'id' => 57797,
     'name' => 'Bagalkot',
@@ -1837,7 +1810,7 @@ return array (
     'latitude' => 16.18,
     'longitude' => 75.69,
   ),
-  204 => 
+  201 => 
   array (
     'id' => 57798,
     'name' => 'Bagar',
@@ -1846,7 +1819,7 @@ return array (
     'latitude' => 28.18784,
     'longitude' => 75.50012,
   ),
-  205 => 
+  202 => 
   array (
     'id' => 57799,
     'name' => 'Bagasra',
@@ -1855,7 +1828,7 @@ return array (
     'latitude' => 21.48719,
     'longitude' => 70.95516,
   ),
-  206 => 
+  203 => 
   array (
     'id' => 57800,
     'name' => 'Bageshwar',
@@ -1864,7 +1837,7 @@ return array (
     'latitude' => 29.97315,
     'longitude' => 79.83224,
   ),
-  207 => 
+  204 => 
   array (
     'id' => 57801,
     'name' => 'Baghpat',
@@ -1873,7 +1846,7 @@ return array (
     'latitude' => 28.95,
     'longitude' => 77.2167,
   ),
-  208 => 
+  205 => 
   array (
     'id' => 57802,
     'name' => 'Bagra',
@@ -1882,7 +1855,7 @@ return array (
     'latitude' => 23.73333,
     'longitude' => 86.31667,
   ),
-  209 => 
+  206 => 
   array (
     'id' => 57803,
     'name' => 'Baheri',
@@ -1891,7 +1864,7 @@ return array (
     'latitude' => 28.77416,
     'longitude' => 79.4974,
   ),
-  210 => 
+  207 => 
   array (
     'id' => 57804,
     'name' => 'Bahjoi',
@@ -1900,7 +1873,7 @@ return array (
     'latitude' => 28.39502,
     'longitude' => 78.62659,
   ),
-  211 => 
+  208 => 
   array (
     'id' => 57805,
     'name' => 'Bahraich',
@@ -1909,7 +1882,7 @@ return array (
     'latitude' => 27.80021,
     'longitude' => 81.51855,
   ),
-  212 => 
+  209 => 
   array (
     'id' => 57806,
     'name' => 'Bahraigh',
@@ -1918,7 +1891,7 @@ return array (
     'latitude' => 27.57429,
     'longitude' => 81.59474,
   ),
-  213 => 
+  210 => 
   array (
     'id' => 57807,
     'name' => 'Bahsuma',
@@ -1927,7 +1900,7 @@ return array (
     'latitude' => 29.20063,
     'longitude' => 77.97221,
   ),
-  214 => 
+  211 => 
   array (
     'id' => 57808,
     'name' => 'Bahua',
@@ -1936,7 +1909,7 @@ return array (
     'latitude' => 25.83942,
     'longitude' => 80.62255,
   ),
-  215 => 
+  212 => 
   array (
     'id' => 57809,
     'name' => 'Bahadurganj',
@@ -1945,7 +1918,7 @@ return array (
     'latitude' => 26.26172,
     'longitude' => 87.82443,
   ),
-  216 => 
+  213 => 
   array (
     'id' => 57810,
     'name' => 'Bahadurgarh',
@@ -1954,7 +1927,7 @@ return array (
     'latitude' => 28.69287,
     'longitude' => 76.93555,
   ),
-  217 => 
+  214 => 
   array (
     'id' => 57811,
     'name' => 'Baihar',
@@ -1963,7 +1936,7 @@ return array (
     'latitude' => 22.10133,
     'longitude' => 80.54967,
   ),
-  218 => 
+  215 => 
   array (
     'id' => 57812,
     'name' => 'Baikunthpur',
@@ -1972,16 +1945,7 @@ return array (
     'latitude' => 23.26206,
     'longitude' => 82.56051,
   ),
-  219 => 
-  array (
-    'id' => 57813,
-    'name' => 'Baikunthpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.72768,
-    'longitude' => 81.40975,
-  ),
-  220 => 
+  216 => 
   array (
     'id' => 57814,
     'name' => 'Bail-Hongal',
@@ -1990,7 +1954,7 @@ return array (
     'latitude' => 15.8137,
     'longitude' => 74.85895,
   ),
-  221 => 
+  217 => 
   array (
     'id' => 57815,
     'name' => 'Bairagnia',
@@ -1999,7 +1963,7 @@ return array (
     'latitude' => 26.74063,
     'longitude' => 85.27323,
   ),
-  222 => 
+  218 => 
   array (
     'id' => 57816,
     'name' => 'Baisi',
@@ -2008,7 +1972,7 @@ return array (
     'latitude' => 25.86302,
     'longitude' => 87.74487,
   ),
-  223 => 
+  219 => 
   array (
     'id' => 57817,
     'name' => 'Bakewar',
@@ -2017,7 +1981,7 @@ return array (
     'latitude' => 26.66226,
     'longitude' => 79.17625,
   ),
-  224 => 
+  220 => 
   array (
     'id' => 57818,
     'name' => 'Bakhtiyarpur',
@@ -2026,7 +1990,7 @@ return array (
     'latitude' => 25.46179,
     'longitude' => 85.53179,
   ),
-  225 => 
+  221 => 
   array (
     'id' => 57819,
     'name' => 'Bakloh',
@@ -2035,7 +1999,7 @@ return array (
     'latitude' => 32.47939,
     'longitude' => 75.91874,
   ),
-  226 => 
+  222 => 
   array (
     'id' => 57820,
     'name' => 'Baksa',
@@ -2044,7 +2008,7 @@ return array (
     'latitude' => 26.69804,
     'longitude' => 91.15142,
   ),
-  227 => 
+  223 => 
   array (
     'id' => 57821,
     'name' => 'Bakshwaha',
@@ -2053,7 +2017,7 @@ return array (
     'latitude' => 24.25106,
     'longitude' => 79.28618,
   ),
-  228 => 
+  224 => 
   array (
     'id' => 57822,
     'name' => 'Bakani',
@@ -2062,7 +2026,7 @@ return array (
     'latitude' => 24.28624,
     'longitude' => 76.23709,
   ),
-  229 => 
+  225 => 
   array (
     'id' => 57823,
     'name' => 'Balasore',
@@ -2071,7 +2035,7 @@ return array (
     'latitude' => 21.49266,
     'longitude' => 86.93348,
   ),
-  230 => 
+  226 => 
   array (
     'id' => 57824,
     'name' => 'Baldeogarh',
@@ -2080,7 +2044,7 @@ return array (
     'latitude' => 24.75619,
     'longitude' => 79.06715,
   ),
-  231 => 
+  227 => 
   array (
     'id' => 57825,
     'name' => 'Baldev',
@@ -2089,7 +2053,7 @@ return array (
     'latitude' => 27.40684,
     'longitude' => 77.82214,
   ),
-  232 => 
+  228 => 
   array (
     'id' => 57826,
     'name' => 'Balimila',
@@ -2098,7 +2062,7 @@ return array (
     'latitude' => 18.25167,
     'longitude' => 82.10659,
   ),
-  233 => 
+  229 => 
   array (
     'id' => 57827,
     'name' => 'Ballari',
@@ -2107,7 +2071,7 @@ return array (
     'latitude' => 15.15,
     'longitude' => 76.55,
   ),
-  234 => 
+  230 => 
   array (
     'id' => 57828,
     'name' => 'Ballia',
@@ -2116,7 +2080,7 @@ return array (
     'latitude' => 25.83333,
     'longitude' => 84.16667,
   ),
-  235 => 
+  231 => 
   array (
     'id' => 57829,
     'name' => 'Ballalpur',
@@ -2125,7 +2089,7 @@ return array (
     'latitude' => 19.84696,
     'longitude' => 79.34578,
   ),
-  236 => 
+  232 => 
   array (
     'id' => 57830,
     'name' => 'Balod',
@@ -2134,7 +2098,7 @@ return array (
     'latitude' => 20.73081,
     'longitude' => 81.20578,
   ),
-  237 => 
+  233 => 
   array (
     'id' => 57831,
     'name' => 'Baloda',
@@ -2143,7 +2107,7 @@ return array (
     'latitude' => 22.1389,
     'longitude' => 82.48171,
   ),
-  238 => 
+  234 => 
   array (
     'id' => 57832,
     'name' => 'Baloda Bazar',
@@ -2152,7 +2116,7 @@ return array (
     'latitude' => 21.65678,
     'longitude' => 82.16062,
   ),
-  239 => 
+  235 => 
   array (
     'id' => 57833,
     'name' => 'Balrampur',
@@ -2161,7 +2125,7 @@ return array (
     'latitude' => 27.43449,
     'longitude' => 82.40281,
   ),
-  240 => 
+  236 => 
   array (
     'id' => 57835,
     'name' => 'Balangir',
@@ -2170,7 +2134,7 @@ return array (
     'latitude' => 20.75,
     'longitude' => 83.25,
   ),
-  241 => 
+  237 => 
   array (
     'id' => 57836,
     'name' => 'Bambolim',
@@ -2179,7 +2143,7 @@ return array (
     'latitude' => 15.46361,
     'longitude' => 73.8531,
   ),
-  242 => 
+  238 => 
   array (
     'id' => 57837,
     'name' => 'Bamboo Flat',
@@ -2188,7 +2152,7 @@ return array (
     'latitude' => 11.7,
     'longitude' => 92.71667,
   ),
-  243 => 
+  239 => 
   array (
     'id' => 57838,
     'name' => 'Bamna',
@@ -2197,7 +2161,7 @@ return array (
     'latitude' => 23.09454,
     'longitude' => 74.76164,
   ),
-  244 => 
+  240 => 
   array (
     'id' => 57839,
     'name' => 'Bamora',
@@ -2206,7 +2170,7 @@ return array (
     'latitude' => 24.05539,
     'longitude' => 78.08925,
   ),
-  245 => 
+  241 => 
   array (
     'id' => 57840,
     'name' => 'Banat',
@@ -2215,7 +2179,7 @@ return array (
     'latitude' => 29.46355,
     'longitude' => 77.35478,
   ),
-  246 => 
+  242 => 
   array (
     'id' => 57841,
     'name' => 'Banbasa',
@@ -2224,7 +2188,7 @@ return array (
     'latitude' => 28.99132,
     'longitude' => 80.07608,
   ),
-  247 => 
+  243 => 
   array (
     'id' => 57842,
     'name' => 'Banda',
@@ -2233,7 +2197,7 @@ return array (
     'latitude' => 24.04488,
     'longitude' => 78.96094,
   ),
-  248 => 
+  244 => 
   array (
     'id' => 57843,
     'name' => 'Bandipore',
@@ -2242,7 +2206,7 @@ return array (
     'latitude' => 34.50404,
     'longitude' => 74.82832,
   ),
-  249 => 
+  245 => 
   array (
     'id' => 57845,
     'name' => 'Bandora',
@@ -2251,7 +2215,7 @@ return array (
     'latitude' => 15.40823,
     'longitude' => 73.98129,
   ),
-  250 => 
+  246 => 
   array (
     'id' => 57846,
     'name' => 'Banga',
@@ -2260,7 +2224,7 @@ return array (
     'latitude' => 31.18874,
     'longitude' => 75.99495,
   ),
-  251 => 
+  247 => 
   array (
     'id' => 57847,
     'name' => 'Bengaluru Rural',
@@ -2269,7 +2233,7 @@ return array (
     'latitude' => 13.22567,
     'longitude' => 77.57501,
   ),
-  252 => 
+  248 => 
   array (
     'id' => 57848,
     'name' => 'Bengaluru Urban',
@@ -2278,7 +2242,7 @@ return array (
     'latitude' => 13.0,
     'longitude' => 77.58333,
   ),
-  253 => 
+  249 => 
   array (
     'id' => 57849,
     'name' => 'Banganapalle',
@@ -2287,7 +2251,7 @@ return array (
     'latitude' => 15.31771,
     'longitude' => 78.22669,
   ),
-  254 => 
+  250 => 
   array (
     'id' => 57850,
     'name' => 'Bangaon',
@@ -2296,7 +2260,7 @@ return array (
     'latitude' => 25.86728,
     'longitude' => 86.51152,
   ),
-  255 => 
+  251 => 
   array (
     'id' => 57851,
     'name' => 'Bangarapet',
@@ -2305,7 +2269,7 @@ return array (
     'latitude' => 12.99116,
     'longitude' => 78.17804,
   ),
-  256 => 
+  252 => 
   array (
     'id' => 57852,
     'name' => 'Banihal',
@@ -2314,7 +2278,7 @@ return array (
     'latitude' => 33.43647,
     'longitude' => 75.19684,
   ),
-  257 => 
+  253 => 
   array (
     'id' => 57853,
     'name' => 'Banjar',
@@ -2323,7 +2287,7 @@ return array (
     'latitude' => 31.639,
     'longitude' => 77.34055,
   ),
-  258 => 
+  254 => 
   array (
     'id' => 57854,
     'name' => 'Banka',
@@ -2332,7 +2296,7 @@ return array (
     'latitude' => 24.89214,
     'longitude' => 86.98425,
   ),
-  259 => 
+  255 => 
   array (
     'id' => 57855,
     'name' => 'Banmankhi',
@@ -2341,7 +2305,7 @@ return array (
     'latitude' => 25.88857,
     'longitude' => 87.19421,
   ),
-  260 => 
+  256 => 
   array (
     'id' => 57856,
     'name' => 'Bannur',
@@ -2350,7 +2314,7 @@ return array (
     'latitude' => 12.33295,
     'longitude' => 76.86201,
   ),
-  261 => 
+  257 => 
   array (
     'id' => 57857,
     'name' => 'Bantval',
@@ -2359,7 +2323,7 @@ return array (
     'latitude' => 12.8905,
     'longitude' => 75.03489,
   ),
-  262 => 
+  258 => 
   array (
     'id' => 57858,
     'name' => 'Banas Kantha',
@@ -2368,7 +2332,7 @@ return array (
     'latitude' => 24.25,
     'longitude' => 72.5,
   ),
-  263 => 
+  259 => 
   array (
     'id' => 57859,
     'name' => 'Banur',
@@ -2377,7 +2341,7 @@ return array (
     'latitude' => 30.55407,
     'longitude' => 76.71948,
   ),
-  264 => 
+  260 => 
   array (
     'id' => 57860,
     'name' => 'Bar Bigha',
@@ -2386,7 +2350,7 @@ return array (
     'latitude' => 25.21855,
     'longitude' => 85.7332,
   ),
-  265 => 
+  261 => 
   array (
     'id' => 57861,
     'name' => 'Bara Uchana',
@@ -2395,7 +2359,7 @@ return array (
     'latitude' => 29.46747,
     'longitude' => 76.17798,
   ),
-  266 => 
+  262 => 
   array (
     'id' => 57862,
     'name' => 'Baragarh',
@@ -2404,7 +2368,7 @@ return array (
     'latitude' => 21.33333,
     'longitude' => 83.61667,
   ),
-  267 => 
+  263 => 
   array (
     'id' => 57863,
     'name' => 'Baran',
@@ -2413,7 +2377,7 @@ return array (
     'latitude' => 25.09,
     'longitude' => 76.66,
   ),
-  268 => 
+  264 => 
   array (
     'id' => 57864,
     'name' => 'Barauli',
@@ -2422,7 +2386,7 @@ return array (
     'latitude' => 26.38109,
     'longitude' => 84.58648,
   ),
-  269 => 
+  265 => 
   array (
     'id' => 57865,
     'name' => 'Baraut',
@@ -2431,7 +2395,7 @@ return array (
     'latitude' => 29.10199,
     'longitude' => 77.26334,
   ),
-  270 => 
+  266 => 
   array (
     'id' => 57866,
     'name' => 'Barbil',
@@ -2440,7 +2404,7 @@ return array (
     'latitude' => 22.10194,
     'longitude' => 85.37752,
   ),
-  271 => 
+  267 => 
   array (
     'id' => 57867,
     'name' => 'Bareilly',
@@ -2449,7 +2413,7 @@ return array (
     'latitude' => 28.41667,
     'longitude' => 79.38333,
   ),
-  272 => 
+  268 => 
   array (
     'id' => 57868,
     'name' => 'Barela',
@@ -2458,7 +2422,7 @@ return array (
     'latitude' => 23.09678,
     'longitude' => 80.05084,
   ),
-  273 => 
+  269 => 
   array (
     'id' => 57869,
     'name' => 'Bargarh',
@@ -2467,7 +2431,7 @@ return array (
     'latitude' => 21.33348,
     'longitude' => 83.61905,
   ),
-  274 => 
+  270 => 
   array (
     'id' => 57870,
     'name' => 'Barghat',
@@ -2476,7 +2440,7 @@ return array (
     'latitude' => 22.03065,
     'longitude' => 79.7328,
   ),
-  275 => 
+  271 => 
   array (
     'id' => 57871,
     'name' => 'Bargi',
@@ -2485,7 +2449,7 @@ return array (
     'latitude' => 22.99138,
     'longitude' => 79.8755,
   ),
-  276 => 
+  272 => 
   array (
     'id' => 57872,
     'name' => 'Barhi',
@@ -2494,7 +2458,7 @@ return array (
     'latitude' => 23.90326,
     'longitude' => 80.81516,
   ),
-  277 => 
+  273 => 
   array (
     'id' => 57873,
     'name' => 'Barhiya',
@@ -2503,7 +2467,7 @@ return array (
     'latitude' => 25.28814,
     'longitude' => 86.02055,
   ),
-  278 => 
+  274 => 
   array (
     'id' => 57874,
     'name' => 'Bari Sadri',
@@ -2512,7 +2476,7 @@ return array (
     'latitude' => 24.41339,
     'longitude' => 74.47331,
   ),
-  279 => 
+  275 => 
   array (
     'id' => 57875,
     'name' => 'Bariarpur',
@@ -2521,7 +2485,7 @@ return array (
     'latitude' => 25.28791,
     'longitude' => 86.57643,
   ),
-  280 => 
+  276 => 
   array (
     'id' => 57876,
     'name' => 'Barjala',
@@ -2530,7 +2494,7 @@ return array (
     'latitude' => 23.6182,
     'longitude' => 91.35596,
   ),
-  281 => 
+  277 => 
   array (
     'id' => 57877,
     'name' => 'Barkhera Kalan',
@@ -2539,7 +2503,7 @@ return array (
     'latitude' => 28.45209,
     'longitude' => 79.80655,
   ),
-  282 => 
+  278 => 
   array (
     'id' => 57878,
     'name' => 'Barki Saria',
@@ -2548,7 +2512,7 @@ return array (
     'latitude' => 24.17594,
     'longitude' => 85.88938,
   ),
-  283 => 
+  279 => 
   array (
     'id' => 57879,
     'name' => 'Barkot',
@@ -2557,7 +2521,7 @@ return array (
     'latitude' => 30.80861,
     'longitude' => 78.20596,
   ),
-  284 => 
+  280 => 
   array (
     'id' => 57880,
     'name' => 'Barka Kana',
@@ -2566,7 +2530,7 @@ return array (
     'latitude' => 23.62118,
     'longitude' => 85.46748,
   ),
-  285 => 
+  281 => 
   array (
     'id' => 57882,
     'name' => 'Barnala',
@@ -2575,7 +2539,7 @@ return array (
     'latitude' => 30.37451,
     'longitude' => 75.5487,
   ),
-  286 => 
+  282 => 
   array (
     'id' => 57883,
     'name' => 'Barpathar',
@@ -2584,7 +2548,7 @@ return array (
     'latitude' => 26.28709,
     'longitude' => 93.88844,
   ),
-  287 => 
+  283 => 
   array (
     'id' => 57884,
     'name' => 'Barpeta',
@@ -2593,7 +2557,7 @@ return array (
     'latitude' => 26.47104,
     'longitude' => 91.0308,
   ),
-  288 => 
+  284 => 
   array (
     'id' => 57885,
     'name' => 'Barpeta Road',
@@ -2602,7 +2566,7 @@ return array (
     'latitude' => 26.50284,
     'longitude' => 90.96937,
   ),
-  289 => 
+  285 => 
   array (
     'id' => 57886,
     'name' => 'Barpali',
@@ -2611,7 +2575,7 @@ return array (
     'latitude' => 21.19005,
     'longitude' => 83.58721,
   ),
-  290 => 
+  286 => 
   array (
     'id' => 57887,
     'name' => 'Barsana',
@@ -2620,7 +2584,7 @@ return array (
     'latitude' => 27.64802,
     'longitude' => 77.3764,
   ),
-  291 => 
+  287 => 
   array (
     'id' => 57888,
     'name' => 'Barwani',
@@ -2629,7 +2593,7 @@ return array (
     'latitude' => 22.02485,
     'longitude' => 74.91805,
   ),
-  292 => 
+  288 => 
   array (
     'id' => 57889,
     'name' => 'Barwadih',
@@ -2638,7 +2602,7 @@ return array (
     'latitude' => 23.8478,
     'longitude' => 84.11049,
   ),
-  293 => 
+  289 => 
   array (
     'id' => 57890,
     'name' => 'Barwala',
@@ -2647,7 +2611,7 @@ return array (
     'latitude' => 29.36747,
     'longitude' => 75.90809,
   ),
-  294 => 
+  290 => 
   array (
     'id' => 57892,
     'name' => 'Baragaon',
@@ -2656,7 +2620,7 @@ return array (
     'latitude' => 25.47554,
     'longitude' => 78.71224,
   ),
-  295 => 
+  291 => 
   array (
     'id' => 57893,
     'name' => 'Basavakalyan',
@@ -2665,7 +2629,7 @@ return array (
     'latitude' => 17.87445,
     'longitude' => 76.94972,
   ),
-  296 => 
+  292 => 
   array (
     'id' => 57894,
     'name' => 'Basavana Bagevadi',
@@ -2674,7 +2638,7 @@ return array (
     'latitude' => 16.57278,
     'longitude' => 75.97252,
   ),
-  297 => 
+  293 => 
   array (
     'id' => 57895,
     'name' => 'Basi',
@@ -2683,7 +2647,7 @@ return array (
     'latitude' => 26.8315,
     'longitude' => 76.04856,
   ),
-  298 => 
+  294 => 
   array (
     'id' => 57897,
     'name' => 'Basmat',
@@ -2692,7 +2656,7 @@ return array (
     'latitude' => 19.32872,
     'longitude' => 77.15746,
   ),
-  299 => 
+  295 => 
   array (
     'id' => 57898,
     'name' => 'Basna',
@@ -2701,7 +2665,7 @@ return array (
     'latitude' => 21.27885,
     'longitude' => 82.8267,
   ),
-  300 => 
+  296 => 
   array (
     'id' => 57899,
     'name' => 'Basni',
@@ -2710,7 +2674,7 @@ return array (
     'latitude' => 27.17232,
     'longitude' => 73.64519,
   ),
-  301 => 
+  297 => 
   array (
     'id' => 57900,
     'name' => 'Bastar',
@@ -2719,7 +2683,7 @@ return array (
     'latitude' => 19.26794,
     'longitude' => 81.73828,
   ),
-  302 => 
+  298 => 
   array (
     'id' => 57901,
     'name' => 'Basti',
@@ -2728,7 +2692,7 @@ return array (
     'latitude' => 26.82816,
     'longitude' => 82.77924,
   ),
-  303 => 
+  299 => 
   array (
     'id' => 57903,
     'name' => 'Baswa',
@@ -2737,7 +2701,7 @@ return array (
     'latitude' => 27.14955,
     'longitude' => 76.58345,
   ),
-  304 => 
+  300 => 
   array (
     'id' => 57904,
     'name' => 'Bhatinda',
@@ -2746,7 +2710,7 @@ return array (
     'latitude' => 30.20747,
     'longitude' => 74.93893,
   ),
-  305 => 
+  301 => 
   array (
     'id' => 57905,
     'name' => 'Batoti',
@@ -2755,7 +2719,7 @@ return array (
     'latitude' => 33.11826,
     'longitude' => 75.30889,
   ),
-  306 => 
+  302 => 
   array (
     'id' => 57906,
     'name' => 'Batala',
@@ -2764,7 +2728,7 @@ return array (
     'latitude' => 31.80921,
     'longitude' => 75.20294,
   ),
-  307 => 
+  303 => 
   array (
     'id' => 57907,
     'name' => 'Baud',
@@ -2773,7 +2737,7 @@ return array (
     'latitude' => 20.83773,
     'longitude' => 84.32618,
   ),
-  308 => 
+  304 => 
   array (
     'id' => 57908,
     'name' => 'Baudh',
@@ -2782,7 +2746,7 @@ return array (
     'latitude' => 20.833,
     'longitude' => 84.333,
   ),
-  309 => 
+  305 => 
   array (
     'id' => 57909,
     'name' => 'Bawana',
@@ -2791,7 +2755,7 @@ return array (
     'latitude' => 28.7982,
     'longitude' => 77.03431,
   ),
-  310 => 
+  306 => 
   array (
     'id' => 57910,
     'name' => 'Bayana',
@@ -2800,7 +2764,7 @@ return array (
     'latitude' => 26.90791,
     'longitude' => 77.28985,
   ),
-  311 => 
+  307 => 
   array (
     'id' => 57911,
     'name' => 'Bedi',
@@ -2809,7 +2773,7 @@ return array (
     'latitude' => 22.50143,
     'longitude' => 70.04363,
   ),
-  312 => 
+  308 => 
   array (
     'id' => 57912,
     'name' => 'Beed',
@@ -2818,7 +2782,7 @@ return array (
     'latitude' => 18.98921,
     'longitude' => 75.75634,
   ),
-  313 => 
+  309 => 
   array (
     'id' => 57913,
     'name' => 'Begamganj',
@@ -2827,7 +2791,7 @@ return array (
     'latitude' => 23.59917,
     'longitude' => 78.34064,
   ),
-  314 => 
+  310 => 
   array (
     'id' => 57914,
     'name' => 'Begowal',
@@ -2836,7 +2800,7 @@ return array (
     'latitude' => 31.61152,
     'longitude' => 75.52135,
   ),
-  315 => 
+  311 => 
   array (
     'id' => 57915,
     'name' => 'Begusarai',
@@ -2845,7 +2809,7 @@ return array (
     'latitude' => 25.41853,
     'longitude' => 86.13389,
   ),
-  316 => 
+  312 => 
   array (
     'id' => 57917,
     'name' => 'Begun',
@@ -2854,7 +2818,7 @@ return array (
     'latitude' => 24.98333,
     'longitude' => 75.0,
   ),
-  317 => 
+  313 => 
   array (
     'id' => 57918,
     'name' => 'Behat',
@@ -2863,7 +2827,7 @@ return array (
     'latitude' => 30.1718,
     'longitude' => 77.6139,
   ),
-  318 => 
+  314 => 
   array (
     'id' => 57919,
     'name' => 'Behror',
@@ -2872,7 +2836,7 @@ return array (
     'latitude' => 27.88832,
     'longitude' => 76.28108,
   ),
-  319 => 
+  315 => 
   array (
     'id' => 57920,
     'name' => 'Bela',
@@ -2881,7 +2845,7 @@ return array (
     'latitude' => 25.92058,
     'longitude' => 81.99629,
   ),
-  320 => 
+  316 => 
   array (
     'id' => 57921,
     'name' => 'Belaguntha',
@@ -2890,7 +2854,7 @@ return array (
     'latitude' => 19.88249,
     'longitude' => 84.63801,
   ),
-  321 => 
+  317 => 
   array (
     'id' => 57922,
     'name' => 'Belagavi',
@@ -2899,7 +2863,7 @@ return array (
     'latitude' => 16.33333,
     'longitude' => 74.75,
   ),
-  322 => 
+  318 => 
   array (
     'id' => 57923,
     'name' => 'Bellampalli',
@@ -2908,7 +2872,7 @@ return array (
     'latitude' => 19.05577,
     'longitude' => 79.493,
   ),
-  323 => 
+  319 => 
   array (
     'id' => 57925,
     'name' => 'Belluru',
@@ -2917,7 +2881,7 @@ return array (
     'latitude' => 12.9814,
     'longitude' => 76.73308,
   ),
-  324 => 
+  320 => 
   array (
     'id' => 57926,
     'name' => 'Belonia',
@@ -2926,7 +2890,7 @@ return array (
     'latitude' => 23.25178,
     'longitude' => 91.45407,
   ),
-  325 => 
+  321 => 
   array (
     'id' => 57927,
     'name' => 'Belsand',
@@ -2935,7 +2899,7 @@ return array (
     'latitude' => 26.44365,
     'longitude' => 85.40076,
   ),
-  326 => 
+  322 => 
   array (
     'id' => 57928,
     'name' => 'Beltangadi',
@@ -2944,7 +2908,7 @@ return array (
     'latitude' => 13.98333,
     'longitude' => 75.3,
   ),
-  327 => 
+  323 => 
   array (
     'id' => 57929,
     'name' => 'Belur',
@@ -2953,16 +2917,7 @@ return array (
     'latitude' => 11.70752,
     'longitude' => 78.41437,
   ),
-  328 => 
-  array (
-    'id' => 57930,
-    'name' => 'Belur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 13.16558,
-    'longitude' => 75.86519,
-  ),
-  329 => 
+  324 => 
   array (
     'id' => 57931,
     'name' => 'Bemetara',
@@ -2971,7 +2926,7 @@ return array (
     'latitude' => 21.71556,
     'longitude' => 81.53423,
   ),
-  330 => 
+  325 => 
   array (
     'id' => 57932,
     'name' => 'Benaulim',
@@ -2980,7 +2935,7 @@ return array (
     'latitude' => 15.26435,
     'longitude' => 73.92812,
   ),
-  331 => 
+  326 => 
   array (
     'id' => 57933,
     'name' => 'Bengaluru',
@@ -2989,7 +2944,7 @@ return array (
     'latitude' => 12.97194,
     'longitude' => 77.59369,
   ),
-  332 => 
+  327 => 
   array (
     'id' => 57934,
     'name' => 'Beniganj',
@@ -2998,7 +2953,7 @@ return array (
     'latitude' => 27.29293,
     'longitude' => 80.44364,
   ),
-  333 => 
+  328 => 
   array (
     'id' => 57935,
     'name' => 'Beohari',
@@ -3007,7 +2962,7 @@ return array (
     'latitude' => 24.02423,
     'longitude' => 81.37831,
   ),
-  334 => 
+  329 => 
   array (
     'id' => 57936,
     'name' => 'Berasia',
@@ -3016,7 +2971,7 @@ return array (
     'latitude' => 23.63134,
     'longitude' => 77.43351,
   ),
-  335 => 
+  330 => 
   array (
     'id' => 57937,
     'name' => 'Beri Khas',
@@ -3025,7 +2980,7 @@ return array (
     'latitude' => 28.70146,
     'longitude' => 76.57708,
   ),
-  336 => 
+  331 => 
   array (
     'id' => 57938,
     'name' => 'Beswan',
@@ -3034,7 +2989,7 @@ return array (
     'latitude' => 27.63792,
     'longitude' => 77.88019,
   ),
-  337 => 
+  332 => 
   array (
     'id' => 57939,
     'name' => 'Betamcherla',
@@ -3043,7 +2998,7 @@ return array (
     'latitude' => 15.45144,
     'longitude' => 78.14797,
   ),
-  338 => 
+  333 => 
   array (
     'id' => 57940,
     'name' => 'Betma',
@@ -3052,7 +3007,7 @@ return array (
     'latitude' => 22.68653,
     'longitude' => 75.61456,
   ),
-  339 => 
+  334 => 
   array (
     'id' => 57941,
     'name' => 'Bettiah',
@@ -3061,7 +3016,7 @@ return array (
     'latitude' => 26.80229,
     'longitude' => 84.50311,
   ),
-  340 => 
+  335 => 
   array (
     'id' => 57942,
     'name' => 'Betul',
@@ -3070,7 +3025,7 @@ return array (
     'latitude' => 21.83333,
     'longitude' => 77.83333,
   ),
-  341 => 
+  336 => 
   array (
     'id' => 57943,
     'name' => 'Betul Bazar',
@@ -3079,7 +3034,7 @@ return array (
     'latitude' => 21.85572,
     'longitude' => 77.92913,
   ),
-  342 => 
+  337 => 
   array (
     'id' => 57944,
     'name' => 'Bewar',
@@ -3088,7 +3043,7 @@ return array (
     'latitude' => 27.21869,
     'longitude' => 79.29761,
   ),
-  343 => 
+  338 => 
   array (
     'id' => 57945,
     'name' => 'Beypore',
@@ -3097,7 +3052,7 @@ return array (
     'latitude' => 11.17151,
     'longitude' => 75.80611,
   ),
-  344 => 
+  339 => 
   array (
     'id' => 57946,
     'name' => 'Beawar',
@@ -3106,7 +3061,7 @@ return array (
     'latitude' => 26.10119,
     'longitude' => 74.32028,
   ),
-  345 => 
+  340 => 
   array (
     'id' => 57947,
     'name' => 'Bhabhua',
@@ -3115,7 +3070,7 @@ return array (
     'latitude' => 25.04049,
     'longitude' => 83.60749,
   ),
-  346 => 
+  341 => 
   array (
     'id' => 57948,
     'name' => 'Bhachau',
@@ -3124,7 +3079,7 @@ return array (
     'latitude' => 23.29858,
     'longitude' => 70.34279,
   ),
-  347 => 
+  342 => 
   array (
     'id' => 57949,
     'name' => 'Bhadarwah',
@@ -3133,7 +3088,7 @@ return array (
     'latitude' => 32.97941,
     'longitude' => 75.71723,
   ),
-  348 => 
+  343 => 
   array (
     'id' => 57950,
     'name' => 'Bhadaur',
@@ -3142,7 +3097,7 @@ return array (
     'latitude' => 30.47651,
     'longitude' => 75.33049,
   ),
-  349 => 
+  344 => 
   array (
     'id' => 57951,
     'name' => 'Bhadohi',
@@ -3151,7 +3106,7 @@ return array (
     'latitude' => 25.39526,
     'longitude' => 82.5703,
   ),
-  350 => 
+  345 => 
   array (
     'id' => 57952,
     'name' => 'Bhadradri Kothagudem',
@@ -3160,7 +3115,7 @@ return array (
     'latitude' => 17.5546,
     'longitude' => 80.61976,
   ),
-  351 => 
+  346 => 
   array (
     'id' => 57953,
     'name' => 'Bhadrak',
@@ -3169,7 +3124,7 @@ return array (
     'latitude' => 21.0,
     'longitude' => 86.6,
   ),
-  352 => 
+  347 => 
   array (
     'id' => 57954,
     'name' => 'Bhadrakh',
@@ -3178,7 +3133,7 @@ return array (
     'latitude' => 21.05447,
     'longitude' => 86.5156,
   ),
-  353 => 
+  348 => 
   array (
     'id' => 57955,
     'name' => 'Bhadrachalam',
@@ -3187,7 +3142,7 @@ return array (
     'latitude' => 17.66846,
     'longitude' => 80.88887,
   ),
-  354 => 
+  349 => 
   array (
     'id' => 57956,
     'name' => 'Bhadravati',
@@ -3196,7 +3151,7 @@ return array (
     'latitude' => 13.84846,
     'longitude' => 75.70502,
   ),
-  355 => 
+  350 => 
   array (
     'id' => 57957,
     'name' => 'Bhagirathpur',
@@ -3205,7 +3160,7 @@ return array (
     'latitude' => 26.2695,
     'longitude' => 86.06346,
   ),
-  356 => 
+  351 => 
   array (
     'id' => 57958,
     'name' => 'Bhagwantnagar',
@@ -3214,7 +3169,7 @@ return array (
     'latitude' => 26.22383,
     'longitude' => 80.7575,
   ),
-  357 => 
+  352 => 
   array (
     'id' => 57959,
     'name' => 'Bhainsdehi',
@@ -3223,7 +3178,7 @@ return array (
     'latitude' => 21.64491,
     'longitude' => 77.63023,
   ),
-  358 => 
+  353 => 
   array (
     'id' => 57960,
     'name' => 'Bhaisa',
@@ -3232,7 +3187,7 @@ return array (
     'latitude' => 19.11285,
     'longitude' => 77.96336,
   ),
-  359 => 
+  354 => 
   array (
     'id' => 57961,
     'name' => 'Bhandara',
@@ -3241,7 +3196,7 @@ return array (
     'latitude' => 21.18333,
     'longitude' => 80.0,
   ),
-  360 => 
+  355 => 
   array (
     'id' => 57963,
     'name' => 'Bhanjanagar',
@@ -3250,7 +3205,7 @@ return array (
     'latitude' => 19.92719,
     'longitude' => 84.58201,
   ),
-  361 => 
+  356 => 
   array (
     'id' => 57964,
     'name' => 'Bharatpur',
@@ -3259,7 +3214,7 @@ return array (
     'latitude' => 27.21,
     'longitude' => 77.29,
   ),
-  362 => 
+  357 => 
   array (
     'id' => 57965,
     'name' => 'Bharthana',
@@ -3268,7 +3223,7 @@ return array (
     'latitude' => 26.75231,
     'longitude' => 79.2218,
   ),
-  363 => 
+  358 => 
   array (
     'id' => 57966,
     'name' => 'Bharwari',
@@ -3277,7 +3232,7 @@ return array (
     'latitude' => 25.56078,
     'longitude' => 81.49164,
   ),
-  364 => 
+  359 => 
   array (
     'id' => 57967,
     'name' => 'Bharuch',
@@ -3286,7 +3241,7 @@ return array (
     'latitude' => 21.69482,
     'longitude' => 72.9805,
   ),
-  365 => 
+  360 => 
   array (
     'id' => 57968,
     'name' => 'Bhasawar',
@@ -3295,7 +3250,7 @@ return array (
     'latitude' => 27.03895,
     'longitude' => 77.04849,
   ),
-  366 => 
+  361 => 
   array (
     'id' => 57969,
     'name' => 'Bhatgaon',
@@ -3304,7 +3259,7 @@ return array (
     'latitude' => 21.15,
     'longitude' => 81.7,
   ),
-  367 => 
+  362 => 
   array (
     'id' => 57970,
     'name' => 'Bhatkal',
@@ -3313,7 +3268,7 @@ return array (
     'latitude' => 13.98534,
     'longitude' => 74.55531,
   ),
-  368 => 
+  363 => 
   array (
     'id' => 57971,
     'name' => 'Bhattiprolu',
@@ -3322,7 +3277,7 @@ return array (
     'latitude' => 16.1026,
     'longitude' => 80.78074,
   ),
-  369 => 
+  364 => 
   array (
     'id' => 57972,
     'name' => 'Bhavnagar',
@@ -3331,7 +3286,7 @@ return array (
     'latitude' => 21.76287,
     'longitude' => 72.15331,
   ),
-  370 => 
+  365 => 
   array (
     'id' => 57973,
     'name' => 'Bhavani',
@@ -3340,7 +3295,7 @@ return array (
     'latitude' => 11.44553,
     'longitude' => 77.68215,
   ),
-  371 => 
+  366 => 
   array (
     'id' => 57974,
     'name' => 'Bhawanipur',
@@ -3349,7 +3304,7 @@ return array (
     'latitude' => 26.45352,
     'longitude' => 87.02744,
   ),
-  372 => 
+  367 => 
   array (
     'id' => 57975,
     'name' => 'Bhawaniganj',
@@ -3358,7 +3313,7 @@ return array (
     'latitude' => 24.41582,
     'longitude' => 75.83552,
   ),
-  373 => 
+  368 => 
   array (
     'id' => 57976,
     'name' => 'Bhawanipatna',
@@ -3367,7 +3322,7 @@ return array (
     'latitude' => 19.90717,
     'longitude' => 83.16697,
   ),
-  374 => 
+  369 => 
   array (
     'id' => 57977,
     'name' => 'Bhawanigarh',
@@ -3376,7 +3331,7 @@ return array (
     'latitude' => 30.26685,
     'longitude' => 76.03854,
   ),
-  375 => 
+  370 => 
   array (
     'id' => 57978,
     'name' => 'Bhayandar',
@@ -3385,7 +3340,7 @@ return array (
     'latitude' => 19.30157,
     'longitude' => 72.85107,
   ),
-  376 => 
+  371 => 
   array (
     'id' => 57979,
     'name' => 'Bhigvan',
@@ -3394,7 +3349,7 @@ return array (
     'latitude' => 18.3007,
     'longitude' => 74.76701,
   ),
-  377 => 
+  372 => 
   array (
     'id' => 57980,
     'name' => 'Bhikangaon',
@@ -3403,7 +3358,7 @@ return array (
     'latitude' => 21.86764,
     'longitude' => 75.96391,
   ),
-  378 => 
+  373 => 
   array (
     'id' => 57981,
     'name' => 'Bhilai',
@@ -3412,7 +3367,7 @@ return array (
     'latitude' => 21.20919,
     'longitude' => 81.4285,
   ),
-  379 => 
+  374 => 
   array (
     'id' => 57982,
     'name' => 'Bhind',
@@ -3421,7 +3376,7 @@ return array (
     'latitude' => 26.5,
     'longitude' => 78.75,
   ),
-  380 => 
+  375 => 
   array (
     'id' => 57983,
     'name' => 'Bhindar',
@@ -3430,7 +3385,7 @@ return array (
     'latitude' => 24.50235,
     'longitude' => 74.18551,
   ),
-  381 => 
+  376 => 
   array (
     'id' => 57984,
     'name' => 'Bhinga',
@@ -3439,7 +3394,7 @@ return array (
     'latitude' => 27.70283,
     'longitude' => 81.9343,
   ),
-  382 => 
+  377 => 
   array (
     'id' => 57985,
     'name' => 'Bhitarwar',
@@ -3448,7 +3403,7 @@ return array (
     'latitude' => 25.79216,
     'longitude' => 78.11085,
   ),
-  383 => 
+  378 => 
   array (
     'id' => 57986,
     'name' => 'Bhiwadi',
@@ -3457,7 +3412,7 @@ return array (
     'latitude' => 28.21024,
     'longitude' => 76.86056,
   ),
-  384 => 
+  379 => 
   array (
     'id' => 57987,
     'name' => 'Bhiwandi',
@@ -3466,7 +3421,7 @@ return array (
     'latitude' => 19.30023,
     'longitude' => 73.05881,
   ),
-  385 => 
+  380 => 
   array (
     'id' => 57988,
     'name' => 'Bhiwani',
@@ -3475,7 +3430,7 @@ return array (
     'latitude' => 28.75,
     'longitude' => 76.16667,
   ),
-  386 => 
+  381 => 
   array (
     'id' => 57990,
     'name' => 'Bhogpur',
@@ -3484,7 +3439,7 @@ return array (
     'latitude' => 31.55442,
     'longitude' => 75.64271,
   ),
-  387 => 
+  382 => 
   array (
     'id' => 57991,
     'name' => 'Bhojpur',
@@ -3493,7 +3448,7 @@ return array (
     'latitude' => 25.30886,
     'longitude' => 84.44504,
   ),
-  388 => 
+  383 => 
   array (
     'id' => 57992,
     'name' => 'Bhojudih',
@@ -3502,7 +3457,7 @@ return array (
     'latitude' => 23.63962,
     'longitude' => 86.44105,
   ),
-  389 => 
+  384 => 
   array (
     'id' => 57993,
     'name' => 'Bhongaon',
@@ -3511,7 +3466,7 @@ return array (
     'latitude' => 27.25515,
     'longitude' => 79.18118,
   ),
-  390 => 
+  385 => 
   array (
     'id' => 57994,
     'name' => 'Bhongir',
@@ -3520,7 +3475,7 @@ return array (
     'latitude' => 17.51544,
     'longitude' => 78.88563,
   ),
-  391 => 
+  386 => 
   array (
     'id' => 57995,
     'name' => 'Bhopal',
@@ -3529,7 +3484,7 @@ return array (
     'latitude' => 23.25469,
     'longitude' => 77.40289,
   ),
-  392 => 
+  387 => 
   array (
     'id' => 57997,
     'name' => 'Bhor',
@@ -3538,7 +3493,7 @@ return array (
     'latitude' => 18.14861,
     'longitude' => 73.84336,
   ),
-  393 => 
+  388 => 
   array (
     'id' => 57998,
     'name' => 'Bhowali',
@@ -3547,7 +3502,7 @@ return array (
     'latitude' => 29.38985,
     'longitude' => 79.50481,
   ),
-  394 => 
+  389 => 
   array (
     'id' => 57999,
     'name' => 'Bhuban',
@@ -3556,7 +3511,7 @@ return array (
     'latitude' => 20.88197,
     'longitude' => 85.83334,
   ),
-  395 => 
+  390 => 
   array (
     'id' => 58000,
     'name' => 'Bhubaneswar',
@@ -3565,7 +3520,7 @@ return array (
     'latitude' => 20.27241,
     'longitude' => 85.83385,
   ),
-  396 => 
+  391 => 
   array (
     'id' => 58001,
     'name' => 'Bhudgaon',
@@ -3574,7 +3529,7 @@ return array (
     'latitude' => 16.90742,
     'longitude' => 74.59954,
   ),
-  397 => 
+  392 => 
   array (
     'id' => 58002,
     'name' => 'Bhuj',
@@ -3583,7 +3538,7 @@ return array (
     'latitude' => 23.25397,
     'longitude' => 69.66928,
   ),
-  398 => 
+  393 => 
   array (
     'id' => 58004,
     'name' => 'Bhuma',
@@ -3592,7 +3547,7 @@ return array (
     'latitude' => 27.78333,
     'longitude' => 74.93333,
   ),
-  399 => 
+  394 => 
   array (
     'id' => 58005,
     'name' => 'Bhusaval',
@@ -3601,7 +3556,7 @@ return array (
     'latitude' => 21.04365,
     'longitude' => 75.78506,
   ),
-  400 => 
+  395 => 
   array (
     'id' => 58006,
     'name' => 'Bhabhra',
@@ -3610,7 +3565,7 @@ return array (
     'latitude' => 22.53048,
     'longitude' => 74.32846,
   ),
-  401 => 
+  396 => 
   array (
     'id' => 58007,
     'name' => 'Bhadra',
@@ -3619,7 +3574,7 @@ return array (
     'latitude' => 29.10298,
     'longitude' => 75.17138,
   ),
-  402 => 
+  397 => 
   array (
     'id' => 58008,
     'name' => 'Bhadasar',
@@ -3628,7 +3583,7 @@ return array (
     'latitude' => 28.31457,
     'longitude' => 74.28952,
   ),
-  403 => 
+  398 => 
   array (
     'id' => 58009,
     'name' => 'Bhagalpur',
@@ -3637,7 +3592,7 @@ return array (
     'latitude' => 25.29023,
     'longitude' => 87.06665,
   ),
-  404 => 
+  399 => 
   array (
     'id' => 58010,
     'name' => 'Bhalki',
@@ -3646,7 +3601,7 @@ return array (
     'latitude' => 18.04348,
     'longitude' => 77.206,
   ),
-  405 => 
+  400 => 
   array (
     'id' => 58011,
     'name' => 'Bhander',
@@ -3655,7 +3610,7 @@ return array (
     'latitude' => 25.73581,
     'longitude' => 78.74555,
   ),
-  406 => 
+  401 => 
   array (
     'id' => 58012,
     'name' => 'Bhanpura',
@@ -3664,7 +3619,7 @@ return array (
     'latitude' => 24.513,
     'longitude' => 75.7469,
   ),
-  407 => 
+  402 => 
   array (
     'id' => 58013,
     'name' => 'Bhanpuri',
@@ -3673,7 +3628,7 @@ return array (
     'latitude' => 21.0919,
     'longitude' => 80.93218,
   ),
-  408 => 
+  403 => 
   array (
     'id' => 58014,
     'name' => 'Bhanvad',
@@ -3682,7 +3637,7 @@ return array (
     'latitude' => 21.93053,
     'longitude' => 69.78081,
   ),
-  409 => 
+  404 => 
   array (
     'id' => 58015,
     'name' => 'Bhatapara',
@@ -3691,7 +3646,7 @@ return array (
     'latitude' => 21.735,
     'longitude' => 81.94711,
   ),
-  410 => 
+  405 => 
   array (
     'id' => 58017,
     'name' => 'Bhayavadar',
@@ -3700,7 +3655,7 @@ return array (
     'latitude' => 21.85523,
     'longitude' => 70.24791,
   ),
-  411 => 
+  406 => 
   array (
     'id' => 58018,
     'name' => 'Bhikhi',
@@ -3709,7 +3664,7 @@ return array (
     'latitude' => 30.05918,
     'longitude' => 75.535,
   ),
-  412 => 
+  407 => 
   array (
     'id' => 58019,
     'name' => 'Bhilwara',
@@ -3718,7 +3673,7 @@ return array (
     'latitude' => 25.5,
     'longitude' => 74.75,
   ),
-  413 => 
+  408 => 
   array (
     'id' => 58020,
     'name' => 'Bhim Tal',
@@ -3727,7 +3682,7 @@ return array (
     'latitude' => 29.34447,
     'longitude' => 79.56336,
   ),
-  414 => 
+  409 => 
   array (
     'id' => 58021,
     'name' => 'Bhimavaram',
@@ -3736,7 +3691,7 @@ return array (
     'latitude' => 16.54078,
     'longitude' => 81.52322,
   ),
-  415 => 
+  410 => 
   array (
     'id' => 58022,
     'name' => 'Bhimunipatnam',
@@ -3745,7 +3700,7 @@ return array (
     'latitude' => 17.89017,
     'longitude' => 83.45203,
   ),
-  416 => 
+  411 => 
   array (
     'id' => 58023,
     'name' => 'Bhinmal',
@@ -3754,7 +3709,7 @@ return array (
     'latitude' => 24.99944,
     'longitude' => 72.27141,
   ),
-  417 => 
+  412 => 
   array (
     'id' => 58024,
     'name' => 'Bhoom',
@@ -3763,7 +3718,7 @@ return array (
     'latitude' => 18.45908,
     'longitude' => 75.65877,
   ),
-  418 => 
+  413 => 
   array (
     'id' => 58025,
     'name' => 'Biaora',
@@ -3772,7 +3727,7 @@ return array (
     'latitude' => 23.9205,
     'longitude' => 76.91074,
   ),
-  419 => 
+  414 => 
   array (
     'id' => 58027,
     'name' => 'Bidhuna',
@@ -3781,7 +3736,7 @@ return array (
     'latitude' => 26.80172,
     'longitude' => 79.50829,
   ),
-  420 => 
+  415 => 
   array (
     'id' => 58028,
     'name' => 'Bihpuriagaon',
@@ -3790,7 +3745,7 @@ return array (
     'latitude' => 27.01718,
     'longitude' => 93.91673,
   ),
-  421 => 
+  416 => 
   array (
     'id' => 58029,
     'name' => 'Bihar Sharif',
@@ -3799,7 +3754,7 @@ return array (
     'latitude' => 25.20084,
     'longitude' => 85.52389,
   ),
-  422 => 
+  417 => 
   array (
     'id' => 58030,
     'name' => 'Bihariganj',
@@ -3808,7 +3763,7 @@ return array (
     'latitude' => 25.73415,
     'longitude' => 86.98837,
   ),
-  423 => 
+  418 => 
   array (
     'id' => 58031,
     'name' => 'Vijayapura',
@@ -3817,7 +3772,7 @@ return array (
     'latitude' => 16.82442,
     'longitude' => 75.71537,
   ),
-  424 => 
+  419 => 
   array (
     'id' => 58032,
     'name' => 'Bijapur',
@@ -3826,7 +3781,7 @@ return array (
     'latitude' => 18.84322,
     'longitude' => 80.7761,
   ),
-  425 => 
+  420 => 
   array (
     'id' => 58033,
     'name' => 'Bijbehara',
@@ -3835,7 +3790,7 @@ return array (
     'latitude' => 33.79378,
     'longitude' => 75.107,
   ),
-  426 => 
+  421 => 
   array (
     'id' => 58034,
     'name' => 'Bijni',
@@ -3844,7 +3799,7 @@ return array (
     'latitude' => 26.49588,
     'longitude' => 90.70298,
   ),
-  427 => 
+  422 => 
   array (
     'id' => 58035,
     'name' => 'Bijnor',
@@ -3853,7 +3808,7 @@ return array (
     'latitude' => 29.41667,
     'longitude' => 78.51667,
   ),
-  428 => 
+  423 => 
   array (
     'id' => 58036,
     'name' => 'Bijrauni',
@@ -3862,7 +3817,7 @@ return array (
     'latitude' => 24.93296,
     'longitude' => 77.64352,
   ),
-  429 => 
+  424 => 
   array (
     'id' => 58038,
     'name' => 'Bijawar',
@@ -3871,7 +3826,7 @@ return array (
     'latitude' => 24.62351,
     'longitude' => 79.48994,
   ),
-  430 => 
+  425 => 
   array (
     'id' => 58039,
     'name' => 'Bikramganj',
@@ -3880,7 +3835,7 @@ return array (
     'latitude' => 25.21073,
     'longitude' => 84.25508,
   ),
-  431 => 
+  426 => 
   array (
     'id' => 58040,
     'name' => 'Bilariaganj',
@@ -3889,7 +3844,7 @@ return array (
     'latitude' => 26.19593,
     'longitude' => 83.2269,
   ),
-  432 => 
+  427 => 
   array (
     'id' => 58041,
     'name' => 'Bilaspur',
@@ -3898,7 +3853,7 @@ return array (
     'latitude' => 31.33027,
     'longitude' => 76.75663,
   ),
-  433 => 
+  428 => 
   array (
     'id' => 58042,
     'name' => 'Bilgi',
@@ -3907,7 +3862,7 @@ return array (
     'latitude' => 16.34714,
     'longitude' => 75.61804,
   ),
-  434 => 
+  429 => 
   array (
     'id' => 58043,
     'name' => 'Bilgram',
@@ -3916,7 +3871,7 @@ return array (
     'latitude' => 27.17509,
     'longitude' => 80.03201,
   ),
-  435 => 
+  430 => 
   array (
     'id' => 58044,
     'name' => 'Bilhaur',
@@ -3925,7 +3880,7 @@ return array (
     'latitude' => 26.84345,
     'longitude' => 80.06388,
   ),
-  436 => 
+  431 => 
   array (
     'id' => 58045,
     'name' => 'Bilimora',
@@ -3934,7 +3889,7 @@ return array (
     'latitude' => 20.76957,
     'longitude' => 72.96134,
   ),
-  437 => 
+  432 => 
   array (
     'id' => 58046,
     'name' => 'Bilkha',
@@ -3943,7 +3898,7 @@ return array (
     'latitude' => 21.4415,
     'longitude' => 70.60063,
   ),
-  438 => 
+  433 => 
   array (
     'id' => 58047,
     'name' => 'Biloli',
@@ -3952,7 +3907,7 @@ return array (
     'latitude' => 18.77385,
     'longitude' => 77.72463,
   ),
-  439 => 
+  434 => 
   array (
     'id' => 58048,
     'name' => 'Bilsanda',
@@ -3961,7 +3916,7 @@ return array (
     'latitude' => 28.24341,
     'longitude' => 79.95135,
   ),
-  440 => 
+  435 => 
   array (
     'id' => 58049,
     'name' => 'Bilsi',
@@ -3970,7 +3925,7 @@ return array (
     'latitude' => 28.12941,
     'longitude' => 78.9109,
   ),
-  441 => 
+  436 => 
   array (
     'id' => 58050,
     'name' => 'Bilthra',
@@ -3979,7 +3934,7 @@ return array (
     'latitude' => 26.12705,
     'longitude' => 83.89148,
   ),
-  442 => 
+  437 => 
   array (
     'id' => 58051,
     'name' => 'Bilara',
@@ -3988,7 +3943,7 @@ return array (
     'latitude' => 26.18067,
     'longitude' => 73.7055,
   ),
-  443 => 
+  438 => 
   array (
     'id' => 58052,
     'name' => 'Bilari',
@@ -3997,7 +3952,7 @@ return array (
     'latitude' => 28.62146,
     'longitude' => 78.80361,
   ),
-  444 => 
+  439 => 
   array (
     'id' => 58053,
     'name' => 'Bilasipara',
@@ -4006,25 +3961,7 @@ return array (
     'latitude' => 26.23285,
     'longitude' => 90.2341,
   ),
-  445 => 
-  array (
-    'id' => 58054,
-    'name' => 'Bilaspur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.3045,
-    'longitude' => 77.30424,
-  ),
-  446 => 
-  array (
-    'id' => 58055,
-    'name' => 'Bilaspur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.38333,
-    'longitude' => 82.13333,
-  ),
-  447 => 
+  440 => 
   array (
     'id' => 58057,
     'name' => 'Bindki',
@@ -4033,7 +3970,7 @@ return array (
     'latitude' => 26.03613,
     'longitude' => 80.57617,
   ),
-  448 => 
+  441 => 
   array (
     'id' => 58058,
     'name' => 'Binka',
@@ -4042,7 +3979,7 @@ return array (
     'latitude' => 21.02626,
     'longitude' => 83.81197,
   ),
-  449 => 
+  442 => 
   array (
     'id' => 58059,
     'name' => 'Birbhaddar',
@@ -4051,7 +3988,7 @@ return array (
     'latitude' => 30.0712,
     'longitude' => 78.28189,
   ),
-  450 => 
+  443 => 
   array (
     'id' => 58060,
     'name' => 'Birmitrapur',
@@ -4060,7 +3997,7 @@ return array (
     'latitude' => 22.4,
     'longitude' => 84.76667,
   ),
-  451 => 
+  444 => 
   array (
     'id' => 58061,
     'name' => 'Birur',
@@ -4069,7 +4006,7 @@ return array (
     'latitude' => 13.59723,
     'longitude' => 75.97167,
   ),
-  452 => 
+  445 => 
   array (
     'id' => 58062,
     'name' => 'Bisauli',
@@ -4078,7 +4015,7 @@ return array (
     'latitude' => 28.30772,
     'longitude' => 78.93678,
   ),
-  453 => 
+  446 => 
   array (
     'id' => 58063,
     'name' => 'Bisenda Buzurg',
@@ -4087,7 +4024,7 @@ return array (
     'latitude' => 25.4035,
     'longitude' => 80.61889,
   ),
-  454 => 
+  447 => 
   array (
     'id' => 58064,
     'name' => 'Bishnupur',
@@ -4096,7 +4033,7 @@ return array (
     'latitude' => 24.60769,
     'longitude' => 93.77998,
   ),
-  455 => 
+  448 => 
   array (
     'id' => 58065,
     'name' => 'Bishnah',
@@ -4105,7 +4042,7 @@ return array (
     'latitude' => 32.6106,
     'longitude' => 74.85557,
   ),
-  456 => 
+  449 => 
   array (
     'id' => 58066,
     'name' => 'Bishunpur Urf Maharajganj',
@@ -4114,7 +4051,7 @@ return array (
     'latitude' => 26.25914,
     'longitude' => 83.11643,
   ),
-  457 => 
+  450 => 
   array (
     'id' => 58067,
     'name' => 'Bissau',
@@ -4123,7 +4060,7 @@ return array (
     'latitude' => 28.24737,
     'longitude' => 75.07666,
   ),
-  458 => 
+  451 => 
   array (
     'id' => 58068,
     'name' => 'Biswan',
@@ -4132,7 +4069,7 @@ return array (
     'latitude' => 27.49581,
     'longitude' => 80.99618,
   ),
-  459 => 
+  452 => 
   array (
     'id' => 58069,
     'name' => 'Bithur',
@@ -4141,7 +4078,7 @@ return array (
     'latitude' => 26.60664,
     'longitude' => 80.27098,
   ),
-  460 => 
+  453 => 
   array (
     'id' => 58070,
     'name' => 'Bobbili',
@@ -4150,7 +4087,7 @@ return array (
     'latitude' => 18.57366,
     'longitude' => 83.35925,
   ),
-  461 => 
+  454 => 
   array (
     'id' => 58071,
     'name' => 'Bodhan',
@@ -4159,7 +4096,7 @@ return array (
     'latitude' => 18.66208,
     'longitude' => 77.88581,
   ),
-  462 => 
+  455 => 
   array (
     'id' => 58072,
     'name' => 'Bodinayakkanur',
@@ -4168,7 +4105,7 @@ return array (
     'latitude' => 10.01171,
     'longitude' => 77.34976,
   ),
-  463 => 
+  456 => 
   array (
     'id' => 58073,
     'name' => 'Bodri',
@@ -4177,7 +4114,7 @@ return array (
     'latitude' => 23.16524,
     'longitude' => 81.43262,
   ),
-  464 => 
+  457 => 
   array (
     'id' => 58074,
     'name' => 'Boisar',
@@ -4186,7 +4123,7 @@ return array (
     'latitude' => 19.80362,
     'longitude' => 72.75598,
   ),
-  465 => 
+  458 => 
   array (
     'id' => 58075,
     'name' => 'Bokajan',
@@ -4195,7 +4132,7 @@ return array (
     'latitude' => 26.02131,
     'longitude' => 93.77945,
   ),
-  466 => 
+  459 => 
   array (
     'id' => 58076,
     'name' => 'Bokaro',
@@ -4204,7 +4141,7 @@ return array (
     'latitude' => 23.68562,
     'longitude' => 85.99026,
   ),
-  467 => 
+  460 => 
   array (
     'id' => 58077,
     'name' => 'Bokakhat',
@@ -4213,7 +4150,7 @@ return array (
     'latitude' => 26.64018,
     'longitude' => 93.60052,
   ),
-  468 => 
+  461 => 
   array (
     'id' => 58079,
     'name' => 'Bolanikhodan',
@@ -4222,7 +4159,7 @@ return array (
     'latitude' => 22.11312,
     'longitude' => 85.33645,
   ),
-  469 => 
+  462 => 
   array (
     'id' => 58080,
     'name' => 'Bomdila',
@@ -4231,7 +4168,7 @@ return array (
     'latitude' => 27.26475,
     'longitude' => 92.42472,
   ),
-  470 => 
+  463 => 
   array (
     'id' => 58081,
     'name' => 'Bongaigaon',
@@ -4240,7 +4177,7 @@ return array (
     'latitude' => 26.4603,
     'longitude' => 90.6464,
   ),
-  471 => 
+  464 => 
   array (
     'id' => 58083,
     'name' => 'Borkhera',
@@ -4249,7 +4186,7 @@ return array (
     'latitude' => 25.52115,
     'longitude' => 75.64028,
   ),
-  472 => 
+  465 => 
   array (
     'id' => 58084,
     'name' => 'Borsad',
@@ -4258,7 +4195,7 @@ return array (
     'latitude' => 22.40788,
     'longitude' => 72.89817,
   ),
-  473 => 
+  466 => 
   array (
     'id' => 58085,
     'name' => 'Botad',
@@ -4267,7 +4204,7 @@ return array (
     'latitude' => 22.16917,
     'longitude' => 71.66671,
   ),
-  474 => 
+  467 => 
   array (
     'id' => 58086,
     'name' => 'Brahmapur',
@@ -4276,7 +4213,7 @@ return array (
     'latitude' => 19.31151,
     'longitude' => 84.7929,
   ),
-  475 => 
+  468 => 
   array (
     'id' => 58087,
     'name' => 'Brajarajnagar',
@@ -4285,7 +4222,7 @@ return array (
     'latitude' => 21.81667,
     'longitude' => 83.91667,
   ),
-  476 => 
+  469 => 
   array (
     'id' => 58088,
     'name' => 'Budaun',
@@ -4294,7 +4231,7 @@ return array (
     'latitude' => 28.11667,
     'longitude' => 78.98333,
   ),
-  477 => 
+  470 => 
   array (
     'id' => 58089,
     'name' => 'Bodh Gaya',
@@ -4303,7 +4240,7 @@ return array (
     'latitude' => 24.69808,
     'longitude' => 84.9869,
   ),
-  478 => 
+  471 => 
   array (
     'id' => 58090,
     'name' => 'Budhlada',
@@ -4312,7 +4249,7 @@ return array (
     'latitude' => 29.92799,
     'longitude' => 75.56205,
   ),
-  479 => 
+  472 => 
   array (
     'id' => 58091,
     'name' => 'Budhana',
@@ -4321,7 +4258,7 @@ return array (
     'latitude' => 29.28805,
     'longitude' => 77.47534,
   ),
-  480 => 
+  473 => 
   array (
     'id' => 58092,
     'name' => 'Buguda',
@@ -4330,7 +4267,7 @@ return array (
     'latitude' => 19.80806,
     'longitude' => 84.79084,
   ),
-  481 => 
+  474 => 
   array (
     'id' => 58093,
     'name' => 'Bulandshahr',
@@ -4339,7 +4276,7 @@ return array (
     'latitude' => 28.41667,
     'longitude' => 77.83333,
   ),
-  482 => 
+  475 => 
   array (
     'id' => 58094,
     'name' => 'Buldana',
@@ -4348,7 +4285,7 @@ return array (
     'latitude' => 20.58333,
     'longitude' => 76.41667,
   ),
-  483 => 
+  476 => 
   array (
     'id' => 58096,
     'name' => 'Burhanpur',
@@ -4357,7 +4294,7 @@ return array (
     'latitude' => 21.31,
     'longitude' => 76.23,
   ),
-  484 => 
+  477 => 
   array (
     'id' => 58097,
     'name' => 'Burhar',
@@ -4366,7 +4303,7 @@ return array (
     'latitude' => 23.21494,
     'longitude' => 81.53204,
   ),
-  485 => 
+  478 => 
   array (
     'id' => 58099,
     'name' => 'Burla',
@@ -4375,7 +4312,7 @@ return array (
     'latitude' => 21.50976,
     'longitude' => 83.87259,
   ),
-  486 => 
+  479 => 
   array (
     'id' => 58100,
     'name' => 'Buxar',
@@ -4384,7 +4321,7 @@ return array (
     'latitude' => 25.5,
     'longitude' => 84.1,
   ),
-  487 => 
+  480 => 
   array (
     'id' => 58101,
     'name' => 'Byndoor',
@@ -4393,7 +4330,7 @@ return array (
     'latitude' => 13.86667,
     'longitude' => 74.63333,
   ),
-  488 => 
+  481 => 
   array (
     'id' => 58102,
     'name' => 'Byadgi',
@@ -4402,7 +4339,7 @@ return array (
     'latitude' => 14.67325,
     'longitude' => 75.4868,
   ),
-  489 => 
+  482 => 
   array (
     'id' => 58103,
     'name' => 'Babai',
@@ -4411,7 +4348,7 @@ return array (
     'latitude' => 22.70256,
     'longitude' => 77.93494,
   ),
-  490 => 
+  483 => 
   array (
     'id' => 58104,
     'name' => 'Babra',
@@ -4420,7 +4357,7 @@ return array (
     'latitude' => 21.84577,
     'longitude' => 71.30544,
   ),
-  491 => 
+  484 => 
   array (
     'id' => 58105,
     'name' => 'Badami',
@@ -4429,7 +4366,7 @@ return array (
     'latitude' => 15.91495,
     'longitude' => 75.67683,
   ),
-  492 => 
+  485 => 
   array (
     'id' => 58106,
     'name' => 'Bagh',
@@ -4438,7 +4375,7 @@ return array (
     'latitude' => 22.35905,
     'longitude' => 74.79052,
   ),
-  493 => 
+  486 => 
   array (
     'id' => 58107,
     'name' => 'Bagepalli',
@@ -4447,7 +4384,7 @@ return array (
     'latitude' => 13.78338,
     'longitude' => 77.79667,
   ),
-  494 => 
+  487 => 
   array (
     'id' => 58109,
     'name' => 'Bagha Purana',
@@ -4456,7 +4393,7 @@ return array (
     'latitude' => 30.68809,
     'longitude' => 75.09838,
   ),
-  495 => 
+  488 => 
   array (
     'id' => 58111,
     'name' => 'Bagli',
@@ -4465,7 +4402,7 @@ return array (
     'latitude' => 22.64124,
     'longitude' => 76.34877,
   ),
-  496 => 
+  489 => 
   array (
     'id' => 58112,
     'name' => 'Bah',
@@ -4474,7 +4411,7 @@ return array (
     'latitude' => 26.86912,
     'longitude' => 78.59385,
   ),
-  497 => 
+  490 => 
   array (
     'id' => 58113,
     'name' => 'Bajna',
@@ -4483,7 +4420,7 @@ return array (
     'latitude' => 27.89793,
     'longitude' => 77.67836,
   ),
-  498 => 
+  491 => 
   array (
     'id' => 58114,
     'name' => 'Baleshwar',
@@ -4492,7 +4429,7 @@ return array (
     'latitude' => 21.5,
     'longitude' => 86.75,
   ),
-  499 => 
+  492 => 
   array (
     'id' => 58115,
     'name' => 'Bali',
@@ -4501,7 +4438,7 @@ return array (
     'latitude' => 25.19725,
     'longitude' => 73.29117,
   ),
-  500 => 
+  493 => 
   array (
     'id' => 58116,
     'name' => 'Balotra',
@@ -4510,7 +4447,7 @@ return array (
     'latitude' => 25.83242,
     'longitude' => 72.24,
   ),
-  501 => 
+  494 => 
   array (
     'id' => 58117,
     'name' => 'Balugaon',
@@ -4519,7 +4456,7 @@ return array (
     'latitude' => 20.17838,
     'longitude' => 85.11327,
   ),
-  502 => 
+  495 => 
   array (
     'id' => 58118,
     'name' => 'Balachor',
@@ -4528,7 +4465,7 @@ return array (
     'latitude' => 31.06062,
     'longitude' => 76.30166,
   ),
-  503 => 
+  496 => 
   array (
     'id' => 58119,
     'name' => 'Balaghat',
@@ -4537,7 +4474,7 @@ return array (
     'latitude' => 21.96667,
     'longitude' => 80.33333,
   ),
-  504 => 
+  497 => 
   array (
     'id' => 58120,
     'name' => 'Balapur',
@@ -4546,16 +4483,7 @@ return array (
     'latitude' => 17.31018,
     'longitude' => 78.49969,
   ),
-  505 => 
-  array (
-    'id' => 58121,
-    'name' => 'Balapur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 20.66612,
-    'longitude' => 76.77386,
-  ),
-  506 => 
+  498 => 
   array (
     'id' => 58122,
     'name' => 'Bamor Kalan',
@@ -4564,7 +4492,7 @@ return array (
     'latitude' => 24.89298,
     'longitude' => 78.15105,
   ),
-  507 => 
+  499 => 
   array (
     'id' => 58123,
     'name' => 'Banapur',
@@ -4573,16 +4501,7 @@ return array (
     'latitude' => 19.77889,
     'longitude' => 85.17033,
   ),
-  508 => 
-  array (
-    'id' => 58124,
-    'name' => 'Banda',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.5,
-    'longitude' => 80.5,
-  ),
-  509 => 
+  500 => 
   array (
     'id' => 58125,
     'name' => 'Bandikui',
@@ -4591,7 +4510,7 @@ return array (
     'latitude' => 27.05087,
     'longitude' => 76.57325,
   ),
-  510 => 
+  501 => 
   array (
     'id' => 58126,
     'name' => 'Bangarmau',
@@ -4600,7 +4519,7 @@ return array (
     'latitude' => 26.8912,
     'longitude' => 80.21149,
   ),
-  511 => 
+  502 => 
   array (
     'id' => 58128,
     'name' => 'Banki',
@@ -4609,7 +4528,7 @@ return array (
     'latitude' => 20.37912,
     'longitude' => 85.52953,
   ),
-  512 => 
+  503 => 
   array (
     'id' => 58129,
     'name' => 'Banposh',
@@ -4618,7 +4537,7 @@ return array (
     'latitude' => 22.24834,
     'longitude' => 84.81044,
   ),
-  513 => 
+  504 => 
   array (
     'id' => 58130,
     'name' => 'Bansdih',
@@ -4627,7 +4546,7 @@ return array (
     'latitude' => 25.88377,
     'longitude' => 84.21827,
   ),
-  514 => 
+  505 => 
   array (
     'id' => 58131,
     'name' => 'Bansgaon',
@@ -4636,7 +4555,7 @@ return array (
     'latitude' => 26.55032,
     'longitude' => 83.34503,
   ),
-  515 => 
+  506 => 
   array (
     'id' => 58132,
     'name' => 'Bansi',
@@ -4645,7 +4564,7 @@ return array (
     'latitude' => 27.17749,
     'longitude' => 82.93442,
   ),
-  516 => 
+  507 => 
   array (
     'id' => 58133,
     'name' => 'Banswada',
@@ -4654,7 +4573,7 @@ return array (
     'latitude' => 18.37725,
     'longitude' => 77.88007,
   ),
-  517 => 
+  508 => 
   array (
     'id' => 58134,
     'name' => 'Banswara',
@@ -4663,7 +4582,7 @@ return array (
     'latitude' => 23.54109,
     'longitude' => 74.4425,
   ),
-  518 => 
+  509 => 
   array (
     'id' => 58135,
     'name' => 'Bantva',
@@ -4672,7 +4591,7 @@ return array (
     'latitude' => 21.48815,
     'longitude' => 70.07576,
   ),
-  519 => 
+  510 => 
   array (
     'id' => 58136,
     'name' => 'Banavar',
@@ -4681,7 +4600,7 @@ return array (
     'latitude' => 13.41029,
     'longitude' => 76.16314,
   ),
-  520 => 
+  511 => 
   array (
     'id' => 58137,
     'name' => 'Bapatla',
@@ -4690,7 +4609,7 @@ return array (
     'latitude' => 15.90422,
     'longitude' => 80.46743,
   ),
-  521 => 
+  512 => 
   array (
     'id' => 58138,
     'name' => 'Bara Banki',
@@ -4699,7 +4618,7 @@ return array (
     'latitude' => 26.93864,
     'longitude' => 81.3274,
   ),
-  522 => 
+  513 => 
   array (
     'id' => 58139,
     'name' => 'Baramula',
@@ -4708,7 +4627,7 @@ return array (
     'latitude' => 34.19287,
     'longitude' => 74.3692,
   ),
-  523 => 
+  514 => 
   array (
     'id' => 58140,
     'name' => 'Bardoli',
@@ -4717,7 +4636,7 @@ return array (
     'latitude' => 21.12297,
     'longitude' => 73.11151,
   ),
-  524 => 
+  515 => 
   array (
     'id' => 58141,
     'name' => 'Barh',
@@ -4726,7 +4645,7 @@ return array (
     'latitude' => 25.48339,
     'longitude' => 85.70928,
   ),
-  525 => 
+  516 => 
   array (
     'id' => 58142,
     'name' => 'Bari',
@@ -4735,7 +4654,7 @@ return array (
     'latitude' => 26.64661,
     'longitude' => 77.61634,
   ),
-  526 => 
+  517 => 
   array (
     'id' => 58143,
     'name' => 'Barmer',
@@ -4744,7 +4663,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 71.5,
   ),
-  527 => 
+  518 => 
   array (
     'id' => 58144,
     'name' => 'Barsi',
@@ -4753,7 +4672,7 @@ return array (
     'latitude' => 18.23454,
     'longitude' => 75.69275,
   ),
-  528 => 
+  519 => 
   array (
     'id' => 58145,
     'name' => 'Baruni',
@@ -4762,7 +4681,7 @@ return array (
     'latitude' => 25.47509,
     'longitude' => 85.96813,
   ),
-  529 => 
+  520 => 
   array (
     'id' => 58146,
     'name' => 'Baramati',
@@ -4771,7 +4690,7 @@ return array (
     'latitude' => 18.15174,
     'longitude' => 74.57767,
   ),
-  530 => 
+  521 => 
   array (
     'id' => 58148,
     'name' => 'Basoda',
@@ -4780,7 +4699,7 @@ return array (
     'latitude' => 23.85153,
     'longitude' => 77.93652,
   ),
-  531 => 
+  522 => 
   array (
     'id' => 58149,
     'name' => 'Basudebpur',
@@ -4789,7 +4708,7 @@ return array (
     'latitude' => 21.11974,
     'longitude' => 86.72896,
   ),
-  532 => 
+  523 => 
   array (
     'id' => 58150,
     'name' => 'Basugaon',
@@ -4798,7 +4717,7 @@ return array (
     'latitude' => 26.46742,
     'longitude' => 90.41951,
   ),
-  533 => 
+  524 => 
   array (
     'id' => 58151,
     'name' => 'Basar',
@@ -4807,7 +4726,7 @@ return array (
     'latitude' => 27.99008,
     'longitude' => 94.69451,
   ),
-  534 => 
+  525 => 
   array (
     'id' => 58152,
     'name' => 'Bawal',
@@ -4816,7 +4735,7 @@ return array (
     'latitude' => 28.07184,
     'longitude' => 76.58312,
   ),
-  535 => 
+  526 => 
   array (
     'id' => 58153,
     'name' => 'Bazpur',
@@ -4825,7 +4744,7 @@ return array (
     'latitude' => 29.15299,
     'longitude' => 79.10814,
   ),
-  536 => 
+  527 => 
   array (
     'id' => 58154,
     'name' => 'Bidar',
@@ -4834,7 +4753,7 @@ return array (
     'latitude' => 18.08333,
     'longitude' => 77.33333,
   ),
-  537 => 
+  528 => 
   array (
     'id' => 58155,
     'name' => 'Bighapur Khurd',
@@ -4843,7 +4762,7 @@ return array (
     'latitude' => 26.34734,
     'longitude' => 80.65698,
   ),
-  538 => 
+  529 => 
   array (
     'id' => 58156,
     'name' => 'Bikaner',
@@ -4852,7 +4771,7 @@ return array (
     'latitude' => 28.01762,
     'longitude' => 73.31495,
   ),
-  539 => 
+  530 => 
   array (
     'id' => 58158,
     'name' => 'Bikapur',
@@ -4861,16 +4780,7 @@ return array (
     'latitude' => 26.59534,
     'longitude' => 82.13272,
   ),
-  540 => 
-  array (
-    'id' => 58159,
-    'name' => 'Bilaspur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.88655,
-    'longitude' => 79.2703,
-  ),
-  541 => 
+  531 => 
   array (
     'id' => 58160,
     'name' => 'Birpur',
@@ -4879,7 +4789,7 @@ return array (
     'latitude' => 26.50823,
     'longitude' => 87.01194,
   ),
-  542 => 
+  532 => 
   array (
     'id' => 58161,
     'name' => 'Bisalpur',
@@ -4888,7 +4798,7 @@ return array (
     'latitude' => 28.29253,
     'longitude' => 79.80472,
   ),
-  543 => 
+  533 => 
   array (
     'id' => 58162,
     'name' => 'Bundi',
@@ -4897,7 +4807,7 @@ return array (
     'latitude' => 25.43855,
     'longitude' => 75.63735,
   ),
-  544 => 
+  534 => 
   array (
     'id' => 58163,
     'name' => 'Bundu',
@@ -4906,7 +4816,7 @@ return array (
     'latitude' => 23.16095,
     'longitude' => 85.59007,
   ),
-  545 => 
+  535 => 
   array (
     'id' => 58164,
     'name' => 'Buriya',
@@ -4915,7 +4825,7 @@ return array (
     'latitude' => 30.15911,
     'longitude' => 77.35814,
   ),
-  546 => 
+  536 => 
   array (
     'id' => 58165,
     'name' => 'Calangute',
@@ -4924,7 +4834,7 @@ return array (
     'latitude' => 15.5439,
     'longitude' => 73.7553,
   ),
-  547 => 
+  537 => 
   array (
     'id' => 58166,
     'name' => 'Canacona',
@@ -4933,7 +4843,7 @@ return array (
     'latitude' => 14.9959,
     'longitude' => 74.05056,
   ),
-  548 => 
+  538 => 
   array (
     'id' => 58167,
     'name' => 'Candolim',
@@ -4942,7 +4852,7 @@ return array (
     'latitude' => 15.51807,
     'longitude' => 73.76259,
   ),
-  549 => 
+  539 => 
   array (
     'id' => 58168,
     'name' => 'Captainganj',
@@ -4951,7 +4861,7 @@ return array (
     'latitude' => 26.9264,
     'longitude' => 83.71334,
   ),
-  550 => 
+  540 => 
   array (
     'id' => 58169,
     'name' => 'Carapur',
@@ -4960,7 +4870,7 @@ return array (
     'latitude' => 15.56588,
     'longitude' => 73.98713,
   ),
-  551 => 
+  541 => 
   array (
     'id' => 58170,
     'name' => 'Cavelossim',
@@ -4969,7 +4879,7 @@ return array (
     'latitude' => 15.17255,
     'longitude' => 73.94194,
   ),
-  552 => 
+  542 => 
   array (
     'id' => 58171,
     'name' => 'Central Delhi',
@@ -4978,7 +4888,7 @@ return array (
     'latitude' => 28.64857,
     'longitude' => 77.21895,
   ),
-  553 => 
+  543 => 
   array (
     'id' => 58172,
     'name' => 'Chail',
@@ -4987,7 +4897,7 @@ return array (
     'latitude' => 25.42654,
     'longitude' => 81.63198,
   ),
-  554 => 
+  544 => 
   array (
     'id' => 58173,
     'name' => 'Chakia',
@@ -4996,7 +4906,7 @@ return array (
     'latitude' => 25.04891,
     'longitude' => 83.22155,
   ),
-  555 => 
+  545 => 
   array (
     'id' => 58174,
     'name' => 'Chaklasi',
@@ -5005,7 +4915,7 @@ return array (
     'latitude' => 22.6532,
     'longitude' => 72.94497,
   ),
-  556 => 
+  546 => 
   array (
     'id' => 58175,
     'name' => 'Chakradharpur',
@@ -5014,7 +4924,7 @@ return array (
     'latitude' => 22.67611,
     'longitude' => 85.62892,
   ),
-  557 => 
+  547 => 
   array (
     'id' => 58176,
     'name' => 'Chakrata',
@@ -5023,7 +4933,7 @@ return array (
     'latitude' => 30.70369,
     'longitude' => 77.86386,
   ),
-  558 => 
+  548 => 
   array (
     'id' => 58177,
     'name' => 'Chaksu',
@@ -5032,7 +4942,7 @@ return array (
     'latitude' => 26.6051,
     'longitude' => 75.94814,
   ),
-  559 => 
+  549 => 
   array (
     'id' => 58178,
     'name' => 'Challakere',
@@ -5041,7 +4951,7 @@ return array (
     'latitude' => 14.318,
     'longitude' => 76.65165,
   ),
-  560 => 
+  550 => 
   array (
     'id' => 58179,
     'name' => 'Challapalle',
@@ -5050,7 +4960,7 @@ return array (
     'latitude' => 16.11756,
     'longitude' => 80.93139,
   ),
-  561 => 
+  551 => 
   array (
     'id' => 58180,
     'name' => 'Chalala',
@@ -5059,7 +4969,7 @@ return array (
     'latitude' => 21.41073,
     'longitude' => 71.16621,
   ),
-  562 => 
+  552 => 
   array (
     'id' => 58181,
     'name' => 'Chamba',
@@ -5068,7 +4978,7 @@ return array (
     'latitude' => 32.57147,
     'longitude' => 76.10229,
   ),
-  563 => 
+  553 => 
   array (
     'id' => 58182,
     'name' => 'Chamoli',
@@ -5077,7 +4987,7 @@ return array (
     'latitude' => 30.5,
     'longitude' => 79.5,
   ),
-  564 => 
+  554 => 
   array (
     'id' => 58183,
     'name' => 'Champawat',
@@ -5086,7 +4996,7 @@ return array (
     'latitude' => 29.28756,
     'longitude' => 80.03737,
   ),
-  565 => 
+  555 => 
   array (
     'id' => 58184,
     'name' => 'Champhai',
@@ -5095,7 +5005,7 @@ return array (
     'latitude' => 23.47444,
     'longitude' => 93.32556,
   ),
-  566 => 
+  556 => 
   array (
     'id' => 58185,
     'name' => 'Chamrajnagar',
@@ -5104,7 +5014,7 @@ return array (
     'latitude' => 11.96,
     'longitude' => 77.09,
   ),
-  567 => 
+  557 => 
   array (
     'id' => 58186,
     'name' => 'Chandauli',
@@ -5113,7 +5023,7 @@ return array (
     'latitude' => 25.25803,
     'longitude' => 83.26825,
   ),
-  568 => 
+  558 => 
   array (
     'id' => 58187,
     'name' => 'Chandauli District',
@@ -5122,7 +5032,7 @@ return array (
     'latitude' => 25.26134,
     'longitude' => 83.26408,
   ),
-  569 => 
+  559 => 
   array (
     'id' => 58188,
     'name' => 'Chanderi',
@@ -5131,7 +5041,7 @@ return array (
     'latitude' => 24.71312,
     'longitude' => 78.13809,
   ),
-  570 => 
+  560 => 
   array (
     'id' => 58189,
     'name' => 'Chandia',
@@ -5140,7 +5050,7 @@ return array (
     'latitude' => 23.65647,
     'longitude' => 80.70911,
   ),
-  571 => 
+  561 => 
   array (
     'id' => 58190,
     'name' => 'Chandigarh',
@@ -5149,7 +5059,7 @@ return array (
     'latitude' => 30.73629,
     'longitude' => 76.7884,
   ),
-  572 => 
+  562 => 
   array (
     'id' => 58191,
     'name' => 'Chandla',
@@ -5158,7 +5068,7 @@ return array (
     'latitude' => 25.07148,
     'longitude' => 80.19294,
   ),
-  573 => 
+  563 => 
   array (
     'id' => 58192,
     'name' => 'Chandrapur',
@@ -5167,7 +5077,7 @@ return array (
     'latitude' => 20.11793,
     'longitude' => 79.44377,
   ),
-  574 => 
+  564 => 
   array (
     'id' => 58193,
     'name' => 'Chanduasi',
@@ -5176,7 +5086,7 @@ return array (
     'latitude' => 28.45178,
     'longitude' => 78.78277,
   ),
-  575 => 
+  565 => 
   array (
     'id' => 58194,
     'name' => 'Chandur',
@@ -5185,7 +5095,7 @@ return array (
     'latitude' => 17.87455,
     'longitude' => 78.10017,
   ),
-  576 => 
+  566 => 
   array (
     'id' => 58195,
     'name' => 'Changanacheri',
@@ -5194,7 +5104,7 @@ return array (
     'latitude' => 9.44203,
     'longitude' => 76.53604,
   ),
-  577 => 
+  567 => 
   array (
     'id' => 58196,
     'name' => 'Changlang',
@@ -5203,7 +5113,7 @@ return array (
     'latitude' => 27.36265,
     'longitude' => 96.34518,
   ),
-  578 => 
+  568 => 
   array (
     'id' => 58197,
     'name' => 'Channagiri',
@@ -5212,7 +5122,7 @@ return array (
     'latitude' => 14.02399,
     'longitude' => 75.92577,
   ),
-  579 => 
+  569 => 
   array (
     'id' => 58198,
     'name' => 'Channapatna',
@@ -5221,7 +5131,7 @@ return array (
     'latitude' => 12.65143,
     'longitude' => 77.20672,
   ),
-  580 => 
+  570 => 
   array (
     'id' => 58199,
     'name' => 'Channarayapatna',
@@ -5230,7 +5140,7 @@ return array (
     'latitude' => 12.90642,
     'longitude' => 76.38775,
   ),
-  581 => 
+  571 => 
   array (
     'id' => 58200,
     'name' => 'Charkhi Dadri',
@@ -5239,7 +5149,7 @@ return array (
     'latitude' => 28.59166,
     'longitude' => 76.27161,
   ),
-  582 => 
+  572 => 
   array (
     'id' => 58201,
     'name' => 'Charkhari',
@@ -5248,7 +5158,7 @@ return array (
     'latitude' => 25.40304,
     'longitude' => 79.74877,
   ),
-  583 => 
+  573 => 
   array (
     'id' => 131509,
     'name' => 'Charthawal',
@@ -5257,7 +5167,7 @@ return array (
     'latitude' => 29.54687,
     'longitude' => 77.59438,
   ),
-  584 => 
+  574 => 
   array (
     'id' => 131510,
     'name' => 'Chatrapur',
@@ -5266,7 +5176,7 @@ return array (
     'latitude' => 19.35574,
     'longitude' => 84.98359,
   ),
-  585 => 
+  575 => 
   array (
     'id' => 131511,
     'name' => 'Chatra',
@@ -5275,7 +5185,7 @@ return array (
     'latitude' => 24.20645,
     'longitude' => 84.87085,
   ),
-  586 => 
+  576 => 
   array (
     'id' => 131512,
     'name' => 'Chaupal',
@@ -5284,7 +5194,7 @@ return array (
     'latitude' => 30.94647,
     'longitude' => 77.5884,
   ),
-  587 => 
+  577 => 
   array (
     'id' => 131513,
     'name' => 'Chechat',
@@ -5293,7 +5203,7 @@ return array (
     'latitude' => 24.76667,
     'longitude' => 75.88333,
   ),
-  588 => 
+  578 => 
   array (
     'id' => 131514,
     'name' => 'Chemmumiahpet',
@@ -5302,7 +5212,7 @@ return array (
     'latitude' => 15.89794,
     'longitude' => 79.32129,
   ),
-  589 => 
+  579 => 
   array (
     'id' => 131515,
     'name' => 'Chengam',
@@ -5311,7 +5221,7 @@ return array (
     'latitude' => 12.30889,
     'longitude' => 78.79137,
   ),
-  590 => 
+  580 => 
   array (
     'id' => 131516,
     'name' => 'Chengannur',
@@ -5320,7 +5230,7 @@ return array (
     'latitude' => 9.31575,
     'longitude' => 76.61513,
   ),
-  591 => 
+  581 => 
   array (
     'id' => 131517,
     'name' => 'Chennai',
@@ -5329,7 +5239,7 @@ return array (
     'latitude' => 13.08784,
     'longitude' => 80.27847,
   ),
-  592 => 
+  582 => 
   array (
     'id' => 131518,
     'name' => 'Chennimalai',
@@ -5338,7 +5248,7 @@ return array (
     'latitude' => 11.16378,
     'longitude' => 77.60388,
   ),
-  593 => 
+  583 => 
   array (
     'id' => 131519,
     'name' => 'Cherpulassery',
@@ -5347,7 +5257,7 @@ return array (
     'latitude' => 10.87655,
     'longitude' => 76.30932,
   ),
-  594 => 
+  584 => 
   array (
     'id' => 131520,
     'name' => 'Cherrapunji',
@@ -5356,7 +5266,7 @@ return array (
     'latitude' => 25.30089,
     'longitude' => 91.69619,
   ),
-  595 => 
+  585 => 
   array (
     'id' => 131521,
     'name' => 'Cherthala',
@@ -5365,7 +5275,7 @@ return array (
     'latitude' => 9.68444,
     'longitude' => 76.33558,
   ),
-  596 => 
+  586 => 
   array (
     'id' => 131522,
     'name' => 'Chetput',
@@ -5374,7 +5284,7 @@ return array (
     'latitude' => 13.07,
     'longitude' => 80.24083,
   ),
-  597 => 
+  587 => 
   array (
     'id' => 131523,
     'name' => 'Chettipalaiyam',
@@ -5383,7 +5293,7 @@ return array (
     'latitude' => 10.91248,
     'longitude' => 77.03699,
   ),
-  598 => 
+  588 => 
   array (
     'id' => 131524,
     'name' => 'Chetwayi',
@@ -5392,7 +5302,7 @@ return array (
     'latitude' => 10.52885,
     'longitude' => 76.04793,
   ),
-  599 => 
+  589 => 
   array (
     'id' => 131525,
     'name' => 'Cheyyar',
@@ -5401,7 +5311,7 @@ return array (
     'latitude' => 12.66052,
     'longitude' => 79.54308,
   ),
-  600 => 
+  590 => 
   array (
     'id' => 131526,
     'name' => 'Cheyyur',
@@ -5410,7 +5320,7 @@ return array (
     'latitude' => 12.34948,
     'longitude' => 80.00304,
   ),
-  601 => 
+  591 => 
   array (
     'id' => 131527,
     'name' => 'Chhabra',
@@ -5419,7 +5329,7 @@ return array (
     'latitude' => 24.66472,
     'longitude' => 76.84379,
   ),
-  602 => 
+  592 => 
   array (
     'id' => 131528,
     'name' => 'Chhachhrauli',
@@ -5428,7 +5338,7 @@ return array (
     'latitude' => 30.24492,
     'longitude' => 77.36027,
   ),
-  603 => 
+  593 => 
   array (
     'id' => 131529,
     'name' => 'Chhala',
@@ -5437,7 +5347,7 @@ return array (
     'latitude' => 23.30779,
     'longitude' => 72.77404,
   ),
-  604 => 
+  594 => 
   array (
     'id' => 131530,
     'name' => 'Chhaprauli',
@@ -5446,7 +5356,7 @@ return array (
     'latitude' => 29.20989,
     'longitude' => 77.17454,
   ),
-  605 => 
+  595 => 
   array (
     'id' => 131531,
     'name' => 'Chharra',
@@ -5455,7 +5365,7 @@ return array (
     'latitude' => 27.9247,
     'longitude' => 78.40102,
   ),
-  606 => 
+  596 => 
   array (
     'id' => 131532,
     'name' => 'Chhatarpur',
@@ -5464,7 +5374,7 @@ return array (
     'latitude' => 24.75,
     'longitude' => 79.75,
   ),
-  607 => 
+  597 => 
   array (
     'id' => 131533,
     'name' => 'Chhibramau',
@@ -5473,7 +5383,7 @@ return array (
     'latitude' => 27.14872,
     'longitude' => 79.50078,
   ),
-  608 => 
+  598 => 
   array (
     'id' => 131534,
     'name' => 'Chhindwara',
@@ -5482,7 +5392,7 @@ return array (
     'latitude' => 22.05697,
     'longitude' => 78.93958,
   ),
-  609 => 
+  599 => 
   array (
     'id' => 131535,
     'name' => 'Chhota Udepur',
@@ -5491,7 +5401,7 @@ return array (
     'latitude' => 22.30401,
     'longitude' => 74.0158,
   ),
-  610 => 
+  600 => 
   array (
     'id' => 131536,
     'name' => 'Chhoti Sadri',
@@ -5500,7 +5410,7 @@ return array (
     'latitude' => 24.38145,
     'longitude' => 74.7012,
   ),
-  611 => 
+  601 => 
   array (
     'id' => 131537,
     'name' => 'Chhutmalpur',
@@ -5509,7 +5419,7 @@ return array (
     'latitude' => 30.03209,
     'longitude' => 77.75329,
   ),
-  612 => 
+  602 => 
   array (
     'id' => 131538,
     'name' => 'Chhuikhadan',
@@ -5518,7 +5428,7 @@ return array (
     'latitude' => 21.52316,
     'longitude' => 80.99788,
   ),
-  613 => 
+  603 => 
   array (
     'id' => 131539,
     'name' => 'Chhapar',
@@ -5527,7 +5437,7 @@ return array (
     'latitude' => 27.819,
     'longitude' => 74.43936,
   ),
-  614 => 
+  604 => 
   array (
     'id' => 131540,
     'name' => 'Chhata',
@@ -5536,7 +5446,7 @@ return array (
     'latitude' => 27.72374,
     'longitude' => 77.5081,
   ),
-  615 => 
+  605 => 
   array (
     'id' => 131541,
     'name' => 'Chhatapur',
@@ -5545,7 +5455,7 @@ return array (
     'latitude' => 26.21965,
     'longitude' => 87.00479,
   ),
-  616 => 
+  606 => 
   array (
     'id' => 131542,
     'name' => 'Chicalim',
@@ -5554,7 +5464,7 @@ return array (
     'latitude' => 15.39835,
     'longitude' => 73.84216,
   ),
-  617 => 
+  607 => 
   array (
     'id' => 131543,
     'name' => 'Chichli',
@@ -5563,7 +5473,7 @@ return array (
     'latitude' => 22.83363,
     'longitude' => 78.82611,
   ),
-  618 => 
+  608 => 
   array (
     'id' => 131544,
     'name' => 'Chicholi',
@@ -5572,7 +5482,7 @@ return array (
     'latitude' => 21.46926,
     'longitude' => 79.70151,
   ),
-  619 => 
+  609 => 
   array (
     'id' => 131545,
     'name' => 'Chidambaram',
@@ -5581,7 +5491,7 @@ return array (
     'latitude' => 11.39933,
     'longitude' => 79.69144,
   ),
-  620 => 
+  610 => 
   array (
     'id' => 131546,
     'name' => 'Chidawa',
@@ -5590,7 +5500,7 @@ return array (
     'latitude' => 28.23937,
     'longitude' => 75.64035,
   ),
-  621 => 
+  611 => 
   array (
     'id' => 131547,
     'name' => 'Chik Ballapur',
@@ -5599,7 +5509,7 @@ return array (
     'latitude' => 13.43512,
     'longitude' => 77.72787,
   ),
-  622 => 
+  612 => 
   array (
     'id' => 131548,
     'name' => 'Chikhli',
@@ -5608,7 +5518,7 @@ return array (
     'latitude' => 20.75751,
     'longitude' => 73.06268,
   ),
-  623 => 
+  613 => 
   array (
     'id' => 131550,
     'name' => 'Chikitigarh',
@@ -5617,7 +5527,7 @@ return array (
     'latitude' => 19.20233,
     'longitude' => 84.6145,
   ),
-  624 => 
+  614 => 
   array (
     'id' => 131551,
     'name' => 'Chikkaballapur',
@@ -5626,7 +5536,7 @@ return array (
     'latitude' => 13.55,
     'longitude' => 77.87,
   ),
-  625 => 
+  615 => 
   array (
     'id' => 131552,
     'name' => 'Chikkamagaluru',
@@ -5635,7 +5545,7 @@ return array (
     'latitude' => 13.49,
     'longitude' => 75.73,
   ),
-  626 => 
+  616 => 
   array (
     'id' => 131554,
     'name' => 'Chiknayakanhalli',
@@ -5644,7 +5554,7 @@ return array (
     'latitude' => 13.41609,
     'longitude' => 76.62063,
   ),
-  627 => 
+  617 => 
   array (
     'id' => 131555,
     'name' => 'Chikodi',
@@ -5653,7 +5563,7 @@ return array (
     'latitude' => 16.42898,
     'longitude' => 74.58591,
   ),
-  628 => 
+  618 => 
   array (
     'id' => 131556,
     'name' => 'Chilakalurupet',
@@ -5662,7 +5572,7 @@ return array (
     'latitude' => 16.08987,
     'longitude' => 80.16705,
   ),
-  629 => 
+  619 => 
   array (
     'id' => 131557,
     'name' => 'Chillupar',
@@ -5671,7 +5581,7 @@ return array (
     'latitude' => 26.28221,
     'longitude' => 83.5064,
   ),
-  630 => 
+  620 => 
   array (
     'id' => 131558,
     'name' => 'Chinchani',
@@ -5680,7 +5590,7 @@ return array (
     'latitude' => 19.87458,
     'longitude' => 72.6851,
   ),
-  631 => 
+  621 => 
   array (
     'id' => 131559,
     'name' => 'Chinchinim',
@@ -5689,7 +5599,7 @@ return array (
     'latitude' => 15.21447,
     'longitude' => 73.97555,
   ),
-  632 => 
+  622 => 
   array (
     'id' => 131560,
     'name' => 'Chincholi',
@@ -5698,7 +5608,7 @@ return array (
     'latitude' => 17.46508,
     'longitude' => 77.41874,
   ),
-  633 => 
+  623 => 
   array (
     'id' => 131561,
     'name' => 'Chingleput',
@@ -5707,7 +5617,7 @@ return array (
     'latitude' => 12.69184,
     'longitude' => 79.97661,
   ),
-  634 => 
+  624 => 
   array (
     'id' => 131562,
     'name' => 'Chinna Salem',
@@ -5716,7 +5626,7 @@ return array (
     'latitude' => 11.63422,
     'longitude' => 78.87412,
   ),
-  635 => 
+  625 => 
   array (
     'id' => 131563,
     'name' => 'Chinnachowk',
@@ -5725,7 +5635,7 @@ return array (
     'latitude' => 14.47516,
     'longitude' => 78.8354,
   ),
-  636 => 
+  626 => 
   array (
     'id' => 131564,
     'name' => 'Chinnamanur',
@@ -5734,7 +5644,7 @@ return array (
     'latitude' => 9.83999,
     'longitude' => 77.38109,
   ),
-  637 => 
+  627 => 
   array (
     'id' => 131565,
     'name' => 'Chinnasekkadu',
@@ -5743,7 +5653,7 @@ return array (
     'latitude' => 13.16089,
     'longitude' => 80.25727,
   ),
-  638 => 
+  628 => 
   array (
     'id' => 131566,
     'name' => 'Chintamani',
@@ -5752,7 +5662,7 @@ return array (
     'latitude' => 13.40051,
     'longitude' => 78.05172,
   ),
-  639 => 
+  629 => 
   array (
     'id' => 131567,
     'name' => 'Chiplun',
@@ -5761,7 +5671,7 @@ return array (
     'latitude' => 17.53339,
     'longitude' => 73.50935,
   ),
-  640 => 
+  630 => 
   array (
     'id' => 131568,
     'name' => 'Chirang',
@@ -5770,7 +5680,7 @@ return array (
     'latitude' => 26.52527,
     'longitude' => 90.49066,
   ),
-  641 => 
+  631 => 
   array (
     'id' => 131569,
     'name' => 'Chirgaon',
@@ -5779,7 +5689,7 @@ return array (
     'latitude' => 25.57198,
     'longitude' => 78.81432,
   ),
-  642 => 
+  632 => 
   array (
     'id' => 131570,
     'name' => 'Chiria',
@@ -5788,7 +5698,7 @@ return array (
     'latitude' => 22.31093,
     'longitude' => 85.27601,
   ),
-  643 => 
+  633 => 
   array (
     'id' => 131571,
     'name' => 'Chitradurga',
@@ -5797,7 +5707,7 @@ return array (
     'latitude' => 14.2,
     'longitude' => 76.5,
   ),
-  644 => 
+  634 => 
   array (
     'id' => 131572,
     'name' => 'Chitrakoot',
@@ -5806,7 +5716,7 @@ return array (
     'latitude' => 25.20511,
     'longitude' => 81.08962,
   ),
-  645 => 
+  635 => 
   array (
     'id' => 131573,
     'name' => 'Chittarkonda',
@@ -5815,7 +5725,7 @@ return array (
     'latitude' => 18.12533,
     'longitude' => 82.1089,
   ),
-  646 => 
+  636 => 
   array (
     'id' => 131574,
     'name' => 'Chittaurgarh',
@@ -5824,7 +5734,7 @@ return array (
     'latitude' => 24.5,
     'longitude' => 74.5,
   ),
-  647 => 
+  637 => 
   array (
     'id' => 131575,
     'name' => 'Chittoor',
@@ -5833,7 +5743,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => 79.0,
   ),
-  648 => 
+  638 => 
   array (
     'id' => 131576,
     'name' => 'Chittur',
@@ -5842,7 +5752,7 @@ return array (
     'latitude' => 10.69967,
     'longitude' => 76.7471,
   ),
-  649 => 
+  639 => 
   array (
     'id' => 131577,
     'name' => 'Chodavaram',
@@ -5851,7 +5761,7 @@ return array (
     'latitude' => 17.82884,
     'longitude' => 82.93526,
   ),
-  650 => 
+  640 => 
   array (
     'id' => 131578,
     'name' => 'Cholapuram',
@@ -5860,7 +5770,7 @@ return array (
     'latitude' => 9.35193,
     'longitude' => 77.56839,
   ),
-  651 => 
+  641 => 
   array (
     'id' => 131579,
     'name' => 'Chopan',
@@ -5869,7 +5779,7 @@ return array (
     'latitude' => 24.51954,
     'longitude' => 83.02287,
   ),
-  652 => 
+  642 => 
   array (
     'id' => 131580,
     'name' => 'Chopda',
@@ -5878,7 +5788,7 @@ return array (
     'latitude' => 21.24578,
     'longitude' => 75.29946,
   ),
-  653 => 
+  643 => 
   array (
     'id' => 131581,
     'name' => 'Chorhat',
@@ -5887,7 +5797,7 @@ return array (
     'latitude' => 24.42743,
     'longitude' => 81.66948,
   ),
-  654 => 
+  644 => 
   array (
     'id' => 131582,
     'name' => 'Chotila',
@@ -5896,7 +5806,7 @@ return array (
     'latitude' => 22.42347,
     'longitude' => 71.19641,
   ),
-  655 => 
+  645 => 
   array (
     'id' => 131583,
     'name' => 'Chowari',
@@ -5905,7 +5815,7 @@ return array (
     'latitude' => 32.4319,
     'longitude' => 76.012,
   ),
-  656 => 
+  646 => 
   array (
     'id' => 131584,
     'name' => 'Chunar',
@@ -5914,7 +5824,7 @@ return array (
     'latitude' => 25.12776,
     'longitude' => 82.8821,
   ),
-  657 => 
+  647 => 
   array (
     'id' => 131585,
     'name' => 'Churachandpur',
@@ -5923,7 +5833,7 @@ return array (
     'latitude' => 24.33333,
     'longitude' => 93.68333,
   ),
-  658 => 
+  648 => 
   array (
     'id' => 131587,
     'name' => 'Chuari Khas',
@@ -5932,7 +5842,7 @@ return array (
     'latitude' => 32.43058,
     'longitude' => 76.01428,
   ),
-  659 => 
+  649 => 
   array (
     'id' => 131588,
     'name' => 'Chabua',
@@ -5941,7 +5851,7 @@ return array (
     'latitude' => 27.48253,
     'longitude' => 95.17451,
   ),
-  660 => 
+  650 => 
   array (
     'id' => 131589,
     'name' => 'Chakan',
@@ -5950,16 +5860,7 @@ return array (
     'latitude' => 18.76059,
     'longitude' => 73.86351,
   ),
-  661 => 
-  array (
-    'id' => 131590,
-    'name' => 'Chakia',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.41598,
-    'longitude' => 85.04665,
-  ),
-  662 => 
+  651 => 
   array (
     'id' => 131591,
     'name' => 'Chakulia',
@@ -5968,7 +5869,7 @@ return array (
     'latitude' => 22.48301,
     'longitude' => 86.71793,
   ),
-  663 => 
+  652 => 
   array (
     'id' => 131592,
     'name' => 'Chalisgaon',
@@ -5977,7 +5878,7 @@ return array (
     'latitude' => 20.45781,
     'longitude' => 75.01596,
   ),
-  664 => 
+  653 => 
   array (
     'id' => 131593,
     'name' => 'Champa',
@@ -5986,7 +5887,7 @@ return array (
     'latitude' => 22.03532,
     'longitude' => 82.64234,
   ),
-  665 => 
+  654 => 
   array (
     'id' => 131594,
     'name' => 'Champua',
@@ -5995,7 +5896,7 @@ return array (
     'latitude' => 22.06734,
     'longitude' => 85.66463,
   ),
-  666 => 
+  655 => 
   array (
     'id' => 131595,
     'name' => 'Chanasma',
@@ -6004,7 +5905,7 @@ return array (
     'latitude' => 23.71472,
     'longitude' => 72.11279,
   ),
-  667 => 
+  656 => 
   array (
     'id' => 131596,
     'name' => 'Chanda',
@@ -6013,7 +5914,7 @@ return array (
     'latitude' => 19.95076,
     'longitude' => 79.29523,
   ),
-  668 => 
+  657 => 
   array (
     'id' => 131597,
     'name' => 'Chandbali',
@@ -6022,7 +5923,7 @@ return array (
     'latitude' => 20.77519,
     'longitude' => 86.74139,
   ),
-  669 => 
+  658 => 
   array (
     'id' => 131598,
     'name' => 'Chandil',
@@ -6031,7 +5932,7 @@ return array (
     'latitude' => 22.95745,
     'longitude' => 86.05331,
   ),
-  670 => 
+  659 => 
   array (
     'id' => 131599,
     'name' => 'Chandor',
@@ -6040,7 +5941,7 @@ return array (
     'latitude' => 20.3306,
     'longitude' => 74.24467,
   ),
-  671 => 
+  660 => 
   array (
     'id' => 131600,
     'name' => 'Chandpur',
@@ -6049,16 +5950,7 @@ return array (
     'latitude' => 29.13489,
     'longitude' => 78.27187,
   ),
-  672 => 
-  array (
-    'id' => 131601,
-    'name' => 'Chandur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 19.73444,
-    'longitude' => 79.17167,
-  ),
-  673 => 
+  661 => 
   array (
     'id' => 131603,
     'name' => 'Chandur Bazar',
@@ -6067,7 +5959,7 @@ return array (
     'latitude' => 21.23853,
     'longitude' => 77.74713,
   ),
-  674 => 
+  662 => 
   array (
     'id' => 131604,
     'name' => 'Chapar',
@@ -6076,7 +5968,7 @@ return array (
     'latitude' => 26.27266,
     'longitude' => 90.44556,
   ),
-  675 => 
+  663 => 
   array (
     'id' => 131605,
     'name' => 'Chapra',
@@ -6085,7 +5977,7 @@ return array (
     'latitude' => 25.78031,
     'longitude' => 84.74709,
   ),
-  676 => 
+  664 => 
   array (
     'id' => 131606,
     'name' => 'Chas',
@@ -6094,7 +5986,7 @@ return array (
     'latitude' => 23.63556,
     'longitude' => 86.16712,
   ),
-  677 => 
+  665 => 
   array (
     'id' => 131607,
     'name' => 'Chatakonda',
@@ -6103,7 +5995,7 @@ return array (
     'latitude' => 17.55303,
     'longitude' => 80.6477,
   ),
-  678 => 
+  666 => 
   array (
     'id' => 131608,
     'name' => 'Chaibasa',
@@ -6112,7 +6004,7 @@ return array (
     'latitude' => 22.55038,
     'longitude' => 85.80249,
   ),
-  679 => 
+  667 => 
   array (
     'id' => 131609,
     'name' => 'Chelakara',
@@ -6121,7 +6013,7 @@ return array (
     'latitude' => 10.69289,
     'longitude' => 76.34387,
   ),
-  680 => 
+  668 => 
   array (
     'id' => 131610,
     'name' => 'Chima',
@@ -6130,7 +6022,7 @@ return array (
     'latitude' => 30.6854,
     'longitude' => 76.08643,
   ),
-  681 => 
+  669 => 
   array (
     'id' => 131611,
     'name' => 'Chipurupalle',
@@ -6139,7 +6031,7 @@ return array (
     'latitude' => 18.31142,
     'longitude' => 83.56846,
   ),
-  682 => 
+  670 => 
   array (
     'id' => 131612,
     'name' => 'Chirala',
@@ -6148,7 +6040,7 @@ return array (
     'latitude' => 15.82385,
     'longitude' => 80.35219,
   ),
-  683 => 
+  671 => 
   array (
     'id' => 131613,
     'name' => 'Chitapur',
@@ -6157,7 +6049,7 @@ return array (
     'latitude' => 17.12357,
     'longitude' => 77.0824,
   ),
-  684 => 
+  672 => 
   array (
     'id' => 131614,
     'name' => 'Churu',
@@ -6166,7 +6058,7 @@ return array (
     'latitude' => 28.30415,
     'longitude' => 74.96718,
   ),
-  685 => 
+  673 => 
   array (
     'id' => 131615,
     'name' => 'Clement Town',
@@ -6175,7 +6067,7 @@ return array (
     'latitude' => 30.26361,
     'longitude' => 78.00862,
   ),
-  686 => 
+  674 => 
   array (
     'id' => 131616,
     'name' => 'Closepet',
@@ -6184,7 +6076,7 @@ return array (
     'latitude' => 12.72181,
     'longitude' => 77.28149,
   ),
-  687 => 
+  675 => 
   array (
     'id' => 131617,
     'name' => 'Cochin',
@@ -6193,7 +6085,7 @@ return array (
     'latitude' => 9.93988,
     'longitude' => 76.26022,
   ),
-  688 => 
+  676 => 
   array (
     'id' => 131618,
     'name' => 'Coimbatore',
@@ -6202,7 +6094,7 @@ return array (
     'latitude' => 10.8,
     'longitude' => 77.09,
   ),
-  689 => 
+  677 => 
   array (
     'id' => 131619,
     'name' => 'Colachel',
@@ -6211,7 +6103,7 @@ return array (
     'latitude' => 8.17938,
     'longitude' => 77.25818,
   ),
-  690 => 
+  678 => 
   array (
     'id' => 131620,
     'name' => 'Colgong',
@@ -6220,7 +6112,7 @@ return array (
     'latitude' => 25.26328,
     'longitude' => 87.23264,
   ),
-  691 => 
+  679 => 
   array (
     'id' => 131621,
     'name' => 'Colonelganj',
@@ -6229,7 +6121,7 @@ return array (
     'latitude' => 27.13432,
     'longitude' => 81.69868,
   ),
-  692 => 
+  680 => 
   array (
     'id' => 131622,
     'name' => 'Colovale',
@@ -6238,7 +6130,7 @@ return array (
     'latitude' => 15.63522,
     'longitude' => 73.82426,
   ),
-  693 => 
+  681 => 
   array (
     'id' => 131623,
     'name' => 'Colva',
@@ -6247,7 +6139,7 @@ return array (
     'latitude' => 15.27976,
     'longitude' => 73.92285,
   ),
-  694 => 
+  682 => 
   array (
     'id' => 131624,
     'name' => 'Coondapoor',
@@ -6256,7 +6148,7 @@ return array (
     'latitude' => 13.63126,
     'longitude' => 74.6902,
   ),
-  695 => 
+  683 => 
   array (
     'id' => 131625,
     'name' => 'Cortalim',
@@ -6265,7 +6157,7 @@ return array (
     'latitude' => 15.40247,
     'longitude' => 73.90881,
   ),
-  696 => 
+  684 => 
   array (
     'id' => 131626,
     'name' => 'Cuddalore',
@@ -6274,7 +6166,7 @@ return array (
     'latitude' => 11.52,
     'longitude' => 79.51,
   ),
-  697 => 
+  685 => 
   array (
     'id' => 131627,
     'name' => 'Cuddapah',
@@ -6283,7 +6175,7 @@ return array (
     'latitude' => 14.41667,
     'longitude' => 78.75,
   ),
-  698 => 
+  686 => 
   array (
     'id' => 131628,
     'name' => 'Cumbum',
@@ -6292,16 +6184,7 @@ return array (
     'latitude' => 15.58171,
     'longitude' => 79.11059,
   ),
-  699 => 
-  array (
-    'id' => 131629,
-    'name' => 'Cumbum',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 9.73647,
-    'longitude' => 77.2847,
-  ),
-  700 => 
+  687 => 
   array (
     'id' => 131630,
     'name' => 'Cuncolim',
@@ -6310,7 +6193,7 @@ return array (
     'latitude' => 15.1773,
     'longitude' => 73.99392,
   ),
-  701 => 
+  688 => 
   array (
     'id' => 131631,
     'name' => 'Curchorem',
@@ -6319,7 +6202,7 @@ return array (
     'latitude' => 15.26349,
     'longitude' => 74.10875,
   ),
-  702 => 
+  689 => 
   array (
     'id' => 131632,
     'name' => 'Curti',
@@ -6328,7 +6211,7 @@ return array (
     'latitude' => 15.41667,
     'longitude' => 74.01667,
   ),
-  703 => 
+  690 => 
   array (
     'id' => 131633,
     'name' => 'Cuttack',
@@ -6337,7 +6220,7 @@ return array (
     'latitude' => 20.5,
     'longitude' => 86.25,
   ),
-  704 => 
+  691 => 
   array (
     'id' => 131634,
     'name' => 'Cachar',
@@ -6346,7 +6229,7 @@ return array (
     'latitude' => 24.78213,
     'longitude' => 92.85771,
   ),
-  705 => 
+  692 => 
   array (
     'id' => 131635,
     'name' => 'Dabhoi',
@@ -6355,7 +6238,7 @@ return array (
     'latitude' => 22.18333,
     'longitude' => 73.43333,
   ),
-  706 => 
+  693 => 
   array (
     'id' => 131636,
     'name' => 'Daboh',
@@ -6364,7 +6247,7 @@ return array (
     'latitude' => 26.00239,
     'longitude' => 78.87658,
   ),
-  707 => 
+  694 => 
   array (
     'id' => 131637,
     'name' => 'Dabra',
@@ -6373,7 +6256,7 @@ return array (
     'latitude' => 25.88572,
     'longitude' => 78.33221,
   ),
-  708 => 
+  695 => 
   array (
     'id' => 131638,
     'name' => 'Dabwali',
@@ -6382,7 +6265,7 @@ return array (
     'latitude' => 29.94906,
     'longitude' => 74.73832,
   ),
-  709 => 
+  696 => 
   array (
     'id' => 131639,
     'name' => 'Dadra',
@@ -6391,7 +6274,7 @@ return array (
     'latitude' => 20.32504,
     'longitude' => 72.96618,
   ),
-  710 => 
+  697 => 
   array (
     'id' => 131640,
     'name' => 'Dadra & Nagar Haveli',
@@ -6400,7 +6283,7 @@ return array (
     'latitude' => 20.20651,
     'longitude' => 73.00811,
   ),
-  711 => 
+  698 => 
   array (
     'id' => 131641,
     'name' => 'Dagshai',
@@ -6409,7 +6292,7 @@ return array (
     'latitude' => 30.88431,
     'longitude' => 77.05228,
   ),
-  712 => 
+  699 => 
   array (
     'id' => 131642,
     'name' => 'Dahegam',
@@ -6418,7 +6301,7 @@ return array (
     'latitude' => 23.16903,
     'longitude' => 72.82161,
   ),
-  713 => 
+  700 => 
   array (
     'id' => 131643,
     'name' => 'Daitari',
@@ -6427,7 +6310,7 @@ return array (
     'latitude' => 21.1,
     'longitude' => 85.75,
   ),
-  714 => 
+  701 => 
   array (
     'id' => 131644,
     'name' => 'Dakshina Kannada',
@@ -6436,7 +6319,7 @@ return array (
     'latitude' => 12.84,
     'longitude' => 75.29,
   ),
-  715 => 
+  702 => 
   array (
     'id' => 131645,
     'name' => 'Dalhousie',
@@ -6445,7 +6328,7 @@ return array (
     'latitude' => 32.55219,
     'longitude' => 75.94663,
   ),
-  716 => 
+  703 => 
   array (
     'id' => 131646,
     'name' => 'Dalmau',
@@ -6454,7 +6337,7 @@ return array (
     'latitude' => 26.06477,
     'longitude' => 81.0298,
   ),
-  717 => 
+  704 => 
   array (
     'id' => 131647,
     'name' => 'Dalsingh Sarai',
@@ -6463,7 +6346,7 @@ return array (
     'latitude' => 25.66795,
     'longitude' => 85.83636,
   ),
-  718 => 
+  705 => 
   array (
     'id' => 131648,
     'name' => 'Daltonganj',
@@ -6472,7 +6355,7 @@ return array (
     'latitude' => 24.03971,
     'longitude' => 84.0658,
   ),
-  719 => 
+  706 => 
   array (
     'id' => 131649,
     'name' => 'Daman',
@@ -6481,7 +6364,7 @@ return array (
     'latitude' => 20.41431,
     'longitude' => 72.83236,
   ),
-  720 => 
+  707 => 
   array (
     'id' => 131651,
     'name' => 'Damoh',
@@ -6490,7 +6373,7 @@ return array (
     'latitude' => 23.75,
     'longitude' => 79.58333,
   ),
-  721 => 
+  708 => 
   array (
     'id' => 131652,
     'name' => 'Dandeli',
@@ -6499,7 +6382,7 @@ return array (
     'latitude' => 15.26667,
     'longitude' => 74.61667,
   ),
-  722 => 
+  709 => 
   array (
     'id' => 131653,
     'name' => 'Dankaur',
@@ -6508,7 +6391,7 @@ return array (
     'latitude' => 28.35121,
     'longitude' => 77.55508,
   ),
-  723 => 
+  710 => 
   array (
     'id' => 131654,
     'name' => 'Darbhanga',
@@ -6517,7 +6400,7 @@ return array (
     'latitude' => 26.0,
     'longitude' => 86.0,
   ),
-  724 => 
+  711 => 
   array (
     'id' => 131655,
     'name' => 'Dariba',
@@ -6526,7 +6409,7 @@ return array (
     'latitude' => 24.94865,
     'longitude' => 74.1342,
   ),
-  725 => 
+  712 => 
   array (
     'id' => 131656,
     'name' => 'Darlawn',
@@ -6535,7 +6418,7 @@ return array (
     'latitude' => 24.01336,
     'longitude' => 92.92439,
   ),
-  726 => 
+  713 => 
   array (
     'id' => 131657,
     'name' => 'Darrang',
@@ -6544,7 +6427,7 @@ return array (
     'latitude' => 26.51195,
     'longitude' => 92.16843,
   ),
-  727 => 
+  714 => 
   array (
     'id' => 131658,
     'name' => 'Darsi',
@@ -6553,7 +6436,7 @@ return array (
     'latitude' => 15.76978,
     'longitude' => 79.67939,
   ),
-  728 => 
+  715 => 
   array (
     'id' => 131659,
     'name' => 'Daryapur',
@@ -6562,7 +6445,7 @@ return array (
     'latitude' => 20.92489,
     'longitude' => 77.32644,
   ),
-  729 => 
+  716 => 
   array (
     'id' => 131660,
     'name' => 'Dasnapur',
@@ -6571,7 +6454,7 @@ return array (
     'latitude' => 19.65399,
     'longitude' => 78.51213,
   ),
-  730 => 
+  717 => 
   array (
     'id' => 131661,
     'name' => 'Dasuya',
@@ -6580,7 +6463,7 @@ return array (
     'latitude' => 31.81679,
     'longitude' => 75.6531,
   ),
-  731 => 
+  718 => 
   array (
     'id' => 131662,
     'name' => 'Datia',
@@ -6589,7 +6472,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 78.5,
   ),
-  732 => 
+  719 => 
   array (
     'id' => 131663,
     'name' => 'Dattapur',
@@ -6598,7 +6481,7 @@ return array (
     'latitude' => 20.78075,
     'longitude' => 78.1407,
   ),
-  733 => 
+  720 => 
   array (
     'id' => 131664,
     'name' => 'Daudnagar',
@@ -6607,7 +6490,7 @@ return array (
     'latitude' => 25.03473,
     'longitude' => 84.40095,
   ),
-  734 => 
+  721 => 
   array (
     'id' => 131665,
     'name' => 'Daulatpur',
@@ -6616,7 +6499,7 @@ return array (
     'latitude' => 31.78871,
     'longitude' => 75.99154,
   ),
-  735 => 
+  722 => 
   array (
     'id' => 131666,
     'name' => 'Daulatabad',
@@ -6625,7 +6508,7 @@ return array (
     'latitude' => 19.93611,
     'longitude' => 75.22148,
   ),
-  736 => 
+  723 => 
   array (
     'id' => 131667,
     'name' => 'Daund',
@@ -6634,7 +6517,7 @@ return array (
     'latitude' => 18.46515,
     'longitude' => 74.58375,
   ),
-  737 => 
+  724 => 
   array (
     'id' => 131668,
     'name' => 'Daurala',
@@ -6643,7 +6526,7 @@ return array (
     'latitude' => 29.11344,
     'longitude' => 77.70467,
   ),
-  738 => 
+  725 => 
   array (
     'id' => 131669,
     'name' => 'Dausa',
@@ -6652,7 +6535,7 @@ return array (
     'latitude' => 26.88269,
     'longitude' => 76.57053,
   ),
-  739 => 
+  726 => 
   array (
     'id' => 131670,
     'name' => 'Davanagere',
@@ -6661,7 +6544,7 @@ return array (
     'latitude' => 14.43,
     'longitude' => 75.9,
   ),
-  740 => 
+  727 => 
   array (
     'id' => 131672,
     'name' => 'Davorlim',
@@ -6670,7 +6553,7 @@ return array (
     'latitude' => 15.27221,
     'longitude' => 73.99242,
   ),
-  741 => 
+  728 => 
   array (
     'id' => 131673,
     'name' => 'Dayapar',
@@ -6679,7 +6562,7 @@ return array (
     'latitude' => 23.63371,
     'longitude' => 68.90192,
   ),
-  742 => 
+  729 => 
   array (
     'id' => 131674,
     'name' => 'Dayal Bagh',
@@ -6688,7 +6571,7 @@ return array (
     'latitude' => 27.22122,
     'longitude' => 78.01095,
   ),
-  743 => 
+  730 => 
   array (
     'id' => 131676,
     'name' => 'Dehradun',
@@ -6697,7 +6580,7 @@ return array (
     'latitude' => 30.33,
     'longitude' => 78.06,
   ),
-  744 => 
+  731 => 
   array (
     'id' => 131677,
     'name' => 'Dehri',
@@ -6706,7 +6589,7 @@ return array (
     'latitude' => 24.90247,
     'longitude' => 84.18217,
   ),
-  745 => 
+  732 => 
   array (
     'id' => 131678,
     'name' => 'Dehu',
@@ -6715,7 +6598,7 @@ return array (
     'latitude' => 18.71851,
     'longitude' => 73.76635,
   ),
-  746 => 
+  733 => 
   array (
     'id' => 131679,
     'name' => 'Delhi',
@@ -6724,7 +6607,7 @@ return array (
     'latitude' => 28.65195,
     'longitude' => 77.23149,
   ),
-  747 => 
+  734 => 
   array (
     'id' => 131680,
     'name' => 'Delvada',
@@ -6733,7 +6616,7 @@ return array (
     'latitude' => 20.77544,
     'longitude' => 71.04646,
   ),
-  748 => 
+  735 => 
   array (
     'id' => 131681,
     'name' => 'Denkanikota',
@@ -6742,7 +6625,7 @@ return array (
     'latitude' => 12.5301,
     'longitude' => 77.78887,
   ),
-  749 => 
+  736 => 
   array (
     'id' => 131682,
     'name' => 'Deoband',
@@ -6751,7 +6634,7 @@ return array (
     'latitude' => 29.69505,
     'longitude' => 77.67964,
   ),
-  750 => 
+  737 => 
   array (
     'id' => 131683,
     'name' => 'Deogarh',
@@ -6760,16 +6643,7 @@ return array (
     'latitude' => 21.53827,
     'longitude' => 84.73337,
   ),
-  751 => 
-  array (
-    'id' => 131684,
-    'name' => 'Deogarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.44382,
-    'longitude' => 86.72607,
-  ),
-  752 => 
+  738 => 
   array (
     'id' => 131685,
     'name' => 'Deoli',
@@ -6778,25 +6652,7 @@ return array (
     'latitude' => 25.75728,
     'longitude' => 75.37991,
   ),
-  753 => 
-  array (
-    'id' => 131686,
-    'name' => 'Deoli',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 20.6492,
-    'longitude' => 78.48023,
-  ),
-  754 => 
-  array (
-    'id' => 131687,
-    'name' => 'Deoli',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.50254,
-    'longitude' => 77.23117,
-  ),
-  755 => 
+  739 => 
   array (
     'id' => 131688,
     'name' => 'Deolali',
@@ -6805,7 +6661,7 @@ return array (
     'latitude' => 19.94404,
     'longitude' => 73.83441,
   ),
-  756 => 
+  740 => 
   array (
     'id' => 131689,
     'name' => 'Deoranian',
@@ -6814,7 +6670,7 @@ return array (
     'latitude' => 28.62989,
     'longitude' => 79.47648,
   ),
-  757 => 
+  741 => 
   array (
     'id' => 131690,
     'name' => 'Deori',
@@ -6823,7 +6679,7 @@ return array (
     'latitude' => 21.45,
     'longitude' => 82.61667,
   ),
-  758 => 
+  742 => 
   array (
     'id' => 131691,
     'name' => 'Deori Khas',
@@ -6832,7 +6688,7 @@ return array (
     'latitude' => 23.39017,
     'longitude' => 79.0163,
   ),
-  759 => 
+  743 => 
   array (
     'id' => 131692,
     'name' => 'Deoria',
@@ -6841,7 +6697,7 @@ return array (
     'latitude' => 26.66667,
     'longitude' => 83.75,
   ),
-  760 => 
+  744 => 
   array (
     'id' => 131693,
     'name' => 'Depalpur',
@@ -6850,7 +6706,7 @@ return array (
     'latitude' => 22.85095,
     'longitude' => 75.54224,
   ),
-  761 => 
+  745 => 
   array (
     'id' => 131694,
     'name' => 'Dera Gopipur',
@@ -6859,7 +6715,7 @@ return array (
     'latitude' => 31.87919,
     'longitude' => 76.21871,
   ),
-  762 => 
+  746 => 
   array (
     'id' => 131695,
     'name' => 'Dergaon',
@@ -6868,7 +6724,7 @@ return array (
     'latitude' => 26.7,
     'longitude' => 93.96667,
   ),
-  763 => 
+  747 => 
   array (
     'id' => 131696,
     'name' => 'Dera Baba Nanak',
@@ -6877,7 +6733,7 @@ return array (
     'latitude' => 32.03733,
     'longitude' => 75.02787,
   ),
-  764 => 
+  748 => 
   array (
     'id' => 131697,
     'name' => 'Deshnoke',
@@ -6886,7 +6742,7 @@ return array (
     'latitude' => 27.79836,
     'longitude' => 73.34297,
   ),
-  765 => 
+  749 => 
   array (
     'id' => 131698,
     'name' => 'Desur',
@@ -6895,7 +6751,7 @@ return array (
     'latitude' => 12.43727,
     'longitude' => 79.48145,
   ),
-  766 => 
+  750 => 
   array (
     'id' => 131699,
     'name' => 'Devadanappatti',
@@ -6904,7 +6760,7 @@ return array (
     'latitude' => 10.14673,
     'longitude' => 77.6439,
   ),
-  767 => 
+  751 => 
   array (
     'id' => 131700,
     'name' => 'Devakottai',
@@ -6913,7 +6769,7 @@ return array (
     'latitude' => 9.94704,
     'longitude' => 78.8233,
   ),
-  768 => 
+  752 => 
   array (
     'id' => 131701,
     'name' => 'Devanhalli',
@@ -6922,7 +6778,7 @@ return array (
     'latitude' => 13.24655,
     'longitude' => 77.71183,
   ),
-  769 => 
+  753 => 
   array (
     'id' => 131702,
     'name' => 'Devaprayag',
@@ -6931,7 +6787,7 @@ return array (
     'latitude' => 30.14603,
     'longitude' => 78.60272,
   ),
-  770 => 
+  754 => 
   array (
     'id' => 131703,
     'name' => 'Devarkonda',
@@ -6940,7 +6796,7 @@ return array (
     'latitude' => 16.69186,
     'longitude' => 78.92073,
   ),
-  771 => 
+  755 => 
   array (
     'id' => 131704,
     'name' => 'Devbhumi Dwarka',
@@ -6949,7 +6805,7 @@ return array (
     'latitude' => 22.20253,
     'longitude' => 69.65498,
   ),
-  772 => 
+  756 => 
   array (
     'id' => 131705,
     'name' => 'Devgadh Bariya',
@@ -6958,7 +6814,7 @@ return array (
     'latitude' => 22.70517,
     'longitude' => 73.90882,
   ),
-  773 => 
+  757 => 
   array (
     'id' => 131706,
     'name' => 'Devgarh',
@@ -6967,7 +6823,7 @@ return array (
     'latitude' => 25.52533,
     'longitude' => 73.90812,
   ),
-  774 => 
+  758 => 
   array (
     'id' => 131707,
     'name' => 'Dewas',
@@ -6976,7 +6832,7 @@ return array (
     'latitude' => 23.0,
     'longitude' => 76.16667,
   ),
-  775 => 
+  759 => 
   array (
     'id' => 131708,
     'name' => 'Dewa',
@@ -6985,7 +6841,7 @@ return array (
     'latitude' => 27.03621,
     'longitude' => 81.16692,
   ),
-  776 => 
+  760 => 
   array (
     'id' => 131709,
     'name' => 'Deulgaon Raja',
@@ -6994,7 +6850,7 @@ return array (
     'latitude' => 20.01757,
     'longitude' => 76.03755,
   ),
-  777 => 
+  761 => 
   array (
     'id' => 131710,
     'name' => 'Dhalai',
@@ -7003,7 +6859,7 @@ return array (
     'latitude' => 23.84307,
     'longitude' => 91.92591,
   ),
-  778 => 
+  762 => 
   array (
     'id' => 131711,
     'name' => 'Dhali',
@@ -7012,7 +6868,7 @@ return array (
     'latitude' => 10.51049,
     'longitude' => 77.18806,
   ),
-  779 => 
+  763 => 
   array (
     'id' => 131712,
     'name' => 'Dhamtari',
@@ -7021,7 +6877,7 @@ return array (
     'latitude' => 20.70718,
     'longitude' => 81.54874,
   ),
-  780 => 
+  764 => 
   array (
     'id' => 131713,
     'name' => 'Dhanaula',
@@ -7030,7 +6886,7 @@ return array (
     'latitude' => 30.28216,
     'longitude' => 75.57341,
   ),
-  781 => 
+  765 => 
   array (
     'id' => 131714,
     'name' => 'Dhanaura',
@@ -7039,7 +6895,7 @@ return array (
     'latitude' => 28.95912,
     'longitude' => 78.25629,
   ),
-  782 => 
+  766 => 
   array (
     'id' => 131715,
     'name' => 'Dhanbad',
@@ -7048,7 +6904,7 @@ return array (
     'latitude' => 23.80199,
     'longitude' => 86.44324,
   ),
-  783 => 
+  767 => 
   array (
     'id' => 131716,
     'name' => 'Dhandhuka',
@@ -7057,7 +6913,7 @@ return array (
     'latitude' => 22.38185,
     'longitude' => 71.98664,
   ),
-  784 => 
+  768 => 
   array (
     'id' => 131717,
     'name' => 'Dhanera',
@@ -7066,7 +6922,7 @@ return array (
     'latitude' => 24.50967,
     'longitude' => 72.02343,
   ),
-  785 => 
+  769 => 
   array (
     'id' => 131718,
     'name' => 'Dhanwar',
@@ -7075,7 +6931,7 @@ return array (
     'latitude' => 24.41074,
     'longitude' => 85.98183,
   ),
-  786 => 
+  770 => 
   array (
     'id' => 131719,
     'name' => 'Dharampur',
@@ -7084,7 +6940,7 @@ return array (
     'latitude' => 20.53693,
     'longitude' => 73.17368,
   ),
-  787 => 
+  771 => 
   array (
     'id' => 131720,
     'name' => 'Dharampuri',
@@ -7093,7 +6949,7 @@ return array (
     'latitude' => 22.14951,
     'longitude' => 75.34439,
   ),
-  788 => 
+  772 => 
   array (
     'id' => 131721,
     'name' => 'Dharamsala',
@@ -7102,7 +6958,7 @@ return array (
     'latitude' => 32.22006,
     'longitude' => 76.32013,
   ),
-  789 => 
+  773 => 
   array (
     'id' => 131722,
     'name' => 'Dharangaon',
@@ -7111,7 +6967,7 @@ return array (
     'latitude' => 21.01187,
     'longitude' => 75.27407,
   ),
-  790 => 
+  774 => 
   array (
     'id' => 131723,
     'name' => 'Dharapuram',
@@ -7120,7 +6976,7 @@ return array (
     'latitude' => 10.73828,
     'longitude' => 77.53223,
   ),
-  791 => 
+  775 => 
   array (
     'id' => 131724,
     'name' => 'Dharmadom',
@@ -7129,7 +6985,7 @@ return array (
     'latitude' => 11.77538,
     'longitude' => 75.46459,
   ),
-  792 => 
+  776 => 
   array (
     'id' => 131725,
     'name' => 'Dharmanagar',
@@ -7138,7 +6994,7 @@ return array (
     'latitude' => 24.36667,
     'longitude' => 92.16667,
   ),
-  793 => 
+  777 => 
   array (
     'id' => 131726,
     'name' => 'Dharmapuri',
@@ -7147,7 +7003,7 @@ return array (
     'latitude' => 12.1277,
     'longitude' => 78.15794,
   ),
-  794 => 
+  778 => 
   array (
     'id' => 131727,
     'name' => 'Dharmavaram',
@@ -7156,7 +7012,7 @@ return array (
     'latitude' => 14.41435,
     'longitude' => 77.72035,
   ),
-  795 => 
+  779 => 
   array (
     'id' => 131728,
     'name' => 'Dharmabad',
@@ -7165,7 +7021,7 @@ return array (
     'latitude' => 18.89116,
     'longitude' => 77.8494,
   ),
-  796 => 
+  780 => 
   array (
     'id' => 131729,
     'name' => 'Dharwad',
@@ -7174,7 +7030,7 @@ return array (
     'latitude' => 15.37,
     'longitude' => 75.14,
   ),
-  797 => 
+  781 => 
   array (
     'id' => 131730,
     'name' => 'Dhaulpur',
@@ -7183,7 +7039,7 @@ return array (
     'latitude' => 26.71183,
     'longitude' => 77.73956,
   ),
-  798 => 
+  782 => 
   array (
     'id' => 131731,
     'name' => 'Dhaurahra',
@@ -7192,7 +7048,7 @@ return array (
     'latitude' => 27.99814,
     'longitude' => 81.08975,
   ),
-  799 => 
+  783 => 
   array (
     'id' => 131732,
     'name' => 'Dhekiajuli',
@@ -7201,7 +7057,7 @@ return array (
     'latitude' => 26.70367,
     'longitude' => 92.47808,
   ),
-  800 => 
+  784 => 
   array (
     'id' => 131733,
     'name' => 'Dhemaji',
@@ -7210,7 +7066,7 @@ return array (
     'latitude' => 27.6091,
     'longitude' => 94.7942,
   ),
-  801 => 
+  785 => 
   array (
     'id' => 131735,
     'name' => 'Dhenkanal',
@@ -7219,7 +7075,7 @@ return array (
     'latitude' => 20.75,
     'longitude' => 85.5,
   ),
-  802 => 
+  786 => 
   array (
     'id' => 131736,
     'name' => 'Dhilwan',
@@ -7228,7 +7084,7 @@ return array (
     'latitude' => 31.51432,
     'longitude' => 75.34574,
   ),
-  803 => 
+  787 => 
   array (
     'id' => 131737,
     'name' => 'Dhing',
@@ -7237,7 +7093,7 @@ return array (
     'latitude' => 26.46793,
     'longitude' => 92.47336,
   ),
-  804 => 
+  788 => 
   array (
     'id' => 131738,
     'name' => 'Dhola',
@@ -7246,7 +7102,7 @@ return array (
     'latitude' => 21.88129,
     'longitude' => 71.77269,
   ),
-  805 => 
+  789 => 
   array (
     'id' => 131739,
     'name' => 'Dholka',
@@ -7255,7 +7111,7 @@ return array (
     'latitude' => 22.72732,
     'longitude' => 72.44128,
   ),
-  806 => 
+  790 => 
   array (
     'id' => 131740,
     'name' => 'Dhone',
@@ -7264,7 +7120,7 @@ return array (
     'latitude' => 15.3952,
     'longitude' => 77.8715,
   ),
-  807 => 
+  791 => 
   array (
     'id' => 131741,
     'name' => 'Dhoraji',
@@ -7273,7 +7129,7 @@ return array (
     'latitude' => 21.73359,
     'longitude' => 70.45004,
   ),
-  808 => 
+  792 => 
   array (
     'id' => 131742,
     'name' => 'Dhrol',
@@ -7282,7 +7138,7 @@ return array (
     'latitude' => 22.567,
     'longitude' => 70.41769,
   ),
-  809 => 
+  793 => 
   array (
     'id' => 131743,
     'name' => 'Dhrangadhra',
@@ -7291,7 +7147,7 @@ return array (
     'latitude' => 22.99167,
     'longitude' => 71.46793,
   ),
-  810 => 
+  794 => 
   array (
     'id' => 131744,
     'name' => 'Dhubri',
@@ -7300,7 +7156,7 @@ return array (
     'latitude' => 26.06749,
     'longitude' => 90.02238,
   ),
-  811 => 
+  795 => 
   array (
     'id' => 131746,
     'name' => 'Dhule',
@@ -7309,7 +7165,7 @@ return array (
     'latitude' => 21.06852,
     'longitude' => 74.58837,
   ),
-  812 => 
+  796 => 
   array (
     'id' => 131747,
     'name' => 'Dhuwaran',
@@ -7318,7 +7174,7 @@ return array (
     'latitude' => 22.23779,
     'longitude' => 72.7591,
   ),
-  813 => 
+  797 => 
   array (
     'id' => 131748,
     'name' => 'Dhaka',
@@ -7327,7 +7183,7 @@ return array (
     'latitude' => 26.67479,
     'longitude' => 85.16698,
   ),
-  814 => 
+  798 => 
   array (
     'id' => 131749,
     'name' => 'Dhamnod',
@@ -7336,7 +7192,7 @@ return array (
     'latitude' => 22.20928,
     'longitude' => 75.47057,
   ),
-  815 => 
+  799 => 
   array (
     'id' => 131750,
     'name' => 'Dhampur',
@@ -7345,7 +7201,7 @@ return array (
     'latitude' => 29.30883,
     'longitude' => 78.51083,
   ),
-  816 => 
+  800 => 
   array (
     'id' => 131751,
     'name' => 'Dhana',
@@ -7354,7 +7210,7 @@ return array (
     'latitude' => 23.74697,
     'longitude' => 78.86234,
   ),
-  817 => 
+  801 => 
   array (
     'id' => 131753,
     'name' => 'Dhar',
@@ -7363,7 +7219,7 @@ return array (
     'latitude' => 22.59373,
     'longitude' => 75.29774,
   ),
-  818 => 
+  802 => 
   array (
     'id' => 131754,
     'name' => 'Dharchula',
@@ -7372,7 +7228,7 @@ return array (
     'latitude' => 29.84707,
     'longitude' => 80.51951,
   ),
-  819 => 
+  803 => 
   array (
     'id' => 131755,
     'name' => 'Dhari',
@@ -7381,7 +7237,7 @@ return array (
     'latitude' => 21.32855,
     'longitude' => 71.02645,
   ),
-  820 => 
+  804 => 
   array (
     'id' => 131756,
     'name' => 'Dhariwal',
@@ -7390,7 +7246,7 @@ return array (
     'latitude' => 31.95616,
     'longitude' => 75.32386,
   ),
-  821 => 
+  805 => 
   array (
     'id' => 131757,
     'name' => 'Dharuhera',
@@ -7399,7 +7255,7 @@ return array (
     'latitude' => 28.20553,
     'longitude' => 76.79691,
   ),
-  822 => 
+  806 => 
   array (
     'id' => 131758,
     'name' => 'Dharur',
@@ -7408,7 +7264,7 @@ return array (
     'latitude' => 18.82017,
     'longitude' => 76.10937,
   ),
-  823 => 
+  807 => 
   array (
     'id' => 131759,
     'name' => 'Dhulia',
@@ -7417,7 +7273,7 @@ return array (
     'latitude' => 20.9013,
     'longitude' => 74.77737,
   ),
-  824 => 
+  808 => 
   array (
     'id' => 131760,
     'name' => 'Dhuri',
@@ -7426,7 +7282,7 @@ return array (
     'latitude' => 30.36846,
     'longitude' => 75.86791,
   ),
-  825 => 
+  809 => 
   array (
     'id' => 131761,
     'name' => 'Dibai',
@@ -7435,7 +7291,7 @@ return array (
     'latitude' => 28.20849,
     'longitude' => 78.26173,
   ),
-  826 => 
+  810 => 
   array (
     'id' => 131762,
     'name' => 'Dibrugarh',
@@ -7444,7 +7300,7 @@ return array (
     'latitude' => 27.5,
     'longitude' => 95.0,
   ),
-  827 => 
+  811 => 
   array (
     'id' => 131763,
     'name' => 'Dibang Valley',
@@ -7453,7 +7309,7 @@ return array (
     'latitude' => 28.7,
     'longitude' => 95.7,
   ),
-  828 => 
+  812 => 
   array (
     'id' => 131764,
     'name' => 'Dicholi',
@@ -7462,7 +7318,7 @@ return array (
     'latitude' => 15.59319,
     'longitude' => 73.94571,
   ),
-  829 => 
+  813 => 
   array (
     'id' => 131765,
     'name' => 'Digapahandi',
@@ -7471,7 +7327,7 @@ return array (
     'latitude' => 19.37275,
     'longitude' => 84.57184,
   ),
-  830 => 
+  814 => 
   array (
     'id' => 131766,
     'name' => 'Digboi',
@@ -7480,7 +7336,7 @@ return array (
     'latitude' => 27.39321,
     'longitude' => 95.61839,
   ),
-  831 => 
+  815 => 
   array (
     'id' => 131767,
     'name' => 'Dighwara',
@@ -7489,7 +7345,7 @@ return array (
     'latitude' => 25.74434,
     'longitude' => 85.01003,
   ),
-  832 => 
+  816 => 
   array (
     'id' => 131768,
     'name' => 'Digras',
@@ -7498,7 +7354,7 @@ return array (
     'latitude' => 20.1035,
     'longitude' => 77.71846,
   ),
-  833 => 
+  817 => 
   array (
     'id' => 131769,
     'name' => 'Diguvametta',
@@ -7507,7 +7363,7 @@ return array (
     'latitude' => 15.39507,
     'longitude' => 78.8293,
   ),
-  834 => 
+  818 => 
   array (
     'id' => 131770,
     'name' => 'Dima Hasao District',
@@ -7516,7 +7372,7 @@ return array (
     'latitude' => 25.5,
     'longitude' => 93.0,
   ),
-  835 => 
+  819 => 
   array (
     'id' => 131771,
     'name' => 'Dimapur',
@@ -7525,7 +7381,7 @@ return array (
     'latitude' => 25.77852,
     'longitude' => 93.78508,
   ),
-  836 => 
+  820 => 
   array (
     'id' => 131773,
     'name' => 'Dinapore',
@@ -7534,7 +7390,7 @@ return array (
     'latitude' => 25.63705,
     'longitude' => 85.04794,
   ),
-  837 => 
+  821 => 
   array (
     'id' => 131774,
     'name' => 'Dindigul',
@@ -7543,7 +7399,7 @@ return array (
     'latitude' => 10.4,
     'longitude' => 77.8,
   ),
-  838 => 
+  822 => 
   array (
     'id' => 131775,
     'name' => 'Dindori',
@@ -7552,7 +7408,7 @@ return array (
     'latitude' => 22.8,
     'longitude' => 81.1,
   ),
-  839 => 
+  823 => 
   array (
     'id' => 131776,
     'name' => 'Diphu',
@@ -7561,7 +7417,7 @@ return array (
     'latitude' => 25.84341,
     'longitude' => 93.43116,
   ),
-  840 => 
+  824 => 
   array (
     'id' => 131777,
     'name' => 'Dirba',
@@ -7570,7 +7426,7 @@ return array (
     'latitude' => 30.07222,
     'longitude' => 75.99607,
   ),
-  841 => 
+  825 => 
   array (
     'id' => 131778,
     'name' => 'Dispur',
@@ -7579,7 +7435,7 @@ return array (
     'latitude' => 26.13564,
     'longitude' => 91.80069,
   ),
-  842 => 
+  826 => 
   array (
     'id' => 131779,
     'name' => 'Diu',
@@ -7588,7 +7444,7 @@ return array (
     'latitude' => 20.72081,
     'longitude' => 70.93989,
   ),
-  843 => 
+  827 => 
   array (
     'id' => 131780,
     'name' => 'Dod Ballapur',
@@ -7597,7 +7453,7 @@ return array (
     'latitude' => 13.29452,
     'longitude' => 77.53777,
   ),
-  844 => 
+  828 => 
   array (
     'id' => 131781,
     'name' => 'Doda',
@@ -7606,7 +7462,7 @@ return array (
     'latitude' => 33.14916,
     'longitude' => 75.54746,
   ),
-  845 => 
+  829 => 
   array (
     'id' => 131782,
     'name' => 'Dohad',
@@ -7615,7 +7471,7 @@ return array (
     'latitude' => 22.9,
     'longitude' => 74.0,
   ),
-  846 => 
+  830 => 
   array (
     'id' => 131783,
     'name' => 'Dohrighat',
@@ -7624,7 +7480,7 @@ return array (
     'latitude' => 26.27217,
     'longitude' => 83.50916,
   ),
-  847 => 
+  831 => 
   array (
     'id' => 131784,
     'name' => 'Doiwala',
@@ -7633,7 +7489,7 @@ return array (
     'latitude' => 30.17667,
     'longitude' => 78.11659,
   ),
-  848 => 
+  832 => 
   array (
     'id' => 131785,
     'name' => 'Dombivli',
@@ -7642,7 +7498,7 @@ return array (
     'latitude' => 19.21667,
     'longitude' => 73.08333,
   ),
-  849 => 
+  833 => 
   array (
     'id' => 131786,
     'name' => 'Dondaicha',
@@ -7651,7 +7507,7 @@ return array (
     'latitude' => 21.3236,
     'longitude' => 74.56804,
   ),
-  850 => 
+  834 => 
   array (
     'id' => 131787,
     'name' => 'Dongargaon',
@@ -7660,7 +7516,7 @@ return array (
     'latitude' => 20.97172,
     'longitude' => 80.85077,
   ),
-  851 => 
+  835 => 
   array (
     'id' => 131788,
     'name' => 'Dongargarh',
@@ -7669,7 +7525,7 @@ return array (
     'latitude' => 21.18893,
     'longitude' => 80.75459,
   ),
-  852 => 
+  836 => 
   array (
     'id' => 131789,
     'name' => 'Dornakal',
@@ -7678,7 +7534,7 @@ return array (
     'latitude' => 17.44475,
     'longitude' => 80.14905,
   ),
-  853 => 
+  837 => 
   array (
     'id' => 131790,
     'name' => 'Doraha',
@@ -7687,7 +7543,7 @@ return array (
     'latitude' => 30.79953,
     'longitude' => 76.02355,
   ),
-  854 => 
+  838 => 
   array (
     'id' => 131791,
     'name' => 'Dostpur',
@@ -7696,7 +7552,7 @@ return array (
     'latitude' => 26.27486,
     'longitude' => 82.47091,
   ),
-  855 => 
+  839 => 
   array (
     'id' => 131792,
     'name' => 'Dudhani',
@@ -7705,7 +7561,7 @@ return array (
     'latitude' => 17.35792,
     'longitude' => 76.36688,
   ),
-  856 => 
+  840 => 
   array (
     'id' => 131793,
     'name' => 'Dugadda',
@@ -7714,7 +7570,7 @@ return array (
     'latitude' => 29.80673,
     'longitude' => 78.61109,
   ),
-  857 => 
+  841 => 
   array (
     'id' => 131794,
     'name' => 'Dugda',
@@ -7723,7 +7579,7 @@ return array (
     'latitude' => 23.74516,
     'longitude' => 86.17175,
   ),
-  858 => 
+  842 => 
   array (
     'id' => 131795,
     'name' => 'Duliagaon',
@@ -7732,7 +7588,7 @@ return array (
     'latitude' => 27.37227,
     'longitude' => 95.30754,
   ),
-  859 => 
+  843 => 
   array (
     'id' => 131796,
     'name' => 'Dum Duma',
@@ -7741,7 +7597,7 @@ return array (
     'latitude' => 27.56884,
     'longitude' => 95.55664,
   ),
-  860 => 
+  844 => 
   array (
     'id' => 131797,
     'name' => 'Dumka',
@@ -7750,7 +7606,7 @@ return array (
     'latitude' => 24.3,
     'longitude' => 87.25,
   ),
-  861 => 
+  845 => 
   array (
     'id' => 131798,
     'name' => 'Dumra',
@@ -7759,7 +7615,7 @@ return array (
     'latitude' => 26.56708,
     'longitude' => 85.5204,
   ),
-  862 => 
+  846 => 
   array (
     'id' => 131799,
     'name' => 'Dumraon',
@@ -7768,7 +7624,7 @@ return array (
     'latitude' => 25.55265,
     'longitude' => 84.15149,
   ),
-  863 => 
+  847 => 
   array (
     'id' => 131800,
     'name' => 'Dungarpur',
@@ -7777,7 +7633,7 @@ return array (
     'latitude' => 21.28777,
     'longitude' => 71.7556,
   ),
-  864 => 
+  848 => 
   array (
     'id' => 131801,
     'name' => 'Durg',
@@ -7786,7 +7642,7 @@ return array (
     'latitude' => 21.15,
     'longitude' => 81.4,
   ),
-  865 => 
+  849 => 
   array (
     'id' => 131802,
     'name' => 'Durgapur',
@@ -7795,7 +7651,7 @@ return array (
     'latitude' => 20.0054,
     'longitude' => 79.30273,
   ),
-  866 => 
+  850 => 
   array (
     'id' => 131803,
     'name' => 'Dwarka',
@@ -7804,7 +7660,7 @@ return array (
     'latitude' => 22.23944,
     'longitude' => 68.96778,
   ),
-  867 => 
+  851 => 
   array (
     'id' => 131804,
     'name' => 'Dwarahat',
@@ -7813,7 +7669,7 @@ return array (
     'latitude' => 29.77785,
     'longitude' => 79.42731,
   ),
-  868 => 
+  852 => 
   array (
     'id' => 131805,
     'name' => 'Dabhol',
@@ -7822,7 +7678,7 @@ return array (
     'latitude' => 17.58971,
     'longitude' => 73.18001,
   ),
-  869 => 
+  853 => 
   array (
     'id' => 131806,
     'name' => 'Dadri',
@@ -7831,7 +7687,7 @@ return array (
     'latitude' => 28.55257,
     'longitude' => 77.55403,
   ),
-  870 => 
+  854 => 
   array (
     'id' => 131807,
     'name' => 'Dahanu',
@@ -7840,7 +7696,7 @@ return array (
     'latitude' => 19.96778,
     'longitude' => 72.71263,
   ),
-  871 => 
+  855 => 
   array (
     'id' => 131808,
     'name' => 'Dakor',
@@ -7849,7 +7705,7 @@ return array (
     'latitude' => 22.75268,
     'longitude' => 73.14967,
   ),
-  872 => 
+  856 => 
   array (
     'id' => 131809,
     'name' => 'Damnagar',
@@ -7858,7 +7714,7 @@ return array (
     'latitude' => 21.69232,
     'longitude' => 71.51747,
   ),
-  873 => 
+  857 => 
   array (
     'id' => 131810,
     'name' => 'Darwha',
@@ -7867,7 +7723,7 @@ return array (
     'latitude' => 20.31017,
     'longitude' => 77.77257,
   ),
-  874 => 
+  858 => 
   array (
     'id' => 131811,
     'name' => 'Dasna',
@@ -7876,7 +7732,7 @@ return array (
     'latitude' => 28.67736,
     'longitude' => 77.52252,
   ),
-  875 => 
+  859 => 
   array (
     'id' => 131812,
     'name' => 'Dataganj',
@@ -7885,7 +7741,7 @@ return array (
     'latitude' => 28.0253,
     'longitude' => 79.40819,
   ),
-  876 => 
+  860 => 
   array (
     'id' => 131813,
     'name' => 'Didwana',
@@ -7894,7 +7750,7 @@ return array (
     'latitude' => 27.40096,
     'longitude' => 74.57537,
   ),
-  877 => 
+  861 => 
   array (
     'id' => 131814,
     'name' => 'Dig',
@@ -7903,7 +7759,7 @@ return array (
     'latitude' => 27.47188,
     'longitude' => 77.32564,
   ),
-  878 => 
+  862 => 
   array (
     'id' => 131815,
     'name' => 'Diglur',
@@ -7912,7 +7768,7 @@ return array (
     'latitude' => 18.54829,
     'longitude' => 77.57695,
   ),
-  879 => 
+  863 => 
   array (
     'id' => 131816,
     'name' => 'Dina Nagar',
@@ -7921,7 +7777,7 @@ return array (
     'latitude' => 32.13664,
     'longitude' => 75.47291,
   ),
-  880 => 
+  864 => 
   array (
     'id' => 131817,
     'name' => 'Disa',
@@ -7930,7 +7786,7 @@ return array (
     'latitude' => 24.25612,
     'longitude' => 72.17928,
   ),
-  881 => 
+  865 => 
   array (
     'id' => 131818,
     'name' => 'Dudhi',
@@ -7939,16 +7795,7 @@ return array (
     'latitude' => 24.21357,
     'longitude' => 83.24067,
   ),
-  882 => 
-  array (
-    'id' => 131819,
-    'name' => 'Dungarpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.84306,
-    'longitude' => 73.71466,
-  ),
-  883 => 
+  866 => 
   array (
     'id' => 131820,
     'name' => 'Dusi',
@@ -7957,7 +7804,7 @@ return array (
     'latitude' => 12.77574,
     'longitude' => 79.67892,
   ),
-  884 => 
+  867 => 
   array (
     'id' => 131821,
     'name' => 'East Delhi',
@@ -7966,7 +7813,7 @@ return array (
     'latitude' => 28.66242,
     'longitude' => 77.29122,
   ),
-  885 => 
+  868 => 
   array (
     'id' => 131822,
     'name' => 'East District',
@@ -7975,7 +7822,7 @@ return array (
     'latitude' => 27.33333,
     'longitude' => 88.66667,
   ),
-  886 => 
+  869 => 
   array (
     'id' => 131823,
     'name' => 'East Godavari',
@@ -7984,7 +7831,7 @@ return array (
     'latitude' => 17.83333,
     'longitude' => 81.83333,
   ),
-  887 => 
+  870 => 
   array (
     'id' => 131824,
     'name' => 'East Garo Hills',
@@ -7993,7 +7840,7 @@ return array (
     'latitude' => 25.61372,
     'longitude' => 90.62426,
   ),
-  888 => 
+  871 => 
   array (
     'id' => 131825,
     'name' => 'East Jaintia Hills',
@@ -8002,7 +7849,7 @@ return array (
     'latitude' => 25.35976,
     'longitude' => 92.3668,
   ),
-  889 => 
+  872 => 
   array (
     'id' => 131826,
     'name' => 'East Kameng',
@@ -8011,7 +7858,7 @@ return array (
     'latitude' => 27.3,
     'longitude' => 93.05,
   ),
-  890 => 
+  873 => 
   array (
     'id' => 131827,
     'name' => 'East Khasi Hills',
@@ -8020,7 +7867,7 @@ return array (
     'latitude' => 25.3805,
     'longitude' => 91.78905,
   ),
-  891 => 
+  874 => 
   array (
     'id' => 131828,
     'name' => 'East Siang',
@@ -8029,7 +7876,7 @@ return array (
     'latitude' => 28.12379,
     'longitude' => 95.16339,
   ),
-  892 => 
+  875 => 
   array (
     'id' => 131829,
     'name' => 'Edakkulam',
@@ -8038,7 +7885,7 @@ return array (
     'latitude' => 10.6102,
     'longitude' => 76.18352,
   ),
-  893 => 
+  876 => 
   array (
     'id' => 131830,
     'name' => 'Elamanchili',
@@ -8047,7 +7894,7 @@ return array (
     'latitude' => 17.54907,
     'longitude' => 82.85749,
   ),
-  894 => 
+  877 => 
   array (
     'id' => 131831,
     'name' => 'Ellenabad',
@@ -8056,7 +7903,7 @@ return array (
     'latitude' => 29.45282,
     'longitude' => 74.66122,
   ),
-  895 => 
+  878 => 
   array (
     'id' => 131832,
     'name' => 'Ellore',
@@ -8065,7 +7912,7 @@ return array (
     'latitude' => 16.71311,
     'longitude' => 81.10437,
   ),
-  896 => 
+  879 => 
   array (
     'id' => 131833,
     'name' => 'Elumalai',
@@ -8074,7 +7921,7 @@ return array (
     'latitude' => 9.86501,
     'longitude' => 77.69923,
   ),
-  897 => 
+  880 => 
   array (
     'id' => 131834,
     'name' => 'Elayirampannai',
@@ -8083,7 +7930,7 @@ return array (
     'latitude' => 9.27033,
     'longitude' => 77.82494,
   ),
-  898 => 
+  881 => 
   array (
     'id' => 131835,
     'name' => 'Elur',
@@ -8092,7 +7939,7 @@ return array (
     'latitude' => 10.06667,
     'longitude' => 76.28333,
   ),
-  899 => 
+  882 => 
   array (
     'id' => 131836,
     'name' => 'Emmiganur',
@@ -8101,7 +7948,7 @@ return array (
     'latitude' => 15.77203,
     'longitude' => 77.48345,
   ),
-  900 => 
+  883 => 
   array (
     'id' => 131837,
     'name' => 'Eral',
@@ -8110,7 +7957,7 @@ return array (
     'latitude' => 8.62584,
     'longitude' => 78.02282,
   ),
-  901 => 
+  884 => 
   array (
     'id' => 131838,
     'name' => 'Erandol',
@@ -8119,7 +7966,7 @@ return array (
     'latitude' => 20.92206,
     'longitude' => 75.32641,
   ),
-  902 => 
+  885 => 
   array (
     'id' => 131839,
     'name' => 'Eraniel',
@@ -8128,7 +7975,7 @@ return array (
     'latitude' => 8.20589,
     'longitude' => 77.31726,
   ),
-  903 => 
+  886 => 
   array (
     'id' => 131840,
     'name' => 'Ernakulam',
@@ -8137,7 +7984,7 @@ return array (
     'latitude' => 10.0,
     'longitude' => 76.5,
   ),
-  904 => 
+  887 => 
   array (
     'id' => 131841,
     'name' => 'Erode',
@@ -8146,7 +7993,7 @@ return array (
     'latitude' => 11.34,
     'longitude' => 77.55,
   ),
-  905 => 
+  888 => 
   array (
     'id' => 131842,
     'name' => 'Erraguntla',
@@ -8155,7 +8002,7 @@ return array (
     'latitude' => 14.63853,
     'longitude' => 78.53974,
   ),
-  906 => 
+  889 => 
   array (
     'id' => 131843,
     'name' => 'Erumaippatti',
@@ -8164,7 +8011,7 @@ return array (
     'latitude' => 11.14671,
     'longitude' => 78.28996,
   ),
-  907 => 
+  890 => 
   array (
     'id' => 131844,
     'name' => 'Erattupetta',
@@ -8173,7 +8020,7 @@ return array (
     'latitude' => 9.68747,
     'longitude' => 76.77891,
   ),
-  908 => 
+  891 => 
   array (
     'id' => 131845,
     'name' => 'Etah',
@@ -8182,7 +8029,7 @@ return array (
     'latitude' => 27.5,
     'longitude' => 78.75,
   ),
-  909 => 
+  892 => 
   array (
     'id' => 131846,
     'name' => 'Etikoppaka',
@@ -8191,7 +8038,7 @@ return array (
     'latitude' => 17.5,
     'longitude' => 82.73333,
   ),
-  910 => 
+  893 => 
   array (
     'id' => 131847,
     'name' => 'Ettaiyapuram',
@@ -8200,7 +8047,7 @@ return array (
     'latitude' => 9.14405,
     'longitude' => 77.99066,
   ),
-  911 => 
+  894 => 
   array (
     'id' => 131848,
     'name' => 'Etawa',
@@ -8209,7 +8056,7 @@ return array (
     'latitude' => 24.18351,
     'longitude' => 78.20289,
   ),
-  912 => 
+  895 => 
   array (
     'id' => 131849,
     'name' => 'Etawah',
@@ -8218,7 +8065,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 79.25,
   ),
-  913 => 
+  896 => 
   array (
     'id' => 131850,
     'name' => 'Faizpur',
@@ -8227,7 +8074,7 @@ return array (
     'latitude' => 21.16766,
     'longitude' => 75.86006,
   ),
-  914 => 
+  897 => 
   array (
     'id' => 131851,
     'name' => 'Faizabad',
@@ -8236,7 +8083,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 82.0,
   ),
-  915 => 
+  898 => 
   array (
     'id' => 131852,
     'name' => 'Farah',
@@ -8245,7 +8092,7 @@ return array (
     'latitude' => 27.32081,
     'longitude' => 77.76185,
   ),
-  916 => 
+  899 => 
   array (
     'id' => 131853,
     'name' => 'Faridabad',
@@ -8254,7 +8101,7 @@ return array (
     'latitude' => 28.41124,
     'longitude' => 77.31316,
   ),
-  917 => 
+  900 => 
   array (
     'id' => 131856,
     'name' => 'Farrukhnagar',
@@ -8263,16 +8110,7 @@ return array (
     'latitude' => 28.44745,
     'longitude' => 76.82391,
   ),
-  918 => 
-  array (
-    'id' => 131857,
-    'name' => 'Farrukhnagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 17.07787,
-    'longitude' => 78.20339,
-  ),
-  919 => 
+  901 => 
   array (
     'id' => 131858,
     'name' => 'Farrukhabad',
@@ -8281,7 +8119,7 @@ return array (
     'latitude' => 27.5,
     'longitude' => 79.5,
   ),
-  920 => 
+  902 => 
   array (
     'id' => 131859,
     'name' => 'Faridkot',
@@ -8290,7 +8128,7 @@ return array (
     'latitude' => 30.67399,
     'longitude' => 74.75579,
   ),
-  921 => 
+  903 => 
   array (
     'id' => 131860,
     'name' => 'Faridnagar',
@@ -8299,7 +8137,7 @@ return array (
     'latitude' => 28.76923,
     'longitude' => 77.62934,
   ),
-  922 => 
+  904 => 
   array (
     'id' => 131861,
     'name' => 'Faridpur',
@@ -8308,7 +8146,7 @@ return array (
     'latitude' => 28.20997,
     'longitude' => 79.54149,
   ),
-  923 => 
+  905 => 
   array (
     'id' => 131863,
     'name' => 'Fatehganj West',
@@ -8317,7 +8155,7 @@ return array (
     'latitude' => 28.4662,
     'longitude' => 79.30657,
   ),
-  924 => 
+  906 => 
   array (
     'id' => 131864,
     'name' => 'Fatehgarh',
@@ -8326,7 +8164,7 @@ return array (
     'latitude' => 27.36409,
     'longitude' => 79.63111,
   ),
-  925 => 
+  907 => 
   array (
     'id' => 131865,
     'name' => 'Fatehgarh Churian',
@@ -8335,7 +8173,7 @@ return array (
     'latitude' => 31.86431,
     'longitude' => 74.95665,
   ),
-  926 => 
+  908 => 
   array (
     'id' => 131866,
     'name' => 'Fatehgarh Sahib',
@@ -8344,7 +8182,7 @@ return array (
     'latitude' => 30.64379,
     'longitude' => 76.34787,
   ),
-  927 => 
+  909 => 
   array (
     'id' => 131867,
     'name' => 'Fatehpur',
@@ -8353,16 +8191,7 @@ return array (
     'latitude' => 27.99486,
     'longitude' => 74.95628,
   ),
-  928 => 
-  array (
-    'id' => 131868,
-    'name' => 'Fatehpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.75,
-    'longitude' => 80.75,
-  ),
-  929 => 
+  910 => 
   array (
     'id' => 131869,
     'name' => 'Fatehpur Chaurasi',
@@ -8371,7 +8200,7 @@ return array (
     'latitude' => 26.78925,
     'longitude' => 80.26547,
   ),
-  930 => 
+  911 => 
   array (
     'id' => 131870,
     'name' => 'Fatehpur Sikri',
@@ -8380,7 +8209,7 @@ return array (
     'latitude' => 27.0937,
     'longitude' => 77.66003,
   ),
-  931 => 
+  912 => 
   array (
     'id' => 131871,
     'name' => 'Fatehabad',
@@ -8389,16 +8218,7 @@ return array (
     'latitude' => 27.02645,
     'longitude' => 78.3027,
   ),
-  932 => 
-  array (
-    'id' => 131872,
-    'name' => 'Fatehabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 29.51525,
-    'longitude' => 75.45554,
-  ),
-  933 => 
+  913 => 
   array (
     'id' => 131873,
     'name' => 'Fatwa',
@@ -8407,7 +8227,7 @@ return array (
     'latitude' => 25.50958,
     'longitude' => 85.30504,
   ),
-  934 => 
+  914 => 
   array (
     'id' => 131874,
     'name' => 'Ferokh',
@@ -8416,7 +8236,7 @@ return array (
     'latitude' => 11.17989,
     'longitude' => 75.84141,
   ),
-  935 => 
+  915 => 
   array (
     'id' => 131875,
     'name' => 'Firozpur',
@@ -8425,7 +8245,7 @@ return array (
     'latitude' => 30.92574,
     'longitude' => 74.61311,
   ),
-  936 => 
+  916 => 
   array (
     'id' => 131876,
     'name' => 'Firozabad',
@@ -8434,7 +8254,7 @@ return array (
     'latitude' => 27.20072,
     'longitude' => 78.42867,
   ),
-  937 => 
+  917 => 
   array (
     'id' => 131877,
     'name' => 'Firozpur District',
@@ -8443,7 +8263,7 @@ return array (
     'latitude' => 30.89,
     'longitude' => 74.56,
   ),
-  938 => 
+  918 => 
   array (
     'id' => 131878,
     'name' => 'Forbesganj',
@@ -8452,7 +8272,7 @@ return array (
     'latitude' => 26.30253,
     'longitude' => 87.26556,
   ),
-  939 => 
+  919 => 
   array (
     'id' => 131879,
     'name' => 'French Rocks',
@@ -8461,7 +8281,7 @@ return array (
     'latitude' => 12.50094,
     'longitude' => 76.67416,
   ),
-  940 => 
+  920 => 
   array (
     'id' => 131880,
     'name' => 'Fyzabad',
@@ -8470,7 +8290,7 @@ return array (
     'latitude' => 26.77549,
     'longitude' => 82.15018,
   ),
-  941 => 
+  921 => 
   array (
     'id' => 131881,
     'name' => 'Fazilka',
@@ -8479,7 +8299,7 @@ return array (
     'latitude' => 30.40207,
     'longitude' => 74.02836,
   ),
-  942 => 
+  922 => 
   array (
     'id' => 131882,
     'name' => 'Firozpur Jhirka',
@@ -8488,7 +8308,7 @@ return array (
     'latitude' => 27.78853,
     'longitude' => 76.94496,
   ),
-  943 => 
+  923 => 
   array (
     'id' => 131884,
     'name' => 'Gadag',
@@ -8497,7 +8317,7 @@ return array (
     'latitude' => 15.49835,
     'longitude' => 75.65187,
   ),
-  944 => 
+  924 => 
   array (
     'id' => 131885,
     'name' => 'Gadag-Betageri',
@@ -8506,7 +8326,7 @@ return array (
     'latitude' => 15.4167,
     'longitude' => 75.6167,
   ),
-  945 => 
+  925 => 
   array (
     'id' => 131886,
     'name' => 'Gadchiroli',
@@ -8515,7 +8335,7 @@ return array (
     'latitude' => 19.8,
     'longitude' => 80.2,
   ),
-  946 => 
+  926 => 
   array (
     'id' => 131887,
     'name' => 'Gaddi Annaram',
@@ -8524,7 +8344,7 @@ return array (
     'latitude' => 17.36687,
     'longitude' => 78.5242,
   ),
-  947 => 
+  927 => 
   array (
     'id' => 131888,
     'name' => 'Gadhada',
@@ -8533,7 +8353,7 @@ return array (
     'latitude' => 21.96957,
     'longitude' => 71.57828,
   ),
-  948 => 
+  928 => 
   array (
     'id' => 131889,
     'name' => 'Gadhinglaj',
@@ -8542,7 +8362,7 @@ return array (
     'latitude' => 16.22291,
     'longitude' => 74.3501,
   ),
-  949 => 
+  929 => 
   array (
     'id' => 131890,
     'name' => 'Gadwal',
@@ -8551,7 +8371,7 @@ return array (
     'latitude' => 16.23504,
     'longitude' => 77.79556,
   ),
-  950 => 
+  930 => 
   array (
     'id' => 131891,
     'name' => 'Gagret',
@@ -8560,7 +8380,7 @@ return array (
     'latitude' => 31.65846,
     'longitude' => 76.06144,
   ),
-  951 => 
+  931 => 
   array (
     'id' => 131892,
     'name' => 'Gajapati',
@@ -8569,7 +8389,7 @@ return array (
     'latitude' => 18.91,
     'longitude' => 84.2,
   ),
-  952 => 
+  932 => 
   array (
     'id' => 131893,
     'name' => 'Gajendragarh',
@@ -8578,7 +8398,7 @@ return array (
     'latitude' => 15.73628,
     'longitude' => 75.96976,
   ),
-  953 => 
+  933 => 
   array (
     'id' => 131894,
     'name' => 'Gajraula',
@@ -8587,7 +8407,7 @@ return array (
     'latitude' => 28.8457,
     'longitude' => 78.2396,
   ),
-  954 => 
+  934 => 
   array (
     'id' => 131895,
     'name' => 'Gajuwaka',
@@ -8596,7 +8416,7 @@ return array (
     'latitude' => 17.7,
     'longitude' => 83.21667,
   ),
-  955 => 
+  935 => 
   array (
     'id' => 131896,
     'name' => 'Galiakot',
@@ -8605,7 +8425,7 @@ return array (
     'latitude' => 23.51995,
     'longitude' => 74.02028,
   ),
-  956 => 
+  936 => 
   array (
     'id' => 131897,
     'name' => 'Gandai',
@@ -8614,7 +8434,7 @@ return array (
     'latitude' => 21.66667,
     'longitude' => 81.10013,
   ),
-  957 => 
+  937 => 
   array (
     'id' => 131898,
     'name' => 'Ganderbal',
@@ -8623,7 +8443,7 @@ return array (
     'latitude' => 34.29467,
     'longitude' => 75.19996,
   ),
-  958 => 
+  938 => 
   array (
     'id' => 131899,
     'name' => 'Gandevi',
@@ -8632,7 +8452,7 @@ return array (
     'latitude' => 20.81214,
     'longitude' => 72.99811,
   ),
-  959 => 
+  939 => 
   array (
     'id' => 131900,
     'name' => 'Gandhinagar',
@@ -8641,7 +8461,7 @@ return array (
     'latitude' => 23.21667,
     'longitude' => 72.68333,
   ),
-  960 => 
+  940 => 
   array (
     'id' => 131901,
     'name' => 'Gangaikondan',
@@ -8650,7 +8470,7 @@ return array (
     'latitude' => 8.85785,
     'longitude' => 77.78019,
   ),
-  961 => 
+  941 => 
   array (
     'id' => 131902,
     'name' => 'Gangavalli',
@@ -8659,7 +8479,7 @@ return array (
     'latitude' => 11.49828,
     'longitude' => 78.64966,
   ),
-  962 => 
+  942 => 
   array (
     'id' => 131903,
     'name' => 'Gangoh',
@@ -8668,7 +8488,7 @@ return array (
     'latitude' => 29.78004,
     'longitude' => 77.26346,
   ),
-  963 => 
+  943 => 
   array (
     'id' => 131904,
     'name' => 'Gangolli',
@@ -8677,7 +8497,7 @@ return array (
     'latitude' => 13.65024,
     'longitude' => 74.67072,
   ),
-  964 => 
+  944 => 
   array (
     'id' => 131905,
     'name' => 'Gangtok',
@@ -8686,7 +8506,7 @@ return array (
     'latitude' => 27.32574,
     'longitude' => 88.61216,
   ),
-  965 => 
+  945 => 
   array (
     'id' => 131906,
     'name' => 'Ganguvada',
@@ -8695,7 +8515,7 @@ return array (
     'latitude' => 18.66667,
     'longitude' => 84.11667,
   ),
-  966 => 
+  946 => 
   array (
     'id' => 131907,
     'name' => 'Gangakher',
@@ -8704,7 +8524,7 @@ return array (
     'latitude' => 18.96962,
     'longitude' => 76.74946,
   ),
-  967 => 
+  947 => 
   array (
     'id' => 131908,
     'name' => 'Ganganagar',
@@ -8713,7 +8533,7 @@ return array (
     'latitude' => 29.92009,
     'longitude' => 73.87496,
   ),
-  968 => 
+  948 => 
   array (
     'id' => 131909,
     'name' => 'Gangapur',
@@ -8722,16 +8542,7 @@ return array (
     'latitude' => 26.47249,
     'longitude' => 76.71744,
   ),
-  969 => 
-  array (
-    'id' => 131910,
-    'name' => 'Gangapur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 19.69718,
-    'longitude' => 75.01045,
-  ),
-  970 => 
+  949 => 
   array (
     'id' => 131911,
     'name' => 'Gangawati',
@@ -8740,7 +8551,7 @@ return array (
     'latitude' => 15.4313,
     'longitude' => 76.52933,
   ),
-  971 => 
+  950 => 
   array (
     'id' => 131912,
     'name' => 'Ganj Dundwara',
@@ -8749,7 +8560,7 @@ return array (
     'latitude' => 27.73308,
     'longitude' => 78.94119,
   ),
-  972 => 
+  951 => 
   array (
     'id' => 131913,
     'name' => 'Ganj Muradabad',
@@ -8758,7 +8569,7 @@ return array (
     'latitude' => 26.95733,
     'longitude' => 80.184,
   ),
-  973 => 
+  952 => 
   array (
     'id' => 131914,
     'name' => 'Ganjam',
@@ -8767,7 +8578,7 @@ return array (
     'latitude' => 19.38705,
     'longitude' => 85.05079,
   ),
-  974 => 
+  953 => 
   array (
     'id' => 131915,
     'name' => 'Gannavaram',
@@ -8776,7 +8587,7 @@ return array (
     'latitude' => 16.54092,
     'longitude' => 80.80213,
   ),
-  975 => 
+  954 => 
   array (
     'id' => 131916,
     'name' => 'Garautha',
@@ -8785,7 +8596,7 @@ return array (
     'latitude' => 25.5719,
     'longitude' => 79.29764,
   ),
-  976 => 
+  955 => 
   array (
     'id' => 131917,
     'name' => 'Garha Brahman',
@@ -8794,7 +8605,7 @@ return array (
     'latitude' => 23.86873,
     'longitude' => 77.35731,
   ),
-  977 => 
+  956 => 
   array (
     'id' => 131918,
     'name' => 'Gardhiwala',
@@ -8803,7 +8614,7 @@ return array (
     'latitude' => 31.74147,
     'longitude' => 75.75567,
   ),
-  978 => 
+  957 => 
   array (
     'id' => 131919,
     'name' => 'Garhi Pukhta',
@@ -8812,7 +8623,7 @@ return array (
     'latitude' => 29.5498,
     'longitude' => 77.30881,
   ),
-  979 => 
+  958 => 
   array (
     'id' => 131920,
     'name' => 'Garhmuktesar',
@@ -8821,7 +8632,7 @@ return array (
     'latitude' => 28.78732,
     'longitude' => 78.10214,
   ),
-  980 => 
+  959 => 
   array (
     'id' => 131921,
     'name' => 'Garhshankar',
@@ -8830,7 +8641,7 @@ return array (
     'latitude' => 31.21537,
     'longitude' => 76.14149,
   ),
-  981 => 
+  960 => 
   array (
     'id' => 131922,
     'name' => 'Garhwa',
@@ -8839,7 +8650,7 @@ return array (
     'latitude' => 24.07494,
     'longitude' => 83.71023,
   ),
-  982 => 
+  961 => 
   array (
     'id' => 131923,
     'name' => 'Garhwal',
@@ -8848,7 +8659,7 @@ return array (
     'latitude' => 29.96366,
     'longitude' => 78.92853,
   ),
-  983 => 
+  962 => 
   array (
     'id' => 131924,
     'name' => 'Garhakota',
@@ -8857,7 +8668,7 @@ return array (
     'latitude' => 23.7791,
     'longitude' => 79.14321,
   ),
-  984 => 
+  963 => 
   array (
     'id' => 131925,
     'name' => 'Gariadhar',
@@ -8866,7 +8677,7 @@ return array (
     'latitude' => 21.53889,
     'longitude' => 71.57737,
   ),
-  985 => 
+  964 => 
   array (
     'id' => 131926,
     'name' => 'Gariaband',
@@ -8875,7 +8686,7 @@ return array (
     'latitude' => 20.63323,
     'longitude' => 82.06221,
   ),
-  986 => 
+  965 => 
   array (
     'id' => 131927,
     'name' => 'Gaurela',
@@ -8884,7 +8695,7 @@ return array (
     'latitude' => 22.75449,
     'longitude' => 81.90107,
   ),
-  987 => 
+  966 => 
   array (
     'id' => 131928,
     'name' => 'Gauripur',
@@ -8893,7 +8704,7 @@ return array (
     'latitude' => 26.08334,
     'longitude' => 89.96118,
   ),
-  988 => 
+  967 => 
   array (
     'id' => 131929,
     'name' => 'Gautam Buddha Nagar',
@@ -8902,7 +8713,7 @@ return array (
     'latitude' => 28.35898,
     'longitude' => 77.55076,
   ),
-  989 => 
+  968 => 
   array (
     'id' => 131930,
     'name' => 'Gautampura',
@@ -8911,7 +8722,7 @@ return array (
     'latitude' => 22.98664,
     'longitude' => 75.51921,
   ),
-  990 => 
+  969 => 
   array (
     'id' => 131931,
     'name' => 'Gawan',
@@ -8920,7 +8731,7 @@ return array (
     'latitude' => 28.41969,
     'longitude' => 78.35186,
   ),
-  991 => 
+  970 => 
   array (
     'id' => 131932,
     'name' => 'Gaya',
@@ -8929,7 +8740,7 @@ return array (
     'latitude' => 24.79686,
     'longitude' => 85.00385,
   ),
-  992 => 
+  971 => 
   array (
     'id' => 131934,
     'name' => 'Gevrai',
@@ -8938,7 +8749,7 @@ return array (
     'latitude' => 19.26372,
     'longitude' => 75.75007,
   ),
-  993 => 
+  972 => 
   array (
     'id' => 131935,
     'name' => 'Ghanaur',
@@ -8947,7 +8758,7 @@ return array (
     'latitude' => 30.33092,
     'longitude' => 76.61203,
   ),
-  994 => 
+  973 => 
   array (
     'id' => 131936,
     'name' => 'Ghansor',
@@ -8956,7 +8767,7 @@ return array (
     'latitude' => 22.65976,
     'longitude' => 79.95013,
   ),
-  995 => 
+  974 => 
   array (
     'id' => 131937,
     'name' => 'Gharaunda',
@@ -8965,7 +8776,7 @@ return array (
     'latitude' => 29.53692,
     'longitude' => 76.97142,
   ),
-  996 => 
+  975 => 
   array (
     'id' => 131938,
     'name' => 'Gharghoda',
@@ -8974,7 +8785,7 @@ return array (
     'latitude' => 22.17427,
     'longitude' => 83.3517,
   ),
-  997 => 
+  976 => 
   array (
     'id' => 131939,
     'name' => 'Ghatkesar',
@@ -8983,7 +8794,7 @@ return array (
     'latitude' => 17.45081,
     'longitude' => 78.68366,
   ),
-  998 => 
+  977 => 
   array (
     'id' => 131940,
     'name' => 'Ghazipur',
@@ -8992,7 +8803,7 @@ return array (
     'latitude' => 25.58333,
     'longitude' => 83.58526,
   ),
-  999 => 
+  978 => 
   array (
     'id' => 131941,
     'name' => 'Ghiror',
@@ -9001,7 +8812,7 @@ return array (
     'latitude' => 27.18912,
     'longitude' => 78.79312,
   ),
-  1000 => 
+  979 => 
   array (
     'id' => 131942,
     'name' => 'Gho Brahmanan de',
@@ -9010,7 +8821,7 @@ return array (
     'latitude' => 32.5559,
     'longitude' => 74.9539,
   ),
-  1001 => 
+  980 => 
   array (
     'id' => 131943,
     'name' => 'Ghoga',
@@ -9019,7 +8830,7 @@ return array (
     'latitude' => 25.21738,
     'longitude' => 87.1571,
   ),
-  1002 => 
+  981 => 
   array (
     'id' => 131944,
     'name' => 'Ghogha',
@@ -9028,7 +8839,7 @@ return array (
     'latitude' => 21.68813,
     'longitude' => 72.2763,
   ),
-  1003 => 
+  982 => 
   array (
     'id' => 131945,
     'name' => 'Ghorawal',
@@ -9037,7 +8848,7 @@ return array (
     'latitude' => 24.75459,
     'longitude' => 82.77965,
   ),
-  1004 => 
+  983 => 
   array (
     'id' => 131946,
     'name' => 'Ghosi',
@@ -9046,7 +8857,7 @@ return array (
     'latitude' => 26.10587,
     'longitude' => 83.5393,
   ),
-  1005 => 
+  984 => 
   array (
     'id' => 131947,
     'name' => 'Ghoti Budrukh',
@@ -9055,7 +8866,7 @@ return array (
     'latitude' => 19.71641,
     'longitude' => 73.62821,
   ),
-  1006 => 
+  985 => 
   array (
     'id' => 131948,
     'name' => 'Ghugus',
@@ -9064,7 +8875,7 @@ return array (
     'latitude' => 19.9381,
     'longitude' => 79.11192,
   ),
-  1007 => 
+  986 => 
   array (
     'id' => 131949,
     'name' => 'Ghumarwin',
@@ -9073,7 +8884,7 @@ return array (
     'latitude' => 31.44166,
     'longitude' => 76.71509,
   ),
-  1008 => 
+  987 => 
   array (
     'id' => 131950,
     'name' => 'Ghatampur',
@@ -9082,7 +8893,7 @@ return array (
     'latitude' => 26.15272,
     'longitude' => 80.16803,
   ),
-  1009 => 
+  988 => 
   array (
     'id' => 131951,
     'name' => 'Ghatanji',
@@ -9091,7 +8902,7 @@ return array (
     'latitude' => 20.14183,
     'longitude' => 78.31333,
   ),
-  1010 => 
+  989 => 
   array (
     'id' => 131952,
     'name' => 'Ghatsila',
@@ -9100,7 +8911,7 @@ return array (
     'latitude' => 22.58531,
     'longitude' => 86.47682,
   ),
-  1011 => 
+  990 => 
   array (
     'id' => 131953,
     'name' => 'Ghaziabad',
@@ -9109,7 +8920,7 @@ return array (
     'latitude' => 28.66535,
     'longitude' => 77.43915,
   ),
-  1012 => 
+  991 => 
   array (
     'id' => 131955,
     'name' => 'Giddalur',
@@ -9118,7 +8929,7 @@ return array (
     'latitude' => 15.37439,
     'longitude' => 78.92609,
   ),
-  1013 => 
+  992 => 
   array (
     'id' => 131956,
     'name' => 'Giddarbaha',
@@ -9127,7 +8938,7 @@ return array (
     'latitude' => 30.19953,
     'longitude' => 74.66627,
   ),
-  1014 => 
+  993 => 
   array (
     'id' => 131957,
     'name' => 'Gingee',
@@ -9136,7 +8947,7 @@ return array (
     'latitude' => 12.25282,
     'longitude' => 79.41727,
   ),
-  1015 => 
+  994 => 
   array (
     'id' => 131958,
     'name' => 'Gir Somnath',
@@ -9145,7 +8956,7 @@ return array (
     'latitude' => 20.91287,
     'longitude' => 70.3671,
   ),
-  1016 => 
+  995 => 
   array (
     'id' => 131959,
     'name' => 'Giridih',
@@ -9154,7 +8965,7 @@ return array (
     'latitude' => 24.25,
     'longitude' => 85.91667,
   ),
-  1017 => 
+  996 => 
   array (
     'id' => 131960,
     'name' => 'Goa Velha',
@@ -9163,7 +8974,7 @@ return array (
     'latitude' => 15.44384,
     'longitude' => 73.88572,
   ),
-  1018 => 
+  997 => 
   array (
     'id' => 131961,
     'name' => 'Gobichettipalayam',
@@ -9172,7 +8983,7 @@ return array (
     'latitude' => 11.45496,
     'longitude' => 77.4422,
   ),
-  1019 => 
+  998 => 
   array (
     'id' => 131962,
     'name' => 'Gobindpur',
@@ -9181,7 +8992,7 @@ return array (
     'latitude' => 22.63393,
     'longitude' => 86.07162,
   ),
-  1020 => 
+  999 => 
   array (
     'id' => 131963,
     'name' => 'Godda',
@@ -9190,7 +9001,7 @@ return array (
     'latitude' => 24.83333,
     'longitude' => 87.21667,
   ),
-  1021 => 
+  1000 => 
   array (
     'id' => 131964,
     'name' => 'Godhra',
@@ -9199,7 +9010,7 @@ return array (
     'latitude' => 22.77547,
     'longitude' => 73.61488,
   ),
-  1022 => 
+  1001 => 
   array (
     'id' => 131965,
     'name' => 'Gogapur',
@@ -9208,7 +9019,7 @@ return array (
     'latitude' => 23.55746,
     'longitude' => 75.51665,
   ),
-  1023 => 
+  1002 => 
   array (
     'id' => 131966,
     'name' => 'Gohadi',
@@ -9217,7 +9028,7 @@ return array (
     'latitude' => 26.43278,
     'longitude' => 78.44205,
   ),
-  1024 => 
+  1003 => 
   array (
     'id' => 131967,
     'name' => 'Gohpur',
@@ -9226,7 +9037,7 @@ return array (
     'latitude' => 26.88184,
     'longitude' => 93.6156,
   ),
-  1025 => 
+  1004 => 
   array (
     'id' => 131968,
     'name' => 'Gohana',
@@ -9235,7 +9046,7 @@ return array (
     'latitude' => 29.13777,
     'longitude' => 76.70247,
   ),
-  1026 => 
+  1005 => 
   array (
     'id' => 131969,
     'name' => 'Gohand',
@@ -9244,7 +9055,7 @@ return array (
     'latitude' => 25.69871,
     'longitude' => 79.54567,
   ),
-  1027 => 
+  1006 => 
   array (
     'id' => 131970,
     'name' => 'Gokak',
@@ -9253,7 +9064,7 @@ return array (
     'latitude' => 16.16901,
     'longitude' => 74.82393,
   ),
-  1028 => 
+  1007 => 
   array (
     'id' => 131971,
     'name' => 'Gokarna',
@@ -9262,7 +9073,7 @@ return array (
     'latitude' => 14.55,
     'longitude' => 74.31667,
   ),
-  1029 => 
+  1008 => 
   array (
     'id' => 131972,
     'name' => 'Gokavaram',
@@ -9271,7 +9082,7 @@ return array (
     'latitude' => 17.25823,
     'longitude' => 81.84985,
   ),
-  1030 => 
+  1009 => 
   array (
     'id' => 131973,
     'name' => 'Gokul',
@@ -9280,7 +9091,7 @@ return array (
     'latitude' => 27.43926,
     'longitude' => 77.72019,
   ),
-  1031 => 
+  1010 => 
   array (
     'id' => 131974,
     'name' => 'Gola Bazar',
@@ -9289,7 +9100,7 @@ return array (
     'latitude' => 26.3446,
     'longitude' => 83.35303,
   ),
-  1032 => 
+  1011 => 
   array (
     'id' => 131975,
     'name' => 'Gola Gokarannath',
@@ -9298,7 +9109,7 @@ return array (
     'latitude' => 28.07837,
     'longitude' => 80.47054,
   ),
-  1033 => 
+  1012 => 
   array (
     'id' => 131976,
     'name' => 'Golaghat',
@@ -9307,7 +9118,7 @@ return array (
     'latitude' => 26.4092,
     'longitude' => 93.91193,
   ),
-  1034 => 
+  1013 => 
   array (
     'id' => 131977,
     'name' => 'Golakganj',
@@ -9316,7 +9127,7 @@ return array (
     'latitude' => 26.10216,
     'longitude' => 89.82275,
   ),
-  1035 => 
+  1014 => 
   array (
     'id' => 131979,
     'name' => 'Gomati',
@@ -9325,7 +9136,7 @@ return array (
     'latitude' => 23.53399,
     'longitude' => 91.48122,
   ),
-  1036 => 
+  1015 => 
   array (
     'id' => 131980,
     'name' => 'Gomoh',
@@ -9334,7 +9145,7 @@ return array (
     'latitude' => 23.87355,
     'longitude' => 86.1516,
   ),
-  1037 => 
+  1016 => 
   array (
     'id' => 131981,
     'name' => 'Gonda',
@@ -9343,7 +9154,7 @@ return array (
     'latitude' => 27.18581,
     'longitude' => 81.96693,
   ),
-  1038 => 
+  1017 => 
   array (
     'id' => 131982,
     'name' => 'Gondal',
@@ -9352,7 +9163,7 @@ return array (
     'latitude' => 21.96074,
     'longitude' => 70.80255,
   ),
-  1039 => 
+  1018 => 
   array (
     'id' => 131986,
     'name' => 'Gopinathpur',
@@ -9361,7 +9172,7 @@ return array (
     'latitude' => 22.66301,
     'longitude' => 86.075,
   ),
-  1040 => 
+  1019 => 
   array (
     'id' => 131987,
     'name' => 'Gopalganj',
@@ -9370,7 +9181,7 @@ return array (
     'latitude' => 26.5,
     'longitude' => 84.33333,
   ),
-  1041 => 
+  1020 => 
   array (
     'id' => 131988,
     'name' => 'Gopalpur',
@@ -9379,7 +9190,7 @@ return array (
     'latitude' => 19.25861,
     'longitude' => 84.90517,
   ),
-  1042 => 
+  1021 => 
   array (
     'id' => 131989,
     'name' => 'Gopalur',
@@ -9388,7 +9199,7 @@ return array (
     'latitude' => 16.6122,
     'longitude' => 77.80728,
   ),
-  1043 => 
+  1022 => 
   array (
     'id' => 131990,
     'name' => 'Gopamau',
@@ -9397,7 +9208,7 @@ return array (
     'latitude' => 27.53468,
     'longitude' => 80.28507,
   ),
-  1044 => 
+  1023 => 
   array (
     'id' => 131991,
     'name' => 'Gorakhpur',
@@ -9406,16 +9217,7 @@ return array (
     'latitude' => 29.44768,
     'longitude' => 75.67206,
   ),
-  1045 => 
-  array (
-    'id' => 131992,
-    'name' => 'Gorakhpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.91667,
-    'longitude' => 83.25,
-  ),
-  1046 => 
+  1024 => 
   array (
     'id' => 131993,
     'name' => 'Gorantla',
@@ -9424,7 +9226,7 @@ return array (
     'latitude' => 13.98411,
     'longitude' => 77.77224,
   ),
-  1047 => 
+  1025 => 
   array (
     'id' => 131994,
     'name' => 'Goregaon',
@@ -9433,7 +9235,7 @@ return array (
     'latitude' => 18.15483,
     'longitude' => 73.29147,
   ),
-  1048 => 
+  1026 => 
   array (
     'id' => 131995,
     'name' => 'Goribidnur',
@@ -9442,7 +9244,7 @@ return array (
     'latitude' => 13.61072,
     'longitude' => 77.51738,
   ),
-  1049 => 
+  1027 => 
   array (
     'id' => 131996,
     'name' => 'Gorur',
@@ -9451,7 +9253,7 @@ return array (
     'latitude' => 12.82297,
     'longitude' => 76.06463,
   ),
-  1050 => 
+  1028 => 
   array (
     'id' => 131997,
     'name' => 'Goshaingaon',
@@ -9460,7 +9262,7 @@ return array (
     'latitude' => 26.43946,
     'longitude' => 89.96307,
   ),
-  1051 => 
+  1029 => 
   array (
     'id' => 131998,
     'name' => 'Goshainganj',
@@ -9469,7 +9271,7 @@ return array (
     'latitude' => 26.57115,
     'longitude' => 82.38091,
   ),
-  1052 => 
+  1030 => 
   array (
     'id' => 132000,
     'name' => 'Govardhan',
@@ -9478,7 +9280,7 @@ return array (
     'latitude' => 27.49658,
     'longitude' => 77.46263,
   ),
-  1053 => 
+  1031 => 
   array (
     'id' => 132001,
     'name' => 'GovindapuramChilakaluripetGuntur',
@@ -9487,7 +9289,7 @@ return array (
     'latitude' => 16.15477,
     'longitude' => 80.10279,
   ),
-  1054 => 
+  1032 => 
   array (
     'id' => 132002,
     'name' => 'Govindgarh',
@@ -9496,16 +9298,7 @@ return array (
     'latitude' => 24.37845,
     'longitude' => 81.29644,
   ),
-  1055 => 
-  array (
-    'id' => 132003,
-    'name' => 'Govindgarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 27.50423,
-    'longitude' => 76.99938,
-  ),
-  1056 => 
+  1033 => 
   array (
     'id' => 132004,
     'name' => 'Goalpara',
@@ -9514,7 +9307,7 @@ return array (
     'latitude' => 26.12791,
     'longitude' => 90.60974,
   ),
-  1057 => 
+  1034 => 
   array (
     'id' => 132005,
     'name' => 'Greater Noida',
@@ -9523,7 +9316,7 @@ return array (
     'latitude' => 28.49615,
     'longitude' => 77.53601,
   ),
-  1058 => 
+  1035 => 
   array (
     'id' => 132006,
     'name' => 'Gua',
@@ -9532,7 +9325,7 @@ return array (
     'latitude' => 22.21361,
     'longitude' => 85.38774,
   ),
-  1059 => 
+  1036 => 
   array (
     'id' => 132007,
     'name' => 'Gubbi',
@@ -9541,7 +9334,7 @@ return array (
     'latitude' => 13.31216,
     'longitude' => 76.94102,
   ),
-  1060 => 
+  1037 => 
   array (
     'id' => 132008,
     'name' => 'Gudalur',
@@ -9550,7 +9343,7 @@ return array (
     'latitude' => 9.67826,
     'longitude' => 77.24951,
   ),
-  1061 => 
+  1038 => 
   array (
     'id' => 132009,
     'name' => 'Gudibanda',
@@ -9559,7 +9352,7 @@ return array (
     'latitude' => 13.67099,
     'longitude' => 77.70414,
   ),
-  1062 => 
+  1039 => 
   array (
     'id' => 132010,
     'name' => 'Gudivada',
@@ -9568,7 +9361,7 @@ return array (
     'latitude' => 16.43547,
     'longitude' => 80.99555,
   ),
-  1063 => 
+  1040 => 
   array (
     'id' => 132011,
     'name' => 'Gudiyatham',
@@ -9577,7 +9370,7 @@ return array (
     'latitude' => 12.94601,
     'longitude' => 78.87377,
   ),
-  1064 => 
+  1041 => 
   array (
     'id' => 132012,
     'name' => 'Gudlavalleru',
@@ -9586,7 +9379,7 @@ return array (
     'latitude' => 16.35,
     'longitude' => 81.05,
   ),
-  1065 => 
+  1042 => 
   array (
     'id' => 132013,
     'name' => 'Gudari',
@@ -9595,7 +9388,7 @@ return array (
     'latitude' => 19.34762,
     'longitude' => 83.78128,
   ),
-  1066 => 
+  1043 => 
   array (
     'id' => 132014,
     'name' => 'Guhagar',
@@ -9604,7 +9397,7 @@ return array (
     'latitude' => 17.48415,
     'longitude' => 73.19289,
   ),
-  1067 => 
+  1044 => 
   array (
     'id' => 132015,
     'name' => 'Guirim',
@@ -9613,7 +9406,7 @@ return array (
     'latitude' => 15.57552,
     'longitude' => 73.80722,
   ),
-  1068 => 
+  1045 => 
   array (
     'id' => 132016,
     'name' => 'Kalaburgi',
@@ -9622,7 +9415,7 @@ return array (
     'latitude' => 17.16667,
     'longitude' => 77.08333,
   ),
-  1069 => 
+  1046 => 
   array (
     'id' => 132017,
     'name' => 'Guledagudda',
@@ -9631,7 +9424,7 @@ return array (
     'latitude' => 16.05025,
     'longitude' => 75.78997,
   ),
-  1070 => 
+  1047 => 
   array (
     'id' => 132018,
     'name' => 'Gulabpura',
@@ -9640,7 +9433,7 @@ return array (
     'latitude' => 25.90448,
     'longitude' => 74.66025,
   ),
-  1071 => 
+  1048 => 
   array (
     'id' => 132019,
     'name' => 'Gulaothi',
@@ -9649,7 +9442,7 @@ return array (
     'latitude' => 28.58938,
     'longitude' => 77.79318,
   ),
-  1072 => 
+  1049 => 
   array (
     'id' => 132020,
     'name' => 'Gumia',
@@ -9658,7 +9451,7 @@ return array (
     'latitude' => 23.7975,
     'longitude' => 85.82523,
   ),
-  1073 => 
+  1050 => 
   array (
     'id' => 132021,
     'name' => 'Gumla',
@@ -9667,7 +9460,7 @@ return array (
     'latitude' => 23.08055,
     'longitude' => 84.53834,
   ),
-  1074 => 
+  1051 => 
   array (
     'id' => 132023,
     'name' => 'Gummidipundi',
@@ -9676,7 +9469,7 @@ return array (
     'latitude' => 13.40765,
     'longitude' => 80.10879,
   ),
-  1075 => 
+  1052 => 
   array (
     'id' => 132024,
     'name' => 'Guna',
@@ -9685,7 +9478,7 @@ return array (
     'latitude' => 24.55464,
     'longitude' => 77.20082,
   ),
-  1076 => 
+  1053 => 
   array (
     'id' => 132025,
     'name' => 'Gundlupet',
@@ -9694,7 +9487,7 @@ return array (
     'latitude' => 11.81004,
     'longitude' => 76.69027,
   ),
-  1077 => 
+  1054 => 
   array (
     'id' => 132026,
     'name' => 'Gunnaur',
@@ -9703,7 +9496,7 @@ return array (
     'latitude' => 28.23995,
     'longitude' => 78.43994,
   ),
-  1078 => 
+  1055 => 
   array (
     'id' => 132027,
     'name' => 'Guntakal Junction',
@@ -9712,7 +9505,7 @@ return array (
     'latitude' => 15.17112,
     'longitude' => 77.36244,
   ),
-  1079 => 
+  1056 => 
   array (
     'id' => 132028,
     'name' => 'Guntur',
@@ -9721,7 +9514,7 @@ return array (
     'latitude' => 16.29974,
     'longitude' => 80.45729,
   ),
-  1080 => 
+  1057 => 
   array (
     'id' => 132030,
     'name' => 'Gunupur',
@@ -9730,7 +9523,7 @@ return array (
     'latitude' => 19.0804,
     'longitude' => 83.80879,
   ),
-  1081 => 
+  1058 => 
   array (
     'id' => 132031,
     'name' => 'Gurdaspur',
@@ -9739,7 +9532,7 @@ return array (
     'latitude' => 31.92,
     'longitude' => 75.27,
   ),
-  1082 => 
+  1059 => 
   array (
     'id' => 132032,
     'name' => 'Gurgaon',
@@ -9748,7 +9541,7 @@ return array (
     'latitude' => 28.43891,
     'longitude' => 77.00592,
   ),
-  1083 => 
+  1060 => 
   array (
     'id' => 132033,
     'name' => 'Gurh',
@@ -9757,7 +9550,7 @@ return array (
     'latitude' => 24.50265,
     'longitude' => 81.50037,
   ),
-  1084 => 
+  1061 => 
   array (
     'id' => 132034,
     'name' => 'Gurmatkal',
@@ -9766,7 +9559,7 @@ return array (
     'latitude' => 16.86773,
     'longitude' => 77.39088,
   ),
-  1085 => 
+  1062 => 
   array (
     'id' => 132035,
     'name' => 'Gursahaiganj',
@@ -9775,7 +9568,7 @@ return array (
     'latitude' => 27.11518,
     'longitude' => 79.73174,
   ),
-  1086 => 
+  1063 => 
   array (
     'id' => 132036,
     'name' => 'Gursarai',
@@ -9784,7 +9577,7 @@ return array (
     'latitude' => 25.61677,
     'longitude' => 79.18053,
   ),
-  1087 => 
+  1064 => 
   array (
     'id' => 132037,
     'name' => 'Guru Har Sahai',
@@ -9793,7 +9586,7 @@ return array (
     'latitude' => 30.70862,
     'longitude' => 74.40407,
   ),
-  1088 => 
+  1065 => 
   array (
     'id' => 132038,
     'name' => 'Guruvayur',
@@ -9802,7 +9595,7 @@ return array (
     'latitude' => 10.5943,
     'longitude' => 76.0411,
   ),
-  1089 => 
+  1066 => 
   array (
     'id' => 132039,
     'name' => 'Guwahati',
@@ -9811,7 +9604,7 @@ return array (
     'latitude' => 26.1844,
     'longitude' => 91.7458,
   ),
-  1090 => 
+  1067 => 
   array (
     'id' => 132040,
     'name' => 'Gwalior',
@@ -9820,7 +9613,7 @@ return array (
     'latitude' => 26.22983,
     'longitude' => 78.17337,
   ),
-  1091 => 
+  1068 => 
   array (
     'id' => 132041,
     'name' => 'Gyalshing',
@@ -9829,7 +9622,7 @@ return array (
     'latitude' => 27.28952,
     'longitude' => 88.25764,
   ),
-  1092 => 
+  1069 => 
   array (
     'id' => 132042,
     'name' => 'Gyanpur',
@@ -9838,7 +9631,7 @@ return array (
     'latitude' => 25.33268,
     'longitude' => 82.46637,
   ),
-  1093 => 
+  1070 => 
   array (
     'id' => 132043,
     'name' => 'Gadarwara',
@@ -9847,7 +9640,7 @@ return array (
     'latitude' => 22.9235,
     'longitude' => 78.7849,
   ),
-  1094 => 
+  1071 => 
   array (
     'id' => 132045,
     'name' => 'Gandhi Nagar',
@@ -9856,7 +9649,7 @@ return array (
     'latitude' => 13.00639,
     'longitude' => 80.25417,
   ),
-  1095 => 
+  1072 => 
   array (
     'id' => 132046,
     'name' => 'Gandhidham',
@@ -9865,7 +9658,7 @@ return array (
     'latitude' => 23.08333,
     'longitude' => 70.13333,
   ),
-  1096 => 
+  1073 => 
   array (
     'id' => 132048,
     'name' => 'Gidam',
@@ -9874,7 +9667,7 @@ return array (
     'latitude' => 18.97431,
     'longitude' => 81.39894,
   ),
-  1097 => 
+  1074 => 
   array (
     'id' => 132050,
     'name' => 'Guduvancheri',
@@ -9883,7 +9676,7 @@ return array (
     'latitude' => 12.84519,
     'longitude' => 80.06055,
   ),
-  1098 => 
+  1075 => 
   array (
     'id' => 132051,
     'name' => 'Gudur',
@@ -9892,16 +9685,7 @@ return array (
     'latitude' => 14.15093,
     'longitude' => 79.8521,
   ),
-  1099 => 
-  array (
-    'id' => 132052,
-    'name' => 'Gudur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 17.49174,
-    'longitude' => 78.82302,
-  ),
-  1100 => 
+  1076 => 
   array (
     'id' => 132053,
     'name' => 'Hadagalli',
@@ -9910,7 +9694,7 @@ return array (
     'latitude' => 15.02048,
     'longitude' => 75.93185,
   ),
-  1101 => 
+  1077 => 
   array (
     'id' => 132054,
     'name' => 'Hadgaon',
@@ -9919,7 +9703,7 @@ return array (
     'latitude' => 19.49552,
     'longitude' => 77.65863,
   ),
-  1102 => 
+  1078 => 
   array (
     'id' => 132055,
     'name' => 'Hailakandi',
@@ -9928,7 +9712,7 @@ return array (
     'latitude' => 24.5017,
     'longitude' => 92.60069,
   ),
-  1103 => 
+  1079 => 
   array (
     'id' => 132057,
     'name' => 'Haldaur',
@@ -9937,7 +9721,7 @@ return array (
     'latitude' => 29.28988,
     'longitude' => 78.28437,
   ),
-  1104 => 
+  1080 => 
   array (
     'id' => 132058,
     'name' => 'Haldwani',
@@ -9946,7 +9730,7 @@ return array (
     'latitude' => 29.22254,
     'longitude' => 79.5286,
   ),
-  1105 => 
+  1081 => 
   array (
     'id' => 132059,
     'name' => 'Haliyal',
@@ -9955,7 +9739,7 @@ return array (
     'latitude' => 15.32864,
     'longitude' => 74.75638,
   ),
-  1106 => 
+  1082 => 
   array (
     'id' => 132060,
     'name' => 'Halvad',
@@ -9964,7 +9748,7 @@ return array (
     'latitude' => 23.01516,
     'longitude' => 71.18029,
   ),
-  1107 => 
+  1083 => 
   array (
     'id' => 132061,
     'name' => 'Hampi',
@@ -9973,7 +9757,7 @@ return array (
     'latitude' => 15.3352,
     'longitude' => 76.4603,
   ),
-  1108 => 
+  1084 => 
   array (
     'id' => 132062,
     'name' => 'Hamirpur',
@@ -9982,16 +9766,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 80.0,
   ),
-  1109 => 
-  array (
-    'id' => 132063,
-    'name' => 'Hamirpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 31.75,
-    'longitude' => 76.5,
-  ),
-  1110 => 
+  1085 => 
   array (
     'id' => 132064,
     'name' => 'Handia',
@@ -10000,7 +9775,7 @@ return array (
     'latitude' => 25.36379,
     'longitude' => 82.18655,
   ),
-  1111 => 
+  1086 => 
   array (
     'id' => 132065,
     'name' => 'Hansot',
@@ -10009,7 +9784,7 @@ return array (
     'latitude' => 21.58496,
     'longitude' => 72.80764,
   ),
-  1112 => 
+  1087 => 
   array (
     'id' => 132066,
     'name' => 'Hanumangarh',
@@ -10018,7 +9793,7 @@ return array (
     'latitude' => 29.11,
     'longitude' => 74.6,
   ),
-  1113 => 
+  1088 => 
   array (
     'id' => 132068,
     'name' => 'Haraiya',
@@ -10027,7 +9802,7 @@ return array (
     'latitude' => 26.79477,
     'longitude' => 82.46436,
   ),
-  1114 => 
+  1089 => 
   array (
     'id' => 132069,
     'name' => 'Harbatpur',
@@ -10036,7 +9811,7 @@ return array (
     'latitude' => 30.43863,
     'longitude' => 77.74058,
   ),
-  1115 => 
+  1090 => 
   array (
     'id' => 132070,
     'name' => 'Harda',
@@ -10045,7 +9820,7 @@ return array (
     'latitude' => 22.23406,
     'longitude' => 76.96431,
   ),
-  1116 => 
+  1091 => 
   array (
     'id' => 132071,
     'name' => 'Harda Khas',
@@ -10054,7 +9829,7 @@ return array (
     'latitude' => 22.34414,
     'longitude' => 77.09536,
   ),
-  1117 => 
+  1092 => 
   array (
     'id' => 132072,
     'name' => 'Hardoi',
@@ -10063,7 +9838,7 @@ return array (
     'latitude' => 27.41667,
     'longitude' => 80.25,
   ),
-  1118 => 
+  1093 => 
   array (
     'id' => 132074,
     'name' => 'Harduaganj',
@@ -10072,7 +9847,7 @@ return array (
     'latitude' => 27.94361,
     'longitude' => 78.15789,
   ),
-  1119 => 
+  1094 => 
   array (
     'id' => 132075,
     'name' => 'Haridwar',
@@ -10081,7 +9856,7 @@ return array (
     'latitude' => 29.94791,
     'longitude' => 78.16025,
   ),
-  1120 => 
+  1095 => 
   array (
     'id' => 132076,
     'name' => 'Harihar',
@@ -10090,7 +9865,7 @@ return array (
     'latitude' => 14.51288,
     'longitude' => 75.80716,
   ),
-  1121 => 
+  1096 => 
   array (
     'id' => 132077,
     'name' => 'Hariana',
@@ -10099,7 +9874,7 @@ return array (
     'latitude' => 31.63512,
     'longitude' => 75.83887,
   ),
-  1122 => 
+  1097 => 
   array (
     'id' => 132078,
     'name' => 'Harnai',
@@ -10108,7 +9883,7 @@ return array (
     'latitude' => 17.8134,
     'longitude' => 73.09668,
   ),
-  1123 => 
+  1098 => 
   array (
     'id' => 132079,
     'name' => 'Harpanahalli',
@@ -10117,7 +9892,7 @@ return array (
     'latitude' => 14.78766,
     'longitude' => 75.98863,
   ),
-  1124 => 
+  1099 => 
   array (
     'id' => 132080,
     'name' => 'Harpalpur',
@@ -10126,7 +9901,7 @@ return array (
     'latitude' => 25.28773,
     'longitude' => 79.33279,
   ),
-  1125 => 
+  1100 => 
   array (
     'id' => 132081,
     'name' => 'Harrai',
@@ -10135,7 +9910,7 @@ return array (
     'latitude' => 22.61428,
     'longitude' => 79.22207,
   ),
-  1126 => 
+  1101 => 
   array (
     'id' => 132082,
     'name' => 'Harsud',
@@ -10144,7 +9919,7 @@ return array (
     'latitude' => 22.09947,
     'longitude' => 76.73423,
   ),
-  1127 => 
+  1102 => 
   array (
     'id' => 132083,
     'name' => 'Harur',
@@ -10153,7 +9928,7 @@ return array (
     'latitude' => 12.05267,
     'longitude' => 78.48023,
   ),
-  1128 => 
+  1103 => 
   array (
     'id' => 132084,
     'name' => 'Hasanpur',
@@ -10162,16 +9937,7 @@ return array (
     'latitude' => 27.96944,
     'longitude' => 77.49544,
   ),
-  1129 => 
-  array (
-    'id' => 132085,
-    'name' => 'Hasanpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.72249,
-    'longitude' => 78.28436,
-  ),
-  1130 => 
+  1104 => 
   array (
     'id' => 132086,
     'name' => 'Hassan',
@@ -10180,7 +9946,7 @@ return array (
     'latitude' => 12.95,
     'longitude' => 76.08333,
   ),
-  1131 => 
+  1105 => 
   array (
     'id' => 132087,
     'name' => 'Hastinapur',
@@ -10189,7 +9955,7 @@ return array (
     'latitude' => 29.16042,
     'longitude' => 78.00762,
   ),
-  1132 => 
+  1106 => 
   array (
     'id' => 132088,
     'name' => 'Hatta',
@@ -10198,7 +9964,7 @@ return array (
     'latitude' => 24.13406,
     'longitude' => 79.60119,
   ),
-  1133 => 
+  1107 => 
   array (
     'id' => 132089,
     'name' => 'Haveri',
@@ -10207,7 +9973,7 @@ return array (
     'latitude' => 14.73732,
     'longitude' => 75.41062,
   ),
-  1134 => 
+  1108 => 
   array (
     'id' => 132090,
     'name' => 'Hayuliang',
@@ -10216,7 +9982,7 @@ return array (
     'latitude' => 28.07301,
     'longitude' => 96.54305,
   ),
-  1135 => 
+  1109 => 
   array (
     'id' => 132091,
     'name' => 'Hazaribagh',
@@ -10225,7 +9991,7 @@ return array (
     'latitude' => 23.99241,
     'longitude' => 85.36162,
   ),
-  1136 => 
+  1110 => 
   array (
     'id' => 132092,
     'name' => 'Hazaribag',
@@ -10234,7 +10000,7 @@ return array (
     'latitude' => 24.0,
     'longitude' => 85.25,
   ),
-  1137 => 
+  1111 => 
   array (
     'id' => 132093,
     'name' => 'Heggadadevankote',
@@ -10243,7 +10009,7 @@ return array (
     'latitude' => 12.08809,
     'longitude' => 76.32957,
   ),
-  1138 => 
+  1112 => 
   array (
     'id' => 132094,
     'name' => 'Hesla',
@@ -10252,7 +10018,7 @@ return array (
     'latitude' => 24.06313,
     'longitude' => 85.87905,
   ),
-  1139 => 
+  1113 => 
   array (
     'id' => 132095,
     'name' => 'Hilsa',
@@ -10261,7 +10027,7 @@ return array (
     'latitude' => 25.31642,
     'longitude' => 85.28234,
   ),
-  1140 => 
+  1114 => 
   array (
     'id' => 132096,
     'name' => 'Himatnagar',
@@ -10270,7 +10036,7 @@ return array (
     'latitude' => 23.59893,
     'longitude' => 72.96602,
   ),
-  1141 => 
+  1115 => 
   array (
     'id' => 132097,
     'name' => 'Hindaun',
@@ -10279,7 +10045,7 @@ return array (
     'latitude' => 26.73411,
     'longitude' => 77.03519,
   ),
-  1142 => 
+  1116 => 
   array (
     'id' => 132098,
     'name' => 'Hindoria',
@@ -10288,7 +10054,7 @@ return array (
     'latitude' => 23.90345,
     'longitude' => 79.56861,
   ),
-  1143 => 
+  1117 => 
   array (
     'id' => 132099,
     'name' => 'Hindupur',
@@ -10297,7 +10063,7 @@ return array (
     'latitude' => 13.82807,
     'longitude' => 77.49143,
   ),
-  1144 => 
+  1118 => 
   array (
     'id' => 132100,
     'name' => 'Hinganghat',
@@ -10306,7 +10072,7 @@ return array (
     'latitude' => 20.54875,
     'longitude' => 78.83978,
   ),
-  1145 => 
+  1119 => 
   array (
     'id' => 132101,
     'name' => 'Hingoli',
@@ -10315,7 +10081,7 @@ return array (
     'latitude' => 19.7,
     'longitude' => 77.15,
   ),
-  1146 => 
+  1120 => 
   array (
     'id' => 132102,
     'name' => 'Hinjilikatu',
@@ -10324,7 +10090,7 @@ return array (
     'latitude' => 19.48166,
     'longitude' => 84.74489,
   ),
-  1147 => 
+  1121 => 
   array (
     'id' => 132103,
     'name' => 'Hirekerur',
@@ -10333,7 +10099,7 @@ return array (
     'latitude' => 14.45506,
     'longitude' => 75.3952,
   ),
-  1148 => 
+  1122 => 
   array (
     'id' => 132104,
     'name' => 'Hiriyur',
@@ -10342,7 +10108,7 @@ return array (
     'latitude' => 13.94455,
     'longitude' => 76.61723,
   ),
-  1149 => 
+  1123 => 
   array (
     'id' => 132105,
     'name' => 'Hiranagar',
@@ -10351,7 +10117,7 @@ return array (
     'latitude' => 32.45493,
     'longitude' => 75.27187,
   ),
-  1150 => 
+  1124 => 
   array (
     'id' => 132106,
     'name' => 'Hisar',
@@ -10360,7 +10126,7 @@ return array (
     'latitude' => 29.15394,
     'longitude' => 75.72294,
   ),
-  1151 => 
+  1125 => 
   array (
     'id' => 132107,
     'name' => 'Hisua',
@@ -10369,7 +10135,7 @@ return array (
     'latitude' => 24.8336,
     'longitude' => 85.41729,
   ),
-  1152 => 
+  1126 => 
   array (
     'id' => 132109,
     'name' => 'Hodal',
@@ -10378,7 +10144,7 @@ return array (
     'latitude' => 27.89196,
     'longitude' => 77.36744,
   ),
-  1153 => 
+  1127 => 
   array (
     'id' => 132110,
     'name' => 'Hojai',
@@ -10387,7 +10153,7 @@ return array (
     'latitude' => 26.00281,
     'longitude' => 92.85605,
   ),
-  1154 => 
+  1128 => 
   array (
     'id' => 132111,
     'name' => 'Holalkere',
@@ -10396,7 +10162,7 @@ return array (
     'latitude' => 14.04295,
     'longitude' => 76.18496,
   ),
-  1155 => 
+  1129 => 
   array (
     'id' => 132112,
     'name' => 'Hole Narsipur',
@@ -10405,7 +10171,7 @@ return array (
     'latitude' => 12.78635,
     'longitude' => 76.24331,
   ),
-  1156 => 
+  1130 => 
   array (
     'id' => 132113,
     'name' => 'Homnabad',
@@ -10414,7 +10180,7 @@ return array (
     'latitude' => 17.77074,
     'longitude' => 77.12519,
   ),
-  1157 => 
+  1131 => 
   array (
     'id' => 132114,
     'name' => 'Honnali',
@@ -10423,7 +10189,7 @@ return array (
     'latitude' => 14.23976,
     'longitude' => 75.64507,
   ),
-  1158 => 
+  1132 => 
   array (
     'id' => 132115,
     'name' => 'Honavar',
@@ -10432,7 +10198,7 @@ return array (
     'latitude' => 14.28088,
     'longitude' => 74.44497,
   ),
-  1159 => 
+  1133 => 
   array (
     'id' => 132117,
     'name' => 'Hosanagara',
@@ -10441,7 +10207,7 @@ return array (
     'latitude' => 13.91387,
     'longitude' => 75.06503,
   ),
-  1160 => 
+  1134 => 
   array (
     'id' => 132118,
     'name' => 'Hosangadi',
@@ -10450,7 +10216,7 @@ return array (
     'latitude' => 13.69756,
     'longitude' => 74.95427,
   ),
-  1161 => 
+  1135 => 
   array (
     'id' => 132119,
     'name' => 'Hosdurga',
@@ -10459,7 +10225,7 @@ return array (
     'latitude' => 13.79631,
     'longitude' => 76.28408,
   ),
-  1162 => 
+  1136 => 
   array (
     'id' => 132120,
     'name' => 'Hoshangabad',
@@ -10468,7 +10234,7 @@ return array (
     'latitude' => 22.58827,
     'longitude' => 77.98887,
   ),
-  1163 => 
+  1137 => 
   array (
     'id' => 132122,
     'name' => 'Hoshiarpur',
@@ -10477,7 +10243,7 @@ return array (
     'latitude' => 31.53723,
     'longitude' => 75.91269,
   ),
-  1164 => 
+  1138 => 
   array (
     'id' => 132123,
     'name' => 'Hoskote',
@@ -10486,7 +10252,7 @@ return array (
     'latitude' => 13.0707,
     'longitude' => 77.79814,
   ),
-  1165 => 
+  1139 => 
   array (
     'id' => 132124,
     'name' => 'Hospet',
@@ -10495,7 +10261,7 @@ return array (
     'latitude' => 15.26954,
     'longitude' => 76.3871,
   ),
-  1166 => 
+  1140 => 
   array (
     'id' => 132125,
     'name' => 'Hosur',
@@ -10504,7 +10270,7 @@ return array (
     'latitude' => 12.73647,
     'longitude' => 77.83264,
   ),
-  1167 => 
+  1141 => 
   array (
     'id' => 132126,
     'name' => 'Howli',
@@ -10513,7 +10279,7 @@ return array (
     'latitude' => 26.42237,
     'longitude' => 90.98004,
   ),
-  1168 => 
+  1142 => 
   array (
     'id' => 132127,
     'name' => 'Hubballi',
@@ -10522,7 +10288,7 @@ return array (
     'latitude' => 15.34776,
     'longitude' => 75.13378,
   ),
-  1169 => 
+  1143 => 
   array (
     'id' => 132128,
     'name' => 'Hukeri',
@@ -10531,7 +10297,7 @@ return array (
     'latitude' => 16.23082,
     'longitude' => 74.60244,
   ),
-  1170 => 
+  1144 => 
   array (
     'id' => 132129,
     'name' => 'Hungund',
@@ -10540,7 +10306,7 @@ return array (
     'latitude' => 16.06213,
     'longitude' => 76.0586,
   ),
-  1171 => 
+  1145 => 
   array (
     'id' => 132130,
     'name' => 'Hunsur',
@@ -10549,7 +10315,7 @@ return array (
     'latitude' => 12.30359,
     'longitude' => 76.29275,
   ),
-  1172 => 
+  1146 => 
   array (
     'id' => 132131,
     'name' => 'Husainabad',
@@ -10558,7 +10324,7 @@ return array (
     'latitude' => 24.52849,
     'longitude' => 84.0,
   ),
-  1173 => 
+  1147 => 
   array (
     'id' => 132132,
     'name' => 'Hyderabad',
@@ -10567,7 +10333,7 @@ return array (
     'latitude' => 17.38405,
     'longitude' => 78.45636,
   ),
-  1174 => 
+  1148 => 
   array (
     'id' => 132134,
     'name' => 'Haflong',
@@ -10576,7 +10342,7 @@ return array (
     'latitude' => 25.16478,
     'longitude' => 93.01744,
   ),
-  1175 => 
+  1149 => 
   array (
     'id' => 132135,
     'name' => 'Hajan',
@@ -10585,7 +10351,7 @@ return array (
     'latitude' => 34.29895,
     'longitude' => 74.61681,
   ),
-  1176 => 
+  1150 => 
   array (
     'id' => 132136,
     'name' => 'Hajipur',
@@ -10594,7 +10360,7 @@ return array (
     'latitude' => 31.97714,
     'longitude' => 75.75438,
   ),
-  1177 => 
+  1151 => 
   array (
     'id' => 132137,
     'name' => 'Hajo',
@@ -10603,16 +10369,7 @@ return array (
     'latitude' => 26.2452,
     'longitude' => 91.52525,
   ),
-  1178 => 
-  array (
-    'id' => 132138,
-    'name' => 'Hajipur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.68544,
-    'longitude' => 85.20981,
-  ),
-  1179 => 
+  1152 => 
   array (
     'id' => 132139,
     'name' => 'Halol',
@@ -10621,7 +10378,7 @@ return array (
     'latitude' => 22.50321,
     'longitude' => 73.47242,
   ),
-  1180 => 
+  1153 => 
   array (
     'id' => 132140,
     'name' => 'Hangal',
@@ -10630,7 +10387,7 @@ return array (
     'latitude' => 14.76465,
     'longitude' => 75.1246,
   ),
-  1181 => 
+  1154 => 
   array (
     'id' => 132141,
     'name' => 'Hansi',
@@ -10639,7 +10396,7 @@ return array (
     'latitude' => 29.10239,
     'longitude' => 75.96253,
   ),
-  1182 => 
+  1155 => 
   array (
     'id' => 132142,
     'name' => 'Hapur',
@@ -10648,7 +10405,7 @@ return array (
     'latitude' => 28.72985,
     'longitude' => 77.78068,
   ),
-  1183 => 
+  1156 => 
   array (
     'id' => 132143,
     'name' => 'Harij',
@@ -10657,7 +10414,7 @@ return array (
     'latitude' => 23.69356,
     'longitude' => 71.907,
   ),
-  1184 => 
+  1157 => 
   array (
     'id' => 132144,
     'name' => 'Hathras',
@@ -10666,7 +10423,7 @@ return array (
     'latitude' => 27.59551,
     'longitude' => 78.05201,
   ),
-  1185 => 
+  1158 => 
   array (
     'id' => 132145,
     'name' => 'Hatod',
@@ -10675,7 +10432,7 @@ return array (
     'latitude' => 22.79378,
     'longitude' => 75.73928,
   ),
-  1186 => 
+  1159 => 
   array (
     'id' => 132146,
     'name' => 'Hata',
@@ -10684,7 +10441,7 @@ return array (
     'latitude' => 26.7412,
     'longitude' => 83.74526,
   ),
-  1187 => 
+  1160 => 
   array (
     'id' => 132148,
     'name' => 'Hirakud',
@@ -10693,7 +10450,7 @@ return array (
     'latitude' => 21.52502,
     'longitude' => 83.87275,
   ),
-  1188 => 
+  1161 => 
   array (
     'id' => 132149,
     'name' => 'Hirapur Hamesha',
@@ -10702,7 +10459,7 @@ return array (
     'latitude' => 21.55546,
     'longitude' => 79.78581,
   ),
-  1189 => 
+  1162 => 
   array (
     'id' => 132150,
     'name' => 'Ichalkaranji',
@@ -10711,7 +10468,7 @@ return array (
     'latitude' => 16.69117,
     'longitude' => 74.46054,
   ),
-  1190 => 
+  1163 => 
   array (
     'id' => 132151,
     'name' => 'Ichchapuram',
@@ -10720,7 +10477,7 @@ return array (
     'latitude' => 19.11393,
     'longitude' => 84.68721,
   ),
-  1191 => 
+  1164 => 
   array (
     'id' => 132152,
     'name' => 'Ichhawar',
@@ -10729,7 +10486,7 @@ return array (
     'latitude' => 23.02816,
     'longitude' => 77.01729,
   ),
-  1192 => 
+  1165 => 
   array (
     'id' => 132153,
     'name' => 'Idappadi',
@@ -10738,7 +10495,7 @@ return array (
     'latitude' => 11.58624,
     'longitude' => 77.83891,
   ),
-  1193 => 
+  1166 => 
   array (
     'id' => 132154,
     'name' => 'Idukki',
@@ -10747,7 +10504,7 @@ return array (
     'latitude' => 10.0,
     'longitude' => 77.0,
   ),
-  1194 => 
+  1167 => 
   array (
     'id' => 132155,
     'name' => 'Igatpuri',
@@ -10756,7 +10513,7 @@ return array (
     'latitude' => 19.69522,
     'longitude' => 73.5626,
   ),
-  1195 => 
+  1168 => 
   array (
     'id' => 132156,
     'name' => 'Iglas',
@@ -10765,7 +10522,7 @@ return array (
     'latitude' => 27.711,
     'longitude' => 77.93967,
   ),
-  1196 => 
+  1169 => 
   array (
     'id' => 132157,
     'name' => 'Ikauna',
@@ -10774,7 +10531,7 @@ return array (
     'latitude' => 27.53097,
     'longitude' => 81.96917,
   ),
-  1197 => 
+  1170 => 
   array (
     'id' => 132158,
     'name' => 'Iklehra',
@@ -10783,7 +10540,7 @@ return array (
     'latitude' => 23.14667,
     'longitude' => 76.39044,
   ),
-  1198 => 
+  1171 => 
   array (
     'id' => 132159,
     'name' => 'Ilampillai',
@@ -10792,7 +10549,7 @@ return array (
     'latitude' => 11.60659,
     'longitude' => 78.00676,
   ),
-  1199 => 
+  1172 => 
   array (
     'id' => 132160,
     'name' => 'Ilkal',
@@ -10801,7 +10558,7 @@ return array (
     'latitude' => 15.95923,
     'longitude' => 76.11351,
   ),
-  1200 => 
+  1173 => 
   array (
     'id' => 132161,
     'name' => 'Iluppur',
@@ -10810,7 +10567,7 @@ return array (
     'latitude' => 10.51347,
     'longitude' => 78.62357,
   ),
-  1201 => 
+  1174 => 
   array (
     'id' => 132162,
     'name' => 'Imphal East',
@@ -10819,7 +10576,7 @@ return array (
     'latitude' => 24.7911,
     'longitude' => 93.9348,
   ),
-  1202 => 
+  1175 => 
   array (
     'id' => 132163,
     'name' => 'Inda Chhoi',
@@ -10828,7 +10585,7 @@ return array (
     'latitude' => 29.64042,
     'longitude' => 75.79041,
   ),
-  1203 => 
+  1176 => 
   array (
     'id' => 132164,
     'name' => 'Indergarh',
@@ -10837,7 +10594,7 @@ return array (
     'latitude' => 26.93521,
     'longitude' => 79.6712,
   ),
-  1204 => 
+  1177 => 
   array (
     'id' => 132165,
     'name' => 'Indi',
@@ -10846,7 +10603,7 @@ return array (
     'latitude' => 17.17735,
     'longitude' => 75.9526,
   ),
-  1205 => 
+  1178 => 
   array (
     'id' => 132166,
     'name' => 'Indore',
@@ -10855,7 +10612,7 @@ return array (
     'latitude' => 22.66667,
     'longitude' => 75.75,
   ),
-  1206 => 
+  1179 => 
   array (
     'id' => 132167,
     'name' => 'Indri',
@@ -10864,7 +10621,7 @@ return array (
     'latitude' => 29.87999,
     'longitude' => 77.05972,
   ),
-  1207 => 
+  1180 => 
   array (
     'id' => 132168,
     'name' => 'Indapur',
@@ -10873,7 +10630,7 @@ return array (
     'latitude' => 18.3,
     'longitude' => 73.25,
   ),
-  1208 => 
+  1181 => 
   array (
     'id' => 132169,
     'name' => 'Injambakkam',
@@ -10882,7 +10639,7 @@ return array (
     'latitude' => 12.9162,
     'longitude' => 80.2488,
   ),
-  1209 => 
+  1182 => 
   array (
     'id' => 132170,
     'name' => 'Iringal',
@@ -10891,7 +10648,7 @@ return array (
     'latitude' => 11.55929,
     'longitude' => 75.61663,
   ),
-  1210 => 
+  1183 => 
   array (
     'id' => 132171,
     'name' => 'Irinjalakuda',
@@ -10900,7 +10657,7 @@ return array (
     'latitude' => 10.34238,
     'longitude' => 76.21124,
   ),
-  1211 => 
+  1184 => 
   array (
     'id' => 132172,
     'name' => 'Irugur',
@@ -10909,7 +10666,7 @@ return array (
     'latitude' => 11.01782,
     'longitude' => 77.06285,
   ),
-  1212 => 
+  1185 => 
   array (
     'id' => 132173,
     'name' => 'Islamnagar',
@@ -10918,7 +10675,7 @@ return array (
     'latitude' => 28.32896,
     'longitude' => 78.72524,
   ),
-  1213 => 
+  1186 => 
   array (
     'id' => 132174,
     'name' => 'Islampur',
@@ -10927,7 +10684,7 @@ return array (
     'latitude' => 25.14075,
     'longitude' => 85.20587,
   ),
-  1214 => 
+  1187 => 
   array (
     'id' => 132175,
     'name' => 'Isagarh',
@@ -10936,7 +10693,7 @@ return array (
     'latitude' => 24.83906,
     'longitude' => 77.88274,
   ),
-  1215 => 
+  1188 => 
   array (
     'id' => 132176,
     'name' => 'Itaunja',
@@ -10945,7 +10702,7 @@ return array (
     'latitude' => 27.08347,
     'longitude' => 80.89672,
   ),
-  1216 => 
+  1189 => 
   array (
     'id' => 132177,
     'name' => 'Itimadpur',
@@ -10954,7 +10711,7 @@ return array (
     'latitude' => 27.23541,
     'longitude' => 78.19829,
   ),
-  1217 => 
+  1190 => 
   array (
     'id' => 132178,
     'name' => 'Itanagar',
@@ -10963,7 +10720,7 @@ return array (
     'latitude' => 27.08694,
     'longitude' => 93.60987,
   ),
-  1218 => 
+  1191 => 
   array (
     'id' => 132179,
     'name' => 'Itarsi',
@@ -10972,7 +10729,7 @@ return array (
     'latitude' => 22.61477,
     'longitude' => 77.76222,
   ),
-  1219 => 
+  1192 => 
   array (
     'id' => 132180,
     'name' => 'Iawar',
@@ -10981,7 +10738,7 @@ return array (
     'latitude' => 23.00943,
     'longitude' => 76.5007,
   ),
-  1220 => 
+  1193 => 
   array (
     'id' => 132181,
     'name' => 'Jabalpur',
@@ -10990,7 +10747,7 @@ return array (
     'latitude' => 23.16,
     'longitude' => 79.95,
   ),
-  1221 => 
+  1194 => 
   array (
     'id' => 132182,
     'name' => 'Jagalur',
@@ -10999,7 +10756,7 @@ return array (
     'latitude' => 14.51957,
     'longitude' => 76.33915,
   ),
-  1222 => 
+  1195 => 
   array (
     'id' => 132183,
     'name' => 'Jagannathpur',
@@ -11008,7 +10765,7 @@ return array (
     'latitude' => 22.22115,
     'longitude' => 85.63917,
   ),
-  1223 => 
+  1196 => 
   array (
     'id' => 132185,
     'name' => 'Jagatsinghpur',
@@ -11017,7 +10774,7 @@ return array (
     'latitude' => 20.2,
     'longitude' => 86.3,
   ),
-  1224 => 
+  1197 => 
   array (
     'id' => 132186,
     'name' => 'Jagdalpur',
@@ -11026,7 +10783,7 @@ return array (
     'latitude' => 19.08136,
     'longitude' => 82.02131,
   ),
-  1225 => 
+  1198 => 
   array (
     'id' => 132187,
     'name' => 'Jagdishpur',
@@ -11035,7 +10792,7 @@ return array (
     'latitude' => 26.74967,
     'longitude' => 80.5451,
   ),
-  1226 => 
+  1199 => 
   array (
     'id' => 132188,
     'name' => 'Jagdispur',
@@ -11044,7 +10801,7 @@ return array (
     'latitude' => 25.46811,
     'longitude' => 84.41939,
   ),
-  1227 => 
+  1200 => 
   array (
     'id' => 132189,
     'name' => 'Jaggayyapeta',
@@ -11053,7 +10810,7 @@ return array (
     'latitude' => 16.8938,
     'longitude' => 80.09807,
   ),
-  1228 => 
+  1201 => 
   array (
     'id' => 132191,
     'name' => 'Jagnair',
@@ -11062,7 +10819,7 @@ return array (
     'latitude' => 26.8636,
     'longitude' => 77.60231,
   ),
-  1229 => 
+  1202 => 
   array (
     'id' => 132192,
     'name' => 'Jagraon',
@@ -11071,7 +10828,7 @@ return array (
     'latitude' => 30.78783,
     'longitude' => 75.47391,
   ),
-  1230 => 
+  1203 => 
   array (
     'id' => 132193,
     'name' => 'Jagtial',
@@ -11080,7 +10837,7 @@ return array (
     'latitude' => 18.79473,
     'longitude' => 78.91661,
   ),
-  1231 => 
+  1204 => 
   array (
     'id' => 132194,
     'name' => 'Jagadhri',
@@ -11089,7 +10846,7 @@ return array (
     'latitude' => 30.16719,
     'longitude' => 77.30367,
   ),
-  1232 => 
+  1205 => 
   array (
     'id' => 132195,
     'name' => 'Jahangirpur',
@@ -11098,7 +10855,7 @@ return array (
     'latitude' => 28.17919,
     'longitude' => 77.70501,
   ),
-  1233 => 
+  1206 => 
   array (
     'id' => 132196,
     'name' => 'Jahangirabad',
@@ -11107,7 +10864,7 @@ return array (
     'latitude' => 28.40549,
     'longitude' => 78.10588,
   ),
-  1234 => 
+  1207 => 
   array (
     'id' => 132197,
     'name' => 'Jahanabad',
@@ -11116,16 +10873,7 @@ return array (
     'latitude' => 28.63025,
     'longitude' => 79.71818,
   ),
-  1235 => 
-  array (
-    'id' => 132198,
-    'name' => 'Jahanabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.21368,
-    'longitude' => 84.9871,
-  ),
-  1236 => 
+  1208 => 
   array (
     'id' => 132199,
     'name' => 'Jahazpur',
@@ -11134,7 +10882,7 @@ return array (
     'latitude' => 25.61994,
     'longitude' => 75.27609,
   ),
-  1237 => 
+  1209 => 
   array (
     'id' => 132200,
     'name' => 'Jainpur',
@@ -11143,7 +10891,7 @@ return array (
     'latitude' => 26.15389,
     'longitude' => 83.33505,
   ),
-  1238 => 
+  1210 => 
   array (
     'id' => 132201,
     'name' => 'Jaipur',
@@ -11152,7 +10900,7 @@ return array (
     'latitude' => 27.0,
     'longitude' => 76.0,
   ),
-  1239 => 
+  1211 => 
   array (
     'id' => 132202,
     'name' => 'Jais',
@@ -11161,7 +10909,7 @@ return array (
     'latitude' => 26.2649,
     'longitude' => 81.54855,
   ),
-  1240 => 
+  1212 => 
   array (
     'id' => 132203,
     'name' => 'Jaisalmer',
@@ -11170,7 +10918,7 @@ return array (
     'latitude' => 26.99382,
     'longitude' => 71.00889,
   ),
-  1241 => 
+  1213 => 
   array (
     'id' => 132204,
     'name' => 'Jaisinghnagar',
@@ -11179,7 +10927,7 @@ return array (
     'latitude' => 23.68582,
     'longitude' => 81.39085,
   ),
-  1242 => 
+  1214 => 
   array (
     'id' => 132205,
     'name' => 'Jaisingpur',
@@ -11188,7 +10936,7 @@ return array (
     'latitude' => 16.77639,
     'longitude' => 74.55361,
   ),
-  1243 => 
+  1215 => 
   array (
     'id' => 132206,
     'name' => 'Jaithari',
@@ -11197,7 +10945,7 @@ return array (
     'latitude' => 23.20856,
     'longitude' => 78.61487,
   ),
-  1244 => 
+  1216 => 
   array (
     'id' => 132207,
     'name' => 'Jaito',
@@ -11206,7 +10954,7 @@ return array (
     'latitude' => 30.45126,
     'longitude' => 74.89189,
   ),
-  1245 => 
+  1217 => 
   array (
     'id' => 132208,
     'name' => 'Jaitaran',
@@ -11215,7 +10963,7 @@ return array (
     'latitude' => 26.20446,
     'longitude' => 73.93676,
   ),
-  1246 => 
+  1218 => 
   array (
     'id' => 132209,
     'name' => 'Jajpur',
@@ -11224,7 +10972,7 @@ return array (
     'latitude' => 20.84149,
     'longitude' => 86.31237,
   ),
-  1247 => 
+  1219 => 
   array (
     'id' => 132210,
     'name' => 'Jalakandapuram',
@@ -11233,7 +10981,7 @@ return array (
     'latitude' => 11.69779,
     'longitude' => 77.87298,
   ),
-  1248 => 
+  1220 => 
   array (
     'id' => 132211,
     'name' => 'Jalandhar',
@@ -11242,7 +10990,7 @@ return array (
     'latitude' => 31.41667,
     'longitude' => 75.61667,
   ),
-  1249 => 
+  1221 => 
   array (
     'id' => 132212,
     'name' => 'Jalesar',
@@ -11251,7 +10999,7 @@ return array (
     'latitude' => 27.47315,
     'longitude' => 78.3031,
   ),
-  1250 => 
+  1222 => 
   array (
     'id' => 132213,
     'name' => 'Jaleshwar',
@@ -11260,7 +11008,7 @@ return array (
     'latitude' => 21.80176,
     'longitude' => 87.2225,
   ),
-  1251 => 
+  1223 => 
   array (
     'id' => 132214,
     'name' => 'Jalgaon',
@@ -11269,7 +11017,7 @@ return array (
     'latitude' => 21.00292,
     'longitude' => 75.56602,
   ),
-  1252 => 
+  1224 => 
   array (
     'id' => 132215,
     'name' => 'Jalgaon Jamod',
@@ -11278,7 +11026,7 @@ return array (
     'latitude' => 21.05194,
     'longitude' => 76.53464,
   ),
-  1253 => 
+  1225 => 
   array (
     'id' => 132216,
     'name' => 'Jalna',
@@ -11287,7 +11035,7 @@ return array (
     'latitude' => 19.8,
     'longitude' => 75.9,
   ),
-  1254 => 
+  1226 => 
   array (
     'id' => 132217,
     'name' => 'Jalor',
@@ -11296,7 +11044,7 @@ return array (
     'latitude' => 25.34558,
     'longitude' => 72.61559,
   ),
-  1255 => 
+  1227 => 
   array (
     'id' => 132218,
     'name' => 'Jalore',
@@ -11305,7 +11053,7 @@ return array (
     'latitude' => 25.08,
     'longitude' => 72.29,
   ),
-  1256 => 
+  1228 => 
   array (
     'id' => 132219,
     'name' => 'Jalalpur',
@@ -11314,16 +11062,7 @@ return array (
     'latitude' => 20.94896,
     'longitude' => 72.89829,
   ),
-  1257 => 
-  array (
-    'id' => 132220,
-    'name' => 'Jalalpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.31162,
-    'longitude' => 82.73859,
-  ),
-  1258 => 
+  1229 => 
   array (
     'id' => 132221,
     'name' => 'Jalalabad',
@@ -11332,16 +11071,7 @@ return array (
     'latitude' => 29.61853,
     'longitude' => 77.43908,
   ),
-  1259 => 
-  array (
-    'id' => 132223,
-    'name' => 'Jalalabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.60622,
-    'longitude' => 74.25727,
-  ),
-  1260 => 
+  1230 => 
   array (
     'id' => 132224,
     'name' => 'Jalali',
@@ -11350,7 +11080,7 @@ return array (
     'latitude' => 27.8668,
     'longitude' => 78.25267,
   ),
-  1261 => 
+  1231 => 
   array (
     'id' => 132225,
     'name' => 'Jalarpet',
@@ -11359,7 +11089,7 @@ return array (
     'latitude' => 12.57025,
     'longitude' => 78.57318,
   ),
-  1262 => 
+  1232 => 
   array (
     'id' => 132226,
     'name' => 'Jambusar',
@@ -11368,7 +11098,7 @@ return array (
     'latitude' => 22.05236,
     'longitude' => 72.80074,
   ),
-  1263 => 
+  1233 => 
   array (
     'id' => 132227,
     'name' => 'Jamkhandi',
@@ -11377,7 +11107,7 @@ return array (
     'latitude' => 16.50461,
     'longitude' => 75.29146,
   ),
-  1264 => 
+  1234 => 
   array (
     'id' => 132228,
     'name' => 'Jammalamadugu',
@@ -11386,7 +11116,7 @@ return array (
     'latitude' => 14.84677,
     'longitude' => 78.38314,
   ),
-  1265 => 
+  1235 => 
   array (
     'id' => 132229,
     'name' => 'Jammu',
@@ -11395,7 +11125,7 @@ return array (
     'latitude' => 32.75,
     'longitude' => 74.83333,
   ),
-  1266 => 
+  1236 => 
   array (
     'id' => 132230,
     'name' => 'Jamnagar',
@@ -11404,7 +11134,7 @@ return array (
     'latitude' => 22.47292,
     'longitude' => 70.06673,
   ),
-  1267 => 
+  1237 => 
   array (
     'id' => 132231,
     'name' => 'Jamshedpur',
@@ -11413,7 +11143,7 @@ return array (
     'latitude' => 22.80278,
     'longitude' => 86.18545,
   ),
-  1268 => 
+  1238 => 
   array (
     'id' => 132232,
     'name' => 'Jamtara',
@@ -11422,7 +11152,7 @@ return array (
     'latitude' => 24.0,
     'longitude' => 86.85,
   ),
-  1269 => 
+  1239 => 
   array (
     'id' => 132233,
     'name' => 'Jamui',
@@ -11431,7 +11161,7 @@ return array (
     'latitude' => 24.92082,
     'longitude' => 86.17538,
   ),
-  1270 => 
+  1240 => 
   array (
     'id' => 132234,
     'name' => 'Jamalpur',
@@ -11440,7 +11170,7 @@ return array (
     'latitude' => 25.31258,
     'longitude' => 86.48888,
   ),
-  1271 => 
+  1241 => 
   array (
     'id' => 132236,
     'name' => 'Jandiala',
@@ -11449,7 +11179,7 @@ return array (
     'latitude' => 31.1593,
     'longitude' => 75.61755,
   ),
-  1272 => 
+  1242 => 
   array (
     'id' => 132237,
     'name' => 'Jandiala Guru',
@@ -11458,7 +11188,7 @@ return array (
     'latitude' => 31.56198,
     'longitude' => 75.0277,
   ),
-  1273 => 
+  1243 => 
   array (
     'id' => 132238,
     'name' => 'Jangaon',
@@ -11467,7 +11197,7 @@ return array (
     'latitude' => 17.72602,
     'longitude' => 79.15236,
   ),
-  1274 => 
+  1244 => 
   array (
     'id' => 132240,
     'name' => 'Janjgir-Champa',
@@ -11476,7 +11206,7 @@ return array (
     'latitude' => 21.9,
     'longitude' => 82.7,
   ),
-  1275 => 
+  1245 => 
   array (
     'id' => 132241,
     'name' => 'Jaora',
@@ -11485,7 +11215,7 @@ return array (
     'latitude' => 23.63783,
     'longitude' => 75.12711,
   ),
-  1276 => 
+  1246 => 
   array (
     'id' => 132242,
     'name' => 'Jarwal',
@@ -11494,7 +11224,7 @@ return array (
     'latitude' => 27.1629,
     'longitude' => 81.54179,
   ),
-  1277 => 
+  1247 => 
   array (
     'id' => 132243,
     'name' => 'Jasdan',
@@ -11503,7 +11233,7 @@ return array (
     'latitude' => 22.03709,
     'longitude' => 71.20794,
   ),
-  1278 => 
+  1248 => 
   array (
     'id' => 132244,
     'name' => 'Jashpur',
@@ -11512,7 +11242,7 @@ return array (
     'latitude' => 22.78495,
     'longitude' => 83.84573,
   ),
-  1279 => 
+  1249 => 
   array (
     'id' => 132245,
     'name' => 'Jashpurnagar',
@@ -11521,7 +11251,7 @@ return array (
     'latitude' => 22.88783,
     'longitude' => 84.13864,
   ),
-  1280 => 
+  1250 => 
   array (
     'id' => 132246,
     'name' => 'Jasidih',
@@ -11530,7 +11260,7 @@ return array (
     'latitude' => 24.51379,
     'longitude' => 86.64576,
   ),
-  1281 => 
+  1251 => 
   array (
     'id' => 132247,
     'name' => 'Jaspur',
@@ -11539,7 +11269,7 @@ return array (
     'latitude' => 29.27919,
     'longitude' => 78.82798,
   ),
-  1282 => 
+  1252 => 
   array (
     'id' => 132248,
     'name' => 'Jasrana',
@@ -11548,7 +11278,7 @@ return array (
     'latitude' => 27.23587,
     'longitude' => 78.65244,
   ),
-  1283 => 
+  1253 => 
   array (
     'id' => 132249,
     'name' => 'Jaswantnagar',
@@ -11557,7 +11287,7 @@ return array (
     'latitude' => 26.88271,
     'longitude' => 78.90256,
   ),
-  1284 => 
+  1254 => 
   array (
     'id' => 132250,
     'name' => 'Jatani',
@@ -11566,7 +11296,7 @@ return array (
     'latitude' => 20.15975,
     'longitude' => 85.70742,
   ),
-  1285 => 
+  1255 => 
   array (
     'id' => 132251,
     'name' => 'Jatara',
@@ -11575,7 +11305,7 @@ return array (
     'latitude' => 25.00964,
     'longitude' => 79.04869,
   ),
-  1286 => 
+  1256 => 
   array (
     'id' => 132252,
     'name' => 'Jaunpur',
@@ -11584,7 +11314,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 82.75,
   ),
-  1287 => 
+  1257 => 
   array (
     'id' => 132253,
     'name' => 'Jaurian',
@@ -11593,7 +11323,7 @@ return array (
     'latitude' => 32.83255,
     'longitude' => 74.57612,
   ),
-  1288 => 
+  1258 => 
   array (
     'id' => 132254,
     'name' => 'Jawhar',
@@ -11602,7 +11332,7 @@ return array (
     'latitude' => 19.91213,
     'longitude' => 73.22679,
   ),
-  1289 => 
+  1259 => 
   array (
     'id' => 132255,
     'name' => 'Jawala Mukhi',
@@ -11611,7 +11341,7 @@ return array (
     'latitude' => 31.87456,
     'longitude' => 76.32013,
   ),
-  1290 => 
+  1260 => 
   array (
     'id' => 132256,
     'name' => 'Jayamkondacholapuram',
@@ -11620,7 +11350,7 @@ return array (
     'latitude' => 11.21266,
     'longitude' => 79.36369,
   ),
-  1291 => 
+  1261 => 
   array (
     'id' => 132257,
     'name' => 'Jayashankar Bhupalapally',
@@ -11629,7 +11359,7 @@ return array (
     'latitude' => 18.19678,
     'longitude' => 79.93976,
   ),
-  1292 => 
+  1262 => 
   array (
     'id' => 132258,
     'name' => 'Jaynagar',
@@ -11638,7 +11368,7 @@ return array (
     'latitude' => 26.59048,
     'longitude' => 86.13791,
   ),
-  1293 => 
+  1263 => 
   array (
     'id' => 132259,
     'name' => 'Jehanabad',
@@ -11647,7 +11377,7 @@ return array (
     'latitude' => 25.20701,
     'longitude' => 84.99573,
   ),
-  1294 => 
+  1264 => 
   array (
     'id' => 132260,
     'name' => 'Jejuri',
@@ -11656,7 +11386,7 @@ return array (
     'latitude' => 18.27658,
     'longitude' => 74.16008,
   ),
-  1295 => 
+  1265 => 
   array (
     'id' => 132261,
     'name' => 'Jetalsar',
@@ -11665,7 +11395,7 @@ return array (
     'latitude' => 21.70891,
     'longitude' => 70.57695,
   ),
-  1296 => 
+  1266 => 
   array (
     'id' => 132262,
     'name' => 'Jetpur',
@@ -11674,7 +11404,7 @@ return array (
     'latitude' => 21.75482,
     'longitude' => 70.62347,
   ),
-  1297 => 
+  1267 => 
   array (
     'id' => 132263,
     'name' => 'Jevargi',
@@ -11683,7 +11413,7 @@ return array (
     'latitude' => 17.01394,
     'longitude' => 76.77317,
   ),
-  1298 => 
+  1268 => 
   array (
     'id' => 132264,
     'name' => 'Jewar',
@@ -11692,7 +11422,7 @@ return array (
     'latitude' => 28.122,
     'longitude' => 77.55734,
   ),
-  1299 => 
+  1269 => 
   array (
     'id' => 132265,
     'name' => 'Jeypore',
@@ -11701,7 +11431,7 @@ return array (
     'latitude' => 18.8563,
     'longitude' => 82.5716,
   ),
-  1300 => 
+  1270 => 
   array (
     'id' => 132266,
     'name' => 'Jhajjar',
@@ -11710,7 +11440,7 @@ return array (
     'latitude' => 28.6063,
     'longitude' => 76.6565,
   ),
-  1301 => 
+  1271 => 
   array (
     'id' => 132267,
     'name' => 'Jhanjharpur',
@@ -11719,7 +11449,7 @@ return array (
     'latitude' => 26.26467,
     'longitude' => 86.27993,
   ),
-  1302 => 
+  1272 => 
   array (
     'id' => 132268,
     'name' => 'Jharia',
@@ -11728,7 +11458,7 @@ return array (
     'latitude' => 23.74079,
     'longitude' => 86.41456,
   ),
-  1303 => 
+  1273 => 
   array (
     'id' => 132269,
     'name' => 'Jharsuguda',
@@ -11737,7 +11467,7 @@ return array (
     'latitude' => 21.85531,
     'longitude' => 84.00698,
   ),
-  1304 => 
+  1274 => 
   array (
     'id' => 132270,
     'name' => 'Jharsuguda District',
@@ -11746,7 +11476,7 @@ return array (
     'latitude' => 21.85,
     'longitude' => 84.0,
   ),
-  1305 => 
+  1275 => 
   array (
     'id' => 132271,
     'name' => 'Jhinjhana',
@@ -11755,7 +11485,7 @@ return array (
     'latitude' => 29.52118,
     'longitude' => 77.2247,
   ),
-  1306 => 
+  1276 => 
   array (
     'id' => 132272,
     'name' => 'Jhulasan',
@@ -11764,7 +11494,7 @@ return array (
     'latitude' => 23.3286,
     'longitude' => 72.47314,
   ),
-  1307 => 
+  1277 => 
   array (
     'id' => 132273,
     'name' => 'Jhunjhunun',
@@ -11773,7 +11503,7 @@ return array (
     'latitude' => 28.12559,
     'longitude' => 75.39797,
   ),
-  1308 => 
+  1278 => 
   array (
     'id' => 132274,
     'name' => 'Jha-Jha',
@@ -11782,7 +11512,7 @@ return array (
     'latitude' => 24.77107,
     'longitude' => 86.37888,
   ),
-  1309 => 
+  1279 => 
   array (
     'id' => 132275,
     'name' => 'Jhabua',
@@ -11791,7 +11521,7 @@ return array (
     'latitude' => 22.76772,
     'longitude' => 74.59087,
   ),
-  1310 => 
+  1280 => 
   array (
     'id' => 132276,
     'name' => 'Jhalrapatan',
@@ -11800,7 +11530,7 @@ return array (
     'latitude' => 24.54205,
     'longitude' => 76.17242,
   ),
-  1311 => 
+  1281 => 
   array (
     'id' => 132277,
     'name' => 'Jhalu',
@@ -11809,7 +11539,7 @@ return array (
     'latitude' => 29.33609,
     'longitude' => 78.22608,
   ),
-  1312 => 
+  1282 => 
   array (
     'id' => 132278,
     'name' => 'Jhalawar',
@@ -11818,7 +11548,7 @@ return array (
     'latitude' => 24.59633,
     'longitude' => 76.16499,
   ),
-  1313 => 
+  1283 => 
   array (
     'id' => 132279,
     'name' => 'Jhansi',
@@ -11827,7 +11557,7 @@ return array (
     'latitude' => 25.5,
     'longitude' => 78.5,
   ),
-  1314 => 
+  1284 => 
   array (
     'id' => 132280,
     'name' => 'Jhinjhak',
@@ -11836,7 +11566,7 @@ return array (
     'latitude' => 26.56093,
     'longitude' => 79.73423,
   ),
-  1315 => 
+  1285 => 
   array (
     'id' => 132281,
     'name' => 'Jhusi',
@@ -11845,7 +11575,7 @@ return array (
     'latitude' => 25.43745,
     'longitude' => 81.9055,
   ),
-  1316 => 
+  1286 => 
   array (
     'id' => 132282,
     'name' => 'Jintur',
@@ -11854,7 +11584,7 @@ return array (
     'latitude' => 19.61186,
     'longitude' => 76.6874,
   ),
-  1317 => 
+  1287 => 
   array (
     'id' => 132283,
     'name' => 'Jobat',
@@ -11863,7 +11593,7 @@ return array (
     'latitude' => 22.41599,
     'longitude' => 74.56828,
   ),
-  1318 => 
+  1288 => 
   array (
     'id' => 132284,
     'name' => 'Jobner',
@@ -11872,7 +11602,7 @@ return array (
     'latitude' => 26.97257,
     'longitude' => 75.38752,
   ),
-  1319 => 
+  1289 => 
   array (
     'id' => 132285,
     'name' => 'Jodhpur',
@@ -11881,16 +11611,7 @@ return array (
     'latitude' => 21.90174,
     'longitude' => 70.0327,
   ),
-  1320 => 
-  array (
-    'id' => 132286,
-    'name' => 'Jodhpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.75,
-    'longitude' => 72.75,
-  ),
-  1321 => 
+  1290 => 
   array (
     'id' => 132287,
     'name' => 'Jodiya Bandar',
@@ -11899,7 +11620,7 @@ return array (
     'latitude' => 22.71667,
     'longitude' => 70.28333,
   ),
-  1322 => 
+  1291 => 
   array (
     'id' => 132288,
     'name' => 'Jogbani',
@@ -11908,7 +11629,7 @@ return array (
     'latitude' => 26.39905,
     'longitude' => 87.26525,
   ),
-  1323 => 
+  1292 => 
   array (
     'id' => 132289,
     'name' => 'Jogindarnagar',
@@ -11917,7 +11638,7 @@ return array (
     'latitude' => 31.98727,
     'longitude' => 76.78906,
   ),
-  1324 => 
+  1293 => 
   array (
     'id' => 132290,
     'name' => 'Jogulamba Gadwal',
@@ -11926,7 +11647,7 @@ return array (
     'latitude' => 16.23401,
     'longitude' => 77.80564,
   ),
-  1325 => 
+  1294 => 
   array (
     'id' => 132291,
     'name' => 'Jogighopa',
@@ -11935,7 +11656,7 @@ return array (
     'latitude' => 26.22646,
     'longitude' => 90.57247,
   ),
-  1326 => 
+  1295 => 
   array (
     'id' => 132293,
     'name' => 'Jorethang',
@@ -11944,7 +11665,7 @@ return array (
     'latitude' => 27.10696,
     'longitude' => 88.32332,
   ),
-  1327 => 
+  1296 => 
   array (
     'id' => 132294,
     'name' => 'Jorhat',
@@ -11953,7 +11674,7 @@ return array (
     'latitude' => 26.8,
     'longitude' => 94.26,
   ),
-  1328 => 
+  1297 => 
   array (
     'id' => 132296,
     'name' => 'Joshimath',
@@ -11962,7 +11683,7 @@ return array (
     'latitude' => 30.55543,
     'longitude' => 79.56436,
   ),
-  1329 => 
+  1298 => 
   array (
     'id' => 132297,
     'name' => 'Jua',
@@ -11971,7 +11692,7 @@ return array (
     'latitude' => 15.5307,
     'longitude' => 73.95047,
   ),
-  1330 => 
+  1299 => 
   array (
     'id' => 132298,
     'name' => 'Jubbal',
@@ -11980,7 +11701,7 @@ return array (
     'latitude' => 31.10923,
     'longitude' => 77.65085,
   ),
-  1331 => 
+  1300 => 
   array (
     'id' => 132299,
     'name' => 'Jugsalai',
@@ -11989,7 +11710,7 @@ return array (
     'latitude' => 22.77668,
     'longitude' => 86.18351,
   ),
-  1332 => 
+  1301 => 
   array (
     'id' => 132300,
     'name' => 'Jumri Tilaiya',
@@ -11998,7 +11719,7 @@ return array (
     'latitude' => 24.4349,
     'longitude' => 85.52951,
   ),
-  1333 => 
+  1302 => 
   array (
     'id' => 132301,
     'name' => 'Junnar',
@@ -12007,7 +11728,7 @@ return array (
     'latitude' => 19.20815,
     'longitude' => 73.8752,
   ),
-  1334 => 
+  1303 => 
   array (
     'id' => 132302,
     'name' => 'Jutogh',
@@ -12016,7 +11737,7 @@ return array (
     'latitude' => 31.1,
     'longitude' => 77.11667,
   ),
-  1335 => 
+  1304 => 
   array (
     'id' => 132303,
     'name' => 'Jyotiba Phule Nagar',
@@ -12025,7 +11746,7 @@ return array (
     'latitude' => 28.7716,
     'longitude' => 78.33871,
   ),
-  1336 => 
+  1305 => 
   array (
     'id' => 132305,
     'name' => 'Jakhal',
@@ -12034,7 +11755,7 @@ return array (
     'latitude' => 29.79627,
     'longitude' => 75.82392,
   ),
-  1337 => 
+  1306 => 
   array (
     'id' => 132306,
     'name' => 'Jalaun',
@@ -12043,7 +11764,7 @@ return array (
     'latitude' => 26.0,
     'longitude' => 79.5,
   ),
-  1338 => 
+  1307 => 
   array (
     'id' => 132308,
     'name' => 'Jamadoba',
@@ -12052,7 +11773,7 @@ return array (
     'latitude' => 23.71667,
     'longitude' => 86.4,
   ),
-  1339 => 
+  1308 => 
   array (
     'id' => 132309,
     'name' => 'Jamai',
@@ -12061,7 +11782,7 @@ return array (
     'latitude' => 22.19644,
     'longitude' => 78.59191,
   ),
-  1340 => 
+  1309 => 
   array (
     'id' => 132312,
     'name' => 'Janjgir',
@@ -12070,7 +11791,7 @@ return array (
     'latitude' => 22.00922,
     'longitude' => 82.5778,
   ),
-  1341 => 
+  1310 => 
   array (
     'id' => 132313,
     'name' => 'Jansath',
@@ -12079,7 +11800,7 @@ return array (
     'latitude' => 29.32502,
     'longitude' => 77.85044,
   ),
-  1342 => 
+  1311 => 
   array (
     'id' => 132314,
     'name' => 'Jawad',
@@ -12088,7 +11809,7 @@ return array (
     'latitude' => 24.59916,
     'longitude' => 74.86261,
   ),
-  1343 => 
+  1312 => 
   array (
     'id' => 132315,
     'name' => 'Jind',
@@ -12097,7 +11818,7 @@ return array (
     'latitude' => 29.31577,
     'longitude' => 76.31502,
   ),
-  1344 => 
+  1313 => 
   array (
     'id' => 132316,
     'name' => 'Jiran',
@@ -12106,7 +11827,7 @@ return array (
     'latitude' => 24.30871,
     'longitude' => 74.89087,
   ),
-  1345 => 
+  1314 => 
   array (
     'id' => 132317,
     'name' => 'Junagadh',
@@ -12115,7 +11836,7 @@ return array (
     'latitude' => 21.25,
     'longitude' => 70.33333,
   ),
-  1346 => 
+  1315 => 
   array (
     'id' => 132318,
     'name' => 'Junagarh',
@@ -12124,7 +11845,7 @@ return array (
     'latitude' => 19.85993,
     'longitude' => 82.93385,
   ),
-  1347 => 
+  1316 => 
   array (
     'id' => 132319,
     'name' => 'Kabeerdham',
@@ -12133,7 +11854,7 @@ return array (
     'latitude' => 22.1,
     'longitude' => 81.2,
   ),
-  1348 => 
+  1317 => 
   array (
     'id' => 132320,
     'name' => 'Kabrai',
@@ -12142,7 +11863,7 @@ return array (
     'latitude' => 25.40281,
     'longitude' => 79.9997,
   ),
-  1349 => 
+  1318 => 
   array (
     'id' => 132321,
     'name' => 'Kachchh',
@@ -12151,7 +11872,7 @@ return array (
     'latitude' => 23.58333,
     'longitude' => 70.0,
   ),
-  1350 => 
+  1319 => 
   array (
     'id' => 132322,
     'name' => 'Kachhwa',
@@ -12160,7 +11881,7 @@ return array (
     'latitude' => 25.20615,
     'longitude' => 82.71442,
   ),
-  1351 => 
+  1320 => 
   array (
     'id' => 132323,
     'name' => 'Kadakkavoor',
@@ -12169,7 +11890,7 @@ return array (
     'latitude' => 8.67921,
     'longitude' => 76.76714,
   ),
-  1352 => 
+  1321 => 
   array (
     'id' => 132324,
     'name' => 'Kadambur',
@@ -12178,7 +11899,7 @@ return array (
     'latitude' => 8.99739,
     'longitude' => 77.86191,
   ),
-  1353 => 
+  1322 => 
   array (
     'id' => 132325,
     'name' => 'Kadaura',
@@ -12187,7 +11908,7 @@ return array (
     'latitude' => 25.98537,
     'longitude' => 79.83842,
   ),
-  1354 => 
+  1323 => 
   array (
     'id' => 132326,
     'name' => 'Kadayanallur',
@@ -12196,7 +11917,7 @@ return array (
     'latitude' => 9.07277,
     'longitude' => 77.34152,
   ),
-  1355 => 
+  1324 => 
   array (
     'id' => 132327,
     'name' => 'Kadi',
@@ -12205,7 +11926,7 @@ return array (
     'latitude' => 23.29908,
     'longitude' => 72.33362,
   ),
-  1356 => 
+  1325 => 
   array (
     'id' => 132328,
     'name' => 'Kadiri',
@@ -12214,7 +11935,7 @@ return array (
     'latitude' => 14.11168,
     'longitude' => 78.15982,
   ),
-  1357 => 
+  1326 => 
   array (
     'id' => 132329,
     'name' => 'Kadod',
@@ -12223,7 +11944,7 @@ return array (
     'latitude' => 21.21717,
     'longitude' => 73.21972,
   ),
-  1358 => 
+  1327 => 
   array (
     'id' => 132330,
     'name' => 'Kadur',
@@ -12232,7 +11953,7 @@ return array (
     'latitude' => 13.55285,
     'longitude' => 76.01164,
   ),
-  1359 => 
+  1328 => 
   array (
     'id' => 132331,
     'name' => 'Kagaznagar',
@@ -12241,7 +11962,7 @@ return array (
     'latitude' => 19.33159,
     'longitude' => 79.46605,
   ),
-  1360 => 
+  1329 => 
   array (
     'id' => 132332,
     'name' => 'Kaikalur',
@@ -12250,7 +11971,7 @@ return array (
     'latitude' => 16.55154,
     'longitude' => 81.214,
   ),
-  1361 => 
+  1330 => 
   array (
     'id' => 132333,
     'name' => 'Kailaras',
@@ -12259,7 +11980,7 @@ return array (
     'latitude' => 26.30498,
     'longitude' => 77.616,
   ),
-  1362 => 
+  1331 => 
   array (
     'id' => 132334,
     'name' => 'Kailashahar',
@@ -12268,7 +11989,7 @@ return array (
     'latitude' => 24.33199,
     'longitude' => 92.00391,
   ),
-  1363 => 
+  1332 => 
   array (
     'id' => 132335,
     'name' => 'Kaimganj',
@@ -12277,7 +11998,7 @@ return array (
     'latitude' => 27.55441,
     'longitude' => 79.33525,
   ),
-  1364 => 
+  1333 => 
   array (
     'id' => 132336,
     'name' => 'Kaimori',
@@ -12286,7 +12007,7 @@ return array (
     'latitude' => 23.38465,
     'longitude' => 79.7442,
   ),
-  1365 => 
+  1334 => 
   array (
     'id' => 132337,
     'name' => 'Kaimur District',
@@ -12295,7 +12016,7 @@ return array (
     'latitude' => 25.05077,
     'longitude' => 83.58261,
   ),
-  1366 => 
+  1335 => 
   array (
     'id' => 132338,
     'name' => 'Kaintragarh',
@@ -12304,7 +12025,7 @@ return array (
     'latitude' => 20.72115,
     'longitude' => 84.53514,
   ),
-  1367 => 
+  1336 => 
   array (
     'id' => 132339,
     'name' => 'Kairana',
@@ -12313,7 +12034,7 @@ return array (
     'latitude' => 29.39541,
     'longitude' => 77.2054,
   ),
-  1368 => 
+  1337 => 
   array (
     'id' => 132340,
     'name' => 'Kaithal',
@@ -12322,7 +12043,7 @@ return array (
     'latitude' => 29.80153,
     'longitude' => 76.39959,
   ),
-  1369 => 
+  1338 => 
   array (
     'id' => 132341,
     'name' => 'Kakching',
@@ -12331,7 +12052,7 @@ return array (
     'latitude' => 24.4982,
     'longitude' => 93.98126,
   ),
-  1370 => 
+  1339 => 
   array (
     'id' => 132342,
     'name' => 'Kakrala',
@@ -12340,7 +12061,7 @@ return array (
     'latitude' => 27.89269,
     'longitude' => 79.1945,
   ),
-  1371 => 
+  1340 => 
   array (
     'id' => 132343,
     'name' => 'Kalakkadu',
@@ -12349,7 +12070,7 @@ return array (
     'latitude' => 8.5138,
     'longitude' => 77.54944,
   ),
-  1372 => 
+  1341 => 
   array (
     'id' => 132344,
     'name' => 'Kalamassery',
@@ -12358,7 +12079,7 @@ return array (
     'latitude' => 10.0614,
     'longitude' => 76.32631,
   ),
-  1373 => 
+  1342 => 
   array (
     'id' => 132345,
     'name' => 'Kalamb',
@@ -12367,7 +12088,7 @@ return array (
     'latitude' => 19.04437,
     'longitude' => 73.95554,
   ),
-  1374 => 
+  1343 => 
   array (
     'id' => 132346,
     'name' => 'Kalamnuri',
@@ -12376,7 +12097,7 @@ return array (
     'latitude' => 19.67386,
     'longitude' => 77.31149,
   ),
-  1375 => 
+  1344 => 
   array (
     'id' => 132347,
     'name' => 'Kalanaur',
@@ -12385,7 +12106,7 @@ return array (
     'latitude' => 32.01227,
     'longitude' => 75.15063,
   ),
-  1376 => 
+  1345 => 
   array (
     'id' => 132348,
     'name' => 'Kalas',
@@ -12394,7 +12115,7 @@ return array (
     'latitude' => 18.17241,
     'longitude' => 74.79045,
   ),
-  1377 => 
+  1346 => 
   array (
     'id' => 132349,
     'name' => 'Kalavai',
@@ -12403,7 +12124,7 @@ return array (
     'latitude' => 12.77029,
     'longitude' => 79.41999,
   ),
-  1378 => 
+  1347 => 
   array (
     'id' => 132350,
     'name' => 'Kalavoor',
@@ -12412,7 +12133,7 @@ return array (
     'latitude' => 9.57046,
     'longitude' => 76.32756,
   ),
-  1379 => 
+  1348 => 
   array (
     'id' => 132351,
     'name' => 'Kalghatgi',
@@ -12421,7 +12142,7 @@ return array (
     'latitude' => 15.18315,
     'longitude' => 74.97099,
   ),
-  1380 => 
+  1349 => 
   array (
     'id' => 132352,
     'name' => 'Kallakkurichchi',
@@ -12430,7 +12151,7 @@ return array (
     'latitude' => 11.7404,
     'longitude' => 78.959,
   ),
-  1381 => 
+  1350 => 
   array (
     'id' => 132353,
     'name' => 'Kallidaikurichi',
@@ -12439,7 +12160,7 @@ return array (
     'latitude' => 8.68591,
     'longitude' => 77.46592,
   ),
-  1382 => 
+  1351 => 
   array (
     'id' => 132354,
     'name' => 'Kallupatti',
@@ -12448,7 +12169,7 @@ return array (
     'latitude' => 9.71667,
     'longitude' => 77.86667,
   ),
-  1383 => 
+  1352 => 
   array (
     'id' => 132355,
     'name' => 'Kalmeshwar',
@@ -12457,7 +12178,7 @@ return array (
     'latitude' => 21.23219,
     'longitude' => 78.91988,
   ),
-  1384 => 
+  1353 => 
   array (
     'id' => 132356,
     'name' => 'Kalpetta',
@@ -12466,7 +12187,7 @@ return array (
     'latitude' => 11.60871,
     'longitude' => 76.08343,
   ),
-  1385 => 
+  1354 => 
   array (
     'id' => 132357,
     'name' => 'Kalugumalai',
@@ -12475,7 +12196,7 @@ return array (
     'latitude' => 9.14941,
     'longitude' => 77.70569,
   ),
-  1386 => 
+  1355 => 
   array (
     'id' => 132358,
     'name' => 'Kalyandurg',
@@ -12484,7 +12205,7 @@ return array (
     'latitude' => 14.54519,
     'longitude' => 77.10552,
   ),
-  1387 => 
+  1356 => 
   array (
     'id' => 132359,
     'name' => 'Kalyan',
@@ -12493,16 +12214,7 @@ return array (
     'latitude' => 19.2437,
     'longitude' => 73.13554,
   ),
-  1388 => 
-  array (
-    'id' => 132360,
-    'name' => 'Kalanaur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.82823,
-    'longitude' => 76.3955,
-  ),
-  1389 => 
+  1357 => 
   array (
     'id' => 132361,
     'name' => 'Kamalganj',
@@ -12511,7 +12223,7 @@ return array (
     'latitude' => 27.26181,
     'longitude' => 79.63134,
   ),
-  1390 => 
+  1358 => 
   array (
     'id' => 132362,
     'name' => 'Kamalpur',
@@ -12520,7 +12232,7 @@ return array (
     'latitude' => 24.19593,
     'longitude' => 91.83438,
   ),
-  1391 => 
+  1359 => 
   array (
     'id' => 132363,
     'name' => 'Kamareddy',
@@ -12529,7 +12241,7 @@ return array (
     'latitude' => 18.32567,
     'longitude' => 78.33416,
   ),
-  1392 => 
+  1360 => 
   array (
     'id' => 132364,
     'name' => 'Kampil',
@@ -12538,7 +12250,7 @@ return array (
     'latitude' => 27.61268,
     'longitude' => 79.27687,
   ),
-  1393 => 
+  1361 => 
   array (
     'id' => 132365,
     'name' => 'Kampli',
@@ -12547,7 +12259,7 @@ return array (
     'latitude' => 15.40626,
     'longitude' => 76.60013,
   ),
-  1394 => 
+  1362 => 
   array (
     'id' => 132366,
     'name' => 'Kamrup Metropolitan',
@@ -12556,7 +12268,7 @@ return array (
     'latitude' => 26.05375,
     'longitude' => 92.00763,
   ),
-  1395 => 
+  1363 => 
   array (
     'id' => 132367,
     'name' => 'Kamuthi',
@@ -12565,7 +12277,7 @@ return array (
     'latitude' => 9.40732,
     'longitude' => 78.37337,
   ),
-  1396 => 
+  1364 => 
   array (
     'id' => 132368,
     'name' => 'Kanadukattan',
@@ -12574,7 +12286,7 @@ return array (
     'latitude' => 10.17209,
     'longitude' => 78.77935,
   ),
-  1397 => 
+  1365 => 
   array (
     'id' => 132369,
     'name' => 'Kancheepuram',
@@ -12583,7 +12295,7 @@ return array (
     'latitude' => 12.67,
     'longitude' => 79.99,
   ),
-  1398 => 
+  1366 => 
   array (
     'id' => 132370,
     'name' => 'Kanchipuram',
@@ -12592,7 +12304,7 @@ return array (
     'latitude' => 12.83515,
     'longitude' => 79.70006,
   ),
-  1399 => 
+  1367 => 
   array (
     'id' => 132371,
     'name' => 'Kandhamal',
@@ -12601,7 +12313,7 @@ return array (
     'latitude' => 20.3,
     'longitude' => 84.0,
   ),
-  1400 => 
+  1368 => 
   array (
     'id' => 132372,
     'name' => 'Kandukur',
@@ -12610,7 +12322,7 @@ return array (
     'latitude' => 15.21542,
     'longitude' => 79.9039,
   ),
-  1401 => 
+  1369 => 
   array (
     'id' => 132373,
     'name' => 'Kangayam',
@@ -12619,7 +12331,7 @@ return array (
     'latitude' => 11.00599,
     'longitude' => 77.5609,
   ),
-  1402 => 
+  1370 => 
   array (
     'id' => 132374,
     'name' => 'Kanigiri',
@@ -12628,7 +12340,7 @@ return array (
     'latitude' => 15.40555,
     'longitude' => 79.50694,
   ),
-  1403 => 
+  1371 => 
   array (
     'id' => 132375,
     'name' => 'Kankauli',
@@ -12637,7 +12349,7 @@ return array (
     'latitude' => 16.26609,
     'longitude' => 73.71217,
   ),
-  1404 => 
+  1372 => 
   array (
     'id' => 132376,
     'name' => 'Kankipadu',
@@ -12646,7 +12358,7 @@ return array (
     'latitude' => 16.4353,
     'longitude' => 80.76715,
   ),
-  1405 => 
+  1373 => 
   array (
     'id' => 132377,
     'name' => 'Kannad',
@@ -12655,7 +12367,7 @@ return array (
     'latitude' => 20.25684,
     'longitude' => 75.13786,
   ),
-  1406 => 
+  1374 => 
   array (
     'id' => 132378,
     'name' => 'Kannauj',
@@ -12664,7 +12376,7 @@ return array (
     'latitude' => 27.0177,
     'longitude' => 79.67846,
   ),
-  1407 => 
+  1375 => 
   array (
     'id' => 132379,
     'name' => 'Kannavam',
@@ -12673,7 +12385,7 @@ return array (
     'latitude' => 11.8445,
     'longitude' => 75.66266,
   ),
-  1408 => 
+  1376 => 
   array (
     'id' => 132380,
     'name' => 'Kanniyakumari',
@@ -12682,7 +12394,7 @@ return array (
     'latitude' => 8.32,
     'longitude' => 77.34,
   ),
-  1409 => 
+  1377 => 
   array (
     'id' => 132382,
     'name' => 'Kannod',
@@ -12691,7 +12403,7 @@ return array (
     'latitude' => 22.66764,
     'longitude' => 76.74286,
   ),
-  1410 => 
+  1378 => 
   array (
     'id' => 132383,
     'name' => 'Kannur',
@@ -12700,7 +12412,7 @@ return array (
     'latitude' => 12.16667,
     'longitude' => 75.33333,
   ),
-  1411 => 
+  1379 => 
   array (
     'id' => 132384,
     'name' => 'Kanpur',
@@ -12709,7 +12421,7 @@ return array (
     'latitude' => 26.46523,
     'longitude' => 80.34975,
   ),
-  1412 => 
+  1380 => 
   array (
     'id' => 132385,
     'name' => 'Kanpur Dehat',
@@ -12718,7 +12430,7 @@ return array (
     'latitude' => 26.41506,
     'longitude' => 79.98957,
   ),
-  1413 => 
+  1381 => 
   array (
     'id' => 132386,
     'name' => 'Kantilo',
@@ -12727,7 +12439,7 @@ return array (
     'latitude' => 20.36152,
     'longitude' => 85.19212,
   ),
-  1414 => 
+  1382 => 
   array (
     'id' => 132387,
     'name' => 'Kantabanji',
@@ -12736,7 +12448,7 @@ return array (
     'latitude' => 20.46709,
     'longitude' => 82.92042,
   ),
-  1415 => 
+  1383 => 
   array (
     'id' => 132388,
     'name' => 'Kanuru',
@@ -12745,7 +12457,7 @@ return array (
     'latitude' => 16.28584,
     'longitude' => 81.25464,
   ),
-  1416 => 
+  1384 => 
   array (
     'id' => 132389,
     'name' => 'Kanina Khas',
@@ -12754,7 +12466,7 @@ return array (
     'latitude' => 28.33093,
     'longitude' => 76.31099,
   ),
-  1417 => 
+  1385 => 
   array (
     'id' => 132390,
     'name' => 'Kapadvanj',
@@ -12763,7 +12475,7 @@ return array (
     'latitude' => 23.02302,
     'longitude' => 73.07113,
   ),
-  1418 => 
+  1386 => 
   array (
     'id' => 132392,
     'name' => 'Kapurthala',
@@ -12772,7 +12484,7 @@ return array (
     'latitude' => 31.38011,
     'longitude' => 75.38105,
   ),
-  1419 => 
+  1387 => 
   array (
     'id' => 132393,
     'name' => 'Karambakkudi',
@@ -12781,7 +12493,7 @@ return array (
     'latitude' => 10.45866,
     'longitude' => 79.14101,
   ),
-  1420 => 
+  1388 => 
   array (
     'id' => 132394,
     'name' => 'Karamsad',
@@ -12790,7 +12502,7 @@ return array (
     'latitude' => 22.54243,
     'longitude' => 72.90392,
   ),
-  1421 => 
+  1389 => 
   array (
     'id' => 132395,
     'name' => 'Karanpur',
@@ -12799,7 +12511,7 @@ return array (
     'latitude' => 29.84042,
     'longitude' => 73.45519,
   ),
-  1422 => 
+  1390 => 
   array (
     'id' => 132396,
     'name' => 'Karauli',
@@ -12808,7 +12520,7 @@ return array (
     'latitude' => 26.58,
     'longitude' => 77.1,
   ),
-  1423 => 
+  1391 => 
   array (
     'id' => 132397,
     'name' => 'Kareli',
@@ -12817,7 +12529,7 @@ return array (
     'latitude' => 22.91533,
     'longitude' => 79.06378,
   ),
-  1424 => 
+  1392 => 
   array (
     'id' => 132398,
     'name' => 'Karera',
@@ -12826,7 +12538,7 @@ return array (
     'latitude' => 25.45815,
     'longitude' => 78.13583,
   ),
-  1425 => 
+  1393 => 
   array (
     'id' => 132399,
     'name' => 'Kargil',
@@ -12835,7 +12547,7 @@ return array (
     'latitude' => 34.55765,
     'longitude' => 76.12622,
   ),
-  1426 => 
+  1394 => 
   array (
     'id' => 132400,
     'name' => 'Karhal',
@@ -12844,7 +12556,7 @@ return array (
     'latitude' => 27.00089,
     'longitude' => 78.93935,
   ),
-  1427 => 
+  1395 => 
   array (
     'id' => 132401,
     'name' => 'Kariapatti',
@@ -12853,7 +12565,7 @@ return array (
     'latitude' => 9.67505,
     'longitude' => 78.09992,
   ),
-  1428 => 
+  1396 => 
   array (
     'id' => 132402,
     'name' => 'Karimganj',
@@ -12862,7 +12574,7 @@ return array (
     'latitude' => 24.6,
     'longitude' => 92.4,
   ),
-  1429 => 
+  1397 => 
   array (
     'id' => 132403,
     'name' => 'Karjat',
@@ -12871,7 +12583,7 @@ return array (
     'latitude' => 18.9107,
     'longitude' => 73.32354,
   ),
-  1430 => 
+  1398 => 
   array (
     'id' => 132404,
     'name' => 'Karmala',
@@ -12880,7 +12592,7 @@ return array (
     'latitude' => 18.4077,
     'longitude' => 75.19386,
   ),
-  1431 => 
+  1399 => 
   array (
     'id' => 132405,
     'name' => 'Karnal',
@@ -12889,7 +12601,7 @@ return array (
     'latitude' => 29.66667,
     'longitude' => 76.83333,
   ),
-  1432 => 
+  1400 => 
   array (
     'id' => 132406,
     'name' => 'Karol Bagh',
@@ -12898,7 +12610,7 @@ return array (
     'latitude' => 28.65136,
     'longitude' => 77.19072,
   ),
-  1433 => 
+  1401 => 
   array (
     'id' => 132407,
     'name' => 'Karrapur',
@@ -12907,7 +12619,7 @@ return array (
     'latitude' => 23.94891,
     'longitude' => 78.86584,
   ),
-  1434 => 
+  1402 => 
   array (
     'id' => 132408,
     'name' => 'Kartarpur',
@@ -12916,7 +12628,7 @@ return array (
     'latitude' => 31.44268,
     'longitude' => 75.49847,
   ),
-  1435 => 
+  1403 => 
   array (
     'id' => 132409,
     'name' => 'Karumbakkam',
@@ -12925,7 +12637,7 @@ return array (
     'latitude' => 12.70203,
     'longitude' => 80.0911,
   ),
-  1436 => 
+  1404 => 
   array (
     'id' => 132410,
     'name' => 'Karur',
@@ -12934,7 +12646,7 @@ return array (
     'latitude' => 10.95771,
     'longitude' => 78.08095,
   ),
-  1437 => 
+  1405 => 
   array (
     'id' => 132411,
     'name' => 'Karwar',
@@ -12943,7 +12655,7 @@ return array (
     'latitude' => 14.81361,
     'longitude' => 74.12972,
   ),
-  1438 => 
+  1406 => 
   array (
     'id' => 132412,
     'name' => 'Karad',
@@ -12952,7 +12664,7 @@ return array (
     'latitude' => 17.28937,
     'longitude' => 74.18183,
   ),
-  1439 => 
+  1407 => 
   array (
     'id' => 132413,
     'name' => 'Karari',
@@ -12961,7 +12673,7 @@ return array (
     'latitude' => 25.45241,
     'longitude' => 81.42675,
   ),
-  1440 => 
+  1408 => 
   array (
     'id' => 132415,
     'name' => 'Karimnagar',
@@ -12970,7 +12682,7 @@ return array (
     'latitude' => 18.33844,
     'longitude' => 79.22938,
   ),
-  1441 => 
+  1409 => 
   array (
     'id' => 132416,
     'name' => 'Kasauli',
@@ -12979,7 +12691,7 @@ return array (
     'latitude' => 30.89856,
     'longitude' => 76.96587,
   ),
-  1442 => 
+  1410 => 
   array (
     'id' => 132417,
     'name' => 'Kasba',
@@ -12988,7 +12700,7 @@ return array (
     'latitude' => 25.85643,
     'longitude' => 87.53836,
   ),
-  1443 => 
+  1411 => 
   array (
     'id' => 132418,
     'name' => 'Kashipur',
@@ -12997,7 +12709,7 @@ return array (
     'latitude' => 29.21399,
     'longitude' => 78.95693,
   ),
-  1444 => 
+  1412 => 
   array (
     'id' => 132419,
     'name' => 'Kasrawad',
@@ -13006,7 +12718,7 @@ return array (
     'latitude' => 22.12745,
     'longitude' => 75.61101,
   ),
-  1445 => 
+  1413 => 
   array (
     'id' => 132420,
     'name' => 'Katangi',
@@ -13015,7 +12727,7 @@ return array (
     'latitude' => 21.77369,
     'longitude' => 79.80513,
   ),
-  1446 => 
+  1414 => 
   array (
     'id' => 132421,
     'name' => 'Katghora',
@@ -13024,7 +12736,7 @@ return array (
     'latitude' => 22.50247,
     'longitude' => 82.54279,
   ),
-  1447 => 
+  1415 => 
   array (
     'id' => 132422,
     'name' => 'Kathua',
@@ -13033,7 +12745,7 @@ return array (
     'latitude' => 32.58333,
     'longitude' => 75.5,
   ),
-  1448 => 
+  1416 => 
   array (
     'id' => 132423,
     'name' => 'Katihar',
@@ -13042,7 +12754,7 @@ return array (
     'latitude' => 25.5,
     'longitude' => 87.6,
   ),
-  1449 => 
+  1417 => 
   array (
     'id' => 132424,
     'name' => 'Katni',
@@ -13051,7 +12763,7 @@ return array (
     'latitude' => 23.83555,
     'longitude' => 80.39417,
   ),
-  1450 => 
+  1418 => 
   array (
     'id' => 132425,
     'name' => 'Katpur',
@@ -13060,7 +12772,7 @@ return array (
     'latitude' => 21.05869,
     'longitude' => 71.79457,
   ),
-  1451 => 
+  1419 => 
   array (
     'id' => 132426,
     'name' => 'Katra',
@@ -13069,16 +12781,7 @@ return array (
     'latitude' => 27.50871,
     'longitude' => 82.02636,
   ),
-  1452 => 
-  array (
-    'id' => 132427,
-    'name' => 'Katra',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 32.99167,
-    'longitude' => 74.93195,
-  ),
-  1453 => 
+  1420 => 
   array (
     'id' => 132428,
     'name' => 'Kattanam',
@@ -13087,7 +12790,7 @@ return array (
     'latitude' => 9.17614,
     'longitude' => 76.56325,
   ),
-  1454 => 
+  1421 => 
   array (
     'id' => 132429,
     'name' => 'Kattivakkam',
@@ -13096,7 +12799,7 @@ return array (
     'latitude' => 13.21667,
     'longitude' => 80.31667,
   ),
-  1455 => 
+  1422 => 
   array (
     'id' => 132430,
     'name' => 'Kaushambi District',
@@ -13105,7 +12808,7 @@ return array (
     'latitude' => 25.53074,
     'longitude' => 81.37729,
   ),
-  1456 => 
+  1423 => 
   array (
     'id' => 132431,
     'name' => 'Kavalur',
@@ -13114,7 +12817,7 @@ return array (
     'latitude' => 15.28829,
     'longitude' => 75.9433,
   ),
-  1457 => 
+  1424 => 
   array (
     'id' => 132432,
     'name' => 'Kavaratti',
@@ -13123,7 +12826,7 @@ return array (
     'latitude' => 10.56688,
     'longitude' => 72.64203,
   ),
-  1458 => 
+  1425 => 
   array (
     'id' => 132433,
     'name' => 'Kawardha',
@@ -13132,7 +12835,7 @@ return array (
     'latitude' => 22.00853,
     'longitude' => 81.23148,
   ),
-  1459 => 
+  1426 => 
   array (
     'id' => 132434,
     'name' => 'Kawant',
@@ -13141,7 +12844,7 @@ return array (
     'latitude' => 22.09282,
     'longitude' => 74.05078,
   ),
-  1460 => 
+  1427 => 
   array (
     'id' => 132435,
     'name' => 'Kayalpattinam',
@@ -13150,7 +12853,7 @@ return array (
     'latitude' => 8.57143,
     'longitude' => 78.11992,
   ),
-  1461 => 
+  1428 => 
   array (
     'id' => 132436,
     'name' => 'Kayattar',
@@ -13159,7 +12862,7 @@ return array (
     'latitude' => 8.94834,
     'longitude' => 77.77424,
   ),
-  1462 => 
+  1429 => 
   array (
     'id' => 132437,
     'name' => 'Keelakarai',
@@ -13168,7 +12871,7 @@ return array (
     'latitude' => 9.23183,
     'longitude' => 78.78545,
   ),
-  1463 => 
+  1430 => 
   array (
     'id' => 132438,
     'name' => 'Kekri',
@@ -13177,7 +12880,7 @@ return array (
     'latitude' => 25.97132,
     'longitude' => 75.14992,
   ),
-  1464 => 
+  1431 => 
   array (
     'id' => 132439,
     'name' => 'Kelamangalam',
@@ -13186,7 +12889,7 @@ return array (
     'latitude' => 12.60307,
     'longitude' => 77.85193,
   ),
-  1465 => 
+  1432 => 
   array (
     'id' => 132440,
     'name' => 'Kemri',
@@ -13195,7 +12898,7 @@ return array (
     'latitude' => 28.80673,
     'longitude' => 79.2048,
   ),
-  1466 => 
+  1433 => 
   array (
     'id' => 132441,
     'name' => 'Kendrapara',
@@ -13204,7 +12907,7 @@ return array (
     'latitude' => 20.5,
     'longitude' => 86.5,
   ),
-  1467 => 
+  1434 => 
   array (
     'id' => 132443,
     'name' => 'Kenduadih',
@@ -13213,7 +12916,7 @@ return array (
     'latitude' => 23.77574,
     'longitude' => 86.37609,
   ),
-  1468 => 
+  1435 => 
   array (
     'id' => 132444,
     'name' => 'Kendujhar',
@@ -13222,7 +12925,7 @@ return array (
     'latitude' => 21.5,
     'longitude' => 85.5,
   ),
-  1469 => 
+  1436 => 
   array (
     'id' => 132445,
     'name' => 'Kerur',
@@ -13231,7 +12934,7 @@ return array (
     'latitude' => 16.01384,
     'longitude' => 75.54631,
   ),
-  1470 => 
+  1437 => 
   array (
     'id' => 132446,
     'name' => 'Keshod',
@@ -13240,7 +12943,7 @@ return array (
     'latitude' => 21.30328,
     'longitude' => 70.24861,
   ),
-  1471 => 
+  1438 => 
   array (
     'id' => 132447,
     'name' => 'Keshorai Patan',
@@ -13249,7 +12952,7 @@ return array (
     'latitude' => 25.29275,
     'longitude' => 75.93948,
   ),
-  1472 => 
+  1439 => 
   array (
     'id' => 132448,
     'name' => 'Kesinga',
@@ -13258,7 +12961,7 @@ return array (
     'latitude' => 20.18778,
     'longitude' => 83.21949,
   ),
-  1473 => 
+  1440 => 
   array (
     'id' => 132449,
     'name' => 'Khada',
@@ -13267,7 +12970,7 @@ return array (
     'latitude' => 27.18333,
     'longitude' => 83.88333,
   ),
-  1474 => 
+  1441 => 
   array (
     'id' => 132450,
     'name' => 'Khadki',
@@ -13276,7 +12979,7 @@ return array (
     'latitude' => 18.5635,
     'longitude' => 73.85205,
   ),
-  1475 => 
+  1442 => 
   array (
     'id' => 132451,
     'name' => 'Khagaria',
@@ -13285,7 +12988,7 @@ return array (
     'latitude' => 25.5022,
     'longitude' => 86.46708,
   ),
-  1476 => 
+  1443 => 
   array (
     'id' => 132452,
     'name' => 'Khagaul',
@@ -13294,7 +12997,7 @@ return array (
     'latitude' => 25.57898,
     'longitude' => 85.04564,
   ),
-  1477 => 
+  1444 => 
   array (
     'id' => 132453,
     'name' => 'Khailar',
@@ -13303,7 +13006,7 @@ return array (
     'latitude' => 25.34127,
     'longitude' => 78.53133,
   ),
-  1478 => 
+  1445 => 
   array (
     'id' => 132454,
     'name' => 'Khair',
@@ -13312,7 +13015,7 @@ return array (
     'latitude' => 27.94195,
     'longitude' => 77.84243,
   ),
-  1479 => 
+  1446 => 
   array (
     'id' => 132455,
     'name' => 'Khairabad',
@@ -13321,7 +13024,7 @@ return array (
     'latitude' => 27.52698,
     'longitude' => 80.75461,
   ),
-  1480 => 
+  1447 => 
   array (
     'id' => 132456,
     'name' => 'Khairagarh',
@@ -13330,7 +13033,7 @@ return array (
     'latitude' => 21.41859,
     'longitude' => 80.97942,
   ),
-  1481 => 
+  1448 => 
   array (
     'id' => 132457,
     'name' => 'Khajuraho Group of Monuments',
@@ -13339,7 +13042,7 @@ return array (
     'latitude' => 24.84809,
     'longitude' => 79.93351,
   ),
-  1482 => 
+  1449 => 
   array (
     'id' => 132458,
     'name' => 'Khallikot',
@@ -13348,7 +13051,7 @@ return array (
     'latitude' => 19.60908,
     'longitude' => 85.08609,
   ),
-  1483 => 
+  1450 => 
   array (
     'id' => 132459,
     'name' => 'Khalilabad',
@@ -13357,7 +13060,7 @@ return array (
     'latitude' => 26.77268,
     'longitude' => 83.07179,
   ),
-  1484 => 
+  1451 => 
   array (
     'id' => 132460,
     'name' => 'Khamaria',
@@ -13366,7 +13069,7 @@ return array (
     'latitude' => 23.22558,
     'longitude' => 79.88007,
   ),
-  1485 => 
+  1452 => 
   array (
     'id' => 132462,
     'name' => 'Khambhat',
@@ -13375,7 +13078,7 @@ return array (
     'latitude' => 22.31744,
     'longitude' => 72.61916,
   ),
-  1486 => 
+  1453 => 
   array (
     'id' => 132463,
     'name' => 'Khamharia',
@@ -13384,7 +13087,7 @@ return array (
     'latitude' => 20.976,
     'longitude' => 82.25116,
   ),
-  1487 => 
+  1454 => 
   array (
     'id' => 132464,
     'name' => 'Khammam',
@@ -13393,7 +13096,7 @@ return array (
     'latitude' => 17.5,
     'longitude' => 80.33333,
   ),
-  1488 => 
+  1455 => 
   array (
     'id' => 132465,
     'name' => 'Khamanon',
@@ -13402,7 +13105,7 @@ return array (
     'latitude' => 30.81725,
     'longitude' => 76.35478,
   ),
-  1489 => 
+  1456 => 
   array (
     'id' => 132466,
     'name' => 'Khandela',
@@ -13411,7 +13114,7 @@ return array (
     'latitude' => 27.60499,
     'longitude' => 75.502,
   ),
-  1490 => 
+  1457 => 
   array (
     'id' => 132467,
     'name' => 'Khandwa',
@@ -13420,7 +13123,7 @@ return array (
     'latitude' => 21.82427,
     'longitude' => 76.35086,
   ),
-  1491 => 
+  1458 => 
   array (
     'id' => 132469,
     'name' => 'Khanna',
@@ -13429,7 +13132,7 @@ return array (
     'latitude' => 30.70547,
     'longitude' => 76.22196,
   ),
-  1492 => 
+  1459 => 
   array (
     'id' => 132470,
     'name' => 'Kharagpur',
@@ -13438,7 +13141,7 @@ return array (
     'latitude' => 25.12446,
     'longitude' => 86.55578,
   ),
-  1493 => 
+  1460 => 
   array (
     'id' => 132471,
     'name' => 'Kharakvasla',
@@ -13447,7 +13150,7 @@ return array (
     'latitude' => 18.43997,
     'longitude' => 73.77545,
   ),
-  1494 => 
+  1461 => 
   array (
     'id' => 132472,
     'name' => 'Kharar',
@@ -13456,7 +13159,7 @@ return array (
     'latitude' => 30.74632,
     'longitude' => 76.64689,
   ),
-  1495 => 
+  1462 => 
   array (
     'id' => 132473,
     'name' => 'Kharela',
@@ -13465,7 +13168,7 @@ return array (
     'latitude' => 25.54277,
     'longitude' => 79.81235,
   ),
-  1496 => 
+  1463 => 
   array (
     'id' => 132474,
     'name' => 'Khargone',
@@ -13474,7 +13177,7 @@ return array (
     'latitude' => 21.82306,
     'longitude' => 75.61028,
   ),
-  1497 => 
+  1464 => 
   array (
     'id' => 132475,
     'name' => 'Khargupur',
@@ -13483,7 +13186,7 @@ return array (
     'latitude' => 27.37611,
     'longitude' => 81.9882,
   ),
-  1498 => 
+  1465 => 
   array (
     'id' => 132476,
     'name' => 'Khargapur',
@@ -13492,7 +13195,7 @@ return array (
     'latitude' => 24.823,
     'longitude' => 79.144,
   ),
-  1499 => 
+  1466 => 
   array (
     'id' => 132477,
     'name' => 'Kharhial',
@@ -13501,7 +13204,7 @@ return array (
     'latitude' => 20.28845,
     'longitude' => 82.7606,
   ),
-  1500 => 
+  1467 => 
   array (
     'id' => 132478,
     'name' => 'Kharkhauda',
@@ -13510,16 +13213,7 @@ return array (
     'latitude' => 28.8787,
     'longitude' => 76.91069,
   ),
-  1501 => 
-  array (
-    'id' => 132479,
-    'name' => 'Kharkhauda',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.83644,
-    'longitude' => 77.74159,
-  ),
-  1502 => 
+  1468 => 
   array (
     'id' => 132480,
     'name' => 'Kharod',
@@ -13528,7 +13222,7 @@ return array (
     'latitude' => 21.7442,
     'longitude' => 82.5788,
   ),
-  1503 => 
+  1469 => 
   array (
     'id' => 132481,
     'name' => 'Kharsia',
@@ -13537,7 +13231,7 @@ return array (
     'latitude' => 21.98953,
     'longitude' => 83.10476,
   ),
-  1504 => 
+  1470 => 
   array (
     'id' => 132482,
     'name' => 'Kharsawan',
@@ -13546,7 +13240,7 @@ return array (
     'latitude' => 22.79093,
     'longitude' => 85.83102,
   ),
-  1505 => 
+  1471 => 
   array (
     'id' => 132483,
     'name' => 'Khatauli',
@@ -13555,7 +13249,7 @@ return array (
     'latitude' => 29.27844,
     'longitude' => 77.73302,
   ),
-  1506 => 
+  1472 => 
   array (
     'id' => 132484,
     'name' => 'Khatima',
@@ -13564,7 +13258,7 @@ return array (
     'latitude' => 28.92134,
     'longitude' => 79.97075,
   ),
-  1507 => 
+  1473 => 
   array (
     'id' => 132485,
     'name' => 'Khaur',
@@ -13573,7 +13267,7 @@ return array (
     'latitude' => 32.6027,
     'longitude' => 74.80918,
   ),
-  1508 => 
+  1474 => 
   array (
     'id' => 132486,
     'name' => 'Khawhai',
@@ -13582,7 +13276,7 @@ return array (
     'latitude' => 23.37807,
     'longitude' => 93.12797,
   ),
-  1509 => 
+  1475 => 
   array (
     'id' => 132487,
     'name' => 'Khed',
@@ -13591,7 +13285,7 @@ return array (
     'latitude' => 17.71888,
     'longitude' => 73.39693,
   ),
-  1510 => 
+  1476 => 
   array (
     'id' => 132488,
     'name' => 'Kheda',
@@ -13600,7 +13294,7 @@ return array (
     'latitude' => 22.75,
     'longitude' => 72.83333,
   ),
-  1511 => 
+  1477 => 
   array (
     'id' => 132489,
     'name' => 'Khedbrahma',
@@ -13609,7 +13303,7 @@ return array (
     'latitude' => 24.0299,
     'longitude' => 73.04632,
   ),
-  1512 => 
+  1478 => 
   array (
     'id' => 132490,
     'name' => 'Khekra',
@@ -13618,7 +13312,7 @@ return array (
     'latitude' => 28.86586,
     'longitude' => 77.2841,
   ),
-  1513 => 
+  1479 => 
   array (
     'id' => 132491,
     'name' => 'Khemkaran',
@@ -13627,7 +13321,7 @@ return array (
     'latitude' => 31.14443,
     'longitude' => 74.55938,
   ),
-  1514 => 
+  1480 => 
   array (
     'id' => 132492,
     'name' => 'Kheri',
@@ -13636,7 +13330,7 @@ return array (
     'latitude' => 28.11667,
     'longitude' => 80.71667,
   ),
-  1515 => 
+  1481 => 
   array (
     'id' => 132493,
     'name' => 'Kheri Sampla',
@@ -13645,7 +13339,7 @@ return array (
     'latitude' => 28.7781,
     'longitude' => 76.7756,
   ),
-  1516 => 
+  1482 => 
   array (
     'id' => 132494,
     'name' => 'Kheralu',
@@ -13654,7 +13348,7 @@ return array (
     'latitude' => 23.88534,
     'longitude' => 72.61869,
   ),
-  1517 => 
+  1483 => 
   array (
     'id' => 132495,
     'name' => 'Khetia',
@@ -13663,7 +13357,7 @@ return array (
     'latitude' => 21.67124,
     'longitude' => 74.58535,
   ),
-  1518 => 
+  1484 => 
   array (
     'id' => 132496,
     'name' => 'Khetri',
@@ -13672,7 +13366,7 @@ return array (
     'latitude' => 28.00069,
     'longitude' => 75.78644,
   ),
-  1519 => 
+  1485 => 
   array (
     'id' => 132497,
     'name' => 'Khilchipur',
@@ -13681,7 +13375,7 @@ return array (
     'latitude' => 24.03943,
     'longitude' => 76.578,
   ),
-  1520 => 
+  1486 => 
   array (
     'id' => 132498,
     'name' => 'Khirkiyan',
@@ -13690,7 +13384,7 @@ return array (
     'latitude' => 22.16732,
     'longitude' => 76.86137,
   ),
-  1521 => 
+  1487 => 
   array (
     'id' => 132499,
     'name' => 'Khonsa',
@@ -13699,7 +13393,7 @@ return array (
     'latitude' => 27.01667,
     'longitude' => 95.56667,
   ),
-  1522 => 
+  1488 => 
   array (
     'id' => 132500,
     'name' => 'Khopoli',
@@ -13708,7 +13402,7 @@ return array (
     'latitude' => 18.78562,
     'longitude' => 73.34589,
   ),
-  1523 => 
+  1489 => 
   array (
     'id' => 132501,
     'name' => 'Khordha',
@@ -13717,7 +13411,7 @@ return array (
     'latitude' => 20.2,
     'longitude' => 85.6,
   ),
-  1524 => 
+  1490 => 
   array (
     'id' => 132502,
     'name' => 'Khowai',
@@ -13726,7 +13420,7 @@ return array (
     'latitude' => 24.07964,
     'longitude' => 91.59972,
   ),
-  1525 => 
+  1491 => 
   array (
     'id' => 132503,
     'name' => 'Khudaganj',
@@ -13735,7 +13429,7 @@ return array (
     'latitude' => 28.14607,
     'longitude' => 79.71472,
   ),
-  1526 => 
+  1492 => 
   array (
     'id' => 132504,
     'name' => 'Khujner',
@@ -13744,7 +13438,7 @@ return array (
     'latitude' => 23.78597,
     'longitude' => 76.61773,
   ),
-  1527 => 
+  1493 => 
   array (
     'id' => 132505,
     'name' => 'Khuldabad',
@@ -13753,7 +13447,7 @@ return array (
     'latitude' => 20.00671,
     'longitude' => 75.19245,
   ),
-  1528 => 
+  1494 => 
   array (
     'id' => 132506,
     'name' => 'Khunti',
@@ -13762,7 +13456,7 @@ return array (
     'latitude' => 23.07602,
     'longitude' => 85.27818,
   ),
-  1529 => 
+  1495 => 
   array (
     'id' => 132507,
     'name' => 'Khurai',
@@ -13771,7 +13465,7 @@ return array (
     'latitude' => 24.04372,
     'longitude' => 78.33014,
   ),
-  1530 => 
+  1496 => 
   array (
     'id' => 132508,
     'name' => 'Khurda',
@@ -13780,7 +13474,7 @@ return array (
     'latitude' => 20.18268,
     'longitude' => 85.61629,
   ),
-  1531 => 
+  1497 => 
   array (
     'id' => 132509,
     'name' => 'Khurja',
@@ -13789,7 +13483,7 @@ return array (
     'latitude' => 28.25382,
     'longitude' => 77.85535,
   ),
-  1532 => 
+  1498 => 
   array (
     'id' => 132510,
     'name' => 'Khusropur',
@@ -13798,7 +13492,7 @@ return array (
     'latitude' => 25.48174,
     'longitude' => 85.38492,
   ),
-  1533 => 
+  1499 => 
   array (
     'id' => 132511,
     'name' => 'Khachrod',
@@ -13807,7 +13501,7 @@ return array (
     'latitude' => 23.42322,
     'longitude' => 75.28185,
   ),
-  1534 => 
+  1500 => 
   array (
     'id' => 132512,
     'name' => 'Khaga',
@@ -13816,7 +13510,7 @@ return array (
     'latitude' => 25.77215,
     'longitude' => 81.10393,
   ),
-  1535 => 
+  1501 => 
   array (
     'id' => 132513,
     'name' => 'Khamgaon',
@@ -13825,7 +13519,7 @@ return array (
     'latitude' => 20.70738,
     'longitude' => 76.56827,
   ),
-  1536 => 
+  1502 => 
   array (
     'id' => 132514,
     'name' => 'Khanpur',
@@ -13834,16 +13528,7 @@ return array (
     'latitude' => 28.53446,
     'longitude' => 78.06546,
   ),
-  1537 => 
-  array (
-    'id' => 132515,
-    'name' => 'Khanpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.73241,
-    'longitude' => 76.39601,
-  ),
-  1538 => 
+  1503 => 
   array (
     'id' => 132516,
     'name' => 'Khanapur',
@@ -13852,7 +13537,7 @@ return array (
     'latitude' => 15.63969,
     'longitude' => 74.50847,
   ),
-  1539 => 
+  1504 => 
   array (
     'id' => 132517,
     'name' => 'Khapa',
@@ -13861,7 +13546,7 @@ return array (
     'latitude' => 21.42243,
     'longitude' => 78.98168,
   ),
-  1540 => 
+  1505 => 
   array (
     'id' => 132518,
     'name' => 'Kharupatia',
@@ -13870,7 +13555,7 @@ return array (
     'latitude' => 26.51839,
     'longitude' => 92.14722,
   ),
-  1541 => 
+  1506 => 
   array (
     'id' => 132519,
     'name' => 'Khategaon',
@@ -13879,7 +13564,7 @@ return array (
     'latitude' => 22.59573,
     'longitude' => 76.9133,
   ),
-  1542 => 
+  1507 => 
   array (
     'id' => 132520,
     'name' => 'Khutar',
@@ -13888,7 +13573,7 @@ return array (
     'latitude' => 28.20307,
     'longitude' => 80.27046,
   ),
-  1543 => 
+  1508 => 
   array (
     'id' => 132521,
     'name' => 'Kichha',
@@ -13897,7 +13582,7 @@ return array (
     'latitude' => 28.91154,
     'longitude' => 79.52009,
   ),
-  1544 => 
+  1509 => 
   array (
     'id' => 132522,
     'name' => 'Kilvelur',
@@ -13906,7 +13591,7 @@ return array (
     'latitude' => 10.76721,
     'longitude' => 79.74186,
   ),
-  1545 => 
+  1510 => 
   array (
     'id' => 132523,
     'name' => 'Kinnaur',
@@ -13915,7 +13600,7 @@ return array (
     'latitude' => 31.58333,
     'longitude' => 78.41667,
   ),
-  1546 => 
+  1511 => 
   array (
     'id' => 132524,
     'name' => 'Kinwat',
@@ -13924,7 +13609,7 @@ return array (
     'latitude' => 19.62557,
     'longitude' => 78.1987,
   ),
-  1547 => 
+  1512 => 
   array (
     'id' => 132525,
     'name' => 'Kirandul',
@@ -13933,7 +13618,7 @@ return array (
     'latitude' => 18.63649,
     'longitude' => 81.25827,
   ),
-  1548 => 
+  1513 => 
   array (
     'id' => 132526,
     'name' => 'Kiraoli',
@@ -13942,7 +13627,7 @@ return array (
     'latitude' => 27.13768,
     'longitude' => 77.78516,
   ),
-  1549 => 
+  1514 => 
   array (
     'id' => 132527,
     'name' => 'Kiri Buru',
@@ -13951,7 +13636,7 @@ return array (
     'latitude' => 22.08333,
     'longitude' => 85.35,
   ),
-  1550 => 
+  1515 => 
   array (
     'id' => 132528,
     'name' => 'Kirakat',
@@ -13960,7 +13645,7 @@ return array (
     'latitude' => 25.63745,
     'longitude' => 82.91596,
   ),
-  1551 => 
+  1516 => 
   array (
     'id' => 132529,
     'name' => 'Kishanganj',
@@ -13969,7 +13654,7 @@ return array (
     'latitude' => 26.3,
     'longitude' => 88.0,
   ),
-  1552 => 
+  1517 => 
   array (
     'id' => 132530,
     'name' => 'Kishangarh',
@@ -13978,7 +13663,7 @@ return array (
     'latitude' => 26.59006,
     'longitude' => 74.85397,
   ),
-  1553 => 
+  1518 => 
   array (
     'id' => 132531,
     'name' => 'Kishanpur',
@@ -13987,7 +13672,7 @@ return array (
     'latitude' => 25.64232,
     'longitude' => 81.0227,
   ),
-  1554 => 
+  1519 => 
   array (
     'id' => 132532,
     'name' => 'Kishni',
@@ -13996,7 +13681,7 @@ return array (
     'latitude' => 27.02487,
     'longitude' => 79.262,
   ),
-  1555 => 
+  1520 => 
   array (
     'id' => 132533,
     'name' => 'Kishtwar',
@@ -14005,7 +13690,7 @@ return array (
     'latitude' => 33.52958,
     'longitude' => 76.01462,
   ),
-  1556 => 
+  1521 => 
   array (
     'id' => 132535,
     'name' => 'Kithor',
@@ -14014,7 +13699,7 @@ return array (
     'latitude' => 28.86684,
     'longitude' => 77.93861,
   ),
-  1557 => 
+  1522 => 
   array (
     'id' => 132536,
     'name' => 'Kizhake Chalakudi',
@@ -14023,7 +13708,7 @@ return array (
     'latitude' => 10.30067,
     'longitude' => 76.33763,
   ),
-  1558 => 
+  1523 => 
   array (
     'id' => 132537,
     'name' => 'Kodagu',
@@ -14032,7 +13717,7 @@ return array (
     'latitude' => 12.41667,
     'longitude' => 75.75,
   ),
-  1559 => 
+  1524 => 
   array (
     'id' => 132538,
     'name' => 'Kodaikanal',
@@ -14041,7 +13726,7 @@ return array (
     'latitude' => 10.23925,
     'longitude' => 77.48932,
   ),
-  1560 => 
+  1525 => 
   array (
     'id' => 132539,
     'name' => 'Kodala',
@@ -14050,7 +13735,7 @@ return array (
     'latitude' => 19.62425,
     'longitude' => 84.94075,
   ),
-  1561 => 
+  1526 => 
   array (
     'id' => 132540,
     'name' => 'Kodarma',
@@ -14059,7 +13744,7 @@ return array (
     'latitude' => 24.46753,
     'longitude' => 85.59397,
   ),
-  1562 => 
+  1527 => 
   array (
     'id' => 132541,
     'name' => 'Kodigenahalli',
@@ -14068,7 +13753,7 @@ return array (
     'latitude' => 13.72136,
     'longitude' => 77.38629,
   ),
-  1563 => 
+  1528 => 
   array (
     'id' => 132542,
     'name' => 'Kodlipet',
@@ -14077,7 +13762,7 @@ return array (
     'latitude' => 12.80087,
     'longitude' => 75.88662,
   ),
-  1564 => 
+  1529 => 
   array (
     'id' => 132543,
     'name' => 'Kodoli',
@@ -14086,7 +13771,7 @@ return array (
     'latitude' => 16.87639,
     'longitude' => 74.1909,
   ),
-  1565 => 
+  1530 => 
   array (
     'id' => 132544,
     'name' => 'Kodumudi',
@@ -14095,7 +13780,7 @@ return array (
     'latitude' => 11.07751,
     'longitude' => 77.88363,
   ),
-  1566 => 
+  1531 => 
   array (
     'id' => 132545,
     'name' => 'Kodungallur',
@@ -14104,7 +13789,7 @@ return array (
     'latitude' => 10.23263,
     'longitude' => 76.19513,
   ),
-  1567 => 
+  1532 => 
   array (
     'id' => 132546,
     'name' => 'Kodar',
@@ -14113,7 +13798,7 @@ return array (
     'latitude' => 16.9985,
     'longitude' => 79.9656,
   ),
-  1568 => 
+  1533 => 
   array (
     'id' => 132547,
     'name' => 'Kodinar',
@@ -14122,7 +13807,7 @@ return array (
     'latitude' => 20.79393,
     'longitude' => 70.70216,
   ),
-  1569 => 
+  1534 => 
   array (
     'id' => 132548,
     'name' => 'Koelwar',
@@ -14131,7 +13816,7 @@ return array (
     'latitude' => 25.58055,
     'longitude' => 84.79751,
   ),
-  1570 => 
+  1535 => 
   array (
     'id' => 132549,
     'name' => 'Kohima',
@@ -14140,7 +13825,7 @@ return array (
     'latitude' => 25.67467,
     'longitude' => 94.11099,
   ),
-  1571 => 
+  1536 => 
   array (
     'id' => 132551,
     'name' => 'Kokrajhar',
@@ -14149,7 +13834,7 @@ return array (
     'latitude' => 26.6,
     'longitude' => 90.2,
   ),
-  1572 => 
+  1537 => 
   array (
     'id' => 132552,
     'name' => 'Kolanukonda',
@@ -14158,7 +13843,7 @@ return array (
     'latitude' => 16.45392,
     'longitude' => 80.61046,
   ),
-  1573 => 
+  1538 => 
   array (
     'id' => 132553,
     'name' => 'Kolar',
@@ -14167,7 +13852,7 @@ return array (
     'latitude' => 13.13,
     'longitude' => 78.23,
   ),
-  1574 => 
+  1539 => 
   array (
     'id' => 132554,
     'name' => 'Kolasib',
@@ -14176,7 +13861,7 @@ return array (
     'latitude' => 24.22388,
     'longitude' => 92.67869,
   ),
-  1575 => 
+  1540 => 
   array (
     'id' => 132556,
     'name' => 'Kolhapur',
@@ -14185,7 +13870,7 @@ return array (
     'latitude' => 16.69013,
     'longitude' => 74.22981,
   ),
-  1576 => 
+  1541 => 
   array (
     'id' => 132558,
     'name' => 'Kollam',
@@ -14194,7 +13879,7 @@ return array (
     'latitude' => 8.88113,
     'longitude' => 76.58469,
   ),
-  1577 => 
+  1542 => 
   array (
     'id' => 132559,
     'name' => 'Kollegal',
@@ -14203,7 +13888,7 @@ return array (
     'latitude' => 12.15449,
     'longitude' => 77.11051,
   ),
-  1578 => 
+  1543 => 
   array (
     'id' => 132561,
     'name' => 'Kolaras',
@@ -14212,7 +13897,7 @@ return array (
     'latitude' => 25.21928,
     'longitude' => 77.61167,
   ),
-  1579 => 
+  1544 => 
   array (
     'id' => 132562,
     'name' => 'Kombai',
@@ -14221,7 +13906,7 @@ return array (
     'latitude' => 9.84745,
     'longitude' => 77.29603,
   ),
-  1580 => 
+  1545 => 
   array (
     'id' => 132563,
     'name' => 'Konanur',
@@ -14230,7 +13915,7 @@ return array (
     'latitude' => 12.63016,
     'longitude' => 76.05037,
   ),
-  1581 => 
+  1546 => 
   array (
     'id' => 132564,
     'name' => 'Konch',
@@ -14239,7 +13924,7 @@ return array (
     'latitude' => 25.99451,
     'longitude' => 79.15127,
   ),
-  1582 => 
+  1547 => 
   array (
     'id' => 132565,
     'name' => 'Kondagaon',
@@ -14248,7 +13933,7 @@ return array (
     'latitude' => 19.59083,
     'longitude' => 81.664,
   ),
-  1583 => 
+  1548 => 
   array (
     'id' => 132566,
     'name' => 'Kondalwadi',
@@ -14257,7 +13942,7 @@ return array (
     'latitude' => 18.80727,
     'longitude' => 77.77031,
   ),
-  1584 => 
+  1549 => 
   array (
     'id' => 132567,
     'name' => 'Kondapalle',
@@ -14266,7 +13951,7 @@ return array (
     'latitude' => 16.61989,
     'longitude' => 80.54244,
   ),
-  1585 => 
+  1550 => 
   array (
     'id' => 132568,
     'name' => 'Konganapuram',
@@ -14275,7 +13960,7 @@ return array (
     'latitude' => 11.57105,
     'longitude' => 77.9004,
   ),
-  1586 => 
+  1551 => 
   array (
     'id' => 132569,
     'name' => 'Konnur',
@@ -14284,7 +13969,7 @@ return array (
     'latitude' => 16.20138,
     'longitude' => 74.74886,
   ),
-  1587 => 
+  1552 => 
   array (
     'id' => 132570,
     'name' => 'Konarka',
@@ -14293,7 +13978,7 @@ return array (
     'latitude' => 19.89758,
     'longitude' => 86.11413,
   ),
-  1588 => 
+  1553 => 
   array (
     'id' => 132571,
     'name' => 'Koothanallur',
@@ -14302,7 +13987,7 @@ return array (
     'latitude' => 10.7199,
     'longitude' => 79.5157,
   ),
-  1589 => 
+  1554 => 
   array (
     'id' => 132572,
     'name' => 'Kopargaon',
@@ -14311,7 +13996,7 @@ return array (
     'latitude' => 19.88239,
     'longitude' => 74.47605,
   ),
-  1590 => 
+  1555 => 
   array (
     'id' => 132573,
     'name' => 'Koppa',
@@ -14320,7 +14005,7 @@ return array (
     'latitude' => 13.53044,
     'longitude' => 75.36329,
   ),
-  1591 => 
+  1556 => 
   array (
     'id' => 132574,
     'name' => 'Koppal',
@@ -14329,7 +14014,7 @@ return array (
     'latitude' => 15.5,
     'longitude' => 76.2,
   ),
-  1592 => 
+  1557 => 
   array (
     'id' => 132575,
     'name' => 'Kopaganj',
@@ -14338,7 +14023,7 @@ return array (
     'latitude' => 26.01923,
     'longitude' => 83.5663,
   ),
-  1593 => 
+  1558 => 
   array (
     'id' => 132576,
     'name' => 'Koradachcheri',
@@ -14347,7 +14032,7 @@ return array (
     'latitude' => 10.77019,
     'longitude' => 79.49158,
   ),
-  1594 => 
+  1559 => 
   array (
     'id' => 132577,
     'name' => 'Korampallam',
@@ -14356,7 +14041,7 @@ return array (
     'latitude' => 8.77506,
     'longitude' => 78.09158,
   ),
-  1595 => 
+  1560 => 
   array (
     'id' => 132578,
     'name' => 'Koraput',
@@ -14365,7 +14050,7 @@ return array (
     'latitude' => 19.0,
     'longitude' => 83.0,
   ),
-  1596 => 
+  1561 => 
   array (
     'id' => 132579,
     'name' => 'Koratagere',
@@ -14374,7 +14059,7 @@ return array (
     'latitude' => 13.522,
     'longitude' => 77.2373,
   ),
-  1597 => 
+  1562 => 
   array (
     'id' => 132580,
     'name' => 'Koratla',
@@ -14383,7 +14068,7 @@ return array (
     'latitude' => 18.82154,
     'longitude' => 78.71186,
   ),
-  1598 => 
+  1563 => 
   array (
     'id' => 132581,
     'name' => 'Korba',
@@ -14392,7 +14077,7 @@ return array (
     'latitude' => 22.5,
     'longitude' => 82.6,
   ),
-  1599 => 
+  1564 => 
   array (
     'id' => 132582,
     'name' => 'Koregaon',
@@ -14401,7 +14086,7 @@ return array (
     'latitude' => 18.64573,
     'longitude' => 74.05909,
   ),
-  1600 => 
+  1565 => 
   array (
     'id' => 132583,
     'name' => 'Koria',
@@ -14410,7 +14095,7 @@ return array (
     'latitude' => 23.48326,
     'longitude' => 82.15037,
   ),
-  1601 => 
+  1566 => 
   array (
     'id' => 132584,
     'name' => 'Korukollu',
@@ -14419,7 +14104,7 @@ return array (
     'latitude' => 16.5,
     'longitude' => 81.25,
   ),
-  1602 => 
+  1567 => 
   array (
     'id' => 132585,
     'name' => 'Korwai',
@@ -14428,7 +14113,7 @@ return array (
     'latitude' => 24.11774,
     'longitude' => 78.04007,
   ),
-  1603 => 
+  1568 => 
   array (
     'id' => 132586,
     'name' => 'Koradi',
@@ -14437,7 +14122,7 @@ return array (
     'latitude' => 21.24758,
     'longitude' => 79.10575,
   ),
-  1604 => 
+  1569 => 
   array (
     'id' => 132588,
     'name' => 'Kosamba',
@@ -14446,7 +14131,7 @@ return array (
     'latitude' => 21.46202,
     'longitude' => 72.95842,
   ),
-  1605 => 
+  1570 => 
   array (
     'id' => 132589,
     'name' => 'Kosi',
@@ -14455,7 +14140,7 @@ return array (
     'latitude' => 27.79449,
     'longitude' => 77.4368,
   ),
-  1606 => 
+  1571 => 
   array (
     'id' => 132590,
     'name' => 'Kosigi',
@@ -14464,7 +14149,7 @@ return array (
     'latitude' => 15.8551,
     'longitude' => 77.24463,
   ),
-  1607 => 
+  1572 => 
   array (
     'id' => 132591,
     'name' => 'Kot Isa Khan',
@@ -14473,7 +14158,7 @@ return array (
     'latitude' => 30.94659,
     'longitude' => 75.1378,
   ),
-  1608 => 
+  1573 => 
   array (
     'id' => 132592,
     'name' => 'Kota',
@@ -14482,16 +14167,7 @@ return array (
     'latitude' => 24.44643,
     'longitude' => 83.13063,
   ),
-  1609 => 
-  array (
-    'id' => 132593,
-    'name' => 'Kota',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.17512,
-    'longitude' => 75.84412,
-  ),
-  1610 => 
+  1574 => 
   array (
     'id' => 132594,
     'name' => 'Kotagiri',
@@ -14500,7 +14176,7 @@ return array (
     'latitude' => 11.42072,
     'longitude' => 76.86035,
   ),
-  1611 => 
+  1575 => 
   array (
     'id' => 132595,
     'name' => 'Kotamangalam',
@@ -14509,7 +14185,7 @@ return array (
     'latitude' => 10.06435,
     'longitude' => 76.62843,
   ),
-  1612 => 
+  1576 => 
   array (
     'id' => 132596,
     'name' => 'Kotaparh',
@@ -14518,7 +14194,7 @@ return array (
     'latitude' => 19.14256,
     'longitude' => 82.32536,
   ),
-  1613 => 
+  1577 => 
   array (
     'id' => 132597,
     'name' => 'Kotdwara',
@@ -14527,7 +14203,7 @@ return array (
     'latitude' => 29.74612,
     'longitude' => 78.52219,
   ),
-  1614 => 
+  1578 => 
   array (
     'id' => 132598,
     'name' => 'Kothi',
@@ -14536,7 +14212,7 @@ return array (
     'latitude' => 24.7526,
     'longitude' => 80.77751,
   ),
-  1615 => 
+  1579 => 
   array (
     'id' => 132599,
     'name' => 'Kothapet',
@@ -14545,7 +14221,7 @@ return array (
     'latitude' => 19.35176,
     'longitude' => 79.48323,
   ),
-  1616 => 
+  1580 => 
   array (
     'id' => 132600,
     'name' => 'Kotkapura',
@@ -14554,7 +14230,7 @@ return array (
     'latitude' => 30.5819,
     'longitude' => 74.83298,
   ),
-  1617 => 
+  1581 => 
   array (
     'id' => 132601,
     'name' => 'Kotkhai',
@@ -14563,7 +14239,7 @@ return array (
     'latitude' => 31.11728,
     'longitude' => 77.53936,
   ),
-  1618 => 
+  1582 => 
   array (
     'id' => 132602,
     'name' => 'Kotla',
@@ -14572,7 +14248,7 @@ return array (
     'latitude' => 32.25,
     'longitude' => 76.03333,
   ),
-  1619 => 
+  1583 => 
   array (
     'id' => 132603,
     'name' => 'Kotma',
@@ -14581,7 +14257,7 @@ return array (
     'latitude' => 23.20383,
     'longitude' => 81.97904,
   ),
-  1620 => 
+  1584 => 
   array (
     'id' => 132604,
     'name' => 'Kotputli',
@@ -14590,7 +14266,7 @@ return array (
     'latitude' => 27.70207,
     'longitude' => 76.19911,
   ),
-  1621 => 
+  1585 => 
   array (
     'id' => 132605,
     'name' => 'Kotra',
@@ -14599,7 +14275,7 @@ return array (
     'latitude' => 25.8077,
     'longitude' => 79.30909,
   ),
-  1622 => 
+  1586 => 
   array (
     'id' => 132606,
     'name' => 'Kottagudem',
@@ -14608,7 +14284,7 @@ return array (
     'latitude' => 17.55106,
     'longitude' => 80.61779,
   ),
-  1623 => 
+  1587 => 
   array (
     'id' => 132607,
     'name' => 'Kottaiyur',
@@ -14617,7 +14293,7 @@ return array (
     'latitude' => 10.10956,
     'longitude' => 78.7956,
   ),
-  1624 => 
+  1588 => 
   array (
     'id' => 132608,
     'name' => 'Kottapalli',
@@ -14626,7 +14302,7 @@ return array (
     'latitude' => 18.49543,
     'longitude' => 79.0943,
   ),
-  1625 => 
+  1589 => 
   array (
     'id' => 132609,
     'name' => 'Kottayam',
@@ -14635,7 +14311,7 @@ return array (
     'latitude' => 9.66667,
     'longitude' => 76.66667,
   ),
-  1626 => 
+  1590 => 
   array (
     'id' => 132610,
     'name' => 'Kotturu',
@@ -14644,7 +14320,7 @@ return array (
     'latitude' => 14.82442,
     'longitude' => 76.22005,
   ),
-  1627 => 
+  1591 => 
   array (
     'id' => 132611,
     'name' => 'Kotwa',
@@ -14653,16 +14329,7 @@ return array (
     'latitude' => 25.0308,
     'longitude' => 81.31908,
   ),
-  1628 => 
-  array (
-    'id' => 132612,
-    'name' => 'Kota',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.29507,
-    'longitude' => 82.02366,
-  ),
-  1629 => 
+  1592 => 
   array (
     'id' => 132613,
     'name' => 'Kotar',
@@ -14671,7 +14338,7 @@ return array (
     'latitude' => 24.69802,
     'longitude' => 80.98073,
   ),
-  1630 => 
+  1593 => 
   array (
     'id' => 132614,
     'name' => 'Kovalam',
@@ -14680,7 +14347,7 @@ return array (
     'latitude' => 8.36667,
     'longitude' => 76.99667,
   ),
-  1631 => 
+  1594 => 
   array (
     'id' => 132615,
     'name' => 'Kovilpatti',
@@ -14689,7 +14356,7 @@ return array (
     'latitude' => 9.17167,
     'longitude' => 77.86989,
   ),
-  1632 => 
+  1595 => 
   array (
     'id' => 132616,
     'name' => 'Kovvur',
@@ -14698,7 +14365,7 @@ return array (
     'latitude' => 17.0162,
     'longitude' => 81.72934,
   ),
-  1633 => 
+  1596 => 
   array (
     'id' => 132618,
     'name' => 'Koynanagar',
@@ -14707,7 +14374,7 @@ return array (
     'latitude' => 17.4,
     'longitude' => 73.76667,
   ),
-  1634 => 
+  1597 => 
   array (
     'id' => 132619,
     'name' => 'Kozhikode',
@@ -14716,7 +14383,7 @@ return array (
     'latitude' => 11.5,
     'longitude' => 76.0,
   ),
-  1635 => 
+  1598 => 
   array (
     'id' => 132620,
     'name' => 'Koath',
@@ -14725,7 +14392,7 @@ return array (
     'latitude' => 25.32643,
     'longitude' => 84.25983,
   ),
-  1636 => 
+  1599 => 
   array (
     'id' => 132621,
     'name' => 'Krishna',
@@ -14734,7 +14401,7 @@ return array (
     'latitude' => 16.66667,
     'longitude' => 81.0,
   ),
-  1637 => 
+  1600 => 
   array (
     'id' => 132622,
     'name' => 'Krishnagiri',
@@ -14743,7 +14410,7 @@ return array (
     'latitude' => 12.58,
     'longitude' => 77.96,
   ),
-  1638 => 
+  1601 => 
   array (
     'id' => 132623,
     'name' => 'Krishnarajpet',
@@ -14752,7 +14419,7 @@ return array (
     'latitude' => 12.66621,
     'longitude' => 76.4877,
   ),
-  1639 => 
+  1602 => 
   array (
     'id' => 132624,
     'name' => 'Kuchaiburi',
@@ -14761,7 +14428,7 @@ return array (
     'latitude' => 22.26675,
     'longitude' => 86.17385,
   ),
-  1640 => 
+  1603 => 
   array (
     'id' => 132625,
     'name' => 'Kuchera',
@@ -14770,7 +14437,7 @@ return array (
     'latitude' => 26.98747,
     'longitude' => 73.97108,
   ),
-  1641 => 
+  1604 => 
   array (
     'id' => 132626,
     'name' => 'Kuchinda',
@@ -14779,7 +14446,7 @@ return array (
     'latitude' => 21.74356,
     'longitude' => 84.34848,
   ),
-  1642 => 
+  1605 => 
   array (
     'id' => 132627,
     'name' => 'Kuchaman',
@@ -14788,7 +14455,7 @@ return array (
     'latitude' => 27.14745,
     'longitude' => 74.85655,
   ),
-  1643 => 
+  1606 => 
   array (
     'id' => 132628,
     'name' => 'Kudachi',
@@ -14797,7 +14464,7 @@ return array (
     'latitude' => 16.62784,
     'longitude' => 74.85408,
   ),
-  1644 => 
+  1607 => 
   array (
     'id' => 132629,
     'name' => 'Kudal',
@@ -14806,7 +14473,7 @@ return array (
     'latitude' => 16.01148,
     'longitude' => 73.68867,
   ),
-  1645 => 
+  1608 => 
   array (
     'id' => 132630,
     'name' => 'Kuju',
@@ -14815,7 +14482,7 @@ return array (
     'latitude' => 23.72536,
     'longitude' => 85.51023,
   ),
-  1646 => 
+  1609 => 
   array (
     'id' => 132631,
     'name' => 'Kukshi',
@@ -14824,7 +14491,7 @@ return array (
     'latitude' => 22.20677,
     'longitude' => 74.75788,
   ),
-  1647 => 
+  1610 => 
   array (
     'id' => 132632,
     'name' => 'Kulattur',
@@ -14833,7 +14500,7 @@ return array (
     'latitude' => 9.0032,
     'longitude' => 78.1928,
   ),
-  1648 => 
+  1611 => 
   array (
     'id' => 132633,
     'name' => 'Kulgam',
@@ -14842,7 +14509,7 @@ return array (
     'latitude' => 33.64456,
     'longitude' => 75.01923,
   ),
-  1649 => 
+  1612 => 
   array (
     'id' => 132634,
     'name' => 'Kulittalai',
@@ -14851,7 +14518,7 @@ return array (
     'latitude' => 10.93487,
     'longitude' => 78.41251,
   ),
-  1650 => 
+  1613 => 
   array (
     'id' => 132635,
     'name' => 'Kulpahar',
@@ -14860,7 +14527,7 @@ return array (
     'latitude' => 25.32007,
     'longitude' => 79.63931,
   ),
-  1651 => 
+  1614 => 
   array (
     'id' => 132636,
     'name' => 'Kulu',
@@ -14869,7 +14536,7 @@ return array (
     'latitude' => 32.0,
     'longitude' => 77.25,
   ),
-  1652 => 
+  1615 => 
   array (
     'id' => 132637,
     'name' => 'Kumaralingam',
@@ -14878,7 +14545,7 @@ return array (
     'latitude' => 10.48936,
     'longitude' => 77.3499,
   ),
-  1653 => 
+  1616 => 
   array (
     'id' => 132638,
     'name' => 'Kumbakonam',
@@ -14887,7 +14554,7 @@ return array (
     'latitude' => 10.96209,
     'longitude' => 79.39124,
   ),
-  1654 => 
+  1617 => 
   array (
     'id' => 132639,
     'name' => 'Kumbalam',
@@ -14896,7 +14563,7 @@ return array (
     'latitude' => 9.9063,
     'longitude' => 76.31127,
   ),
-  1655 => 
+  1618 => 
   array (
     'id' => 132640,
     'name' => 'Kumbhraj',
@@ -14905,7 +14572,7 @@ return array (
     'latitude' => 24.37338,
     'longitude' => 77.04841,
   ),
-  1656 => 
+  1619 => 
   array (
     'id' => 132641,
     'name' => 'Kumhari',
@@ -14914,7 +14581,7 @@ return array (
     'latitude' => 21.26667,
     'longitude' => 81.51667,
   ),
-  1657 => 
+  1620 => 
   array (
     'id' => 132642,
     'name' => 'Kumsi',
@@ -14923,7 +14590,7 @@ return array (
     'latitude' => 14.05455,
     'longitude' => 75.39992,
   ),
-  1658 => 
+  1621 => 
   array (
     'id' => 132643,
     'name' => 'Kumta',
@@ -14932,7 +14599,7 @@ return array (
     'latitude' => 14.42853,
     'longitude' => 74.4189,
   ),
-  1659 => 
+  1622 => 
   array (
     'id' => 132644,
     'name' => 'Kunda',
@@ -14941,7 +14608,7 @@ return array (
     'latitude' => 25.71702,
     'longitude' => 81.51396,
   ),
-  1660 => 
+  1623 => 
   array (
     'id' => 132645,
     'name' => 'Kundarkhi',
@@ -14950,7 +14617,7 @@ return array (
     'latitude' => 28.68304,
     'longitude' => 78.78559,
   ),
-  1661 => 
+  1624 => 
   array (
     'id' => 132646,
     'name' => 'Kundgol',
@@ -14959,7 +14626,7 @@ return array (
     'latitude' => 15.25612,
     'longitude' => 75.24735,
   ),
-  1662 => 
+  1625 => 
   array (
     'id' => 132647,
     'name' => 'Kundla',
@@ -14968,7 +14635,7 @@ return array (
     'latitude' => 21.34222,
     'longitude' => 71.30633,
   ),
-  1663 => 
+  1626 => 
   array (
     'id' => 132648,
     'name' => 'Kunigal',
@@ -14977,7 +14644,7 @@ return array (
     'latitude' => 13.02319,
     'longitude' => 77.02518,
   ),
-  1664 => 
+  1627 => 
   array (
     'id' => 132649,
     'name' => 'Kunnamangalam',
@@ -14986,7 +14653,7 @@ return array (
     'latitude' => 11.30459,
     'longitude' => 75.87772,
   ),
-  1665 => 
+  1628 => 
   array (
     'id' => 132650,
     'name' => 'Kunnamkulam',
@@ -14995,7 +14662,7 @@ return array (
     'latitude' => 10.64667,
     'longitude' => 76.06695,
   ),
-  1666 => 
+  1629 => 
   array (
     'id' => 132651,
     'name' => 'Kunnattur',
@@ -15004,7 +14671,7 @@ return array (
     'latitude' => 12.34782,
     'longitude' => 78.51046,
   ),
-  1667 => 
+  1630 => 
   array (
     'id' => 132652,
     'name' => 'Kunnumma',
@@ -15013,7 +14680,7 @@ return array (
     'latitude' => 9.35672,
     'longitude' => 76.41343,
   ),
-  1668 => 
+  1631 => 
   array (
     'id' => 132653,
     'name' => 'Kuppam',
@@ -15022,7 +14689,7 @@ return array (
     'latitude' => 12.74931,
     'longitude' => 78.34189,
   ),
-  1669 => 
+  1632 => 
   array (
     'id' => 132654,
     'name' => 'Kupwara',
@@ -15031,7 +14698,7 @@ return array (
     'latitude' => 34.53193,
     'longitude' => 74.26605,
   ),
-  1670 => 
+  1633 => 
   array (
     'id' => 132656,
     'name' => 'Kurandvad',
@@ -15040,7 +14707,7 @@ return array (
     'latitude' => 16.68317,
     'longitude' => 74.58892,
   ),
-  1671 => 
+  1634 => 
   array (
     'id' => 132657,
     'name' => 'Kurduvadi',
@@ -15049,7 +14716,7 @@ return array (
     'latitude' => 18.09339,
     'longitude' => 75.41567,
   ),
-  1672 => 
+  1635 => 
   array (
     'id' => 132658,
     'name' => 'Kurgunta',
@@ -15058,7 +14725,7 @@ return array (
     'latitude' => 17.19321,
     'longitude' => 77.35772,
   ),
-  1673 => 
+  1636 => 
   array (
     'id' => 132659,
     'name' => 'Kurinjippadi',
@@ -15067,7 +14734,7 @@ return array (
     'latitude' => 11.55028,
     'longitude' => 79.59066,
   ),
-  1674 => 
+  1637 => 
   array (
     'id' => 132660,
     'name' => 'Kurnool',
@@ -15076,7 +14743,7 @@ return array (
     'latitude' => 15.58333,
     'longitude' => 78.33333,
   ),
-  1675 => 
+  1638 => 
   array (
     'id' => 132661,
     'name' => 'Kurud',
@@ -15085,7 +14752,7 @@ return array (
     'latitude' => 20.83073,
     'longitude' => 81.72212,
   ),
-  1676 => 
+  1639 => 
   array (
     'id' => 132662,
     'name' => 'Kurukshetra',
@@ -15094,7 +14761,7 @@ return array (
     'latitude' => 30.0,
     'longitude' => 76.75,
   ),
-  1677 => 
+  1640 => 
   array (
     'id' => 132663,
     'name' => 'Kurung Kumey',
@@ -15103,7 +14770,7 @@ return array (
     'latitude' => 27.99983,
     'longitude' => 93.3924,
   ),
-  1678 => 
+  1641 => 
   array (
     'id' => 132664,
     'name' => 'Kurara',
@@ -15112,7 +14779,7 @@ return array (
     'latitude' => 25.98046,
     'longitude' => 79.98984,
   ),
-  1679 => 
+  1642 => 
   array (
     'id' => 132665,
     'name' => 'Kushinagar',
@@ -15121,7 +14788,7 @@ return array (
     'latitude' => 26.74028,
     'longitude' => 83.88889,
   ),
-  1680 => 
+  1643 => 
   array (
     'id' => 132666,
     'name' => 'Kushtagi',
@@ -15130,7 +14797,7 @@ return array (
     'latitude' => 15.75623,
     'longitude' => 76.19112,
   ),
-  1681 => 
+  1644 => 
   array (
     'id' => 132667,
     'name' => 'Kushalgarh',
@@ -15139,7 +14806,7 @@ return array (
     'latitude' => 23.19899,
     'longitude' => 74.45074,
   ),
-  1682 => 
+  1645 => 
   array (
     'id' => 132668,
     'name' => 'Kushalnagar',
@@ -15148,7 +14815,7 @@ return array (
     'latitude' => 12.45795,
     'longitude' => 75.95904,
   ),
-  1683 => 
+  1646 => 
   array (
     'id' => 132669,
     'name' => 'Kutiatodu',
@@ -15157,7 +14824,7 @@ return array (
     'latitude' => 9.8,
     'longitude' => 76.33333,
   ),
-  1684 => 
+  1647 => 
   array (
     'id' => 132670,
     'name' => 'Kutiyana',
@@ -15166,7 +14833,7 @@ return array (
     'latitude' => 21.6241,
     'longitude' => 69.98494,
   ),
-  1685 => 
+  1648 => 
   array (
     'id' => 132671,
     'name' => 'Kuttampuzha',
@@ -15175,7 +14842,7 @@ return array (
     'latitude' => 10.15033,
     'longitude' => 76.73544,
   ),
-  1686 => 
+  1649 => 
   array (
     'id' => 132672,
     'name' => 'Kuttalam',
@@ -15184,7 +14851,7 @@ return array (
     'latitude' => 8.9303,
     'longitude' => 77.26951,
   ),
-  1687 => 
+  1650 => 
   array (
     'id' => 132673,
     'name' => 'Kuzhithurai',
@@ -15193,7 +14860,7 @@ return array (
     'latitude' => 8.31792,
     'longitude' => 77.19192,
   ),
-  1688 => 
+  1651 => 
   array (
     'id' => 132674,
     'name' => 'Kyathampalle',
@@ -15202,7 +14869,7 @@ return array (
     'latitude' => 19.66781,
     'longitude' => 78.5289,
   ),
-  1689 => 
+  1652 => 
   array (
     'id' => 132675,
     'name' => 'Kyelang',
@@ -15211,7 +14878,7 @@ return array (
     'latitude' => 32.5717,
     'longitude' => 77.02448,
   ),
-  1690 => 
+  1653 => 
   array (
     'id' => 132676,
     'name' => 'Kadipur',
@@ -15220,7 +14887,7 @@ return array (
     'latitude' => 26.16779,
     'longitude' => 82.37028,
   ),
-  1691 => 
+  1654 => 
   array (
     'id' => 132677,
     'name' => 'Kagal',
@@ -15229,7 +14896,7 @@ return array (
     'latitude' => 16.57702,
     'longitude' => 74.31544,
   ),
-  1692 => 
+  1655 => 
   array (
     'id' => 132678,
     'name' => 'Kakinada',
@@ -15238,7 +14905,7 @@ return array (
     'latitude' => 16.96036,
     'longitude' => 82.23809,
   ),
-  1693 => 
+  1656 => 
   array (
     'id' => 132679,
     'name' => 'Kakori',
@@ -15247,7 +14914,7 @@ return array (
     'latitude' => 26.868,
     'longitude' => 80.7857,
   ),
-  1694 => 
+  1657 => 
   array (
     'id' => 132680,
     'name' => 'Kalikapur',
@@ -15256,7 +14923,7 @@ return array (
     'latitude' => 22.61662,
     'longitude' => 86.2881,
   ),
-  1695 => 
+  1658 => 
   array (
     'id' => 132681,
     'name' => 'Kalka',
@@ -15265,7 +14932,7 @@ return array (
     'latitude' => 30.83982,
     'longitude' => 76.94065,
   ),
-  1696 => 
+  1659 => 
   array (
     'id' => 132682,
     'name' => 'Kalol',
@@ -15274,7 +14941,7 @@ return array (
     'latitude' => 22.60777,
     'longitude' => 73.46272,
   ),
-  1697 => 
+  1660 => 
   array (
     'id' => 132683,
     'name' => 'Kalpi',
@@ -15283,7 +14950,7 @@ return array (
     'latitude' => 26.11667,
     'longitude' => 79.73333,
   ),
-  1698 => 
+  1661 => 
   array (
     'id' => 132684,
     'name' => 'Kalundri',
@@ -15292,7 +14959,7 @@ return array (
     'latitude' => 18.9802,
     'longitude' => 73.12708,
   ),
-  1699 => 
+  1662 => 
   array (
     'id' => 132685,
     'name' => 'Kaladhungi',
@@ -15301,7 +14968,7 @@ return array (
     'latitude' => 29.28351,
     'longitude' => 79.351,
   ),
-  1700 => 
+  1663 => 
   array (
     'id' => 132686,
     'name' => 'Kalagarh Project Colony',
@@ -15310,7 +14977,7 @@ return array (
     'latitude' => 29.4778,
     'longitude' => 78.78449,
   ),
-  1701 => 
+  1664 => 
   array (
     'id' => 132687,
     'name' => 'Kalahandi',
@@ -15319,7 +14986,7 @@ return array (
     'latitude' => 19.75,
     'longitude' => 83.0,
   ),
-  1702 => 
+  1665 => 
   array (
     'id' => 132688,
     'name' => 'Kalanwali',
@@ -15328,7 +14995,7 @@ return array (
     'latitude' => 29.83573,
     'longitude' => 74.9717,
   ),
-  1703 => 
+  1666 => 
   array (
     'id' => 132689,
     'name' => 'Kalavad',
@@ -15337,7 +15004,7 @@ return array (
     'latitude' => 22.20789,
     'longitude' => 70.38343,
   ),
-  1704 => 
+  1667 => 
   array (
     'id' => 132690,
     'name' => 'Kalinagar',
@@ -15346,7 +15013,7 @@ return array (
     'latitude' => 28.62019,
     'longitude' => 80.08152,
   ),
-  1705 => 
+  1668 => 
   array (
     'id' => 132691,
     'name' => 'Kamalapuram',
@@ -15355,7 +15022,7 @@ return array (
     'latitude' => 14.5983,
     'longitude' => 78.66948,
   ),
-  1706 => 
+  1669 => 
   array (
     'id' => 132692,
     'name' => 'Kaman',
@@ -15364,7 +15031,7 @@ return array (
     'latitude' => 27.65791,
     'longitude' => 77.26908,
   ),
-  1707 => 
+  1670 => 
   array (
     'id' => 132693,
     'name' => 'Kamrup',
@@ -15373,7 +15040,7 @@ return array (
     'latitude' => 26.22322,
     'longitude' => 91.65344,
   ),
-  1708 => 
+  1671 => 
   array (
     'id' => 132695,
     'name' => 'Kamakhyanagar',
@@ -15382,7 +15049,7 @@ return array (
     'latitude' => 20.93385,
     'longitude' => 85.54489,
   ),
-  1709 => 
+  1672 => 
   array (
     'id' => 132696,
     'name' => 'Kamareddi',
@@ -15391,7 +15058,7 @@ return array (
     'latitude' => 18.32001,
     'longitude' => 78.34177,
   ),
-  1710 => 
+  1673 => 
   array (
     'id' => 132697,
     'name' => 'Kandhla',
@@ -15400,7 +15067,7 @@ return array (
     'latitude' => 29.32104,
     'longitude' => 77.27101,
   ),
-  1711 => 
+  1674 => 
   array (
     'id' => 132698,
     'name' => 'Kandla',
@@ -15409,7 +15076,7 @@ return array (
     'latitude' => 23.03333,
     'longitude' => 70.21667,
   ),
-  1712 => 
+  1675 => 
   array (
     'id' => 132699,
     'name' => 'Kandra',
@@ -15418,7 +15085,7 @@ return array (
     'latitude' => 22.8517,
     'longitude' => 86.05192,
   ),
-  1713 => 
+  1676 => 
   array (
     'id' => 132700,
     'name' => 'Kandri',
@@ -15427,7 +15094,7 @@ return array (
     'latitude' => 21.4203,
     'longitude' => 79.27663,
   ),
-  1714 => 
+  1677 => 
   array (
     'id' => 132701,
     'name' => 'Kangar',
@@ -15436,7 +15103,7 @@ return array (
     'latitude' => 32.09135,
     'longitude' => 76.26267,
   ),
-  1715 => 
+  1678 => 
   array (
     'id' => 132702,
     'name' => 'Kangra',
@@ -15445,7 +15112,7 @@ return array (
     'latitude' => 32.16667,
     'longitude' => 76.25,
   ),
-  1716 => 
+  1679 => 
   array (
     'id' => 132703,
     'name' => 'Kanke',
@@ -15454,7 +15121,7 @@ return array (
     'latitude' => 23.43478,
     'longitude' => 85.32059,
   ),
-  1717 => 
+  1680 => 
   array (
     'id' => 132704,
     'name' => 'Kanker',
@@ -15463,7 +15130,7 @@ return array (
     'latitude' => 20.27193,
     'longitude' => 81.49177,
   ),
-  1718 => 
+  1681 => 
   array (
     'id' => 132705,
     'name' => 'Kankon',
@@ -15472,7 +15139,7 @@ return array (
     'latitude' => 15.02698,
     'longitude' => 74.04617,
   ),
-  1719 => 
+  1682 => 
   array (
     'id' => 132706,
     'name' => 'Kankanhalli',
@@ -15481,7 +15148,7 @@ return array (
     'latitude' => 12.54654,
     'longitude' => 77.42005,
   ),
-  1720 => 
+  1683 => 
   array (
     'id' => 132707,
     'name' => 'Kanhangad',
@@ -15490,7 +15157,7 @@ return array (
     'latitude' => 12.30814,
     'longitude' => 75.10632,
   ),
-  1721 => 
+  1684 => 
   array (
     'id' => 132708,
     'name' => 'Kanodar',
@@ -15499,7 +15166,7 @@ return array (
     'latitude' => 24.08932,
     'longitude' => 72.39354,
   ),
-  1722 => 
+  1685 => 
   array (
     'id' => 132709,
     'name' => 'Kanor',
@@ -15508,7 +15175,7 @@ return array (
     'latitude' => 24.43437,
     'longitude' => 74.26546,
   ),
-  1723 => 
+  1686 => 
   array (
     'id' => 132711,
     'name' => 'Kant',
@@ -15517,7 +15184,7 @@ return array (
     'latitude' => 27.81049,
     'longitude' => 79.79185,
   ),
-  1724 => 
+  1687 => 
   array (
     'id' => 132712,
     'name' => 'Kanth',
@@ -15526,7 +15193,7 @@ return array (
     'latitude' => 29.05939,
     'longitude' => 78.62951,
   ),
-  1725 => 
+  1688 => 
   array (
     'id' => 132713,
     'name' => 'Kapren',
@@ -15535,7 +15202,7 @@ return array (
     'latitude' => 25.40529,
     'longitude' => 76.07431,
   ),
-  1726 => 
+  1689 => 
   array (
     'id' => 132714,
     'name' => 'Karaikkudi',
@@ -15544,7 +15211,7 @@ return array (
     'latitude' => 10.06615,
     'longitude' => 78.76784,
   ),
-  1727 => 
+  1690 => 
   array (
     'id' => 132715,
     'name' => 'Karaikal',
@@ -15553,7 +15220,7 @@ return array (
     'latitude' => 10.92209,
     'longitude' => 79.83353,
   ),
-  1728 => 
+  1691 => 
   array (
     'id' => 132716,
     'name' => 'Karamadai',
@@ -15562,7 +15229,7 @@ return array (
     'latitude' => 11.24058,
     'longitude' => 76.96009,
   ),
-  1729 => 
+  1692 => 
   array (
     'id' => 132717,
     'name' => 'Karanja',
@@ -15571,7 +15238,7 @@ return array (
     'latitude' => 20.48273,
     'longitude' => 77.48857,
   ),
-  1730 => 
+  1693 => 
   array (
     'id' => 132718,
     'name' => 'Karbi Anglong',
@@ -15580,7 +15247,7 @@ return array (
     'latitude' => 26.0,
     'longitude' => 93.5,
   ),
-  1731 => 
+  1694 => 
   array (
     'id' => 132719,
     'name' => 'Karkala',
@@ -15589,7 +15256,7 @@ return array (
     'latitude' => 13.21428,
     'longitude' => 74.99234,
   ),
-  1732 => 
+  1695 => 
   array (
     'id' => 132720,
     'name' => 'Kasaragod',
@@ -15598,7 +15265,7 @@ return array (
     'latitude' => 12.49838,
     'longitude' => 74.98959,
   ),
-  1733 => 
+  1696 => 
   array (
     'id' => 132722,
     'name' => 'Kasganj',
@@ -15607,7 +15274,7 @@ return array (
     'latitude' => 27.80882,
     'longitude' => 78.64579,
   ),
-  1734 => 
+  1697 => 
   array (
     'id' => 132723,
     'name' => 'Kathor',
@@ -15616,7 +15283,7 @@ return array (
     'latitude' => 21.28854,
     'longitude' => 72.9407,
   ),
-  1735 => 
+  1698 => 
   array (
     'id' => 132724,
     'name' => 'Kati',
@@ -15625,7 +15292,7 @@ return array (
     'latitude' => 17.96137,
     'longitude' => 75.88895,
   ),
-  1736 => 
+  1699 => 
   array (
     'id' => 132725,
     'name' => 'Katol',
@@ -15634,7 +15301,7 @@ return array (
     'latitude' => 21.27388,
     'longitude' => 78.5858,
   ),
-  1737 => 
+  1700 => 
   array (
     'id' => 132726,
     'name' => 'Katpadi',
@@ -15643,7 +15310,7 @@ return array (
     'latitude' => 12.96951,
     'longitude' => 79.14552,
   ),
-  1738 => 
+  1701 => 
   array (
     'id' => 132727,
     'name' => 'Katras',
@@ -15652,7 +15319,7 @@ return array (
     'latitude' => 23.79752,
     'longitude' => 86.29834,
   ),
-  1739 => 
+  1702 => 
   array (
     'id' => 132728,
     'name' => 'Kattupputtur',
@@ -15661,7 +15328,7 @@ return array (
     'latitude' => 10.99385,
     'longitude' => 78.21929,
   ),
-  1740 => 
+  1703 => 
   array (
     'id' => 132729,
     'name' => 'Kavali',
@@ -15670,7 +15337,7 @@ return array (
     'latitude' => 14.9163,
     'longitude' => 79.99449,
   ),
-  1741 => 
+  1704 => 
   array (
     'id' => 132730,
     'name' => 'Kaveripatnam',
@@ -15679,7 +15346,7 @@ return array (
     'latitude' => 12.42186,
     'longitude' => 78.2188,
   ),
-  1742 => 
+  1705 => 
   array (
     'id' => 132731,
     'name' => 'Kayankulam',
@@ -15688,7 +15355,7 @@ return array (
     'latitude' => 9.18173,
     'longitude' => 76.50093,
   ),
-  1743 => 
+  1706 => 
   array (
     'id' => 132732,
     'name' => 'Kil Bhuvanagiri',
@@ -15697,7 +15364,7 @@ return array (
     'latitude' => 11.44216,
     'longitude' => 79.64763,
   ),
-  1744 => 
+  1707 => 
   array (
     'id' => 132733,
     'name' => 'Kiranur',
@@ -15706,7 +15373,7 @@ return array (
     'latitude' => 10.56988,
     'longitude' => 78.78682,
   ),
-  1745 => 
+  1708 => 
   array (
     'id' => 132734,
     'name' => 'Kiratpur',
@@ -15715,7 +15382,7 @@ return array (
     'latitude' => 29.50671,
     'longitude' => 78.20613,
   ),
-  1746 => 
+  1709 => 
   array (
     'id' => 132735,
     'name' => 'Kud',
@@ -15724,7 +15391,7 @@ return array (
     'latitude' => 33.07246,
     'longitude' => 75.28727,
   ),
-  1747 => 
+  1710 => 
   array (
     'id' => 132736,
     'name' => 'Kudligi',
@@ -15733,7 +15400,7 @@ return array (
     'latitude' => 14.905,
     'longitude' => 76.38527,
   ),
-  1748 => 
+  1711 => 
   array (
     'id' => 132737,
     'name' => 'Kukatpally',
@@ -15742,7 +15409,7 @@ return array (
     'latitude' => 17.48486,
     'longitude' => 78.41376,
   ),
-  1749 => 
+  1712 => 
   array (
     'id' => 132738,
     'name' => 'Kumher',
@@ -15751,7 +15418,7 @@ return array (
     'latitude' => 27.31657,
     'longitude' => 77.37079,
   ),
-  1750 => 
+  1713 => 
   array (
     'id' => 132739,
     'name' => 'Lachhmangarh Sikar',
@@ -15760,7 +15427,7 @@ return array (
     'latitude' => 27.82294,
     'longitude' => 75.02754,
   ),
-  1751 => 
+  1714 => 
   array (
     'id' => 132740,
     'name' => 'Ladakh',
@@ -15769,7 +15436,7 @@ return array (
     'latitude' => 34.33333,
     'longitude' => 77.41667,
   ),
-  1752 => 
+  1715 => 
   array (
     'id' => 132741,
     'name' => 'Lahar',
@@ -15778,7 +15445,7 @@ return array (
     'latitude' => 26.19401,
     'longitude' => 78.94137,
   ),
-  1753 => 
+  1716 => 
   array (
     'id' => 132742,
     'name' => 'Lakhimpur',
@@ -15787,7 +15454,7 @@ return array (
     'latitude' => 27.35,
     'longitude' => 94.25,
   ),
-  1754 => 
+  1717 => 
   array (
     'id' => 132743,
     'name' => 'Lakhipur',
@@ -15796,7 +15463,7 @@ return array (
     'latitude' => 24.79281,
     'longitude' => 93.0091,
   ),
-  1755 => 
+  1718 => 
   array (
     'id' => 132744,
     'name' => 'Lakhisarai',
@@ -15805,7 +15472,7 @@ return array (
     'latitude' => 25.2,
     'longitude' => 86.2,
   ),
-  1756 => 
+  1719 => 
   array (
     'id' => 132745,
     'name' => 'Lakhna',
@@ -15814,7 +15481,7 @@ return array (
     'latitude' => 26.64822,
     'longitude' => 79.1477,
   ),
-  1757 => 
+  1720 => 
   array (
     'id' => 132746,
     'name' => 'Lakhnadon',
@@ -15823,7 +15490,7 @@ return array (
     'latitude' => 22.60049,
     'longitude' => 79.60094,
   ),
-  1758 => 
+  1721 => 
   array (
     'id' => 132747,
     'name' => 'Lakhtar',
@@ -15832,16 +15499,7 @@ return array (
     'latitude' => 22.85683,
     'longitude' => 71.78844,
   ),
-  1759 => 
-  array (
-    'id' => 132748,
-    'name' => 'Lakhimpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 27.94822,
-    'longitude' => 80.77935,
-  ),
-  1760 => 
+  1722 => 
   array (
     'id' => 132749,
     'name' => 'Laksar',
@@ -15850,7 +15508,7 @@ return array (
     'latitude' => 29.7587,
     'longitude' => 78.04148,
   ),
-  1761 => 
+  1723 => 
   array (
     'id' => 132750,
     'name' => 'Lakshadweep',
@@ -15859,7 +15517,7 @@ return array (
     'latitude' => 11.27333,
     'longitude' => 74.04582,
   ),
-  1762 => 
+  1724 => 
   array (
     'id' => 132751,
     'name' => 'Lakshettipet',
@@ -15868,7 +15526,7 @@ return array (
     'latitude' => 18.86667,
     'longitude' => 79.21667,
   ),
-  1763 => 
+  1725 => 
   array (
     'id' => 132752,
     'name' => 'Lakshmeshwar',
@@ -15877,7 +15535,7 @@ return array (
     'latitude' => 15.12689,
     'longitude' => 75.46935,
   ),
-  1764 => 
+  1726 => 
   array (
     'id' => 132753,
     'name' => 'Lal Bahadur Nagar',
@@ -15886,7 +15544,7 @@ return array (
     'latitude' => 17.34769,
     'longitude' => 78.55757,
   ),
-  1765 => 
+  1727 => 
   array (
     'id' => 132754,
     'name' => 'Lalgudi',
@@ -15895,7 +15553,7 @@ return array (
     'latitude' => 10.87419,
     'longitude' => 78.81935,
   ),
-  1766 => 
+  1728 => 
   array (
     'id' => 132755,
     'name' => 'Lalitpur',
@@ -15904,7 +15562,7 @@ return array (
     'latitude' => 24.5,
     'longitude' => 78.5,
   ),
-  1767 => 
+  1729 => 
   array (
     'id' => 132756,
     'name' => 'Lansdowne',
@@ -15913,7 +15571,7 @@ return array (
     'latitude' => 29.84183,
     'longitude' => 78.68014,
   ),
-  1768 => 
+  1730 => 
   array (
     'id' => 132757,
     'name' => 'Lar',
@@ -15922,7 +15580,7 @@ return array (
     'latitude' => 26.20394,
     'longitude' => 83.96906,
   ),
-  1769 => 
+  1731 => 
   array (
     'id' => 132758,
     'name' => 'Latehar',
@@ -15931,7 +15589,7 @@ return array (
     'latitude' => 23.75,
     'longitude' => 84.4,
   ),
-  1770 => 
+  1732 => 
   array (
     'id' => 132759,
     'name' => 'Latur',
@@ -15940,7 +15598,7 @@ return array (
     'latitude' => 18.4,
     'longitude' => 76.8,
   ),
-  1771 => 
+  1733 => 
   array (
     'id' => 132760,
     'name' => 'Laungowal',
@@ -15949,7 +15607,7 @@ return array (
     'latitude' => 30.19393,
     'longitude' => 75.68089,
   ),
-  1772 => 
+  1734 => 
   array (
     'id' => 132761,
     'name' => 'Lawngtlai',
@@ -15958,7 +15616,7 @@ return array (
     'latitude' => 22.53,
     'longitude' => 92.9,
   ),
-  1773 => 
+  1735 => 
   array (
     'id' => 132762,
     'name' => 'Leh',
@@ -15967,7 +15625,7 @@ return array (
     'latitude' => 34.16504,
     'longitude' => 77.58402,
   ),
-  1774 => 
+  1736 => 
   array (
     'id' => 132763,
     'name' => 'Leteri',
@@ -15976,7 +15634,7 @@ return array (
     'latitude' => 24.05979,
     'longitude' => 77.40858,
   ),
-  1775 => 
+  1737 => 
   array (
     'id' => 132764,
     'name' => 'Limbdi',
@@ -15985,7 +15643,7 @@ return array (
     'latitude' => 22.56507,
     'longitude' => 71.81076,
   ),
-  1776 => 
+  1738 => 
   array (
     'id' => 132765,
     'name' => 'Lingsugur',
@@ -15994,7 +15652,7 @@ return array (
     'latitude' => 16.15876,
     'longitude' => 76.52174,
   ),
-  1777 => 
+  1739 => 
   array (
     'id' => 132766,
     'name' => 'Lodhikheda',
@@ -16003,7 +15661,7 @@ return array (
     'latitude' => 21.58235,
     'longitude' => 78.85911,
   ),
-  1778 => 
+  1740 => 
   array (
     'id' => 132767,
     'name' => 'Lohaghat',
@@ -16012,7 +15670,7 @@ return array (
     'latitude' => 29.40356,
     'longitude' => 80.08965,
   ),
-  1779 => 
+  1741 => 
   array (
     'id' => 132768,
     'name' => 'Lohardaga',
@@ -16021,7 +15679,7 @@ return array (
     'latitude' => 23.5,
     'longitude' => 84.6,
   ),
-  1780 => 
+  1742 => 
   array (
     'id' => 132769,
     'name' => 'Lohit District',
@@ -16030,7 +15688,7 @@ return array (
     'latitude' => 27.84012,
     'longitude' => 96.19521,
   ),
-  1781 => 
+  1743 => 
   array (
     'id' => 132770,
     'name' => 'Lohogaon',
@@ -16039,7 +15697,7 @@ return array (
     'latitude' => 18.59921,
     'longitude' => 73.92701,
   ),
-  1782 => 
+  1744 => 
   array (
     'id' => 132772,
     'name' => 'Loharu',
@@ -16048,7 +15706,7 @@ return array (
     'latitude' => 28.42993,
     'longitude' => 75.80779,
   ),
-  1783 => 
+  1745 => 
   array (
     'id' => 132773,
     'name' => 'Lonavla',
@@ -16057,7 +15715,7 @@ return array (
     'latitude' => 18.75275,
     'longitude' => 73.40575,
   ),
-  1784 => 
+  1746 => 
   array (
     'id' => 132774,
     'name' => 'Londa',
@@ -16066,7 +15724,7 @@ return array (
     'latitude' => 15.46907,
     'longitude' => 74.51906,
   ),
-  1785 => 
+  1747 => 
   array (
     'id' => 132775,
     'name' => 'Loni',
@@ -16075,7 +15733,7 @@ return array (
     'latitude' => 28.75143,
     'longitude' => 77.29023,
   ),
-  1786 => 
+  1748 => 
   array (
     'id' => 132776,
     'name' => 'Lonar',
@@ -16084,7 +15742,7 @@ return array (
     'latitude' => 19.98533,
     'longitude' => 76.52046,
   ),
-  1787 => 
+  1749 => 
   array (
     'id' => 132777,
     'name' => 'Lormi',
@@ -16093,7 +15751,7 @@ return array (
     'latitude' => 22.27434,
     'longitude' => 81.70181,
   ),
-  1788 => 
+  1750 => 
   array (
     'id' => 132778,
     'name' => 'Losal',
@@ -16102,7 +15760,7 @@ return array (
     'latitude' => 27.4,
     'longitude' => 74.91667,
   ),
-  1789 => 
+  1751 => 
   array (
     'id' => 132779,
     'name' => 'Lower Dibang Valley',
@@ -16111,7 +15769,7 @@ return array (
     'latitude' => 28.37258,
     'longitude' => 95.8804,
   ),
-  1790 => 
+  1752 => 
   array (
     'id' => 132780,
     'name' => 'Lower Subansiri',
@@ -16120,7 +15778,7 @@ return array (
     'latitude' => 27.62554,
     'longitude' => 93.93908,
   ),
-  1791 => 
+  1753 => 
   array (
     'id' => 132781,
     'name' => 'Luckeesarai',
@@ -16129,7 +15787,7 @@ return array (
     'latitude' => 25.1765,
     'longitude' => 86.0947,
   ),
-  1792 => 
+  1754 => 
   array (
     'id' => 132782,
     'name' => 'Lucknow',
@@ -16138,7 +15796,7 @@ return array (
     'latitude' => 26.83928,
     'longitude' => 80.92313,
   ),
-  1793 => 
+  1755 => 
   array (
     'id' => 132783,
     'name' => 'Lucknow District',
@@ -16147,7 +15805,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 81.0,
   ),
-  1794 => 
+  1756 => 
   array (
     'id' => 132785,
     'name' => 'Ludhiana',
@@ -16156,7 +15814,7 @@ return array (
     'latitude' => 30.91204,
     'longitude' => 75.85379,
   ),
-  1795 => 
+  1757 => 
   array (
     'id' => 132786,
     'name' => 'Lumding Railway Colony',
@@ -16165,7 +15823,7 @@ return array (
     'latitude' => 25.74903,
     'longitude' => 93.16998,
   ),
-  1796 => 
+  1758 => 
   array (
     'id' => 132787,
     'name' => 'Lunglei',
@@ -16174,7 +15832,7 @@ return array (
     'latitude' => 22.9,
     'longitude' => 92.75,
   ),
-  1797 => 
+  1759 => 
   array (
     'id' => 132788,
     'name' => 'Ladnun',
@@ -16183,7 +15841,7 @@ return array (
     'latitude' => 27.65312,
     'longitude' => 74.39993,
   ),
-  1798 => 
+  1760 => 
   array (
     'id' => 132789,
     'name' => 'Ladwa',
@@ -16192,7 +15850,7 @@ return array (
     'latitude' => 29.9935,
     'longitude' => 77.04563,
   ),
-  1799 => 
+  1761 => 
   array (
     'id' => 132790,
     'name' => 'Laharpur',
@@ -16201,7 +15859,7 @@ return array (
     'latitude' => 27.70827,
     'longitude' => 80.90256,
   ),
-  1800 => 
+  1762 => 
   array (
     'id' => 132791,
     'name' => 'Lahul and Spiti',
@@ -16210,7 +15868,7 @@ return array (
     'latitude' => 32.5,
     'longitude' => 77.83333,
   ),
-  1801 => 
+  1763 => 
   array (
     'id' => 132792,
     'name' => 'Lakheri',
@@ -16219,7 +15877,7 @@ return array (
     'latitude' => 25.67237,
     'longitude' => 76.17692,
   ),
-  1802 => 
+  1764 => 
   array (
     'id' => 132793,
     'name' => 'Lala',
@@ -16228,7 +15886,7 @@ return array (
     'latitude' => 24.55418,
     'longitude' => 92.61592,
   ),
-  1803 => 
+  1765 => 
   array (
     'id' => 132794,
     'name' => 'Lalam',
@@ -16237,7 +15895,7 @@ return array (
     'latitude' => 9.71667,
     'longitude' => 76.7,
   ),
-  1804 => 
+  1766 => 
   array (
     'id' => 132795,
     'name' => 'Lalganj',
@@ -16246,16 +15904,7 @@ return array (
     'latitude' => 25.86894,
     'longitude' => 85.17394,
   ),
-  1805 => 
-  array (
-    'id' => 132796,
-    'name' => 'Lalganj',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.93182,
-    'longitude' => 81.70478,
-  ),
-  1806 => 
+  1767 => 
   array (
     'id' => 132797,
     'name' => 'Lalpur',
@@ -16264,7 +15913,7 @@ return array (
     'latitude' => 22.19073,
     'longitude' => 69.96351,
   ),
-  1807 => 
+  1768 => 
   array (
     'id' => 132798,
     'name' => 'Lalsot',
@@ -16273,7 +15922,7 @@ return array (
     'latitude' => 26.55951,
     'longitude' => 76.32915,
   ),
-  1808 => 
+  1769 => 
   array (
     'id' => 132799,
     'name' => 'Lanja',
@@ -16282,7 +15931,7 @@ return array (
     'latitude' => 16.86086,
     'longitude' => 73.54993,
   ),
-  1809 => 
+  1770 => 
   array (
     'id' => 132800,
     'name' => 'Lasalgaon',
@@ -16291,7 +15940,7 @@ return array (
     'latitude' => 20.1427,
     'longitude' => 74.23946,
   ),
-  1810 => 
+  1771 => 
   array (
     'id' => 132802,
     'name' => 'Lathi',
@@ -16300,7 +15949,7 @@ return array (
     'latitude' => 21.7231,
     'longitude' => 71.38843,
   ),
-  1811 => 
+  1772 => 
   array (
     'id' => 132803,
     'name' => 'Lawar Khas',
@@ -16309,7 +15958,7 @@ return array (
     'latitude' => 29.11091,
     'longitude' => 77.77767,
   ),
-  1812 => 
+  1773 => 
   array (
     'id' => 132804,
     'name' => 'Lunavada',
@@ -16318,7 +15967,7 @@ return array (
     'latitude' => 23.12841,
     'longitude' => 73.61043,
   ),
-  1813 => 
+  1774 => 
   array (
     'id' => 132805,
     'name' => 'Machhlishahr',
@@ -16327,7 +15976,7 @@ return array (
     'latitude' => 25.68564,
     'longitude' => 82.41106,
   ),
-  1814 => 
+  1775 => 
   array (
     'id' => 132806,
     'name' => 'Machilipatnam',
@@ -16336,7 +15985,7 @@ return array (
     'latitude' => 16.18747,
     'longitude' => 81.13888,
   ),
-  1815 => 
+  1776 => 
   array (
     'id' => 132807,
     'name' => 'Madambakkam',
@@ -16345,7 +15994,7 @@ return array (
     'latitude' => 12.8525,
     'longitude' => 80.04667,
   ),
-  1816 => 
+  1777 => 
   array (
     'id' => 132808,
     'name' => 'Madanapalle',
@@ -16354,7 +16003,7 @@ return array (
     'latitude' => 13.5503,
     'longitude' => 78.50288,
   ),
-  1817 => 
+  1778 => 
   array (
     'id' => 132809,
     'name' => 'Maddagiri',
@@ -16363,7 +16012,7 @@ return array (
     'latitude' => 13.66035,
     'longitude' => 77.21239,
   ),
-  1818 => 
+  1779 => 
   array (
     'id' => 132810,
     'name' => 'Maddur',
@@ -16372,7 +16021,7 @@ return array (
     'latitude' => 12.58283,
     'longitude' => 77.04294,
   ),
-  1819 => 
+  1780 => 
   array (
     'id' => 132811,
     'name' => 'Madgaon',
@@ -16381,7 +16030,7 @@ return array (
     'latitude' => 15.27501,
     'longitude' => 73.95786,
   ),
-  1820 => 
+  1781 => 
   array (
     'id' => 132812,
     'name' => 'Madhepura',
@@ -16390,7 +16039,7 @@ return array (
     'latitude' => 25.8,
     'longitude' => 87.0,
   ),
-  1821 => 
+  1782 => 
   array (
     'id' => 132814,
     'name' => 'Madhogarh',
@@ -16399,7 +16048,7 @@ return array (
     'latitude' => 24.56401,
     'longitude' => 80.91126,
   ),
-  1822 => 
+  1783 => 
   array (
     'id' => 132815,
     'name' => 'Madhubani',
@@ -16408,7 +16057,7 @@ return array (
     'latitude' => 26.35367,
     'longitude' => 86.07169,
   ),
-  1823 => 
+  1784 => 
   array (
     'id' => 132816,
     'name' => 'Madhupur',
@@ -16417,7 +16066,7 @@ return array (
     'latitude' => 24.27419,
     'longitude' => 86.63929,
   ),
-  1824 => 
+  1785 => 
   array (
     'id' => 132817,
     'name' => 'Madikeri',
@@ -16426,7 +16075,7 @@ return array (
     'latitude' => 12.42602,
     'longitude' => 75.7382,
   ),
-  1825 => 
+  1786 => 
   array (
     'id' => 132818,
     'name' => 'Madipakkam',
@@ -16435,7 +16084,7 @@ return array (
     'latitude' => 12.96226,
     'longitude' => 80.19864,
   ),
-  1826 => 
+  1787 => 
   array (
     'id' => 132819,
     'name' => 'Madukkarai',
@@ -16444,7 +16093,7 @@ return array (
     'latitude' => 10.90568,
     'longitude' => 76.96344,
   ),
-  1827 => 
+  1788 => 
   array (
     'id' => 132820,
     'name' => 'Madukkur',
@@ -16453,7 +16102,7 @@ return array (
     'latitude' => 10.48098,
     'longitude' => 79.39939,
   ),
-  1828 => 
+  1789 => 
   array (
     'id' => 132821,
     'name' => 'Madurai',
@@ -16462,7 +16111,7 @@ return array (
     'latitude' => 9.89,
     'longitude' => 78.03,
   ),
-  1829 => 
+  1790 => 
   array (
     'id' => 132822,
     'name' => 'Madurantakam',
@@ -16471,7 +16120,7 @@ return array (
     'latitude' => 12.51167,
     'longitude' => 79.88485,
   ),
-  1830 => 
+  1791 => 
   array (
     'id' => 132823,
     'name' => 'Maghar',
@@ -16480,7 +16129,7 @@ return array (
     'latitude' => 26.75586,
     'longitude' => 83.12773,
   ),
-  1831 => 
+  1792 => 
   array (
     'id' => 132824,
     'name' => 'Mahabubabad',
@@ -16489,7 +16138,7 @@ return array (
     'latitude' => 17.6004,
     'longitude' => 80.00543,
   ),
-  1832 => 
+  1793 => 
   array (
     'id' => 132825,
     'name' => 'Maham',
@@ -16498,7 +16147,7 @@ return array (
     'latitude' => 28.96912,
     'longitude' => 76.29495,
   ),
-  1833 => 
+  1794 => 
   array (
     'id' => 132826,
     'name' => 'Maharajganj',
@@ -16507,7 +16156,7 @@ return array (
     'latitude' => 27.16945,
     'longitude' => 83.50667,
   ),
-  1834 => 
+  1795 => 
   array (
     'id' => 132827,
     'name' => 'Mahasamund',
@@ -16516,7 +16165,7 @@ return array (
     'latitude' => 21.2,
     'longitude' => 82.5,
   ),
-  1835 => 
+  1796 => 
   array (
     'id' => 132828,
     'name' => 'Mahbubnagar',
@@ -16525,7 +16174,7 @@ return array (
     'latitude' => 16.63171,
     'longitude' => 77.75556,
   ),
-  1836 => 
+  1797 => 
   array (
     'id' => 132830,
     'name' => 'Mahe',
@@ -16534,7 +16183,7 @@ return array (
     'latitude' => 11.7,
     'longitude' => 75.53333,
   ),
-  1837 => 
+  1798 => 
   array (
     'id' => 132831,
     'name' => 'Mahemdavad',
@@ -16543,7 +16192,7 @@ return array (
     'latitude' => 22.82359,
     'longitude' => 72.75551,
   ),
-  1838 => 
+  1799 => 
   array (
     'id' => 132832,
     'name' => 'Mahendragarh',
@@ -16552,7 +16201,7 @@ return array (
     'latitude' => 28.25,
     'longitude' => 76.16667,
   ),
-  1839 => 
+  1800 => 
   array (
     'id' => 132833,
     'name' => 'Maheshwar',
@@ -16561,7 +16210,7 @@ return array (
     'latitude' => 22.17592,
     'longitude' => 75.58715,
   ),
-  1840 => 
+  1801 => 
   array (
     'id' => 132834,
     'name' => 'Mahesana',
@@ -16570,7 +16219,7 @@ return array (
     'latitude' => 23.66667,
     'longitude' => 72.5,
   ),
-  1841 => 
+  1802 => 
   array (
     'id' => 132835,
     'name' => 'Mahgawan',
@@ -16579,7 +16228,7 @@ return array (
     'latitude' => 26.49471,
     'longitude' => 78.61593,
   ),
-  1842 => 
+  1803 => 
   array (
     'id' => 132836,
     'name' => 'Mahmudabad',
@@ -16588,7 +16237,7 @@ return array (
     'latitude' => 27.29191,
     'longitude' => 81.11775,
   ),
-  1843 => 
+  1804 => 
   array (
     'id' => 132837,
     'name' => 'Mahoba',
@@ -16597,7 +16246,7 @@ return array (
     'latitude' => 25.2921,
     'longitude' => 79.87242,
   ),
-  1844 => 
+  1805 => 
   array (
     'id' => 132839,
     'name' => 'Maholi',
@@ -16606,7 +16255,7 @@ return array (
     'latitude' => 27.66368,
     'longitude' => 80.47371,
   ),
-  1845 => 
+  1806 => 
   array (
     'id' => 132840,
     'name' => 'Mahroni',
@@ -16615,7 +16264,7 @@ return array (
     'latitude' => 24.58624,
     'longitude' => 78.72771,
   ),
-  1846 => 
+  1807 => 
   array (
     'id' => 132841,
     'name' => 'Mahudha',
@@ -16624,7 +16273,7 @@ return array (
     'latitude' => 22.82082,
     'longitude' => 72.94032,
   ),
-  1847 => 
+  1808 => 
   array (
     'id' => 132842,
     'name' => 'Mahur',
@@ -16633,7 +16282,7 @@ return array (
     'latitude' => 25.18305,
     'longitude' => 93.11342,
   ),
-  1848 => 
+  1809 => 
   array (
     'id' => 132843,
     'name' => 'Mahwah',
@@ -16642,7 +16291,7 @@ return array (
     'latitude' => 27.04594,
     'longitude' => 76.93152,
   ),
-  1849 => 
+  1810 => 
   array (
     'id' => 132844,
     'name' => 'Mahabaleshwar',
@@ -16651,7 +16300,7 @@ return array (
     'latitude' => 17.56,
     'longitude' => 73.4,
   ),
-  1850 => 
+  1811 => 
   array (
     'id' => 132845,
     'name' => 'Mahaban',
@@ -16660,7 +16309,7 @@ return array (
     'latitude' => 27.43262,
     'longitude' => 77.74338,
   ),
-  1851 => 
+  1812 => 
   array (
     'id' => 132846,
     'name' => 'Mahad',
@@ -16669,7 +16318,7 @@ return array (
     'latitude' => 18.08333,
     'longitude' => 73.41667,
   ),
-  1852 => 
+  1813 => 
   array (
     'id' => 132847,
     'name' => 'Mahalingpur',
@@ -16678,7 +16327,7 @@ return array (
     'latitude' => 16.3888,
     'longitude' => 75.10873,
   ),
-  1853 => 
+  1814 => 
   array (
     'id' => 132849,
     'name' => 'Maharajgani',
@@ -16687,16 +16336,7 @@ return array (
     'latitude' => 26.11017,
     'longitude' => 84.50365,
   ),
-  1854 => 
-  array (
-    'id' => 132852,
-    'name' => 'Mahe',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 11.70172,
-    'longitude' => 75.53474,
-  ),
-  1855 => 
+  1815 => 
   array (
     'id' => 132853,
     'name' => 'Maibong',
@@ -16705,7 +16345,7 @@ return array (
     'latitude' => 25.30125,
     'longitude' => 93.13811,
   ),
-  1856 => 
+  1816 => 
   array (
     'id' => 132854,
     'name' => 'Maihar',
@@ -16714,7 +16354,7 @@ return array (
     'latitude' => 24.26594,
     'longitude' => 80.76063,
   ),
-  1857 => 
+  1817 => 
   array (
     'id' => 132855,
     'name' => 'Mailani',
@@ -16723,7 +16363,7 @@ return array (
     'latitude' => 28.29088,
     'longitude' => 80.3438,
   ),
-  1858 => 
+  1818 => 
   array (
     'id' => 132856,
     'name' => 'Maindargi',
@@ -16732,7 +16372,7 @@ return array (
     'latitude' => 17.45739,
     'longitude' => 76.2932,
   ),
-  1859 => 
+  1819 => 
   array (
     'id' => 132857,
     'name' => 'Mainpuri',
@@ -16741,7 +16381,7 @@ return array (
     'latitude' => 27.16667,
     'longitude' => 79.0,
   ),
-  1860 => 
+  1820 => 
   array (
     'id' => 132858,
     'name' => 'Mairang',
@@ -16750,7 +16390,7 @@ return array (
     'latitude' => 25.56165,
     'longitude' => 91.63602,
   ),
-  1861 => 
+  1821 => 
   array (
     'id' => 132859,
     'name' => 'Mairwa',
@@ -16759,7 +16399,7 @@ return array (
     'latitude' => 26.23218,
     'longitude' => 84.16349,
   ),
-  1862 => 
+  1822 => 
   array (
     'id' => 132860,
     'name' => 'Majholi',
@@ -16768,7 +16408,7 @@ return array (
     'latitude' => 23.50114,
     'longitude' => 79.92396,
   ),
-  1863 => 
+  1823 => 
   array (
     'id' => 132861,
     'name' => 'Majitha',
@@ -16777,7 +16417,7 @@ return array (
     'latitude' => 31.75711,
     'longitude' => 74.95891,
   ),
-  1864 => 
+  1824 => 
   array (
     'id' => 132862,
     'name' => 'Makhu',
@@ -16786,7 +16426,7 @@ return array (
     'latitude' => 31.10335,
     'longitude' => 74.99631,
   ),
-  1865 => 
+  1825 => 
   array (
     'id' => 132863,
     'name' => 'Makrana',
@@ -16795,7 +16435,7 @@ return array (
     'latitude' => 27.04361,
     'longitude' => 74.72445,
   ),
-  1866 => 
+  1826 => 
   array (
     'id' => 132864,
     'name' => 'Maksi',
@@ -16804,7 +16444,7 @@ return array (
     'latitude' => 23.25999,
     'longitude' => 76.14567,
   ),
-  1867 => 
+  1827 => 
   array (
     'id' => 132866,
     'name' => 'Malappuram',
@@ -16813,7 +16453,7 @@ return array (
     'latitude' => 11.0,
     'longitude' => 76.16667,
   ),
-  1868 => 
+  1828 => 
   array (
     'id' => 132867,
     'name' => 'Malaut',
@@ -16822,7 +16462,7 @@ return array (
     'latitude' => 30.21121,
     'longitude' => 74.4818,
   ),
-  1869 => 
+  1829 => 
   array (
     'id' => 132868,
     'name' => 'Malavalli',
@@ -16831,7 +16471,7 @@ return array (
     'latitude' => 12.38556,
     'longitude' => 77.06045,
   ),
-  1870 => 
+  1830 => 
   array (
     'id' => 132869,
     'name' => 'Malhargarh',
@@ -16840,7 +16480,7 @@ return array (
     'latitude' => 24.28286,
     'longitude' => 74.99024,
   ),
-  1871 => 
+  1831 => 
   array (
     'id' => 132870,
     'name' => 'Malkajgiri',
@@ -16849,7 +16489,7 @@ return array (
     'latitude' => 17.44781,
     'longitude' => 78.52633,
   ),
-  1872 => 
+  1832 => 
   array (
     'id' => 132871,
     'name' => 'Malkangiri',
@@ -16858,7 +16498,7 @@ return array (
     'latitude' => 18.25,
     'longitude' => 81.95,
   ),
-  1873 => 
+  1833 => 
   array (
     'id' => 132872,
     'name' => 'Malkapur',
@@ -16867,7 +16507,7 @@ return array (
     'latitude' => 17.26214,
     'longitude' => 74.17574,
   ),
-  1874 => 
+  1834 => 
   array (
     'id' => 132873,
     'name' => 'Malkera',
@@ -16876,7 +16516,7 @@ return array (
     'latitude' => 23.78213,
     'longitude' => 86.28767,
   ),
-  1875 => 
+  1835 => 
   array (
     'id' => 132875,
     'name' => 'Mallasamudram',
@@ -16885,7 +16525,7 @@ return array (
     'latitude' => 11.49333,
     'longitude' => 78.03119,
   ),
-  1876 => 
+  1836 => 
   array (
     'id' => 132876,
     'name' => 'Mallapuram',
@@ -16894,7 +16534,7 @@ return array (
     'latitude' => 11.98231,
     'longitude' => 78.24796,
   ),
-  1877 => 
+  1837 => 
   array (
     'id' => 132877,
     'name' => 'Malpe',
@@ -16903,7 +16543,7 @@ return array (
     'latitude' => 13.34962,
     'longitude' => 74.70394,
   ),
-  1878 => 
+  1838 => 
   array (
     'id' => 132878,
     'name' => 'Malihabad',
@@ -16912,7 +16552,7 @@ return array (
     'latitude' => 26.92223,
     'longitude' => 80.71078,
   ),
-  1879 => 
+  1839 => 
   array (
     'id' => 132879,
     'name' => 'Mamit',
@@ -16921,7 +16561,7 @@ return array (
     'latitude' => 23.78492,
     'longitude' => 92.46939,
   ),
-  1880 => 
+  1840 => 
   array (
     'id' => 132880,
     'name' => 'Manali',
@@ -16930,7 +16570,7 @@ return array (
     'latitude' => 13.16667,
     'longitude' => 80.26667,
   ),
-  1881 => 
+  1841 => 
   array (
     'id' => 132881,
     'name' => 'Manalurpettai',
@@ -16939,7 +16579,7 @@ return array (
     'latitude' => 12.00788,
     'longitude' => 79.09184,
   ),
-  1882 => 
+  1842 => 
   array (
     'id' => 132882,
     'name' => 'Manamadurai',
@@ -16948,7 +16588,7 @@ return array (
     'latitude' => 9.67318,
     'longitude' => 78.47096,
   ),
-  1883 => 
+  1843 => 
   array (
     'id' => 132883,
     'name' => 'Manappakkam',
@@ -16957,7 +16597,7 @@ return array (
     'latitude' => 13.01083,
     'longitude' => 80.16861,
   ),
-  1884 => 
+  1844 => 
   array (
     'id' => 132884,
     'name' => 'Manapparai',
@@ -16966,7 +16606,7 @@ return array (
     'latitude' => 10.60772,
     'longitude' => 78.42582,
   ),
-  1885 => 
+  1845 => 
   array (
     'id' => 132885,
     'name' => 'Manavalakurichi',
@@ -16975,7 +16615,7 @@ return array (
     'latitude' => 8.14776,
     'longitude' => 77.30552,
   ),
-  1886 => 
+  1846 => 
   array (
     'id' => 132886,
     'name' => 'Manchar',
@@ -16984,7 +16624,7 @@ return array (
     'latitude' => 19.00436,
     'longitude' => 73.94346,
   ),
-  1887 => 
+  1847 => 
   array (
     'id' => 132887,
     'name' => 'Mancheral',
@@ -16993,7 +16633,7 @@ return array (
     'latitude' => 18.87074,
     'longitude' => 79.42863,
   ),
-  1888 => 
+  1848 => 
   array (
     'id' => 132888,
     'name' => 'Mandamarri',
@@ -17002,7 +16642,7 @@ return array (
     'latitude' => 18.96506,
     'longitude' => 79.47475,
   ),
-  1889 => 
+  1849 => 
   array (
     'id' => 132889,
     'name' => 'Mandapam',
@@ -17011,7 +16651,7 @@ return array (
     'latitude' => 9.27571,
     'longitude' => 79.12362,
   ),
-  1890 => 
+  1850 => 
   array (
     'id' => 132890,
     'name' => 'Mandapeta',
@@ -17020,7 +16660,7 @@ return array (
     'latitude' => 16.86254,
     'longitude' => 81.92921,
   ),
-  1891 => 
+  1851 => 
   array (
     'id' => 132891,
     'name' => 'Mandasa',
@@ -17029,7 +16669,7 @@ return array (
     'latitude' => 18.8683,
     'longitude' => 84.46296,
   ),
-  1892 => 
+  1852 => 
   array (
     'id' => 132892,
     'name' => 'Mandholi Kalan',
@@ -17038,7 +16678,7 @@ return array (
     'latitude' => 28.7085,
     'longitude' => 75.68296,
   ),
-  1893 => 
+  1853 => 
   array (
     'id' => 132893,
     'name' => 'Mandi',
@@ -17047,7 +16687,7 @@ return array (
     'latitude' => 31.71194,
     'longitude' => 76.93273,
   ),
-  1894 => 
+  1854 => 
   array (
     'id' => 132894,
     'name' => 'Mandideep',
@@ -17056,7 +16696,7 @@ return array (
     'latitude' => 23.08166,
     'longitude' => 77.53328,
   ),
-  1895 => 
+  1855 => 
   array (
     'id' => 132895,
     'name' => 'Mandla',
@@ -17065,7 +16705,7 @@ return array (
     'latitude' => 22.64041,
     'longitude' => 80.51344,
   ),
-  1896 => 
+  1856 => 
   array (
     'id' => 132897,
     'name' => 'Mandsaur',
@@ -17074,7 +16714,7 @@ return array (
     'latitude' => 24.33333,
     'longitude' => 75.25,
   ),
-  1897 => 
+  1857 => 
   array (
     'id' => 132898,
     'name' => 'Mandya',
@@ -17083,7 +16723,7 @@ return array (
     'latitude' => 12.5223,
     'longitude' => 76.89746,
   ),
-  1898 => 
+  1858 => 
   array (
     'id' => 132899,
     'name' => 'Mandawar',
@@ -17092,16 +16732,7 @@ return array (
     'latitude' => 29.48655,
     'longitude' => 78.12732,
   ),
-  1899 => 
-  array (
-    'id' => 132900,
-    'name' => 'Mandawar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 27.86374,
-    'longitude' => 76.54999,
-  ),
-  1900 => 
+  1859 => 
   array (
     'id' => 132901,
     'name' => 'Maner',
@@ -17110,7 +16741,7 @@ return array (
     'latitude' => 25.64602,
     'longitude' => 84.87291,
   ),
-  1901 => 
+  1860 => 
   array (
     'id' => 132902,
     'name' => 'Mangalagiri',
@@ -17119,7 +16750,7 @@ return array (
     'latitude' => 16.43083,
     'longitude' => 80.56815,
   ),
-  1902 => 
+  1861 => 
   array (
     'id' => 132903,
     'name' => 'Mangalam',
@@ -17128,7 +16759,7 @@ return array (
     'latitude' => 9.76473,
     'longitude' => 78.64037,
   ),
-  1903 => 
+  1862 => 
   array (
     'id' => 132904,
     'name' => 'Mangaldai',
@@ -17137,7 +16768,7 @@ return array (
     'latitude' => 26.44212,
     'longitude' => 92.03047,
   ),
-  1904 => 
+  1863 => 
   array (
     'id' => 132905,
     'name' => 'Mangaluru',
@@ -17146,7 +16777,7 @@ return array (
     'latitude' => 12.91723,
     'longitude' => 74.85603,
   ),
-  1905 => 
+  1864 => 
   array (
     'id' => 132906,
     'name' => 'Mangan',
@@ -17155,7 +16786,7 @@ return array (
     'latitude' => 27.50965,
     'longitude' => 88.52206,
   ),
-  1906 => 
+  1865 => 
   array (
     'id' => 132907,
     'name' => 'Mangawan',
@@ -17164,7 +16795,7 @@ return array (
     'latitude' => 24.66754,
     'longitude' => 81.54644,
   ),
-  1907 => 
+  1866 => 
   array (
     'id' => 132908,
     'name' => 'Manglaur',
@@ -17173,7 +16804,7 @@ return array (
     'latitude' => 29.79094,
     'longitude' => 77.87836,
   ),
-  1908 => 
+  1867 => 
   array (
     'id' => 132909,
     'name' => 'Mangrul Pir',
@@ -17182,7 +16813,7 @@ return array (
     'latitude' => 20.31379,
     'longitude' => 77.34178,
   ),
-  1909 => 
+  1868 => 
   array (
     'id' => 132910,
     'name' => 'Maniar',
@@ -17191,7 +16822,7 @@ return array (
     'latitude' => 25.98546,
     'longitude' => 84.17233,
   ),
-  1910 => 
+  1869 => 
   array (
     'id' => 132911,
     'name' => 'Manihari',
@@ -17200,7 +16831,7 @@ return array (
     'latitude' => 25.33891,
     'longitude' => 87.61998,
   ),
-  1911 => 
+  1870 => 
   array (
     'id' => 132912,
     'name' => 'Manipal',
@@ -17209,7 +16840,7 @@ return array (
     'latitude' => 13.35,
     'longitude' => 74.78333,
   ),
-  1912 => 
+  1871 => 
   array (
     'id' => 132913,
     'name' => 'Manjeri',
@@ -17218,7 +16849,7 @@ return array (
     'latitude' => 11.12018,
     'longitude' => 76.11996,
   ),
-  1913 => 
+  1872 => 
   array (
     'id' => 132914,
     'name' => 'Manjhanpur',
@@ -17227,7 +16858,7 @@ return array (
     'latitude' => 25.53046,
     'longitude' => 81.37566,
   ),
-  1914 => 
+  1873 => 
   array (
     'id' => 132915,
     'name' => 'Manjeshwaram',
@@ -17236,7 +16867,7 @@ return array (
     'latitude' => 12.71287,
     'longitude' => 74.88857,
   ),
-  1915 => 
+  1874 => 
   array (
     'id' => 132916,
     'name' => 'Mankachar',
@@ -17245,7 +16876,7 @@ return array (
     'latitude' => 25.53347,
     'longitude' => 89.86373,
   ),
-  1916 => 
+  1875 => 
   array (
     'id' => 132917,
     'name' => 'Mankapur',
@@ -17254,7 +16885,7 @@ return array (
     'latitude' => 27.05189,
     'longitude' => 82.22961,
   ),
-  1917 => 
+  1876 => 
   array (
     'id' => 132918,
     'name' => 'Manmad',
@@ -17263,7 +16894,7 @@ return array (
     'latitude' => 20.25334,
     'longitude' => 74.43755,
   ),
-  1918 => 
+  1877 => 
   array (
     'id' => 132919,
     'name' => 'Mannargudi',
@@ -17272,7 +16903,7 @@ return array (
     'latitude' => 10.66626,
     'longitude' => 79.45064,
   ),
-  1919 => 
+  1878 => 
   array (
     'id' => 132920,
     'name' => 'Mannarakkat',
@@ -17281,7 +16912,7 @@ return array (
     'latitude' => 10.99223,
     'longitude' => 76.46418,
   ),
-  1920 => 
+  1879 => 
   array (
     'id' => 132921,
     'name' => 'Manohar Thana',
@@ -17290,7 +16921,7 @@ return array (
     'latitude' => 24.24,
     'longitude' => 76.80182,
   ),
-  1921 => 
+  1880 => 
   array (
     'id' => 132922,
     'name' => 'Manoharpur',
@@ -17299,16 +16930,7 @@ return array (
     'latitude' => 27.29769,
     'longitude' => 75.9495,
   ),
-  1922 => 
-  array (
-    'id' => 132923,
-    'name' => 'Manoharpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.37456,
-    'longitude' => 85.19234,
-  ),
-  1923 => 
+  1881 => 
   array (
     'id' => 132924,
     'name' => 'Manor',
@@ -17317,7 +16939,7 @@ return array (
     'latitude' => 19.7244,
     'longitude' => 72.90966,
   ),
-  1924 => 
+  1882 => 
   array (
     'id' => 132926,
     'name' => 'Mansar',
@@ -17326,7 +16948,7 @@ return array (
     'latitude' => 21.39602,
     'longitude' => 79.2635,
   ),
-  1925 => 
+  1883 => 
   array (
     'id' => 132927,
     'name' => 'Manthani',
@@ -17335,7 +16957,7 @@ return array (
     'latitude' => 18.65087,
     'longitude' => 79.66501,
   ),
-  1926 => 
+  1884 => 
   array (
     'id' => 132928,
     'name' => 'Manuguru',
@@ -17344,16 +16966,7 @@ return array (
     'latitude' => 17.98102,
     'longitude' => 80.7547,
   ),
-  1927 => 
-  array (
-    'id' => 132929,
-    'name' => 'Manali',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 32.2574,
-    'longitude' => 77.17481,
-  ),
-  1928 => 
+  1885 => 
   array (
     'id' => 132930,
     'name' => 'Manasa',
@@ -17362,7 +16975,7 @@ return array (
     'latitude' => 24.47764,
     'longitude' => 75.14095,
   ),
-  1929 => 
+  1886 => 
   array (
     'id' => 132931,
     'name' => 'Manawar',
@@ -17371,7 +16984,7 @@ return array (
     'latitude' => 22.23566,
     'longitude' => 75.08917,
   ),
-  1930 => 
+  1887 => 
   array (
     'id' => 132932,
     'name' => 'Marakkanam',
@@ -17380,7 +16993,7 @@ return array (
     'latitude' => 12.19214,
     'longitude' => 79.94193,
   ),
-  1931 => 
+  1888 => 
   array (
     'id' => 132933,
     'name' => 'Marayur',
@@ -17389,7 +17002,7 @@ return array (
     'latitude' => 10.27641,
     'longitude' => 77.16205,
   ),
-  1932 => 
+  1889 => 
   array (
     'id' => 132934,
     'name' => 'Margherita',
@@ -17398,7 +17011,7 @@ return array (
     'latitude' => 27.28482,
     'longitude' => 95.66796,
   ),
-  1933 => 
+  1890 => 
   array (
     'id' => 132935,
     'name' => 'Marhaura',
@@ -17407,7 +17020,7 @@ return array (
     'latitude' => 25.97349,
     'longitude' => 84.86796,
   ),
-  1934 => 
+  1891 => 
   array (
     'id' => 132936,
     'name' => 'Mariahu',
@@ -17416,7 +17029,7 @@ return array (
     'latitude' => 25.60404,
     'longitude' => 82.60379,
   ),
-  1935 => 
+  1892 => 
   array (
     'id' => 132937,
     'name' => 'Mariani',
@@ -17425,7 +17038,7 @@ return array (
     'latitude' => 26.65725,
     'longitude' => 94.31529,
   ),
-  1936 => 
+  1893 => 
   array (
     'id' => 132938,
     'name' => 'Masaurhi Buzurg',
@@ -17434,7 +17047,7 @@ return array (
     'latitude' => 25.35417,
     'longitude' => 85.03195,
   ),
-  1937 => 
+  1894 => 
   array (
     'id' => 132939,
     'name' => 'Masinigudi',
@@ -17443,7 +17056,7 @@ return array (
     'latitude' => 11.56831,
     'longitude' => 76.64087,
   ),
-  1938 => 
+  1895 => 
   array (
     'id' => 132940,
     'name' => 'Mataundh',
@@ -17452,7 +17065,7 @@ return array (
     'latitude' => 25.43594,
     'longitude' => 80.15653,
   ),
-  1939 => 
+  1896 => 
   array (
     'id' => 132941,
     'name' => 'Mathura',
@@ -17461,7 +17074,7 @@ return array (
     'latitude' => 27.63333,
     'longitude' => 77.58333,
   ),
-  1940 => 
+  1897 => 
   array (
     'id' => 132942,
     'name' => 'Mattanur',
@@ -17470,7 +17083,7 @@ return array (
     'latitude' => 11.93018,
     'longitude' => 75.57152,
   ),
-  1941 => 
+  1898 => 
   array (
     'id' => 132943,
     'name' => 'Mau',
@@ -17479,16 +17092,7 @@ return array (
     'latitude' => 26.26584,
     'longitude' => 78.67108,
   ),
-  1942 => 
-  array (
-    'id' => 132944,
-    'name' => 'Mau',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.0294,
-    'longitude' => 83.50756,
-  ),
-  1943 => 
+  1899 => 
   array (
     'id' => 132945,
     'name' => 'Mau Aimma',
@@ -17497,7 +17101,7 @@ return array (
     'latitude' => 25.69515,
     'longitude' => 81.92336,
   ),
-  1944 => 
+  1900 => 
   array (
     'id' => 132946,
     'name' => 'Maudaha',
@@ -17506,7 +17110,7 @@ return array (
     'latitude' => 25.68312,
     'longitude' => 80.11419,
   ),
-  1945 => 
+  1901 => 
   array (
     'id' => 132947,
     'name' => 'Mauganj',
@@ -17515,7 +17119,7 @@ return array (
     'latitude' => 24.66721,
     'longitude' => 81.87339,
   ),
-  1946 => 
+  1902 => 
   array (
     'id' => 132948,
     'name' => 'Maur Mandi',
@@ -17524,7 +17128,7 @@ return array (
     'latitude' => 30.08333,
     'longitude' => 75.25,
   ),
-  1947 => 
+  1903 => 
   array (
     'id' => 132950,
     'name' => 'Mavoor',
@@ -17533,7 +17137,7 @@ return array (
     'latitude' => 11.26667,
     'longitude' => 75.91667,
   ),
-  1948 => 
+  1904 => 
   array (
     'id' => 132951,
     'name' => 'Mawana',
@@ -17542,7 +17146,7 @@ return array (
     'latitude' => 29.10288,
     'longitude' => 77.92199,
   ),
-  1949 => 
+  1905 => 
   array (
     'id' => 132952,
     'name' => 'Mayiladuthurai',
@@ -17551,7 +17155,7 @@ return array (
     'latitude' => 11.10354,
     'longitude' => 79.655,
   ),
-  1950 => 
+  1906 => 
   array (
     'id' => 132953,
     'name' => 'Imphal West',
@@ -17560,7 +17164,7 @@ return array (
     'latitude' => 24.60998,
     'longitude' => 93.88873,
   ),
-  1951 => 
+  1907 => 
   array (
     'id' => 132954,
     'name' => 'Mayurbhanj',
@@ -17569,7 +17173,7 @@ return array (
     'latitude' => 21.75,
     'longitude' => 86.5,
   ),
-  1952 => 
+  1908 => 
   array (
     'id' => 132955,
     'name' => 'Medak',
@@ -17578,7 +17182,7 @@ return array (
     'latitude' => 17.75,
     'longitude' => 78.25,
   ),
-  1953 => 
+  1909 => 
   array (
     'id' => 132956,
     'name' => 'Medchal',
@@ -17587,7 +17191,7 @@ return array (
     'latitude' => 17.62972,
     'longitude' => 78.48139,
   ),
-  1954 => 
+  1910 => 
   array (
     'id' => 132957,
     'name' => 'Medchal Malkajgiri',
@@ -17596,7 +17200,7 @@ return array (
     'latitude' => 17.60644,
     'longitude' => 78.54007,
   ),
-  1955 => 
+  1911 => 
   array (
     'id' => 132958,
     'name' => 'Meerut',
@@ -17605,7 +17209,7 @@ return array (
     'latitude' => 28.91667,
     'longitude' => 77.68333,
   ),
-  1956 => 
+  1912 => 
   array (
     'id' => 132959,
     'name' => 'Meethari Marwar',
@@ -17614,7 +17218,7 @@ return array (
     'latitude' => 27.57615,
     'longitude' => 74.68661,
   ),
-  1957 => 
+  1913 => 
   array (
     'id' => 132960,
     'name' => 'Meghraj',
@@ -17623,7 +17227,7 @@ return array (
     'latitude' => 23.49805,
     'longitude' => 73.51352,
   ),
-  1958 => 
+  1914 => 
   array (
     'id' => 132961,
     'name' => 'Mehekar',
@@ -17632,7 +17236,7 @@ return array (
     'latitude' => 20.1505,
     'longitude' => 76.56841,
   ),
-  1959 => 
+  1915 => 
   array (
     'id' => 132962,
     'name' => 'Mehnagar',
@@ -17641,7 +17245,7 @@ return array (
     'latitude' => 25.87889,
     'longitude' => 83.11611,
   ),
-  1960 => 
+  1916 => 
   array (
     'id' => 132963,
     'name' => 'Mehndawal',
@@ -17650,7 +17254,7 @@ return array (
     'latitude' => 26.97579,
     'longitude' => 83.10995,
   ),
-  1961 => 
+  1917 => 
   array (
     'id' => 132964,
     'name' => 'Melukote',
@@ -17659,7 +17263,7 @@ return array (
     'latitude' => 12.66258,
     'longitude' => 76.64861,
   ),
-  1962 => 
+  1918 => 
   array (
     'id' => 132965,
     'name' => 'Melur',
@@ -17668,7 +17272,7 @@ return array (
     'latitude' => 10.03241,
     'longitude' => 78.3393,
   ),
-  1963 => 
+  1919 => 
   array (
     'id' => 132966,
     'name' => 'Mendarda',
@@ -17677,7 +17281,7 @@ return array (
     'latitude' => 21.32112,
     'longitude' => 70.44078,
   ),
-  1964 => 
+  1920 => 
   array (
     'id' => 132967,
     'name' => 'Merta',
@@ -17686,7 +17290,7 @@ return array (
     'latitude' => 26.64859,
     'longitude' => 74.03414,
   ),
-  1965 => 
+  1921 => 
   array (
     'id' => 132969,
     'name' => 'Mettuppalaiyam',
@@ -17695,7 +17299,7 @@ return array (
     'latitude' => 11.16806,
     'longitude' => 78.44944,
   ),
-  1966 => 
+  1922 => 
   array (
     'id' => 132970,
     'name' => 'Mettur',
@@ -17704,7 +17308,7 @@ return array (
     'latitude' => 11.78796,
     'longitude' => 77.8008,
   ),
-  1967 => 
+  1923 => 
   array (
     'id' => 132971,
     'name' => 'Mhasla',
@@ -17713,7 +17317,7 @@ return array (
     'latitude' => 18.1334,
     'longitude' => 73.11162,
   ),
-  1968 => 
+  1924 => 
   array (
     'id' => 132972,
     'name' => 'Mhasvad',
@@ -17722,7 +17326,7 @@ return array (
     'latitude' => 17.63359,
     'longitude' => 74.78773,
   ),
-  1969 => 
+  1925 => 
   array (
     'id' => 132973,
     'name' => 'Mihona',
@@ -17731,7 +17335,7 @@ return array (
     'latitude' => 26.28373,
     'longitude' => 78.98048,
   ),
-  1970 => 
+  1926 => 
   array (
     'id' => 132974,
     'name' => 'Milak',
@@ -17740,7 +17344,7 @@ return array (
     'latitude' => 28.61031,
     'longitude' => 79.16997,
   ),
-  1971 => 
+  1927 => 
   array (
     'id' => 132975,
     'name' => 'Mirialguda',
@@ -17749,7 +17353,7 @@ return array (
     'latitude' => 16.8722,
     'longitude' => 79.56247,
   ),
-  1972 => 
+  1928 => 
   array (
     'id' => 132976,
     'name' => 'Mirzapur',
@@ -17758,7 +17362,7 @@ return array (
     'latitude' => 25.1449,
     'longitude' => 82.56534,
   ),
-  1973 => 
+  1929 => 
   array (
     'id' => 132977,
     'name' => 'Misrikh',
@@ -17767,7 +17371,7 @@ return array (
     'latitude' => 27.43137,
     'longitude' => 80.53157,
   ),
-  1974 => 
+  1930 => 
   array (
     'id' => 132978,
     'name' => 'Modasa',
@@ -17776,7 +17380,7 @@ return array (
     'latitude' => 23.46253,
     'longitude' => 73.29857,
   ),
-  1975 => 
+  1931 => 
   array (
     'id' => 132979,
     'name' => 'Moga',
@@ -17785,7 +17389,7 @@ return array (
     'latitude' => 30.80376,
     'longitude' => 75.14938,
   ),
-  1976 => 
+  1932 => 
   array (
     'id' => 132980,
     'name' => 'Mohali',
@@ -17794,7 +17398,7 @@ return array (
     'latitude' => 30.67995,
     'longitude' => 76.72211,
   ),
-  1977 => 
+  1933 => 
   array (
     'id' => 132981,
     'name' => 'Mohanpur',
@@ -17803,7 +17407,7 @@ return array (
     'latitude' => 28.25261,
     'longitude' => 80.24498,
   ),
-  1978 => 
+  1934 => 
   array (
     'id' => 132982,
     'name' => 'Mohanur',
@@ -17812,7 +17416,7 @@ return array (
     'latitude' => 11.05936,
     'longitude' => 78.13965,
   ),
-  1979 => 
+  1935 => 
   array (
     'id' => 132983,
     'name' => 'Mohgaon',
@@ -17821,7 +17425,7 @@ return array (
     'latitude' => 21.63941,
     'longitude' => 78.73638,
   ),
-  1980 => 
+  1936 => 
   array (
     'id' => 132984,
     'name' => 'Mohiuddi nagar',
@@ -17830,7 +17434,7 @@ return array (
     'latitude' => 25.57374,
     'longitude' => 85.66944,
   ),
-  1981 => 
+  1937 => 
   array (
     'id' => 132985,
     'name' => 'Mohpa',
@@ -17839,7 +17443,7 @@ return array (
     'latitude' => 21.31012,
     'longitude' => 78.82969,
   ),
-  1982 => 
+  1938 => 
   array (
     'id' => 132986,
     'name' => 'Mohan',
@@ -17848,7 +17452,7 @@ return array (
     'latitude' => 26.78008,
     'longitude' => 80.67497,
   ),
-  1983 => 
+  1939 => 
   array (
     'id' => 132988,
     'name' => 'Mokameh',
@@ -17857,7 +17461,7 @@ return array (
     'latitude' => 25.39662,
     'longitude' => 85.9219,
   ),
-  1984 => 
+  1940 => 
   array (
     'id' => 132989,
     'name' => 'Mokokchung',
@@ -17866,7 +17470,7 @@ return array (
     'latitude' => 26.31393,
     'longitude' => 94.51675,
   ),
-  1985 => 
+  1941 => 
   array (
     'id' => 132990,
     'name' => 'Mon',
@@ -17875,7 +17479,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 94.83333,
   ),
-  1986 => 
+  1942 => 
   array (
     'id' => 132991,
     'name' => 'Monghyr',
@@ -17884,7 +17488,7 @@ return array (
     'latitude' => 25.37459,
     'longitude' => 86.47455,
   ),
-  1987 => 
+  1943 => 
   array (
     'id' => 132992,
     'name' => 'Moram',
@@ -17893,7 +17497,7 @@ return array (
     'latitude' => 17.78812,
     'longitude' => 76.47077,
   ),
-  1988 => 
+  1944 => 
   array (
     'id' => 132993,
     'name' => 'Morbi',
@@ -17902,7 +17506,7 @@ return array (
     'latitude' => 22.81731,
     'longitude' => 70.8377,
   ),
-  1989 => 
+  1945 => 
   array (
     'id' => 132994,
     'name' => 'Morena',
@@ -17911,7 +17515,7 @@ return array (
     'latitude' => 26.16667,
     'longitude' => 77.5,
   ),
-  1990 => 
+  1946 => 
   array (
     'id' => 132995,
     'name' => 'Morigaon',
@@ -17920,7 +17524,7 @@ return array (
     'latitude' => 26.25213,
     'longitude' => 92.34238,
   ),
-  1991 => 
+  1947 => 
   array (
     'id' => 132996,
     'name' => 'Morinda',
@@ -17929,7 +17533,7 @@ return array (
     'latitude' => 30.79014,
     'longitude' => 76.49883,
   ),
-  1992 => 
+  1948 => 
   array (
     'id' => 132997,
     'name' => 'Morjim',
@@ -17938,7 +17542,7 @@ return array (
     'latitude' => 15.63097,
     'longitude' => 73.73903,
   ),
-  1993 => 
+  1949 => 
   array (
     'id' => 132998,
     'name' => 'Mormugao',
@@ -17947,7 +17551,7 @@ return array (
     'latitude' => 15.38914,
     'longitude' => 73.81491,
   ),
-  1994 => 
+  1950 => 
   array (
     'id' => 132999,
     'name' => 'Morsi',
@@ -17956,7 +17560,7 @@ return array (
     'latitude' => 21.3403,
     'longitude' => 78.01258,
   ),
-  1995 => 
+  1951 => 
   array (
     'id' => 133000,
     'name' => 'Morwa',
@@ -17965,7 +17569,7 @@ return array (
     'latitude' => 22.90469,
     'longitude' => 73.83912,
   ),
-  1996 => 
+  1952 => 
   array (
     'id' => 133001,
     'name' => 'Moradabad',
@@ -17974,7 +17578,7 @@ return array (
     'latitude' => 28.8525,
     'longitude' => 78.79703,
   ),
-  1997 => 
+  1953 => 
   array (
     'id' => 133002,
     'name' => 'Moranha',
@@ -17983,7 +17587,7 @@ return array (
     'latitude' => 27.18735,
     'longitude' => 94.91557,
   ),
-  1998 => 
+  1954 => 
   array (
     'id' => 133003,
     'name' => 'Morar',
@@ -17992,7 +17596,7 @@ return array (
     'latitude' => 26.2264,
     'longitude' => 78.22482,
   ),
-  1999 => 
+  1955 => 
   array (
     'id' => 133004,
     'name' => 'Moth',
@@ -18001,7 +17605,7 @@ return array (
     'latitude' => 25.72595,
     'longitude' => 78.95029,
   ),
-  2000 => 
+  1956 => 
   array (
     'id' => 133005,
     'name' => 'Mothihari',
@@ -18010,7 +17614,7 @@ return array (
     'latitude' => 26.64862,
     'longitude' => 84.91656,
   ),
-  2001 => 
+  1957 => 
   array (
     'id' => 133006,
     'name' => 'Mowad',
@@ -18019,7 +17623,7 @@ return array (
     'latitude' => 21.46475,
     'longitude' => 78.45103,
   ),
-  2002 => 
+  1958 => 
   array (
     'id' => 133007,
     'name' => 'Mubarakpur',
@@ -18028,7 +17632,7 @@ return array (
     'latitude' => 26.08866,
     'longitude' => 83.29088,
   ),
-  2003 => 
+  1959 => 
   array (
     'id' => 133008,
     'name' => 'Muddebihal',
@@ -18037,7 +17641,7 @@ return array (
     'latitude' => 16.33782,
     'longitude' => 76.13173,
   ),
-  2004 => 
+  1960 => 
   array (
     'id' => 133009,
     'name' => 'Mudgal',
@@ -18046,7 +17650,7 @@ return array (
     'latitude' => 16.01191,
     'longitude' => 76.44203,
   ),
-  2005 => 
+  1961 => 
   array (
     'id' => 133010,
     'name' => 'Mudgere',
@@ -18055,7 +17659,7 @@ return array (
     'latitude' => 13.13353,
     'longitude' => 75.6416,
   ),
-  2006 => 
+  1962 => 
   array (
     'id' => 133011,
     'name' => 'Mudhol',
@@ -18064,7 +17668,7 @@ return array (
     'latitude' => 16.33354,
     'longitude' => 75.28305,
   ),
-  2007 => 
+  1963 => 
   array (
     'id' => 133012,
     'name' => 'Mudkhed',
@@ -18073,7 +17677,7 @@ return array (
     'latitude' => 19.15657,
     'longitude' => 77.50304,
   ),
-  2008 => 
+  1964 => 
   array (
     'id' => 133013,
     'name' => 'Mudukulattur',
@@ -18082,7 +17686,7 @@ return array (
     'latitude' => 9.34169,
     'longitude' => 78.51388,
   ),
-  2009 => 
+  1965 => 
   array (
     'id' => 133014,
     'name' => 'Mughal Sarai',
@@ -18091,7 +17695,7 @@ return array (
     'latitude' => 25.28307,
     'longitude' => 83.11968,
   ),
-  2010 => 
+  1966 => 
   array (
     'id' => 133015,
     'name' => 'Mugma',
@@ -18100,7 +17704,7 @@ return array (
     'latitude' => 23.77015,
     'longitude' => 86.72746,
   ),
-  2011 => 
+  1967 => 
   array (
     'id' => 133016,
     'name' => 'Muhammadabad',
@@ -18109,7 +17713,7 @@ return array (
     'latitude' => 25.61907,
     'longitude' => 83.75576,
   ),
-  2012 => 
+  1968 => 
   array (
     'id' => 133017,
     'name' => 'Mukerian',
@@ -18118,7 +17722,7 @@ return array (
     'latitude' => 31.95394,
     'longitude' => 75.61716,
   ),
-  2013 => 
+  1969 => 
   array (
     'id' => 133018,
     'name' => 'Mukher',
@@ -18127,7 +17731,7 @@ return array (
     'latitude' => 18.70636,
     'longitude' => 77.36795,
   ),
-  2014 => 
+  1970 => 
   array (
     'id' => 133019,
     'name' => 'Sri Muktsar Sahib',
@@ -18136,7 +17740,7 @@ return array (
     'latitude' => 30.47426,
     'longitude' => 74.5166,
   ),
-  2015 => 
+  1971 => 
   array (
     'id' => 133020,
     'name' => 'Mulbagal',
@@ -18145,7 +17749,7 @@ return array (
     'latitude' => 13.16352,
     'longitude' => 78.39346,
   ),
-  2016 => 
+  1972 => 
   array (
     'id' => 133021,
     'name' => 'Mulgund',
@@ -18154,7 +17758,7 @@ return array (
     'latitude' => 15.2807,
     'longitude' => 75.52132,
   ),
-  2017 => 
+  1973 => 
   array (
     'id' => 133022,
     'name' => 'Multai',
@@ -18163,7 +17767,7 @@ return array (
     'latitude' => 21.77463,
     'longitude' => 78.25756,
   ),
-  2018 => 
+  1974 => 
   array (
     'id' => 133023,
     'name' => 'Muluppilagadu',
@@ -18172,7 +17776,7 @@ return array (
     'latitude' => 11.79788,
     'longitude' => 75.45111,
   ),
-  2019 => 
+  1975 => 
   array (
     'id' => 133024,
     'name' => 'Mumbai',
@@ -18181,7 +17785,7 @@ return array (
     'latitude' => 19.07283,
     'longitude' => 72.88261,
   ),
-  2020 => 
+  1976 => 
   array (
     'id' => 133025,
     'name' => 'Mumbai Suburban',
@@ -18190,7 +17794,7 @@ return array (
     'latitude' => 19.12636,
     'longitude' => 72.84897,
   ),
-  2021 => 
+  1977 => 
   array (
     'id' => 133026,
     'name' => 'Mundargi',
@@ -18199,7 +17803,7 @@ return array (
     'latitude' => 15.20677,
     'longitude' => 75.8839,
   ),
-  2022 => 
+  1978 => 
   array (
     'id' => 133027,
     'name' => 'Mundgod',
@@ -18208,7 +17812,7 @@ return array (
     'latitude' => 14.97144,
     'longitude' => 75.03658,
   ),
-  2023 => 
+  1979 => 
   array (
     'id' => 133028,
     'name' => 'Mundi',
@@ -18217,7 +17821,7 @@ return array (
     'latitude' => 22.06693,
     'longitude' => 76.49326,
   ),
-  2024 => 
+  1980 => 
   array (
     'id' => 133029,
     'name' => 'Mundra',
@@ -18226,7 +17830,7 @@ return array (
     'latitude' => 22.83918,
     'longitude' => 69.7219,
   ),
-  2025 => 
+  1981 => 
   array (
     'id' => 133030,
     'name' => 'Mungaoli',
@@ -18235,7 +17839,7 @@ return array (
     'latitude' => 24.40837,
     'longitude' => 78.09588,
   ),
-  2026 => 
+  1982 => 
   array (
     'id' => 133031,
     'name' => 'Mungeli',
@@ -18244,7 +17848,7 @@ return array (
     'latitude' => 22.06566,
     'longitude' => 81.68543,
   ),
-  2027 => 
+  1983 => 
   array (
     'id' => 133032,
     'name' => 'Munger',
@@ -18253,7 +17857,7 @@ return array (
     'latitude' => 25.36099,
     'longitude' => 86.46515,
   ),
-  2028 => 
+  1984 => 
   array (
     'id' => 133033,
     'name' => 'Munirabad',
@@ -18262,7 +17866,7 @@ return array (
     'latitude' => 15.30928,
     'longitude' => 76.3383,
   ),
-  2029 => 
+  1985 => 
   array (
     'id' => 133034,
     'name' => 'Munnar',
@@ -18271,7 +17875,7 @@ return array (
     'latitude' => 10.08818,
     'longitude' => 77.06239,
   ),
-  2030 => 
+  1986 => 
   array (
     'id' => 133035,
     'name' => 'Murbad',
@@ -18280,7 +17884,7 @@ return array (
     'latitude' => 19.25395,
     'longitude' => 73.38993,
   ),
-  2031 => 
+  1987 => 
   array (
     'id' => 133036,
     'name' => 'Murgud',
@@ -18289,7 +17893,7 @@ return array (
     'latitude' => 16.39604,
     'longitude' => 74.19142,
   ),
-  2032 => 
+  1988 => 
   array (
     'id' => 133037,
     'name' => 'Murliganj',
@@ -18298,7 +17902,7 @@ return array (
     'latitude' => 25.8969,
     'longitude' => 86.99577,
   ),
-  2033 => 
+  1989 => 
   array (
     'id' => 133038,
     'name' => 'Mursan',
@@ -18307,7 +17911,7 @@ return array (
     'latitude' => 27.57788,
     'longitude' => 77.94091,
   ),
-  2034 => 
+  1990 => 
   array (
     'id' => 133039,
     'name' => 'Murtajapur',
@@ -18316,7 +17920,7 @@ return array (
     'latitude' => 20.73299,
     'longitude' => 77.36694,
   ),
-  2035 => 
+  1991 => 
   array (
     'id' => 133041,
     'name' => 'Murudeshwara',
@@ -18325,7 +17929,7 @@ return array (
     'latitude' => 14.0943,
     'longitude' => 74.4845,
   ),
-  2036 => 
+  1992 => 
   array (
     'id' => 133042,
     'name' => 'Murwara',
@@ -18334,7 +17938,7 @@ return array (
     'latitude' => 23.83776,
     'longitude' => 80.39405,
   ),
-  2037 => 
+  1993 => 
   array (
     'id' => 133043,
     'name' => 'Muradnagar',
@@ -18343,7 +17947,7 @@ return array (
     'latitude' => 28.78069,
     'longitude' => 77.49865,
   ),
-  2038 => 
+  1994 => 
   array (
     'id' => 133044,
     'name' => 'Mushabani',
@@ -18352,7 +17956,7 @@ return array (
     'latitude' => 22.51135,
     'longitude' => 86.45713,
   ),
-  2039 => 
+  1995 => 
   array (
     'id' => 133045,
     'name' => 'Musiri',
@@ -18361,7 +17965,7 @@ return array (
     'latitude' => 10.95299,
     'longitude' => 78.44427,
   ),
-  2040 => 
+  1996 => 
   array (
     'id' => 133046,
     'name' => 'Mussoorie',
@@ -18370,7 +17974,7 @@ return array (
     'latitude' => 30.45498,
     'longitude' => 78.07068,
   ),
-  2041 => 
+  1997 => 
   array (
     'id' => 133047,
     'name' => 'Mustafabad',
@@ -18379,7 +17983,7 @@ return array (
     'latitude' => 30.2022,
     'longitude' => 77.14873,
   ),
-  2042 => 
+  1998 => 
   array (
     'id' => 133048,
     'name' => 'Musafir-Khana',
@@ -18388,7 +17992,7 @@ return array (
     'latitude' => 26.37837,
     'longitude' => 81.79607,
   ),
-  2043 => 
+  1999 => 
   array (
     'id' => 133049,
     'name' => 'Muttupet',
@@ -18397,7 +18001,7 @@ return array (
     'latitude' => 10.39505,
     'longitude' => 79.49353,
   ),
-  2044 => 
+  2000 => 
   array (
     'id' => 133050,
     'name' => 'Muvattupuzha',
@@ -18406,7 +18010,7 @@ return array (
     'latitude' => 9.97985,
     'longitude' => 76.57381,
   ),
-  2045 => 
+  2001 => 
   array (
     'id' => 133051,
     'name' => 'Muzaffarnagar',
@@ -18415,7 +18019,7 @@ return array (
     'latitude' => 29.45,
     'longitude' => 77.58333,
   ),
-  2046 => 
+  2002 => 
   array (
     'id' => 133052,
     'name' => 'Muzaffarpur',
@@ -18424,7 +18028,7 @@ return array (
     'latitude' => 26.16667,
     'longitude' => 85.41667,
   ),
-  2047 => 
+  2003 => 
   array (
     'id' => 133053,
     'name' => 'Mysuru',
@@ -18433,7 +18037,7 @@ return array (
     'latitude' => 12.23,
     'longitude' => 76.42,
   ),
-  2048 => 
+  2004 => 
   array (
     'id' => 133054,
     'name' => 'Machalpur',
@@ -18442,7 +18046,7 @@ return array (
     'latitude' => 24.12767,
     'longitude' => 76.31672,
   ),
-  2049 => 
+  2005 => 
   array (
     'id' => 133055,
     'name' => 'Macherla',
@@ -18451,7 +18055,7 @@ return array (
     'latitude' => 16.47635,
     'longitude' => 79.43533,
   ),
-  2050 => 
+  2006 => 
   array (
     'id' => 133056,
     'name' => 'Machhiwara',
@@ -18460,7 +18064,7 @@ return array (
     'latitude' => 30.91557,
     'longitude' => 76.20016,
   ),
-  2051 => 
+  2007 => 
   array (
     'id' => 133057,
     'name' => 'Madhoganj',
@@ -18469,16 +18073,7 @@ return array (
     'latitude' => 27.11807,
     'longitude' => 80.14058,
   ),
-  2052 => 
-  array (
-    'id' => 133058,
-    'name' => 'Madhogarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.27522,
-    'longitude' => 79.1859,
-  ),
-  2053 => 
+  2008 => 
   array (
     'id' => 133059,
     'name' => 'Madugula',
@@ -18487,7 +18082,7 @@ return array (
     'latitude' => 17.91589,
     'longitude' => 82.81578,
   ),
-  2054 => 
+  2009 => 
   array (
     'id' => 133060,
     'name' => 'Magadi',
@@ -18496,7 +18091,7 @@ return array (
     'latitude' => 12.95706,
     'longitude' => 77.22374,
   ),
-  2055 => 
+  2010 => 
   array (
     'id' => 133061,
     'name' => 'Magam',
@@ -18505,7 +18100,7 @@ return array (
     'latitude' => 34.09256,
     'longitude' => 74.59016,
   ),
-  2056 => 
+  2011 => 
   array (
     'id' => 133062,
     'name' => 'Majalgaon',
@@ -18514,7 +18109,7 @@ return array (
     'latitude' => 19.15988,
     'longitude' => 76.20832,
   ),
-  2057 => 
+  2012 => 
   array (
     'id' => 133063,
     'name' => 'Makhjan',
@@ -18523,7 +18118,7 @@ return array (
     'latitude' => 17.2698,
     'longitude' => 73.50031,
   ),
-  2058 => 
+  2013 => 
   array (
     'id' => 133064,
     'name' => 'Makum',
@@ -18532,7 +18127,7 @@ return array (
     'latitude' => 27.48652,
     'longitude' => 95.43646,
   ),
-  2059 => 
+  2014 => 
   array (
     'id' => 133065,
     'name' => 'Malegaon',
@@ -18541,7 +18136,7 @@ return array (
     'latitude' => 20.54966,
     'longitude' => 74.53462,
   ),
-  2060 => 
+  2015 => 
   array (
     'id' => 133066,
     'name' => 'Malerkotla',
@@ -18550,7 +18145,7 @@ return array (
     'latitude' => 30.5309,
     'longitude' => 75.87949,
   ),
-  2061 => 
+  2016 => 
   array (
     'id' => 133067,
     'name' => 'Mallur',
@@ -18559,7 +18154,7 @@ return array (
     'latitude' => 11.54424,
     'longitude' => 78.14078,
   ),
-  2062 => 
+  2017 => 
   array (
     'id' => 133068,
     'name' => 'Malpur',
@@ -18568,7 +18163,7 @@ return array (
     'latitude' => 23.36035,
     'longitude' => 73.46595,
   ),
-  2063 => 
+  2018 => 
   array (
     'id' => 133069,
     'name' => 'Malpura',
@@ -18577,7 +18172,7 @@ return array (
     'latitude' => 26.2838,
     'longitude' => 75.36458,
   ),
-  2064 => 
+  2019 => 
   array (
     'id' => 133070,
     'name' => 'Malvan',
@@ -18586,7 +18181,7 @@ return array (
     'latitude' => 16.05981,
     'longitude' => 73.4629,
   ),
-  2065 => 
+  2020 => 
   array (
     'id' => 133071,
     'name' => 'Malur',
@@ -18595,7 +18190,7 @@ return array (
     'latitude' => 13.00322,
     'longitude' => 77.93798,
   ),
-  2066 => 
+  2021 => 
   array (
     'id' => 133072,
     'name' => 'Mandal',
@@ -18604,16 +18199,7 @@ return array (
     'latitude' => 25.44126,
     'longitude' => 74.56979,
   ),
-  2067 => 
-  array (
-    'id' => 133073,
-    'name' => 'Mandal',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.28865,
-    'longitude' => 71.91854,
-  ),
-  2068 => 
+  2022 => 
   array (
     'id' => 133074,
     'name' => 'Mandalgarh',
@@ -18622,7 +18208,7 @@ return array (
     'latitude' => 25.19407,
     'longitude' => 75.07215,
   ),
-  2069 => 
+  2023 => 
   array (
     'id' => 133075,
     'name' => 'Mandleshwar',
@@ -18631,7 +18217,7 @@ return array (
     'latitude' => 22.17598,
     'longitude' => 75.65995,
   ),
-  2070 => 
+  2024 => 
   array (
     'id' => 133076,
     'name' => 'Mandvi',
@@ -18640,7 +18226,7 @@ return array (
     'latitude' => 22.83282,
     'longitude' => 69.35237,
   ),
-  2071 => 
+  2025 => 
   array (
     'id' => 133077,
     'name' => 'Mangrol',
@@ -18649,16 +18235,7 @@ return array (
     'latitude' => 21.12268,
     'longitude' => 70.11484,
   ),
-  2072 => 
-  array (
-    'id' => 133078,
-    'name' => 'Mangrol',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.33061,
-    'longitude' => 76.50973,
-  ),
-  2073 => 
+  2026 => 
   array (
     'id' => 133079,
     'name' => 'Manikpur',
@@ -18667,7 +18244,7 @@ return array (
     'latitude' => 25.06083,
     'longitude' => 81.09961,
   ),
-  2074 => 
+  2027 => 
   array (
     'id' => 133080,
     'name' => 'Manpur',
@@ -18676,7 +18253,7 @@ return array (
     'latitude' => 22.43151,
     'longitude' => 75.62107,
   ),
-  2075 => 
+  2028 => 
   array (
     'id' => 133081,
     'name' => 'Mansa',
@@ -18685,16 +18262,7 @@ return array (
     'latitude' => 23.42564,
     'longitude' => 72.65739,
   ),
-  2076 => 
-  array (
-    'id' => 133082,
-    'name' => 'Mansa',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 29.98844,
-    'longitude' => 75.40167,
-  ),
-  2077 => 
+  2029 => 
   array (
     'id' => 133083,
     'name' => 'Manvi',
@@ -18703,7 +18271,7 @@ return array (
     'latitude' => 15.99126,
     'longitude' => 77.05034,
   ),
-  2078 => 
+  2030 => 
   array (
     'id' => 133084,
     'name' => 'Manwat',
@@ -18712,7 +18280,7 @@ return array (
     'latitude' => 19.30133,
     'longitude' => 76.49735,
   ),
-  2079 => 
+  2031 => 
   array (
     'id' => 133085,
     'name' => 'Manavadar',
@@ -18721,7 +18289,7 @@ return array (
     'latitude' => 21.49813,
     'longitude' => 70.13775,
   ),
-  2080 => 
+  2032 => 
   array (
     'id' => 133086,
     'name' => 'Mapuca',
@@ -18730,7 +18298,7 @@ return array (
     'latitude' => 15.59154,
     'longitude' => 73.80898,
   ),
-  2081 => 
+  2033 => 
   array (
     'id' => 133087,
     'name' => 'Marahra',
@@ -18739,7 +18307,7 @@ return array (
     'latitude' => 27.7368,
     'longitude' => 78.56891,
   ),
-  2082 => 
+  2034 => 
   array (
     'id' => 133088,
     'name' => 'Markapur',
@@ -18748,7 +18316,7 @@ return array (
     'latitude' => 15.73534,
     'longitude' => 79.26848,
   ),
-  2083 => 
+  2035 => 
   array (
     'id' => 133089,
     'name' => 'Marandahalli',
@@ -18757,7 +18325,7 @@ return array (
     'latitude' => 12.38826,
     'longitude' => 78.00316,
   ),
-  2084 => 
+  2036 => 
   array (
     'id' => 133090,
     'name' => 'Matheran',
@@ -18766,7 +18334,7 @@ return array (
     'latitude' => 18.98281,
     'longitude' => 73.2652,
   ),
-  2085 => 
+  2037 => 
   array (
     'id' => 133091,
     'name' => 'Mattur',
@@ -18775,7 +18343,7 @@ return array (
     'latitude' => 11.32147,
     'longitude' => 79.20245,
   ),
-  2086 => 
+  2038 => 
   array (
     'id' => 133092,
     'name' => 'Mavelikara',
@@ -18784,7 +18352,7 @@ return array (
     'latitude' => 9.25929,
     'longitude' => 76.55642,
   ),
-  2087 => 
+  2039 => 
   array (
     'id' => 133093,
     'name' => 'Mayakonda',
@@ -18793,7 +18361,7 @@ return array (
     'latitude' => 14.28894,
     'longitude' => 76.08305,
   ),
-  2088 => 
+  2040 => 
   array (
     'id' => 133094,
     'name' => 'Minjur',
@@ -18802,7 +18370,7 @@ return array (
     'latitude' => 13.27951,
     'longitude' => 80.25815,
   ),
-  2089 => 
+  2041 => 
   array (
     'id' => 133095,
     'name' => 'Mirganj',
@@ -18811,7 +18379,7 @@ return array (
     'latitude' => 28.54012,
     'longitude' => 79.20817,
   ),
-  2090 => 
+  2042 => 
   array (
     'id' => 133096,
     'name' => 'Miranpur',
@@ -18820,7 +18388,7 @@ return array (
     'latitude' => 29.29026,
     'longitude' => 77.94939,
   ),
-  2091 => 
+  2043 => 
   array (
     'id' => 133097,
     'name' => 'Miranpur Katra',
@@ -18829,7 +18397,7 @@ return array (
     'latitude' => 28.02963,
     'longitude' => 79.66778,
   ),
-  2092 => 
+  2044 => 
   array (
     'id' => 133098,
     'name' => 'Mudbidri',
@@ -18838,7 +18406,7 @@ return array (
     'latitude' => 13.06653,
     'longitude' => 74.99525,
   ),
-  2093 => 
+  2045 => 
   array (
     'id' => 133099,
     'name' => 'Mul',
@@ -18847,7 +18415,7 @@ return array (
     'latitude' => 20.06987,
     'longitude' => 79.67826,
   ),
-  2094 => 
+  2046 => 
   array (
     'id' => 133100,
     'name' => 'Mulanur',
@@ -18856,7 +18424,7 @@ return array (
     'latitude' => 10.79426,
     'longitude' => 77.7115,
   ),
-  2095 => 
+  2047 => 
   array (
     'id' => 133101,
     'name' => 'Mulki',
@@ -18865,7 +18433,7 @@ return array (
     'latitude' => 13.09101,
     'longitude' => 74.79353,
   ),
-  2096 => 
+  2048 => 
   array (
     'id' => 133102,
     'name' => 'Mundwa',
@@ -18874,7 +18442,7 @@ return array (
     'latitude' => 27.0631,
     'longitude' => 73.82304,
   ),
-  2097 => 
+  2049 => 
   array (
     'id' => 133103,
     'name' => 'Muvattupula',
@@ -18883,7 +18451,7 @@ return array (
     'latitude' => 9.98493,
     'longitude' => 76.57728,
   ),
-  2098 => 
+  2050 => 
   array (
     'id' => 133104,
     'name' => 'Nabarangpur',
@@ -18892,7 +18460,7 @@ return array (
     'latitude' => 19.2333,
     'longitude' => 82.55,
   ),
-  2099 => 
+  2051 => 
   array (
     'id' => 133105,
     'name' => 'Nabinagar',
@@ -18901,7 +18469,7 @@ return array (
     'latitude' => 24.60681,
     'longitude' => 84.12624,
   ),
-  2100 => 
+  2052 => 
   array (
     'id' => 133106,
     'name' => 'Nadiad',
@@ -18910,7 +18478,7 @@ return array (
     'latitude' => 22.69385,
     'longitude' => 72.86157,
   ),
-  2101 => 
+  2053 => 
   array (
     'id' => 133107,
     'name' => 'Naduvannur',
@@ -18919,7 +18487,7 @@ return array (
     'latitude' => 11.48772,
     'longitude' => 75.77511,
   ),
-  2102 => 
+  2054 => 
   array (
     'id' => 133108,
     'name' => 'Naduvattam',
@@ -18928,7 +18496,7 @@ return array (
     'latitude' => 11.48075,
     'longitude' => 76.54365,
   ),
-  2103 => 
+  2055 => 
   array (
     'id' => 133109,
     'name' => 'Nadigaon',
@@ -18937,7 +18505,7 @@ return array (
     'latitude' => 26.10784,
     'longitude' => 79.02283,
   ),
-  2104 => 
+  2056 => 
   array (
     'id' => 133110,
     'name' => 'Nagaon',
@@ -18946,7 +18514,7 @@ return array (
     'latitude' => 26.35037,
     'longitude' => 92.69225,
   ),
-  2105 => 
+  2057 => 
   array (
     'id' => 133111,
     'name' => 'Nagapattinam',
@@ -18955,7 +18523,7 @@ return array (
     'latitude' => 10.85,
     'longitude' => 79.74,
   ),
-  2106 => 
+  2058 => 
   array (
     'id' => 133112,
     'name' => 'Nagar',
@@ -18964,16 +18532,7 @@ return array (
     'latitude' => 27.42397,
     'longitude' => 77.09922,
   ),
-  2107 => 
-  array (
-    'id' => 133113,
-    'name' => 'Nagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 32.13808,
-    'longitude' => 77.17393,
-  ),
-  2108 => 
+  2059 => 
   array (
     'id' => 133114,
     'name' => 'Nagari',
@@ -18982,7 +18541,7 @@ return array (
     'latitude' => 13.32139,
     'longitude' => 79.58557,
   ),
-  2109 => 
+  2060 => 
   array (
     'id' => 133115,
     'name' => 'Nagda',
@@ -18991,7 +18550,7 @@ return array (
     'latitude' => 23.45834,
     'longitude' => 75.41759,
   ),
-  2110 => 
+  2061 => 
   array (
     'id' => 133116,
     'name' => 'Nagpur',
@@ -19000,7 +18559,7 @@ return array (
     'latitude' => 21.14631,
     'longitude' => 79.08491,
   ),
-  2111 => 
+  2062 => 
   array (
     'id' => 133117,
     'name' => 'Nagpur Division',
@@ -19009,7 +18568,7 @@ return array (
     'latitude' => 21.14911,
     'longitude' => 79.10748,
   ),
-  2112 => 
+  2063 => 
   array (
     'id' => 133118,
     'name' => 'Nagrota',
@@ -19018,7 +18577,7 @@ return array (
     'latitude' => 32.0571,
     'longitude' => 76.09139,
   ),
-  2113 => 
+  2064 => 
   array (
     'id' => 133119,
     'name' => 'Nagram',
@@ -19027,7 +18586,7 @@ return array (
     'latitude' => 26.61872,
     'longitude' => 81.14043,
   ),
-  2114 => 
+  2065 => 
   array (
     'id' => 133120,
     'name' => 'Nagina',
@@ -19036,7 +18595,7 @@ return array (
     'latitude' => 29.44433,
     'longitude' => 78.43646,
   ),
-  2115 => 
+  2066 => 
   array (
     'id' => 133121,
     'name' => 'Naharlagun',
@@ -19045,7 +18604,7 @@ return array (
     'latitude' => 27.10467,
     'longitude' => 93.69518,
   ),
-  2116 => 
+  2067 => 
   array (
     'id' => 133122,
     'name' => 'Nahorkatiya',
@@ -19054,7 +18613,7 @@ return array (
     'latitude' => 27.28912,
     'longitude' => 95.3418,
   ),
-  2117 => 
+  2068 => 
   array (
     'id' => 133123,
     'name' => 'Naini Tal',
@@ -19063,7 +18622,7 @@ return array (
     'latitude' => 29.39743,
     'longitude' => 79.44686,
   ),
-  2118 => 
+  2069 => 
   array (
     'id' => 133124,
     'name' => 'Nainpur',
@@ -19072,7 +18631,7 @@ return array (
     'latitude' => 22.42996,
     'longitude' => 80.10561,
   ),
-  2119 => 
+  2070 => 
   array (
     'id' => 133125,
     'name' => 'Nainwa',
@@ -19081,7 +18640,7 @@ return array (
     'latitude' => 25.77145,
     'longitude' => 75.84978,
   ),
-  2120 => 
+  2071 => 
   array (
     'id' => 133126,
     'name' => 'Najafgarh',
@@ -19090,7 +18649,7 @@ return array (
     'latitude' => 28.60922,
     'longitude' => 76.97982,
   ),
-  2121 => 
+  2072 => 
   array (
     'id' => 133127,
     'name' => 'Najibabad',
@@ -19099,7 +18658,7 @@ return array (
     'latitude' => 29.61194,
     'longitude' => 78.34274,
   ),
-  2122 => 
+  2073 => 
   array (
     'id' => 133128,
     'name' => 'Nakodar',
@@ -19108,7 +18667,7 @@ return array (
     'latitude' => 31.12586,
     'longitude' => 75.47508,
   ),
-  2123 => 
+  2074 => 
   array (
     'id' => 133129,
     'name' => 'Nakur',
@@ -19117,7 +18676,7 @@ return array (
     'latitude' => 29.91964,
     'longitude' => 77.30438,
   ),
-  2124 => 
+  2075 => 
   array (
     'id' => 133130,
     'name' => 'Nalbari',
@@ -19126,7 +18685,7 @@ return array (
     'latitude' => 26.5,
     'longitude' => 91.4,
   ),
-  2125 => 
+  2076 => 
   array (
     'id' => 133131,
     'name' => 'Naldurg',
@@ -19135,7 +18694,7 @@ return array (
     'latitude' => 17.81667,
     'longitude' => 76.28182,
   ),
-  2126 => 
+  2077 => 
   array (
     'id' => 133132,
     'name' => 'Nalgonda',
@@ -19144,7 +18703,7 @@ return array (
     'latitude' => 17.16667,
     'longitude' => 79.5,
   ),
-  2127 => 
+  2078 => 
   array (
     'id' => 133133,
     'name' => 'Naliya',
@@ -19153,7 +18712,7 @@ return array (
     'latitude' => 23.26058,
     'longitude' => 68.82655,
   ),
-  2128 => 
+  2079 => 
   array (
     'id' => 133134,
     'name' => 'Namakkal',
@@ -19162,7 +18721,7 @@ return array (
     'latitude' => 11.3,
     'longitude' => 78.13,
   ),
-  2129 => 
+  2080 => 
   array (
     'id' => 133135,
     'name' => 'Nambiyur',
@@ -19171,7 +18730,7 @@ return array (
     'latitude' => 11.35811,
     'longitude' => 77.32115,
   ),
-  2130 => 
+  2081 => 
   array (
     'id' => 133136,
     'name' => 'Nambutalai',
@@ -19180,7 +18739,7 @@ return array (
     'latitude' => 9.72766,
     'longitude' => 79.00707,
   ),
-  2131 => 
+  2082 => 
   array (
     'id' => 133137,
     'name' => 'Namchi',
@@ -19189,7 +18748,7 @@ return array (
     'latitude' => 27.16494,
     'longitude' => 88.3638,
   ),
-  2132 => 
+  2083 => 
   array (
     'id' => 133138,
     'name' => 'Namli',
@@ -19198,7 +18757,7 @@ return array (
     'latitude' => 23.46115,
     'longitude' => 75.06036,
   ),
-  2133 => 
+  2084 => 
   array (
     'id' => 133139,
     'name' => 'Nanauta',
@@ -19207,7 +18766,7 @@ return array (
     'latitude' => 29.71215,
     'longitude' => 77.41728,
   ),
-  2134 => 
+  2085 => 
   array (
     'id' => 133140,
     'name' => 'Nandambakkam',
@@ -19216,7 +18775,7 @@ return array (
     'latitude' => 12.97795,
     'longitude' => 80.06781,
   ),
-  2135 => 
+  2086 => 
   array (
     'id' => 133141,
     'name' => 'Nanded',
@@ -19225,7 +18784,7 @@ return array (
     'latitude' => 18.91667,
     'longitude' => 77.5,
   ),
-  2136 => 
+  2087 => 
   array (
     'id' => 133142,
     'name' => 'Nandgaon',
@@ -19234,7 +18793,7 @@ return array (
     'latitude' => 27.71102,
     'longitude' => 77.38653,
   ),
-  2137 => 
+  2088 => 
   array (
     'id' => 133143,
     'name' => 'Nandigama',
@@ -19243,7 +18802,7 @@ return array (
     'latitude' => 16.7717,
     'longitude' => 80.28596,
   ),
-  2138 => 
+  2089 => 
   array (
     'id' => 133144,
     'name' => 'Nandikotkur',
@@ -19252,7 +18811,7 @@ return array (
     'latitude' => 15.85668,
     'longitude' => 78.26569,
   ),
-  2139 => 
+  2090 => 
   array (
     'id' => 133145,
     'name' => 'Nandurbar',
@@ -19261,7 +18820,7 @@ return array (
     'latitude' => 21.37,
     'longitude' => 74.2,
   ),
-  2140 => 
+  2091 => 
   array (
     'id' => 133146,
     'name' => 'Nandyal',
@@ -19270,7 +18829,7 @@ return array (
     'latitude' => 15.47799,
     'longitude' => 78.4836,
   ),
-  2141 => 
+  2092 => 
   array (
     'id' => 133147,
     'name' => 'Nangal',
@@ -19279,7 +18838,7 @@ return array (
     'latitude' => 31.38966,
     'longitude' => 76.37574,
   ),
-  2142 => 
+  2093 => 
   array (
     'id' => 133148,
     'name' => 'Nangavalli',
@@ -19288,7 +18847,7 @@ return array (
     'latitude' => 11.76189,
     'longitude' => 77.89093,
   ),
-  2143 => 
+  2094 => 
   array (
     'id' => 133149,
     'name' => 'Nangilickondan',
@@ -19297,7 +18856,7 @@ return array (
     'latitude' => 12.25539,
     'longitude' => 79.47508,
   ),
-  2144 => 
+  2095 => 
   array (
     'id' => 133150,
     'name' => 'Nanguneri',
@@ -19306,7 +18865,7 @@ return array (
     'latitude' => 8.49326,
     'longitude' => 77.65806,
   ),
-  2145 => 
+  2096 => 
   array (
     'id' => 133151,
     'name' => 'Nanjangud',
@@ -19315,7 +18874,7 @@ return array (
     'latitude' => 12.11764,
     'longitude' => 76.68397,
   ),
-  2146 => 
+  2097 => 
   array (
     'id' => 133152,
     'name' => 'Nannilam',
@@ -19324,7 +18883,7 @@ return array (
     'latitude' => 10.87933,
     'longitude' => 79.61062,
   ),
-  2147 => 
+  2098 => 
   array (
     'id' => 133153,
     'name' => 'Napasar',
@@ -19333,7 +18892,7 @@ return array (
     'latitude' => 27.96059,
     'longitude' => 73.55913,
   ),
-  2148 => 
+  2099 => 
   array (
     'id' => 133154,
     'name' => 'Naraina',
@@ -19342,7 +18901,7 @@ return array (
     'latitude' => 26.79069,
     'longitude' => 75.20608,
   ),
-  2149 => 
+  2100 => 
   array (
     'id' => 133155,
     'name' => 'Naraini',
@@ -19351,7 +18910,7 @@ return array (
     'latitude' => 25.19033,
     'longitude' => 80.475,
   ),
-  2150 => 
+  2101 => 
   array (
     'id' => 133156,
     'name' => 'Narasannapeta',
@@ -19360,7 +18919,7 @@ return array (
     'latitude' => 18.41428,
     'longitude' => 84.04463,
   ),
-  2151 => 
+  2102 => 
   array (
     'id' => 133157,
     'name' => 'Narasapur',
@@ -19369,7 +18928,7 @@ return array (
     'latitude' => 16.43425,
     'longitude' => 81.69845,
   ),
-  2152 => 
+  2103 => 
   array (
     'id' => 133158,
     'name' => 'Narasaraopet',
@@ -19378,7 +18937,7 @@ return array (
     'latitude' => 16.23488,
     'longitude' => 80.04927,
   ),
-  2153 => 
+  2104 => 
   array (
     'id' => 133159,
     'name' => 'Narasimharajapura',
@@ -19387,7 +18946,7 @@ return array (
     'latitude' => 13.61075,
     'longitude' => 75.512,
   ),
-  2154 => 
+  2105 => 
   array (
     'id' => 133160,
     'name' => 'Narasingapuram',
@@ -19396,7 +18955,7 @@ return array (
     'latitude' => 13.60759,
     'longitude' => 79.31652,
   ),
-  2155 => 
+  2106 => 
   array (
     'id' => 133161,
     'name' => 'Narauli',
@@ -19405,7 +18964,7 @@ return array (
     'latitude' => 28.48547,
     'longitude' => 78.71484,
   ),
-  2156 => 
+  2107 => 
   array (
     'id' => 133162,
     'name' => 'Naraura',
@@ -19414,7 +18973,7 @@ return array (
     'latitude' => 28.20147,
     'longitude' => 78.38723,
   ),
-  2157 => 
+  2108 => 
   array (
     'id' => 133163,
     'name' => 'Narayanpur',
@@ -19423,7 +18982,7 @@ return array (
     'latitude' => 19.60426,
     'longitude' => 81.08119,
   ),
-  2158 => 
+  2109 => 
   array (
     'id' => 133164,
     'name' => 'Naregal',
@@ -19432,7 +18991,7 @@ return array (
     'latitude' => 15.57316,
     'longitude' => 75.80805,
   ),
-  2159 => 
+  2110 => 
   array (
     'id' => 133165,
     'name' => 'Narela',
@@ -19441,7 +19000,7 @@ return array (
     'latitude' => 28.85267,
     'longitude' => 77.09288,
   ),
-  2160 => 
+  2111 => 
   array (
     'id' => 133166,
     'name' => 'Narendranagar',
@@ -19450,7 +19009,7 @@ return array (
     'latitude' => 30.16173,
     'longitude' => 78.28712,
   ),
-  2161 => 
+  2112 => 
   array (
     'id' => 133167,
     'name' => 'Nargund',
@@ -19459,7 +19018,7 @@ return array (
     'latitude' => 15.72299,
     'longitude' => 75.38666,
   ),
-  2162 => 
+  2113 => 
   array (
     'id' => 133168,
     'name' => 'Narharpur',
@@ -19468,7 +19027,7 @@ return array (
     'latitude' => 20.44892,
     'longitude' => 81.62004,
   ),
-  2163 => 
+  2114 => 
   array (
     'id' => 133169,
     'name' => 'Narmada',
@@ -19477,7 +19036,7 @@ return array (
     'latitude' => 21.87377,
     'longitude' => 73.49527,
   ),
-  2164 => 
+  2115 => 
   array (
     'id' => 133170,
     'name' => 'Naroda',
@@ -19486,7 +19045,7 @@ return array (
     'latitude' => 23.07041,
     'longitude' => 72.65702,
   ),
-  2165 => 
+  2116 => 
   array (
     'id' => 133171,
     'name' => 'Narsimhapur',
@@ -19495,7 +19054,7 @@ return array (
     'latitude' => 22.91667,
     'longitude' => 79.16667,
   ),
-  2166 => 
+  2117 => 
   array (
     'id' => 133172,
     'name' => 'Narsinghgarh',
@@ -19504,7 +19063,7 @@ return array (
     'latitude' => 23.70758,
     'longitude' => 77.09319,
   ),
-  2167 => 
+  2118 => 
   array (
     'id' => 133173,
     'name' => 'Narsipatnam',
@@ -19513,7 +19072,7 @@ return array (
     'latitude' => 17.66709,
     'longitude' => 82.61245,
   ),
-  2168 => 
+  2119 => 
   array (
     'id' => 133174,
     'name' => 'Narwar',
@@ -19522,7 +19081,7 @@ return array (
     'latitude' => 25.6439,
     'longitude' => 77.9129,
   ),
-  2169 => 
+  2120 => 
   array (
     'id' => 133175,
     'name' => 'Narwana',
@@ -19531,7 +19090,7 @@ return array (
     'latitude' => 29.59903,
     'longitude' => 76.11927,
   ),
-  2170 => 
+  2121 => 
   array (
     'id' => 133176,
     'name' => 'Narayangarh',
@@ -19540,7 +19099,7 @@ return array (
     'latitude' => 30.47798,
     'longitude' => 77.12804,
   ),
-  2171 => 
+  2122 => 
   array (
     'id' => 133177,
     'name' => 'Nashik',
@@ -19549,7 +19108,7 @@ return array (
     'latitude' => 19.99727,
     'longitude' => 73.79096,
   ),
-  2172 => 
+  2123 => 
   array (
     'id' => 133178,
     'name' => 'Nashik Division',
@@ -19558,7 +19117,7 @@ return array (
     'latitude' => 19.98295,
     'longitude' => 73.78942,
   ),
-  2173 => 
+  2124 => 
   array (
     'id' => 133179,
     'name' => 'Nasrullahganj',
@@ -19567,7 +19126,7 @@ return array (
     'latitude' => 22.6837,
     'longitude' => 77.27069,
   ),
-  2174 => 
+  2125 => 
   array (
     'id' => 133180,
     'name' => 'Nasirabad',
@@ -19576,7 +19135,7 @@ return array (
     'latitude' => 26.30473,
     'longitude' => 74.73364,
   ),
-  2175 => 
+  2126 => 
   array (
     'id' => 133181,
     'name' => 'Nattam',
@@ -19585,7 +19144,7 @@ return array (
     'latitude' => 10.22776,
     'longitude' => 78.22969,
   ),
-  2176 => 
+  2127 => 
   array (
     'id' => 133182,
     'name' => 'Naugachhia',
@@ -19594,7 +19153,7 @@ return array (
     'latitude' => 25.38807,
     'longitude' => 87.09906,
   ),
-  2177 => 
+  2128 => 
   array (
     'id' => 133183,
     'name' => 'Nautanwa',
@@ -19603,7 +19162,7 @@ return array (
     'latitude' => 27.42752,
     'longitude' => 83.41789,
   ),
-  2178 => 
+  2129 => 
   array (
     'id' => 133184,
     'name' => 'Navalgund',
@@ -19612,7 +19171,7 @@ return array (
     'latitude' => 15.55877,
     'longitude' => 75.35305,
   ),
-  2179 => 
+  2130 => 
   array (
     'id' => 133185,
     'name' => 'Navelim',
@@ -19621,7 +19180,7 @@ return array (
     'latitude' => 15.53333,
     'longitude' => 73.98333,
   ),
-  2180 => 
+  2131 => 
   array (
     'id' => 133186,
     'name' => 'Navi Mumbai',
@@ -19630,7 +19189,7 @@ return array (
     'latitude' => 19.03681,
     'longitude' => 73.01582,
   ),
-  2181 => 
+  2132 => 
   array (
     'id' => 133187,
     'name' => 'Navsari',
@@ -19639,7 +19198,7 @@ return array (
     'latitude' => 20.95,
     'longitude' => 72.92,
   ),
-  2182 => 
+  2133 => 
   array (
     'id' => 133189,
     'name' => 'Nawalgarh',
@@ -19648,7 +19207,7 @@ return array (
     'latitude' => 27.85161,
     'longitude' => 75.27384,
   ),
-  2183 => 
+  2134 => 
   array (
     'id' => 133190,
     'name' => 'Nawanshahr',
@@ -19657,7 +19216,7 @@ return array (
     'latitude' => 31.1245,
     'longitude' => 76.11613,
   ),
-  2184 => 
+  2135 => 
   array (
     'id' => 133191,
     'name' => 'Nawabganj',
@@ -19666,7 +19225,7 @@ return array (
     'latitude' => 26.93129,
     'longitude' => 81.19841,
   ),
-  2185 => 
+  2136 => 
   array (
     'id' => 133192,
     'name' => 'Nawada',
@@ -19675,16 +19234,7 @@ return array (
     'latitude' => 24.75,
     'longitude' => 85.5,
   ),
-  2186 => 
-  array (
-    'id' => 133193,
-    'name' => 'Nawanshahr',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 32.76505,
-    'longitude' => 74.52772,
-  ),
-  2187 => 
+  2137 => 
   array (
     'id' => 133194,
     'name' => 'Naya Bazar',
@@ -19693,7 +19243,7 @@ return array (
     'latitude' => 27.13082,
     'longitude' => 88.23972,
   ),
-  2188 => 
+  2138 => 
   array (
     'id' => 133195,
     'name' => 'Nayagarh District',
@@ -19702,7 +19252,7 @@ return array (
     'latitude' => 20.13,
     'longitude' => 85.1,
   ),
-  2189 => 
+  2139 => 
   array (
     'id' => 133196,
     'name' => 'Nayagarh',
@@ -19711,7 +19261,7 @@ return array (
     'latitude' => 20.12882,
     'longitude' => 85.09626,
   ),
-  2190 => 
+  2140 => 
   array (
     'id' => 133197,
     'name' => 'Naigarhi',
@@ -19720,7 +19270,7 @@ return array (
     'latitude' => 24.78686,
     'longitude' => 81.77868,
   ),
-  2191 => 
+  2141 => 
   array (
     'id' => 133198,
     'name' => 'Nedumangad',
@@ -19729,7 +19279,7 @@ return array (
     'latitude' => 8.60267,
     'longitude' => 77.00139,
   ),
-  2192 => 
+  2142 => 
   array (
     'id' => 133199,
     'name' => 'Needamangalam',
@@ -19738,7 +19288,7 @@ return array (
     'latitude' => 10.77378,
     'longitude' => 79.41875,
   ),
-  2193 => 
+  2143 => 
   array (
     'id' => 133200,
     'name' => 'Neelankarai',
@@ -19747,7 +19297,7 @@ return array (
     'latitude' => 12.9495,
     'longitude' => 80.2592,
   ),
-  2194 => 
+  2144 => 
   array (
     'id' => 133201,
     'name' => 'Neem ka Thana',
@@ -19756,7 +19306,7 @@ return array (
     'latitude' => 27.73976,
     'longitude' => 75.78652,
   ),
-  2195 => 
+  2145 => 
   array (
     'id' => 133202,
     'name' => 'Neemuch',
@@ -19765,7 +19315,7 @@ return array (
     'latitude' => 24.47,
     'longitude' => 74.87,
   ),
-  2196 => 
+  2146 => 
   array (
     'id' => 133203,
     'name' => 'Negapatam',
@@ -19774,7 +19324,7 @@ return array (
     'latitude' => 10.76377,
     'longitude' => 79.84313,
   ),
-  2197 => 
+  2147 => 
   array (
     'id' => 133204,
     'name' => 'Nelamangala',
@@ -19783,7 +19333,7 @@ return array (
     'latitude' => 13.09978,
     'longitude' => 77.39364,
   ),
-  2198 => 
+  2148 => 
   array (
     'id' => 133205,
     'name' => 'Nellikkuppam',
@@ -19792,7 +19342,7 @@ return array (
     'latitude' => 11.77554,
     'longitude' => 79.67016,
   ),
-  2199 => 
+  2149 => 
   array (
     'id' => 133206,
     'name' => 'Nellore',
@@ -19801,7 +19351,7 @@ return array (
     'latitude' => 14.08333,
     'longitude' => 79.58333,
   ),
-  2200 => 
+  2150 => 
   array (
     'id' => 133207,
     'name' => 'Nepanagar',
@@ -19810,7 +19360,7 @@ return array (
     'latitude' => 21.4538,
     'longitude' => 76.39335,
   ),
-  2201 => 
+  2151 => 
   array (
     'id' => 133208,
     'name' => 'Neral',
@@ -19819,7 +19369,7 @@ return array (
     'latitude' => 19.02475,
     'longitude' => 73.31688,
   ),
-  2202 => 
+  2152 => 
   array (
     'id' => 133209,
     'name' => 'Neturhat',
@@ -19828,7 +19378,7 @@ return array (
     'latitude' => 23.47457,
     'longitude' => 84.2678,
   ),
-  2203 => 
+  2153 => 
   array (
     'id' => 133210,
     'name' => 'New Delhi',
@@ -19837,7 +19387,7 @@ return array (
     'latitude' => 28.63576,
     'longitude' => 77.22445,
   ),
-  2204 => 
+  2154 => 
   array (
     'id' => 133211,
     'name' => 'Neyyattinkara',
@@ -19846,7 +19396,7 @@ return array (
     'latitude' => 8.39854,
     'longitude' => 77.08586,
   ),
-  2205 => 
+  2155 => 
   array (
     'id' => 133212,
     'name' => 'Nichlaul',
@@ -19855,7 +19405,7 @@ return array (
     'latitude' => 27.31247,
     'longitude' => 83.7253,
   ),
-  2206 => 
+  2156 => 
   array (
     'id' => 133213,
     'name' => 'Nicobar',
@@ -19864,7 +19414,7 @@ return array (
     'latitude' => 7.03002,
     'longitude' => 93.79028,
   ),
-  2207 => 
+  2157 => 
   array (
     'id' => 133214,
     'name' => 'Nidadavole',
@@ -19873,7 +19423,7 @@ return array (
     'latitude' => 16.90572,
     'longitude' => 81.67222,
   ),
-  2208 => 
+  2158 => 
   array (
     'id' => 133215,
     'name' => 'Nihtaur',
@@ -19882,7 +19432,7 @@ return array (
     'latitude' => 29.32416,
     'longitude' => 78.38724,
   ),
-  2209 => 
+  2159 => 
   array (
     'id' => 133216,
     'name' => 'Nilakottai',
@@ -19891,7 +19441,7 @@ return array (
     'latitude' => 10.165,
     'longitude' => 77.85024,
   ),
-  2210 => 
+  2160 => 
   array (
     'id' => 133217,
     'name' => 'Nilanga',
@@ -19900,7 +19450,7 @@ return array (
     'latitude' => 18.11675,
     'longitude' => 76.75279,
   ),
-  2211 => 
+  2161 => 
   array (
     'id' => 133218,
     'name' => 'Nilgiris',
@@ -19909,7 +19459,7 @@ return array (
     'latitude' => 11.46,
     'longitude' => 76.64,
   ),
-  2212 => 
+  2162 => 
   array (
     'id' => 133219,
     'name' => 'Nimaparha',
@@ -19918,7 +19468,7 @@ return array (
     'latitude' => 20.05756,
     'longitude' => 86.00436,
   ),
-  2213 => 
+  2163 => 
   array (
     'id' => 133220,
     'name' => 'Nipani',
@@ -19927,7 +19477,7 @@ return array (
     'latitude' => 16.399,
     'longitude' => 74.38285,
   ),
-  2214 => 
+  2164 => 
   array (
     'id' => 133221,
     'name' => 'Nirmal',
@@ -19936,7 +19486,7 @@ return array (
     'latitude' => 19.09685,
     'longitude' => 78.34407,
   ),
-  2215 => 
+  2165 => 
   array (
     'id' => 133222,
     'name' => 'Nirmali',
@@ -19945,7 +19495,7 @@ return array (
     'latitude' => 26.31397,
     'longitude' => 86.58537,
   ),
-  2216 => 
+  2166 => 
   array (
     'id' => 133223,
     'name' => 'Nirsa',
@@ -19954,7 +19504,7 @@ return array (
     'latitude' => 23.78438,
     'longitude' => 86.70692,
   ),
-  2217 => 
+  2167 => 
   array (
     'id' => 133224,
     'name' => 'Niwai',
@@ -19963,7 +19513,7 @@ return array (
     'latitude' => 26.36073,
     'longitude' => 75.91836,
   ),
-  2218 => 
+  2168 => 
   array (
     'id' => 133225,
     'name' => 'Niwari',
@@ -19972,7 +19522,7 @@ return array (
     'latitude' => 28.87611,
     'longitude' => 77.5382,
   ),
-  2219 => 
+  2169 => 
   array (
     'id' => 133226,
     'name' => 'Nizamabad',
@@ -19981,16 +19531,7 @@ return array (
     'latitude' => 18.75,
     'longitude' => 78.25,
   ),
-  2220 => 
-  array (
-    'id' => 133228,
-    'name' => 'Nizamabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.05295,
-    'longitude' => 83.05787,
-  ),
-  2221 => 
+  2170 => 
   array (
     'id' => 133229,
     'name' => 'Nohar',
@@ -19999,7 +19540,7 @@ return array (
     'latitude' => 29.18292,
     'longitude' => 74.77064,
   ),
-  2222 => 
+  2171 => 
   array (
     'id' => 133230,
     'name' => 'Noida',
@@ -20008,7 +19549,7 @@ return array (
     'latitude' => 28.58,
     'longitude' => 77.33,
   ),
-  2223 => 
+  2172 => 
   array (
     'id' => 133231,
     'name' => 'Nokha',
@@ -20017,7 +19558,7 @@ return array (
     'latitude' => 27.56155,
     'longitude' => 73.47141,
   ),
-  2224 => 
+  2173 => 
   array (
     'id' => 133232,
     'name' => 'Nongpoh',
@@ -20026,7 +19567,7 @@ return array (
     'latitude' => 25.9023,
     'longitude' => 91.87694,
   ),
-  2225 => 
+  2174 => 
   array (
     'id' => 133233,
     'name' => 'Nongstoin',
@@ -20035,7 +19576,7 @@ return array (
     'latitude' => 25.51704,
     'longitude' => 91.26484,
   ),
-  2226 => 
+  2175 => 
   array (
     'id' => 133234,
     'name' => 'North Delhi',
@@ -20044,7 +19585,7 @@ return array (
     'latitude' => 28.6692,
     'longitude' => 77.22273,
   ),
-  2227 => 
+  2176 => 
   array (
     'id' => 133235,
     'name' => 'North District',
@@ -20053,7 +19594,7 @@ return array (
     'latitude' => 27.66667,
     'longitude' => 88.5,
   ),
-  2228 => 
+  2177 => 
   array (
     'id' => 133236,
     'name' => 'North East Delhi',
@@ -20062,7 +19603,7 @@ return array (
     'latitude' => 28.6869,
     'longitude' => 77.30195,
   ),
-  2229 => 
+  2178 => 
   array (
     'id' => 133237,
     'name' => 'North Garo Hills',
@@ -20071,7 +19612,7 @@ return array (
     'latitude' => 25.89682,
     'longitude' => 90.61602,
   ),
-  2230 => 
+  2179 => 
   array (
     'id' => 133238,
     'name' => 'North Goa',
@@ -20080,7 +19621,7 @@ return array (
     'latitude' => 15.53397,
     'longitude' => 73.96408,
   ),
-  2231 => 
+  2180 => 
   array (
     'id' => 133239,
     'name' => 'North Guwahati',
@@ -20089,7 +19630,7 @@ return array (
     'latitude' => 26.19749,
     'longitude' => 91.7202,
   ),
-  2232 => 
+  2181 => 
   array (
     'id' => 133240,
     'name' => 'North Lakhimpur',
@@ -20098,7 +19639,7 @@ return array (
     'latitude' => 27.23517,
     'longitude' => 94.10357,
   ),
-  2233 => 
+  2182 => 
   array (
     'id' => 133241,
     'name' => 'North Tripura',
@@ -20107,7 +19648,7 @@ return array (
     'latitude' => 24.1305,
     'longitude' => 92.15552,
   ),
-  2234 => 
+  2183 => 
   array (
     'id' => 133242,
     'name' => 'North Vanlaiphai',
@@ -20116,7 +19657,7 @@ return array (
     'latitude' => 23.13227,
     'longitude' => 93.06532,
   ),
-  2235 => 
+  2184 => 
   array (
     'id' => 133243,
     'name' => 'North West Delhi',
@@ -20125,7 +19666,7 @@ return array (
     'latitude' => 28.70113,
     'longitude' => 77.10154,
   ),
-  2236 => 
+  2185 => 
   array (
     'id' => 133244,
     'name' => 'Noria',
@@ -20134,7 +19675,7 @@ return array (
     'latitude' => 32.52095,
     'longitude' => 74.79845,
   ),
-  2237 => 
+  2186 => 
   array (
     'id' => 133245,
     'name' => 'Nowrangapur',
@@ -20143,7 +19684,7 @@ return array (
     'latitude' => 19.23114,
     'longitude' => 82.54826,
   ),
-  2238 => 
+  2187 => 
   array (
     'id' => 133246,
     'name' => 'Noamundi',
@@ -20152,7 +19693,7 @@ return array (
     'latitude' => 22.16094,
     'longitude' => 85.50416,
   ),
-  2239 => 
+  2188 => 
   array (
     'id' => 133247,
     'name' => 'Nuapada',
@@ -20161,7 +19702,7 @@ return array (
     'latitude' => 20.6,
     'longitude' => 82.5,
   ),
-  2240 => 
+  2189 => 
   array (
     'id' => 133248,
     'name' => 'Numaligarh',
@@ -20170,7 +19711,7 @@ return array (
     'latitude' => 26.62249,
     'longitude' => 93.72225,
   ),
-  2241 => 
+  2190 => 
   array (
     'id' => 133249,
     'name' => 'Nyamti',
@@ -20179,7 +19720,7 @@ return array (
     'latitude' => 14.14869,
     'longitude' => 75.57641,
   ),
-  2242 => 
+  2191 => 
   array (
     'id' => 133250,
     'name' => 'Nabha',
@@ -20188,7 +19729,7 @@ return array (
     'latitude' => 30.37577,
     'longitude' => 76.15292,
   ),
-  2243 => 
+  2192 => 
   array (
     'id' => 133251,
     'name' => 'Nadaun',
@@ -20197,7 +19738,7 @@ return array (
     'latitude' => 31.78303,
     'longitude' => 76.3431,
   ),
-  2244 => 
+  2193 => 
   array (
     'id' => 133252,
     'name' => 'Nadbai',
@@ -20206,7 +19747,7 @@ return array (
     'latitude' => 27.22288,
     'longitude' => 77.19569,
   ),
-  2245 => 
+  2194 => 
   array (
     'id' => 133253,
     'name' => 'Nadapuram',
@@ -20215,7 +19756,7 @@ return array (
     'latitude' => 11.68465,
     'longitude' => 75.65493,
   ),
-  2246 => 
+  2195 => 
   array (
     'id' => 133254,
     'name' => 'Nagamangala',
@@ -20224,7 +19765,7 @@ return array (
     'latitude' => 12.81939,
     'longitude' => 76.75456,
   ),
-  2247 => 
+  2196 => 
   array (
     'id' => 133255,
     'name' => 'Nagar Karnul',
@@ -20233,7 +19774,7 @@ return array (
     'latitude' => 16.4821,
     'longitude' => 78.32471,
   ),
-  2248 => 
+  2197 => 
   array (
     'id' => 133256,
     'name' => 'Nagaur',
@@ -20242,7 +19783,7 @@ return array (
     'latitude' => 27.20201,
     'longitude' => 73.73394,
   ),
-  2249 => 
+  2198 => 
   array (
     'id' => 133257,
     'name' => 'Nagercoil',
@@ -20251,7 +19792,7 @@ return array (
     'latitude' => 8.17899,
     'longitude' => 77.43227,
   ),
-  2250 => 
+  2199 => 
   array (
     'id' => 133258,
     'name' => 'Nagireddipalli',
@@ -20260,7 +19801,7 @@ return array (
     'latitude' => 14.27005,
     'longitude' => 79.10131,
   ),
-  2251 => 
+  2200 => 
   array (
     'id' => 133259,
     'name' => 'Nagod',
@@ -20269,7 +19810,7 @@ return array (
     'latitude' => 24.56924,
     'longitude' => 80.58809,
   ),
-  2252 => 
+  2201 => 
   array (
     'id' => 133260,
     'name' => 'Nagothana',
@@ -20278,7 +19819,7 @@ return array (
     'latitude' => 18.54225,
     'longitude' => 73.13493,
   ),
-  2253 => 
+  2202 => 
   array (
     'id' => 133261,
     'name' => 'Nahan',
@@ -20287,7 +19828,7 @@ return array (
     'latitude' => 30.56029,
     'longitude' => 77.29426,
   ),
-  2254 => 
+  2203 => 
   array (
     'id' => 133262,
     'name' => 'Nalanda',
@@ -20296,7 +19837,7 @@ return array (
     'latitude' => 25.25,
     'longitude' => 85.58333,
   ),
-  2255 => 
+  2204 => 
   array (
     'id' => 133263,
     'name' => 'Nalagarh',
@@ -20305,7 +19846,7 @@ return array (
     'latitude' => 31.04168,
     'longitude' => 76.72285,
   ),
-  2256 => 
+  2205 => 
   array (
     'id' => 133264,
     'name' => 'Namagiripettai',
@@ -20314,7 +19855,7 @@ return array (
     'latitude' => 11.45513,
     'longitude' => 78.26818,
   ),
-  2257 => 
+  2206 => 
   array (
     'id' => 133266,
     'name' => 'Namrup',
@@ -20323,16 +19864,7 @@ return array (
     'latitude' => 27.19395,
     'longitude' => 95.31929,
   ),
-  2258 => 
-  array (
-    'id' => 133267,
-    'name' => 'Nandgaon',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 20.3068,
-    'longitude' => 74.65501,
-  ),
-  2259 => 
+  2207 => 
   array (
     'id' => 133268,
     'name' => 'Nandura Buzurg',
@@ -20341,7 +19873,7 @@ return array (
     'latitude' => 20.83417,
     'longitude' => 76.45924,
   ),
-  2260 => 
+  2208 => 
   array (
     'id' => 133269,
     'name' => 'Nangloi Jat',
@@ -20350,7 +19882,7 @@ return array (
     'latitude' => 28.67957,
     'longitude' => 77.06799,
   ),
-  2261 => 
+  2209 => 
   array (
     'id' => 133270,
     'name' => 'Nanpara',
@@ -20359,7 +19891,7 @@ return array (
     'latitude' => 27.86459,
     'longitude' => 81.50036,
   ),
-  2262 => 
+  2210 => 
   array (
     'id' => 133271,
     'name' => 'Naravarikuppam',
@@ -20368,7 +19900,7 @@ return array (
     'latitude' => 13.19133,
     'longitude' => 80.18473,
   ),
-  2263 => 
+  2211 => 
   array (
     'id' => 133272,
     'name' => 'Narnaul',
@@ -20377,7 +19909,7 @@ return array (
     'latitude' => 28.04444,
     'longitude' => 76.10833,
   ),
-  2264 => 
+  2212 => 
   array (
     'id' => 133273,
     'name' => 'Narnaund',
@@ -20386,7 +19918,7 @@ return array (
     'latitude' => 29.22047,
     'longitude' => 76.14278,
   ),
-  2265 => 
+  2213 => 
   array (
     'id' => 133274,
     'name' => 'Narsingi',
@@ -20395,7 +19927,7 @@ return array (
     'latitude' => 18.04468,
     'longitude' => 78.42516,
   ),
-  2266 => 
+  2214 => 
   array (
     'id' => 133275,
     'name' => 'Narayanavanam',
@@ -20404,16 +19936,7 @@ return array (
     'latitude' => 13.42565,
     'longitude' => 79.58881,
   ),
-  2267 => 
-  array (
-    'id' => 133276,
-    'name' => 'Narayangarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.27083,
-    'longitude' => 75.05007,
-  ),
-  2268 => 
+  2215 => 
   array (
     'id' => 133277,
     'name' => 'Narayanpet',
@@ -20422,7 +19945,7 @@ return array (
     'latitude' => 16.74799,
     'longitude' => 77.4954,
   ),
-  2269 => 
+  2216 => 
   array (
     'id' => 133278,
     'name' => 'Naspur',
@@ -20431,7 +19954,7 @@ return array (
     'latitude' => 18.84577,
     'longitude' => 79.46165,
   ),
-  2270 => 
+  2217 => 
   array (
     'id' => 133279,
     'name' => 'Nasriganj',
@@ -20440,7 +19963,7 @@ return array (
     'latitude' => 25.0514,
     'longitude' => 84.32839,
   ),
-  2271 => 
+  2218 => 
   array (
     'id' => 133280,
     'name' => 'Nathdwara',
@@ -20449,7 +19972,7 @@ return array (
     'latitude' => 24.93805,
     'longitude' => 73.82392,
   ),
-  2272 => 
+  2219 => 
   array (
     'id' => 133281,
     'name' => 'Nattarasankottai',
@@ -20458,7 +19981,7 @@ return array (
     'latitude' => 9.86905,
     'longitude' => 78.55305,
   ),
-  2273 => 
+  2220 => 
   array (
     'id' => 133282,
     'name' => 'Nawa',
@@ -20467,7 +19990,7 @@ return array (
     'latitude' => 27.0195,
     'longitude' => 75.00226,
   ),
-  2274 => 
+  2221 => 
   array (
     'id' => 133283,
     'name' => 'Nayudupet',
@@ -20476,7 +19999,7 @@ return array (
     'latitude' => 13.90742,
     'longitude' => 79.89465,
   ),
-  2275 => 
+  2222 => 
   array (
     'id' => 133284,
     'name' => 'Nazira',
@@ -20485,7 +20008,7 @@ return array (
     'latitude' => 26.91649,
     'longitude' => 94.73611,
   ),
-  2276 => 
+  2223 => 
   array (
     'id' => 133285,
     'name' => 'Nilgiri',
@@ -20494,7 +20017,7 @@ return array (
     'latitude' => 21.46235,
     'longitude' => 86.76794,
   ),
-  2277 => 
+  2224 => 
   array (
     'id' => 133286,
     'name' => 'Nilokheri',
@@ -20503,7 +20026,7 @@ return array (
     'latitude' => 29.83671,
     'longitude' => 76.93191,
   ),
-  2278 => 
+  2225 => 
   array (
     'id' => 133287,
     'name' => 'Nileshwar',
@@ -20512,7 +20035,7 @@ return array (
     'latitude' => 12.25953,
     'longitude' => 75.1352,
   ),
-  2279 => 
+  2226 => 
   array (
     'id' => 133288,
     'name' => 'Nimbahera',
@@ -20521,7 +20044,7 @@ return array (
     'latitude' => 24.62166,
     'longitude' => 74.67999,
   ),
-  2280 => 
+  2227 => 
   array (
     'id' => 133289,
     'name' => 'Nimaj',
@@ -20530,7 +20053,7 @@ return array (
     'latitude' => 26.14995,
     'longitude' => 74.00094,
   ),
-  2281 => 
+  2228 => 
   array (
     'id' => 133290,
     'name' => 'Nuh',
@@ -20539,7 +20062,7 @@ return array (
     'latitude' => 28.10296,
     'longitude' => 77.00144,
   ),
-  2282 => 
+  2229 => 
   array (
     'id' => 133291,
     'name' => 'Nurmahal',
@@ -20548,7 +20071,7 @@ return array (
     'latitude' => 31.09662,
     'longitude' => 75.59386,
   ),
-  2283 => 
+  2230 => 
   array (
     'id' => 133292,
     'name' => 'Nurpur',
@@ -20557,7 +20080,7 @@ return array (
     'latitude' => 29.14956,
     'longitude' => 78.4084,
   ),
-  2284 => 
+  2231 => 
   array (
     'id' => 133293,
     'name' => 'Nurpur Kalan',
@@ -20566,7 +20089,7 @@ return array (
     'latitude' => 31.16667,
     'longitude' => 76.48333,
   ),
-  2285 => 
+  2232 => 
   array (
     'id' => 133294,
     'name' => 'Nuzvid',
@@ -20575,7 +20098,7 @@ return array (
     'latitude' => 16.78854,
     'longitude' => 80.84593,
   ),
-  2286 => 
+  2233 => 
   array (
     'id' => 133295,
     'name' => 'Obra',
@@ -20584,7 +20107,7 @@ return array (
     'latitude' => 24.41863,
     'longitude' => 82.98797,
   ),
-  2287 => 
+  2234 => 
   array (
     'id' => 133296,
     'name' => 'Odugattur',
@@ -20593,7 +20116,7 @@ return array (
     'latitude' => 12.76793,
     'longitude' => 78.88304,
   ),
-  2288 => 
+  2235 => 
   array (
     'id' => 133297,
     'name' => 'Okha',
@@ -20602,7 +20125,7 @@ return array (
     'latitude' => 22.46756,
     'longitude' => 69.07002,
   ),
-  2289 => 
+  2236 => 
   array (
     'id' => 133298,
     'name' => 'Olpad',
@@ -20611,7 +20134,7 @@ return array (
     'latitude' => 21.33649,
     'longitude' => 72.75161,
   ),
-  2290 => 
+  2237 => 
   array (
     'id' => 133299,
     'name' => 'Omalur',
@@ -20620,7 +20143,7 @@ return array (
     'latitude' => 11.74099,
     'longitude' => 78.04559,
   ),
-  2291 => 
+  2238 => 
   array (
     'id' => 133300,
     'name' => 'Ongole',
@@ -20629,7 +20152,7 @@ return array (
     'latitude' => 15.50357,
     'longitude' => 80.04454,
   ),
-  2292 => 
+  2239 => 
   array (
     'id' => 133301,
     'name' => 'Ooty',
@@ -20638,7 +20161,7 @@ return array (
     'latitude' => 11.4134,
     'longitude' => 76.69521,
   ),
-  2293 => 
+  2240 => 
   array (
     'id' => 133302,
     'name' => 'Orai',
@@ -20647,7 +20170,7 @@ return array (
     'latitude' => 25.99023,
     'longitude' => 79.45334,
   ),
-  2294 => 
+  2241 => 
   array (
     'id' => 133303,
     'name' => 'Oran',
@@ -20656,7 +20179,7 @@ return array (
     'latitude' => 25.36882,
     'longitude' => 80.7423,
   ),
-  2295 => 
+  2242 => 
   array (
     'id' => 133304,
     'name' => 'Orchha',
@@ -20665,7 +20188,7 @@ return array (
     'latitude' => 25.35192,
     'longitude' => 78.64033,
   ),
-  2296 => 
+  2243 => 
   array (
     'id' => 133305,
     'name' => 'Osmanabad',
@@ -20674,7 +20197,7 @@ return array (
     'latitude' => 18.25,
     'longitude' => 76.16667,
   ),
-  2297 => 
+  2244 => 
   array (
     'id' => 133306,
     'name' => 'Ottappalam',
@@ -20683,7 +20206,7 @@ return array (
     'latitude' => 10.7735,
     'longitude' => 76.37758,
   ),
-  2298 => 
+  2245 => 
   array (
     'id' => 133307,
     'name' => 'Ozar',
@@ -20692,7 +20215,7 @@ return array (
     'latitude' => 20.09473,
     'longitude' => 73.92816,
   ),
-  2299 => 
+  2246 => 
   array (
     'id' => 133308,
     'name' => 'Pachmarhi',
@@ -20701,7 +20224,7 @@ return array (
     'latitude' => 22.46791,
     'longitude' => 78.43312,
   ),
-  2300 => 
+  2247 => 
   array (
     'id' => 133309,
     'name' => 'Pachperwa',
@@ -20710,7 +20233,7 @@ return array (
     'latitude' => 27.51234,
     'longitude' => 82.64297,
   ),
-  2301 => 
+  2248 => 
   array (
     'id' => 133310,
     'name' => 'Padam',
@@ -20719,7 +20242,7 @@ return array (
     'latitude' => 33.46659,
     'longitude' => 76.88488,
   ),
-  2302 => 
+  2249 => 
   array (
     'id' => 133311,
     'name' => 'Padampur',
@@ -20728,16 +20251,7 @@ return array (
     'latitude' => 29.70885,
     'longitude' => 73.62539,
   ),
-  2303 => 
-  array (
-    'id' => 133312,
-    'name' => 'Padampur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 20.99932,
-    'longitude' => 83.06325,
-  ),
-  2304 => 
+  2250 => 
   array (
     'id' => 133313,
     'name' => 'Paddhari',
@@ -20746,7 +20260,7 @@ return array (
     'latitude' => 22.43654,
     'longitude' => 70.60162,
   ),
-  2305 => 
+  2251 => 
   array (
     'id' => 133314,
     'name' => 'Padmanabhapuram',
@@ -20755,7 +20269,7 @@ return array (
     'latitude' => 8.24462,
     'longitude' => 77.32581,
   ),
-  2306 => 
+  2252 => 
   array (
     'id' => 133315,
     'name' => 'Padra',
@@ -20764,7 +20278,7 @@ return array (
     'latitude' => 22.2398,
     'longitude' => 73.08451,
   ),
-  2307 => 
+  2253 => 
   array (
     'id' => 133316,
     'name' => 'Padrauna',
@@ -20773,7 +20287,7 @@ return array (
     'latitude' => 26.90403,
     'longitude' => 83.98087,
   ),
-  2308 => 
+  2254 => 
   array (
     'id' => 133317,
     'name' => 'Pahlgam',
@@ -20782,7 +20296,7 @@ return array (
     'latitude' => 34.01592,
     'longitude' => 75.31899,
   ),
-  2309 => 
+  2255 => 
   array (
     'id' => 133318,
     'name' => 'Pahasu',
@@ -20791,7 +20305,7 @@ return array (
     'latitude' => 28.1722,
     'longitude' => 78.06376,
   ),
-  2310 => 
+  2256 => 
   array (
     'id' => 133319,
     'name' => 'Paithan',
@@ -20800,7 +20314,7 @@ return array (
     'latitude' => 19.47506,
     'longitude' => 75.38558,
   ),
-  2311 => 
+  2257 => 
   array (
     'id' => 133320,
     'name' => 'Pakur',
@@ -20809,7 +20323,7 @@ return array (
     'latitude' => 24.63925,
     'longitude' => 87.84239,
   ),
-  2312 => 
+  2258 => 
   array (
     'id' => 133321,
     'name' => 'Palackattumala',
@@ -20818,7 +20332,7 @@ return array (
     'latitude' => 9.74356,
     'longitude' => 76.6294,
   ),
-  2313 => 
+  2259 => 
   array (
     'id' => 133322,
     'name' => 'Palakkad district',
@@ -20827,7 +20341,7 @@ return array (
     'latitude' => 10.775,
     'longitude' => 76.651,
   ),
-  2314 => 
+  2260 => 
   array (
     'id' => 133323,
     'name' => 'Palani',
@@ -20836,7 +20350,7 @@ return array (
     'latitude' => 10.45034,
     'longitude' => 77.5209,
   ),
-  2315 => 
+  2261 => 
   array (
     'id' => 133324,
     'name' => 'Palavakkam',
@@ -20845,7 +20359,7 @@ return array (
     'latitude' => 12.9535,
     'longitude' => 80.2572,
   ),
-  2316 => 
+  2262 => 
   array (
     'id' => 133325,
     'name' => 'Palera',
@@ -20854,7 +20368,7 @@ return array (
     'latitude' => 25.02013,
     'longitude' => 79.22818,
   ),
-  2317 => 
+  2263 => 
   array (
     'id' => 133326,
     'name' => 'Palia Kalan',
@@ -20863,7 +20377,7 @@ return array (
     'latitude' => 28.43205,
     'longitude' => 80.58137,
   ),
-  2318 => 
+  2264 => 
   array (
     'id' => 133327,
     'name' => 'Palladam',
@@ -20872,7 +20386,7 @@ return array (
     'latitude' => 10.99175,
     'longitude' => 77.28633,
   ),
-  2319 => 
+  2265 => 
   array (
     'id' => 133328,
     'name' => 'Pallappatti',
@@ -20881,7 +20395,7 @@ return array (
     'latitude' => 10.72057,
     'longitude' => 77.87951,
   ),
-  2320 => 
+  2266 => 
   array (
     'id' => 133329,
     'name' => 'Pallattur',
@@ -20890,7 +20404,7 @@ return array (
     'latitude' => 10.14609,
     'longitude' => 78.80309,
   ),
-  2321 => 
+  2267 => 
   array (
     'id' => 133330,
     'name' => 'Palle',
@@ -20899,7 +20413,7 @@ return array (
     'latitude' => 15.46667,
     'longitude' => 74.08333,
   ),
-  2322 => 
+  2268 => 
   array (
     'id' => 133331,
     'name' => 'Pallevada',
@@ -20908,7 +20422,7 @@ return array (
     'latitude' => 16.5779,
     'longitude' => 81.29463,
   ),
-  2323 => 
+  2269 => 
   array (
     'id' => 133332,
     'name' => 'Pallikondai',
@@ -20917,7 +20431,7 @@ return array (
     'latitude' => 12.90518,
     'longitude' => 78.9427,
   ),
-  2324 => 
+  2270 => 
   array (
     'id' => 133333,
     'name' => 'Pallipattu',
@@ -20926,7 +20440,7 @@ return array (
     'latitude' => 13.3386,
     'longitude' => 79.44489,
   ),
-  2325 => 
+  2271 => 
   array (
     'id' => 133334,
     'name' => 'Pallippatti',
@@ -20935,7 +20449,7 @@ return array (
     'latitude' => 11.9399,
     'longitude' => 78.40161,
   ),
-  2326 => 
+  2272 => 
   array (
     'id' => 133335,
     'name' => 'Pallavaram',
@@ -20944,7 +20458,7 @@ return array (
     'latitude' => 12.96796,
     'longitude' => 80.15025,
   ),
-  2327 => 
+  2273 => 
   array (
     'id' => 133336,
     'name' => 'Palmaner',
@@ -20953,7 +20467,7 @@ return array (
     'latitude' => 13.2,
     'longitude' => 78.74725,
   ),
-  2328 => 
+  2274 => 
   array (
     'id' => 133337,
     'name' => 'Palwal',
@@ -20962,7 +20476,7 @@ return array (
     'latitude' => 28.14469,
     'longitude' => 77.32546,
   ),
-  2329 => 
+  2275 => 
   array (
     'id' => 133338,
     'name' => 'Palwancha',
@@ -20971,7 +20485,7 @@ return array (
     'latitude' => 17.58152,
     'longitude' => 80.67651,
   ),
-  2330 => 
+  2276 => 
   array (
     'id' => 133339,
     'name' => 'Palamu',
@@ -20980,7 +20494,7 @@ return array (
     'latitude' => 23.91667,
     'longitude' => 84.08333,
   ),
-  2331 => 
+  2277 => 
   array (
     'id' => 133340,
     'name' => 'Palasa',
@@ -20989,7 +20503,7 @@ return array (
     'latitude' => 18.77257,
     'longitude' => 84.41012,
   ),
-  2332 => 
+  2278 => 
   array (
     'id' => 133341,
     'name' => 'Palasbari',
@@ -20998,7 +20512,7 @@ return array (
     'latitude' => 26.12388,
     'longitude' => 91.53974,
   ),
-  2333 => 
+  2279 => 
   array (
     'id' => 133342,
     'name' => 'Panaji',
@@ -21007,7 +20521,7 @@ return array (
     'latitude' => 15.49574,
     'longitude' => 73.82624,
   ),
-  2334 => 
+  2280 => 
   array (
     'id' => 133343,
     'name' => 'Panamaram',
@@ -21016,7 +20530,7 @@ return array (
     'latitude' => 11.74014,
     'longitude' => 76.07369,
   ),
-  2335 => 
+  2281 => 
   array (
     'id' => 133344,
     'name' => 'Panara',
@@ -21025,7 +20539,7 @@ return array (
     'latitude' => 22.20568,
     'longitude' => 78.55093,
   ),
-  2336 => 
+  2282 => 
   array (
     'id' => 133345,
     'name' => 'Panchkula',
@@ -21034,7 +20548,7 @@ return array (
     'latitude' => 30.72883,
     'longitude' => 76.94716,
   ),
-  2337 => 
+  2283 => 
   array (
     'id' => 133346,
     'name' => 'Pandaria',
@@ -21043,7 +20557,7 @@ return array (
     'latitude' => 22.22495,
     'longitude' => 81.40994,
   ),
-  2338 => 
+  2284 => 
   array (
     'id' => 133347,
     'name' => 'Pandharpur',
@@ -21052,7 +20566,7 @@ return array (
     'latitude' => 17.67924,
     'longitude' => 75.33098,
   ),
-  2339 => 
+  2285 => 
   array (
     'id' => 133348,
     'name' => 'Pandhana',
@@ -21061,7 +20575,7 @@ return array (
     'latitude' => 21.69816,
     'longitude' => 76.22487,
   ),
-  2340 => 
+  2286 => 
   array (
     'id' => 133349,
     'name' => 'Panhala',
@@ -21070,7 +20584,7 @@ return array (
     'latitude' => 16.8121,
     'longitude' => 74.11007,
   ),
-  2341 => 
+  2287 => 
   array (
     'id' => 133350,
     'name' => 'Panipat',
@@ -21079,7 +20593,7 @@ return array (
     'latitude' => 29.33259,
     'longitude' => 76.92634,
   ),
-  2342 => 
+  2288 => 
   array (
     'id' => 133351,
     'name' => 'Panna',
@@ -21088,7 +20602,7 @@ return array (
     'latitude' => 24.5,
     'longitude' => 80.25,
   ),
-  2343 => 
+  2289 => 
   array (
     'id' => 133352,
     'name' => 'Panruti',
@@ -21097,7 +20611,7 @@ return array (
     'latitude' => 11.77662,
     'longitude' => 79.55269,
   ),
-  2344 => 
+  2290 => 
   array (
     'id' => 133353,
     'name' => 'Panvel',
@@ -21106,7 +20620,7 @@ return array (
     'latitude' => 18.98878,
     'longitude' => 73.11013,
   ),
-  2345 => 
+  2291 => 
   array (
     'id' => 133354,
     'name' => 'Panagar',
@@ -21115,7 +20629,7 @@ return array (
     'latitude' => 23.28539,
     'longitude' => 79.99509,
   ),
-  2346 => 
+  2292 => 
   array (
     'id' => 133355,
     'name' => 'Papanasam',
@@ -21124,7 +20638,7 @@ return array (
     'latitude' => 10.92687,
     'longitude' => 79.27056,
   ),
-  2347 => 
+  2293 => 
   array (
     'id' => 133356,
     'name' => 'Paramagudi',
@@ -21133,7 +20647,7 @@ return array (
     'latitude' => 9.54633,
     'longitude' => 78.5907,
   ),
-  2348 => 
+  2294 => 
   array (
     'id' => 133357,
     'name' => 'Paravur Tekkumbhagam',
@@ -21142,7 +20656,7 @@ return array (
     'latitude' => 8.7947,
     'longitude' => 76.66798,
   ),
-  2349 => 
+  2295 => 
   array (
     'id' => 133358,
     'name' => 'Parbhani',
@@ -21151,7 +20665,7 @@ return array (
     'latitude' => 19.5,
     'longitude' => 76.75,
   ),
-  2350 => 
+  2296 => 
   array (
     'id' => 133359,
     'name' => 'Pariyapuram',
@@ -21160,7 +20674,7 @@ return array (
     'latitude' => 11.01667,
     'longitude' => 75.86667,
   ),
-  2351 => 
+  2297 => 
   array (
     'id' => 133360,
     'name' => 'Parli Vaijnath',
@@ -21169,7 +20683,7 @@ return array (
     'latitude' => 18.85057,
     'longitude' => 76.53163,
   ),
-  2352 => 
+  2298 => 
   array (
     'id' => 133361,
     'name' => 'Parlakimidi',
@@ -21178,7 +20692,7 @@ return array (
     'latitude' => 18.78113,
     'longitude' => 84.08836,
   ),
-  2353 => 
+  2299 => 
   array (
     'id' => 133362,
     'name' => 'Parnera',
@@ -21187,7 +20701,7 @@ return array (
     'latitude' => 20.56101,
     'longitude' => 72.94846,
   ),
-  2354 => 
+  2300 => 
   array (
     'id' => 133363,
     'name' => 'Parol',
@@ -21196,7 +20710,7 @@ return array (
     'latitude' => 32.34598,
     'longitude' => 75.43441,
   ),
-  2355 => 
+  2301 => 
   array (
     'id' => 133364,
     'name' => 'Parola',
@@ -21205,7 +20719,7 @@ return array (
     'latitude' => 20.88098,
     'longitude' => 75.11937,
   ),
-  2356 => 
+  2302 => 
   array (
     'id' => 133365,
     'name' => 'Parshadepur',
@@ -21214,7 +20728,7 @@ return array (
     'latitude' => 26.07354,
     'longitude' => 81.49207,
   ),
-  2357 => 
+  2303 => 
   array (
     'id' => 133366,
     'name' => 'Partapur',
@@ -21223,7 +20737,7 @@ return array (
     'latitude' => 23.59276,
     'longitude' => 74.17396,
   ),
-  2358 => 
+  2304 => 
   array (
     'id' => 133367,
     'name' => 'Partur',
@@ -21232,7 +20746,7 @@ return array (
     'latitude' => 19.59925,
     'longitude' => 76.21541,
   ),
-  2359 => 
+  2305 => 
   array (
     'id' => 133368,
     'name' => 'Parvatsar',
@@ -21241,7 +20755,7 @@ return array (
     'latitude' => 26.88604,
     'longitude' => 74.76602,
   ),
-  2360 => 
+  2306 => 
   array (
     'id' => 133369,
     'name' => 'Parwanoo',
@@ -21250,7 +20764,7 @@ return array (
     'latitude' => 30.83716,
     'longitude' => 76.96143,
   ),
-  2361 => 
+  2307 => 
   array (
     'id' => 133370,
     'name' => 'Paradip Garh',
@@ -21259,7 +20773,7 @@ return array (
     'latitude' => 20.31641,
     'longitude' => 86.6085,
   ),
-  2362 => 
+  2308 => 
   array (
     'id' => 133371,
     'name' => 'Parasia',
@@ -21268,7 +20782,7 @@ return array (
     'latitude' => 22.1913,
     'longitude' => 78.75904,
   ),
-  2363 => 
+  2309 => 
   array (
     'id' => 133372,
     'name' => 'Parichhatgarh',
@@ -21277,7 +20791,7 @@ return array (
     'latitude' => 28.97841,
     'longitude' => 77.93422,
   ),
-  2364 => 
+  2310 => 
   array (
     'id' => 133373,
     'name' => 'Pashchim Champaran',
@@ -21286,7 +20800,7 @@ return array (
     'latitude' => 27.0,
     'longitude' => 84.5,
   ),
-  2365 => 
+  2311 => 
   array (
     'id' => 133374,
     'name' => 'Pashchim Singhbhum',
@@ -21295,7 +20809,7 @@ return array (
     'latitude' => 22.5,
     'longitude' => 85.5,
   ),
-  2366 => 
+  2312 => 
   array (
     'id' => 133375,
     'name' => 'Pasan',
@@ -21304,7 +20818,7 @@ return array (
     'latitude' => 22.84412,
     'longitude' => 82.19823,
   ),
-  2367 => 
+  2313 => 
   array (
     'id' => 133376,
     'name' => 'Patan',
@@ -21313,7 +20827,7 @@ return array (
     'latitude' => 23.7,
     'longitude' => 71.8,
   ),
-  2368 => 
+  2314 => 
   array (
     'id' => 133377,
     'name' => 'Patancheru',
@@ -21322,7 +20836,7 @@ return array (
     'latitude' => 17.53334,
     'longitude' => 78.2645,
   ),
-  2369 => 
+  2315 => 
   array (
     'id' => 133378,
     'name' => 'Pataudi',
@@ -21331,7 +20845,7 @@ return array (
     'latitude' => 28.32547,
     'longitude' => 76.77858,
   ),
-  2370 => 
+  2316 => 
   array (
     'id' => 133379,
     'name' => 'Pathalgaon',
@@ -21340,7 +20854,7 @@ return array (
     'latitude' => 22.55656,
     'longitude' => 83.46355,
   ),
-  2371 => 
+  2317 => 
   array (
     'id' => 133380,
     'name' => 'Pathanamthitta',
@@ -21349,7 +20863,7 @@ return array (
     'latitude' => 9.26667,
     'longitude' => 76.78333,
   ),
-  2372 => 
+  2318 => 
   array (
     'id' => 133381,
     'name' => 'Patharia',
@@ -21358,7 +20872,7 @@ return array (
     'latitude' => 23.89921,
     'longitude' => 79.19393,
   ),
-  2373 => 
+  2319 => 
   array (
     'id' => 133382,
     'name' => 'Pathankot',
@@ -21367,7 +20881,7 @@ return array (
     'latitude' => 32.27484,
     'longitude' => 75.65287,
   ),
-  2374 => 
+  2320 => 
   array (
     'id' => 133384,
     'name' => 'Patiala',
@@ -21376,7 +20890,7 @@ return array (
     'latitude' => 30.33625,
     'longitude' => 76.3922,
   ),
-  2375 => 
+  2321 => 
   array (
     'id' => 133385,
     'name' => 'Patiali',
@@ -21385,7 +20899,7 @@ return array (
     'latitude' => 27.69086,
     'longitude' => 78.99823,
   ),
-  2376 => 
+  2322 => 
   array (
     'id' => 133386,
     'name' => 'Patna',
@@ -21394,7 +20908,7 @@ return array (
     'latitude' => 25.41667,
     'longitude' => 85.16667,
   ),
-  2377 => 
+  2323 => 
   array (
     'id' => 133387,
     'name' => 'Patnagarh',
@@ -21403,7 +20917,7 @@ return array (
     'latitude' => 20.70833,
     'longitude' => 83.13263,
   ),
-  2378 => 
+  2324 => 
   array (
     'id' => 133388,
     'name' => 'Pattan',
@@ -21412,7 +20926,7 @@ return array (
     'latitude' => 34.16125,
     'longitude' => 74.55634,
   ),
-  2379 => 
+  2325 => 
   array (
     'id' => 133389,
     'name' => 'Pattanamtitta',
@@ -21421,7 +20935,7 @@ return array (
     'latitude' => 9.28068,
     'longitude' => 76.86967,
   ),
-  2380 => 
+  2326 => 
   array (
     'id' => 133390,
     'name' => 'Patti',
@@ -21430,16 +20944,7 @@ return array (
     'latitude' => 31.28092,
     'longitude' => 74.85849,
   ),
-  2381 => 
-  array (
-    'id' => 133391,
-    'name' => 'Patti',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.9215,
-    'longitude' => 82.20048,
-  ),
-  2382 => 
+  2327 => 
   array (
     'id' => 133392,
     'name' => 'Pattukkottai',
@@ -21448,7 +20953,7 @@ return array (
     'latitude' => 10.42358,
     'longitude' => 79.31949,
   ),
-  2383 => 
+  2328 => 
   array (
     'id' => 133393,
     'name' => 'Patamundai',
@@ -21457,7 +20962,7 @@ return array (
     'latitude' => 20.57806,
     'longitude' => 86.56063,
   ),
-  2384 => 
+  2329 => 
   array (
     'id' => 133394,
     'name' => 'Pauri',
@@ -21466,7 +20971,7 @@ return array (
     'latitude' => 30.15286,
     'longitude' => 78.7771,
   ),
-  2385 => 
+  2330 => 
   array (
     'id' => 133395,
     'name' => 'Pavuluru',
@@ -21475,7 +20980,7 @@ return array (
     'latitude' => 15.85292,
     'longitude' => 80.16468,
   ),
-  2386 => 
+  2331 => 
   array (
     'id' => 133396,
     'name' => 'Pawai',
@@ -21484,7 +20989,7 @@ return array (
     'latitude' => 24.26635,
     'longitude' => 80.16196,
   ),
-  2387 => 
+  2332 => 
   array (
     'id' => 133397,
     'name' => 'Pawni',
@@ -21493,7 +20998,7 @@ return array (
     'latitude' => 20.79229,
     'longitude' => 79.63644,
   ),
-  2388 => 
+  2333 => 
   array (
     'id' => 133398,
     'name' => 'Pawayan',
@@ -21502,7 +21007,7 @@ return array (
     'latitude' => 28.06626,
     'longitude' => 80.10305,
   ),
-  2389 => 
+  2334 => 
   array (
     'id' => 133399,
     'name' => 'Payyanur',
@@ -21511,7 +21016,7 @@ return array (
     'latitude' => 12.0935,
     'longitude' => 75.20249,
   ),
-  2390 => 
+  2335 => 
   array (
     'id' => 133400,
     'name' => 'Pedana',
@@ -21520,7 +21025,7 @@ return array (
     'latitude' => 16.25582,
     'longitude' => 81.14378,
   ),
-  2391 => 
+  2336 => 
   array (
     'id' => 133401,
     'name' => 'Peddapalli',
@@ -21529,7 +21034,7 @@ return array (
     'latitude' => 18.61357,
     'longitude' => 79.37442,
   ),
-  2392 => 
+  2337 => 
   array (
     'id' => 133402,
     'name' => 'Peddapuram',
@@ -21538,7 +21043,7 @@ return array (
     'latitude' => 17.07701,
     'longitude' => 82.13836,
   ),
-  2393 => 
+  2338 => 
   array (
     'id' => 133403,
     'name' => 'Pehowa',
@@ -21547,7 +21052,7 @@ return array (
     'latitude' => 29.97897,
     'longitude' => 76.58249,
   ),
-  2394 => 
+  2339 => 
   array (
     'id' => 133404,
     'name' => 'Pen',
@@ -21556,7 +21061,7 @@ return array (
     'latitude' => 18.73734,
     'longitude' => 73.09603,
   ),
-  2395 => 
+  2340 => 
   array (
     'id' => 133405,
     'name' => 'Pendra',
@@ -21565,7 +21070,7 @@ return array (
     'latitude' => 22.77548,
     'longitude' => 81.95968,
   ),
-  2396 => 
+  2341 => 
   array (
     'id' => 133406,
     'name' => 'Pennadam',
@@ -21574,7 +21079,7 @@ return array (
     'latitude' => 11.40389,
     'longitude' => 79.24156,
   ),
-  2397 => 
+  2342 => 
   array (
     'id' => 133407,
     'name' => 'Pennagaram',
@@ -21583,7 +21088,7 @@ return array (
     'latitude' => 12.13433,
     'longitude' => 77.89525,
   ),
-  2398 => 
+  2343 => 
   array (
     'id' => 133408,
     'name' => 'Pennathur',
@@ -21592,7 +21097,7 @@ return array (
     'latitude' => 12.24681,
     'longitude' => 79.22592,
   ),
-  2399 => 
+  2344 => 
   array (
     'id' => 133409,
     'name' => 'Penugonda',
@@ -21601,7 +21106,7 @@ return array (
     'latitude' => 16.65363,
     'longitude' => 81.7455,
   ),
-  2400 => 
+  2345 => 
   array (
     'id' => 133410,
     'name' => 'Penukonda',
@@ -21610,7 +21115,7 @@ return array (
     'latitude' => 14.08286,
     'longitude' => 77.59473,
   ),
-  2401 => 
+  2346 => 
   array (
     'id' => 133411,
     'name' => 'Peraiyur',
@@ -21619,7 +21124,7 @@ return array (
     'latitude' => 9.73579,
     'longitude' => 77.78955,
   ),
-  2402 => 
+  2347 => 
   array (
     'id' => 133412,
     'name' => 'Perambalur',
@@ -21628,7 +21133,7 @@ return array (
     'latitude' => 11.272,
     'longitude' => 78.8738,
   ),
-  2403 => 
+  2348 => 
   array (
     'id' => 133413,
     'name' => 'Peranamallur',
@@ -21637,7 +21142,7 @@ return array (
     'latitude' => 12.57052,
     'longitude' => 79.43332,
   ),
-  2404 => 
+  2349 => 
   array (
     'id' => 133414,
     'name' => 'Peranampattu',
@@ -21646,7 +21151,7 @@ return array (
     'latitude' => 12.9343,
     'longitude' => 78.7189,
   ),
-  2405 => 
+  2350 => 
   array (
     'id' => 133415,
     'name' => 'Peravurani',
@@ -21655,7 +21160,7 @@ return array (
     'latitude' => 10.29035,
     'longitude' => 79.20156,
   ),
-  2406 => 
+  2351 => 
   array (
     'id' => 133416,
     'name' => 'Peren',
@@ -21664,7 +21169,7 @@ return array (
     'latitude' => 25.51276,
     'longitude' => 93.73716,
   ),
-  2407 => 
+  2352 => 
   array (
     'id' => 133417,
     'name' => 'Periyakulam',
@@ -21673,7 +21178,7 @@ return array (
     'latitude' => 10.12268,
     'longitude' => 77.54372,
   ),
-  2408 => 
+  2353 => 
   array (
     'id' => 133418,
     'name' => 'Periyanayakkanpalaiyam',
@@ -21682,7 +21187,7 @@ return array (
     'latitude' => 11.15255,
     'longitude' => 76.95159,
   ),
-  2409 => 
+  2354 => 
   array (
     'id' => 133419,
     'name' => 'Periyanegamam',
@@ -21691,7 +21196,7 @@ return array (
     'latitude' => 10.74317,
     'longitude' => 77.10296,
   ),
-  2410 => 
+  2355 => 
   array (
     'id' => 133420,
     'name' => 'Periyapatti',
@@ -21700,7 +21205,7 @@ return array (
     'latitude' => 10.75812,
     'longitude' => 77.27087,
   ),
-  2411 => 
+  2356 => 
   array (
     'id' => 133421,
     'name' => 'Periyapattinam',
@@ -21709,7 +21214,7 @@ return array (
     'latitude' => 9.27263,
     'longitude' => 78.90232,
   ),
-  2412 => 
+  2357 => 
   array (
     'id' => 133422,
     'name' => 'Pernem',
@@ -21718,7 +21223,7 @@ return array (
     'latitude' => 15.723,
     'longitude' => 73.79511,
   ),
-  2413 => 
+  2358 => 
   array (
     'id' => 133423,
     'name' => 'Perumbavoor',
@@ -21727,7 +21232,7 @@ return array (
     'latitude' => 10.10695,
     'longitude' => 76.47366,
   ),
-  2414 => 
+  2359 => 
   array (
     'id' => 133424,
     'name' => 'Perumpavur',
@@ -21736,7 +21241,7 @@ return array (
     'latitude' => 10.11544,
     'longitude' => 76.47611,
   ),
-  2415 => 
+  2360 => 
   array (
     'id' => 133425,
     'name' => 'Perundurai',
@@ -21745,7 +21250,7 @@ return array (
     'latitude' => 11.27564,
     'longitude' => 77.58794,
   ),
-  2416 => 
+  2361 => 
   array (
     'id' => 133426,
     'name' => 'Perungudi',
@@ -21754,7 +21259,7 @@ return array (
     'latitude' => 12.96095,
     'longitude' => 80.24094,
   ),
-  2417 => 
+  2362 => 
   array (
     'id' => 133427,
     'name' => 'Perya',
@@ -21763,7 +21268,7 @@ return array (
     'latitude' => 11.83334,
     'longitude' => 75.85408,
   ),
-  2418 => 
+  2363 => 
   array (
     'id' => 133428,
     'name' => 'Perur',
@@ -21772,7 +21277,7 @@ return array (
     'latitude' => 10.97519,
     'longitude' => 76.91292,
   ),
-  2419 => 
+  2364 => 
   array (
     'id' => 133429,
     'name' => 'Petlad',
@@ -21781,7 +21286,7 @@ return array (
     'latitude' => 22.47681,
     'longitude' => 72.79995,
   ),
-  2420 => 
+  2365 => 
   array (
     'id' => 133430,
     'name' => 'Petlawad',
@@ -21790,7 +21295,7 @@ return array (
     'latitude' => 23.01102,
     'longitude' => 74.79772,
   ),
-  2421 => 
+  2366 => 
   array (
     'id' => 133431,
     'name' => 'Phagwara',
@@ -21799,7 +21304,7 @@ return array (
     'latitude' => 31.22452,
     'longitude' => 75.77387,
   ),
-  2422 => 
+  2367 => 
   array (
     'id' => 133432,
     'name' => 'Phalauda',
@@ -21808,7 +21313,7 @@ return array (
     'latitude' => 29.18824,
     'longitude' => 77.82996,
   ),
-  2423 => 
+  2368 => 
   array (
     'id' => 133433,
     'name' => 'Phalodi',
@@ -21817,7 +21322,7 @@ return array (
     'latitude' => 27.13102,
     'longitude' => 72.36826,
   ),
-  2424 => 
+  2369 => 
   array (
     'id' => 133434,
     'name' => 'Phaltan',
@@ -21826,7 +21331,7 @@ return array (
     'latitude' => 17.99113,
     'longitude' => 74.43177,
   ),
-  2425 => 
+  2370 => 
   array (
     'id' => 133435,
     'name' => 'Phaphund',
@@ -21835,7 +21340,7 @@ return array (
     'latitude' => 26.59888,
     'longitude' => 79.46437,
   ),
-  2426 => 
+  2371 => 
   array (
     'id' => 133436,
     'name' => 'Phariha',
@@ -21844,7 +21349,7 @@ return array (
     'latitude' => 27.32166,
     'longitude' => 78.47267,
   ),
-  2427 => 
+  2372 => 
   array (
     'id' => 133438,
     'name' => 'Phek',
@@ -21853,7 +21358,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 94.5,
   ),
-  2428 => 
+  2373 => 
   array (
     'id' => 133439,
     'name' => 'Phillaur',
@@ -21862,7 +21367,7 @@ return array (
     'latitude' => 31.01887,
     'longitude' => 75.79111,
   ),
-  2429 => 
+  2374 => 
   array (
     'id' => 133440,
     'name' => 'Phirangipuram',
@@ -21871,7 +21376,7 @@ return array (
     'latitude' => 16.29078,
     'longitude' => 80.26233,
   ),
-  2430 => 
+  2375 => 
   array (
     'id' => 133441,
     'name' => 'Phulbani',
@@ -21880,7 +21385,7 @@ return array (
     'latitude' => 20.48101,
     'longitude' => 84.23063,
   ),
-  2431 => 
+  2376 => 
   array (
     'id' => 133442,
     'name' => 'Phulera',
@@ -21889,7 +21394,7 @@ return array (
     'latitude' => 26.87401,
     'longitude' => 75.24171,
   ),
-  2432 => 
+  2377 => 
   array (
     'id' => 133443,
     'name' => 'Phulpur',
@@ -21898,7 +21403,7 @@ return array (
     'latitude' => 25.54895,
     'longitude' => 82.0895,
   ),
-  2433 => 
+  2378 => 
   array (
     'id' => 133445,
     'name' => 'Pihani',
@@ -21907,7 +21412,7 @@ return array (
     'latitude' => 27.61987,
     'longitude' => 80.20343,
   ),
-  2434 => 
+  2379 => 
   array (
     'id' => 133446,
     'name' => 'Pilibangan',
@@ -21916,7 +21421,7 @@ return array (
     'latitude' => 29.44964,
     'longitude' => 74.10093,
   ),
-  2435 => 
+  2380 => 
   array (
     'id' => 133447,
     'name' => 'Pilkhua',
@@ -21925,7 +21430,7 @@ return array (
     'latitude' => 28.71271,
     'longitude' => 77.656,
   ),
-  2436 => 
+  2381 => 
   array (
     'id' => 133448,
     'name' => 'Pilani',
@@ -21934,7 +21439,7 @@ return array (
     'latitude' => 28.36725,
     'longitude' => 75.60352,
   ),
-  2437 => 
+  2382 => 
   array (
     'id' => 133449,
     'name' => 'Pimpri',
@@ -21943,7 +21448,7 @@ return array (
     'latitude' => 18.62292,
     'longitude' => 73.80696,
   ),
-  2438 => 
+  2383 => 
   array (
     'id' => 133450,
     'name' => 'Pindwara',
@@ -21952,7 +21457,7 @@ return array (
     'latitude' => 24.79749,
     'longitude' => 73.05505,
   ),
-  2439 => 
+  2384 => 
   array (
     'id' => 133451,
     'name' => 'Pinjaur',
@@ -21961,7 +21466,7 @@ return array (
     'latitude' => 30.79873,
     'longitude' => 76.91822,
   ),
-  2440 => 
+  2385 => 
   array (
     'id' => 133452,
     'name' => 'Pinahat',
@@ -21970,7 +21475,7 @@ return array (
     'latitude' => 26.88487,
     'longitude' => 78.37647,
   ),
-  2441 => 
+  2386 => 
   array (
     'id' => 133453,
     'name' => 'Pipili',
@@ -21979,7 +21484,7 @@ return array (
     'latitude' => 20.11357,
     'longitude' => 85.83147,
   ),
-  2442 => 
+  2387 => 
   array (
     'id' => 133454,
     'name' => 'Piploda',
@@ -21988,7 +21493,7 @@ return array (
     'latitude' => 23.35,
     'longitude' => 75.43333,
   ),
-  2443 => 
+  2388 => 
   array (
     'id' => 133455,
     'name' => 'Pippara',
@@ -21997,7 +21502,7 @@ return array (
     'latitude' => 16.71667,
     'longitude' => 81.55,
   ),
-  2444 => 
+  2389 => 
   array (
     'id' => 133456,
     'name' => 'Pipraich',
@@ -22006,7 +21511,7 @@ return array (
     'latitude' => 26.82745,
     'longitude' => 83.52632,
   ),
-  2445 => 
+  2390 => 
   array (
     'id' => 133457,
     'name' => 'Piravam',
@@ -22015,7 +21520,7 @@ return array (
     'latitude' => 9.86667,
     'longitude' => 76.5,
   ),
-  2446 => 
+  2391 => 
   array (
     'id' => 133458,
     'name' => 'Piriyapatna',
@@ -22024,7 +21529,7 @@ return array (
     'latitude' => 12.33497,
     'longitude' => 76.10073,
   ),
-  2447 => 
+  2392 => 
   array (
     'id' => 133459,
     'name' => 'Piro',
@@ -22033,7 +21538,7 @@ return array (
     'latitude' => 25.33218,
     'longitude' => 84.40454,
   ),
-  2448 => 
+  2393 => 
   array (
     'id' => 133460,
     'name' => 'Pirawa',
@@ -22042,7 +21547,7 @@ return array (
     'latitude' => 24.15506,
     'longitude' => 76.02728,
   ),
-  2449 => 
+  2394 => 
   array (
     'id' => 133461,
     'name' => 'Pitampura',
@@ -22051,7 +21556,7 @@ return array (
     'latitude' => 28.68964,
     'longitude' => 77.13126,
   ),
-  2450 => 
+  2395 => 
   array (
     'id' => 133462,
     'name' => 'Pithampur',
@@ -22060,7 +21565,7 @@ return array (
     'latitude' => 22.60197,
     'longitude' => 75.69649,
   ),
-  2451 => 
+  2396 => 
   array (
     'id' => 133463,
     'name' => 'Pithora',
@@ -22069,7 +21574,7 @@ return array (
     'latitude' => 21.25021,
     'longitude' => 82.51707,
   ),
-  2452 => 
+  2397 => 
   array (
     'id' => 133464,
     'name' => 'Pithoragarh',
@@ -22078,7 +21583,7 @@ return array (
     'latitude' => 30.0,
     'longitude' => 80.25,
   ),
-  2453 => 
+  2398 => 
   array (
     'id' => 133465,
     'name' => 'Pithapuram',
@@ -22087,7 +21592,7 @@ return array (
     'latitude' => 17.1168,
     'longitude' => 82.25284,
   ),
-  2454 => 
+  2399 => 
   array (
     'id' => 133466,
     'name' => 'Pokaran',
@@ -22096,7 +21601,7 @@ return array (
     'latitude' => 26.92007,
     'longitude' => 71.91631,
   ),
-  2455 => 
+  2400 => 
   array (
     'id' => 133467,
     'name' => 'Polasara',
@@ -22105,7 +21610,7 @@ return array (
     'latitude' => 19.69386,
     'longitude' => 84.81401,
   ),
-  2456 => 
+  2401 => 
   array (
     'id' => 133468,
     'name' => 'Polavaram',
@@ -22114,7 +21619,7 @@ return array (
     'latitude' => 17.24754,
     'longitude' => 81.64372,
   ),
-  2457 => 
+  2402 => 
   array (
     'id' => 133469,
     'name' => 'Pollachi',
@@ -22123,7 +21628,7 @@ return array (
     'latitude' => 10.65825,
     'longitude' => 77.0085,
   ),
-  2458 => 
+  2403 => 
   array (
     'id' => 133470,
     'name' => 'Polur',
@@ -22132,7 +21637,7 @@ return array (
     'latitude' => 12.51217,
     'longitude' => 79.12405,
   ),
-  2459 => 
+  2404 => 
   array (
     'id' => 133471,
     'name' => 'Ponda',
@@ -22141,7 +21646,7 @@ return array (
     'latitude' => 15.40341,
     'longitude' => 74.01519,
   ),
-  2460 => 
+  2405 => 
   array (
     'id' => 133472,
     'name' => 'Ponmana',
@@ -22150,7 +21655,7 @@ return array (
     'latitude' => 9.00798,
     'longitude' => 76.52023,
   ),
-  2461 => 
+  2406 => 
   array (
     'id' => 133473,
     'name' => 'Ponnamaravati',
@@ -22159,7 +21664,7 @@ return array (
     'latitude' => 10.28032,
     'longitude' => 78.53601,
   ),
-  2462 => 
+  2407 => 
   array (
     'id' => 133474,
     'name' => 'Ponnampet',
@@ -22168,7 +21673,7 @@ return array (
     'latitude' => 12.14473,
     'longitude' => 75.94514,
   ),
-  2463 => 
+  2408 => 
   array (
     'id' => 133475,
     'name' => 'Ponneri',
@@ -22177,7 +21682,7 @@ return array (
     'latitude' => 13.33868,
     'longitude' => 80.19487,
   ),
-  2464 => 
+  2409 => 
   array (
     'id' => 133476,
     'name' => 'Ponnur',
@@ -22186,7 +21691,7 @@ return array (
     'latitude' => 16.07114,
     'longitude' => 80.54944,
   ),
-  2465 => 
+  2410 => 
   array (
     'id' => 133477,
     'name' => 'Ponnani',
@@ -22195,7 +21700,7 @@ return array (
     'latitude' => 10.76695,
     'longitude' => 75.92523,
   ),
-  2466 => 
+  2411 => 
   array (
     'id' => 133478,
     'name' => 'Ponnuru',
@@ -22204,7 +21709,7 @@ return array (
     'latitude' => 16.06547,
     'longitude' => 80.55203,
   ),
-  2467 => 
+  2412 => 
   array (
     'id' => 133479,
     'name' => 'Poonamalle',
@@ -22213,7 +21718,7 @@ return array (
     'latitude' => 13.04888,
     'longitude' => 80.11488,
   ),
-  2468 => 
+  2413 => 
   array (
     'id' => 133480,
     'name' => 'Porbandar',
@@ -22222,7 +21727,7 @@ return array (
     'latitude' => 21.64219,
     'longitude' => 69.60929,
   ),
-  2469 => 
+  2414 => 
   array (
     'id' => 133481,
     'name' => 'Porsa',
@@ -22231,7 +21736,7 @@ return array (
     'latitude' => 26.67444,
     'longitude' => 78.37081,
   ),
-  2470 => 
+  2415 => 
   array (
     'id' => 133482,
     'name' => 'Port Blair',
@@ -22240,7 +21745,7 @@ return array (
     'latitude' => 11.66613,
     'longitude' => 92.74635,
   ),
-  2471 => 
+  2416 => 
   array (
     'id' => 133483,
     'name' => 'Porur',
@@ -22249,7 +21754,7 @@ return array (
     'latitude' => 13.03565,
     'longitude' => 80.15821,
   ),
-  2472 => 
+  2417 => 
   array (
     'id' => 133484,
     'name' => 'Powai',
@@ -22258,7 +21763,7 @@ return array (
     'latitude' => 19.1164,
     'longitude' => 72.90471,
   ),
-  2473 => 
+  2418 => 
   array (
     'id' => 133485,
     'name' => 'Prakasam',
@@ -22267,7 +21772,7 @@ return array (
     'latitude' => 15.5,
     'longitude' => 79.5,
   ),
-  2474 => 
+  2419 => 
   array (
     'id' => 133486,
     'name' => 'Pratapgarh',
@@ -22276,16 +21781,7 @@ return array (
     'latitude' => 24.03,
     'longitude' => 74.78,
   ),
-  2475 => 
-  array (
-    'id' => 133488,
-    'name' => 'Pratapgarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.75,
-    'longitude' => 81.75,
-  ),
-  2476 => 
+  2420 => 
   array (
     'id' => 133489,
     'name' => 'Proddatur',
@@ -22294,7 +21790,7 @@ return array (
     'latitude' => 14.7502,
     'longitude' => 78.54813,
   ),
-  2477 => 
+  2421 => 
   array (
     'id' => 133490,
     'name' => 'Puducherry',
@@ -22303,7 +21799,7 @@ return array (
     'latitude' => 11.93381,
     'longitude' => 79.82979,
   ),
-  2478 => 
+  2422 => 
   array (
     'id' => 133491,
     'name' => 'Pudukkottai',
@@ -22312,7 +21808,7 @@ return array (
     'latitude' => 10.35,
     'longitude' => 78.9,
   ),
-  2479 => 
+  2423 => 
   array (
     'id' => 133492,
     'name' => 'Puduppatti',
@@ -22321,7 +21817,7 @@ return array (
     'latitude' => 11.15217,
     'longitude' => 78.21205,
   ),
-  2480 => 
+  2424 => 
   array (
     'id' => 133493,
     'name' => 'Puduvayal',
@@ -22330,7 +21826,7 @@ return array (
     'latitude' => 13.33015,
     'longitude' => 80.14577,
   ),
-  2481 => 
+  2425 => 
   array (
     'id' => 133494,
     'name' => 'Pudur',
@@ -22339,7 +21835,7 @@ return array (
     'latitude' => 12.99801,
     'longitude' => 79.14352,
   ),
-  2482 => 
+  2426 => 
   array (
     'id' => 133495,
     'name' => 'Pukhrayan',
@@ -22348,7 +21844,7 @@ return array (
     'latitude' => 26.22375,
     'longitude' => 79.83739,
   ),
-  2483 => 
+  2427 => 
   array (
     'id' => 133496,
     'name' => 'Pulgaon',
@@ -22357,7 +21853,7 @@ return array (
     'latitude' => 20.72204,
     'longitude' => 78.32056,
   ),
-  2484 => 
+  2428 => 
   array (
     'id' => 133497,
     'name' => 'Pulivendla',
@@ -22366,7 +21862,7 @@ return array (
     'latitude' => 14.42139,
     'longitude' => 78.22502,
   ),
-  2485 => 
+  2429 => 
   array (
     'id' => 133498,
     'name' => 'Puliyangudi',
@@ -22375,7 +21871,7 @@ return array (
     'latitude' => 9.17489,
     'longitude' => 77.39799,
   ),
-  2486 => 
+  2430 => 
   array (
     'id' => 133499,
     'name' => 'Puliyur',
@@ -22384,7 +21880,7 @@ return array (
     'latitude' => 10.63375,
     'longitude' => 78.84139,
   ),
-  2487 => 
+  2431 => 
   array (
     'id' => 133500,
     'name' => 'Pullambadi',
@@ -22393,7 +21889,7 @@ return array (
     'latitude' => 10.9411,
     'longitude' => 78.91041,
   ),
-  2488 => 
+  2432 => 
   array (
     'id' => 133501,
     'name' => 'Pulwama',
@@ -22402,7 +21898,7 @@ return array (
     'latitude' => 33.87405,
     'longitude' => 74.89955,
   ),
-  2489 => 
+  2433 => 
   array (
     'id' => 133502,
     'name' => 'Punalur',
@@ -22411,7 +21907,7 @@ return array (
     'latitude' => 9.01956,
     'longitude' => 76.92261,
   ),
-  2490 => 
+  2434 => 
   array (
     'id' => 133503,
     'name' => 'Punch',
@@ -22420,7 +21916,7 @@ return array (
     'latitude' => 33.70178,
     'longitude' => 74.19916,
   ),
-  2491 => 
+  2435 => 
   array (
     'id' => 133504,
     'name' => 'Pune',
@@ -22429,7 +21925,7 @@ return array (
     'latitude' => 18.51957,
     'longitude' => 73.85535,
   ),
-  2492 => 
+  2436 => 
   array (
     'id' => 133505,
     'name' => 'Pune Division',
@@ -22438,7 +21934,7 @@ return array (
     'latitude' => 18.74673,
     'longitude' => 73.75465,
   ),
-  2493 => 
+  2437 => 
   array (
     'id' => 133506,
     'name' => 'Punganuru',
@@ -22447,7 +21943,7 @@ return array (
     'latitude' => 13.36672,
     'longitude' => 78.57186,
   ),
-  2494 => 
+  2438 => 
   array (
     'id' => 133507,
     'name' => 'Punjai Puliyampatti',
@@ -22456,7 +21952,7 @@ return array (
     'latitude' => 11.35163,
     'longitude' => 77.16671,
   ),
-  2495 => 
+  2439 => 
   array (
     'id' => 133508,
     'name' => 'Punasa',
@@ -22465,7 +21961,7 @@ return array (
     'latitude' => 22.23507,
     'longitude' => 76.39335,
   ),
-  2496 => 
+  2440 => 
   array (
     'id' => 133509,
     'name' => 'Pupri',
@@ -22474,7 +21970,7 @@ return array (
     'latitude' => 26.47079,
     'longitude' => 85.70311,
   ),
-  2497 => 
+  2441 => 
   array (
     'id' => 133510,
     'name' => 'Purba Singhbhum',
@@ -22483,7 +21979,7 @@ return array (
     'latitude' => 22.59238,
     'longitude' => 86.48341,
   ),
-  2498 => 
+  2442 => 
   array (
     'id' => 133511,
     'name' => 'Puri',
@@ -22492,7 +21988,7 @@ return array (
     'latitude' => 19.9,
     'longitude' => 85.6,
   ),
-  2499 => 
+  2443 => 
   array (
     'id' => 133512,
     'name' => 'Purnia',
@@ -22501,7 +21997,7 @@ return array (
     'latitude' => 25.81614,
     'longitude' => 87.40708,
   ),
-  2500 => 
+  2444 => 
   array (
     'id' => 133513,
     'name' => 'Purushottampur',
@@ -22510,7 +22006,7 @@ return array (
     'latitude' => 19.52024,
     'longitude' => 84.88514,
   ),
-  2501 => 
+  2445 => 
   array (
     'id' => 133514,
     'name' => 'Purwa',
@@ -22519,7 +22015,7 @@ return array (
     'latitude' => 26.45756,
     'longitude' => 80.77403,
   ),
-  2502 => 
+  2446 => 
   array (
     'id' => 133515,
     'name' => 'Pusad',
@@ -22528,7 +22024,7 @@ return array (
     'latitude' => 19.91274,
     'longitude' => 77.57838,
   ),
-  2503 => 
+  2447 => 
   array (
     'id' => 133516,
     'name' => 'Pushkar',
@@ -22537,7 +22033,7 @@ return array (
     'latitude' => 26.49022,
     'longitude' => 74.55211,
   ),
-  2504 => 
+  2448 => 
   array (
     'id' => 133517,
     'name' => 'Puttaparthi',
@@ -22546,7 +22042,7 @@ return array (
     'latitude' => 14.1652,
     'longitude' => 77.8117,
   ),
-  2505 => 
+  2449 => 
   array (
     'id' => 133518,
     'name' => 'Puttur',
@@ -22555,16 +22051,7 @@ return array (
     'latitude' => 12.75975,
     'longitude' => 75.20169,
   ),
-  2506 => 
-  array (
-    'id' => 133519,
-    'name' => 'Puttur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 13.44189,
-    'longitude' => 79.55314,
-  ),
-  2507 => 
+  2450 => 
   array (
     'id' => 133520,
     'name' => 'Pachora',
@@ -22573,7 +22060,7 @@ return array (
     'latitude' => 20.66727,
     'longitude' => 75.35305,
   ),
-  2508 => 
+  2451 => 
   array (
     'id' => 133521,
     'name' => 'Pakala',
@@ -22582,7 +22069,7 @@ return array (
     'latitude' => 13.44903,
     'longitude' => 79.11493,
   ),
-  2509 => 
+  2452 => 
   array (
     'id' => 133522,
     'name' => 'Palakkodu',
@@ -22591,7 +22078,7 @@ return array (
     'latitude' => 12.30696,
     'longitude' => 78.07022,
   ),
-  2510 => 
+  2453 => 
   array (
     'id' => 133523,
     'name' => 'Palakollu',
@@ -22600,7 +22087,7 @@ return array (
     'latitude' => 16.5167,
     'longitude' => 81.73,
   ),
-  2511 => 
+  2454 => 
   array (
     'id' => 133524,
     'name' => 'Palamedu',
@@ -22609,7 +22096,7 @@ return array (
     'latitude' => 10.10501,
     'longitude' => 78.11336,
   ),
-  2512 => 
+  2455 => 
   array (
     'id' => 133525,
     'name' => 'Palampur',
@@ -22618,7 +22105,7 @@ return array (
     'latitude' => 32.11453,
     'longitude' => 76.55681,
   ),
-  2513 => 
+  2456 => 
   array (
     'id' => 133526,
     'name' => 'Palanpur',
@@ -22627,7 +22114,7 @@ return array (
     'latitude' => 24.17128,
     'longitude' => 72.43827,
   ),
-  2514 => 
+  2457 => 
   array (
     'id' => 133527,
     'name' => 'Palghar',
@@ -22636,7 +22123,7 @@ return array (
     'latitude' => 19.69693,
     'longitude' => 72.76543,
   ),
-  2515 => 
+  2458 => 
   array (
     'id' => 133528,
     'name' => 'Palghat',
@@ -22645,7 +22132,7 @@ return array (
     'latitude' => 10.77319,
     'longitude' => 76.65366,
   ),
-  2516 => 
+  2459 => 
   array (
     'id' => 133529,
     'name' => 'Pali',
@@ -22654,25 +22141,7 @@ return array (
     'latitude' => 25.77276,
     'longitude' => 73.32335,
   ),
-  2517 => 
-  array (
-    'id' => 133530,
-    'name' => 'Pali',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.36453,
-    'longitude' => 81.04374,
-  ),
-  2518 => 
-  array (
-    'id' => 133531,
-    'name' => 'Pali',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.49188,
-    'longitude' => 78.41617,
-  ),
-  2519 => 
+  2460 => 
   array (
     'id' => 133532,
     'name' => 'Palitana',
@@ -22681,7 +22150,7 @@ return array (
     'latitude' => 21.52519,
     'longitude' => 71.82309,
   ),
-  2520 => 
+  2461 => 
   array (
     'id' => 133533,
     'name' => 'Paliyad',
@@ -22690,7 +22159,7 @@ return array (
     'latitude' => 22.25757,
     'longitude' => 71.56024,
   ),
-  2521 => 
+  2462 => 
   array (
     'id' => 133534,
     'name' => 'Palkonda',
@@ -22699,7 +22168,7 @@ return array (
     'latitude' => 18.60374,
     'longitude' => 83.75568,
   ),
-  2522 => 
+  2463 => 
   array (
     'id' => 133535,
     'name' => 'Paloncha',
@@ -22708,7 +22177,7 @@ return array (
     'latitude' => 17.60184,
     'longitude' => 80.70509,
   ),
-  2523 => 
+  2464 => 
   array (
     'id' => 133536,
     'name' => 'Panch Mahals',
@@ -22717,7 +22186,7 @@ return array (
     'latitude' => 22.75,
     'longitude' => 73.6,
   ),
-  2524 => 
+  2465 => 
   array (
     'id' => 133537,
     'name' => 'Panchgani',
@@ -22726,7 +22195,7 @@ return array (
     'latitude' => 17.92449,
     'longitude' => 73.8008,
   ),
-  2525 => 
+  2466 => 
   array (
     'id' => 133538,
     'name' => 'Pandhurna',
@@ -22735,7 +22204,7 @@ return array (
     'latitude' => 21.59556,
     'longitude' => 78.52628,
   ),
-  2526 => 
+  2467 => 
   array (
     'id' => 133539,
     'name' => 'Pandoh',
@@ -22744,7 +22213,7 @@ return array (
     'latitude' => 31.66902,
     'longitude' => 77.05359,
   ),
-  2527 => 
+  2468 => 
   array (
     'id' => 133540,
     'name' => 'Pandatarai',
@@ -22753,7 +22222,7 @@ return array (
     'latitude' => 22.18714,
     'longitude' => 81.32815,
   ),
-  2528 => 
+  2469 => 
   array (
     'id' => 133541,
     'name' => 'Pangala',
@@ -22762,7 +22231,7 @@ return array (
     'latitude' => 13.25,
     'longitude' => 74.75,
   ),
-  2529 => 
+  2470 => 
   array (
     'id' => 133542,
     'name' => 'Pansemal',
@@ -22771,7 +22240,7 @@ return array (
     'latitude' => 21.65981,
     'longitude' => 74.69937,
   ),
-  2530 => 
+  2471 => 
   array (
     'id' => 133544,
     'name' => 'Paonta Sahib',
@@ -22780,7 +22249,7 @@ return array (
     'latitude' => 30.43666,
     'longitude' => 77.62462,
   ),
-  2531 => 
+  2472 => 
   array (
     'id' => 133545,
     'name' => 'Papireddippatti',
@@ -22789,7 +22258,7 @@ return array (
     'latitude' => 11.91774,
     'longitude' => 78.36865,
   ),
-  2532 => 
+  2473 => 
   array (
     'id' => 133546,
     'name' => 'Pappinissheri',
@@ -22798,7 +22267,7 @@ return array (
     'latitude' => 11.95655,
     'longitude' => 75.34034,
   ),
-  2533 => 
+  2474 => 
   array (
     'id' => 133547,
     'name' => 'Papparappatti',
@@ -22807,7 +22276,7 @@ return array (
     'latitude' => 12.22086,
     'longitude' => 78.0592,
   ),
-  2534 => 
+  2475 => 
   array (
     'id' => 133548,
     'name' => 'Pardi',
@@ -22816,7 +22285,7 @@ return array (
     'latitude' => 20.5087,
     'longitude' => 72.94569,
   ),
-  2535 => 
+  2476 => 
   array (
     'id' => 133549,
     'name' => 'Parvatipuram',
@@ -22825,7 +22294,7 @@ return array (
     'latitude' => 18.78392,
     'longitude' => 83.42569,
   ),
-  2536 => 
+  2477 => 
   array (
     'id' => 133550,
     'name' => 'Parichha',
@@ -22834,7 +22303,7 @@ return array (
     'latitude' => 25.50789,
     'longitude' => 78.75954,
   ),
-  2537 => 
+  2478 => 
   array (
     'id' => 133551,
     'name' => 'Pasighat',
@@ -22843,34 +22312,7 @@ return array (
     'latitude' => 28.06631,
     'longitude' => 95.32678,
   ),
-  2538 => 
-  array (
-    'id' => 133552,
-    'name' => 'Patan',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 21.03333,
-    'longitude' => 81.53333,
-  ),
-  2539 => 
-  array (
-    'id' => 133554,
-    'name' => 'Patan',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 17.37513,
-    'longitude' => 73.90143,
-  ),
-  2540 => 
-  array (
-    'id' => 133555,
-    'name' => 'Patan',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.28636,
-    'longitude' => 79.68962,
-  ),
-  2541 => 
+  2479 => 
   array (
     'id' => 133556,
     'name' => 'Pathardi',
@@ -22879,7 +22321,7 @@ return array (
     'latitude' => 19.17279,
     'longitude' => 75.17425,
   ),
-  2542 => 
+  2480 => 
   array (
     'id' => 133557,
     'name' => 'Pathardih',
@@ -22888,7 +22330,7 @@ return array (
     'latitude' => 23.6658,
     'longitude' => 86.43166,
   ),
-  2543 => 
+  2481 => 
   array (
     'id' => 133558,
     'name' => 'Pathri',
@@ -22897,7 +22339,7 @@ return array (
     'latitude' => 19.2588,
     'longitude' => 76.43412,
   ),
-  2544 => 
+  2482 => 
   array (
     'id' => 133559,
     'name' => 'Patur',
@@ -22906,7 +22348,7 @@ return array (
     'latitude' => 20.46093,
     'longitude' => 76.93725,
   ),
-  2545 => 
+  2483 => 
   array (
     'id' => 133560,
     'name' => 'Pavugada',
@@ -22915,7 +22357,7 @@ return array (
     'latitude' => 14.09953,
     'longitude' => 77.28018,
   ),
-  2546 => 
+  2484 => 
   array (
     'id' => 133561,
     'name' => 'Pilibhit',
@@ -22924,7 +22366,7 @@ return array (
     'latitude' => 28.63124,
     'longitude' => 79.80436,
   ),
-  2547 => 
+  2485 => 
   array (
     'id' => 133563,
     'name' => 'Pipalkoti',
@@ -22933,7 +22375,7 @@ return array (
     'latitude' => 30.42553,
     'longitude' => 79.43066,
   ),
-  2548 => 
+  2486 => 
   array (
     'id' => 133564,
     'name' => 'Pipri',
@@ -22942,7 +22384,7 @@ return array (
     'latitude' => 19.79371,
     'longitude' => 75.53519,
   ),
-  2549 => 
+  2487 => 
   array (
     'id' => 133565,
     'name' => 'Pipar',
@@ -22951,7 +22393,7 @@ return array (
     'latitude' => 26.38441,
     'longitude' => 73.54394,
   ),
-  2550 => 
+  2488 => 
   array (
     'id' => 133567,
     'name' => 'Pundri',
@@ -22960,7 +22402,7 @@ return array (
     'latitude' => 29.76096,
     'longitude' => 76.56034,
   ),
-  2551 => 
+  2489 => 
   array (
     'id' => 133568,
     'name' => 'Punahana',
@@ -22969,7 +22411,7 @@ return array (
     'latitude' => 27.86371,
     'longitude' => 77.20432,
   ),
-  2552 => 
+  2490 => 
   array (
     'id' => 133569,
     'name' => 'Puranpur',
@@ -22978,7 +22420,7 @@ return array (
     'latitude' => 28.51283,
     'longitude' => 80.14829,
   ),
-  2553 => 
+  2491 => 
   array (
     'id' => 133570,
     'name' => 'Purba Champaran',
@@ -22987,7 +22429,7 @@ return array (
     'latitude' => 26.58333,
     'longitude' => 84.83333,
   ),
-  2554 => 
+  2492 => 
   array (
     'id' => 133571,
     'name' => 'Purna',
@@ -22996,7 +22438,7 @@ return array (
     'latitude' => 19.1817,
     'longitude' => 77.02566,
   ),
-  2555 => 
+  2493 => 
   array (
     'id' => 133572,
     'name' => 'Quepem',
@@ -23005,7 +22447,7 @@ return array (
     'latitude' => 15.2128,
     'longitude' => 74.0772,
   ),
-  2556 => 
+  2494 => 
   array (
     'id' => 133573,
     'name' => 'Queula',
@@ -23014,7 +22456,7 @@ return array (
     'latitude' => 15.39011,
     'longitude' => 73.98557,
   ),
-  2557 => 
+  2495 => 
   array (
     'id' => 133574,
     'name' => 'Quthbullapur',
@@ -23023,7 +22465,7 @@ return array (
     'latitude' => 17.50107,
     'longitude' => 78.45818,
   ),
-  2558 => 
+  2496 => 
   array (
     'id' => 133575,
     'name' => 'Qadian',
@@ -23032,7 +22474,7 @@ return array (
     'latitude' => 31.82198,
     'longitude' => 75.37663,
   ),
-  2559 => 
+  2497 => 
   array (
     'id' => 133576,
     'name' => 'Qazigund',
@@ -23041,7 +22483,7 @@ return array (
     'latitude' => 33.63828,
     'longitude' => 75.14261,
   ),
-  2560 => 
+  2498 => 
   array (
     'id' => 133577,
     'name' => 'Rabkavi',
@@ -23050,7 +22492,7 @@ return array (
     'latitude' => 16.47567,
     'longitude' => 75.1106,
   ),
-  2561 => 
+  2499 => 
   array (
     'id' => 133578,
     'name' => 'Rabupura',
@@ -23059,7 +22501,7 @@ return array (
     'latitude' => 28.25153,
     'longitude' => 77.60253,
   ),
-  2562 => 
+  2500 => 
   array (
     'id' => 133579,
     'name' => 'Radaur',
@@ -23068,7 +22510,7 @@ return array (
     'latitude' => 30.02706,
     'longitude' => 77.15177,
   ),
-  2563 => 
+  2501 => 
   array (
     'id' => 133580,
     'name' => 'Raebareli',
@@ -23077,7 +22519,7 @@ return array (
     'latitude' => 26.2309,
     'longitude' => 81.23315,
   ),
-  2564 => 
+  2502 => 
   array (
     'id' => 133581,
     'name' => 'Rafiganj',
@@ -23086,7 +22528,7 @@ return array (
     'latitude' => 24.81757,
     'longitude' => 84.63445,
   ),
-  2565 => 
+  2503 => 
   array (
     'id' => 133582,
     'name' => 'Raghunathpur',
@@ -23095,7 +22537,7 @@ return array (
     'latitude' => 25.64492,
     'longitude' => 87.91762,
   ),
-  2566 => 
+  2504 => 
   array (
     'id' => 133583,
     'name' => 'Rahimatpur',
@@ -23104,7 +22546,7 @@ return array (
     'latitude' => 17.5921,
     'longitude' => 74.19966,
   ),
-  2567 => 
+  2505 => 
   array (
     'id' => 133584,
     'name' => 'Raha',
@@ -23113,7 +22555,7 @@ return array (
     'latitude' => 26.23333,
     'longitude' => 92.51667,
   ),
-  2568 => 
+  2506 => 
   array (
     'id' => 133585,
     'name' => 'Raia',
@@ -23122,7 +22564,7 @@ return array (
     'latitude' => 15.30499,
     'longitude' => 73.97096,
   ),
-  2569 => 
+  2507 => 
   array (
     'id' => 133586,
     'name' => 'Raichur',
@@ -23131,7 +22573,7 @@ return array (
     'latitude' => 16.16,
     'longitude' => 76.91,
   ),
-  2570 => 
+  2508 => 
   array (
     'id' => 133587,
     'name' => 'Raigarh',
@@ -23140,16 +22582,7 @@ return array (
     'latitude' => 22.08582,
     'longitude' => 83.30603,
   ),
-  2571 => 
-  array (
-    'id' => 133588,
-    'name' => 'Raigarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 18.57,
-    'longitude' => 73.13,
-  ),
-  2572 => 
+  2509 => 
   array (
     'id' => 133589,
     'name' => 'Raipur',
@@ -23158,16 +22591,7 @@ return array (
     'latitude' => 26.04259,
     'longitude' => 74.02373,
   ),
-  2573 => 
-  array (
-    'id' => 133590,
-    'name' => 'Raipur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 21.25621,
-    'longitude' => 81.69022,
-  ),
-  2574 => 
+  2510 => 
   array (
     'id' => 133591,
     'name' => 'Raisen',
@@ -23176,7 +22600,7 @@ return array (
     'latitude' => 23.25,
     'longitude' => 78.08333,
   ),
-  2575 => 
+  2511 => 
   array (
     'id' => 133592,
     'name' => 'Rajanna Sircilla',
@@ -23185,7 +22609,7 @@ return array (
     'latitude' => 18.38629,
     'longitude' => 78.8156,
   ),
-  2576 => 
+  2512 => 
   array (
     'id' => 133593,
     'name' => 'Rajaori',
@@ -23194,7 +22618,7 @@ return array (
     'latitude' => 33.37526,
     'longitude' => 74.3092,
   ),
-  2577 => 
+  2513 => 
   array (
     'id' => 133594,
     'name' => 'Rajapalaiyam',
@@ -23203,7 +22627,7 @@ return array (
     'latitude' => 9.45296,
     'longitude' => 77.55335,
   ),
-  2578 => 
+  2514 => 
   array (
     'id' => 133595,
     'name' => 'Rajpur',
@@ -23212,7 +22636,7 @@ return array (
     'latitude' => 22.30393,
     'longitude' => 74.35568,
   ),
-  2579 => 
+  2515 => 
   array (
     'id' => 133596,
     'name' => 'Rajsamand',
@@ -23221,7 +22645,7 @@ return array (
     'latitude' => 25.23822,
     'longitude' => 73.93503,
   ),
-  2580 => 
+  2516 => 
   array (
     'id' => 133597,
     'name' => 'Ramagundam',
@@ -23230,7 +22654,7 @@ return array (
     'latitude' => 18.755,
     'longitude' => 79.474,
   ),
-  2581 => 
+  2517 => 
   array (
     'id' => 133598,
     'name' => 'Ramanagara',
@@ -23239,7 +22663,7 @@ return array (
     'latitude' => 12.65,
     'longitude' => 77.35,
   ),
-  2582 => 
+  2518 => 
   array (
     'id' => 133599,
     'name' => 'Ramanathapuram',
@@ -23248,7 +22672,7 @@ return array (
     'latitude' => 9.37158,
     'longitude' => 78.83077,
   ),
-  2583 => 
+  2519 => 
   array (
     'id' => 133600,
     'name' => 'Ramanayyapeta',
@@ -23257,7 +22681,7 @@ return array (
     'latitude' => 16.94516,
     'longitude' => 82.2385,
   ),
-  2584 => 
+  2520 => 
   array (
     'id' => 133601,
     'name' => 'Ramban',
@@ -23266,7 +22690,7 @@ return array (
     'latitude' => 33.32301,
     'longitude' => 75.1861,
   ),
-  2585 => 
+  2521 => 
   array (
     'id' => 133602,
     'name' => 'Rambha',
@@ -23275,7 +22699,7 @@ return array (
     'latitude' => 19.51667,
     'longitude' => 85.1,
   ),
-  2586 => 
+  2522 => 
   array (
     'id' => 133603,
     'name' => 'Rameswaram',
@@ -23284,7 +22708,7 @@ return array (
     'latitude' => 9.2885,
     'longitude' => 79.31271,
   ),
-  2587 => 
+  2523 => 
   array (
     'id' => 133604,
     'name' => 'Ramgarh',
@@ -23293,7 +22717,7 @@ return array (
     'latitude' => 23.63073,
     'longitude' => 85.56057,
   ),
-  2588 => 
+  2524 => 
   array (
     'id' => 133605,
     'name' => 'Rampachodavaram',
@@ -23302,7 +22726,7 @@ return array (
     'latitude' => 17.44088,
     'longitude' => 81.77558,
   ),
-  2589 => 
+  2525 => 
   array (
     'id' => 133606,
     'name' => 'Ranchi',
@@ -23311,7 +22735,7 @@ return array (
     'latitude' => 23.34316,
     'longitude' => 85.3094,
   ),
-  2590 => 
+  2526 => 
   array (
     'id' => 133607,
     'name' => 'Rangareddi',
@@ -23320,7 +22744,7 @@ return array (
     'latitude' => 17.27883,
     'longitude' => 78.16844,
   ),
-  2591 => 
+  2527 => 
   array (
     'id' => 133608,
     'name' => 'Rangia',
@@ -23329,7 +22753,7 @@ return array (
     'latitude' => 26.44931,
     'longitude' => 91.61356,
   ),
-  2592 => 
+  2528 => 
   array (
     'id' => 133609,
     'name' => 'Rangpo',
@@ -23338,7 +22762,7 @@ return array (
     'latitude' => 27.17733,
     'longitude' => 88.53358,
   ),
-  2593 => 
+  2529 => 
   array (
     'id' => 133610,
     'name' => 'Rangapara',
@@ -23347,7 +22771,7 @@ return array (
     'latitude' => 26.83772,
     'longitude' => 92.66876,
   ),
-  2594 => 
+  2530 => 
   array (
     'id' => 133611,
     'name' => 'Rasipuram',
@@ -23356,7 +22780,7 @@ return array (
     'latitude' => 11.46009,
     'longitude' => 78.18635,
   ),
-  2595 => 
+  2531 => 
   array (
     'id' => 133612,
     'name' => 'Rasra',
@@ -23365,7 +22789,7 @@ return array (
     'latitude' => 25.8576,
     'longitude' => 83.85487,
   ),
-  2596 => 
+  2532 => 
   array (
     'id' => 133613,
     'name' => 'Rasulabad',
@@ -23374,7 +22798,7 @@ return array (
     'latitude' => 26.74491,
     'longitude' => 80.49012,
   ),
-  2597 => 
+  2533 => 
   array (
     'id' => 133614,
     'name' => 'Ratangarh',
@@ -23383,16 +22807,7 @@ return array (
     'latitude' => 28.08137,
     'longitude' => 74.61854,
   ),
-  2598 => 
-  array (
-    'id' => 133615,
-    'name' => 'Ratangarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.81667,
-    'longitude' => 75.11667,
-  ),
-  2599 => 
+  2534 => 
   array (
     'id' => 133616,
     'name' => 'Ratanpur',
@@ -23401,7 +22816,7 @@ return array (
     'latitude' => 22.2866,
     'longitude' => 82.16823,
   ),
-  2600 => 
+  2535 => 
   array (
     'id' => 133617,
     'name' => 'Ratia',
@@ -23410,7 +22825,7 @@ return array (
     'latitude' => 29.69029,
     'longitude' => 75.57688,
   ),
-  2601 => 
+  2536 => 
   array (
     'id' => 133618,
     'name' => 'Ratlam',
@@ -23419,7 +22834,7 @@ return array (
     'latitude' => 23.33033,
     'longitude' => 75.04032,
   ),
-  2602 => 
+  2537 => 
   array (
     'id' => 133619,
     'name' => 'Ratnagiri',
@@ -23428,7 +22843,7 @@ return array (
     'latitude' => 17.0,
     'longitude' => 73.5,
   ),
-  2603 => 
+  2538 => 
   array (
     'id' => 133620,
     'name' => 'Raurkela',
@@ -23437,7 +22852,7 @@ return array (
     'latitude' => 22.22496,
     'longitude' => 84.86414,
   ),
-  2604 => 
+  2539 => 
   array (
     'id' => 133621,
     'name' => 'Raxaul',
@@ -23446,7 +22861,7 @@ return array (
     'latitude' => 26.97982,
     'longitude' => 84.85065,
   ),
-  2605 => 
+  2540 => 
   array (
     'id' => 133622,
     'name' => 'Rayagada',
@@ -23455,7 +22870,7 @@ return array (
     'latitude' => 19.4,
     'longitude' => 83.5,
   ),
-  2606 => 
+  2541 => 
   array (
     'id' => 133623,
     'name' => 'Rehli',
@@ -23464,7 +22879,7 @@ return array (
     'latitude' => 23.63722,
     'longitude' => 79.06275,
   ),
-  2607 => 
+  2542 => 
   array (
     'id' => 133624,
     'name' => 'Rehti',
@@ -23473,7 +22888,7 @@ return array (
     'latitude' => 22.73781,
     'longitude' => 77.43399,
   ),
-  2608 => 
+  2543 => 
   array (
     'id' => 133625,
     'name' => 'Remuna',
@@ -23482,7 +22897,7 @@ return array (
     'latitude' => 21.52798,
     'longitude' => 86.87156,
   ),
-  2609 => 
+  2544 => 
   array (
     'id' => 133626,
     'name' => 'Rengali',
@@ -23491,7 +22906,7 @@ return array (
     'latitude' => 21.64602,
     'longitude' => 84.05311,
   ),
-  2610 => 
+  2545 => 
   array (
     'id' => 133627,
     'name' => 'Renigunta',
@@ -23500,7 +22915,7 @@ return array (
     'latitude' => 13.65143,
     'longitude' => 79.51256,
   ),
-  2611 => 
+  2546 => 
   array (
     'id' => 133628,
     'name' => 'Renukut',
@@ -23509,7 +22924,7 @@ return array (
     'latitude' => 24.21641,
     'longitude' => 83.0358,
   ),
-  2612 => 
+  2547 => 
   array (
     'id' => 133629,
     'name' => 'Reoti',
@@ -23518,7 +22933,7 @@ return array (
     'latitude' => 25.85091,
     'longitude' => 84.3778,
   ),
-  2613 => 
+  2548 => 
   array (
     'id' => 133630,
     'name' => 'Repalle',
@@ -23527,7 +22942,7 @@ return array (
     'latitude' => 16.0184,
     'longitude' => 80.82958,
   ),
-  2614 => 
+  2549 => 
   array (
     'id' => 133631,
     'name' => 'Revadanda',
@@ -23536,7 +22951,7 @@ return array (
     'latitude' => 18.55363,
     'longitude' => 72.92559,
   ),
-  2615 => 
+  2550 => 
   array (
     'id' => 133632,
     'name' => 'Revelganj',
@@ -23545,7 +22960,7 @@ return array (
     'latitude' => 25.78976,
     'longitude' => 84.63596,
   ),
-  2616 => 
+  2551 => 
   array (
     'id' => 133633,
     'name' => 'Rewa',
@@ -23554,7 +22969,7 @@ return array (
     'latitude' => 24.53256,
     'longitude' => 81.29234,
   ),
-  2617 => 
+  2552 => 
   array (
     'id' => 133635,
     'name' => 'Rewari',
@@ -23563,7 +22978,7 @@ return array (
     'latitude' => 28.199,
     'longitude' => 76.6183,
   ),
-  2618 => 
+  2553 => 
   array (
     'id' => 133636,
     'name' => 'Ri-Bhoi',
@@ -23572,7 +22987,7 @@ return array (
     'latitude' => 25.88997,
     'longitude' => 91.82707,
   ),
-  2619 => 
+  2554 => 
   array (
     'id' => 133637,
     'name' => 'Richha',
@@ -23581,7 +22996,7 @@ return array (
     'latitude' => 28.69467,
     'longitude' => 79.52284,
   ),
-  2620 => 
+  2555 => 
   array (
     'id' => 133638,
     'name' => 'Rishikesh',
@@ -23590,7 +23005,7 @@ return array (
     'latitude' => 30.10778,
     'longitude' => 78.29255,
   ),
-  2621 => 
+  2556 => 
   array (
     'id' => 133639,
     'name' => 'Risod',
@@ -23599,7 +23014,7 @@ return array (
     'latitude' => 19.97671,
     'longitude' => 76.78799,
   ),
-  2622 => 
+  2557 => 
   array (
     'id' => 133640,
     'name' => 'Riasi',
@@ -23608,7 +23023,7 @@ return array (
     'latitude' => 33.08115,
     'longitude' => 74.83242,
   ),
-  2623 => 
+  2558 => 
   array (
     'id' => 133641,
     'name' => 'Robertsganj',
@@ -23617,7 +23032,7 @@ return array (
     'latitude' => 24.6886,
     'longitude' => 83.06784,
   ),
-  2624 => 
+  2559 => 
   array (
     'id' => 133642,
     'name' => 'Robertsonpet',
@@ -23626,7 +23041,7 @@ return array (
     'latitude' => 12.95629,
     'longitude' => 78.27539,
   ),
-  2625 => 
+  2560 => 
   array (
     'id' => 133643,
     'name' => 'Roha',
@@ -23635,16 +23050,7 @@ return array (
     'latitude' => 23.19646,
     'longitude' => 69.27076,
   ),
-  2626 => 
-  array (
-    'id' => 133644,
-    'name' => 'Roha',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 18.43687,
-    'longitude' => 73.11964,
-  ),
-  2627 => 
+  2561 => 
   array (
     'id' => 133645,
     'name' => 'Rohini',
@@ -23653,7 +23059,7 @@ return array (
     'latitude' => 28.74322,
     'longitude' => 77.06778,
   ),
-  2628 => 
+  2562 => 
   array (
     'id' => 133646,
     'name' => 'Rohru',
@@ -23662,7 +23068,7 @@ return array (
     'latitude' => 31.20269,
     'longitude' => 77.75484,
   ),
-  2629 => 
+  2563 => 
   array (
     'id' => 133647,
     'name' => 'Rohtak',
@@ -23671,7 +23077,7 @@ return array (
     'latitude' => 28.83333,
     'longitude' => 76.66667,
   ),
-  2630 => 
+  2564 => 
   array (
     'id' => 133648,
     'name' => 'Rohtas',
@@ -23680,7 +23086,7 @@ return array (
     'latitude' => 24.97941,
     'longitude' => 84.02774,
   ),
-  2631 => 
+  2565 => 
   array (
     'id' => 133649,
     'name' => 'Ron',
@@ -23689,7 +23095,7 @@ return array (
     'latitude' => 15.69935,
     'longitude' => 75.73408,
   ),
-  2632 => 
+  2566 => 
   array (
     'id' => 133650,
     'name' => 'Roorkee',
@@ -23698,7 +23104,7 @@ return array (
     'latitude' => 29.86632,
     'longitude' => 77.89118,
   ),
-  2633 => 
+  2567 => 
   array (
     'id' => 133652,
     'name' => 'Rudraprayag',
@@ -23707,7 +23113,7 @@ return array (
     'latitude' => 30.60872,
     'longitude' => 79.06517,
   ),
-  2634 => 
+  2568 => 
   array (
     'id' => 133654,
     'name' => 'Rupnagar',
@@ -23716,7 +23122,7 @@ return array (
     'latitude' => 31.04,
     'longitude' => 76.52,
   ),
-  2635 => 
+  2569 => 
   array (
     'id' => 133655,
     'name' => 'Rura',
@@ -23725,7 +23131,7 @@ return array (
     'latitude' => 26.49001,
     'longitude' => 79.90108,
   ),
-  2636 => 
+  2570 => 
   array (
     'id' => 133656,
     'name' => 'Rusera',
@@ -23734,7 +23140,7 @@ return array (
     'latitude' => 25.75355,
     'longitude' => 86.02597,
   ),
-  2637 => 
+  2571 => 
   array (
     'id' => 133657,
     'name' => 'Radhanpur',
@@ -23743,7 +23149,7 @@ return array (
     'latitude' => 23.83238,
     'longitude' => 71.6047,
   ),
-  2638 => 
+  2572 => 
   array (
     'id' => 133658,
     'name' => 'Radhakund',
@@ -23752,7 +23158,7 @@ return array (
     'latitude' => 27.52432,
     'longitude' => 77.49101,
   ),
-  2639 => 
+  2573 => 
   array (
     'id' => 133660,
     'name' => 'Raghogarh',
@@ -23761,7 +23167,7 @@ return array (
     'latitude' => 24.44318,
     'longitude' => 77.19768,
   ),
-  2640 => 
+  2574 => 
   array (
     'id' => 133661,
     'name' => 'Rahatgarh',
@@ -23770,7 +23176,7 @@ return array (
     'latitude' => 23.78968,
     'longitude' => 78.39473,
   ),
-  2641 => 
+  2575 => 
   array (
     'id' => 133662,
     'name' => 'Rahon',
@@ -23779,7 +23185,7 @@ return array (
     'latitude' => 31.05275,
     'longitude' => 76.11907,
   ),
-  2642 => 
+  2576 => 
   array (
     'id' => 133663,
     'name' => 'Rahuri',
@@ -23788,7 +23194,7 @@ return array (
     'latitude' => 19.39069,
     'longitude' => 74.64979,
   ),
-  2643 => 
+  2577 => 
   array (
     'id' => 133665,
     'name' => 'Raikot',
@@ -23797,16 +23203,7 @@ return array (
     'latitude' => 30.65,
     'longitude' => 75.6,
   ),
-  2644 => 
-  array (
-    'id' => 133666,
-    'name' => 'Raipur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.31097,
-    'longitude' => 78.08979,
-  ),
-  2645 => 
+  2578 => 
   array (
     'id' => 133667,
     'name' => 'Raisinghnagar',
@@ -23815,7 +23212,7 @@ return array (
     'latitude' => 29.53583,
     'longitude' => 73.44917,
   ),
-  2646 => 
+  2579 => 
   array (
     'id' => 133668,
     'name' => 'Raj Nandgaon',
@@ -23824,7 +23221,7 @@ return array (
     'latitude' => 21.16667,
     'longitude' => 81.0,
   ),
-  2647 => 
+  2580 => 
   array (
     'id' => 133670,
     'name' => 'Rajasansi',
@@ -23833,7 +23230,7 @@ return array (
     'latitude' => 31.72021,
     'longitude' => 74.8008,
   ),
-  2648 => 
+  2581 => 
   array (
     'id' => 133671,
     'name' => 'Rajahmundry',
@@ -23842,7 +23239,7 @@ return array (
     'latitude' => 17.00517,
     'longitude' => 81.77784,
   ),
-  2649 => 
+  2582 => 
   array (
     'id' => 133672,
     'name' => 'Rajaldesar',
@@ -23851,7 +23248,7 @@ return array (
     'latitude' => 28.02849,
     'longitude' => 74.47442,
   ),
-  2650 => 
+  2583 => 
   array (
     'id' => 133673,
     'name' => 'Rajauri',
@@ -23860,7 +23257,7 @@ return array (
     'latitude' => 33.25,
     'longitude' => 74.25,
   ),
-  2651 => 
+  2584 => 
   array (
     'id' => 133674,
     'name' => 'Rajgarh',
@@ -23869,25 +23266,7 @@ return array (
     'latitude' => 27.23731,
     'longitude' => 76.62243,
   ),
-  2652 => 
-  array (
-    'id' => 133675,
-    'name' => 'Rajgarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.67821,
-    'longitude' => 74.94483,
-  ),
-  2653 => 
-  array (
-    'id' => 133676,
-    'name' => 'Rajgarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.85142,
-    'longitude' => 77.30066,
-  ),
-  2654 => 
+  2585 => 
   array (
     'id' => 133677,
     'name' => 'Rajgurunagar',
@@ -23896,7 +23275,7 @@ return array (
     'latitude' => 18.86667,
     'longitude' => 73.9,
   ),
-  2655 => 
+  2586 => 
   array (
     'id' => 133678,
     'name' => 'Rajgir',
@@ -23905,7 +23284,7 @@ return array (
     'latitude' => 25.02828,
     'longitude' => 85.42079,
   ),
-  2656 => 
+  2587 => 
   array (
     'id' => 133679,
     'name' => 'Rajkot',
@@ -23914,7 +23293,7 @@ return array (
     'latitude' => 22.33333,
     'longitude' => 70.83333,
   ),
-  2657 => 
+  2588 => 
   array (
     'id' => 133680,
     'name' => 'Rajnagar',
@@ -23923,7 +23302,7 @@ return array (
     'latitude' => 24.88929,
     'longitude' => 79.91178,
   ),
-  2658 => 
+  2589 => 
   array (
     'id' => 133681,
     'name' => 'Rajpura',
@@ -23932,7 +23311,7 @@ return array (
     'latitude' => 30.47856,
     'longitude' => 76.59284,
   ),
-  2659 => 
+  2590 => 
   array (
     'id' => 133682,
     'name' => 'Rajpipla',
@@ -23941,7 +23320,7 @@ return array (
     'latitude' => 21.86667,
     'longitude' => 73.5,
   ),
-  2660 => 
+  2591 => 
   array (
     'id' => 133684,
     'name' => 'Rajula',
@@ -23950,7 +23329,7 @@ return array (
     'latitude' => 21.03854,
     'longitude' => 71.44345,
   ),
-  2661 => 
+  2592 => 
   array (
     'id' => 133685,
     'name' => 'Rajur',
@@ -23959,7 +23338,7 @@ return array (
     'latitude' => 20.11087,
     'longitude' => 78.89311,
   ),
-  2662 => 
+  2593 => 
   array (
     'id' => 133686,
     'name' => 'Rajakhera',
@@ -23968,7 +23347,7 @@ return array (
     'latitude' => 26.89802,
     'longitude' => 78.171,
   ),
-  2663 => 
+  2594 => 
   array (
     'id' => 133687,
     'name' => 'Rajapur',
@@ -23977,16 +23356,7 @@ return array (
     'latitude' => 16.65679,
     'longitude' => 73.51701,
   ),
-  2664 => 
-  array (
-    'id' => 133688,
-    'name' => 'Rajapur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.38725,
-    'longitude' => 81.15125,
-  ),
-  2665 => 
+  2595 => 
   array (
     'id' => 133689,
     'name' => 'Rajura',
@@ -23995,7 +23365,7 @@ return array (
     'latitude' => 19.77947,
     'longitude' => 79.36459,
   ),
-  2666 => 
+  2596 => 
   array (
     'id' => 133690,
     'name' => 'Ram Das',
@@ -24004,7 +23374,7 @@ return array (
     'latitude' => 31.96739,
     'longitude' => 74.9087,
   ),
-  2667 => 
+  2597 => 
   array (
     'id' => 133691,
     'name' => 'Ramachandrapuram',
@@ -24013,7 +23383,7 @@ return array (
     'latitude' => 16.83636,
     'longitude' => 82.02871,
   ),
-  2668 => 
+  2598 => 
   array (
     'id' => 133692,
     'name' => 'Ramamangalam',
@@ -24022,7 +23392,7 @@ return array (
     'latitude' => 9.93333,
     'longitude' => 76.5,
   ),
-  2669 => 
+  2599 => 
   array (
     'id' => 133695,
     'name' => 'Ramganj Mandi',
@@ -24031,25 +23401,7 @@ return array (
     'latitude' => 24.64648,
     'longitude' => 75.94325,
   ),
-  2670 => 
-  array (
-    'id' => 133696,
-    'name' => 'Ramgarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 27.25097,
-    'longitude' => 75.17893,
-  ),
-  2671 => 
-  array (
-    'id' => 133698,
-    'name' => 'Ramgarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 33.40379,
-    'longitude' => 74.22388,
-  ),
-  2672 => 
+  2600 => 
   array (
     'id' => 133699,
     'name' => 'Ramgundam',
@@ -24058,7 +23410,7 @@ return array (
     'latitude' => 18.80084,
     'longitude' => 79.45206,
   ),
-  2673 => 
+  2601 => 
   array (
     'id' => 133700,
     'name' => 'Ramkola',
@@ -24067,7 +23419,7 @@ return array (
     'latitude' => 26.90172,
     'longitude' => 83.83758,
   ),
-  2674 => 
+  2602 => 
   array (
     'id' => 133701,
     'name' => 'Ramnagar',
@@ -24076,34 +23428,7 @@ return array (
     'latitude' => 27.16371,
     'longitude' => 84.32342,
   ),
-  2675 => 
-  array (
-    'id' => 133702,
-    'name' => 'Ramnagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 32.80728,
-    'longitude' => 75.31119,
-  ),
-  2676 => 
-  array (
-    'id' => 133703,
-    'name' => 'Ramnagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 29.3925,
-    'longitude' => 79.1283,
-  ),
-  2677 => 
-  array (
-    'id' => 133704,
-    'name' => 'Ramnagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.26907,
-    'longitude' => 83.02971,
-  ),
-  2678 => 
+  2603 => 
   array (
     'id' => 133705,
     'name' => 'Rampur',
@@ -24112,16 +23437,7 @@ return array (
     'latitude' => 28.81014,
     'longitude' => 79.02699,
   ),
-  2679 => 
-  array (
-    'id' => 133706,
-    'name' => 'Rampur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 31.44943,
-    'longitude' => 77.63087,
-  ),
-  2680 => 
+  2604 => 
   array (
     'id' => 133707,
     'name' => 'Rampura',
@@ -24130,25 +23446,7 @@ return array (
     'latitude' => 26.34967,
     'longitude' => 79.18234,
   ),
-  2681 => 
-  array (
-    'id' => 133708,
-    'name' => 'Rampura',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.256,
-    'longitude' => 75.24116,
-  ),
-  2682 => 
-  array (
-    'id' => 133709,
-    'name' => 'Rampura',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.467,
-    'longitude' => 75.43996,
-  ),
-  2683 => 
+  2605 => 
   array (
     'id' => 133710,
     'name' => 'Ramtek',
@@ -24157,7 +23455,7 @@ return array (
     'latitude' => 21.39562,
     'longitude' => 79.32725,
   ),
-  2684 => 
+  2606 => 
   array (
     'id' => 133711,
     'name' => 'Ramanuj Ganj',
@@ -24166,7 +23464,7 @@ return array (
     'latitude' => 23.80637,
     'longitude' => 83.69981,
   ),
-  2685 => 
+  2607 => 
   array (
     'id' => 133712,
     'name' => 'Ramapuram',
@@ -24175,7 +23473,7 @@ return array (
     'latitude' => 15.28749,
     'longitude' => 77.86722,
   ),
-  2686 => 
+  2608 => 
   array (
     'id' => 133714,
     'name' => 'Rani',
@@ -24184,7 +23482,7 @@ return array (
     'latitude' => 25.35031,
     'longitude' => 73.30885,
   ),
-  2687 => 
+  2609 => 
   array (
     'id' => 133715,
     'name' => 'Rania',
@@ -24193,7 +23491,7 @@ return array (
     'latitude' => 29.52454,
     'longitude' => 74.83689,
   ),
-  2688 => 
+  2610 => 
   array (
     'id' => 133716,
     'name' => 'Ranikhet',
@@ -24202,7 +23500,7 @@ return array (
     'latitude' => 29.64082,
     'longitude' => 79.43229,
   ),
-  2689 => 
+  2611 => 
   array (
     'id' => 133717,
     'name' => 'Ranapur',
@@ -24211,7 +23509,7 @@ return array (
     'latitude' => 22.64704,
     'longitude' => 74.52118,
   ),
-  2690 => 
+  2612 => 
   array (
     'id' => 133718,
     'name' => 'Ranavav',
@@ -24220,7 +23518,7 @@ return array (
     'latitude' => 21.68734,
     'longitude' => 69.74485,
   ),
-  2691 => 
+  2613 => 
   array (
     'id' => 133719,
     'name' => 'Ranibennur',
@@ -24229,7 +23527,7 @@ return array (
     'latitude' => 14.62239,
     'longitude' => 75.62951,
   ),
-  2692 => 
+  2614 => 
   array (
     'id' => 133720,
     'name' => 'Ranipur',
@@ -24238,7 +23536,7 @@ return array (
     'latitude' => 25.25034,
     'longitude' => 79.06204,
   ),
-  2693 => 
+  2615 => 
   array (
     'id' => 133721,
     'name' => 'Ranir Bazar',
@@ -24247,7 +23545,7 @@ return array (
     'latitude' => 23.83463,
     'longitude' => 91.36614,
   ),
-  2694 => 
+  2616 => 
   array (
     'id' => 133722,
     'name' => 'Rapar',
@@ -24256,7 +23554,7 @@ return array (
     'latitude' => 23.57267,
     'longitude' => 70.64718,
   ),
-  2695 => 
+  2617 => 
   array (
     'id' => 133723,
     'name' => 'Rath',
@@ -24265,7 +23563,7 @@ return array (
     'latitude' => 25.59474,
     'longitude' => 79.5666,
   ),
-  2696 => 
+  2618 => 
   array (
     'id' => 133724,
     'name' => 'Raver',
@@ -24274,7 +23572,7 @@ return array (
     'latitude' => 21.24757,
     'longitude' => 76.03509,
   ),
-  2697 => 
+  2619 => 
   array (
     'id' => 133725,
     'name' => 'Rawatbhata',
@@ -24283,7 +23581,7 @@ return array (
     'latitude' => 24.92981,
     'longitude' => 75.59209,
   ),
-  2698 => 
+  2620 => 
   array (
     'id' => 133726,
     'name' => 'Rawatsar',
@@ -24292,7 +23590,7 @@ return array (
     'latitude' => 29.26724,
     'longitude' => 74.40288,
   ),
-  2699 => 
+  2621 => 
   array (
     'id' => 133727,
     'name' => 'Ray',
@@ -24301,7 +23599,7 @@ return array (
     'latitude' => 23.6843,
     'longitude' => 85.05457,
   ),
-  2700 => 
+  2622 => 
   array (
     'id' => 133728,
     'name' => 'Raya',
@@ -24310,7 +23608,7 @@ return array (
     'latitude' => 27.55607,
     'longitude' => 77.78972,
   ),
-  2701 => 
+  2623 => 
   array (
     'id' => 133729,
     'name' => 'Rayachoti',
@@ -24319,7 +23617,7 @@ return array (
     'latitude' => 14.05723,
     'longitude' => 78.75056,
   ),
-  2702 => 
+  2624 => 
   array (
     'id' => 133730,
     'name' => 'Rayadrug',
@@ -24328,7 +23626,7 @@ return array (
     'latitude' => 14.69971,
     'longitude' => 76.85241,
   ),
-  2703 => 
+  2625 => 
   array (
     'id' => 133731,
     'name' => 'Raybag',
@@ -24337,7 +23635,7 @@ return array (
     'latitude' => 16.49178,
     'longitude' => 74.77391,
   ),
-  2704 => 
+  2626 => 
   array (
     'id' => 133732,
     'name' => 'Razampeta',
@@ -24346,7 +23644,7 @@ return array (
     'latitude' => 14.19544,
     'longitude' => 79.15896,
   ),
-  2705 => 
+  2627 => 
   array (
     'id' => 133733,
     'name' => 'Razole',
@@ -24355,7 +23653,7 @@ return array (
     'latitude' => 16.47608,
     'longitude' => 81.83912,
   ),
-  2706 => 
+  2628 => 
   array (
     'id' => 133734,
     'name' => 'Razam',
@@ -24364,7 +23662,7 @@ return array (
     'latitude' => 18.44909,
     'longitude' => 83.65957,
   ),
-  2707 => 
+  2629 => 
   array (
     'id' => 133735,
     'name' => 'Raiwala Bara',
@@ -24373,7 +23671,7 @@ return array (
     'latitude' => 30.01864,
     'longitude' => 78.2293,
   ),
-  2708 => 
+  2630 => 
   array (
     'id' => 133736,
     'name' => 'Ringas',
@@ -24382,7 +23680,7 @@ return array (
     'latitude' => 27.3636,
     'longitude' => 75.56838,
   ),
-  2709 => 
+  2631 => 
   array (
     'id' => 133737,
     'name' => 'Rudarpur',
@@ -24391,7 +23689,7 @@ return array (
     'latitude' => 26.44467,
     'longitude' => 83.61302,
   ),
-  2710 => 
+  2632 => 
   array (
     'id' => 133738,
     'name' => 'Sabalgarh',
@@ -24400,7 +23698,7 @@ return array (
     'latitude' => 26.24918,
     'longitude' => 77.40786,
   ),
-  2711 => 
+  2633 => 
   array (
     'id' => 133739,
     'name' => 'Sabar Kantha',
@@ -24409,7 +23707,7 @@ return array (
     'latitude' => 23.62974,
     'longitude' => 73.00197,
   ),
-  2712 => 
+  2634 => 
   array (
     'id' => 133740,
     'name' => 'Sabrum',
@@ -24418,7 +23716,7 @@ return array (
     'latitude' => 23.00153,
     'longitude' => 91.72427,
   ),
-  2713 => 
+  2635 => 
   array (
     'id' => 133741,
     'name' => 'Sabathu',
@@ -24427,7 +23725,7 @@ return array (
     'latitude' => 30.97494,
     'longitude' => 76.99137,
   ),
-  2714 => 
+  2636 => 
   array (
     'id' => 133742,
     'name' => 'Sachin',
@@ -24436,7 +23734,7 @@ return array (
     'latitude' => 21.08718,
     'longitude' => 72.88153,
   ),
-  2715 => 
+  2637 => 
   array (
     'id' => 133743,
     'name' => 'Sadalgi',
@@ -24445,7 +23743,7 @@ return array (
     'latitude' => 16.5587,
     'longitude' => 74.53211,
   ),
-  2716 => 
+  2638 => 
   array (
     'id' => 133744,
     'name' => 'Sadabad',
@@ -24454,7 +23752,7 @@ return array (
     'latitude' => 27.43818,
     'longitude' => 78.03758,
   ),
-  2717 => 
+  2639 => 
   array (
     'id' => 133745,
     'name' => 'Sadaseopet',
@@ -24463,7 +23761,7 @@ return array (
     'latitude' => 17.61925,
     'longitude' => 77.95263,
   ),
-  2718 => 
+  2640 => 
   array (
     'id' => 133746,
     'name' => 'Safidon',
@@ -24472,7 +23770,7 @@ return array (
     'latitude' => 29.40596,
     'longitude' => 76.67042,
   ),
-  2719 => 
+  2641 => 
   array (
     'id' => 133747,
     'name' => 'Safipur',
@@ -24481,7 +23779,7 @@ return array (
     'latitude' => 26.73783,
     'longitude' => 80.3435,
   ),
-  2720 => 
+  2642 => 
   array (
     'id' => 133748,
     'name' => 'Sagauli',
@@ -24490,7 +23788,7 @@ return array (
     'latitude' => 26.7639,
     'longitude' => 84.74341,
   ),
-  2721 => 
+  2643 => 
   array (
     'id' => 133749,
     'name' => 'Saharsa',
@@ -24499,7 +23797,7 @@ return array (
     'latitude' => 25.87498,
     'longitude' => 86.59611,
   ),
-  2722 => 
+  2644 => 
   array (
     'id' => 133750,
     'name' => 'Sahaspur',
@@ -24508,7 +23806,7 @@ return array (
     'latitude' => 29.12125,
     'longitude' => 78.62273,
   ),
-  2723 => 
+  2645 => 
   array (
     'id' => 133751,
     'name' => 'Sahaswan',
@@ -24517,7 +23815,7 @@ return array (
     'latitude' => 28.07227,
     'longitude' => 78.75082,
   ),
-  2724 => 
+  2646 => 
   array (
     'id' => 133752,
     'name' => 'Sahibganj',
@@ -24526,7 +23824,7 @@ return array (
     'latitude' => 24.99354,
     'longitude' => 87.67333,
   ),
-  2725 => 
+  2647 => 
   array (
     'id' => 133753,
     'name' => 'Saharanpur',
@@ -24535,7 +23833,7 @@ return array (
     'latitude' => 29.9,
     'longitude' => 77.68333,
   ),
-  2726 => 
+  2648 => 
   array (
     'id' => 133754,
     'name' => 'Sahawar',
@@ -24544,7 +23842,7 @@ return array (
     'latitude' => 27.79603,
     'longitude' => 78.83373,
   ),
-  2727 => 
+  2649 => 
   array (
     'id' => 133755,
     'name' => 'Saidpur',
@@ -24553,7 +23851,7 @@ return array (
     'latitude' => 25.53749,
     'longitude' => 83.22378,
   ),
-  2728 => 
+  2650 => 
   array (
     'id' => 133756,
     'name' => 'Saiha',
@@ -24562,7 +23860,7 @@ return array (
     'latitude' => 22.49183,
     'longitude' => 92.98143,
   ),
-  2729 => 
+  2651 => 
   array (
     'id' => 133757,
     'name' => 'Sailana',
@@ -24571,7 +23869,7 @@ return array (
     'latitude' => 23.46219,
     'longitude' => 74.92318,
   ),
-  2730 => 
+  2652 => 
   array (
     'id' => 133758,
     'name' => 'Saint Thomas Mount',
@@ -24580,7 +23878,7 @@ return array (
     'latitude' => 13.00334,
     'longitude' => 80.19614,
   ),
-  2731 => 
+  2653 => 
   array (
     'id' => 133759,
     'name' => 'Sairang',
@@ -24589,7 +23887,7 @@ return array (
     'latitude' => 23.81034,
     'longitude' => 92.65226,
   ),
-  2732 => 
+  2654 => 
   array (
     'id' => 133760,
     'name' => 'Sakleshpur',
@@ -24598,7 +23896,7 @@ return array (
     'latitude' => 12.94119,
     'longitude' => 75.78467,
   ),
-  2733 => 
+  2655 => 
   array (
     'id' => 133761,
     'name' => 'Sakti',
@@ -24607,7 +23905,7 @@ return array (
     'latitude' => 22.02662,
     'longitude' => 82.96091,
   ),
-  2734 => 
+  2656 => 
   array (
     'id' => 133762,
     'name' => 'Sakit',
@@ -24616,7 +23914,7 @@ return array (
     'latitude' => 27.43463,
     'longitude' => 78.77903,
   ),
-  2735 => 
+  2657 => 
   array (
     'id' => 133763,
     'name' => 'Salem',
@@ -24625,7 +23923,7 @@ return array (
     'latitude' => 11.6537012,
     'longitude' => 77.9982106,
   ),
-  2736 => 
+  2658 => 
   array (
     'id' => 133764,
     'name' => 'Saligao',
@@ -24634,7 +23932,7 @@ return array (
     'latitude' => 15.55359,
     'longitude' => 73.79036,
   ),
-  2737 => 
+  2659 => 
   array (
     'id' => 133765,
     'name' => 'Salon',
@@ -24643,7 +23941,7 @@ return array (
     'latitude' => 26.02857,
     'longitude' => 81.45403,
   ),
-  2738 => 
+  2660 => 
   array (
     'id' => 133766,
     'name' => 'Salaya',
@@ -24652,7 +23950,7 @@ return array (
     'latitude' => 22.31038,
     'longitude' => 69.60376,
   ),
-  2739 => 
+  2661 => 
   array (
     'id' => 133767,
     'name' => 'Samastipur',
@@ -24661,7 +23959,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 85.91667,
   ),
-  2740 => 
+  2662 => 
   array (
     'id' => 133768,
     'name' => 'Samba',
@@ -24670,7 +23968,7 @@ return array (
     'latitude' => 32.57523,
     'longitude' => 75.10929,
   ),
-  2741 => 
+  2663 => 
   array (
     'id' => 133769,
     'name' => 'Sambalpur',
@@ -24679,7 +23977,7 @@ return array (
     'latitude' => 21.4,
     'longitude' => 83.88333,
   ),
-  2742 => 
+  2664 => 
   array (
     'id' => 133770,
     'name' => 'Sambhal',
@@ -24688,7 +23986,7 @@ return array (
     'latitude' => 28.58498,
     'longitude' => 78.56959,
   ),
-  2743 => 
+  2665 => 
   array (
     'id' => 133771,
     'name' => 'Samdari',
@@ -24697,7 +23995,7 @@ return array (
     'latitude' => 25.81299,
     'longitude' => 72.57879,
   ),
-  2744 => 
+  2666 => 
   array (
     'id' => 133772,
     'name' => 'Samrala',
@@ -24706,7 +24004,7 @@ return array (
     'latitude' => 30.83601,
     'longitude' => 76.19324,
   ),
-  2745 => 
+  2667 => 
   array (
     'id' => 133773,
     'name' => 'Samthar',
@@ -24715,7 +24013,7 @@ return array (
     'latitude' => 25.84348,
     'longitude' => 78.90683,
   ),
-  2746 => 
+  2668 => 
   array (
     'id' => 133774,
     'name' => 'Samalkha',
@@ -24724,7 +24022,7 @@ return array (
     'latitude' => 29.23552,
     'longitude' => 77.01273,
   ),
-  2747 => 
+  2669 => 
   array (
     'id' => 133776,
     'name' => 'Sanaur',
@@ -24733,7 +24031,7 @@ return array (
     'latitude' => 30.30182,
     'longitude' => 76.45786,
   ),
-  2748 => 
+  2670 => 
   array (
     'id' => 133777,
     'name' => 'Sancoale',
@@ -24742,7 +24040,7 @@ return array (
     'latitude' => 15.37794,
     'longitude' => 73.90352,
   ),
-  2749 => 
+  2671 => 
   array (
     'id' => 133778,
     'name' => 'Sandila',
@@ -24751,7 +24049,7 @@ return array (
     'latitude' => 27.06989,
     'longitude' => 80.51497,
   ),
-  2750 => 
+  2672 => 
   array (
     'id' => 133779,
     'name' => 'Sandur',
@@ -24760,7 +24058,7 @@ return array (
     'latitude' => 15.08613,
     'longitude' => 76.54692,
   ),
-  2751 => 
+  2673 => 
   array (
     'id' => 133780,
     'name' => 'Sangamner',
@@ -24769,7 +24067,7 @@ return array (
     'latitude' => 19.56784,
     'longitude' => 74.21154,
   ),
-  2752 => 
+  2674 => 
   array (
     'id' => 133781,
     'name' => 'Sangaria',
@@ -24778,7 +24076,7 @@ return array (
     'latitude' => 29.79886,
     'longitude' => 74.46683,
   ),
-  2753 => 
+  2675 => 
   array (
     'id' => 133782,
     'name' => 'Sangli',
@@ -24787,7 +24085,7 @@ return array (
     'latitude' => 17.11202,
     'longitude' => 74.7699,
   ),
-  2754 => 
+  2676 => 
   array (
     'id' => 133783,
     'name' => 'Sangod',
@@ -24796,7 +24094,7 @@ return array (
     'latitude' => 24.92707,
     'longitude' => 76.28649,
   ),
-  2755 => 
+  2677 => 
   array (
     'id' => 133785,
     'name' => 'Sangrur',
@@ -24805,7 +24103,7 @@ return array (
     'latitude' => 30.24506,
     'longitude' => 75.84488,
   ),
-  2756 => 
+  2678 => 
   array (
     'id' => 133786,
     'name' => 'Sanguem',
@@ -24814,7 +24112,7 @@ return array (
     'latitude' => 15.22901,
     'longitude' => 74.15149,
   ),
-  2757 => 
+  2679 => 
   array (
     'id' => 133787,
     'name' => 'Sangareddi',
@@ -24823,7 +24121,7 @@ return array (
     'latitude' => 17.62477,
     'longitude' => 78.08669,
   ),
-  2758 => 
+  2680 => 
   array (
     'id' => 133788,
     'name' => 'Sanivarsante',
@@ -24832,7 +24130,7 @@ return array (
     'latitude' => 12.72824,
     'longitude' => 75.88669,
   ),
-  2759 => 
+  2681 => 
   array (
     'id' => 133789,
     'name' => 'Sankeshwar',
@@ -24841,7 +24139,7 @@ return array (
     'latitude' => 16.25649,
     'longitude' => 74.48195,
   ),
-  2760 => 
+  2682 => 
   array (
     'id' => 133790,
     'name' => 'Sankheda',
@@ -24850,7 +24148,7 @@ return array (
     'latitude' => 22.17021,
     'longitude' => 73.5782,
   ),
-  2761 => 
+  2683 => 
   array (
     'id' => 133791,
     'name' => 'Sanquelim',
@@ -24859,7 +24157,7 @@ return array (
     'latitude' => 15.56422,
     'longitude' => 74.00799,
   ),
-  2762 => 
+  2684 => 
   array (
     'id' => 133792,
     'name' => 'Sant Kabir Nagar',
@@ -24868,7 +24166,7 @@ return array (
     'latitude' => 26.79016,
     'longitude' => 83.03481,
   ),
-  2763 => 
+  2685 => 
   array (
     'id' => 133793,
     'name' => 'Sant Ravi Das Nagar',
@@ -24877,7 +24175,7 @@ return array (
     'latitude' => 25.35792,
     'longitude' => 82.4308,
   ),
-  2764 => 
+  2686 => 
   array (
     'id' => 133794,
     'name' => 'Santokhgarh',
@@ -24886,7 +24184,7 @@ return array (
     'latitude' => 31.35205,
     'longitude' => 76.31775,
   ),
-  2765 => 
+  2687 => 
   array (
     'id' => 133795,
     'name' => 'Sanvordem',
@@ -24895,7 +24193,7 @@ return array (
     'latitude' => 15.26269,
     'longitude' => 74.11965,
   ),
-  2766 => 
+  2688 => 
   array (
     'id' => 133796,
     'name' => 'Sanawad',
@@ -24904,7 +24202,7 @@ return array (
     'latitude' => 22.17391,
     'longitude' => 76.06993,
   ),
-  2767 => 
+  2689 => 
   array (
     'id' => 133797,
     'name' => 'Saoner',
@@ -24913,7 +24211,7 @@ return array (
     'latitude' => 21.3851,
     'longitude' => 78.92155,
   ),
-  2768 => 
+  2690 => 
   array (
     'id' => 133798,
     'name' => 'Sapatgram',
@@ -24922,7 +24220,7 @@ return array (
     'latitude' => 26.33732,
     'longitude' => 90.1236,
   ),
-  2769 => 
+  2691 => 
   array (
     'id' => 133799,
     'name' => 'Sarai Ekdil',
@@ -24931,7 +24229,7 @@ return array (
     'latitude' => 26.74442,
     'longitude' => 79.09353,
   ),
-  2770 => 
+  2692 => 
   array (
     'id' => 133800,
     'name' => 'Saraikela',
@@ -24940,7 +24238,7 @@ return array (
     'latitude' => 22.69963,
     'longitude' => 85.93126,
   ),
-  2771 => 
+  2693 => 
   array (
     'id' => 133801,
     'name' => 'Saraipali',
@@ -24949,7 +24247,7 @@ return array (
     'latitude' => 21.3153,
     'longitude' => 83.00629,
   ),
-  2772 => 
+  2694 => 
   array (
     'id' => 133802,
     'name' => 'Sarauli',
@@ -24958,7 +24256,7 @@ return array (
     'latitude' => 28.49404,
     'longitude' => 79.09177,
   ),
-  2773 => 
+  2695 => 
   array (
     'id' => 133803,
     'name' => 'Sardhana',
@@ -24967,7 +24265,7 @@ return array (
     'latitude' => 29.14551,
     'longitude' => 77.61433,
   ),
-  2774 => 
+  2696 => 
   array (
     'id' => 133804,
     'name' => 'Sardulgarh',
@@ -24976,7 +24274,7 @@ return array (
     'latitude' => 29.69224,
     'longitude' => 75.23608,
   ),
-  2775 => 
+  2697 => 
   array (
     'id' => 133805,
     'name' => 'Sardarshahr',
@@ -24985,7 +24283,7 @@ return array (
     'latitude' => 28.44062,
     'longitude' => 74.491,
   ),
-  2776 => 
+  2698 => 
   array (
     'id' => 133806,
     'name' => 'Sargur',
@@ -24994,7 +24292,7 @@ return array (
     'latitude' => 11.99971,
     'longitude' => 76.39611,
   ),
-  2777 => 
+  2699 => 
   array (
     'id' => 133807,
     'name' => 'Sarka Ghat',
@@ -25003,7 +24301,7 @@ return array (
     'latitude' => 31.69887,
     'longitude' => 76.73529,
   ),
-  2778 => 
+  2700 => 
   array (
     'id' => 133808,
     'name' => 'Sarkhej',
@@ -25012,7 +24310,7 @@ return array (
     'latitude' => 22.98297,
     'longitude' => 72.50196,
   ),
-  2779 => 
+  2701 => 
   array (
     'id' => 133809,
     'name' => 'Sarupathar',
@@ -25021,7 +24319,7 @@ return array (
     'latitude' => 26.206,
     'longitude' => 96.81,
   ),
-  2780 => 
+  2702 => 
   array (
     'id' => 133810,
     'name' => 'Sarwar',
@@ -25030,7 +24328,7 @@ return array (
     'latitude' => 26.06272,
     'longitude' => 75.01104,
   ),
-  2781 => 
+  2703 => 
   array (
     'id' => 133811,
     'name' => 'Sarahan',
@@ -25039,7 +24337,7 @@ return array (
     'latitude' => 31.50988,
     'longitude' => 77.79395,
   ),
-  2782 => 
+  2704 => 
   array (
     'id' => 133812,
     'name' => 'Sarai Mir',
@@ -25048,7 +24346,7 @@ return array (
     'latitude' => 26.02705,
     'longitude' => 82.91843,
   ),
-  2783 => 
+  2705 => 
   array (
     'id' => 133813,
     'name' => 'Sarai Akil',
@@ -25057,7 +24355,7 @@ return array (
     'latitude' => 25.3789,
     'longitude' => 81.51035,
   ),
-  2784 => 
+  2706 => 
   array (
     'id' => 133814,
     'name' => 'Sarila',
@@ -25066,7 +24364,7 @@ return array (
     'latitude' => 25.77579,
     'longitude' => 79.67535,
   ),
-  2785 => 
+  2707 => 
   array (
     'id' => 133815,
     'name' => 'Satara',
@@ -25075,7 +24373,7 @@ return array (
     'latitude' => 17.68589,
     'longitude' => 73.99333,
   ),
-  2786 => 
+  2708 => 
   array (
     'id' => 133816,
     'name' => 'Satara Division',
@@ -25084,7 +24382,7 @@ return array (
     'latitude' => 17.72601,
     'longitude' => 74.06433,
   ),
-  2787 => 
+  2709 => 
   array (
     'id' => 133817,
     'name' => 'Sathankulam',
@@ -25093,7 +24391,7 @@ return array (
     'latitude' => 8.44164,
     'longitude' => 77.91349,
   ),
-  2788 => 
+  2710 => 
   array (
     'id' => 133818,
     'name' => 'Sathupalli',
@@ -25102,7 +24400,7 @@ return array (
     'latitude' => 17.24968,
     'longitude' => 80.86899,
   ),
-  2789 => 
+  2711 => 
   array (
     'id' => 133819,
     'name' => 'Sathyamangalam',
@@ -25111,7 +24409,7 @@ return array (
     'latitude' => 11.50526,
     'longitude' => 77.23826,
   ),
-  2790 => 
+  2712 => 
   array (
     'id' => 133820,
     'name' => 'Satna',
@@ -25120,7 +24418,7 @@ return array (
     'latitude' => 24.5,
     'longitude' => 81.0,
   ),
-  2791 => 
+  2713 => 
   array (
     'id' => 133821,
     'name' => 'Satrikh',
@@ -25129,7 +24427,7 @@ return array (
     'latitude' => 26.86045,
     'longitude' => 81.19567,
   ),
-  2792 => 
+  2714 => 
   array (
     'id' => 133822,
     'name' => 'Sattenapalle',
@@ -25138,7 +24436,7 @@ return array (
     'latitude' => 16.39381,
     'longitude' => 80.15221,
   ),
-  2793 => 
+  2715 => 
   array (
     'id' => 133823,
     'name' => 'Sattur',
@@ -25147,7 +24445,7 @@ return array (
     'latitude' => 9.35592,
     'longitude' => 77.92457,
   ),
-  2794 => 
+  2716 => 
   array (
     'id' => 133824,
     'name' => 'Satwas',
@@ -25156,7 +24454,7 @@ return array (
     'latitude' => 22.53628,
     'longitude' => 76.68452,
   ),
-  2795 => 
+  2717 => 
   array (
     'id' => 133825,
     'name' => 'Satana',
@@ -25165,7 +24463,7 @@ return array (
     'latitude' => 20.59483,
     'longitude' => 74.20301,
   ),
-  2796 => 
+  2718 => 
   array (
     'id' => 133826,
     'name' => 'Saugor',
@@ -25174,7 +24472,7 @@ return array (
     'latitude' => 23.83877,
     'longitude' => 78.73874,
   ),
-  2797 => 
+  2719 => 
   array (
     'id' => 133827,
     'name' => 'Saundatti',
@@ -25183,7 +24481,7 @@ return array (
     'latitude' => 15.76615,
     'longitude' => 75.11778,
   ),
-  2798 => 
+  2720 => 
   array (
     'id' => 133828,
     'name' => 'Saurikh',
@@ -25192,7 +24490,7 @@ return array (
     'latitude' => 27.03051,
     'longitude' => 79.48813,
   ),
-  2799 => 
+  2721 => 
   array (
     'id' => 133829,
     'name' => 'Sausar',
@@ -25201,7 +24499,7 @@ return array (
     'latitude' => 21.65576,
     'longitude' => 78.79669,
   ),
-  2800 => 
+  2722 => 
   array (
     'id' => 133830,
     'name' => 'Savanur',
@@ -25210,7 +24508,7 @@ return array (
     'latitude' => 14.97335,
     'longitude' => 75.33724,
   ),
-  2801 => 
+  2723 => 
   array (
     'id' => 133831,
     'name' => 'Savarkundla',
@@ -25219,7 +24517,7 @@ return array (
     'latitude' => 21.33726,
     'longitude' => 71.3035,
   ),
-  2802 => 
+  2724 => 
   array (
     'id' => 133832,
     'name' => 'Sawai Madhopur',
@@ -25228,7 +24526,7 @@ return array (
     'latitude' => 26.02301,
     'longitude' => 76.34408,
   ),
-  2803 => 
+  2725 => 
   array (
     'id' => 133833,
     'name' => 'Sector',
@@ -25237,7 +24535,7 @@ return array (
     'latitude' => 28.5708,
     'longitude' => 77.3261,
   ),
-  2804 => 
+  2726 => 
   array (
     'id' => 133834,
     'name' => 'Secunderabad',
@@ -25246,7 +24544,7 @@ return array (
     'latitude' => 17.50427,
     'longitude' => 78.54263,
   ),
-  2805 => 
+  2727 => 
   array (
     'id' => 133835,
     'name' => 'Sehore',
@@ -25255,7 +24553,7 @@ return array (
     'latitude' => 23.2,
     'longitude' => 77.08333,
   ),
-  2806 => 
+  2728 => 
   array (
     'id' => 133836,
     'name' => 'Selu',
@@ -25264,7 +24562,7 @@ return array (
     'latitude' => 19.45512,
     'longitude' => 76.44073,
   ),
-  2807 => 
+  2729 => 
   array (
     'id' => 133837,
     'name' => 'Senapati',
@@ -25273,7 +24571,7 @@ return array (
     'latitude' => 25.26705,
     'longitude' => 94.02237,
   ),
-  2808 => 
+  2730 => 
   array (
     'id' => 133838,
     'name' => 'Sendhwa',
@@ -25282,7 +24580,7 @@ return array (
     'latitude' => 21.68562,
     'longitude' => 75.09622,
   ),
-  2809 => 
+  2731 => 
   array (
     'id' => 133839,
     'name' => 'Seohara',
@@ -25291,7 +24589,7 @@ return array (
     'latitude' => 29.20904,
     'longitude' => 78.58837,
   ),
-  2810 => 
+  2732 => 
   array (
     'id' => 133840,
     'name' => 'Seondha',
@@ -25300,7 +24598,7 @@ return array (
     'latitude' => 26.15422,
     'longitude' => 78.7812,
   ),
-  2811 => 
+  2733 => 
   array (
     'id' => 133841,
     'name' => 'Seoni',
@@ -25309,16 +24607,7 @@ return array (
     'latitude' => 31.24188,
     'longitude' => 77.12362,
   ),
-  2812 => 
-  array (
-    'id' => 133842,
-    'name' => 'Seoni',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.08503,
-    'longitude' => 79.55037,
-  ),
-  2813 => 
+  2734 => 
   array (
     'id' => 133843,
     'name' => 'Seoni Malwa',
@@ -25327,7 +24616,7 @@ return array (
     'latitude' => 22.45046,
     'longitude' => 77.4665,
   ),
-  2814 => 
+  2735 => 
   array (
     'id' => 133845,
     'name' => 'Seorinarayan',
@@ -25336,7 +24625,7 @@ return array (
     'latitude' => 21.72055,
     'longitude' => 82.59344,
   ),
-  2815 => 
+  2736 => 
   array (
     'id' => 133846,
     'name' => 'Seram',
@@ -25345,7 +24634,7 @@ return array (
     'latitude' => 17.17859,
     'longitude' => 77.28998,
   ),
-  2816 => 
+  2737 => 
   array (
     'id' => 133847,
     'name' => 'Serchhip',
@@ -25354,7 +24643,7 @@ return array (
     'latitude' => 23.28172,
     'longitude' => 92.90039,
   ),
-  2817 => 
+  2738 => 
   array (
     'id' => 133849,
     'name' => 'Serilingampalle',
@@ -25363,7 +24652,7 @@ return array (
     'latitude' => 17.49313,
     'longitude' => 78.30196,
   ),
-  2818 => 
+  2739 => 
   array (
     'id' => 133850,
     'name' => 'Serula',
@@ -25372,7 +24661,7 @@ return array (
     'latitude' => 15.54774,
     'longitude' => 73.84329,
   ),
-  2819 => 
+  2740 => 
   array (
     'id' => 133851,
     'name' => 'Seven Pagodas',
@@ -25381,7 +24670,7 @@ return array (
     'latitude' => 12.62091,
     'longitude' => 80.19331,
   ),
-  2820 => 
+  2741 => 
   array (
     'id' => 133852,
     'name' => 'Shahbazpur',
@@ -25390,7 +24679,7 @@ return array (
     'latitude' => 26.30511,
     'longitude' => 87.28865,
   ),
-  2821 => 
+  2742 => 
   array (
     'id' => 133853,
     'name' => 'Shahdol',
@@ -25399,7 +24688,7 @@ return array (
     'latitude' => 23.5,
     'longitude' => 81.5,
   ),
-  2822 => 
+  2743 => 
   array (
     'id' => 133854,
     'name' => 'Shahid Bhagat Singh Nagar',
@@ -25408,7 +24697,7 @@ return array (
     'latitude' => 31.13183,
     'longitude' => 76.13328,
   ),
-  2823 => 
+  2744 => 
   array (
     'id' => 133855,
     'name' => 'Shamsabad',
@@ -25417,7 +24706,7 @@ return array (
     'latitude' => 27.01718,
     'longitude' => 78.12358,
   ),
-  2824 => 
+  2745 => 
   array (
     'id' => 133856,
     'name' => 'Shankargarh',
@@ -25426,7 +24715,7 @@ return array (
     'latitude' => 25.182,
     'longitude' => 81.61769,
   ),
-  2825 => 
+  2746 => 
   array (
     'id' => 133857,
     'name' => 'Shegaon',
@@ -25435,7 +24724,7 @@ return array (
     'latitude' => 20.7932,
     'longitude' => 76.69921,
   ),
-  2826 => 
+  2747 => 
   array (
     'id' => 133858,
     'name' => 'Sheikhpura',
@@ -25444,7 +24733,7 @@ return array (
     'latitude' => 25.13073,
     'longitude' => 85.78176,
   ),
-  2827 => 
+  2748 => 
   array (
     'id' => 133859,
     'name' => 'Sheoganj',
@@ -25453,7 +24742,7 @@ return array (
     'latitude' => 25.13915,
     'longitude' => 73.06784,
   ),
-  2828 => 
+  2749 => 
   array (
     'id' => 133860,
     'name' => 'Sheohar',
@@ -25462,7 +24751,7 @@ return array (
     'latitude' => 26.5,
     'longitude' => 85.3,
   ),
-  2829 => 
+  2750 => 
   array (
     'id' => 133861,
     'name' => 'Sheopur',
@@ -25471,7 +24760,7 @@ return array (
     'latitude' => 25.8,
     'longitude' => 77.0,
   ),
-  2830 => 
+  2751 => 
   array (
     'id' => 133862,
     'name' => 'Shergarh',
@@ -25480,7 +24769,7 @@ return array (
     'latitude' => 28.65128,
     'longitude' => 79.36815,
   ),
-  2831 => 
+  2752 => 
   array (
     'id' => 133863,
     'name' => 'Sherghati',
@@ -25489,7 +24778,7 @@ return array (
     'latitude' => 24.5595,
     'longitude' => 84.79162,
   ),
-  2832 => 
+  2753 => 
   array (
     'id' => 133864,
     'name' => 'Sherkot',
@@ -25498,7 +24787,7 @@ return array (
     'latitude' => 29.32704,
     'longitude' => 78.57429,
   ),
-  2833 => 
+  2754 => 
   array (
     'id' => 133865,
     'name' => 'Shertallai',
@@ -25507,7 +24796,7 @@ return array (
     'latitude' => 9.68581,
     'longitude' => 76.33996,
   ),
-  2834 => 
+  2755 => 
   array (
     'id' => 133866,
     'name' => 'Shiggaon',
@@ -25516,7 +24805,7 @@ return array (
     'latitude' => 14.99053,
     'longitude' => 75.22499,
   ),
-  2835 => 
+  2756 => 
   array (
     'id' => 133867,
     'name' => 'Shikohabad',
@@ -25525,7 +24814,7 @@ return array (
     'latitude' => 27.108,
     'longitude' => 78.58661,
   ),
-  2836 => 
+  2757 => 
   array (
     'id' => 133868,
     'name' => 'Shikarpur',
@@ -25534,16 +24823,7 @@ return array (
     'latitude' => 14.2698,
     'longitude' => 75.35643,
   ),
-  2837 => 
-  array (
-    'id' => 133869,
-    'name' => 'Shikarpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.28072,
-    'longitude' => 78.01411,
-  ),
-  2838 => 
+  2758 => 
   array (
     'id' => 133870,
     'name' => 'Shillong',
@@ -25552,7 +24832,7 @@ return array (
     'latitude' => 25.56892,
     'longitude' => 91.88313,
   ),
-  2839 => 
+  2759 => 
   array (
     'id' => 133871,
     'name' => 'Shimla',
@@ -25561,7 +24841,7 @@ return array (
     'latitude' => 31.16667,
     'longitude' => 77.58333,
   ),
-  2840 => 
+  2760 => 
   array (
     'id' => 133872,
     'name' => 'Shimoga',
@@ -25570,7 +24850,7 @@ return array (
     'latitude' => 14.05,
     'longitude' => 75.16,
   ),
-  2841 => 
+  2761 => 
   array (
     'id' => 133873,
     'name' => 'Shiraguppi',
@@ -25579,7 +24859,7 @@ return array (
     'latitude' => 16.61875,
     'longitude' => 74.70907,
   ),
-  2842 => 
+  2762 => 
   array (
     'id' => 133874,
     'name' => 'Shirdi',
@@ -25588,7 +24868,7 @@ return array (
     'latitude' => 19.76616,
     'longitude' => 74.47738,
   ),
-  2843 => 
+  2763 => 
   array (
     'id' => 133875,
     'name' => 'Shirgaon',
@@ -25597,7 +24877,7 @@ return array (
     'latitude' => 19.69589,
     'longitude' => 72.71527,
   ),
-  2844 => 
+  2764 => 
   array (
     'id' => 133876,
     'name' => 'Shirhatti',
@@ -25606,7 +24886,7 @@ return array (
     'latitude' => 15.23352,
     'longitude' => 75.57996,
   ),
-  2845 => 
+  2765 => 
   array (
     'id' => 133877,
     'name' => 'Shirpur',
@@ -25615,7 +24895,7 @@ return array (
     'latitude' => 21.34821,
     'longitude' => 74.88035,
   ),
-  2846 => 
+  2766 => 
   array (
     'id' => 133878,
     'name' => 'Shirwal',
@@ -25624,7 +24904,7 @@ return array (
     'latitude' => 18.15059,
     'longitude' => 73.97788,
   ),
-  2847 => 
+  2767 => 
   array (
     'id' => 133879,
     'name' => 'Shivaji Nagar',
@@ -25633,7 +24913,7 @@ return array (
     'latitude' => 18.53017,
     'longitude' => 73.85263,
   ),
-  2848 => 
+  2768 => 
   array (
     'id' => 133880,
     'name' => 'Shivpuri',
@@ -25642,7 +24922,7 @@ return array (
     'latitude' => 25.42378,
     'longitude' => 77.66223,
   ),
-  2849 => 
+  2769 => 
   array (
     'id' => 133882,
     'name' => 'Shivrajpur',
@@ -25651,7 +24931,7 @@ return array (
     'latitude' => 22.42319,
     'longitude' => 73.60865,
   ),
-  2850 => 
+  2770 => 
   array (
     'id' => 133883,
     'name' => 'Sholinghur',
@@ -25660,7 +24940,7 @@ return array (
     'latitude' => 13.1181,
     'longitude' => 79.42025,
   ),
-  2851 => 
+  2771 => 
   array (
     'id' => 133884,
     'name' => 'Shorapur',
@@ -25669,7 +24949,7 @@ return array (
     'latitude' => 16.521,
     'longitude' => 76.75738,
   ),
-  2852 => 
+  2772 => 
   array (
     'id' => 133885,
     'name' => 'Shrawasti',
@@ -25678,7 +24958,7 @@ return array (
     'latitude' => 27.50746,
     'longitude' => 82.0047,
   ),
-  2853 => 
+  2773 => 
   array (
     'id' => 133886,
     'name' => 'Shrigonda',
@@ -25687,7 +24967,7 @@ return array (
     'latitude' => 18.61527,
     'longitude' => 74.69895,
   ),
-  2854 => 
+  2774 => 
   array (
     'id' => 133887,
     'name' => 'Shrirangapattana',
@@ -25696,7 +24976,7 @@ return array (
     'latitude' => 12.42264,
     'longitude' => 76.68439,
   ),
-  2855 => 
+  2775 => 
   array (
     'id' => 133888,
     'name' => 'Shujalpur',
@@ -25705,7 +24985,7 @@ return array (
     'latitude' => 23.40673,
     'longitude' => 76.7098,
   ),
-  2856 => 
+  2776 => 
   array (
     'id' => 133889,
     'name' => 'Shupiyan',
@@ -25714,7 +24994,7 @@ return array (
     'latitude' => 33.73067,
     'longitude' => 74.81869,
   ),
-  2857 => 
+  2777 => 
   array (
     'id' => 133891,
     'name' => 'Shadipur Julana',
@@ -25723,7 +25003,7 @@ return array (
     'latitude' => 29.12368,
     'longitude' => 76.40516,
   ),
-  2858 => 
+  2778 => 
   array (
     'id' => 133892,
     'name' => 'Shahganj',
@@ -25732,7 +25012,7 @@ return array (
     'latitude' => 26.04965,
     'longitude' => 82.68423,
   ),
-  2859 => 
+  2779 => 
   array (
     'id' => 133893,
     'name' => 'Shahgarh',
@@ -25741,7 +25021,7 @@ return array (
     'latitude' => 24.31365,
     'longitude' => 79.11806,
   ),
-  2860 => 
+  2780 => 
   array (
     'id' => 133894,
     'name' => 'Shahi',
@@ -25750,7 +25030,7 @@ return array (
     'latitude' => 28.55023,
     'longitude' => 79.31761,
   ),
-  2861 => 
+  2781 => 
   array (
     'id' => 133895,
     'name' => 'Shahjahanpur',
@@ -25759,7 +25039,7 @@ return array (
     'latitude' => 28.0,
     'longitude' => 79.83333,
   ),
-  2862 => 
+  2782 => 
   array (
     'id' => 133897,
     'name' => 'Shahkot',
@@ -25768,7 +25048,7 @@ return array (
     'latitude' => 31.08173,
     'longitude' => 75.33708,
   ),
-  2863 => 
+  2783 => 
   array (
     'id' => 133898,
     'name' => 'Shahpur',
@@ -25777,43 +25057,7 @@ return array (
     'latitude' => 16.69605,
     'longitude' => 76.8422,
   ),
-  2864 => 
-  array (
-    'id' => 133899,
-    'name' => 'Shahpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 21.23742,
-    'longitude' => 76.22558,
-  ),
-  2865 => 
-  array (
-    'id' => 133900,
-    'name' => 'Shahpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.15611,
-    'longitude' => 70.77068,
-  ),
-  2866 => 
-  array (
-    'id' => 133901,
-    'name' => 'Shahpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 29.3501,
-    'longitude' => 77.5516,
-  ),
-  2867 => 
-  array (
-    'id' => 133902,
-    'name' => 'Shahpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.60293,
-    'longitude' => 84.40412,
-  ),
-  2868 => 
+  2784 => 
   array (
     'id' => 133903,
     'name' => 'Shahpura',
@@ -25822,16 +25066,7 @@ return array (
     'latitude' => 25.62094,
     'longitude' => 74.92487,
   ),
-  2869 => 
-  array (
-    'id' => 133904,
-    'name' => 'Shahpura',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.13663,
-    'longitude' => 79.66402,
-  ),
-  2870 => 
+  2785 => 
   array (
     'id' => 133905,
     'name' => 'Shahabad',
@@ -25840,25 +25075,7 @@ return array (
     'latitude' => 27.6431,
     'longitude' => 79.9402,
   ),
-  2871 => 
-  array (
-    'id' => 133906,
-    'name' => 'Shahabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.16776,
-    'longitude' => 76.87046,
-  ),
-  2872 => 
-  array (
-    'id' => 133907,
-    'name' => 'Shahabad',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 17.1307,
-    'longitude' => 76.94361,
-  ),
-  2873 => 
+  2786 => 
   array (
     'id' => 133908,
     'name' => 'Shahada',
@@ -25867,7 +25084,7 @@ return array (
     'latitude' => 21.54538,
     'longitude' => 74.47106,
   ),
-  2874 => 
+  2787 => 
   array (
     'id' => 133909,
     'name' => 'Shahapur',
@@ -25876,7 +25093,7 @@ return array (
     'latitude' => 19.45231,
     'longitude' => 73.32572,
   ),
-  2875 => 
+  2788 => 
   array (
     'id' => 133910,
     'name' => 'Shajapur',
@@ -25885,7 +25102,7 @@ return array (
     'latitude' => 23.5,
     'longitude' => 76.25,
   ),
-  2876 => 
+  2789 => 
   array (
     'id' => 133911,
     'name' => 'Sham Churasi',
@@ -25894,7 +25111,7 @@ return array (
     'latitude' => 31.50028,
     'longitude' => 75.74917,
   ),
-  2877 => 
+  2790 => 
   array (
     'id' => 133912,
     'name' => 'Shamgarh',
@@ -25903,7 +25120,7 @@ return array (
     'latitude' => 24.18817,
     'longitude' => 75.63903,
   ),
-  2878 => 
+  2791 => 
   array (
     'id' => 133913,
     'name' => 'Shamli',
@@ -25912,7 +25129,7 @@ return array (
     'latitude' => 29.4497,
     'longitude' => 77.30959,
   ),
-  2879 => 
+  2792 => 
   array (
     'id' => 133914,
     'name' => 'Shishgarh',
@@ -25921,7 +25138,7 @@ return array (
     'latitude' => 28.72928,
     'longitude' => 79.31469,
   ),
-  2880 => 
+  2793 => 
   array (
     'id' => 133915,
     'name' => 'Shoranur',
@@ -25930,7 +25147,7 @@ return array (
     'latitude' => 10.76181,
     'longitude' => 76.27078,
   ),
-  2881 => 
+  2794 => 
   array (
     'id' => 133916,
     'name' => 'Sibsagar',
@@ -25939,7 +25156,7 @@ return array (
     'latitude' => 26.98427,
     'longitude' => 94.63784,
   ),
-  2882 => 
+  2795 => 
   array (
     'id' => 133918,
     'name' => 'Siddharthnagar',
@@ -25948,7 +25165,7 @@ return array (
     'latitude' => 27.25797,
     'longitude' => 83.01465,
   ),
-  2883 => 
+  2796 => 
   array (
     'id' => 133919,
     'name' => 'Siddipet',
@@ -25957,7 +25174,7 @@ return array (
     'latitude' => 18.10483,
     'longitude' => 78.84858,
   ),
-  2884 => 
+  2797 => 
   array (
     'id' => 133920,
     'name' => 'Siddapur',
@@ -25966,7 +25183,7 @@ return array (
     'latitude' => 14.34322,
     'longitude' => 74.894,
   ),
-  2885 => 
+  2798 => 
   array (
     'id' => 133921,
     'name' => 'Sidhauli',
@@ -25975,7 +25192,7 @@ return array (
     'latitude' => 27.28202,
     'longitude' => 80.8345,
   ),
-  2886 => 
+  2799 => 
   array (
     'id' => 133922,
     'name' => 'Sidhi',
@@ -25984,7 +25201,7 @@ return array (
     'latitude' => 24.25,
     'longitude' => 82.0,
   ),
-  2887 => 
+  2800 => 
   array (
     'id' => 133923,
     'name' => 'Sidhpura',
@@ -25993,7 +25210,7 @@ return array (
     'latitude' => 27.63312,
     'longitude' => 78.86918,
   ),
-  2888 => 
+  2801 => 
   array (
     'id' => 133924,
     'name' => 'Sidlaghatta',
@@ -26002,7 +25219,7 @@ return array (
     'latitude' => 13.38896,
     'longitude' => 77.86444,
   ),
-  2889 => 
+  2802 => 
   array (
     'id' => 133925,
     'name' => 'Sihor',
@@ -26011,7 +25228,7 @@ return array (
     'latitude' => 21.71134,
     'longitude' => 71.96179,
   ),
-  2890 => 
+  2803 => 
   array (
     'id' => 133926,
     'name' => 'Sihora',
@@ -26020,7 +25237,7 @@ return array (
     'latitude' => 23.4871,
     'longitude' => 80.10404,
   ),
-  2891 => 
+  2804 => 
   array (
     'id' => 133927,
     'name' => 'Sijua',
@@ -26029,7 +25246,7 @@ return array (
     'latitude' => 23.77617,
     'longitude' => 86.33028,
   ),
-  2892 => 
+  2805 => 
   array (
     'id' => 133928,
     'name' => 'Sikandarpur',
@@ -26038,7 +25255,7 @@ return array (
     'latitude' => 26.04327,
     'longitude' => 84.05298,
   ),
-  2893 => 
+  2806 => 
   array (
     'id' => 133929,
     'name' => 'Sikandarabad',
@@ -26047,7 +25264,7 @@ return array (
     'latitude' => 28.45226,
     'longitude' => 77.70004,
   ),
-  2894 => 
+  2807 => 
   array (
     'id' => 133930,
     'name' => 'Sikandra',
@@ -26056,7 +25273,7 @@ return array (
     'latitude' => 26.36722,
     'longitude' => 79.6298,
   ),
-  2895 => 
+  2808 => 
   array (
     'id' => 133931,
     'name' => 'Sikandra Rao',
@@ -26065,7 +25282,7 @@ return array (
     'latitude' => 27.68859,
     'longitude' => 78.37985,
   ),
-  2896 => 
+  2809 => 
   array (
     'id' => 133932,
     'name' => 'Sikka',
@@ -26074,7 +25291,7 @@ return array (
     'latitude' => 22.43218,
     'longitude' => 69.84158,
   ),
-  2897 => 
+  2810 => 
   array (
     'id' => 133933,
     'name' => 'Silao',
@@ -26083,7 +25300,7 @@ return array (
     'latitude' => 25.08358,
     'longitude' => 85.42804,
   ),
-  2898 => 
+  2811 => 
   array (
     'id' => 133934,
     'name' => 'Silapathar',
@@ -26092,7 +25309,7 @@ return array (
     'latitude' => 27.59441,
     'longitude' => 94.72402,
   ),
-  2899 => 
+  2812 => 
   array (
     'id' => 133935,
     'name' => 'Silchar',
@@ -26101,7 +25318,7 @@ return array (
     'latitude' => 24.82733,
     'longitude' => 92.79787,
   ),
-  2900 => 
+  2813 => 
   array (
     'id' => 133936,
     'name' => 'Sillod',
@@ -26110,7 +25327,7 @@ return array (
     'latitude' => 20.30303,
     'longitude' => 75.65284,
   ),
-  2901 => 
+  2814 => 
   array (
     'id' => 133937,
     'name' => 'Silvassa',
@@ -26119,7 +25336,7 @@ return array (
     'latitude' => 20.27386,
     'longitude' => 72.99673,
   ),
-  2902 => 
+  2815 => 
   array (
     'id' => 133938,
     'name' => 'Simaria',
@@ -26128,7 +25345,7 @@ return array (
     'latitude' => 24.79497,
     'longitude' => 81.152,
   ),
-  2903 => 
+  2816 => 
   array (
     'id' => 133939,
     'name' => 'Simdega',
@@ -26137,7 +25354,7 @@ return array (
     'latitude' => 22.61523,
     'longitude' => 84.50208,
   ),
-  2904 => 
+  2817 => 
   array (
     'id' => 133940,
     'name' => 'Simga',
@@ -26146,7 +25363,7 @@ return array (
     'latitude' => 21.6281,
     'longitude' => 81.70376,
   ),
-  2905 => 
+  2818 => 
   array (
     'id' => 133941,
     'name' => 'Sindgi',
@@ -26155,7 +25372,7 @@ return array (
     'latitude' => 16.91883,
     'longitude' => 76.23368,
   ),
-  2906 => 
+  2819 => 
   array (
     'id' => 133942,
     'name' => 'Sindhnur',
@@ -26164,7 +25381,7 @@ return array (
     'latitude' => 15.76983,
     'longitude' => 76.75581,
   ),
-  2907 => 
+  2820 => 
   array (
     'id' => 133943,
     'name' => 'Sindhudurg',
@@ -26173,7 +25390,7 @@ return array (
     'latitude' => 16.17,
     'longitude' => 73.7,
   ),
-  2908 => 
+  2821 => 
   array (
     'id' => 133944,
     'name' => 'Sindi',
@@ -26182,7 +25399,7 @@ return array (
     'latitude' => 20.80509,
     'longitude' => 78.88752,
   ),
-  2909 => 
+  2822 => 
   array (
     'id' => 133945,
     'name' => 'Singapperumalkovil',
@@ -26191,7 +25408,7 @@ return array (
     'latitude' => 12.75947,
     'longitude' => 80.0075,
   ),
-  2910 => 
+  2823 => 
   array (
     'id' => 133946,
     'name' => 'Singarayakonda',
@@ -26200,7 +25417,7 @@ return array (
     'latitude' => 15.23046,
     'longitude' => 80.02794,
   ),
-  2911 => 
+  2824 => 
   array (
     'id' => 133947,
     'name' => 'Singoli',
@@ -26209,7 +25426,7 @@ return array (
     'latitude' => 24.96667,
     'longitude' => 75.3,
   ),
-  2912 => 
+  2825 => 
   array (
     'id' => 133948,
     'name' => 'Singrauli',
@@ -26218,7 +25435,7 @@ return array (
     'latitude' => 24.19973,
     'longitude' => 82.67535,
   ),
-  2913 => 
+  2826 => 
   array (
     'id' => 133949,
     'name' => 'Singtam',
@@ -26227,7 +25444,7 @@ return array (
     'latitude' => 27.23467,
     'longitude' => 88.50168,
   ),
-  2914 => 
+  2827 => 
   array (
     'id' => 133950,
     'name' => 'Singanallur',
@@ -26236,7 +25453,7 @@ return array (
     'latitude' => 10.99898,
     'longitude' => 77.03238,
   ),
-  2915 => 
+  2828 => 
   array (
     'id' => 133951,
     'name' => 'Singapur',
@@ -26245,7 +25462,7 @@ return array (
     'latitude' => 17.46982,
     'longitude' => 78.12574,
   ),
-  2916 => 
+  2829 => 
   array (
     'id' => 133952,
     'name' => 'Sini',
@@ -26254,7 +25471,7 @@ return array (
     'latitude' => 22.79325,
     'longitude' => 85.94543,
   ),
-  2917 => 
+  2830 => 
   array (
     'id' => 133953,
     'name' => 'Sinnar',
@@ -26263,7 +25480,7 @@ return array (
     'latitude' => 19.84505,
     'longitude' => 73.99866,
   ),
-  2918 => 
+  2831 => 
   array (
     'id' => 133954,
     'name' => 'Sinor',
@@ -26272,7 +25489,7 @@ return array (
     'latitude' => 21.91117,
     'longitude' => 73.33974,
   ),
-  2919 => 
+  2832 => 
   array (
     'id' => 133955,
     'name' => 'Sirhind-Fategarh',
@@ -26281,7 +25498,7 @@ return array (
     'latitude' => 30.64321,
     'longitude' => 76.38421,
   ),
-  2920 => 
+  2833 => 
   array (
     'id' => 133956,
     'name' => 'Sirmaur',
@@ -26290,16 +25507,7 @@ return array (
     'latitude' => 24.83648,
     'longitude' => 81.36448,
   ),
-  2921 => 
-  array (
-    'id' => 133957,
-    'name' => 'Sirmaur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.75,
-    'longitude' => 77.5,
-  ),
-  2922 => 
+  2834 => 
   array (
     'id' => 133958,
     'name' => 'Sirohi',
@@ -26308,7 +25516,7 @@ return array (
     'latitude' => 24.83333,
     'longitude' => 72.75,
   ),
-  2923 => 
+  2835 => 
   array (
     'id' => 133959,
     'name' => 'Sironj',
@@ -26317,7 +25525,7 @@ return array (
     'latitude' => 24.10313,
     'longitude' => 77.69055,
   ),
-  2924 => 
+  2836 => 
   array (
     'id' => 133960,
     'name' => 'Sirpur',
@@ -26326,7 +25534,7 @@ return array (
     'latitude' => 19.47953,
     'longitude' => 79.57558,
   ),
-  2925 => 
+  2837 => 
   array (
     'id' => 133961,
     'name' => 'Sirsa',
@@ -26335,7 +25543,7 @@ return array (
     'latitude' => 29.53489,
     'longitude' => 75.02898,
   ),
-  2926 => 
+  2838 => 
   array (
     'id' => 133962,
     'name' => 'Sirsi',
@@ -26344,16 +25552,7 @@ return array (
     'latitude' => 14.62072,
     'longitude' => 74.83554,
   ),
-  2927 => 
-  array (
-    'id' => 133963,
-    'name' => 'Sirsi',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 28.63916,
-    'longitude' => 78.64303,
-  ),
-  2928 => 
+  2839 => 
   array (
     'id' => 133964,
     'name' => 'Sirsilla',
@@ -26362,16 +25561,7 @@ return array (
     'latitude' => 18.38865,
     'longitude' => 78.81048,
   ),
-  2929 => 
-  array (
-    'id' => 133965,
-    'name' => 'Sirsa',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.2634,
-    'longitude' => 82.0919,
-  ),
-  2930 => 
+  2840 => 
   array (
     'id' => 133966,
     'name' => 'Sirsaganj',
@@ -26380,7 +25570,7 @@ return array (
     'latitude' => 27.05715,
     'longitude' => 78.68661,
   ),
-  2931 => 
+  2841 => 
   array (
     'id' => 133967,
     'name' => 'Siruguppa',
@@ -26389,7 +25579,7 @@ return array (
     'latitude' => 15.63,
     'longitude' => 76.89217,
   ),
-  2932 => 
+  2842 => 
   array (
     'id' => 133968,
     'name' => 'Sirumugai',
@@ -26398,7 +25588,7 @@ return array (
     'latitude' => 11.32137,
     'longitude' => 77.00521,
   ),
-  2933 => 
+  2843 => 
   array (
     'id' => 133969,
     'name' => 'Sirathu',
@@ -26407,7 +25597,7 @@ return array (
     'latitude' => 25.64292,
     'longitude' => 81.31855,
   ),
-  2934 => 
+  2844 => 
   array (
     'id' => 133970,
     'name' => 'Sirur',
@@ -26416,7 +25606,7 @@ return array (
     'latitude' => 18.8276,
     'longitude' => 74.37475,
   ),
-  2935 => 
+  2845 => 
   array (
     'id' => 133971,
     'name' => 'Sisauli',
@@ -26425,7 +25615,7 @@ return array (
     'latitude' => 29.41386,
     'longitude' => 77.4689,
   ),
-  2936 => 
+  2846 => 
   array (
     'id' => 133972,
     'name' => 'Siswa Bazar',
@@ -26434,7 +25624,7 @@ return array (
     'latitude' => 27.14652,
     'longitude' => 83.75803,
   ),
-  2937 => 
+  2847 => 
   array (
     'id' => 133973,
     'name' => 'Sitarganj',
@@ -26443,7 +25633,7 @@ return array (
     'latitude' => 28.9293,
     'longitude' => 79.70436,
   ),
-  2938 => 
+  2848 => 
   array (
     'id' => 133974,
     'name' => 'Sivaganga',
@@ -26452,7 +25642,7 @@ return array (
     'latitude' => 9.92762,
     'longitude' => 78.53763,
   ),
-  2939 => 
+  2849 => 
   array (
     'id' => 133975,
     'name' => 'Sivagiri',
@@ -26461,7 +25651,7 @@ return array (
     'latitude' => 9.34461,
     'longitude' => 77.42911,
   ),
-  2940 => 
+  2850 => 
   array (
     'id' => 133976,
     'name' => 'Sivakasi',
@@ -26470,7 +25660,7 @@ return array (
     'latitude' => 9.44999,
     'longitude' => 77.79797,
   ),
-  2941 => 
+  2851 => 
   array (
     'id' => 133977,
     'name' => 'Siwan',
@@ -26479,7 +25669,7 @@ return array (
     'latitude' => 26.22096,
     'longitude' => 84.35609,
   ),
-  2942 => 
+  2852 => 
   array (
     'id' => 133978,
     'name' => 'Siwana',
@@ -26488,7 +25678,7 @@ return array (
     'latitude' => 25.65154,
     'longitude' => 72.42243,
   ),
-  2943 => 
+  2853 => 
   array (
     'id' => 133979,
     'name' => 'Soalkuchi',
@@ -26497,7 +25687,7 @@ return array (
     'latitude' => 26.16806,
     'longitude' => 91.57111,
   ),
-  2944 => 
+  2854 => 
   array (
     'id' => 133980,
     'name' => 'Sohna',
@@ -26506,7 +25696,7 @@ return array (
     'latitude' => 28.24737,
     'longitude' => 77.06544,
   ),
-  2945 => 
+  2855 => 
   array (
     'id' => 133981,
     'name' => 'Sohagi',
@@ -26515,7 +25705,7 @@ return array (
     'latitude' => 24.98181,
     'longitude' => 81.69558,
   ),
-  2946 => 
+  2856 => 
   array (
     'id' => 133982,
     'name' => 'Sohagpur',
@@ -26524,7 +25714,7 @@ return array (
     'latitude' => 22.70055,
     'longitude' => 78.19522,
   ),
-  2947 => 
+  2857 => 
   array (
     'id' => 133983,
     'name' => 'Sojat',
@@ -26533,7 +25723,7 @@ return array (
     'latitude' => 25.92493,
     'longitude' => 73.66633,
   ),
-  2948 => 
+  2858 => 
   array (
     'id' => 133984,
     'name' => 'Sojitra',
@@ -26542,7 +25732,7 @@ return array (
     'latitude' => 22.53884,
     'longitude' => 72.71984,
   ),
-  2949 => 
+  2859 => 
   array (
     'id' => 133985,
     'name' => 'Solan',
@@ -26551,7 +25741,7 @@ return array (
     'latitude' => 31.08333,
     'longitude' => 76.83333,
   ),
-  2950 => 
+  2860 => 
   array (
     'id' => 133986,
     'name' => 'Solapur',
@@ -26560,7 +25750,7 @@ return array (
     'latitude' => 17.75,
     'longitude' => 75.5,
   ),
-  2951 => 
+  2861 => 
   array (
     'id' => 133987,
     'name' => 'Solim',
@@ -26569,7 +25759,7 @@ return array (
     'latitude' => 15.61521,
     'longitude' => 73.7674,
   ),
-  2952 => 
+  2862 => 
   array (
     'id' => 133989,
     'name' => 'Someshwar',
@@ -26578,7 +25768,7 @@ return array (
     'latitude' => 13.49112,
     'longitude' => 75.06646,
   ),
-  2953 => 
+  2863 => 
   array (
     'id' => 133990,
     'name' => 'Sompeta',
@@ -26587,7 +25777,7 @@ return array (
     'latitude' => 18.94419,
     'longitude' => 84.58449,
   ),
-  2954 => 
+  2864 => 
   array (
     'id' => 133991,
     'name' => 'Somvarpet',
@@ -26596,7 +25786,7 @@ return array (
     'latitude' => 12.59698,
     'longitude' => 75.84957,
   ),
-  2955 => 
+  2865 => 
   array (
     'id' => 133992,
     'name' => 'Sonbhadra',
@@ -26605,7 +25795,7 @@ return array (
     'latitude' => 24.40212,
     'longitude' => 83.05352,
   ),
-  2956 => 
+  2866 => 
   array (
     'id' => 133993,
     'name' => 'Sonegaon',
@@ -26614,7 +25804,7 @@ return array (
     'latitude' => 20.62915,
     'longitude' => 78.69207,
   ),
-  2957 => 
+  2867 => 
   array (
     'id' => 133994,
     'name' => 'Sonepur',
@@ -26623,7 +25813,7 @@ return array (
     'latitude' => 20.83333,
     'longitude' => 83.91667,
   ),
-  2958 => 
+  2868 => 
   array (
     'id' => 133995,
     'name' => 'Songadh',
@@ -26632,7 +25822,7 @@ return array (
     'latitude' => 21.16966,
     'longitude' => 73.56357,
   ),
-  2959 => 
+  2869 => 
   array (
     'id' => 133996,
     'name' => 'Sonitpur',
@@ -26641,7 +25831,7 @@ return array (
     'latitude' => 26.76748,
     'longitude' => 92.96425,
   ),
-  2960 => 
+  2870 => 
   array (
     'id' => 133997,
     'name' => 'Sonamura',
@@ -26650,7 +25840,7 @@ return array (
     'latitude' => 23.47547,
     'longitude' => 91.2659,
   ),
-  2961 => 
+  2871 => 
   array (
     'id' => 133998,
     'name' => 'Sonari',
@@ -26659,7 +25849,7 @@ return array (
     'latitude' => 27.02462,
     'longitude' => 95.01629,
   ),
-  2962 => 
+  2872 => 
   array (
     'id' => 133999,
     'name' => 'Sonipat',
@@ -26668,7 +25858,7 @@ return array (
     'latitude' => 29.0,
     'longitude' => 76.91667,
   ),
-  2963 => 
+  2873 => 
   array (
     'id' => 134000,
     'name' => 'Sopur',
@@ -26677,7 +25867,7 @@ return array (
     'latitude' => 34.28671,
     'longitude' => 74.47228,
   ),
-  2964 => 
+  2874 => 
   array (
     'id' => 134001,
     'name' => 'Sorab',
@@ -26686,7 +25876,7 @@ return array (
     'latitude' => 14.38144,
     'longitude' => 75.09183,
   ),
-  2965 => 
+  2875 => 
   array (
     'id' => 134002,
     'name' => 'Sorada',
@@ -26695,7 +25885,7 @@ return array (
     'latitude' => 19.76082,
     'longitude' => 84.42997,
   ),
-  2966 => 
+  2876 => 
   array (
     'id' => 134003,
     'name' => 'Sorbhog',
@@ -26704,7 +25894,7 @@ return array (
     'latitude' => 26.48612,
     'longitude' => 90.8859,
   ),
-  2967 => 
+  2877 => 
   array (
     'id' => 134004,
     'name' => 'Soro',
@@ -26713,7 +25903,7 @@ return array (
     'latitude' => 21.27851,
     'longitude' => 86.68833,
   ),
-  2968 => 
+  2878 => 
   array (
     'id' => 134005,
     'name' => 'Soron',
@@ -26722,7 +25912,7 @@ return array (
     'latitude' => 27.89055,
     'longitude' => 78.74621,
   ),
-  2969 => 
+  2879 => 
   array (
     'id' => 134006,
     'name' => 'South Andaman',
@@ -26731,7 +25921,7 @@ return array (
     'latitude' => 10.75776,
     'longitude' => 92.52136,
   ),
-  2970 => 
+  2880 => 
   array (
     'id' => 134007,
     'name' => 'South Delhi',
@@ -26740,7 +25930,7 @@ return array (
     'latitude' => 28.53009,
     'longitude' => 77.25174,
   ),
-  2971 => 
+  2881 => 
   array (
     'id' => 134008,
     'name' => 'South District',
@@ -26749,7 +25939,7 @@ return array (
     'latitude' => 27.33333,
     'longitude' => 88.41667,
   ),
-  2972 => 
+  2882 => 
   array (
     'id' => 134009,
     'name' => 'South Garo Hills',
@@ -26758,7 +25948,7 @@ return array (
     'latitude' => 25.30162,
     'longitude' => 90.5853,
   ),
-  2973 => 
+  2883 => 
   array (
     'id' => 134010,
     'name' => 'South Goa',
@@ -26767,7 +25957,7 @@ return array (
     'latitude' => 15.20425,
     'longitude' => 74.16733,
   ),
-  2974 => 
+  2884 => 
   array (
     'id' => 134011,
     'name' => 'South Tripura',
@@ -26776,7 +25966,7 @@ return array (
     'latitude' => 23.1671,
     'longitude' => 91.60953,
   ),
-  2975 => 
+  2885 => 
   array (
     'id' => 134012,
     'name' => 'South West Delhi',
@@ -26785,7 +25975,7 @@ return array (
     'latitude' => 28.5806,
     'longitude' => 77.0672,
   ),
-  2976 => 
+  2886 => 
   array (
     'id' => 134013,
     'name' => 'South West Garo Hills',
@@ -26794,7 +25984,7 @@ return array (
     'latitude' => 25.47245,
     'longitude' => 89.93399,
   ),
-  2977 => 
+  2887 => 
   array (
     'id' => 134014,
     'name' => 'South West Khasi Hills',
@@ -26803,7 +25993,7 @@ return array (
     'latitude' => 25.32155,
     'longitude' => 91.29462,
   ),
-  2978 => 
+  2888 => 
   array (
     'id' => 134015,
     'name' => 'Soygaon',
@@ -26812,7 +26002,7 @@ return array (
     'latitude' => 20.59606,
     'longitude' => 75.61765,
   ),
-  2979 => 
+  2889 => 
   array (
     'id' => 134016,
     'name' => 'Soyibug',
@@ -26821,7 +26011,7 @@ return array (
     'latitude' => 34.07677,
     'longitude' => 74.7057,
   ),
-  2980 => 
+  2890 => 
   array (
     'id' => 134017,
     'name' => 'Sri Dungargarh',
@@ -26830,7 +26020,7 @@ return array (
     'latitude' => 28.09617,
     'longitude' => 74.00868,
   ),
-  2981 => 
+  2891 => 
   array (
     'id' => 134018,
     'name' => 'Sri Madhopur',
@@ -26839,7 +26029,7 @@ return array (
     'latitude' => 27.46599,
     'longitude' => 75.59736,
   ),
-  2982 => 
+  2892 => 
   array (
     'id' => 134019,
     'name' => 'Srikakulam',
@@ -26848,7 +26038,7 @@ return array (
     'latitude' => 18.2989,
     'longitude' => 83.89751,
   ),
-  2983 => 
+  2893 => 
   array (
     'id' => 134020,
     'name' => 'Srinagar',
@@ -26857,7 +26047,7 @@ return array (
     'latitude' => 34.08565,
     'longitude' => 74.80555,
   ),
-  2984 => 
+  2894 => 
   array (
     'id' => 134021,
     'name' => 'Sringeri',
@@ -26866,7 +26056,7 @@ return array (
     'latitude' => 13.41698,
     'longitude' => 75.25271,
   ),
-  2985 => 
+  2895 => 
   array (
     'id' => 134022,
     'name' => 'Srivaikuntam',
@@ -26875,7 +26065,7 @@ return array (
     'latitude' => 8.62931,
     'longitude' => 77.91281,
   ),
-  2986 => 
+  2896 => 
   array (
     'id' => 134023,
     'name' => 'Srivilliputhur',
@@ -26884,7 +26074,7 @@ return array (
     'latitude' => 9.51272,
     'longitude' => 77.63369,
   ),
-  2987 => 
+  2897 => 
   array (
     'id' => 134024,
     'name' => 'Sravana Belgola',
@@ -26893,7 +26083,7 @@ return array (
     'latitude' => 12.85737,
     'longitude' => 76.48886,
   ),
-  2988 => 
+  2898 => 
   array (
     'id' => 134026,
     'name' => 'Srimushnam',
@@ -26902,16 +26092,7 @@ return array (
     'latitude' => 11.40118,
     'longitude' => 79.40384,
   ),
-  2989 => 
-  array (
-    'id' => 134027,
-    'name' => 'Srinagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 30.22243,
-    'longitude' => 78.78341,
-  ),
-  2990 => 
+  2899 => 
   array (
     'id' => 134029,
     'name' => 'Srinivaspur',
@@ -26920,7 +26101,7 @@ return array (
     'latitude' => 13.33914,
     'longitude' => 78.21175,
   ),
-  2991 => 
+  2900 => 
   array (
     'id' => 134030,
     'name' => 'Sriperumbudur',
@@ -26929,7 +26110,7 @@ return array (
     'latitude' => 12.96763,
     'longitude' => 79.94197,
   ),
-  2992 => 
+  2901 => 
   array (
     'id' => 134031,
     'name' => 'Sriramnagar',
@@ -26938,7 +26119,7 @@ return array (
     'latitude' => 17.26652,
     'longitude' => 78.25544,
   ),
-  2993 => 
+  2902 => 
   array (
     'id' => 134032,
     'name' => 'Srisailain',
@@ -26947,7 +26128,7 @@ return array (
     'latitude' => 16.07217,
     'longitude' => 78.86816,
   ),
-  2994 => 
+  2903 => 
   array (
     'id' => 134033,
     'name' => 'Srivardhan',
@@ -26956,7 +26137,7 @@ return array (
     'latitude' => 18.04592,
     'longitude' => 73.01552,
   ),
-  2995 => 
+  2904 => 
   array (
     'id' => 134034,
     'name' => 'Subarnapur',
@@ -26965,7 +26146,7 @@ return array (
     'latitude' => 20.93154,
     'longitude' => 83.82486,
   ),
-  2996 => 
+  2905 => 
   array (
     'id' => 134035,
     'name' => 'Suchindram',
@@ -26974,7 +26155,7 @@ return array (
     'latitude' => 8.15442,
     'longitude' => 77.46704,
   ),
-  2997 => 
+  2906 => 
   array (
     'id' => 134036,
     'name' => 'Suket',
@@ -26983,7 +26164,7 @@ return array (
     'latitude' => 24.64609,
     'longitude' => 76.0417,
   ),
-  2998 => 
+  2907 => 
   array (
     'id' => 134037,
     'name' => 'Sultanpur Lodhi',
@@ -26992,7 +26173,7 @@ return array (
     'latitude' => 31.21468,
     'longitude' => 75.19602,
   ),
-  2999 => 
+  2908 => 
   array (
     'id' => 134038,
     'name' => 'Sultanpur',
@@ -27001,25 +26182,7 @@ return array (
     'latitude' => 29.75534,
     'longitude' => 78.11034,
   ),
-  3000 => 
-  array (
-    'id' => 134039,
-    'name' => 'Sultanpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.13812,
-    'longitude' => 77.93404,
-  ),
-  3001 => 
-  array (
-    'id' => 134040,
-    'name' => 'Sultanpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.25,
-    'longitude' => 82.0,
-  ),
-  3002 => 
+  2909 => 
   array (
     'id' => 134041,
     'name' => 'Sulur',
@@ -27028,7 +26191,7 @@ return array (
     'latitude' => 11.02427,
     'longitude' => 77.12565,
   ),
-  3003 => 
+  2910 => 
   array (
     'id' => 134042,
     'name' => 'Sulya',
@@ -27037,7 +26200,7 @@ return array (
     'latitude' => 12.561,
     'longitude' => 75.38741,
   ),
-  3004 => 
+  2911 => 
   array (
     'id' => 134043,
     'name' => 'Sumbal',
@@ -27046,7 +26209,7 @@ return array (
     'latitude' => 34.23072,
     'longitude' => 74.6472,
   ),
-  3005 => 
+  2912 => 
   array (
     'id' => 134044,
     'name' => 'Sundargarh',
@@ -27055,7 +26218,7 @@ return array (
     'latitude' => 22.25,
     'longitude' => 84.5,
   ),
-  3006 => 
+  2913 => 
   array (
     'id' => 134045,
     'name' => 'Sundarnagar',
@@ -27064,7 +26227,7 @@ return array (
     'latitude' => 31.53523,
     'longitude' => 76.905,
   ),
-  3007 => 
+  2914 => 
   array (
     'id' => 134046,
     'name' => 'Sunel',
@@ -27073,7 +26236,7 @@ return array (
     'latitude' => 24.37065,
     'longitude' => 75.95708,
   ),
-  3008 => 
+  2915 => 
   array (
     'id' => 134047,
     'name' => 'Suntikoppa',
@@ -27082,7 +26245,7 @@ return array (
     'latitude' => 12.45594,
     'longitude' => 75.8297,
   ),
-  3009 => 
+  2916 => 
   array (
     'id' => 134048,
     'name' => 'Sunam',
@@ -27091,7 +26254,7 @@ return array (
     'latitude' => 30.12883,
     'longitude' => 75.79943,
   ),
-  3010 => 
+  2917 => 
   array (
     'id' => 134049,
     'name' => 'Supaul',
@@ -27100,7 +26263,7 @@ return array (
     'latitude' => 26.25,
     'longitude' => 86.8,
   ),
-  3011 => 
+  2918 => 
   array (
     'id' => 134050,
     'name' => 'Surendranagar',
@@ -27109,7 +26272,7 @@ return array (
     'latitude' => 22.72706,
     'longitude' => 71.64856,
   ),
-  3012 => 
+  2919 => 
   array (
     'id' => 134051,
     'name' => 'Surguja',
@@ -27118,7 +26281,7 @@ return array (
     'latitude' => 22.89624,
     'longitude' => 83.09631,
   ),
-  3013 => 
+  2920 => 
   array (
     'id' => 134052,
     'name' => 'Surgana',
@@ -27127,7 +26290,7 @@ return array (
     'latitude' => 20.55956,
     'longitude' => 73.63747,
   ),
-  3014 => 
+  2921 => 
   array (
     'id' => 134053,
     'name' => 'Surianwan',
@@ -27136,7 +26299,7 @@ return array (
     'latitude' => 25.46387,
     'longitude' => 82.41922,
   ),
-  3015 => 
+  2922 => 
   array (
     'id' => 134054,
     'name' => 'Suriapet',
@@ -27145,7 +26308,7 @@ return array (
     'latitude' => 17.14054,
     'longitude' => 79.62045,
   ),
-  3016 => 
+  2923 => 
   array (
     'id' => 134055,
     'name' => 'Susner',
@@ -27154,7 +26317,7 @@ return array (
     'latitude' => 23.94667,
     'longitude' => 76.08825,
   ),
-  3017 => 
+  2924 => 
   array (
     'id' => 134056,
     'name' => 'Suar',
@@ -27163,7 +26326,7 @@ return array (
     'latitude' => 29.02841,
     'longitude' => 79.05654,
   ),
-  3018 => 
+  2925 => 
   array (
     'id' => 134057,
     'name' => 'Swamimalai',
@@ -27172,7 +26335,7 @@ return array (
     'latitude' => 10.95747,
     'longitude' => 79.32931,
   ),
-  3019 => 
+  2926 => 
   array (
     'id' => 134058,
     'name' => 'Sadri',
@@ -27181,7 +26344,7 @@ return array (
     'latitude' => 25.18555,
     'longitude' => 73.45288,
   ),
-  3020 => 
+  2927 => 
   array (
     'id' => 134059,
     'name' => 'Sadat',
@@ -27190,7 +26353,7 @@ return array (
     'latitude' => 25.67117,
     'longitude' => 83.30269,
   ),
-  3021 => 
+  2928 => 
   array (
     'id' => 134060,
     'name' => 'Sagar',
@@ -27199,16 +26362,7 @@ return array (
     'latitude' => 14.16498,
     'longitude' => 75.02901,
   ),
-  3022 => 
-  array (
-    'id' => 134061,
-    'name' => 'Sagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.75,
-    'longitude' => 78.75,
-  ),
-  3023 => 
+  2929 => 
   array (
     'id' => 134063,
     'name' => 'Saitlaw',
@@ -27217,7 +26371,7 @@ return array (
     'latitude' => 23.97187,
     'longitude' => 92.57454,
   ),
-  3024 => 
+  2930 => 
   array (
     'id' => 134064,
     'name' => 'Salumbar',
@@ -27226,7 +26380,7 @@ return array (
     'latitude' => 24.13524,
     'longitude' => 74.04442,
   ),
-  3025 => 
+  2931 => 
   array (
     'id' => 134065,
     'name' => 'Salur',
@@ -27235,7 +26389,7 @@ return array (
     'latitude' => 18.51716,
     'longitude' => 83.20548,
   ),
-  3026 => 
+  2932 => 
   array (
     'id' => 134066,
     'name' => 'Samalkot',
@@ -27244,7 +26398,7 @@ return array (
     'latitude' => 17.05675,
     'longitude' => 82.17639,
   ),
-  3027 => 
+  2933 => 
   array (
     'id' => 134068,
     'name' => 'Sambhar',
@@ -27253,7 +26407,7 @@ return array (
     'latitude' => 26.90806,
     'longitude' => 75.19137,
   ),
-  3028 => 
+  2934 => 
   array (
     'id' => 134069,
     'name' => 'Sanand',
@@ -27262,7 +26416,7 @@ return array (
     'latitude' => 22.99227,
     'longitude' => 72.38177,
   ),
-  3029 => 
+  2935 => 
   array (
     'id' => 134070,
     'name' => 'Sanchi',
@@ -27271,7 +26425,7 @@ return array (
     'latitude' => 23.48646,
     'longitude' => 77.7378,
   ),
-  3030 => 
+  2936 => 
   array (
     'id' => 134071,
     'name' => 'Sanchor',
@@ -27280,7 +26434,7 @@ return array (
     'latitude' => 24.75361,
     'longitude' => 71.7728,
   ),
-  3031 => 
+  2937 => 
   array (
     'id' => 134072,
     'name' => 'Sandi',
@@ -27289,7 +26443,7 @@ return array (
     'latitude' => 27.28867,
     'longitude' => 79.9519,
   ),
-  3032 => 
+  2938 => 
   array (
     'id' => 134074,
     'name' => 'Sangola',
@@ -27298,7 +26452,7 @@ return array (
     'latitude' => 17.43948,
     'longitude' => 75.19379,
   ),
-  3033 => 
+  2939 => 
   array (
     'id' => 134075,
     'name' => 'Sanwer',
@@ -27307,7 +26461,7 @@ return array (
     'latitude' => 22.97415,
     'longitude' => 75.8271,
   ),
-  3034 => 
+  2940 => 
   array (
     'id' => 134076,
     'name' => 'Saran',
@@ -27316,7 +26470,7 @@ return array (
     'latitude' => 25.91667,
     'longitude' => 84.75,
   ),
-  3035 => 
+  2941 => 
   array (
     'id' => 134077,
     'name' => 'Sarangarh',
@@ -27325,7 +26479,7 @@ return array (
     'latitude' => 21.58614,
     'longitude' => 83.0785,
   ),
-  3036 => 
+  2942 => 
   array (
     'id' => 134078,
     'name' => 'Sarangpur',
@@ -27334,7 +26488,7 @@ return array (
     'latitude' => 23.56651,
     'longitude' => 76.47306,
   ),
-  3037 => 
+  2943 => 
   array (
     'id' => 134079,
     'name' => 'Sarubera',
@@ -27343,7 +26497,7 @@ return array (
     'latitude' => 23.81813,
     'longitude' => 85.99628,
   ),
-  3038 => 
+  2944 => 
   array (
     'id' => 134080,
     'name' => 'Sasni',
@@ -27352,7 +26506,7 @@ return array (
     'latitude' => 27.70287,
     'longitude' => 78.08278,
   ),
-  3039 => 
+  2945 => 
   array (
     'id' => 134082,
     'name' => 'Savantvadi',
@@ -27361,7 +26515,7 @@ return array (
     'latitude' => 15.90413,
     'longitude' => 73.82191,
   ),
-  3040 => 
+  2946 => 
   array (
     'id' => 134083,
     'name' => 'Savda',
@@ -27370,7 +26524,7 @@ return array (
     'latitude' => 21.15054,
     'longitude' => 75.88938,
   ),
-  3041 => 
+  2947 => 
   array (
     'id' => 134084,
     'name' => 'Sayalkudi',
@@ -27379,7 +26533,7 @@ return array (
     'latitude' => 9.16925,
     'longitude' => 78.44702,
   ),
-  3042 => 
+  2948 => 
   array (
     'id' => 134085,
     'name' => 'Sayla',
@@ -27388,7 +26542,7 @@ return array (
     'latitude' => 22.54925,
     'longitude' => 71.48324,
   ),
-  3043 => 
+  2949 => 
   array (
     'id' => 134086,
     'name' => 'Sikar',
@@ -27397,7 +26551,7 @@ return array (
     'latitude' => 27.61206,
     'longitude' => 75.13996,
   ),
-  3044 => 
+  2950 => 
   array (
     'id' => 134087,
     'name' => 'Sira',
@@ -27406,7 +26560,7 @@ return array (
     'latitude' => 13.74155,
     'longitude' => 76.9043,
   ),
-  3045 => 
+  2951 => 
   array (
     'id' => 134088,
     'name' => 'Sirkazhi',
@@ -27415,7 +26569,7 @@ return array (
     'latitude' => 11.23725,
     'longitude' => 79.73585,
   ),
-  3046 => 
+  2952 => 
   array (
     'id' => 134089,
     'name' => 'Sitamarhi',
@@ -27424,7 +26578,7 @@ return array (
     'latitude' => 26.66667,
     'longitude' => 85.5,
   ),
-  3047 => 
+  2953 => 
   array (
     'id' => 134090,
     'name' => 'Sitamau',
@@ -27433,7 +26587,7 @@ return array (
     'latitude' => 24.01473,
     'longitude' => 75.35324,
   ),
-  3048 => 
+  2954 => 
   array (
     'id' => 134091,
     'name' => 'Sitapur',
@@ -27442,7 +26596,7 @@ return array (
     'latitude' => 27.5,
     'longitude' => 80.91667,
   ),
-  3049 => 
+  2955 => 
   array (
     'id' => 134092,
     'name' => 'Sujangarh',
@@ -27451,7 +26605,7 @@ return array (
     'latitude' => 27.7,
     'longitude' => 74.46667,
   ),
-  3050 => 
+  2956 => 
   array (
     'id' => 134093,
     'name' => 'Suluru',
@@ -27460,7 +26614,7 @@ return array (
     'latitude' => 13.7,
     'longitude' => 80.01667,
   ),
-  3051 => 
+  2957 => 
   array (
     'id' => 134094,
     'name' => 'Surajgarh',
@@ -27469,7 +26623,7 @@ return array (
     'latitude' => 28.31005,
     'longitude' => 75.73271,
   ),
-  3052 => 
+  2958 => 
   array (
     'id' => 134095,
     'name' => 'Surandai',
@@ -27478,7 +26632,7 @@ return array (
     'latitude' => 8.97574,
     'longitude' => 77.41923,
   ),
-  3053 => 
+  2959 => 
   array (
     'id' => 134096,
     'name' => 'Surat',
@@ -27487,7 +26641,7 @@ return array (
     'latitude' => 21.17801,
     'longitude' => 72.81189,
   ),
-  3054 => 
+  2960 => 
   array (
     'id' => 134097,
     'name' => 'Suratgarh',
@@ -27496,7 +26650,7 @@ return array (
     'latitude' => 29.3215,
     'longitude' => 73.89979,
   ),
-  3055 => 
+  2961 => 
   array (
     'id' => 134098,
     'name' => 'Takhatgarh',
@@ -27505,7 +26659,7 @@ return array (
     'latitude' => 25.32235,
     'longitude' => 73.00487,
   ),
-  3056 => 
+  2962 => 
   array (
     'id' => 134099,
     'name' => 'Takhatpur',
@@ -27514,7 +26668,7 @@ return array (
     'latitude' => 22.12915,
     'longitude' => 81.86959,
   ),
-  3057 => 
+  2963 => 
   array (
     'id' => 134100,
     'name' => 'Talegaon Dabhade',
@@ -27523,7 +26677,7 @@ return array (
     'latitude' => 18.73502,
     'longitude' => 73.67561,
   ),
-  3058 => 
+  2964 => 
   array (
     'id' => 134101,
     'name' => 'Taleigao',
@@ -27532,7 +26686,7 @@ return array (
     'latitude' => 15.46915,
     'longitude' => 73.83285,
   ),
-  3059 => 
+  2965 => 
   array (
     'id' => 134102,
     'name' => 'Talen',
@@ -27541,7 +26695,7 @@ return array (
     'latitude' => 23.56949,
     'longitude' => 76.72821,
   ),
-  3060 => 
+  2966 => 
   array (
     'id' => 134103,
     'name' => 'Taliparamba',
@@ -27550,7 +26704,7 @@ return array (
     'latitude' => 12.04161,
     'longitude' => 75.35927,
   ),
-  3061 => 
+  2967 => 
   array (
     'id' => 134104,
     'name' => 'Taloda',
@@ -27559,7 +26713,7 @@ return array (
     'latitude' => 21.56128,
     'longitude' => 74.21238,
   ),
-  3062 => 
+  2968 => 
   array (
     'id' => 134105,
     'name' => 'Talwandi Bhai',
@@ -27568,7 +26722,7 @@ return array (
     'latitude' => 30.85584,
     'longitude' => 74.92979,
   ),
-  3063 => 
+  2969 => 
   array (
     'id' => 134106,
     'name' => 'Talwara',
@@ -27577,7 +26731,7 @@ return array (
     'latitude' => 31.9376,
     'longitude' => 75.88657,
   ),
-  3064 => 
+  2970 => 
   array (
     'id' => 134107,
     'name' => 'Talaja',
@@ -27586,7 +26740,7 @@ return array (
     'latitude' => 21.3527,
     'longitude' => 72.03524,
   ),
-  3065 => 
+  2971 => 
   array (
     'id' => 134108,
     'name' => 'Tambaram',
@@ -27595,7 +26749,7 @@ return array (
     'latitude' => 12.9246,
     'longitude' => 80.12707,
   ),
-  3066 => 
+  2972 => 
   array (
     'id' => 134109,
     'name' => 'Tamenglong',
@@ -27604,7 +26758,7 @@ return array (
     'latitude' => 24.97548,
     'longitude' => 93.51563,
   ),
-  3067 => 
+  2973 => 
   array (
     'id' => 134110,
     'name' => 'Tanakpur',
@@ -27613,7 +26767,7 @@ return array (
     'latitude' => 29.074,
     'longitude' => 80.11139,
   ),
-  3068 => 
+  2974 => 
   array (
     'id' => 134111,
     'name' => 'Tanjore',
@@ -27622,7 +26776,7 @@ return array (
     'latitude' => 10.78523,
     'longitude' => 79.13909,
   ),
-  3069 => 
+  2975 => 
   array (
     'id' => 134112,
     'name' => 'Tankara',
@@ -27631,7 +26785,7 @@ return array (
     'latitude' => 22.65622,
     'longitude' => 70.74945,
   ),
-  3070 => 
+  2976 => 
   array (
     'id' => 134113,
     'name' => 'Tanuku',
@@ -27640,7 +26794,7 @@ return array (
     'latitude' => 16.75438,
     'longitude' => 81.68143,
   ),
-  3071 => 
+  2977 => 
   array (
     'id' => 134114,
     'name' => 'Tapi',
@@ -27649,7 +26803,7 @@ return array (
     'latitude' => 21.12,
     'longitude' => 73.4,
   ),
-  3072 => 
+  2978 => 
   array (
     'id' => 134115,
     'name' => 'Tarabha',
@@ -27658,7 +26812,7 @@ return array (
     'latitude' => 20.73252,
     'longitude' => 83.67443,
   ),
-  3073 => 
+  2979 => 
   array (
     'id' => 134116,
     'name' => 'Tarikere',
@@ -27667,7 +26821,7 @@ return array (
     'latitude' => 13.70954,
     'longitude' => 75.81382,
   ),
-  3074 => 
+  2980 => 
   array (
     'id' => 134118,
     'name' => 'Tarn Taran Sahib',
@@ -27676,7 +26830,7 @@ return array (
     'latitude' => 31.45191,
     'longitude' => 74.92777,
   ),
-  3075 => 
+  2981 => 
   array (
     'id' => 134119,
     'name' => 'Tarana',
@@ -27685,7 +26839,7 @@ return array (
     'latitude' => 23.33383,
     'longitude' => 76.04253,
   ),
-  3076 => 
+  2982 => 
   array (
     'id' => 134120,
     'name' => 'Tawang',
@@ -27694,7 +26848,7 @@ return array (
     'latitude' => 27.57417,
     'longitude' => 91.92437,
   ),
-  3077 => 
+  2983 => 
   array (
     'id' => 134121,
     'name' => 'Teghra',
@@ -27703,7 +26857,7 @@ return array (
     'latitude' => 25.49043,
     'longitude' => 85.94001,
   ),
-  3078 => 
+  2984 => 
   array (
     'id' => 134122,
     'name' => 'Tehri',
@@ -27712,7 +26866,7 @@ return array (
     'latitude' => 30.39086,
     'longitude' => 78.4803,
   ),
-  3079 => 
+  2985 => 
   array (
     'id' => 134123,
     'name' => 'Tehri-Garhwal',
@@ -27721,7 +26875,7 @@ return array (
     'latitude' => 30.5,
     'longitude' => 78.66667,
   ),
-  3080 => 
+  2986 => 
   array (
     'id' => 134124,
     'name' => 'Tekanpur',
@@ -27730,7 +26884,7 @@ return array (
     'latitude' => 25.99401,
     'longitude' => 78.28322,
   ),
-  3081 => 
+  2987 => 
   array (
     'id' => 134125,
     'name' => 'Tekkalakote',
@@ -27739,7 +26893,7 @@ return array (
     'latitude' => 15.53444,
     'longitude' => 76.87703,
   ),
-  3082 => 
+  2988 => 
   array (
     'id' => 134126,
     'name' => 'Tekkali',
@@ -27748,7 +26902,7 @@ return array (
     'latitude' => 18.6057,
     'longitude' => 84.23546,
   ),
-  3083 => 
+  2989 => 
   array (
     'id' => 134127,
     'name' => 'Tekari',
@@ -27757,7 +26911,7 @@ return array (
     'latitude' => 24.94253,
     'longitude' => 84.84265,
   ),
-  3084 => 
+  2990 => 
   array (
     'id' => 134128,
     'name' => 'Telhara',
@@ -27766,7 +26920,7 @@ return array (
     'latitude' => 21.02694,
     'longitude' => 76.83889,
   ),
-  3085 => 
+  2991 => 
   array (
     'id' => 134129,
     'name' => 'Thalassery',
@@ -27775,7 +26929,7 @@ return array (
     'latitude' => 11.74811,
     'longitude' => 75.4929,
   ),
-  3086 => 
+  2992 => 
   array (
     'id' => 134130,
     'name' => 'Tendukheda',
@@ -27784,7 +26938,7 @@ return array (
     'latitude' => 23.3962,
     'longitude' => 79.53947,
   ),
-  3087 => 
+  2993 => 
   array (
     'id' => 134132,
     'name' => 'Teonthar',
@@ -27793,7 +26947,7 @@ return array (
     'latitude' => 24.98207,
     'longitude' => 81.64194,
   ),
-  3088 => 
+  2994 => 
   array (
     'id' => 134133,
     'name' => 'Terdal',
@@ -27802,7 +26956,7 @@ return array (
     'latitude' => 16.49379,
     'longitude' => 75.04667,
   ),
-  3089 => 
+  2995 => 
   array (
     'id' => 134134,
     'name' => 'Tezpur',
@@ -27811,7 +26965,7 @@ return array (
     'latitude' => 26.63333,
     'longitude' => 92.8,
   ),
-  3090 => 
+  2996 => 
   array (
     'id' => 134135,
     'name' => 'Tezu',
@@ -27820,7 +26974,7 @@ return array (
     'latitude' => 27.91256,
     'longitude' => 96.12882,
   ),
-  3091 => 
+  2997 => 
   array (
     'id' => 134136,
     'name' => 'Thakurdwara',
@@ -27829,7 +26983,7 @@ return array (
     'latitude' => 29.19203,
     'longitude' => 78.86145,
   ),
-  3092 => 
+  2998 => 
   array (
     'id' => 134137,
     'name' => 'Thandla',
@@ -27838,7 +26992,7 @@ return array (
     'latitude' => 23.00959,
     'longitude' => 74.57747,
   ),
-  3093 => 
+  2999 => 
   array (
     'id' => 134138,
     'name' => 'Thane',
@@ -27847,7 +27001,7 @@ return array (
     'latitude' => 19.33333,
     'longitude' => 73.25,
   ),
-  3094 => 
+  3000 => 
   array (
     'id' => 134139,
     'name' => 'Thang',
@@ -27856,7 +27010,7 @@ return array (
     'latitude' => 34.9274,
     'longitude' => 76.79336,
   ),
-  3095 => 
+  3001 => 
   array (
     'id' => 134140,
     'name' => 'Thanjavur',
@@ -27865,7 +27019,7 @@ return array (
     'latitude' => 10.64,
     'longitude' => 79.22,
   ),
-  3096 => 
+  3002 => 
   array (
     'id' => 134141,
     'name' => 'Thanna Mandi',
@@ -27874,7 +27028,7 @@ return array (
     'latitude' => 33.54204,
     'longitude' => 74.381,
   ),
-  3097 => 
+  3003 => 
   array (
     'id' => 134142,
     'name' => 'Thanniyam',
@@ -27883,7 +27037,7 @@ return array (
     'latitude' => 10.41667,
     'longitude' => 76.13333,
   ),
-  3098 => 
+  3004 => 
   array (
     'id' => 134143,
     'name' => 'Tharangambadi',
@@ -27892,7 +27046,7 @@ return array (
     'latitude' => 11.02764,
     'longitude' => 79.85425,
   ),
-  3099 => 
+  3005 => 
   array (
     'id' => 134144,
     'name' => 'Tharad',
@@ -27901,7 +27055,7 @@ return array (
     'latitude' => 24.39597,
     'longitude' => 71.62577,
   ),
-  3100 => 
+  3006 => 
   array (
     'id' => 134145,
     'name' => 'The Dangs',
@@ -27910,7 +27064,7 @@ return array (
     'latitude' => 20.75,
     'longitude' => 73.75,
   ),
-  3101 => 
+  3007 => 
   array (
     'id' => 134146,
     'name' => 'Theni',
@@ -27919,7 +27073,7 @@ return array (
     'latitude' => 9.85,
     'longitude' => 77.42,
   ),
-  3102 => 
+  3008 => 
   array (
     'id' => 134147,
     'name' => 'Thenkasi',
@@ -27928,7 +27082,7 @@ return array (
     'latitude' => 8.96003,
     'longitude' => 77.31525,
   ),
-  3103 => 
+  3009 => 
   array (
     'id' => 134148,
     'name' => 'Thenzawl',
@@ -27937,7 +27091,7 @@ return array (
     'latitude' => 23.31667,
     'longitude' => 92.75,
   ),
-  3104 => 
+  3010 => 
   array (
     'id' => 134149,
     'name' => 'Theog',
@@ -27946,7 +27100,7 @@ return array (
     'latitude' => 31.12155,
     'longitude' => 77.35838,
   ),
-  3105 => 
+  3011 => 
   array (
     'id' => 134150,
     'name' => 'Thirukattupalli',
@@ -27955,7 +27109,7 @@ return array (
     'latitude' => 10.84431,
     'longitude' => 78.95647,
   ),
-  3106 => 
+  3012 => 
   array (
     'id' => 134151,
     'name' => 'Thiruthani',
@@ -27964,7 +27118,7 @@ return array (
     'latitude' => 13.17594,
     'longitude' => 79.61637,
   ),
-  3107 => 
+  3013 => 
   array (
     'id' => 134152,
     'name' => 'Thiruvaiyaru',
@@ -27973,7 +27127,7 @@ return array (
     'latitude' => 10.88405,
     'longitude' => 79.10362,
   ),
-  3108 => 
+  3014 => 
   array (
     'id' => 134153,
     'name' => 'Thiruvallur',
@@ -27982,7 +27136,7 @@ return array (
     'latitude' => 13.25,
     'longitude' => 80.0,
   ),
-  3109 => 
+  3015 => 
   array (
     'id' => 134154,
     'name' => 'Thiruvananthapuram',
@@ -27991,7 +27145,7 @@ return array (
     'latitude' => 8.60399,
     'longitude' => 76.98574,
   ),
-  3110 => 
+  3016 => 
   array (
     'id' => 134155,
     'name' => 'Thiruvarur',
@@ -28000,7 +27154,7 @@ return array (
     'latitude' => 10.77269,
     'longitude' => 79.6368,
   ),
-  3111 => 
+  3017 => 
   array (
     'id' => 134156,
     'name' => 'Thiruvidaimaruthur',
@@ -28009,7 +27163,7 @@ return array (
     'latitude' => 10.99857,
     'longitude' => 79.45227,
   ),
-  3112 => 
+  3018 => 
   array (
     'id' => 134158,
     'name' => 'Thoothukudi',
@@ -28018,7 +27172,7 @@ return array (
     'latitude' => 8.76735,
     'longitude' => 78.13425,
   ),
-  3113 => 
+  3019 => 
   array (
     'id' => 134159,
     'name' => 'Thoubal',
@@ -28027,7 +27181,7 @@ return array (
     'latitude' => 24.62205,
     'longitude' => 94.01001,
   ),
-  3114 => 
+  3020 => 
   array (
     'id' => 134161,
     'name' => 'Thrissur',
@@ -28036,7 +27190,7 @@ return array (
     'latitude' => 10.51667,
     'longitude' => 76.21667,
   ),
-  3115 => 
+  3021 => 
   array (
     'id' => 134163,
     'name' => 'Thakurganj',
@@ -28045,7 +27199,7 @@ return array (
     'latitude' => 26.42742,
     'longitude' => 88.13112,
   ),
-  3116 => 
+  3022 => 
   array (
     'id' => 134164,
     'name' => 'Than',
@@ -28054,7 +27208,7 @@ return array (
     'latitude' => 22.57422,
     'longitude' => 71.19942,
   ),
-  3117 => 
+  3023 => 
   array (
     'id' => 134165,
     'name' => 'Thana Bhawan',
@@ -28063,7 +27217,7 @@ return array (
     'latitude' => 29.58605,
     'longitude' => 77.41811,
   ),
-  3118 => 
+  3024 => 
   array (
     'id' => 134167,
     'name' => 'Thanesar',
@@ -28072,7 +27226,7 @@ return array (
     'latitude' => 29.97323,
     'longitude' => 76.83214,
   ),
-  3119 => 
+  3025 => 
   array (
     'id' => 134168,
     'name' => 'Thasra',
@@ -28081,7 +27235,7 @@ return array (
     'latitude' => 22.79831,
     'longitude' => 73.21174,
   ),
-  3120 => 
+  3026 => 
   array (
     'id' => 134169,
     'name' => 'Tijara',
@@ -28090,7 +27244,7 @@ return array (
     'latitude' => 27.93411,
     'longitude' => 76.85541,
   ),
-  3121 => 
+  3027 => 
   array (
     'id' => 134170,
     'name' => 'Tikaitnagar',
@@ -28099,7 +27253,7 @@ return array (
     'latitude' => 26.94612,
     'longitude' => 81.56583,
   ),
-  3122 => 
+  3028 => 
   array (
     'id' => 134171,
     'name' => 'Tilhar',
@@ -28108,7 +27262,7 @@ return array (
     'latitude' => 27.96282,
     'longitude' => 79.73827,
   ),
-  3123 => 
+  3029 => 
   array (
     'id' => 134172,
     'name' => 'Tindivanam',
@@ -28117,7 +27271,7 @@ return array (
     'latitude' => 12.234,
     'longitude' => 79.65551,
   ),
-  3124 => 
+  3030 => 
   array (
     'id' => 134173,
     'name' => 'Tindwari',
@@ -28126,7 +27280,7 @@ return array (
     'latitude' => 25.61739,
     'longitude' => 80.52718,
   ),
-  3125 => 
+  3031 => 
   array (
     'id' => 134174,
     'name' => 'Tinnanur',
@@ -28135,7 +27289,7 @@ return array (
     'latitude' => 13.11448,
     'longitude' => 80.02713,
   ),
-  3126 => 
+  3032 => 
   array (
     'id' => 134175,
     'name' => 'Tinsukia',
@@ -28144,7 +27298,7 @@ return array (
     'latitude' => 27.6,
     'longitude' => 95.6,
   ),
-  3127 => 
+  3033 => 
   array (
     'id' => 134176,
     'name' => 'Tiptur',
@@ -28153,7 +27307,7 @@ return array (
     'latitude' => 13.2563,
     'longitude' => 76.47768,
   ),
-  3128 => 
+  3034 => 
   array (
     'id' => 134177,
     'name' => 'Tirodi',
@@ -28162,7 +27316,7 @@ return array (
     'latitude' => 21.68522,
     'longitude' => 79.71906,
   ),
-  3129 => 
+  3035 => 
   array (
     'id' => 134178,
     'name' => 'Tiruchchendur',
@@ -28171,7 +27325,7 @@ return array (
     'latitude' => 8.49725,
     'longitude' => 78.11906,
   ),
-  3130 => 
+  3036 => 
   array (
     'id' => 134179,
     'name' => 'Tiruchengode',
@@ -28180,7 +27334,7 @@ return array (
     'latitude' => 11.38016,
     'longitude' => 77.89444,
   ),
-  3131 => 
+  3037 => 
   array (
     'id' => 134180,
     'name' => 'Tiruchirappalli',
@@ -28189,7 +27343,7 @@ return array (
     'latitude' => 10.97,
     'longitude' => 78.65,
   ),
-  3132 => 
+  3038 => 
   array (
     'id' => 134181,
     'name' => 'Tirukkoyilur',
@@ -28198,7 +27352,7 @@ return array (
     'latitude' => 11.9662,
     'longitude' => 79.20259,
   ),
-  3133 => 
+  3039 => 
   array (
     'id' => 134182,
     'name' => 'Tirumakudal Narsipur',
@@ -28207,7 +27361,7 @@ return array (
     'latitude' => 12.21207,
     'longitude' => 76.9018,
   ),
-  3134 => 
+  3040 => 
   array (
     'id' => 134183,
     'name' => 'Tirumala',
@@ -28216,7 +27370,7 @@ return array (
     'latitude' => 13.68333,
     'longitude' => 79.35,
   ),
-  3135 => 
+  3041 => 
   array (
     'id' => 134184,
     'name' => 'Tirumullaivasal',
@@ -28225,7 +27379,7 @@ return array (
     'latitude' => 11.23996,
     'longitude' => 79.83705,
   ),
-  3136 => 
+  3042 => 
   array (
     'id' => 134185,
     'name' => 'Tirunelveli',
@@ -28234,7 +27388,7 @@ return array (
     'latitude' => 8.72742,
     'longitude' => 77.6838,
   ),
-  3137 => 
+  3043 => 
   array (
     'id' => 134186,
     'name' => 'Tirunelveli Kattabo',
@@ -28243,7 +27397,7 @@ return array (
     'latitude' => 8.7927,
     'longitude' => 77.57409,
   ),
-  3138 => 
+  3044 => 
   array (
     'id' => 134187,
     'name' => 'Tirupati',
@@ -28252,7 +27406,7 @@ return array (
     'latitude' => 13.63551,
     'longitude' => 79.41989,
   ),
-  3139 => 
+  3045 => 
   array (
     'id' => 134188,
     'name' => 'Tirupparangunram',
@@ -28261,7 +27415,7 @@ return array (
     'latitude' => 9.88151,
     'longitude' => 78.07306,
   ),
-  3140 => 
+  3046 => 
   array (
     'id' => 134189,
     'name' => 'Tiruppur',
@@ -28270,7 +27424,7 @@ return array (
     'latitude' => 11.11541,
     'longitude' => 77.35456,
   ),
-  3141 => 
+  3047 => 
   array (
     'id' => 134190,
     'name' => 'Tiruppuvanam',
@@ -28279,7 +27433,7 @@ return array (
     'latitude' => 9.82564,
     'longitude' => 78.25795,
   ),
-  3142 => 
+  3048 => 
   array (
     'id' => 134191,
     'name' => 'Tiruppalaikudi',
@@ -28288,7 +27442,7 @@ return array (
     'latitude' => 9.54606,
     'longitude' => 78.91721,
   ),
-  3143 => 
+  3049 => 
   array (
     'id' => 134192,
     'name' => 'Tirur',
@@ -28297,7 +27451,7 @@ return array (
     'latitude' => 10.91368,
     'longitude' => 75.92118,
   ),
-  3144 => 
+  3050 => 
   array (
     'id' => 134193,
     'name' => 'Tiruttangal',
@@ -28306,7 +27460,7 @@ return array (
     'latitude' => 9.48333,
     'longitude' => 77.83333,
   ),
-  3145 => 
+  3051 => 
   array (
     'id' => 134194,
     'name' => 'Tiruvalla',
@@ -28315,7 +27469,7 @@ return array (
     'latitude' => 9.3816,
     'longitude' => 76.57489,
   ),
-  3146 => 
+  3052 => 
   array (
     'id' => 134196,
     'name' => 'Tiruvannamalai',
@@ -28324,7 +27478,7 @@ return array (
     'latitude' => 12.51,
     'longitude' => 79.09,
   ),
-  3147 => 
+  3053 => 
   array (
     'id' => 134198,
     'name' => 'Tiruvottiyur',
@@ -28333,7 +27487,7 @@ return array (
     'latitude' => 13.15823,
     'longitude' => 80.30181,
   ),
-  3148 => 
+  3054 => 
   array (
     'id' => 134199,
     'name' => 'Tirap',
@@ -28342,7 +27496,7 @@ return array (
     'latitude' => 27.01917,
     'longitude' => 95.51788,
   ),
-  3149 => 
+  3055 => 
   array (
     'id' => 134200,
     'name' => 'Tisaiyanvilai',
@@ -28351,7 +27505,7 @@ return array (
     'latitude' => 8.33702,
     'longitude' => 77.86776,
   ),
-  3150 => 
+  3056 => 
   array (
     'id' => 134201,
     'name' => 'Titlagarh',
@@ -28360,7 +27514,7 @@ return array (
     'latitude' => 20.28961,
     'longitude' => 83.15233,
   ),
-  3151 => 
+  3057 => 
   array (
     'id' => 134202,
     'name' => 'Titron',
@@ -28369,7 +27523,7 @@ return array (
     'latitude' => 29.66824,
     'longitude' => 77.32391,
   ),
-  3152 => 
+  3058 => 
   array (
     'id' => 134203,
     'name' => 'Titabar',
@@ -28378,7 +27532,7 @@ return array (
     'latitude' => 26.6014,
     'longitude' => 94.20386,
   ),
-  3153 => 
+  3059 => 
   array (
     'id' => 134204,
     'name' => 'Todabhim',
@@ -28387,7 +27541,7 @@ return array (
     'latitude' => 26.91667,
     'longitude' => 76.81667,
   ),
-  3154 => 
+  3060 => 
   array (
     'id' => 134205,
     'name' => 'Todaraisingh',
@@ -28396,7 +27550,7 @@ return array (
     'latitude' => 26.02401,
     'longitude' => 75.48182,
   ),
-  3155 => 
+  3061 => 
   array (
     'id' => 134206,
     'name' => 'Tohana',
@@ -28405,7 +27559,7 @@ return array (
     'latitude' => 29.71332,
     'longitude' => 75.90441,
   ),
-  3156 => 
+  3062 => 
   array (
     'id' => 134207,
     'name' => 'Tondi',
@@ -28414,7 +27568,7 @@ return array (
     'latitude' => 9.74173,
     'longitude' => 79.01774,
   ),
-  3157 => 
+  3063 => 
   array (
     'id' => 134208,
     'name' => 'Tonk',
@@ -28423,7 +27577,7 @@ return array (
     'latitude' => 26.16667,
     'longitude' => 75.58333,
   ),
-  3158 => 
+  3064 => 
   array (
     'id' => 134209,
     'name' => 'Topchanchi',
@@ -28432,7 +27586,7 @@ return array (
     'latitude' => 23.90381,
     'longitude' => 86.19792,
   ),
-  3159 => 
+  3065 => 
   array (
     'id' => 134210,
     'name' => 'Tori-Fatehpur',
@@ -28441,7 +27595,7 @@ return array (
     'latitude' => 25.45505,
     'longitude' => 79.11428,
   ),
-  3160 => 
+  3066 => 
   array (
     'id' => 134211,
     'name' => 'Tosham',
@@ -28450,7 +27604,7 @@ return array (
     'latitude' => 28.86993,
     'longitude' => 75.9165,
   ),
-  3161 => 
+  3067 => 
   array (
     'id' => 134212,
     'name' => 'Trimbak',
@@ -28459,7 +27613,7 @@ return array (
     'latitude' => 19.93268,
     'longitude' => 73.52907,
   ),
-  3162 => 
+  3068 => 
   array (
     'id' => 134213,
     'name' => 'Tral',
@@ -28468,7 +27622,7 @@ return array (
     'latitude' => 33.92708,
     'longitude' => 75.11585,
   ),
-  3163 => 
+  3069 => 
   array (
     'id' => 134214,
     'name' => 'Tsrar Sharif',
@@ -28477,7 +27631,7 @@ return array (
     'latitude' => 33.86319,
     'longitude' => 74.76524,
   ),
-  3164 => 
+  3070 => 
   array (
     'id' => 134215,
     'name' => 'Tuensang',
@@ -28486,7 +27640,7 @@ return array (
     'latitude' => 26.26704,
     'longitude' => 94.82415,
   ),
-  3165 => 
+  3071 => 
   array (
     'id' => 134216,
     'name' => 'Tuensang District',
@@ -28495,7 +27649,7 @@ return array (
     'latitude' => 26.25,
     'longitude' => 94.75,
   ),
-  3166 => 
+  3072 => 
   array (
     'id' => 134217,
     'name' => 'Tuljapur',
@@ -28504,7 +27658,7 @@ return array (
     'latitude' => 18.00804,
     'longitude' => 76.07011,
   ),
-  3167 => 
+  3073 => 
   array (
     'id' => 134218,
     'name' => 'Tulsipur',
@@ -28513,7 +27667,7 @@ return array (
     'latitude' => 27.5337,
     'longitude' => 82.41653,
   ),
-  3168 => 
+  3074 => 
   array (
     'id' => 134219,
     'name' => 'Tumakuru',
@@ -28522,7 +27676,7 @@ return array (
     'latitude' => 13.5,
     'longitude' => 77.0,
   ),
-  3169 => 
+  3075 => 
   array (
     'id' => 134221,
     'name' => 'Tumsar',
@@ -28531,7 +27685,7 @@ return array (
     'latitude' => 21.38333,
     'longitude' => 79.73333,
   ),
-  3170 => 
+  3076 => 
   array (
     'id' => 134222,
     'name' => 'Tuni',
@@ -28540,7 +27694,7 @@ return array (
     'latitude' => 17.35905,
     'longitude' => 82.54607,
   ),
-  3171 => 
+  3077 => 
   array (
     'id' => 134223,
     'name' => 'Tura',
@@ -28549,7 +27703,7 @@ return array (
     'latitude' => 25.51421,
     'longitude' => 90.20239,
   ),
-  3172 => 
+  3078 => 
   array (
     'id' => 134224,
     'name' => 'Turaiyur',
@@ -28558,7 +27712,7 @@ return array (
     'latitude' => 11.14968,
     'longitude' => 78.5987,
   ),
-  3173 => 
+  3079 => 
   array (
     'id' => 134225,
     'name' => 'Turuvekere',
@@ -28567,7 +27721,7 @@ return array (
     'latitude' => 13.16374,
     'longitude' => 76.66641,
   ),
-  3174 => 
+  3080 => 
   array (
     'id' => 134226,
     'name' => 'Tadepalle',
@@ -28576,7 +27730,7 @@ return array (
     'latitude' => 16.48333,
     'longitude' => 80.6,
   ),
-  3175 => 
+  3081 => 
   array (
     'id' => 134227,
     'name' => 'Tadepallegudem',
@@ -28585,7 +27739,7 @@ return array (
     'latitude' => 16.81467,
     'longitude' => 81.52717,
   ),
-  3176 => 
+  3082 => 
   array (
     'id' => 134228,
     'name' => 'Tadpatri',
@@ -28594,7 +27748,7 @@ return array (
     'latitude' => 14.90832,
     'longitude' => 78.01031,
   ),
-  3177 => 
+  3083 => 
   array (
     'id' => 134229,
     'name' => 'Tajpur',
@@ -28603,7 +27757,7 @@ return array (
     'latitude' => 29.16242,
     'longitude' => 78.48458,
   ),
-  3178 => 
+  3084 => 
   array (
     'id' => 134230,
     'name' => 'Tal',
@@ -28612,7 +27766,7 @@ return array (
     'latitude' => 23.71979,
     'longitude' => 75.38514,
   ),
-  3179 => 
+  3085 => 
   array (
     'id' => 134231,
     'name' => 'Talbahat',
@@ -28621,7 +27775,7 @@ return array (
     'latitude' => 25.04357,
     'longitude' => 78.43441,
   ),
-  3180 => 
+  3086 => 
   array (
     'id' => 134232,
     'name' => 'Talcher',
@@ -28630,7 +27784,7 @@ return array (
     'latitude' => 20.94927,
     'longitude' => 85.23354,
   ),
-  3181 => 
+  3087 => 
   array (
     'id' => 134233,
     'name' => 'Talgram',
@@ -28639,7 +27793,7 @@ return array (
     'latitude' => 27.04753,
     'longitude' => 79.64811,
   ),
-  3182 => 
+  3088 => 
   array (
     'id' => 134234,
     'name' => 'Talikota',
@@ -28648,7 +27802,7 @@ return array (
     'latitude' => 16.47311,
     'longitude' => 76.31085,
   ),
-  3183 => 
+  3089 => 
   array (
     'id' => 134235,
     'name' => 'Tanda',
@@ -28657,7 +27811,7 @@ return array (
     'latitude' => 28.97621,
     'longitude' => 78.94187,
   ),
-  3184 => 
+  3090 => 
   array (
     'id' => 134237,
     'name' => 'Tandur',
@@ -28666,7 +27820,7 @@ return array (
     'latitude' => 17.24849,
     'longitude' => 77.57698,
   ),
-  3185 => 
+  3091 => 
   array (
     'id' => 134238,
     'name' => 'Taoru',
@@ -28675,7 +27829,7 @@ return array (
     'latitude' => 28.21173,
     'longitude' => 76.94984,
   ),
-  3186 => 
+  3092 => 
   array (
     'id' => 134239,
     'name' => 'Taramangalam',
@@ -28684,7 +27838,7 @@ return array (
     'latitude' => 11.69403,
     'longitude' => 77.97035,
   ),
-  3187 => 
+  3093 => 
   array (
     'id' => 134240,
     'name' => 'Taranagar',
@@ -28693,7 +27847,7 @@ return array (
     'latitude' => 28.6686,
     'longitude' => 75.03207,
   ),
-  3188 => 
+  3094 => 
   array (
     'id' => 134241,
     'name' => 'Tarapur',
@@ -28702,7 +27856,7 @@ return array (
     'latitude' => 19.86499,
     'longitude' => 72.68426,
   ),
-  3189 => 
+  3095 => 
   array (
     'id' => 134242,
     'name' => 'Tasgaon',
@@ -28711,7 +27865,7 @@ return array (
     'latitude' => 17.037,
     'longitude' => 74.60171,
   ),
-  3190 => 
+  3096 => 
   array (
     'id' => 134243,
     'name' => 'Tattayyangarpettai',
@@ -28720,7 +27874,7 @@ return array (
     'latitude' => 11.12417,
     'longitude' => 78.44916,
   ),
-  3191 => 
+  3097 => 
   array (
     'id' => 134244,
     'name' => 'Tikamgarh',
@@ -28729,7 +27883,7 @@ return array (
     'latitude' => 24.74327,
     'longitude' => 78.83061,
   ),
-  3192 => 
+  3098 => 
   array (
     'id' => 134245,
     'name' => 'Tikri',
@@ -28738,7 +27892,7 @@ return array (
     'latitude' => 29.2291,
     'longitude' => 77.35479,
   ),
-  3193 => 
+  3099 => 
   array (
     'id' => 134246,
     'name' => 'Tira Sujanpur',
@@ -28747,7 +27901,7 @@ return array (
     'latitude' => 31.83364,
     'longitude' => 76.50539,
   ),
-  3194 => 
+  3100 => 
   array (
     'id' => 134247,
     'name' => 'Tirthahalli',
@@ -28756,7 +27910,7 @@ return array (
     'latitude' => 13.68835,
     'longitude' => 75.24548,
   ),
-  3195 => 
+  3101 => 
   array (
     'id' => 134248,
     'name' => 'Tundla',
@@ -28765,7 +27919,7 @@ return array (
     'latitude' => 27.2146,
     'longitude' => 78.23683,
   ),
-  3196 => 
+  3102 => 
   array (
     'id' => 134249,
     'name' => 'Udaipur',
@@ -28774,16 +27928,7 @@ return array (
     'latitude' => 23.53333,
     'longitude' => 91.48333,
   ),
-  3197 => 
-  array (
-    'id' => 134250,
-    'name' => 'Udaipur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.33,
-    'longitude' => 73.77,
-  ),
-  3198 => 
+  3103 => 
   array (
     'id' => 134251,
     'name' => 'Udaipura',
@@ -28792,7 +27937,7 @@ return array (
     'latitude' => 23.07434,
     'longitude' => 78.51108,
   ),
-  3199 => 
+  3104 => 
   array (
     'id' => 134252,
     'name' => 'Udalguri',
@@ -28801,7 +27946,7 @@ return array (
     'latitude' => 26.75367,
     'longitude' => 92.10215,
   ),
-  3200 => 
+  3105 => 
   array (
     'id' => 134253,
     'name' => 'Udangudi',
@@ -28810,7 +27955,7 @@ return array (
     'latitude' => 8.42918,
     'longitude' => 78.02968,
   ),
-  3201 => 
+  3106 => 
   array (
     'id' => 134254,
     'name' => 'Udayagiri',
@@ -28819,7 +27964,7 @@ return array (
     'latitude' => 20.12416,
     'longitude' => 84.36869,
   ),
-  3202 => 
+  3107 => 
   array (
     'id' => 134255,
     'name' => 'Udgir',
@@ -28828,7 +27973,7 @@ return array (
     'latitude' => 18.39258,
     'longitude' => 77.11756,
   ),
-  3203 => 
+  3108 => 
   array (
     'id' => 134256,
     'name' => 'Udham Singh Nagar',
@@ -28837,7 +27982,7 @@ return array (
     'latitude' => 29.02746,
     'longitude' => 79.52347,
   ),
-  3204 => 
+  3109 => 
   array (
     'id' => 134257,
     'name' => 'Udhampur',
@@ -28846,7 +27991,7 @@ return array (
     'latitude' => 33.0,
     'longitude' => 75.16667,
   ),
-  3205 => 
+  3110 => 
   array (
     'id' => 134258,
     'name' => 'Udpura',
@@ -28855,7 +28000,7 @@ return array (
     'latitude' => 24.73355,
     'longitude' => 75.97514,
   ),
-  3206 => 
+  3111 => 
   array (
     'id' => 134259,
     'name' => 'Udumalaippettai',
@@ -28864,7 +28009,7 @@ return array (
     'latitude' => 10.58806,
     'longitude' => 77.24779,
   ),
-  3207 => 
+  3112 => 
   array (
     'id' => 134260,
     'name' => 'Udupi',
@@ -28873,7 +28018,7 @@ return array (
     'latitude' => 13.5,
     'longitude' => 74.87,
   ),
-  3208 => 
+  3113 => 
   array (
     'id' => 134261,
     'name' => 'Ugu',
@@ -28882,7 +28027,7 @@ return array (
     'latitude' => 26.79681,
     'longitude' => 80.32093,
   ),
-  3209 => 
+  3114 => 
   array (
     'id' => 134262,
     'name' => 'Ujhani',
@@ -28891,7 +28036,7 @@ return array (
     'latitude' => 28.00311,
     'longitude' => 79.00821,
   ),
-  3210 => 
+  3115 => 
   array (
     'id' => 134263,
     'name' => 'Ujjain',
@@ -28900,7 +28045,7 @@ return array (
     'latitude' => 23.41667,
     'longitude' => 75.5,
   ),
-  3211 => 
+  3116 => 
   array (
     'id' => 134264,
     'name' => 'Ukhrul',
@@ -28909,7 +28054,7 @@ return array (
     'latitude' => 25.04828,
     'longitude' => 94.35883,
   ),
-  3212 => 
+  3117 => 
   array (
     'id' => 134265,
     'name' => 'Uklana',
@@ -28918,7 +28063,7 @@ return array (
     'latitude' => 29.51124,
     'longitude' => 75.87823,
   ),
-  3213 => 
+  3118 => 
   array (
     'id' => 134266,
     'name' => 'Ukwa',
@@ -28927,7 +28072,7 @@ return array (
     'latitude' => 21.97102,
     'longitude' => 80.46625,
   ),
-  3214 => 
+  3119 => 
   array (
     'id' => 134267,
     'name' => 'Ulhasnagar',
@@ -28936,7 +28081,7 @@ return array (
     'latitude' => 19.21667,
     'longitude' => 73.15,
   ),
-  3215 => 
+  3120 => 
   array (
     'id' => 134268,
     'name' => 'Ullal',
@@ -28945,7 +28090,7 @@ return array (
     'latitude' => 12.80569,
     'longitude' => 74.86058,
   ),
-  3216 => 
+  3121 => 
   array (
     'id' => 134269,
     'name' => 'Umarga',
@@ -28954,7 +28099,7 @@ return array (
     'latitude' => 17.83841,
     'longitude' => 76.62331,
   ),
-  3217 => 
+  3122 => 
   array (
     'id' => 134270,
     'name' => 'Umaria',
@@ -28963,7 +28108,7 @@ return array (
     'latitude' => 23.52473,
     'longitude' => 80.83716,
   ),
-  3218 => 
+  3123 => 
   array (
     'id' => 134272,
     'name' => 'Umarkhed',
@@ -28972,7 +28117,7 @@ return array (
     'latitude' => 19.60144,
     'longitude' => 77.68878,
   ),
-  3219 => 
+  3124 => 
   array (
     'id' => 134273,
     'name' => 'Umarkot',
@@ -28981,7 +28126,7 @@ return array (
     'latitude' => 19.66529,
     'longitude' => 82.20629,
   ),
-  3220 => 
+  3125 => 
   array (
     'id' => 134274,
     'name' => 'Umred',
@@ -28990,7 +28135,7 @@ return array (
     'latitude' => 20.85396,
     'longitude' => 79.32466,
   ),
-  3221 => 
+  3126 => 
   array (
     'id' => 134275,
     'name' => 'Umreth',
@@ -28999,7 +28144,7 @@ return array (
     'latitude' => 22.69881,
     'longitude' => 73.11561,
   ),
-  3222 => 
+  3127 => 
   array (
     'id' => 134276,
     'name' => 'Umri',
@@ -29008,7 +28153,7 @@ return array (
     'latitude' => 26.51056,
     'longitude' => 78.93667,
   ),
-  3223 => 
+  3128 => 
   array (
     'id' => 134277,
     'name' => 'Umrala',
@@ -29017,7 +28162,7 @@ return array (
     'latitude' => 21.84353,
     'longitude' => 71.80305,
   ),
-  3224 => 
+  3129 => 
   array (
     'id' => 134278,
     'name' => 'Un',
@@ -29026,7 +28171,7 @@ return array (
     'latitude' => 23.88745,
     'longitude' => 71.76975,
   ),
-  3225 => 
+  3130 => 
   array (
     'id' => 134279,
     'name' => 'Una',
@@ -29035,16 +28180,7 @@ return array (
     'latitude' => 31.46493,
     'longitude' => 76.26914,
   ),
-  3226 => 
-  array (
-    'id' => 134280,
-    'name' => 'Una',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 20.82318,
-    'longitude' => 71.03795,
-  ),
-  3227 => 
+  3131 => 
   array (
     'id' => 134281,
     'name' => 'Unakoti',
@@ -29053,7 +28189,7 @@ return array (
     'latitude' => 24.32781,
     'longitude' => 92.00377,
   ),
-  3228 => 
+  3132 => 
   array (
     'id' => 134282,
     'name' => 'Unhel',
@@ -29062,7 +28198,7 @@ return array (
     'latitude' => 23.33794,
     'longitude' => 75.55931,
   ),
-  3229 => 
+  3133 => 
   array (
     'id' => 134283,
     'name' => 'Uniara',
@@ -29071,7 +28207,7 @@ return array (
     'latitude' => 26.15336,
     'longitude' => 75.21523,
   ),
-  3230 => 
+  3134 => 
   array (
     'id' => 134284,
     'name' => 'Unjha',
@@ -29080,7 +28216,7 @@ return array (
     'latitude' => 23.80366,
     'longitude' => 72.39101,
   ),
-  3231 => 
+  3135 => 
   array (
     'id' => 134285,
     'name' => 'Unnao',
@@ -29089,7 +28225,7 @@ return array (
     'latitude' => 26.5,
     'longitude' => 80.5,
   ),
-  3232 => 
+  3136 => 
   array (
     'id' => 134286,
     'name' => 'Upleta',
@@ -29098,7 +28234,7 @@ return array (
     'latitude' => 21.74015,
     'longitude' => 70.28256,
   ),
-  3233 => 
+  3137 => 
   array (
     'id' => 134287,
     'name' => 'Uppal Kalan',
@@ -29107,7 +28243,7 @@ return array (
     'latitude' => 17.40577,
     'longitude' => 78.55911,
   ),
-  3234 => 
+  3138 => 
   array (
     'id' => 134288,
     'name' => 'Upper Siang',
@@ -29116,7 +28252,7 @@ return array (
     'latitude' => 28.83355,
     'longitude' => 94.91806,
   ),
-  3235 => 
+  3139 => 
   array (
     'id' => 134289,
     'name' => 'Upper Subansiri',
@@ -29125,7 +28261,7 @@ return array (
     'latitude' => 28.3,
     'longitude' => 94.0,
   ),
-  3236 => 
+  3140 => 
   array (
     'id' => 134290,
     'name' => 'Uppiliyapuram',
@@ -29134,7 +28270,7 @@ return array (
     'latitude' => 11.26356,
     'longitude' => 78.5139,
   ),
-  3237 => 
+  3141 => 
   array (
     'id' => 134291,
     'name' => 'Uran',
@@ -29143,7 +28279,7 @@ return array (
     'latitude' => 18.87813,
     'longitude' => 72.93924,
   ),
-  3238 => 
+  3142 => 
   array (
     'id' => 134292,
     'name' => 'Uravakonda',
@@ -29152,7 +28288,7 @@ return array (
     'latitude' => 14.94348,
     'longitude' => 77.25494,
   ),
-  3239 => 
+  3143 => 
   array (
     'id' => 134293,
     'name' => 'Uri',
@@ -29161,7 +28297,7 @@ return array (
     'latitude' => 34.08064,
     'longitude' => 74.05088,
   ),
-  3240 => 
+  3144 => 
   array (
     'id' => 134294,
     'name' => 'Usehat',
@@ -29170,7 +28306,7 @@ return array (
     'latitude' => 27.79796,
     'longitude' => 79.23763,
   ),
-  3241 => 
+  3145 => 
   array (
     'id' => 134295,
     'name' => 'Usilampatti',
@@ -29179,7 +28315,7 @@ return array (
     'latitude' => 9.96936,
     'longitude' => 77.78621,
   ),
-  3242 => 
+  3146 => 
   array (
     'id' => 134296,
     'name' => 'Utraula',
@@ -29188,7 +28324,7 @@ return array (
     'latitude' => 27.31933,
     'longitude' => 82.41872,
   ),
-  3243 => 
+  3147 => 
   array (
     'id' => 134297,
     'name' => 'Utran',
@@ -29197,7 +28333,7 @@ return array (
     'latitude' => 21.23333,
     'longitude' => 72.86667,
   ),
-  3244 => 
+  3148 => 
   array (
     'id' => 134298,
     'name' => 'Uttamapalaiyam',
@@ -29206,7 +28342,7 @@ return array (
     'latitude' => 9.80701,
     'longitude' => 77.32718,
   ),
-  3245 => 
+  3149 => 
   array (
     'id' => 134299,
     'name' => 'Uttar Bastar Kanker',
@@ -29215,7 +28351,7 @@ return array (
     'latitude' => 20.2,
     'longitude' => 81.1,
   ),
-  3246 => 
+  3150 => 
   array (
     'id' => 134300,
     'name' => 'Uttar Kannada',
@@ -29224,7 +28360,7 @@ return array (
     'latitude' => 14.88333,
     'longitude' => 74.58333,
   ),
-  3247 => 
+  3151 => 
   array (
     'id' => 134301,
     'name' => 'Uttarkashi',
@@ -29233,7 +28369,7 @@ return array (
     'latitude' => 30.72986,
     'longitude' => 78.44342,
   ),
-  3248 => 
+  3152 => 
   array (
     'id' => 134302,
     'name' => 'Uttiramerur',
@@ -29242,7 +28378,7 @@ return array (
     'latitude' => 12.61433,
     'longitude' => 79.75748,
   ),
-  3249 => 
+  3153 => 
   array (
     'id' => 134304,
     'name' => 'Vadakku Valliyur',
@@ -29251,7 +28387,7 @@ return array (
     'latitude' => 8.38286,
     'longitude' => 77.61221,
   ),
-  3250 => 
+  3154 => 
   array (
     'id' => 134305,
     'name' => 'Vadakku Viravanallur',
@@ -29260,7 +28396,7 @@ return array (
     'latitude' => 8.69786,
     'longitude' => 77.51916,
   ),
-  3251 => 
+  3155 => 
   array (
     'id' => 134306,
     'name' => 'Vadamadurai',
@@ -29269,7 +28405,7 @@ return array (
     'latitude' => 10.44081,
     'longitude' => 78.09784,
   ),
-  3252 => 
+  3156 => 
   array (
     'id' => 134307,
     'name' => 'Vadigenhalli',
@@ -29278,7 +28414,7 @@ return array (
     'latitude' => 13.29724,
     'longitude' => 77.80184,
   ),
-  3253 => 
+  3157 => 
   array (
     'id' => 134308,
     'name' => 'Vadlapudi',
@@ -29287,7 +28423,7 @@ return array (
     'latitude' => 14.31119,
     'longitude' => 79.8043,
   ),
-  3254 => 
+  3158 => 
   array (
     'id' => 134309,
     'name' => 'Vadnagar',
@@ -29296,7 +28432,7 @@ return array (
     'latitude' => 23.78593,
     'longitude' => 72.63893,
   ),
-  3255 => 
+  3159 => 
   array (
     'id' => 134310,
     'name' => 'Vadodara',
@@ -29305,7 +28441,7 @@ return array (
     'latitude' => 22.29941,
     'longitude' => 73.20812,
   ),
-  3256 => 
+  3160 => 
   array (
     'id' => 134311,
     'name' => 'Vagator',
@@ -29314,7 +28450,7 @@ return array (
     'latitude' => 15.59766,
     'longitude' => 73.74496,
   ),
-  3257 => 
+  3161 => 
   array (
     'id' => 134312,
     'name' => 'Vaijapur',
@@ -29323,7 +28459,7 @@ return array (
     'latitude' => 19.92672,
     'longitude' => 74.7275,
   ),
-  3258 => 
+  3162 => 
   array (
     'id' => 134313,
     'name' => 'Vaikam',
@@ -29332,7 +28468,7 @@ return array (
     'latitude' => 9.74858,
     'longitude' => 76.39637,
   ),
-  3259 => 
+  3163 => 
   array (
     'id' => 134314,
     'name' => 'Vaishali',
@@ -29341,7 +28477,7 @@ return array (
     'latitude' => 25.75,
     'longitude' => 85.41667,
   ),
-  3260 => 
+  3164 => 
   array (
     'id' => 134316,
     'name' => 'Valangaiman',
@@ -29350,7 +28486,7 @@ return array (
     'latitude' => 10.89012,
     'longitude' => 79.39322,
   ),
-  3261 => 
+  3165 => 
   array (
     'id' => 134317,
     'name' => 'Valavanur',
@@ -29359,7 +28495,7 @@ return array (
     'latitude' => 11.92094,
     'longitude' => 79.58239,
   ),
-  3262 => 
+  3166 => 
   array (
     'id' => 134318,
     'name' => 'Vallabh Vidyanagar',
@@ -29368,7 +28504,7 @@ return array (
     'latitude' => 22.53333,
     'longitude' => 72.9,
   ),
-  3263 => 
+  3167 => 
   array (
     'id' => 134319,
     'name' => 'Vallam',
@@ -29377,7 +28513,7 @@ return array (
     'latitude' => 10.71988,
     'longitude' => 79.05981,
   ),
-  3264 => 
+  3168 => 
   array (
     'id' => 134320,
     'name' => 'Valparai',
@@ -29386,7 +28522,7 @@ return array (
     'latitude' => 10.32691,
     'longitude' => 76.95116,
   ),
-  3265 => 
+  3169 => 
   array (
     'id' => 134321,
     'name' => 'Valpoy',
@@ -29395,7 +28531,7 @@ return array (
     'latitude' => 15.53239,
     'longitude' => 74.13671,
   ),
-  3266 => 
+  3170 => 
   array (
     'id' => 134322,
     'name' => 'Valsad',
@@ -29404,7 +28540,7 @@ return array (
     'latitude' => 20.5,
     'longitude' => 73.08333,
   ),
-  3267 => 
+  3171 => 
   array (
     'id' => 134323,
     'name' => 'Vandalur',
@@ -29413,7 +28549,7 @@ return array (
     'latitude' => 12.8924,
     'longitude' => 80.08079,
   ),
-  3268 => 
+  3172 => 
   array (
     'id' => 134324,
     'name' => 'Vandavasi',
@@ -29422,7 +28558,7 @@ return array (
     'latitude' => 12.50429,
     'longitude' => 79.60556,
   ),
-  3269 => 
+  3173 => 
   array (
     'id' => 134325,
     'name' => 'Vaniyambadi',
@@ -29431,7 +28567,7 @@ return array (
     'latitude' => 12.68162,
     'longitude' => 78.62014,
   ),
-  3270 => 
+  3174 => 
   array (
     'id' => 134326,
     'name' => 'Vapi',
@@ -29440,7 +28576,7 @@ return array (
     'latitude' => 20.37175,
     'longitude' => 72.90493,
   ),
-  3271 => 
+  3175 => 
   array (
     'id' => 134327,
     'name' => 'Varanasi',
@@ -29449,7 +28585,7 @@ return array (
     'latitude' => 25.31668,
     'longitude' => 83.01041,
   ),
-  3272 => 
+  3176 => 
   array (
     'id' => 134328,
     'name' => 'Varangaon',
@@ -29458,7 +28594,7 @@ return array (
     'latitude' => 21.01767,
     'longitude' => 75.91042,
   ),
-  3273 => 
+  3177 => 
   array (
     'id' => 134329,
     'name' => 'Varca',
@@ -29467,7 +28603,7 @@ return array (
     'latitude' => 15.23237,
     'longitude' => 73.94311,
   ),
-  3274 => 
+  3178 => 
   array (
     'id' => 134330,
     'name' => 'Varkala',
@@ -29476,7 +28612,7 @@ return array (
     'latitude' => 8.7333,
     'longitude' => 76.7167,
   ),
-  3275 => 
+  3179 => 
   array (
     'id' => 134331,
     'name' => 'Vartej',
@@ -29485,7 +28621,7 @@ return array (
     'latitude' => 21.73947,
     'longitude' => 72.06553,
   ),
-  3276 => 
+  3180 => 
   array (
     'id' => 134332,
     'name' => 'Vasa',
@@ -29494,7 +28630,7 @@ return array (
     'latitude' => 22.66079,
     'longitude' => 72.75519,
   ),
-  3277 => 
+  3181 => 
   array (
     'id' => 134333,
     'name' => 'Vasco da Gama',
@@ -29503,7 +28639,7 @@ return array (
     'latitude' => 15.39585,
     'longitude' => 73.81568,
   ),
-  3278 => 
+  3182 => 
   array (
     'id' => 134334,
     'name' => 'Vasind',
@@ -29512,7 +28648,7 @@ return array (
     'latitude' => 19.40844,
     'longitude' => 73.26285,
   ),
-  3279 => 
+  3183 => 
   array (
     'id' => 134335,
     'name' => 'Vattalkundu',
@@ -29521,7 +28657,7 @@ return array (
     'latitude' => 10.16069,
     'longitude' => 77.75883,
   ),
-  3280 => 
+  3184 => 
   array (
     'id' => 134336,
     'name' => 'Vayalar',
@@ -29530,7 +28666,7 @@ return array (
     'latitude' => 9.71158,
     'longitude' => 76.33888,
   ),
-  3281 => 
+  3185 => 
   array (
     'id' => 134337,
     'name' => 'Vedaraniyam',
@@ -29539,7 +28675,7 @@ return array (
     'latitude' => 10.37208,
     'longitude' => 79.85095,
   ),
-  3282 => 
+  3186 => 
   array (
     'id' => 134338,
     'name' => 'Vedasandur',
@@ -29548,7 +28684,7 @@ return array (
     'latitude' => 10.53102,
     'longitude' => 77.95019,
   ),
-  3283 => 
+  3187 => 
   array (
     'id' => 134339,
     'name' => 'Vejalpur',
@@ -29557,7 +28693,7 @@ return array (
     'latitude' => 22.69021,
     'longitude' => 73.56299,
   ),
-  3284 => 
+  3188 => 
   array (
     'id' => 134340,
     'name' => 'Velankanni',
@@ -29566,7 +28702,7 @@ return array (
     'latitude' => 10.68333,
     'longitude' => 79.83333,
   ),
-  3285 => 
+  3189 => 
   array (
     'id' => 134341,
     'name' => 'Vellore',
@@ -29575,7 +28711,7 @@ return array (
     'latitude' => 12.86,
     'longitude' => 79.035,
   ),
-  3286 => 
+  3190 => 
   array (
     'id' => 134342,
     'name' => 'Vellanur',
@@ -29584,7 +28720,7 @@ return array (
     'latitude' => 13.15804,
     'longitude' => 80.10634,
   ),
-  3287 => 
+  3191 => 
   array (
     'id' => 134343,
     'name' => 'Velur',
@@ -29593,7 +28729,7 @@ return array (
     'latitude' => 11.10825,
     'longitude' => 78.00113,
   ),
-  3288 => 
+  3192 => 
   array (
     'id' => 134344,
     'name' => 'Vemalwada',
@@ -29602,7 +28738,7 @@ return array (
     'latitude' => 18.46523,
     'longitude' => 78.86894,
   ),
-  3289 => 
+  3193 => 
   array (
     'id' => 134345,
     'name' => 'Vengavasal',
@@ -29611,7 +28747,7 @@ return array (
     'latitude' => 12.89911,
     'longitude' => 80.169,
   ),
-  3290 => 
+  3194 => 
   array (
     'id' => 134346,
     'name' => 'Vengurla',
@@ -29620,7 +28756,7 @@ return array (
     'latitude' => 15.86125,
     'longitude' => 73.63182,
   ),
-  3291 => 
+  3195 => 
   array (
     'id' => 134347,
     'name' => 'Venkatagiri',
@@ -29629,7 +28765,7 @@ return array (
     'latitude' => 13.96005,
     'longitude' => 79.58032,
   ),
-  3292 => 
+  3196 => 
   array (
     'id' => 134348,
     'name' => 'Vepagunta',
@@ -29638,7 +28774,7 @@ return array (
     'latitude' => 17.77844,
     'longitude' => 83.21577,
   ),
-  3293 => 
+  3197 => 
   array (
     'id' => 134349,
     'name' => 'Veraval',
@@ -29647,7 +28783,7 @@ return array (
     'latitude' => 20.9077,
     'longitude' => 70.36786,
   ),
-  3294 => 
+  3198 => 
   array (
     'id' => 134350,
     'name' => 'Vetapalem',
@@ -29656,7 +28792,7 @@ return array (
     'latitude' => 15.78502,
     'longitude' => 80.30663,
   ),
-  3295 => 
+  3199 => 
   array (
     'id' => 134351,
     'name' => 'Vettaikkaranpudur',
@@ -29665,7 +28801,7 @@ return array (
     'latitude' => 10.56207,
     'longitude' => 76.91305,
   ),
-  3296 => 
+  3200 => 
   array (
     'id' => 134352,
     'name' => 'Vettavalam',
@@ -29674,7 +28810,7 @@ return array (
     'latitude' => 12.10769,
     'longitude' => 79.24516,
   ),
-  3297 => 
+  3201 => 
   array (
     'id' => 134353,
     'name' => 'Vettur',
@@ -29683,7 +28819,7 @@ return array (
     'latitude' => 8.71742,
     'longitude' => 76.72582,
   ),
-  3298 => 
+  3202 => 
   array (
     'id' => 134354,
     'name' => 'Vidisha',
@@ -29692,7 +28828,7 @@ return array (
     'latitude' => 23.91667,
     'longitude' => 78.0,
   ),
-  3299 => 
+  3203 => 
   array (
     'id' => 134355,
     'name' => 'Vijayapuri',
@@ -29701,7 +28837,7 @@ return array (
     'latitude' => 11.2453,
     'longitude' => 77.50066,
   ),
-  3300 => 
+  3204 => 
   array (
     'id' => 134356,
     'name' => 'Vijayawada',
@@ -29710,7 +28846,7 @@ return array (
     'latitude' => 16.50745,
     'longitude' => 80.6466,
   ),
-  3301 => 
+  3205 => 
   array (
     'id' => 134357,
     'name' => 'Vijapur',
@@ -29719,7 +28855,7 @@ return array (
     'latitude' => 23.5623,
     'longitude' => 72.74848,
   ),
-  3302 => 
+  3206 => 
   array (
     'id' => 134358,
     'name' => 'Vikravandi',
@@ -29728,7 +28864,7 @@ return array (
     'latitude' => 12.0369,
     'longitude' => 79.54595,
   ),
-  3303 => 
+  3207 => 
   array (
     'id' => 134359,
     'name' => 'Vikarabad',
@@ -29737,7 +28873,7 @@ return array (
     'latitude' => 17.3381,
     'longitude' => 77.90441,
   ),
-  3304 => 
+  3208 => 
   array (
     'id' => 134360,
     'name' => 'Vikasnagar',
@@ -29746,7 +28882,7 @@ return array (
     'latitude' => 30.46944,
     'longitude' => 77.77275,
   ),
-  3305 => 
+  3209 => 
   array (
     'id' => 134361,
     'name' => 'Vilattikulam',
@@ -29755,7 +28891,7 @@ return array (
     'latitude' => 9.13227,
     'longitude' => 78.16635,
   ),
-  3306 => 
+  3210 => 
   array (
     'id' => 134362,
     'name' => 'Villupuram',
@@ -29764,7 +28900,7 @@ return array (
     'latitude' => 11.99,
     'longitude' => 79.37,
   ),
-  3307 => 
+  3211 => 
   array (
     'id' => 134364,
     'name' => 'Vinukonda',
@@ -29773,7 +28909,7 @@ return array (
     'latitude' => 16.0531,
     'longitude' => 79.73964,
   ),
-  3308 => 
+  3212 => 
   array (
     'id' => 134365,
     'name' => 'Virpur',
@@ -29782,7 +28918,7 @@ return array (
     'latitude' => 23.1892,
     'longitude' => 73.47987,
   ),
-  3309 => 
+  3213 => 
   array (
     'id' => 134366,
     'name' => 'Virudhunagar',
@@ -29791,7 +28927,7 @@ return array (
     'latitude' => 9.45,
     'longitude' => 77.92,
   ),
-  3310 => 
+  3214 => 
   array (
     'id' => 134368,
     'name' => 'Virar',
@@ -29800,7 +28936,7 @@ return array (
     'latitude' => 19.45591,
     'longitude' => 72.81136,
   ),
-  3311 => 
+  3215 => 
   array (
     'id' => 134369,
     'name' => 'Visakhapatnam',
@@ -29809,7 +28945,7 @@ return array (
     'latitude' => 17.68009,
     'longitude' => 83.20161,
   ),
-  3312 => 
+  3216 => 
   array (
     'id' => 134371,
     'name' => 'Visnagar',
@@ -29818,7 +28954,7 @@ return array (
     'latitude' => 23.69855,
     'longitude' => 72.5521,
   ),
-  3313 => 
+  3217 => 
   array (
     'id' => 134372,
     'name' => 'Vite',
@@ -29827,7 +28963,7 @@ return array (
     'latitude' => 17.27343,
     'longitude' => 74.53792,
   ),
-  3314 => 
+  3218 => 
   array (
     'id' => 134373,
     'name' => 'Vizianagaram',
@@ -29836,7 +28972,7 @@ return array (
     'latitude' => 18.11692,
     'longitude' => 83.41148,
   ),
-  3315 => 
+  3219 => 
   array (
     'id' => 134374,
     'name' => 'Vizianagaram District',
@@ -29845,7 +28981,7 @@ return array (
     'latitude' => 18.41102,
     'longitude' => 83.37677,
   ),
-  3316 => 
+  3220 => 
   array (
     'id' => 134375,
     'name' => 'Vriddhachalam',
@@ -29854,7 +28990,7 @@ return array (
     'latitude' => 11.5183,
     'longitude' => 79.32411,
   ),
-  3317 => 
+  3221 => 
   array (
     'id' => 134376,
     'name' => 'Vrindavan',
@@ -29863,7 +28999,7 @@ return array (
     'latitude' => 27.58105,
     'longitude' => 77.69662,
   ),
-  3318 => 
+  3222 => 
   array (
     'id' => 134377,
     'name' => 'Vuyyuru',
@@ -29872,7 +29008,7 @@ return array (
     'latitude' => 16.36307,
     'longitude' => 80.84406,
   ),
-  3319 => 
+  3223 => 
   array (
     'id' => 134378,
     'name' => 'Vyara',
@@ -29881,7 +29017,7 @@ return array (
     'latitude' => 21.11079,
     'longitude' => 73.39365,
   ),
-  3320 => 
+  3224 => 
   array (
     'id' => 134379,
     'name' => 'Vada',
@@ -29890,7 +29026,7 @@ return array (
     'latitude' => 19.65347,
     'longitude' => 73.14811,
   ),
-  3321 => 
+  3225 => 
   array (
     'id' => 134380,
     'name' => 'Vadippatti',
@@ -29899,7 +29035,7 @@ return array (
     'latitude' => 10.08481,
     'longitude' => 77.96113,
   ),
-  3322 => 
+  3226 => 
   array (
     'id' => 134381,
     'name' => 'Vaghodia',
@@ -29908,7 +29044,7 @@ return array (
     'latitude' => 22.30505,
     'longitude' => 73.40016,
   ),
-  3323 => 
+  3227 => 
   array (
     'id' => 134384,
     'name' => 'Vasudevanallur',
@@ -29917,7 +29053,7 @@ return array (
     'latitude' => 9.24171,
     'longitude' => 77.41177,
   ),
-  3324 => 
+  3228 => 
   array (
     'id' => 134385,
     'name' => 'Viraganur',
@@ -29926,7 +29062,7 @@ return array (
     'latitude' => 11.47613,
     'longitude' => 78.73553,
   ),
-  3325 => 
+  3229 => 
   array (
     'id' => 134386,
     'name' => 'Virarajendrapet',
@@ -29935,7 +29071,7 @@ return array (
     'latitude' => 12.19644,
     'longitude' => 75.80512,
   ),
-  3326 => 
+  3230 => 
   array (
     'id' => 134387,
     'name' => 'Visavadar',
@@ -29944,7 +29080,7 @@ return array (
     'latitude' => 21.33954,
     'longitude' => 70.74966,
   ),
-  3327 => 
+  3231 => 
   array (
     'id' => 134388,
     'name' => 'Wadgaon',
@@ -29953,7 +29089,7 @@ return array (
     'latitude' => 18.7392,
     'longitude' => 73.63945,
   ),
-  3328 => 
+  3232 => 
   array (
     'id' => 134389,
     'name' => 'Waghai',
@@ -29962,7 +29098,7 @@ return array (
     'latitude' => 20.77048,
     'longitude' => 73.50074,
   ),
-  3329 => 
+  3233 => 
   array (
     'id' => 134390,
     'name' => 'Wai',
@@ -29971,7 +29107,7 @@ return array (
     'latitude' => 17.95276,
     'longitude' => 73.89058,
   ),
-  3330 => 
+  3234 => 
   array (
     'id' => 134391,
     'name' => 'Walajapet',
@@ -29980,7 +29116,7 @@ return array (
     'latitude' => 12.9251,
     'longitude' => 79.36626,
   ),
-  3331 => 
+  3235 => 
   array (
     'id' => 134392,
     'name' => 'Wallajahbad',
@@ -29989,7 +29125,7 @@ return array (
     'latitude' => 12.79041,
     'longitude' => 79.82358,
   ),
-  3332 => 
+  3236 => 
   array (
     'id' => 134393,
     'name' => 'Wani',
@@ -29998,7 +29134,7 @@ return array (
     'latitude' => 20.05507,
     'longitude' => 78.95313,
   ),
-  3333 => 
+  3237 => 
   array (
     'id' => 134394,
     'name' => 'Wanparti',
@@ -30007,7 +29143,7 @@ return array (
     'latitude' => 16.36738,
     'longitude' => 78.06889,
   ),
-  3334 => 
+  3238 => 
   array (
     'id' => 134395,
     'name' => 'Warangal',
@@ -30016,7 +29152,7 @@ return array (
     'latitude' => 18.0,
     'longitude' => 79.83333,
   ),
-  3335 => 
+  3239 => 
   array (
     'id' => 134396,
     'name' => 'Wardha',
@@ -30025,7 +29161,7 @@ return array (
     'latitude' => 20.73933,
     'longitude' => 78.59784,
   ),
-  3336 => 
+  3240 => 
   array (
     'id' => 134397,
     'name' => 'Warora',
@@ -30034,7 +29170,7 @@ return array (
     'latitude' => 20.22885,
     'longitude' => 79.00277,
   ),
-  3337 => 
+  3241 => 
   array (
     'id' => 134398,
     'name' => 'Warud',
@@ -30043,7 +29179,7 @@ return array (
     'latitude' => 21.47101,
     'longitude' => 78.26965,
   ),
-  3338 => 
+  3242 => 
   array (
     'id' => 134399,
     'name' => 'Washim',
@@ -30052,7 +29188,7 @@ return array (
     'latitude' => 20.2,
     'longitude' => 77.2,
   ),
-  3339 => 
+  3243 => 
   array (
     'id' => 134400,
     'name' => 'Wayanad',
@@ -30061,7 +29197,7 @@ return array (
     'latitude' => 11.605,
     'longitude' => 76.083,
   ),
-  3340 => 
+  3244 => 
   array (
     'id' => 134401,
     'name' => 'Wazirganj',
@@ -30070,7 +29206,7 @@ return array (
     'latitude' => 28.21145,
     'longitude' => 79.05665,
   ),
-  3341 => 
+  3245 => 
   array (
     'id' => 134402,
     'name' => 'Wellington',
@@ -30079,7 +29215,7 @@ return array (
     'latitude' => 11.36552,
     'longitude' => 76.78442,
   ),
-  3342 => 
+  3246 => 
   array (
     'id' => 134403,
     'name' => 'Wer',
@@ -30088,7 +29224,7 @@ return array (
     'latitude' => 27.0186,
     'longitude' => 77.17636,
   ),
-  3343 => 
+  3247 => 
   array (
     'id' => 134404,
     'name' => 'West Delhi',
@@ -30097,7 +29233,7 @@ return array (
     'latitude' => 28.65655,
     'longitude' => 77.10068,
   ),
-  3344 => 
+  3248 => 
   array (
     'id' => 134405,
     'name' => 'West District',
@@ -30106,7 +29242,7 @@ return array (
     'latitude' => 27.33333,
     'longitude' => 88.25,
   ),
-  3345 => 
+  3249 => 
   array (
     'id' => 134406,
     'name' => 'West Garo Hills',
@@ -30115,7 +29251,7 @@ return array (
     'latitude' => 25.56794,
     'longitude' => 90.22447,
   ),
-  3346 => 
+  3250 => 
   array (
     'id' => 134407,
     'name' => 'West Godavari',
@@ -30124,7 +29260,7 @@ return array (
     'latitude' => 17.0,
     'longitude' => 81.16667,
   ),
-  3347 => 
+  3251 => 
   array (
     'id' => 134408,
     'name' => 'West Jaintia Hills',
@@ -30133,7 +29269,7 @@ return array (
     'latitude' => 25.5,
     'longitude' => 92.25,
   ),
-  3348 => 
+  3252 => 
   array (
     'id' => 134409,
     'name' => 'West Kameng',
@@ -30142,7 +29278,7 @@ return array (
     'latitude' => 27.4,
     'longitude' => 92.35,
   ),
-  3349 => 
+  3253 => 
   array (
     'id' => 134410,
     'name' => 'West Khasi Hills',
@@ -30151,7 +29287,7 @@ return array (
     'latitude' => 25.54776,
     'longitude' => 91.26957,
   ),
-  3350 => 
+  3254 => 
   array (
     'id' => 134411,
     'name' => 'West Siang',
@@ -30160,7 +29296,7 @@ return array (
     'latitude' => 28.4,
     'longitude' => 94.55,
   ),
-  3351 => 
+  3255 => 
   array (
     'id' => 134412,
     'name' => 'West Tripura',
@@ -30169,7 +29305,7 @@ return array (
     'latitude' => 23.91667,
     'longitude' => 91.5,
   ),
-  3352 => 
+  3256 => 
   array (
     'id' => 134413,
     'name' => 'Wokha',
@@ -30178,7 +29314,7 @@ return array (
     'latitude' => 26.16667,
     'longitude' => 94.25,
   ),
-  3353 => 
+  3257 => 
   array (
     'id' => 134414,
     'name' => 'Wadi',
@@ -30187,7 +29323,7 @@ return array (
     'latitude' => 17.05183,
     'longitude' => 76.99048,
   ),
-  3354 => 
+  3258 => 
   array (
     'id' => 134416,
     'name' => 'Wankaner',
@@ -30196,7 +29332,7 @@ return array (
     'latitude' => 22.61198,
     'longitude' => 70.94379,
   ),
-  3355 => 
+  3259 => 
   array (
     'id' => 134417,
     'name' => 'Waris Aliganj',
@@ -30205,7 +29341,7 @@ return array (
     'latitude' => 25.0172,
     'longitude' => 85.64047,
   ),
-  3356 => 
+  3260 => 
   array (
     'id' => 134418,
     'name' => 'Waraseoni',
@@ -30214,7 +29350,7 @@ return array (
     'latitude' => 21.76184,
     'longitude' => 80.04301,
   ),
-  3357 => 
+  3261 => 
   array (
     'id' => 134420,
     'name' => 'Yadgir',
@@ -30223,7 +29359,7 @@ return array (
     'latitude' => 16.73,
     'longitude' => 76.94,
   ),
-  3358 => 
+  3262 => 
   array (
     'id' => 134422,
     'name' => 'Yamunanagar',
@@ -30232,7 +29368,7 @@ return array (
     'latitude' => 30.23644,
     'longitude' => 77.30498,
   ),
-  3359 => 
+  3263 => 
   array (
     'id' => 134424,
     'name' => 'Yanam',
@@ -30241,16 +29377,7 @@ return array (
     'latitude' => 16.73308,
     'longitude' => 82.21364,
   ),
-  3360 => 
-  array (
-    'id' => 134425,
-    'name' => 'Yanam',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 16.73463,
-    'longitude' => 82.21773,
-  ),
-  3361 => 
+  3264 => 
   array (
     'id' => 134426,
     'name' => 'Yanamalakuduru',
@@ -30259,7 +29386,7 @@ return array (
     'latitude' => 16.48531,
     'longitude' => 80.66746,
   ),
-  3362 => 
+  3265 => 
   array (
     'id' => 134427,
     'name' => 'Yavatmal',
@@ -30268,7 +29395,7 @@ return array (
     'latitude' => 20.15,
     'longitude' => 78.35,
   ),
-  3363 => 
+  3266 => 
   array (
     'id' => 134429,
     'name' => 'Yelahanka',
@@ -30277,7 +29404,7 @@ return array (
     'latitude' => 13.10073,
     'longitude' => 77.59632,
   ),
-  3364 => 
+  3267 => 
   array (
     'id' => 134430,
     'name' => 'Yelandur',
@@ -30286,7 +29413,7 @@ return array (
     'latitude' => 12.04629,
     'longitude' => 77.03034,
   ),
-  3365 => 
+  3268 => 
   array (
     'id' => 134431,
     'name' => 'Yelbarga',
@@ -30295,7 +29422,7 @@ return array (
     'latitude' => 15.61545,
     'longitude' => 76.01184,
   ),
-  3366 => 
+  3269 => 
   array (
     'id' => 134432,
     'name' => 'Yellandu',
@@ -30304,7 +29431,7 @@ return array (
     'latitude' => 17.59064,
     'longitude' => 80.32146,
   ),
-  3367 => 
+  3270 => 
   array (
     'id' => 134433,
     'name' => 'Yellapur',
@@ -30313,7 +29440,7 @@ return array (
     'latitude' => 14.9637,
     'longitude' => 74.70929,
   ),
-  3368 => 
+  3271 => 
   array (
     'id' => 134434,
     'name' => 'Yeola',
@@ -30322,7 +29449,7 @@ return array (
     'latitude' => 20.0424,
     'longitude' => 74.48944,
   ),
-  3369 => 
+  3272 => 
   array (
     'id' => 134435,
     'name' => 'Yol',
@@ -30331,7 +29458,7 @@ return array (
     'latitude' => 32.16423,
     'longitude' => 76.19622,
   ),
-  3370 => 
+  3273 => 
   array (
     'id' => 134437,
     'name' => 'Yarada',
@@ -30340,7 +29467,7 @@ return array (
     'latitude' => 17.65872,
     'longitude' => 83.27419,
   ),
-  3371 => 
+  3274 => 
   array (
     'id' => 134438,
     'name' => 'Yaval',
@@ -30349,7 +29476,7 @@ return array (
     'latitude' => 21.16772,
     'longitude' => 75.69762,
   ),
-  3372 => 
+  3275 => 
   array (
     'id' => 134439,
     'name' => 'Zafarabad',
@@ -30358,7 +29485,7 @@ return array (
     'latitude' => 25.69867,
     'longitude' => 82.73354,
   ),
-  3373 => 
+  3276 => 
   array (
     'id' => 134440,
     'name' => 'Zahirabad',
@@ -30367,7 +29494,7 @@ return array (
     'latitude' => 17.68138,
     'longitude' => 77.60743,
   ),
-  3374 => 
+  3277 => 
   array (
     'id' => 134441,
     'name' => 'Zaidpur',
@@ -30376,7 +29503,7 @@ return array (
     'latitude' => 26.83093,
     'longitude' => 81.32929,
   ),
-  3375 => 
+  3278 => 
   array (
     'id' => 134442,
     'name' => 'Zamania',
@@ -30385,7 +29512,7 @@ return array (
     'latitude' => 25.41961,
     'longitude' => 83.55786,
   ),
-  3376 => 
+  3279 => 
   array (
     'id' => 134443,
     'name' => 'Zira',
@@ -30394,7 +29521,7 @@ return array (
     'latitude' => 30.96853,
     'longitude' => 74.99106,
   ),
-  3377 => 
+  3280 => 
   array (
     'id' => 134444,
     'name' => 'Ziro',
@@ -30403,7 +29530,7 @@ return array (
     'latitude' => 27.59497,
     'longitude' => 93.83854,
   ),
-  3378 => 
+  3281 => 
   array (
     'id' => 134445,
     'name' => 'Zunheboto',
@@ -30412,7 +29539,7 @@ return array (
     'latitude' => 26.0,
     'longitude' => 94.5,
   ),
-  3379 => 
+  3282 => 
   array (
     'id' => 134446,
     'name' => 'patamda',
@@ -30421,7 +29548,7 @@ return array (
     'latitude' => 24.3,
     'longitude' => 85.41667,
   ),
-  3380 => 
+  3283 => 
   array (
     'id' => 134447,
     'name' => 'pedda nakkalapalem',
@@ -30430,7 +29557,7 @@ return array (
     'latitude' => 15.8668,
     'longitude' => 80.16202,
   ),
-  3381 => 
+  3284 => 
   array (
     'id' => 134448,
     'name' => 'vadlamuru',
@@ -30439,7 +29566,7 @@ return array (
     'latitude' => 17.09545,
     'longitude' => 82.16565,
   ),
-  3382 => 
+  3285 => 
   array (
     'id' => 134449,
     'name' => 'Abu',
@@ -30448,7 +29575,7 @@ return array (
     'latitude' => 24.59365,
     'longitude' => 72.71756,
   ),
-  3383 => 
+  3286 => 
   array (
     'id' => 134450,
     'name' => 'Abu Road',
@@ -30457,7 +29584,7 @@ return array (
     'latitude' => 24.48012,
     'longitude' => 72.78186,
   ),
-  3384 => 
+  3287 => 
   array (
     'id' => 134451,
     'name' => 'Adilabad',
@@ -30466,7 +29593,7 @@ return array (
     'latitude' => 19.5,
     'longitude' => 78.5,
   ),
-  3385 => 
+  3288 => 
   array (
     'id' => 134452,
     'name' => 'Adoni',
@@ -30475,16 +29602,7 @@ return array (
     'latitude' => 15.62788,
     'longitude' => 77.27495,
   ),
-  3386 => 
-  array (
-    'id' => 134454,
-    'name' => 'Alampur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 15.87987,
-    'longitude' => 78.13352,
-  ),
-  3387 => 
+  3289 => 
   array (
     'id' => 134455,
     'name' => 'Alangudi',
@@ -30493,7 +29611,7 @@ return array (
     'latitude' => 10.3606,
     'longitude' => 78.98492,
   ),
-  3388 => 
+  3290 => 
   array (
     'id' => 134456,
     'name' => 'Alangulam',
@@ -30502,7 +29620,7 @@ return array (
     'latitude' => 8.86404,
     'longitude' => 77.49937,
   ),
-  3389 => 
+  3291 => 
   array (
     'id' => 134457,
     'name' => 'Alappakkam',
@@ -30511,7 +29629,7 @@ return array (
     'latitude' => 11.59895,
     'longitude' => 79.71893,
   ),
-  3390 => 
+  3292 => 
   array (
     'id' => 134458,
     'name' => 'Ambasa',
@@ -30520,7 +29638,7 @@ return array (
     'latitude' => 23.936,
     'longitude' => 91.85436,
   ),
-  3391 => 
+  3293 => 
   array (
     'id' => 134459,
     'name' => 'Amli',
@@ -30529,7 +29647,7 @@ return array (
     'latitude' => 20.28333,
     'longitude' => 73.01667,
   ),
-  3392 => 
+  3294 => 
   array (
     'id' => 134460,
     'name' => 'Andippatti',
@@ -30538,7 +29656,7 @@ return array (
     'latitude' => 9.99797,
     'longitude' => 77.62097,
   ),
-  3393 => 
+  3295 => 
   array (
     'id' => 134461,
     'name' => 'Arangaon',
@@ -30547,7 +29665,7 @@ return array (
     'latitude' => 19.02681,
     'longitude' => 74.71487,
   ),
-  3394 => 
+  3296 => 
   array (
     'id' => 134462,
     'name' => 'Aron',
@@ -30556,7 +29674,7 @@ return array (
     'latitude' => 24.38109,
     'longitude' => 77.41739,
   ),
-  3395 => 
+  3297 => 
   array (
     'id' => 134463,
     'name' => 'Arvi',
@@ -30565,7 +29683,7 @@ return array (
     'latitude' => 20.99585,
     'longitude' => 78.22914,
   ),
-  3396 => 
+  3298 => 
   array (
     'id' => 134464,
     'name' => 'Asandh',
@@ -30574,7 +29692,7 @@ return array (
     'latitude' => 29.52119,
     'longitude' => 76.60552,
   ),
-  3397 => 
+  3299 => 
   array (
     'id' => 134465,
     'name' => 'Asika',
@@ -30583,7 +29701,7 @@ return array (
     'latitude' => 19.61114,
     'longitude' => 84.65998,
   ),
-  3398 => 
+  3300 => 
   array (
     'id' => 134466,
     'name' => 'Asind',
@@ -30592,7 +29710,7 @@ return array (
     'latitude' => 25.7342,
     'longitude' => 74.33278,
   ),
-  3399 => 
+  3301 => 
   array (
     'id' => 134467,
     'name' => 'Athagarh',
@@ -30601,7 +29719,7 @@ return array (
     'latitude' => 20.51999,
     'longitude' => 85.62965,
   ),
-  3400 => 
+  3302 => 
   array (
     'id' => 134468,
     'name' => 'Attayyampatti',
@@ -30610,7 +29728,7 @@ return array (
     'latitude' => 11.53272,
     'longitude' => 78.05363,
   ),
-  3401 => 
+  3303 => 
   array (
     'id' => 134469,
     'name' => 'Avadi',
@@ -30619,16 +29737,7 @@ return array (
     'latitude' => 13.1147,
     'longitude' => 80.10981,
   ),
-  3402 => 
-  array (
-    'id' => 134471,
-    'name' => 'Un',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 29.58479,
-    'longitude' => 77.2554,
-  ),
-  3403 => 
+  3304 => 
   array (
     'id' => 134472,
     'name' => 'Uttukkuli',
@@ -30637,7 +29746,7 @@ return array (
     'latitude' => 11.16892,
     'longitude' => 77.45431,
   ),
-  3404 => 
+  3305 => 
   array (
     'id' => 141852,
     'name' => 'Ahmedpur',
@@ -30646,7 +29755,7 @@ return array (
     'latitude' => 23.83009,
     'longitude' => 87.68661,
   ),
-  3405 => 
+  3306 => 
   array (
     'id' => 141853,
     'name' => 'Aistala',
@@ -30655,7 +29764,7 @@ return array (
     'latitude' => 23.18,
     'longitude' => 88.58,
   ),
-  3406 => 
+  3307 => 
   array (
     'id' => 141854,
     'name' => 'Aknapur',
@@ -30664,7 +29773,7 @@ return array (
     'latitude' => 18.38576389,
     'longitude' => 77.27225278,
   ),
-  3407 => 
+  3308 => 
   array (
     'id' => 141855,
     'name' => 'Alipurduar',
@@ -30673,7 +29782,7 @@ return array (
     'latitude' => 26.49136,
     'longitude' => 89.52796,
   ),
-  3408 => 
+  3309 => 
   array (
     'id' => 141857,
     'name' => 'Amta',
@@ -30682,7 +29791,7 @@ return array (
     'latitude' => 22.57333333,
     'longitude' => 88.01611111,
   ),
-  3409 => 
+  3310 => 
   array (
     'id' => 141858,
     'name' => 'Amtala',
@@ -30691,7 +29800,7 @@ return array (
     'latitude' => 22.22,
     'longitude' => 88.17,
   ),
-  3410 => 
+  3311 => 
   array (
     'id' => 141859,
     'name' => 'Andal',
@@ -30700,7 +29809,7 @@ return array (
     'latitude' => 23.6,
     'longitude' => 87.2,
   ),
-  3411 => 
+  3312 => 
   array (
     'id' => 141860,
     'name' => 'Arambagh community development block',
@@ -30709,7 +29818,7 @@ return array (
     'latitude' => 22.88,
     'longitude' => 87.78,
   ),
-  3412 => 
+  3313 => 
   array (
     'id' => 141861,
     'name' => 'Asansol',
@@ -30718,7 +29827,7 @@ return array (
     'latitude' => 23.68333333,
     'longitude' => 86.96666667,
   ),
-  3413 => 
+  3314 => 
   array (
     'id' => 141862,
     'name' => 'Ashoknagar Kalyangarh',
@@ -30727,7 +29836,7 @@ return array (
     'latitude' => 22.833,
     'longitude' => 88.633,
   ),
-  3414 => 
+  3315 => 
   array (
     'id' => 141863,
     'name' => 'Badkulla',
@@ -30736,7 +29845,7 @@ return array (
     'latitude' => 23.28,
     'longitude' => 88.53,
   ),
-  3415 => 
+  3316 => 
   array (
     'id' => 141864,
     'name' => 'Baduria',
@@ -30745,7 +29854,7 @@ return array (
     'latitude' => 22.74,
     'longitude' => 88.79,
   ),
-  3416 => 
+  3317 => 
   array (
     'id' => 141865,
     'name' => 'Bagdogra',
@@ -30754,7 +29863,7 @@ return array (
     'latitude' => 26.699804,
     'longitude' => 88.319392,
   ),
-  3417 => 
+  3318 => 
   array (
     'id' => 141866,
     'name' => 'Bagnan',
@@ -30763,7 +29872,7 @@ return array (
     'latitude' => 22.47,
     'longitude' => 87.97,
   ),
-  3418 => 
+  3319 => 
   array (
     'id' => 141867,
     'name' => 'Bagula',
@@ -30772,7 +29881,7 @@ return array (
     'latitude' => 23.335,
     'longitude' => 88.644,
   ),
-  3419 => 
+  3320 => 
   array (
     'id' => 141868,
     'name' => 'Bahula',
@@ -30781,7 +29890,7 @@ return array (
     'latitude' => 23.657419,
     'longitude' => 87.195974,
   ),
-  3420 => 
+  3321 => 
   array (
     'id' => 141869,
     'name' => 'Baidyabati',
@@ -30790,7 +29899,7 @@ return array (
     'latitude' => 22.79,
     'longitude' => 88.32,
   ),
-  3421 => 
+  3322 => 
   array (
     'id' => 141870,
     'name' => 'Bakreswar',
@@ -30799,7 +29908,7 @@ return array (
     'latitude' => 23.8832,
     'longitude' => 87.37265,
   ),
-  3422 => 
+  3323 => 
   array (
     'id' => 141871,
     'name' => 'Balarampur',
@@ -30808,7 +29917,7 @@ return array (
     'latitude' => 23.09714,
     'longitude' => 86.22292,
   ),
-  3423 => 
+  3324 => 
   array (
     'id' => 141872,
     'name' => 'Bally',
@@ -30817,7 +29926,7 @@ return array (
     'latitude' => 22.65,
     'longitude' => 88.34,
   ),
-  3424 => 
+  3325 => 
   array (
     'id' => 141873,
     'name' => 'Balurghat',
@@ -30826,7 +29935,7 @@ return array (
     'latitude' => 25.21666667,
     'longitude' => 88.76666667,
   ),
-  3425 => 
+  3326 => 
   array (
     'id' => 141874,
     'name' => 'Bamangola community development block',
@@ -30835,7 +29944,7 @@ return array (
     'latitude' => 25.17,
     'longitude' => 88.335,
   ),
-  3426 => 
+  3327 => 
   array (
     'id' => 141875,
     'name' => 'Baneswar',
@@ -30844,16 +29953,7 @@ return array (
     'latitude' => 26.65,
     'longitude' => 89.81666667,
   ),
-  3427 => 
-  array (
-    'id' => 141876,
-    'name' => 'Bangaon',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.07,
-    'longitude' => 88.82,
-  ),
-  3428 => 
+  3328 => 
   array (
     'id' => 141877,
     'name' => 'Bankra',
@@ -30862,7 +29962,7 @@ return array (
     'latitude' => 22.63,
     'longitude' => 88.3,
   ),
-  3429 => 
+  3329 => 
   array (
     'id' => 141878,
     'name' => 'Bankura',
@@ -30871,7 +29971,7 @@ return array (
     'latitude' => 23.25,
     'longitude' => 87.06666667,
   ),
-  3430 => 
+  3330 => 
   array (
     'id' => 141879,
     'name' => 'Bansberia',
@@ -30880,7 +29980,7 @@ return array (
     'latitude' => 22.97,
     'longitude' => 88.4,
   ),
-  3431 => 
+  3331 => 
   array (
     'id' => 141880,
     'name' => 'Bansihari community development block',
@@ -30889,7 +29989,7 @@ return array (
     'latitude' => 25.4,
     'longitude' => 88.4167,
   ),
-  3432 => 
+  3332 => 
   array (
     'id' => 141881,
     'name' => 'Barabazar',
@@ -30898,7 +29998,7 @@ return array (
     'latitude' => 23.36,
     'longitude' => 86.65,
   ),
-  3433 => 
+  3333 => 
   array (
     'id' => 141882,
     'name' => 'Baranagar',
@@ -30907,7 +30007,7 @@ return array (
     'latitude' => 22.64,
     'longitude' => 88.37,
   ),
-  3434 => 
+  3334 => 
   array (
     'id' => 141883,
     'name' => 'Barasat',
@@ -30916,7 +30016,7 @@ return array (
     'latitude' => 22.23333333,
     'longitude' => 88.45,
   ),
-  3435 => 
+  3335 => 
   array (
     'id' => 141884,
     'name' => 'Bardhaman',
@@ -30925,7 +30025,7 @@ return array (
     'latitude' => 23.25,
     'longitude' => 87.85,
   ),
-  3436 => 
+  3336 => 
   array (
     'id' => 141885,
     'name' => 'Barjora',
@@ -30934,7 +30034,7 @@ return array (
     'latitude' => 23.43333333,
     'longitude' => 87.28333333,
   ),
-  3437 => 
+  3337 => 
   array (
     'id' => 141886,
     'name' => 'Barrackpore',
@@ -30943,7 +30043,7 @@ return array (
     'latitude' => 22.75,
     'longitude' => 88.36666667,
   ),
-  3438 => 
+  3338 => 
   array (
     'id' => 141887,
     'name' => 'Baruipur',
@@ -30952,7 +30052,7 @@ return array (
     'latitude' => 22.35,
     'longitude' => 88.44,
   ),
-  3439 => 
+  3339 => 
   array (
     'id' => 141888,
     'name' => 'Basanti',
@@ -30961,7 +30061,7 @@ return array (
     'latitude' => 22.1891534,
     'longitude' => 88.6705685,
   ),
-  3440 => 
+  3340 => 
   array (
     'id' => 141889,
     'name' => 'Basirhat',
@@ -30970,7 +30070,7 @@ return array (
     'latitude' => 22.65722222,
     'longitude' => 88.89416667,
   ),
-  3441 => 
+  3341 => 
   array (
     'id' => 141890,
     'name' => 'Begampur',
@@ -30979,7 +30079,7 @@ return array (
     'latitude' => 22.74,
     'longitude' => 88.24,
   ),
-  3442 => 
+  3342 => 
   array (
     'id' => 141891,
     'name' => 'Belda',
@@ -30988,7 +30088,7 @@ return array (
     'latitude' => 22.08,
     'longitude' => 87.35,
   ),
-  3443 => 
+  3343 => 
   array (
     'id' => 141892,
     'name' => 'Beldanga',
@@ -30997,7 +30097,7 @@ return array (
     'latitude' => 23.93,
     'longitude' => 88.25,
   ),
-  3444 => 
+  3344 => 
   array (
     'id' => 141893,
     'name' => 'Beliatore',
@@ -31006,7 +30106,7 @@ return array (
     'latitude' => 23.33333333,
     'longitude' => 87.21666667,
   ),
-  3445 => 
+  3345 => 
   array (
     'id' => 141894,
     'name' => 'Berhampore',
@@ -31015,7 +30115,7 @@ return array (
     'latitude' => 24.1,
     'longitude' => 88.25,
   ),
-  3446 => 
+  3346 => 
   array (
     'id' => 141895,
     'name' => 'Bhadreswar',
@@ -31024,7 +30124,7 @@ return array (
     'latitude' => 22.82,
     'longitude' => 88.35,
   ),
-  3447 => 
+  3347 => 
   array (
     'id' => 141896,
     'name' => 'Bhandardaha',
@@ -31033,7 +30133,7 @@ return array (
     'latitude' => 22.62,
     'longitude' => 88.21,
   ),
-  3448 => 
+  3348 => 
   array (
     'id' => 141897,
     'name' => 'Bhatpara',
@@ -31042,7 +30142,7 @@ return array (
     'latitude' => 22.86666667,
     'longitude' => 88.41666667,
   ),
-  3449 => 
+  3349 => 
   array (
     'id' => 141898,
     'name' => 'Birbhum district',
@@ -31051,7 +30151,7 @@ return array (
     'latitude' => 24.0,
     'longitude' => 87.58333,
   ),
-  3450 => 
+  3350 => 
   array (
     'id' => 141899,
     'name' => 'Birpara',
@@ -31060,16 +30160,7 @@ return array (
     'latitude' => 26.5,
     'longitude' => 89.5,
   ),
-  3451 => 
-  array (
-    'id' => 141900,
-    'name' => 'Bishnupur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.38,
-    'longitude' => 88.27,
-  ),
-  3452 => 
+  3351 => 
   array (
     'id' => 141901,
     'name' => 'Bolpur',
@@ -31078,7 +30169,7 @@ return array (
     'latitude' => 23.67,
     'longitude' => 87.72,
   ),
-  3453 => 
+  3352 => 
   array (
     'id' => 141902,
     'name' => 'Budge Budge',
@@ -31087,7 +30178,7 @@ return array (
     'latitude' => 22.47,
     'longitude' => 88.17,
   ),
-  3454 => 
+  3353 => 
   array (
     'id' => 141903,
     'name' => 'Bali Chak',
@@ -31096,7 +30187,7 @@ return array (
     'latitude' => 22.36482,
     'longitude' => 87.55304,
   ),
-  3455 => 
+  3354 => 
   array (
     'id' => 141904,
     'name' => 'Bawali',
@@ -31105,7 +30196,7 @@ return array (
     'latitude' => 22.42563,
     'longitude' => 88.19336,
   ),
-  3456 => 
+  3355 => 
   array (
     'id' => 141905,
     'name' => 'Canning',
@@ -31114,7 +30205,7 @@ return array (
     'latitude' => 22.32,
     'longitude' => 88.67,
   ),
-  3457 => 
+  3356 => 
   array (
     'id' => 141906,
     'name' => 'Chakapara',
@@ -31123,7 +30214,7 @@ return array (
     'latitude' => 22.63,
     'longitude' => 88.35,
   ),
-  3458 => 
+  3357 => 
   array (
     'id' => 141907,
     'name' => 'Chakdaha',
@@ -31132,7 +30223,7 @@ return array (
     'latitude' => 23.08,
     'longitude' => 88.52,
   ),
-  3459 => 
+  3358 => 
   array (
     'id' => 141908,
     'name' => 'Champadanga',
@@ -31141,7 +30232,7 @@ return array (
     'latitude' => 22.83,
     'longitude' => 87.96,
   ),
-  3460 => 
+  3359 => 
   array (
     'id' => 141909,
     'name' => 'Champdani',
@@ -31150,7 +30241,7 @@ return array (
     'latitude' => 22.8,
     'longitude' => 88.37,
   ),
-  3461 => 
+  3360 => 
   array (
     'id' => 141910,
     'name' => 'Chandannagar',
@@ -31159,7 +30250,7 @@ return array (
     'latitude' => 22.86666667,
     'longitude' => 88.38333333,
   ),
-  3462 => 
+  3361 => 
   array (
     'id' => 141911,
     'name' => 'Chandrakona',
@@ -31168,7 +30259,7 @@ return array (
     'latitude' => 22.73,
     'longitude' => 87.52,
   ),
-  3463 => 
+  3362 => 
   array (
     'id' => 141912,
     'name' => 'Chittaranjan',
@@ -31177,7 +30268,7 @@ return array (
     'latitude' => 23.87,
     'longitude' => 86.87,
   ),
-  3464 => 
+  3363 => 
   array (
     'id' => 141913,
     'name' => 'Churulia',
@@ -31186,7 +30277,7 @@ return array (
     'latitude' => 23.78,
     'longitude' => 87.08,
   ),
-  3465 => 
+  3364 => 
   array (
     'id' => 141914,
     'name' => 'Champahati',
@@ -31195,7 +30286,7 @@ return array (
     'latitude' => 22.40026,
     'longitude' => 88.49209,
   ),
-  3466 => 
+  3365 => 
   array (
     'id' => 141915,
     'name' => 'Contai',
@@ -31204,7 +30295,7 @@ return array (
     'latitude' => 21.78,
     'longitude' => 87.75,
   ),
-  3467 => 
+  3366 => 
   array (
     'id' => 141916,
     'name' => 'Cooch Behar',
@@ -31213,7 +30304,7 @@ return array (
     'latitude' => 26.31666667,
     'longitude' => 89.43333333,
   ),
-  3468 => 
+  3367 => 
   array (
     'id' => 141917,
     'name' => 'Cossimbazar',
@@ -31222,7 +30313,7 @@ return array (
     'latitude' => 24.12,
     'longitude' => 88.28,
   ),
-  3469 => 
+  3368 => 
   array (
     'id' => 141918,
     'name' => 'Dakshin Dinajpur district',
@@ -31231,7 +30322,7 @@ return array (
     'latitude' => 25.22,
     'longitude' => 88.76,
   ),
-  3470 => 
+  3369 => 
   array (
     'id' => 141919,
     'name' => 'Dalkola',
@@ -31240,7 +30331,7 @@ return array (
     'latitude' => 25.87577,
     'longitude' => 87.84009,
   ),
-  3471 => 
+  3370 => 
   array (
     'id' => 141920,
     'name' => 'Dam Dam',
@@ -31249,7 +30340,7 @@ return array (
     'latitude' => 22.63333333,
     'longitude' => 88.42277778,
   ),
-  3472 => 
+  3371 => 
   array (
     'id' => 141921,
     'name' => 'Darjeeling',
@@ -31258,16 +30349,7 @@ return array (
     'latitude' => 27.04166667,
     'longitude' => 88.26305556,
   ),
-  3473 => 
-  array (
-    'id' => 141922,
-    'name' => 'Daulatpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.32605,
-    'longitude' => 88.32989,
-  ),
-  3474 => 
+  3372 => 
   array (
     'id' => 141923,
     'name' => 'Debagram',
@@ -31276,7 +30358,7 @@ return array (
     'latitude' => 23.68333333,
     'longitude' => 88.28333333,
   ),
-  3475 => 
+  3373 => 
   array (
     'id' => 141924,
     'name' => 'Debipur',
@@ -31285,7 +30367,7 @@ return array (
     'latitude' => 24.25029,
     'longitude' => 88.61824,
   ),
-  3476 => 
+  3374 => 
   array (
     'id' => 141925,
     'name' => 'Dhaniakhali community development block',
@@ -31294,7 +30376,7 @@ return array (
     'latitude' => 22.97,
     'longitude' => 88.1,
   ),
-  3477 => 
+  3375 => 
   array (
     'id' => 141926,
     'name' => 'Dhulagari',
@@ -31303,7 +30385,7 @@ return array (
     'latitude' => 22.58222222,
     'longitude' => 88.17111111,
   ),
-  3478 => 
+  3376 => 
   array (
     'id' => 141927,
     'name' => 'Dhulian',
@@ -31312,7 +30394,7 @@ return array (
     'latitude' => 24.68,
     'longitude' => 87.97,
   ),
-  3479 => 
+  3377 => 
   array (
     'id' => 141928,
     'name' => 'Dhupguri',
@@ -31321,7 +30403,7 @@ return array (
     'latitude' => 26.6,
     'longitude' => 89.02,
   ),
-  3480 => 
+  3378 => 
   array (
     'id' => 141929,
     'name' => 'Diamond Harbour',
@@ -31330,7 +30412,7 @@ return array (
     'latitude' => 22.2,
     'longitude' => 88.2,
   ),
-  3481 => 
+  3379 => 
   array (
     'id' => 141930,
     'name' => 'Digha',
@@ -31339,7 +30421,7 @@ return array (
     'latitude' => 21.68,
     'longitude' => 87.55,
   ),
-  3482 => 
+  3380 => 
   array (
     'id' => 141931,
     'name' => 'Dinhata',
@@ -31348,7 +30430,7 @@ return array (
     'latitude' => 26.13,
     'longitude' => 89.47,
   ),
-  3483 => 
+  3381 => 
   array (
     'id' => 141932,
     'name' => 'Domjur',
@@ -31357,7 +30439,7 @@ return array (
     'latitude' => 22.64,
     'longitude' => 88.22,
   ),
-  3484 => 
+  3382 => 
   array (
     'id' => 141933,
     'name' => 'Dubrajpur',
@@ -31366,16 +30448,7 @@ return array (
     'latitude' => 23.8,
     'longitude' => 87.38,
   ),
-  3485 => 
-  array (
-    'id' => 141934,
-    'name' => 'Durgapur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.55,
-    'longitude' => 87.32,
-  ),
-  3486 => 
+  3383 => 
   array (
     'id' => 141935,
     'name' => 'Egra',
@@ -31384,7 +30457,7 @@ return array (
     'latitude' => 21.9,
     'longitude' => 87.53,
   ),
-  3487 => 
+  3384 => 
   array (
     'id' => 141936,
     'name' => 'Falakata',
@@ -31393,7 +30466,7 @@ return array (
     'latitude' => 26.53,
     'longitude' => 89.2,
   ),
-  3488 => 
+  3385 => 
   array (
     'id' => 141937,
     'name' => 'Farakka',
@@ -31402,7 +30475,7 @@ return array (
     'latitude' => 24.81667,
     'longitude' => 87.9,
   ),
-  3489 => 
+  3386 => 
   array (
     'id' => 141938,
     'name' => 'Fort Gloster',
@@ -31411,7 +30484,7 @@ return array (
     'latitude' => 22.50444444,
     'longitude' => 88.18333333,
   ),
-  3490 => 
+  3387 => 
   array (
     'id' => 141939,
     'name' => 'Gaighata community development block',
@@ -31420,7 +30493,7 @@ return array (
     'latitude' => 22.93,
     'longitude' => 88.73,
   ),
-  3491 => 
+  3388 => 
   array (
     'id' => 141940,
     'name' => 'Gairkata',
@@ -31429,7 +30502,7 @@ return array (
     'latitude' => 26.68,
     'longitude' => 89.03,
   ),
-  3492 => 
+  3389 => 
   array (
     'id' => 141941,
     'name' => 'Gangadharpur',
@@ -31438,7 +30511,7 @@ return array (
     'latitude' => 22.7604,
     'longitude' => 88.2218,
   ),
-  3493 => 
+  3390 => 
   array (
     'id' => 141942,
     'name' => 'Gangarampur',
@@ -31447,7 +30520,7 @@ return array (
     'latitude' => 25.4,
     'longitude' => 88.52,
   ),
-  3494 => 
+  3391 => 
   array (
     'id' => 141943,
     'name' => 'Garui',
@@ -31456,7 +30529,7 @@ return array (
     'latitude' => 22.63333333,
     'longitude' => 88.4,
   ),
-  3495 => 
+  3392 => 
   array (
     'id' => 141944,
     'name' => 'Garulia',
@@ -31465,7 +30538,7 @@ return array (
     'latitude' => 22.82,
     'longitude' => 88.37,
   ),
-  3496 => 
+  3393 => 
   array (
     'id' => 141945,
     'name' => 'Ghatal',
@@ -31474,7 +30547,7 @@ return array (
     'latitude' => 22.67,
     'longitude' => 87.72,
   ),
-  3497 => 
+  3394 => 
   array (
     'id' => 141946,
     'name' => 'Giria',
@@ -31483,7 +30556,7 @@ return array (
     'latitude' => 24.51666667,
     'longitude' => 88.06666667,
   ),
-  3498 => 
+  3395 => 
   array (
     'id' => 141947,
     'name' => 'Gobardanga',
@@ -31492,7 +30565,7 @@ return array (
     'latitude' => 22.87,
     'longitude' => 88.76,
   ),
-  3499 => 
+  3396 => 
   array (
     'id' => 141948,
     'name' => 'Gobindapur',
@@ -31501,25 +30574,7 @@ return array (
     'latitude' => 22.59306,
     'longitude' => 88.09139,
   ),
-  3500 => 
-  array (
-    'id' => 141949,
-    'name' => 'Gopinathpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.22,
-    'longitude' => 88.15,
-  ),
-  3501 => 
-  array (
-    'id' => 141950,
-    'name' => 'Gopalpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.61845,
-    'longitude' => 88.75119,
-  ),
-  3502 => 
+  3397 => 
   array (
     'id' => 141951,
     'name' => 'Gorubathan',
@@ -31528,7 +30583,7 @@ return array (
     'latitude' => 26.97,
     'longitude' => 88.7,
   ),
-  3503 => 
+  3398 => 
   array (
     'id' => 141952,
     'name' => 'Gosaba',
@@ -31537,7 +30592,7 @@ return array (
     'latitude' => 22.16,
     'longitude' => 88.8,
   ),
-  3504 => 
+  3399 => 
   array (
     'id' => 141953,
     'name' => 'Gosanimari',
@@ -31546,7 +30601,7 @@ return array (
     'latitude' => 26.15,
     'longitude' => 89.36666667,
   ),
-  3505 => 
+  3400 => 
   array (
     'id' => 141954,
     'name' => 'Gurdaha',
@@ -31555,7 +30610,7 @@ return array (
     'latitude' => 22.73472222,
     'longitude' => 88.75944444,
   ),
-  3506 => 
+  3401 => 
   array (
     'id' => 141955,
     'name' => 'Guskhara',
@@ -31564,7 +30619,7 @@ return array (
     'latitude' => 23.49277778,
     'longitude' => 87.73472222,
   ),
-  3507 => 
+  3402 => 
   array (
     'id' => 141956,
     'name' => 'Habra',
@@ -31573,7 +30628,7 @@ return array (
     'latitude' => 22.83,
     'longitude' => 88.63,
   ),
-  3508 => 
+  3403 => 
   array (
     'id' => 141957,
     'name' => 'Haldia',
@@ -31582,7 +30637,7 @@ return array (
     'latitude' => 22.06046,
     'longitude' => 88.10975,
   ),
-  3509 => 
+  3404 => 
   array (
     'id' => 141958,
     'name' => 'Haldibari',
@@ -31591,7 +30646,7 @@ return array (
     'latitude' => 26.33,
     'longitude' => 88.77,
   ),
-  3510 => 
+  3405 => 
   array (
     'id' => 141959,
     'name' => 'Halisahar',
@@ -31600,7 +30655,7 @@ return array (
     'latitude' => 22.95,
     'longitude' => 88.42,
   ),
-  3511 => 
+  3406 => 
   array (
     'id' => 141960,
     'name' => 'Harindanga',
@@ -31609,7 +30664,7 @@ return array (
     'latitude' => 22.03333333,
     'longitude' => 88.31666667,
   ),
-  3512 => 
+  3407 => 
   array (
     'id' => 141961,
     'name' => 'Haringhata',
@@ -31618,7 +30673,7 @@ return array (
     'latitude' => 22.95,
     'longitude' => 88.57,
   ),
-  3513 => 
+  3408 => 
   array (
     'id' => 141962,
     'name' => 'Haripur',
@@ -31627,7 +30682,7 @@ return array (
     'latitude' => 22.93611,
     'longitude' => 88.23194,
   ),
-  3514 => 
+  3409 => 
   array (
     'id' => 141963,
     'name' => 'Hasimara',
@@ -31636,7 +30691,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 89.35,
   ),
-  3515 => 
+  3410 => 
   array (
     'id' => 141964,
     'name' => 'Hindusthan Cables Town',
@@ -31645,7 +30700,7 @@ return array (
     'latitude' => 23.82,
     'longitude' => 86.9,
   ),
-  3516 => 
+  3411 => 
   array (
     'id' => 141965,
     'name' => 'Hooghly district',
@@ -31654,7 +30709,7 @@ return array (
     'latitude' => 22.91,
     'longitude' => 88.39,
   ),
-  3517 => 
+  3412 => 
   array (
     'id' => 141966,
     'name' => 'Howrah',
@@ -31663,7 +30718,7 @@ return array (
     'latitude' => 22.57688,
     'longitude' => 88.31857,
   ),
-  3518 => 
+  3413 => 
   array (
     'id' => 141967,
     'name' => 'Ichapur',
@@ -31672,7 +30727,7 @@ return array (
     'latitude' => 22.80499,
     'longitude' => 88.37088,
   ),
-  3519 => 
+  3414 => 
   array (
     'id' => 141968,
     'name' => 'Indpur community development block',
@@ -31681,7 +30736,7 @@ return array (
     'latitude' => 23.1667,
     'longitude' => 86.9333,
   ),
-  3520 => 
+  3415 => 
   array (
     'id' => 141969,
     'name' => 'Ingraj Bazar',
@@ -31690,16 +30745,7 @@ return array (
     'latitude' => 25.00447,
     'longitude' => 88.14573,
   ),
-  3521 => 
-  array (
-    'id' => 141970,
-    'name' => 'Islampur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.27,
-    'longitude' => 88.2,
-  ),
-  3522 => 
+  3416 => 
   array (
     'id' => 141971,
     'name' => 'Jafarpur',
@@ -31708,7 +30754,7 @@ return array (
     'latitude' => 22.32,
     'longitude' => 88.23,
   ),
-  3523 => 
+  3417 => 
   array (
     'id' => 141972,
     'name' => 'Jaigaon',
@@ -31717,7 +30763,7 @@ return array (
     'latitude' => 26.86666667,
     'longitude' => 89.38333333,
   ),
-  3524 => 
+  3418 => 
   array (
     'id' => 141973,
     'name' => 'Jalpaiguri',
@@ -31726,7 +30772,7 @@ return array (
     'latitude' => 26.51666667,
     'longitude' => 88.73333333,
   ),
-  3525 => 
+  3419 => 
   array (
     'id' => 141974,
     'name' => 'Jamuria',
@@ -31735,7 +30781,7 @@ return array (
     'latitude' => 23.7,
     'longitude' => 87.08,
   ),
-  3526 => 
+  3420 => 
   array (
     'id' => 141975,
     'name' => 'Jangipur',
@@ -31744,7 +30790,7 @@ return array (
     'latitude' => 24.47001,
     'longitude' => 88.07659,
   ),
-  3527 => 
+  3421 => 
   array (
     'id' => 141976,
     'name' => 'Jaynagar Majilpur',
@@ -31753,7 +30799,7 @@ return array (
     'latitude' => 22.17722222,
     'longitude' => 88.42583333,
   ),
-  3528 => 
+  3422 => 
   array (
     'id' => 141977,
     'name' => 'Jejur',
@@ -31762,7 +30808,7 @@ return array (
     'latitude' => 22.88,
     'longitude' => 88.12,
   ),
-  3529 => 
+  3423 => 
   array (
     'id' => 141978,
     'name' => 'Jhalida',
@@ -31771,7 +30817,7 @@ return array (
     'latitude' => 23.36541,
     'longitude' => 85.97581,
   ),
-  3530 => 
+  3424 => 
   array (
     'id' => 141979,
     'name' => 'Jhargram',
@@ -31780,7 +30826,7 @@ return array (
     'latitude' => 22.45,
     'longitude' => 86.98,
   ),
-  3531 => 
+  3425 => 
   array (
     'id' => 141980,
     'name' => 'Jhilimili',
@@ -31789,7 +30835,7 @@ return array (
     'latitude' => 22.8167,
     'longitude' => 86.6167,
   ),
-  3532 => 
+  3426 => 
   array (
     'id' => 141981,
     'name' => 'Kakdwip',
@@ -31798,7 +30844,7 @@ return array (
     'latitude' => 21.8833,
     'longitude' => 88.1833,
   ),
-  3533 => 
+  3427 => 
   array (
     'id' => 141982,
     'name' => 'Kalaikunda',
@@ -31807,7 +30853,7 @@ return array (
     'latitude' => 22.33916667,
     'longitude' => 87.22638889,
   ),
-  3534 => 
+  3428 => 
   array (
     'id' => 141983,
     'name' => 'Kaliaganj',
@@ -31816,7 +30862,7 @@ return array (
     'latitude' => 25.63,
     'longitude' => 88.32,
   ),
-  3535 => 
+  3429 => 
   array (
     'id' => 141984,
     'name' => 'Kalimpong',
@@ -31825,7 +30871,7 @@ return array (
     'latitude' => 27.07059,
     'longitude' => 88.47529,
   ),
-  3536 => 
+  3430 => 
   array (
     'id' => 141985,
     'name' => 'Kalna',
@@ -31834,7 +30880,7 @@ return array (
     'latitude' => 23.22,
     'longitude' => 88.37,
   ),
-  3537 => 
+  3431 => 
   array (
     'id' => 141986,
     'name' => 'Kalyani',
@@ -31843,7 +30889,7 @@ return array (
     'latitude' => 22.975,
     'longitude' => 88.43444444,
   ),
-  3538 => 
+  3432 => 
   array (
     'id' => 141987,
     'name' => 'Kamarhati',
@@ -31852,7 +30898,7 @@ return array (
     'latitude' => 22.67,
     'longitude' => 88.37,
   ),
-  3539 => 
+  3433 => 
   array (
     'id' => 141988,
     'name' => 'Kamarpukur',
@@ -31861,7 +30907,7 @@ return array (
     'latitude' => 22.91,
     'longitude' => 87.65,
   ),
-  3540 => 
+  3434 => 
   array (
     'id' => 141989,
     'name' => 'Kanchrapara',
@@ -31870,7 +30916,7 @@ return array (
     'latitude' => 22.97,
     'longitude' => 88.43,
   ),
-  3541 => 
+  3435 => 
   array (
     'id' => 141990,
     'name' => 'Kandi',
@@ -31879,7 +30925,7 @@ return array (
     'latitude' => 23.95,
     'longitude' => 88.03,
   ),
-  3542 => 
+  3436 => 
   array (
     'id' => 141991,
     'name' => 'Karimpur',
@@ -31888,7 +30934,7 @@ return array (
     'latitude' => 23.96666667,
     'longitude' => 88.61666667,
   ),
-  3543 => 
+  3437 => 
   array (
     'id' => 141992,
     'name' => 'Katwa',
@@ -31897,7 +30943,7 @@ return array (
     'latitude' => 23.65,
     'longitude' => 88.13,
   ),
-  3544 => 
+  3438 => 
   array (
     'id' => 141993,
     'name' => 'Kenda',
@@ -31906,7 +30952,7 @@ return array (
     'latitude' => 23.2,
     'longitude' => 86.53,
   ),
-  3545 => 
+  3439 => 
   array (
     'id' => 141994,
     'name' => 'Keshabpur',
@@ -31915,25 +30961,7 @@ return array (
     'latitude' => 22.97,
     'longitude' => 88.26,
   ),
-  3546 => 
-  array (
-    'id' => 141995,
-    'name' => 'Kharagpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.330239,
-    'longitude' => 87.323653,
-  ),
-  3547 => 
-  array (
-    'id' => 141996,
-    'name' => 'Kharar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.7,
-    'longitude' => 87.68,
-  ),
-  3548 => 
+  3440 => 
   array (
     'id' => 141997,
     'name' => 'Kharba',
@@ -31942,7 +30970,7 @@ return array (
     'latitude' => 25.42,
     'longitude' => 88.07,
   ),
-  3549 => 
+  3441 => 
   array (
     'id' => 141998,
     'name' => 'Khardaha',
@@ -31951,7 +30979,7 @@ return array (
     'latitude' => 22.72,
     'longitude' => 88.38,
   ),
-  3550 => 
+  3442 => 
   array (
     'id' => 141999,
     'name' => 'Khatra',
@@ -31960,7 +30988,7 @@ return array (
     'latitude' => 22.98,
     'longitude' => 86.85,
   ),
-  3551 => 
+  3443 => 
   array (
     'id' => 142000,
     'name' => 'Kirnahar',
@@ -31969,7 +30997,7 @@ return array (
     'latitude' => 23.75,
     'longitude' => 87.87,
   ),
-  3552 => 
+  3444 => 
   array (
     'id' => 142001,
     'name' => 'Kolkata',
@@ -31978,7 +31006,7 @@ return array (
     'latitude' => 22.54111111,
     'longitude' => 88.33777778,
   ),
-  3553 => 
+  3445 => 
   array (
     'id' => 142002,
     'name' => 'Konnagar',
@@ -31987,7 +31015,7 @@ return array (
     'latitude' => 22.7,
     'longitude' => 88.35,
   ),
-  3554 => 
+  3446 => 
   array (
     'id' => 142003,
     'name' => 'Krishnanagar',
@@ -31996,7 +31024,7 @@ return array (
     'latitude' => 23.4,
     'longitude' => 88.5,
   ),
-  3555 => 
+  3447 => 
   array (
     'id' => 142004,
     'name' => 'Krishnapur',
@@ -32005,7 +31033,7 @@ return array (
     'latitude' => 22.67,
     'longitude' => 88.26,
   ),
-  3556 => 
+  3448 => 
   array (
     'id' => 142005,
     'name' => 'Kshirpai',
@@ -32014,7 +31042,7 @@ return array (
     'latitude' => 22.7109664,
     'longitude' => 87.6174038,
   ),
-  3557 => 
+  3449 => 
   array (
     'id' => 142006,
     'name' => 'Kulpi',
@@ -32023,7 +31051,7 @@ return array (
     'latitude' => 22.08,
     'longitude' => 88.24,
   ),
-  3558 => 
+  3450 => 
   array (
     'id' => 142007,
     'name' => 'Kultali',
@@ -32032,7 +31060,7 @@ return array (
     'latitude' => 21.9,
     'longitude' => 88.4,
   ),
-  3559 => 
+  3451 => 
   array (
     'id' => 142008,
     'name' => 'Kulti',
@@ -32041,7 +31069,7 @@ return array (
     'latitude' => 23.73,
     'longitude' => 86.85,
   ),
-  3560 => 
+  3452 => 
   array (
     'id' => 142009,
     'name' => 'Kurseong',
@@ -32050,7 +31078,7 @@ return array (
     'latitude' => 26.88,
     'longitude' => 88.28,
   ),
-  3561 => 
+  3453 => 
   array (
     'id' => 142010,
     'name' => 'Lalgarh',
@@ -32059,7 +31087,7 @@ return array (
     'latitude' => 22.58,
     'longitude' => 87.05,
   ),
-  3562 => 
+  3454 => 
   array (
     'id' => 142011,
     'name' => 'Lalgola',
@@ -32068,7 +31096,7 @@ return array (
     'latitude' => 24.42,
     'longitude' => 88.25,
   ),
-  3563 => 
+  3455 => 
   array (
     'id' => 142012,
     'name' => 'Loyabad',
@@ -32077,7 +31105,7 @@ return array (
     'latitude' => 23.67,
     'longitude' => 86.67,
   ),
-  3564 => 
+  3456 => 
   array (
     'id' => 142013,
     'name' => 'Madanpur',
@@ -32086,7 +31114,7 @@ return array (
     'latitude' => 23.02,
     'longitude' => 88.48,
   ),
-  3565 => 
+  3457 => 
   array (
     'id' => 142014,
     'name' => 'Madhyamgram',
@@ -32095,7 +31123,7 @@ return array (
     'latitude' => 22.7,
     'longitude' => 88.45,
   ),
-  3566 => 
+  3458 => 
   array (
     'id' => 142015,
     'name' => 'Mahiari',
@@ -32104,7 +31132,7 @@ return array (
     'latitude' => 22.59,
     'longitude' => 88.24,
   ),
-  3567 => 
+  3459 => 
   array (
     'id' => 142016,
     'name' => 'Mahishadal community development block',
@@ -32113,7 +31141,7 @@ return array (
     'latitude' => 22.183333,
     'longitude' => 87.983333,
   ),
-  3568 => 
+  3460 => 
   array (
     'id' => 142017,
     'name' => 'Mainaguri',
@@ -32122,7 +31150,7 @@ return array (
     'latitude' => 26.57,
     'longitude' => 88.82,
   ),
-  3569 => 
+  3461 => 
   array (
     'id' => 142018,
     'name' => 'Manikpara',
@@ -32131,7 +31159,7 @@ return array (
     'latitude' => 22.36666667,
     'longitude' => 87.11666667,
   ),
-  3570 => 
+  3462 => 
   array (
     'id' => 142019,
     'name' => 'Masila',
@@ -32140,7 +31168,7 @@ return array (
     'latitude' => 22.58083,
     'longitude' => 88.23278,
   ),
-  3571 => 
+  3463 => 
   array (
     'id' => 142020,
     'name' => 'Mathabhanga',
@@ -32149,7 +31177,7 @@ return array (
     'latitude' => 26.34197,
     'longitude' => 89.21555,
   ),
-  3572 => 
+  3464 => 
   array (
     'id' => 142021,
     'name' => 'Matiali community development block',
@@ -32158,7 +31186,7 @@ return array (
     'latitude' => 26.927159,
     'longitude' => 88.8133049,
   ),
-  3573 => 
+  3465 => 
   array (
     'id' => 142022,
     'name' => 'Matigara community development block',
@@ -32167,7 +31195,7 @@ return array (
     'latitude' => 26.716667,
     'longitude' => 88.383333,
   ),
-  3574 => 
+  3466 => 
   array (
     'id' => 142023,
     'name' => 'Medinipur',
@@ -32176,7 +31204,7 @@ return array (
     'latitude' => 22.43333333,
     'longitude' => 87.33333333,
   ),
-  3575 => 
+  3467 => 
   array (
     'id' => 142024,
     'name' => 'Mejia community development block',
@@ -32185,7 +31213,7 @@ return array (
     'latitude' => 23.57,
     'longitude' => 87.1,
   ),
-  3576 => 
+  3468 => 
   array (
     'id' => 142025,
     'name' => 'Memari',
@@ -32194,7 +31222,7 @@ return array (
     'latitude' => 23.2,
     'longitude' => 88.12,
   ),
-  3577 => 
+  3469 => 
   array (
     'id' => 142026,
     'name' => 'Mirik',
@@ -32203,7 +31231,7 @@ return array (
     'latitude' => 26.887,
     'longitude' => 88.187,
   ),
-  3578 => 
+  3470 => 
   array (
     'id' => 142028,
     'name' => 'Monoharpur',
@@ -32212,7 +31240,7 @@ return array (
     'latitude' => 22.68,
     'longitude' => 88.3,
   ),
-  3579 => 
+  3471 => 
   array (
     'id' => 142029,
     'name' => 'Muragacha',
@@ -32221,7 +31249,7 @@ return array (
     'latitude' => 23.53631,
     'longitude' => 88.39425,
   ),
-  3580 => 
+  3472 => 
   array (
     'id' => 142030,
     'name' => 'Muri',
@@ -32230,7 +31258,7 @@ return array (
     'latitude' => 23.37,
     'longitude' => 85.86,
   ),
-  3581 => 
+  3473 => 
   array (
     'id' => 142031,
     'name' => 'Murshidabad',
@@ -32239,7 +31267,7 @@ return array (
     'latitude' => 24.18,
     'longitude' => 88.27,
   ),
-  3582 => 
+  3474 => 
   array (
     'id' => 142032,
     'name' => 'Nabadwip',
@@ -32248,7 +31276,7 @@ return array (
     'latitude' => 23.40722222,
     'longitude' => 88.37777778,
   ),
-  3583 => 
+  3475 => 
   array (
     'id' => 142033,
     'name' => 'Nabagram',
@@ -32257,7 +31285,7 @@ return array (
     'latitude' => 22.29,
     'longitude' => 88.51,
   ),
-  3584 => 
+  3476 => 
   array (
     'id' => 142034,
     'name' => 'Nadia district',
@@ -32266,7 +31294,7 @@ return array (
     'latitude' => 23.4,
     'longitude' => 88.5,
   ),
-  3585 => 
+  3477 => 
   array (
     'id' => 142035,
     'name' => 'Nagarukhra',
@@ -32275,7 +31303,7 @@ return array (
     'latitude' => 22.94099,
     'longitude' => 88.63701,
   ),
-  3586 => 
+  3478 => 
   array (
     'id' => 142036,
     'name' => 'Nagrakata',
@@ -32284,7 +31312,7 @@ return array (
     'latitude' => 26.9,
     'longitude' => 88.9667,
   ),
-  3587 => 
+  3479 => 
   array (
     'id' => 142037,
     'name' => 'Naihati',
@@ -32293,7 +31321,7 @@ return array (
     'latitude' => 22.9,
     'longitude' => 88.42,
   ),
-  3588 => 
+  3480 => 
   array (
     'id' => 142038,
     'name' => 'Naksalbari',
@@ -32302,7 +31330,7 @@ return array (
     'latitude' => 26.68333333,
     'longitude' => 88.21666667,
   ),
-  3589 => 
+  3481 => 
   array (
     'id' => 142039,
     'name' => 'Nalhati',
@@ -32311,7 +31339,7 @@ return array (
     'latitude' => 24.3,
     'longitude' => 87.82,
   ),
-  3590 => 
+  3482 => 
   array (
     'id' => 142040,
     'name' => 'Nalpur',
@@ -32320,7 +31348,7 @@ return array (
     'latitude' => 22.53,
     'longitude' => 88.19,
   ),
-  3591 => 
+  3483 => 
   array (
     'id' => 142041,
     'name' => 'Namkhana community development block',
@@ -32329,7 +31357,7 @@ return array (
     'latitude' => 21.7,
     'longitude' => 88.14,
   ),
-  3592 => 
+  3484 => 
   array (
     'id' => 142042,
     'name' => 'Nandigram',
@@ -32338,7 +31366,7 @@ return array (
     'latitude' => 22.01,
     'longitude' => 87.99,
   ),
-  3593 => 
+  3485 => 
   array (
     'id' => 142043,
     'name' => 'Nangi',
@@ -32347,7 +31375,7 @@ return array (
     'latitude' => 22.50833333,
     'longitude' => 88.21527778,
   ),
-  3594 => 
+  3486 => 
   array (
     'id' => 142044,
     'name' => 'Nayagram community development block',
@@ -32356,7 +31384,7 @@ return array (
     'latitude' => 22.0319,
     'longitude' => 87.1781,
   ),
-  3595 => 
+  3487 => 
   array (
     'id' => 142045,
     'name' => 'North 24 Parganas district',
@@ -32365,7 +31393,7 @@ return array (
     'latitude' => 22.13,
     'longitude' => 88.5,
   ),
-  3596 => 
+  3488 => 
   array (
     'id' => 142046,
     'name' => 'Odlabari',
@@ -32374,7 +31402,7 @@ return array (
     'latitude' => 26.83638889,
     'longitude' => 88.62944444,
   ),
-  3597 => 
+  3489 => 
   array (
     'id' => 142047,
     'name' => 'Paikpara',
@@ -32383,7 +31411,7 @@ return array (
     'latitude' => 24.77121,
     'longitude' => 87.92251,
   ),
-  3598 => 
+  3490 => 
   array (
     'id' => 142048,
     'name' => 'Panagarh',
@@ -32392,7 +31420,7 @@ return array (
     'latitude' => 23.45,
     'longitude' => 87.43,
   ),
-  3599 => 
+  3491 => 
   array (
     'id' => 142049,
     'name' => 'Panchla',
@@ -32401,7 +31429,7 @@ return array (
     'latitude' => 22.54,
     'longitude' => 88.14,
   ),
-  3600 => 
+  3492 => 
   array (
     'id' => 142050,
     'name' => 'Panchmura',
@@ -32410,7 +31438,7 @@ return array (
     'latitude' => 22.9667,
     'longitude' => 87.1667,
   ),
-  3601 => 
+  3493 => 
   array (
     'id' => 142051,
     'name' => 'Pandua',
@@ -32419,7 +31447,7 @@ return array (
     'latitude' => 23.08,
     'longitude' => 88.28,
   ),
-  3602 => 
+  3494 => 
   array (
     'id' => 142052,
     'name' => 'Panihati',
@@ -32428,7 +31456,7 @@ return array (
     'latitude' => 22.69,
     'longitude' => 88.37,
   ),
-  3603 => 
+  3495 => 
   array (
     'id' => 142053,
     'name' => 'Panskura',
@@ -32437,7 +31465,7 @@ return array (
     'latitude' => 22.42,
     'longitude' => 87.7,
   ),
-  3604 => 
+  3496 => 
   array (
     'id' => 142054,
     'name' => 'Parbatipur',
@@ -32446,7 +31474,7 @@ return array (
     'latitude' => 22.6625,
     'longitude' => 88.22222,
   ),
-  3605 => 
+  3497 => 
   array (
     'id' => 142055,
     'name' => 'Paschim Medinipur district',
@@ -32455,7 +31483,7 @@ return array (
     'latitude' => 22.43333333,
     'longitude' => 87.33333333,
   ),
-  3606 => 
+  3498 => 
   array (
     'id' => 142056,
     'name' => 'Patiram',
@@ -32464,7 +31492,7 @@ return array (
     'latitude' => 25.31666667,
     'longitude' => 88.75,
   ),
-  3607 => 
+  3499 => 
   array (
     'id' => 142057,
     'name' => 'Patuli',
@@ -32473,7 +31501,7 @@ return array (
     'latitude' => 23.55,
     'longitude' => 88.25,
   ),
-  3608 => 
+  3500 => 
   array (
     'id' => 142058,
     'name' => 'Pujali',
@@ -32482,7 +31510,7 @@ return array (
     'latitude' => 22.47,
     'longitude' => 88.15,
   ),
-  3609 => 
+  3501 => 
   array (
     'id' => 142059,
     'name' => 'Puncha community development block',
@@ -32491,7 +31519,7 @@ return array (
     'latitude' => 23.123,
     'longitude' => 86.653,
   ),
-  3610 => 
+  3502 => 
   array (
     'id' => 142060,
     'name' => 'Purba Medinipur district',
@@ -32500,7 +31528,7 @@ return array (
     'latitude' => 22.3,
     'longitude' => 87.91666667,
   ),
-  3611 => 
+  3503 => 
   array (
     'id' => 142061,
     'name' => 'Purulia',
@@ -32509,7 +31537,7 @@ return array (
     'latitude' => 23.33333333,
     'longitude' => 86.36666667,
   ),
-  3612 => 
+  3504 => 
   array (
     'id' => 142062,
     'name' => 'Patrasaer',
@@ -32518,7 +31546,7 @@ return array (
     'latitude' => 23.19697,
     'longitude' => 87.53319,
   ),
-  3613 => 
+  3505 => 
   array (
     'id' => 142063,
     'name' => 'Raghudebbati',
@@ -32527,16 +31555,7 @@ return array (
     'latitude' => 22.53,
     'longitude' => 88.2,
   ),
-  3614 => 
-  array (
-    'id' => 142064,
-    'name' => 'Raghunathpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 23.55,
-    'longitude' => 86.67,
-  ),
-  3615 => 
+  3506 => 
   array (
     'id' => 142065,
     'name' => 'Raiganj',
@@ -32545,7 +31564,7 @@ return array (
     'latitude' => 25.61666667,
     'longitude' => 88.11666667,
   ),
-  3616 => 
+  3507 => 
   array (
     'id' => 142066,
     'name' => 'Rajmahal',
@@ -32554,7 +31573,7 @@ return array (
     'latitude' => 25.05,
     'longitude' => 87.84,
   ),
-  3617 => 
+  3508 => 
   array (
     'id' => 142067,
     'name' => 'Rajnagar community development block',
@@ -32563,7 +31582,7 @@ return array (
     'latitude' => 23.9472,
     'longitude' => 87.3625,
   ),
-  3618 => 
+  3509 => 
   array (
     'id' => 142068,
     'name' => 'Ramchandrapur',
@@ -32572,7 +31591,7 @@ return array (
     'latitude' => 22.9,
     'longitude' => 88.48,
   ),
-  3619 => 
+  3510 => 
   array (
     'id' => 142069,
     'name' => 'Ramjibanpur',
@@ -32581,7 +31600,7 @@ return array (
     'latitude' => 22.83,
     'longitude' => 87.62,
   ),
-  3620 => 
+  3511 => 
   array (
     'id' => 142070,
     'name' => 'Rampur Hat',
@@ -32590,7 +31609,7 @@ return array (
     'latitude' => 24.17737,
     'longitude' => 87.78275,
   ),
-  3621 => 
+  3512 => 
   array (
     'id' => 142071,
     'name' => 'Ranaghat',
@@ -32599,7 +31618,7 @@ return array (
     'latitude' => 23.18,
     'longitude' => 88.58,
   ),
-  3622 => 
+  3513 => 
   array (
     'id' => 142072,
     'name' => 'Raniganj',
@@ -32608,7 +31627,7 @@ return array (
     'latitude' => 23.62,
     'longitude' => 87.13,
   ),
-  3623 => 
+  3514 => 
   array (
     'id' => 142073,
     'name' => 'Raypur',
@@ -32617,7 +31636,7 @@ return array (
     'latitude' => 22.41083,
     'longitude' => 88.50944,
   ),
-  3624 => 
+  3515 => 
   array (
     'id' => 142074,
     'name' => 'Rishra',
@@ -32626,16 +31645,7 @@ return array (
     'latitude' => 22.71,
     'longitude' => 88.35,
   ),
-  3625 => 
-  array (
-    'id' => 142075,
-    'name' => 'Ramnagar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 22.77778,
-    'longitude' => 88.24639,
-  ),
-  3626 => 
+  3516 => 
   array (
     'id' => 142076,
     'name' => 'Sahapur',
@@ -32644,7 +31654,7 @@ return array (
     'latitude' => 22.52,
     'longitude' => 88.17,
   ),
-  3627 => 
+  3517 => 
   array (
     'id' => 142077,
     'name' => 'Sainthia',
@@ -32653,7 +31663,7 @@ return array (
     'latitude' => 23.95,
     'longitude' => 87.67,
   ),
-  3628 => 
+  3518 => 
   array (
     'id' => 142078,
     'name' => 'Salanpur community development block',
@@ -32662,7 +31672,7 @@ return array (
     'latitude' => 23.76702,
     'longitude' => 86.87492,
   ),
-  3629 => 
+  3519 => 
   array (
     'id' => 142079,
     'name' => 'Sankarpur',
@@ -32671,7 +31681,7 @@ return array (
     'latitude' => 23.6,
     'longitude' => 87.2,
   ),
-  3630 => 
+  3520 => 
   array (
     'id' => 142080,
     'name' => 'Sankrail',
@@ -32680,7 +31690,7 @@ return array (
     'latitude' => 22.57,
     'longitude' => 88.24,
   ),
-  3631 => 
+  3521 => 
   array (
     'id' => 142081,
     'name' => 'Santipur',
@@ -32689,7 +31699,7 @@ return array (
     'latitude' => 23.25,
     'longitude' => 88.43,
   ),
-  3632 => 
+  3522 => 
   array (
     'id' => 142082,
     'name' => 'Santoshpur',
@@ -32698,7 +31708,7 @@ return array (
     'latitude' => 22.5,
     'longitude' => 88.17,
   ),
-  3633 => 
+  3523 => 
   array (
     'id' => 142083,
     'name' => 'Santuri community development block',
@@ -32707,7 +31717,7 @@ return array (
     'latitude' => 23.5272,
     'longitude' => 86.85709,
   ),
-  3634 => 
+  3524 => 
   array (
     'id' => 142084,
     'name' => 'Sarenga',
@@ -32716,7 +31726,7 @@ return array (
     'latitude' => 22.54,
     'longitude' => 88.21,
   ),
-  3635 => 
+  3525 => 
   array (
     'id' => 142085,
     'name' => 'Serampore',
@@ -32725,7 +31735,7 @@ return array (
     'latitude' => 22.75,
     'longitude' => 88.34,
   ),
-  3636 => 
+  3526 => 
   array (
     'id' => 142086,
     'name' => 'Serpur',
@@ -32734,7 +31744,7 @@ return array (
     'latitude' => 24.13,
     'longitude' => 88.0,
   ),
-  3637 => 
+  3527 => 
   array (
     'id' => 142087,
     'name' => 'Shyamnagar West Bengal',
@@ -32743,7 +31753,7 @@ return array (
     'latitude' => 22.83,
     'longitude' => 88.37,
   ),
-  3638 => 
+  3528 => 
   array (
     'id' => 142088,
     'name' => 'Siliguri',
@@ -32752,7 +31762,7 @@ return array (
     'latitude' => 26.71004,
     'longitude' => 88.42851,
   ),
-  3639 => 
+  3529 => 
   array (
     'id' => 142089,
     'name' => 'Singur',
@@ -32761,7 +31771,7 @@ return array (
     'latitude' => 22.81,
     'longitude' => 88.23,
   ),
-  3640 => 
+  3530 => 
   array (
     'id' => 142090,
     'name' => 'Sodpur',
@@ -32770,7 +31780,7 @@ return array (
     'latitude' => 22.70416667,
     'longitude' => 88.39166667,
   ),
-  3641 => 
+  3531 => 
   array (
     'id' => 142091,
     'name' => 'Solap',
@@ -32779,7 +31789,7 @@ return array (
     'latitude' => 22.12777778,
     'longitude' => 88.15861111,
   ),
-  3642 => 
+  3532 => 
   array (
     'id' => 142092,
     'name' => 'Sonada',
@@ -32788,7 +31798,7 @@ return array (
     'latitude' => 27.0,
     'longitude' => 88.14,
   ),
-  3643 => 
+  3533 => 
   array (
     'id' => 142093,
     'name' => 'Sonamukhi',
@@ -32797,7 +31807,7 @@ return array (
     'latitude' => 23.3,
     'longitude' => 87.42,
   ),
-  3644 => 
+  3534 => 
   array (
     'id' => 142094,
     'name' => 'Sonarpur community development block',
@@ -32806,7 +31816,7 @@ return array (
     'latitude' => 22.44259,
     'longitude' => 88.43044,
   ),
-  3645 => 
+  3535 => 
   array (
     'id' => 142095,
     'name' => 'South 24 Parganas district',
@@ -32815,7 +31825,7 @@ return array (
     'latitude' => 22.16197,
     'longitude' => 88.4317,
   ),
-  3646 => 
+  3536 => 
   array (
     'id' => 142096,
     'name' => 'Srikhanda',
@@ -32824,7 +31834,7 @@ return array (
     'latitude' => 23.6,
     'longitude' => 88.0833,
   ),
-  3647 => 
+  3537 => 
   array (
     'id' => 142097,
     'name' => 'Srirampur',
@@ -32833,7 +31843,7 @@ return array (
     'latitude' => 23.35,
     'longitude' => 88.12,
   ),
-  3648 => 
+  3538 => 
   array (
     'id' => 142098,
     'name' => 'Suri',
@@ -32842,7 +31852,7 @@ return array (
     'latitude' => 23.91666667,
     'longitude' => 87.53333333,
   ),
-  3649 => 
+  3539 => 
   array (
     'id' => 142099,
     'name' => 'Swarupnagar community development block',
@@ -32851,7 +31861,7 @@ return array (
     'latitude' => 22.8333,
     'longitude' => 88.8667,
   ),
-  3650 => 
+  3540 => 
   array (
     'id' => 142100,
     'name' => 'Takdah',
@@ -32860,7 +31870,7 @@ return array (
     'latitude' => 27.0333,
     'longitude' => 88.3667,
   ),
-  3651 => 
+  3541 => 
   array (
     'id' => 142101,
     'name' => 'Taki',
@@ -32869,7 +31879,7 @@ return array (
     'latitude' => 22.59,
     'longitude' => 88.92,
   ),
-  3652 => 
+  3542 => 
   array (
     'id' => 142102,
     'name' => 'Tamluk',
@@ -32878,7 +31888,7 @@ return array (
     'latitude' => 22.3,
     'longitude' => 87.91666667,
   ),
-  3653 => 
+  3543 => 
   array (
     'id' => 142103,
     'name' => 'Tarakeswar',
@@ -32887,7 +31897,7 @@ return array (
     'latitude' => 22.89,
     'longitude' => 88.02,
   ),
-  3654 => 
+  3544 => 
   array (
     'id' => 142104,
     'name' => 'Titagarh',
@@ -32896,7 +31906,7 @@ return array (
     'latitude' => 22.74,
     'longitude' => 88.37,
   ),
-  3655 => 
+  3545 => 
   array (
     'id' => 142105,
     'name' => 'Tufanganj',
@@ -32905,7 +31915,7 @@ return array (
     'latitude' => 26.32,
     'longitude' => 89.67,
   ),
-  3656 => 
+  3546 => 
   array (
     'id' => 142106,
     'name' => 'Tulin',
@@ -32914,7 +31924,7 @@ return array (
     'latitude' => 23.37,
     'longitude' => 85.9,
   ),
-  3657 => 
+  3547 => 
   array (
     'id' => 142107,
     'name' => 'Uchalan',
@@ -32923,7 +31933,7 @@ return array (
     'latitude' => 23.0333,
     'longitude' => 87.7833,
   ),
-  3658 => 
+  3548 => 
   array (
     'id' => 142108,
     'name' => 'Ula',
@@ -32932,7 +31942,7 @@ return array (
     'latitude' => 22.7225,
     'longitude' => 88.55556,
   ),
-  3659 => 
+  3549 => 
   array (
     'id' => 142109,
     'name' => 'Uluberia',
@@ -32941,7 +31951,7 @@ return array (
     'latitude' => 22.47,
     'longitude' => 88.11,
   ),
-  3660 => 
+  3550 => 
   array (
     'id' => 142110,
     'name' => 'Uttar Dinajpur district',
@@ -32950,7 +31960,7 @@ return array (
     'latitude' => 25.62,
     'longitude' => 88.12,
   ),
-  3661 => 
+  3551 => 
   array (
     'id' => 142111,
     'name' => 'Uttarpara Kotrung',
@@ -32959,7 +31969,7 @@ return array (
     'latitude' => 22.67,
     'longitude' => 88.35,
   ),
-  3662 => 
+  3552 => 
   array (
     'id' => 142112,
     'name' => 'Amlagora',
@@ -32968,7 +31978,7 @@ return array (
     'latitude' => 22.84616,
     'longitude' => 87.33559,
   ),
-  3663 => 
+  3553 => 
   array (
     'id' => 142125,
     'name' => 'Bagasara',
@@ -32977,7 +31987,7 @@ return array (
     'latitude' => 21.48333333,
     'longitude' => 70.95,
   ),
-  3664 => 
+  3554 => 
   array (
     'id' => 142126,
     'name' => 'Dahod',
@@ -32986,7 +31996,7 @@ return array (
     'latitude' => 22.52,
     'longitude' => 74.15,
   ),
-  3665 => 
+  3555 => 
   array (
     'id' => 142128,
     'name' => 'Delwada',
@@ -32995,7 +32005,7 @@ return array (
     'latitude' => 20.7833,
     'longitude' => 71.05,
   ),
-  3666 => 
+  3556 => 
   array (
     'id' => 142129,
     'name' => 'Jalalpore',
@@ -33004,7 +32014,7 @@ return array (
     'latitude' => 20.9491,
     'longitude' => 72.9136,
   ),
-  3667 => 
+  3557 => 
   array (
     'id' => 142130,
     'name' => 'Jodia',
@@ -33013,7 +32023,7 @@ return array (
     'latitude' => 22.71667,
     'longitude' => 70.28333,
   ),
-  3668 => 
+  3558 => 
   array (
     'id' => 142132,
     'name' => 'Khambhalia',
@@ -33022,7 +32032,7 @@ return array (
     'latitude' => 22.2,
     'longitude' => 69.65,
   ),
-  3669 => 
+  3559 => 
   array (
     'id' => 142133,
     'name' => 'Kutch district',
@@ -33031,7 +32041,7 @@ return array (
     'latitude' => 23.915,
     'longitude' => 70.367,
   ),
-  3670 => 
+  3560 => 
   array (
     'id' => 142135,
     'name' => 'Mehsana',
@@ -33040,7 +32050,7 @@ return array (
     'latitude' => 23.6,
     'longitude' => 72.4,
   ),
-  3671 => 
+  3561 => 
   array (
     'id' => 142137,
     'name' => 'Panchmahal district',
@@ -33049,7 +32059,7 @@ return array (
     'latitude' => 22.75,
     'longitude' => 73.6,
   ),
-  3672 => 
+  3562 => 
   array (
     'id' => 142138,
     'name' => 'Pavi Jetpur',
@@ -33058,7 +32068,7 @@ return array (
     'latitude' => 22.34472,
     'longitude' => 73.84093,
   ),
-  3673 => 
+  3563 => 
   array (
     'id' => 142139,
     'name' => 'Siddhpur',
@@ -33067,7 +32077,7 @@ return array (
     'latitude' => 23.9167,
     'longitude' => 72.3833,
   ),
-  3674 => 
+  3564 => 
   array (
     'id' => 142140,
     'name' => 'Thangadh',
@@ -33076,7 +32086,7 @@ return array (
     'latitude' => 22.56666667,
     'longitude' => 71.18333333,
   ),
-  3675 => 
+  3565 => 
   array (
     'id' => 142141,
     'name' => 'Vallabhipur',
@@ -33085,7 +32095,7 @@ return array (
     'latitude' => 21.8878,
     'longitude' => 71.8795,
   ),
-  3676 => 
+  3566 => 
   array (
     'id' => 142142,
     'name' => 'Vansda',
@@ -33094,7 +32104,7 @@ return array (
     'latitude' => 20.45,
     'longitude' => 73.22,
   ),
-  3677 => 
+  3567 => 
   array (
     'id' => 142143,
     'name' => 'Vaso',
@@ -33103,7 +32113,7 @@ return array (
     'latitude' => 22.66079,
     'longitude' => 72.75519,
   ),
-  3678 => 
+  3568 => 
   array (
     'id' => 142144,
     'name' => 'Vinchhiya',
@@ -33112,7 +32122,7 @@ return array (
     'latitude' => 22.21027,
     'longitude' => 71.37967,
   ),
-  3679 => 
+  3569 => 
   array (
     'id' => 142145,
     'name' => 'Wadhai',
@@ -33121,7 +32131,7 @@ return array (
     'latitude' => 20.76666667,
     'longitude' => 73.48333333,
   ),
-  3680 => 
+  3570 => 
   array (
     'id' => 142146,
     'name' => 'Wadhwan',
@@ -33130,7 +32140,7 @@ return array (
     'latitude' => 22.7,
     'longitude' => 71.68333333,
   ),
-  3681 => 
+  3571 => 
   array (
     'id' => 143761,
     'name' => 'Bholath',
@@ -33139,7 +32149,7 @@ return array (
     'latitude' => 31.54277778,
     'longitude' => 75.5075,
   ),
-  3682 => 
+  3572 => 
   array (
     'id' => 143762,
     'name' => 'Dhudi',
@@ -33148,7 +32158,7 @@ return array (
     'latitude' => 30.69636,
     'longitude' => 74.85246,
   ),
-  3683 => 
+  3573 => 
   array (
     'id' => 143763,
     'name' => 'Dera Bassi',
@@ -33157,7 +32167,7 @@ return array (
     'latitude' => 30.5872,
     'longitude' => 76.8428,
   ),
-  3684 => 
+  3574 => 
   array (
     'id' => 143764,
     'name' => 'Ishanpur',
@@ -33166,7 +32176,7 @@ return array (
     'latitude' => 30.63929,
     'longitude' => 76.11761,
   ),
-  3685 => 
+  3575 => 
   array (
     'id' => 147426,
     'name' => 'Aidalpur',
@@ -33175,7 +32185,7 @@ return array (
     'latitude' => 26.13333333,
     'longitude' => 79.45,
   ),
-  3686 => 
+  3576 => 
   array (
     'id' => 147427,
     'name' => 'Airwa',
@@ -33184,16 +32194,7 @@ return array (
     'latitude' => 26.9,
     'longitude' => 79.43333333,
   ),
-  3687 => 
-  array (
-    'id' => 147428,
-    'name' => 'Akola',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 27.06547,
-    'longitude' => 77.88084,
-  ),
-  3688 => 
+  3577 => 
   array (
     'id' => 147429,
     'name' => 'Allahabad',
@@ -33202,7 +32203,7 @@ return array (
     'latitude' => 25.45,
     'longitude' => 81.85,
   ),
-  3689 => 
+  3578 => 
   array (
     'id' => 147430,
     'name' => 'Amauli',
@@ -33211,7 +32212,7 @@ return array (
     'latitude' => 26.01666667,
     'longitude' => 80.3,
   ),
-  3690 => 
+  3579 => 
   array (
     'id' => 147431,
     'name' => 'Araul',
@@ -33220,7 +32221,7 @@ return array (
     'latitude' => 26.917,
     'longitude' => 80.033,
   ),
-  3691 => 
+  3580 => 
   array (
     'id' => 147432,
     'name' => 'Asalatganj',
@@ -33229,7 +32230,7 @@ return array (
     'latitude' => 26.68333333,
     'longitude' => 79.85,
   ),
-  3692 => 
+  3581 => 
   array (
     'id' => 147433,
     'name' => 'Azizpur',
@@ -33238,7 +32239,7 @@ return array (
     'latitude' => 26.97638889,
     'longitude' => 79.22138889,
   ),
-  3693 => 
+  3582 => 
   array (
     'id' => 147434,
     'name' => 'Baghra',
@@ -33247,7 +32248,7 @@ return array (
     'latitude' => 29.46666667,
     'longitude' => 77.58333333,
   ),
-  3694 => 
+  3583 => 
   array (
     'id' => 147435,
     'name' => 'Baksar',
@@ -33256,7 +32257,7 @@ return array (
     'latitude' => 28.76666667,
     'longitude' => 78.01666667,
   ),
-  3695 => 
+  3584 => 
   array (
     'id' => 147436,
     'name' => 'Balamau',
@@ -33265,7 +32266,7 @@ return array (
     'latitude' => 27.16666667,
     'longitude' => 80.35,
   ),
-  3696 => 
+  3585 => 
   array (
     'id' => 147437,
     'name' => 'Baldeo',
@@ -33274,7 +32275,7 @@ return array (
     'latitude' => 27.41666667,
     'longitude' => 77.81666667,
   ),
-  3697 => 
+  3586 => 
   array (
     'id' => 147438,
     'name' => 'Banthra',
@@ -33283,7 +32284,7 @@ return array (
     'latitude' => 27.9172,
     'longitude' => 79.8174,
   ),
-  3698 => 
+  3587 => 
   array (
     'id' => 147439,
     'name' => 'Barhalganj',
@@ -33292,7 +32293,7 @@ return array (
     'latitude' => 26.28333333,
     'longitude' => 83.5,
   ),
-  3699 => 
+  3588 => 
   array (
     'id' => 147440,
     'name' => 'Barkhera',
@@ -33301,7 +32302,7 @@ return array (
     'latitude' => 28.45,
     'longitude' => 79.8,
   ),
-  3700 => 
+  3589 => 
   array (
     'id' => 147441,
     'name' => 'Barokhar',
@@ -33310,7 +32311,7 @@ return array (
     'latitude' => 24.91666667,
     'longitude' => 81.96666667,
   ),
-  3701 => 
+  3590 => 
   array (
     'id' => 147443,
     'name' => 'Belthara',
@@ -33319,7 +32320,7 @@ return array (
     'latitude' => 26.12694444,
     'longitude' => 83.89138889,
   ),
-  3702 => 
+  3591 => 
   array (
     'id' => 147444,
     'name' => 'Bhadarsa',
@@ -33328,7 +32329,7 @@ return array (
     'latitude' => 26.66027778,
     'longitude' => 82.12416667,
   ),
-  3703 => 
+  3592 => 
   array (
     'id' => 147445,
     'name' => 'Bharatpura',
@@ -33337,7 +32338,7 @@ return array (
     'latitude' => 25.23333333,
     'longitude' => 78.96666667,
   ),
-  3704 => 
+  3593 => 
   array (
     'id' => 147446,
     'name' => 'Bhargain',
@@ -33346,7 +32347,7 @@ return array (
     'latitude' => 27.615,
     'longitude' => 79.14416667,
   ),
-  3705 => 
+  3594 => 
   array (
     'id' => 147447,
     'name' => 'Bhaupur',
@@ -33355,7 +32356,7 @@ return array (
     'latitude' => 26.91666667,
     'longitude' => 79.21666667,
   ),
-  3706 => 
+  3595 => 
   array (
     'id' => 147448,
     'name' => 'Bhimtal',
@@ -33364,7 +32365,7 @@ return array (
     'latitude' => 29.34444444,
     'longitude' => 79.56305556,
   ),
-  3707 => 
+  3596 => 
   array (
     'id' => 147449,
     'name' => 'Bhognipur',
@@ -33373,7 +32374,7 @@ return array (
     'latitude' => 26.24,
     'longitude' => 79.8,
   ),
-  3708 => 
+  3597 => 
   array (
     'id' => 147450,
     'name' => 'Bidhnu',
@@ -33382,7 +32383,7 @@ return array (
     'latitude' => 26.33333333,
     'longitude' => 80.28333333,
   ),
-  3709 => 
+  3598 => 
   array (
     'id' => 147451,
     'name' => 'Bighapur',
@@ -33391,7 +32392,7 @@ return array (
     'latitude' => 26.35,
     'longitude' => 80.68,
   ),
-  3710 => 
+  3599 => 
   array (
     'id' => 147452,
     'name' => 'Binauli',
@@ -33400,7 +32401,7 @@ return array (
     'latitude' => 29.09416667,
     'longitude' => 77.40083333,
   ),
-  3711 => 
+  3600 => 
   array (
     'id' => 147453,
     'name' => 'Binaur',
@@ -33409,7 +32410,7 @@ return array (
     'latitude' => 26.38333333,
     'longitude' => 80.16666667,
   ),
-  3712 => 
+  3601 => 
   array (
     'id' => 147454,
     'name' => 'Birdpur',
@@ -33418,16 +32419,7 @@ return array (
     'latitude' => 27.3833,
     'longitude' => 83.1167,
   ),
-  3713 => 
-  array (
-    'id' => 147455,
-    'name' => 'Birpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.53,
-    'longitude' => 86.25,
-  ),
-  3714 => 
+  3602 => 
   array (
     'id' => 147456,
     'name' => 'Bisanda Buzurg',
@@ -33436,7 +32428,7 @@ return array (
     'latitude' => 25.41666667,
     'longitude' => 80.61666667,
   ),
-  3715 => 
+  3603 => 
   array (
     'id' => 147457,
     'name' => 'Chandausi',
@@ -33445,7 +32437,7 @@ return array (
     'latitude' => 28.45,
     'longitude' => 78.77,
   ),
-  3716 => 
+  3604 => 
   array (
     'id' => 147458,
     'name' => 'Chhitauni',
@@ -33454,7 +32446,7 @@ return array (
     'latitude' => 27.11666667,
     'longitude' => 83.98333333,
   ),
-  3717 => 
+  3605 => 
   array (
     'id' => 147459,
     'name' => 'Chitrakoot Dham',
@@ -33463,7 +32455,7 @@ return array (
     'latitude' => 25.2,
     'longitude' => 80.9,
   ),
-  3718 => 
+  3606 => 
   array (
     'id' => 147460,
     'name' => 'Churk',
@@ -33472,7 +32464,7 @@ return array (
     'latitude' => 24.65,
     'longitude' => 83.1,
   ),
-  3719 => 
+  3607 => 
   array (
     'id' => 147461,
     'name' => 'Daraganj',
@@ -33481,7 +32473,7 @@ return array (
     'latitude' => 25.43333333,
     'longitude' => 81.88333333,
   ),
-  3720 => 
+  3608 => 
   array (
     'id' => 147462,
     'name' => 'Daranagar',
@@ -33490,16 +32482,7 @@ return array (
     'latitude' => 25.6816208,
     'longitude' => 81.3497579,
   ),
-  3721 => 
-  array (
-    'id' => 147463,
-    'name' => 'Deogarh',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.526,
-    'longitude' => 78.238,
-  ),
-  3722 => 
+  3609 => 
   array (
     'id' => 147464,
     'name' => 'Derapur',
@@ -33508,7 +32491,7 @@ return array (
     'latitude' => 26.41666667,
     'longitude' => 79.8,
   ),
-  3723 => 
+  3610 => 
   array (
     'id' => 147465,
     'name' => 'Dhanghata',
@@ -33517,7 +32500,7 @@ return array (
     'latitude' => 26.55419444,
     'longitude' => 83.00806111,
   ),
-  3724 => 
+  3611 => 
   array (
     'id' => 147466,
     'name' => 'Dharau',
@@ -33526,7 +32509,7 @@ return array (
     'latitude' => 26.38333333,
     'longitude' => 79.96666667,
   ),
-  3725 => 
+  3612 => 
   array (
     'id' => 147467,
     'name' => 'Divrasai',
@@ -33535,7 +32518,7 @@ return array (
     'latitude' => 26.819,
     'longitude' => 79.149,
   ),
-  3726 => 
+  3613 => 
   array (
     'id' => 147468,
     'name' => 'Domariaganj',
@@ -33544,7 +32527,7 @@ return array (
     'latitude' => 27.22,
     'longitude' => 82.67,
   ),
-  3727 => 
+  3614 => 
   array (
     'id' => 147469,
     'name' => 'Etmadpur',
@@ -33553,7 +32536,7 @@ return array (
     'latitude' => 27.23971944,
     'longitude' => 78.2,
   ),
-  3728 => 
+  3615 => 
   array (
     'id' => 147471,
     'name' => 'Gahlon',
@@ -33562,7 +32545,7 @@ return array (
     'latitude' => 26.53333333,
     'longitude' => 79.96666667,
   ),
-  3729 => 
+  3616 => 
   array (
     'id' => 147472,
     'name' => 'Gahmar',
@@ -33571,7 +32554,7 @@ return array (
     'latitude' => 25.497,
     'longitude' => 83.822,
   ),
-  3730 => 
+  3617 => 
   array (
     'id' => 147473,
     'name' => 'Gaini',
@@ -33580,7 +32563,7 @@ return array (
     'latitude' => 28.21,
     'longitude' => 79.16,
   ),
-  3731 => 
+  3618 => 
   array (
     'id' => 147474,
     'name' => 'Ganj Dundawara',
@@ -33589,16 +32572,7 @@ return array (
     'latitude' => 27.73277778,
     'longitude' => 78.94166667,
   ),
-  3732 => 
-  array (
-    'id' => 147475,
-    'name' => 'Garhwa',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.18,
-    'longitude' => 83.82,
-  ),
-  3733 => 
+  3619 => 
   array (
     'id' => 147476,
     'name' => 'Gauriganj',
@@ -33607,7 +32581,7 @@ return array (
     'latitude' => 26.206,
     'longitude' => 81.69,
   ),
-  3734 => 
+  3620 => 
   array (
     'id' => 147478,
     'name' => 'Gosainganj',
@@ -33616,7 +32590,7 @@ return array (
     'latitude' => 26.77,
     'longitude' => 81.12,
   ),
-  3735 => 
+  3621 => 
   array (
     'id' => 147479,
     'name' => 'Haraipur',
@@ -33625,7 +32599,7 @@ return array (
     'latitude' => 26.9,
     'longitude' => 79.7,
   ),
-  3736 => 
+  3622 => 
   array (
     'id' => 147480,
     'name' => 'Harchandpur',
@@ -33634,7 +32608,7 @@ return array (
     'latitude' => 26.36,
     'longitude' => 81.17,
   ),
-  3737 => 
+  3623 => 
   array (
     'id' => 147482,
     'name' => 'Hulas',
@@ -33643,7 +32617,7 @@ return array (
     'latitude' => 29.69027778,
     'longitude' => 77.36027778,
   ),
-  3738 => 
+  3624 => 
   array (
     'id' => 147483,
     'name' => 'Ibrahimpur',
@@ -33652,7 +32626,7 @@ return array (
     'latitude' => 26.01027778,
     'longitude' => 83.16861111,
   ),
-  3739 => 
+  3625 => 
   array (
     'id' => 147484,
     'name' => 'Indragarh',
@@ -33661,7 +32635,7 @@ return array (
     'latitude' => 29.91299444,
     'longitude' => 74.32284167,
   ),
-  3740 => 
+  3626 => 
   array (
     'id' => 147487,
     'name' => 'Janghai',
@@ -33670,7 +32644,7 @@ return array (
     'latitude' => 25.55,
     'longitude' => 82.31666667,
   ),
-  3741 => 
+  3627 => 
   array (
     'id' => 147488,
     'name' => 'Jarwa',
@@ -33679,7 +32653,7 @@ return array (
     'latitude' => 27.65,
     'longitude' => 82.51666667,
   ),
-  3742 => 
+  3628 => 
   array (
     'id' => 147489,
     'name' => 'Jhajhar',
@@ -33688,7 +32662,7 @@ return array (
     'latitude' => 27.86,
     'longitude' => 75.28,
   ),
-  3743 => 
+  3629 => 
   array (
     'id' => 147490,
     'name' => 'Jiyanpur',
@@ -33697,7 +32671,7 @@ return array (
     'latitude' => 26.15,
     'longitude' => 83.33,
   ),
-  3744 => 
+  3630 => 
   array (
     'id' => 147491,
     'name' => 'Kagarol',
@@ -33706,7 +32680,7 @@ return array (
     'latitude' => 27.01666667,
     'longitude' => 77.85,
   ),
-  3745 => 
+  3631 => 
   array (
     'id' => 147492,
     'name' => 'Kalyanpur',
@@ -33715,7 +32689,7 @@ return array (
     'latitude' => 26.51912222,
     'longitude' => 80.24980556,
   ),
-  3746 => 
+  3632 => 
   array (
     'id' => 147493,
     'name' => 'Kaptanganj',
@@ -33724,7 +32698,7 @@ return array (
     'latitude' => 26.93,
     'longitude' => 83.72,
   ),
-  3747 => 
+  3633 => 
   array (
     'id' => 147494,
     'name' => 'Kara',
@@ -33733,7 +32707,7 @@ return array (
     'latitude' => 25.7,
     'longitude' => 81.35,
   ),
-  3748 => 
+  3634 => 
   array (
     'id' => 147495,
     'name' => 'Karbigwan',
@@ -33742,7 +32716,7 @@ return array (
     'latitude' => 26.2,
     'longitude' => 80.5,
   ),
-  3749 => 
+  3635 => 
   array (
     'id' => 147496,
     'name' => 'Karchana',
@@ -33751,7 +32725,7 @@ return array (
     'latitude' => 25.28,
     'longitude' => 81.93,
   ),
-  3750 => 
+  3636 => 
   array (
     'id' => 147497,
     'name' => 'Kausani',
@@ -33760,16 +32734,7 @@ return array (
     'latitude' => 29.84305556,
     'longitude' => 79.60333333,
   ),
-  3751 => 
-  array (
-    'id' => 147498,
-    'name' => 'Khailar',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 25.35,
-    'longitude' => 78.53,
-  ),
-  3752 => 
+  3637 => 
   array (
     'id' => 147499,
     'name' => 'Kishanpur baral',
@@ -33778,7 +32743,7 @@ return array (
     'latitude' => 29.2,
     'longitude' => 77.28333333,
   ),
-  3753 => 
+  3638 => 
   array (
     'id' => 147500,
     'name' => 'Kuchesar',
@@ -33787,7 +32752,7 @@ return array (
     'latitude' => 28.68333333,
     'longitude' => 77.95,
   ),
-  3754 => 
+  3639 => 
   array (
     'id' => 147501,
     'name' => 'Kudarkot',
@@ -33796,7 +32761,7 @@ return array (
     'latitude' => 26.81666667,
     'longitude' => 79.4,
   ),
-  3755 => 
+  3640 => 
   array (
     'id' => 147502,
     'name' => 'Kundarki',
@@ -33805,7 +32770,7 @@ return array (
     'latitude' => 28.683,
     'longitude' => 78.785,
   ),
-  3756 => 
+  3641 => 
   array (
     'id' => 147503,
     'name' => 'Kurebharsaidkhanpur',
@@ -33814,7 +32779,7 @@ return array (
     'latitude' => 26.43333333,
     'longitude' => 82.11666667,
   ),
-  3757 => 
+  3642 => 
   array (
     'id' => 147504,
     'name' => 'Kusmara',
@@ -33823,7 +32788,7 @@ return array (
     'latitude' => 27.11666667,
     'longitude' => 79.28333333,
   ),
-  3758 => 
+  3643 => 
   array (
     'id' => 147505,
     'name' => 'Kuthaund',
@@ -33832,7 +32797,7 @@ return array (
     'latitude' => 26.36666667,
     'longitude' => 79.41666667,
   ),
-  3759 => 
+  3644 => 
   array (
     'id' => 147506,
     'name' => 'Lambhua',
@@ -33841,7 +32806,7 @@ return array (
     'latitude' => 26.15,
     'longitude' => 82.21,
   ),
-  3760 => 
+  3645 => 
   array (
     'id' => 147507,
     'name' => 'Lawar',
@@ -33850,7 +32815,7 @@ return array (
     'latitude' => 29.11666667,
     'longitude' => 77.76666667,
   ),
-  3761 => 
+  3646 => 
   array (
     'id' => 147508,
     'name' => 'Machhali Shahar',
@@ -33859,7 +32824,7 @@ return array (
     'latitude' => 25.68,
     'longitude' => 82.42,
   ),
-  3762 => 
+  3647 => 
   array (
     'id' => 147509,
     'name' => 'Mahrajganj',
@@ -33868,7 +32833,7 @@ return array (
     'latitude' => 26.26666667,
     'longitude' => 83.11666667,
   ),
-  3763 => 
+  3648 => 
   array (
     'id' => 147511,
     'name' => 'Mahul',
@@ -33877,7 +32842,7 @@ return array (
     'latitude' => 26.13333333,
     'longitude' => 82.81666667,
   ),
-  3764 => 
+  3649 => 
   array (
     'id' => 147512,
     'name' => 'Majhupur',
@@ -33886,7 +32851,7 @@ return array (
     'latitude' => 27.03333333,
     'longitude' => 79.41666667,
   ),
-  3765 => 
+  3650 => 
   array (
     'id' => 147513,
     'name' => 'Makanpur',
@@ -33895,7 +32860,7 @@ return array (
     'latitude' => 26.90222222,
     'longitude' => 79.97805556,
   ),
-  3766 => 
+  3651 => 
   array (
     'id' => 147514,
     'name' => 'Malasa',
@@ -33904,7 +32869,7 @@ return array (
     'latitude' => 26.26755,
     'longitude' => 79.94489,
   ),
-  3767 => 
+  3652 => 
   array (
     'id' => 147515,
     'name' => 'Mau Aima',
@@ -33913,7 +32878,7 @@ return array (
     'latitude' => 25.7,
     'longitude' => 81.91666667,
   ),
-  3768 => 
+  3653 => 
   array (
     'id' => 147516,
     'name' => 'Maurawan',
@@ -33922,7 +32887,7 @@ return array (
     'latitude' => 26.43,
     'longitude' => 80.88,
   ),
-  3769 => 
+  3654 => 
   array (
     'id' => 147517,
     'name' => 'Mawar',
@@ -33931,7 +32896,7 @@ return array (
     'latitude' => 26.30416667,
     'longitude' => 79.92111111,
   ),
-  3770 => 
+  3655 => 
   array (
     'id' => 147518,
     'name' => 'Mehdawal',
@@ -33940,7 +32905,7 @@ return array (
     'latitude' => 26.98333333,
     'longitude' => 83.11666667,
   ),
-  3771 => 
+  3656 => 
   array (
     'id' => 147519,
     'name' => 'Milkipur',
@@ -33949,7 +32914,7 @@ return array (
     'latitude' => 26.6,
     'longitude' => 81.91,
   ),
-  3772 => 
+  3657 => 
   array (
     'id' => 147520,
     'name' => 'Mukteshwar',
@@ -33958,7 +32923,7 @@ return array (
     'latitude' => 29.4722,
     'longitude' => 79.6479,
   ),
-  3773 => 
+  3658 => 
   array (
     'id' => 147521,
     'name' => 'Mungra Badshahpur',
@@ -33967,7 +32932,7 @@ return array (
     'latitude' => 25.65,
     'longitude' => 82.18,
   ),
-  3774 => 
+  3659 => 
   array (
     'id' => 147522,
     'name' => 'Munsyari',
@@ -33976,7 +32941,7 @@ return array (
     'latitude' => 30.06741389,
     'longitude' => 80.23856111,
   ),
-  3775 => 
+  3660 => 
   array (
     'id' => 147523,
     'name' => 'Muradabad',
@@ -33985,7 +32950,7 @@ return array (
     'latitude' => 28.83888889,
     'longitude' => 78.77694444,
   ),
-  3776 => 
+  3661 => 
   array (
     'id' => 147524,
     'name' => 'Musafirkhana',
@@ -33994,7 +32959,7 @@ return array (
     'latitude' => 26.45,
     'longitude' => 81.8,
   ),
-  3777 => 
+  3662 => 
   array (
     'id' => 147525,
     'name' => 'Nagla',
@@ -34003,7 +32968,7 @@ return array (
     'latitude' => 29.01,
     'longitude' => 79.51,
   ),
-  3778 => 
+  3663 => 
   array (
     'id' => 147526,
     'name' => 'Narora',
@@ -34012,7 +32977,7 @@ return array (
     'latitude' => 28.19666667,
     'longitude' => 78.38138889,
   ),
-  3779 => 
+  3664 => 
   array (
     'id' => 147527,
     'name' => 'Naugama',
@@ -34021,7 +32986,7 @@ return array (
     'latitude' => 27.7,
     'longitude' => 79.65,
   ),
-  3780 => 
+  3665 => 
   array (
     'id' => 147528,
     'name' => 'Naurangpur',
@@ -34030,7 +32995,7 @@ return array (
     'latitude' => 27.16666667,
     'longitude' => 79.78333333,
   ),
-  3781 => 
+  3666 => 
   array (
     'id' => 147531,
     'name' => 'Newara',
@@ -34039,7 +33004,7 @@ return array (
     'latitude' => 27.76666667,
     'longitude' => 79.28333333,
   ),
-  3782 => 
+  3667 => 
   array (
     'id' => 147532,
     'name' => 'Nigoh',
@@ -34048,7 +33013,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 79.15,
   ),
-  3783 => 
+  3668 => 
   array (
     'id' => 147533,
     'name' => 'Paigaon',
@@ -34057,7 +33022,7 @@ return array (
     'latitude' => 27.78333333,
     'longitude' => 77.53333333,
   ),
-  3784 => 
+  3669 => 
   array (
     'id' => 147534,
     'name' => 'Paras Rampur',
@@ -34066,7 +33031,7 @@ return array (
     'latitude' => 31.32388889,
     'longitude' => 75.67472222,
   ),
-  3785 => 
+  3670 => 
   array (
     'id' => 147535,
     'name' => 'Pathakpura',
@@ -34075,7 +33040,7 @@ return array (
     'latitude' => 26.84441,
     'longitude' => 78.74037,
   ),
-  3786 => 
+  3671 => 
   array (
     'id' => 147536,
     'name' => 'Payagpur',
@@ -34084,7 +33049,7 @@ return array (
     'latitude' => 27.4,
     'longitude' => 81.8,
   ),
-  3787 => 
+  3672 => 
   array (
     'id' => 147537,
     'name' => 'Phaphamau',
@@ -34093,7 +33058,7 @@ return array (
     'latitude' => 25.53333333,
     'longitude' => 81.86666667,
   ),
-  3788 => 
+  3673 => 
   array (
     'id' => 147538,
     'name' => 'Pheona',
@@ -34102,7 +33067,7 @@ return array (
     'latitude' => 29.08333333,
     'longitude' => 78.35,
   ),
-  3789 => 
+  3674 => 
   array (
     'id' => 147539,
     'name' => 'Pichhaura',
@@ -34111,7 +33076,7 @@ return array (
     'latitude' => 26.33333333,
     'longitude' => 79.31666667,
   ),
-  3790 => 
+  3675 => 
   array (
     'id' => 147540,
     'name' => 'Pilkhuwa',
@@ -34120,16 +33085,7 @@ return array (
     'latitude' => 28.71196944,
     'longitude' => 77.65445556,
   ),
-  3791 => 
-  array (
-    'id' => 147541,
-    'name' => 'Pipri',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 24.18,
-    'longitude' => 83.0,
-  ),
-  3792 => 
+  3676 => 
   array (
     'id' => 147542,
     'name' => 'Purmafi',
@@ -34138,7 +33094,7 @@ return array (
     'latitude' => 29.55,
     'longitude' => 77.26666667,
   ),
-  3793 => 
+  3677 => 
   array (
     'id' => 147543,
     'name' => 'Qadirganj',
@@ -34147,7 +33103,7 @@ return array (
     'latitude' => 27.78333333,
     'longitude' => 79.06666667,
   ),
-  3794 => 
+  3678 => 
   array (
     'id' => 147544,
     'name' => 'Radha Kund',
@@ -34156,7 +33112,7 @@ return array (
     'latitude' => 27.52444444,
     'longitude' => 77.49027778,
   ),
-  3795 => 
+  3679 => 
   array (
     'id' => 147545,
     'name' => 'Ranipur Barsi',
@@ -34165,7 +33121,7 @@ return array (
     'latitude' => 29.9,
     'longitude' => 77.21666667,
   ),
-  3796 => 
+  3680 => 
   array (
     'id' => 147546,
     'name' => 'Rehar',
@@ -34174,7 +33130,7 @@ return array (
     'latitude' => 29.36666667,
     'longitude' => 78.76666667,
   ),
-  3797 => 
+  3681 => 
   array (
     'id' => 147547,
     'name' => 'Renukoot',
@@ -34183,7 +33139,7 @@ return array (
     'latitude' => 24.2,
     'longitude' => 83.03,
   ),
-  3798 => 
+  3682 => 
   array (
     'id' => 147548,
     'name' => 'Reotipur',
@@ -34192,7 +33148,7 @@ return array (
     'latitude' => 25.55,
     'longitude' => 83.71666667,
   ),
-  3799 => 
+  3683 => 
   array (
     'id' => 147549,
     'name' => 'Rudauli',
@@ -34201,7 +33157,7 @@ return array (
     'latitude' => 26.75,
     'longitude' => 81.75,
   ),
-  3800 => 
+  3684 => 
   array (
     'id' => 147550,
     'name' => 'Sabalpur',
@@ -34210,7 +33166,7 @@ return array (
     'latitude' => 27.176049,
     'longitude' => 79.42012,
   ),
-  3801 => 
+  3685 => 
   array (
     'id' => 147551,
     'name' => 'Sachendi',
@@ -34219,7 +33175,7 @@ return array (
     'latitude' => 26.371165,
     'longitude' => 80.1123,
   ),
-  3802 => 
+  3686 => 
   array (
     'id' => 147552,
     'name' => 'Sahibabad',
@@ -34228,7 +33184,7 @@ return array (
     'latitude' => 28.68333333,
     'longitude' => 77.4,
   ),
-  3803 => 
+  3687 => 
   array (
     'id' => 147553,
     'name' => 'Sahpau',
@@ -34237,7 +33193,7 @@ return array (
     'latitude' => 27.43527778,
     'longitude' => 78.14138889,
   ),
-  3804 => 
+  3688 => 
   array (
     'id' => 147554,
     'name' => 'Sakhanu',
@@ -34246,7 +33202,7 @@ return array (
     'latitude' => 27.95472222,
     'longitude' => 79.2275,
   ),
-  3805 => 
+  3689 => 
   array (
     'id' => 147555,
     'name' => 'Salempur',
@@ -34255,7 +33211,7 @@ return array (
     'latitude' => 26.3,
     'longitude' => 83.91666667,
   ),
-  3806 => 
+  3690 => 
   array (
     'id' => 147556,
     'name' => 'Sarurpur',
@@ -34264,7 +33220,7 @@ return array (
     'latitude' => 29.03333333,
     'longitude' => 77.23333333,
   ),
-  3807 => 
+  3691 => 
   array (
     'id' => 147557,
     'name' => 'Shibnagar',
@@ -34273,16 +33229,7 @@ return array (
     'latitude' => 28.5,
     'longitude' => 79.98333333,
   ),
-  3808 => 
-  array (
-    'id' => 147559,
-    'name' => 'Shivrajpur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.85722222,
-    'longitude' => 79.115,
-  ),
-  3809 => 
+  3692 => 
   array (
     'id' => 147560,
     'name' => 'Siddhaur',
@@ -34291,7 +33238,7 @@ return array (
     'latitude' => 26.76944444,
     'longitude' => 81.41805556,
   ),
-  3810 => 
+  3693 => 
   array (
     'id' => 147561,
     'name' => 'Sikandrabad',
@@ -34300,7 +33247,7 @@ return array (
     'latitude' => 28.449525,
     'longitude' => 77.69415278,
   ),
-  3811 => 
+  3694 => 
   array (
     'id' => 147562,
     'name' => 'Terha',
@@ -34309,7 +33256,7 @@ return array (
     'latitude' => 25.8333,
     'longitude' => 80.25,
   ),
-  3812 => 
+  3695 => 
   array (
     'id' => 147563,
     'name' => 'Tigri',
@@ -34318,7 +33265,7 @@ return array (
     'latitude' => 28.51083333,
     'longitude' => 77.23888889,
   ),
-  3813 => 
+  3696 => 
   array (
     'id' => 147564,
     'name' => 'Tilsahri',
@@ -34327,7 +33274,7 @@ return array (
     'latitude' => 26.3333,
     'longitude' => 80.4167,
   ),
-  3814 => 
+  3697 => 
   array (
     'id' => 147565,
     'name' => 'Tori Fatehpur',
@@ -34336,16 +33283,7 @@ return array (
     'latitude' => 25.45,
     'longitude' => 79.1333,
   ),
-  3815 => 
-  array (
-    'id' => 147566,
-    'name' => 'Umri',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 26.33333333,
-    'longitude' => 79.25,
-  ),
-  3816 => 
+  3698 => 
   array (
     'id' => 147567,
     'name' => 'Usawan',
@@ -34354,7 +33292,7 @@ return array (
     'latitude' => 27.81583333,
     'longitude' => 79.34861111,
   ),
-  3817 => 
+  3699 => 
   array (
     'id' => 147568,
     'name' => 'Uska',
@@ -34363,7 +33301,7 @@ return array (
     'latitude' => 27.2,
     'longitude' => 83.11666667,
   ),
-  3818 => 
+  3700 => 
   array (
     'id' => 147569,
     'name' => 'Vindhyachal',
@@ -34372,7 +33310,7 @@ return array (
     'latitude' => 25.1667,
     'longitude' => 82.5,
   ),
-  3819 => 
+  3701 => 
   array (
     'id' => 147570,
     'name' => 'Walterganj',
@@ -34381,7 +33319,7 @@ return array (
     'latitude' => 26.8667,
     'longitude' => 82.7167,
   ),
-  3820 => 
+  3702 => 
   array (
     'id' => 147571,
     'name' => 'Yusufpur',
@@ -34390,7 +33328,7 @@ return array (
     'latitude' => 25.6667,
     'longitude' => 83.4667,
   ),
-  3821 => 
+  3703 => 
   array (
     'id' => 147572,
     'name' => 'Agol',
@@ -34399,7 +33337,7 @@ return array (
     'latitude' => 23.15,
     'longitude' => 72.26666667,
   ),
-  3822 => 
+  3704 => 
   array (
     'id' => 147573,
     'name' => 'Akrund',
@@ -34408,7 +33346,7 @@ return array (
     'latitude' => 23.28333333,
     'longitude' => 73.11666667,
   ),
-  3823 => 
+  3705 => 
   array (
     'id' => 147575,
     'name' => 'Bakharla',
@@ -34417,7 +33355,7 @@ return array (
     'latitude' => 21.731517,
     'longitude' => 69.635296,
   ),
-  3824 => 
+  3706 => 
   array (
     'id' => 147576,
     'name' => 'Balagam',
@@ -34426,7 +33364,7 @@ return array (
     'latitude' => 21.36666667,
     'longitude' => 70.1,
   ),
-  3825 => 
+  3707 => 
   array (
     'id' => 147577,
     'name' => 'Balasinor',
@@ -34435,7 +33373,7 @@ return array (
     'latitude' => 22.955891,
     'longitude' => 73.336499,
   ),
-  3826 => 
+  3708 => 
   array (
     'id' => 147578,
     'name' => 'Balisana',
@@ -34444,7 +33382,7 @@ return array (
     'latitude' => 23.816436,
     'longitude' => 72.257536,
   ),
-  3827 => 
+  3709 => 
   array (
     'id' => 147579,
     'name' => 'Bamanbore',
@@ -34453,7 +33391,7 @@ return array (
     'latitude' => 22.41666667,
     'longitude' => 71.01666667,
   ),
-  3828 => 
+  3710 => 
   array (
     'id' => 147580,
     'name' => 'Bandia',
@@ -34462,7 +33400,7 @@ return array (
     'latitude' => 23.39604,
     'longitude' => 69.01155,
   ),
-  3829 => 
+  3711 => 
   array (
     'id' => 147581,
     'name' => 'Bhadran',
@@ -34471,7 +33409,7 @@ return array (
     'latitude' => 22.3593,
     'longitude' => 72.9005,
   ),
-  3830 => 
+  3712 => 
   array (
     'id' => 147582,
     'name' => 'Bhandu',
@@ -34480,7 +33418,7 @@ return array (
     'latitude' => 23.7,
     'longitude' => 72.36666667,
   ),
-  3831 => 
+  3713 => 
   array (
     'id' => 147583,
     'name' => 'Bhatha',
@@ -34489,7 +33427,7 @@ return array (
     'latitude' => 21.18333333,
     'longitude' => 72.76666667,
   ),
-  3832 => 
+  3714 => 
   array (
     'id' => 147584,
     'name' => 'Bhildi',
@@ -34498,7 +33436,7 @@ return array (
     'latitude' => 24.18333333,
     'longitude' => 72.03333333,
   ),
-  3833 => 
+  3715 => 
   array (
     'id' => 147585,
     'name' => 'Bhojpur Dharampur',
@@ -34507,7 +33445,7 @@ return array (
     'latitude' => 23.25,
     'longitude' => 69.67,
   ),
-  3834 => 
+  3716 => 
   array (
     'id' => 147586,
     'name' => 'Chaloda',
@@ -34516,7 +33454,7 @@ return array (
     'latitude' => 22.8,
     'longitude' => 72.45,
   ),
-  3835 => 
+  3717 => 
   array (
     'id' => 147587,
     'name' => 'Champaner',
@@ -34525,7 +33463,7 @@ return array (
     'latitude' => 22.4859,
     'longitude' => 73.5371,
   ),
-  3836 => 
+  3718 => 
   array (
     'id' => 147588,
     'name' => 'Chuda',
@@ -34534,7 +33472,7 @@ return array (
     'latitude' => 22.48333333,
     'longitude' => 71.68333333,
   ),
-  3837 => 
+  3719 => 
   array (
     'id' => 147589,
     'name' => 'Dabhoda',
@@ -34543,7 +33481,7 @@ return array (
     'latitude' => 23.16666667,
     'longitude' => 72.73333333,
   ),
-  3838 => 
+  3720 => 
   array (
     'id' => 147590,
     'name' => 'Dandi',
@@ -34552,7 +33490,7 @@ return array (
     'latitude' => 21.32988,
     'longitude' => 72.62484,
   ),
-  3839 => 
+  3721 => 
   array (
     'id' => 147591,
     'name' => 'Danta',
@@ -34561,7 +33499,7 @@ return array (
     'latitude' => 24.18861111,
     'longitude' => 72.76583333,
   ),
-  3840 => 
+  3722 => 
   array (
     'id' => 147592,
     'name' => 'Detroj',
@@ -34570,7 +33508,7 @@ return array (
     'latitude' => 23.33333333,
     'longitude' => 72.18333333,
   ),
-  3841 => 
+  3723 => 
   array (
     'id' => 147593,
     'name' => 'Dhansura',
@@ -34579,7 +33517,7 @@ return array (
     'latitude' => 23.35,
     'longitude' => 73.2,
   ),
-  3842 => 
+  3724 => 
   array (
     'id' => 147594,
     'name' => 'Dharasana',
@@ -34588,7 +33526,7 @@ return array (
     'latitude' => 20.68333333,
     'longitude' => 72.91666667,
   ),
-  3843 => 
+  3725 => 
   array (
     'id' => 147595,
     'name' => 'Dhasa',
@@ -34597,7 +33535,7 @@ return array (
     'latitude' => 21.8,
     'longitude' => 71.51666667,
   ),
-  3844 => 
+  3726 => 
   array (
     'id' => 147596,
     'name' => 'Dholera',
@@ -34606,7 +33544,7 @@ return array (
     'latitude' => 22.248,
     'longitude' => 72.195,
   ),
-  3845 => 
+  3727 => 
   array (
     'id' => 147597,
     'name' => 'Dumkhal',
@@ -34615,7 +33553,7 @@ return array (
     'latitude' => 21.7396,
     'longitude' => 73.8449,
   ),
-  3846 => 
+  3728 => 
   array (
     'id' => 147598,
     'name' => 'Ghodasar',
@@ -34624,7 +33562,7 @@ return array (
     'latitude' => 24.45,
     'longitude' => 71.85,
   ),
-  3847 => 
+  3729 => 
   array (
     'id' => 147599,
     'name' => 'Gorwa',
@@ -34633,7 +33571,7 @@ return array (
     'latitude' => 22.3301,
     'longitude' => 73.1611,
   ),
-  3848 => 
+  3730 => 
   array (
     'id' => 147600,
     'name' => 'Halenda',
@@ -34642,7 +33580,7 @@ return array (
     'latitude' => 22.088185,
     'longitude' => 71.05171,
   ),
-  3849 => 
+  3731 => 
   array (
     'id' => 147601,
     'name' => 'Harsol',
@@ -34651,7 +33589,7 @@ return array (
     'latitude' => 23.36,
     'longitude' => 73.02,
   ),
-  3850 => 
+  3732 => 
   array (
     'id' => 147602,
     'name' => 'Hathuran',
@@ -34660,7 +33598,7 @@ return array (
     'latitude' => 21.5,
     'longitude' => 72.97,
   ),
-  3851 => 
+  3733 => 
   array (
     'id' => 147603,
     'name' => 'Idar',
@@ -34669,7 +33607,7 @@ return array (
     'latitude' => 23.83,
     'longitude' => 73.0,
   ),
-  3852 => 
+  3734 => 
   array (
     'id' => 147604,
     'name' => 'Jakhau',
@@ -34678,7 +33616,7 @@ return array (
     'latitude' => 23.21861111,
     'longitude' => 68.71694444,
   ),
-  3853 => 
+  3735 => 
   array (
     'id' => 147605,
     'name' => 'Jalia',
@@ -34687,7 +33625,7 @@ return array (
     'latitude' => 21.8,
     'longitude' => 70.25,
   ),
-  3854 => 
+  3736 => 
   array (
     'id' => 147606,
     'name' => 'Jambuda',
@@ -34696,7 +33634,7 @@ return array (
     'latitude' => 22.51666667,
     'longitude' => 70.21666667,
   ),
-  3855 => 
+  3737 => 
   array (
     'id' => 147607,
     'name' => 'Jarod',
@@ -34705,7 +33643,7 @@ return array (
     'latitude' => 22.433,
     'longitude' => 73.333,
   ),
-  3856 => 
+  3738 => 
   array (
     'id' => 147608,
     'name' => 'Jetalpur',
@@ -34714,7 +33652,7 @@ return array (
     'latitude' => 22.88333333,
     'longitude' => 72.6,
   ),
-  3857 => 
+  3739 => 
   array (
     'id' => 147610,
     'name' => 'Jhalod',
@@ -34723,7 +33661,7 @@ return array (
     'latitude' => 23.10027778,
     'longitude' => 74.15611111,
   ),
-  3858 => 
+  3740 => 
   array (
     'id' => 147612,
     'name' => 'Kachholi',
@@ -34732,7 +33670,7 @@ return array (
     'latitude' => 20.83333333,
     'longitude' => 72.96666667,
   ),
-  3859 => 
+  3741 => 
   array (
     'id' => 147613,
     'name' => 'Kandla port',
@@ -34741,7 +33679,7 @@ return array (
     'latitude' => 23.03,
     'longitude' => 70.22,
   ),
-  3860 => 
+  3742 => 
   array (
     'id' => 147614,
     'name' => 'Kariana',
@@ -34750,7 +33688,7 @@ return array (
     'latitude' => 21.88333333,
     'longitude' => 71.35,
   ),
-  3861 => 
+  3743 => 
   array (
     'id' => 147615,
     'name' => 'Karjan',
@@ -34759,7 +33697,7 @@ return array (
     'latitude' => 22.05304167,
     'longitude' => 73.12351389,
   ),
-  3862 => 
+  3744 => 
   array (
     'id' => 147616,
     'name' => 'Kayavarohan',
@@ -34768,7 +33706,7 @@ return array (
     'latitude' => 22.067,
     'longitude' => 73.25,
   ),
-  3863 => 
+  3745 => 
   array (
     'id' => 147617,
     'name' => 'Kerwada',
@@ -34777,7 +33715,7 @@ return array (
     'latitude' => 21.9,
     'longitude' => 72.85,
   ),
-  3864 => 
+  3746 => 
   array (
     'id' => 147618,
     'name' => 'Khavda',
@@ -34786,7 +33724,7 @@ return array (
     'latitude' => 23.85,
     'longitude' => 69.72,
   ),
-  3865 => 
+  3747 => 
   array (
     'id' => 147619,
     'name' => 'Khedoi',
@@ -34795,7 +33733,7 @@ return array (
     'latitude' => 23.05927778,
     'longitude' => 69.91895556,
   ),
-  3866 => 
+  3748 => 
   array (
     'id' => 147620,
     'name' => 'Kherali',
@@ -34804,7 +33742,7 @@ return array (
     'latitude' => 22.68333333,
     'longitude' => 71.6,
   ),
-  3867 => 
+  3749 => 
   array (
     'id' => 147621,
     'name' => 'Kothara',
@@ -34813,7 +33751,7 @@ return array (
     'latitude' => 23.133,
     'longitude' => 68.932,
   ),
-  3868 => 
+  3750 => 
   array (
     'id' => 147622,
     'name' => 'Kotharia',
@@ -34822,7 +33760,7 @@ return array (
     'latitude' => 22.23,
     'longitude' => 70.81,
   ),
-  3869 => 
+  3751 => 
   array (
     'id' => 147623,
     'name' => 'Kukarmunda',
@@ -34831,7 +33769,7 @@ return array (
     'latitude' => 21.51666667,
     'longitude' => 74.13333333,
   ),
-  3870 => 
+  3752 => 
   array (
     'id' => 147624,
     'name' => 'Kukma',
@@ -34840,7 +33778,7 @@ return array (
     'latitude' => 23.217822,
     'longitude' => 69.777922,
   ),
-  3871 => 
+  3753 => 
   array (
     'id' => 147625,
     'name' => 'Lakhpat',
@@ -34849,7 +33787,7 @@ return array (
     'latitude' => 23.82611111,
     'longitude' => 68.77694444,
   ),
-  3872 => 
+  3754 => 
   array (
     'id' => 147626,
     'name' => 'Langhnaj',
@@ -34858,7 +33796,7 @@ return array (
     'latitude' => 23.45,
     'longitude' => 72.48333333,
   ),
-  3873 => 
+  3755 => 
   array (
     'id' => 147627,
     'name' => 'Limkheda',
@@ -34867,7 +33805,7 @@ return array (
     'latitude' => 22.81666667,
     'longitude' => 73.98333333,
   ),
-  3874 => 
+  3756 => 
   array (
     'id' => 147628,
     'name' => 'Ladol',
@@ -34876,7 +33814,7 @@ return array (
     'latitude' => 23.61666667,
     'longitude' => 72.73333333,
   ),
-  3875 => 
+  3757 => 
   array (
     'id' => 147629,
     'name' => 'Madhavpur Ghed',
@@ -34885,7 +33823,7 @@ return array (
     'latitude' => 21.29929167,
     'longitude' => 70.02513889,
   ),
-  3876 => 
+  3758 => 
   array (
     'id' => 147630,
     'name' => 'Madhi',
@@ -34894,7 +33832,7 @@ return array (
     'latitude' => 22.1,
     'longitude' => 69.1,
   ),
-  3877 => 
+  3759 => 
   array (
     'id' => 147631,
     'name' => 'Mahisa',
@@ -34903,7 +33841,7 @@ return array (
     'latitude' => 22.85,
     'longitude' => 73.05,
   ),
-  3878 => 
+  3760 => 
   array (
     'id' => 147632,
     'name' => 'Mahuva',
@@ -34912,7 +33850,7 @@ return array (
     'latitude' => 21.0833,
     'longitude' => 71.8,
   ),
-  3879 => 
+  3761 => 
   array (
     'id' => 147635,
     'name' => 'Mithapur',
@@ -34921,7 +33859,7 @@ return array (
     'latitude' => 22.41,
     'longitude' => 69.0,
   ),
-  3880 => 
+  3762 => 
   array (
     'id' => 147637,
     'name' => 'Nagwa',
@@ -34930,7 +33868,7 @@ return array (
     'latitude' => 25.69621,
     'longitude' => 84.2359,
   ),
-  3881 => 
+  3763 => 
   array (
     'id' => 147638,
     'name' => 'Naldhara',
@@ -34939,7 +33877,7 @@ return array (
     'latitude' => 20.96666667,
     'longitude' => 73.16666667,
   ),
-  3882 => 
+  3764 => 
   array (
     'id' => 147639,
     'name' => 'Nargol',
@@ -34948,7 +33886,7 @@ return array (
     'latitude' => 20.233,
     'longitude' => 72.75,
   ),
-  3883 => 
+  3765 => 
   array (
     'id' => 147640,
     'name' => 'Nikora',
@@ -34957,7 +33895,7 @@ return array (
     'latitude' => 21.78586,
     'longitude' => 73.13968,
   ),
-  3884 => 
+  3766 => 
   array (
     'id' => 147641,
     'name' => 'Nizar',
@@ -34966,7 +33904,7 @@ return array (
     'latitude' => 21.47727,
     'longitude' => 74.19595,
   ),
-  3885 => 
+  3767 => 
   array (
     'id' => 147642,
     'name' => 'Odadar',
@@ -34975,7 +33913,7 @@ return array (
     'latitude' => 21.56666667,
     'longitude' => 69.66666667,
   ),
-  3886 => 
+  3768 => 
   array (
     'id' => 147643,
     'name' => 'Palanswa',
@@ -34984,7 +33922,7 @@ return array (
     'latitude' => 23.46666667,
     'longitude' => 70.93333333,
   ),
-  3887 => 
+  3769 => 
   array (
     'id' => 147645,
     'name' => 'Palsana',
@@ -34993,7 +33931,7 @@ return array (
     'latitude' => 21.08,
     'longitude' => 72.98,
   ),
-  3888 => 
+  3770 => 
   array (
     'id' => 147646,
     'name' => 'Pipavav',
@@ -35002,7 +33940,7 @@ return array (
     'latitude' => 20.96666667,
     'longitude' => 71.56666667,
   ),
-  3889 => 
+  3771 => 
   array (
     'id' => 147647,
     'name' => 'Piplod',
@@ -35011,7 +33949,7 @@ return array (
     'latitude' => 22.81666667,
     'longitude' => 73.9,
   ),
-  3890 => 
+  3772 => 
   array (
     'id' => 147648,
     'name' => 'Prabhas Patan',
@@ -35020,7 +33958,7 @@ return array (
     'latitude' => 20.88808,
     'longitude' => 70.40129,
   ),
-  3891 => 
+  3773 => 
   array (
     'id' => 147649,
     'name' => 'Prantij',
@@ -35029,7 +33967,7 @@ return array (
     'latitude' => 23.43841944,
     'longitude' => 72.85718056,
   ),
-  3892 => 
+  3774 => 
   array (
     'id' => 147650,
     'name' => 'Ranpur',
@@ -35038,7 +33976,7 @@ return array (
     'latitude' => 22.3667,
     'longitude' => 71.75,
   ),
-  3893 => 
+  3775 => 
   array (
     'id' => 147651,
     'name' => 'Reha',
@@ -35047,7 +33985,7 @@ return array (
     'latitude' => 23.151725,
     'longitude' => 69.750086,
   ),
-  3894 => 
+  3776 => 
   array (
     'id' => 147652,
     'name' => 'Samakhiali',
@@ -35056,7 +33994,7 @@ return array (
     'latitude' => 23.3034,
     'longitude' => 70.50688,
   ),
-  3895 => 
+  3777 => 
   array (
     'id' => 147653,
     'name' => 'Sarbhon',
@@ -35065,7 +34003,7 @@ return array (
     'latitude' => 21.05,
     'longitude' => 73.0833,
   ),
-  3896 => 
+  3778 => 
   array (
     'id' => 147654,
     'name' => 'Sardoi',
@@ -35074,7 +34012,7 @@ return array (
     'latitude' => 23.5667,
     'longitude' => 73.2667,
   ),
-  3897 => 
+  3779 => 
   array (
     'id' => 147655,
     'name' => 'Sathamba',
@@ -35083,7 +34021,7 @@ return array (
     'latitude' => 23.169125,
     'longitude' => 73.32661667,
   ),
-  3898 => 
+  3780 => 
   array (
     'id' => 147656,
     'name' => 'Savli',
@@ -35092,7 +34030,7 @@ return array (
     'latitude' => 22.56666667,
     'longitude' => 73.21666667,
   ),
-  3899 => 
+  3781 => 
   array (
     'id' => 147657,
     'name' => 'Supedi',
@@ -35101,7 +34039,7 @@ return array (
     'latitude' => 21.762,
     'longitude' => 70.378,
   ),
-  3900 => 
+  3782 => 
   array (
     'id' => 147658,
     'name' => 'Sutrapada',
@@ -35110,7 +34048,7 @@ return array (
     'latitude' => 20.8928,
     'longitude' => 70.465,
   ),
-  3901 => 
+  3783 => 
   array (
     'id' => 147659,
     'name' => 'Umarpada',
@@ -35119,7 +34057,7 @@ return array (
     'latitude' => 21.45,
     'longitude' => 73.5,
   ),
-  3902 => 
+  3784 => 
   array (
     'id' => 147660,
     'name' => 'Vadgam',
@@ -35128,7 +34066,7 @@ return array (
     'latitude' => 24.08333333,
     'longitude' => 72.48333333,
   ),
-  3903 => 
+  3785 => 
   array (
     'id' => 147661,
     'name' => 'Vaghodia INA',
@@ -35137,7 +34075,7 @@ return array (
     'latitude' => 22.3,
     'longitude' => 73.3833,
   ),
-  3904 => 
+  3786 => 
   array (
     'id' => 147662,
     'name' => 'Vanala',
@@ -35146,7 +34084,7 @@ return array (
     'latitude' => 22.45,
     'longitude' => 71.98333333,
   ),
-  3905 => 
+  3787 => 
   array (
     'id' => 147663,
     'name' => 'Vanthli',
@@ -35155,7 +34093,7 @@ return array (
     'latitude' => 21.4833,
     'longitude' => 70.3333,
   ),
-  3906 => 
+  3788 => 
   array (
     'id' => 147664,
     'name' => 'Vasavad',
@@ -35164,7 +34102,7 @@ return array (
     'latitude' => 21.82657,
     'longitude' => 71.02436,
   ),
-  3907 => 
+  3789 => 
   array (
     'id' => 147665,
     'name' => 'Vataman',
@@ -35173,7 +34111,7 @@ return array (
     'latitude' => 22.53,
     'longitude' => 72.42,
   ),
-  3908 => 
+  3790 => 
   array (
     'id' => 147666,
     'name' => 'Viramgam',
@@ -35182,7 +34120,7 @@ return array (
     'latitude' => 23.12,
     'longitude' => 72.03,
   ),
-  3909 => 
+  3791 => 
   array (
     'id' => 147667,
     'name' => 'Adawad',
@@ -35191,7 +34129,7 @@ return array (
     'latitude' => 21.21666667,
     'longitude' => 75.45,
   ),
-  3910 => 
+  3792 => 
   array (
     'id' => 147668,
     'name' => 'Agar Panchaitan',
@@ -35200,7 +34138,7 @@ return array (
     'latitude' => 18.173692,
     'longitude' => 72.988533,
   ),
-  3911 => 
+  3793 => 
   array (
     'id' => 147669,
     'name' => 'Aheri',
@@ -35209,7 +34147,7 @@ return array (
     'latitude' => 19.41166667,
     'longitude' => 80.00388889,
   ),
-  3912 => 
+  3794 => 
   array (
     'id' => 147670,
     'name' => 'Ahmednagar',
@@ -35218,7 +34156,7 @@ return array (
     'latitude' => 19.08333333,
     'longitude' => 74.73333333,
   ),
-  3913 => 
+  3795 => 
   array (
     'id' => 147672,
     'name' => 'Akluj',
@@ -35227,7 +34165,7 @@ return array (
     'latitude' => 17.88333333,
     'longitude' => 75.01666667,
   ),
-  3914 => 
+  3796 => 
   array (
     'id' => 147673,
     'name' => 'Akolner',
@@ -35236,7 +34174,7 @@ return array (
     'latitude' => 18.98333333,
     'longitude' => 74.66666667,
   ),
-  3915 => 
+  3797 => 
   array (
     'id' => 147674,
     'name' => 'Akrani',
@@ -35245,7 +34183,7 @@ return array (
     'latitude' => 21.82423611,
     'longitude' => 74.21687222,
   ),
-  3916 => 
+  3798 => 
   array (
     'id' => 147675,
     'name' => 'Ale',
@@ -35254,7 +34192,7 @@ return array (
     'latitude' => 19.17,
     'longitude' => 74.12,
   ),
-  3917 => 
+  3799 => 
   array (
     'id' => 147676,
     'name' => 'Alkuti',
@@ -35263,7 +34201,7 @@ return array (
     'latitude' => 19.05,
     'longitude' => 74.23,
   ),
-  3918 => 
+  3800 => 
   array (
     'id' => 147677,
     'name' => 'Ambernath',
@@ -35272,7 +34210,7 @@ return array (
     'latitude' => 19.209,
     'longitude' => 73.186,
   ),
-  3919 => 
+  3801 => 
   array (
     'id' => 147678,
     'name' => 'Ambegaon',
@@ -35281,7 +34219,7 @@ return array (
     'latitude' => 19.11666667,
     'longitude' => 73.73333333,
   ),
-  3920 => 
+  3802 => 
   array (
     'id' => 147679,
     'name' => 'Amgaon',
@@ -35290,7 +34228,7 @@ return array (
     'latitude' => 20.65,
     'longitude' => 79.95,
   ),
-  3921 => 
+  3803 => 
   array (
     'id' => 147680,
     'name' => 'Andheri',
@@ -35299,7 +34237,7 @@ return array (
     'latitude' => 19.11916667,
     'longitude' => 72.84694444,
   ),
-  3922 => 
+  3804 => 
   array (
     'id' => 147681,
     'name' => 'Andura',
@@ -35308,7 +34246,7 @@ return array (
     'latitude' => 20.88333333,
     'longitude' => 76.86666667,
   ),
-  3923 => 
+  3805 => 
   array (
     'id' => 147682,
     'name' => 'Anjarle',
@@ -35317,7 +34255,7 @@ return array (
     'latitude' => 17.85,
     'longitude' => 73.09,
   ),
-  3924 => 
+  3806 => 
   array (
     'id' => 147683,
     'name' => 'Arag',
@@ -35326,7 +34264,7 @@ return array (
     'latitude' => 16.78,
     'longitude' => 74.8,
   ),
-  3925 => 
+  3807 => 
   array (
     'id' => 147684,
     'name' => 'Ardhapur',
@@ -35335,7 +34273,7 @@ return array (
     'latitude' => 19.28333333,
     'longitude' => 77.38333333,
   ),
-  3926 => 
+  3808 => 
   array (
     'id' => 147685,
     'name' => 'Argaon',
@@ -35344,7 +34282,7 @@ return array (
     'latitude' => 16.778999,
     'longitude' => 73.64553,
   ),
-  3927 => 
+  3809 => 
   array (
     'id' => 147686,
     'name' => 'Asoda',
@@ -35353,7 +34291,7 @@ return array (
     'latitude' => 21.03333333,
     'longitude' => 75.6,
   ),
-  3928 => 
+  3810 => 
   array (
     'id' => 147687,
     'name' => 'Assaye',
@@ -35362,7 +34300,7 @@ return array (
     'latitude' => 20.24512778,
     'longitude' => 75.88739722,
   ),
-  3929 => 
+  3811 => 
   array (
     'id' => 147688,
     'name' => 'Astagaon',
@@ -35371,7 +34309,7 @@ return array (
     'latitude' => 19.66666667,
     'longitude' => 74.5,
   ),
-  3930 => 
+  3812 => 
   array (
     'id' => 147689,
     'name' => 'Aundh Satara',
@@ -35380,7 +34318,7 @@ return array (
     'latitude' => 17.54583333,
     'longitude' => 74.375,
   ),
-  3931 => 
+  3813 => 
   array (
     'id' => 147690,
     'name' => 'Badnapur',
@@ -35389,7 +34327,7 @@ return array (
     'latitude' => 19.86666667,
     'longitude' => 75.73333333,
   ),
-  3932 => 
+  3814 => 
   array (
     'id' => 147691,
     'name' => 'Badnera',
@@ -35398,7 +34336,7 @@ return array (
     'latitude' => 20.85463056,
     'longitude' => 77.72931111,
   ),
-  3933 => 
+  3815 => 
   array (
     'id' => 147692,
     'name' => 'Bagewadi',
@@ -35407,7 +34345,7 @@ return array (
     'latitude' => 16.29,
     'longitude' => 74.6,
   ),
-  3934 => 
+  3816 => 
   array (
     'id' => 147693,
     'name' => 'Balapur Akola district',
@@ -35416,7 +34354,7 @@ return array (
     'latitude' => 20.66612,
     'longitude' => 76.77386,
   ),
-  3935 => 
+  3817 => 
   array (
     'id' => 147694,
     'name' => 'Ballard Estate',
@@ -35425,7 +34363,7 @@ return array (
     'latitude' => 18.95,
     'longitude' => 72.84,
   ),
-  3936 => 
+  3818 => 
   array (
     'id' => 147695,
     'name' => 'Ballarpur',
@@ -35434,7 +34372,7 @@ return array (
     'latitude' => 19.83333333,
     'longitude' => 79.35,
   ),
-  3937 => 
+  3819 => 
   array (
     'id' => 147696,
     'name' => 'Banda Maharashtra',
@@ -35443,7 +34381,7 @@ return array (
     'latitude' => 15.81273611,
     'longitude' => 73.86132778,
   ),
-  3938 => 
+  3820 => 
   array (
     'id' => 147697,
     'name' => 'Bandra',
@@ -35452,7 +34390,7 @@ return array (
     'latitude' => 19.05444444,
     'longitude' => 72.84055556,
   ),
-  3939 => 
+  3821 => 
   array (
     'id' => 147698,
     'name' => 'Baner',
@@ -35461,7 +34399,7 @@ return array (
     'latitude' => 18.56,
     'longitude' => 73.79027778,
   ),
-  3940 => 
+  3822 => 
   array (
     'id' => 147699,
     'name' => 'Bankot',
@@ -35470,7 +34408,7 @@ return array (
     'latitude' => 17.98333333,
     'longitude' => 73.05,
   ),
-  3941 => 
+  3823 => 
   array (
     'id' => 147701,
     'name' => 'Bavdhan',
@@ -35479,7 +34417,7 @@ return array (
     'latitude' => 18.53527778,
     'longitude' => 73.78277778,
   ),
-  3942 => 
+  3824 => 
   array (
     'id' => 147702,
     'name' => 'Bawanbir',
@@ -35488,7 +34426,7 @@ return array (
     'latitude' => 21.08333333,
     'longitude' => 76.71666667,
   ),
-  3943 => 
+  3825 => 
   array (
     'id' => 147703,
     'name' => 'Bhadgaon Maharashtra',
@@ -35497,7 +34435,7 @@ return array (
     'latitude' => 20.16666667,
     'longitude' => 75.23333333,
   ),
-  3944 => 
+  3826 => 
   array (
     'id' => 147704,
     'name' => 'Bhandardara',
@@ -35506,7 +34444,7 @@ return array (
     'latitude' => 19.52916667,
     'longitude' => 73.75138889,
   ),
-  3945 => 
+  3827 => 
   array (
     'id' => 147705,
     'name' => 'Bhandup',
@@ -35515,7 +34453,7 @@ return array (
     'latitude' => 19.14,
     'longitude' => 72.93,
   ),
-  3946 => 
+  3828 => 
   array (
     'id' => 147706,
     'name' => 'Bhiwapur',
@@ -35524,7 +34462,7 @@ return array (
     'latitude' => 20.83555556,
     'longitude' => 79.50111111,
   ),
-  3947 => 
+  3829 => 
   array (
     'id' => 147707,
     'name' => 'Bhokar',
@@ -35533,7 +34471,7 @@ return array (
     'latitude' => 19.217803,
     'longitude' => 77.669392,
   ),
-  3948 => 
+  3830 => 
   array (
     'id' => 147708,
     'name' => 'Bhokardan',
@@ -35542,7 +34480,7 @@ return array (
     'latitude' => 20.27,
     'longitude' => 75.77,
   ),
-  3949 => 
+  3831 => 
   array (
     'id' => 147710,
     'name' => 'Bhugaon',
@@ -35551,7 +34489,7 @@ return array (
     'latitude' => 18.501284,
     'longitude' => 73.750161,
   ),
-  3950 => 
+  3832 => 
   array (
     'id' => 147712,
     'name' => 'Bijur',
@@ -35560,7 +34498,7 @@ return array (
     'latitude' => 13.84388889,
     'longitude' => 74.63972222,
   ),
-  3951 => 
+  3833 => 
   array (
     'id' => 147713,
     'name' => 'Bilashi',
@@ -35569,7 +34507,7 @@ return array (
     'latitude' => 16.98333,
     'longitude' => 74.03333,
   ),
-  3952 => 
+  3834 => 
   array (
     'id' => 147714,
     'name' => 'Borgaon Manju',
@@ -35578,7 +34516,7 @@ return array (
     'latitude' => 20.71944444,
     'longitude' => 77.15277778,
   ),
-  3953 => 
+  3835 => 
   array (
     'id' => 147715,
     'name' => 'Borivali',
@@ -35587,7 +34525,7 @@ return array (
     'latitude' => 19.23,
     'longitude' => 72.86,
   ),
-  3954 => 
+  3836 => 
   array (
     'id' => 147716,
     'name' => 'Brahmapuri',
@@ -35596,7 +34534,7 @@ return array (
     'latitude' => 20.6084,
     'longitude' => 79.8559,
   ),
-  3955 => 
+  3837 => 
   array (
     'id' => 147717,
     'name' => 'Breach Candy',
@@ -35605,7 +34543,7 @@ return array (
     'latitude' => 18.967,
     'longitude' => 72.805,
   ),
-  3956 => 
+  3838 => 
   array (
     'id' => 147719,
     'name' => 'Byculla',
@@ -35614,7 +34552,7 @@ return array (
     'latitude' => 18.98,
     'longitude' => 72.835,
   ),
-  3957 => 
+  3839 => 
   array (
     'id' => 147720,
     'name' => 'Chakur',
@@ -35623,7 +34561,7 @@ return array (
     'latitude' => 18.51305556,
     'longitude' => 76.87527778,
   ),
-  3958 => 
+  3840 => 
   array (
     'id' => 147721,
     'name' => 'Chandgad',
@@ -35632,7 +34570,7 @@ return array (
     'latitude' => 15.0,
     'longitude' => 74.0,
   ),
-  3959 => 
+  3841 => 
   array (
     'id' => 147722,
     'name' => 'Chausala',
@@ -35641,7 +34579,7 @@ return array (
     'latitude' => 18.708692,
     'longitude' => 75.691595,
   ),
-  3960 => 
+  3842 => 
   array (
     'id' => 147723,
     'name' => 'Chembur',
@@ -35650,7 +34588,7 @@ return array (
     'latitude' => 19.05871111,
     'longitude' => 72.89969444,
   ),
-  3961 => 
+  3843 => 
   array (
     'id' => 147724,
     'name' => 'Chichondi Patil',
@@ -35659,7 +34597,7 @@ return array (
     'latitude' => 19.0,
     'longitude' => 74.91666667,
   ),
-  3962 => 
+  3844 => 
   array (
     'id' => 147726,
     'name' => 'Chimur',
@@ -35668,7 +34606,7 @@ return array (
     'latitude' => 20.49694444,
     'longitude' => 79.37666667,
   ),
-  3963 => 
+  3845 => 
   array (
     'id' => 147727,
     'name' => 'Chinchpokli',
@@ -35677,7 +34615,7 @@ return array (
     'latitude' => 18.98333333,
     'longitude' => 72.83333333,
   ),
-  3964 => 
+  3846 => 
   array (
     'id' => 147728,
     'name' => 'Colaba',
@@ -35686,7 +34624,7 @@ return array (
     'latitude' => 18.91,
     'longitude' => 72.81,
   ),
-  3965 => 
+  3847 => 
   array (
     'id' => 147729,
     'name' => 'Daddi',
@@ -35695,7 +34633,7 @@ return array (
     'latitude' => 16.06666667,
     'longitude' => 74.43333333,
   ),
-  3966 => 
+  3848 => 
   array (
     'id' => 147730,
     'name' => 'Dahivel',
@@ -35704,7 +34642,7 @@ return array (
     'latitude' => 21.06666667,
     'longitude' => 74.16666667,
   ),
-  3967 => 
+  3849 => 
   array (
     'id' => 147731,
     'name' => 'Dapoli',
@@ -35713,7 +34651,7 @@ return array (
     'latitude' => 17.75888889,
     'longitude' => 73.18555556,
   ),
-  3968 => 
+  3850 => 
   array (
     'id' => 147732,
     'name' => 'Deccan Gymkhana',
@@ -35722,7 +34660,7 @@ return array (
     'latitude' => 18.5184,
     'longitude' => 73.8406,
   ),
-  3969 => 
+  3851 => 
   array (
     'id' => 147733,
     'name' => 'Deglur',
@@ -35731,7 +34669,7 @@ return array (
     'latitude' => 18.54777778,
     'longitude' => 77.57722222,
   ),
-  3970 => 
+  3852 => 
   array (
     'id' => 147734,
     'name' => 'Deolapar',
@@ -35740,7 +34678,7 @@ return array (
     'latitude' => 21.58611111,
     'longitude' => 79.36944444,
   ),
-  3971 => 
+  3853 => 
   array (
     'id' => 147735,
     'name' => 'Deoni',
@@ -35749,7 +34687,7 @@ return array (
     'latitude' => 18.26388889,
     'longitude' => 77.08222222,
   ),
-  3972 => 
+  3854 => 
   array (
     'id' => 147736,
     'name' => 'Devrukh',
@@ -35758,7 +34696,7 @@ return array (
     'latitude' => 17.065,
     'longitude' => 73.61583333,
   ),
-  3973 => 
+  3855 => 
   array (
     'id' => 147737,
     'name' => 'Dharavi',
@@ -35767,7 +34705,7 @@ return array (
     'latitude' => 19.05,
     'longitude' => 72.86667,
   ),
-  3974 => 
+  3856 => 
   array (
     'id' => 147738,
     'name' => 'Dhawalpuri',
@@ -35776,7 +34714,7 @@ return array (
     'latitude' => 19.16666667,
     'longitude' => 74.51666667,
   ),
-  3975 => 
+  3857 => 
   array (
     'id' => 147739,
     'name' => 'Dighori',
@@ -35785,7 +34723,7 @@ return array (
     'latitude' => 20.8862,
     'longitude' => 79.9342,
   ),
-  3976 => 
+  3858 => 
   array (
     'id' => 147740,
     'name' => 'Dindori Maharashtra',
@@ -35794,7 +34732,7 @@ return array (
     'latitude' => 20.2,
     'longitude' => 73.83305556,
   ),
-  3977 => 
+  3859 => 
   array (
     'id' => 147741,
     'name' => 'Diveagar',
@@ -35803,7 +34741,7 @@ return array (
     'latitude' => 18.17333333,
     'longitude' => 72.99166667,
   ),
-  3978 => 
+  3860 => 
   array (
     'id' => 147742,
     'name' => 'Dongri',
@@ -35812,7 +34750,7 @@ return array (
     'latitude' => 19.28333333,
     'longitude' => 72.78333333,
   ),
-  3979 => 
+  3861 => 
   array (
     'id' => 147743,
     'name' => 'Durgapur Chandrapur',
@@ -35821,7 +34759,7 @@ return array (
     'latitude' => 20.0,
     'longitude' => 79.3,
   ),
-  3980 => 
+  3862 => 
   array (
     'id' => 147744,
     'name' => 'Fort',
@@ -35830,7 +34768,7 @@ return array (
     'latitude' => 18.935,
     'longitude' => 72.8359,
   ),
-  3981 => 
+  3863 => 
   array (
     'id' => 147745,
     'name' => 'Ganpatipule',
@@ -35839,7 +34777,7 @@ return array (
     'latitude' => 17.1448,
     'longitude' => 73.2666,
   ),
-  3982 => 
+  3864 => 
   array (
     'id' => 147746,
     'name' => 'Ghargaon',
@@ -35848,7 +34786,7 @@ return array (
     'latitude' => 18.748684,
     'longitude' => 74.636734,
   ),
-  3983 => 
+  3865 => 
   array (
     'id' => 147747,
     'name' => 'Ghatkopar',
@@ -35857,7 +34795,7 @@ return array (
     'latitude' => 19.08,
     'longitude' => 72.91,
   ),
-  3984 => 
+  3866 => 
   array (
     'id' => 147748,
     'name' => 'Girgaon',
@@ -35866,7 +34804,7 @@ return array (
     'latitude' => 18.953,
     'longitude' => 72.813,
   ),
-  3985 => 
+  3867 => 
   array (
     'id' => 147749,
     'name' => 'Gondia',
@@ -35875,7 +34813,7 @@ return array (
     'latitude' => 21.45,
     'longitude' => 80.2,
   ),
-  3986 => 
+  3868 => 
   array (
     'id' => 147750,
     'name' => 'Gorai',
@@ -35884,7 +34822,7 @@ return array (
     'latitude' => 19.250057,
     'longitude' => 72.782021,
   ),
-  3987 => 
+  3869 => 
   array (
     'id' => 147751,
     'name' => 'Hadapsar Pune',
@@ -35893,7 +34831,7 @@ return array (
     'latitude' => 18.49666667,
     'longitude' => 73.94166667,
   ),
-  3988 => 
+  3870 => 
   array (
     'id' => 147752,
     'name' => 'Halkarni',
@@ -35902,7 +34840,7 @@ return array (
     'latitude' => 16.16666667,
     'longitude' => 74.46666667,
   ),
-  3989 => 
+  3871 => 
   array (
     'id' => 147753,
     'name' => 'Harangul',
@@ -35911,7 +34849,7 @@ return array (
     'latitude' => 18.9,
     'longitude' => 76.66666667,
   ),
-  3990 => 
+  3872 => 
   array (
     'id' => 147754,
     'name' => 'Helwak',
@@ -35920,7 +34858,7 @@ return array (
     'latitude' => 17.385,
     'longitude' => 73.735,
   ),
-  3991 => 
+  3873 => 
   array (
     'id' => 147755,
     'name' => 'Hirapur',
@@ -35929,7 +34867,7 @@ return array (
     'latitude' => 21.53,
     'longitude' => 79.77,
   ),
-  3992 => 
+  3874 => 
   array (
     'id' => 147756,
     'name' => 'Hotgi',
@@ -35938,7 +34876,7 @@ return array (
     'latitude' => 17.58333333,
     'longitude' => 75.98333333,
   ),
-  3993 => 
+  3875 => 
   array (
     'id' => 147757,
     'name' => 'Jaitapur',
@@ -35947,7 +34885,7 @@ return array (
     'latitude' => 16.59,
     'longitude' => 73.35,
   ),
-  3994 => 
+  3876 => 
   array (
     'id' => 147758,
     'name' => 'Jakhangaon',
@@ -35956,7 +34894,7 @@ return array (
     'latitude' => 17.64639,
     'longitude' => 74.32111,
   ),
-  3995 => 
+  3877 => 
   array (
     'id' => 147759,
     'name' => 'Jalkot',
@@ -35965,7 +34903,7 @@ return array (
     'latitude' => 18.62916667,
     'longitude' => 77.18111111,
   ),
-  3996 => 
+  3878 => 
   array (
     'id' => 147760,
     'name' => 'Jamkhed',
@@ -35974,7 +34912,7 @@ return array (
     'latitude' => 18.72,
     'longitude' => 75.32,
   ),
-  3997 => 
+  3879 => 
   array (
     'id' => 147761,
     'name' => 'Jamod',
@@ -35983,7 +34921,7 @@ return array (
     'latitude' => 21.1,
     'longitude' => 76.6,
   ),
-  3998 => 
+  3880 => 
   array (
     'id' => 147762,
     'name' => 'Janephal',
@@ -35992,7 +34930,7 @@ return array (
     'latitude' => 20.29361111,
     'longitude' => 76.57583333,
   ),
-  3999 => 
+  3881 => 
   array (
     'id' => 147763,
     'name' => 'Jaoli',
@@ -36001,7 +34939,7 @@ return array (
     'latitude' => 17.9,
     'longitude' => 76.4,
   ),
-  4000 => 
+  3882 => 
   array (
     'id' => 147764,
     'name' => 'Jat Sangli',
@@ -36010,7 +34948,7 @@ return array (
     'latitude' => 17.05,
     'longitude' => 75.21666667,
   ),
-  4001 => 
+  3883 => 
   array (
     'id' => 147765,
     'name' => 'Jategaon',
@@ -36019,7 +34957,7 @@ return array (
     'latitude' => 19.91666667,
     'longitude' => 73.65,
   ),
-  4002 => 
+  3884 => 
   array (
     'id' => 147766,
     'name' => 'Jaysingpur',
@@ -36028,7 +34966,7 @@ return array (
     'latitude' => 16.78350556,
     'longitude' => 74.56644167,
   ),
-  4003 => 
+  3885 => 
   array (
     'id' => 147767,
     'name' => 'Jogeshwari',
@@ -36037,7 +34975,7 @@ return array (
     'latitude' => 19.12,
     'longitude' => 72.85,
   ),
-  4004 => 
+  3886 => 
   array (
     'id' => 147768,
     'name' => 'Juhu',
@@ -36046,7 +34984,7 @@ return array (
     'latitude' => 19.1,
     'longitude' => 72.83,
   ),
-  4005 => 
+  3887 => 
   array (
     'id' => 147769,
     'name' => 'Kachurwahi',
@@ -36055,7 +34993,7 @@ return array (
     'latitude' => 21.3333,
     'longitude' => 79.3833,
   ),
-  4006 => 
+  3888 => 
   array (
     'id' => 147770,
     'name' => 'Kadegaon',
@@ -36064,7 +35002,7 @@ return array (
     'latitude' => 17.3,
     'longitude' => 74.35,
   ),
-  4007 => 
+  3889 => 
   array (
     'id' => 147771,
     'name' => 'Kadus',
@@ -36073,7 +35011,7 @@ return array (
     'latitude' => 18.88333333,
     'longitude' => 73.81666667,
   ),
-  4008 => 
+  3890 => 
   array (
     'id' => 147772,
     'name' => 'Kaij',
@@ -36082,7 +35020,7 @@ return array (
     'latitude' => 18.7,
     'longitude' => 76.08333333,
   ),
-  4009 => 
+  3891 => 
   array (
     'id' => 147773,
     'name' => 'Kalamb Osmanabad',
@@ -36091,7 +35029,7 @@ return array (
     'latitude' => 18.57416667,
     'longitude' => 76.02166667,
   ),
-  4010 => 
+  3892 => 
   array (
     'id' => 147774,
     'name' => 'Kalamboli',
@@ -36100,7 +35038,7 @@ return array (
     'latitude' => 19.03333,
     'longitude' => 73.1,
   ),
-  4011 => 
+  3893 => 
   array (
     'id' => 147776,
     'name' => 'Kalyani Nagar',
@@ -36109,7 +35047,7 @@ return array (
     'latitude' => 18.5481,
     'longitude' => 73.9033,
   ),
-  4012 => 
+  3894 => 
   array (
     'id' => 147777,
     'name' => 'Kamargaon',
@@ -36118,7 +35056,7 @@ return array (
     'latitude' => 20.61666667,
     'longitude' => 77.5,
   ),
-  4013 => 
+  3895 => 
   array (
     'id' => 147778,
     'name' => 'Kamatgi',
@@ -36127,7 +35065,7 @@ return array (
     'latitude' => 16.119,
     'longitude' => 75.8482,
   ),
-  4014 => 
+  3896 => 
   array (
     'id' => 147779,
     'name' => 'Kamptee',
@@ -36136,7 +35074,7 @@ return array (
     'latitude' => 21.2333,
     'longitude' => 79.2,
   ),
-  4015 => 
+  3897 => 
   array (
     'id' => 147780,
     'name' => 'Kankavli',
@@ -36145,7 +35083,7 @@ return array (
     'latitude' => 16.28551111,
     'longitude' => 73.68446111,
   ),
-  4016 => 
+  3898 => 
   array (
     'id' => 147781,
     'name' => 'Karajagi',
@@ -36154,7 +35092,7 @@ return array (
     'latitude' => 17.11666667,
     'longitude' => 75.58333333,
   ),
-  4017 => 
+  3899 => 
   array (
     'id' => 147782,
     'name' => 'Karanja Lad',
@@ -36163,7 +35101,7 @@ return array (
     'latitude' => 20.4833,
     'longitude' => 77.4833,
   ),
-  4018 => 
+  3900 => 
   array (
     'id' => 147783,
     'name' => 'Karkamb',
@@ -36172,7 +35110,7 @@ return array (
     'latitude' => 17.8653,
     'longitude' => 75.2964,
   ),
-  4019 => 
+  3901 => 
   array (
     'id' => 147784,
     'name' => 'Kasara',
@@ -36181,7 +35119,7 @@ return array (
     'latitude' => 19.6333,
     'longitude' => 73.4833,
   ),
-  4020 => 
+  3902 => 
   array (
     'id' => 147785,
     'name' => 'Kasoda',
@@ -36190,7 +35128,7 @@ return array (
     'latitude' => 20.81666667,
     'longitude' => 75.3,
   ),
-  4021 => 
+  3903 => 
   array (
     'id' => 147786,
     'name' => 'Katral',
@@ -36199,7 +35137,7 @@ return array (
     'latitude' => 17.16666667,
     'longitude' => 75.63333333,
   ),
-  4022 => 
+  3904 => 
   array (
     'id' => 147787,
     'name' => 'Khalapur',
@@ -36208,7 +35146,7 @@ return array (
     'latitude' => 18.81666667,
     'longitude' => 73.26666667,
   ),
-  4023 => 
+  3905 => 
   array (
     'id' => 147788,
     'name' => 'Khallar',
@@ -36217,16 +35155,7 @@ return array (
     'latitude' => 21.0402869,
     'longitude' => 77.4656296,
   ),
-  4024 => 
-  array (
-    'id' => 147789,
-    'name' => 'Khanapur',
-    'country_id' => 101,
-    'country_code' => 'IN',
-    'latitude' => 17.26111111,
-    'longitude' => 74.70166667,
-  ),
-  4025 => 
+  3906 => 
   array (
     'id' => 147790,
     'name' => 'Khandala',
@@ -36235,7 +35164,7 @@ return array (
     'latitude' => 18.05918056,
     'longitude' => 74.01262778,
   ),
-  4026 => 
+  3907 => 
   array (
     'id' => 147791,
     'name' => 'Khangaon',
@@ -36244,7 +35173,7 @@ return array (
     'latitude' => 20.5,
     'longitude' => 78.61666667,
   ),
-  4027 => 
+  3908 => 
   array (
     'id' => 147792,
     'name' => 'Kharda',
@@ -36253,7 +35182,7 @@ return array (
     'latitude' => 18.63753,
     'longitude' => 75.47513,
   ),
-  4028 => 
+  3909 => 
   array (
     'id' => 147793,
     'name' => 'Kharghar',
@@ -36262,7 +35191,7 @@ return array (
     'latitude' => 19.03614722,
     'longitude' => 73.06172222,
   ),
-  4029 => 
+  3910 => 
   array (
     'id' => 147794,
     'name' => 'Kharsundi',
@@ -36271,7 +35200,7 @@ return array (
     'latitude' => 17.341585,
     'longitude' => 74.775996,
   ),
-  4030 => 
+  3911 => 
   array (
     'id' => 147796,
     'name' => 'Khoni',
@@ -36280,7 +35209,7 @@ return array (
     'latitude' => 19.3113,
     'longitude' => 73.0544,
   ),
-  4031 => 
+  3912 => 
   array (
     'id' => 147797,
     'name' => 'Kondhali',
@@ -36289,7 +35218,7 @@ return array (
     'latitude' => 21.15,
     'longitude' => 78.61666667,
   ),
-  4032 => 
+  3913 => 
   array (
     'id' => 147798,
     'name' => 'Kopar Khairane',
@@ -36298,7 +35227,7 @@ return array (
     'latitude' => 19.10305556,
     'longitude' => 73.01055556,
   ),
-  4033 => 
+  3914 => 
   array (
     'id' => 147799,
     'name' => 'Kopela',
@@ -36307,7 +35236,7 @@ return array (
     'latitude' => 18.83,
     'longitude' => 80.23,
   ),
-  4034 => 
+  3915 => 
   array (
     'id' => 147800,
     'name' => 'Kuhi',
@@ -36316,7 +35245,7 @@ return array (
     'latitude' => 21.01082222,
     'longitude' => 79.35242222,
   ),
-  4035 => 
+  3916 => 
   array (
     'id' => 147801,
     'name' => 'Kurankhed',
@@ -36325,7 +35254,7 @@ return array (
     'latitude' => 20.70194444,
     'longitude' => 77.24972222,
   ),
-  4036 => 
+  3917 => 
   array (
     'id' => 147802,
     'name' => 'Kusumba',
@@ -36334,7 +35263,7 @@ return array (
     'latitude' => 20.91666667,
     'longitude' => 74.65,
   ),
-  4037 => 
+  3918 => 
   array (
     'id' => 147803,
     'name' => 'Lakhandur',
@@ -36343,7 +35272,7 @@ return array (
     'latitude' => 20.75,
     'longitude' => 79.88333333,
   ),
-  4038 => 
+  3919 => 
   array (
     'id' => 147804,
     'name' => 'Lavasa',
@@ -36352,7 +35281,7 @@ return array (
     'latitude' => 18.40528056,
     'longitude' => 73.50626944,
   ),
-  4039 => 
+  3920 => 
   array (
     'id' => 147805,
     'name' => 'Mahape',
@@ -36361,7 +35290,7 @@ return array (
     'latitude' => 19.11776,
     'longitude' => 73.026938,
   ),
-  4040 => 
+  3921 => 
   array (
     'id' => 147806,
     'name' => 'Mahim',
@@ -36370,7 +35299,7 @@ return array (
     'latitude' => 19.035,
     'longitude' => 72.84,
   ),
-  4041 => 
+  3922 => 
   array (
     'id' => 147807,
     'name' => 'Malabar Hill',
@@ -36379,7 +35308,7 @@ return array (
     'latitude' => 18.95,
     'longitude' => 72.795,
   ),
-  4042 => 
+  3923 => 
   array (
     'id' => 147808,
     'name' => 'Malad',
@@ -36388,7 +35317,7 @@ return array (
     'latitude' => 19.18611111,
     'longitude' => 72.84861111,
   ),
-  4043 => 
+  3924 => 
   array (
     'id' => 147809,
     'name' => 'Mandangad',
@@ -36397,7 +35326,7 @@ return array (
     'latitude' => 17.98333333,
     'longitude' => 73.25,
   ),
-  4044 => 
+  3925 => 
   array (
     'id' => 147810,
     'name' => 'Mandhal',
@@ -36406,7 +35335,7 @@ return array (
     'latitude' => 20.95,
     'longitude' => 79.46666667,
   ),
-  4045 => 
+  3926 => 
   array (
     'id' => 147811,
     'name' => 'Mandwa',
@@ -36415,7 +35344,7 @@ return array (
     'latitude' => 18.803,
     'longitude' => 72.882,
   ),
-  4046 => 
+  3927 => 
   array (
     'id' => 147812,
     'name' => 'Mangaon',
@@ -36424,7 +35353,7 @@ return array (
     'latitude' => 18.23333333,
     'longitude' => 73.28333333,
   ),
-  4047 => 
+  3928 => 
   array (
     'id' => 147813,
     'name' => 'Manjlegaon',
@@ -36433,7 +35362,7 @@ return array (
     'latitude' => 19.15,
     'longitude' => 76.23,
   ),
-  4048 => 
+  3929 => 
   array (
     'id' => 147814,
     'name' => 'Mankeshwar',
@@ -36442,7 +35371,7 @@ return array (
     'latitude' => 18.35416667,
     'longitude' => 75.63916667,
   ),
-  4049 => 
+  3930 => 
   array (
     'id' => 147815,
     'name' => 'Mankhurd',
@@ -36451,7 +35380,7 @@ return array (
     'latitude' => 19.05,
     'longitude' => 72.93,
   ),
-  4050 => 
+  3931 => 
   array (
     'id' => 147817,
     'name' => 'Maregaon',
@@ -36460,7 +35389,7 @@ return array (
     'latitude' => 20.1,
     'longitude' => 78.81666667,
   ),
-  4051 => 
+  3932 => 
   array (
     'id' => 147818,
     'name' => 'Mastiholi',
@@ -36469,7 +35398,7 @@ return array (
     'latitude' => 16.08333333,
     'longitude' => 74.55,
   ),
-  4052 => 
+  3933 => 
   array (
     'id' => 147819,
     'name' => 'Masur India',
@@ -36478,7 +35407,7 @@ return array (
     'latitude' => 17.4,
     'longitude' => 74.15,
   ),
-  4053 => 
+  3934 => 
   array (
     'id' => 147820,
     'name' => 'Matunga',
@@ -36487,7 +35416,7 @@ return array (
     'latitude' => 19.01798056,
     'longitude' => 72.84476389,
   ),
-  4054 => 
+  3935 => 
   array (
     'id' => 147821,
     'name' => 'Mazagaon',
@@ -36496,7 +35425,7 @@ return array (
     'latitude' => 18.97,
     'longitude' => 72.85,
   ),
-  4055 => 
+  3936 => 
   array (
     'id' => 147822,
     'name' => 'Mehergaon',
@@ -36505,7 +35434,7 @@ return array (
     'latitude' => 20.96666667,
     'longitude' => 74.63333333,
   ),
-  4056 => 
+  3937 => 
   array (
     'id' => 147823,
     'name' => 'Mehkar',
@@ -36514,7 +35443,7 @@ return array (
     'latitude' => 20.15,
     'longitude' => 76.575,
   ),
-  4057 => 
+  3938 => 
   array (
     'id' => 147824,
     'name' => 'Miraj',
@@ -36523,7 +35452,7 @@ return array (
     'latitude' => 16.83,
     'longitude' => 74.63,
   ),
-  4058 => 
+  3939 => 
   array (
     'id' => 147825,
     'name' => 'Mohadi',
@@ -36532,7 +35461,7 @@ return array (
     'latitude' => 21.30833333,
     'longitude' => 79.675,
   ),
-  4059 => 
+  3940 => 
   array (
     'id' => 147826,
     'name' => 'Mohol',
@@ -36541,7 +35470,7 @@ return array (
     'latitude' => 17.8167,
     'longitude' => 75.6667,
   ),
-  4060 => 
+  3941 => 
   array (
     'id' => 147827,
     'name' => 'Mokhada taluka',
@@ -36550,7 +35479,7 @@ return array (
     'latitude' => 19.93333333,
     'longitude' => 73.33333333,
   ),
-  4061 => 
+  3942 => 
   array (
     'id' => 147828,
     'name' => 'Mora Maharashtra',
@@ -36559,7 +35488,7 @@ return array (
     'latitude' => 18.889,
     'longitude' => 72.934,
   ),
-  4062 => 
+  3943 => 
   array (
     'id' => 147829,
     'name' => 'Mulher',
@@ -36568,7 +35497,7 @@ return array (
     'latitude' => 20.78138889,
     'longitude' => 74.06388889,
   ),
-  4063 => 
+  3944 => 
   array (
     'id' => 147830,
     'name' => 'Mulund',
@@ -36577,7 +35506,7 @@ return array (
     'latitude' => 19.17168056,
     'longitude' => 72.956,
   ),
-  4064 => 
+  3945 => 
   array (
     'id' => 147832,
     'name' => 'Murum',
@@ -36586,7 +35515,7 @@ return array (
     'latitude' => 17.78777778,
     'longitude' => 76.47,
   ),
-  4065 => 
+  3946 => 
   array (
     'id' => 147833,
     'name' => 'Nadgaon',
@@ -36595,7 +35524,7 @@ return array (
     'latitude' => 20.90101389,
     'longitude' => 76.01396389,
   ),
-  4066 => 
+  3947 => 
   array (
     'id' => 147834,
     'name' => 'Nagapur',
@@ -36604,7 +35533,7 @@ return array (
     'latitude' => 18.87,
     'longitude' => 76.43,
   ),
-  4067 => 
+  3948 => 
   array (
     'id' => 147835,
     'name' => 'Nala Sopara',
@@ -36613,7 +35542,7 @@ return array (
     'latitude' => 19.4154,
     'longitude' => 72.8613,
   ),
-  4068 => 
+  3949 => 
   array (
     'id' => 147836,
     'name' => 'Nalegaon',
@@ -36622,7 +35551,7 @@ return array (
     'latitude' => 18.41666667,
     'longitude' => 76.81666667,
   ),
-  4069 => 
+  3950 => 
   array (
     'id' => 147837,
     'name' => 'Nampur',
@@ -36631,7 +35560,7 @@ return array (
     'latitude' => 20.72861111,
     'longitude' => 74.31083333,
   ),
-  4070 => 
+  3951 => 
   array (
     'id' => 147838,
     'name' => 'Nandnee',
@@ -36640,7 +35569,7 @@ return array (
     'latitude' => 17.455,
     'longitude' => 75.84555556,
   ),
-  4071 => 
+  3952 => 
   array (
     'id' => 147839,
     'name' => 'Nandura',
@@ -36649,7 +35578,7 @@ return array (
     'latitude' => 20.83333333,
     'longitude' => 76.45972222,
   ),
-  4072 => 
+  3953 => 
   array (
     'id' => 147840,
     'name' => 'Narayangaon',
@@ -36658,7 +35587,7 @@ return array (
     'latitude' => 19.07,
     'longitude' => 73.97,
   ),
-  4073 => 
+  3954 => 
   array (
     'id' => 147841,
     'name' => 'Nardana',
@@ -36667,7 +35596,7 @@ return array (
     'latitude' => 21.2,
     'longitude' => 74.81666667,
   ),
-  4074 => 
+  3955 => 
   array (
     'id' => 147842,
     'name' => 'Nariman Point',
@@ -36676,7 +35605,7 @@ return array (
     'latitude' => 18.92,
     'longitude' => 72.83,
   ),
-  4075 => 
+  3956 => 
   array (
     'id' => 147843,
     'name' => 'Narkhed',
@@ -36685,7 +35614,7 @@ return array (
     'latitude' => 21.47,
     'longitude' => 78.53,
   ),
-  4076 => 
+  3957 => 
   array (
     'id' => 147844,
     'name' => 'Navapur',
@@ -36694,7 +35623,7 @@ return array (
     'latitude' => 21.17,
     'longitude' => 73.78,
   ),
-  4077 => 
+  3958 => 
   array (
     'id' => 147845,
     'name' => 'Nerur',
@@ -36703,7 +35632,7 @@ return array (
     'latitude' => 15.98333333,
     'longitude' => 73.65,
   ),
-  4078 => 
+  3959 => 
   array (
     'id' => 147846,
     'name' => 'Nevasa',
@@ -36712,7 +35641,7 @@ return array (
     'latitude' => 19.53333333,
     'longitude' => 74.93333333,
   ),
-  4079 => 
+  3960 => 
   array (
     'id' => 147847,
     'name' => 'Nighoj',
@@ -36721,7 +35650,7 @@ return array (
     'latitude' => 18.95972222,
     'longitude' => 74.27694444,
   ),
-  4080 => 
+  3961 => 
   array (
     'id' => 147848,
     'name' => 'Niphad',
@@ -36730,7 +35659,7 @@ return array (
     'latitude' => 20.0833,
     'longitude' => 73.8,
   ),
-  4081 => 
+  3962 => 
   array (
     'id' => 147849,
     'name' => 'Nira Narsingpur',
@@ -36739,7 +35668,7 @@ return array (
     'latitude' => 17.9835,
     'longitude' => 75.12396,
   ),
-  4082 => 
+  3963 => 
   array (
     'id' => 147850,
     'name' => 'Pabal',
@@ -36748,7 +35677,7 @@ return array (
     'latitude' => 18.83083333,
     'longitude' => 74.05277778,
   ),
-  4083 => 
+  3964 => 
   array (
     'id' => 147851,
     'name' => 'Pahur Maharashtra',
@@ -36757,7 +35686,7 @@ return array (
     'latitude' => 20.7,
     'longitude' => 75.68333333,
   ),
-  4084 => 
+  3965 => 
   array (
     'id' => 147852,
     'name' => 'Pali Raigad',
@@ -36766,7 +35695,7 @@ return array (
     'latitude' => 18.541384,
     'longitude' => 73.219965,
   ),
-  4085 => 
+  3966 => 
   array (
     'id' => 147853,
     'name' => 'Palso',
@@ -36775,7 +35704,7 @@ return array (
     'latitude' => 20.76666667,
     'longitude' => 77.23333333,
   ),
-  4086 => 
+  3967 => 
   array (
     'id' => 147854,
     'name' => 'Pandhurli',
@@ -36784,7 +35713,7 @@ return array (
     'latitude' => 19.829052,
     'longitude' => 73.854745,
   ),
-  4087 => 
+  3968 => 
   array (
     'id' => 147855,
     'name' => 'Parel',
@@ -36793,7 +35722,7 @@ return array (
     'latitude' => 18.99,
     'longitude' => 72.84,
   ),
-  4088 => 
+  3969 => 
   array (
     'id' => 147856,
     'name' => 'Parner',
@@ -36802,7 +35731,7 @@ return array (
     'latitude' => 19.003,
     'longitude' => 74.438,
   ),
-  4089 => 
+  3970 => 
   array (
     'id' => 147857,
     'name' => 'Parseoni',
@@ -36811,7 +35740,7 @@ return array (
     'latitude' => 21.38333333,
     'longitude' => 79.15,
   ),
-  4090 => 
+  3971 => 
   array (
     'id' => 147858,
     'name' => 'Paturda',
@@ -36820,7 +35749,7 @@ return array (
     'latitude' => 20.95,
     'longitude' => 76.71666667,
   ),
-  4091 => 
+  3972 => 
   array (
     'id' => 147859,
     'name' => 'Paud',
@@ -36829,7 +35758,7 @@ return array (
     'latitude' => 18.52416667,
     'longitude' => 73.61583333,
   ),
-  4092 => 
+  3973 => 
   array (
     'id' => 147860,
     'name' => 'Pauni',
@@ -36838,7 +35767,7 @@ return array (
     'latitude' => 20.78,
     'longitude' => 79.63,
   ),
-  4093 => 
+  3974 => 
   array (
     'id' => 147861,
     'name' => 'Pedgaon',
@@ -36847,7 +35776,7 @@ return array (
     'latitude' => 18.51166667,
     'longitude' => 74.7075,
   ),
-  4094 => 
+  3975 => 
   array (
     'id' => 147862,
     'name' => 'Peint',
@@ -36856,7 +35785,7 @@ return array (
     'latitude' => 20.25844722,
     'longitude' => 73.50305278,
   ),
-  4095 => 
+  3976 => 
   array (
     'id' => 147863,
     'name' => 'Phulambri',
@@ -36865,7 +35794,7 @@ return array (
     'latitude' => 20.1,
     'longitude' => 75.41666667,
   ),
-  4096 => 
+  3977 => 
   array (
     'id' => 147864,
     'name' => 'Piliv',
@@ -36874,7 +35803,7 @@ return array (
     'latitude' => 17.678842,
     'longitude' => 74.966412,
   ),
-  4097 => 
+  3978 => 
   array (
     'id' => 147865,
     'name' => 'Pimpalgaon Baswant',
@@ -36883,7 +35812,7 @@ return array (
     'latitude' => 20.16666667,
     'longitude' => 73.98333333,
   ),
-  4098 => 
+  3979 => 
   array (
     'id' => 147866,
     'name' => 'Pimpalgaon Raja',
@@ -36892,7 +35821,7 @@ return array (
     'latitude' => 20.71666667,
     'longitude' => 76.43333333,
   ),
-  4099 => 
+  3980 => 
   array (
     'id' => 147867,
     'name' => 'Pimpri-Chinchwad',
@@ -36901,7 +35830,7 @@ return array (
     'latitude' => 18.62777778,
     'longitude' => 73.81305556,
   ),
-  4100 => 
+  3981 => 
   array (
     'id' => 147868,
     'name' => 'Prabhadevi',
@@ -36910,7 +35839,7 @@ return array (
     'latitude' => 19.016905,
     'longitude' => 72.828649,
   ),
-  4101 => 
+  3982 => 
   array (
     'id' => 147869,
     'name' => 'Prakasha',
@@ -36919,7 +35848,7 @@ return array (
     'latitude' => 21.51666667,
     'longitude' => 74.31666667,
   ),
-  4102 => 
+  3983 => 
   array (
     'id' => 147870,
     'name' => 'Puntamba',
@@ -36928,7 +35857,7 @@ return array (
     'latitude' => 19.75,
     'longitude' => 74.63333333,
   ),
-  4103 => 
+  3984 => 
   array (
     'id' => 147871,
     'name' => 'Pural',
@@ -36937,7 +35866,7 @@ return array (
     'latitude' => 16.45,
     'longitude' => 73.36666667,
   ),
-  4104 => 
+  3985 => 
   array (
     'id' => 147872,
     'name' => 'Radhanagari',
@@ -36946,7 +35875,7 @@ return array (
     'latitude' => 16.41388889,
     'longitude' => 73.99777778,
   ),
-  4105 => 
+  3986 => 
   array (
     'id' => 147873,
     'name' => 'Rahata',
@@ -36955,7 +35884,7 @@ return array (
     'latitude' => 19.71666667,
     'longitude' => 74.48333333,
   ),
-  4106 => 
+  3987 => 
   array (
     'id' => 147874,
     'name' => 'Raireshwar',
@@ -36964,7 +35893,7 @@ return array (
     'latitude' => 18.05,
     'longitude' => 73.73333333,
   ),
-  4107 => 
+  3988 => 
   array (
     'id' => 147875,
     'name' => 'Ralegaon',
@@ -36973,7 +35902,7 @@ return array (
     'latitude' => 20.25,
     'longitude' => 79.81,
   ),
-  4108 => 
+  3989 => 
   array (
     'id' => 147876,
     'name' => 'Ramewadi',
@@ -36982,7 +35911,7 @@ return array (
     'latitude' => 16.03333333,
     'longitude' => 74.35,
   ),
-  4109 => 
+  3990 => 
   array (
     'id' => 147877,
     'name' => 'Renapur',
@@ -36991,7 +35920,7 @@ return array (
     'latitude' => 18.51666667,
     'longitude' => 76.6,
   ),
-  4110 => 
+  3991 => 
   array (
     'id' => 147878,
     'name' => 'Renavi',
@@ -37000,7 +35929,7 @@ return array (
     'latitude' => 17.26972222,
     'longitude' => 74.61055556,
   ),
-  4111 => 
+  3992 => 
   array (
     'id' => 147879,
     'name' => 'Revdanda',
@@ -37009,7 +35938,7 @@ return array (
     'latitude' => 18.55,
     'longitude' => 72.93333333,
   ),
-  4112 => 
+  3993 => 
   array (
     'id' => 147880,
     'name' => 'Sailu',
@@ -37018,7 +35947,7 @@ return array (
     'latitude' => 19.47,
     'longitude' => 76.47,
   ),
-  4113 => 
+  3994 => 
   array (
     'id' => 147881,
     'name' => 'Sakol',
@@ -37027,7 +35956,7 @@ return array (
     'latitude' => 18.2825,
     'longitude' => 76.88444444,
   ),
-  4114 => 
+  3995 => 
   array (
     'id' => 147882,
     'name' => 'Sakoli',
@@ -37036,7 +35965,7 @@ return array (
     'latitude' => 21.08,
     'longitude' => 79.98,
   ),
-  4115 => 
+  3996 => 
   array (
     'id' => 147883,
     'name' => 'Sakri',
@@ -37045,7 +35974,7 @@ return array (
     'latitude' => 20.99027778,
     'longitude' => 74.31444444,
   ),
-  4116 => 
+  3997 => 
   array (
     'id' => 147884,
     'name' => 'Samudrapur',
@@ -37054,7 +35983,7 @@ return array (
     'latitude' => 20.65,
     'longitude' => 78.96666667,
   ),
-  4117 => 
+  3998 => 
   array (
     'id' => 147885,
     'name' => 'Sangameshwar',
@@ -37063,7 +35992,7 @@ return array (
     'latitude' => 17.18694444,
     'longitude' => 73.55305556,
   ),
-  4118 => 
+  3999 => 
   array (
     'id' => 147887,
     'name' => 'Sangrampur Maharashtra',
@@ -37072,7 +36001,7 @@ return array (
     'latitude' => 21.03,
     'longitude' => 76.68,
   ),
-  4119 => 
+  4000 => 
   array (
     'id' => 147888,
     'name' => 'Saoli',
@@ -37081,7 +36010,7 @@ return array (
     'latitude' => 20.08133056,
     'longitude' => 79.78286111,
   ),
-  4120 => 
+  4001 => 
   array (
     'id' => 147889,
     'name' => 'Sarangkheda',
@@ -37090,7 +36019,7 @@ return array (
     'latitude' => 21.433273,
     'longitude' => 74.526421,
   ),
-  4121 => 
+  4002 => 
   array (
     'id' => 147890,
     'name' => 'Saswad',
@@ -37099,7 +36028,7 @@ return array (
     'latitude' => 18.55,
     'longitude' => 74.0,
   ),
-  4122 => 
+  4003 => 
   array (
     'id' => 147891,
     'name' => 'Satpati',
@@ -37108,7 +36037,7 @@ return array (
     'latitude' => 19.71666667,
     'longitude' => 72.7,
   ),
-  4123 => 
+  4004 => 
   array (
     'id' => 147892,
     'name' => 'Savlaj',
@@ -37117,7 +36046,7 @@ return array (
     'latitude' => 17.1,
     'longitude' => 74.78,
   ),
-  4124 => 
+  4005 => 
   array (
     'id' => 147893,
     'name' => 'Sawantvadi',
@@ -37126,7 +36055,7 @@ return array (
     'latitude' => 16.0,
     'longitude' => 73.75,
   ),
-  4125 => 
+  4006 => 
   array (
     'id' => 147894,
     'name' => 'Sevagram',
@@ -37135,7 +36064,7 @@ return array (
     'latitude' => 20.73499167,
     'longitude' => 78.66256944,
   ),
-  4126 => 
+  4007 => 
   array (
     'id' => 147895,
     'name' => 'Sewri',
@@ -37144,7 +36073,7 @@ return array (
     'latitude' => 19.0,
     'longitude' => 72.86,
   ),
-  4127 => 
+  4008 => 
   array (
     'id' => 147896,
     'name' => 'Shedbal',
@@ -37153,7 +36082,7 @@ return array (
     'latitude' => 16.68916667,
     'longitude' => 74.75425556,
   ),
-  4128 => 
+  4009 => 
   array (
     'id' => 147897,
     'name' => 'Shevgaon',
@@ -37162,7 +36091,7 @@ return array (
     'latitude' => 19.35,
     'longitude' => 75.23333333,
   ),
-  4129 => 
+  4010 => 
   array (
     'id' => 147898,
     'name' => 'Shikrapur',
@@ -37171,7 +36100,7 @@ return array (
     'latitude' => 18.69361111,
     'longitude' => 74.13805556,
   ),
-  4130 => 
+  4011 => 
   array (
     'id' => 147899,
     'name' => 'Shirala',
@@ -37180,7 +36109,7 @@ return array (
     'latitude' => 16.98401111,
     'longitude' => 74.12415278,
   ),
-  4131 => 
+  4012 => 
   array (
     'id' => 147900,
     'name' => 'Shirol',
@@ -37189,7 +36118,7 @@ return array (
     'latitude' => 16.73333333,
     'longitude' => 74.6,
   ),
-  4132 => 
+  4013 => 
   array (
     'id' => 147901,
     'name' => 'Shirud',
@@ -37198,7 +36127,7 @@ return array (
     'latitude' => 20.71666667,
     'longitude' => 74.9,
   ),
-  4133 => 
+  4014 => 
   array (
     'id' => 147902,
     'name' => 'Sindewahi',
@@ -37207,7 +36136,7 @@ return array (
     'latitude' => 20.28333333,
     'longitude' => 79.65,
   ),
-  4134 => 
+  4015 => 
   array (
     'id' => 147903,
     'name' => 'Sindkheda',
@@ -37216,7 +36145,7 @@ return array (
     'latitude' => 21.26666667,
     'longitude' => 74.73333333,
   ),
-  4135 => 
+  4016 => 
   array (
     'id' => 147904,
     'name' => 'Sion Mumbai',
@@ -37225,7 +36154,7 @@ return array (
     'latitude' => 19.04,
     'longitude' => 72.86,
   ),
-  4136 => 
+  4017 => 
   array (
     'id' => 147905,
     'name' => 'Sironcha',
@@ -37234,7 +36163,7 @@ return array (
     'latitude' => 18.83,
     'longitude' => 79.96,
   ),
-  4137 => 
+  4018 => 
   array (
     'id' => 147906,
     'name' => 'Sivala East Godavari district',
@@ -37243,7 +36172,7 @@ return array (
     'latitude' => 16.75722222,
     'longitude' => 82.08861111,
   ),
-  4138 => 
+  4019 => 
   array (
     'id' => 147907,
     'name' => 'Sonala',
@@ -37252,7 +36181,7 @@ return array (
     'latitude' => 21.11666667,
     'longitude' => 76.73333333,
   ),
-  4139 => 
+  4020 => 
   array (
     'id' => 147908,
     'name' => 'Songir',
@@ -37261,7 +36190,7 @@ return array (
     'latitude' => 21.08333333,
     'longitude' => 74.78333333,
   ),
-  4140 => 
+  4021 => 
   array (
     'id' => 147909,
     'name' => 'Sonvad',
@@ -37270,7 +36199,7 @@ return array (
     'latitude' => 21.08333333,
     'longitude' => 75.35,
   ),
-  4141 => 
+  4022 => 
   array (
     'id' => 147910,
     'name' => 'Taklibhan',
@@ -37279,7 +36208,7 @@ return array (
     'latitude' => 19.6167,
     'longitude' => 74.8,
   ),
-  4142 => 
+  4023 => 
   array (
     'id' => 147911,
     'name' => 'Talbid',
@@ -37288,7 +36217,7 @@ return array (
     'latitude' => 17.35,
     'longitude' => 74.13,
   ),
-  4143 => 
+  4024 => 
   array (
     'id' => 147912,
     'name' => 'Talegaon Dhamdhere',
@@ -37297,7 +36226,7 @@ return array (
     'latitude' => 18.6678,
     'longitude' => 74.1536,
   ),
-  4144 => 
+  4025 => 
   array (
     'id' => 147913,
     'name' => 'Talode',
@@ -37306,7 +36235,7 @@ return array (
     'latitude' => 21.56074167,
     'longitude' => 74.83,
   ),
-  4145 => 
+  4026 => 
   array (
     'id' => 147914,
     'name' => 'Tardeo',
@@ -37315,7 +36244,7 @@ return array (
     'latitude' => 18.97,
     'longitude' => 72.81,
   ),
-  4146 => 
+  4027 => 
   array (
     'id' => 147915,
     'name' => 'Thalner',
@@ -37324,7 +36253,7 @@ return array (
     'latitude' => 21.25,
     'longitude' => 74.9667,
   ),
-  4147 => 
+  4028 => 
   array (
     'id' => 147916,
     'name' => 'Trombay',
@@ -37333,7 +36262,7 @@ return array (
     'latitude' => 19.0,
     'longitude' => 72.9,
   ),
-  4148 => 
+  4029 => 
   array (
     'id' => 147917,
     'name' => 'Uruli Kanchan',
@@ -37342,7 +36271,7 @@ return array (
     'latitude' => 18.48333333,
     'longitude' => 74.13333333,
   ),
-  4149 => 
+  4030 => 
   array (
     'id' => 147918,
     'name' => 'Vadgaon',
@@ -37351,7 +36280,7 @@ return array (
     'latitude' => 18.7486,
     'longitude' => 73.641,
   ),
-  4150 => 
+  4031 => 
   array (
     'id' => 147919,
     'name' => 'Vadner',
@@ -37360,7 +36289,7 @@ return array (
     'latitude' => 20.25,
     'longitude' => 74.0333,
   ),
-  4151 => 
+  4032 => 
   array (
     'id' => 147920,
     'name' => 'Vairag',
@@ -37369,7 +36298,7 @@ return array (
     'latitude' => 18.05,
     'longitude' => 75.8,
   ),
-  4152 => 
+  4033 => 
   array (
     'id' => 147921,
     'name' => 'Valsang',
@@ -37378,7 +36307,7 @@ return array (
     'latitude' => 17.6,
     'longitude' => 76.0833,
   ),
-  4153 => 
+  4034 => 
   array (
     'id' => 147922,
     'name' => 'Vangaon',
@@ -37387,7 +36316,7 @@ return array (
     'latitude' => 19.86666667,
     'longitude' => 72.75,
   ),
-  4154 => 
+  4035 => 
   array (
     'id' => 147923,
     'name' => 'Vashi',
@@ -37396,7 +36325,7 @@ return array (
     'latitude' => 19.08,
     'longitude' => 73.01,
   ),
-  4155 => 
+  4036 => 
   array (
     'id' => 147924,
     'name' => 'Vatul',
@@ -37405,7 +36334,7 @@ return array (
     'latitude' => 16.75,
     'longitude' => 73.6,
   ),
-  4156 => 
+  4037 => 
   array (
     'id' => 147925,
     'name' => 'Velas Maharashtra',
@@ -37414,7 +36343,7 @@ return array (
     'latitude' => 17.9585,
     'longitude' => 73.0498,
   ),
-  4157 => 
+  4038 => 
   array (
     'id' => 147926,
     'name' => 'Velneshwar',
@@ -37423,7 +36352,7 @@ return array (
     'latitude' => 17.3833,
     'longitude' => 73.2,
   ),
-  4158 => 
+  4039 => 
   array (
     'id' => 147927,
     'name' => 'Vijaydurg',
@@ -37432,7 +36361,7 @@ return array (
     'latitude' => 16.5667,
     'longitude' => 73.3333,
   ),
-  4159 => 
+  4040 => 
   array (
     'id' => 147928,
     'name' => 'Vikhroli',
@@ -37441,7 +36370,7 @@ return array (
     'latitude' => 19.11,
     'longitude' => 72.94,
   ),
-  4160 => 
+  4041 => 
   array (
     'id' => 147929,
     'name' => 'Vile Parle',
@@ -37450,7 +36379,7 @@ return array (
     'latitude' => 19.1,
     'longitude' => 72.83,
   ),
-  4161 => 
+  4042 => 
   array (
     'id' => 147930,
     'name' => 'Vinchur',
@@ -37459,7 +36388,7 @@ return array (
     'latitude' => 20.11666667,
     'longitude' => 74.28333333,
   ),
-  4162 => 
+  4043 => 
   array (
     'id' => 147931,
     'name' => 'Vita Maharashtra',
@@ -37468,7 +36397,7 @@ return array (
     'latitude' => 17.2711,
     'longitude' => 74.5378,
   ),
-  4163 => 
+  4044 => 
   array (
     'id' => 147932,
     'name' => 'Wadala',
@@ -37477,7 +36406,7 @@ return array (
     'latitude' => 19.02163056,
     'longitude' => 72.86458889,
   ),
-  4164 => 
+  4045 => 
   array (
     'id' => 147933,
     'name' => 'Wadner',
@@ -37486,7 +36415,7 @@ return array (
     'latitude' => 20.84972222,
     'longitude' => 76.33333333,
   ),
-  4165 => 
+  4046 => 
   array (
     'id' => 147934,
     'name' => 'Wadwani',
@@ -37495,7 +36424,7 @@ return array (
     'latitude' => 18.98333333,
     'longitude' => 76.05,
   ),
-  4166 => 
+  4047 => 
   array (
     'id' => 147935,
     'name' => 'Wagholi',
@@ -37504,7 +36433,7 @@ return array (
     'latitude' => 17.9,
     'longitude' => 74.083,
   ),
-  4167 => 
+  4048 => 
   array (
     'id' => 147936,
     'name' => 'Wakad',
@@ -37513,7 +36442,7 @@ return array (
     'latitude' => 18.5993,
     'longitude' => 73.7625,
   ),
-  4168 => 
+  4049 => 
   array (
     'id' => 147937,
     'name' => 'Walgaon',
@@ -37522,7 +36451,7 @@ return array (
     'latitude' => 20.9989,
     'longitude' => 77.7064,
   ),
-  4169 => 
+  4050 => 
   array (
     'id' => 147938,
     'name' => 'Walki',
@@ -37531,7 +36460,7 @@ return array (
     'latitude' => 18.95,
     'longitude' => 74.75,
   ),
-  4170 => 
+  4051 => 
   array (
     'id' => 147939,
     'name' => 'Worli',
@@ -37540,7 +36469,7 @@ return array (
     'latitude' => 19.0,
     'longitude' => 72.815,
   ),
-  4171 => 
+  4052 => 
   array (
     'id' => 149548,
     'name' => 'Ranipet',
@@ -37549,7 +36478,7 @@ return array (
     'latitude' => 12.9534749,
     'longitude' => 79.2815916,
   ),
-  4172 => 
+  4053 => 
   array (
     'id' => 153350,
     'name' => 'Adra',
@@ -37558,7 +36487,7 @@ return array (
     'latitude' => 23.496015,
     'longitude' => 86.67249,
   ),
-  4173 => 
+  4054 => 
   array (
     'id' => 153519,
     'name' => 'Dantewada',
@@ -37567,7 +36496,7 @@ return array (
     'latitude' => 18.899848,
     'longitude' => 81.3386752,
   ),
-  4174 => 
+  4055 => 
   array (
     'id' => 153522,
     'name' => 'Chandel',
@@ -37576,7 +36505,7 @@ return array (
     'latitude' => 24.5739,
     'longitude' => 94.2913,
   ),
-  4175 => 
+  4056 => 
   array (
     'id' => 153523,
     'name' => 'Kangpokpi',
@@ -37585,7 +36514,7 @@ return array (
     'latitude' => 24.0895,
     'longitude' => 93.9901,
   ),
-  4176 => 
+  4057 => 
   array (
     'id' => 153524,
     'name' => 'Tengnoupal',
@@ -37594,7 +36523,7 @@ return array (
     'latitude' => 24.3945,
     'longitude' => 94.1053,
   ),
-  4177 => 
+  4058 => 
   array (
     'id' => 153525,
     'name' => 'Pherzawl',
@@ -37603,7 +36532,7 @@ return array (
     'latitude' => 24.1437,
     'longitude' => 93.527,
   ),
-  4178 => 
+  4059 => 
   array (
     'id' => 153526,
     'name' => 'Kamjong',
@@ -37612,7 +36541,7 @@ return array (
     'latitude' => 24.8599686,
     'longitude' => 94.5058643,
   ),
-  4179 => 
+  4060 => 
   array (
     'id' => 153527,
     'name' => 'Jiribam',
@@ -37621,7 +36550,7 @@ return array (
     'latitude' => 24.7941004,
     'longitude' => 93.1170986,
   ),
-  4180 => 
+  4061 => 
   array (
     'id' => 153528,
     'name' => 'Noney',
@@ -37630,7 +36559,7 @@ return array (
     'latitude' => 24.8491131,
     'longitude' => 93.5967366,
   ),
-  4181 => 
+  4062 => 
   array (
     'id' => 153628,
     'name' => 'Perinthalmanna',
@@ -37639,7 +36568,7 @@ return array (
     'latitude' => 10.97768,
     'longitude' => 76.228508,
   ),
-  4182 => 
+  4063 => 
   array (
     'id' => 153924,
     'name' => 'Bavla',

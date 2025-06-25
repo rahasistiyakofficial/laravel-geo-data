@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -138,15 +138,6 @@ return array (
   ),
   15 => 
   array (
-    'id' => 17372,
-    'name' => 'Aesch',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.3297,
-    'longitude' => 8.6541,
-  ),
-  16 => 
-  array (
     'id' => 17373,
     'name' => 'Aeschi b. Spiez',
     'country_id' => 214,
@@ -154,7 +145,7 @@ return array (
     'latitude' => 46.65848,
     'longitude' => 7.6965,
   ),
-  17 => 
+  16 => 
   array (
     'id' => 17374,
     'name' => 'Affeltrangen',
@@ -163,7 +154,7 @@ return array (
     'latitude' => 47.52581,
     'longitude' => 9.03307,
   ),
-  18 => 
+  17 => 
   array (
     'id' => 17375,
     'name' => 'Affoltern / Hasenbüel',
@@ -172,7 +163,7 @@ return array (
     'latitude' => 47.27324,
     'longitude' => 8.45218,
   ),
-  19 => 
+  18 => 
   array (
     'id' => 17376,
     'name' => 'Affoltern / Oberdorf',
@@ -181,7 +172,7 @@ return array (
     'latitude' => 47.27852,
     'longitude' => 8.45651,
   ),
-  20 => 
+  19 => 
   array (
     'id' => 17377,
     'name' => 'Affoltern / Sonnenberg',
@@ -190,7 +181,7 @@ return array (
     'latitude' => 47.28055,
     'longitude' => 8.46008,
   ),
-  21 => 
+  20 => 
   array (
     'id' => 17378,
     'name' => 'Affoltern / Unterdorf',
@@ -199,7 +190,7 @@ return array (
     'latitude' => 47.28277,
     'longitude' => 8.45409,
   ),
-  22 => 
+  21 => 
   array (
     'id' => 17379,
     'name' => 'Affoltern am Albis',
@@ -208,7 +199,7 @@ return array (
     'latitude' => 47.27743,
     'longitude' => 8.45128,
   ),
-  23 => 
+  22 => 
   array (
     'id' => 17380,
     'name' => 'Agno',
@@ -217,7 +208,7 @@ return array (
     'latitude' => 45.99863,
     'longitude' => 8.9003,
   ),
-  24 => 
+  23 => 
   array (
     'id' => 17381,
     'name' => 'Aigle',
@@ -226,7 +217,7 @@ return array (
     'latitude' => 46.3181,
     'longitude' => 6.96457,
   ),
-  25 => 
+  24 => 
   array (
     'id' => 17382,
     'name' => 'Aigle District',
@@ -235,7 +226,7 @@ return array (
     'latitude' => 46.30577,
     'longitude' => 7.02974,
   ),
-  26 => 
+  25 => 
   array (
     'id' => 17383,
     'name' => 'Aire-la-Ville',
@@ -244,7 +235,7 @@ return array (
     'latitude' => 46.19057,
     'longitude' => 6.04287,
   ),
-  27 => 
+  26 => 
   array (
     'id' => 17384,
     'name' => 'Airolo',
@@ -253,7 +244,7 @@ return array (
     'latitude' => 46.52855,
     'longitude' => 8.61189,
   ),
-  28 => 
+  27 => 
   array (
     'id' => 17385,
     'name' => 'Alle',
@@ -262,7 +253,7 @@ return array (
     'latitude' => 47.42542,
     'longitude' => 7.13018,
   ),
-  29 => 
+  28 => 
   array (
     'id' => 17386,
     'name' => 'Allschwil',
@@ -271,7 +262,7 @@ return array (
     'latitude' => 47.55074,
     'longitude' => 7.53599,
   ),
-  30 => 
+  29 => 
   array (
     'id' => 17387,
     'name' => 'Alpnach',
@@ -280,7 +271,7 @@ return array (
     'latitude' => 46.94227,
     'longitude' => 8.2718,
   ),
-  31 => 
+  30 => 
   array (
     'id' => 17388,
     'name' => 'Altdorf',
@@ -289,7 +280,7 @@ return array (
     'latitude' => 46.88042,
     'longitude' => 8.64441,
   ),
-  32 => 
+  31 => 
   array (
     'id' => 17389,
     'name' => 'Altendorf',
@@ -298,7 +289,7 @@ return array (
     'latitude' => 47.18994,
     'longitude' => 8.83823,
   ),
-  33 => 
+  32 => 
   array (
     'id' => 17390,
     'name' => 'Alterswil',
@@ -307,7 +298,7 @@ return array (
     'latitude' => 46.79587,
     'longitude' => 7.25877,
   ),
-  34 => 
+  33 => 
   array (
     'id' => 17391,
     'name' => 'Altishofen',
@@ -316,7 +307,7 @@ return array (
     'latitude' => 47.19916,
     'longitude' => 7.96964,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 17392,
     'name' => 'Altnau',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 47.61052,
     'longitude' => 9.2616,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 17393,
     'name' => 'Altstätten',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 47.37766,
     'longitude' => 9.54746,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 17394,
     'name' => 'Amden',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 47.14888,
     'longitude' => 9.14233,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 17395,
     'name' => 'Amriswil',
@@ -352,7 +343,7 @@ return array (
     'latitude' => 47.54699,
     'longitude' => 9.29586,
   ),
-  39 => 
+  38 => 
   array (
     'id' => 17396,
     'name' => 'Andelfingen',
@@ -361,7 +352,7 @@ return array (
     'latitude' => 47.59447,
     'longitude' => 8.67826,
   ),
-  40 => 
+  39 => 
   array (
     'id' => 17397,
     'name' => 'Andermatt',
@@ -370,7 +361,7 @@ return array (
     'latitude' => 46.63565,
     'longitude' => 8.59388,
   ),
-  41 => 
+  40 => 
   array (
     'id' => 17398,
     'name' => 'Andwil',
@@ -379,7 +370,7 @@ return array (
     'latitude' => 47.43855,
     'longitude' => 9.27436,
   ),
-  42 => 
+  41 => 
   array (
     'id' => 17399,
     'name' => 'Anières',
@@ -388,7 +379,7 @@ return array (
     'latitude' => 46.27673,
     'longitude' => 6.22204,
   ),
-  43 => 
+  42 => 
   array (
     'id' => 17400,
     'name' => 'Appenzell',
@@ -397,7 +388,7 @@ return array (
     'latitude' => 47.33103,
     'longitude' => 9.40996,
   ),
-  44 => 
+  43 => 
   array (
     'id' => 17401,
     'name' => 'Apples',
@@ -406,7 +397,7 @@ return array (
     'latitude' => 46.55237,
     'longitude' => 6.42889,
   ),
-  45 => 
+  44 => 
   array (
     'id' => 17402,
     'name' => 'Arbon',
@@ -415,7 +406,7 @@ return array (
     'latitude' => 47.51667,
     'longitude' => 9.43333,
   ),
-  46 => 
+  45 => 
   array (
     'id' => 17403,
     'name' => 'Arbon District',
@@ -424,7 +415,7 @@ return array (
     'latitude' => 47.54867,
     'longitude' => 9.35159,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 17404,
     'name' => 'Arch',
@@ -433,7 +424,7 @@ return array (
     'latitude' => 47.16533,
     'longitude' => 7.43139,
   ),
-  48 => 
+  47 => 
   array (
     'id' => 17405,
     'name' => 'Ardon',
@@ -442,7 +433,7 @@ return array (
     'latitude' => 46.20951,
     'longitude' => 7.26012,
   ),
-  49 => 
+  48 => 
   array (
     'id' => 17406,
     'name' => 'Arisdorf',
@@ -451,7 +442,7 @@ return array (
     'latitude' => 47.51323,
     'longitude' => 7.76515,
   ),
-  50 => 
+  49 => 
   array (
     'id' => 17407,
     'name' => 'Aristau',
@@ -460,7 +451,7 @@ return array (
     'latitude' => 47.28692,
     'longitude' => 8.36356,
   ),
-  51 => 
+  50 => 
   array (
     'id' => 17408,
     'name' => 'Arlesheim',
@@ -469,7 +460,7 @@ return array (
     'latitude' => 47.49412,
     'longitude' => 7.61979,
   ),
-  52 => 
+  51 => 
   array (
     'id' => 17409,
     'name' => 'Arosa',
@@ -478,7 +469,7 @@ return array (
     'latitude' => 46.77793,
     'longitude' => 9.67621,
   ),
-  53 => 
+  52 => 
   array (
     'id' => 17410,
     'name' => 'Arth',
@@ -487,7 +478,7 @@ return array (
     'latitude' => 47.06337,
     'longitude' => 8.52349,
   ),
-  54 => 
+  53 => 
   array (
     'id' => 17411,
     'name' => 'Arvigo',
@@ -496,7 +487,7 @@ return array (
     'latitude' => 46.30211,
     'longitude' => 9.113,
   ),
-  55 => 
+  54 => 
   array (
     'id' => 17412,
     'name' => 'Arzier',
@@ -505,7 +496,7 @@ return array (
     'latitude' => 46.45962,
     'longitude' => 6.20813,
   ),
-  56 => 
+  55 => 
   array (
     'id' => 17413,
     'name' => 'Arzo',
@@ -514,7 +505,7 @@ return array (
     'latitude' => 45.87606,
     'longitude' => 8.94103,
   ),
-  57 => 
+  56 => 
   array (
     'id' => 17414,
     'name' => 'Ascona',
@@ -523,7 +514,7 @@ return array (
     'latitude' => 46.15451,
     'longitude' => 8.77327,
   ),
-  58 => 
+  57 => 
   array (
     'id' => 17415,
     'name' => 'Attalens',
@@ -532,7 +523,7 @@ return array (
     'latitude' => 46.50555,
     'longitude' => 6.85039,
   ),
-  59 => 
+  58 => 
   array (
     'id' => 17416,
     'name' => 'Attinghausen',
@@ -541,7 +532,7 @@ return array (
     'latitude' => 46.86255,
     'longitude' => 8.63036,
   ),
-  60 => 
+  59 => 
   array (
     'id' => 17417,
     'name' => 'Attiswil',
@@ -550,7 +541,7 @@ return array (
     'latitude' => 47.24673,
     'longitude' => 7.61353,
   ),
-  61 => 
+  60 => 
   array (
     'id' => 17418,
     'name' => 'Au',
@@ -559,16 +550,7 @@ return array (
     'latitude' => 47.24185,
     'longitude' => 8.64406,
   ),
-  62 => 
-  array (
-    'id' => 17419,
-    'name' => 'Au',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.43093,
-    'longitude' => 9.63448,
-  ),
-  63 => 
+  61 => 
   array (
     'id' => 17420,
     'name' => 'Au / Mittel-Dorf',
@@ -577,7 +559,7 @@ return array (
     'latitude' => 47.24303,
     'longitude' => 8.64591,
   ),
-  64 => 
+  62 => 
   array (
     'id' => 17421,
     'name' => 'Au / Unter-Dorf',
@@ -586,7 +568,7 @@ return array (
     'latitude' => 47.2473,
     'longitude' => 8.6327,
   ),
-  65 => 
+  63 => 
   array (
     'id' => 17422,
     'name' => 'Aubonne',
@@ -595,7 +577,7 @@ return array (
     'latitude' => 46.49514,
     'longitude' => 6.39155,
   ),
-  66 => 
+  64 => 
   array (
     'id' => 17423,
     'name' => 'Auvernier',
@@ -604,7 +586,7 @@ return array (
     'latitude' => 46.97545,
     'longitude' => 6.87903,
   ),
-  67 => 
+  65 => 
   array (
     'id' => 17424,
     'name' => 'Auw',
@@ -613,7 +595,7 @@ return array (
     'latitude' => 47.21082,
     'longitude' => 8.36583,
   ),
-  68 => 
+  66 => 
   array (
     'id' => 17425,
     'name' => 'Avenches',
@@ -622,7 +604,7 @@ return array (
     'latitude' => 46.88004,
     'longitude' => 7.04071,
   ),
-  69 => 
+  67 => 
   array (
     'id' => 17426,
     'name' => 'Avry-sur-Matran',
@@ -631,7 +613,7 @@ return array (
     'latitude' => 46.78753,
     'longitude' => 7.06735,
   ),
-  70 => 
+  68 => 
   array (
     'id' => 17427,
     'name' => 'Ayent',
@@ -640,7 +622,7 @@ return array (
     'latitude' => 46.28249,
     'longitude' => 7.41028,
   ),
-  71 => 
+  69 => 
   array (
     'id' => 17428,
     'name' => 'Baar',
@@ -649,7 +631,7 @@ return array (
     'latitude' => 47.19625,
     'longitude' => 8.52954,
   ),
-  72 => 
+  70 => 
   array (
     'id' => 17429,
     'name' => 'Bachenbülach',
@@ -658,7 +640,7 @@ return array (
     'latitude' => 47.50317,
     'longitude' => 8.54556,
   ),
-  73 => 
+  71 => 
   array (
     'id' => 17430,
     'name' => 'Bad Ragaz',
@@ -667,7 +649,7 @@ return array (
     'latitude' => 47.00601,
     'longitude' => 9.50266,
   ),
-  74 => 
+  72 => 
   array (
     'id' => 17431,
     'name' => 'Bad Zurzach',
@@ -676,7 +658,7 @@ return array (
     'latitude' => 47.58764,
     'longitude' => 8.29365,
   ),
-  75 => 
+  73 => 
   array (
     'id' => 17432,
     'name' => 'Baden',
@@ -685,7 +667,7 @@ return array (
     'latitude' => 47.47333,
     'longitude' => 8.30592,
   ),
-  76 => 
+  74 => 
   array (
     'id' => 17433,
     'name' => 'Bagnes',
@@ -694,7 +676,7 @@ return array (
     'latitude' => 46.08333,
     'longitude' => 7.21667,
   ),
-  77 => 
+  75 => 
   array (
     'id' => 17434,
     'name' => 'Balerna',
@@ -703,7 +685,7 @@ return array (
     'latitude' => 45.84638,
     'longitude' => 9.00724,
   ),
-  78 => 
+  76 => 
   array (
     'id' => 17435,
     'name' => 'Balgach',
@@ -712,7 +694,7 @@ return array (
     'latitude' => 47.40556,
     'longitude' => 9.60702,
   ),
-  79 => 
+  77 => 
   array (
     'id' => 17436,
     'name' => 'Ballens',
@@ -721,7 +703,7 @@ return array (
     'latitude' => 46.55485,
     'longitude' => 6.3731,
   ),
-  80 => 
+  78 => 
   array (
     'id' => 17437,
     'name' => 'Ballwil',
@@ -730,7 +712,7 @@ return array (
     'latitude' => 47.15371,
     'longitude' => 8.32233,
   ),
-  81 => 
+  79 => 
   array (
     'id' => 17438,
     'name' => 'Balsthal',
@@ -739,7 +721,7 @@ return array (
     'latitude' => 47.31613,
     'longitude' => 7.69318,
   ),
-  82 => 
+  80 => 
   array (
     'id' => 17439,
     'name' => 'Baltschieder',
@@ -748,7 +730,7 @@ return array (
     'latitude' => 46.30888,
     'longitude' => 7.8657,
   ),
-  83 => 
+  81 => 
   array (
     'id' => 17440,
     'name' => 'Bas-Vully',
@@ -757,7 +739,7 @@ return array (
     'latitude' => 46.96194,
     'longitude' => 7.11251,
   ),
-  84 => 
+  82 => 
   array (
     'id' => 17441,
     'name' => 'Basse-Nendaz',
@@ -766,7 +748,7 @@ return array (
     'latitude' => 46.18993,
     'longitude' => 7.31209,
   ),
-  85 => 
+  83 => 
   array (
     'id' => 17442,
     'name' => 'Bassecourt',
@@ -775,7 +757,7 @@ return array (
     'latitude' => 47.33808,
     'longitude' => 7.24373,
   ),
-  86 => 
+  84 => 
   array (
     'id' => 17443,
     'name' => 'Bassersdorf',
@@ -784,7 +766,7 @@ return array (
     'latitude' => 47.44342,
     'longitude' => 8.62851,
   ),
-  87 => 
+  85 => 
   array (
     'id' => 17444,
     'name' => 'Bauen',
@@ -793,7 +775,7 @@ return array (
     'latitude' => 46.93559,
     'longitude' => 8.57836,
   ),
-  88 => 
+  86 => 
   array (
     'id' => 17445,
     'name' => 'Bauma',
@@ -802,7 +784,7 @@ return array (
     'latitude' => 47.36745,
     'longitude' => 8.87905,
   ),
-  89 => 
+  87 => 
   array (
     'id' => 17446,
     'name' => 'Bavois',
@@ -811,7 +793,7 @@ return array (
     'latitude' => 46.68403,
     'longitude' => 6.5671,
   ),
-  90 => 
+  88 => 
   array (
     'id' => 17447,
     'name' => 'Beatenberg',
@@ -820,7 +802,7 @@ return array (
     'latitude' => 46.69896,
     'longitude' => 7.79428,
   ),
-  91 => 
+  89 => 
   array (
     'id' => 17448,
     'name' => 'Beckenried',
@@ -829,7 +811,7 @@ return array (
     'latitude' => 46.96653,
     'longitude' => 8.47575,
   ),
-  92 => 
+  90 => 
   array (
     'id' => 17449,
     'name' => 'Begnins',
@@ -838,7 +820,7 @@ return array (
     'latitude' => 46.44152,
     'longitude' => 6.24762,
   ),
-  93 => 
+  91 => 
   array (
     'id' => 17450,
     'name' => 'Belfaux',
@@ -847,7 +829,7 @@ return array (
     'latitude' => 46.82171,
     'longitude' => 7.10674,
   ),
-  94 => 
+  92 => 
   array (
     'id' => 17451,
     'name' => 'Bellevue',
@@ -856,7 +838,7 @@ return array (
     'latitude' => 46.25739,
     'longitude' => 6.15475,
   ),
-  95 => 
+  93 => 
   array (
     'id' => 17452,
     'name' => 'Bellinzona',
@@ -865,7 +847,7 @@ return array (
     'latitude' => 46.19278,
     'longitude' => 9.01703,
   ),
-  96 => 
+  94 => 
   array (
     'id' => 17453,
     'name' => 'Bellinzona District',
@@ -874,7 +856,7 @@ return array (
     'latitude' => 46.18858,
     'longitude' => 9.00254,
   ),
-  97 => 
+  95 => 
   array (
     'id' => 17454,
     'name' => 'Bellmund',
@@ -883,7 +865,7 @@ return array (
     'latitude' => 47.10852,
     'longitude' => 7.24608,
   ),
-  98 => 
+  96 => 
   array (
     'id' => 17455,
     'name' => 'Belmont-sur-Lausanne',
@@ -892,7 +874,7 @@ return array (
     'latitude' => 46.51891,
     'longitude' => 6.67636,
   ),
-  99 => 
+  97 => 
   array (
     'id' => 17456,
     'name' => 'Belp',
@@ -901,7 +883,7 @@ return array (
     'latitude' => 46.89129,
     'longitude' => 7.49825,
   ),
-  100 => 
+  98 => 
   array (
     'id' => 17457,
     'name' => 'Benglen',
@@ -910,7 +892,7 @@ return array (
     'latitude' => 47.36077,
     'longitude' => 8.63687,
   ),
-  101 => 
+  99 => 
   array (
     'id' => 17458,
     'name' => 'Benken',
@@ -919,7 +901,7 @@ return array (
     'latitude' => 47.19942,
     'longitude' => 9.00735,
   ),
-  102 => 
+  100 => 
   array (
     'id' => 17459,
     'name' => 'Berg',
@@ -928,7 +910,7 @@ return array (
     'latitude' => 47.57879,
     'longitude' => 9.16635,
   ),
-  103 => 
+  101 => 
   array (
     'id' => 17460,
     'name' => 'Berikon',
@@ -937,7 +919,7 @@ return array (
     'latitude' => 47.35155,
     'longitude' => 8.37232,
   ),
-  104 => 
+  102 => 
   array (
     'id' => 17461,
     'name' => 'Beringen',
@@ -946,7 +928,7 @@ return array (
     'latitude' => 47.69763,
     'longitude' => 8.57431,
   ),
-  105 => 
+  103 => 
   array (
     'id' => 17462,
     'name' => 'Bern',
@@ -955,7 +937,7 @@ return array (
     'latitude' => 46.94809,
     'longitude' => 7.44744,
   ),
-  106 => 
+  104 => 
   array (
     'id' => 17463,
     'name' => 'Bern-Mittelland District',
@@ -964,7 +946,7 @@ return array (
     'latitude' => 46.92526,
     'longitude' => 7.49024,
   ),
-  107 => 
+  105 => 
   array (
     'id' => 17464,
     'name' => 'Bernex',
@@ -973,7 +955,7 @@ return array (
     'latitude' => 46.1765,
     'longitude' => 6.07544,
   ),
-  108 => 
+  106 => 
   array (
     'id' => 17465,
     'name' => 'Berolle',
@@ -982,7 +964,7 @@ return array (
     'latitude' => 46.55798,
     'longitude' => 6.33551,
   ),
-  109 => 
+  107 => 
   array (
     'id' => 17466,
     'name' => 'Beromünster',
@@ -991,7 +973,7 @@ return array (
     'latitude' => 47.20612,
     'longitude' => 8.19265,
   ),
-  110 => 
+  108 => 
   array (
     'id' => 17467,
     'name' => 'Besenbüren',
@@ -1000,7 +982,7 @@ return array (
     'latitude' => 47.31439,
     'longitude' => 8.34586,
   ),
-  111 => 
+  109 => 
   array (
     'id' => 17468,
     'name' => 'Bettlach',
@@ -1009,7 +991,7 @@ return array (
     'latitude' => 47.20062,
     'longitude' => 7.42405,
   ),
-  112 => 
+  110 => 
   array (
     'id' => 17469,
     'name' => 'Bevaix',
@@ -1018,7 +1000,7 @@ return array (
     'latitude' => 46.92958,
     'longitude' => 6.8147,
   ),
-  113 => 
+  111 => 
   array (
     'id' => 17470,
     'name' => 'Bex',
@@ -1027,7 +1009,7 @@ return array (
     'latitude' => 46.24965,
     'longitude' => 7.0098,
   ),
-  114 => 
+  112 => 
   array (
     'id' => 17471,
     'name' => 'Bezirk Aarau',
@@ -1036,7 +1018,7 @@ return array (
     'latitude' => 47.37706,
     'longitude' => 8.05235,
   ),
-  115 => 
+  113 => 
   array (
     'id' => 17472,
     'name' => 'Bezirk Affoltern',
@@ -1045,7 +1027,7 @@ return array (
     'latitude' => 47.27311,
     'longitude' => 8.47444,
   ),
-  116 => 
+  114 => 
   array (
     'id' => 17473,
     'name' => 'Bezirk Andelfingen',
@@ -1054,7 +1036,7 @@ return array (
     'latitude' => 47.61328,
     'longitude' => 8.68124,
   ),
-  117 => 
+  115 => 
   array (
     'id' => 17474,
     'name' => 'Bezirk Arlesheim',
@@ -1063,7 +1045,7 @@ return array (
     'latitude' => 47.51668,
     'longitude' => 7.58733,
   ),
-  118 => 
+  116 => 
   array (
     'id' => 17475,
     'name' => 'Bezirk Baden',
@@ -1072,7 +1054,7 @@ return array (
     'latitude' => 47.4566,
     'longitude' => 8.30059,
   ),
-  119 => 
+  117 => 
   array (
     'id' => 17476,
     'name' => 'Bezirk Bremgarten',
@@ -1081,7 +1063,7 @@ return array (
     'latitude' => 47.34927,
     'longitude' => 8.33343,
   ),
-  120 => 
+  118 => 
   array (
     'id' => 17477,
     'name' => 'Bezirk Brugg',
@@ -1090,7 +1072,7 @@ return array (
     'latitude' => 47.47776,
     'longitude' => 8.17798,
   ),
-  121 => 
+  119 => 
   array (
     'id' => 17478,
     'name' => 'Bezirk Bucheggberg',
@@ -1099,7 +1081,7 @@ return array (
     'latitude' => 47.13205,
     'longitude' => 7.47885,
   ),
-  122 => 
+  120 => 
   array (
     'id' => 17479,
     'name' => 'Bezirk Bülach',
@@ -1108,7 +1090,7 @@ return array (
     'latitude' => 47.49706,
     'longitude' => 8.56764,
   ),
-  123 => 
+  121 => 
   array (
     'id' => 17480,
     'name' => 'Bezirk Dielsdorf',
@@ -1117,7 +1099,7 @@ return array (
     'latitude' => 47.47181,
     'longitude' => 8.45631,
   ),
-  124 => 
+  122 => 
   array (
     'id' => 17481,
     'name' => 'Bezirk Dietikon',
@@ -1126,7 +1108,7 @@ return array (
     'latitude' => 47.38804,
     'longitude' => 8.4426,
   ),
-  125 => 
+  123 => 
   array (
     'id' => 17482,
     'name' => 'Bezirk Dorneck',
@@ -1135,7 +1117,7 @@ return array (
     'latitude' => 47.48032,
     'longitude' => 7.61816,
   ),
-  126 => 
+  124 => 
   array (
     'id' => 17483,
     'name' => 'Bezirk Einsiedeln',
@@ -1144,7 +1126,7 @@ return array (
     'latitude' => 47.10792,
     'longitude' => 8.7601,
   ),
-  127 => 
+  125 => 
   array (
     'id' => 17484,
     'name' => 'Bezirk Gersau',
@@ -1153,7 +1135,7 @@ return array (
     'latitude' => 47.008,
     'longitude' => 8.51678,
   ),
-  128 => 
+  126 => 
   array (
     'id' => 17485,
     'name' => 'Bezirk Gäu',
@@ -1162,7 +1144,7 @@ return array (
     'latitude' => 47.29606,
     'longitude' => 7.77503,
   ),
-  129 => 
+  127 => 
   array (
     'id' => 17486,
     'name' => 'Bezirk Gösgen',
@@ -1171,7 +1153,7 @@ return array (
     'latitude' => 47.37758,
     'longitude' => 7.9203,
   ),
-  130 => 
+  128 => 
   array (
     'id' => 17487,
     'name' => 'Bezirk Hinterland',
@@ -1180,7 +1162,7 @@ return array (
     'latitude' => 47.3647,
     'longitude' => 9.2735,
   ),
-  131 => 
+  129 => 
   array (
     'id' => 17488,
     'name' => 'Bezirk Hinwil',
@@ -1189,7 +1171,7 @@ return array (
     'latitude' => 47.29646,
     'longitude' => 8.83431,
   ),
-  132 => 
+  130 => 
   array (
     'id' => 17489,
     'name' => 'Bezirk Horgen',
@@ -1198,7 +1180,7 @@ return array (
     'latitude' => 47.25767,
     'longitude' => 8.59702,
   ),
-  133 => 
+  131 => 
   array (
     'id' => 17490,
     'name' => 'Bezirk Höfe',
@@ -1207,7 +1189,7 @@ return array (
     'latitude' => 47.19043,
     'longitude' => 8.7396,
   ),
-  134 => 
+  132 => 
   array (
     'id' => 17491,
     'name' => 'Bezirk Kulm',
@@ -1216,7 +1198,7 @@ return array (
     'latitude' => 47.28757,
     'longitude' => 8.13302,
   ),
-  135 => 
+  133 => 
   array (
     'id' => 17492,
     'name' => 'Bezirk Küssnacht',
@@ -1225,7 +1207,7 @@ return array (
     'latitude' => 47.08611,
     'longitude' => 8.44444,
   ),
-  136 => 
+  134 => 
   array (
     'id' => 17493,
     'name' => 'Bezirk Laufen',
@@ -1234,7 +1216,7 @@ return array (
     'latitude' => 47.42324,
     'longitude' => 7.4875,
   ),
-  137 => 
+  135 => 
   array (
     'id' => 17494,
     'name' => 'Bezirk Laufenburg',
@@ -1243,7 +1225,7 @@ return array (
     'latitude' => 47.51844,
     'longitude' => 8.03878,
   ),
-  138 => 
+  136 => 
   array (
     'id' => 17495,
     'name' => 'Bezirk Lebern',
@@ -1252,7 +1234,7 @@ return array (
     'latitude' => 47.21798,
     'longitude' => 7.48053,
   ),
-  139 => 
+  137 => 
   array (
     'id' => 17496,
     'name' => 'Bezirk Lenzburg',
@@ -1261,7 +1243,7 @@ return array (
     'latitude' => 47.37184,
     'longitude' => 8.1891,
   ),
-  140 => 
+  138 => 
   array (
     'id' => 17497,
     'name' => 'Bezirk Liestal',
@@ -1270,7 +1252,7 @@ return array (
     'latitude' => 47.48124,
     'longitude' => 7.72714,
   ),
-  141 => 
+  139 => 
   array (
     'id' => 17498,
     'name' => 'Bezirk March',
@@ -1279,7 +1261,7 @@ return array (
     'latitude' => 47.16128,
     'longitude' => 8.91103,
   ),
-  142 => 
+  140 => 
   array (
     'id' => 17499,
     'name' => 'Bezirk Meilen',
@@ -1288,7 +1270,7 @@ return array (
     'latitude' => 47.2792,
     'longitude' => 8.66259,
   ),
-  143 => 
+  141 => 
   array (
     'id' => 17500,
     'name' => 'Bezirk Mittelland',
@@ -1297,7 +1279,7 @@ return array (
     'latitude' => 47.377,
     'longitude' => 9.43469,
   ),
-  144 => 
+  142 => 
   array (
     'id' => 17501,
     'name' => 'Bezirk Muri',
@@ -1306,7 +1288,7 @@ return array (
     'latitude' => 47.25233,
     'longitude' => 8.35362,
   ),
-  145 => 
+  143 => 
   array (
     'id' => 17502,
     'name' => 'Bezirk Oberklettgau',
@@ -1315,7 +1297,7 @@ return array (
     'latitude' => 47.69893,
     'longitude' => 8.51774,
   ),
-  146 => 
+  144 => 
   array (
     'id' => 17503,
     'name' => 'Bezirk Olten',
@@ -1324,7 +1306,7 @@ return array (
     'latitude' => 47.34426,
     'longitude' => 7.90755,
   ),
-  147 => 
+  145 => 
   array (
     'id' => 17504,
     'name' => 'Bezirk Pfäffikon',
@@ -1333,7 +1315,7 @@ return array (
     'latitude' => 47.40905,
     'longitude' => 8.77208,
   ),
-  148 => 
+  146 => 
   array (
     'id' => 17505,
     'name' => 'Bezirk Reiat',
@@ -1342,7 +1324,7 @@ return array (
     'latitude' => 47.74752,
     'longitude' => 8.70821,
   ),
-  149 => 
+  147 => 
   array (
     'id' => 17506,
     'name' => 'Bezirk Rheinfelden',
@@ -1351,7 +1333,7 @@ return array (
     'latitude' => 47.54048,
     'longitude' => 7.83331,
   ),
-  150 => 
+  148 => 
   array (
     'id' => 17507,
     'name' => 'Bezirk Schaffhausen',
@@ -1360,7 +1342,7 @@ return array (
     'latitude' => 47.6944,
     'longitude' => 8.63525,
   ),
-  151 => 
+  149 => 
   array (
     'id' => 17508,
     'name' => 'Bezirk Schleitheim',
@@ -1369,7 +1351,7 @@ return array (
     'latitude' => 47.75,
     'longitude' => 8.51111,
   ),
-  152 => 
+  150 => 
   array (
     'id' => 17509,
     'name' => 'Bezirk Schwyz',
@@ -1378,7 +1360,7 @@ return array (
     'latitude' => 47.02814,
     'longitude' => 8.63619,
   ),
-  153 => 
+  151 => 
   array (
     'id' => 17510,
     'name' => 'Bezirk Sissach',
@@ -1387,7 +1369,7 @@ return array (
     'latitude' => 47.44237,
     'longitude' => 7.84871,
   ),
-  154 => 
+  152 => 
   array (
     'id' => 17511,
     'name' => 'Bezirk Solothurn',
@@ -1396,7 +1378,7 @@ return array (
     'latitude' => 47.20818,
     'longitude' => 7.53084,
   ),
-  155 => 
+  153 => 
   array (
     'id' => 17512,
     'name' => 'Bezirk Stein',
@@ -1405,7 +1387,7 @@ return array (
     'latitude' => 47.66429,
     'longitude' => 8.84683,
   ),
-  156 => 
+  154 => 
   array (
     'id' => 17513,
     'name' => 'Bezirk Thal',
@@ -1414,7 +1396,7 @@ return array (
     'latitude' => 47.31095,
     'longitude' => 7.63592,
   ),
-  157 => 
+  155 => 
   array (
     'id' => 17514,
     'name' => 'Bezirk Thierstein',
@@ -1423,7 +1405,7 @@ return array (
     'latitude' => 47.38333,
     'longitude' => 7.55,
   ),
-  158 => 
+  156 => 
   array (
     'id' => 17515,
     'name' => 'Bezirk Unterklettgau',
@@ -1432,7 +1414,7 @@ return array (
     'latitude' => 47.68,
     'longitude' => 8.46333,
   ),
-  159 => 
+  157 => 
   array (
     'id' => 17516,
     'name' => 'Bezirk Uster',
@@ -1441,7 +1423,7 @@ return array (
     'latitude' => 47.34952,
     'longitude' => 8.71353,
   ),
-  160 => 
+  158 => 
   array (
     'id' => 17517,
     'name' => 'Bezirk Vorderland',
@@ -1450,7 +1432,7 @@ return array (
     'latitude' => 47.44167,
     'longitude' => 9.53869,
   ),
-  161 => 
+  159 => 
   array (
     'id' => 17518,
     'name' => 'Bezirk Waldenburg',
@@ -1459,7 +1441,7 @@ return array (
     'latitude' => 47.39367,
     'longitude' => 7.74137,
   ),
-  162 => 
+  160 => 
   array (
     'id' => 17519,
     'name' => 'Bezirk Wasseramt',
@@ -1468,7 +1450,7 @@ return array (
     'latitude' => 47.18911,
     'longitude' => 7.59157,
   ),
-  163 => 
+  161 => 
   array (
     'id' => 17520,
     'name' => 'Bezirk Winterthur',
@@ -1477,7 +1459,7 @@ return array (
     'latitude' => 47.50781,
     'longitude' => 8.769,
   ),
-  164 => 
+  162 => 
   array (
     'id' => 17521,
     'name' => 'Bezirk Zofingen',
@@ -1486,7 +1468,7 @@ return array (
     'latitude' => 47.28864,
     'longitude' => 7.95697,
   ),
-  165 => 
+  163 => 
   array (
     'id' => 17522,
     'name' => 'Bezirk Zurzach',
@@ -1495,7 +1477,7 @@ return array (
     'latitude' => 47.56182,
     'longitude' => 8.2802,
   ),
-  166 => 
+  164 => 
   array (
     'id' => 17523,
     'name' => 'Bezirk Zürich',
@@ -1504,7 +1486,7 @@ return array (
     'latitude' => 47.3711,
     'longitude' => 8.54323,
   ),
-  167 => 
+  165 => 
   array (
     'id' => 17524,
     'name' => 'Biasca',
@@ -1513,7 +1495,7 @@ return array (
     'latitude' => 46.35972,
     'longitude' => 8.96965,
   ),
-  168 => 
+  166 => 
   array (
     'id' => 17525,
     'name' => 'Biberist',
@@ -1522,7 +1504,7 @@ return array (
     'latitude' => 47.18009,
     'longitude' => 7.56246,
   ),
-  169 => 
+  167 => 
   array (
     'id' => 17526,
     'name' => 'Biel/Bienne',
@@ -1531,7 +1513,7 @@ return array (
     'latitude' => 47.13713,
     'longitude' => 7.24608,
   ),
-  170 => 
+  168 => 
   array (
     'id' => 17527,
     'name' => 'Biel/Bienne District',
@@ -1540,7 +1522,7 @@ return array (
     'latitude' => 47.12725,
     'longitude' => 7.26174,
   ),
-  171 => 
+  169 => 
   array (
     'id' => 17528,
     'name' => 'Biglen',
@@ -1549,7 +1531,7 @@ return array (
     'latitude' => 46.92629,
     'longitude' => 7.62508,
   ),
-  172 => 
+  170 => 
   array (
     'id' => 17529,
     'name' => 'Bilten',
@@ -1558,7 +1540,7 @@ return array (
     'latitude' => 47.14995,
     'longitude' => 9.02551,
   ),
-  173 => 
+  171 => 
   array (
     'id' => 17530,
     'name' => 'Binningen',
@@ -1567,7 +1549,7 @@ return array (
     'latitude' => 47.54021,
     'longitude' => 7.56932,
   ),
-  174 => 
+  172 => 
   array (
     'id' => 17531,
     'name' => 'Binz',
@@ -1576,7 +1558,7 @@ return array (
     'latitude' => 47.35635,
     'longitude' => 8.62657,
   ),
-  175 => 
+  173 => 
   array (
     'id' => 17532,
     'name' => 'Binzikon',
@@ -1585,7 +1567,7 @@ return array (
     'latitude' => 47.27632,
     'longitude' => 8.75851,
   ),
-  176 => 
+  174 => 
   array (
     'id' => 17533,
     'name' => 'Bioggio',
@@ -1594,7 +1576,7 @@ return array (
     'latitude' => 46.01357,
     'longitude' => 8.91103,
   ),
-  177 => 
+  175 => 
   array (
     'id' => 17534,
     'name' => 'Birchwil',
@@ -1603,7 +1585,7 @@ return array (
     'latitude' => 47.45431,
     'longitude' => 8.63477,
   ),
-  178 => 
+  176 => 
   array (
     'id' => 17535,
     'name' => 'Birmensdorf',
@@ -1612,7 +1594,7 @@ return array (
     'latitude' => 47.35515,
     'longitude' => 8.44256,
   ),
-  179 => 
+  177 => 
   array (
     'id' => 17536,
     'name' => 'Birmenstorf',
@@ -1621,7 +1603,7 @@ return array (
     'latitude' => 47.46152,
     'longitude' => 8.24816,
   ),
-  180 => 
+  178 => 
   array (
     'id' => 17537,
     'name' => 'Birr',
@@ -1630,7 +1612,7 @@ return array (
     'latitude' => 47.43432,
     'longitude' => 8.20891,
   ),
-  181 => 
+  179 => 
   array (
     'id' => 17538,
     'name' => 'Birsfelden',
@@ -1639,7 +1621,7 @@ return array (
     'latitude' => 47.5529,
     'longitude' => 7.62322,
   ),
-  182 => 
+  180 => 
   array (
     'id' => 17539,
     'name' => 'Bière',
@@ -1648,7 +1630,7 @@ return array (
     'latitude' => 46.53761,
     'longitude' => 6.33362,
   ),
-  183 => 
+  181 => 
   array (
     'id' => 17540,
     'name' => 'Blenio District',
@@ -1657,7 +1639,7 @@ return array (
     'latitude' => 46.47613,
     'longitude' => 8.94609,
   ),
-  184 => 
+  182 => 
   array (
     'id' => 17541,
     'name' => 'Blonay',
@@ -1666,7 +1648,7 @@ return array (
     'latitude' => 46.46778,
     'longitude' => 6.89615,
   ),
-  185 => 
+  183 => 
   array (
     'id' => 17542,
     'name' => 'Blumenstein',
@@ -1675,7 +1657,7 @@ return array (
     'latitude' => 46.7421,
     'longitude' => 7.52136,
   ),
-  186 => 
+  184 => 
   array (
     'id' => 17543,
     'name' => 'Blécherette',
@@ -1684,7 +1666,7 @@ return array (
     'latitude' => 46.53932,
     'longitude' => 6.62227,
   ),
-  187 => 
+  185 => 
   array (
     'id' => 17544,
     'name' => 'Bodio',
@@ -1693,7 +1675,7 @@ return array (
     'latitude' => 46.37808,
     'longitude' => 8.90991,
   ),
-  188 => 
+  186 => 
   array (
     'id' => 17545,
     'name' => 'Bolligen',
@@ -1702,7 +1684,7 @@ return array (
     'latitude' => 46.9751,
     'longitude' => 7.49697,
   ),
-  189 => 
+  187 => 
   array (
     'id' => 17546,
     'name' => 'Boltigen',
@@ -1711,7 +1693,7 @@ return array (
     'latitude' => 46.62847,
     'longitude' => 7.39054,
   ),
-  190 => 
+  188 => 
   array (
     'id' => 17547,
     'name' => 'Bonaduz',
@@ -1720,7 +1702,7 @@ return array (
     'latitude' => 46.81103,
     'longitude' => 9.39821,
   ),
-  191 => 
+  189 => 
   array (
     'id' => 17548,
     'name' => 'Boncourt',
@@ -1729,7 +1711,7 @@ return array (
     'latitude' => 47.49493,
     'longitude' => 7.01297,
   ),
-  192 => 
+  190 => 
   array (
     'id' => 17549,
     'name' => 'Boniswil',
@@ -1738,7 +1720,7 @@ return array (
     'latitude' => 47.31725,
     'longitude' => 8.18963,
   ),
-  193 => 
+  191 => 
   array (
     'id' => 17550,
     'name' => 'Bonstetten',
@@ -1747,7 +1729,7 @@ return array (
     'latitude' => 47.31505,
     'longitude' => 8.46836,
   ),
-  194 => 
+  192 => 
   array (
     'id' => 17551,
     'name' => 'Bottens',
@@ -1756,7 +1738,7 @@ return array (
     'latitude' => 46.61596,
     'longitude' => 6.66149,
   ),
-  195 => 
+  193 => 
   array (
     'id' => 17552,
     'name' => 'Bottighofen',
@@ -1765,7 +1747,7 @@ return array (
     'latitude' => 47.63643,
     'longitude' => 9.20882,
   ),
-  196 => 
+  194 => 
   array (
     'id' => 17553,
     'name' => 'Bottmingen',
@@ -1774,7 +1756,7 @@ return array (
     'latitude' => 47.52343,
     'longitude' => 7.57211,
   ),
-  197 => 
+  195 => 
   array (
     'id' => 17554,
     'name' => 'Boudry',
@@ -1783,7 +1765,7 @@ return array (
     'latitude' => 46.94991,
     'longitude' => 6.83757,
   ),
-  198 => 
+  196 => 
   array (
     'id' => 17555,
     'name' => 'Boudry District',
@@ -1792,7 +1774,7 @@ return array (
     'latitude' => 46.94594,
     'longitude' => 6.82842,
   ),
-  199 => 
+  197 => 
   array (
     'id' => 17556,
     'name' => 'Bowil',
@@ -1801,7 +1783,7 @@ return array (
     'latitude' => 46.89304,
     'longitude' => 7.69757,
   ),
-  200 => 
+  198 => 
   array (
     'id' => 17557,
     'name' => 'Breitenbach',
@@ -1810,7 +1792,7 @@ return array (
     'latitude' => 47.40668,
     'longitude' => 7.54554,
   ),
-  201 => 
+  199 => 
   array (
     'id' => 17558,
     'name' => 'Bremgarten',
@@ -1819,7 +1801,7 @@ return array (
     'latitude' => 47.35109,
     'longitude' => 8.34214,
   ),
-  202 => 
+  200 => 
   array (
     'id' => 17559,
     'name' => 'Breíl',
@@ -1828,7 +1810,7 @@ return array (
     'latitude' => 46.76986,
     'longitude' => 9.06036,
   ),
-  203 => 
+  201 => 
   array (
     'id' => 17560,
     'name' => 'Brienz',
@@ -1837,7 +1819,7 @@ return array (
     'latitude' => 46.7545,
     'longitude' => 8.03847,
   ),
-  204 => 
+  202 => 
   array (
     'id' => 17561,
     'name' => 'Brig',
@@ -1846,7 +1828,7 @@ return array (
     'latitude' => 46.31667,
     'longitude' => 7.98333,
   ),
-  205 => 
+  203 => 
   array (
     'id' => 17562,
     'name' => 'Brig District',
@@ -1855,7 +1837,7 @@ return array (
     'latitude' => 46.28255,
     'longitude' => 8.01185,
   ),
-  206 => 
+  204 => 
   array (
     'id' => 17563,
     'name' => 'Brislach',
@@ -1864,7 +1846,7 @@ return array (
     'latitude' => 47.41763,
     'longitude' => 7.5434,
   ),
-  207 => 
+  205 => 
   array (
     'id' => 17564,
     'name' => 'Brissago',
@@ -1873,7 +1855,7 @@ return array (
     'latitude' => 46.12013,
     'longitude' => 8.71181,
   ),
-  208 => 
+  206 => 
   array (
     'id' => 17565,
     'name' => 'Brittnau',
@@ -1882,7 +1864,7 @@ return array (
     'latitude' => 47.25954,
     'longitude' => 7.94689,
   ),
-  209 => 
+  207 => 
   array (
     'id' => 17566,
     'name' => 'Broc',
@@ -1891,7 +1873,7 @@ return array (
     'latitude' => 46.60513,
     'longitude' => 7.09891,
   ),
-  210 => 
+  208 => 
   array (
     'id' => 17567,
     'name' => 'Bronschhofen',
@@ -1900,7 +1882,7 @@ return array (
     'latitude' => 47.47835,
     'longitude' => 9.03454,
   ),
-  211 => 
+  209 => 
   array (
     'id' => 17568,
     'name' => 'Broye District',
@@ -1909,7 +1891,7 @@ return array (
     'latitude' => 46.82212,
     'longitude' => 6.90249,
   ),
-  212 => 
+  210 => 
   array (
     'id' => 17569,
     'name' => 'Broye-Vully District',
@@ -1918,7 +1900,7 @@ return array (
     'latitude' => 46.78082,
     'longitude' => 6.90161,
   ),
-  213 => 
+  211 => 
   array (
     'id' => 17570,
     'name' => 'Brugg',
@@ -1927,7 +1909,7 @@ return array (
     'latitude' => 47.48096,
     'longitude' => 8.20869,
   ),
-  214 => 
+  212 => 
   array (
     'id' => 17571,
     'name' => 'Brusio',
@@ -1936,7 +1918,7 @@ return array (
     'latitude' => 46.25953,
     'longitude' => 10.12385,
   ),
-  215 => 
+  213 => 
   array (
     'id' => 17572,
     'name' => 'Brügg',
@@ -1945,7 +1927,7 @@ return array (
     'latitude' => 47.1237,
     'longitude' => 7.27887,
   ),
-  216 => 
+  214 => 
   array (
     'id' => 17573,
     'name' => 'Brütten',
@@ -1954,7 +1936,7 @@ return array (
     'latitude' => 47.47318,
     'longitude' => 8.67569,
   ),
-  217 => 
+  215 => 
   array (
     'id' => 17574,
     'name' => 'Brüttisellen',
@@ -1963,7 +1945,7 @@ return array (
     'latitude' => 47.42173,
     'longitude' => 8.63263,
   ),
-  218 => 
+  216 => 
   array (
     'id' => 17575,
     'name' => 'Bubendorf',
@@ -1972,7 +1954,7 @@ return array (
     'latitude' => 47.44586,
     'longitude' => 7.73759,
   ),
-  219 => 
+  217 => 
   array (
     'id' => 17576,
     'name' => 'Bubikon',
@@ -1981,7 +1963,7 @@ return array (
     'latitude' => 47.26698,
     'longitude' => 8.8179,
   ),
-  220 => 
+  218 => 
   array (
     'id' => 17577,
     'name' => 'Buchholterberg',
@@ -1990,7 +1972,7 @@ return array (
     'latitude' => 46.81351,
     'longitude' => 7.67463,
   ),
-  221 => 
+  219 => 
   array (
     'id' => 17578,
     'name' => 'Buchrain',
@@ -1999,7 +1981,7 @@ return array (
     'latitude' => 47.09625,
     'longitude' => 8.34729,
   ),
-  222 => 
+  220 => 
   array (
     'id' => 17579,
     'name' => 'Buchs',
@@ -2008,16 +1990,7 @@ return array (
     'latitude' => 47.39358,
     'longitude' => 8.08233,
   ),
-  223 => 
-  array (
-    'id' => 17580,
-    'name' => 'Buchs',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.16743,
-    'longitude' => 9.47794,
-  ),
-  224 => 
+  221 => 
   array (
     'id' => 17581,
     'name' => 'Bulle',
@@ -2026,7 +1999,7 @@ return array (
     'latitude' => 46.61797,
     'longitude' => 7.0569,
   ),
-  225 => 
+  222 => 
   array (
     'id' => 17582,
     'name' => 'Buochs',
@@ -2035,7 +2008,7 @@ return array (
     'latitude' => 46.97398,
     'longitude' => 8.42279,
   ),
-  226 => 
+  223 => 
   array (
     'id' => 17583,
     'name' => 'Burgdorf',
@@ -2044,7 +2017,7 @@ return array (
     'latitude' => 47.05901,
     'longitude' => 7.62786,
   ),
-  227 => 
+  224 => 
   array (
     'id' => 17584,
     'name' => 'Burgistein',
@@ -2053,7 +2026,7 @@ return array (
     'latitude' => 46.78464,
     'longitude' => 7.49988,
   ),
-  228 => 
+  225 => 
   array (
     'id' => 17585,
     'name' => 'Buseno',
@@ -2062,7 +2035,7 @@ return array (
     'latitude' => 46.27381,
     'longitude' => 9.10735,
   ),
-  229 => 
+  226 => 
   array (
     'id' => 17586,
     'name' => 'Bussigny',
@@ -2071,7 +2044,7 @@ return array (
     'latitude' => 46.5511,
     'longitude' => 6.55597,
   ),
-  230 => 
+  227 => 
   array (
     'id' => 17587,
     'name' => 'Buttisholz',
@@ -2080,7 +2053,7 @@ return array (
     'latitude' => 47.11442,
     'longitude' => 8.09425,
   ),
-  231 => 
+  228 => 
   array (
     'id' => 17588,
     'name' => 'Buttwil',
@@ -2089,7 +2062,7 @@ return array (
     'latitude' => 47.26828,
     'longitude' => 8.31064,
   ),
-  232 => 
+  229 => 
   array (
     'id' => 17589,
     'name' => 'Buus',
@@ -2098,7 +2071,7 @@ return array (
     'latitude' => 47.50635,
     'longitude' => 7.86414,
   ),
-  233 => 
+  230 => 
   array (
     'id' => 17590,
     'name' => 'Bäch',
@@ -2107,7 +2080,7 @@ return array (
     'latitude' => 47.20388,
     'longitude' => 8.73224,
   ),
-  234 => 
+  231 => 
   array (
     'id' => 17591,
     'name' => 'Bäretswil',
@@ -2116,7 +2089,7 @@ return array (
     'latitude' => 47.33709,
     'longitude' => 8.85645,
   ),
-  235 => 
+  232 => 
   array (
     'id' => 17592,
     'name' => 'Bäriswil',
@@ -2125,7 +2098,7 @@ return array (
     'latitude' => 47.01947,
     'longitude' => 7.52709,
   ),
-  236 => 
+  233 => 
   array (
     'id' => 17593,
     'name' => 'Bätterkinden',
@@ -2134,7 +2107,7 @@ return array (
     'latitude' => 47.13164,
     'longitude' => 7.53817,
   ),
-  237 => 
+  234 => 
   array (
     'id' => 17594,
     'name' => 'Bévilard',
@@ -2143,7 +2116,7 @@ return array (
     'latitude' => 47.23711,
     'longitude' => 7.28325,
   ),
-  238 => 
+  235 => 
   array (
     'id' => 17595,
     'name' => 'Bönigen',
@@ -2152,7 +2125,7 @@ return array (
     'latitude' => 46.68736,
     'longitude' => 7.8935,
   ),
-  239 => 
+  236 => 
   array (
     'id' => 17596,
     'name' => 'Bösingen',
@@ -2161,7 +2134,7 @@ return array (
     'latitude' => 46.89229,
     'longitude' => 7.2277,
   ),
-  240 => 
+  237 => 
   array (
     'id' => 17597,
     'name' => 'Bühler',
@@ -2170,7 +2143,7 @@ return array (
     'latitude' => 47.37348,
     'longitude' => 9.42507,
   ),
-  241 => 
+  238 => 
   array (
     'id' => 17598,
     'name' => 'Bülach',
@@ -2179,7 +2152,7 @@ return array (
     'latitude' => 47.52197,
     'longitude' => 8.54049,
   ),
-  242 => 
+  239 => 
   array (
     'id' => 17599,
     'name' => 'Bülach / Gstückt',
@@ -2188,7 +2161,7 @@ return array (
     'latitude' => 47.52337,
     'longitude' => 8.54879,
   ),
-  243 => 
+  240 => 
   array (
     'id' => 17600,
     'name' => 'Bülach / Seematt',
@@ -2197,7 +2170,7 @@ return array (
     'latitude' => 47.51716,
     'longitude' => 8.54651,
   ),
-  244 => 
+  241 => 
   array (
     'id' => 17601,
     'name' => 'Bülach / Soligänter',
@@ -2206,7 +2179,7 @@ return array (
     'latitude' => 47.52632,
     'longitude' => 8.54106,
   ),
-  245 => 
+  242 => 
   array (
     'id' => 17602,
     'name' => 'Bürglen',
@@ -2215,16 +2188,7 @@ return array (
     'latitude' => 46.87565,
     'longitude' => 8.66539,
   ),
-  246 => 
-  array (
-    'id' => 17603,
-    'name' => 'Bürglen',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.54921,
-    'longitude' => 9.1495,
-  ),
-  247 => 
+  243 => 
   array (
     'id' => 17604,
     'name' => 'Büron',
@@ -2233,7 +2197,7 @@ return array (
     'latitude' => 47.21192,
     'longitude' => 8.0942,
   ),
-  248 => 
+  244 => 
   array (
     'id' => 17605,
     'name' => 'Büsserach',
@@ -2242,7 +2206,7 @@ return array (
     'latitude' => 47.39415,
     'longitude' => 7.54117,
   ),
-  249 => 
+  245 => 
   array (
     'id' => 17606,
     'name' => 'Bütschwil',
@@ -2251,7 +2215,7 @@ return array (
     'latitude' => 47.36022,
     'longitude' => 9.07213,
   ),
-  250 => 
+  246 => 
   array (
     'id' => 17607,
     'name' => 'Cadempino',
@@ -2260,7 +2224,7 @@ return array (
     'latitude' => 46.03672,
     'longitude' => 8.93403,
   ),
-  251 => 
+  247 => 
   array (
     'id' => 17608,
     'name' => 'Cadenazzo',
@@ -2269,7 +2233,7 @@ return array (
     'latitude' => 46.15172,
     'longitude' => 8.94719,
   ),
-  252 => 
+  248 => 
   array (
     'id' => 17609,
     'name' => 'Cadro',
@@ -2278,7 +2242,7 @@ return array (
     'latitude' => 46.04595,
     'longitude' => 8.98725,
   ),
-  253 => 
+  249 => 
   array (
     'id' => 17610,
     'name' => 'Camorino',
@@ -2287,7 +2251,7 @@ return array (
     'latitude' => 46.16483,
     'longitude' => 9.00547,
   ),
-  254 => 
+  250 => 
   array (
     'id' => 17611,
     'name' => 'Canobbio',
@@ -2296,7 +2260,7 @@ return array (
     'latitude' => 46.03592,
     'longitude' => 8.96605,
   ),
-  255 => 
+  251 => 
   array (
     'id' => 17612,
     'name' => 'Carouge',
@@ -2305,7 +2269,7 @@ return array (
     'latitude' => 46.18096,
     'longitude' => 6.13921,
   ),
-  256 => 
+  252 => 
   array (
     'id' => 17613,
     'name' => 'Caslano',
@@ -2314,7 +2278,7 @@ return array (
     'latitude' => 45.97364,
     'longitude' => 8.87739,
   ),
-  257 => 
+  253 => 
   array (
     'id' => 17614,
     'name' => 'Castel San Pietro',
@@ -2323,7 +2287,7 @@ return array (
     'latitude' => 45.86211,
     'longitude' => 9.00843,
   ),
-  258 => 
+  254 => 
   array (
     'id' => 17615,
     'name' => 'Cauco',
@@ -2332,7 +2296,7 @@ return array (
     'latitude' => 46.33541,
     'longitude' => 9.12129,
   ),
-  259 => 
+  255 => 
   array (
     'id' => 17616,
     'name' => 'Caux',
@@ -2341,7 +2305,7 @@ return array (
     'latitude' => 46.43241,
     'longitude' => 6.93855,
   ),
-  260 => 
+  256 => 
   array (
     'id' => 17617,
     'name' => 'Cazis',
@@ -2350,7 +2314,7 @@ return array (
     'latitude' => 46.7194,
     'longitude' => 9.43271,
   ),
-  261 => 
+  257 => 
   array (
     'id' => 17618,
     'name' => 'Celerina',
@@ -2359,7 +2323,7 @@ return array (
     'latitude' => 46.51217,
     'longitude' => 9.85794,
   ),
-  262 => 
+  258 => 
   array (
     'id' => 17619,
     'name' => 'Cernier',
@@ -2368,7 +2332,7 @@ return array (
     'latitude' => 47.05878,
     'longitude' => 6.9004,
   ),
-  263 => 
+  259 => 
   array (
     'id' => 17620,
     'name' => 'Cevio',
@@ -2377,7 +2341,7 @@ return array (
     'latitude' => 46.31479,
     'longitude' => 8.60332,
   ),
-  264 => 
+  260 => 
   array (
     'id' => 17621,
     'name' => 'Chalais',
@@ -2386,7 +2350,7 @@ return array (
     'latitude' => 46.26758,
     'longitude' => 7.51145,
   ),
-  265 => 
+  261 => 
   array (
     'id' => 17622,
     'name' => 'Cham',
@@ -2395,7 +2359,7 @@ return array (
     'latitude' => 47.18213,
     'longitude' => 8.46358,
   ),
-  266 => 
+  262 => 
   array (
     'id' => 17623,
     'name' => 'Chamoson',
@@ -2404,7 +2368,7 @@ return array (
     'latitude' => 46.20275,
     'longitude' => 7.22319,
   ),
-  267 => 
+  263 => 
   array (
     'id' => 17624,
     'name' => 'Champéry',
@@ -2413,7 +2377,7 @@ return array (
     'latitude' => 46.17543,
     'longitude' => 6.86903,
   ),
-  268 => 
+  264 => 
   array (
     'id' => 17625,
     'name' => 'Chancy',
@@ -2422,7 +2386,7 @@ return array (
     'latitude' => 46.15003,
     'longitude' => 5.97153,
   ),
-  269 => 
+  265 => 
   array (
     'id' => 17626,
     'name' => 'Chardonne',
@@ -2431,7 +2395,7 @@ return array (
     'latitude' => 46.47676,
     'longitude' => 6.8268,
   ),
-  270 => 
+  266 => 
   array (
     'id' => 17627,
     'name' => 'Charmey',
@@ -2440,7 +2404,7 @@ return array (
     'latitude' => 46.61957,
     'longitude' => 7.16486,
   ),
-  271 => 
+  267 => 
   array (
     'id' => 17628,
     'name' => 'Charrat',
@@ -2449,7 +2413,7 @@ return array (
     'latitude' => 46.1249,
     'longitude' => 7.13138,
   ),
-  272 => 
+  268 => 
   array (
     'id' => 17629,
     'name' => 'Chavannes',
@@ -2458,7 +2422,7 @@ return array (
     'latitude' => 46.53005,
     'longitude' => 6.57068,
   ),
-  273 => 
+  269 => 
   array (
     'id' => 17630,
     'name' => 'Chavannes-le-Veyron',
@@ -2467,7 +2431,7 @@ return array (
     'latitude' => 46.607,
     'longitude' => 6.45086,
   ),
-  274 => 
+  270 => 
   array (
     'id' => 17631,
     'name' => 'Chavornay',
@@ -2476,7 +2440,7 @@ return array (
     'latitude' => 46.70244,
     'longitude' => 6.5694,
   ),
-  275 => 
+  271 => 
   array (
     'id' => 17632,
     'name' => 'Chermignon-d’en Haut',
@@ -2485,7 +2449,7 @@ return array (
     'latitude' => 46.28844,
     'longitude' => 7.47487,
   ),
-  276 => 
+  272 => 
   array (
     'id' => 17633,
     'name' => 'Cheseaux',
@@ -2494,7 +2458,7 @@ return array (
     'latitude' => 46.58624,
     'longitude' => 6.60587,
   ),
-  277 => 
+  273 => 
   array (
     'id' => 17634,
     'name' => 'Chevilly',
@@ -2503,7 +2467,7 @@ return array (
     'latitude' => 46.64272,
     'longitude' => 6.47661,
   ),
-  278 => 
+  274 => 
   array (
     'id' => 17635,
     'name' => 'Chexbres',
@@ -2512,7 +2476,7 @@ return array (
     'latitude' => 46.48208,
     'longitude' => 6.77805,
   ),
-  279 => 
+  275 => 
   array (
     'id' => 17636,
     'name' => 'Chiasso',
@@ -2521,7 +2485,7 @@ return array (
     'latitude' => 45.83203,
     'longitude' => 9.03119,
   ),
-  280 => 
+  276 => 
   array (
     'id' => 17637,
     'name' => 'Chippis',
@@ -2530,7 +2494,7 @@ return array (
     'latitude' => 46.2802,
     'longitude' => 7.53962,
   ),
-  281 => 
+  277 => 
   array (
     'id' => 17638,
     'name' => 'Chur',
@@ -2539,7 +2503,7 @@ return array (
     'latitude' => 46.84986,
     'longitude' => 9.53287,
   ),
-  282 => 
+  278 => 
   array (
     'id' => 17639,
     'name' => 'Churwalden',
@@ -2548,7 +2512,7 @@ return array (
     'latitude' => 46.78143,
     'longitude' => 9.54377,
   ),
-  283 => 
+  279 => 
   array (
     'id' => 17640,
     'name' => 'Château-d\\\'Oex',
@@ -2557,7 +2521,7 @@ return array (
     'latitude' => 46.47455,
     'longitude' => 7.13155,
   ),
-  284 => 
+  280 => 
   array (
     'id' => 17641,
     'name' => 'Châtel-Saint-Denis',
@@ -2566,7 +2530,7 @@ return array (
     'latitude' => 46.52691,
     'longitude' => 6.90083,
   ),
-  285 => 
+  281 => 
   array (
     'id' => 17642,
     'name' => 'Chézard-Saint-Martin',
@@ -2575,7 +2539,7 @@ return array (
     'latitude' => 47.06629,
     'longitude' => 6.93332,
   ),
-  286 => 
+  282 => 
   array (
     'id' => 17643,
     'name' => 'Chêne-Bougeries',
@@ -2584,7 +2548,7 @@ return array (
     'latitude' => 46.19843,
     'longitude' => 6.18642,
   ),
-  287 => 
+  283 => 
   array (
     'id' => 17644,
     'name' => 'Chêne-Bourg',
@@ -2593,7 +2557,7 @@ return array (
     'latitude' => 46.19534,
     'longitude' => 6.19406,
   ),
-  288 => 
+  284 => 
   array (
     'id' => 17645,
     'name' => 'Claro',
@@ -2602,7 +2566,7 @@ return array (
     'latitude' => 46.25763,
     'longitude' => 9.02252,
   ),
-  289 => 
+  285 => 
   array (
     'id' => 17646,
     'name' => 'Collombey-Muraz',
@@ -2611,7 +2575,7 @@ return array (
     'latitude' => 46.27385,
     'longitude' => 6.94789,
   ),
-  290 => 
+  286 => 
   array (
     'id' => 17647,
     'name' => 'Colombier',
@@ -2620,7 +2584,7 @@ return array (
     'latitude' => 46.55709,
     'longitude' => 6.47284,
   ),
-  291 => 
+  287 => 
   array (
     'id' => 17648,
     'name' => 'Comano',
@@ -2629,7 +2593,7 @@ return array (
     'latitude' => 46.03635,
     'longitude' => 8.95526,
   ),
-  292 => 
+  288 => 
   array (
     'id' => 17649,
     'name' => 'Confignon',
@@ -2638,7 +2602,7 @@ return array (
     'latitude' => 46.17341,
     'longitude' => 6.08437,
   ),
-  293 => 
+  289 => 
   array (
     'id' => 17650,
     'name' => 'Conthey',
@@ -2647,7 +2611,7 @@ return array (
     'latitude' => 46.2237,
     'longitude' => 7.30283,
   ),
-  294 => 
+  290 => 
   array (
     'id' => 17651,
     'name' => 'Conthey District',
@@ -2656,7 +2620,7 @@ return array (
     'latitude' => 46.20485,
     'longitude' => 7.27857,
   ),
-  295 => 
+  291 => 
   array (
     'id' => 17652,
     'name' => 'Coppet',
@@ -2665,7 +2629,7 @@ return array (
     'latitude' => 46.31682,
     'longitude' => 6.19114,
   ),
-  296 => 
+  292 => 
   array (
     'id' => 17653,
     'name' => 'Corgémont',
@@ -2674,7 +2638,7 @@ return array (
     'latitude' => 47.19457,
     'longitude' => 7.14517,
   ),
-  297 => 
+  293 => 
   array (
     'id' => 17654,
     'name' => 'Corminboeuf',
@@ -2683,7 +2647,7 @@ return array (
     'latitude' => 46.81029,
     'longitude' => 7.10535,
   ),
-  298 => 
+  294 => 
   array (
     'id' => 17655,
     'name' => 'Cornaux',
@@ -2692,7 +2656,7 @@ return array (
     'latitude' => 47.0396,
     'longitude' => 7.01872,
   ),
-  299 => 
+  295 => 
   array (
     'id' => 17656,
     'name' => 'Corsier',
@@ -2701,7 +2665,7 @@ return array (
     'latitude' => 46.26297,
     'longitude' => 6.22461,
   ),
-  300 => 
+  296 => 
   array (
     'id' => 17657,
     'name' => 'Cortaillod',
@@ -2710,7 +2674,7 @@ return array (
     'latitude' => 46.94306,
     'longitude' => 6.8444,
   ),
-  301 => 
+  297 => 
   array (
     'id' => 17658,
     'name' => 'Cossonay',
@@ -2719,7 +2683,7 @@ return array (
     'latitude' => 46.61443,
     'longitude' => 6.50631,
   ),
-  302 => 
+  298 => 
   array (
     'id' => 17659,
     'name' => 'Courfaivre',
@@ -2728,7 +2692,7 @@ return array (
     'latitude' => 47.33461,
     'longitude' => 7.28186,
   ),
-  303 => 
+  299 => 
   array (
     'id' => 17660,
     'name' => 'Courgenay',
@@ -2737,7 +2701,7 @@ return array (
     'latitude' => 47.40483,
     'longitude' => 7.12522,
   ),
-  304 => 
+  300 => 
   array (
     'id' => 17661,
     'name' => 'Courgevaux',
@@ -2746,7 +2710,7 @@ return array (
     'latitude' => 46.90648,
     'longitude' => 7.11215,
   ),
-  305 => 
+  301 => 
   array (
     'id' => 17662,
     'name' => 'Courrendlin',
@@ -2755,7 +2719,7 @@ return array (
     'latitude' => 47.33853,
     'longitude' => 7.37243,
   ),
-  306 => 
+  302 => 
   array (
     'id' => 17663,
     'name' => 'Courroux',
@@ -2764,7 +2728,7 @@ return array (
     'latitude' => 47.36069,
     'longitude' => 7.37371,
   ),
-  307 => 
+  303 => 
   array (
     'id' => 17664,
     'name' => 'Court',
@@ -2773,7 +2737,7 @@ return array (
     'latitude' => 47.23956,
     'longitude' => 7.33655,
   ),
-  308 => 
+  304 => 
   array (
     'id' => 17665,
     'name' => 'Courtelary',
@@ -2782,7 +2746,7 @@ return array (
     'latitude' => 47.17822,
     'longitude' => 7.07236,
   ),
-  309 => 
+  305 => 
   array (
     'id' => 17666,
     'name' => 'Courtételle',
@@ -2791,7 +2755,7 @@ return array (
     'latitude' => 47.34074,
     'longitude' => 7.31827,
   ),
-  310 => 
+  306 => 
   array (
     'id' => 17667,
     'name' => 'Couvet',
@@ -2800,7 +2764,7 @@ return array (
     'latitude' => 46.92525,
     'longitude' => 6.6327,
   ),
-  311 => 
+  307 => 
   array (
     'id' => 17668,
     'name' => 'Crissier',
@@ -2809,7 +2773,7 @@ return array (
     'latitude' => 46.54586,
     'longitude' => 6.57567,
   ),
-  312 => 
+  308 => 
   array (
     'id' => 17669,
     'name' => 'Cuarnens',
@@ -2818,7 +2782,7 @@ return array (
     'latitude' => 46.62545,
     'longitude' => 6.43713,
   ),
-  313 => 
+  309 => 
   array (
     'id' => 17670,
     'name' => 'Cugnasco',
@@ -2827,7 +2791,7 @@ return array (
     'latitude' => 46.17473,
     'longitude' => 8.91684,
   ),
-  314 => 
+  310 => 
   array (
     'id' => 17671,
     'name' => 'Cugy',
@@ -2836,7 +2800,7 @@ return array (
     'latitude' => 46.81479,
     'longitude' => 6.88888,
   ),
-  315 => 
+  311 => 
   array (
     'id' => 17672,
     'name' => 'Cully',
@@ -2845,7 +2809,7 @@ return array (
     'latitude' => 46.48892,
     'longitude' => 6.72945,
   ),
-  316 => 
+  312 => 
   array (
     'id' => 17673,
     'name' => 'Dachsen',
@@ -2854,7 +2818,7 @@ return array (
     'latitude' => 47.66515,
     'longitude' => 8.6179,
   ),
-  317 => 
+  313 => 
   array (
     'id' => 17674,
     'name' => 'Dagmersellen',
@@ -2863,7 +2827,7 @@ return array (
     'latitude' => 47.21405,
     'longitude' => 7.98519,
   ),
-  318 => 
+  314 => 
   array (
     'id' => 17675,
     'name' => 'Dallenwil',
@@ -2872,7 +2836,7 @@ return array (
     'latitude' => 46.9242,
     'longitude' => 8.38785,
   ),
-  319 => 
+  315 => 
   array (
     'id' => 17676,
     'name' => 'Dardagny',
@@ -2881,7 +2845,7 @@ return array (
     'latitude' => 46.19564,
     'longitude' => 5.99497,
   ),
-  320 => 
+  316 => 
   array (
     'id' => 17677,
     'name' => 'Davos',
@@ -2890,7 +2854,7 @@ return array (
     'latitude' => 46.80429,
     'longitude' => 9.83723,
   ),
-  321 => 
+  317 => 
   array (
     'id' => 17678,
     'name' => 'Degersheim',
@@ -2899,7 +2863,7 @@ return array (
     'latitude' => 47.37429,
     'longitude' => 9.20019,
   ),
-  322 => 
+  318 => 
   array (
     'id' => 17679,
     'name' => 'Deitingen',
@@ -2908,7 +2872,7 @@ return array (
     'latitude' => 47.21515,
     'longitude' => 7.6188,
   ),
-  323 => 
+  319 => 
   array (
     'id' => 17680,
     'name' => 'Delémont',
@@ -2917,7 +2881,7 @@ return array (
     'latitude' => 47.36493,
     'longitude' => 7.34453,
   ),
-  324 => 
+  320 => 
   array (
     'id' => 17681,
     'name' => 'Delémont District',
@@ -2926,7 +2890,7 @@ return array (
     'latitude' => 47.35434,
     'longitude' => 7.33053,
   ),
-  325 => 
+  321 => 
   array (
     'id' => 17682,
     'name' => 'Densbüren',
@@ -2935,7 +2899,7 @@ return array (
     'latitude' => 47.4526,
     'longitude' => 8.0533,
   ),
-  326 => 
+  322 => 
   array (
     'id' => 17683,
     'name' => 'Derendingen',
@@ -2944,7 +2908,7 @@ return array (
     'latitude' => 47.1985,
     'longitude' => 7.58844,
   ),
-  327 => 
+  323 => 
   array (
     'id' => 17684,
     'name' => 'Diegten',
@@ -2953,7 +2917,7 @@ return array (
     'latitude' => 47.4138,
     'longitude' => 7.81085,
   ),
-  328 => 
+  324 => 
   array (
     'id' => 17685,
     'name' => 'Dielsdorf',
@@ -2962,7 +2926,7 @@ return array (
     'latitude' => 47.48146,
     'longitude' => 8.4585,
   ),
-  329 => 
+  325 => 
   array (
     'id' => 17686,
     'name' => 'Diemtigen',
@@ -2971,7 +2935,7 @@ return array (
     'latitude' => 46.64928,
     'longitude' => 7.56477,
   ),
-  330 => 
+  326 => 
   array (
     'id' => 17687,
     'name' => 'Diepoldsau',
@@ -2980,7 +2944,7 @@ return array (
     'latitude' => 47.386,
     'longitude' => 9.65558,
   ),
-  331 => 
+  327 => 
   array (
     'id' => 17688,
     'name' => 'Diessenhofen',
@@ -2989,7 +2953,7 @@ return array (
     'latitude' => 47.68908,
     'longitude' => 8.74958,
   ),
-  332 => 
+  328 => 
   array (
     'id' => 17689,
     'name' => 'Dietikon',
@@ -2998,7 +2962,7 @@ return array (
     'latitude' => 47.40165,
     'longitude' => 8.40015,
   ),
-  333 => 
+  329 => 
   array (
     'id' => 17690,
     'name' => 'Dietikon / Almend',
@@ -3007,7 +2971,7 @@ return array (
     'latitude' => 47.40477,
     'longitude' => 8.39168,
   ),
-  334 => 
+  330 => 
   array (
     'id' => 17691,
     'name' => 'Dietikon / Guggenbühl',
@@ -3016,7 +2980,7 @@ return array (
     'latitude' => 47.40009,
     'longitude' => 8.40818,
   ),
-  335 => 
+  331 => 
   array (
     'id' => 17692,
     'name' => 'Dietikon / Hofacker',
@@ -3025,7 +2989,7 @@ return array (
     'latitude' => 47.39718,
     'longitude' => 8.41609,
   ),
-  336 => 
+  332 => 
   array (
     'id' => 17693,
     'name' => 'Dietikon / Kreuzacker',
@@ -3034,7 +2998,7 @@ return array (
     'latitude' => 47.39919,
     'longitude' => 8.40146,
   ),
-  337 => 
+  333 => 
   array (
     'id' => 17694,
     'name' => 'Dietikon / Oberdorf',
@@ -3043,7 +3007,7 @@ return array (
     'latitude' => 47.40065,
     'longitude' => 8.39416,
   ),
-  338 => 
+  334 => 
   array (
     'id' => 17695,
     'name' => 'Dietikon / Schönenwerd',
@@ -3052,7 +3016,7 @@ return array (
     'latitude' => 47.39706,
     'longitude' => 8.42576,
   ),
-  339 => 
+  335 => 
   array (
     'id' => 17696,
     'name' => 'Dietikon / Vorstadt',
@@ -3061,7 +3025,7 @@ return array (
     'latitude' => 47.40819,
     'longitude' => 8.39719,
   ),
-  340 => 
+  336 => 
   array (
     'id' => 17698,
     'name' => 'Dietlikon / Eichwiesen',
@@ -3070,7 +3034,7 @@ return array (
     'latitude' => 47.4191,
     'longitude' => 8.62078,
   ),
-  341 => 
+  337 => 
   array (
     'id' => 17699,
     'name' => 'Disentis',
@@ -3079,7 +3043,7 @@ return array (
     'latitude' => 46.70341,
     'longitude' => 8.8509,
   ),
-  342 => 
+  338 => 
   array (
     'id' => 17700,
     'name' => 'Domat',
@@ -3088,7 +3052,7 @@ return array (
     'latitude' => 46.83483,
     'longitude' => 9.45075,
   ),
-  343 => 
+  339 => 
   array (
     'id' => 17701,
     'name' => 'Dombresson',
@@ -3097,7 +3061,7 @@ return array (
     'latitude' => 47.07192,
     'longitude' => 6.9592,
   ),
-  344 => 
+  340 => 
   array (
     'id' => 17702,
     'name' => 'Domdidier',
@@ -3106,7 +3070,7 @@ return array (
     'latitude' => 46.86716,
     'longitude' => 7.01337,
   ),
-  345 => 
+  341 => 
   array (
     'id' => 17703,
     'name' => 'Dorf',
@@ -3115,7 +3079,7 @@ return array (
     'latitude' => 47.239,
     'longitude' => 8.73567,
   ),
-  346 => 
+  342 => 
   array (
     'id' => 17704,
     'name' => 'Dornach',
@@ -3124,7 +3088,7 @@ return array (
     'latitude' => 47.48038,
     'longitude' => 7.61644,
   ),
-  347 => 
+  343 => 
   array (
     'id' => 17705,
     'name' => 'Dottikon',
@@ -3133,7 +3097,7 @@ return array (
     'latitude' => 47.38437,
     'longitude' => 8.23981,
   ),
-  348 => 
+  344 => 
   array (
     'id' => 17707,
     'name' => 'Dänikon',
@@ -3142,7 +3106,7 @@ return array (
     'latitude' => 47.44674,
     'longitude' => 8.40648,
   ),
-  349 => 
+  345 => 
   array (
     'id' => 17708,
     'name' => 'Därligen',
@@ -3151,7 +3115,7 @@ return array (
     'latitude' => 46.66175,
     'longitude' => 7.80808,
   ),
-  350 => 
+  346 => 
   array (
     'id' => 17709,
     'name' => 'Dübendorf',
@@ -3160,7 +3124,7 @@ return array (
     'latitude' => 47.39724,
     'longitude' => 8.61872,
   ),
-  351 => 
+  347 => 
   array (
     'id' => 17710,
     'name' => 'Dübendorf / Kunklerstrasse',
@@ -3169,7 +3133,7 @@ return array (
     'latitude' => 47.40109,
     'longitude' => 8.62724,
   ),
-  352 => 
+  348 => 
   array (
     'id' => 17711,
     'name' => 'Dübendorf / Sonnenberg',
@@ -3178,7 +3142,7 @@ return array (
     'latitude' => 47.39469,
     'longitude' => 8.63162,
   ),
-  353 => 
+  349 => 
   array (
     'id' => 17712,
     'name' => 'Dübendorf / Vogelquartier',
@@ -3187,7 +3151,7 @@ return array (
     'latitude' => 47.39502,
     'longitude' => 8.61184,
   ),
-  354 => 
+  350 => 
   array (
     'id' => 17713,
     'name' => 'Dübendorf / Wasserfurren',
@@ -3196,7 +3160,7 @@ return array (
     'latitude' => 47.39352,
     'longitude' => 8.6085,
   ),
-  355 => 
+  351 => 
   array (
     'id' => 17714,
     'name' => 'Düdingen',
@@ -3205,7 +3169,7 @@ return array (
     'latitude' => 46.84916,
     'longitude' => 7.1915,
   ),
-  356 => 
+  352 => 
   array (
     'id' => 17715,
     'name' => 'Dürnten',
@@ -3214,7 +3178,7 @@ return array (
     'latitude' => 47.27856,
     'longitude' => 8.84156,
   ),
-  357 => 
+  353 => 
   array (
     'id' => 17716,
     'name' => 'Dürrenroth',
@@ -3223,7 +3187,7 @@ return array (
     'latitude' => 47.08953,
     'longitude' => 7.7917,
   ),
-  358 => 
+  354 => 
   array (
     'id' => 17717,
     'name' => 'Dürrenäsch',
@@ -3232,7 +3196,7 @@ return array (
     'latitude' => 47.32094,
     'longitude' => 8.15874,
   ),
-  359 => 
+  355 => 
   array (
     'id' => 17718,
     'name' => 'Ebikon',
@@ -3241,7 +3205,7 @@ return array (
     'latitude' => 47.07937,
     'longitude' => 8.34041,
   ),
-  360 => 
+  356 => 
   array (
     'id' => 17719,
     'name' => 'Ebmatingen',
@@ -3250,7 +3214,7 @@ return array (
     'latitude' => 47.34987,
     'longitude' => 8.64013,
   ),
-  361 => 
+  357 => 
   array (
     'id' => 17720,
     'name' => 'Ebnat-Kappel',
@@ -3259,7 +3223,7 @@ return array (
     'latitude' => 47.26195,
     'longitude' => 9.12473,
   ),
-  362 => 
+  358 => 
   array (
     'id' => 17721,
     'name' => 'Echallens',
@@ -3268,7 +3232,7 @@ return array (
     'latitude' => 46.6413,
     'longitude' => 6.63317,
   ),
-  363 => 
+  359 => 
   array (
     'id' => 17722,
     'name' => 'Ecublens',
@@ -3277,16 +3241,7 @@ return array (
     'latitude' => 46.52899,
     'longitude' => 6.56261,
   ),
-  364 => 
-  array (
-    'id' => 17723,
-    'name' => 'Ecublens',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 46.60735,
-    'longitude' => 6.80895,
-  ),
-  365 => 
+  360 => 
   array (
     'id' => 17724,
     'name' => 'Effretikon',
@@ -3295,7 +3250,7 @@ return array (
     'latitude' => 47.42575,
     'longitude' => 8.69094,
   ),
-  366 => 
+  361 => 
   array (
     'id' => 17725,
     'name' => 'Effretikon / Rappenhalde-Bannhalde',
@@ -3304,7 +3259,7 @@ return array (
     'latitude' => 47.42388,
     'longitude' => 8.69653,
   ),
-  367 => 
+  362 => 
   array (
     'id' => 17726,
     'name' => 'Effretikon / Rikon',
@@ -3313,7 +3268,7 @@ return array (
     'latitude' => 47.43099,
     'longitude' => 8.68624,
   ),
-  368 => 
+  363 => 
   array (
     'id' => 17727,
     'name' => 'Effretikon / Watt',
@@ -3322,7 +3277,7 @@ return array (
     'latitude' => 47.42797,
     'longitude' => 8.69822,
   ),
-  369 => 
+  364 => 
   array (
     'id' => 17728,
     'name' => 'Egerkingen',
@@ -3331,7 +3286,7 @@ return array (
     'latitude' => 47.31957,
     'longitude' => 7.78424,
   ),
-  370 => 
+  365 => 
   array (
     'id' => 17729,
     'name' => 'Egg',
@@ -3340,7 +3295,7 @@ return array (
     'latitude' => 47.29976,
     'longitude' => 8.69032,
   ),
-  371 => 
+  366 => 
   array (
     'id' => 17730,
     'name' => 'Eggersriet',
@@ -3349,7 +3304,7 @@ return array (
     'latitude' => 47.44202,
     'longitude' => 9.46901,
   ),
-  372 => 
+  367 => 
   array (
     'id' => 17731,
     'name' => 'Eggiwil',
@@ -3358,7 +3313,7 @@ return array (
     'latitude' => 46.87575,
     'longitude' => 7.79567,
   ),
-  373 => 
+  368 => 
   array (
     'id' => 17732,
     'name' => 'Egliswil',
@@ -3367,7 +3322,7 @@ return array (
     'latitude' => 47.34922,
     'longitude' => 8.18553,
   ),
-  374 => 
+  369 => 
   array (
     'id' => 17733,
     'name' => 'Egnach',
@@ -3376,7 +3331,7 @@ return array (
     'latitude' => 47.54268,
     'longitude' => 9.38048,
   ),
-  375 => 
+  370 => 
   array (
     'id' => 17734,
     'name' => 'Ehrendingen',
@@ -3385,7 +3340,7 @@ return array (
     'latitude' => 47.5025,
     'longitude' => 8.34729,
   ),
-  376 => 
+  371 => 
   array (
     'id' => 17735,
     'name' => 'Eich',
@@ -3394,7 +3349,7 @@ return array (
     'latitude' => 47.15116,
     'longitude' => 8.16695,
   ),
-  377 => 
+  372 => 
   array (
     'id' => 17736,
     'name' => 'Eichberg',
@@ -3403,7 +3358,7 @@ return array (
     'latitude' => 47.34374,
     'longitude' => 9.5314,
   ),
-  378 => 
+  373 => 
   array (
     'id' => 17737,
     'name' => 'Eiken',
@@ -3412,7 +3367,7 @@ return array (
     'latitude' => 47.53361,
     'longitude' => 7.98801,
   ),
-  379 => 
+  374 => 
   array (
     'id' => 17738,
     'name' => 'Einsiedeln',
@@ -3421,7 +3376,7 @@ return array (
     'latitude' => 47.12849,
     'longitude' => 8.74735,
   ),
-  380 => 
+  375 => 
   array (
     'id' => 17739,
     'name' => 'Elgg',
@@ -3430,7 +3385,7 @@ return array (
     'latitude' => 47.49715,
     'longitude' => 8.86523,
   ),
-  381 => 
+  376 => 
   array (
     'id' => 17740,
     'name' => 'Elgg / Städtchen und Umgebung',
@@ -3439,7 +3394,7 @@ return array (
     'latitude' => 47.49265,
     'longitude' => 8.8668,
   ),
-  382 => 
+  377 => 
   array (
     'id' => 17741,
     'name' => 'Elsau-Räterschen',
@@ -3448,7 +3403,7 @@ return array (
     'latitude' => 47.50238,
     'longitude' => 8.79874,
   ),
-  383 => 
+  378 => 
   array (
     'id' => 17742,
     'name' => 'Elsau-Räterschen / Räterschen',
@@ -3457,7 +3412,7 @@ return array (
     'latitude' => 47.49927,
     'longitude' => 8.796,
   ),
-  384 => 
+  379 => 
   array (
     'id' => 17743,
     'name' => 'Embrach',
@@ -3466,7 +3421,7 @@ return array (
     'latitude' => 47.50561,
     'longitude' => 8.59406,
   ),
-  385 => 
+  380 => 
   array (
     'id' => 17745,
     'name' => 'Embrach / Kellersacker',
@@ -3475,7 +3430,7 @@ return array (
     'latitude' => 47.51455,
     'longitude' => 8.59146,
   ),
-  386 => 
+  381 => 
   array (
     'id' => 17746,
     'name' => 'Emmen',
@@ -3484,7 +3439,7 @@ return array (
     'latitude' => 47.07819,
     'longitude' => 8.27331,
   ),
-  387 => 
+  382 => 
   array (
     'id' => 17747,
     'name' => 'Emmental District',
@@ -3493,7 +3448,7 @@ return array (
     'latitude' => 47.04425,
     'longitude' => 7.66176,
   ),
-  388 => 
+  383 => 
   array (
     'id' => 17748,
     'name' => 'Emmetten',
@@ -3502,7 +3457,7 @@ return array (
     'latitude' => 46.95658,
     'longitude' => 8.51467,
   ),
-  389 => 
+  384 => 
   array (
     'id' => 17749,
     'name' => 'Endingen',
@@ -3511,7 +3466,7 @@ return array (
     'latitude' => 47.53742,
     'longitude' => 8.29036,
   ),
-  390 => 
+  385 => 
   array (
     'id' => 17750,
     'name' => 'Engelberg',
@@ -3520,7 +3475,7 @@ return array (
     'latitude' => 46.82107,
     'longitude' => 8.40133,
   ),
-  391 => 
+  386 => 
   array (
     'id' => 17751,
     'name' => 'Ennenda',
@@ -3529,7 +3484,7 @@ return array (
     'latitude' => 47.03363,
     'longitude' => 9.07888,
   ),
-  392 => 
+  387 => 
   array (
     'id' => 17752,
     'name' => 'Ennetbürgen',
@@ -3538,7 +3493,7 @@ return array (
     'latitude' => 46.98423,
     'longitude' => 8.41003,
   ),
-  393 => 
+  388 => 
   array (
     'id' => 17753,
     'name' => 'Entlebuch',
@@ -3547,7 +3502,7 @@ return array (
     'latitude' => 46.99559,
     'longitude' => 8.06354,
   ),
-  394 => 
+  389 => 
   array (
     'id' => 17754,
     'name' => 'Entlebuch District',
@@ -3556,7 +3511,7 @@ return array (
     'latitude' => 46.9259,
     'longitude' => 8.01427,
   ),
-  395 => 
+  390 => 
   array (
     'id' => 17755,
     'name' => 'Entremont District',
@@ -3565,7 +3520,7 @@ return array (
     'latitude' => 46.02099,
     'longitude' => 7.2126,
   ),
-  396 => 
+  391 => 
   array (
     'id' => 17756,
     'name' => 'Epalinges',
@@ -3574,7 +3529,7 @@ return array (
     'latitude' => 46.54896,
     'longitude' => 6.66831,
   ),
-  397 => 
+  392 => 
   array (
     'id' => 17757,
     'name' => 'Ependes',
@@ -3583,7 +3538,7 @@ return array (
     'latitude' => 46.75368,
     'longitude' => 7.14609,
   ),
-  398 => 
+  393 => 
   array (
     'id' => 17758,
     'name' => 'Eriswil',
@@ -3592,7 +3547,7 @@ return array (
     'latitude' => 47.07816,
     'longitude' => 7.85149,
   ),
-  399 => 
+  394 => 
   array (
     'id' => 17759,
     'name' => 'Erlach',
@@ -3601,7 +3556,7 @@ return array (
     'latitude' => 47.0422,
     'longitude' => 7.09728,
   ),
-  400 => 
+  395 => 
   array (
     'id' => 17760,
     'name' => 'Erlen',
@@ -3610,7 +3565,7 @@ return array (
     'latitude' => 47.54814,
     'longitude' => 9.23415,
   ),
-  401 => 
+  396 => 
   array (
     'id' => 17761,
     'name' => 'Erlenbach',
@@ -3619,7 +3574,7 @@ return array (
     'latitude' => 47.30298,
     'longitude' => 8.59743,
   ),
-  402 => 
+  397 => 
   array (
     'id' => 17762,
     'name' => 'Erlenbach / links des Dorfbachs oberhalb Bahnlinie',
@@ -3628,7 +3583,7 @@ return array (
     'latitude' => 47.2995,
     'longitude' => 8.60188,
   ),
-  403 => 
+  398 => 
   array (
     'id' => 17763,
     'name' => 'Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie',
@@ -3637,7 +3592,7 @@ return array (
     'latitude' => 47.30658,
     'longitude' => 8.60271,
   ),
-  404 => 
+  399 => 
   array (
     'id' => 17764,
     'name' => 'Erlenbach im Simmental',
@@ -3646,7 +3601,7 @@ return array (
     'latitude' => 46.66021,
     'longitude' => 7.55445,
   ),
-  405 => 
+  400 => 
   array (
     'id' => 17765,
     'name' => 'Erlinsbach',
@@ -3655,7 +3610,7 @@ return array (
     'latitude' => 47.39753,
     'longitude' => 8.00797,
   ),
-  406 => 
+  401 => 
   array (
     'id' => 17766,
     'name' => 'Ermatingen',
@@ -3664,7 +3619,7 @@ return array (
     'latitude' => 47.67057,
     'longitude' => 9.08573,
   ),
-  407 => 
+  402 => 
   array (
     'id' => 17767,
     'name' => 'Ersigen',
@@ -3673,7 +3628,7 @@ return array (
     'latitude' => 47.09368,
     'longitude' => 7.59507,
   ),
-  408 => 
+  403 => 
   array (
     'id' => 17768,
     'name' => 'Erstfeld',
@@ -3682,7 +3637,7 @@ return array (
     'latitude' => 46.81885,
     'longitude' => 8.65052,
   ),
-  409 => 
+  404 => 
   array (
     'id' => 17769,
     'name' => 'Eschenbach',
@@ -3691,7 +3646,7 @@ return array (
     'latitude' => 47.23981,
     'longitude' => 8.92156,
   ),
-  410 => 
+  405 => 
   array (
     'id' => 17770,
     'name' => 'Eschenz',
@@ -3700,7 +3655,7 @@ return array (
     'latitude' => 47.64793,
     'longitude' => 8.87472,
   ),
-  411 => 
+  406 => 
   array (
     'id' => 17771,
     'name' => 'Eschlikon',
@@ -3709,7 +3664,7 @@ return array (
     'latitude' => 47.46361,
     'longitude' => 8.96381,
   ),
-  412 => 
+  407 => 
   array (
     'id' => 17772,
     'name' => 'Escholzmatt',
@@ -3718,7 +3673,7 @@ return array (
     'latitude' => 46.9135,
     'longitude' => 7.93426,
   ),
-  413 => 
+  408 => 
   array (
     'id' => 17773,
     'name' => 'Esslingen',
@@ -3727,7 +3682,7 @@ return array (
     'latitude' => 47.28325,
     'longitude' => 8.71038,
   ),
-  414 => 
+  409 => 
   array (
     'id' => 17774,
     'name' => 'Estavayer-le-Lac',
@@ -3736,7 +3691,7 @@ return array (
     'latitude' => 46.84876,
     'longitude' => 6.8465,
   ),
-  415 => 
+  410 => 
   array (
     'id' => 17775,
     'name' => 'Ettingen',
@@ -3745,7 +3700,7 @@ return array (
     'latitude' => 47.48225,
     'longitude' => 7.54654,
   ),
-  416 => 
+  411 => 
   array (
     'id' => 17776,
     'name' => 'Ettiswil',
@@ -3754,7 +3709,7 @@ return array (
     'latitude' => 47.15031,
     'longitude' => 8.01759,
   ),
-  417 => 
+  412 => 
   array (
     'id' => 17777,
     'name' => 'Evilard',
@@ -3763,7 +3718,7 @@ return array (
     'latitude' => 47.15046,
     'longitude' => 7.23895,
   ),
-  418 => 
+  413 => 
   array (
     'id' => 17778,
     'name' => 'Evionnaz',
@@ -3772,7 +3727,7 @@ return array (
     'latitude' => 46.18096,
     'longitude' => 7.02232,
   ),
-  419 => 
+  414 => 
   array (
     'id' => 17779,
     'name' => 'Evolène',
@@ -3781,7 +3736,7 @@ return array (
     'latitude' => 46.11422,
     'longitude' => 7.49407,
   ),
-  420 => 
+  415 => 
   array (
     'id' => 17780,
     'name' => 'Faido',
@@ -3790,7 +3745,7 @@ return array (
     'latitude' => 46.477,
     'longitude' => 8.80125,
   ),
-  421 => 
+  416 => 
   array (
     'id' => 17781,
     'name' => 'Fehraltorf',
@@ -3799,7 +3754,7 @@ return array (
     'latitude' => 47.38775,
     'longitude' => 8.75149,
   ),
-  422 => 
+  417 => 
   array (
     'id' => 17782,
     'name' => 'Feldmeilen',
@@ -3808,7 +3763,7 @@ return array (
     'latitude' => 47.27873,
     'longitude' => 8.62165,
   ),
-  423 => 
+  418 => 
   array (
     'id' => 17783,
     'name' => 'Felsberg',
@@ -3817,7 +3772,7 @@ return array (
     'latitude' => 46.84566,
     'longitude' => 9.47588,
   ),
-  424 => 
+  419 => 
   array (
     'id' => 17784,
     'name' => 'Ferenbalm',
@@ -3826,7 +3781,7 @@ return array (
     'latitude' => 46.9488,
     'longitude' => 7.21124,
   ),
-  425 => 
+  420 => 
   array (
     'id' => 17785,
     'name' => 'Ferreyres',
@@ -3835,7 +3790,7 @@ return array (
     'latitude' => 46.65804,
     'longitude' => 6.4852,
   ),
-  426 => 
+  421 => 
   array (
     'id' => 17786,
     'name' => 'Feuerthalen',
@@ -3844,7 +3799,7 @@ return array (
     'latitude' => 47.69054,
     'longitude' => 8.64357,
   ),
-  427 => 
+  422 => 
   array (
     'id' => 17787,
     'name' => 'Feusisberg',
@@ -3853,7 +3808,7 @@ return array (
     'latitude' => 47.18707,
     'longitude' => 8.74724,
   ),
-  428 => 
+  423 => 
   array (
     'id' => 17788,
     'name' => 'Fiesch',
@@ -3862,7 +3817,7 @@ return array (
     'latitude' => 46.39981,
     'longitude' => 8.13533,
   ),
-  429 => 
+  424 => 
   array (
     'id' => 17789,
     'name' => 'Fischingen',
@@ -3871,7 +3826,7 @@ return array (
     'latitude' => 47.41422,
     'longitude' => 8.96862,
   ),
-  430 => 
+  425 => 
   array (
     'id' => 17790,
     'name' => 'Flamatt',
@@ -3880,7 +3835,7 @@ return array (
     'latitude' => 46.88994,
     'longitude' => 7.32204,
   ),
-  431 => 
+  426 => 
   array (
     'id' => 17791,
     'name' => 'Flawil',
@@ -3889,7 +3844,7 @@ return array (
     'latitude' => 47.41301,
     'longitude' => 9.18324,
   ),
-  432 => 
+  427 => 
   array (
     'id' => 17792,
     'name' => 'Fleurier',
@@ -3898,7 +3853,7 @@ return array (
     'latitude' => 46.90224,
     'longitude' => 6.58253,
   ),
-  433 => 
+  428 => 
   array (
     'id' => 17793,
     'name' => 'Flims',
@@ -3907,7 +3862,7 @@ return array (
     'latitude' => 46.83705,
     'longitude' => 9.28458,
   ),
-  434 => 
+  429 => 
   array (
     'id' => 17794,
     'name' => 'Flums',
@@ -3916,7 +3871,7 @@ return array (
     'latitude' => 47.09058,
     'longitude' => 9.34301,
   ),
-  435 => 
+  430 => 
   array (
     'id' => 17795,
     'name' => 'Flurlingen',
@@ -3925,7 +3880,7 @@ return array (
     'latitude' => 47.6839,
     'longitude' => 8.62995,
   ),
-  436 => 
+  431 => 
   array (
     'id' => 17796,
     'name' => 'Flüelen',
@@ -3934,7 +3889,7 @@ return array (
     'latitude' => 46.90478,
     'longitude' => 8.62396,
   ),
-  437 => 
+  432 => 
   array (
     'id' => 17797,
     'name' => 'Flühli',
@@ -3943,7 +3898,7 @@ return array (
     'latitude' => 46.88391,
     'longitude' => 8.01558,
   ),
-  438 => 
+  433 => 
   array (
     'id' => 17798,
     'name' => 'Fontainemelon',
@@ -3952,7 +3907,7 @@ return array (
     'latitude' => 47.05495,
     'longitude' => 6.8868,
   ),
-  439 => 
+  434 => 
   array (
     'id' => 17799,
     'name' => 'Fontenais',
@@ -3961,7 +3916,7 @@ return array (
     'latitude' => 47.40292,
     'longitude' => 7.08108,
   ),
-  440 => 
+  435 => 
   array (
     'id' => 17800,
     'name' => 'Founex',
@@ -3970,7 +3925,7 @@ return array (
     'latitude' => 46.33277,
     'longitude' => 6.19243,
   ),
-  441 => 
+  436 => 
   array (
     'id' => 17801,
     'name' => 'Franches-Montagnes District',
@@ -3979,7 +3934,7 @@ return array (
     'latitude' => 47.24935,
     'longitude' => 7.04562,
   ),
-  442 => 
+  437 => 
   array (
     'id' => 17802,
     'name' => 'Fraubrunnen',
@@ -3988,7 +3943,7 @@ return array (
     'latitude' => 47.0862,
     'longitude' => 7.52727,
   ),
-  443 => 
+  438 => 
   array (
     'id' => 17803,
     'name' => 'Frauenfeld',
@@ -3997,7 +3952,7 @@ return array (
     'latitude' => 47.55776,
     'longitude' => 8.89893,
   ),
-  444 => 
+  439 => 
   array (
     'id' => 17804,
     'name' => 'Frauenfeld District',
@@ -4006,7 +3961,7 @@ return array (
     'latitude' => 47.61115,
     'longitude' => 8.89444,
   ),
-  445 => 
+  440 => 
   array (
     'id' => 17805,
     'name' => 'Frauenkappelen',
@@ -4015,7 +3970,7 @@ return array (
     'latitude' => 46.95425,
     'longitude' => 7.33835,
   ),
-  446 => 
+  441 => 
   array (
     'id' => 17806,
     'name' => 'Freienbach',
@@ -4024,7 +3979,7 @@ return array (
     'latitude' => 47.20534,
     'longitude' => 8.75842,
   ),
-  447 => 
+  442 => 
   array (
     'id' => 17807,
     'name' => 'Freienstein',
@@ -4033,7 +3988,7 @@ return array (
     'latitude' => 47.53307,
     'longitude' => 8.58455,
   ),
-  448 => 
+  443 => 
   array (
     'id' => 17808,
     'name' => 'Frenkendorf',
@@ -4042,7 +3997,7 @@ return array (
     'latitude' => 47.50686,
     'longitude' => 7.71648,
   ),
-  449 => 
+  444 => 
   array (
     'id' => 17809,
     'name' => 'Fribourg',
@@ -4051,7 +4006,7 @@ return array (
     'latitude' => 46.80237,
     'longitude' => 7.15128,
   ),
-  450 => 
+  445 => 
   array (
     'id' => 17810,
     'name' => 'Frick',
@@ -4060,7 +4015,7 @@ return array (
     'latitude' => 47.51169,
     'longitude' => 8.02471,
   ),
-  451 => 
+  446 => 
   array (
     'id' => 17811,
     'name' => 'Froideville',
@@ -4069,7 +4024,7 @@ return array (
     'latitude' => 46.60123,
     'longitude' => 6.68085,
   ),
-  452 => 
+  447 => 
   array (
     'id' => 17812,
     'name' => 'Frutigen',
@@ -4078,7 +4033,7 @@ return array (
     'latitude' => 46.58723,
     'longitude' => 7.64945,
   ),
-  453 => 
+  448 => 
   array (
     'id' => 17813,
     'name' => 'Frutigen-Niedersimmental District',
@@ -4087,7 +4042,7 @@ return array (
     'latitude' => 46.60236,
     'longitude' => 7.62292,
   ),
-  454 => 
+  449 => 
   array (
     'id' => 17814,
     'name' => 'Fulenbach',
@@ -4096,7 +4051,7 @@ return array (
     'latitude' => 47.27103,
     'longitude' => 7.83136,
   ),
-  455 => 
+  450 => 
   array (
     'id' => 17815,
     'name' => 'Fully',
@@ -4105,7 +4060,7 @@ return array (
     'latitude' => 46.13851,
     'longitude' => 7.11468,
   ),
-  456 => 
+  451 => 
   array (
     'id' => 17816,
     'name' => 'Fällanden',
@@ -4114,7 +4069,7 @@ return array (
     'latitude' => 47.37169,
     'longitude' => 8.63869,
   ),
-  457 => 
+  452 => 
   array (
     'id' => 17817,
     'name' => 'Füllinsdorf',
@@ -4123,7 +4078,7 @@ return array (
     'latitude' => 47.50688,
     'longitude' => 7.73129,
   ),
-  458 => 
+  453 => 
   array (
     'id' => 17818,
     'name' => 'Gachnang',
@@ -4132,7 +4087,7 @@ return array (
     'latitude' => 47.53935,
     'longitude' => 8.85311,
   ),
-  459 => 
+  454 => 
   array (
     'id' => 17819,
     'name' => 'Gais',
@@ -4141,7 +4096,7 @@ return array (
     'latitude' => 47.3615,
     'longitude' => 9.45356,
   ),
-  460 => 
+  455 => 
   array (
     'id' => 17820,
     'name' => 'Gampel',
@@ -4150,7 +4105,7 @@ return array (
     'latitude' => 46.31599,
     'longitude' => 7.7421,
   ),
-  461 => 
+  456 => 
   array (
     'id' => 17821,
     'name' => 'Gams',
@@ -4159,7 +4114,7 @@ return array (
     'latitude' => 47.20429,
     'longitude' => 9.44172,
   ),
-  462 => 
+  457 => 
   array (
     'id' => 17822,
     'name' => 'Ganterschwil',
@@ -4168,7 +4123,7 @@ return array (
     'latitude' => 47.38103,
     'longitude' => 9.09239,
   ),
-  463 => 
+  458 => 
   array (
     'id' => 17823,
     'name' => 'Gattikon',
@@ -4177,7 +4132,7 @@ return array (
     'latitude' => 47.28439,
     'longitude' => 8.5483,
   ),
-  464 => 
+  459 => 
   array (
     'id' => 17824,
     'name' => 'Gebenstorf',
@@ -4186,7 +4141,7 @@ return array (
     'latitude' => 47.48136,
     'longitude' => 8.23949,
   ),
-  465 => 
+  460 => 
   array (
     'id' => 17825,
     'name' => 'Gelterkinden',
@@ -4195,7 +4150,7 @@ return array (
     'latitude' => 47.46497,
     'longitude' => 7.85174,
   ),
-  466 => 
+  461 => 
   array (
     'id' => 17826,
     'name' => 'Genolier',
@@ -4204,7 +4159,7 @@ return array (
     'latitude' => 46.43537,
     'longitude' => 6.21809,
   ),
-  467 => 
+  462 => 
   array (
     'id' => 17827,
     'name' => 'Geneva',
@@ -4213,7 +4168,7 @@ return array (
     'latitude' => 46.20222,
     'longitude' => 6.14569,
   ),
-  468 => 
+  463 => 
   array (
     'id' => 17828,
     'name' => 'Gerlafingen',
@@ -4222,7 +4177,7 @@ return array (
     'latitude' => 47.17087,
     'longitude' => 7.57249,
   ),
-  469 => 
+  464 => 
   array (
     'id' => 17829,
     'name' => 'Geroldswil',
@@ -4231,7 +4186,7 @@ return array (
     'latitude' => 47.42213,
     'longitude' => 8.41085,
   ),
-  470 => 
+  465 => 
   array (
     'id' => 17830,
     'name' => 'Gersau',
@@ -4240,7 +4195,7 @@ return array (
     'latitude' => 46.99419,
     'longitude' => 8.525,
   ),
-  471 => 
+  466 => 
   array (
     'id' => 17831,
     'name' => 'Geuensee',
@@ -4249,7 +4204,7 @@ return array (
     'latitude' => 47.1997,
     'longitude' => 8.10689,
   ),
-  472 => 
+  467 => 
   array (
     'id' => 17832,
     'name' => 'Giffers',
@@ -4258,7 +4213,7 @@ return array (
     'latitude' => 46.7623,
     'longitude' => 7.20845,
   ),
-  473 => 
+  468 => 
   array (
     'id' => 17833,
     'name' => 'Gimel',
@@ -4267,7 +4222,7 @@ return array (
     'latitude' => 46.50945,
     'longitude' => 6.30736,
   ),
-  474 => 
+  469 => 
   array (
     'id' => 17834,
     'name' => 'Gipf-Oberfrick',
@@ -4276,7 +4231,7 @@ return array (
     'latitude' => 47.49875,
     'longitude' => 8.00497,
   ),
-  475 => 
+  470 => 
   array (
     'id' => 17835,
     'name' => 'Giswil',
@@ -4285,7 +4240,7 @@ return array (
     'latitude' => 46.83333,
     'longitude' => 8.18065,
   ),
-  476 => 
+  471 => 
   array (
     'id' => 17836,
     'name' => 'Giubiasco',
@@ -4294,7 +4249,7 @@ return array (
     'latitude' => 46.17246,
     'longitude' => 9.00793,
   ),
-  477 => 
+  472 => 
   array (
     'id' => 17837,
     'name' => 'Givisiez',
@@ -4303,7 +4258,7 @@ return array (
     'latitude' => 46.81201,
     'longitude' => 7.12639,
   ),
-  478 => 
+  473 => 
   array (
     'id' => 17838,
     'name' => 'Gland',
@@ -4312,7 +4267,7 @@ return array (
     'latitude' => 46.42082,
     'longitude' => 6.2701,
   ),
-  479 => 
+  474 => 
   array (
     'id' => 17839,
     'name' => 'Glarus',
@@ -4321,7 +4276,7 @@ return array (
     'latitude' => 47.04057,
     'longitude' => 9.06804,
   ),
-  480 => 
+  475 => 
   array (
     'id' => 17840,
     'name' => 'Glattbrugg',
@@ -4330,7 +4285,7 @@ return array (
     'latitude' => 47.4313,
     'longitude' => 8.56272,
   ),
-  481 => 
+  476 => 
   array (
     'id' => 17841,
     'name' => 'Glattbrugg / Rohr/Platten-Balsberg',
@@ -4339,7 +4294,7 @@ return array (
     'latitude' => 47.43721,
     'longitude' => 8.56642,
   ),
-  482 => 
+  477 => 
   array (
     'id' => 17842,
     'name' => 'Glattbrugg / Wydacker/Bettacker/Lättenwiesen',
@@ -4348,7 +4303,7 @@ return array (
     'latitude' => 47.42908,
     'longitude' => 8.56657,
   ),
-  483 => 
+  478 => 
   array (
     'id' => 17843,
     'name' => 'Glattfelden',
@@ -4357,7 +4312,7 @@ return array (
     'latitude' => 47.55871,
     'longitude' => 8.50167,
   ),
-  484 => 
+  479 => 
   array (
     'id' => 17844,
     'name' => 'Glovelier',
@@ -4366,7 +4321,7 @@ return array (
     'latitude' => 47.33534,
     'longitude' => 7.20556,
   ),
-  485 => 
+  480 => 
   array (
     'id' => 17845,
     'name' => 'Glâne District',
@@ -4375,7 +4330,7 @@ return array (
     'latitude' => 46.66667,
     'longitude' => 6.91667,
   ),
-  486 => 
+  481 => 
   array (
     'id' => 17846,
     'name' => 'Gockhausen',
@@ -4384,7 +4339,7 @@ return array (
     'latitude' => 47.38098,
     'longitude' => 8.59978,
   ),
-  487 => 
+  482 => 
   array (
     'id' => 17847,
     'name' => 'Goldach',
@@ -4393,7 +4348,7 @@ return array (
     'latitude' => 47.47401,
     'longitude' => 9.46711,
   ),
-  488 => 
+  483 => 
   array (
     'id' => 17848,
     'name' => 'Goldau',
@@ -4402,7 +4357,7 @@ return array (
     'latitude' => 47.04761,
     'longitude' => 8.54616,
   ),
-  489 => 
+  484 => 
   array (
     'id' => 17849,
     'name' => 'Goldingen',
@@ -4411,7 +4366,7 @@ return array (
     'latitude' => 47.26477,
     'longitude' => 8.96167,
   ),
-  490 => 
+  485 => 
   array (
     'id' => 17850,
     'name' => 'Gommiswald',
@@ -4420,7 +4375,7 @@ return array (
     'latitude' => 47.23128,
     'longitude' => 9.02355,
   ),
-  491 => 
+  486 => 
   array (
     'id' => 17851,
     'name' => 'Goms District',
@@ -4429,7 +4384,7 @@ return array (
     'latitude' => 46.46161,
     'longitude' => 8.2219,
   ),
-  492 => 
+  487 => 
   array (
     'id' => 17852,
     'name' => 'Gonten',
@@ -4438,7 +4393,7 @@ return array (
     'latitude' => 47.32725,
     'longitude' => 9.34705,
   ),
-  493 => 
+  488 => 
   array (
     'id' => 17853,
     'name' => 'Gontenschwil',
@@ -4447,7 +4402,7 @@ return array (
     'latitude' => 47.27166,
     'longitude' => 8.14396,
   ),
-  494 => 
+  489 => 
   array (
     'id' => 17854,
     'name' => 'Gordola',
@@ -4456,7 +4411,7 @@ return array (
     'latitude' => 46.18256,
     'longitude' => 8.86657,
   ),
-  495 => 
+  490 => 
   array (
     'id' => 17855,
     'name' => 'Gorgier',
@@ -4465,7 +4420,7 @@ return array (
     'latitude' => 46.90143,
     'longitude' => 6.77985,
   ),
-  496 => 
+  491 => 
   array (
     'id' => 17856,
     'name' => 'Gossau',
@@ -4474,16 +4429,7 @@ return array (
     'latitude' => 47.41551,
     'longitude' => 9.25482,
   ),
-  497 => 
-  array (
-    'id' => 17857,
-    'name' => 'Gossau',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.3051,
-    'longitude' => 8.75831,
-  ),
-  498 => 
+  492 => 
   array (
     'id' => 17858,
     'name' => 'Gottlieben',
@@ -4492,7 +4438,7 @@ return array (
     'latitude' => 47.6638,
     'longitude' => 9.13371,
   ),
-  499 => 
+  493 => 
   array (
     'id' => 17859,
     'name' => 'Grabs',
@@ -4501,7 +4447,7 @@ return array (
     'latitude' => 47.18248,
     'longitude' => 9.44395,
   ),
-  500 => 
+  494 => 
   array (
     'id' => 17860,
     'name' => 'Grancy',
@@ -4510,7 +4456,7 @@ return array (
     'latitude' => 46.59214,
     'longitude' => 6.46391,
   ),
-  501 => 
+  495 => 
   array (
     'id' => 17861,
     'name' => 'Grand-Savagnier',
@@ -4519,7 +4465,7 @@ return array (
     'latitude' => 47.05101,
     'longitude' => 6.95489,
   ),
-  502 => 
+  496 => 
   array (
     'id' => 17862,
     'name' => 'Grandson',
@@ -4528,7 +4474,7 @@ return array (
     'latitude' => 46.80946,
     'longitude' => 6.646,
   ),
-  503 => 
+  497 => 
   array (
     'id' => 17863,
     'name' => 'Gravesano',
@@ -4537,7 +4483,7 @@ return array (
     'latitude' => 46.04208,
     'longitude' => 8.91832,
   ),
-  504 => 
+  498 => 
   array (
     'id' => 17864,
     'name' => 'Greifensee',
@@ -4546,7 +4492,7 @@ return array (
     'latitude' => 47.36717,
     'longitude' => 8.68115,
   ),
-  505 => 
+  499 => 
   array (
     'id' => 17865,
     'name' => 'Greifensee / Müllerwis / Seilerwis',
@@ -4555,7 +4501,7 @@ return array (
     'latitude' => 47.37042,
     'longitude' => 8.68151,
   ),
-  506 => 
+  500 => 
   array (
     'id' => 17866,
     'name' => 'Greifensee / Pfisterhölzli',
@@ -4564,7 +4510,7 @@ return array (
     'latitude' => 47.3643,
     'longitude' => 8.68979,
   ),
-  507 => 
+  501 => 
   array (
     'id' => 17867,
     'name' => 'Grellingen',
@@ -4573,7 +4519,7 @@ return array (
     'latitude' => 47.44231,
     'longitude' => 7.58906,
   ),
-  508 => 
+  502 => 
   array (
     'id' => 17868,
     'name' => 'Grenchen',
@@ -4582,7 +4528,7 @@ return array (
     'latitude' => 47.1921,
     'longitude' => 7.39586,
   ),
-  509 => 
+  503 => 
   array (
     'id' => 17869,
     'name' => 'Grimisuat',
@@ -4591,7 +4537,7 @@ return array (
     'latitude' => 46.25938,
     'longitude' => 7.38408,
   ),
-  510 => 
+  504 => 
   array (
     'id' => 17870,
     'name' => 'Grindelwald',
@@ -4600,7 +4546,7 @@ return array (
     'latitude' => 46.62396,
     'longitude' => 8.03601,
   ),
-  511 => 
+  505 => 
   array (
     'id' => 17871,
     'name' => 'Grolley',
@@ -4609,7 +4555,7 @@ return array (
     'latitude' => 46.8336,
     'longitude' => 7.07116,
   ),
-  512 => 
+  506 => 
   array (
     'id' => 17872,
     'name' => 'Gros-de-Vaud District',
@@ -4618,7 +4564,7 @@ return array (
     'latitude' => 46.6518,
     'longitude' => 6.65728,
   ),
-  513 => 
+  507 => 
   array (
     'id' => 17873,
     'name' => 'Grossacker/Opfikon',
@@ -4627,7 +4573,7 @@ return array (
     'latitude' => 47.42696,
     'longitude' => 8.57886,
   ),
-  514 => 
+  508 => 
   array (
     'id' => 17874,
     'name' => 'Grossaffoltern',
@@ -4636,7 +4582,7 @@ return array (
     'latitude' => 47.06534,
     'longitude' => 7.35689,
   ),
-  515 => 
+  509 => 
   array (
     'id' => 17875,
     'name' => 'Grosswangen',
@@ -4645,7 +4591,7 @@ return array (
     'latitude' => 47.1331,
     'longitude' => 8.05041,
   ),
-  516 => 
+  510 => 
   array (
     'id' => 17876,
     'name' => 'Gruyère District',
@@ -4654,7 +4600,7 @@ return array (
     'latitude' => 46.60753,
     'longitude' => 7.10741,
   ),
-  517 => 
+  511 => 
   array (
     'id' => 17877,
     'name' => 'Gruyères',
@@ -4663,7 +4609,7 @@ return array (
     'latitude' => 46.58338,
     'longitude' => 7.08207,
   ),
-  518 => 
+  512 => 
   array (
     'id' => 17878,
     'name' => 'Gryon',
@@ -4672,7 +4618,7 @@ return array (
     'latitude' => 46.27377,
     'longitude' => 7.05975,
   ),
-  519 => 
+  513 => 
   array (
     'id' => 17879,
     'name' => 'Grächen',
@@ -4681,7 +4627,7 @@ return array (
     'latitude' => 46.19529,
     'longitude' => 7.83745,
   ),
-  520 => 
+  514 => 
   array (
     'id' => 17880,
     'name' => 'Gränichen',
@@ -4690,7 +4636,7 @@ return array (
     'latitude' => 47.3593,
     'longitude' => 8.10243,
   ),
-  521 => 
+  515 => 
   array (
     'id' => 17881,
     'name' => 'Grône',
@@ -4699,7 +4645,7 @@ return array (
     'latitude' => 46.25288,
     'longitude' => 7.45947,
   ),
-  522 => 
+  516 => 
   array (
     'id' => 17882,
     'name' => 'Grüsch',
@@ -4708,7 +4654,7 @@ return array (
     'latitude' => 46.97965,
     'longitude' => 9.64639,
   ),
-  523 => 
+  517 => 
   array (
     'id' => 17883,
     'name' => 'Grüt',
@@ -4717,7 +4663,7 @@ return array (
     'latitude' => 47.31151,
     'longitude' => 8.78339,
   ),
-  524 => 
+  518 => 
   array (
     'id' => 17884,
     'name' => 'Gstaad',
@@ -4726,7 +4672,7 @@ return array (
     'latitude' => 46.47215,
     'longitude' => 7.28685,
   ),
-  525 => 
+  519 => 
   array (
     'id' => 17885,
     'name' => 'Guggisberg',
@@ -4735,7 +4681,7 @@ return array (
     'latitude' => 46.76756,
     'longitude' => 7.32946,
   ),
-  526 => 
+  520 => 
   array (
     'id' => 17886,
     'name' => 'Gunzgen',
@@ -4744,7 +4690,7 @@ return array (
     'latitude' => 47.31375,
     'longitude' => 7.83102,
   ),
-  527 => 
+  521 => 
   array (
     'id' => 17887,
     'name' => 'Gunzwil',
@@ -4753,7 +4699,7 @@ return array (
     'latitude' => 47.21072,
     'longitude' => 8.17932,
   ),
-  528 => 
+  522 => 
   array (
     'id' => 17888,
     'name' => 'Gutenswil',
@@ -4762,7 +4708,7 @@ return array (
     'latitude' => 47.38387,
     'longitude' => 8.71763,
   ),
-  529 => 
+  523 => 
   array (
     'id' => 17889,
     'name' => 'Güttingen',
@@ -4771,7 +4717,7 @@ return array (
     'latitude' => 47.60349,
     'longitude' => 9.28742,
   ),
-  530 => 
+  524 => 
   array (
     'id' => 17891,
     'name' => 'Hadlikon',
@@ -4780,7 +4726,7 @@ return array (
     'latitude' => 47.2875,
     'longitude' => 8.85719,
   ),
-  531 => 
+  525 => 
   array (
     'id' => 17892,
     'name' => 'Hallau',
@@ -4789,7 +4735,7 @@ return array (
     'latitude' => 47.69648,
     'longitude' => 8.45827,
   ),
-  532 => 
+  526 => 
   array (
     'id' => 17893,
     'name' => 'Hasle',
@@ -4798,7 +4744,7 @@ return array (
     'latitude' => 46.97787,
     'longitude' => 8.05326,
   ),
-  533 => 
+  527 => 
   array (
     'id' => 17894,
     'name' => 'Haslen',
@@ -4807,7 +4753,7 @@ return array (
     'latitude' => 47.36931,
     'longitude' => 9.36752,
   ),
-  534 => 
+  528 => 
   array (
     'id' => 17895,
     'name' => 'Hausen',
@@ -4816,7 +4762,7 @@ return array (
     'latitude' => 47.46396,
     'longitude' => 8.20988,
   ),
-  535 => 
+  529 => 
   array (
     'id' => 17897,
     'name' => 'Hedingen',
@@ -4825,7 +4771,7 @@ return array (
     'latitude' => 47.29794,
     'longitude' => 8.44833,
   ),
-  536 => 
+  530 => 
   array (
     'id' => 17898,
     'name' => 'Hegnau',
@@ -4834,7 +4780,7 @@ return array (
     'latitude' => 47.39227,
     'longitude' => 8.66988,
   ),
-  537 => 
+  531 => 
   array (
     'id' => 17899,
     'name' => 'Hegnau / Dammboden-Grindel',
@@ -4843,7 +4789,7 @@ return array (
     'latitude' => 47.38713,
     'longitude' => 8.66657,
   ),
-  538 => 
+  532 => 
   array (
     'id' => 17900,
     'name' => 'Hegnau / Sunnebüel-Eich',
@@ -4852,7 +4798,7 @@ return array (
     'latitude' => 47.39246,
     'longitude' => 8.6791,
   ),
-  539 => 
+  533 => 
   array (
     'id' => 17901,
     'name' => 'Heiden',
@@ -4861,7 +4807,7 @@ return array (
     'latitude' => 47.44255,
     'longitude' => 9.53293,
   ),
-  540 => 
+  534 => 
   array (
     'id' => 17902,
     'name' => 'Heimberg',
@@ -4870,7 +4816,7 @@ return array (
     'latitude' => 46.79482,
     'longitude' => 7.60433,
   ),
-  541 => 
+  535 => 
   array (
     'id' => 17903,
     'name' => 'Heimiswil',
@@ -4879,7 +4825,7 @@ return array (
     'latitude' => 47.06755,
     'longitude' => 7.66665,
   ),
-  542 => 
+  536 => 
   array (
     'id' => 17904,
     'name' => 'Heitenried',
@@ -4888,7 +4834,7 @@ return array (
     'latitude' => 46.82762,
     'longitude' => 7.29944,
   ),
-  543 => 
+  537 => 
   array (
     'id' => 17905,
     'name' => 'Henggart',
@@ -4897,7 +4843,7 @@ return array (
     'latitude' => 47.56272,
     'longitude' => 8.68215,
   ),
-  544 => 
+  538 => 
   array (
     'id' => 17906,
     'name' => 'Hergiswil',
@@ -4906,7 +4852,7 @@ return array (
     'latitude' => 46.98429,
     'longitude' => 8.30944,
   ),
-  545 => 
+  539 => 
   array (
     'id' => 17907,
     'name' => 'Herisau',
@@ -4915,7 +4861,7 @@ return array (
     'latitude' => 47.38615,
     'longitude' => 9.27916,
   ),
-  546 => 
+  540 => 
   array (
     'id' => 17908,
     'name' => 'Hermiswil',
@@ -4924,7 +4870,7 @@ return array (
     'latitude' => 46.83125,
     'longitude' => 7.47775,
   ),
-  547 => 
+  541 => 
   array (
     'id' => 17909,
     'name' => 'Herrliberg',
@@ -4933,7 +4879,7 @@ return array (
     'latitude' => 47.29064,
     'longitude' => 8.61464,
   ),
-  548 => 
+  542 => 
   array (
     'id' => 17910,
     'name' => 'Herzogenbuchsee',
@@ -4942,7 +4888,7 @@ return array (
     'latitude' => 47.18795,
     'longitude' => 7.7062,
   ),
-  549 => 
+  543 => 
   array (
     'id' => 17911,
     'name' => 'Hettlingen',
@@ -4951,7 +4897,7 @@ return array (
     'latitude' => 47.5461,
     'longitude' => 8.70532,
   ),
-  550 => 
+  544 => 
   array (
     'id' => 17912,
     'name' => 'Hildisrieden',
@@ -4960,7 +4906,7 @@ return array (
     'latitude' => 47.15068,
     'longitude' => 8.22582,
   ),
-  551 => 
+  545 => 
   array (
     'id' => 17913,
     'name' => 'Hilterfingen',
@@ -4969,7 +4915,7 @@ return array (
     'latitude' => 46.73521,
     'longitude' => 7.66185,
   ),
-  552 => 
+  546 => 
   array (
     'id' => 17914,
     'name' => 'Himmelried',
@@ -4978,7 +4924,7 @@ return array (
     'latitude' => 47.42136,
     'longitude' => 7.59985,
   ),
-  553 => 
+  547 => 
   array (
     'id' => 17915,
     'name' => 'Hindelbank',
@@ -4987,7 +4933,7 @@ return array (
     'latitude' => 47.0427,
     'longitude' => 7.54143,
   ),
-  554 => 
+  548 => 
   array (
     'id' => 17916,
     'name' => 'Hinteregg',
@@ -4996,7 +4942,7 @@ return array (
     'latitude' => 47.30736,
     'longitude' => 8.68339,
   ),
-  555 => 
+  549 => 
   array (
     'id' => 17917,
     'name' => 'Hinterrhein',
@@ -5005,7 +4951,7 @@ return array (
     'latitude' => 46.53333,
     'longitude' => 9.2,
   ),
-  556 => 
+  550 => 
   array (
     'id' => 17918,
     'name' => 'Hinwil',
@@ -5014,7 +4960,7 @@ return array (
     'latitude' => 47.29426,
     'longitude' => 8.84393,
   ),
-  557 => 
+  551 => 
   array (
     'id' => 17920,
     'name' => 'Hitzkirch',
@@ -5023,7 +4969,7 @@ return array (
     'latitude' => 47.22403,
     'longitude' => 8.26425,
   ),
-  558 => 
+  552 => 
   array (
     'id' => 17921,
     'name' => 'Hochdorf',
@@ -5032,7 +4978,7 @@ return array (
     'latitude' => 47.16841,
     'longitude' => 8.29179,
   ),
-  559 => 
+  553 => 
   array (
     'id' => 17922,
     'name' => 'Hochdorf District',
@@ -5041,7 +4987,7 @@ return array (
     'latitude' => 47.17062,
     'longitude' => 8.28702,
   ),
-  560 => 
+  554 => 
   array (
     'id' => 17923,
     'name' => 'Hochfelden',
@@ -5050,7 +4996,7 @@ return array (
     'latitude' => 47.52262,
     'longitude' => 8.51564,
   ),
-  561 => 
+  555 => 
   array (
     'id' => 17924,
     'name' => 'Hochwald',
@@ -5059,7 +5005,7 @@ return array (
     'latitude' => 47.45389,
     'longitude' => 7.64459,
   ),
-  562 => 
+  556 => 
   array (
     'id' => 17925,
     'name' => 'Hofstetten',
@@ -5068,7 +5014,7 @@ return array (
     'latitude' => 47.47778,
     'longitude' => 8.50646,
   ),
-  563 => 
+  557 => 
   array (
     'id' => 17926,
     'name' => 'Hohenrain',
@@ -5077,7 +5023,7 @@ return array (
     'latitude' => 47.18083,
     'longitude' => 8.31802,
   ),
-  564 => 
+  558 => 
   array (
     'id' => 17927,
     'name' => 'Hombrechtikon',
@@ -5086,7 +5032,7 @@ return array (
     'latitude' => 47.25298,
     'longitude' => 8.77212,
   ),
-  565 => 
+  559 => 
   array (
     'id' => 17928,
     'name' => 'Homburg',
@@ -5095,7 +5041,7 @@ return array (
     'latitude' => 47.63469,
     'longitude' => 9.00756,
   ),
-  566 => 
+  560 => 
   array (
     'id' => 17929,
     'name' => 'Horgen',
@@ -5104,7 +5050,7 @@ return array (
     'latitude' => 47.25983,
     'longitude' => 8.59778,
   ),
-  567 => 
+  561 => 
   array (
     'id' => 17930,
     'name' => 'Horgen / Allmend',
@@ -5113,7 +5059,7 @@ return array (
     'latitude' => 47.24729,
     'longitude' => 8.6066,
   ),
-  568 => 
+  562 => 
   array (
     'id' => 17932,
     'name' => 'Horgen / Oberdorf',
@@ -5122,7 +5068,7 @@ return array (
     'latitude' => 47.25837,
     'longitude' => 8.59013,
   ),
-  569 => 
+  563 => 
   array (
     'id' => 17933,
     'name' => 'Horgen / Scheller-Stockerstrasse',
@@ -5131,7 +5077,7 @@ return array (
     'latitude' => 47.26584,
     'longitude' => 8.5876,
   ),
-  570 => 
+  564 => 
   array (
     'id' => 17934,
     'name' => 'Horn',
@@ -5140,7 +5086,7 @@ return array (
     'latitude' => 47.49425,
     'longitude' => 9.46246,
   ),
-  571 => 
+  565 => 
   array (
     'id' => 17935,
     'name' => 'Horw',
@@ -5149,7 +5095,7 @@ return array (
     'latitude' => 47.01692,
     'longitude' => 8.30956,
   ),
-  572 => 
+  566 => 
   array (
     'id' => 17936,
     'name' => 'Huttwil',
@@ -5158,7 +5104,7 @@ return array (
     'latitude' => 47.11502,
     'longitude' => 7.86209,
   ),
-  573 => 
+  567 => 
   array (
     'id' => 17937,
     'name' => 'Hägendorf',
@@ -5167,7 +5113,7 @@ return array (
     'latitude' => 47.33497,
     'longitude' => 7.84133,
   ),
-  574 => 
+  568 => 
   array (
     'id' => 17938,
     'name' => 'Häggenschwil',
@@ -5176,7 +5122,7 @@ return array (
     'latitude' => 47.49462,
     'longitude' => 9.34487,
   ),
-  575 => 
+  569 => 
   array (
     'id' => 17939,
     'name' => 'Hägglingen',
@@ -5185,7 +5131,7 @@ return array (
     'latitude' => 47.38851,
     'longitude' => 8.25285,
   ),
-  576 => 
+  570 => 
   array (
     'id' => 17940,
     'name' => 'Hérens District',
@@ -5194,7 +5140,7 @@ return array (
     'latitude' => 46.19407,
     'longitude' => 7.42391,
   ),
-  577 => 
+  571 => 
   array (
     'id' => 17941,
     'name' => 'Hérémence',
@@ -5203,7 +5149,7 @@ return array (
     'latitude' => 46.18032,
     'longitude' => 7.40477,
   ),
-  578 => 
+  572 => 
   array (
     'id' => 17942,
     'name' => 'Hölstein',
@@ -5212,7 +5158,7 @@ return array (
     'latitude' => 47.4229,
     'longitude' => 7.77041,
   ),
-  579 => 
+  573 => 
   array (
     'id' => 17943,
     'name' => 'Höri',
@@ -5221,7 +5167,7 @@ return array (
     'latitude' => 47.50799,
     'longitude' => 8.51203,
   ),
-  580 => 
+  574 => 
   array (
     'id' => 17944,
     'name' => 'Hünenberg',
@@ -5230,7 +5176,7 @@ return array (
     'latitude' => 47.17536,
     'longitude' => 8.42497,
   ),
-  581 => 
+  575 => 
   array (
     'id' => 17945,
     'name' => 'Hüttwilen',
@@ -5239,7 +5185,7 @@ return array (
     'latitude' => 47.60674,
     'longitude' => 8.87343,
   ),
-  582 => 
+  576 => 
   array (
     'id' => 17946,
     'name' => 'Ibach',
@@ -5248,7 +5194,7 @@ return array (
     'latitude' => 47.01105,
     'longitude' => 8.64538,
   ),
-  583 => 
+  577 => 
   array (
     'id' => 17947,
     'name' => 'Igis',
@@ -5257,7 +5203,7 @@ return array (
     'latitude' => 46.94531,
     'longitude' => 9.57218,
   ),
-  584 => 
+  578 => 
   array (
     'id' => 17948,
     'name' => 'Ilanz',
@@ -5266,7 +5212,7 @@ return array (
     'latitude' => 46.77413,
     'longitude' => 9.20461,
   ),
-  585 => 
+  579 => 
   array (
     'id' => 17949,
     'name' => 'Illnau',
@@ -5275,7 +5221,7 @@ return array (
     'latitude' => 47.4113,
     'longitude' => 8.72125,
   ),
-  586 => 
+  580 => 
   array (
     'id' => 17950,
     'name' => 'Illnau / Unter-Illnau',
@@ -5284,7 +5230,7 @@ return array (
     'latitude' => 47.40787,
     'longitude' => 8.72607,
   ),
-  587 => 
+  581 => 
   array (
     'id' => 17951,
     'name' => 'Ingenbohl',
@@ -5293,7 +5239,7 @@ return array (
     'latitude' => 46.9988,
     'longitude' => 8.61529,
   ),
-  588 => 
+  582 => 
   array (
     'id' => 17952,
     'name' => 'Ins',
@@ -5302,7 +5248,7 @@ return array (
     'latitude' => 47.00584,
     'longitude' => 7.10609,
   ),
-  589 => 
+  583 => 
   array (
     'id' => 17953,
     'name' => 'Interlaken',
@@ -5311,7 +5257,7 @@ return array (
     'latitude' => 46.68387,
     'longitude' => 7.86638,
   ),
-  590 => 
+  584 => 
   array (
     'id' => 17954,
     'name' => 'Interlaken-Oberhasli District',
@@ -5320,7 +5266,7 @@ return array (
     'latitude' => 46.68931,
     'longitude' => 7.98869,
   ),
-  591 => 
+  585 => 
   array (
     'id' => 17955,
     'name' => 'Inwil',
@@ -5329,7 +5275,7 @@ return array (
     'latitude' => 47.1253,
     'longitude' => 8.34885,
   ),
-  592 => 
+  586 => 
   array (
     'id' => 17956,
     'name' => 'Itingen',
@@ -5338,7 +5284,7 @@ return array (
     'latitude' => 47.46651,
     'longitude' => 7.78502,
   ),
-  593 => 
+  587 => 
   array (
     'id' => 17957,
     'name' => 'Jegenstorf',
@@ -5347,7 +5293,7 @@ return array (
     'latitude' => 47.04802,
     'longitude' => 7.50787,
   ),
-  594 => 
+  588 => 
   array (
     'id' => 17958,
     'name' => 'Jenaz',
@@ -5356,7 +5302,7 @@ return array (
     'latitude' => 46.92892,
     'longitude' => 9.71275,
   ),
-  595 => 
+  589 => 
   array (
     'id' => 17959,
     'name' => 'Jona',
@@ -5365,7 +5311,7 @@ return array (
     'latitude' => 47.22983,
     'longitude' => 8.83884,
   ),
-  596 => 
+  590 => 
   array (
     'id' => 17960,
     'name' => 'Jonen',
@@ -5374,7 +5320,7 @@ return array (
     'latitude' => 47.2975,
     'longitude' => 8.39282,
   ),
-  597 => 
+  591 => 
   array (
     'id' => 17961,
     'name' => 'Jongny',
@@ -5383,7 +5329,7 @@ return array (
     'latitude' => 46.47883,
     'longitude' => 6.84114,
   ),
-  598 => 
+  592 => 
   array (
     'id' => 17962,
     'name' => 'Jonschwil',
@@ -5392,7 +5338,7 @@ return array (
     'latitude' => 47.42402,
     'longitude' => 9.08689,
   ),
-  599 => 
+  593 => 
   array (
     'id' => 17963,
     'name' => 'Jura bernois',
@@ -5401,7 +5347,7 @@ return array (
     'latitude' => 47.21892,
     'longitude' => 7.21981,
   ),
-  600 => 
+  594 => 
   array (
     'id' => 17964,
     'name' => 'Jura-Nord vaudois District',
@@ -5410,7 +5356,7 @@ return array (
     'latitude' => 46.72981,
     'longitude' => 6.45429,
   ),
-  601 => 
+  595 => 
   array (
     'id' => 17965,
     'name' => 'Jussy',
@@ -5419,7 +5365,7 @@ return array (
     'latitude' => 46.2359,
     'longitude' => 6.26701,
   ),
-  602 => 
+  596 => 
   array (
     'id' => 17966,
     'name' => 'Kaiseraugst',
@@ -5428,7 +5374,7 @@ return array (
     'latitude' => 47.53966,
     'longitude' => 7.72605,
   ),
-  603 => 
+  597 => 
   array (
     'id' => 17967,
     'name' => 'Kaisten',
@@ -5437,7 +5383,7 @@ return array (
     'latitude' => 47.5416,
     'longitude' => 8.04337,
   ),
-  604 => 
+  598 => 
   array (
     'id' => 17968,
     'name' => 'Kallnach',
@@ -5446,7 +5392,7 @@ return array (
     'latitude' => 47.02032,
     'longitude' => 7.23545,
   ),
-  605 => 
+  599 => 
   array (
     'id' => 17969,
     'name' => 'Kaltbrunn',
@@ -5455,7 +5401,7 @@ return array (
     'latitude' => 47.21367,
     'longitude' => 9.0259,
   ),
-  606 => 
+  600 => 
   array (
     'id' => 17970,
     'name' => 'Kandersteg',
@@ -5464,7 +5410,7 @@ return array (
     'latitude' => 46.49467,
     'longitude' => 7.67326,
   ),
-  607 => 
+  601 => 
   array (
     'id' => 17971,
     'name' => 'Kappelen',
@@ -5473,7 +5419,7 @@ return array (
     'latitude' => 47.06015,
     'longitude' => 7.2686,
   ),
-  608 => 
+  602 => 
   array (
     'id' => 17972,
     'name' => 'Kehrsatz',
@@ -5482,7 +5428,7 @@ return array (
     'latitude' => 46.91035,
     'longitude' => 7.47096,
   ),
-  609 => 
+  603 => 
   array (
     'id' => 17973,
     'name' => 'Kerns',
@@ -5491,7 +5437,7 @@ return array (
     'latitude' => 46.90121,
     'longitude' => 8.27514,
   ),
-  610 => 
+  604 => 
   array (
     'id' => 17974,
     'name' => 'Kerzers',
@@ -5500,7 +5446,7 @@ return array (
     'latitude' => 46.97586,
     'longitude' => 7.1957,
   ),
-  611 => 
+  605 => 
   array (
     'id' => 17975,
     'name' => 'Kilchberg',
@@ -5509,7 +5455,7 @@ return array (
     'latitude' => 47.32438,
     'longitude' => 8.54548,
   ),
-  612 => 
+  606 => 
   array (
     'id' => 17976,
     'name' => 'Kilchberg / Bächler-Stocken',
@@ -5518,7 +5464,7 @@ return array (
     'latitude' => 47.32728,
     'longitude' => 8.53957,
   ),
-  613 => 
+  607 => 
   array (
     'id' => 17978,
     'name' => 'Killwangen',
@@ -5527,7 +5473,7 @@ return array (
     'latitude' => 47.43223,
     'longitude' => 8.35097,
   ),
-  614 => 
+  608 => 
   array (
     'id' => 17980,
     'name' => 'Kirchberg',
@@ -5536,16 +5482,7 @@ return array (
     'latitude' => 47.41159,
     'longitude' => 9.0402,
   ),
-  615 => 
-  array (
-    'id' => 17981,
-    'name' => 'Kirchberg',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.08538,
-    'longitude' => 7.58288,
-  ),
-  616 => 
+  609 => 
   array (
     'id' => 17982,
     'name' => 'Kirchlindach',
@@ -5554,7 +5491,7 @@ return array (
     'latitude' => 46.99965,
     'longitude' => 7.41735,
   ),
-  617 => 
+  610 => 
   array (
     'id' => 17983,
     'name' => 'Kleinandelfingen',
@@ -5563,7 +5500,7 @@ return array (
     'latitude' => 47.60058,
     'longitude' => 8.68362,
   ),
-  618 => 
+  611 => 
   array (
     'id' => 17984,
     'name' => 'Kleinlützel',
@@ -5572,7 +5509,7 @@ return array (
     'latitude' => 47.42518,
     'longitude' => 7.41607,
   ),
-  619 => 
+  612 => 
   array (
     'id' => 17985,
     'name' => 'Klingnau',
@@ -5581,7 +5518,7 @@ return array (
     'latitude' => 47.58361,
     'longitude' => 8.2488,
   ),
-  620 => 
+  613 => 
   array (
     'id' => 17986,
     'name' => 'Klosters Serneus',
@@ -5590,7 +5527,7 @@ return array (
     'latitude' => 46.88918,
     'longitude' => 9.83826,
   ),
-  621 => 
+  614 => 
   array (
     'id' => 17987,
     'name' => 'Kloten',
@@ -5599,7 +5536,7 @@ return array (
     'latitude' => 47.45152,
     'longitude' => 8.58491,
   ),
-  622 => 
+  615 => 
   array (
     'id' => 17988,
     'name' => 'Kloten / Balsberg',
@@ -5608,7 +5545,7 @@ return array (
     'latitude' => 47.44233,
     'longitude' => 8.57496,
   ),
-  623 => 
+  616 => 
   array (
     'id' => 17990,
     'name' => 'Kloten / Geissberg',
@@ -5617,7 +5554,7 @@ return array (
     'latitude' => 47.45424,
     'longitude' => 8.59066,
   ),
-  624 => 
+  617 => 
   array (
     'id' => 17991,
     'name' => 'Kloten / Holberg',
@@ -5626,7 +5563,7 @@ return array (
     'latitude' => 47.44642,
     'longitude' => 8.57661,
   ),
-  625 => 
+  618 => 
   array (
     'id' => 17992,
     'name' => 'Kloten / Horainli',
@@ -5635,7 +5572,7 @@ return array (
     'latitude' => 47.45399,
     'longitude' => 8.58306,
   ),
-  626 => 
+  619 => 
   array (
     'id' => 17993,
     'name' => 'Kloten / Hostrass',
@@ -5644,7 +5581,7 @@ return array (
     'latitude' => 47.45255,
     'longitude' => 8.59464,
   ),
-  627 => 
+  620 => 
   array (
     'id' => 17995,
     'name' => 'Kloten / Rütlen',
@@ -5653,7 +5590,7 @@ return array (
     'latitude' => 47.44726,
     'longitude' => 8.58808,
   ),
-  628 => 
+  621 => 
   array (
     'id' => 17996,
     'name' => 'Kloten / Spitz',
@@ -5662,7 +5599,7 @@ return array (
     'latitude' => 47.44455,
     'longitude' => 8.58724,
   ),
-  629 => 
+  622 => 
   array (
     'id' => 17997,
     'name' => 'Knonau',
@@ -5671,7 +5608,7 @@ return array (
     'latitude' => 47.2235,
     'longitude' => 8.46197,
   ),
-  630 => 
+  623 => 
   array (
     'id' => 17998,
     'name' => 'Knutwil',
@@ -5680,7 +5617,7 @@ return array (
     'latitude' => 47.19953,
     'longitude' => 8.07315,
   ),
-  631 => 
+  624 => 
   array (
     'id' => 17999,
     'name' => 'Koblenz',
@@ -5689,7 +5626,7 @@ return array (
     'latitude' => 47.60972,
     'longitude' => 8.2375,
   ),
-  632 => 
+  625 => 
   array (
     'id' => 18000,
     'name' => 'Kollbrunn',
@@ -5698,7 +5635,7 @@ return array (
     'latitude' => 47.45793,
     'longitude' => 8.78295,
   ),
-  633 => 
+  626 => 
   array (
     'id' => 18002,
     'name' => 'Konolfingen',
@@ -5707,7 +5644,7 @@ return array (
     'latitude' => 46.87909,
     'longitude' => 7.62013,
   ),
-  634 => 
+  627 => 
   array (
     'id' => 18003,
     'name' => 'Koppigen',
@@ -5716,7 +5653,7 @@ return array (
     'latitude' => 47.13125,
     'longitude' => 7.60525,
   ),
-  635 => 
+  628 => 
   array (
     'id' => 18004,
     'name' => 'Krauchthal',
@@ -5725,7 +5662,7 @@ return array (
     'latitude' => 47.00964,
     'longitude' => 7.5664,
   ),
-  636 => 
+  629 => 
   array (
     'id' => 18005,
     'name' => 'Kreuzlingen',
@@ -5734,7 +5671,7 @@ return array (
     'latitude' => 47.65051,
     'longitude' => 9.17504,
   ),
-  637 => 
+  630 => 
   array (
     'id' => 18006,
     'name' => 'Kreuzlingen District',
@@ -5743,7 +5680,7 @@ return array (
     'latitude' => 47.63046,
     'longitude' => 9.16458,
   ),
-  638 => 
+  631 => 
   array (
     'id' => 18007,
     'name' => 'Kriegstetten',
@@ -5752,7 +5689,7 @@ return array (
     'latitude' => 47.17449,
     'longitude' => 7.59799,
   ),
-  639 => 
+  632 => 
   array (
     'id' => 18008,
     'name' => 'Kriens',
@@ -5761,7 +5698,7 @@ return array (
     'latitude' => 47.0311,
     'longitude' => 8.28547,
   ),
-  640 => 
+  633 => 
   array (
     'id' => 18009,
     'name' => 'Krummenau',
@@ -5770,7 +5707,7 @@ return array (
     'latitude' => 47.24755,
     'longitude' => 9.17064,
   ),
-  641 => 
+  634 => 
   array (
     'id' => 18010,
     'name' => 'Kölliken',
@@ -5779,7 +5716,7 @@ return array (
     'latitude' => 47.33337,
     'longitude' => 8.02237,
   ),
-  642 => 
+  635 => 
   array (
     'id' => 18011,
     'name' => 'Köniz',
@@ -5788,7 +5725,7 @@ return array (
     'latitude' => 46.92436,
     'longitude' => 7.41457,
   ),
-  643 => 
+  636 => 
   array (
     'id' => 18012,
     'name' => 'Künten',
@@ -5797,7 +5734,7 @@ return array (
     'latitude' => 47.38887,
     'longitude' => 8.33045,
   ),
-  644 => 
+  637 => 
   array (
     'id' => 18013,
     'name' => 'Küsnacht',
@@ -5806,7 +5743,7 @@ return array (
     'latitude' => 47.31805,
     'longitude' => 8.58401,
   ),
-  645 => 
+  638 => 
   array (
     'id' => 18014,
     'name' => 'Küsnacht / Dorf',
@@ -5815,7 +5752,7 @@ return array (
     'latitude' => 47.31783,
     'longitude' => 8.58303,
   ),
-  646 => 
+  639 => 
   array (
     'id' => 18015,
     'name' => 'Küsnacht / Goldbach',
@@ -5824,7 +5761,7 @@ return array (
     'latitude' => 47.32729,
     'longitude' => 8.58077,
   ),
-  647 => 
+  640 => 
   array (
     'id' => 18016,
     'name' => 'Küsnacht / Heslibach',
@@ -5833,7 +5770,7 @@ return array (
     'latitude' => 47.31307,
     'longitude' => 8.58849,
   ),
-  648 => 
+  641 => 
   array (
     'id' => 18017,
     'name' => 'Küsnacht / Itschnach',
@@ -5842,7 +5779,7 @@ return array (
     'latitude' => 47.32714,
     'longitude' => 8.60068,
   ),
-  649 => 
+  642 => 
   array (
     'id' => 18018,
     'name' => 'Küsnacht / Schiedhalden',
@@ -5851,7 +5788,7 @@ return array (
     'latitude' => 47.32112,
     'longitude' => 8.58881,
   ),
-  650 => 
+  643 => 
   array (
     'id' => 18019,
     'name' => 'Küssnacht',
@@ -5860,7 +5797,7 @@ return array (
     'latitude' => 47.08557,
     'longitude' => 8.44206,
   ),
-  651 => 
+  644 => 
   array (
     'id' => 18020,
     'name' => 'Küttigen',
@@ -5869,7 +5806,7 @@ return array (
     'latitude' => 47.41484,
     'longitude' => 8.04979,
   ),
-  652 => 
+  645 => 
   array (
     'id' => 18021,
     'name' => 'La Chaux-de-Fonds',
@@ -5878,7 +5815,7 @@ return array (
     'latitude' => 47.09993,
     'longitude' => 6.82586,
   ),
-  653 => 
+  646 => 
   array (
     'id' => 18022,
     'name' => 'La Chaux-de-Fonds District',
@@ -5887,7 +5824,7 @@ return array (
     'latitude' => 47.12159,
     'longitude' => 6.84064,
   ),
-  654 => 
+  647 => 
   array (
     'id' => 18023,
     'name' => 'La Neuveville',
@@ -5896,7 +5833,7 @@ return array (
     'latitude' => 47.06592,
     'longitude' => 7.09717,
   ),
-  655 => 
+  648 => 
   array (
     'id' => 18024,
     'name' => 'La Punt Chamues-ch',
@@ -5905,7 +5842,7 @@ return array (
     'latitude' => 46.57887,
     'longitude' => 9.92015,
   ),
-  656 => 
+  649 => 
   array (
     'id' => 18025,
     'name' => 'La Roche',
@@ -5914,7 +5851,7 @@ return array (
     'latitude' => 46.6962,
     'longitude' => 7.13721,
   ),
-  657 => 
+  650 => 
   array (
     'id' => 18026,
     'name' => 'La Sarraz',
@@ -5923,7 +5860,7 @@ return array (
     'latitude' => 46.65863,
     'longitude' => 6.51077,
   ),
-  658 => 
+  651 => 
   array (
     'id' => 18027,
     'name' => 'La Tour-de-Peilz',
@@ -5932,7 +5869,7 @@ return array (
     'latitude' => 46.45312,
     'longitude' => 6.85856,
   ),
-  659 => 
+  652 => 
   array (
     'id' => 18028,
     'name' => 'La Tour-de-Trême',
@@ -5941,7 +5878,7 @@ return array (
     'latitude' => 46.61061,
     'longitude' => 7.06496,
   ),
-  660 => 
+  653 => 
   array (
     'id' => 18029,
     'name' => 'Laax',
@@ -5950,7 +5887,7 @@ return array (
     'latitude' => 46.80452,
     'longitude' => 9.25787,
   ),
-  661 => 
+  654 => 
   array (
     'id' => 18030,
     'name' => 'Lachen',
@@ -5959,7 +5896,7 @@ return array (
     'latitude' => 47.19224,
     'longitude' => 8.85324,
   ),
-  662 => 
+  655 => 
   array (
     'id' => 18031,
     'name' => 'Lake District',
@@ -5968,7 +5905,7 @@ return array (
     'latitude' => 46.91016,
     'longitude' => 7.14088,
   ),
-  663 => 
+  656 => 
   array (
     'id' => 18032,
     'name' => 'Lancy',
@@ -5977,7 +5914,7 @@ return array (
     'latitude' => 46.18981,
     'longitude' => 6.11441,
   ),
-  664 => 
+  657 => 
   array (
     'id' => 18033,
     'name' => 'Landquart',
@@ -5986,7 +5923,7 @@ return array (
     'latitude' => 46.95,
     'longitude' => 9.56667,
   ),
-  665 => 
+  658 => 
   array (
     'id' => 18034,
     'name' => 'Langenbruck',
@@ -5995,7 +5932,7 @@ return array (
     'latitude' => 47.34917,
     'longitude' => 7.76802,
   ),
-  666 => 
+  659 => 
   array (
     'id' => 18035,
     'name' => 'Langendorf',
@@ -6004,7 +5941,7 @@ return array (
     'latitude' => 47.21974,
     'longitude' => 7.51469,
   ),
-  667 => 
+  660 => 
   array (
     'id' => 18036,
     'name' => 'Langenthal',
@@ -6013,7 +5950,7 @@ return array (
     'latitude' => 47.21526,
     'longitude' => 7.79607,
   ),
-  668 => 
+  661 => 
   array (
     'id' => 18037,
     'name' => 'Langnau',
@@ -6022,7 +5959,7 @@ return array (
     'latitude' => 46.93936,
     'longitude' => 7.78738,
   ),
-  669 => 
+  662 => 
   array (
     'id' => 18039,
     'name' => 'Langnau / Vitaquartier',
@@ -6031,7 +5968,7 @@ return array (
     'latitude' => 47.29377,
     'longitude' => 8.53758,
   ),
-  670 => 
+  663 => 
   array (
     'id' => 18040,
     'name' => 'Langnau am Albis',
@@ -6040,7 +5977,7 @@ return array (
     'latitude' => 47.28885,
     'longitude' => 8.5411,
   ),
-  671 => 
+  664 => 
   array (
     'id' => 18041,
     'name' => 'Langrickenbach',
@@ -6049,7 +5986,7 @@ return array (
     'latitude' => 47.59353,
     'longitude' => 9.24727,
   ),
-  672 => 
+  665 => 
   array (
     'id' => 18042,
     'name' => 'Laufen',
@@ -6058,7 +5995,7 @@ return array (
     'latitude' => 47.42193,
     'longitude' => 7.49946,
   ),
-  673 => 
+  666 => 
   array (
     'id' => 18043,
     'name' => 'Laufenburg',
@@ -6067,7 +6004,7 @@ return array (
     'latitude' => 47.55985,
     'longitude' => 8.06225,
   ),
-  674 => 
+  667 => 
   array (
     'id' => 18045,
     'name' => 'Laupen',
@@ -6076,7 +6013,7 @@ return array (
     'latitude' => 46.90214,
     'longitude' => 7.23973,
   ),
-  675 => 
+  668 => 
   array (
     'id' => 18046,
     'name' => 'Laupersdorf',
@@ -6085,7 +6022,7 @@ return array (
     'latitude' => 47.3126,
     'longitude' => 7.65465,
   ),
-  676 => 
+  669 => 
   array (
     'id' => 18047,
     'name' => 'Lauperswil',
@@ -6094,7 +6031,7 @@ return array (
     'latitude' => 46.96564,
     'longitude' => 7.74214,
   ),
-  677 => 
+  670 => 
   array (
     'id' => 18048,
     'name' => 'Lausanne',
@@ -6103,7 +6040,7 @@ return array (
     'latitude' => 46.516,
     'longitude' => 6.63282,
   ),
-  678 => 
+  671 => 
   array (
     'id' => 18049,
     'name' => 'Lausanne District',
@@ -6112,7 +6049,7 @@ return array (
     'latitude' => 46.52131,
     'longitude' => 6.63334,
   ),
-  679 => 
+  672 => 
   array (
     'id' => 18050,
     'name' => 'Lausen',
@@ -6121,7 +6058,7 @@ return array (
     'latitude' => 47.47139,
     'longitude' => 7.7603,
   ),
-  680 => 
+  673 => 
   array (
     'id' => 18051,
     'name' => 'Lauterbrunnen',
@@ -6130,7 +6067,7 @@ return array (
     'latitude' => 46.59307,
     'longitude' => 7.90938,
   ),
-  681 => 
+  674 => 
   array (
     'id' => 18052,
     'name' => 'Lavaux-Oron District',
@@ -6139,7 +6076,7 @@ return array (
     'latitude' => 46.53618,
     'longitude' => 6.77086,
   ),
-  682 => 
+  675 => 
   array (
     'id' => 18053,
     'name' => 'Lavertezzo',
@@ -6148,7 +6085,7 @@ return array (
     'latitude' => 46.25893,
     'longitude' => 8.83756,
   ),
-  683 => 
+  676 => 
   array (
     'id' => 18054,
     'name' => 'Le Chenit',
@@ -6157,7 +6094,7 @@ return array (
     'latitude' => 46.60688,
     'longitude' => 6.23062,
   ),
-  684 => 
+  677 => 
   array (
     'id' => 18055,
     'name' => 'Le Grand-Saconnex',
@@ -6166,7 +6103,7 @@ return array (
     'latitude' => 46.23188,
     'longitude' => 6.12091,
   ),
-  685 => 
+  678 => 
   array (
     'id' => 18056,
     'name' => 'Le Landeron',
@@ -6175,7 +6112,7 @@ return array (
     'latitude' => 47.05702,
     'longitude' => 7.07052,
   ),
-  686 => 
+  679 => 
   array (
     'id' => 18057,
     'name' => 'Le Locle',
@@ -6184,7 +6121,7 @@ return array (
     'latitude' => 47.05619,
     'longitude' => 6.74913,
   ),
-  687 => 
+  680 => 
   array (
     'id' => 18058,
     'name' => 'Le Locle District',
@@ -6193,7 +6130,7 @@ return array (
     'latitude' => 47.01927,
     'longitude' => 6.69635,
   ),
-  688 => 
+  681 => 
   array (
     'id' => 18059,
     'name' => 'Le Mont-sur-Lausanne',
@@ -6202,7 +6139,7 @@ return array (
     'latitude' => 46.55815,
     'longitude' => 6.63145,
   ),
-  689 => 
+  682 => 
   array (
     'id' => 18060,
     'name' => 'Le Noirmont',
@@ -6211,7 +6148,7 @@ return array (
     'latitude' => 47.22464,
     'longitude' => 6.95784,
   ),
-  690 => 
+  683 => 
   array (
     'id' => 18061,
     'name' => 'Le Vaud',
@@ -6220,7 +6157,7 @@ return array (
     'latitude' => 46.47753,
     'longitude' => 6.23603,
   ),
-  691 => 
+  684 => 
   array (
     'id' => 18062,
     'name' => 'Leibstadt',
@@ -6229,7 +6166,7 @@ return array (
     'latitude' => 47.5879,
     'longitude' => 8.17611,
   ),
-  692 => 
+  685 => 
   array (
     'id' => 18063,
     'name' => 'Lengnau',
@@ -6238,7 +6175,7 @@ return array (
     'latitude' => 47.18155,
     'longitude' => 7.36814,
   ),
-  693 => 
+  686 => 
   array (
     'id' => 18064,
     'name' => 'Lenk',
@@ -6247,7 +6184,7 @@ return array (
     'latitude' => 46.45826,
     'longitude' => 7.44298,
   ),
-  694 => 
+  687 => 
   array (
     'id' => 18065,
     'name' => 'Lens',
@@ -6256,7 +6193,7 @@ return array (
     'latitude' => 46.28298,
     'longitude' => 7.44976,
   ),
-  695 => 
+  688 => 
   array (
     'id' => 18066,
     'name' => 'Lenzburg',
@@ -6265,7 +6202,7 @@ return array (
     'latitude' => 47.38853,
     'longitude' => 8.17503,
   ),
-  696 => 
+  689 => 
   array (
     'id' => 18067,
     'name' => 'Lenzerheide',
@@ -6274,7 +6211,7 @@ return array (
     'latitude' => 46.72215,
     'longitude' => 9.55905,
   ),
-  697 => 
+  690 => 
   array (
     'id' => 18068,
     'name' => 'Les Avanchets',
@@ -6283,7 +6220,7 @@ return array (
     'latitude' => 46.22168,
     'longitude' => 6.10814,
   ),
-  698 => 
+  691 => 
   array (
     'id' => 18069,
     'name' => 'Les Bois',
@@ -6292,7 +6229,7 @@ return array (
     'latitude' => 47.17715,
     'longitude' => 6.90498,
   ),
-  699 => 
+  692 => 
   array (
     'id' => 18070,
     'name' => 'Les Brenets',
@@ -6301,7 +6238,7 @@ return array (
     'latitude' => 47.06774,
     'longitude' => 6.70478,
   ),
-  700 => 
+  693 => 
   array (
     'id' => 18071,
     'name' => 'Les Breuleux',
@@ -6310,7 +6247,7 @@ return array (
     'latitude' => 47.21099,
     'longitude' => 7.00792,
   ),
-  701 => 
+  694 => 
   array (
     'id' => 18072,
     'name' => 'Les Geneveys-sur-Coffrane',
@@ -6319,7 +6256,7 @@ return array (
     'latitude' => 47.01528,
     'longitude' => 6.8513,
   ),
-  702 => 
+  695 => 
   array (
     'id' => 18073,
     'name' => 'Les Ponts-de-Martel',
@@ -6328,7 +6265,7 @@ return array (
     'latitude' => 46.99735,
     'longitude' => 6.73059,
   ),
-  703 => 
+  696 => 
   array (
     'id' => 18074,
     'name' => 'Leuk',
@@ -6337,7 +6274,7 @@ return array (
     'latitude' => 46.31736,
     'longitude' => 7.63412,
   ),
-  704 => 
+  697 => 
   array (
     'id' => 18075,
     'name' => 'Leuk District',
@@ -6346,7 +6283,7 @@ return array (
     'latitude' => 46.31439,
     'longitude' => 7.67291,
   ),
-  705 => 
+  698 => 
   array (
     'id' => 18076,
     'name' => 'Leukerbad',
@@ -6355,7 +6292,7 @@ return array (
     'latitude' => 46.37943,
     'longitude' => 7.62687,
   ),
-  706 => 
+  699 => 
   array (
     'id' => 18077,
     'name' => 'Leuzigen',
@@ -6364,7 +6301,7 @@ return array (
     'latitude' => 47.17458,
     'longitude' => 7.45775,
   ),
-  707 => 
+  700 => 
   array (
     'id' => 18078,
     'name' => 'Leventina District',
@@ -6373,7 +6310,7 @@ return array (
     'latitude' => 46.46912,
     'longitude' => 8.75539,
   ),
-  708 => 
+  701 => 
   array (
     'id' => 18079,
     'name' => 'Leysin',
@@ -6382,7 +6319,7 @@ return array (
     'latitude' => 46.34183,
     'longitude' => 7.01151,
   ),
-  709 => 
+  702 => 
   array (
     'id' => 18080,
     'name' => 'Leytron',
@@ -6391,7 +6328,7 @@ return array (
     'latitude' => 46.1866,
     'longitude' => 7.2078,
   ),
-  710 => 
+  703 => 
   array (
     'id' => 18081,
     'name' => 'Lichtensteig',
@@ -6400,7 +6337,7 @@ return array (
     'latitude' => 47.32381,
     'longitude' => 9.08758,
   ),
-  711 => 
+  704 => 
   array (
     'id' => 18082,
     'name' => 'Liesberg',
@@ -6409,7 +6346,7 @@ return array (
     'latitude' => 47.40398,
     'longitude' => 7.42787,
   ),
-  712 => 
+  705 => 
   array (
     'id' => 18083,
     'name' => 'Liestal',
@@ -6418,7 +6355,7 @@ return array (
     'latitude' => 47.48455,
     'longitude' => 7.73446,
   ),
-  713 => 
+  706 => 
   array (
     'id' => 18084,
     'name' => 'Ligornetto',
@@ -6427,7 +6364,7 @@ return array (
     'latitude' => 45.86161,
     'longitude' => 8.95166,
   ),
-  714 => 
+  707 => 
   array (
     'id' => 18085,
     'name' => 'Linden',
@@ -6436,7 +6373,7 @@ return array (
     'latitude' => 46.8469,
     'longitude' => 7.67831,
   ),
-  715 => 
+  708 => 
   array (
     'id' => 18086,
     'name' => 'Linthal',
@@ -6445,7 +6382,7 @@ return array (
     'latitude' => 46.92127,
     'longitude' => 8.99799,
   ),
-  716 => 
+  709 => 
   array (
     'id' => 18087,
     'name' => 'Littau',
@@ -6454,7 +6391,7 @@ return array (
     'latitude' => 47.05,
     'longitude' => 8.26274,
   ),
-  717 => 
+  710 => 
   array (
     'id' => 18088,
     'name' => 'Locarno',
@@ -6463,7 +6400,7 @@ return array (
     'latitude' => 46.17086,
     'longitude' => 8.79953,
   ),
-  718 => 
+  711 => 
   array (
     'id' => 18089,
     'name' => 'Locarno District',
@@ -6472,7 +6409,7 @@ return array (
     'latitude' => 46.18033,
     'longitude' => 8.75991,
   ),
-  719 => 
+  712 => 
   array (
     'id' => 18090,
     'name' => 'Lodrino',
@@ -6481,7 +6418,7 @@ return array (
     'latitude' => 46.30016,
     'longitude' => 8.97986,
   ),
-  720 => 
+  713 => 
   array (
     'id' => 18091,
     'name' => 'Losone',
@@ -6490,7 +6427,7 @@ return array (
     'latitude' => 46.16866,
     'longitude' => 8.75928,
   ),
-  721 => 
+  714 => 
   array (
     'id' => 18092,
     'name' => 'Lostorf',
@@ -6499,7 +6436,7 @@ return array (
     'latitude' => 47.38372,
     'longitude' => 7.94655,
   ),
-  722 => 
+  715 => 
   array (
     'id' => 18093,
     'name' => 'Lotzwil',
@@ -6508,7 +6445,7 @@ return array (
     'latitude' => 47.19135,
     'longitude' => 7.79102,
   ),
-  723 => 
+  716 => 
   array (
     'id' => 18094,
     'name' => 'Lucens',
@@ -6517,7 +6454,7 @@ return array (
     'latitude' => 46.70854,
     'longitude' => 6.83931,
   ),
-  724 => 
+  717 => 
   array (
     'id' => 18095,
     'name' => 'Lucerne-Land District',
@@ -6526,7 +6463,7 @@ return array (
     'latitude' => 47.04046,
     'longitude' => 8.29271,
   ),
-  725 => 
+  718 => 
   array (
     'id' => 18096,
     'name' => 'Lucerne-Stadt District',
@@ -6535,7 +6472,7 @@ return array (
     'latitude' => 47.05334,
     'longitude' => 8.31063,
   ),
-  726 => 
+  719 => 
   array (
     'id' => 18097,
     'name' => 'Luchsingen',
@@ -6544,7 +6481,7 @@ return array (
     'latitude' => 46.9664,
     'longitude' => 9.03715,
   ),
-  727 => 
+  720 => 
   array (
     'id' => 18098,
     'name' => 'Lugano',
@@ -6553,7 +6490,7 @@ return array (
     'latitude' => 46.01008,
     'longitude' => 8.96004,
   ),
-  728 => 
+  721 => 
   array (
     'id' => 18099,
     'name' => 'Lugano District',
@@ -6562,7 +6499,7 @@ return array (
     'latitude' => 46.02322,
     'longitude' => 8.93802,
   ),
-  729 => 
+  722 => 
   array (
     'id' => 18100,
     'name' => 'Lumino',
@@ -6571,7 +6508,7 @@ return array (
     'latitude' => 46.2302,
     'longitude' => 9.0642,
   ),
-  730 => 
+  723 => 
   array (
     'id' => 18101,
     'name' => 'Lungern',
@@ -6580,7 +6517,7 @@ return array (
     'latitude' => 46.78578,
     'longitude' => 8.15984,
   ),
-  731 => 
+  724 => 
   array (
     'id' => 18102,
     'name' => 'Luterbach',
@@ -6589,7 +6526,7 @@ return array (
     'latitude' => 47.21426,
     'longitude' => 7.58463,
   ),
-  732 => 
+  725 => 
   array (
     'id' => 18103,
     'name' => 'Luthern',
@@ -6598,7 +6535,7 @@ return array (
     'latitude' => 47.05753,
     'longitude' => 7.91692,
   ),
-  733 => 
+  726 => 
   array (
     'id' => 18104,
     'name' => 'Lutry',
@@ -6607,7 +6544,7 @@ return array (
     'latitude' => 46.50241,
     'longitude' => 6.68647,
   ),
-  734 => 
+  727 => 
   array (
     'id' => 18105,
     'name' => 'Luzein',
@@ -6616,7 +6553,7 @@ return array (
     'latitude' => 46.91957,
     'longitude' => 9.7608,
   ),
-  735 => 
+  728 => 
   array (
     'id' => 18106,
     'name' => 'Luzern',
@@ -6625,7 +6562,7 @@ return array (
     'latitude' => 47.05048,
     'longitude' => 8.30635,
   ),
-  736 => 
+  729 => 
   array (
     'id' => 18107,
     'name' => 'Lyss',
@@ -6634,7 +6571,7 @@ return array (
     'latitude' => 47.0741,
     'longitude' => 7.30655,
   ),
-  737 => 
+  730 => 
   array (
     'id' => 18108,
     'name' => 'Lyssach',
@@ -6643,7 +6580,7 @@ return array (
     'latitude' => 47.06445,
     'longitude' => 7.58228,
   ),
-  738 => 
+  731 => 
   array (
     'id' => 18109,
     'name' => 'Läufelfingen',
@@ -6652,7 +6589,7 @@ return array (
     'latitude' => 47.39457,
     'longitude' => 7.85578,
   ),
-  739 => 
+  732 => 
   array (
     'id' => 18110,
     'name' => 'Löhningen',
@@ -6661,7 +6598,7 @@ return array (
     'latitude' => 47.70121,
     'longitude' => 8.55236,
   ),
-  740 => 
+  733 => 
   array (
     'id' => 18111,
     'name' => 'Lütisburg',
@@ -6670,7 +6607,7 @@ return array (
     'latitude' => 47.39451,
     'longitude' => 9.08312,
   ),
-  741 => 
+  734 => 
   array (
     'id' => 18112,
     'name' => 'Lützelflüh',
@@ -6679,7 +6616,7 @@ return array (
     'latitude' => 47.00757,
     'longitude' => 7.69165,
   ),
-  742 => 
+  735 => 
   array (
     'id' => 18113,
     'name' => 'Madiswil',
@@ -6688,7 +6625,7 @@ return array (
     'latitude' => 47.16463,
     'longitude' => 7.79858,
   ),
-  743 => 
+  736 => 
   array (
     'id' => 18114,
     'name' => 'Magadino',
@@ -6697,7 +6634,7 @@ return array (
     'latitude' => 46.14892,
     'longitude' => 8.8561,
   ),
-  744 => 
+  737 => 
   array (
     'id' => 18115,
     'name' => 'Magden',
@@ -6706,7 +6643,7 @@ return array (
     'latitude' => 47.52868,
     'longitude' => 7.81128,
   ),
-  745 => 
+  738 => 
   array (
     'id' => 18116,
     'name' => 'Maienfeld',
@@ -6715,7 +6652,7 @@ return array (
     'latitude' => 47.00472,
     'longitude' => 9.53115,
   ),
-  746 => 
+  739 => 
   array (
     'id' => 18117,
     'name' => 'Malans',
@@ -6724,7 +6661,7 @@ return array (
     'latitude' => 46.98096,
     'longitude' => 9.57527,
   ),
-  747 => 
+  740 => 
   array (
     'id' => 18118,
     'name' => 'Malleray',
@@ -6733,7 +6670,7 @@ return array (
     'latitude' => 47.23839,
     'longitude' => 7.27286,
   ),
-  748 => 
+  741 => 
   array (
     'id' => 18119,
     'name' => 'Malters',
@@ -6742,7 +6679,7 @@ return array (
     'latitude' => 47.03628,
     'longitude' => 8.18193,
   ),
-  749 => 
+  742 => 
   array (
     'id' => 18120,
     'name' => 'Malvaglia',
@@ -6751,7 +6688,7 @@ return array (
     'latitude' => 46.40588,
     'longitude' => 8.9819,
   ),
-  750 => 
+  743 => 
   array (
     'id' => 18121,
     'name' => 'Marin-Epagnier',
@@ -6760,7 +6697,7 @@ return array (
     'latitude' => 47.01017,
     'longitude' => 6.99941,
   ),
-  751 => 
+  744 => 
   array (
     'id' => 18122,
     'name' => 'Marly',
@@ -6769,7 +6706,7 @@ return array (
     'latitude' => 46.77611,
     'longitude' => 7.16459,
   ),
-  752 => 
+  745 => 
   array (
     'id' => 18123,
     'name' => 'Marsens',
@@ -6778,7 +6715,7 @@ return array (
     'latitude' => 46.65644,
     'longitude' => 7.05948,
   ),
-  753 => 
+  746 => 
   array (
     'id' => 18124,
     'name' => 'Marthalen',
@@ -6787,7 +6724,7 @@ return array (
     'latitude' => 47.62913,
     'longitude' => 8.65326,
   ),
-  754 => 
+  747 => 
   array (
     'id' => 18125,
     'name' => 'Martigny District',
@@ -6796,7 +6733,7 @@ return array (
     'latitude' => 46.12386,
     'longitude' => 7.10354,
   ),
-  755 => 
+  748 => 
   array (
     'id' => 18126,
     'name' => 'Martigny-Combe',
@@ -6805,7 +6742,7 @@ return array (
     'latitude' => 46.07817,
     'longitude' => 7.05099,
   ),
-  756 => 
+  749 => 
   array (
     'id' => 18127,
     'name' => 'Martigny-Ville',
@@ -6814,7 +6751,7 @@ return array (
     'latitude' => 46.10276,
     'longitude' => 7.07245,
   ),
-  757 => 
+  750 => 
   array (
     'id' => 18128,
     'name' => 'Massagno',
@@ -6823,7 +6760,7 @@ return array (
     'latitude' => 46.01257,
     'longitude' => 8.94354,
   ),
-  758 => 
+  751 => 
   array (
     'id' => 18129,
     'name' => 'Matten',
@@ -6832,7 +6769,7 @@ return array (
     'latitude' => 46.67833,
     'longitude' => 7.86889,
   ),
-  759 => 
+  752 => 
   array (
     'id' => 18134,
     'name' => 'Matzendorf',
@@ -6841,7 +6778,7 @@ return array (
     'latitude' => 47.30374,
     'longitude' => 7.6282,
   ),
-  760 => 
+  753 => 
   array (
     'id' => 18135,
     'name' => 'Matzingen',
@@ -6850,7 +6787,7 @@ return array (
     'latitude' => 47.51957,
     'longitude' => 8.93365,
   ),
-  761 => 
+  754 => 
   array (
     'id' => 18136,
     'name' => 'Mauensee',
@@ -6859,7 +6796,7 @@ return array (
     'latitude' => 47.16703,
     'longitude' => 8.06793,
   ),
-  762 => 
+  755 => 
   array (
     'id' => 18137,
     'name' => 'Mauraz',
@@ -6868,7 +6805,7 @@ return array (
     'latitude' => 46.60558,
     'longitude' => 6.42074,
   ),
-  763 => 
+  756 => 
   array (
     'id' => 18138,
     'name' => 'Meggen',
@@ -6877,7 +6814,7 @@ return array (
     'latitude' => 47.04691,
     'longitude' => 8.37467,
   ),
-  764 => 
+  757 => 
   array (
     'id' => 18139,
     'name' => 'Meierskappel',
@@ -6886,7 +6823,7 @@ return array (
     'latitude' => 47.1247,
     'longitude' => 8.44274,
   ),
-  765 => 
+  758 => 
   array (
     'id' => 18140,
     'name' => 'Meilen',
@@ -6895,7 +6832,7 @@ return array (
     'latitude' => 47.27232,
     'longitude' => 8.64617,
   ),
-  766 => 
+  759 => 
   array (
     'id' => 18141,
     'name' => 'Meinier',
@@ -6904,7 +6841,7 @@ return array (
     'latitude' => 46.24706,
     'longitude' => 6.23423,
   ),
-  767 => 
+  760 => 
   array (
     'id' => 18142,
     'name' => 'Meinisberg',
@@ -6913,7 +6850,7 @@ return array (
     'latitude' => 47.15965,
     'longitude' => 7.34801,
   ),
-  768 => 
+  761 => 
   array (
     'id' => 18143,
     'name' => 'Meiringen',
@@ -6922,7 +6859,7 @@ return array (
     'latitude' => 46.72709,
     'longitude' => 8.1872,
   ),
-  769 => 
+  762 => 
   array (
     'id' => 18144,
     'name' => 'Meisterschwanden',
@@ -6931,7 +6868,7 @@ return array (
     'latitude' => 47.29489,
     'longitude' => 8.22867,
   ),
-  770 => 
+  763 => 
   array (
     'id' => 18145,
     'name' => 'Melano',
@@ -6940,7 +6877,7 @@ return array (
     'latitude' => 45.92202,
     'longitude' => 8.98435,
   ),
-  771 => 
+  764 => 
   array (
     'id' => 18146,
     'name' => 'Melchnau',
@@ -6949,7 +6886,7 @@ return array (
     'latitude' => 47.18213,
     'longitude' => 7.85128,
   ),
-  772 => 
+  765 => 
   array (
     'id' => 18147,
     'name' => 'Melide',
@@ -6958,7 +6895,7 @@ return array (
     'latitude' => 45.95455,
     'longitude' => 8.94725,
   ),
-  773 => 
+  766 => 
   array (
     'id' => 18148,
     'name' => 'Mellingen',
@@ -6967,7 +6904,7 @@ return array (
     'latitude' => 47.41903,
     'longitude' => 8.27331,
   ),
-  774 => 
+  767 => 
   array (
     'id' => 18149,
     'name' => 'Mendrisio',
@@ -6976,7 +6913,7 @@ return array (
     'latitude' => 45.87019,
     'longitude' => 8.9816,
   ),
-  775 => 
+  768 => 
   array (
     'id' => 18150,
     'name' => 'Mendrisio District',
@@ -6985,7 +6922,7 @@ return array (
     'latitude' => 45.86592,
     'longitude' => 8.99931,
   ),
-  776 => 
+  769 => 
   array (
     'id' => 18151,
     'name' => 'Menziken',
@@ -6994,7 +6931,7 @@ return array (
     'latitude' => 47.23965,
     'longitude' => 8.18996,
   ),
-  777 => 
+  770 => 
   array (
     'id' => 18152,
     'name' => 'Menzingen',
@@ -7003,7 +6940,7 @@ return array (
     'latitude' => 47.17764,
     'longitude' => 8.59215,
   ),
-  778 => 
+  771 => 
   array (
     'id' => 18153,
     'name' => 'Menznau',
@@ -7012,7 +6949,7 @@ return array (
     'latitude' => 47.08364,
     'longitude' => 8.03971,
   ),
-  779 => 
+  772 => 
   array (
     'id' => 18154,
     'name' => 'Merenschwand',
@@ -7021,7 +6958,7 @@ return array (
     'latitude' => 47.25944,
     'longitude' => 8.37633,
   ),
-  780 => 
+  773 => 
   array (
     'id' => 18155,
     'name' => 'Mesocco',
@@ -7030,7 +6967,7 @@ return array (
     'latitude' => 46.3939,
     'longitude' => 9.23333,
   ),
-  781 => 
+  774 => 
   array (
     'id' => 18156,
     'name' => 'Messen',
@@ -7039,7 +6976,7 @@ return array (
     'latitude' => 47.09155,
     'longitude' => 7.44528,
   ),
-  782 => 
+  775 => 
   array (
     'id' => 18157,
     'name' => 'Mettmenstetten',
@@ -7048,7 +6985,7 @@ return array (
     'latitude' => 47.24529,
     'longitude' => 8.46347,
   ),
-  783 => 
+  776 => 
   array (
     'id' => 18158,
     'name' => 'Meyrin',
@@ -7057,7 +6994,7 @@ return array (
     'latitude' => 46.23424,
     'longitude' => 6.08025,
   ),
-  784 => 
+  777 => 
   array (
     'id' => 18159,
     'name' => 'Minusio',
@@ -7066,7 +7003,7 @@ return array (
     'latitude' => 46.17769,
     'longitude' => 8.81473,
   ),
-  785 => 
+  778 => 
   array (
     'id' => 18160,
     'name' => 'Mogelsberg',
@@ -7075,7 +7012,7 @@ return array (
     'latitude' => 47.36222,
     'longitude' => 9.13541,
   ),
-  786 => 
+  779 => 
   array (
     'id' => 18161,
     'name' => 'Mollens',
@@ -7084,7 +7021,7 @@ return array (
     'latitude' => 46.5776,
     'longitude' => 6.3632,
   ),
-  787 => 
+  780 => 
   array (
     'id' => 18162,
     'name' => 'Mollis',
@@ -7093,7 +7030,7 @@ return array (
     'latitude' => 47.08878,
     'longitude' => 9.07242,
   ),
-  788 => 
+  781 => 
   array (
     'id' => 18163,
     'name' => 'Montagnola',
@@ -7102,7 +7039,7 @@ return array (
     'latitude' => 45.98323,
     'longitude' => 8.91786,
   ),
-  789 => 
+  782 => 
   array (
     'id' => 18164,
     'name' => 'Montagny',
@@ -7111,7 +7048,7 @@ return array (
     'latitude' => 46.79289,
     'longitude' => 6.61222,
   ),
-  790 => 
+  783 => 
   array (
     'id' => 18165,
     'name' => 'Montana',
@@ -7120,7 +7057,7 @@ return array (
     'latitude' => 46.31338,
     'longitude' => 7.48839,
   ),
-  791 => 
+  784 => 
   array (
     'id' => 18166,
     'name' => 'Monte Carasso',
@@ -7129,7 +7066,7 @@ return array (
     'latitude' => 46.18649,
     'longitude' => 8.99892,
   ),
-  792 => 
+  785 => 
   array (
     'id' => 18167,
     'name' => 'Monthey',
@@ -7138,7 +7075,7 @@ return array (
     'latitude' => 46.25451,
     'longitude' => 6.95406,
   ),
-  793 => 
+  786 => 
   array (
     'id' => 18168,
     'name' => 'Monthey District',
@@ -7147,7 +7084,7 @@ return array (
     'latitude' => 46.27043,
     'longitude' => 6.90274,
   ),
-  794 => 
+  787 => 
   array (
     'id' => 18169,
     'name' => 'Montreux',
@@ -7156,7 +7093,7 @@ return array (
     'latitude' => 46.43301,
     'longitude' => 6.91143,
   ),
-  795 => 
+  788 => 
   array (
     'id' => 18170,
     'name' => 'Morbio Inferiore',
@@ -7165,7 +7102,7 @@ return array (
     'latitude' => 45.84915,
     'longitude' => 9.01907,
   ),
-  796 => 
+  789 => 
   array (
     'id' => 18171,
     'name' => 'Morges',
@@ -7174,7 +7111,7 @@ return array (
     'latitude' => 46.51127,
     'longitude' => 6.49854,
   ),
-  797 => 
+  790 => 
   array (
     'id' => 18172,
     'name' => 'Morges District',
@@ -7183,7 +7120,7 @@ return array (
     'latitude' => 46.53578,
     'longitude' => 6.48662,
   ),
-  798 => 
+  791 => 
   array (
     'id' => 18173,
     'name' => 'Mosnang',
@@ -7192,7 +7129,7 @@ return array (
     'latitude' => 47.36252,
     'longitude' => 9.04296,
   ),
-  799 => 
+  792 => 
   array (
     'id' => 18174,
     'name' => 'Moudon',
@@ -7201,7 +7138,7 @@ return array (
     'latitude' => 46.66758,
     'longitude' => 6.79781,
   ),
-  800 => 
+  793 => 
   array (
     'id' => 18175,
     'name' => 'Moutier',
@@ -7210,7 +7147,7 @@ return array (
     'latitude' => 47.27818,
     'longitude' => 7.36951,
   ),
-  801 => 
+  794 => 
   array (
     'id' => 18176,
     'name' => 'Muhen',
@@ -7219,7 +7156,7 @@ return array (
     'latitude' => 47.33578,
     'longitude' => 8.05536,
   ),
-  802 => 
+  795 => 
   array (
     'id' => 18177,
     'name' => 'Mumpf',
@@ -7228,7 +7165,7 @@ return array (
     'latitude' => 47.54563,
     'longitude' => 7.92123,
   ),
-  803 => 
+  796 => 
   array (
     'id' => 18178,
     'name' => 'Muolen',
@@ -7237,7 +7174,7 @@ return array (
     'latitude' => 47.52102,
     'longitude' => 9.32484,
   ),
-  804 => 
+  797 => 
   array (
     'id' => 18179,
     'name' => 'Muotathal',
@@ -7246,7 +7183,7 @@ return array (
     'latitude' => 46.97676,
     'longitude' => 8.76499,
   ),
-  805 => 
+  798 => 
   array (
     'id' => 18180,
     'name' => 'Muralto',
@@ -7255,7 +7192,7 @@ return array (
     'latitude' => 46.17323,
     'longitude' => 8.80219,
   ),
-  806 => 
+  799 => 
   array (
     'id' => 18181,
     'name' => 'Murgenthal',
@@ -7264,7 +7201,7 @@ return array (
     'latitude' => 47.27145,
     'longitude' => 7.83935,
   ),
-  807 => 
+  800 => 
   array (
     'id' => 18182,
     'name' => 'Muri',
@@ -7273,16 +7210,7 @@ return array (
     'latitude' => 47.27428,
     'longitude' => 8.33854,
   ),
-  808 => 
-  array (
-    'id' => 18183,
-    'name' => 'Muri',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 46.93122,
-    'longitude' => 7.48658,
-  ),
-  809 => 
+  801 => 
   array (
     'id' => 18184,
     'name' => 'Murten/Morat',
@@ -7291,7 +7219,7 @@ return array (
     'latitude' => 46.92827,
     'longitude' => 7.11715,
   ),
-  810 => 
+  802 => 
   array (
     'id' => 18185,
     'name' => 'Muttenz',
@@ -7300,7 +7228,7 @@ return array (
     'latitude' => 47.52271,
     'longitude' => 7.64511,
   ),
-  811 => 
+  803 => 
   array (
     'id' => 18186,
     'name' => 'Männedorf',
@@ -7309,7 +7237,7 @@ return array (
     'latitude' => 47.25686,
     'longitude' => 8.69893,
   ),
-  812 => 
+  804 => 
   array (
     'id' => 18187,
     'name' => 'Männedorf / Ausserfeld',
@@ -7318,7 +7246,7 @@ return array (
     'latitude' => 47.24636,
     'longitude' => 8.70608,
   ),
-  813 => 
+  805 => 
   array (
     'id' => 18188,
     'name' => 'Männedorf / Dorfkern',
@@ -7327,7 +7255,7 @@ return array (
     'latitude' => 47.25612,
     'longitude' => 8.69161,
   ),
-  814 => 
+  806 => 
   array (
     'id' => 18189,
     'name' => 'Märstetten-Dorf',
@@ -7336,7 +7264,7 @@ return array (
     'latitude' => 47.59252,
     'longitude' => 9.06851,
   ),
-  815 => 
+  807 => 
   array (
     'id' => 18190,
     'name' => 'Mézières',
@@ -7345,7 +7273,7 @@ return array (
     'latitude' => 46.67958,
     'longitude' => 6.9263,
   ),
-  816 => 
+  808 => 
   array (
     'id' => 18191,
     'name' => 'Möhlin',
@@ -7354,7 +7282,7 @@ return array (
     'latitude' => 47.55915,
     'longitude' => 7.84329,
   ),
-  817 => 
+  809 => 
   array (
     'id' => 18192,
     'name' => 'Mönchaltorf',
@@ -7363,7 +7291,7 @@ return array (
     'latitude' => 47.30958,
     'longitude' => 8.72029,
   ),
-  818 => 
+  810 => 
   array (
     'id' => 18193,
     'name' => 'Mönchaltorf / Dorf',
@@ -7372,7 +7300,7 @@ return array (
     'latitude' => 47.30401,
     'longitude' => 8.72211,
   ),
-  819 => 
+  811 => 
   array (
     'id' => 18194,
     'name' => 'Mörschwil',
@@ -7381,7 +7309,7 @@ return array (
     'latitude' => 47.47097,
     'longitude' => 9.42278,
   ),
-  820 => 
+  812 => 
   array (
     'id' => 18195,
     'name' => 'Mühleberg',
@@ -7390,7 +7318,7 @@ return array (
     'latitude' => 46.95466,
     'longitude' => 7.26102,
   ),
-  821 => 
+  813 => 
   array (
     'id' => 18196,
     'name' => 'Mühlehalde',
@@ -7399,7 +7327,7 @@ return array (
     'latitude' => 47.28306,
     'longitude' => 8.53386,
   ),
-  822 => 
+  814 => 
   array (
     'id' => 18197,
     'name' => 'Mühlethurnen',
@@ -7408,7 +7336,7 @@ return array (
     'latitude' => 46.81345,
     'longitude' => 7.50881,
   ),
-  823 => 
+  815 => 
   array (
     'id' => 18198,
     'name' => 'Müllheim',
@@ -7417,7 +7345,7 @@ return array (
     'latitude' => 47.60195,
     'longitude' => 9.00357,
   ),
-  824 => 
+  816 => 
   array (
     'id' => 18199,
     'name' => 'Münchenbuchsee',
@@ -7426,7 +7354,7 @@ return array (
     'latitude' => 47.02175,
     'longitude' => 7.45036,
   ),
-  825 => 
+  817 => 
   array (
     'id' => 18200,
     'name' => 'Münchenstein',
@@ -7435,7 +7363,7 @@ return array (
     'latitude' => 47.51848,
     'longitude' => 7.60966,
   ),
-  826 => 
+  818 => 
   array (
     'id' => 18201,
     'name' => 'Münchenwiler',
@@ -7444,7 +7372,7 @@ return array (
     'latitude' => 46.91334,
     'longitude' => 7.12556,
   ),
-  827 => 
+  819 => 
   array (
     'id' => 18202,
     'name' => 'Münchwilen',
@@ -7453,7 +7381,7 @@ return array (
     'latitude' => 47.47719,
     'longitude' => 8.99677,
   ),
-  828 => 
+  820 => 
   array (
     'id' => 18203,
     'name' => 'Münchwilen District',
@@ -7462,7 +7390,7 @@ return array (
     'latitude' => 47.47324,
     'longitude' => 8.98812,
   ),
-  829 => 
+  821 => 
   array (
     'id' => 18204,
     'name' => 'Münsingen',
@@ -7471,7 +7399,7 @@ return array (
     'latitude' => 46.87298,
     'longitude' => 7.561,
   ),
-  830 => 
+  822 => 
   array (
     'id' => 18205,
     'name' => 'Münsterlingen',
@@ -7480,7 +7408,7 @@ return array (
     'latitude' => 47.63197,
     'longitude' => 9.23271,
   ),
-  831 => 
+  823 => 
   array (
     'id' => 18206,
     'name' => 'Müntschemier',
@@ -7489,7 +7417,7 @@ return array (
     'latitude' => 46.99548,
     'longitude' => 7.14626,
   ),
-  832 => 
+  824 => 
   array (
     'id' => 18207,
     'name' => 'Naters',
@@ -7498,7 +7426,7 @@ return array (
     'latitude' => 46.32536,
     'longitude' => 7.98912,
   ),
-  833 => 
+  825 => 
   array (
     'id' => 18208,
     'name' => 'Nebikon',
@@ -7507,7 +7435,7 @@ return array (
     'latitude' => 47.19185,
     'longitude' => 7.97769,
   ),
-  834 => 
+  826 => 
   array (
     'id' => 18209,
     'name' => 'Neerach',
@@ -7516,7 +7444,7 @@ return array (
     'latitude' => 47.51096,
     'longitude' => 8.47099,
   ),
-  835 => 
+  827 => 
   array (
     'id' => 18210,
     'name' => 'Neftenbach / Dorf Neftenbach',
@@ -7525,7 +7453,7 @@ return array (
     'latitude' => 47.52764,
     'longitude' => 8.6649,
   ),
-  836 => 
+  828 => 
   array (
     'id' => 18211,
     'name' => 'Netstal',
@@ -7534,7 +7462,7 @@ return array (
     'latitude' => 47.06337,
     'longitude' => 9.05734,
   ),
-  837 => 
+  829 => 
   array (
     'id' => 18212,
     'name' => 'Neuchâtel',
@@ -7543,7 +7471,7 @@ return array (
     'latitude' => 46.99179,
     'longitude' => 6.931,
   ),
-  838 => 
+  830 => 
   array (
     'id' => 18213,
     'name' => 'Neuchâtel District',
@@ -7552,7 +7480,7 @@ return array (
     'latitude' => 47.01799,
     'longitude' => 6.99337,
   ),
-  839 => 
+  831 => 
   array (
     'id' => 18214,
     'name' => 'Neudorf',
@@ -7561,7 +7489,7 @@ return array (
     'latitude' => 47.17699,
     'longitude' => 8.20911,
   ),
-  840 => 
+  832 => 
   array (
     'id' => 18215,
     'name' => 'Neuenhof',
@@ -7570,7 +7498,7 @@ return array (
     'latitude' => 47.44985,
     'longitude' => 8.32682,
   ),
-  841 => 
+  833 => 
   array (
     'id' => 18216,
     'name' => 'Neuenkirch',
@@ -7579,7 +7507,7 @@ return array (
     'latitude' => 47.09989,
     'longitude' => 8.20416,
   ),
-  842 => 
+  834 => 
   array (
     'id' => 18217,
     'name' => 'Neuhausen',
@@ -7588,7 +7516,7 @@ return array (
     'latitude' => 47.68579,
     'longitude' => 8.61474,
   ),
-  843 => 
+  835 => 
   array (
     'id' => 18218,
     'name' => 'Neunkirch',
@@ -7597,7 +7525,7 @@ return array (
     'latitude' => 47.69012,
     'longitude' => 8.49981,
   ),
-  844 => 
+  836 => 
   array (
     'id' => 18219,
     'name' => 'Nidau',
@@ -7606,7 +7534,7 @@ return array (
     'latitude' => 47.12545,
     'longitude' => 7.24033,
   ),
-  845 => 
+  837 => 
   array (
     'id' => 18220,
     'name' => 'Niederbipp',
@@ -7615,7 +7543,7 @@ return array (
     'latitude' => 47.27175,
     'longitude' => 7.69583,
   ),
-  846 => 
+  838 => 
   array (
     'id' => 18221,
     'name' => 'Niederbüren',
@@ -7624,7 +7552,7 @@ return array (
     'latitude' => 47.46547,
     'longitude' => 9.20568,
   ),
-  847 => 
+  839 => 
   array (
     'id' => 18222,
     'name' => 'Niederglatt',
@@ -7633,7 +7561,7 @@ return array (
     'latitude' => 47.49066,
     'longitude' => 8.49987,
   ),
-  848 => 
+  840 => 
   array (
     'id' => 18224,
     'name' => 'Niedergösgen',
@@ -7642,7 +7570,7 @@ return array (
     'latitude' => 47.37157,
     'longitude' => 7.98837,
   ),
-  849 => 
+  841 => 
   array (
     'id' => 18225,
     'name' => 'Niederhasli',
@@ -7651,7 +7579,7 @@ return array (
     'latitude' => 47.48012,
     'longitude' => 8.48576,
   ),
-  850 => 
+  842 => 
   array (
     'id' => 18226,
     'name' => 'Niederhelfenschwil',
@@ -7660,7 +7588,7 @@ return array (
     'latitude' => 47.47487,
     'longitude' => 9.18543,
   ),
-  851 => 
+  843 => 
   array (
     'id' => 18227,
     'name' => 'Niederlenz',
@@ -7669,7 +7597,7 @@ return array (
     'latitude' => 47.40079,
     'longitude' => 8.1764,
   ),
-  852 => 
+  844 => 
   array (
     'id' => 18228,
     'name' => 'Niederrohrdorf',
@@ -7678,7 +7606,7 @@ return array (
     'latitude' => 47.42409,
     'longitude' => 8.30404,
   ),
-  853 => 
+  845 => 
   array (
     'id' => 18229,
     'name' => 'Niederurnen',
@@ -7687,7 +7615,7 @@ return array (
     'latitude' => 47.12598,
     'longitude' => 9.05428,
   ),
-  854 => 
+  846 => 
   array (
     'id' => 18230,
     'name' => 'Nottwil',
@@ -7696,7 +7624,7 @@ return array (
     'latitude' => 47.13469,
     'longitude' => 8.13774,
   ),
-  855 => 
+  847 => 
   array (
     'id' => 18231,
     'name' => 'Novazzano',
@@ -7705,7 +7633,7 @@ return array (
     'latitude' => 45.84073,
     'longitude' => 8.98236,
   ),
-  856 => 
+  848 => 
   array (
     'id' => 18232,
     'name' => 'Nunningen',
@@ -7714,7 +7642,7 @@ return array (
     'latitude' => 47.3941,
     'longitude' => 7.61951,
   ),
-  857 => 
+  849 => 
   array (
     'id' => 18233,
     'name' => 'Nyon',
@@ -7723,7 +7651,7 @@ return array (
     'latitude' => 46.38318,
     'longitude' => 6.23955,
   ),
-  858 => 
+  850 => 
   array (
     'id' => 18234,
     'name' => 'Nyon District',
@@ -7732,7 +7660,7 @@ return array (
     'latitude' => 46.42004,
     'longitude' => 6.22177,
   ),
-  859 => 
+  851 => 
   array (
     'id' => 18235,
     'name' => 'Näfels',
@@ -7741,7 +7669,7 @@ return array (
     'latitude' => 47.09775,
     'longitude' => 9.06361,
   ),
-  860 => 
+  852 => 
   array (
     'id' => 18236,
     'name' => 'Nänikon',
@@ -7750,7 +7678,7 @@ return array (
     'latitude' => 47.36975,
     'longitude' => 8.68894,
   ),
-  861 => 
+  853 => 
   array (
     'id' => 18238,
     'name' => 'Nürensdorf',
@@ -7759,7 +7687,7 @@ return array (
     'latitude' => 47.44814,
     'longitude' => 8.64908,
   ),
-  862 => 
+  854 => 
   array (
     'id' => 18239,
     'name' => 'Oberaargau',
@@ -7768,7 +7696,7 @@ return array (
     'latitude' => 47.19202,
     'longitude' => 7.74553,
   ),
-  863 => 
+  855 => 
   array (
     'id' => 18240,
     'name' => 'Oberbipp',
@@ -7777,7 +7705,7 @@ return array (
     'latitude' => 47.2607,
     'longitude' => 7.66359,
   ),
-  864 => 
+  856 => 
   array (
     'id' => 18241,
     'name' => 'Oberbuchsiten',
@@ -7786,7 +7714,7 @@ return array (
     'latitude' => 47.31334,
     'longitude' => 7.76836,
   ),
-  865 => 
+  857 => 
   array (
     'id' => 18242,
     'name' => 'Oberburg',
@@ -7795,7 +7723,7 @@ return array (
     'latitude' => 47.03665,
     'longitude' => 7.62745,
   ),
-  866 => 
+  858 => 
   array (
     'id' => 18243,
     'name' => 'Oberdiessbach',
@@ -7804,7 +7732,7 @@ return array (
     'latitude' => 46.84117,
     'longitude' => 7.6173,
   ),
-  867 => 
+  859 => 
   array (
     'id' => 18244,
     'name' => 'Oberdorf',
@@ -7813,7 +7741,7 @@ return array (
     'latitude' => 47.39353,
     'longitude' => 7.75169,
   ),
-  868 => 
+  860 => 
   array (
     'id' => 18245,
     'name' => 'Oberegg',
@@ -7822,7 +7750,7 @@ return array (
     'latitude' => 47.42531,
     'longitude' => 9.55134,
   ),
-  869 => 
+  861 => 
   array (
     'id' => 18246,
     'name' => 'Oberengstringen',
@@ -7831,7 +7759,7 @@ return array (
     'latitude' => 47.40841,
     'longitude' => 8.46515,
   ),
-  870 => 
+  862 => 
   array (
     'id' => 18247,
     'name' => 'Oberengstringen / Rauchacher',
@@ -7840,7 +7768,7 @@ return array (
     'latitude' => 47.40919,
     'longitude' => 8.45627,
   ),
-  871 => 
+  863 => 
   array (
     'id' => 18248,
     'name' => 'Oberengstringen / Sonnenberg',
@@ -7849,7 +7777,7 @@ return array (
     'latitude' => 47.41211,
     'longitude' => 8.46055,
   ),
-  872 => 
+  864 => 
   array (
     'id' => 18249,
     'name' => 'Oberengstringen / Zentrum',
@@ -7858,7 +7786,7 @@ return array (
     'latitude' => 47.40711,
     'longitude' => 8.46276,
   ),
-  873 => 
+  865 => 
   array (
     'id' => 18250,
     'name' => 'Oberentfelden',
@@ -7867,7 +7795,7 @@ return array (
     'latitude' => 47.35639,
     'longitude' => 8.04594,
   ),
-  874 => 
+  866 => 
   array (
     'id' => 18251,
     'name' => 'Oberglatt',
@@ -7876,7 +7804,7 @@ return array (
     'latitude' => 47.47576,
     'longitude' => 8.51896,
   ),
-  875 => 
+  867 => 
   array (
     'id' => 18252,
     'name' => 'Oberglatt / Bahnhofquartier',
@@ -7885,7 +7813,7 @@ return array (
     'latitude' => 47.47143,
     'longitude' => 8.51289,
   ),
-  876 => 
+  868 => 
   array (
     'id' => 18254,
     'name' => 'Obergösgen',
@@ -7894,7 +7822,7 @@ return array (
     'latitude' => 47.36538,
     'longitude' => 7.95173,
   ),
-  877 => 
+  869 => 
   array (
     'id' => 18255,
     'name' => 'Oberhelfenschwil',
@@ -7903,7 +7831,7 @@ return array (
     'latitude' => 47.35673,
     'longitude' => 9.11076,
   ),
-  878 => 
+  870 => 
   array (
     'id' => 18256,
     'name' => 'Oberkirch',
@@ -7912,7 +7840,7 @@ return array (
     'latitude' => 47.15642,
     'longitude' => 8.11567,
   ),
-  879 => 
+  871 => 
   array (
     'id' => 18257,
     'name' => 'Oberlunkhofen',
@@ -7921,7 +7849,7 @@ return array (
     'latitude' => 47.31244,
     'longitude' => 8.39242,
   ),
-  880 => 
+  872 => 
   array (
     'id' => 18258,
     'name' => 'Obermeilen',
@@ -7930,7 +7858,7 @@ return array (
     'latitude' => 47.26574,
     'longitude' => 8.65567,
   ),
-  881 => 
+  873 => 
   array (
     'id' => 18259,
     'name' => 'Oberrieden',
@@ -7939,7 +7867,7 @@ return array (
     'latitude' => 47.27444,
     'longitude' => 8.57838,
   ),
-  882 => 
+  874 => 
   array (
     'id' => 18260,
     'name' => 'Oberrieden / Berg',
@@ -7948,7 +7876,7 @@ return array (
     'latitude' => 47.27628,
     'longitude' => 8.57257,
   ),
-  883 => 
+  875 => 
   array (
     'id' => 18261,
     'name' => 'Oberrieden / Mitte',
@@ -7957,7 +7885,7 @@ return array (
     'latitude' => 47.27242,
     'longitude' => 8.58021,
   ),
-  884 => 
+  876 => 
   array (
     'id' => 18262,
     'name' => 'Oberriet',
@@ -7966,7 +7894,7 @@ return array (
     'latitude' => 47.32088,
     'longitude' => 9.56808,
   ),
-  885 => 
+  877 => 
   array (
     'id' => 18263,
     'name' => 'Oberrohrdorf',
@@ -7975,7 +7903,7 @@ return array (
     'latitude' => 47.41833,
     'longitude' => 8.31983,
   ),
-  886 => 
+  878 => 
   array (
     'id' => 18264,
     'name' => 'Oberrüti',
@@ -7984,7 +7912,7 @@ return array (
     'latitude' => 47.16673,
     'longitude' => 8.39441,
   ),
-  887 => 
+  879 => 
   array (
     'id' => 18265,
     'name' => 'Oberschrot',
@@ -7993,7 +7921,7 @@ return array (
     'latitude' => 46.74126,
     'longitude' => 7.28149,
   ),
-  888 => 
+  880 => 
   array (
     'id' => 18266,
     'name' => 'Obersiggenthal',
@@ -8002,7 +7930,7 @@ return array (
     'latitude' => 47.4875,
     'longitude' => 8.29652,
   ),
-  889 => 
+  881 => 
   array (
     'id' => 18267,
     'name' => 'Obersimmental-Saanen District',
@@ -8011,7 +7939,7 @@ return array (
     'latitude' => 46.47932,
     'longitude' => 7.35803,
   ),
-  890 => 
+  882 => 
   array (
     'id' => 18268,
     'name' => 'Oberurnen',
@@ -8020,7 +7948,7 @@ return array (
     'latitude' => 47.11412,
     'longitude' => 9.05866,
   ),
-  891 => 
+  883 => 
   array (
     'id' => 18269,
     'name' => 'Oberuzwil',
@@ -8029,7 +7957,7 @@ return array (
     'latitude' => 47.43076,
     'longitude' => 9.12724,
   ),
-  892 => 
+  884 => 
   array (
     'id' => 18270,
     'name' => 'Oberwil',
@@ -8038,7 +7966,7 @@ return array (
     'latitude' => 47.51407,
     'longitude' => 7.55786,
   ),
-  893 => 
+  885 => 
   array (
     'id' => 18276,
     'name' => 'Obfelden',
@@ -8047,7 +7975,7 @@ return array (
     'latitude' => 47.26413,
     'longitude' => 8.4215,
   ),
-  894 => 
+  886 => 
   array (
     'id' => 18277,
     'name' => 'Obfelden / Oberlunnern',
@@ -8056,7 +7984,7 @@ return array (
     'latitude' => 47.26197,
     'longitude' => 8.41588,
   ),
-  895 => 
+  887 => 
   array (
     'id' => 18278,
     'name' => 'Obfelden / Toussen',
@@ -8065,7 +7993,7 @@ return array (
     'latitude' => 47.26574,
     'longitude' => 8.43013,
   ),
-  896 => 
+  888 => 
   array (
     'id' => 18279,
     'name' => 'Oensingen',
@@ -8074,7 +8002,7 @@ return array (
     'latitude' => 47.28764,
     'longitude' => 7.71612,
   ),
-  897 => 
+  889 => 
   array (
     'id' => 18280,
     'name' => 'Oetwil',
@@ -8083,7 +8011,7 @@ return array (
     'latitude' => 47.27049,
     'longitude' => 8.72023,
   ),
-  898 => 
+  890 => 
   array (
     'id' => 18281,
     'name' => 'Oftringen',
@@ -8092,7 +8020,7 @@ return array (
     'latitude' => 47.31382,
     'longitude' => 7.92533,
   ),
-  899 => 
+  891 => 
   array (
     'id' => 18282,
     'name' => 'Ollon',
@@ -8101,7 +8029,7 @@ return array (
     'latitude' => 46.29524,
     'longitude' => 6.99314,
   ),
-  900 => 
+  892 => 
   array (
     'id' => 18283,
     'name' => 'Olten',
@@ -8110,7 +8038,7 @@ return array (
     'latitude' => 47.34999,
     'longitude' => 7.90329,
   ),
-  901 => 
+  893 => 
   array (
     'id' => 18284,
     'name' => 'Onex',
@@ -8119,7 +8047,7 @@ return array (
     'latitude' => 46.18396,
     'longitude' => 6.10237,
   ),
-  902 => 
+  894 => 
   array (
     'id' => 18285,
     'name' => 'Opfikon',
@@ -8128,7 +8056,7 @@ return array (
     'latitude' => 47.43169,
     'longitude' => 8.57588,
   ),
-  903 => 
+  895 => 
   array (
     'id' => 18286,
     'name' => 'Orbe',
@@ -8137,7 +8065,7 @@ return array (
     'latitude' => 46.72504,
     'longitude' => 6.53069,
   ),
-  904 => 
+  896 => 
   array (
     'id' => 18287,
     'name' => 'Ormalingen',
@@ -8146,7 +8074,7 @@ return array (
     'latitude' => 47.46936,
     'longitude' => 7.87248,
   ),
-  905 => 
+  897 => 
   array (
     'id' => 18288,
     'name' => 'Oron-la-Ville',
@@ -8155,7 +8083,7 @@ return array (
     'latitude' => 46.57094,
     'longitude' => 6.82557,
   ),
-  906 => 
+  898 => 
   array (
     'id' => 18289,
     'name' => 'Orpund',
@@ -8164,7 +8092,7 @@ return array (
     'latitude' => 47.13891,
     'longitude' => 7.30775,
   ),
-  907 => 
+  899 => 
   array (
     'id' => 18290,
     'name' => 'Orsières',
@@ -8173,7 +8101,7 @@ return array (
     'latitude' => 46.02903,
     'longitude' => 7.14437,
   ),
-  908 => 
+  900 => 
   array (
     'id' => 18291,
     'name' => 'Orvin',
@@ -8182,7 +8110,7 @@ return array (
     'latitude' => 47.16068,
     'longitude' => 7.21368,
   ),
-  909 => 
+  901 => 
   array (
     'id' => 18292,
     'name' => 'Otelfingen',
@@ -8191,7 +8119,7 @@ return array (
     'latitude' => 47.46053,
     'longitude' => 8.39141,
   ),
-  910 => 
+  902 => 
   array (
     'id' => 18293,
     'name' => 'Othmarsingen',
@@ -8200,7 +8128,7 @@ return array (
     'latitude' => 47.40125,
     'longitude' => 8.21383,
   ),
-  911 => 
+  903 => 
   array (
     'id' => 18294,
     'name' => 'Ottenbach',
@@ -8209,7 +8137,7 @@ return array (
     'latitude' => 47.28228,
     'longitude' => 8.40432,
   ),
-  912 => 
+  904 => 
   array (
     'id' => 18295,
     'name' => 'Ouest Lausannois District',
@@ -8218,7 +8146,7 @@ return array (
     'latitude' => 46.54589,
     'longitude' => 6.56995,
   ),
-  913 => 
+  905 => 
   array (
     'id' => 18296,
     'name' => 'Pailly',
@@ -8227,7 +8155,7 @@ return array (
     'latitude' => 46.70123,
     'longitude' => 6.6754,
   ),
-  914 => 
+  906 => 
   array (
     'id' => 18297,
     'name' => 'Palézieux',
@@ -8236,7 +8164,7 @@ return array (
     'latitude' => 46.54191,
     'longitude' => 6.83989,
   ),
-  915 => 
+  907 => 
   array (
     'id' => 18298,
     'name' => 'Pampigny',
@@ -8245,7 +8173,7 @@ return array (
     'latitude' => 46.58093,
     'longitude' => 6.42941,
   ),
-  916 => 
+  908 => 
   array (
     'id' => 18299,
     'name' => 'Paudex',
@@ -8254,7 +8182,7 @@ return array (
     'latitude' => 46.50548,
     'longitude' => 6.66819,
   ),
-  917 => 
+  909 => 
   array (
     'id' => 18300,
     'name' => 'Payerne',
@@ -8263,7 +8191,7 @@ return array (
     'latitude' => 46.82192,
     'longitude' => 6.93817,
   ),
-  918 => 
+  910 => 
   array (
     'id' => 18301,
     'name' => 'Penthalaz',
@@ -8272,7 +8200,7 @@ return array (
     'latitude' => 46.61077,
     'longitude' => 6.52519,
   ),
-  919 => 
+  911 => 
   array (
     'id' => 18302,
     'name' => 'Penthéréaz',
@@ -8281,7 +8209,7 @@ return array (
     'latitude' => 46.68171,
     'longitude' => 6.6039,
   ),
-  920 => 
+  912 => 
   array (
     'id' => 18303,
     'name' => 'Perroy',
@@ -8290,7 +8218,7 @@ return array (
     'latitude' => 46.4669,
     'longitude' => 6.35349,
   ),
-  921 => 
+  913 => 
   array (
     'id' => 18304,
     'name' => 'Peseux',
@@ -8299,7 +8227,7 @@ return array (
     'latitude' => 46.98704,
     'longitude' => 6.88903,
   ),
-  922 => 
+  914 => 
   array (
     'id' => 18305,
     'name' => 'Pfaffhausen',
@@ -8308,7 +8236,7 @@ return array (
     'latitude' => 47.36476,
     'longitude' => 8.62375,
   ),
-  923 => 
+  915 => 
   array (
     'id' => 18306,
     'name' => 'Pfaffnau',
@@ -8317,7 +8245,7 @@ return array (
     'latitude' => 47.22772,
     'longitude' => 7.89719,
   ),
-  924 => 
+  916 => 
   array (
     'id' => 18307,
     'name' => 'Pfeffingen',
@@ -8326,7 +8254,7 @@ return array (
     'latitude' => 47.45984,
     'longitude' => 7.58975,
   ),
-  925 => 
+  917 => 
   array (
     'id' => 18308,
     'name' => 'Pfungen',
@@ -8335,7 +8263,7 @@ return array (
     'latitude' => 47.51394,
     'longitude' => 8.6423,
   ),
-  926 => 
+  918 => 
   array (
     'id' => 18309,
     'name' => 'Pfyn',
@@ -8344,7 +8272,7 @@ return array (
     'latitude' => 47.59693,
     'longitude' => 8.9542,
   ),
-  927 => 
+  919 => 
   array (
     'id' => 18310,
     'name' => 'Pfäffikon',
@@ -8353,16 +8281,7 @@ return array (
     'latitude' => 47.20109,
     'longitude' => 8.77816,
   ),
-  928 => 
-  array (
-    'id' => 18311,
-    'name' => 'Pfäffikon',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.36453,
-    'longitude' => 8.79202,
-  ),
-  929 => 
+  920 => 
   array (
     'id' => 18312,
     'name' => 'Pfäffikon / Irgenhausen',
@@ -8371,7 +8290,7 @@ return array (
     'latitude' => 47.3624,
     'longitude' => 8.79265,
   ),
-  930 => 
+  921 => 
   array (
     'id' => 18314,
     'name' => 'Pieterlen',
@@ -8380,7 +8299,7 @@ return array (
     'latitude' => 47.17501,
     'longitude' => 7.33791,
   ),
-  931 => 
+  922 => 
   array (
     'id' => 18315,
     'name' => 'Plaffeien',
@@ -8389,7 +8308,7 @@ return array (
     'latitude' => 46.74198,
     'longitude' => 7.28666,
   ),
-  932 => 
+  923 => 
   array (
     'id' => 18316,
     'name' => 'Plan-les-Ouates',
@@ -8398,7 +8317,7 @@ return array (
     'latitude' => 46.16789,
     'longitude' => 6.11664,
   ),
-  933 => 
+  924 => 
   array (
     'id' => 18317,
     'name' => 'Pompaples',
@@ -8407,7 +8326,7 @@ return array (
     'latitude' => 46.66699,
     'longitude' => 6.50966,
   ),
-  934 => 
+  925 => 
   array (
     'id' => 18318,
     'name' => 'Pontresina',
@@ -8416,7 +8335,7 @@ return array (
     'latitude' => 46.4955,
     'longitude' => 9.90126,
   ),
-  935 => 
+  926 => 
   array (
     'id' => 18319,
     'name' => 'Porrentruy',
@@ -8425,7 +8344,7 @@ return array (
     'latitude' => 47.41728,
     'longitude' => 7.07573,
   ),
-  936 => 
+  927 => 
   array (
     'id' => 18320,
     'name' => 'Porrentruy District',
@@ -8434,7 +8353,7 @@ return array (
     'latitude' => 47.41475,
     'longitude' => 7.07638,
   ),
-  937 => 
+  928 => 
   array (
     'id' => 18321,
     'name' => 'Poschiavo',
@@ -8443,7 +8362,7 @@ return array (
     'latitude' => 46.32441,
     'longitude' => 10.05823,
   ),
-  938 => 
+  929 => 
   array (
     'id' => 18322,
     'name' => 'Prangins',
@@ -8452,7 +8371,7 @@ return array (
     'latitude' => 46.39518,
     'longitude' => 6.2496,
   ),
-  939 => 
+  930 => 
   array (
     'id' => 18323,
     'name' => 'Praroman',
@@ -8461,7 +8380,7 @@ return array (
     'latitude' => 46.75145,
     'longitude' => 7.17778,
   ),
-  940 => 
+  931 => 
   array (
     'id' => 18324,
     'name' => 'Pratteln',
@@ -8470,7 +8389,7 @@ return array (
     'latitude' => 47.52071,
     'longitude' => 7.69356,
   ),
-  941 => 
+  932 => 
   array (
     'id' => 18325,
     'name' => 'Pregassona',
@@ -8479,7 +8398,7 @@ return array (
     'latitude' => 46.02021,
     'longitude' => 8.97429,
   ),
-  942 => 
+  933 => 
   array (
     'id' => 18326,
     'name' => 'Prilly',
@@ -8488,7 +8407,7 @@ return array (
     'latitude' => 46.53698,
     'longitude' => 6.60456,
   ),
-  943 => 
+  934 => 
   array (
     'id' => 18327,
     'name' => 'Préverenges',
@@ -8497,7 +8416,7 @@ return array (
     'latitude' => 46.51854,
     'longitude' => 6.52682,
   ),
-  944 => 
+  935 => 
   array (
     'id' => 18328,
     'name' => 'Puidoux',
@@ -8506,7 +8425,7 @@ return array (
     'latitude' => 46.50093,
     'longitude' => 6.78249,
   ),
-  945 => 
+  936 => 
   array (
     'id' => 18329,
     'name' => 'Pully',
@@ -8515,7 +8434,7 @@ return array (
     'latitude' => 46.51027,
     'longitude' => 6.66183,
   ),
-  946 => 
+  937 => 
   array (
     'id' => 18330,
     'name' => 'Puplinge',
@@ -8524,7 +8443,7 @@ return array (
     'latitude' => 46.21043,
     'longitude' => 6.23114,
   ),
-  947 => 
+  938 => 
   array (
     'id' => 18331,
     'name' => 'Pura',
@@ -8533,7 +8452,7 @@ return array (
     'latitude' => 45.98647,
     'longitude' => 8.86877,
   ),
-  948 => 
+  939 => 
   array (
     'id' => 18332,
     'name' => 'Péry',
@@ -8542,7 +8461,7 @@ return array (
     'latitude' => 47.19398,
     'longitude' => 7.24913,
   ),
-  949 => 
+  940 => 
   array (
     'id' => 18333,
     'name' => 'Quarten',
@@ -8551,7 +8470,7 @@ return array (
     'latitude' => 47.107,
     'longitude' => 9.24199,
   ),
-  950 => 
+  941 => 
   array (
     'id' => 18334,
     'name' => 'Radelfingen',
@@ -8560,7 +8479,7 @@ return array (
     'latitude' => 47.02146,
     'longitude' => 7.27178,
   ),
-  951 => 
+  942 => 
   array (
     'id' => 18335,
     'name' => 'Rafz',
@@ -8569,7 +8488,7 @@ return array (
     'latitude' => 47.60438,
     'longitude' => 8.54305,
   ),
-  952 => 
+  943 => 
   array (
     'id' => 18336,
     'name' => 'Ramsen',
@@ -8578,7 +8497,7 @@ return array (
     'latitude' => 47.70797,
     'longitude' => 8.80949,
   ),
-  953 => 
+  944 => 
   array (
     'id' => 18337,
     'name' => 'Randogne',
@@ -8587,7 +8506,7 @@ return array (
     'latitude' => 46.30952,
     'longitude' => 7.50058,
   ),
-  954 => 
+  945 => 
   array (
     'id' => 18338,
     'name' => 'Rapperswil',
@@ -8596,7 +8515,7 @@ return array (
     'latitude' => 47.22557,
     'longitude' => 8.82228,
   ),
-  955 => 
+  946 => 
   array (
     'id' => 18339,
     'name' => 'Raron',
@@ -8605,7 +8524,7 @@ return array (
     'latitude' => 46.31196,
     'longitude' => 7.80029,
   ),
-  956 => 
+  947 => 
   array (
     'id' => 18340,
     'name' => 'Raron District',
@@ -8614,7 +8533,7 @@ return array (
     'latitude' => 46.3,
     'longitude' => 7.8,
   ),
-  957 => 
+  948 => 
   array (
     'id' => 18341,
     'name' => 'Rebstein',
@@ -8623,7 +8542,7 @@ return array (
     'latitude' => 47.39812,
     'longitude' => 9.58503,
   ),
-  958 => 
+  949 => 
   array (
     'id' => 18342,
     'name' => 'Rechthalten',
@@ -8632,7 +8551,7 @@ return array (
     'latitude' => 46.76766,
     'longitude' => 7.24028,
   ),
-  959 => 
+  950 => 
   array (
     'id' => 18343,
     'name' => 'Reconvilier',
@@ -8641,7 +8560,7 @@ return array (
     'latitude' => 47.23431,
     'longitude' => 7.22239,
   ),
-  960 => 
+  951 => 
   array (
     'id' => 18344,
     'name' => 'Regensdorf',
@@ -8650,7 +8569,7 @@ return array (
     'latitude' => 47.4341,
     'longitude' => 8.46874,
   ),
-  961 => 
+  952 => 
   array (
     'id' => 18345,
     'name' => 'Regensdorf / Feldblumen-Riedthofstrasse',
@@ -8659,7 +8578,7 @@ return array (
     'latitude' => 47.43618,
     'longitude' => 8.46659,
   ),
-  962 => 
+  953 => 
   array (
     'id' => 18346,
     'name' => 'Regensdorf / Hofacher-Geeren',
@@ -8668,7 +8587,7 @@ return array (
     'latitude' => 47.43525,
     'longitude' => 8.4624,
   ),
-  963 => 
+  954 => 
   array (
     'id' => 18347,
     'name' => 'Regensdorf / Obstgarten',
@@ -8677,7 +8596,7 @@ return array (
     'latitude' => 47.42772,
     'longitude' => 8.46566,
   ),
-  964 => 
+  955 => 
   array (
     'id' => 18348,
     'name' => 'Region Albula',
@@ -8686,7 +8605,7 @@ return array (
     'latitude' => 46.60255,
     'longitude' => 9.6515,
   ),
-  965 => 
+  956 => 
   array (
     'id' => 18349,
     'name' => 'Region Bernina',
@@ -8695,7 +8614,7 @@ return array (
     'latitude' => 46.33488,
     'longitude' => 10.07349,
   ),
-  966 => 
+  957 => 
   array (
     'id' => 18350,
     'name' => 'Region Engiadina Bassa / Val Müstair',
@@ -8704,7 +8623,7 @@ return array (
     'latitude' => 46.75212,
     'longitude' => 10.26032,
   ),
-  967 => 
+  958 => 
   array (
     'id' => 18351,
     'name' => 'Region Imboden',
@@ -8713,7 +8632,7 @@ return array (
     'latitude' => 46.84876,
     'longitude' => 9.36225,
   ),
-  968 => 
+  959 => 
   array (
     'id' => 18352,
     'name' => 'Region Landquart',
@@ -8722,7 +8641,7 @@ return array (
     'latitude' => 46.96403,
     'longitude' => 9.56365,
   ),
-  969 => 
+  960 => 
   array (
     'id' => 18353,
     'name' => 'Region Maloja',
@@ -8731,7 +8650,7 @@ return array (
     'latitude' => 46.47448,
     'longitude' => 9.83138,
   ),
-  970 => 
+  961 => 
   array (
     'id' => 18354,
     'name' => 'Region Moesa',
@@ -8740,7 +8659,7 @@ return array (
     'latitude' => 46.352,
     'longitude' => 9.1787,
   ),
-  971 => 
+  962 => 
   array (
     'id' => 18355,
     'name' => 'Region Plessur',
@@ -8749,7 +8668,7 @@ return array (
     'latitude' => 46.81819,
     'longitude' => 9.62542,
   ),
-  972 => 
+  963 => 
   array (
     'id' => 18356,
     'name' => 'Region Prättigau / Davos',
@@ -8758,7 +8677,7 @@ return array (
     'latitude' => 46.86727,
     'longitude' => 9.82014,
   ),
-  973 => 
+  964 => 
   array (
     'id' => 18357,
     'name' => 'Region Surselva',
@@ -8767,7 +8686,7 @@ return array (
     'latitude' => 46.69564,
     'longitude' => 9.04834,
   ),
-  974 => 
+  965 => 
   array (
     'id' => 18358,
     'name' => 'Region Viamala',
@@ -8776,7 +8695,7 @@ return array (
     'latitude' => 46.58762,
     'longitude' => 9.40035,
   ),
-  975 => 
+  966 => 
   array (
     'id' => 18359,
     'name' => 'Rehetobel',
@@ -8785,7 +8704,7 @@ return array (
     'latitude' => 47.42611,
     'longitude' => 9.483,
   ),
-  976 => 
+  967 => 
   array (
     'id' => 18360,
     'name' => 'Reichenburg',
@@ -8794,7 +8713,7 @@ return array (
     'latitude' => 47.17097,
     'longitude' => 8.97704,
   ),
-  977 => 
+  968 => 
   array (
     'id' => 18361,
     'name' => 'Reiden',
@@ -8803,7 +8722,7 @@ return array (
     'latitude' => 47.24719,
     'longitude' => 7.97135,
   ),
-  978 => 
+  969 => 
   array (
     'id' => 18362,
     'name' => 'Reigoldswil',
@@ -8812,7 +8731,7 @@ return array (
     'latitude' => 47.39824,
     'longitude' => 7.68718,
   ),
-  979 => 
+  970 => 
   array (
     'id' => 18363,
     'name' => 'Reinach',
@@ -8821,7 +8740,7 @@ return array (
     'latitude' => 47.25732,
     'longitude' => 8.18091,
   ),
-  980 => 
+  971 => 
   array (
     'id' => 18364,
     'name' => 'Renens',
@@ -8830,7 +8749,7 @@ return array (
     'latitude' => 46.53989,
     'longitude' => 6.5881,
   ),
-  981 => 
+  972 => 
   array (
     'id' => 18365,
     'name' => 'Rheineck',
@@ -8839,7 +8758,7 @@ return array (
     'latitude' => 47.4663,
     'longitude' => 9.59028,
   ),
-  982 => 
+  973 => 
   array (
     'id' => 18366,
     'name' => 'Rheinfelden',
@@ -8848,7 +8767,7 @@ return array (
     'latitude' => 47.55437,
     'longitude' => 7.79403,
   ),
-  983 => 
+  974 => 
   array (
     'id' => 18367,
     'name' => 'Rhäzüns',
@@ -8857,7 +8776,7 @@ return array (
     'latitude' => 46.79891,
     'longitude' => 9.39764,
   ),
-  984 => 
+  975 => 
   array (
     'id' => 18368,
     'name' => 'Riaz',
@@ -8866,7 +8785,7 @@ return array (
     'latitude' => 46.64224,
     'longitude' => 7.06183,
   ),
-  985 => 
+  976 => 
   array (
     'id' => 18369,
     'name' => 'Richterswil',
@@ -8875,7 +8794,7 @@ return array (
     'latitude' => 47.20622,
     'longitude' => 8.69686,
   ),
-  986 => 
+  977 => 
   array (
     'id' => 18370,
     'name' => 'Richterswil / Burghalde',
@@ -8884,7 +8803,7 @@ return array (
     'latitude' => 47.20973,
     'longitude' => 8.69133,
   ),
-  987 => 
+  978 => 
   array (
     'id' => 18371,
     'name' => 'Richterswil / Dorfkern',
@@ -8893,7 +8812,7 @@ return array (
     'latitude' => 47.20715,
     'longitude' => 8.70607,
   ),
-  988 => 
+  979 => 
   array (
     'id' => 18373,
     'name' => 'Rickenbach bei Wil',
@@ -8902,7 +8821,7 @@ return array (
     'latitude' => 47.44856,
     'longitude' => 9.04902,
   ),
-  989 => 
+  980 => 
   array (
     'id' => 18374,
     'name' => 'Riddes',
@@ -8911,7 +8830,7 @@ return array (
     'latitude' => 46.17276,
     'longitude' => 7.2236,
   ),
-  990 => 
+  981 => 
   array (
     'id' => 18375,
     'name' => 'Riedholz',
@@ -8920,7 +8839,7 @@ return array (
     'latitude' => 47.23158,
     'longitude' => 7.56829,
   ),
-  991 => 
+  982 => 
   array (
     'id' => 18376,
     'name' => 'Riggisberg',
@@ -8929,7 +8848,7 @@ return array (
     'latitude' => 46.81028,
     'longitude' => 7.48014,
   ),
-  992 => 
+  983 => 
   array (
     'id' => 18377,
     'name' => 'Ringgenberg',
@@ -8938,7 +8857,7 @@ return array (
     'latitude' => 46.70114,
     'longitude' => 7.89445,
   ),
-  993 => 
+  984 => 
   array (
     'id' => 18378,
     'name' => 'Riva San Vitale',
@@ -8947,7 +8866,7 @@ return array (
     'latitude' => 45.90123,
     'longitude' => 8.97167,
   ),
-  994 => 
+  985 => 
   array (
     'id' => 18379,
     'name' => 'Riviera District',
@@ -8956,7 +8875,7 @@ return array (
     'latitude' => 46.30926,
     'longitude' => 8.98148,
   ),
-  995 => 
+  986 => 
   array (
     'id' => 18380,
     'name' => 'Riviera-Pays-d\\\'Enhaut District',
@@ -8965,7 +8884,7 @@ return array (
     'latitude' => 46.46459,
     'longitude' => 6.88499,
   ),
-  996 => 
+  987 => 
   array (
     'id' => 18381,
     'name' => 'Rodersdorf',
@@ -8974,7 +8893,7 @@ return array (
     'latitude' => 47.48082,
     'longitude' => 7.45767,
   ),
-  997 => 
+  988 => 
   array (
     'id' => 18382,
     'name' => 'Roggwil',
@@ -8983,16 +8902,7 @@ return array (
     'latitude' => 47.24119,
     'longitude' => 7.82141,
   ),
-  998 => 
-  array (
-    'id' => 18383,
-    'name' => 'Roggwil',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.49981,
-    'longitude' => 9.3958,
-  ),
-  999 => 
+  989 => 
   array (
     'id' => 18384,
     'name' => 'Rohr',
@@ -9001,7 +8911,7 @@ return array (
     'latitude' => 47.41029,
     'longitude' => 7.95333,
   ),
-  1000 => 
+  990 => 
   array (
     'id' => 18385,
     'name' => 'Rohrbach',
@@ -9010,7 +8920,7 @@ return array (
     'latitude' => 47.13521,
     'longitude' => 7.81334,
   ),
-  1001 => 
+  991 => 
   array (
     'id' => 18386,
     'name' => 'Rolle',
@@ -9019,7 +8929,7 @@ return array (
     'latitude' => 46.4582,
     'longitude' => 6.33499,
   ),
-  1002 => 
+  992 => 
   array (
     'id' => 18387,
     'name' => 'Romanel-sur-Lausanne',
@@ -9028,7 +8938,7 @@ return array (
     'latitude' => 46.56403,
     'longitude' => 6.60538,
   ),
-  1003 => 
+  993 => 
   array (
     'id' => 18388,
     'name' => 'Romanshorn',
@@ -9037,7 +8947,7 @@ return array (
     'latitude' => 47.56586,
     'longitude' => 9.37869,
   ),
-  1004 => 
+  994 => 
   array (
     'id' => 18389,
     'name' => 'Romont',
@@ -9046,7 +8956,7 @@ return array (
     'latitude' => 46.69652,
     'longitude' => 6.91898,
   ),
-  1005 => 
+  995 => 
   array (
     'id' => 18390,
     'name' => 'Root',
@@ -9055,7 +8965,7 @@ return array (
     'latitude' => 47.11458,
     'longitude' => 8.39021,
   ),
-  1006 => 
+  996 => 
   array (
     'id' => 18391,
     'name' => 'Rorbas',
@@ -9064,7 +8974,7 @@ return array (
     'latitude' => 47.53092,
     'longitude' => 8.57555,
   ),
-  1007 => 
+  997 => 
   array (
     'id' => 18392,
     'name' => 'Rorschach',
@@ -9073,7 +8983,7 @@ return array (
     'latitude' => 47.478,
     'longitude' => 9.4903,
   ),
-  1008 => 
+  998 => 
   array (
     'id' => 18393,
     'name' => 'Rothenthurm',
@@ -9082,7 +8992,7 @@ return array (
     'latitude' => 47.1042,
     'longitude' => 8.67585,
   ),
-  1009 => 
+  999 => 
   array (
     'id' => 18394,
     'name' => 'Rothrist',
@@ -9091,7 +9001,7 @@ return array (
     'latitude' => 47.30508,
     'longitude' => 7.89196,
   ),
-  1010 => 
+  1000 => 
   array (
     'id' => 18395,
     'name' => 'Rotkreuz',
@@ -9100,7 +9010,7 @@ return array (
     'latitude' => 47.14283,
     'longitude' => 8.4314,
   ),
-  1011 => 
+  1001 => 
   array (
     'id' => 18396,
     'name' => 'Rubigen',
@@ -9109,7 +9019,7 @@ return array (
     'latitude' => 46.89868,
     'longitude' => 7.5446,
   ),
-  1012 => 
+  1002 => 
   array (
     'id' => 18397,
     'name' => 'Rudolfstetten',
@@ -9118,7 +9028,7 @@ return array (
     'latitude' => 47.37101,
     'longitude' => 8.38083,
   ),
-  1013 => 
+  1003 => 
   array (
     'id' => 18398,
     'name' => 'Rue',
@@ -9127,7 +9037,7 @@ return array (
     'latitude' => 46.61916,
     'longitude' => 6.82225,
   ),
-  1014 => 
+  1004 => 
   array (
     'id' => 18399,
     'name' => 'Rupperswil',
@@ -9136,7 +9046,7 @@ return array (
     'latitude' => 47.40131,
     'longitude' => 8.12877,
   ),
-  1015 => 
+  1005 => 
   array (
     'id' => 18400,
     'name' => 'Russikon',
@@ -9145,7 +9055,7 @@ return array (
     'latitude' => 47.39669,
     'longitude' => 8.77515,
   ),
-  1016 => 
+  1006 => 
   array (
     'id' => 18401,
     'name' => 'Ruswil',
@@ -9154,7 +9064,7 @@ return array (
     'latitude' => 47.08425,
     'longitude' => 8.12645,
   ),
-  1017 => 
+  1007 => 
   array (
     'id' => 18402,
     'name' => 'Römerswil',
@@ -9163,7 +9073,7 @@ return array (
     'latitude' => 47.16881,
     'longitude' => 8.24528,
   ),
-  1018 => 
+  1008 => 
   array (
     'id' => 18403,
     'name' => 'Röschenz',
@@ -9172,7 +9082,7 @@ return array (
     'latitude' => 47.42366,
     'longitude' => 7.48024,
   ),
-  1019 => 
+  1009 => 
   array (
     'id' => 18404,
     'name' => 'Rüderswil',
@@ -9181,7 +9091,7 @@ return array (
     'latitude' => 46.98374,
     'longitude' => 7.72167,
   ),
-  1020 => 
+  1010 => 
   array (
     'id' => 18405,
     'name' => 'Rüeggisberg',
@@ -9190,7 +9100,7 @@ return array (
     'latitude' => 46.82216,
     'longitude' => 7.4389,
   ),
-  1021 => 
+  1011 => 
   array (
     'id' => 18406,
     'name' => 'Rümlang',
@@ -9199,7 +9109,7 @@ return array (
     'latitude' => 47.45041,
     'longitude' => 8.52993,
   ),
-  1022 => 
+  1012 => 
   array (
     'id' => 18408,
     'name' => 'Rüschegg',
@@ -9208,7 +9118,7 @@ return array (
     'latitude' => 46.77977,
     'longitude' => 7.39167,
   ),
-  1023 => 
+  1013 => 
   array (
     'id' => 18409,
     'name' => 'Rüschlikon',
@@ -9217,7 +9127,7 @@ return array (
     'latitude' => 47.30688,
     'longitude' => 8.55135,
   ),
-  1024 => 
+  1014 => 
   array (
     'id' => 18410,
     'name' => 'Rüthi',
@@ -9226,7 +9136,7 @@ return array (
     'latitude' => 47.2948,
     'longitude' => 9.53857,
   ),
-  1025 => 
+  1015 => 
   array (
     'id' => 18411,
     'name' => 'Rüti',
@@ -9235,7 +9145,7 @@ return array (
     'latitude' => 47.25603,
     'longitude' => 8.85552,
   ),
-  1026 => 
+  1016 => 
   array (
     'id' => 18412,
     'name' => 'Rüti / Dorfzentrum Südl. Teil',
@@ -9244,7 +9154,7 @@ return array (
     'latitude' => 47.25368,
     'longitude' => 8.85654,
   ),
-  1027 => 
+  1017 => 
   array (
     'id' => 18413,
     'name' => 'Rüti / Oberdorf',
@@ -9253,7 +9163,7 @@ return array (
     'latitude' => 47.25894,
     'longitude' => 8.86512,
   ),
-  1028 => 
+  1018 => 
   array (
     'id' => 18414,
     'name' => 'Rüti / Westlicher Dorfteil',
@@ -9262,7 +9172,7 @@ return array (
     'latitude' => 47.25548,
     'longitude' => 8.8449,
   ),
-  1029 => 
+  1019 => 
   array (
     'id' => 18415,
     'name' => 'Saanen',
@@ -9271,7 +9181,7 @@ return array (
     'latitude' => 46.48945,
     'longitude' => 7.26003,
   ),
-  1030 => 
+  1020 => 
   array (
     'id' => 18416,
     'name' => 'Saas-Fee',
@@ -9280,7 +9190,7 @@ return array (
     'latitude' => 46.10805,
     'longitude' => 7.92741,
   ),
-  1031 => 
+  1021 => 
   array (
     'id' => 18417,
     'name' => 'Saas-Grund',
@@ -9289,7 +9199,7 @@ return array (
     'latitude' => 46.12281,
     'longitude' => 7.93651,
   ),
-  1032 => 
+  1022 => 
   array (
     'id' => 18418,
     'name' => 'Sachseln',
@@ -9298,7 +9208,7 @@ return array (
     'latitude' => 46.86718,
     'longitude' => 8.23344,
   ),
-  1033 => 
+  1023 => 
   array (
     'id' => 18419,
     'name' => 'Safenwil',
@@ -9307,7 +9217,7 @@ return array (
     'latitude' => 47.32163,
     'longitude' => 7.98254,
   ),
-  1034 => 
+  1024 => 
   array (
     'id' => 18420,
     'name' => 'Saignelégier',
@@ -9316,7 +9226,7 @@ return array (
     'latitude' => 47.25619,
     'longitude' => 6.99648,
   ),
-  1035 => 
+  1025 => 
   array (
     'id' => 18421,
     'name' => 'Saillon',
@@ -9325,7 +9235,7 @@ return array (
     'latitude' => 46.17035,
     'longitude' => 7.18771,
   ),
-  1036 => 
+  1026 => 
   array (
     'id' => 18422,
     'name' => 'Saint-Aubin-Sauges',
@@ -9334,7 +9244,7 @@ return array (
     'latitude' => 46.89419,
     'longitude' => 6.77251,
   ),
-  1037 => 
+  1027 => 
   array (
     'id' => 18423,
     'name' => 'Saint-Blaise',
@@ -9343,7 +9253,7 @@ return array (
     'latitude' => 47.01511,
     'longitude' => 6.98832,
   ),
-  1038 => 
+  1028 => 
   array (
     'id' => 18424,
     'name' => 'Saint-Cergue',
@@ -9352,7 +9262,7 @@ return array (
     'latitude' => 46.4459,
     'longitude' => 6.15737,
   ),
-  1039 => 
+  1029 => 
   array (
     'id' => 18425,
     'name' => 'Saint-Imier',
@@ -9361,7 +9271,7 @@ return array (
     'latitude' => 47.15284,
     'longitude' => 6.99692,
   ),
-  1040 => 
+  1030 => 
   array (
     'id' => 18426,
     'name' => 'Saint-Livres',
@@ -9370,7 +9280,7 @@ return array (
     'latitude' => 46.50794,
     'longitude' => 6.38753,
   ),
-  1041 => 
+  1031 => 
   array (
     'id' => 18427,
     'name' => 'Saint-Léonard',
@@ -9379,7 +9289,7 @@ return array (
     'latitude' => 46.25152,
     'longitude' => 7.41714,
   ),
-  1042 => 
+  1032 => 
   array (
     'id' => 18428,
     'name' => 'Saint-Maurice',
@@ -9388,7 +9298,7 @@ return array (
     'latitude' => 46.21826,
     'longitude' => 7.0032,
   ),
-  1043 => 
+  1033 => 
   array (
     'id' => 18429,
     'name' => 'Saint-Maurice District',
@@ -9397,7 +9307,7 @@ return array (
     'latitude' => 46.15384,
     'longitude' => 6.99823,
   ),
-  1044 => 
+  1034 => 
   array (
     'id' => 18430,
     'name' => 'Saint-Prex',
@@ -9406,7 +9316,7 @@ return array (
     'latitude' => 46.47963,
     'longitude' => 6.45992,
   ),
-  1045 => 
+  1035 => 
   array (
     'id' => 18431,
     'name' => 'Sainte-Croix',
@@ -9415,7 +9325,7 @@ return array (
     'latitude' => 46.82203,
     'longitude' => 6.50283,
   ),
-  1046 => 
+  1036 => 
   array (
     'id' => 18432,
     'name' => 'Salgesch',
@@ -9424,7 +9334,7 @@ return array (
     'latitude' => 46.31155,
     'longitude' => 7.5712,
   ),
-  1047 => 
+  1037 => 
   array (
     'id' => 18433,
     'name' => 'Salmsach',
@@ -9433,7 +9343,7 @@ return array (
     'latitude' => 47.55433,
     'longitude' => 9.37229,
   ),
-  1048 => 
+  1038 => 
   array (
     'id' => 18434,
     'name' => 'Salvan',
@@ -9442,7 +9352,7 @@ return array (
     'latitude' => 46.1189,
     'longitude' => 7.02078,
   ),
-  1049 => 
+  1039 => 
   array (
     'id' => 18435,
     'name' => 'Samedan',
@@ -9451,7 +9361,7 @@ return array (
     'latitude' => 46.53399,
     'longitude' => 9.87276,
   ),
-  1050 => 
+  1040 => 
   array (
     'id' => 18436,
     'name' => 'Samstagern',
@@ -9460,7 +9370,7 @@ return array (
     'latitude' => 47.19167,
     'longitude' => 8.68196,
   ),
-  1051 => 
+  1041 => 
   array (
     'id' => 18437,
     'name' => 'Sankt Antoni',
@@ -9469,7 +9379,7 @@ return array (
     'latitude' => 46.82207,
     'longitude' => 7.26091,
   ),
-  1052 => 
+  1042 => 
   array (
     'id' => 18438,
     'name' => 'Sankt Gallen',
@@ -9478,7 +9388,7 @@ return array (
     'latitude' => 47.42391,
     'longitude' => 9.37477,
   ),
-  1053 => 
+  1043 => 
   array (
     'id' => 18439,
     'name' => 'Sankt Gallenkappel',
@@ -9487,7 +9397,7 @@ return array (
     'latitude' => 47.24368,
     'longitude' => 8.96438,
   ),
-  1054 => 
+  1044 => 
   array (
     'id' => 18440,
     'name' => 'Sankt Margrethen',
@@ -9496,7 +9406,7 @@ return array (
     'latitude' => 47.45253,
     'longitude' => 9.63741,
   ),
-  1055 => 
+  1045 => 
   array (
     'id' => 18441,
     'name' => 'Sankt Niklaus',
@@ -9505,7 +9415,7 @@ return array (
     'latitude' => 46.17717,
     'longitude' => 7.80349,
   ),
-  1056 => 
+  1046 => 
   array (
     'id' => 18442,
     'name' => 'Sankt Peterzell',
@@ -9514,7 +9424,7 @@ return array (
     'latitude' => 47.31782,
     'longitude' => 9.17599,
   ),
-  1057 => 
+  1047 => 
   array (
     'id' => 18443,
     'name' => 'Sankt Stephan',
@@ -9523,7 +9433,7 @@ return array (
     'latitude' => 46.50827,
     'longitude' => 7.39559,
   ),
-  1058 => 
+  1048 => 
   array (
     'id' => 18444,
     'name' => 'Sargans',
@@ -9532,7 +9442,7 @@ return array (
     'latitude' => 47.04896,
     'longitude' => 9.44103,
   ),
-  1059 => 
+  1049 => 
   array (
     'id' => 18445,
     'name' => 'Sarine District',
@@ -9541,7 +9451,7 @@ return array (
     'latitude' => 46.78435,
     'longitude' => 7.09993,
   ),
-  1060 => 
+  1050 => 
   array (
     'id' => 18446,
     'name' => 'Sarmenstorf',
@@ -9550,7 +9460,7 @@ return array (
     'latitude' => 47.31109,
     'longitude' => 8.2495,
   ),
-  1061 => 
+  1051 => 
   array (
     'id' => 18447,
     'name' => 'Sarnen',
@@ -9559,7 +9469,7 @@ return array (
     'latitude' => 46.89611,
     'longitude' => 8.24531,
   ),
-  1062 => 
+  1052 => 
   array (
     'id' => 18448,
     'name' => 'Satigny',
@@ -9568,7 +9478,7 @@ return array (
     'latitude' => 46.21462,
     'longitude' => 6.03553,
   ),
-  1063 => 
+  1053 => 
   array (
     'id' => 18449,
     'name' => 'Sattel',
@@ -9577,7 +9487,7 @@ return array (
     'latitude' => 47.08246,
     'longitude' => 8.63565,
   ),
-  1064 => 
+  1054 => 
   array (
     'id' => 18450,
     'name' => 'Saubraz',
@@ -9586,7 +9496,7 @@ return array (
     'latitude' => 46.51606,
     'longitude' => 6.33018,
   ),
-  1065 => 
+  1055 => 
   array (
     'id' => 18451,
     'name' => 'Savigny',
@@ -9595,7 +9505,7 @@ return array (
     'latitude' => 46.53844,
     'longitude' => 6.73222,
   ),
-  1066 => 
+  1056 => 
   array (
     'id' => 18452,
     'name' => 'Savièse',
@@ -9604,7 +9514,7 @@ return array (
     'latitude' => 46.25115,
     'longitude' => 7.34558,
   ),
-  1067 => 
+  1057 => 
   array (
     'id' => 18453,
     'name' => 'Saxon',
@@ -9613,7 +9523,7 @@ return array (
     'latitude' => 46.14937,
     'longitude' => 7.17514,
   ),
-  1068 => 
+  1058 => 
   array (
     'id' => 18454,
     'name' => 'Schachen',
@@ -9622,7 +9532,7 @@ return array (
     'latitude' => 47.32419,
     'longitude' => 8.47251,
   ),
-  1069 => 
+  1059 => 
   array (
     'id' => 18455,
     'name' => 'Schaffhausen',
@@ -9631,7 +9541,7 @@ return array (
     'latitude' => 47.69732,
     'longitude' => 8.63493,
   ),
-  1070 => 
+  1060 => 
   array (
     'id' => 18456,
     'name' => 'Schafisheim',
@@ -9640,7 +9550,7 @@ return array (
     'latitude' => 47.37664,
     'longitude' => 8.14263,
   ),
-  1071 => 
+  1061 => 
   array (
     'id' => 18457,
     'name' => 'Scharans',
@@ -9649,7 +9559,7 @@ return array (
     'latitude' => 46.71814,
     'longitude' => 9.45903,
   ),
-  1072 => 
+  1062 => 
   array (
     'id' => 18458,
     'name' => 'Schattdorf',
@@ -9658,7 +9568,7 @@ return array (
     'latitude' => 46.8655,
     'longitude' => 8.65465,
   ),
-  1073 => 
+  1063 => 
   array (
     'id' => 18459,
     'name' => 'Schenkon',
@@ -9667,7 +9577,7 @@ return array (
     'latitude' => 47.17765,
     'longitude' => 8.13204,
   ),
-  1074 => 
+  1064 => 
   array (
     'id' => 18460,
     'name' => 'Schiers',
@@ -9676,7 +9586,7 @@ return array (
     'latitude' => 46.96973,
     'longitude' => 9.6872,
   ),
-  1075 => 
+  1065 => 
   array (
     'id' => 18461,
     'name' => 'Schindellegi',
@@ -9685,7 +9595,7 @@ return array (
     'latitude' => 47.1746,
     'longitude' => 8.71345,
   ),
-  1076 => 
+  1066 => 
   array (
     'id' => 18462,
     'name' => 'Schinznach Bad',
@@ -9694,7 +9604,7 @@ return array (
     'latitude' => 47.44992,
     'longitude' => 8.16833,
   ),
-  1077 => 
+  1067 => 
   array (
     'id' => 18463,
     'name' => 'Schinznach Dorf',
@@ -9703,7 +9613,7 @@ return array (
     'latitude' => 47.4465,
     'longitude' => 8.14089,
   ),
-  1078 => 
+  1068 => 
   array (
     'id' => 18464,
     'name' => 'Schleitheim',
@@ -9712,7 +9622,7 @@ return array (
     'latitude' => 47.74818,
     'longitude' => 8.48213,
   ),
-  1079 => 
+  1069 => 
   array (
     'id' => 18465,
     'name' => 'Schlieren',
@@ -9721,7 +9631,7 @@ return array (
     'latitude' => 47.39668,
     'longitude' => 8.44763,
   ),
-  1080 => 
+  1070 => 
   array (
     'id' => 18466,
     'name' => 'Schlieren / Boden',
@@ -9730,7 +9640,7 @@ return array (
     'latitude' => 47.39721,
     'longitude' => 8.45734,
   ),
-  1081 => 
+  1071 => 
   array (
     'id' => 18467,
     'name' => 'Schlieren / Engstingerquartier',
@@ -9739,7 +9649,7 @@ return array (
     'latitude' => 47.40338,
     'longitude' => 8.44352,
   ),
-  1082 => 
+  1072 => 
   array (
     'id' => 18468,
     'name' => 'Schlieren / Freiestrasse',
@@ -9748,7 +9658,7 @@ return array (
     'latitude' => 47.39598,
     'longitude' => 8.44202,
   ),
-  1083 => 
+  1073 => 
   array (
     'id' => 18469,
     'name' => 'Schlieren / Kamp',
@@ -9757,7 +9667,7 @@ return array (
     'latitude' => 47.39358,
     'longitude' => 8.44453,
   ),
-  1084 => 
+  1074 => 
   array (
     'id' => 18470,
     'name' => 'Schlieren / Spital',
@@ -9766,7 +9676,7 @@ return array (
     'latitude' => 47.39489,
     'longitude' => 8.43027,
   ),
-  1085 => 
+  1075 => 
   array (
     'id' => 18471,
     'name' => 'Schlieren / Zentrum',
@@ -9775,7 +9685,7 @@ return array (
     'latitude' => 47.39779,
     'longitude' => 8.4477,
   ),
-  1086 => 
+  1076 => 
   array (
     'id' => 18472,
     'name' => 'Schmerikon',
@@ -9784,7 +9694,7 @@ return array (
     'latitude' => 47.22538,
     'longitude' => 8.94836,
   ),
-  1087 => 
+  1077 => 
   array (
     'id' => 18473,
     'name' => 'Schmitten',
@@ -9793,7 +9703,7 @@ return array (
     'latitude' => 46.8575,
     'longitude' => 7.25031,
   ),
-  1088 => 
+  1078 => 
   array (
     'id' => 18474,
     'name' => 'Schwaderloch',
@@ -9802,7 +9712,7 @@ return array (
     'latitude' => 47.58541,
     'longitude' => 8.14455,
   ),
-  1089 => 
+  1079 => 
   array (
     'id' => 18475,
     'name' => 'Schwanden',
@@ -9811,7 +9721,7 @@ return array (
     'latitude' => 46.99541,
     'longitude' => 9.0701,
   ),
-  1090 => 
+  1080 => 
   array (
     'id' => 18476,
     'name' => 'Schwarzenberg',
@@ -9820,7 +9730,7 @@ return array (
     'latitude' => 47.01705,
     'longitude' => 8.17261,
   ),
-  1091 => 
+  1081 => 
   array (
     'id' => 18477,
     'name' => 'Schwellbrunn',
@@ -9829,7 +9739,7 @@ return array (
     'latitude' => 47.35255,
     'longitude' => 9.24894,
   ),
-  1092 => 
+  1082 => 
   array (
     'id' => 18478,
     'name' => 'Schwerzenbach',
@@ -9838,7 +9748,7 @@ return array (
     'latitude' => 47.38213,
     'longitude' => 8.65727,
   ),
-  1093 => 
+  1083 => 
   array (
     'id' => 18479,
     'name' => 'Schwerzenbach / Blatten',
@@ -9847,7 +9757,7 @@ return array (
     'latitude' => 47.38308,
     'longitude' => 8.64954,
   ),
-  1094 => 
+  1084 => 
   array (
     'id' => 18480,
     'name' => 'Schwerzenbach / Chimli',
@@ -9856,7 +9766,7 @@ return array (
     'latitude' => 47.38592,
     'longitude' => 8.65888,
   ),
-  1095 => 
+  1085 => 
   array (
     'id' => 18481,
     'name' => 'Schwyz',
@@ -9865,7 +9775,7 @@ return array (
     'latitude' => 47.02076,
     'longitude' => 8.65414,
   ),
-  1096 => 
+  1086 => 
   array (
     'id' => 18482,
     'name' => 'Schänis',
@@ -9874,7 +9784,7 @@ return array (
     'latitude' => 47.15995,
     'longitude' => 9.04549,
   ),
-  1097 => 
+  1087 => 
   array (
     'id' => 18483,
     'name' => 'Schöftland',
@@ -9883,7 +9793,7 @@ return array (
     'latitude' => 47.3059,
     'longitude' => 8.05119,
   ),
-  1098 => 
+  1088 => 
   array (
     'id' => 18484,
     'name' => 'Schönenbuch',
@@ -9892,7 +9802,7 @@ return array (
     'latitude' => 47.53853,
     'longitude' => 7.50572,
   ),
-  1099 => 
+  1089 => 
   array (
     'id' => 18485,
     'name' => 'Schönenwerd',
@@ -9901,7 +9811,7 @@ return array (
     'latitude' => 47.3691,
     'longitude' => 8.00167,
   ),
-  1100 => 
+  1090 => 
   array (
     'id' => 18486,
     'name' => 'Schötz',
@@ -9910,7 +9820,7 @@ return array (
     'latitude' => 47.16896,
     'longitude' => 7.9887,
   ),
-  1101 => 
+  1091 => 
   array (
     'id' => 18487,
     'name' => 'Schübelbach',
@@ -9919,7 +9829,7 @@ return array (
     'latitude' => 47.17326,
     'longitude' => 8.92811,
   ),
-  1102 => 
+  1092 => 
   array (
     'id' => 18488,
     'name' => 'Schüpfen',
@@ -9928,7 +9838,7 @@ return array (
     'latitude' => 47.03661,
     'longitude' => 7.37723,
   ),
-  1103 => 
+  1093 => 
   array (
     'id' => 18489,
     'name' => 'Schüpfheim',
@@ -9937,7 +9847,7 @@ return array (
     'latitude' => 46.95161,
     'longitude' => 8.01723,
   ),
-  1104 => 
+  1094 => 
   array (
     'id' => 18490,
     'name' => 'Scuol',
@@ -9946,7 +9856,7 @@ return array (
     'latitude' => 46.79671,
     'longitude' => 10.29804,
   ),
-  1105 => 
+  1095 => 
   array (
     'id' => 18491,
     'name' => 'Seeberg',
@@ -9955,7 +9865,7 @@ return array (
     'latitude' => 47.15585,
     'longitude' => 7.66567,
   ),
-  1106 => 
+  1096 => 
   array (
     'id' => 18492,
     'name' => 'Seedorf',
@@ -9964,16 +9874,7 @@ return array (
     'latitude' => 46.88199,
     'longitude' => 8.61611,
   ),
-  1107 => 
-  array (
-    'id' => 18493,
-    'name' => 'Seedorf',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.03445,
-    'longitude' => 7.31249,
-  ),
-  1108 => 
+  1097 => 
   array (
     'id' => 18494,
     'name' => 'Seeland District',
@@ -9982,7 +9883,7 @@ return array (
     'latitude' => 47.06635,
     'longitude' => 7.26333,
   ),
-  1109 => 
+  1098 => 
   array (
     'id' => 18501,
     'name' => 'Seengen',
@@ -9991,7 +9892,7 @@ return array (
     'latitude' => 47.32503,
     'longitude' => 8.20724,
   ),
-  1110 => 
+  1099 => 
   array (
     'id' => 18502,
     'name' => 'Seftigen',
@@ -10000,7 +9901,7 @@ return array (
     'latitude' => 46.78765,
     'longitude' => 7.53937,
   ),
-  1111 => 
+  1100 => 
   array (
     'id' => 18503,
     'name' => 'Seglingen',
@@ -10009,7 +9910,7 @@ return array (
     'latitude' => 47.57244,
     'longitude' => 8.52093,
   ),
-  1112 => 
+  1101 => 
   array (
     'id' => 18504,
     'name' => 'Sellenbüren',
@@ -10018,7 +9919,7 @@ return array (
     'latitude' => 47.34361,
     'longitude' => 8.48301,
   ),
-  1113 => 
+  1102 => 
   array (
     'id' => 18505,
     'name' => 'Seltisberg',
@@ -10027,7 +9928,7 @@ return array (
     'latitude' => 47.46249,
     'longitude' => 7.72039,
   ),
-  1114 => 
+  1103 => 
   array (
     'id' => 18506,
     'name' => 'Selzach',
@@ -10036,7 +9937,7 @@ return array (
     'latitude' => 47.20531,
     'longitude' => 7.45521,
   ),
-  1115 => 
+  1104 => 
   array (
     'id' => 18507,
     'name' => 'Sementina',
@@ -10045,7 +9946,7 @@ return array (
     'latitude' => 46.18363,
     'longitude' => 8.99162,
   ),
-  1116 => 
+  1105 => 
   array (
     'id' => 18508,
     'name' => 'Sempach',
@@ -10054,7 +9955,7 @@ return array (
     'latitude' => 47.13577,
     'longitude' => 8.19149,
   ),
-  1117 => 
+  1106 => 
   array (
     'id' => 18509,
     'name' => 'Sennwald',
@@ -10063,7 +9964,7 @@ return array (
     'latitude' => 47.26063,
     'longitude' => 9.50268,
   ),
-  1118 => 
+  1107 => 
   array (
     'id' => 18510,
     'name' => 'Sense District',
@@ -10072,7 +9973,7 @@ return array (
     'latitude' => 46.80132,
     'longitude' => 7.26028,
   ),
-  1119 => 
+  1108 => 
   array (
     'id' => 18511,
     'name' => 'Seon',
@@ -10081,7 +9982,7 @@ return array (
     'latitude' => 47.34848,
     'longitude' => 8.16072,
   ),
-  1120 => 
+  1109 => 
   array (
     'id' => 18513,
     'name' => 'Seuzach Dorf',
@@ -10090,7 +9991,7 @@ return array (
     'latitude' => 47.5356,
     'longitude' => 8.73209,
   ),
-  1121 => 
+  1110 => 
   array (
     'id' => 18514,
     'name' => 'Seuzach Dorf / Breite-Weid',
@@ -10099,7 +10000,7 @@ return array (
     'latitude' => 47.53345,
     'longitude' => 8.73415,
   ),
-  1122 => 
+  1111 => 
   array (
     'id' => 18515,
     'name' => 'Sevelen',
@@ -10108,7 +10009,7 @@ return array (
     'latitude' => 47.12213,
     'longitude' => 9.48601,
   ),
-  1123 => 
+  1112 => 
   array (
     'id' => 18516,
     'name' => 'Siebnen',
@@ -10117,7 +10018,7 @@ return array (
     'latitude' => 47.17449,
     'longitude' => 8.89781,
   ),
-  1124 => 
+  1113 => 
   array (
     'id' => 18517,
     'name' => 'Sierre',
@@ -10126,7 +10027,7 @@ return array (
     'latitude' => 46.29192,
     'longitude' => 7.53559,
   ),
-  1125 => 
+  1114 => 
   array (
     'id' => 18518,
     'name' => 'Sierre District',
@@ -10135,7 +10036,7 @@ return array (
     'latitude' => 46.27052,
     'longitude' => 7.5157,
   ),
-  1126 => 
+  1115 => 
   array (
     'id' => 18519,
     'name' => 'Signau',
@@ -10144,7 +10045,7 @@ return array (
     'latitude' => 46.91944,
     'longitude' => 7.72418,
   ),
-  1127 => 
+  1116 => 
   array (
     'id' => 18520,
     'name' => 'Sigriswil',
@@ -10153,7 +10054,7 @@ return array (
     'latitude' => 46.71656,
     'longitude' => 7.71335,
   ),
-  1128 => 
+  1117 => 
   array (
     'id' => 18521,
     'name' => 'Silenen',
@@ -10162,7 +10063,7 @@ return array (
     'latitude' => 46.7891,
     'longitude' => 8.67325,
   ),
-  1129 => 
+  1118 => 
   array (
     'id' => 18522,
     'name' => 'Silvaplana',
@@ -10171,7 +10072,7 @@ return array (
     'latitude' => 46.4581,
     'longitude' => 9.79514,
   ),
-  1130 => 
+  1119 => 
   array (
     'id' => 18523,
     'name' => 'Sins',
@@ -10180,7 +10081,7 @@ return array (
     'latitude' => 47.19296,
     'longitude' => 8.39384,
   ),
-  1131 => 
+  1120 => 
   array (
     'id' => 18524,
     'name' => 'Sion District',
@@ -10189,7 +10090,7 @@ return array (
     'latitude' => 46.23343,
     'longitude' => 7.34939,
   ),
-  1132 => 
+  1121 => 
   array (
     'id' => 18525,
     'name' => 'Sirnach',
@@ -10198,7 +10099,7 @@ return array (
     'latitude' => 47.46222,
     'longitude' => 8.99763,
   ),
-  1133 => 
+  1122 => 
   array (
     'id' => 18526,
     'name' => 'Sissach',
@@ -10207,7 +10108,7 @@ return array (
     'latitude' => 47.46408,
     'longitude' => 7.80888,
   ),
-  1134 => 
+  1123 => 
   array (
     'id' => 18527,
     'name' => 'Sitten',
@@ -10216,7 +10117,7 @@ return array (
     'latitude' => 46.22739,
     'longitude' => 7.35559,
   ),
-  1135 => 
+  1124 => 
   array (
     'id' => 18528,
     'name' => 'Solothurn',
@@ -10225,7 +10126,7 @@ return array (
     'latitude' => 47.20791,
     'longitude' => 7.53714,
   ),
-  1136 => 
+  1125 => 
   array (
     'id' => 18529,
     'name' => 'Sonnhalde',
@@ -10234,7 +10135,7 @@ return array (
     'latitude' => 47.45329,
     'longitude' => 8.46091,
   ),
-  1137 => 
+  1126 => 
   array (
     'id' => 18530,
     'name' => 'Sorengo',
@@ -10243,7 +10144,7 @@ return array (
     'latitude' => 45.99766,
     'longitude' => 8.93783,
   ),
-  1138 => 
+  1127 => 
   array (
     'id' => 18531,
     'name' => 'Sottens',
@@ -10252,7 +10153,7 @@ return array (
     'latitude' => 46.65521,
     'longitude' => 6.74197,
   ),
-  1139 => 
+  1128 => 
   array (
     'id' => 18532,
     'name' => 'Speicher',
@@ -10261,7 +10162,7 @@ return array (
     'latitude' => 47.4109,
     'longitude' => 9.44335,
   ),
-  1140 => 
+  1129 => 
   array (
     'id' => 18533,
     'name' => 'Spiez',
@@ -10270,7 +10171,7 @@ return array (
     'latitude' => 46.68473,
     'longitude' => 7.69111,
   ),
-  1141 => 
+  1130 => 
   array (
     'id' => 18534,
     'name' => 'Spreitenbach',
@@ -10279,7 +10180,7 @@ return array (
     'latitude' => 47.42285,
     'longitude' => 8.36792,
   ),
-  1142 => 
+  1131 => 
   array (
     'id' => 18535,
     'name' => 'St. Moritz',
@@ -10288,7 +10189,7 @@ return array (
     'latitude' => 46.49937,
     'longitude' => 9.84327,
   ),
-  1143 => 
+  1132 => 
   array (
     'id' => 18536,
     'name' => 'Stabio',
@@ -10297,7 +10198,7 @@ return array (
     'latitude' => 45.84846,
     'longitude' => 8.93642,
   ),
-  1144 => 
+  1133 => 
   array (
     'id' => 18544,
     'name' => 'Staffelbach',
@@ -10306,7 +10207,7 @@ return array (
     'latitude' => 47.28395,
     'longitude' => 8.04208,
   ),
-  1145 => 
+  1134 => 
   array (
     'id' => 18545,
     'name' => 'Stalden',
@@ -10315,7 +10216,7 @@ return array (
     'latitude' => 46.23341,
     'longitude' => 7.87273,
   ),
-  1146 => 
+  1135 => 
   array (
     'id' => 18546,
     'name' => 'Stans',
@@ -10324,7 +10225,7 @@ return array (
     'latitude' => 46.95805,
     'longitude' => 8.36609,
   ),
-  1147 => 
+  1136 => 
   array (
     'id' => 18547,
     'name' => 'Stansstad',
@@ -10333,7 +10234,7 @@ return array (
     'latitude' => 46.9768,
     'longitude' => 8.33553,
   ),
-  1148 => 
+  1137 => 
   array (
     'id' => 18548,
     'name' => 'Staufen',
@@ -10342,7 +10243,7 @@ return array (
     'latitude' => 47.38197,
     'longitude' => 8.16681,
   ),
-  1149 => 
+  1138 => 
   array (
     'id' => 18549,
     'name' => 'Steckborn',
@@ -10351,7 +10252,7 @@ return array (
     'latitude' => 47.66667,
     'longitude' => 8.98333,
   ),
-  1150 => 
+  1139 => 
   array (
     'id' => 18550,
     'name' => 'Steffisburg',
@@ -10360,7 +10261,7 @@ return array (
     'latitude' => 46.77807,
     'longitude' => 7.63249,
   ),
-  1151 => 
+  1140 => 
   array (
     'id' => 18551,
     'name' => 'Stein',
@@ -10369,7 +10270,7 @@ return array (
     'latitude' => 47.54403,
     'longitude' => 7.95256,
   ),
-  1152 => 
+  1141 => 
   array (
     'id' => 18552,
     'name' => 'Stein am Rhein',
@@ -10378,7 +10279,7 @@ return array (
     'latitude' => 47.65933,
     'longitude' => 8.85964,
   ),
-  1153 => 
+  1142 => 
   array (
     'id' => 18553,
     'name' => 'Steinen',
@@ -10387,7 +10288,7 @@ return array (
     'latitude' => 47.04975,
     'longitude' => 8.61214,
   ),
-  1154 => 
+  1143 => 
   array (
     'id' => 18554,
     'name' => 'Steinhausen',
@@ -10396,7 +10297,7 @@ return array (
     'latitude' => 47.1951,
     'longitude' => 8.48581,
   ),
-  1155 => 
+  1144 => 
   array (
     'id' => 18555,
     'name' => 'Steinmaur',
@@ -10405,7 +10306,7 @@ return array (
     'latitude' => 47.4971,
     'longitude' => 8.45216,
   ),
-  1156 => 
+  1145 => 
   array (
     'id' => 18556,
     'name' => 'Stetten',
@@ -10414,7 +10315,7 @@ return array (
     'latitude' => 47.74025,
     'longitude' => 8.66298,
   ),
-  1157 => 
+  1146 => 
   array (
     'id' => 18557,
     'name' => 'Stettfurt',
@@ -10423,7 +10324,7 @@ return array (
     'latitude' => 47.52588,
     'longitude' => 8.95317,
   ),
-  1158 => 
+  1147 => 
   array (
     'id' => 18558,
     'name' => 'Stettlen',
@@ -10432,7 +10333,7 @@ return array (
     'latitude' => 46.95835,
     'longitude' => 7.52508,
   ),
-  1159 => 
+  1148 => 
   array (
     'id' => 18559,
     'name' => 'Strengelbach',
@@ -10441,7 +10342,7 @@ return array (
     'latitude' => 47.27917,
     'longitude' => 7.92895,
   ),
-  1160 => 
+  1149 => 
   array (
     'id' => 18560,
     'name' => 'Stäfa',
@@ -10450,7 +10351,7 @@ return array (
     'latitude' => 47.24254,
     'longitude' => 8.72342,
   ),
-  1161 => 
+  1150 => 
   array (
     'id' => 18561,
     'name' => 'Subingen',
@@ -10459,7 +10360,7 @@ return array (
     'latitude' => 47.19852,
     'longitude' => 7.61949,
   ),
-  1162 => 
+  1151 => 
   array (
     'id' => 18562,
     'name' => 'Suhr',
@@ -10468,7 +10369,7 @@ return array (
     'latitude' => 47.37172,
     'longitude' => 8.07967,
   ),
-  1163 => 
+  1152 => 
   array (
     'id' => 18563,
     'name' => 'Sulgen',
@@ -10477,7 +10378,7 @@ return array (
     'latitude' => 47.53967,
     'longitude' => 9.18585,
   ),
-  1164 => 
+  1153 => 
   array (
     'id' => 18564,
     'name' => 'Sulz',
@@ -10486,16 +10387,7 @@ return array (
     'latitude' => 47.53602,
     'longitude' => 8.09628,
   ),
-  1165 => 
-  array (
-    'id' => 18565,
-    'name' => 'Sulz',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.53954,
-    'longitude' => 8.78887,
-  ),
-  1166 => 
+  1154 => 
   array (
     'id' => 18566,
     'name' => 'Sumiswald',
@@ -10504,7 +10396,7 @@ return array (
     'latitude' => 47.02747,
     'longitude' => 7.74526,
   ),
-  1167 => 
+  1155 => 
   array (
     'id' => 18567,
     'name' => 'Sursee',
@@ -10513,7 +10405,7 @@ return array (
     'latitude' => 47.17088,
     'longitude' => 8.11113,
   ),
-  1168 => 
+  1156 => 
   array (
     'id' => 18568,
     'name' => 'Sursee District',
@@ -10522,7 +10414,7 @@ return array (
     'latitude' => 47.15591,
     'longitude' => 8.13704,
   ),
-  1169 => 
+  1157 => 
   array (
     'id' => 18569,
     'name' => 'Sâles',
@@ -10531,7 +10423,7 @@ return array (
     'latitude' => 46.63473,
     'longitude' => 6.97336,
   ),
-  1170 => 
+  1158 => 
   array (
     'id' => 18570,
     'name' => 'Tafers',
@@ -10540,7 +10432,7 @@ return array (
     'latitude' => 46.81483,
     'longitude' => 7.21852,
   ),
-  1171 => 
+  1159 => 
   array (
     'id' => 18571,
     'name' => 'Tagelswangen',
@@ -10549,7 +10441,7 @@ return array (
     'latitude' => 47.4307,
     'longitude' => 8.67284,
   ),
-  1172 => 
+  1160 => 
   array (
     'id' => 18572,
     'name' => 'Tamins',
@@ -10558,7 +10450,7 @@ return array (
     'latitude' => 46.82964,
     'longitude' => 9.40648,
   ),
-  1173 => 
+  1161 => 
   array (
     'id' => 18573,
     'name' => 'Tanay',
@@ -10567,7 +10459,7 @@ return array (
     'latitude' => 46.34503,
     'longitude' => 6.83041,
   ),
-  1174 => 
+  1162 => 
   array (
     'id' => 18574,
     'name' => 'Tann',
@@ -10576,7 +10468,7 @@ return array (
     'latitude' => 47.26898,
     'longitude' => 8.85024,
   ),
-  1175 => 
+  1163 => 
   array (
     'id' => 18576,
     'name' => 'Tavannes',
@@ -10585,7 +10477,7 @@ return array (
     'latitude' => 47.22079,
     'longitude' => 7.19759,
   ),
-  1176 => 
+  1164 => 
   array (
     'id' => 18577,
     'name' => 'Tegerfelden',
@@ -10594,7 +10486,7 @@ return array (
     'latitude' => 47.55809,
     'longitude' => 8.28914,
   ),
-  1177 => 
+  1165 => 
   array (
     'id' => 18578,
     'name' => 'Tesserete',
@@ -10603,7 +10495,7 @@ return array (
     'latitude' => 46.06813,
     'longitude' => 8.96501,
   ),
-  1178 => 
+  1166 => 
   array (
     'id' => 18579,
     'name' => 'Teufen',
@@ -10612,7 +10504,7 @@ return array (
     'latitude' => 47.3908,
     'longitude' => 9.38644,
   ),
-  1179 => 
+  1167 => 
   array (
     'id' => 18580,
     'name' => 'Teufenthal',
@@ -10621,7 +10513,7 @@ return array (
     'latitude' => 47.32896,
     'longitude' => 8.11777,
   ),
-  1180 => 
+  1168 => 
   array (
     'id' => 18581,
     'name' => 'Thal',
@@ -10630,7 +10522,7 @@ return array (
     'latitude' => 47.46677,
     'longitude' => 9.56643,
   ),
-  1181 => 
+  1169 => 
   array (
     'id' => 18582,
     'name' => 'Thalwil',
@@ -10639,7 +10531,7 @@ return array (
     'latitude' => 47.29175,
     'longitude' => 8.56351,
   ),
-  1182 => 
+  1170 => 
   array (
     'id' => 18583,
     'name' => 'Thalwil / Berg',
@@ -10648,7 +10540,7 @@ return array (
     'latitude' => 47.29178,
     'longitude' => 8.55602,
   ),
-  1183 => 
+  1171 => 
   array (
     'id' => 18584,
     'name' => 'Thalwil / Dorfkern',
@@ -10657,7 +10549,7 @@ return array (
     'latitude' => 47.29047,
     'longitude' => 8.56633,
   ),
-  1184 => 
+  1172 => 
   array (
     'id' => 18585,
     'name' => 'Thalwil / Nord',
@@ -10666,7 +10558,7 @@ return array (
     'latitude' => 47.29748,
     'longitude' => 8.55634,
   ),
-  1185 => 
+  1173 => 
   array (
     'id' => 18586,
     'name' => 'Thalwil / See',
@@ -10675,7 +10567,7 @@ return array (
     'latitude' => 47.29409,
     'longitude' => 8.56929,
   ),
-  1186 => 
+  1174 => 
   array (
     'id' => 18587,
     'name' => 'Thalwil / Süd',
@@ -10684,7 +10576,7 @@ return array (
     'latitude' => 47.28495,
     'longitude' => 8.56954,
   ),
-  1187 => 
+  1175 => 
   array (
     'id' => 18588,
     'name' => 'Thayngen',
@@ -10693,7 +10585,7 @@ return array (
     'latitude' => 47.74717,
     'longitude' => 8.70724,
   ),
-  1188 => 
+  1176 => 
   array (
     'id' => 18589,
     'name' => 'Therwil',
@@ -10702,7 +10594,7 @@ return array (
     'latitude' => 47.49941,
     'longitude' => 7.55669,
   ),
-  1189 => 
+  1177 => 
   array (
     'id' => 18590,
     'name' => 'Thierachern',
@@ -10711,7 +10603,7 @@ return array (
     'latitude' => 46.75319,
     'longitude' => 7.57442,
   ),
-  1190 => 
+  1178 => 
   array (
     'id' => 18591,
     'name' => 'Thun',
@@ -10720,7 +10612,7 @@ return array (
     'latitude' => 46.75118,
     'longitude' => 7.62166,
   ),
-  1191 => 
+  1179 => 
   array (
     'id' => 18592,
     'name' => 'Thun District',
@@ -10729,7 +10621,7 @@ return array (
     'latitude' => 46.7629,
     'longitude' => 7.62503,
   ),
-  1192 => 
+  1180 => 
   array (
     'id' => 18593,
     'name' => 'Thundorf',
@@ -10738,7 +10630,7 @@ return array (
     'latitude' => 47.54594,
     'longitude' => 8.96358,
   ),
-  1193 => 
+  1181 => 
   array (
     'id' => 18594,
     'name' => 'Thusis',
@@ -10747,7 +10639,7 @@ return array (
     'latitude' => 46.69724,
     'longitude' => 9.43938,
   ),
-  1194 => 
+  1182 => 
   array (
     'id' => 18595,
     'name' => 'Thônex',
@@ -10756,7 +10648,7 @@ return array (
     'latitude' => 46.18815,
     'longitude' => 6.19904,
   ),
-  1195 => 
+  1183 => 
   array (
     'id' => 18596,
     'name' => 'Tiefencastel',
@@ -10765,7 +10657,7 @@ return array (
     'latitude' => 46.66014,
     'longitude' => 9.57883,
   ),
-  1196 => 
+  1184 => 
   array (
     'id' => 18597,
     'name' => 'Toffen',
@@ -10774,7 +10666,7 @@ return array (
     'latitude' => 46.86031,
     'longitude' => 7.49216,
   ),
-  1197 => 
+  1185 => 
   array (
     'id' => 18598,
     'name' => 'Trachselwald',
@@ -10783,7 +10675,7 @@ return array (
     'latitude' => 47.01699,
     'longitude' => 7.73639,
   ),
-  1198 => 
+  1186 => 
   array (
     'id' => 18599,
     'name' => 'Tramelan',
@@ -10792,7 +10684,7 @@ return array (
     'latitude' => 47.22298,
     'longitude' => 7.10287,
   ),
-  1199 => 
+  1187 => 
   array (
     'id' => 18600,
     'name' => 'Travers',
@@ -10801,7 +10693,7 @@ return array (
     'latitude' => 46.94018,
     'longitude' => 6.67595,
   ),
-  1200 => 
+  1188 => 
   array (
     'id' => 18601,
     'name' => 'Treyvaux',
@@ -10810,7 +10702,7 @@ return array (
     'latitude' => 46.72796,
     'longitude' => 7.13769,
   ),
-  1201 => 
+  1189 => 
   array (
     'id' => 18602,
     'name' => 'Triengen',
@@ -10819,7 +10711,7 @@ return array (
     'latitude' => 47.23573,
     'longitude' => 8.07652,
   ),
-  1202 => 
+  1190 => 
   array (
     'id' => 18603,
     'name' => 'Trimbach',
@@ -10828,7 +10720,7 @@ return array (
     'latitude' => 47.36561,
     'longitude' => 7.8868,
   ),
-  1203 => 
+  1191 => 
   array (
     'id' => 18604,
     'name' => 'Trimmis',
@@ -10837,7 +10729,7 @@ return array (
     'latitude' => 46.90075,
     'longitude' => 9.5612,
   ),
-  1204 => 
+  1192 => 
   array (
     'id' => 18605,
     'name' => 'Trogen',
@@ -10846,7 +10738,7 @@ return array (
     'latitude' => 47.40782,
     'longitude' => 9.46498,
   ),
-  1205 => 
+  1193 => 
   array (
     'id' => 18606,
     'name' => 'Troinex',
@@ -10855,7 +10747,7 @@ return array (
     'latitude' => 46.16313,
     'longitude' => 6.14745,
   ),
-  1206 => 
+  1194 => 
   array (
     'id' => 18607,
     'name' => 'Troistorrents',
@@ -10864,7 +10756,7 @@ return array (
     'latitude' => 46.2289,
     'longitude' => 6.91589,
   ),
-  1207 => 
+  1195 => 
   array (
     'id' => 18608,
     'name' => 'Trub',
@@ -10873,7 +10765,7 @@ return array (
     'latitude' => 46.94168,
     'longitude' => 7.87996,
   ),
-  1208 => 
+  1196 => 
   array (
     'id' => 18609,
     'name' => 'Trubschachen',
@@ -10882,7 +10774,7 @@ return array (
     'latitude' => 46.92228,
     'longitude' => 7.8452,
   ),
-  1209 => 
+  1197 => 
   array (
     'id' => 18610,
     'name' => 'Trun',
@@ -10891,7 +10783,7 @@ return array (
     'latitude' => 46.74292,
     'longitude' => 8.98716,
   ),
-  1210 => 
+  1198 => 
   array (
     'id' => 18611,
     'name' => 'Trélex',
@@ -10900,7 +10792,7 @@ return array (
     'latitude' => 46.41538,
     'longitude' => 6.20813,
   ),
-  1211 => 
+  1199 => 
   array (
     'id' => 18612,
     'name' => 'Tuggen',
@@ -10909,7 +10801,7 @@ return array (
     'latitude' => 47.20291,
     'longitude' => 8.94896,
   ),
-  1212 => 
+  1200 => 
   array (
     'id' => 18613,
     'name' => 'Turbenthal',
@@ -10918,7 +10810,7 @@ return array (
     'latitude' => 47.43633,
     'longitude' => 8.84629,
   ),
-  1213 => 
+  1201 => 
   array (
     'id' => 18614,
     'name' => 'Turgi',
@@ -10927,7 +10819,7 @@ return array (
     'latitude' => 47.49201,
     'longitude' => 8.25412,
   ),
-  1214 => 
+  1202 => 
   array (
     'id' => 18615,
     'name' => 'Turtmann',
@@ -10936,7 +10828,7 @@ return array (
     'latitude' => 46.30028,
     'longitude' => 7.702,
   ),
-  1215 => 
+  1203 => 
   array (
     'id' => 18616,
     'name' => 'Tägerwilen',
@@ -10945,7 +10837,7 @@ return array (
     'latitude' => 47.65698,
     'longitude' => 9.13999,
   ),
-  1216 => 
+  1204 => 
   array (
     'id' => 18617,
     'name' => 'Täuffelen',
@@ -10954,7 +10846,7 @@ return array (
     'latitude' => 47.0663,
     'longitude' => 7.19883,
   ),
-  1217 => 
+  1205 => 
   array (
     'id' => 18622,
     'name' => 'Udligenswil',
@@ -10963,7 +10855,7 @@ return array (
     'latitude' => 47.09005,
     'longitude' => 8.40335,
   ),
-  1218 => 
+  1206 => 
   array (
     'id' => 18623,
     'name' => 'Ueberstorf',
@@ -10972,7 +10864,7 @@ return array (
     'latitude' => 46.86587,
     'longitude' => 7.30998,
   ),
-  1219 => 
+  1207 => 
   array (
     'id' => 18624,
     'name' => 'Uerikon',
@@ -10981,7 +10873,7 @@ return array (
     'latitude' => 47.23672,
     'longitude' => 8.7573,
   ),
-  1220 => 
+  1208 => 
   array (
     'id' => 18625,
     'name' => 'Uerkheim',
@@ -10990,7 +10882,7 @@ return array (
     'latitude' => 47.30353,
     'longitude' => 8.0232,
   ),
-  1221 => 
+  1209 => 
   array (
     'id' => 18626,
     'name' => 'Uetendorf',
@@ -10999,7 +10891,7 @@ return array (
     'latitude' => 46.77392,
     'longitude' => 7.57251,
   ),
-  1222 => 
+  1210 => 
   array (
     'id' => 18627,
     'name' => 'Uetikon',
@@ -11008,7 +10900,7 @@ return array (
     'latitude' => 47.26441,
     'longitude' => 8.67925,
   ),
-  1223 => 
+  1211 => 
   array (
     'id' => 18628,
     'name' => 'Uetikon / Grossdorf',
@@ -11017,7 +10909,7 @@ return array (
     'latitude' => 47.26654,
     'longitude' => 8.67765,
   ),
-  1224 => 
+  1212 => 
   array (
     'id' => 18629,
     'name' => 'Uhwiesen',
@@ -11026,7 +10918,7 @@ return array (
     'latitude' => 47.67074,
     'longitude' => 8.63542,
   ),
-  1225 => 
+  1213 => 
   array (
     'id' => 18630,
     'name' => 'Uitikon',
@@ -11035,7 +10927,7 @@ return array (
     'latitude' => 47.36911,
     'longitude' => 8.45699,
   ),
-  1226 => 
+  1214 => 
   array (
     'id' => 18631,
     'name' => 'Unterengstringen',
@@ -11044,7 +10936,7 @@ return array (
     'latitude' => 47.41396,
     'longitude' => 8.44761,
   ),
-  1227 => 
+  1215 => 
   array (
     'id' => 18632,
     'name' => 'Unteriberg',
@@ -11053,7 +10945,7 @@ return array (
     'latitude' => 47.06258,
     'longitude' => 8.8052,
   ),
-  1228 => 
+  1216 => 
   array (
     'id' => 18633,
     'name' => 'Unterkulm',
@@ -11062,7 +10954,7 @@ return array (
     'latitude' => 47.30998,
     'longitude' => 8.11371,
   ),
-  1229 => 
+  1217 => 
   array (
     'id' => 18634,
     'name' => 'Unterlunkhofen',
@@ -11071,7 +10963,7 @@ return array (
     'latitude' => 47.3212,
     'longitude' => 8.38102,
   ),
-  1230 => 
+  1218 => 
   array (
     'id' => 18635,
     'name' => 'Unterseen',
@@ -11080,7 +10972,7 @@ return array (
     'latitude' => 46.6853,
     'longitude' => 7.84722,
   ),
-  1231 => 
+  1219 => 
   array (
     'id' => 18636,
     'name' => 'Untersiggenthal',
@@ -11089,7 +10981,7 @@ return array (
     'latitude' => 47.50213,
     'longitude' => 8.25554,
   ),
-  1232 => 
+  1220 => 
   array (
     'id' => 18637,
     'name' => 'Untervaz',
@@ -11098,7 +10990,7 @@ return array (
     'latitude' => 46.9275,
     'longitude' => 9.53422,
   ),
-  1233 => 
+  1221 => 
   array (
     'id' => 18638,
     'name' => 'Unterägeri',
@@ -11107,7 +10999,7 @@ return array (
     'latitude' => 47.13645,
     'longitude' => 8.5853,
   ),
-  1234 => 
+  1222 => 
   array (
     'id' => 18639,
     'name' => 'Urdorf',
@@ -11116,7 +11008,7 @@ return array (
     'latitude' => 47.38507,
     'longitude' => 8.42581,
   ),
-  1235 => 
+  1223 => 
   array (
     'id' => 18640,
     'name' => 'Urdorf / Bodenfeld',
@@ -11125,7 +11017,7 @@ return array (
     'latitude' => 47.3892,
     'longitude' => 8.42265,
   ),
-  1236 => 
+  1224 => 
   array (
     'id' => 18641,
     'name' => 'Urdorf / Moos',
@@ -11134,7 +11026,7 @@ return array (
     'latitude' => 47.38977,
     'longitude' => 8.42886,
   ),
-  1237 => 
+  1225 => 
   array (
     'id' => 18642,
     'name' => 'Urdorf / Oberurdorf',
@@ -11143,7 +11035,7 @@ return array (
     'latitude' => 47.38072,
     'longitude' => 8.42343,
   ),
-  1238 => 
+  1226 => 
   array (
     'id' => 18643,
     'name' => 'Urnäsch',
@@ -11152,7 +11044,7 @@ return array (
     'latitude' => 47.31669,
     'longitude' => 9.2795,
   ),
-  1239 => 
+  1227 => 
   array (
     'id' => 18644,
     'name' => 'Urtenen',
@@ -11161,7 +11053,7 @@ return array (
     'latitude' => 47.02667,
     'longitude' => 7.50081,
   ),
-  1240 => 
+  1228 => 
   array (
     'id' => 18645,
     'name' => 'Uster',
@@ -11170,7 +11062,7 @@ return array (
     'latitude' => 47.34713,
     'longitude' => 8.72091,
   ),
-  1241 => 
+  1229 => 
   array (
     'id' => 18646,
     'name' => 'Uster / Gschwader',
@@ -11179,7 +11071,7 @@ return array (
     'latitude' => 47.36016,
     'longitude' => 8.7139,
   ),
-  1242 => 
+  1230 => 
   array (
     'id' => 18647,
     'name' => 'Uster / Kirch-Uster',
@@ -11188,7 +11080,7 @@ return array (
     'latitude' => 47.34579,
     'longitude' => 8.71839,
   ),
-  1243 => 
+  1231 => 
   array (
     'id' => 18648,
     'name' => 'Uster / Nieder-Uster',
@@ -11197,7 +11089,7 @@ return array (
     'latitude' => 47.34743,
     'longitude' => 8.70088,
   ),
-  1244 => 
+  1232 => 
   array (
     'id' => 18649,
     'name' => 'Uster / Nossikon',
@@ -11206,7 +11098,7 @@ return array (
     'latitude' => 47.34088,
     'longitude' => 8.72555,
   ),
-  1245 => 
+  1233 => 
   array (
     'id' => 18650,
     'name' => 'Uster / Ober-Uster',
@@ -11215,7 +11107,7 @@ return array (
     'latitude' => 47.34874,
     'longitude' => 8.73319,
   ),
-  1246 => 
+  1234 => 
   array (
     'id' => 18651,
     'name' => 'Uttigen',
@@ -11224,7 +11116,7 @@ return array (
     'latitude' => 46.79435,
     'longitude' => 7.57789,
   ),
-  1247 => 
+  1235 => 
   array (
     'id' => 18652,
     'name' => 'Uttwil',
@@ -11233,7 +11125,7 @@ return array (
     'latitude' => 47.5844,
     'longitude' => 9.34101,
   ),
-  1248 => 
+  1236 => 
   array (
     'id' => 18653,
     'name' => 'Utzenstorf',
@@ -11242,7 +11134,7 @@ return array (
     'latitude' => 47.13248,
     'longitude' => 7.55355,
   ),
-  1249 => 
+  1237 => 
   array (
     'id' => 18654,
     'name' => 'Uznach',
@@ -11251,7 +11143,7 @@ return array (
     'latitude' => 47.22421,
     'longitude' => 8.98263,
   ),
-  1250 => 
+  1238 => 
   array (
     'id' => 18655,
     'name' => 'Uzwil',
@@ -11260,7 +11152,7 @@ return array (
     'latitude' => 47.43653,
     'longitude' => 9.13422,
   ),
-  1251 => 
+  1239 => 
   array (
     'id' => 18656,
     'name' => 'Val-de-Ruz District',
@@ -11269,7 +11161,7 @@ return array (
     'latitude' => 47.04008,
     'longitude' => 6.90829,
   ),
-  1252 => 
+  1240 => 
   array (
     'id' => 18657,
     'name' => 'Val-de-Travers District',
@@ -11278,7 +11170,7 @@ return array (
     'latitude' => 46.90357,
     'longitude' => 6.5631,
   ),
-  1253 => 
+  1241 => 
   array (
     'id' => 18658,
     'name' => 'Vallemaggia District',
@@ -11287,7 +11179,7 @@ return array (
     'latitude' => 46.35483,
     'longitude' => 8.6054,
   ),
-  1254 => 
+  1242 => 
   array (
     'id' => 18659,
     'name' => 'Vallorbe',
@@ -11296,7 +11188,7 @@ return array (
     'latitude' => 46.71256,
     'longitude' => 6.37894,
   ),
-  1255 => 
+  1243 => 
   array (
     'id' => 18660,
     'name' => 'Vals Platz',
@@ -11305,7 +11197,7 @@ return array (
     'latitude' => 46.61647,
     'longitude' => 9.18025,
   ),
-  1256 => 
+  1244 => 
   array (
     'id' => 18661,
     'name' => 'Vandœuvres',
@@ -11314,7 +11206,7 @@ return array (
     'latitude' => 46.22179,
     'longitude' => 6.20285,
   ),
-  1257 => 
+  1245 => 
   array (
     'id' => 18662,
     'name' => 'Varen',
@@ -11323,7 +11215,7 @@ return array (
     'latitude' => 46.3186,
     'longitude' => 7.60743,
   ),
-  1258 => 
+  1246 => 
   array (
     'id' => 18663,
     'name' => 'Vechigen',
@@ -11332,7 +11224,7 @@ return array (
     'latitude' => 46.94616,
     'longitude' => 7.56065,
   ),
-  1259 => 
+  1247 => 
   array (
     'id' => 18664,
     'name' => 'Veltheim',
@@ -11341,7 +11233,7 @@ return array (
     'latitude' => 47.43796,
     'longitude' => 8.14722,
   ),
-  1260 => 
+  1248 => 
   array (
     'id' => 18668,
     'name' => 'Verbier',
@@ -11350,7 +11242,7 @@ return array (
     'latitude' => 46.1002,
     'longitude' => 7.22651,
   ),
-  1261 => 
+  1249 => 
   array (
     'id' => 18669,
     'name' => 'Vernayaz',
@@ -11359,7 +11251,7 @@ return array (
     'latitude' => 46.13667,
     'longitude' => 7.03906,
   ),
-  1262 => 
+  1250 => 
   array (
     'id' => 18670,
     'name' => 'Vernier',
@@ -11368,7 +11260,7 @@ return array (
     'latitude' => 46.21702,
     'longitude' => 6.08497,
   ),
-  1263 => 
+  1251 => 
   array (
     'id' => 18671,
     'name' => 'Verscio',
@@ -11377,7 +11269,7 @@ return array (
     'latitude' => 46.18482,
     'longitude' => 8.73224,
   ),
-  1264 => 
+  1252 => 
   array (
     'id' => 18672,
     'name' => 'Versoix',
@@ -11386,7 +11278,7 @@ return array (
     'latitude' => 46.28382,
     'longitude' => 6.16214,
   ),
-  1265 => 
+  1253 => 
   array (
     'id' => 18673,
     'name' => 'Vevey',
@@ -11395,7 +11287,7 @@ return array (
     'latitude' => 46.46299,
     'longitude' => 6.84345,
   ),
-  1266 => 
+  1254 => 
   array (
     'id' => 18674,
     'name' => 'Veveyse District',
@@ -11404,7 +11296,7 @@ return array (
     'latitude' => 46.55083,
     'longitude' => 6.91085,
   ),
-  1267 => 
+  1255 => 
   array (
     'id' => 18675,
     'name' => 'Vex',
@@ -11413,7 +11305,7 @@ return array (
     'latitude' => 46.21239,
     'longitude' => 7.39826,
   ),
-  1268 => 
+  1256 => 
   array (
     'id' => 18676,
     'name' => 'Veyrier',
@@ -11422,7 +11314,7 @@ return array (
     'latitude' => 46.16699,
     'longitude' => 6.18436,
   ),
-  1269 => 
+  1257 => 
   array (
     'id' => 18677,
     'name' => 'Vicques',
@@ -11431,7 +11323,7 @@ return array (
     'latitude' => 47.35,
     'longitude' => 7.41342,
   ),
-  1270 => 
+  1258 => 
   array (
     'id' => 18678,
     'name' => 'Viganello',
@@ -11440,7 +11332,7 @@ return array (
     'latitude' => 46.01342,
     'longitude' => 8.96879,
   ),
-  1271 => 
+  1259 => 
   array (
     'id' => 18679,
     'name' => 'Villars-sur-Glâne',
@@ -11449,7 +11341,7 @@ return array (
     'latitude' => 46.79054,
     'longitude' => 7.11717,
   ),
-  1272 => 
+  1260 => 
   array (
     'id' => 18680,
     'name' => 'Villars-sur-Ollon',
@@ -11458,7 +11350,7 @@ return array (
     'latitude' => 46.29832,
     'longitude' => 7.05631,
   ),
-  1273 => 
+  1261 => 
   array (
     'id' => 18681,
     'name' => 'Villaz-Saint-Pierre',
@@ -11467,7 +11359,7 @@ return array (
     'latitude' => 46.72074,
     'longitude' => 6.95638,
   ),
-  1274 => 
+  1262 => 
   array (
     'id' => 18682,
     'name' => 'Villeneuve',
@@ -11476,7 +11368,7 @@ return array (
     'latitude' => 46.39869,
     'longitude' => 6.92654,
   ),
-  1275 => 
+  1263 => 
   array (
     'id' => 18683,
     'name' => 'Villigen',
@@ -11485,7 +11377,7 @@ return array (
     'latitude' => 47.52682,
     'longitude' => 8.21486,
   ),
-  1276 => 
+  1264 => 
   array (
     'id' => 18684,
     'name' => 'Villmergen',
@@ -11494,7 +11386,7 @@ return array (
     'latitude' => 47.35009,
     'longitude' => 8.24762,
   ),
-  1277 => 
+  1265 => 
   array (
     'id' => 18685,
     'name' => 'Villnachern',
@@ -11503,7 +11395,7 @@ return array (
     'latitude' => 47.47098,
     'longitude' => 8.15975,
   ),
-  1278 => 
+  1266 => 
   array (
     'id' => 18686,
     'name' => 'Vionnaz',
@@ -11512,7 +11404,7 @@ return array (
     'latitude' => 46.31101,
     'longitude' => 6.90062,
   ),
-  1279 => 
+  1267 => 
   array (
     'id' => 18687,
     'name' => 'Visp',
@@ -11521,7 +11413,7 @@ return array (
     'latitude' => 46.2937,
     'longitude' => 7.88149,
   ),
-  1280 => 
+  1268 => 
   array (
     'id' => 18688,
     'name' => 'Visp District',
@@ -11530,7 +11422,7 @@ return array (
     'latitude' => 46.17612,
     'longitude' => 7.85609,
   ),
-  1281 => 
+  1269 => 
   array (
     'id' => 18689,
     'name' => 'Visperterminen',
@@ -11539,7 +11431,7 @@ return array (
     'latitude' => 46.25899,
     'longitude' => 7.90192,
   ),
-  1282 => 
+  1270 => 
   array (
     'id' => 18690,
     'name' => 'Vitznau',
@@ -11548,7 +11440,7 @@ return array (
     'latitude' => 47.01014,
     'longitude' => 8.4842,
   ),
-  1283 => 
+  1271 => 
   array (
     'id' => 18692,
     'name' => 'Vordemwald',
@@ -11557,7 +11449,7 @@ return array (
     'latitude' => 47.27585,
     'longitude' => 7.90114,
   ),
-  1284 => 
+  1272 => 
   array (
     'id' => 18693,
     'name' => 'Vorderthal',
@@ -11566,7 +11458,7 @@ return array (
     'latitude' => 47.12172,
     'longitude' => 8.90225,
   ),
-  1285 => 
+  1273 => 
   array (
     'id' => 18694,
     'name' => 'Vouvry',
@@ -11575,7 +11467,7 @@ return array (
     'latitude' => 46.33746,
     'longitude' => 6.8895,
   ),
-  1286 => 
+  1274 => 
   array (
     'id' => 18695,
     'name' => 'Vuadens',
@@ -11584,7 +11476,7 @@ return array (
     'latitude' => 46.61545,
     'longitude' => 7.01732,
   ),
-  1287 => 
+  1275 => 
   array (
     'id' => 18696,
     'name' => 'Vuarrens',
@@ -11593,7 +11485,7 @@ return array (
     'latitude' => 46.68578,
     'longitude' => 6.64793,
   ),
-  1288 => 
+  1276 => 
   array (
     'id' => 18697,
     'name' => 'Vétroz',
@@ -11602,7 +11494,7 @@ return array (
     'latitude' => 46.22171,
     'longitude' => 7.27858,
   ),
-  1289 => 
+  1277 => 
   array (
     'id' => 18698,
     'name' => 'Wagenhausen',
@@ -11611,7 +11503,7 @@ return array (
     'latitude' => 47.66003,
     'longitude' => 8.84782,
   ),
-  1290 => 
+  1278 => 
   array (
     'id' => 18699,
     'name' => 'Wahlen',
@@ -11620,7 +11512,7 @@ return array (
     'latitude' => 47.40226,
     'longitude' => 7.51511,
   ),
-  1291 => 
+  1279 => 
   array (
     'id' => 18700,
     'name' => 'Wahlkreis Rheintal',
@@ -11629,7 +11521,7 @@ return array (
     'latitude' => 47.37769,
     'longitude' => 9.57903,
   ),
-  1292 => 
+  1280 => 
   array (
     'id' => 18701,
     'name' => 'Wahlkreis Rorschach',
@@ -11638,7 +11530,7 @@ return array (
     'latitude' => 47.46647,
     'longitude' => 9.44246,
   ),
-  1293 => 
+  1281 => 
   array (
     'id' => 18702,
     'name' => 'Wahlkreis Sarganserland',
@@ -11647,7 +11539,7 @@ return array (
     'latitude' => 47.05,
     'longitude' => 9.43333,
   ),
-  1294 => 
+  1282 => 
   array (
     'id' => 18703,
     'name' => 'Wahlkreis See-Gaster',
@@ -11656,7 +11548,7 @@ return array (
     'latitude' => 47.22459,
     'longitude' => 9.0168,
   ),
-  1295 => 
+  1283 => 
   array (
     'id' => 18704,
     'name' => 'Wahlkreis St. Gallen',
@@ -11665,7 +11557,7 @@ return array (
     'latitude' => 47.46342,
     'longitude' => 9.39052,
   ),
-  1296 => 
+  1284 => 
   array (
     'id' => 18705,
     'name' => 'Wahlkreis Toggenburg',
@@ -11674,7 +11566,7 @@ return array (
     'latitude' => 47.29453,
     'longitude' => 9.17283,
   ),
-  1297 => 
+  1285 => 
   array (
     'id' => 18706,
     'name' => 'Wahlkreis Werdenberg',
@@ -11683,7 +11575,7 @@ return array (
     'latitude' => 47.17743,
     'longitude' => 9.46299,
   ),
-  1298 => 
+  1286 => 
   array (
     'id' => 18707,
     'name' => 'Wahlkreis Wil',
@@ -11692,7 +11584,7 @@ return array (
     'latitude' => 47.42591,
     'longitude' => 9.12451,
   ),
-  1299 => 
+  1287 => 
   array (
     'id' => 18708,
     'name' => 'Walchwil',
@@ -11701,7 +11593,7 @@ return array (
     'latitude' => 47.10169,
     'longitude' => 8.51693,
   ),
-  1300 => 
+  1288 => 
   array (
     'id' => 18709,
     'name' => 'Wald',
@@ -11710,7 +11602,7 @@ return array (
     'latitude' => 47.27595,
     'longitude' => 8.91405,
   ),
-  1301 => 
+  1289 => 
   array (
     'id' => 18710,
     'name' => 'Waldenburg',
@@ -11719,7 +11611,7 @@ return array (
     'latitude' => 47.38333,
     'longitude' => 7.75,
   ),
-  1302 => 
+  1290 => 
   array (
     'id' => 18711,
     'name' => 'Waldkirch',
@@ -11728,7 +11620,7 @@ return array (
     'latitude' => 47.46859,
     'longitude' => 9.28665,
   ),
-  1303 => 
+  1291 => 
   array (
     'id' => 18712,
     'name' => 'Waldstatt',
@@ -11737,7 +11629,7 @@ return array (
     'latitude' => 47.35627,
     'longitude' => 9.28345,
   ),
-  1304 => 
+  1292 => 
   array (
     'id' => 18713,
     'name' => 'Walenstadt',
@@ -11746,7 +11638,7 @@ return array (
     'latitude' => 47.12411,
     'longitude' => 9.31194,
   ),
-  1305 => 
+  1293 => 
   array (
     'id' => 18714,
     'name' => 'Walkringen',
@@ -11755,7 +11647,7 @@ return array (
     'latitude' => 46.94856,
     'longitude' => 7.6204,
   ),
-  1306 => 
+  1294 => 
   array (
     'id' => 18715,
     'name' => 'Wallisellen',
@@ -11764,7 +11656,7 @@ return array (
     'latitude' => 47.41499,
     'longitude' => 8.59672,
   ),
-  1307 => 
+  1295 => 
   array (
     'id' => 18716,
     'name' => 'Wallisellen / Rieden',
@@ -11773,7 +11665,7 @@ return array (
     'latitude' => 47.41738,
     'longitude' => 8.60028,
   ),
-  1308 => 
+  1296 => 
   array (
     'id' => 18717,
     'name' => 'Wallisellen / Wallisellen-Ost',
@@ -11782,7 +11674,7 @@ return array (
     'latitude' => 47.41446,
     'longitude' => 8.59727,
   ),
-  1309 => 
+  1297 => 
   array (
     'id' => 18718,
     'name' => 'Wallisellen / Wallisellen-West',
@@ -11791,7 +11683,7 @@ return array (
     'latitude' => 47.41906,
     'longitude' => 8.58586,
   ),
-  1310 => 
+  1298 => 
   array (
     'id' => 18719,
     'name' => 'Waltenschwil',
@@ -11800,7 +11692,7 @@ return array (
     'latitude' => 47.33339,
     'longitude' => 8.29791,
   ),
-  1311 => 
+  1299 => 
   array (
     'id' => 18720,
     'name' => 'Walzenhausen',
@@ -11809,7 +11701,7 @@ return array (
     'latitude' => 47.44867,
     'longitude' => 9.60495,
   ),
-  1312 => 
+  1300 => 
   array (
     'id' => 18721,
     'name' => 'Wangen',
@@ -11818,16 +11710,7 @@ return array (
     'latitude' => 47.34365,
     'longitude' => 7.86982,
   ),
-  1313 => 
-  array (
-    'id' => 18722,
-    'name' => 'Wangen',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 47.41182,
-    'longitude' => 8.64516,
-  ),
-  1314 => 
+  1301 => 
   array (
     'id' => 18723,
     'name' => 'Wangen an der Aare',
@@ -11836,7 +11719,7 @@ return array (
     'latitude' => 47.23208,
     'longitude' => 7.65253,
   ),
-  1315 => 
+  1302 => 
   array (
     'id' => 18724,
     'name' => 'Wattenwil',
@@ -11845,7 +11728,7 @@ return array (
     'latitude' => 46.76973,
     'longitude' => 7.50835,
   ),
-  1316 => 
+  1303 => 
   array (
     'id' => 18725,
     'name' => 'Wattwil',
@@ -11854,7 +11737,7 @@ return array (
     'latitude' => 47.29955,
     'longitude' => 9.08657,
   ),
-  1317 => 
+  1304 => 
   array (
     'id' => 18726,
     'name' => 'Wauwil',
@@ -11863,7 +11746,7 @@ return array (
     'latitude' => 47.18457,
     'longitude' => 8.021,
   ),
-  1318 => 
+  1305 => 
   array (
     'id' => 18727,
     'name' => 'Weesen',
@@ -11872,7 +11755,7 @@ return array (
     'latitude' => 47.13447,
     'longitude' => 9.09644,
   ),
-  1319 => 
+  1306 => 
   array (
     'id' => 18728,
     'name' => 'Wegenstetten',
@@ -11881,7 +11764,7 @@ return array (
     'latitude' => 47.49797,
     'longitude' => 7.93141,
   ),
-  1320 => 
+  1307 => 
   array (
     'id' => 18729,
     'name' => 'Weggis',
@@ -11890,7 +11773,7 @@ return array (
     'latitude' => 47.03208,
     'longitude' => 8.43219,
   ),
-  1321 => 
+  1308 => 
   array (
     'id' => 18730,
     'name' => 'Weinfelden',
@@ -11899,7 +11782,7 @@ return array (
     'latitude' => 47.56667,
     'longitude' => 9.1,
   ),
-  1322 => 
+  1309 => 
   array (
     'id' => 18731,
     'name' => 'Weinfelden District',
@@ -11908,7 +11791,7 @@ return array (
     'latitude' => 47.54237,
     'longitude' => 9.15713,
   ),
-  1323 => 
+  1310 => 
   array (
     'id' => 18732,
     'name' => 'Weiningen',
@@ -11917,7 +11800,7 @@ return array (
     'latitude' => 47.42022,
     'longitude' => 8.43644,
   ),
-  1324 => 
+  1311 => 
   array (
     'id' => 18733,
     'name' => 'Weisslingen',
@@ -11926,7 +11809,7 @@ return array (
     'latitude' => 47.43063,
     'longitude' => 8.76787,
   ),
-  1325 => 
+  1312 => 
   array (
     'id' => 18734,
     'name' => 'Welschenrohr',
@@ -11935,7 +11818,7 @@ return array (
     'latitude' => 47.28052,
     'longitude' => 7.52664,
   ),
-  1326 => 
+  1313 => 
   array (
     'id' => 18735,
     'name' => 'Werthenstein',
@@ -11944,7 +11827,7 @@ return array (
     'latitude' => 47.05578,
     'longitude' => 8.10182,
   ),
-  1327 => 
+  1314 => 
   array (
     'id' => 18736,
     'name' => 'Wettingen',
@@ -11953,7 +11836,7 @@ return array (
     'latitude' => 47.47049,
     'longitude' => 8.31636,
   ),
-  1328 => 
+  1315 => 
   array (
     'id' => 18737,
     'name' => 'Wettswil / Ausser-Dorf',
@@ -11962,7 +11845,7 @@ return array (
     'latitude' => 47.33197,
     'longitude' => 8.47732,
   ),
-  1329 => 
+  1316 => 
   array (
     'id' => 18739,
     'name' => 'Wetzikon',
@@ -11971,7 +11854,7 @@ return array (
     'latitude' => 47.3264,
     'longitude' => 8.79779,
   ),
-  1330 => 
+  1317 => 
   array (
     'id' => 18740,
     'name' => 'Wetzikon / Kempten',
@@ -11980,7 +11863,7 @@ return array (
     'latitude' => 47.33319,
     'longitude' => 8.80982,
   ),
-  1331 => 
+  1318 => 
   array (
     'id' => 18741,
     'name' => 'Wetzikon / Ober-Wetzikon',
@@ -11989,7 +11872,7 @@ return array (
     'latitude' => 47.32514,
     'longitude' => 8.80005,
   ),
-  1332 => 
+  1319 => 
   array (
     'id' => 18742,
     'name' => 'Wetzikon / Robenhausen',
@@ -11998,7 +11881,7 @@ return array (
     'latitude' => 47.33089,
     'longitude' => 8.78762,
   ),
-  1333 => 
+  1320 => 
   array (
     'id' => 18743,
     'name' => 'Wetzikon / Unter-Wetzikon',
@@ -12007,7 +11890,7 @@ return array (
     'latitude' => 47.31637,
     'longitude' => 8.79369,
   ),
-  1334 => 
+  1321 => 
   array (
     'id' => 18744,
     'name' => 'Wichtrach',
@@ -12016,7 +11899,7 @@ return array (
     'latitude' => 46.8501,
     'longitude' => 7.57748,
   ),
-  1335 => 
+  1322 => 
   array (
     'id' => 18745,
     'name' => 'Wiedlisbach',
@@ -12025,7 +11908,7 @@ return array (
     'latitude' => 47.25194,
     'longitude' => 7.6461,
   ),
-  1336 => 
+  1323 => 
   array (
     'id' => 18747,
     'name' => 'Wigoltingen',
@@ -12034,7 +11917,7 @@ return array (
     'latitude' => 47.5977,
     'longitude' => 9.03141,
   ),
-  1337 => 
+  1324 => 
   array (
     'id' => 18748,
     'name' => 'Wikon',
@@ -12043,7 +11926,7 @@ return array (
     'latitude' => 47.26339,
     'longitude' => 7.96801,
   ),
-  1338 => 
+  1325 => 
   array (
     'id' => 18749,
     'name' => 'Wil',
@@ -12052,7 +11935,7 @@ return array (
     'latitude' => 47.46152,
     'longitude' => 9.04552,
   ),
-  1339 => 
+  1326 => 
   array (
     'id' => 18750,
     'name' => 'Wila',
@@ -12061,7 +11944,7 @@ return array (
     'latitude' => 47.41928,
     'longitude' => 8.84524,
   ),
-  1340 => 
+  1327 => 
   array (
     'id' => 18751,
     'name' => 'Wilchingen',
@@ -12070,7 +11953,7 @@ return array (
     'latitude' => 47.66745,
     'longitude' => 8.46774,
   ),
-  1341 => 
+  1328 => 
   array (
     'id' => 18752,
     'name' => 'Wilderswil',
@@ -12079,7 +11962,7 @@ return array (
     'latitude' => 46.66369,
     'longitude' => 7.86175,
   ),
-  1342 => 
+  1329 => 
   array (
     'id' => 18753,
     'name' => 'Wildhaus',
@@ -12088,7 +11971,7 @@ return array (
     'latitude' => 47.20583,
     'longitude' => 9.35402,
   ),
-  1343 => 
+  1330 => 
   array (
     'id' => 18754,
     'name' => 'Willisau',
@@ -12097,7 +11980,7 @@ return array (
     'latitude' => 47.12183,
     'longitude' => 7.99418,
   ),
-  1344 => 
+  1331 => 
   array (
     'id' => 18755,
     'name' => 'Willisau District',
@@ -12106,7 +11989,7 @@ return array (
     'latitude' => 47.14097,
     'longitude' => 7.95933,
   ),
-  1345 => 
+  1332 => 
   array (
     'id' => 18756,
     'name' => 'Wimmis',
@@ -12115,7 +11998,7 @@ return array (
     'latitude' => 46.67587,
     'longitude' => 7.63972,
   ),
-  1346 => 
+  1333 => 
   array (
     'id' => 18757,
     'name' => 'Windisch',
@@ -12124,7 +12007,7 @@ return array (
     'latitude' => 47.47899,
     'longitude' => 8.21842,
   ),
-  1347 => 
+  1334 => 
   array (
     'id' => 18758,
     'name' => 'Winterthur',
@@ -12133,7 +12016,7 @@ return array (
     'latitude' => 47.50564,
     'longitude' => 8.72413,
   ),
-  1348 => 
+  1335 => 
   array (
     'id' => 18759,
     'name' => 'Wittenbach',
@@ -12142,7 +12025,7 @@ return array (
     'latitude' => 47.46108,
     'longitude' => 9.38601,
   ),
-  1349 => 
+  1336 => 
   array (
     'id' => 18760,
     'name' => 'Wittnau',
@@ -12151,7 +12034,7 @@ return array (
     'latitude' => 47.48139,
     'longitude' => 7.97577,
   ),
-  1350 => 
+  1337 => 
   array (
     'id' => 18761,
     'name' => 'Wohlen',
@@ -12160,16 +12043,7 @@ return array (
     'latitude' => 47.35066,
     'longitude' => 8.27517,
   ),
-  1351 => 
-  array (
-    'id' => 18762,
-    'name' => 'Wohlen',
-    'country_id' => 214,
-    'country_code' => 'CH',
-    'latitude' => 46.97118,
-    'longitude' => 7.35685,
-  ),
-  1352 => 
+  1338 => 
   array (
     'id' => 18763,
     'name' => 'Wolfenschiessen',
@@ -12178,7 +12052,7 @@ return array (
     'latitude' => 46.90322,
     'longitude' => 8.39423,
   ),
-  1353 => 
+  1339 => 
   array (
     'id' => 18764,
     'name' => 'Wolfhausen',
@@ -12187,7 +12061,7 @@ return array (
     'latitude' => 47.25619,
     'longitude' => 8.7991,
   ),
-  1354 => 
+  1340 => 
   array (
     'id' => 18765,
     'name' => 'Wolfwil',
@@ -12196,7 +12070,7 @@ return array (
     'latitude' => 47.26871,
     'longitude' => 7.79652,
   ),
-  1355 => 
+  1341 => 
   array (
     'id' => 18766,
     'name' => 'Wolhusen',
@@ -12205,7 +12079,7 @@ return array (
     'latitude' => 47.05983,
     'longitude' => 8.07389,
   ),
-  1356 => 
+  1342 => 
   array (
     'id' => 18767,
     'name' => 'Wollerau',
@@ -12214,7 +12088,7 @@ return array (
     'latitude' => 47.19478,
     'longitude' => 8.71903,
   ),
-  1357 => 
+  1343 => 
   array (
     'id' => 18768,
     'name' => 'Worb',
@@ -12223,7 +12097,7 @@ return array (
     'latitude' => 46.92984,
     'longitude' => 7.56306,
   ),
-  1358 => 
+  1344 => 
   array (
     'id' => 18769,
     'name' => 'Worben',
@@ -12232,7 +12106,7 @@ return array (
     'latitude' => 47.10279,
     'longitude' => 7.29518,
   ),
-  1359 => 
+  1345 => 
   array (
     'id' => 18770,
     'name' => 'Wynau',
@@ -12241,7 +12115,7 @@ return array (
     'latitude' => 47.2557,
     'longitude' => 7.81626,
   ),
-  1360 => 
+  1346 => 
   array (
     'id' => 18771,
     'name' => 'Wynigen',
@@ -12250,7 +12124,7 @@ return array (
     'latitude' => 47.10586,
     'longitude' => 7.66681,
   ),
-  1361 => 
+  1347 => 
   array (
     'id' => 18772,
     'name' => 'Wyssachen',
@@ -12259,7 +12133,7 @@ return array (
     'latitude' => 47.07851,
     'longitude' => 7.82922,
   ),
-  1362 => 
+  1348 => 
   array (
     'id' => 18773,
     'name' => 'Wädenswil',
@@ -12268,7 +12142,7 @@ return array (
     'latitude' => 47.22683,
     'longitude' => 8.6687,
   ),
-  1363 => 
+  1349 => 
   array (
     'id' => 18774,
     'name' => 'Wädenswil / Boller-Giessen',
@@ -12277,7 +12151,7 @@ return array (
     'latitude' => 47.22115,
     'longitude' => 8.68385,
   ),
-  1364 => 
+  1350 => 
   array (
     'id' => 18775,
     'name' => 'Wädenswil / Büelen',
@@ -12286,7 +12160,7 @@ return array (
     'latitude' => 47.23395,
     'longitude' => 8.66346,
   ),
-  1365 => 
+  1351 => 
   array (
     'id' => 18777,
     'name' => 'Wädenswil / Eichweid',
@@ -12295,7 +12169,7 @@ return array (
     'latitude' => 47.21847,
     'longitude' => 8.6744,
   ),
-  1366 => 
+  1352 => 
   array (
     'id' => 18778,
     'name' => 'Wädenswil / Hangenmoos',
@@ -12304,7 +12178,7 @@ return array (
     'latitude' => 47.23367,
     'longitude' => 8.65251,
   ),
-  1367 => 
+  1353 => 
   array (
     'id' => 18779,
     'name' => 'Wädenswil / Leihof-Mühlebach',
@@ -12313,7 +12187,7 @@ return array (
     'latitude' => 47.22364,
     'longitude' => 8.67149,
   ),
-  1368 => 
+  1354 => 
   array (
     'id' => 18780,
     'name' => 'Wädenswil / Untermosen-Fuhr',
@@ -12322,7 +12196,7 @@ return array (
     'latitude' => 47.22772,
     'longitude' => 8.66303,
   ),
-  1369 => 
+  1355 => 
   array (
     'id' => 18781,
     'name' => 'Wängi',
@@ -12331,7 +12205,7 @@ return array (
     'latitude' => 47.49654,
     'longitude' => 8.95325,
   ),
-  1370 => 
+  1356 => 
   array (
     'id' => 18782,
     'name' => 'Wölflinswil',
@@ -12340,7 +12214,7 @@ return array (
     'latitude' => 47.4607,
     'longitude' => 7.99835,
   ),
-  1371 => 
+  1357 => 
   array (
     'id' => 18788,
     'name' => 'Würenlingen',
@@ -12349,7 +12223,7 @@ return array (
     'latitude' => 47.53356,
     'longitude' => 8.25666,
   ),
-  1372 => 
+  1358 => 
   array (
     'id' => 18789,
     'name' => 'Würenlos',
@@ -12358,7 +12232,7 @@ return array (
     'latitude' => 47.44205,
     'longitude' => 8.36261,
   ),
-  1373 => 
+  1359 => 
   array (
     'id' => 18790,
     'name' => 'Yverdon-les-Bains',
@@ -12367,7 +12241,7 @@ return array (
     'latitude' => 46.77852,
     'longitude' => 6.64115,
   ),
-  1374 => 
+  1360 => 
   array (
     'id' => 18791,
     'name' => 'Yvonand',
@@ -12376,7 +12250,7 @@ return array (
     'latitude' => 46.80034,
     'longitude' => 6.74249,
   ),
-  1375 => 
+  1361 => 
   array (
     'id' => 18792,
     'name' => 'Zell',
@@ -12385,7 +12259,7 @@ return array (
     'latitude' => 47.13673,
     'longitude' => 7.92495,
   ),
-  1376 => 
+  1362 => 
   array (
     'id' => 18793,
     'name' => 'Zermatt',
@@ -12394,7 +12268,7 @@ return array (
     'latitude' => 46.01998,
     'longitude' => 7.74863,
   ),
-  1377 => 
+  1363 => 
   array (
     'id' => 18794,
     'name' => 'Zernez',
@@ -12403,7 +12277,7 @@ return array (
     'latitude' => 46.69862,
     'longitude' => 10.09268,
   ),
-  1378 => 
+  1364 => 
   array (
     'id' => 18795,
     'name' => 'Zizers',
@@ -12412,7 +12286,7 @@ return array (
     'latitude' => 46.93575,
     'longitude' => 9.56491,
   ),
-  1379 => 
+  1365 => 
   array (
     'id' => 18796,
     'name' => 'Zofingen',
@@ -12421,7 +12295,7 @@ return array (
     'latitude' => 47.28779,
     'longitude' => 7.94586,
   ),
-  1380 => 
+  1366 => 
   array (
     'id' => 18797,
     'name' => 'Zollikerberg',
@@ -12430,7 +12304,7 @@ return array (
     'latitude' => 47.3451,
     'longitude' => 8.60088,
   ),
-  1381 => 
+  1367 => 
   array (
     'id' => 18798,
     'name' => 'Zollikofen',
@@ -12439,7 +12313,7 @@ return array (
     'latitude' => 46.99905,
     'longitude' => 7.45809,
   ),
-  1382 => 
+  1368 => 
   array (
     'id' => 18799,
     'name' => 'Zollikon',
@@ -12448,7 +12322,7 @@ return array (
     'latitude' => 47.34019,
     'longitude' => 8.57407,
   ),
-  1383 => 
+  1369 => 
   array (
     'id' => 18800,
     'name' => 'Zuchwil',
@@ -12457,7 +12331,7 @@ return array (
     'latitude' => 47.20173,
     'longitude' => 7.56649,
   ),
-  1384 => 
+  1370 => 
   array (
     'id' => 18801,
     'name' => 'Zug',
@@ -12466,7 +12340,7 @@ return array (
     'latitude' => 47.17242,
     'longitude' => 8.51745,
   ),
-  1385 => 
+  1371 => 
   array (
     'id' => 18802,
     'name' => 'Zumikon',
@@ -12475,7 +12349,7 @@ return array (
     'latitude' => 47.33158,
     'longitude' => 8.62271,
   ),
-  1386 => 
+  1372 => 
   array (
     'id' => 18803,
     'name' => 'Zunzgen',
@@ -12484,7 +12358,7 @@ return array (
     'latitude' => 47.44925,
     'longitude' => 7.80789,
   ),
-  1387 => 
+  1373 => 
   array (
     'id' => 18804,
     'name' => 'Zuoz',
@@ -12493,7 +12367,7 @@ return array (
     'latitude' => 46.60206,
     'longitude' => 9.95965,
   ),
-  1388 => 
+  1374 => 
   array (
     'id' => 18805,
     'name' => 'Zuzwil',
@@ -12502,7 +12376,7 @@ return array (
     'latitude' => 47.47452,
     'longitude' => 9.11196,
   ),
-  1389 => 
+  1375 => 
   array (
     'id' => 18806,
     'name' => 'Zweisimmen',
@@ -12511,7 +12385,7 @@ return array (
     'latitude' => 46.55539,
     'longitude' => 7.37302,
   ),
-  1390 => 
+  1376 => 
   array (
     'id' => 18807,
     'name' => 'Zwingen',
@@ -12520,7 +12394,7 @@ return array (
     'latitude' => 47.43825,
     'longitude' => 7.53027,
   ),
-  1391 => 
+  1377 => 
   array (
     'id' => 18808,
     'name' => 'Zäziwil',
@@ -12529,7 +12403,7 @@ return array (
     'latitude' => 46.90196,
     'longitude' => 7.66185,
   ),
-  1392 => 
+  1378 => 
   array (
     'id' => 18809,
     'name' => 'Zürich',
@@ -12538,7 +12412,7 @@ return array (
     'latitude' => 47.36667,
     'longitude' => 8.55,
   ),
-  1393 => 
+  1379 => 
   array (
     'id' => 149129,
     'name' => 'Basel',
@@ -12547,7 +12421,7 @@ return array (
     'latitude' => 47.554722,
     'longitude' => 7.590556,
   ),
-  1394 => 
+  1380 => 
   array (
     'id' => 149130,
     'name' => 'Bettingen',
@@ -12556,7 +12430,7 @@ return array (
     'latitude' => 47.571389,
     'longitude' => 7.664167,
   ),
-  1395 => 
+  1381 => 
   array (
     'id' => 149131,
     'name' => 'Riehen',
@@ -12565,7 +12439,7 @@ return array (
     'latitude' => 47.583333,
     'longitude' => 7.633333,
   ),
-  1396 => 
+  1382 => 
   array (
     'id' => 153791,
     'name' => 'Liebefeld ',

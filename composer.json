@@ -1,7 +1,7 @@
 {
   "name": "rahasistiyak/laravel-geo-data",
   "description": "A Laravel package providing optimized access to region, country, phone code, city, and currency data",
-  "version": "2.1.4",
+  "version": "2.2.0",
   "type": "library",
   "license": "MIT",
   "authors": [

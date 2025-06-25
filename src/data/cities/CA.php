@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -1731,15 +1731,6 @@ return array (
   ),
   192 => 
   array (
-    'id' => 16338,
-    'name' => 'Cornwall',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 46.22652,
-    'longitude' => -63.21809,
-  ),
-  193 => 
-  array (
     'id' => 16339,
     'name' => 'Corunna',
     'country_id' => 39,
@@ -1747,7 +1738,7 @@ return array (
     'latitude' => 42.88338,
     'longitude' => -82.43313,
   ),
-  194 => 
+  193 => 
   array (
     'id' => 16340,
     'name' => 'Coteau-du-Lac',
@@ -1756,7 +1747,7 @@ return array (
     'latitude' => 45.30008,
     'longitude' => -74.18253,
   ),
-  195 => 
+  194 => 
   array (
     'id' => 16341,
     'name' => 'Courtenay',
@@ -1765,7 +1756,7 @@ return array (
     'latitude' => 49.68657,
     'longitude' => -124.9936,
   ),
-  196 => 
+  195 => 
   array (
     'id' => 16342,
     'name' => 'Cow Bay',
@@ -1774,7 +1765,7 @@ return array (
     'latitude' => 44.63141,
     'longitude' => -63.43218,
   ),
-  197 => 
+  196 => 
   array (
     'id' => 16343,
     'name' => 'Cowansville',
@@ -1783,7 +1774,7 @@ return array (
     'latitude' => 45.20008,
     'longitude' => -72.74913,
   ),
-  198 => 
+  197 => 
   array (
     'id' => 16344,
     'name' => 'Cowichan Bay',
@@ -1792,7 +1783,7 @@ return array (
     'latitude' => 48.73366,
     'longitude' => -123.61739,
   ),
-  199 => 
+  198 => 
   array (
     'id' => 16345,
     'name' => 'Crabtree',
@@ -1801,7 +1792,7 @@ return array (
     'latitude' => 45.96677,
     'longitude' => -73.46586,
   ),
-  200 => 
+  199 => 
   array (
     'id' => 16346,
     'name' => 'Cranbrook',
@@ -1810,7 +1801,7 @@ return array (
     'latitude' => 49.49991,
     'longitude' => -115.76879,
   ),
-  201 => 
+  200 => 
   array (
     'id' => 16347,
     'name' => 'Creston',
@@ -1819,7 +1810,7 @@ return array (
     'latitude' => 49.09987,
     'longitude' => -116.50211,
   ),
-  202 => 
+  201 => 
   array (
     'id' => 16348,
     'name' => 'Cross Lake 19A',
@@ -1828,7 +1819,7 @@ return array (
     'latitude' => 54.65135,
     'longitude' => -97.76848,
   ),
-  203 => 
+  202 => 
   array (
     'id' => 16349,
     'name' => 'Crossfield',
@@ -1837,7 +1828,7 @@ return array (
     'latitude' => 51.43341,
     'longitude' => -114.03528,
   ),
-  204 => 
+  203 => 
   array (
     'id' => 16350,
     'name' => 'Cumberland',
@@ -1846,7 +1837,7 @@ return array (
     'latitude' => 49.61634,
     'longitude' => -125.03613,
   ),
-  205 => 
+  204 => 
   array (
     'id' => 16351,
     'name' => 'Côte-Nord',
@@ -1855,7 +1846,7 @@ return array (
     'latitude' => 50.86683,
     'longitude' => -65.81541,
   ),
-  206 => 
+  205 => 
   array (
     'id' => 16352,
     'name' => 'Côte-Saint-Luc',
@@ -1864,7 +1855,7 @@ return array (
     'latitude' => 45.46536,
     'longitude' => -73.66585,
   ),
-  207 => 
+  206 => 
   array (
     'id' => 16353,
     'name' => 'Dalmeny',
@@ -1873,7 +1864,7 @@ return array (
     'latitude' => 52.33339,
     'longitude' => -106.76792,
   ),
-  208 => 
+  207 => 
   array (
     'id' => 16354,
     'name' => 'Danville',
@@ -1882,7 +1873,7 @@ return array (
     'latitude' => 45.78337,
     'longitude' => -72.0158,
   ),
-  209 => 
+  208 => 
   array (
     'id' => 16355,
     'name' => 'Dartmouth',
@@ -1891,7 +1882,7 @@ return array (
     'latitude' => 44.67134,
     'longitude' => -63.57719,
   ),
-  210 => 
+  209 => 
   array (
     'id' => 16356,
     'name' => 'Dauphin',
@@ -1900,7 +1891,7 @@ return array (
     'latitude' => 51.14941,
     'longitude' => -100.05023,
   ),
-  211 => 
+  210 => 
   array (
     'id' => 16357,
     'name' => 'Daveluyville',
@@ -1909,7 +1900,7 @@ return array (
     'latitude' => 46.20006,
     'longitude' => -72.13239,
   ),
-  212 => 
+  211 => 
   array (
     'id' => 16358,
     'name' => 'Dawson City',
@@ -1918,7 +1909,7 @@ return array (
     'latitude' => 64.06013,
     'longitude' => -139.43328,
   ),
-  213 => 
+  212 => 
   array (
     'id' => 16359,
     'name' => 'Dawson Creek',
@@ -1927,7 +1918,7 @@ return array (
     'latitude' => 55.75984,
     'longitude' => -120.2403,
   ),
-  214 => 
+  213 => 
   array (
     'id' => 16360,
     'name' => 'De Salaberry',
@@ -1936,7 +1927,7 @@ return array (
     'latitude' => 49.39999,
     'longitude' => -97.00894,
   ),
-  215 => 
+  214 => 
   array (
     'id' => 16361,
     'name' => 'Deep River',
@@ -1945,7 +1936,7 @@ return array (
     'latitude' => 46.10012,
     'longitude' => -77.49949,
   ),
-  216 => 
+  215 => 
   array (
     'id' => 16362,
     'name' => 'Deer Lake',
@@ -1954,7 +1945,7 @@ return array (
     'latitude' => 49.16671,
     'longitude' => -57.43163,
   ),
-  217 => 
+  216 => 
   array (
     'id' => 16363,
     'name' => 'Delaware',
@@ -1963,7 +1954,7 @@ return array (
     'latitude' => 42.91679,
     'longitude' => -81.41646,
   ),
-  218 => 
+  217 => 
   array (
     'id' => 16364,
     'name' => 'Deloraine',
@@ -1972,7 +1963,7 @@ return array (
     'latitude' => 49.19082,
     'longitude' => -100.49477,
   ),
-  219 => 
+  218 => 
   array (
     'id' => 16365,
     'name' => 'Delson',
@@ -1981,7 +1972,7 @@ return array (
     'latitude' => 45.36678,
     'longitude' => -73.54917,
   ),
-  220 => 
+  219 => 
   array (
     'id' => 16366,
     'name' => 'Delta',
@@ -1990,7 +1981,7 @@ return array (
     'latitude' => 49.14399,
     'longitude' => -122.9068,
   ),
-  221 => 
+  220 => 
   array (
     'id' => 16367,
     'name' => 'Denman Island',
@@ -1999,7 +1990,7 @@ return array (
     'latitude' => 49.53294,
     'longitude' => -124.8195,
   ),
-  222 => 
+  221 => 
   array (
     'id' => 16368,
     'name' => 'Denman Island Trust Area',
@@ -2008,7 +1999,7 @@ return array (
     'latitude' => 49.55189,
     'longitude' => -124.79881,
   ),
-  223 => 
+  222 => 
   array (
     'id' => 16369,
     'name' => 'Deseronto',
@@ -2017,7 +2008,7 @@ return array (
     'latitude' => 44.20012,
     'longitude' => -77.04944,
   ),
-  224 => 
+  223 => 
   array (
     'id' => 16370,
     'name' => 'Deux-Montagnes',
@@ -2026,7 +2017,7 @@ return array (
     'latitude' => 45.53455,
     'longitude' => -73.90168,
   ),
-  225 => 
+  224 => 
   array (
     'id' => 16371,
     'name' => 'Devon',
@@ -2035,7 +2026,7 @@ return array (
     'latitude' => 53.36683,
     'longitude' => -113.73533,
   ),
-  226 => 
+  225 => 
   array (
     'id' => 16372,
     'name' => 'Didsbury',
@@ -2044,7 +2035,7 @@ return array (
     'latitude' => 51.66681,
     'longitude' => -114.13529,
   ),
-  227 => 
+  226 => 
   array (
     'id' => 16373,
     'name' => 'Dieppe',
@@ -2053,7 +2044,7 @@ return array (
     'latitude' => 46.07844,
     'longitude' => -64.68735,
   ),
-  228 => 
+  227 => 
   array (
     'id' => 16374,
     'name' => 'Digby',
@@ -2062,7 +2053,7 @@ return array (
     'latitude' => 44.62188,
     'longitude' => -65.7586,
   ),
-  229 => 
+  228 => 
   array (
     'id' => 16375,
     'name' => 'Digby County',
@@ -2071,7 +2062,7 @@ return array (
     'latitude' => 44.36685,
     'longitude' => -65.69884,
   ),
-  230 => 
+  229 => 
   array (
     'id' => 16376,
     'name' => 'Disraeli',
@@ -2080,7 +2071,7 @@ return array (
     'latitude' => 45.90007,
     'longitude' => -71.34907,
   ),
-  231 => 
+  230 => 
   array (
     'id' => 16377,
     'name' => 'Dolbeau-Mistassini',
@@ -2089,7 +2080,7 @@ return array (
     'latitude' => 48.8786,
     'longitude' => -72.23142,
   ),
-  232 => 
+  231 => 
   array (
     'id' => 16378,
     'name' => 'Dollard-Des Ormeaux',
@@ -2098,7 +2089,7 @@ return array (
     'latitude' => 45.49452,
     'longitude' => -73.82419,
   ),
-  233 => 
+  232 => 
   array (
     'id' => 16379,
     'name' => 'Donnacona',
@@ -2107,7 +2098,7 @@ return array (
     'latitude' => 46.68042,
     'longitude' => -71.7239,
   ),
-  234 => 
+  233 => 
   array (
     'id' => 16380,
     'name' => 'Dorchester',
@@ -2116,7 +2107,7 @@ return array (
     'latitude' => 42.98339,
     'longitude' => -81.06643,
   ),
-  235 => 
+  234 => 
   array (
     'id' => 16381,
     'name' => 'Dorval',
@@ -2125,7 +2116,7 @@ return array (
     'latitude' => 45.4473,
     'longitude' => -73.75335,
   ),
-  236 => 
+  235 => 
   array (
     'id' => 16382,
     'name' => 'Dowling',
@@ -2134,7 +2125,7 @@ return array (
     'latitude' => 46.59111,
     'longitude' => -81.33917,
   ),
-  237 => 
+  236 => 
   array (
     'id' => 16383,
     'name' => 'Drayton Valley',
@@ -2143,7 +2134,7 @@ return array (
     'latitude' => 53.21682,
     'longitude' => -114.98544,
   ),
-  238 => 
+  237 => 
   array (
     'id' => 16384,
     'name' => 'Drummondville',
@@ -2152,7 +2143,7 @@ return array (
     'latitude' => 45.88336,
     'longitude' => -72.48241,
   ),
-  239 => 
+  238 => 
   array (
     'id' => 16385,
     'name' => 'Dryden',
@@ -2161,7 +2152,7 @@ return array (
     'latitude' => 49.78334,
     'longitude' => -92.75032,
   ),
-  240 => 
+  239 => 
   array (
     'id' => 16386,
     'name' => 'Duck Lake',
@@ -2170,7 +2161,7 @@ return array (
     'latitude' => 50.0088,
     'longitude' => -119.39672,
   ),
-  241 => 
+  240 => 
   array (
     'id' => 16387,
     'name' => 'Duncan',
@@ -2179,7 +2170,7 @@ return array (
     'latitude' => 48.78293,
     'longitude' => -123.70266,
   ),
-  242 => 
+  241 => 
   array (
     'id' => 16388,
     'name' => 'Dunham',
@@ -2188,7 +2179,7 @@ return array (
     'latitude' => 45.13338,
     'longitude' => -72.79913,
   ),
-  243 => 
+  242 => 
   array (
     'id' => 16389,
     'name' => 'Durham',
@@ -2197,7 +2188,7 @@ return array (
     'latitude' => 44.20012,
     'longitude' => -78.99957,
   ),
-  244 => 
+  243 => 
   array (
     'id' => 16390,
     'name' => 'Ear Falls',
@@ -2206,7 +2197,7 @@ return array (
     'latitude' => 50.63955,
     'longitude' => -93.23526,
   ),
-  245 => 
+  244 => 
   array (
     'id' => 16391,
     'name' => 'East Angus',
@@ -2215,7 +2206,7 @@ return array (
     'latitude' => 45.48338,
     'longitude' => -71.66577,
   ),
-  246 => 
+  245 => 
   array (
     'id' => 16392,
     'name' => 'East Broughton',
@@ -2224,7 +2215,7 @@ return array (
     'latitude' => 46.21358,
     'longitude' => -71.07674,
   ),
-  247 => 
+  246 => 
   array (
     'id' => 16393,
     'name' => 'East Gwillimbury',
@@ -2233,7 +2224,7 @@ return array (
     'latitude' => 44.10087,
     'longitude' => -79.43785,
   ),
-  248 => 
+  247 => 
   array (
     'id' => 16394,
     'name' => 'East Wellington',
@@ -2242,7 +2233,7 @@ return array (
     'latitude' => 49.17385,
     'longitude' => -124.01745,
   ),
-  249 => 
+  248 => 
   array (
     'id' => 16395,
     'name' => 'East York',
@@ -2251,7 +2242,7 @@ return array (
     'latitude' => 43.69053,
     'longitude' => -79.32794,
   ),
-  250 => 
+  249 => 
   array (
     'id' => 16396,
     'name' => 'Edmonton',
@@ -2260,7 +2251,7 @@ return array (
     'latitude' => 53.55014,
     'longitude' => -113.46871,
   ),
-  251 => 
+  250 => 
   array (
     'id' => 16397,
     'name' => 'Edmundston',
@@ -2269,7 +2260,7 @@ return array (
     'latitude' => 47.3737,
     'longitude' => -68.32512,
   ),
-  252 => 
+  251 => 
   array (
     'id' => 16398,
     'name' => 'Edson',
@@ -2278,7 +2269,7 @@ return array (
     'latitude' => 53.58345,
     'longitude' => -116.43559,
   ),
-  253 => 
+  252 => 
   array (
     'id' => 16399,
     'name' => 'Elk Point',
@@ -2287,7 +2278,7 @@ return array (
     'latitude' => 53.90017,
     'longitude' => -110.9017,
   ),
-  254 => 
+  253 => 
   array (
     'id' => 16400,
     'name' => 'Elkford',
@@ -2296,7 +2287,7 @@ return array (
     'latitude' => 50.05007,
     'longitude' => -114.8854,
   ),
-  255 => 
+  254 => 
   array (
     'id' => 16401,
     'name' => 'Elliot Lake',
@@ -2305,7 +2296,7 @@ return array (
     'latitude' => 46.38336,
     'longitude' => -82.63315,
   ),
-  256 => 
+  255 => 
   array (
     'id' => 16402,
     'name' => 'Ellison',
@@ -2314,7 +2305,7 @@ return array (
     'latitude' => 49.93307,
     'longitude' => -119.36907,
   ),
-  257 => 
+  256 => 
   array (
     'id' => 16403,
     'name' => 'Elmvale',
@@ -2323,7 +2314,7 @@ return array (
     'latitude' => 44.5834,
     'longitude' => -79.86636,
   ),
-  258 => 
+  257 => 
   array (
     'id' => 16404,
     'name' => 'Enderby',
@@ -2332,7 +2323,7 @@ return array (
     'latitude' => 50.5498,
     'longitude' => -119.15234,
   ),
-  259 => 
+  258 => 
   array (
     'id' => 16405,
     'name' => 'Englehart',
@@ -2341,7 +2332,7 @@ return array (
     'latitude' => 47.81686,
     'longitude' => -79.8664,
   ),
-  260 => 
+  259 => 
   array (
     'id' => 16406,
     'name' => 'English Corner',
@@ -2350,7 +2341,7 @@ return array (
     'latitude' => 44.73345,
     'longitude' => -63.78201,
   ),
-  261 => 
+  260 => 
   array (
     'id' => 16407,
     'name' => 'Eskasoni 3',
@@ -2359,7 +2350,7 @@ return array (
     'latitude' => 45.94522,
     'longitude' => -60.61617,
   ),
-  262 => 
+  261 => 
   array (
     'id' => 16408,
     'name' => 'Espanola',
@@ -2368,7 +2359,7 @@ return array (
     'latitude' => 46.25837,
     'longitude' => -81.76649,
   ),
-  263 => 
+  262 => 
   array (
     'id' => 16409,
     'name' => 'Essex',
@@ -2377,7 +2368,7 @@ return array (
     'latitude' => 42.17509,
     'longitude' => -82.82483,
   ),
-  264 => 
+  263 => 
   array (
     'id' => 16410,
     'name' => 'Esterhazy',
@@ -2386,7 +2377,7 @@ return array (
     'latitude' => 50.65001,
     'longitude' => -102.08426,
   ),
-  265 => 
+  264 => 
   array (
     'id' => 16411,
     'name' => 'Estevan',
@@ -2395,7 +2386,7 @@ return array (
     'latitude' => 49.13337,
     'longitude' => -102.98422,
   ),
-  266 => 
+  265 => 
   array (
     'id' => 16412,
     'name' => 'Etobicoke',
@@ -2404,7 +2395,7 @@ return array (
     'latitude' => 43.65421,
     'longitude' => -79.56711,
   ),
-  267 => 
+  266 => 
   array (
     'id' => 16413,
     'name' => 'Fairview',
@@ -2413,7 +2404,7 @@ return array (
     'latitude' => 56.06675,
     'longitude' => -118.38606,
   ),
-  268 => 
+  267 => 
   array (
     'id' => 16414,
     'name' => 'Fairwinds',
@@ -2422,7 +2413,7 @@ return array (
     'latitude' => 49.27588,
     'longitude' => -124.12782,
   ),
-  269 => 
+  268 => 
   array (
     'id' => 16415,
     'name' => 'Falher',
@@ -2431,7 +2422,7 @@ return array (
     'latitude' => 55.73339,
     'longitude' => -117.20262,
   ),
-  270 => 
+  269 => 
   array (
     'id' => 16416,
     'name' => 'Fall River',
@@ -2440,7 +2431,7 @@ return array (
     'latitude' => 44.81685,
     'longitude' => -63.6154,
   ),
-  271 => 
+  270 => 
   array (
     'id' => 16417,
     'name' => 'Fallingbrook',
@@ -2449,7 +2440,7 @@ return array (
     'latitude' => 45.47558,
     'longitude' => -75.48401,
   ),
-  272 => 
+  271 => 
   array (
     'id' => 16418,
     'name' => 'Farnham',
@@ -2458,7 +2449,7 @@ return array (
     'latitude' => 45.28338,
     'longitude' => -72.98244,
   ),
-  273 => 
+  272 => 
   array (
     'id' => 16419,
     'name' => 'Ferme-Neuve',
@@ -2467,7 +2458,7 @@ return array (
     'latitude' => 46.70011,
     'longitude' => -75.44929,
   ),
-  274 => 
+  273 => 
   array (
     'id' => 16420,
     'name' => 'Fermont',
@@ -2476,7 +2467,7 @@ return array (
     'latitude' => 52.78345,
     'longitude' => -67.08204,
   ),
-  275 => 
+  274 => 
   array (
     'id' => 16421,
     'name' => 'Fernie',
@@ -2485,7 +2476,7 @@ return array (
     'latitude' => 49.49996,
     'longitude' => -115.06871,
   ),
-  276 => 
+  275 => 
   array (
     'id' => 16422,
     'name' => 'Flin Flon',
@@ -2494,7 +2485,7 @@ return array (
     'latitude' => 54.76703,
     'longitude' => -101.87433,
   ),
-  277 => 
+  276 => 
   array (
     'id' => 16423,
     'name' => 'Florenceville-Bristol',
@@ -2503,7 +2494,7 @@ return array (
     'latitude' => 46.44353,
     'longitude' => -67.61536,
   ),
-  278 => 
+  277 => 
   array (
     'id' => 16424,
     'name' => 'Foam Lake',
@@ -2512,7 +2503,7 @@ return array (
     'latitude' => 51.65001,
     'longitude' => -103.53431,
   ),
-  279 => 
+  278 => 
   array (
     'id' => 16425,
     'name' => 'Fogo Island',
@@ -2521,7 +2512,7 @@ return array (
     'latitude' => 49.71649,
     'longitude' => -54.16981,
   ),
-  280 => 
+  279 => 
   array (
     'id' => 16426,
     'name' => 'Forestville',
@@ -2530,7 +2521,7 @@ return array (
     'latitude' => 48.73808,
     'longitude' => -69.08478,
   ),
-  281 => 
+  280 => 
   array (
     'id' => 16427,
     'name' => 'Fort Erie',
@@ -2539,7 +2530,7 @@ return array (
     'latitude' => 42.90012,
     'longitude' => -78.93286,
   ),
-  282 => 
+  281 => 
   array (
     'id' => 16428,
     'name' => 'Fort Frances',
@@ -2548,7 +2539,7 @@ return array (
     'latitude' => 48.61667,
     'longitude' => -93.4003,
   ),
-  283 => 
+  282 => 
   array (
     'id' => 16429,
     'name' => 'Fort Macleod',
@@ -2557,7 +2548,7 @@ return array (
     'latitude' => 49.71671,
     'longitude' => -113.41857,
   ),
-  284 => 
+  283 => 
   array (
     'id' => 16430,
     'name' => 'Fort McMurray',
@@ -2566,7 +2557,7 @@ return array (
     'latitude' => 56.72676,
     'longitude' => -111.38103,
   ),
-  285 => 
+  284 => 
   array (
     'id' => 16431,
     'name' => 'Fort McPherson',
@@ -2575,7 +2566,7 @@ return array (
     'latitude' => 67.43863,
     'longitude' => -134.88543,
   ),
-  286 => 
+  285 => 
   array (
     'id' => 16432,
     'name' => 'Fort Nelson',
@@ -2584,7 +2575,7 @@ return array (
     'latitude' => 58.80533,
     'longitude' => -122.7002,
   ),
-  287 => 
+  286 => 
   array (
     'id' => 16433,
     'name' => 'Fort Saskatchewan',
@@ -2593,7 +2584,7 @@ return array (
     'latitude' => 53.71684,
     'longitude' => -113.2187,
   ),
-  288 => 
+  287 => 
   array (
     'id' => 16434,
     'name' => 'Fort Smith',
@@ -2602,7 +2593,7 @@ return array (
     'latitude' => 60.00439,
     'longitude' => -111.88871,
   ),
-  289 => 
+  288 => 
   array (
     'id' => 16435,
     'name' => 'Fort St. John',
@@ -2611,7 +2602,7 @@ return array (
     'latitude' => 56.24988,
     'longitude' => -120.85292,
   ),
-  290 => 
+  289 => 
   array (
     'id' => 16436,
     'name' => 'Fort-Coulonge',
@@ -2620,7 +2611,7 @@ return array (
     'latitude' => 45.85011,
     'longitude' => -76.73272,
   ),
-  291 => 
+  290 => 
   array (
     'id' => 16437,
     'name' => 'Fossambault-sur-le-Lac',
@@ -2629,7 +2620,7 @@ return array (
     'latitude' => 46.87662,
     'longitude' => -71.61541,
   ),
-  292 => 
+  291 => 
   array (
     'id' => 16438,
     'name' => 'Fox Creek',
@@ -2638,7 +2629,7 @@ return array (
     'latitude' => 54.40007,
     'longitude' => -116.80238,
   ),
-  293 => 
+  292 => 
   array (
     'id' => 16439,
     'name' => 'Franklin',
@@ -2647,7 +2638,7 @@ return array (
     'latitude' => 45.03338,
     'longitude' => -73.91591,
   ),
-  294 => 
+  293 => 
   array (
     'id' => 16440,
     'name' => 'Fraser Valley Regional District',
@@ -2656,7 +2647,7 @@ return array (
     'latitude' => 49.58299,
     'longitude' => -121.83587,
   ),
-  295 => 
+  294 => 
   array (
     'id' => 16441,
     'name' => 'Fredericton',
@@ -2665,7 +2656,7 @@ return array (
     'latitude' => 45.94541,
     'longitude' => -66.66558,
   ),
-  296 => 
+  295 => 
   array (
     'id' => 16442,
     'name' => 'French Creek',
@@ -2674,7 +2665,7 @@ return array (
     'latitude' => 49.34123,
     'longitude' => -124.35541,
   ),
-  297 => 
+  296 => 
   array (
     'id' => 16443,
     'name' => 'Fruitvale',
@@ -2683,7 +2674,7 @@ return array (
     'latitude' => 49.11654,
     'longitude' => -117.55222,
   ),
-  298 => 
+  297 => 
   array (
     'id' => 16444,
     'name' => 'Fundy Bay',
@@ -2692,7 +2683,7 @@ return array (
     'latitude' => 44.741,
     'longitude' => -66.76041,
   ),
-  299 => 
+  298 => 
   array (
     'id' => 16445,
     'name' => 'Gambo',
@@ -2701,7 +2692,7 @@ return array (
     'latitude' => 48.7832,
     'longitude' => -54.21482,
   ),
-  300 => 
+  299 => 
   array (
     'id' => 16446,
     'name' => 'Gananoque',
@@ -2710,7 +2701,7 @@ return array (
     'latitude' => 44.33342,
     'longitude' => -76.16607,
   ),
-  301 => 
+  300 => 
   array (
     'id' => 16447,
     'name' => 'Gaspé',
@@ -2719,7 +2710,7 @@ return array (
     'latitude' => 48.83341,
     'longitude' => -64.48194,
   ),
-  302 => 
+  301 => 
   array (
     'id' => 16448,
     'name' => 'Gaspésie-Îles-de-la-Madeleine',
@@ -2728,7 +2719,7 @@ return array (
     'latitude' => 48.87555,
     'longitude' => -65.4071,
   ),
-  303 => 
+  302 => 
   array (
     'id' => 16449,
     'name' => 'Gatineau',
@@ -2737,7 +2728,7 @@ return array (
     'latitude' => 45.47723,
     'longitude' => -75.70164,
   ),
-  304 => 
+  303 => 
   array (
     'id' => 16450,
     'name' => 'Gibbons',
@@ -2746,7 +2737,7 @@ return array (
     'latitude' => 53.83345,
     'longitude' => -113.33531,
   ),
-  305 => 
+  304 => 
   array (
     'id' => 16451,
     'name' => 'Gibsons',
@@ -2755,7 +2746,7 @@ return array (
     'latitude' => 49.39539,
     'longitude' => -123.50555,
   ),
-  306 => 
+  305 => 
   array (
     'id' => 16452,
     'name' => 'Gimli',
@@ -2764,7 +2755,7 @@ return array (
     'latitude' => 50.63362,
     'longitude' => -96.99066,
   ),
-  307 => 
+  306 => 
   array (
     'id' => 16453,
     'name' => 'Gjoa Haven',
@@ -2773,7 +2764,7 @@ return array (
     'latitude' => 68.62602,
     'longitude' => -95.87836,
   ),
-  308 => 
+  307 => 
   array (
     'id' => 16454,
     'name' => 'Glace Bay',
@@ -2782,7 +2773,7 @@ return array (
     'latitude' => 46.19695,
     'longitude' => -59.95698,
   ),
-  309 => 
+  308 => 
   array (
     'id' => 16455,
     'name' => 'Glencoe',
@@ -2791,7 +2782,7 @@ return array (
     'latitude' => 42.75009,
     'longitude' => -81.71648,
   ),
-  310 => 
+  309 => 
   array (
     'id' => 16456,
     'name' => 'Godefroy',
@@ -2800,7 +2791,7 @@ return array (
     'latitude' => 51.75012,
     'longitude' => -68.08213,
   ),
-  311 => 
+  310 => 
   array (
     'id' => 16457,
     'name' => 'Goderich',
@@ -2809,7 +2800,7 @@ return array (
     'latitude' => 43.74171,
     'longitude' => -81.71339,
   ),
-  312 => 
+  311 => 
   array (
     'id' => 16458,
     'name' => 'Golden',
@@ -2818,16 +2809,7 @@ return array (
     'latitude' => 51.29995,
     'longitude' => -116.9689,
   ),
-  313 => 
-  array (
-    'id' => 16459,
-    'name' => 'Golden',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 51.05917,
-    'longitude' => -93.73568,
-  ),
-  314 => 
+  312 => 
   array (
     'id' => 16460,
     'name' => 'Goulds',
@@ -2836,7 +2818,7 @@ return array (
     'latitude' => 47.45532,
     'longitude' => -52.77552,
   ),
-  315 => 
+  313 => 
   array (
     'id' => 16461,
     'name' => 'Granby',
@@ -2845,7 +2827,7 @@ return array (
     'latitude' => 45.40008,
     'longitude' => -72.73243,
   ),
-  316 => 
+  314 => 
   array (
     'id' => 16462,
     'name' => 'Grand Bank',
@@ -2854,7 +2836,7 @@ return array (
     'latitude' => 47.09995,
     'longitude' => -55.76504,
   ),
-  317 => 
+  315 => 
   array (
     'id' => 16463,
     'name' => 'Grand Centre',
@@ -2863,7 +2845,7 @@ return array (
     'latitude' => 54.41628,
     'longitude' => -110.21304,
   ),
-  318 => 
+  316 => 
   array (
     'id' => 16464,
     'name' => 'Grand Falls-Windsor',
@@ -2872,7 +2854,7 @@ return array (
     'latitude' => 48.93324,
     'longitude' => -55.66492,
   ),
-  319 => 
+  317 => 
   array (
     'id' => 16465,
     'name' => 'Grand Forks',
@@ -2881,7 +2863,7 @@ return array (
     'latitude' => 49.03309,
     'longitude' => -118.4356,
   ),
-  320 => 
+  318 => 
   array (
     'id' => 16466,
     'name' => 'Grande Cache',
@@ -2890,7 +2872,7 @@ return array (
     'latitude' => 53.88335,
     'longitude' => -119.13585,
   ),
-  321 => 
+  319 => 
   array (
     'id' => 16467,
     'name' => 'Grande Prairie',
@@ -2899,7 +2881,7 @@ return array (
     'latitude' => 55.16667,
     'longitude' => -118.80271,
   ),
-  322 => 
+  320 => 
   array (
     'id' => 16468,
     'name' => 'Grande-Digue',
@@ -2908,7 +2890,7 @@ return array (
     'latitude' => 46.30014,
     'longitude' => -64.56546,
   ),
-  323 => 
+  321 => 
   array (
     'id' => 16469,
     'name' => 'Gravelbourg',
@@ -2917,7 +2899,7 @@ return array (
     'latitude' => 49.88336,
     'longitude' => -106.55122,
   ),
-  324 => 
+  322 => 
   array (
     'id' => 16470,
     'name' => 'Gravenhurst',
@@ -2926,7 +2908,7 @@ return array (
     'latitude' => 44.91681,
     'longitude' => -79.36633,
   ),
-  325 => 
+  323 => 
   array (
     'id' => 16471,
     'name' => 'Greater Lakeburn',
@@ -2935,7 +2917,7 @@ return array (
     'latitude' => 46.07651,
     'longitude' => -64.66818,
   ),
-  326 => 
+  324 => 
   array (
     'id' => 16472,
     'name' => 'Greater Napanee',
@@ -2944,7 +2926,7 @@ return array (
     'latitude' => 44.25012,
     'longitude' => -76.94944,
   ),
-  327 => 
+  325 => 
   array (
     'id' => 16473,
     'name' => 'Greater Sudbury',
@@ -2953,7 +2935,7 @@ return array (
     'latitude' => 46.49,
     'longitude' => -80.99001,
   ),
-  328 => 
+  326 => 
   array (
     'id' => 16474,
     'name' => 'Greenstone',
@@ -2962,7 +2944,7 @@ return array (
     'latitude' => 49.73343,
     'longitude' => -87.16668,
   ),
-  329 => 
+  327 => 
   array (
     'id' => 16475,
     'name' => 'Greenwood',
@@ -2971,7 +2953,7 @@ return array (
     'latitude' => 44.97413,
     'longitude' => -64.93169,
   ),
-  330 => 
+  328 => 
   array (
     'id' => 16476,
     'name' => 'Grimshaw',
@@ -2980,7 +2962,7 @@ return array (
     'latitude' => 56.18339,
     'longitude' => -117.6027,
   ),
-  331 => 
+  329 => 
   array (
     'id' => 16477,
     'name' => 'Grunthal',
@@ -2989,7 +2971,7 @@ return array (
     'latitude' => 49.40668,
     'longitude' => -96.85873,
   ),
-  332 => 
+  330 => 
   array (
     'id' => 16478,
     'name' => 'Guelph',
@@ -2998,7 +2980,7 @@ return array (
     'latitude' => 43.54594,
     'longitude' => -80.25599,
   ),
-  333 => 
+  331 => 
   array (
     'id' => 16479,
     'name' => 'Haines Junction',
@@ -3007,7 +2989,7 @@ return array (
     'latitude' => 60.75216,
     'longitude' => -137.51082,
   ),
-  334 => 
+  332 => 
   array (
     'id' => 16480,
     'name' => 'Haldimand County',
@@ -3016,7 +2998,7 @@ return array (
     'latitude' => 42.98341,
     'longitude' => -79.86633,
   ),
-  335 => 
+  333 => 
   array (
     'id' => 16481,
     'name' => 'Haliburton Village',
@@ -3025,7 +3007,7 @@ return array (
     'latitude' => 45.05154,
     'longitude' => -78.52245,
   ),
-  336 => 
+  334 => 
   array (
     'id' => 16482,
     'name' => 'Halifax',
@@ -3034,7 +3016,7 @@ return array (
     'latitude' => 44.64533,
     'longitude' => -63.57239,
   ),
-  337 => 
+  335 => 
   array (
     'id' => 16483,
     'name' => 'Halton',
@@ -3043,7 +3025,7 @@ return array (
     'latitude' => 43.50011,
     'longitude' => -79.88294,
   ),
-  338 => 
+  336 => 
   array (
     'id' => 16484,
     'name' => 'Hamilton',
@@ -3052,7 +3034,7 @@ return array (
     'latitude' => 43.25011,
     'longitude' => -79.84963,
   ),
-  339 => 
+  337 => 
   array (
     'id' => 16485,
     'name' => 'Hampstead',
@@ -3061,7 +3043,7 @@ return array (
     'latitude' => 45.48064,
     'longitude' => -73.66307,
   ),
-  340 => 
+  338 => 
   array (
     'id' => 16486,
     'name' => 'Hampton',
@@ -3070,7 +3052,7 @@ return array (
     'latitude' => 45.52876,
     'longitude' => -65.85354,
   ),
-  341 => 
+  339 => 
   array (
     'id' => 16487,
     'name' => 'Hanceville',
@@ -3079,7 +3061,7 @@ return array (
     'latitude' => 51.91922,
     'longitude' => -123.04458,
   ),
-  342 => 
+  340 => 
   array (
     'id' => 16488,
     'name' => 'Hanna',
@@ -3088,7 +3070,7 @@ return array (
     'latitude' => 51.63343,
     'longitude' => -111.90181,
   ),
-  343 => 
+  341 => 
   array (
     'id' => 16489,
     'name' => 'Hanover',
@@ -3097,7 +3079,7 @@ return array (
     'latitude' => 44.15009,
     'longitude' => -81.03303,
   ),
-  344 => 
+  342 => 
   array (
     'id' => 16490,
     'name' => 'Hantsport',
@@ -3106,7 +3088,7 @@ return array (
     'latitude' => 45.06685,
     'longitude' => -64.16544,
   ),
-  345 => 
+  343 => 
   array (
     'id' => 16491,
     'name' => 'Happy Valley-Goose Bay',
@@ -3115,7 +3097,7 @@ return array (
     'latitude' => 53.3038,
     'longitude' => -60.32576,
   ),
-  346 => 
+  344 => 
   array (
     'id' => 16492,
     'name' => 'Harbour Breton',
@@ -3124,7 +3106,7 @@ return array (
     'latitude' => 47.48325,
     'longitude' => -55.79833,
   ),
-  347 => 
+  345 => 
   array (
     'id' => 16493,
     'name' => 'Harrison Brook',
@@ -3133,7 +3115,7 @@ return array (
     'latitude' => 47.21304,
     'longitude' => -67.92847,
   ),
-  348 => 
+  346 => 
   array (
     'id' => 16494,
     'name' => 'Harriston',
@@ -3142,7 +3124,7 @@ return array (
     'latitude' => 43.90009,
     'longitude' => -80.88302,
   ),
-  349 => 
+  347 => 
   array (
     'id' => 16495,
     'name' => 'Hauterive',
@@ -3151,7 +3133,7 @@ return array (
     'latitude' => 49.19572,
     'longitude' => -68.25813,
   ),
-  350 => 
+  348 => 
   array (
     'id' => 16496,
     'name' => 'Havre-Saint-Pierre',
@@ -3160,7 +3142,7 @@ return array (
     'latitude' => 50.24342,
     'longitude' => -63.60264,
   ),
-  351 => 
+  349 => 
   array (
     'id' => 16497,
     'name' => 'Hawkesbury',
@@ -3169,7 +3151,7 @@ return array (
     'latitude' => 45.60009,
     'longitude' => -74.61595,
   ),
-  352 => 
+  350 => 
   array (
     'id' => 16498,
     'name' => 'Hay River',
@@ -3178,7 +3160,7 @@ return array (
     'latitude' => 60.81555,
     'longitude' => -115.79993,
   ),
-  353 => 
+  351 => 
   array (
     'id' => 16499,
     'name' => 'Hayes Subdivision',
@@ -3187,7 +3169,7 @@ return array (
     'latitude' => 45.05519,
     'longitude' => -64.58795,
   ),
-  354 => 
+  352 => 
   array (
     'id' => 16500,
     'name' => 'Headingley',
@@ -3196,7 +3178,7 @@ return array (
     'latitude' => 49.8753,
     'longitude' => -97.40896,
   ),
-  355 => 
+  353 => 
   array (
     'id' => 16501,
     'name' => 'Hearst',
@@ -3205,7 +3187,7 @@ return array (
     'latitude' => 49.68351,
     'longitude' => -83.66654,
   ),
-  356 => 
+  354 => 
   array (
     'id' => 16502,
     'name' => 'Heritage Pointe',
@@ -3214,7 +3196,7 @@ return array (
     'latitude' => 50.84213,
     'longitude' => -114.00493,
   ),
-  357 => 
+  355 => 
   array (
     'id' => 16503,
     'name' => 'High Level',
@@ -3223,7 +3205,7 @@ return array (
     'latitude' => 58.51688,
     'longitude' => -117.13605,
   ),
-  358 => 
+  356 => 
   array (
     'id' => 16504,
     'name' => 'High Prairie',
@@ -3232,7 +3214,7 @@ return array (
     'latitude' => 55.4334,
     'longitude' => -116.4858,
   ),
-  359 => 
+  357 => 
   array (
     'id' => 16505,
     'name' => 'High River',
@@ -3241,7 +3223,7 @@ return array (
     'latitude' => 50.58341,
     'longitude' => -113.86867,
   ),
-  360 => 
+  358 => 
   array (
     'id' => 16506,
     'name' => 'Hinton',
@@ -3250,7 +3232,7 @@ return array (
     'latitude' => 53.40009,
     'longitude' => -117.58567,
   ),
-  361 => 
+  359 => 
   array (
     'id' => 16507,
     'name' => 'Hope',
@@ -3259,7 +3241,7 @@ return array (
     'latitude' => 49.38299,
     'longitude' => -121.44144,
   ),
-  362 => 
+  360 => 
   array (
     'id' => 16508,
     'name' => 'Hornby Island',
@@ -3268,7 +3250,7 @@ return array (
     'latitude' => 49.53448,
     'longitude' => -124.66923,
   ),
-  363 => 
+  361 => 
   array (
     'id' => 16509,
     'name' => 'Hornepayne',
@@ -3277,7 +3259,7 @@ return array (
     'latitude' => 49.21451,
     'longitude' => -84.77617,
   ),
-  364 => 
+  362 => 
   array (
     'id' => 16510,
     'name' => 'Houston',
@@ -3286,7 +3268,7 @@ return array (
     'latitude' => 54.39976,
     'longitude' => -126.67008,
   ),
-  365 => 
+  363 => 
   array (
     'id' => 16511,
     'name' => 'Hudson',
@@ -3295,7 +3277,7 @@ return array (
     'latitude' => 45.45008,
     'longitude' => -74.14922,
   ),
-  366 => 
+  364 => 
   array (
     'id' => 16512,
     'name' => 'Hudson Bay',
@@ -3304,7 +3286,7 @@ return array (
     'latitude' => 52.85003,
     'longitude' => -102.38425,
   ),
-  367 => 
+  365 => 
   array (
     'id' => 16513,
     'name' => 'Humboldt',
@@ -3313,7 +3295,7 @@ return array (
     'latitude' => 52.20005,
     'longitude' => -105.1255,
   ),
-  368 => 
+  366 => 
   array (
     'id' => 16514,
     'name' => 'Huntingdon',
@@ -3322,7 +3304,7 @@ return array (
     'latitude' => 45.08339,
     'longitude' => -74.16593,
   ),
-  369 => 
+  367 => 
   array (
     'id' => 16515,
     'name' => 'Huntsville',
@@ -3331,7 +3313,7 @@ return array (
     'latitude' => 45.33341,
     'longitude' => -79.21632,
   ),
-  370 => 
+  368 => 
   array (
     'id' => 16516,
     'name' => 'Huron East',
@@ -3340,7 +3322,7 @@ return array (
     'latitude' => 43.61679,
     'longitude' => -81.29975,
   ),
-  371 => 
+  369 => 
   array (
     'id' => 16517,
     'name' => 'Hérouxville',
@@ -3349,7 +3331,7 @@ return array (
     'latitude' => 46.66617,
     'longitude' => -72.62512,
   ),
-  372 => 
+  370 => 
   array (
     'id' => 16518,
     'name' => 'Ile des Chênes',
@@ -3358,7 +3340,7 @@ return array (
     'latitude' => 49.7106,
     'longitude' => -96.98893,
   ),
-  373 => 
+  371 => 
   array (
     'id' => 16519,
     'name' => 'Indian Head',
@@ -3367,7 +3349,7 @@ return array (
     'latitude' => 50.53336,
     'longitude' => -103.66775,
   ),
-  374 => 
+  372 => 
   array (
     'id' => 16520,
     'name' => 'Ingersoll',
@@ -3376,7 +3358,7 @@ return array (
     'latitude' => 43.03339,
     'longitude' => -80.88302,
   ),
-  375 => 
+  373 => 
   array (
     'id' => 16521,
     'name' => 'Innisfil',
@@ -3385,7 +3367,7 @@ return array (
     'latitude' => 44.30011,
     'longitude' => -79.64964,
   ),
-  376 => 
+  374 => 
   array (
     'id' => 16522,
     'name' => 'Inuvik',
@@ -3394,7 +3376,7 @@ return array (
     'latitude' => 68.34986,
     'longitude' => -133.72181,
   ),
-  377 => 
+  375 => 
   array (
     'id' => 16523,
     'name' => 'Invermere',
@@ -3403,7 +3385,7 @@ return array (
     'latitude' => 50.51666,
     'longitude' => -116.03538,
   ),
-  378 => 
+  376 => 
   array (
     'id' => 16524,
     'name' => 'Iqaluit',
@@ -3412,7 +3394,7 @@ return array (
     'latitude' => 63.74697,
     'longitude' => -68.51727,
   ),
-  379 => 
+  377 => 
   array (
     'id' => 16525,
     'name' => 'Iroquois Falls',
@@ -3421,7 +3403,7 @@ return array (
     'latitude' => 48.76688,
     'longitude' => -80.68307,
   ),
-  380 => 
+  378 => 
   array (
     'id' => 16526,
     'name' => 'Irricana',
@@ -3430,7 +3412,7 @@ return array (
     'latitude' => 51.32372,
     'longitude' => -113.60475,
   ),
-  381 => 
+  379 => 
   array (
     'id' => 16527,
     'name' => 'Jarvis',
@@ -3439,7 +3421,7 @@ return array (
     'latitude' => 42.88341,
     'longitude' => -80.09965,
   ),
-  382 => 
+  380 => 
   array (
     'id' => 16528,
     'name' => 'Jasper Park Lodge',
@@ -3448,7 +3430,7 @@ return array (
     'latitude' => 52.88633,
     'longitude' => -118.05625,
   ),
-  383 => 
+  381 => 
   array (
     'id' => 16529,
     'name' => 'Joliette',
@@ -3457,7 +3439,7 @@ return array (
     'latitude' => 46.0164,
     'longitude' => -73.4236,
   ),
-  384 => 
+  382 => 
   array (
     'id' => 16530,
     'name' => 'Jonquière',
@@ -3466,7 +3448,7 @@ return array (
     'latitude' => 48.41648,
     'longitude' => -71.24884,
   ),
-  385 => 
+  383 => 
   array (
     'id' => 16531,
     'name' => 'Kamloops',
@@ -3475,7 +3457,7 @@ return array (
     'latitude' => 50.66648,
     'longitude' => -120.3192,
   ),
-  386 => 
+  384 => 
   array (
     'id' => 16532,
     'name' => 'Kamsack',
@@ -3484,7 +3466,7 @@ return array (
     'latitude' => 51.56668,
     'longitude' => -101.90093,
   ),
-  387 => 
+  385 => 
   array (
     'id' => 16533,
     'name' => 'Kanata',
@@ -3493,7 +3475,7 @@ return array (
     'latitude' => 45.3001,
     'longitude' => -75.91606,
   ),
-  388 => 
+  386 => 
   array (
     'id' => 16534,
     'name' => 'Kapuskasing',
@@ -3502,7 +3484,7 @@ return array (
     'latitude' => 49.41694,
     'longitude' => -82.43308,
   ),
-  389 => 
+  387 => 
   array (
     'id' => 16535,
     'name' => 'Kawartha Lakes',
@@ -3511,7 +3493,7 @@ return array (
     'latitude' => 44.58342,
     'longitude' => -78.83288,
   ),
-  390 => 
+  388 => 
   array (
     'id' => 16536,
     'name' => 'Kelowna',
@@ -3520,7 +3502,7 @@ return array (
     'latitude' => 49.88307,
     'longitude' => -119.48568,
   ),
-  391 => 
+  389 => 
   array (
     'id' => 16537,
     'name' => 'Kenora',
@@ -3529,7 +3511,7 @@ return array (
     'latitude' => 49.76741,
     'longitude' => -94.48985,
   ),
-  392 => 
+  390 => 
   array (
     'id' => 16538,
     'name' => 'Kensington',
@@ -3538,7 +3520,7 @@ return array (
     'latitude' => 46.43343,
     'longitude' => -63.64871,
   ),
-  393 => 
+  391 => 
   array (
     'id' => 16539,
     'name' => 'Kentville',
@@ -3547,7 +3529,7 @@ return array (
     'latitude' => 45.0771,
     'longitude' => -64.49605,
   ),
-  394 => 
+  392 => 
   array (
     'id' => 16540,
     'name' => 'Kerrobert',
@@ -3556,7 +3538,7 @@ return array (
     'latitude' => 51.91682,
     'longitude' => -109.13479,
   ),
-  395 => 
+  393 => 
   array (
     'id' => 16541,
     'name' => 'Keswick',
@@ -3565,7 +3547,7 @@ return array (
     'latitude' => 44.25011,
     'longitude' => -79.46632,
   ),
-  396 => 
+  394 => 
   array (
     'id' => 16542,
     'name' => 'Keswick Ridge',
@@ -3574,7 +3556,7 @@ return array (
     'latitude' => 46.00011,
     'longitude' => -66.88218,
   ),
-  397 => 
+  395 => 
   array (
     'id' => 16543,
     'name' => 'Killam',
@@ -3583,7 +3565,7 @@ return array (
     'latitude' => 52.78344,
     'longitude' => -111.85175,
   ),
-  398 => 
+  396 => 
   array (
     'id' => 16544,
     'name' => 'Killarney',
@@ -3592,7 +3574,7 @@ return array (
     'latitude' => 49.18332,
     'longitude' => -99.66364,
   ),
-  399 => 
+  397 => 
   array (
     'id' => 16545,
     'name' => 'Kimberley',
@@ -3601,7 +3583,7 @@ return array (
     'latitude' => 49.67071,
     'longitude' => -115.9776,
   ),
-  400 => 
+  398 => 
   array (
     'id' => 16546,
     'name' => 'Kincardine',
@@ -3610,7 +3592,7 @@ return array (
     'latitude' => 44.18339,
     'longitude' => -81.63307,
   ),
-  401 => 
+  399 => 
   array (
     'id' => 16547,
     'name' => 'Kindersley',
@@ -3619,7 +3601,7 @@ return array (
     'latitude' => 51.46681,
     'longitude' => -109.16818,
   ),
-  402 => 
+  400 => 
   array (
     'id' => 16548,
     'name' => 'King',
@@ -3628,7 +3610,7 @@ return array (
     'latitude' => 43.96514,
     'longitude' => -79.59011,
   ),
-  403 => 
+  401 => 
   array (
     'id' => 16549,
     'name' => 'Kingsey Falls',
@@ -3637,7 +3619,7 @@ return array (
     'latitude' => 45.85007,
     'longitude' => -72.0658,
   ),
-  404 => 
+  402 => 
   array (
     'id' => 16550,
     'name' => 'Kingston',
@@ -3646,7 +3628,7 @@ return array (
     'latitude' => 44.22976,
     'longitude' => -76.48098,
   ),
-  405 => 
+  403 => 
   array (
     'id' => 16551,
     'name' => 'Kirkland',
@@ -3655,7 +3637,7 @@ return array (
     'latitude' => 45.45008,
     'longitude' => -73.86586,
   ),
-  406 => 
+  404 => 
   array (
     'id' => 16552,
     'name' => 'Kirkland Lake',
@@ -3664,7 +3646,7 @@ return array (
     'latitude' => 48.14461,
     'longitude' => -80.03767,
   ),
-  407 => 
+  405 => 
   array (
     'id' => 16553,
     'name' => 'Kitchener',
@@ -3673,7 +3655,7 @@ return array (
     'latitude' => 43.42537,
     'longitude' => -80.5112,
   ),
-  408 => 
+  406 => 
   array (
     'id' => 16554,
     'name' => 'Kitimat',
@@ -3682,7 +3664,7 @@ return array (
     'latitude' => 54.05244,
     'longitude' => -128.65342,
   ),
-  409 => 
+  407 => 
   array (
     'id' => 16555,
     'name' => 'Kugluktuk',
@@ -3691,7 +3673,7 @@ return array (
     'latitude' => 67.82743,
     'longitude' => -115.09649,
   ),
-  410 => 
+  408 => 
   array (
     'id' => 16556,
     'name' => 'L\\\'Ancienne-Lorette',
@@ -3700,7 +3682,7 @@ return array (
     'latitude' => 46.79392,
     'longitude' => -71.35191,
   ),
-  411 => 
+  409 => 
   array (
     'id' => 16557,
     'name' => 'L\\\'Ange-Gardien',
@@ -3709,7 +3691,7 @@ return array (
     'latitude' => 46.91976,
     'longitude' => -71.08253,
   ),
-  412 => 
+  410 => 
   array (
     'id' => 16558,
     'name' => 'L\\\'Ascension-de-Notre-Seigneur',
@@ -3718,7 +3700,7 @@ return array (
     'latitude' => 48.68339,
     'longitude' => -71.6658,
   ),
-  413 => 
+  411 => 
   array (
     'id' => 16559,
     'name' => 'L\\\'Assomption',
@@ -3727,7 +3709,7 @@ return array (
     'latitude' => 45.82318,
     'longitude' => -73.4294,
   ),
-  414 => 
+  412 => 
   array (
     'id' => 16560,
     'name' => 'L\\\'Orignal',
@@ -3736,7 +3718,7 @@ return array (
     'latitude' => 45.6198,
     'longitude' => -74.6915,
   ),
-  415 => 
+  413 => 
   array (
     'id' => 16561,
     'name' => 'L\\\'Épiphanie',
@@ -3745,7 +3727,7 @@ return array (
     'latitude' => 45.85008,
     'longitude' => -73.48246,
   ),
-  416 => 
+  414 => 
   array (
     'id' => 16562,
     'name' => 'L\\\'Île-Perrot',
@@ -3754,7 +3736,7 @@ return array (
     'latitude' => 45.38338,
     'longitude' => -73.9492,
   ),
-  417 => 
+  415 => 
   array (
     'id' => 16563,
     'name' => 'La Broquerie',
@@ -3763,7 +3745,7 @@ return array (
     'latitude' => 49.51688,
     'longitude' => -96.50029,
   ),
-  418 => 
+  416 => 
   array (
     'id' => 16564,
     'name' => 'La Conception',
@@ -3772,7 +3754,7 @@ return array (
     'latitude' => 46.15009,
     'longitude' => -74.69925,
   ),
-  419 => 
+  417 => 
   array (
     'id' => 16565,
     'name' => 'La Haute-Saint-Charles',
@@ -3781,7 +3763,7 @@ return array (
     'latitude' => 46.89028,
     'longitude' => -71.37222,
   ),
-  420 => 
+  418 => 
   array (
     'id' => 16566,
     'name' => 'La Malbaie',
@@ -3790,7 +3772,7 @@ return array (
     'latitude' => 47.654,
     'longitude' => -70.15268,
   ),
-  421 => 
+  419 => 
   array (
     'id' => 16567,
     'name' => 'La Minerve',
@@ -3799,7 +3781,7 @@ return array (
     'latitude' => 46.25009,
     'longitude' => -74.93257,
   ),
-  422 => 
+  420 => 
   array (
     'id' => 16568,
     'name' => 'La Pocatière',
@@ -3808,7 +3790,7 @@ return array (
     'latitude' => 47.36733,
     'longitude' => -70.03484,
   ),
-  423 => 
+  421 => 
   array (
     'id' => 16569,
     'name' => 'La Prairie',
@@ -3817,7 +3799,7 @@ return array (
     'latitude' => 45.41678,
     'longitude' => -73.49917,
   ),
-  424 => 
+  422 => 
   array (
     'id' => 16570,
     'name' => 'La Ronge',
@@ -3826,7 +3808,7 @@ return array (
     'latitude' => 55.10013,
     'longitude' => -105.28422,
   ),
-  425 => 
+  423 => 
   array (
     'id' => 16571,
     'name' => 'La Sarre',
@@ -3835,7 +3817,7 @@ return array (
     'latitude' => 48.80019,
     'longitude' => -79.19964,
   ),
-  426 => 
+  424 => 
   array (
     'id' => 16572,
     'name' => 'La Tuque',
@@ -3844,7 +3826,7 @@ return array (
     'latitude' => 47.43337,
     'longitude' => -72.7824,
   ),
-  427 => 
+  425 => 
   array (
     'id' => 16573,
     'name' => 'Labelle',
@@ -3853,7 +3835,7 @@ return array (
     'latitude' => 46.28339,
     'longitude' => -74.73255,
   ),
-  428 => 
+  426 => 
   array (
     'id' => 16574,
     'name' => 'Labrador City',
@@ -3862,7 +3844,7 @@ return array (
     'latitude' => 52.94626,
     'longitude' => -66.91137,
   ),
-  429 => 
+  427 => 
   array (
     'id' => 16575,
     'name' => 'Lac La Biche',
@@ -3871,7 +3853,7 @@ return array (
     'latitude' => 54.7669,
     'longitude' => -111.96861,
   ),
-  430 => 
+  428 => 
   array (
     'id' => 16576,
     'name' => 'Lac du Bonnet',
@@ -3880,7 +3862,7 @@ return array (
     'latitude' => 50.2536,
     'longitude' => -96.06116,
   ),
-  431 => 
+  429 => 
   array (
     'id' => 16577,
     'name' => 'Lac-Alouette',
@@ -3889,7 +3871,7 @@ return array (
     'latitude' => 45.81698,
     'longitude' => -73.9592,
   ),
-  432 => 
+  430 => 
   array (
     'id' => 16578,
     'name' => 'Lac-Brome',
@@ -3898,7 +3880,7 @@ return array (
     'latitude' => 45.21678,
     'longitude' => -72.51581,
   ),
-  433 => 
+  431 => 
   array (
     'id' => 16579,
     'name' => 'Lac-Connelly',
@@ -3907,7 +3889,7 @@ return array (
     'latitude' => 45.89788,
     'longitude' => -73.9723,
   ),
-  434 => 
+  432 => 
   array (
     'id' => 16580,
     'name' => 'Lac-Lapierre',
@@ -3916,7 +3898,7 @@ return array (
     'latitude' => 45.89837,
     'longitude' => -73.77308,
   ),
-  435 => 
+  433 => 
   array (
     'id' => 16581,
     'name' => 'Lac-Mégantic',
@@ -3925,7 +3907,7 @@ return array (
     'latitude' => 45.58338,
     'longitude' => -70.88234,
   ),
-  436 => 
+  434 => 
   array (
     'id' => 16582,
     'name' => 'Lac-Simon',
@@ -3934,7 +3916,7 @@ return array (
     'latitude' => 46.15699,
     'longitude' => -74.74129,
   ),
-  437 => 
+  435 => 
   array (
     'id' => 16583,
     'name' => 'Lachute',
@@ -3943,7 +3925,7 @@ return array (
     'latitude' => 45.65008,
     'longitude' => -74.33253,
   ),
-  438 => 
+  436 => 
   array (
     'id' => 16584,
     'name' => 'Lacolle',
@@ -3952,7 +3934,7 @@ return array (
     'latitude' => 45.08338,
     'longitude' => -73.36585,
   ),
-  439 => 
+  437 => 
   array (
     'id' => 16585,
     'name' => 'Lacombe',
@@ -3961,7 +3943,7 @@ return array (
     'latitude' => 52.46681,
     'longitude' => -113.7353,
   ),
-  440 => 
+  438 => 
   array (
     'id' => 16586,
     'name' => 'Ladner',
@@ -3970,7 +3952,7 @@ return array (
     'latitude' => 49.08938,
     'longitude' => -123.08241,
   ),
-  441 => 
+  439 => 
   array (
     'id' => 16587,
     'name' => 'Ladysmith',
@@ -3979,7 +3961,7 @@ return array (
     'latitude' => 48.99016,
     'longitude' => -123.81699,
   ),
-  442 => 
+  440 => 
   array (
     'id' => 16588,
     'name' => 'Lake Cowichan',
@@ -3988,7 +3970,7 @@ return array (
     'latitude' => 48.82495,
     'longitude' => -124.05461,
   ),
-  443 => 
+  441 => 
   array (
     'id' => 16589,
     'name' => 'Lake Echo',
@@ -3997,7 +3979,7 @@ return array (
     'latitude' => 44.73345,
     'longitude' => -63.38198,
   ),
-  444 => 
+  442 => 
   array (
     'id' => 16590,
     'name' => 'Lakefield',
@@ -4006,7 +3988,7 @@ return array (
     'latitude' => 44.43342,
     'longitude' => -78.26623,
   ),
-  445 => 
+  443 => 
   array (
     'id' => 16591,
     'name' => 'Lambton Shores',
@@ -4015,7 +3997,7 @@ return array (
     'latitude' => 43.16678,
     'longitude' => -81.93309,
   ),
-  446 => 
+  444 => 
   array (
     'id' => 16592,
     'name' => 'Lamont',
@@ -4024,7 +4006,7 @@ return array (
     'latitude' => 53.76686,
     'longitude' => -112.80195,
   ),
-  447 => 
+  445 => 
   array (
     'id' => 16593,
     'name' => 'Landmark',
@@ -4033,7 +4015,7 @@ return array (
     'latitude' => 49.67169,
     'longitude' => -96.82232,
   ),
-  448 => 
+  446 => 
   array (
     'id' => 16594,
     'name' => 'Langenburg',
@@ -4042,7 +4024,7 @@ return array (
     'latitude' => 50.84999,
     'longitude' => -101.71763,
   ),
-  449 => 
+  447 => 
   array (
     'id' => 16595,
     'name' => 'Langford',
@@ -4051,7 +4033,7 @@ return array (
     'latitude' => 48.44963,
     'longitude' => -123.50261,
   ),
-  450 => 
+  448 => 
   array (
     'id' => 16596,
     'name' => 'Langham',
@@ -4060,7 +4042,7 @@ return array (
     'latitude' => 52.3668,
     'longitude' => -106.96793,
   ),
-  451 => 
+  449 => 
   array (
     'id' => 16597,
     'name' => 'Langley',
@@ -4069,7 +4051,7 @@ return array (
     'latitude' => 49.10107,
     'longitude' => -122.65883,
   ),
-  452 => 
+  450 => 
   array (
     'id' => 16598,
     'name' => 'Lanigan',
@@ -4078,7 +4060,7 @@ return array (
     'latitude' => 51.85006,
     'longitude' => -105.03443,
   ),
-  453 => 
+  451 => 
   array (
     'id' => 16599,
     'name' => 'Lanoraie',
@@ -4087,7 +4069,7 @@ return array (
     'latitude' => 45.96677,
     'longitude' => -73.21585,
   ),
-  454 => 
+  452 => 
   array (
     'id' => 16600,
     'name' => 'Lantz',
@@ -4096,7 +4078,7 @@ return array (
     'latitude' => 44.98345,
     'longitude' => -63.48199,
   ),
-  455 => 
+  453 => 
   array (
     'id' => 16601,
     'name' => 'Lappe',
@@ -4105,7 +4087,7 @@ return array (
     'latitude' => 48.5668,
     'longitude' => -89.35013,
   ),
-  456 => 
+  454 => 
   array (
     'id' => 16602,
     'name' => 'Larkspur',
@@ -4114,7 +4096,7 @@ return array (
     'latitude' => 53.47942,
     'longitude' => -113.38142,
   ),
-  457 => 
+  455 => 
   array (
     'id' => 16603,
     'name' => 'Laurel',
@@ -4123,7 +4105,7 @@ return array (
     'latitude' => 53.44667,
     'longitude' => -113.38197,
   ),
-  458 => 
+  456 => 
   array (
     'id' => 16604,
     'name' => 'Laval',
@@ -4132,7 +4114,7 @@ return array (
     'latitude' => 45.56995,
     'longitude' => -73.692,
   ),
-  459 => 
+  457 => 
   array (
     'id' => 16605,
     'name' => 'Lavaltrie',
@@ -4141,7 +4123,7 @@ return array (
     'latitude' => 45.88338,
     'longitude' => -73.28245,
   ),
-  460 => 
+  458 => 
   array (
     'id' => 16606,
     'name' => 'Le Bic',
@@ -4150,7 +4132,7 @@ return array (
     'latitude' => 48.37549,
     'longitude' => -68.69415,
   ),
-  461 => 
+  459 => 
   array (
     'id' => 16607,
     'name' => 'Leamington',
@@ -4159,7 +4141,7 @@ return array (
     'latitude' => 42.05009,
     'longitude' => -82.59981,
   ),
-  462 => 
+  460 => 
   array (
     'id' => 16608,
     'name' => 'Lebel-sur-Quévillon',
@@ -4168,7 +4150,7 @@ return array (
     'latitude' => 49.05018,
     'longitude' => -76.98273,
   ),
-  463 => 
+  461 => 
   array (
     'id' => 16609,
     'name' => 'Leblanc',
@@ -4177,7 +4159,7 @@ return array (
     'latitude' => 48.26683,
     'longitude' => -74.34914,
   ),
-  464 => 
+  462 => 
   array (
     'id' => 16610,
     'name' => 'Leduc',
@@ -4186,7 +4168,7 @@ return array (
     'latitude' => 53.26682,
     'longitude' => -113.55201,
   ),
-  465 => 
+  463 => 
   array (
     'id' => 16611,
     'name' => 'Les Coteaux',
@@ -4195,7 +4177,7 @@ return array (
     'latitude' => 45.28338,
     'longitude' => -74.23254,
   ),
-  466 => 
+  464 => 
   array (
     'id' => 16612,
     'name' => 'Les Cèdres',
@@ -4204,7 +4186,7 @@ return array (
     'latitude' => 45.30008,
     'longitude' => -74.04922,
   ),
-  467 => 
+  465 => 
   array (
     'id' => 16613,
     'name' => 'Les Escoumins',
@@ -4213,7 +4195,7 @@ return array (
     'latitude' => 48.35191,
     'longitude' => -69.40724,
   ),
-  468 => 
+  466 => 
   array (
     'id' => 16614,
     'name' => 'Lethbridge',
@@ -4222,7 +4204,7 @@ return array (
     'latitude' => 49.69999,
     'longitude' => -112.81856,
   ),
-  469 => 
+  467 => 
   array (
     'id' => 16615,
     'name' => 'Lewisporte',
@@ -4231,7 +4213,7 @@ return array (
     'latitude' => 49.24993,
     'longitude' => -55.04816,
   ),
-  470 => 
+  468 => 
   array (
     'id' => 16616,
     'name' => 'Lillooet',
@@ -4240,7 +4222,7 @@ return array (
     'latitude' => 50.6856,
     'longitude' => -121.942,
   ),
-  471 => 
+  469 => 
   array (
     'id' => 16617,
     'name' => 'Limoges',
@@ -4249,7 +4231,7 @@ return array (
     'latitude' => 45.3334,
     'longitude' => -75.24931,
   ),
-  472 => 
+  470 => 
   array (
     'id' => 16618,
     'name' => 'Lincoln',
@@ -4258,7 +4240,7 @@ return array (
     'latitude' => 45.90012,
     'longitude' => -66.58218,
   ),
-  473 => 
+  471 => 
   array (
     'id' => 16619,
     'name' => 'Lindsay',
@@ -4267,7 +4249,7 @@ return array (
     'latitude' => 44.35012,
     'longitude' => -78.73286,
   ),
-  474 => 
+  472 => 
   array (
     'id' => 16620,
     'name' => 'Linière',
@@ -4276,7 +4258,7 @@ return array (
     'latitude' => 46.00007,
     'longitude' => -70.41572,
   ),
-  475 => 
+  473 => 
   array (
     'id' => 16621,
     'name' => 'Lions Bay',
@@ -4285,7 +4267,7 @@ return array (
     'latitude' => 49.45218,
     'longitude' => -123.2376,
   ),
-  476 => 
+  474 => 
   array (
     'id' => 16622,
     'name' => 'Listowel',
@@ -4294,7 +4276,7 @@ return array (
     'latitude' => 43.7334,
     'longitude' => -80.94973,
   ),
-  477 => 
+  475 => 
   array (
     'id' => 16623,
     'name' => 'Little Current',
@@ -4303,7 +4285,7 @@ return array (
     'latitude' => 45.97927,
     'longitude' => -81.9248,
   ),
-  478 => 
+  476 => 
   array (
     'id' => 16624,
     'name' => 'Lively',
@@ -4312,7 +4294,7 @@ return array (
     'latitude' => 46.43338,
     'longitude' => -81.14975,
   ),
-  479 => 
+  477 => 
   array (
     'id' => 16625,
     'name' => 'Lloydminster',
@@ -4321,7 +4303,7 @@ return array (
     'latitude' => 53.27237,
     'longitude' => -110.02256,
   ),
-  480 => 
+  478 => 
   array (
     'id' => 16626,
     'name' => 'Logan Lake',
@@ -4330,7 +4312,7 @@ return array (
     'latitude' => 50.49976,
     'longitude' => -120.80253,
   ),
-  481 => 
+  479 => 
   array (
     'id' => 16627,
     'name' => 'London',
@@ -4339,7 +4321,7 @@ return array (
     'latitude' => 42.98339,
     'longitude' => -81.23304,
   ),
-  482 => 
+  480 => 
   array (
     'id' => 16628,
     'name' => 'Longueuil',
@@ -4348,7 +4330,7 @@ return array (
     'latitude' => 45.53121,
     'longitude' => -73.51806,
   ),
-  483 => 
+  481 => 
   array (
     'id' => 16629,
     'name' => 'Lorette',
@@ -4357,7 +4339,7 @@ return array (
     'latitude' => 49.73919,
     'longitude' => -96.87232,
   ),
-  484 => 
+  482 => 
   array (
     'id' => 16630,
     'name' => 'Lorraine',
@@ -4366,7 +4348,7 @@ return array (
     'latitude' => 45.68338,
     'longitude' => -73.78249,
   ),
-  485 => 
+  483 => 
   array (
     'id' => 16631,
     'name' => 'Louiseville',
@@ -4375,7 +4357,7 @@ return array (
     'latitude' => 46.25594,
     'longitude' => -72.94145,
   ),
-  486 => 
+  484 => 
   array (
     'id' => 16632,
     'name' => 'Lower Sackville',
@@ -4384,7 +4366,7 @@ return array (
     'latitude' => 44.77599,
     'longitude' => -63.67865,
   ),
-  487 => 
+  485 => 
   array (
     'id' => 16633,
     'name' => 'Lucan',
@@ -4393,7 +4375,7 @@ return array (
     'latitude' => 43.18339,
     'longitude' => -81.39976,
   ),
-  488 => 
+  486 => 
   array (
     'id' => 16634,
     'name' => 'Luceville',
@@ -4402,7 +4384,7 @@ return array (
     'latitude' => 48.54498,
     'longitude' => -68.39658,
   ),
-  489 => 
+  487 => 
   array (
     'id' => 16635,
     'name' => 'Lumby',
@@ -4411,7 +4393,7 @@ return array (
     'latitude' => 50.24979,
     'longitude' => -118.96904,
   ),
-  490 => 
+  488 => 
   array (
     'id' => 16636,
     'name' => 'Lumsden',
@@ -4420,7 +4402,7 @@ return array (
     'latitude' => 50.65009,
     'longitude' => -104.86783,
   ),
-  491 => 
+  489 => 
   array (
     'id' => 16637,
     'name' => 'Lunenburg',
@@ -4429,7 +4411,7 @@ return array (
     'latitude' => 44.37847,
     'longitude' => -64.31658,
   ),
-  492 => 
+  490 => 
   array (
     'id' => 16638,
     'name' => 'Lutes Mountain',
@@ -4438,7 +4420,7 @@ return array (
     'latitude' => 46.13544,
     'longitude' => -64.90504,
   ),
-  493 => 
+  491 => 
   array (
     'id' => 16639,
     'name' => 'Lévis',
@@ -4447,7 +4429,7 @@ return array (
     'latitude' => 46.80326,
     'longitude' => -71.17793,
   ),
-  494 => 
+  492 => 
   array (
     'id' => 16640,
     'name' => 'Macamic',
@@ -4456,7 +4438,7 @@ return array (
     'latitude' => 48.75018,
     'longitude' => -78.99962,
   ),
-  495 => 
+  493 => 
   array (
     'id' => 16641,
     'name' => 'Mackenzie',
@@ -4465,7 +4447,7 @@ return array (
     'latitude' => 55.33637,
     'longitude' => -123.09374,
   ),
-  496 => 
+  494 => 
   array (
     'id' => 16642,
     'name' => 'Macklin',
@@ -4474,7 +4456,7 @@ return array (
     'latitude' => 52.33344,
     'longitude' => -109.93484,
   ),
-  497 => 
+  495 => 
   array (
     'id' => 16643,
     'name' => 'Madoc',
@@ -4483,7 +4465,7 @@ return array (
     'latitude' => 44.50842,
     'longitude' => -77.47448,
   ),
-  498 => 
+  496 => 
   array (
     'id' => 16644,
     'name' => 'Magog',
@@ -4492,7 +4474,7 @@ return array (
     'latitude' => 45.26678,
     'longitude' => -72.14909,
   ),
-  499 => 
+  497 => 
   array (
     'id' => 16645,
     'name' => 'Magrath',
@@ -4501,7 +4483,7 @@ return array (
     'latitude' => 49.41668,
     'longitude' => -112.86856,
   ),
-  500 => 
+  498 => 
   array (
     'id' => 16646,
     'name' => 'Malartic',
@@ -4510,7 +4492,7 @@ return array (
     'latitude' => 48.13348,
     'longitude' => -78.13283,
   ),
-  501 => 
+  499 => 
   array (
     'id' => 16647,
     'name' => 'Maliotenam',
@@ -4519,7 +4501,7 @@ return array (
     'latitude' => 50.21119,
     'longitude' => -66.18164,
   ),
-  502 => 
+  500 => 
   array (
     'id' => 16648,
     'name' => 'Manawan',
@@ -4528,7 +4510,7 @@ return array (
     'latitude' => 47.22029,
     'longitude' => -74.38606,
   ),
-  503 => 
+  501 => 
   array (
     'id' => 16649,
     'name' => 'Mandeville',
@@ -4537,7 +4519,7 @@ return array (
     'latitude' => 46.36677,
     'longitude' => -73.34915,
   ),
-  504 => 
+  502 => 
   array (
     'id' => 16650,
     'name' => 'Manitoulin District',
@@ -4546,7 +4528,7 @@ return array (
     'latitude' => 45.75007,
     'longitude' => -82.49985,
   ),
-  505 => 
+  503 => 
   array (
     'id' => 16651,
     'name' => 'Manitouwadge',
@@ -4555,7 +4537,7 @@ return array (
     'latitude' => 49.12152,
     'longitude' => -85.8403,
   ),
-  506 => 
+  504 => 
   array (
     'id' => 16652,
     'name' => 'Maniwaki',
@@ -4564,7 +4546,7 @@ return array (
     'latitude' => 46.38341,
     'longitude' => -75.96605,
   ),
-  507 => 
+  505 => 
   array (
     'id' => 16653,
     'name' => 'Manning',
@@ -4573,7 +4555,7 @@ return array (
     'latitude' => 56.91683,
     'longitude' => -117.61945,
   ),
-  508 => 
+  506 => 
   array (
     'id' => 16654,
     'name' => 'Mannville',
@@ -4582,7 +4564,7 @@ return array (
     'latitude' => 53.33764,
     'longitude' => -111.1775,
   ),
-  509 => 
+  507 => 
   array (
     'id' => 16655,
     'name' => 'Maple Creek',
@@ -4591,7 +4573,7 @@ return array (
     'latitude' => 49.91678,
     'longitude' => -109.48481,
   ),
-  510 => 
+  508 => 
   array (
     'id' => 16656,
     'name' => 'Maple Ridge',
@@ -4600,16 +4582,7 @@ return array (
     'latitude' => 49.21939,
     'longitude' => -122.60193,
   ),
-  511 => 
-  array (
-    'id' => 16657,
-    'name' => 'Maple Ridge',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 53.50172,
-    'longitude' => -113.36274,
-  ),
-  512 => 
+  509 => 
   array (
     'id' => 16658,
     'name' => 'Marathon',
@@ -4618,7 +4591,7 @@ return array (
     'latitude' => 48.7501,
     'longitude' => -86.43322,
   ),
-  513 => 
+  510 => 
   array (
     'id' => 16659,
     'name' => 'Maria',
@@ -4627,7 +4600,7 @@ return array (
     'latitude' => 48.1749,
     'longitude' => -65.98595,
   ),
-  514 => 
+  511 => 
   array (
     'id' => 16660,
     'name' => 'Marieville',
@@ -4636,7 +4609,7 @@ return array (
     'latitude' => 45.43338,
     'longitude' => -73.16585,
   ),
-  515 => 
+  512 => 
   array (
     'id' => 16661,
     'name' => 'Markdale',
@@ -4645,7 +4618,7 @@ return array (
     'latitude' => 44.3168,
     'longitude' => -80.64971,
   ),
-  516 => 
+  513 => 
   array (
     'id' => 16662,
     'name' => 'Markham',
@@ -4654,7 +4627,7 @@ return array (
     'latitude' => 43.86682,
     'longitude' => -79.2663,
   ),
-  517 => 
+  514 => 
   array (
     'id' => 16663,
     'name' => 'Martensville',
@@ -4663,7 +4636,7 @@ return array (
     'latitude' => 52.28339,
     'longitude' => -106.66792,
   ),
-  518 => 
+  515 => 
   array (
     'id' => 16664,
     'name' => 'Marystown',
@@ -4672,7 +4645,7 @@ return array (
     'latitude' => 47.16663,
     'longitude' => -55.14829,
   ),
-  519 => 
+  516 => 
   array (
     'id' => 16665,
     'name' => 'Mascouche',
@@ -4681,7 +4654,7 @@ return array (
     'latitude' => 45.74965,
     'longitude' => -73.59956,
   ),
-  520 => 
+  517 => 
   array (
     'id' => 16666,
     'name' => 'Maskinongé',
@@ -4690,7 +4663,7 @@ return array (
     'latitude' => 46.2286,
     'longitude' => -73.01917,
   ),
-  521 => 
+  518 => 
   array (
     'id' => 16667,
     'name' => 'Matagami',
@@ -4699,7 +4672,7 @@ return array (
     'latitude' => 49.75018,
     'longitude' => -77.63277,
   ),
-  522 => 
+  519 => 
   array (
     'id' => 16668,
     'name' => 'Matane',
@@ -4708,7 +4681,7 @@ return array (
     'latitude' => 48.82857,
     'longitude' => -67.52197,
   ),
-  523 => 
+  520 => 
   array (
     'id' => 16669,
     'name' => 'Mattawa',
@@ -4717,7 +4690,7 @@ return array (
     'latitude' => 46.31681,
     'longitude' => -78.69957,
   ),
-  524 => 
+  521 => 
   array (
     'id' => 16670,
     'name' => 'Mauricie',
@@ -4726,7 +4699,7 @@ return array (
     'latitude' => 47.55009,
     'longitude' => -73.41583,
   ),
-  525 => 
+  522 => 
   array (
     'id' => 16671,
     'name' => 'Mayerthorpe',
@@ -4735,7 +4708,7 @@ return array (
     'latitude' => 53.95015,
     'longitude' => -115.13547,
   ),
-  526 => 
+  523 => 
   array (
     'id' => 16672,
     'name' => 'McEwen',
@@ -4744,7 +4717,7 @@ return array (
     'latitude' => 46.1452,
     'longitude' => -64.78615,
   ),
-  527 => 
+  524 => 
   array (
     'id' => 16673,
     'name' => 'Meadow Lake',
@@ -4753,7 +4726,7 @@ return array (
     'latitude' => 54.13348,
     'longitude' => -108.43471,
   ),
-  528 => 
+  525 => 
   array (
     'id' => 16674,
     'name' => 'Meaford',
@@ -4762,7 +4735,7 @@ return array (
     'latitude' => 44.60725,
     'longitude' => -80.61081,
   ),
-  529 => 
+  526 => 
   array (
     'id' => 16675,
     'name' => 'Medicine Hat',
@@ -4771,7 +4744,7 @@ return array (
     'latitude' => 50.03928,
     'longitude' => -110.67661,
   ),
-  530 => 
+  527 => 
   array (
     'id' => 16676,
     'name' => 'Melfort',
@@ -4780,7 +4753,7 @@ return array (
     'latitude' => 52.86673,
     'longitude' => -104.61768,
   ),
-  531 => 
+  528 => 
   array (
     'id' => 16677,
     'name' => 'Melita',
@@ -4789,7 +4762,7 @@ return array (
     'latitude' => 49.26811,
     'longitude' => -100.99669,
   ),
-  532 => 
+  529 => 
   array (
     'id' => 16678,
     'name' => 'Melocheville',
@@ -4798,7 +4771,7 @@ return array (
     'latitude' => 45.31726,
     'longitude' => -73.9371,
   ),
-  533 => 
+  530 => 
   array (
     'id' => 16679,
     'name' => 'Melville',
@@ -4807,7 +4780,7 @@ return array (
     'latitude' => 50.91671,
     'longitude' => -102.80099,
   ),
-  534 => 
+  531 => 
   array (
     'id' => 16680,
     'name' => 'Mercier',
@@ -4816,7 +4789,7 @@ return array (
     'latitude' => 45.31678,
     'longitude' => -73.74919,
   ),
-  535 => 
+  532 => 
   array (
     'id' => 16681,
     'name' => 'Merritt',
@@ -4825,7 +4798,7 @@ return array (
     'latitude' => 50.11225,
     'longitude' => -120.7942,
   ),
-  536 => 
+  533 => 
   array (
     'id' => 16682,
     'name' => 'Metabetchouan-Lac-a-la-Croix',
@@ -4834,7 +4807,7 @@ return array (
     'latitude' => 48.41,
     'longitude' => -71.78,
   ),
-  537 => 
+  534 => 
   array (
     'id' => 16683,
     'name' => 'Metcalfe',
@@ -4843,7 +4816,7 @@ return array (
     'latitude' => 45.2334,
     'longitude' => -75.46603,
   ),
-  538 => 
+  535 => 
   array (
     'id' => 16684,
     'name' => 'Metchosin',
@@ -4852,7 +4825,7 @@ return array (
     'latitude' => 48.38293,
     'longitude' => -123.53591,
   ),
-  539 => 
+  536 => 
   array (
     'id' => 16685,
     'name' => 'Metro Vancouver Regional District',
@@ -4861,7 +4834,7 @@ return array (
     'latitude' => 49.33296,
     'longitude' => -123.00264,
   ),
-  540 => 
+  537 => 
   array (
     'id' => 16686,
     'name' => 'Middleton',
@@ -4870,7 +4843,7 @@ return array (
     'latitude' => 44.94284,
     'longitude' => -65.07022,
   ),
-  541 => 
+  538 => 
   array (
     'id' => 16687,
     'name' => 'Midland',
@@ -4879,7 +4852,7 @@ return array (
     'latitude' => 44.7501,
     'longitude' => -79.88296,
   ),
-  542 => 
+  539 => 
   array (
     'id' => 16688,
     'name' => 'Mildmay',
@@ -4888,7 +4861,7 @@ return array (
     'latitude' => 44.05009,
     'longitude' => -81.11644,
   ),
-  543 => 
+  540 => 
   array (
     'id' => 16689,
     'name' => 'Mill Woods Town Centre',
@@ -4897,7 +4870,7 @@ return array (
     'latitude' => 53.45639,
     'longitude' => -113.42751,
   ),
-  544 => 
+  541 => 
   array (
     'id' => 16690,
     'name' => 'Millbrook',
@@ -4906,7 +4879,7 @@ return array (
     'latitude' => 44.15012,
     'longitude' => -78.44954,
   ),
-  545 => 
+  542 => 
   array (
     'id' => 16691,
     'name' => 'Millet',
@@ -4915,7 +4888,7 @@ return array (
     'latitude' => 53.10013,
     'longitude' => -113.4687,
   ),
-  546 => 
+  543 => 
   array (
     'id' => 16692,
     'name' => 'Milton',
@@ -4924,7 +4897,7 @@ return array (
     'latitude' => 43.51681,
     'longitude' => -79.88294,
   ),
-  547 => 
+  544 => 
   array (
     'id' => 16693,
     'name' => 'Minnedosa',
@@ -4933,7 +4906,7 @@ return array (
     'latitude' => 50.24532,
     'longitude' => -99.84364,
   ),
-  548 => 
+  545 => 
   array (
     'id' => 16694,
     'name' => 'Mirabel',
@@ -4942,7 +4915,7 @@ return array (
     'latitude' => 45.65008,
     'longitude' => -74.08251,
   ),
-  549 => 
+  546 => 
   array (
     'id' => 16695,
     'name' => 'Miramichi',
@@ -4951,7 +4924,7 @@ return array (
     'latitude' => 47.02895,
     'longitude' => -65.50186,
   ),
-  550 => 
+  547 => 
   array (
     'id' => 16696,
     'name' => 'Mission',
@@ -4960,7 +4933,7 @@ return array (
     'latitude' => 49.13298,
     'longitude' => -122.30258,
   ),
-  551 => 
+  548 => 
   array (
     'id' => 16697,
     'name' => 'Mississauga',
@@ -4969,7 +4942,7 @@ return array (
     'latitude' => 43.5789,
     'longitude' => -79.6583,
   ),
-  552 => 
+  549 => 
   array (
     'id' => 16698,
     'name' => 'Mississauga Beach',
@@ -4978,7 +4951,7 @@ return array (
     'latitude' => 43.26682,
     'longitude' => -79.08287,
   ),
-  553 => 
+  550 => 
   array (
     'id' => 16699,
     'name' => 'Mistissini',
@@ -4987,7 +4960,7 @@ return array (
     'latitude' => 50.41667,
     'longitude' => -73.88333,
   ),
-  554 => 
+  551 => 
   array (
     'id' => 16700,
     'name' => 'Moncton',
@@ -4996,7 +4969,7 @@ return array (
     'latitude' => 46.09454,
     'longitude' => -64.7965,
   ),
-  555 => 
+  552 => 
   array (
     'id' => 16701,
     'name' => 'Mont-Joli',
@@ -5005,7 +4978,7 @@ return array (
     'latitude' => 48.58388,
     'longitude' => -68.19214,
   ),
-  556 => 
+  553 => 
   array (
     'id' => 16702,
     'name' => 'Mont-Laurier',
@@ -5014,7 +4987,7 @@ return array (
     'latitude' => 46.55011,
     'longitude' => -75.4993,
   ),
-  557 => 
+  554 => 
   array (
     'id' => 16703,
     'name' => 'Mont-Royal',
@@ -5023,7 +4996,7 @@ return array (
     'latitude' => 45.51675,
     'longitude' => -73.64918,
   ),
-  558 => 
+  555 => 
   array (
     'id' => 16704,
     'name' => 'Mont-Saint-Grégoire',
@@ -5032,7 +5005,7 @@ return array (
     'latitude' => 45.33338,
     'longitude' => -73.16585,
   ),
-  559 => 
+  556 => 
   array (
     'id' => 16705,
     'name' => 'Mont-Saint-Hilaire',
@@ -5041,7 +5014,7 @@ return array (
     'latitude' => 45.56515,
     'longitude' => -73.1868,
   ),
-  560 => 
+  557 => 
   array (
     'id' => 16706,
     'name' => 'Mont-Tremblant',
@@ -5050,7 +5023,7 @@ return array (
     'latitude' => 46.21274,
     'longitude' => -74.58438,
   ),
-  561 => 
+  558 => 
   array (
     'id' => 16707,
     'name' => 'Montague',
@@ -5059,7 +5032,7 @@ return array (
     'latitude' => 46.16681,
     'longitude' => -62.64866,
   ),
-  562 => 
+  559 => 
   array (
     'id' => 16708,
     'name' => 'Montmagny',
@@ -5068,7 +5041,7 @@ return array (
     'latitude' => 46.98043,
     'longitude' => -70.55493,
   ),
-  563 => 
+  560 => 
   array (
     'id' => 16709,
     'name' => 'Montréal',
@@ -5077,7 +5050,7 @@ return array (
     'latitude' => 45.50008,
     'longitude' => -73.68248,
   ),
-  564 => 
+  561 => 
   array (
     'id' => 16710,
     'name' => 'Montréal-Est',
@@ -5086,7 +5059,7 @@ return array (
     'latitude' => 45.63202,
     'longitude' => -73.5075,
   ),
-  565 => 
+  562 => 
   array (
     'id' => 16711,
     'name' => 'Montréal-Ouest',
@@ -5095,7 +5068,7 @@ return array (
     'latitude' => 45.45286,
     'longitude' => -73.64918,
   ),
-  566 => 
+  563 => 
   array (
     'id' => 16712,
     'name' => 'Moose Factory',
@@ -5104,7 +5077,7 @@ return array (
     'latitude' => 51.26689,
     'longitude' => -80.61624,
   ),
-  567 => 
+  564 => 
   array (
     'id' => 16713,
     'name' => 'Moose Jaw',
@@ -5113,7 +5086,7 @@ return array (
     'latitude' => 50.40005,
     'longitude' => -105.53445,
   ),
-  568 => 
+  565 => 
   array (
     'id' => 16714,
     'name' => 'Moose Lake',
@@ -5122,7 +5095,7 @@ return array (
     'latitude' => 49.20559,
     'longitude' => -95.30629,
   ),
-  569 => 
+  566 => 
   array (
     'id' => 16715,
     'name' => 'Moosomin',
@@ -5131,7 +5104,7 @@ return array (
     'latitude' => 50.13332,
     'longitude' => -101.66766,
   ),
-  570 => 
+  567 => 
   array (
     'id' => 16716,
     'name' => 'Moosonee',
@@ -5140,7 +5113,7 @@ return array (
     'latitude' => 51.27931,
     'longitude' => -80.6345,
   ),
-  571 => 
+  568 => 
   array (
     'id' => 16717,
     'name' => 'Morden',
@@ -5149,7 +5122,7 @@ return array (
     'latitude' => 49.1919,
     'longitude' => -98.10136,
   ),
-  572 => 
+  569 => 
   array (
     'id' => 16718,
     'name' => 'Morin-Heights',
@@ -5158,7 +5131,7 @@ return array (
     'latitude' => 45.90009,
     'longitude' => -74.24922,
   ),
-  573 => 
+  570 => 
   array (
     'id' => 16719,
     'name' => 'Morinville',
@@ -5167,7 +5140,7 @@ return array (
     'latitude' => 53.80014,
     'longitude' => -113.65203,
   ),
-  574 => 
+  571 => 
   array (
     'id' => 16720,
     'name' => 'Morris',
@@ -5176,7 +5149,7 @@ return array (
     'latitude' => 49.35499,
     'longitude' => -97.36567,
   ),
-  575 => 
+  572 => 
   array (
     'id' => 16721,
     'name' => 'Morrisburg',
@@ -5185,7 +5158,7 @@ return array (
     'latitude' => 44.9001,
     'longitude' => -75.18261,
   ),
-  576 => 
+  573 => 
   array (
     'id' => 16722,
     'name' => 'Mount Albert',
@@ -5194,7 +5167,7 @@ return array (
     'latitude' => 44.13341,
     'longitude' => -79.3163,
   ),
-  577 => 
+  574 => 
   array (
     'id' => 16723,
     'name' => 'Mount Brydges',
@@ -5203,7 +5176,7 @@ return array (
     'latitude' => 42.90009,
     'longitude' => -81.48306,
   ),
-  578 => 
+  575 => 
   array (
     'id' => 16724,
     'name' => 'Mount Pearl',
@@ -5212,7 +5185,7 @@ return array (
     'latitude' => 47.51659,
     'longitude' => -52.78135,
   ),
-  579 => 
+  576 => 
   array (
     'id' => 16725,
     'name' => 'Métabetchouan',
@@ -5221,7 +5194,7 @@ return array (
     'latitude' => 48.36679,
     'longitude' => -72.01583,
   ),
-  580 => 
+  577 => 
   array (
     'id' => 16726,
     'name' => 'Nackawic',
@@ -5230,7 +5203,7 @@ return array (
     'latitude' => 45.99666,
     'longitude' => -67.24028,
   ),
-  581 => 
+  578 => 
   array (
     'id' => 16727,
     'name' => 'Nakusp',
@@ -5239,7 +5212,7 @@ return array (
     'latitude' => 50.24987,
     'longitude' => -117.80226,
   ),
-  582 => 
+  579 => 
   array (
     'id' => 16728,
     'name' => 'Nanaimo',
@@ -5248,7 +5221,7 @@ return array (
     'latitude' => 49.16638,
     'longitude' => -123.94003,
   ),
-  583 => 
+  580 => 
   array (
     'id' => 16729,
     'name' => 'Nanton',
@@ -5257,7 +5230,7 @@ return array (
     'latitude' => 50.35008,
     'longitude' => -113.76866,
   ),
-  584 => 
+  581 => 
   array (
     'id' => 16730,
     'name' => 'Napanee',
@@ -5266,7 +5239,7 @@ return array (
     'latitude' => 44.25012,
     'longitude' => -76.94944,
   ),
-  585 => 
+  582 => 
   array (
     'id' => 16731,
     'name' => 'Napanee Downtown',
@@ -5275,7 +5248,7 @@ return array (
     'latitude' => 44.24832,
     'longitude' => -76.95069,
   ),
-  586 => 
+  583 => 
   array (
     'id' => 16732,
     'name' => 'Napierville',
@@ -5284,7 +5257,7 @@ return array (
     'latitude' => 45.18648,
     'longitude' => -73.40468,
   ),
-  587 => 
+  584 => 
   array (
     'id' => 16733,
     'name' => 'Neebing',
@@ -5293,7 +5266,7 @@ return array (
     'latitude' => 48.1668,
     'longitude' => -89.41683,
   ),
-  588 => 
+  585 => 
   array (
     'id' => 16734,
     'name' => 'Neepawa',
@@ -5302,7 +5275,7 @@ return array (
     'latitude' => 50.22892,
     'longitude' => -99.46642,
   ),
-  589 => 
+  586 => 
   array (
     'id' => 16735,
     'name' => 'Nelson',
@@ -5311,7 +5284,7 @@ return array (
     'latitude' => 49.49985,
     'longitude' => -117.28553,
   ),
-  590 => 
+  587 => 
   array (
     'id' => 16736,
     'name' => 'Nepean',
@@ -5320,7 +5293,7 @@ return array (
     'latitude' => 45.35215,
     'longitude' => -75.73975,
   ),
-  591 => 
+  588 => 
   array (
     'id' => 16737,
     'name' => 'Neuville',
@@ -5329,7 +5302,7 @@ return array (
     'latitude' => 46.69823,
     'longitude' => -71.58275,
   ),
-  592 => 
+  589 => 
   array (
     'id' => 16738,
     'name' => 'New Carlisle',
@@ -5338,7 +5311,7 @@ return array (
     'latitude' => 48.00956,
     'longitude' => -65.33621,
   ),
-  593 => 
+  590 => 
   array (
     'id' => 16739,
     'name' => 'New Glasgow',
@@ -5347,7 +5320,7 @@ return array (
     'latitude' => 45.58344,
     'longitude' => -62.64863,
   ),
-  594 => 
+  591 => 
   array (
     'id' => 16740,
     'name' => 'New Hamburg',
@@ -5356,7 +5329,7 @@ return array (
     'latitude' => 43.38339,
     'longitude' => -80.6997,
   ),
-  595 => 
+  592 => 
   array (
     'id' => 16741,
     'name' => 'New Maryland',
@@ -5365,7 +5338,7 @@ return array (
     'latitude' => 45.87932,
     'longitude' => -66.66828,
   ),
-  596 => 
+  593 => 
   array (
     'id' => 16742,
     'name' => 'New Westminster',
@@ -5374,7 +5347,7 @@ return array (
     'latitude' => 49.20678,
     'longitude' => -122.91092,
   ),
-  597 => 
+  594 => 
   array (
     'id' => 16743,
     'name' => 'New-Richmond',
@@ -5383,7 +5356,7 @@ return array (
     'latitude' => 48.16059,
     'longitude' => -65.85823,
   ),
-  598 => 
+  595 => 
   array (
     'id' => 16744,
     'name' => 'Newmarket',
@@ -5392,7 +5365,7 @@ return array (
     'latitude' => 44.05011,
     'longitude' => -79.46631,
   ),
-  599 => 
+  596 => 
   array (
     'id' => 16745,
     'name' => 'Niagara Falls',
@@ -5401,7 +5374,7 @@ return array (
     'latitude' => 43.10012,
     'longitude' => -79.06627,
   ),
-  600 => 
+  597 => 
   array (
     'id' => 16746,
     'name' => 'Nicolet',
@@ -5410,7 +5383,7 @@ return array (
     'latitude' => 46.21676,
     'longitude' => -72.61582,
   ),
-  601 => 
+  598 => 
   array (
     'id' => 16747,
     'name' => 'Nipawin',
@@ -5419,7 +5392,7 @@ return array (
     'latitude' => 53.36678,
     'longitude' => -104.00092,
   ),
-  602 => 
+  599 => 
   array (
     'id' => 16748,
     'name' => 'Nipissing District',
@@ -5428,7 +5401,7 @@ return array (
     'latitude' => 46.0001,
     'longitude' => -78.99959,
   ),
-  603 => 
+  600 => 
   array (
     'id' => 16749,
     'name' => 'Niverville',
@@ -5437,7 +5410,7 @@ return array (
     'latitude' => 49.60559,
     'longitude' => -97.04234,
   ),
-  604 => 
+  601 => 
   array (
     'id' => 16750,
     'name' => 'Noonan',
@@ -5446,7 +5419,7 @@ return array (
     'latitude' => 45.96682,
     'longitude' => -66.53218,
   ),
-  605 => 
+  602 => 
   array (
     'id' => 16751,
     'name' => 'Nord-du-Québec',
@@ -5455,7 +5428,7 @@ return array (
     'latitude' => 51.962,
     'longitude' => -74.8961,
   ),
-  606 => 
+  603 => 
   array (
     'id' => 16752,
     'name' => 'Norfolk County',
@@ -5464,7 +5437,7 @@ return array (
     'latitude' => 42.8334,
     'longitude' => -80.38297,
   ),
-  607 => 
+  604 => 
   array (
     'id' => 16753,
     'name' => 'Norman Wells',
@@ -5473,7 +5446,7 @@ return array (
     'latitude' => 65.28201,
     'longitude' => -126.8329,
   ),
-  608 => 
+  605 => 
   array (
     'id' => 16754,
     'name' => 'Normandin',
@@ -5482,7 +5455,7 @@ return array (
     'latitude' => 48.83328,
     'longitude' => -72.53209,
   ),
-  609 => 
+  606 => 
   array (
     'id' => 16755,
     'name' => 'North Battleford',
@@ -5491,7 +5464,7 @@ return array (
     'latitude' => 52.77972,
     'longitude' => -108.2967,
   ),
-  610 => 
+  607 => 
   array (
     'id' => 16756,
     'name' => 'North Bay',
@@ -5500,7 +5473,7 @@ return array (
     'latitude' => 46.3168,
     'longitude' => -79.46633,
   ),
-  611 => 
+  608 => 
   array (
     'id' => 16757,
     'name' => 'North Cowichan',
@@ -5509,7 +5482,7 @@ return array (
     'latitude' => 48.84133,
     'longitude' => -123.68596,
   ),
-  612 => 
+  609 => 
   array (
     'id' => 16758,
     'name' => 'North Oyster/Yellow Point',
@@ -5518,7 +5491,7 @@ return array (
     'latitude' => 49.04807,
     'longitude' => -123.83395,
   ),
-  613 => 
+  610 => 
   array (
     'id' => 16759,
     'name' => 'North Perth',
@@ -5527,7 +5500,7 @@ return array (
     'latitude' => 43.7251,
     'longitude' => -80.96723,
   ),
-  614 => 
+  611 => 
   array (
     'id' => 16760,
     'name' => 'North Saanich',
@@ -5536,7 +5509,7 @@ return array (
     'latitude' => 48.66634,
     'longitude' => -123.41933,
   ),
-  615 => 
+  612 => 
   array (
     'id' => 16761,
     'name' => 'North Vancouver',
@@ -5545,7 +5518,7 @@ return array (
     'latitude' => 49.31636,
     'longitude' => -123.06934,
   ),
-  616 => 
+  613 => 
   array (
     'id' => 16762,
     'name' => 'North York',
@@ -5554,7 +5527,7 @@ return array (
     'latitude' => 43.76681,
     'longitude' => -79.4163,
   ),
-  617 => 
+  614 => 
   array (
     'id' => 16763,
     'name' => 'Norwood',
@@ -5563,7 +5536,7 @@ return array (
     'latitude' => 44.38342,
     'longitude' => -77.98281,
   ),
-  618 => 
+  615 => 
   array (
     'id' => 16764,
     'name' => 'Notre-Dame-de-Grâce',
@@ -5572,7 +5545,7 @@ return array (
     'latitude' => 45.47675,
     'longitude' => -73.61432,
   ),
-  619 => 
+  616 => 
   array (
     'id' => 16765,
     'name' => 'Notre-Dame-de-l\\\'Île-Perrot',
@@ -5581,7 +5554,7 @@ return array (
     'latitude' => 45.36678,
     'longitude' => -73.9325,
   ),
-  620 => 
+  617 => 
   array (
     'id' => 16766,
     'name' => 'Notre-Dame-des-Prairies',
@@ -5590,7 +5563,7 @@ return array (
     'latitude' => 46.05007,
     'longitude' => -73.43245,
   ),
-  621 => 
+  618 => 
   array (
     'id' => 16767,
     'name' => 'Notre-Dame-du-Lac',
@@ -5599,7 +5572,7 @@ return array (
     'latitude' => 46.75012,
     'longitude' => -79.04961,
   ),
-  622 => 
+  619 => 
   array (
     'id' => 16768,
     'name' => 'Notre-Dame-du-Mont-Carmel',
@@ -5608,7 +5581,7 @@ return array (
     'latitude' => 46.0168,
     'longitude' => -75.08259,
   ),
-  623 => 
+  620 => 
   array (
     'id' => 16769,
     'name' => 'Oak Bay',
@@ -5617,7 +5590,7 @@ return array (
     'latitude' => 48.44964,
     'longitude' => -123.3026,
   ),
-  624 => 
+  621 => 
   array (
     'id' => 16770,
     'name' => 'Oakville',
@@ -5626,7 +5599,7 @@ return array (
     'latitude' => 43.45011,
     'longitude' => -79.68292,
   ),
-  625 => 
+  622 => 
   array (
     'id' => 16771,
     'name' => 'Oka',
@@ -5635,7 +5608,7 @@ return array (
     'latitude' => 45.46489,
     'longitude' => -74.08892,
   ),
-  626 => 
+  623 => 
   array (
     'id' => 16772,
     'name' => 'Okanagan',
@@ -5644,7 +5617,7 @@ return array (
     'latitude' => 50.36386,
     'longitude' => -119.34997,
   ),
-  627 => 
+  624 => 
   array (
     'id' => 16773,
     'name' => 'Okanagan Falls',
@@ -5653,7 +5626,7 @@ return array (
     'latitude' => 49.35,
     'longitude' => -119.56667,
   ),
-  628 => 
+  625 => 
   array (
     'id' => 16774,
     'name' => 'Okotoks',
@@ -5662,7 +5635,7 @@ return array (
     'latitude' => 50.72885,
     'longitude' => -113.98281,
   ),
-  629 => 
+  626 => 
   array (
     'id' => 16775,
     'name' => 'Olds',
@@ -5671,7 +5644,7 @@ return array (
     'latitude' => 51.78341,
     'longitude' => -114.10199,
   ),
-  630 => 
+  627 => 
   array (
     'id' => 16776,
     'name' => 'Oliver',
@@ -5680,7 +5653,7 @@ return array (
     'latitude' => 49.18306,
     'longitude' => -119.5524,
   ),
-  631 => 
+  628 => 
   array (
     'id' => 16777,
     'name' => 'Omemee',
@@ -5689,7 +5662,7 @@ return array (
     'latitude' => 44.29897,
     'longitude' => -78.55989,
   ),
-  632 => 
+  629 => 
   array (
     'id' => 16778,
     'name' => 'Orangeville',
@@ -5698,7 +5671,7 @@ return array (
     'latitude' => 43.9168,
     'longitude' => -80.09967,
   ),
-  633 => 
+  630 => 
   array (
     'id' => 16779,
     'name' => 'Orillia',
@@ -5707,7 +5680,7 @@ return array (
     'latitude' => 44.60868,
     'longitude' => -79.42068,
   ),
-  634 => 
+  631 => 
   array (
     'id' => 16780,
     'name' => 'Ormstown',
@@ -5716,7 +5689,7 @@ return array (
     'latitude' => 45.13338,
     'longitude' => -73.99922,
   ),
-  635 => 
+  632 => 
   array (
     'id' => 16781,
     'name' => 'Oromocto',
@@ -5725,7 +5698,7 @@ return array (
     'latitude' => 45.83512,
     'longitude' => -66.47917,
   ),
-  636 => 
+  633 => 
   array (
     'id' => 16782,
     'name' => 'Osgoode',
@@ -5734,7 +5707,7 @@ return array (
     'latitude' => 45.14887,
     'longitude' => -75.59778,
   ),
-  637 => 
+  634 => 
   array (
     'id' => 16783,
     'name' => 'Oshawa',
@@ -5743,7 +5716,7 @@ return array (
     'latitude' => 43.90012,
     'longitude' => -78.84957,
   ),
-  638 => 
+  635 => 
   array (
     'id' => 16784,
     'name' => 'Osoyoos',
@@ -5752,7 +5725,7 @@ return array (
     'latitude' => 49.03306,
     'longitude' => -119.45237,
   ),
-  639 => 
+  636 => 
   array (
     'id' => 16785,
     'name' => 'Ottawa',
@@ -5761,7 +5734,7 @@ return array (
     'latitude' => 45.41117,
     'longitude' => -75.69812,
   ),
-  640 => 
+  637 => 
   array (
     'id' => 16786,
     'name' => 'Otterburn Park',
@@ -5770,7 +5743,7 @@ return array (
     'latitude' => 45.53338,
     'longitude' => -73.21585,
   ),
-  641 => 
+  638 => 
   array (
     'id' => 16787,
     'name' => 'Outaouais',
@@ -5779,7 +5752,7 @@ return array (
     'latitude' => 46.26681,
     'longitude' => -76.31606,
   ),
-  642 => 
+  639 => 
   array (
     'id' => 16788,
     'name' => 'Outlook',
@@ -5788,7 +5761,7 @@ return array (
     'latitude' => 51.50008,
     'longitude' => -107.05128,
   ),
-  643 => 
+  640 => 
   array (
     'id' => 16789,
     'name' => 'Owen Sound',
@@ -5797,7 +5770,7 @@ return array (
     'latitude' => 44.56717,
     'longitude' => -80.94349,
   ),
-  644 => 
+  641 => 
   array (
     'id' => 16790,
     'name' => 'Oxbow',
@@ -5806,7 +5779,7 @@ return array (
     'latitude' => 49.23335,
     'longitude' => -102.1676,
   ),
-  645 => 
+  642 => 
   array (
     'id' => 16791,
     'name' => 'Oxford',
@@ -5815,7 +5788,7 @@ return array (
     'latitude' => 45.73345,
     'longitude' => -63.86542,
   ),
-  646 => 
+  643 => 
   array (
     'id' => 16792,
     'name' => 'Paisley',
@@ -5824,7 +5797,7 @@ return array (
     'latitude' => 44.30641,
     'longitude' => -81.27265,
   ),
-  647 => 
+  644 => 
   array (
     'id' => 16793,
     'name' => 'Pangnirtung',
@@ -5833,7 +5806,7 @@ return array (
     'latitude' => 66.14642,
     'longitude' => -65.69996,
   ),
-  648 => 
+  645 => 
   array (
     'id' => 16794,
     'name' => 'Papineauville',
@@ -5842,7 +5815,7 @@ return array (
     'latitude' => 45.6168,
     'longitude' => -75.01599,
   ),
-  649 => 
+  646 => 
   array (
     'id' => 16795,
     'name' => 'Parc-Boutin',
@@ -5851,7 +5824,7 @@ return array (
     'latitude' => 45.29209,
     'longitude' => -73.26154,
   ),
-  650 => 
+  647 => 
   array (
     'id' => 16796,
     'name' => 'Paris',
@@ -5860,7 +5833,7 @@ return array (
     'latitude' => 43.2,
     'longitude' => -80.38333,
   ),
-  651 => 
+  648 => 
   array (
     'id' => 16797,
     'name' => 'Parkhill',
@@ -5869,7 +5842,7 @@ return array (
     'latitude' => 43.15993,
     'longitude' => -81.68464,
   ),
-  652 => 
+  649 => 
   array (
     'id' => 16798,
     'name' => 'Parksville',
@@ -5878,7 +5851,7 @@ return array (
     'latitude' => 49.31947,
     'longitude' => -124.31575,
   ),
-  653 => 
+  650 => 
   array (
     'id' => 16799,
     'name' => 'Parrsboro',
@@ -5887,7 +5860,7 @@ return array (
     'latitude' => 45.40567,
     'longitude' => -64.32585,
   ),
-  654 => 
+  651 => 
   array (
     'id' => 16800,
     'name' => 'Parry Sound',
@@ -5896,7 +5869,7 @@ return array (
     'latitude' => 45.34732,
     'longitude' => -80.03527,
   ),
-  655 => 
+  652 => 
   array (
     'id' => 16801,
     'name' => 'Parry Sound District',
@@ -5905,7 +5878,7 @@ return array (
     'latitude' => 45.75011,
     'longitude' => -79.83297,
   ),
-  656 => 
+  653 => 
   array (
     'id' => 16802,
     'name' => 'Pasadena',
@@ -5914,7 +5887,7 @@ return array (
     'latitude' => 49.01671,
     'longitude' => -57.59837,
   ),
-  657 => 
+  654 => 
   array (
     'id' => 16803,
     'name' => 'Peace River',
@@ -5923,7 +5896,7 @@ return array (
     'latitude' => 56.23715,
     'longitude' => -117.29176,
   ),
-  658 => 
+  655 => 
   array (
     'id' => 16804,
     'name' => 'Peace River Regional District',
@@ -5932,7 +5905,7 @@ return array (
     'latitude' => 56.6665,
     'longitude' => -122.75302,
   ),
-  659 => 
+  656 => 
   array (
     'id' => 16805,
     'name' => 'Peachland',
@@ -5941,7 +5914,7 @@ return array (
     'latitude' => 49.76647,
     'longitude' => -119.73568,
   ),
-  660 => 
+  657 => 
   array (
     'id' => 16806,
     'name' => 'Peel',
@@ -5950,7 +5923,7 @@ return array (
     'latitude' => 43.75011,
     'longitude' => -79.78293,
   ),
-  661 => 
+  658 => 
   array (
     'id' => 16807,
     'name' => 'Pelican Narrows',
@@ -5959,7 +5932,7 @@ return array (
     'latitude' => 55.16685,
     'longitude' => -102.9341,
   ),
-  662 => 
+  659 => 
   array (
     'id' => 16808,
     'name' => 'Pemberton',
@@ -5968,7 +5941,7 @@ return array (
     'latitude' => 50.31641,
     'longitude' => -122.80273,
   ),
-  663 => 
+  660 => 
   array (
     'id' => 16809,
     'name' => 'Pembroke',
@@ -5977,7 +5950,7 @@ return array (
     'latitude' => 45.81681,
     'longitude' => -77.11616,
   ),
-  664 => 
+  661 => 
   array (
     'id' => 16810,
     'name' => 'Penhold',
@@ -5986,7 +5959,7 @@ return array (
     'latitude' => 52.13342,
     'longitude' => -113.8687,
   ),
-  665 => 
+  662 => 
   array (
     'id' => 16811,
     'name' => 'Penticton',
@@ -5995,7 +5968,7 @@ return array (
     'latitude' => 49.48062,
     'longitude' => -119.58584,
   ),
-  666 => 
+  663 => 
   array (
     'id' => 16812,
     'name' => 'Perth',
@@ -6004,7 +5977,7 @@ return array (
     'latitude' => 44.90011,
     'longitude' => -76.24939,
   ),
-  667 => 
+  664 => 
   array (
     'id' => 16813,
     'name' => 'Petawawa',
@@ -6013,7 +5986,7 @@ return array (
     'latitude' => 45.89452,
     'longitude' => -77.28007,
   ),
-  668 => 
+  665 => 
   array (
     'id' => 16814,
     'name' => 'Peterborough',
@@ -6022,7 +5995,7 @@ return array (
     'latitude' => 44.30012,
     'longitude' => -78.31623,
   ),
-  669 => 
+  666 => 
   array (
     'id' => 16815,
     'name' => 'Petrolia',
@@ -6031,7 +6004,7 @@ return array (
     'latitude' => 42.86678,
     'longitude' => -82.14981,
   ),
-  670 => 
+  667 => 
   array (
     'id' => 16816,
     'name' => 'Pickering',
@@ -6040,7 +6013,7 @@ return array (
     'latitude' => 43.90012,
     'longitude' => -79.13289,
   ),
-  671 => 
+  668 => 
   array (
     'id' => 16817,
     'name' => 'Picton',
@@ -6049,7 +6022,7 @@ return array (
     'latitude' => 44.00012,
     'longitude' => -77.13275,
   ),
-  672 => 
+  669 => 
   array (
     'id' => 16818,
     'name' => 'Pictou',
@@ -6058,7 +6031,7 @@ return array (
     'latitude' => 45.67875,
     'longitude' => -62.70936,
   ),
-  673 => 
+  670 => 
   array (
     'id' => 16819,
     'name' => 'Pictou County',
@@ -6067,7 +6040,7 @@ return array (
     'latitude' => 45.50015,
     'longitude' => -62.58193,
   ),
-  674 => 
+  671 => 
   array (
     'id' => 16820,
     'name' => 'Picture Butte',
@@ -6076,7 +6049,7 @@ return array (
     'latitude' => 49.8833,
     'longitude' => -112.78516,
   ),
-  675 => 
+  672 => 
   array (
     'id' => 16821,
     'name' => 'Piedmont',
@@ -6085,7 +6058,7 @@ return array (
     'latitude' => 45.90008,
     'longitude' => -74.13251,
   ),
-  676 => 
+  673 => 
   array (
     'id' => 16822,
     'name' => 'Pierreville',
@@ -6094,7 +6067,7 @@ return array (
     'latitude' => 46.07034,
     'longitude' => -72.81125,
   ),
-  677 => 
+  674 => 
   array (
     'id' => 16823,
     'name' => 'Pilot Butte',
@@ -6103,7 +6076,7 @@ return array (
     'latitude' => 50.46678,
     'longitude' => -104.41778,
   ),
-  678 => 
+  675 => 
   array (
     'id' => 16824,
     'name' => 'Pincher Creek',
@@ -6112,7 +6085,7 @@ return array (
     'latitude' => 49.48328,
     'longitude' => -113.95195,
   ),
-  679 => 
+  676 => 
   array (
     'id' => 16825,
     'name' => 'Pincourt',
@@ -6121,7 +6094,7 @@ return array (
     'latitude' => 45.38338,
     'longitude' => -73.9825,
   ),
-  680 => 
+  677 => 
   array (
     'id' => 16826,
     'name' => 'Pitt Meadows',
@@ -6130,7 +6103,7 @@ return array (
     'latitude' => 49.22119,
     'longitude' => -122.68965,
   ),
-  681 => 
+  678 => 
   array (
     'id' => 16827,
     'name' => 'Plantagenet',
@@ -6139,7 +6112,7 @@ return array (
     'latitude' => 45.5326,
     'longitude' => -74.99369,
   ),
-  682 => 
+  679 => 
   array (
     'id' => 16828,
     'name' => 'Plattsville',
@@ -6148,7 +6121,7 @@ return array (
     'latitude' => 43.3001,
     'longitude' => -80.61639,
   ),
-  683 => 
+  680 => 
   array (
     'id' => 16829,
     'name' => 'Plessisville',
@@ -6157,7 +6130,7 @@ return array (
     'latitude' => 46.21856,
     'longitude' => -71.76201,
   ),
-  684 => 
+  681 => 
   array (
     'id' => 16830,
     'name' => 'Pohénégamook',
@@ -6166,7 +6139,7 @@ return array (
     'latitude' => 47.46315,
     'longitude' => -69.22666,
   ),
-  685 => 
+  682 => 
   array (
     'id' => 16831,
     'name' => 'Pointe-Calumet',
@@ -6175,7 +6148,7 @@ return array (
     'latitude' => 45.50008,
     'longitude' => -73.9659,
   ),
-  686 => 
+  683 => 
   array (
     'id' => 16832,
     'name' => 'Pointe-Claire',
@@ -6184,7 +6157,7 @@ return array (
     'latitude' => 45.44868,
     'longitude' => -73.81669,
   ),
-  687 => 
+  684 => 
   array (
     'id' => 16833,
     'name' => 'Pointe-du-Lac',
@@ -6193,7 +6166,7 @@ return array (
     'latitude' => 48.50009,
     'longitude' => -71.78241,
   ),
-  688 => 
+  685 => 
   array (
     'id' => 16834,
     'name' => 'Ponoka',
@@ -6202,7 +6175,7 @@ return array (
     'latitude' => 52.6768,
     'longitude' => -113.58147,
   ),
-  689 => 
+  686 => 
   array (
     'id' => 16835,
     'name' => 'Pont Rouge',
@@ -6211,7 +6184,7 @@ return array (
     'latitude' => 48.88332,
     'longitude' => -72.08247,
   ),
-  690 => 
+  687 => 
   array (
     'id' => 16836,
     'name' => 'Pont-Rouge',
@@ -6220,7 +6193,7 @@ return array (
     'latitude' => 46.75468,
     'longitude' => -71.69566,
   ),
-  691 => 
+  688 => 
   array (
     'id' => 16837,
     'name' => 'Port Alberni',
@@ -6229,7 +6202,7 @@ return array (
     'latitude' => 49.24133,
     'longitude' => -124.8028,
   ),
-  692 => 
+  689 => 
   array (
     'id' => 16838,
     'name' => 'Port Colborne',
@@ -6238,7 +6211,7 @@ return array (
     'latitude' => 42.90012,
     'longitude' => -79.23288,
   ),
-  693 => 
+  690 => 
   array (
     'id' => 16839,
     'name' => 'Port Coquitlam',
@@ -6247,7 +6220,7 @@ return array (
     'latitude' => 49.26637,
     'longitude' => -122.76932,
   ),
-  694 => 
+  691 => 
   array (
     'id' => 16840,
     'name' => 'Port Hawkesbury',
@@ -6256,7 +6229,7 @@ return array (
     'latitude' => 45.61685,
     'longitude' => -61.34853,
   ),
-  695 => 
+  692 => 
   array (
     'id' => 16841,
     'name' => 'Port Hope',
@@ -6265,7 +6238,7 @@ return array (
     'latitude' => 44.01682,
     'longitude' => -78.39953,
   ),
-  696 => 
+  693 => 
   array (
     'id' => 16842,
     'name' => 'Port McNeill',
@@ -6274,7 +6247,7 @@ return array (
     'latitude' => 50.58716,
     'longitude' => -127.08053,
   ),
-  697 => 
+  694 => 
   array (
     'id' => 16843,
     'name' => 'Port Moody',
@@ -6283,7 +6256,7 @@ return array (
     'latitude' => 49.28124,
     'longitude' => -122.82457,
   ),
-  698 => 
+  695 => 
   array (
     'id' => 16844,
     'name' => 'Port Rowan',
@@ -6292,7 +6265,7 @@ return array (
     'latitude' => 42.6168,
     'longitude' => -80.46638,
   ),
-  699 => 
+  696 => 
   array (
     'id' => 16845,
     'name' => 'Port Stanley',
@@ -6301,7 +6274,7 @@ return array (
     'latitude' => 42.66679,
     'longitude' => -81.21644,
   ),
-  700 => 
+  697 => 
   array (
     'id' => 16846,
     'name' => 'Port Williams',
@@ -6310,7 +6283,7 @@ return array (
     'latitude' => 45.10015,
     'longitude' => -64.41546,
   ),
-  701 => 
+  698 => 
   array (
     'id' => 16847,
     'name' => 'Port-Cartier',
@@ -6319,7 +6292,7 @@ return array (
     'latitude' => 50.03339,
     'longitude' => -66.86545,
   ),
-  702 => 
+  699 => 
   array (
     'id' => 16848,
     'name' => 'Portage la Prairie',
@@ -6328,7 +6301,7 @@ return array (
     'latitude' => 49.97282,
     'longitude' => -98.29263,
   ),
-  703 => 
+  700 => 
   array (
     'id' => 16849,
     'name' => 'Portneuf',
@@ -6337,7 +6310,7 @@ return array (
     'latitude' => 46.69058,
     'longitude' => -71.89011,
   ),
-  704 => 
+  701 => 
   array (
     'id' => 16850,
     'name' => 'Powassan',
@@ -6346,7 +6319,7 @@ return array (
     'latitude' => 46.0334,
     'longitude' => -79.34961,
   ),
-  705 => 
+  702 => 
   array (
     'id' => 16851,
     'name' => 'Powell River',
@@ -6355,7 +6328,7 @@ return array (
     'latitude' => 49.83278,
     'longitude' => -124.52368,
   ),
-  706 => 
+  703 => 
   array (
     'id' => 16852,
     'name' => 'Preeceville',
@@ -6364,7 +6337,7 @@ return array (
     'latitude' => 51.94998,
     'longitude' => -102.66766,
   ),
-  707 => 
+  704 => 
   array (
     'id' => 16853,
     'name' => 'Prescott',
@@ -6373,7 +6346,7 @@ return array (
     'latitude' => 44.71681,
     'longitude' => -75.51604,
   ),
-  708 => 
+  705 => 
   array (
     'id' => 16854,
     'name' => 'Prince Albert',
@@ -6382,7 +6355,7 @@ return array (
     'latitude' => 53.20008,
     'longitude' => -105.76772,
   ),
-  709 => 
+  706 => 
   array (
     'id' => 16855,
     'name' => 'Prince Edward',
@@ -6391,7 +6364,7 @@ return array (
     'latitude' => 44.00012,
     'longitude' => -77.24946,
   ),
-  710 => 
+  707 => 
   array (
     'id' => 16856,
     'name' => 'Prince George',
@@ -6400,7 +6373,7 @@ return array (
     'latitude' => 53.9166,
     'longitude' => -122.75301,
   ),
-  711 => 
+  708 => 
   array (
     'id' => 16857,
     'name' => 'Prince Rupert',
@@ -6409,7 +6382,7 @@ return array (
     'latitude' => 54.31507,
     'longitude' => -130.32098,
   ),
-  712 => 
+  709 => 
   array (
     'id' => 16858,
     'name' => 'Princeton',
@@ -6418,7 +6391,7 @@ return array (
     'latitude' => 49.45802,
     'longitude' => -120.51076,
   ),
-  713 => 
+  710 => 
   array (
     'id' => 16859,
     'name' => 'Princeville',
@@ -6427,16 +6400,7 @@ return array (
     'latitude' => 45.76684,
     'longitude' => -61.29853,
   ),
-  714 => 
-  array (
-    'id' => 16860,
-    'name' => 'Princeville',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 46.17163,
-    'longitude' => -71.87462,
-  ),
-  715 => 
+  711 => 
   array (
     'id' => 16861,
     'name' => 'Provost',
@@ -6445,7 +6409,7 @@ return array (
     'latitude' => 52.35014,
     'longitude' => -110.26828,
   ),
-  716 => 
+  712 => 
   array (
     'id' => 16862,
     'name' => 'Prévost',
@@ -6454,7 +6418,7 @@ return array (
     'latitude' => 45.86678,
     'longitude' => -74.08251,
   ),
-  717 => 
+  713 => 
   array (
     'id' => 16863,
     'name' => 'Puntledge',
@@ -6463,7 +6427,7 @@ return array (
     'latitude' => 49.66168,
     'longitude' => -125.05686,
   ),
-  718 => 
+  714 => 
   array (
     'id' => 16864,
     'name' => 'Queenswood Heights',
@@ -6472,7 +6436,7 @@ return array (
     'latitude' => 45.47083,
     'longitude' => -75.50556,
   ),
-  719 => 
+  715 => 
   array (
     'id' => 16865,
     'name' => 'Quesnel',
@@ -6481,7 +6445,7 @@ return array (
     'latitude' => 52.97842,
     'longitude' => -122.4931,
   ),
-  720 => 
+  716 => 
   array (
     'id' => 16866,
     'name' => 'Quinte West',
@@ -6490,7 +6454,7 @@ return array (
     'latitude' => 44.18342,
     'longitude' => -77.56618,
   ),
-  721 => 
+  717 => 
   array (
     'id' => 16867,
     'name' => 'Québec',
@@ -6499,7 +6463,7 @@ return array (
     'latitude' => 46.81228,
     'longitude' => -71.21454,
   ),
-  722 => 
+  718 => 
   array (
     'id' => 16868,
     'name' => 'Rainy River District',
@@ -6508,7 +6472,7 @@ return array (
     'latitude' => 48.49981,
     'longitude' => -92.50031,
   ),
-  723 => 
+  719 => 
   array (
     'id' => 16869,
     'name' => 'Rankin Inlet',
@@ -6517,7 +6481,7 @@ return array (
     'latitude' => 62.80906,
     'longitude' => -92.08534,
   ),
-  724 => 
+  720 => 
   array (
     'id' => 16870,
     'name' => 'Rawdon',
@@ -6526,7 +6490,7 @@ return array (
     'latitude' => 46.05007,
     'longitude' => -73.71587,
   ),
-  725 => 
+  721 => 
   array (
     'id' => 16871,
     'name' => 'Raymond',
@@ -6535,7 +6499,7 @@ return array (
     'latitude' => 49.44998,
     'longitude' => -112.65185,
   ),
-  726 => 
+  722 => 
   array (
     'id' => 16872,
     'name' => 'Rayside-Balfour',
@@ -6544,7 +6508,7 @@ return array (
     'latitude' => 46.60873,
     'longitude' => -81.20763,
   ),
-  727 => 
+  723 => 
   array (
     'id' => 16873,
     'name' => 'Red Deer',
@@ -6553,7 +6517,7 @@ return array (
     'latitude' => 52.26682,
     'longitude' => -113.802,
   ),
-  728 => 
+  724 => 
   array (
     'id' => 16874,
     'name' => 'Red Lake',
@@ -6562,7 +6526,7 @@ return array (
     'latitude' => 51.01678,
     'longitude' => -93.82736,
   ),
-  729 => 
+  725 => 
   array (
     'id' => 16875,
     'name' => 'Regina',
@@ -6571,7 +6535,7 @@ return array (
     'latitude' => 50.45008,
     'longitude' => -104.6178,
   ),
-  730 => 
+  726 => 
   array (
     'id' => 16876,
     'name' => 'Regina Beach',
@@ -6580,7 +6544,7 @@ return array (
     'latitude' => 50.78338,
     'longitude' => -105.00112,
   ),
-  731 => 
+  727 => 
   array (
     'id' => 16877,
     'name' => 'Regional District of Alberni-Clayoquot',
@@ -6589,7 +6553,7 @@ return array (
     'latitude' => 49.24962,
     'longitude' => -125.33615,
   ),
-  732 => 
+  728 => 
   array (
     'id' => 16878,
     'name' => 'Regional District of Central Okanagan',
@@ -6598,7 +6562,7 @@ return array (
     'latitude' => 49.99978,
     'longitude' => -119.41908,
   ),
-  733 => 
+  729 => 
   array (
     'id' => 16879,
     'name' => 'Regional Municipality of Waterloo',
@@ -6607,7 +6571,7 @@ return array (
     'latitude' => 43.5001,
     'longitude' => -80.49969,
   ),
-  734 => 
+  730 => 
   array (
     'id' => 16880,
     'name' => 'Renfrew',
@@ -6616,7 +6580,7 @@ return array (
     'latitude' => 45.46681,
     'longitude' => -76.68272,
   ),
-  735 => 
+  731 => 
   array (
     'id' => 16881,
     'name' => 'Repentigny',
@@ -6625,7 +6589,7 @@ return array (
     'latitude' => 45.74222,
     'longitude' => -73.45008,
   ),
-  736 => 
+  732 => 
   array (
     'id' => 16882,
     'name' => 'Revelstoke',
@@ -6634,7 +6598,7 @@ return array (
     'latitude' => 50.99712,
     'longitude' => -118.1953,
   ),
-  737 => 
+  733 => 
   array (
     'id' => 16883,
     'name' => 'Richelieu',
@@ -6643,7 +6607,7 @@ return array (
     'latitude' => 45.44336,
     'longitude' => -73.24602,
   ),
-  738 => 
+  734 => 
   array (
     'id' => 16884,
     'name' => 'Richibucto',
@@ -6652,7 +6616,7 @@ return array (
     'latitude' => 46.68073,
     'longitude' => -64.88044,
   ),
-  739 => 
+  735 => 
   array (
     'id' => 16885,
     'name' => 'Richmond',
@@ -6661,25 +6625,7 @@ return array (
     'latitude' => 49.17003,
     'longitude' => -123.13683,
   ),
-  740 => 
-  array (
-    'id' => 16886,
-    'name' => 'Richmond',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 45.66677,
-    'longitude' => -72.1491,
-  ),
-  741 => 
-  array (
-    'id' => 16887,
-    'name' => 'Richmond',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 45.1834,
-    'longitude' => -75.83266,
-  ),
-  742 => 
+  736 => 
   array (
     'id' => 16888,
     'name' => 'Richmond Hill',
@@ -6688,7 +6634,7 @@ return array (
     'latitude' => 43.87111,
     'longitude' => -79.43725,
   ),
-  743 => 
+  737 => 
   array (
     'id' => 16889,
     'name' => 'Rideau Park',
@@ -6697,7 +6643,7 @@ return array (
     'latitude' => 53.47899,
     'longitude' => -113.5047,
   ),
-  744 => 
+  738 => 
   array (
     'id' => 16890,
     'name' => 'Ridgetown',
@@ -6706,7 +6652,7 @@ return array (
     'latitude' => 42.43339,
     'longitude' => -81.89978,
   ),
-  745 => 
+  739 => 
   array (
     'id' => 16891,
     'name' => 'Rigaud',
@@ -6715,7 +6661,7 @@ return array (
     'latitude' => 45.47927,
     'longitude' => -74.30238,
   ),
-  746 => 
+  740 => 
   array (
     'id' => 16892,
     'name' => 'Rimbey',
@@ -6724,7 +6670,7 @@ return array (
     'latitude' => 52.6334,
     'longitude' => -114.23532,
   ),
-  747 => 
+  741 => 
   array (
     'id' => 16893,
     'name' => 'Rimouski',
@@ -6733,7 +6679,7 @@ return array (
     'latitude' => 48.44879,
     'longitude' => -68.52396,
   ),
-  748 => 
+  742 => 
   array (
     'id' => 16894,
     'name' => 'Rivers',
@@ -6742,7 +6688,7 @@ return array (
     'latitude' => 50.03081,
     'longitude' => -100.24029,
   ),
-  749 => 
+  743 => 
   array (
     'id' => 16895,
     'name' => 'Rivière-Rouge',
@@ -6751,7 +6697,7 @@ return array (
     'latitude' => 46.41679,
     'longitude' => -74.86596,
   ),
-  750 => 
+  744 => 
   array (
     'id' => 16896,
     'name' => 'Rivière-du-Loup',
@@ -6760,7 +6706,7 @@ return array (
     'latitude' => 47.82699,
     'longitude' => -69.54243,
   ),
-  751 => 
+  745 => 
   array (
     'id' => 16897,
     'name' => 'Roberval',
@@ -6769,7 +6715,7 @@ return array (
     'latitude' => 48.5168,
     'longitude' => -72.23244,
   ),
-  752 => 
+  746 => 
   array (
     'id' => 16898,
     'name' => 'Roblin',
@@ -6778,7 +6724,7 @@ return array (
     'latitude' => 51.22999,
     'longitude' => -101.3565,
   ),
-  753 => 
+  747 => 
   array (
     'id' => 16899,
     'name' => 'Rock Forest',
@@ -6787,7 +6733,7 @@ return array (
     'latitude' => 45.35699,
     'longitude' => -71.99676,
   ),
-  754 => 
+  748 => 
   array (
     'id' => 16900,
     'name' => 'Rockwood',
@@ -6796,7 +6742,7 @@ return array (
     'latitude' => 43.61899,
     'longitude' => -80.14441,
   ),
-  755 => 
+  749 => 
   array (
     'id' => 16901,
     'name' => 'Rocky Mountain House',
@@ -6805,7 +6751,7 @@ return array (
     'latitude' => 52.36683,
     'longitude' => -114.9188,
   ),
-  756 => 
+  750 => 
   array (
     'id' => 16902,
     'name' => 'Rosemère',
@@ -6814,7 +6760,7 @@ return array (
     'latitude' => 45.63338,
     'longitude' => -73.79919,
   ),
-  757 => 
+  751 => 
   array (
     'id' => 16903,
     'name' => 'Rosetown',
@@ -6823,7 +6769,7 @@ return array (
     'latitude' => 51.5501,
     'longitude' => -108.00136,
   ),
-  758 => 
+  752 => 
   array (
     'id' => 16904,
     'name' => 'Rossland',
@@ -6832,7 +6778,7 @@ return array (
     'latitude' => 49.08313,
     'longitude' => -117.80224,
   ),
-  759 => 
+  753 => 
   array (
     'id' => 16905,
     'name' => 'Rosthern',
@@ -6841,7 +6787,7 @@ return array (
     'latitude' => 52.66679,
     'longitude' => -106.33446,
   ),
-  760 => 
+  754 => 
   array (
     'id' => 16906,
     'name' => 'Rougemont',
@@ -6850,7 +6796,7 @@ return array (
     'latitude' => 45.43338,
     'longitude' => -73.04914,
   ),
-  761 => 
+  755 => 
   array (
     'id' => 16907,
     'name' => 'Rouyn-Noranda',
@@ -6859,7 +6805,7 @@ return array (
     'latitude' => 48.23656,
     'longitude' => -79.02311,
   ),
-  762 => 
+  756 => 
   array (
     'id' => 16908,
     'name' => 'Royston',
@@ -6868,7 +6814,7 @@ return array (
     'latitude' => 49.64703,
     'longitude' => -124.9467,
   ),
-  763 => 
+  757 => 
   array (
     'id' => 16909,
     'name' => 'Russell',
@@ -6877,7 +6823,7 @@ return array (
     'latitude' => 45.2501,
     'longitude' => -75.36602,
   ),
-  764 => 
+  758 => 
   array (
     'id' => 16910,
     'name' => 'Sackville',
@@ -6886,7 +6832,7 @@ return array (
     'latitude' => 45.91875,
     'longitude' => -64.38455,
   ),
-  765 => 
+  759 => 
   array (
     'id' => 16911,
     'name' => 'Sacré-Coeur',
@@ -6895,7 +6841,7 @@ return array (
     'latitude' => 48.2297,
     'longitude' => -69.80061,
   ),
-  766 => 
+  760 => 
   array (
     'id' => 16912,
     'name' => 'Saguenay',
@@ -6904,7 +6850,7 @@ return array (
     'latitude' => 48.41675,
     'longitude' => -71.06573,
   ),
-  767 => 
+  761 => 
   array (
     'id' => 16913,
     'name' => 'Saint Andrews',
@@ -6913,7 +6859,7 @@ return array (
     'latitude' => 45.0737,
     'longitude' => -67.05312,
   ),
-  768 => 
+  762 => 
   array (
     'id' => 16914,
     'name' => 'Saint John',
@@ -6922,7 +6868,7 @@ return array (
     'latitude' => 45.27271,
     'longitude' => -66.06766,
   ),
-  769 => 
+  763 => 
   array (
     'id' => 16915,
     'name' => 'Saint-Adolphe-d\\\'Howard',
@@ -6931,7 +6877,7 @@ return array (
     'latitude' => 45.96679,
     'longitude' => -74.33253,
   ),
-  770 => 
+  764 => 
   array (
     'id' => 16916,
     'name' => 'Saint-Alexandre',
@@ -6940,7 +6886,7 @@ return array (
     'latitude' => 45.5001,
     'longitude' => -75.74935,
   ),
-  771 => 
+  765 => 
   array (
     'id' => 16917,
     'name' => 'Saint-Amable',
@@ -6949,7 +6895,7 @@ return array (
     'latitude' => 45.65008,
     'longitude' => -73.29916,
   ),
-  772 => 
+  766 => 
   array (
     'id' => 16918,
     'name' => 'Saint-Ambroise',
@@ -6958,7 +6904,7 @@ return array (
     'latitude' => 48.55009,
     'longitude' => -71.33238,
   ),
-  773 => 
+  767 => 
   array (
     'id' => 16919,
     'name' => 'Saint-André-Avellin',
@@ -6967,7 +6913,7 @@ return array (
     'latitude' => 45.7168,
     'longitude' => -75.06599,
   ),
-  774 => 
+  768 => 
   array (
     'id' => 16920,
     'name' => 'Saint-Anselme',
@@ -6976,7 +6922,7 @@ return array (
     'latitude' => 46.62922,
     'longitude' => -70.9734,
   ),
-  775 => 
+  769 => 
   array (
     'id' => 16921,
     'name' => 'Saint-Antoine',
@@ -6985,7 +6931,7 @@ return array (
     'latitude' => 46.36294,
     'longitude' => -64.74985,
   ),
-  776 => 
+  770 => 
   array (
     'id' => 16922,
     'name' => 'Saint-Antoine-de-Tilly',
@@ -6994,7 +6940,7 @@ return array (
     'latitude' => 46.66346,
     'longitude' => -71.57335,
   ),
-  777 => 
+  771 => 
   array (
     'id' => 16923,
     'name' => 'Saint-Augustin',
@@ -7003,7 +6949,7 @@ return array (
     'latitude' => 51.22602,
     'longitude' => -58.65017,
   ),
-  778 => 
+  772 => 
   array (
     'id' => 16924,
     'name' => 'Saint-Augustin-de-Desmaures',
@@ -7012,7 +6958,7 @@ return array (
     'latitude' => 46.74064,
     'longitude' => -71.45131,
   ),
-  779 => 
+  773 => 
   array (
     'id' => 16925,
     'name' => 'Saint-Barnabé-Sud',
@@ -7021,7 +6967,7 @@ return array (
     'latitude' => 45.72977,
     'longitude' => -72.92244,
   ),
-  780 => 
+  774 => 
   array (
     'id' => 16926,
     'name' => 'Saint-Basile-le-Grand',
@@ -7030,7 +6976,7 @@ return array (
     'latitude' => 45.53338,
     'longitude' => -73.28246,
   ),
-  781 => 
+  775 => 
   array (
     'id' => 16927,
     'name' => 'Saint-Boniface',
@@ -7039,7 +6985,7 @@ return array (
     'latitude' => 46.50011,
     'longitude' => -75.98264,
   ),
-  782 => 
+  776 => 
   array (
     'id' => 16928,
     'name' => 'Saint-Bruno',
@@ -7048,7 +6994,7 @@ return array (
     'latitude' => 48.46679,
     'longitude' => -71.6491,
   ),
-  783 => 
+  777 => 
   array (
     'id' => 16929,
     'name' => 'Saint-Bruno-de-Guigues',
@@ -7057,7 +7003,7 @@ return array (
     'latitude' => 47.46685,
     'longitude' => -79.43296,
   ),
-  784 => 
+  778 => 
   array (
     'id' => 16930,
     'name' => 'Saint-Bruno-de-Montarville',
@@ -7066,7 +7012,7 @@ return array (
     'latitude' => 45.53341,
     'longitude' => -73.34916,
   ),
-  785 => 
+  779 => 
   array (
     'id' => 16931,
     'name' => 'Saint-Canut',
@@ -7075,7 +7021,7 @@ return array (
     'latitude' => 45.71502,
     'longitude' => -74.08376,
   ),
-  786 => 
+  780 => 
   array (
     'id' => 16932,
     'name' => 'Saint-Charles',
@@ -7084,7 +7030,7 @@ return array (
     'latitude' => 45.70288,
     'longitude' => -73.55417,
   ),
-  787 => 
+  781 => 
   array (
     'id' => 16933,
     'name' => 'Saint-Constant',
@@ -7093,7 +7039,7 @@ return array (
     'latitude' => 45.36678,
     'longitude' => -73.56588,
   ),
-  788 => 
+  782 => 
   array (
     'id' => 16934,
     'name' => 'Saint-Cyrille-de-Wendover',
@@ -7102,7 +7048,7 @@ return array (
     'latitude' => 45.93336,
     'longitude' => -72.43241,
   ),
-  789 => 
+  783 => 
   array (
     'id' => 16935,
     'name' => 'Saint-Césaire',
@@ -7111,7 +7057,7 @@ return array (
     'latitude' => 45.41678,
     'longitude' => -72.99914,
   ),
-  790 => 
+  784 => 
   array (
     'id' => 16936,
     'name' => 'Saint-Côme-Linière',
@@ -7120,7 +7066,7 @@ return array (
     'latitude' => 46.06677,
     'longitude' => -70.51573,
   ),
-  791 => 
+  785 => 
   array (
     'id' => 16937,
     'name' => 'Saint-Damase',
@@ -7129,7 +7075,7 @@ return array (
     'latitude' => 45.53341,
     'longitude' => -72.99914,
   ),
-  792 => 
+  786 => 
   array (
     'id' => 16938,
     'name' => 'Saint-Denis-sur-Richelieu',
@@ -7138,7 +7084,7 @@ return array (
     'latitude' => 45.78338,
     'longitude' => -73.14915,
   ),
-  793 => 
+  787 => 
   array (
     'id' => 16939,
     'name' => 'Saint-Donat-de-Montcalm',
@@ -7147,7 +7093,7 @@ return array (
     'latitude' => 46.31868,
     'longitude' => -74.22171,
   ),
-  794 => 
+  788 => 
   array (
     'id' => 16940,
     'name' => 'Saint-Elzéar',
@@ -7156,7 +7102,7 @@ return array (
     'latitude' => 45.60338,
     'longitude' => -73.72698,
   ),
-  795 => 
+  789 => 
   array (
     'id' => 16941,
     'name' => 'Saint-Eustache',
@@ -7165,7 +7111,7 @@ return array (
     'latitude' => 45.565,
     'longitude' => -73.90554,
   ),
-  796 => 
+  790 => 
   array (
     'id' => 16942,
     'name' => 'Saint-Félicien',
@@ -7174,7 +7120,7 @@ return array (
     'latitude' => 48.65007,
     'longitude' => -72.44906,
   ),
-  797 => 
+  791 => 
   array (
     'id' => 16943,
     'name' => 'Saint-Félix-de-Valois',
@@ -7183,7 +7129,7 @@ return array (
     'latitude' => 46.16977,
     'longitude' => -73.42525,
   ),
-  798 => 
+  792 => 
   array (
     'id' => 16944,
     'name' => 'Saint-Gabriel',
@@ -7192,7 +7138,7 @@ return array (
     'latitude' => 46.30007,
     'longitude' => -73.38245,
   ),
-  799 => 
+  793 => 
   array (
     'id' => 16945,
     'name' => 'Saint-Georges',
@@ -7201,7 +7147,7 @@ return array (
     'latitude' => 46.11353,
     'longitude' => -70.66526,
   ),
-  800 => 
+  794 => 
   array (
     'id' => 16946,
     'name' => 'Saint-Germain-de-Grantham',
@@ -7210,7 +7156,7 @@ return array (
     'latitude' => 45.83337,
     'longitude' => -72.56582,
   ),
-  801 => 
+  795 => 
   array (
     'id' => 16947,
     'name' => 'Saint-Gédéon',
@@ -7219,7 +7165,7 @@ return array (
     'latitude' => 48.50009,
     'longitude' => -71.76581,
   ),
-  802 => 
+  796 => 
   array (
     'id' => 16948,
     'name' => 'Saint-Henri',
@@ -7228,7 +7174,7 @@ return array (
     'latitude' => 46.69314,
     'longitude' => -71.06927,
   ),
-  803 => 
+  797 => 
   array (
     'id' => 16949,
     'name' => 'Saint-Hippolyte',
@@ -7237,7 +7183,7 @@ return array (
     'latitude' => 45.93338,
     'longitude' => -74.0159,
   ),
-  804 => 
+  798 => 
   array (
     'id' => 16950,
     'name' => 'Saint-Honoré',
@@ -7246,7 +7192,7 @@ return array (
     'latitude' => 48.53338,
     'longitude' => -71.08236,
   ),
-  805 => 
+  799 => 
   array (
     'id' => 16951,
     'name' => 'Saint-Hyacinthe',
@@ -7255,7 +7201,7 @@ return array (
     'latitude' => 45.63076,
     'longitude' => -72.95699,
   ),
-  806 => 
+  800 => 
   array (
     'id' => 16952,
     'name' => 'Saint-Isidore',
@@ -7264,7 +7210,7 @@ return array (
     'latitude' => 47.43345,
     'longitude' => -79.29965,
   ),
-  807 => 
+  801 => 
   array (
     'id' => 16953,
     'name' => 'Saint-Jacques-le-Mineur',
@@ -7273,7 +7219,7 @@ return array (
     'latitude' => 45.28338,
     'longitude' => -73.41587,
   ),
-  808 => 
+  802 => 
   array (
     'id' => 16954,
     'name' => 'Saint-Jean-Baptiste',
@@ -7282,7 +7228,7 @@ return array (
     'latitude' => 45.3806,
     'longitude' => -74.0121,
   ),
-  809 => 
+  803 => 
   array (
     'id' => 16955,
     'name' => 'Saint-Jean-sur-Richelieu',
@@ -7291,7 +7237,7 @@ return array (
     'latitude' => 45.30713,
     'longitude' => -73.26259,
   ),
-  810 => 
+  804 => 
   array (
     'id' => 16956,
     'name' => 'Saint-Joseph',
@@ -7300,7 +7246,7 @@ return array (
     'latitude' => 45.95817,
     'longitude' => -73.22025,
   ),
-  811 => 
+  805 => 
   array (
     'id' => 16957,
     'name' => 'Saint-Joseph-de-Beauce',
@@ -7309,7 +7255,7 @@ return array (
     'latitude' => 46.3,
     'longitude' => -70.86667,
   ),
-  812 => 
+  806 => 
   array (
     'id' => 16958,
     'name' => 'Saint-Joseph-de-Coleraine',
@@ -7318,7 +7264,7 @@ return array (
     'latitude' => 45.96677,
     'longitude' => -71.36577,
   ),
-  813 => 
+  807 => 
   array (
     'id' => 16959,
     'name' => 'Saint-Joseph-du-Lac',
@@ -7327,7 +7273,7 @@ return array (
     'latitude' => 45.53338,
     'longitude' => -73.9992,
   ),
-  814 => 
+  808 => 
   array (
     'id' => 16960,
     'name' => 'Saint-Jérôme',
@@ -7336,7 +7282,7 @@ return array (
     'latitude' => 45.78036,
     'longitude' => -74.00365,
   ),
-  815 => 
+  809 => 
   array (
     'id' => 16961,
     'name' => 'Saint-Lambert-de-Lauzon',
@@ -7345,7 +7291,7 @@ return array (
     'latitude' => 46.58624,
     'longitude' => -71.20892,
   ),
-  816 => 
+  810 => 
   array (
     'id' => 16962,
     'name' => 'Saint-Laurent',
@@ -7354,7 +7300,7 @@ return array (
     'latitude' => 45.50008,
     'longitude' => -73.66585,
   ),
-  817 => 
+  811 => 
   array (
     'id' => 16963,
     'name' => 'Saint-Lazare',
@@ -7363,7 +7309,7 @@ return array (
     'latitude' => 45.40008,
     'longitude' => -74.13256,
   ),
-  818 => 
+  812 => 
   array (
     'id' => 16964,
     'name' => 'Saint-Liboire',
@@ -7372,7 +7318,7 @@ return array (
     'latitude' => 45.65068,
     'longitude' => -72.76348,
   ),
-  819 => 
+  813 => 
   array (
     'id' => 16965,
     'name' => 'Saint-Lin-Laurentides',
@@ -7381,7 +7327,7 @@ return array (
     'latitude' => 45.85008,
     'longitude' => -73.76588,
   ),
-  820 => 
+  814 => 
   array (
     'id' => 16966,
     'name' => 'Saint-Léonard',
@@ -7390,16 +7336,7 @@ return array (
     'latitude' => 45.58773,
     'longitude' => -73.59501,
   ),
-  821 => 
-  array (
-    'id' => 16967,
-    'name' => 'Saint-Léonard',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 47.16317,
-    'longitude' => -67.9246,
-  ),
-  822 => 
+  815 => 
   array (
     'id' => 16968,
     'name' => 'Saint-Léonard-d\\\'Aston',
@@ -7408,7 +7345,7 @@ return array (
     'latitude' => 46.10006,
     'longitude' => -72.3658,
   ),
-  823 => 
+  816 => 
   array (
     'id' => 16969,
     'name' => 'Saint-Marc-des-Carrières',
@@ -7417,7 +7354,7 @@ return array (
     'latitude' => 46.68335,
     'longitude' => -72.0491,
   ),
-  824 => 
+  817 => 
   array (
     'id' => 16970,
     'name' => 'Saint-Mathieu',
@@ -7426,7 +7363,7 @@ return array (
     'latitude' => 45.31678,
     'longitude' => -73.51587,
   ),
-  825 => 
+  818 => 
   array (
     'id' => 16971,
     'name' => 'Saint-Michel',
@@ -7435,7 +7372,7 @@ return array (
     'latitude' => 45.56758,
     'longitude' => -73.62168,
   ),
-  826 => 
+  819 => 
   array (
     'id' => 16972,
     'name' => 'Saint-Michel-des-Saints',
@@ -7444,7 +7381,7 @@ return array (
     'latitude' => 46.67702,
     'longitude' => -73.91881,
   ),
-  827 => 
+  820 => 
   array (
     'id' => 16973,
     'name' => 'Saint-Nazaire',
@@ -7453,7 +7390,7 @@ return array (
     'latitude' => 48.58944,
     'longitude' => -71.55247,
   ),
-  828 => 
+  821 => 
   array (
     'id' => 16974,
     'name' => 'Saint-Norbert',
@@ -7462,7 +7399,7 @@ return array (
     'latitude' => 46.16949,
     'longitude' => -73.31494,
   ),
-  829 => 
+  822 => 
   array (
     'id' => 16975,
     'name' => 'Saint-Pacôme',
@@ -7471,7 +7408,7 @@ return array (
     'latitude' => 47.40457,
     'longitude' => -69.95025,
   ),
-  830 => 
+  823 => 
   array (
     'id' => 16976,
     'name' => 'Saint-Pascal',
@@ -7480,7 +7417,7 @@ return array (
     'latitude' => 47.51813,
     'longitude' => -69.80301,
   ),
-  831 => 
+  824 => 
   array (
     'id' => 16977,
     'name' => 'Saint-Philippe-de-La Prairie',
@@ -7489,7 +7426,7 @@ return array (
     'latitude' => 45.35723,
     'longitude' => -73.47706,
   ),
-  832 => 
+  825 => 
   array (
     'id' => 16978,
     'name' => 'Saint-Pie',
@@ -7498,7 +7435,7 @@ return array (
     'latitude' => 45.50277,
     'longitude' => -72.9089,
   ),
-  833 => 
+  826 => 
   array (
     'id' => 16979,
     'name' => 'Saint-Pierre-les-Becquets',
@@ -7507,7 +7444,7 @@ return array (
     'latitude' => 46.50005,
     'longitude' => -72.1991,
   ),
-  834 => 
+  827 => 
   array (
     'id' => 16980,
     'name' => 'Saint-Prime',
@@ -7516,7 +7453,7 @@ return array (
     'latitude' => 48.58339,
     'longitude' => -72.33244,
   ),
-  835 => 
+  828 => 
   array (
     'id' => 16981,
     'name' => 'Saint-Raphaël',
@@ -7525,7 +7462,7 @@ return array (
     'latitude' => 46.25011,
     'longitude' => -76.01605,
   ),
-  836 => 
+  829 => 
   array (
     'id' => 16982,
     'name' => 'Saint-Raymond',
@@ -7534,7 +7471,7 @@ return array (
     'latitude' => 45.46698,
     'longitude' => -73.60948,
   ),
-  837 => 
+  830 => 
   array (
     'id' => 16983,
     'name' => 'Saint-Rémi',
@@ -7543,7 +7480,7 @@ return array (
     'latitude' => 45.26678,
     'longitude' => -73.61588,
   ),
-  838 => 
+  831 => 
   array (
     'id' => 16984,
     'name' => 'Saint-Rémi-de-Tingwick',
@@ -7552,7 +7489,7 @@ return array (
     'latitude' => 45.86677,
     'longitude' => -71.81581,
   ),
-  839 => 
+  832 => 
   array (
     'id' => 16985,
     'name' => 'Saint-Sauveur',
@@ -7561,7 +7498,7 @@ return array (
     'latitude' => 45.88686,
     'longitude' => -74.17943,
   ),
-  840 => 
+  833 => 
   array (
     'id' => 16986,
     'name' => 'Saint-Sauveur-des-Monts',
@@ -7570,7 +7507,7 @@ return array (
     'latitude' => 45.90008,
     'longitude' => -74.16591,
   ),
-  841 => 
+  834 => 
   array (
     'id' => 16987,
     'name' => 'Saint-Siméon',
@@ -7579,7 +7516,7 @@ return array (
     'latitude' => 47.84431,
     'longitude' => -69.87837,
   ),
-  842 => 
+  835 => 
   array (
     'id' => 16988,
     'name' => 'Saint-Thomas',
@@ -7588,7 +7525,7 @@ return array (
     'latitude' => 46.01677,
     'longitude' => -73.34915,
   ),
-  843 => 
+  836 => 
   array (
     'id' => 16989,
     'name' => 'Saint-Tite',
@@ -7597,7 +7534,7 @@ return array (
     'latitude' => 46.73336,
     'longitude' => -72.56581,
   ),
-  844 => 
+  837 => 
   array (
     'id' => 16990,
     'name' => 'Saint-Victor',
@@ -7606,7 +7543,7 @@ return array (
     'latitude' => 45.61118,
     'longitude' => -73.51527,
   ),
-  845 => 
+  838 => 
   array (
     'id' => 16991,
     'name' => 'Saint-Zotique',
@@ -7615,7 +7552,7 @@ return array (
     'latitude' => 45.25009,
     'longitude' => -74.24924,
   ),
-  846 => 
+  839 => 
   array (
     'id' => 16992,
     'name' => 'Saint-Édouard',
@@ -7624,7 +7561,7 @@ return array (
     'latitude' => 45.23338,
     'longitude' => -73.51588,
   ),
-  847 => 
+  840 => 
   array (
     'id' => 16993,
     'name' => 'Saint-Éphrem-de-Beauce',
@@ -7633,7 +7570,7 @@ return array (
     'latitude' => 46.06677,
     'longitude' => -70.94905,
   ),
-  848 => 
+  841 => 
   array (
     'id' => 16994,
     'name' => 'Sainte Catherine de la Jacques Cartier',
@@ -7642,7 +7579,7 @@ return array (
     'latitude' => 46.85244,
     'longitude' => -71.62056,
   ),
-  849 => 
+  842 => 
   array (
     'id' => 16995,
     'name' => 'Sainte-Adèle',
@@ -7651,7 +7588,7 @@ return array (
     'latitude' => 45.95008,
     'longitude' => -74.13251,
   ),
-  850 => 
+  843 => 
   array (
     'id' => 16996,
     'name' => 'Sainte-Agathe-des-Monts',
@@ -7660,7 +7597,7 @@ return array (
     'latitude' => 46.05009,
     'longitude' => -74.28252,
   ),
-  851 => 
+  844 => 
   array (
     'id' => 16997,
     'name' => 'Sainte-Anne-de-Bellevue',
@@ -7669,7 +7606,7 @@ return array (
     'latitude' => 45.40618,
     'longitude' => -73.9456,
   ),
-  852 => 
+  845 => 
   array (
     'id' => 16998,
     'name' => 'Sainte-Anne-des-Monts',
@@ -7678,7 +7615,7 @@ return array (
     'latitude' => 49.12402,
     'longitude' => -66.49243,
   ),
-  853 => 
+  846 => 
   array (
     'id' => 16999,
     'name' => 'Sainte-Anne-des-Plaines',
@@ -7687,7 +7624,7 @@ return array (
     'latitude' => 45.76468,
     'longitude' => -73.81156,
   ),
-  854 => 
+  847 => 
   array (
     'id' => 17000,
     'name' => 'Sainte-Béatrix',
@@ -7696,7 +7633,7 @@ return array (
     'latitude' => 46.20007,
     'longitude' => -73.61587,
   ),
-  855 => 
+  848 => 
   array (
     'id' => 17001,
     'name' => 'Sainte-Catherine',
@@ -7705,7 +7642,7 @@ return array (
     'latitude' => 45.40008,
     'longitude' => -73.58248,
   ),
-  856 => 
+  849 => 
   array (
     'id' => 17002,
     'name' => 'Sainte-Croix',
@@ -7714,7 +7651,7 @@ return array (
     'latitude' => 45.13368,
     'longitude' => -72.80083,
   ),
-  857 => 
+  850 => 
   array (
     'id' => 17003,
     'name' => 'Sainte-Julie',
@@ -7723,7 +7660,7 @@ return array (
     'latitude' => 45.58338,
     'longitude' => -73.33246,
   ),
-  858 => 
+  851 => 
   array (
     'id' => 17004,
     'name' => 'Sainte-Julienne',
@@ -7732,7 +7669,7 @@ return array (
     'latitude' => 45.96677,
     'longitude' => -73.71587,
   ),
-  859 => 
+  852 => 
   array (
     'id' => 17005,
     'name' => 'Sainte-Madeleine',
@@ -7741,7 +7678,7 @@ return array (
     'latitude' => 45.60008,
     'longitude' => -73.09914,
   ),
-  860 => 
+  853 => 
   array (
     'id' => 17006,
     'name' => 'Sainte-Marie',
@@ -7750,7 +7687,7 @@ return array (
     'latitude' => 46.43401,
     'longitude' => -71.01168,
   ),
-  861 => 
+  854 => 
   array (
     'id' => 17007,
     'name' => 'Sainte-Marthe-sur-le-Lac',
@@ -7759,7 +7696,7 @@ return array (
     'latitude' => 45.53338,
     'longitude' => -73.9325,
   ),
-  862 => 
+  855 => 
   array (
     'id' => 17008,
     'name' => 'Sainte-Martine',
@@ -7768,7 +7705,7 @@ return array (
     'latitude' => 45.25008,
     'longitude' => -73.79919,
   ),
-  863 => 
+  856 => 
   array (
     'id' => 17009,
     'name' => 'Sainte-Sophie',
@@ -7777,7 +7714,7 @@ return array (
     'latitude' => 45.81678,
     'longitude' => -73.89919,
   ),
-  864 => 
+  857 => 
   array (
     'id' => 17010,
     'name' => 'Sainte-Thècle',
@@ -7786,7 +7723,7 @@ return array (
     'latitude' => 46.81676,
     'longitude' => -72.49911,
   ),
-  865 => 
+  858 => 
   array (
     'id' => 17011,
     'name' => 'Sainte-Thérèse',
@@ -7795,7 +7732,7 @@ return array (
     'latitude' => 45.63922,
     'longitude' => -73.82757,
   ),
-  866 => 
+  859 => 
   array (
     'id' => 17012,
     'name' => 'Sainte-Élisabeth',
@@ -7804,7 +7741,7 @@ return array (
     'latitude' => 46.09502,
     'longitude' => -73.35176,
   ),
-  867 => 
+  860 => 
   array (
     'id' => 17013,
     'name' => 'Salaberry-de-Valleyfield',
@@ -7813,7 +7750,7 @@ return array (
     'latitude' => 45.25008,
     'longitude' => -74.13253,
   ),
-  868 => 
+  861 => 
   array (
     'id' => 17014,
     'name' => 'Salisbury',
@@ -7822,7 +7759,7 @@ return array (
     'latitude' => 46.03905,
     'longitude' => -65.04628,
   ),
-  869 => 
+  862 => 
   array (
     'id' => 17015,
     'name' => 'Salluit',
@@ -7831,7 +7768,7 @@ return array (
     'latitude' => 62.20411,
     'longitude' => -75.64344,
   ),
-  870 => 
+  863 => 
   array (
     'id' => 17016,
     'name' => 'Salmo',
@@ -7840,7 +7777,7 @@ return array (
     'latitude' => 49.19986,
     'longitude' => -117.2689,
   ),
-  871 => 
+  864 => 
   array (
     'id' => 17017,
     'name' => 'Salmon Arm',
@@ -7849,7 +7786,7 @@ return array (
     'latitude' => 50.6998,
     'longitude' => -119.30237,
   ),
-  872 => 
+  865 => 
   array (
     'id' => 17018,
     'name' => 'Salt Spring Island',
@@ -7858,7 +7795,7 @@ return array (
     'latitude' => 48.81852,
     'longitude' => -123.49061,
   ),
-  873 => 
+  866 => 
   array (
     'id' => 17019,
     'name' => 'Saltair',
@@ -7867,7 +7804,7 @@ return array (
     'latitude' => 48.94963,
     'longitude' => -123.76939,
   ),
-  874 => 
+  867 => 
   array (
     'id' => 17020,
     'name' => 'Sarnia',
@@ -7876,7 +7813,7 @@ return array (
     'latitude' => 42.97866,
     'longitude' => -82.40407,
   ),
-  875 => 
+  868 => 
   array (
     'id' => 17021,
     'name' => 'Saskatoon',
@@ -7885,7 +7822,7 @@ return array (
     'latitude' => 52.13238,
     'longitude' => -106.66892,
   ),
-  876 => 
+  869 => 
   array (
     'id' => 17022,
     'name' => 'Sault Ste. Marie',
@@ -7894,7 +7831,7 @@ return array (
     'latitude' => 46.51677,
     'longitude' => -84.33325,
   ),
-  877 => 
+  870 => 
   array (
     'id' => 17023,
     'name' => 'Scarborough',
@@ -7903,7 +7840,7 @@ return array (
     'latitude' => 43.77223,
     'longitude' => -79.25666,
   ),
-  878 => 
+  871 => 
   array (
     'id' => 17024,
     'name' => 'Seaforth',
@@ -7912,7 +7849,7 @@ return array (
     'latitude' => 43.55009,
     'longitude' => -81.39976,
   ),
-  879 => 
+  872 => 
   array (
     'id' => 17025,
     'name' => 'Sechelt',
@@ -7921,7 +7858,7 @@ return array (
     'latitude' => 49.47512,
     'longitude' => -123.75903,
   ),
-  880 => 
+  873 => 
   array (
     'id' => 17026,
     'name' => 'Selkirk',
@@ -7930,7 +7867,7 @@ return array (
     'latitude' => 50.1436,
     'longitude' => -96.88452,
   ),
-  881 => 
+  874 => 
   array (
     'id' => 17027,
     'name' => 'Senneterre',
@@ -7939,7 +7876,7 @@ return array (
     'latitude' => 48.39302,
     'longitude' => -77.23951,
   ),
-  882 => 
+  875 => 
   array (
     'id' => 17028,
     'name' => 'Sept-Îles',
@@ -7948,7 +7885,7 @@ return array (
     'latitude' => 50.20011,
     'longitude' => -66.38208,
   ),
-  883 => 
+  876 => 
   array (
     'id' => 17029,
     'name' => 'Sexsmith',
@@ -7957,7 +7894,7 @@ return array (
     'latitude' => 55.34998,
     'longitude' => -118.78602,
   ),
-  884 => 
+  877 => 
   array (
     'id' => 17030,
     'name' => 'Shannon',
@@ -7966,7 +7903,7 @@ return array (
     'latitude' => 46.88026,
     'longitude' => -71.51464,
   ),
-  885 => 
+  878 => 
   array (
     'id' => 17031,
     'name' => 'Shaunavon',
@@ -7975,7 +7912,7 @@ return array (
     'latitude' => 49.65005,
     'longitude' => -108.4181,
   ),
-  886 => 
+  879 => 
   array (
     'id' => 17032,
     'name' => 'Shawinigan',
@@ -7984,7 +7921,7 @@ return array (
     'latitude' => 46.56675,
     'longitude' => -72.74913,
   ),
-  887 => 
+  880 => 
   array (
     'id' => 17033,
     'name' => 'Shawville',
@@ -7993,7 +7930,7 @@ return array (
     'latitude' => 45.60011,
     'longitude' => -76.4827,
   ),
-  888 => 
+  881 => 
   array (
     'id' => 17034,
     'name' => 'Shediac',
@@ -8002,7 +7939,7 @@ return array (
     'latitude' => 46.21981,
     'longitude' => -64.54107,
   ),
-  889 => 
+  882 => 
   array (
     'id' => 17035,
     'name' => 'Shediac Bridge-Shediac River',
@@ -8011,7 +7948,7 @@ return array (
     'latitude' => 46.26886,
     'longitude' => -64.60047,
   ),
-  890 => 
+  883 => 
   array (
     'id' => 17036,
     'name' => 'Shelburne',
@@ -8020,16 +7957,7 @@ return array (
     'latitude' => 44.0787,
     'longitude' => -80.20408,
   ),
-  891 => 
-  array (
-    'id' => 17037,
-    'name' => 'Shelburne',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 43.76325,
-    'longitude' => -65.32355,
-  ),
-  892 => 
+  884 => 
   array (
     'id' => 17038,
     'name' => 'Shellbrook',
@@ -8038,7 +7966,7 @@ return array (
     'latitude' => 53.21679,
     'longitude' => -106.40109,
   ),
-  893 => 
+  885 => 
   array (
     'id' => 17039,
     'name' => 'Sherbrooke',
@@ -8047,7 +7975,7 @@ return array (
     'latitude' => 45.40008,
     'longitude' => -71.89908,
   ),
-  894 => 
+  886 => 
   array (
     'id' => 17040,
     'name' => 'Sherwood Park',
@@ -8056,7 +7984,7 @@ return array (
     'latitude' => 53.51684,
     'longitude' => -113.3187,
   ),
-  895 => 
+  887 => 
   array (
     'id' => 17041,
     'name' => 'Shilo',
@@ -8065,7 +7993,7 @@ return array (
     'latitude' => 49.80509,
     'longitude' => -99.63175,
   ),
-  896 => 
+  888 => 
   array (
     'id' => 17042,
     'name' => 'Shippagan',
@@ -8074,7 +8002,7 @@ return array (
     'latitude' => 47.74424,
     'longitude' => -64.70804,
   ),
-  897 => 
+  889 => 
   array (
     'id' => 17043,
     'name' => 'Sicamous',
@@ -8083,7 +8011,7 @@ return array (
     'latitude' => 50.83312,
     'longitude' => -118.98565,
   ),
-  898 => 
+  890 => 
   array (
     'id' => 17044,
     'name' => 'Silver Berry',
@@ -8092,7 +8020,7 @@ return array (
     'latitude' => 53.45787,
     'longitude' => -113.3817,
   ),
-  899 => 
+  891 => 
   array (
     'id' => 17045,
     'name' => 'Simcoe',
@@ -8101,7 +8029,7 @@ return array (
     'latitude' => 42.8334,
     'longitude' => -80.29967,
   ),
-  900 => 
+  892 => 
   array (
     'id' => 17046,
     'name' => 'Sioux Lookout',
@@ -8110,7 +8038,7 @@ return array (
     'latitude' => 50.06676,
     'longitude' => -91.98358,
   ),
-  901 => 
+  893 => 
   array (
     'id' => 17047,
     'name' => 'Six Mile',
@@ -8119,7 +8047,7 @@ return array (
     'latitude' => 48.45767,
     'longitude' => -123.46088,
   ),
-  902 => 
+  894 => 
   array (
     'id' => 17048,
     'name' => 'Skatepark',
@@ -8128,7 +8056,7 @@ return array (
     'latitude' => 44.25122,
     'longitude' => -76.94424,
   ),
-  903 => 
+  895 => 
   array (
     'id' => 17049,
     'name' => 'Slave Lake',
@@ -8137,7 +8065,7 @@ return array (
     'latitude' => 55.28344,
     'longitude' => -114.76896,
   ),
-  904 => 
+  896 => 
   array (
     'id' => 17050,
     'name' => 'Smithers',
@@ -8146,7 +8074,7 @@ return array (
     'latitude' => 54.78036,
     'longitude' => -127.17428,
   ),
-  905 => 
+  897 => 
   array (
     'id' => 17051,
     'name' => 'Smiths Falls',
@@ -8155,7 +8083,7 @@ return array (
     'latitude' => 44.90452,
     'longitude' => -76.02333,
   ),
-  906 => 
+  898 => 
   array (
     'id' => 17052,
     'name' => 'Smoky Lake',
@@ -8164,7 +8092,7 @@ return array (
     'latitude' => 54.11687,
     'longitude' => -112.46863,
   ),
-  907 => 
+  899 => 
   array (
     'id' => 17053,
     'name' => 'Sooke',
@@ -8173,7 +8101,7 @@ return array (
     'latitude' => 48.37463,
     'longitude' => -123.72762,
   ),
-  908 => 
+  900 => 
   array (
     'id' => 17054,
     'name' => 'Sorel-Tracy',
@@ -8182,7 +8110,7 @@ return array (
     'latitude' => 46.04178,
     'longitude' => -73.11358,
   ),
-  909 => 
+  901 => 
   array (
     'id' => 17055,
     'name' => 'Souris',
@@ -8191,16 +8119,7 @@ return array (
     'latitude' => 46.3501,
     'longitude' => -62.24862,
   ),
-  910 => 
-  array (
-    'id' => 17056,
-    'name' => 'Souris',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 49.6172,
-    'longitude' => -100.2612,
-  ),
-  911 => 
+  902 => 
   array (
     'id' => 17057,
     'name' => 'South Huron',
@@ -8209,7 +8128,7 @@ return array (
     'latitude' => 43.31679,
     'longitude' => -81.51647,
   ),
-  912 => 
+  903 => 
   array (
     'id' => 17058,
     'name' => 'South Pender Harbour',
@@ -8218,7 +8137,7 @@ return array (
     'latitude' => 49.62202,
     'longitude' => -124.02484,
   ),
-  913 => 
+  904 => 
   array (
     'id' => 17059,
     'name' => 'South River',
@@ -8227,7 +8146,7 @@ return array (
     'latitude' => 45.8334,
     'longitude' => -79.38293,
   ),
-  914 => 
+  905 => 
   array (
     'id' => 17060,
     'name' => 'Sparwood',
@@ -8236,7 +8155,7 @@ return array (
     'latitude' => 49.73332,
     'longitude' => -114.88532,
   ),
-  915 => 
+  906 => 
   array (
     'id' => 17061,
     'name' => 'Spirit River',
@@ -8245,7 +8164,7 @@ return array (
     'latitude' => 55.78327,
     'longitude' => -118.83607,
   ),
-  916 => 
+  907 => 
   array (
     'id' => 17062,
     'name' => 'Springbrook',
@@ -8254,7 +8173,7 @@ return array (
     'latitude' => 52.1792,
     'longitude' => -113.87981,
   ),
-  917 => 
+  908 => 
   array (
     'id' => 17063,
     'name' => 'Springdale',
@@ -8263,7 +8182,7 @@ return array (
     'latitude' => 49.49995,
     'longitude' => -56.06492,
   ),
-  918 => 
+  909 => 
   array (
     'id' => 17064,
     'name' => 'Springhill',
@@ -8272,7 +8191,7 @@ return array (
     'latitude' => 45.65015,
     'longitude' => -64.04873,
   ),
-  919 => 
+  910 => 
   array (
     'id' => 17065,
     'name' => 'Spruce Grove',
@@ -8281,7 +8200,7 @@ return array (
     'latitude' => 53.53344,
     'longitude' => -113.91874,
   ),
-  920 => 
+  911 => 
   array (
     'id' => 17066,
     'name' => 'St-Jean-Port-Joli',
@@ -8290,7 +8209,7 @@ return array (
     'latitude' => 47.21418,
     'longitude' => -70.26969,
   ),
-  921 => 
+  912 => 
   array (
     'id' => 17067,
     'name' => 'St. Adolphe',
@@ -8299,7 +8218,7 @@ return array (
     'latitude' => 49.6744,
     'longitude' => -97.11124,
   ),
-  922 => 
+  913 => 
   array (
     'id' => 17068,
     'name' => 'St. Albert',
@@ -8308,7 +8227,7 @@ return array (
     'latitude' => 53.63344,
     'longitude' => -113.63533,
   ),
-  923 => 
+  914 => 
   array (
     'id' => 17069,
     'name' => 'St. Anthony',
@@ -8317,7 +8236,7 @@ return array (
     'latitude' => 51.37039,
     'longitude' => -55.59743,
   ),
-  924 => 
+  915 => 
   array (
     'id' => 17070,
     'name' => 'St. Catharines',
@@ -8326,7 +8245,7 @@ return array (
     'latitude' => 43.17126,
     'longitude' => -79.24267,
   ),
-  925 => 
+  916 => 
   array (
     'id' => 17071,
     'name' => 'St. George',
@@ -8335,7 +8254,7 @@ return array (
     'latitude' => 43.24495,
     'longitude' => -80.25144,
   ),
-  926 => 
+  917 => 
   array (
     'id' => 17072,
     'name' => 'St. John\\\'s',
@@ -8344,7 +8263,7 @@ return array (
     'latitude' => 47.56494,
     'longitude' => -52.70931,
   ),
-  927 => 
+  918 => 
   array (
     'id' => 17073,
     'name' => 'St. Thomas',
@@ -8353,7 +8272,7 @@ return array (
     'latitude' => 42.77361,
     'longitude' => -81.18038,
   ),
-  928 => 
+  919 => 
   array (
     'id' => 17074,
     'name' => 'Starlight Village',
@@ -8362,7 +8281,7 @@ return array (
     'latitude' => 45.88308,
     'longitude' => -66.76905,
   ),
-  929 => 
+  920 => 
   array (
     'id' => 17075,
     'name' => 'Steinbach',
@@ -8371,7 +8290,7 @@ return array (
     'latitude' => 49.52579,
     'longitude' => -96.68451,
   ),
-  930 => 
+  921 => 
   array (
     'id' => 17076,
     'name' => 'Stephenville',
@@ -8380,7 +8299,7 @@ return array (
     'latitude' => 48.55001,
     'longitude' => -58.5818,
   ),
-  931 => 
+  922 => 
   array (
     'id' => 17077,
     'name' => 'Stephenville Crossing',
@@ -8389,7 +8308,7 @@ return array (
     'latitude' => 48.50001,
     'longitude' => -58.4318,
   ),
-  932 => 
+  923 => 
   array (
     'id' => 17078,
     'name' => 'Stettler',
@@ -8398,7 +8317,7 @@ return array (
     'latitude' => 52.31683,
     'longitude' => -112.71861,
   ),
-  933 => 
+  924 => 
   array (
     'id' => 17079,
     'name' => 'Stirling',
@@ -8407,7 +8326,7 @@ return array (
     'latitude' => 44.30012,
     'longitude' => -77.54948,
   ),
-  934 => 
+  925 => 
   array (
     'id' => 17080,
     'name' => 'Stonewall',
@@ -8416,7 +8335,7 @@ return array (
     'latitude' => 50.13441,
     'longitude' => -97.32676,
   ),
-  935 => 
+  926 => 
   array (
     'id' => 17081,
     'name' => 'Stoney Point',
@@ -8425,7 +8344,7 @@ return array (
     'latitude' => 44.26681,
     'longitude' => -79.53292,
   ),
-  936 => 
+  927 => 
   array (
     'id' => 17082,
     'name' => 'Stony Plain',
@@ -8434,7 +8353,7 @@ return array (
     'latitude' => 53.53343,
     'longitude' => -114.00205,
   ),
-  937 => 
+  928 => 
   array (
     'id' => 17083,
     'name' => 'Stratford',
@@ -8443,7 +8362,7 @@ return array (
     'latitude' => 43.36679,
     'longitude' => -80.94972,
   ),
-  938 => 
+  929 => 
   array (
     'id' => 17084,
     'name' => 'Strathmore',
@@ -8452,7 +8371,7 @@ return array (
     'latitude' => 51.05011,
     'longitude' => -113.38523,
   ),
-  939 => 
+  930 => 
   array (
     'id' => 17085,
     'name' => 'Sudbury',
@@ -8461,7 +8380,7 @@ return array (
     'latitude' => 47.16679,
     'longitude' => -81.9998,
   ),
-  940 => 
+  931 => 
   array (
     'id' => 17086,
     'name' => 'Summerland',
@@ -8470,7 +8389,7 @@ return array (
     'latitude' => 49.59977,
     'longitude' => -119.66911,
   ),
-  941 => 
+  932 => 
   array (
     'id' => 17087,
     'name' => 'Summerside',
@@ -8479,7 +8398,7 @@ return array (
     'latitude' => 46.39593,
     'longitude' => -63.78762,
   ),
-  942 => 
+  933 => 
   array (
     'id' => 17088,
     'name' => 'Sundre',
@@ -8488,7 +8407,7 @@ return array (
     'latitude' => 51.8001,
     'longitude' => -114.63532,
   ),
-  943 => 
+  934 => 
   array (
     'id' => 17089,
     'name' => 'Surrey',
@@ -8497,7 +8416,7 @@ return array (
     'latitude' => 49.10635,
     'longitude' => -122.82509,
   ),
-  944 => 
+  935 => 
   array (
     'id' => 17090,
     'name' => 'Sussex',
@@ -8506,7 +8425,7 @@ return array (
     'latitude' => 45.72266,
     'longitude' => -65.50663,
   ),
-  945 => 
+  936 => 
   array (
     'id' => 17091,
     'name' => 'Sutton',
@@ -8515,7 +8434,7 @@ return array (
     'latitude' => 45.10008,
     'longitude' => -72.61582,
   ),
-  946 => 
+  937 => 
   array (
     'id' => 17092,
     'name' => 'Swan Hills',
@@ -8524,7 +8443,7 @@ return array (
     'latitude' => 54.71681,
     'longitude' => -115.40226,
   ),
-  947 => 
+  938 => 
   array (
     'id' => 17093,
     'name' => 'Swan River',
@@ -8533,7 +8452,7 @@ return array (
     'latitude' => 52.1058,
     'longitude' => -101.26759,
   ),
-  948 => 
+  939 => 
   array (
     'id' => 17094,
     'name' => 'Swift Current',
@@ -8542,7 +8461,7 @@ return array (
     'latitude' => 50.28337,
     'longitude' => -107.80135,
   ),
-  949 => 
+  940 => 
   array (
     'id' => 17095,
     'name' => 'Sydney',
@@ -8551,7 +8470,7 @@ return array (
     'latitude' => 46.1351,
     'longitude' => -60.1831,
   ),
-  950 => 
+  941 => 
   array (
     'id' => 17096,
     'name' => 'Sydney Mines',
@@ -8560,7 +8479,7 @@ return array (
     'latitude' => 46.23669,
     'longitude' => -60.21767,
   ),
-  951 => 
+  942 => 
   array (
     'id' => 17097,
     'name' => 'Sylvan Lake',
@@ -8569,7 +8488,7 @@ return array (
     'latitude' => 52.311,
     'longitude' => -114.08375,
   ),
-  952 => 
+  943 => 
   array (
     'id' => 17098,
     'name' => 'Taber',
@@ -8578,7 +8497,7 @@ return array (
     'latitude' => 49.78703,
     'longitude' => -112.14603,
   ),
-  953 => 
+  944 => 
   array (
     'id' => 17099,
     'name' => 'Tamarack',
@@ -8587,7 +8506,7 @@ return array (
     'latitude' => 53.46441,
     'longitude' => -113.36235,
   ),
-  954 => 
+  945 => 
   array (
     'id' => 17100,
     'name' => 'Tavistock',
@@ -8596,7 +8515,7 @@ return array (
     'latitude' => 43.31679,
     'longitude' => -80.83302,
   ),
-  955 => 
+  946 => 
   array (
     'id' => 17101,
     'name' => 'Temiskaming Shores',
@@ -8605,7 +8524,7 @@ return array (
     'latitude' => 47.49376,
     'longitude' => -79.71529,
   ),
-  956 => 
+  947 => 
   array (
     'id' => 17102,
     'name' => 'Terrace',
@@ -8614,7 +8533,7 @@ return array (
     'latitude' => 54.51634,
     'longitude' => -128.60345,
   ),
-  957 => 
+  948 => 
   array (
     'id' => 17103,
     'name' => 'Terrasse-des-Pins',
@@ -8623,7 +8542,7 @@ return array (
     'latitude' => 45.86449,
     'longitude' => -74.06627,
   ),
-  958 => 
+  949 => 
   array (
     'id' => 17104,
     'name' => 'Terrebonne',
@@ -8632,7 +8551,7 @@ return array (
     'latitude' => 45.70004,
     'longitude' => -73.64732,
   ),
-  959 => 
+  950 => 
   array (
     'id' => 17105,
     'name' => 'The Pas',
@@ -8641,7 +8560,7 @@ return array (
     'latitude' => 53.82509,
     'longitude' => -101.25413,
   ),
-  960 => 
+  951 => 
   array (
     'id' => 17106,
     'name' => 'Thessalon',
@@ -8650,7 +8569,7 @@ return array (
     'latitude' => 46.25006,
     'longitude' => -83.5666,
   ),
-  961 => 
+  952 => 
   array (
     'id' => 17107,
     'name' => 'Thetford-Mines',
@@ -8659,7 +8578,7 @@ return array (
     'latitude' => 46.09371,
     'longitude' => -71.30539,
   ),
-  962 => 
+  953 => 
   array (
     'id' => 17108,
     'name' => 'Thompson',
@@ -8668,7 +8587,7 @@ return array (
     'latitude' => 55.7435,
     'longitude' => -97.85579,
   ),
-  963 => 
+  954 => 
   array (
     'id' => 17109,
     'name' => 'Thorold',
@@ -8677,7 +8596,7 @@ return array (
     'latitude' => 43.11682,
     'longitude' => -79.19958,
   ),
-  964 => 
+  955 => 
   array (
     'id' => 17110,
     'name' => 'Three Hills',
@@ -8686,7 +8605,7 @@ return array (
     'latitude' => 51.70012,
     'longitude' => -113.26863,
   ),
-  965 => 
+  956 => 
   array (
     'id' => 17111,
     'name' => 'Thunder Bay',
@@ -8695,7 +8614,7 @@ return array (
     'latitude' => 48.38202,
     'longitude' => -89.25018,
   ),
-  966 => 
+  957 => 
   array (
     'id' => 17112,
     'name' => 'Thunder Bay District',
@@ -8704,7 +8623,7 @@ return array (
     'latitude' => 49.50011,
     'longitude' => -88.50004,
   ),
-  967 => 
+  958 => 
   array (
     'id' => 17113,
     'name' => 'Thurso',
@@ -8713,7 +8632,7 @@ return array (
     'latitude' => 45.6001,
     'longitude' => -75.24931,
   ),
-  968 => 
+  959 => 
   array (
     'id' => 17114,
     'name' => 'Timiskaming District',
@@ -8722,7 +8641,7 @@ return array (
     'latitude' => 47.75016,
     'longitude' => -80.33303,
   ),
-  969 => 
+  960 => 
   array (
     'id' => 17115,
     'name' => 'Timmins',
@@ -8731,7 +8650,7 @@ return array (
     'latitude' => 48.46686,
     'longitude' => -81.33312,
   ),
-  970 => 
+  961 => 
   array (
     'id' => 17116,
     'name' => 'Tisdale',
@@ -8740,7 +8659,7 @@ return array (
     'latitude' => 52.85002,
     'longitude' => -104.05096,
   ),
-  971 => 
+  962 => 
   array (
     'id' => 17117,
     'name' => 'Tobermory',
@@ -8749,7 +8668,7 @@ return array (
     'latitude' => 45.25007,
     'longitude' => -81.66647,
   ),
-  972 => 
+  963 => 
   array (
     'id' => 17118,
     'name' => 'Tofield',
@@ -8758,7 +8677,7 @@ return array (
     'latitude' => 53.36684,
     'longitude' => -112.66862,
   ),
-  973 => 
+  964 => 
   array (
     'id' => 17119,
     'name' => 'Tofino',
@@ -8767,7 +8686,7 @@ return array (
     'latitude' => 49.15314,
     'longitude' => -125.90744,
   ),
-  974 => 
+  965 => 
   array (
     'id' => 17120,
     'name' => 'Torbay',
@@ -8776,7 +8695,7 @@ return array (
     'latitude' => 47.66659,
     'longitude' => -52.73135,
   ),
-  975 => 
+  966 => 
   array (
     'id' => 17121,
     'name' => 'Toronto',
@@ -8785,7 +8704,7 @@ return array (
     'latitude' => 43.70011,
     'longitude' => -79.4163,
   ),
-  976 => 
+  967 => 
   array (
     'id' => 17122,
     'name' => 'Toronto county',
@@ -8794,7 +8713,7 @@ return array (
     'latitude' => 43.69655,
     'longitude' => -79.42909,
   ),
-  977 => 
+  968 => 
   array (
     'id' => 17123,
     'name' => 'Tottenham',
@@ -8803,7 +8722,7 @@ return array (
     'latitude' => 44.02437,
     'longitude' => -79.80553,
   ),
-  978 => 
+  969 => 
   array (
     'id' => 17124,
     'name' => 'Tracadie-Sheila',
@@ -8812,7 +8731,7 @@ return array (
     'latitude' => 47.51444,
     'longitude' => -64.91806,
   ),
-  979 => 
+  970 => 
   array (
     'id' => 17125,
     'name' => 'Trail',
@@ -8821,7 +8740,7 @@ return array (
     'latitude' => 49.09983,
     'longitude' => -117.70223,
   ),
-  980 => 
+  971 => 
   array (
     'id' => 17126,
     'name' => 'Trois-Rivières',
@@ -8830,7 +8749,7 @@ return array (
     'latitude' => 46.34515,
     'longitude' => -72.5477,
   ),
-  981 => 
+  972 => 
   array (
     'id' => 17127,
     'name' => 'Truro',
@@ -8839,7 +8758,7 @@ return array (
     'latitude' => 45.36685,
     'longitude' => -63.26538,
   ),
-  982 => 
+  973 => 
   array (
     'id' => 17128,
     'name' => 'Tsawwassen',
@@ -8848,7 +8767,7 @@ return array (
     'latitude' => 49.01667,
     'longitude' => -123.08333,
   ),
-  983 => 
+  974 => 
   array (
     'id' => 17129,
     'name' => 'Tumbler Ridge',
@@ -8857,7 +8776,7 @@ return array (
     'latitude' => 55.13027,
     'longitude' => -120.99415,
   ),
-  984 => 
+  975 => 
   array (
     'id' => 17130,
     'name' => 'Tweed',
@@ -8866,7 +8785,7 @@ return array (
     'latitude' => 44.47512,
     'longitude' => -77.31616,
   ),
-  985 => 
+  976 => 
   array (
     'id' => 17131,
     'name' => 'Two Hills',
@@ -8875,7 +8794,7 @@ return array (
     'latitude' => 53.71686,
     'longitude' => -111.75181,
   ),
-  986 => 
+  977 => 
   array (
     'id' => 17132,
     'name' => 'Témiscaming',
@@ -8884,7 +8803,7 @@ return array (
     'latitude' => 46.72122,
     'longitude' => -79.09712,
   ),
-  987 => 
+  978 => 
   array (
     'id' => 17133,
     'name' => 'Ucluelet',
@@ -8893,7 +8812,7 @@ return array (
     'latitude' => 48.94153,
     'longitude' => -125.54635,
   ),
-  988 => 
+  979 => 
   array (
     'id' => 17134,
     'name' => 'Unity',
@@ -8902,7 +8821,7 @@ return array (
     'latitude' => 52.45014,
     'longitude' => -109.16816,
   ),
-  989 => 
+  980 => 
   array (
     'id' => 17135,
     'name' => 'Upper Island Cove',
@@ -8911,7 +8830,7 @@ return array (
     'latitude' => 47.64989,
     'longitude' => -53.21478,
   ),
-  990 => 
+  981 => 
   array (
     'id' => 17136,
     'name' => 'Uxbridge',
@@ -8920,7 +8839,7 @@ return array (
     'latitude' => 44.10012,
     'longitude' => -79.11628,
   ),
-  991 => 
+  982 => 
   array (
     'id' => 17137,
     'name' => 'Val-David',
@@ -8929,7 +8848,7 @@ return array (
     'latitude' => 46.03338,
     'longitude' => -74.21592,
   ),
-  992 => 
+  983 => 
   array (
     'id' => 17138,
     'name' => 'Val-Morin',
@@ -8938,7 +8857,7 @@ return array (
     'latitude' => 46.00008,
     'longitude' => -74.18251,
   ),
-  993 => 
+  984 => 
   array (
     'id' => 17139,
     'name' => 'Val-d\\\'Or',
@@ -8947,7 +8866,7 @@ return array (
     'latitude' => 48.0974,
     'longitude' => -77.79737,
   ),
-  994 => 
+  985 => 
   array (
     'id' => 17140,
     'name' => 'Val-des-Monts',
@@ -8956,7 +8875,7 @@ return array (
     'latitude' => 45.6501,
     'longitude' => -75.66604,
   ),
-  995 => 
+  986 => 
   array (
     'id' => 17141,
     'name' => 'Valcourt',
@@ -8965,7 +8884,7 @@ return array (
     'latitude' => 45.50008,
     'longitude' => -72.31581,
   ),
-  996 => 
+  987 => 
   array (
     'id' => 17142,
     'name' => 'Valley East',
@@ -8974,7 +8893,7 @@ return array (
     'latitude' => 46.66773,
     'longitude' => -81.00028,
   ),
-  997 => 
+  988 => 
   array (
     'id' => 17143,
     'name' => 'Valleyview',
@@ -8983,7 +8902,7 @@ return array (
     'latitude' => 55.06673,
     'longitude' => -117.28585,
   ),
-  998 => 
+  989 => 
   array (
     'id' => 17144,
     'name' => 'Vallée-Jonction',
@@ -8992,7 +8911,7 @@ return array (
     'latitude' => 46.37441,
     'longitude' => -70.91881,
   ),
-  999 => 
+  990 => 
   array (
     'id' => 17145,
     'name' => 'Vancouver',
@@ -9001,7 +8920,7 @@ return array (
     'latitude' => 49.24966,
     'longitude' => -123.11934,
   ),
-  1000 => 
+  991 => 
   array (
     'id' => 17146,
     'name' => 'Vanderhoof',
@@ -9010,7 +8929,7 @@ return array (
     'latitude' => 54.01657,
     'longitude' => -124.01982,
   ),
-  1001 => 
+  992 => 
   array (
     'id' => 17147,
     'name' => 'Vanier',
@@ -9019,7 +8938,7 @@ return array (
     'latitude' => 45.4399,
     'longitude' => -75.66498,
   ),
-  1002 => 
+  993 => 
   array (
     'id' => 17148,
     'name' => 'Varennes',
@@ -9028,7 +8947,7 @@ return array (
     'latitude' => 45.68338,
     'longitude' => -73.43246,
   ),
-  1003 => 
+  994 => 
   array (
     'id' => 17149,
     'name' => 'Vaudreuil-Dorion',
@@ -9037,7 +8956,7 @@ return array (
     'latitude' => 45.40008,
     'longitude' => -74.03251,
   ),
-  1004 => 
+  995 => 
   array (
     'id' => 17150,
     'name' => 'Vaughan',
@@ -9046,7 +8965,7 @@ return array (
     'latitude' => 43.8361,
     'longitude' => -79.49827,
   ),
-  1005 => 
+  996 => 
   array (
     'id' => 17151,
     'name' => 'Vegreville',
@@ -9055,7 +8974,7 @@ return array (
     'latitude' => 53.50015,
     'longitude' => -112.05182,
   ),
-  1006 => 
+  997 => 
   array (
     'id' => 17152,
     'name' => 'Venise-en-Québec',
@@ -9064,7 +8983,7 @@ return array (
     'latitude' => 45.08338,
     'longitude' => -73.13245,
   ),
-  1007 => 
+  998 => 
   array (
     'id' => 17153,
     'name' => 'Verchères',
@@ -9073,7 +8992,7 @@ return array (
     'latitude' => 45.78338,
     'longitude' => -73.34916,
   ),
-  1008 => 
+  999 => 
   array (
     'id' => 17154,
     'name' => 'Vermilion',
@@ -9082,7 +9001,7 @@ return array (
     'latitude' => 53.35409,
     'longitude' => -110.85849,
   ),
-  1009 => 
+  1000 => 
   array (
     'id' => 17155,
     'name' => 'Vernon',
@@ -9091,7 +9010,7 @@ return array (
     'latitude' => 50.26729,
     'longitude' => -119.27337,
   ),
-  1010 => 
+  1001 => 
   array (
     'id' => 17156,
     'name' => 'Victoria',
@@ -9100,7 +9019,7 @@ return array (
     'latitude' => 48.4359,
     'longitude' => -123.35155,
   ),
-  1011 => 
+  1002 => 
   array (
     'id' => 17157,
     'name' => 'Victoriaville',
@@ -9109,7 +9028,7 @@ return array (
     'latitude' => 46.05007,
     'longitude' => -71.96579,
   ),
-  1012 => 
+  1003 => 
   array (
     'id' => 17158,
     'name' => 'Viking',
@@ -9118,7 +9037,7 @@ return array (
     'latitude' => 53.10014,
     'longitude' => -111.76844,
   ),
-  1013 => 
+  1004 => 
   array (
     'id' => 17159,
     'name' => 'Ville-Marie',
@@ -9127,7 +9046,7 @@ return array (
     'latitude' => 47.33345,
     'longitude' => -79.43297,
   ),
-  1014 => 
+  1005 => 
   array (
     'id' => 17160,
     'name' => 'Vineland',
@@ -9136,7 +9055,7 @@ return array (
     'latitude' => 43.15012,
     'longitude' => -79.3996,
   ),
-  1015 => 
+  1006 => 
   array (
     'id' => 17161,
     'name' => 'Virden',
@@ -9145,7 +9064,7 @@ return array (
     'latitude' => 49.8508,
     'longitude' => -100.93262,
   ),
-  1016 => 
+  1007 => 
   array (
     'id' => 17162,
     'name' => 'Virgil',
@@ -9154,7 +9073,7 @@ return array (
     'latitude' => 43.21682,
     'longitude' => -79.13288,
   ),
-  1017 => 
+  1008 => 
   array (
     'id' => 17163,
     'name' => 'Vulcan',
@@ -9163,7 +9082,7 @@ return array (
     'latitude' => 50.40008,
     'longitude' => -113.25189,
   ),
-  1018 => 
+  1009 => 
   array (
     'id' => 17164,
     'name' => 'Wabana',
@@ -9172,7 +9091,7 @@ return array (
     'latitude' => 47.63319,
     'longitude' => -52.94806,
   ),
-  1019 => 
+  1010 => 
   array (
     'id' => 17165,
     'name' => 'Wadena',
@@ -9181,7 +9100,7 @@ return array (
     'latitude' => 51.94999,
     'longitude' => -103.80102,
   ),
-  1020 => 
+  1011 => 
   array (
     'id' => 17166,
     'name' => 'Wainwright',
@@ -9190,7 +9109,7 @@ return array (
     'latitude' => 52.83482,
     'longitude' => -110.85342,
   ),
-  1021 => 
+  1012 => 
   array (
     'id' => 17167,
     'name' => 'Wakefield',
@@ -9199,7 +9118,7 @@ return array (
     'latitude' => 45.6668,
     'longitude' => -75.83265,
   ),
-  1022 => 
+  1013 => 
   array (
     'id' => 17168,
     'name' => 'Walnut Grove',
@@ -9208,7 +9127,7 @@ return array (
     'latitude' => 49.16473,
     'longitude' => -122.64042,
   ),
-  1023 => 
+  1014 => 
   array (
     'id' => 17169,
     'name' => 'Walpole Island',
@@ -9217,7 +9136,7 @@ return array (
     'latitude' => 42.6152,
     'longitude' => -82.51398,
   ),
-  1024 => 
+  1015 => 
   array (
     'id' => 17170,
     'name' => 'Warman',
@@ -9226,7 +9145,7 @@ return array (
     'latitude' => 52.31679,
     'longitude' => -106.56791,
   ),
-  1025 => 
+  1016 => 
   array (
     'id' => 17171,
     'name' => 'Warwick',
@@ -9235,7 +9154,7 @@ return array (
     'latitude' => 45.95007,
     'longitude' => -71.9824,
   ),
-  1026 => 
+  1017 => 
   array (
     'id' => 17172,
     'name' => 'Wasaga Beach',
@@ -9244,7 +9163,7 @@ return array (
     'latitude' => 44.5168,
     'longitude' => -80.01637,
   ),
-  1027 => 
+  1018 => 
   array (
     'id' => 17173,
     'name' => 'Waskaganish',
@@ -9253,7 +9172,7 @@ return array (
     'latitude' => 51.48333,
     'longitude' => -78.75,
   ),
-  1028 => 
+  1019 => 
   array (
     'id' => 17174,
     'name' => 'Waswanipi',
@@ -9262,7 +9181,7 @@ return array (
     'latitude' => 49.73346,
     'longitude' => -76.16604,
   ),
-  1029 => 
+  1020 => 
   array (
     'id' => 17175,
     'name' => 'Waterford',
@@ -9271,7 +9190,7 @@ return array (
     'latitude' => 42.9334,
     'longitude' => -80.28296,
   ),
-  1030 => 
+  1021 => 
   array (
     'id' => 17176,
     'name' => 'Waterloo',
@@ -9280,16 +9199,7 @@ return array (
     'latitude' => 43.4668,
     'longitude' => -80.51639,
   ),
-  1031 => 
-  array (
-    'id' => 17177,
-    'name' => 'Waterloo',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 45.35008,
-    'longitude' => -72.51582,
-  ),
-  1032 => 
+  1022 => 
   array (
     'id' => 17178,
     'name' => 'Watford',
@@ -9298,7 +9208,7 @@ return array (
     'latitude' => 42.95008,
     'longitude' => -81.88309,
   ),
-  1033 => 
+  1023 => 
   array (
     'id' => 17179,
     'name' => 'Watrous',
@@ -9307,7 +9217,7 @@ return array (
     'latitude' => 51.66677,
     'longitude' => -105.46788,
   ),
-  1034 => 
+  1024 => 
   array (
     'id' => 17180,
     'name' => 'Watson Lake',
@@ -9316,7 +9226,7 @@ return array (
     'latitude' => 60.06349,
     'longitude' => -128.70893,
   ),
-  1035 => 
+  1025 => 
   array (
     'id' => 17181,
     'name' => 'Wawa',
@@ -9325,7 +9235,7 @@ return array (
     'latitude' => 47.98877,
     'longitude' => -84.77411,
   ),
-  1036 => 
+  1026 => 
   array (
     'id' => 17182,
     'name' => 'Weedon Centre',
@@ -9334,7 +9244,7 @@ return array (
     'latitude' => 45.70802,
     'longitude' => -71.45986,
   ),
-  1037 => 
+  1027 => 
   array (
     'id' => 17183,
     'name' => 'Welcome Beach',
@@ -9343,7 +9253,7 @@ return array (
     'latitude' => 49.47959,
     'longitude' => -123.89239,
   ),
-  1038 => 
+  1028 => 
   array (
     'id' => 17184,
     'name' => 'Welland',
@@ -9352,7 +9262,7 @@ return array (
     'latitude' => 42.98342,
     'longitude' => -79.24958,
   ),
-  1039 => 
+  1029 => 
   array (
     'id' => 17185,
     'name' => 'Wellesley',
@@ -9361,7 +9271,7 @@ return array (
     'latitude' => 43.47691,
     'longitude' => -80.76209,
   ),
-  1040 => 
+  1030 => 
   array (
     'id' => 17186,
     'name' => 'Wells',
@@ -9370,7 +9280,7 @@ return array (
     'latitude' => 45.39274,
     'longitude' => -65.92313,
   ),
-  1041 => 
+  1031 => 
   array (
     'id' => 17187,
     'name' => 'Wembley',
@@ -9379,7 +9289,7 @@ return array (
     'latitude' => 55.14995,
     'longitude' => -119.13602,
   ),
-  1042 => 
+  1032 => 
   array (
     'id' => 17188,
     'name' => 'Wendover',
@@ -9388,7 +9298,7 @@ return array (
     'latitude' => 45.57275,
     'longitude' => -75.12757,
   ),
-  1043 => 
+  1033 => 
   array (
     'id' => 17189,
     'name' => 'West End',
@@ -9397,7 +9307,7 @@ return array (
     'latitude' => 49.28333,
     'longitude' => -123.13333,
   ),
-  1044 => 
+  1034 => 
   array (
     'id' => 17190,
     'name' => 'West Kelowna',
@@ -9406,7 +9316,7 @@ return array (
     'latitude' => 49.8625,
     'longitude' => -119.58333,
   ),
-  1045 => 
+  1035 => 
   array (
     'id' => 17191,
     'name' => 'West Lorne',
@@ -9415,7 +9325,7 @@ return array (
     'latitude' => 42.60009,
     'longitude' => -81.59976,
   ),
-  1046 => 
+  1036 => 
   array (
     'id' => 17192,
     'name' => 'West St. Paul',
@@ -9424,7 +9334,7 @@ return array (
     'latitude' => 49.9994,
     'longitude' => -97.16284,
   ),
-  1047 => 
+  1037 => 
   array (
     'id' => 17193,
     'name' => 'West Vancouver',
@@ -9433,7 +9343,7 @@ return array (
     'latitude' => 49.36672,
     'longitude' => -123.16652,
   ),
-  1048 => 
+  1038 => 
   array (
     'id' => 17194,
     'name' => 'Westlake',
@@ -9442,7 +9352,7 @@ return array (
     'latitude' => 55.22228,
     'longitude' => -118.80415,
   ),
-  1049 => 
+  1039 => 
   array (
     'id' => 17195,
     'name' => 'Westlock',
@@ -9451,7 +9361,7 @@ return array (
     'latitude' => 54.15016,
     'longitude' => -113.86876,
   ),
-  1050 => 
+  1040 => 
   array (
     'id' => 17196,
     'name' => 'Westmount',
@@ -9460,7 +9370,7 @@ return array (
     'latitude' => 45.48341,
     'longitude' => -73.59918,
   ),
-  1051 => 
+  1041 => 
   array (
     'id' => 17197,
     'name' => 'Wetaskiwin',
@@ -9469,7 +9379,7 @@ return array (
     'latitude' => 52.96683,
     'longitude' => -113.36869,
   ),
-  1052 => 
+  1042 => 
   array (
     'id' => 17198,
     'name' => 'Weyburn',
@@ -9478,7 +9388,7 @@ return array (
     'latitude' => 49.66675,
     'longitude' => -103.85109,
   ),
-  1053 => 
+  1043 => 
   array (
     'id' => 17199,
     'name' => 'Weymontachie',
@@ -9487,7 +9397,7 @@ return array (
     'latitude' => 47.8994,
     'longitude' => -73.7772,
   ),
-  1054 => 
+  1044 => 
   array (
     'id' => 17200,
     'name' => 'Whistler',
@@ -9496,7 +9406,7 @@ return array (
     'latitude' => 50.11817,
     'longitude' => -122.95396,
   ),
-  1055 => 
+  1045 => 
   array (
     'id' => 17201,
     'name' => 'White City',
@@ -9505,7 +9415,7 @@ return array (
     'latitude' => 50.43338,
     'longitude' => -104.36778,
   ),
-  1056 => 
+  1046 => 
   array (
     'id' => 17202,
     'name' => 'White Rock',
@@ -9514,7 +9424,7 @@ return array (
     'latitude' => 49.01636,
     'longitude' => -122.8026,
   ),
-  1057 => 
+  1047 => 
   array (
     'id' => 17203,
     'name' => 'Whitecourt',
@@ -9523,7 +9433,7 @@ return array (
     'latitude' => 54.15015,
     'longitude' => -115.68548,
   ),
-  1058 => 
+  1048 => 
   array (
     'id' => 17204,
     'name' => 'Whitehorse',
@@ -9532,7 +9442,7 @@ return array (
     'latitude' => 60.71611,
     'longitude' => -135.05375,
   ),
-  1059 => 
+  1049 => 
   array (
     'id' => 17205,
     'name' => 'Wild Rose',
@@ -9541,7 +9451,7 @@ return array (
     'latitude' => 53.4708,
     'longitude' => -113.38119,
   ),
-  1060 => 
+  1050 => 
   array (
     'id' => 17206,
     'name' => 'Wilkie',
@@ -9550,7 +9460,7 @@ return array (
     'latitude' => 52.41683,
     'longitude' => -108.70142,
   ),
-  1061 => 
+  1051 => 
   array (
     'id' => 17207,
     'name' => 'Williams Lake',
@@ -9559,7 +9469,7 @@ return array (
     'latitude' => 52.14153,
     'longitude' => -122.14451,
   ),
-  1062 => 
+  1052 => 
   array (
     'id' => 17208,
     'name' => 'Willowdale',
@@ -9568,7 +9478,7 @@ return array (
     'latitude' => 43.76672,
     'longitude' => -79.39909,
   ),
-  1063 => 
+  1053 => 
   array (
     'id' => 17209,
     'name' => 'Winchester',
@@ -9577,7 +9487,7 @@ return array (
     'latitude' => 45.0834,
     'longitude' => -75.34933,
   ),
-  1064 => 
+  1054 => 
   array (
     'id' => 17210,
     'name' => 'Windsor',
@@ -9586,25 +9496,7 @@ return array (
     'latitude' => 45.56678,
     'longitude' => -71.99909,
   ),
-  1065 => 
-  array (
-    'id' => 17211,
-    'name' => 'Windsor',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 44.98345,
-    'longitude' => -64.13204,
-  ),
-  1066 => 
-  array (
-    'id' => 17212,
-    'name' => 'Windsor',
-    'country_id' => 39,
-    'country_code' => 'CA',
-    'latitude' => 42.30008,
-    'longitude' => -83.01654,
-  ),
-  1067 => 
+  1055 => 
   array (
     'id' => 17213,
     'name' => 'Wingham',
@@ -9613,7 +9505,7 @@ return array (
     'latitude' => 43.88793,
     'longitude' => -81.31145,
   ),
-  1068 => 
+  1056 => 
   array (
     'id' => 17214,
     'name' => 'Winkler',
@@ -9622,7 +9514,7 @@ return array (
     'latitude' => 49.1817,
     'longitude' => -97.94104,
   ),
-  1069 => 
+  1057 => 
   array (
     'id' => 17215,
     'name' => 'Winnipeg',
@@ -9631,7 +9523,7 @@ return array (
     'latitude' => 49.8844,
     'longitude' => -97.14704,
   ),
-  1070 => 
+  1058 => 
   array (
     'id' => 17216,
     'name' => 'Wolfville',
@@ -9640,7 +9532,7 @@ return array (
     'latitude' => 45.08345,
     'longitude' => -64.36546,
   ),
-  1071 => 
+  1059 => 
   array (
     'id' => 17217,
     'name' => 'Woodstock',
@@ -9649,7 +9541,7 @@ return array (
     'latitude' => 43.13339,
     'longitude' => -80.7497,
   ),
-  1072 => 
+  1060 => 
   array (
     'id' => 17218,
     'name' => 'Wynyard',
@@ -9658,7 +9550,7 @@ return array (
     'latitude' => 51.76674,
     'longitude' => -104.18436,
   ),
-  1073 => 
+  1061 => 
   array (
     'id' => 17219,
     'name' => 'Yamachiche',
@@ -9667,7 +9559,7 @@ return array (
     'latitude' => 46.26676,
     'longitude' => -72.83243,
   ),
-  1074 => 
+  1062 => 
   array (
     'id' => 17220,
     'name' => 'Yarmouth',
@@ -9676,7 +9568,7 @@ return array (
     'latitude' => 43.83345,
     'longitude' => -66.11557,
   ),
-  1075 => 
+  1063 => 
   array (
     'id' => 17221,
     'name' => 'Yellowknife',
@@ -9685,7 +9577,7 @@ return array (
     'latitude' => 62.45411,
     'longitude' => -114.37248,
   ),
-  1076 => 
+  1064 => 
   array (
     'id' => 17222,
     'name' => 'York',
@@ -9694,7 +9586,7 @@ return array (
     'latitude' => 44.00011,
     'longitude' => -79.46632,
   ),
-  1077 => 
+  1065 => 
   array (
     'id' => 17223,
     'name' => 'Yorkton',
@@ -9703,7 +9595,7 @@ return array (
     'latitude' => 51.2167,
     'longitude' => -102.46766,
   ),
-  1078 => 
+  1066 => 
   array (
     'id' => 17224,
     'name' => 'le Plateau',
@@ -9712,7 +9604,7 @@ return array (
     'latitude' => 45.43514,
     'longitude' => -75.7803,
   ),
-  1079 => 
+  1067 => 
   array (
     'id' => 149581,
     'name' => 'Thornhill',
@@ -9721,7 +9613,7 @@ return array (
     'latitude' => 43.8170848,
     'longitude' => -79.4501194,
   ),
-  1080 => 
+  1068 => 
   array (
     'id' => 153520,
     'name' => 'Exeter',

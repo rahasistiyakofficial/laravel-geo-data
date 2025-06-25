@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -516,15 +516,6 @@ return array (
   ),
   57 => 
   array (
-    'id' => 30630,
-    'name' => 'Ejby',
-    'country_id' => 59,
-    'country_code' => 'DK',
-    'latitude' => 55.4858,
-    'longitude' => 12.08171,
-  ),
-  58 => 
-  array (
     'id' => 30631,
     'name' => 'Esbjerg',
     'country_id' => 59,
@@ -532,7 +523,7 @@ return array (
     'latitude' => 55.47028,
     'longitude' => 8.45187,
   ),
-  59 => 
+  58 => 
   array (
     'id' => 30632,
     'name' => 'Esbjerg Kommune',
@@ -541,7 +532,7 @@ return array (
     'latitude' => 55.46893,
     'longitude' => 8.46222,
   ),
-  60 => 
+  59 => 
   array (
     'id' => 30633,
     'name' => 'Espergærde',
@@ -550,7 +541,7 @@ return array (
     'latitude' => 55.99464,
     'longitude' => 12.54733,
   ),
-  61 => 
+  60 => 
   array (
     'id' => 30634,
     'name' => 'Faaborg',
@@ -559,7 +550,7 @@ return array (
     'latitude' => 55.0951,
     'longitude' => 10.24226,
   ),
-  62 => 
+  61 => 
   array (
     'id' => 30635,
     'name' => 'Faaborg-Midtfyn Kommune',
@@ -568,7 +559,7 @@ return array (
     'latitude' => 55.22667,
     'longitude' => 10.40667,
   ),
-  63 => 
+  62 => 
   array (
     'id' => 30636,
     'name' => 'Fanø Kommune',
@@ -577,7 +568,7 @@ return array (
     'latitude' => 55.41667,
     'longitude' => 8.41667,
   ),
-  64 => 
+  63 => 
   array (
     'id' => 30637,
     'name' => 'Farsø',
@@ -586,7 +577,7 @@ return array (
     'latitude' => 56.77276,
     'longitude' => 9.33925,
   ),
-  65 => 
+  64 => 
   array (
     'id' => 30638,
     'name' => 'Farum',
@@ -595,7 +586,7 @@ return array (
     'latitude' => 55.80858,
     'longitude' => 12.36066,
   ),
-  66 => 
+  65 => 
   array (
     'id' => 30639,
     'name' => 'Favrskov Kommune',
@@ -604,7 +595,7 @@ return array (
     'latitude' => 56.31667,
     'longitude' => 9.94,
   ),
-  67 => 
+  66 => 
   array (
     'id' => 30640,
     'name' => 'Faxe',
@@ -613,7 +604,7 @@ return array (
     'latitude' => 55.25561,
     'longitude' => 12.11926,
   ),
-  68 => 
+  67 => 
   array (
     'id' => 30641,
     'name' => 'Faxe Kommune',
@@ -622,7 +613,7 @@ return array (
     'latitude' => 55.29444,
     'longitude' => 12.06111,
   ),
-  69 => 
+  68 => 
   array (
     'id' => 30642,
     'name' => 'Faxe Ladeplads',
@@ -631,7 +622,7 @@ return array (
     'latitude' => 55.21981,
     'longitude' => 12.17013,
   ),
-  70 => 
+  69 => 
   array (
     'id' => 30643,
     'name' => 'Fensmark',
@@ -640,7 +631,7 @@ return array (
     'latitude' => 55.27919,
     'longitude' => 11.80382,
   ),
-  71 => 
+  70 => 
   array (
     'id' => 30644,
     'name' => 'Fjerritslev',
@@ -649,7 +640,7 @@ return array (
     'latitude' => 57.08822,
     'longitude' => 9.26622,
   ),
-  72 => 
+  71 => 
   array (
     'id' => 30645,
     'name' => 'Fløng',
@@ -658,7 +649,7 @@ return array (
     'latitude' => 55.66212,
     'longitude' => 12.18698,
   ),
-  73 => 
+  72 => 
   array (
     'id' => 30646,
     'name' => 'Forlev',
@@ -667,7 +658,7 @@ return array (
     'latitude' => 55.37445,
     'longitude' => 11.25966,
   ),
-  74 => 
+  73 => 
   array (
     'id' => 30647,
     'name' => 'Framlev',
@@ -676,7 +667,7 @@ return array (
     'latitude' => 56.15664,
     'longitude' => 10.01318,
   ),
-  75 => 
+  74 => 
   array (
     'id' => 30648,
     'name' => 'Fredensborg',
@@ -685,7 +676,7 @@ return array (
     'latitude' => 55.97558,
     'longitude' => 12.40314,
   ),
-  76 => 
+  75 => 
   array (
     'id' => 30649,
     'name' => 'Fredensborg Kommune',
@@ -694,7 +685,7 @@ return array (
     'latitude' => 55.95,
     'longitude' => 12.45,
   ),
-  77 => 
+  76 => 
   array (
     'id' => 30650,
     'name' => 'Fredericia',
@@ -703,7 +694,7 @@ return array (
     'latitude' => 55.56568,
     'longitude' => 9.75257,
   ),
-  78 => 
+  77 => 
   array (
     'id' => 30651,
     'name' => 'Fredericia Kommune',
@@ -712,7 +703,7 @@ return array (
     'latitude' => 55.57271,
     'longitude' => 9.69489,
   ),
-  79 => 
+  78 => 
   array (
     'id' => 30652,
     'name' => 'Frederiksberg',
@@ -721,16 +712,7 @@ return array (
     'latitude' => 55.67938,
     'longitude' => 12.53463,
   ),
-  80 => 
-  array (
-    'id' => 30653,
-    'name' => 'Frederiksberg',
-    'country_id' => 59,
-    'country_code' => 'DK',
-    'latitude' => 55.41618,
-    'longitude' => 11.56934,
-  ),
-  81 => 
+  79 => 
   array (
     'id' => 30654,
     'name' => 'Frederiksberg Kommune',
@@ -739,7 +721,7 @@ return array (
     'latitude' => 55.67856,
     'longitude' => 12.52216,
   ),
-  82 => 
+  80 => 
   array (
     'id' => 30655,
     'name' => 'Frederikshavn',
@@ -748,7 +730,7 @@ return array (
     'latitude' => 57.44073,
     'longitude' => 10.53661,
   ),
-  83 => 
+  81 => 
   array (
     'id' => 30656,
     'name' => 'Frederikshavn Kommune',
@@ -757,7 +739,7 @@ return array (
     'latitude' => 57.43347,
     'longitude' => 10.42507,
   ),
-  84 => 
+  82 => 
   array (
     'id' => 30657,
     'name' => 'Frederikssund',
@@ -766,7 +748,7 @@ return array (
     'latitude' => 55.83956,
     'longitude' => 12.06896,
   ),
-  85 => 
+  83 => 
   array (
     'id' => 30658,
     'name' => 'Frederikssund Kommune',
@@ -775,7 +757,7 @@ return array (
     'latitude' => 55.80957,
     'longitude' => 12.04038,
   ),
-  86 => 
+  84 => 
   array (
     'id' => 30659,
     'name' => 'Frederiksværk',
@@ -784,7 +766,7 @@ return array (
     'latitude' => 55.97073,
     'longitude' => 12.0225,
   ),
-  87 => 
+  85 => 
   array (
     'id' => 30660,
     'name' => 'Frejlev',
@@ -793,7 +775,7 @@ return array (
     'latitude' => 57.00623,
     'longitude' => 9.81711,
   ),
-  88 => 
+  86 => 
   array (
     'id' => 30661,
     'name' => 'Fuglebjerg',
@@ -802,7 +784,7 @@ return array (
     'latitude' => 55.30604,
     'longitude' => 11.54766,
   ),
-  89 => 
+  87 => 
   array (
     'id' => 30662,
     'name' => 'Furesø Kommune',
@@ -811,7 +793,7 @@ return array (
     'latitude' => 55.78333,
     'longitude' => 12.34167,
   ),
-  90 => 
+  88 => 
   array (
     'id' => 30663,
     'name' => 'Galten',
@@ -820,7 +802,7 @@ return array (
     'latitude' => 56.15902,
     'longitude' => 9.91691,
   ),
-  91 => 
+  89 => 
   array (
     'id' => 30664,
     'name' => 'Ganløse',
@@ -829,7 +811,7 @@ return array (
     'latitude' => 55.79124,
     'longitude' => 12.26421,
   ),
-  92 => 
+  90 => 
   array (
     'id' => 30665,
     'name' => 'Gentofte Kommune',
@@ -838,7 +820,7 @@ return array (
     'latitude' => 55.75,
     'longitude' => 12.55,
   ),
-  93 => 
+  91 => 
   array (
     'id' => 30666,
     'name' => 'Gilleleje',
@@ -847,7 +829,7 @@ return array (
     'latitude' => 56.12196,
     'longitude' => 12.31056,
   ),
-  94 => 
+  92 => 
   array (
     'id' => 30667,
     'name' => 'Gistrup',
@@ -856,7 +838,7 @@ return array (
     'latitude' => 56.9943,
     'longitude' => 9.99085,
   ),
-  95 => 
+  93 => 
   array (
     'id' => 30668,
     'name' => 'Give',
@@ -865,7 +847,7 @@ return array (
     'latitude' => 55.84523,
     'longitude' => 9.23769,
   ),
-  96 => 
+  94 => 
   array (
     'id' => 30669,
     'name' => 'Gjellerup',
@@ -874,7 +856,7 @@ return array (
     'latitude' => 56.14616,
     'longitude' => 9.05467,
   ),
-  97 => 
+  95 => 
   array (
     'id' => 30670,
     'name' => 'Gladsaxe Municipality',
@@ -883,7 +865,7 @@ return array (
     'latitude' => 55.76667,
     'longitude' => 12.43333,
   ),
-  98 => 
+  96 => 
   array (
     'id' => 30671,
     'name' => 'Glamsbjerg',
@@ -892,7 +874,7 @@ return array (
     'latitude' => 55.27237,
     'longitude' => 10.10483,
   ),
-  99 => 
+  97 => 
   array (
     'id' => 30672,
     'name' => 'Glostrup',
@@ -901,7 +883,7 @@ return array (
     'latitude' => 55.6666,
     'longitude' => 12.40377,
   ),
-  100 => 
+  98 => 
   array (
     'id' => 30673,
     'name' => 'Glostrup Kommune',
@@ -910,7 +892,7 @@ return array (
     'latitude' => 55.68188,
     'longitude' => 12.41018,
   ),
-  101 => 
+  99 => 
   array (
     'id' => 30674,
     'name' => 'Gram',
@@ -919,7 +901,7 @@ return array (
     'latitude' => 55.28948,
     'longitude' => 9.04913,
   ),
-  102 => 
+  100 => 
   array (
     'id' => 30675,
     'name' => 'Grenaa',
@@ -928,7 +910,7 @@ return array (
     'latitude' => 56.41578,
     'longitude' => 10.87825,
   ),
-  103 => 
+  101 => 
   array (
     'id' => 30676,
     'name' => 'Greve',
@@ -937,7 +919,7 @@ return array (
     'latitude' => 55.58333,
     'longitude' => 12.3,
   ),
-  104 => 
+  102 => 
   array (
     'id' => 30677,
     'name' => 'Greve Kommune',
@@ -946,7 +928,7 @@ return array (
     'latitude' => 55.5877,
     'longitude' => 12.2506,
   ),
-  105 => 
+  103 => 
   array (
     'id' => 30678,
     'name' => 'Gribskov Kommune',
@@ -955,7 +937,7 @@ return array (
     'latitude' => 56.05833,
     'longitude' => 12.24167,
   ),
-  106 => 
+  104 => 
   array (
     'id' => 30679,
     'name' => 'Grindsted',
@@ -964,7 +946,7 @@ return array (
     'latitude' => 55.75726,
     'longitude' => 8.9275,
   ),
-  107 => 
+  105 => 
   array (
     'id' => 30680,
     'name' => 'Gråsten',
@@ -973,7 +955,7 @@ return array (
     'latitude' => 54.91918,
     'longitude' => 9.59523,
   ),
-  108 => 
+  106 => 
   array (
     'id' => 30681,
     'name' => 'Græsted',
@@ -982,7 +964,7 @@ return array (
     'latitude' => 56.06558,
     'longitude' => 12.28512,
   ),
-  109 => 
+  107 => 
   array (
     'id' => 30682,
     'name' => 'Guderup',
@@ -991,7 +973,7 @@ return array (
     'latitude' => 54.98978,
     'longitude' => 9.87174,
   ),
-  110 => 
+  108 => 
   array (
     'id' => 30683,
     'name' => 'Guldborgsund Kommune',
@@ -1000,7 +982,7 @@ return array (
     'latitude' => 54.76944,
     'longitude' => 11.83611,
   ),
-  111 => 
+  109 => 
   array (
     'id' => 30684,
     'name' => 'Gundsømagle',
@@ -1009,7 +991,7 @@ return array (
     'latitude' => 55.73565,
     'longitude' => 12.15158,
   ),
-  112 => 
+  110 => 
   array (
     'id' => 30685,
     'name' => 'Gørlev',
@@ -1018,7 +1000,7 @@ return array (
     'latitude' => 55.53926,
     'longitude' => 11.22708,
   ),
-  113 => 
+  111 => 
   array (
     'id' => 30686,
     'name' => 'Haderslev',
@@ -1027,7 +1009,7 @@ return array (
     'latitude' => 55.24943,
     'longitude' => 9.48771,
   ),
-  114 => 
+  112 => 
   array (
     'id' => 30687,
     'name' => 'Haderslev Kommune',
@@ -1036,7 +1018,7 @@ return array (
     'latitude' => 55.24441,
     'longitude' => 9.32261,
   ),
-  115 => 
+  113 => 
   array (
     'id' => 30688,
     'name' => 'Hadsten',
@@ -1045,7 +1027,7 @@ return array (
     'latitude' => 56.32819,
     'longitude' => 10.04931,
   ),
-  116 => 
+  114 => 
   array (
     'id' => 30689,
     'name' => 'Hadsund',
@@ -1054,7 +1036,7 @@ return array (
     'latitude' => 56.71482,
     'longitude' => 10.11682,
   ),
-  117 => 
+  115 => 
   array (
     'id' => 30690,
     'name' => 'Hals',
@@ -1063,7 +1045,7 @@ return array (
     'latitude' => 56.99609,
     'longitude' => 10.30807,
   ),
-  118 => 
+  116 => 
   array (
     'id' => 30691,
     'name' => 'Halsnæs Kommune',
@@ -1072,7 +1054,7 @@ return array (
     'latitude' => 55.96765,
     'longitude' => 11.94214,
   ),
-  119 => 
+  117 => 
   array (
     'id' => 30692,
     'name' => 'Hammel',
@@ -1081,7 +1063,7 @@ return array (
     'latitude' => 56.25762,
     'longitude' => 9.86316,
   ),
-  120 => 
+  118 => 
   array (
     'id' => 30693,
     'name' => 'Hammerum',
@@ -1090,7 +1072,7 @@ return array (
     'latitude' => 56.13361,
     'longitude' => 9.06121,
   ),
-  121 => 
+  119 => 
   array (
     'id' => 30694,
     'name' => 'Hanstholm',
@@ -1099,7 +1081,7 @@ return array (
     'latitude' => 57.11667,
     'longitude' => 8.61667,
   ),
-  122 => 
+  120 => 
   array (
     'id' => 30695,
     'name' => 'Harboøre',
@@ -1108,7 +1090,7 @@ return array (
     'latitude' => 56.61752,
     'longitude' => 8.18069,
   ),
-  123 => 
+  121 => 
   array (
     'id' => 30696,
     'name' => 'Haslev',
@@ -1117,7 +1099,7 @@ return array (
     'latitude' => 55.32346,
     'longitude' => 11.96389,
   ),
-  124 => 
+  122 => 
   array (
     'id' => 30697,
     'name' => 'Havdrup',
@@ -1126,7 +1108,7 @@ return array (
     'latitude' => 55.54481,
     'longitude' => 12.12392,
   ),
-  125 => 
+  123 => 
   array (
     'id' => 30698,
     'name' => 'Hedensted',
@@ -1135,7 +1117,7 @@ return array (
     'latitude' => 55.77043,
     'longitude' => 9.7011,
   ),
-  126 => 
+  124 => 
   array (
     'id' => 30699,
     'name' => 'Hedensted Kommune',
@@ -1144,7 +1126,7 @@ return array (
     'latitude' => 55.7968,
     'longitude' => 9.744,
   ),
-  127 => 
+  125 => 
   array (
     'id' => 30700,
     'name' => 'Hellebæk',
@@ -1153,7 +1135,7 @@ return array (
     'latitude' => 56.06823,
     'longitude' => 12.55782,
   ),
-  128 => 
+  126 => 
   array (
     'id' => 30701,
     'name' => 'Helsinge',
@@ -1162,7 +1144,7 @@ return array (
     'latitude' => 56.02283,
     'longitude' => 12.19752,
   ),
-  129 => 
+  127 => 
   array (
     'id' => 30702,
     'name' => 'Helsingør',
@@ -1171,7 +1153,7 @@ return array (
     'latitude' => 56.03606,
     'longitude' => 12.6136,
   ),
-  130 => 
+  128 => 
   array (
     'id' => 30703,
     'name' => 'Helsingør Kommune',
@@ -1180,7 +1162,7 @@ return array (
     'latitude' => 56.05,
     'longitude' => 12.5,
   ),
-  131 => 
+  129 => 
   array (
     'id' => 30704,
     'name' => 'Herlev Kommune',
@@ -1189,7 +1171,7 @@ return array (
     'latitude' => 55.73317,
     'longitude' => 12.43106,
   ),
-  132 => 
+  130 => 
   array (
     'id' => 30705,
     'name' => 'Herning',
@@ -1198,7 +1180,7 @@ return array (
     'latitude' => 56.13615,
     'longitude' => 8.97662,
   ),
-  133 => 
+  131 => 
   array (
     'id' => 30706,
     'name' => 'Herning Kommune',
@@ -1207,7 +1189,7 @@ return array (
     'latitude' => 56.14997,
     'longitude' => 8.89712,
   ),
-  134 => 
+  132 => 
   array (
     'id' => 30707,
     'name' => 'Hillerød',
@@ -1216,7 +1198,7 @@ return array (
     'latitude' => 55.92791,
     'longitude' => 12.30081,
   ),
-  135 => 
+  133 => 
   array (
     'id' => 30708,
     'name' => 'Hillerød Kommune',
@@ -1225,7 +1207,7 @@ return array (
     'latitude' => 55.92319,
     'longitude' => 12.23794,
   ),
-  136 => 
+  134 => 
   array (
     'id' => 30709,
     'name' => 'Hinnerup',
@@ -1234,7 +1216,7 @@ return array (
     'latitude' => 56.26608,
     'longitude' => 10.06299,
   ),
-  137 => 
+  135 => 
   array (
     'id' => 30710,
     'name' => 'Hirtshals',
@@ -1243,7 +1225,7 @@ return array (
     'latitude' => 57.58812,
     'longitude' => 9.95922,
   ),
-  138 => 
+  136 => 
   array (
     'id' => 30711,
     'name' => 'Hjallerup',
@@ -1252,7 +1234,7 @@ return array (
     'latitude' => 57.16466,
     'longitude' => 10.14571,
   ),
-  139 => 
+  137 => 
   array (
     'id' => 30712,
     'name' => 'Hjortshøj',
@@ -1261,7 +1243,7 @@ return array (
     'latitude' => 56.24811,
     'longitude' => 10.26533,
   ),
-  140 => 
+  138 => 
   array (
     'id' => 30713,
     'name' => 'Hjørring',
@@ -1270,7 +1252,7 @@ return array (
     'latitude' => 57.46417,
     'longitude' => 9.98229,
   ),
-  141 => 
+  139 => 
   array (
     'id' => 30714,
     'name' => 'Hjørring Kommune',
@@ -1279,7 +1261,7 @@ return array (
     'latitude' => 57.45682,
     'longitude' => 10.05859,
   ),
-  142 => 
+  140 => 
   array (
     'id' => 30715,
     'name' => 'Hobro',
@@ -1288,7 +1270,7 @@ return array (
     'latitude' => 56.64306,
     'longitude' => 9.79029,
   ),
-  143 => 
+  141 => 
   array (
     'id' => 30716,
     'name' => 'Holbæk',
@@ -1297,7 +1279,7 @@ return array (
     'latitude' => 55.7175,
     'longitude' => 11.71279,
   ),
-  144 => 
+  142 => 
   array (
     'id' => 30717,
     'name' => 'Holbæk Kommune',
@@ -1306,7 +1288,7 @@ return array (
     'latitude' => 55.65919,
     'longitude' => 11.62049,
   ),
-  145 => 
+  143 => 
   array (
     'id' => 30718,
     'name' => 'Holeby',
@@ -1315,7 +1297,7 @@ return array (
     'latitude' => 54.71148,
     'longitude' => 11.46416,
   ),
-  146 => 
+  144 => 
   array (
     'id' => 30719,
     'name' => 'Holstebro',
@@ -1324,7 +1306,7 @@ return array (
     'latitude' => 56.36009,
     'longitude' => 8.61607,
   ),
-  147 => 
+  145 => 
   array (
     'id' => 30720,
     'name' => 'Holstebro Kommune',
@@ -1333,7 +1315,7 @@ return array (
     'latitude' => 56.35916,
     'longitude' => 8.59631,
   ),
-  148 => 
+  146 => 
   array (
     'id' => 30721,
     'name' => 'Holsted',
@@ -1342,7 +1324,7 @@ return array (
     'latitude' => 55.51086,
     'longitude' => 8.91872,
   ),
-  149 => 
+  147 => 
   array (
     'id' => 30722,
     'name' => 'Hornbæk',
@@ -1351,7 +1333,7 @@ return array (
     'latitude' => 56.09027,
     'longitude' => 12.45693,
   ),
-  150 => 
+  148 => 
   array (
     'id' => 30723,
     'name' => 'Hornslet',
@@ -1360,7 +1342,7 @@ return array (
     'latitude' => 56.3155,
     'longitude' => 10.32041,
   ),
-  151 => 
+  149 => 
   array (
     'id' => 30724,
     'name' => 'Hornsyld',
@@ -1369,7 +1351,7 @@ return array (
     'latitude' => 55.75621,
     'longitude' => 9.85643,
   ),
-  152 => 
+  150 => 
   array (
     'id' => 30725,
     'name' => 'Horsens',
@@ -1378,7 +1360,7 @@ return array (
     'latitude' => 55.86066,
     'longitude' => 9.85034,
   ),
-  153 => 
+  151 => 
   array (
     'id' => 30726,
     'name' => 'Horsens Kommune',
@@ -1387,7 +1369,7 @@ return array (
     'latitude' => 55.9274,
     'longitude' => 9.77377,
   ),
-  154 => 
+  152 => 
   array (
     'id' => 30727,
     'name' => 'Humlebæk',
@@ -1396,7 +1378,7 @@ return array (
     'latitude' => 55.9618,
     'longitude' => 12.5341,
   ),
-  155 => 
+  153 => 
   array (
     'id' => 30728,
     'name' => 'Hundested',
@@ -1405,7 +1387,7 @@ return array (
     'latitude' => 55.96397,
     'longitude' => 11.85044,
   ),
-  156 => 
+  154 => 
   array (
     'id' => 30729,
     'name' => 'Hurup',
@@ -1414,7 +1396,7 @@ return array (
     'latitude' => 56.74944,
     'longitude' => 8.41953,
   ),
-  157 => 
+  155 => 
   array (
     'id' => 30730,
     'name' => 'Hvide Sande',
@@ -1423,7 +1405,7 @@ return array (
     'latitude' => 55.99866,
     'longitude' => 8.12605,
   ),
-  158 => 
+  156 => 
   array (
     'id' => 30731,
     'name' => 'Hvidovre',
@@ -1432,7 +1414,7 @@ return array (
     'latitude' => 55.65719,
     'longitude' => 12.47364,
   ),
-  159 => 
+  157 => 
   array (
     'id' => 30732,
     'name' => 'Hvidovre Kommune',
@@ -1441,7 +1423,7 @@ return array (
     'latitude' => 55.63166,
     'longitude' => 12.46615,
   ),
-  160 => 
+  158 => 
   array (
     'id' => 30733,
     'name' => 'Hårby',
@@ -1450,7 +1432,7 @@ return array (
     'latitude' => 55.22357,
     'longitude' => 10.12268,
   ),
-  161 => 
+  159 => 
   array (
     'id' => 30734,
     'name' => 'Hårlev',
@@ -1459,7 +1441,7 @@ return array (
     'latitude' => 55.34936,
     'longitude' => 12.23382,
   ),
-  162 => 
+  160 => 
   array (
     'id' => 30735,
     'name' => 'Højby',
@@ -1468,7 +1450,7 @@ return array (
     'latitude' => 55.33177,
     'longitude' => 10.43725,
   ),
-  163 => 
+  161 => 
   array (
     'id' => 30736,
     'name' => 'Høje-Taastrup Kommune',
@@ -1477,7 +1459,7 @@ return array (
     'latitude' => 55.65643,
     'longitude' => 12.24854,
   ),
-  164 => 
+  162 => 
   array (
     'id' => 30737,
     'name' => 'Høng',
@@ -1486,7 +1468,7 @@ return array (
     'latitude' => 55.50736,
     'longitude' => 11.28873,
   ),
-  165 => 
+  163 => 
   array (
     'id' => 30738,
     'name' => 'Hørning',
@@ -1495,7 +1477,7 @@ return array (
     'latitude' => 56.08701,
     'longitude' => 10.03716,
   ),
-  166 => 
+  164 => 
   array (
     'id' => 30739,
     'name' => 'Hørsholm',
@@ -1504,7 +1486,7 @@ return array (
     'latitude' => 55.88098,
     'longitude' => 12.50111,
   ),
-  167 => 
+  165 => 
   array (
     'id' => 30740,
     'name' => 'Hørsholm Kommune',
@@ -1513,7 +1495,7 @@ return array (
     'latitude' => 55.88759,
     'longitude' => 12.48566,
   ),
-  168 => 
+  166 => 
   array (
     'id' => 30741,
     'name' => 'Høruphav',
@@ -1522,7 +1504,7 @@ return array (
     'latitude' => 54.91017,
     'longitude' => 9.89872,
   ),
-  169 => 
+  167 => 
   array (
     'id' => 30742,
     'name' => 'Hørve',
@@ -1531,7 +1513,7 @@ return array (
     'latitude' => 55.75292,
     'longitude' => 11.45298,
   ),
-  170 => 
+  168 => 
   array (
     'id' => 30743,
     'name' => 'Ikast',
@@ -1540,7 +1522,7 @@ return array (
     'latitude' => 56.13883,
     'longitude' => 9.15768,
   ),
-  171 => 
+  169 => 
   array (
     'id' => 30744,
     'name' => 'Ikast-Brande Kommune',
@@ -1549,7 +1531,7 @@ return array (
     'latitude' => 55.98333,
     'longitude' => 9.21667,
   ),
-  172 => 
+  170 => 
   array (
     'id' => 30745,
     'name' => 'Ishøj',
@@ -1558,7 +1540,7 @@ return array (
     'latitude' => 55.61543,
     'longitude' => 12.35182,
   ),
-  173 => 
+  171 => 
   array (
     'id' => 30746,
     'name' => 'Ishøj Kommune',
@@ -1567,7 +1549,7 @@ return array (
     'latitude' => 55.62299,
     'longitude' => 12.30567,
   ),
-  174 => 
+  172 => 
   array (
     'id' => 30747,
     'name' => 'Jammerbugt Kommune',
@@ -1576,7 +1558,7 @@ return array (
     'latitude' => 57.14583,
     'longitude' => 9.5625,
   ),
-  175 => 
+  173 => 
   array (
     'id' => 30748,
     'name' => 'Jelling',
@@ -1585,7 +1567,7 @@ return array (
     'latitude' => 55.75588,
     'longitude' => 9.4258,
   ),
-  176 => 
+  174 => 
   array (
     'id' => 30749,
     'name' => 'Juelsminde',
@@ -1594,7 +1576,7 @@ return array (
     'latitude' => 55.70876,
     'longitude' => 10.01668,
   ),
-  177 => 
+  175 => 
   array (
     'id' => 30750,
     'name' => 'Jyderup',
@@ -1603,7 +1585,7 @@ return array (
     'latitude' => 55.66399,
     'longitude' => 11.42029,
   ),
-  178 => 
+  176 => 
   array (
     'id' => 30751,
     'name' => 'Jyllinge',
@@ -1612,7 +1594,7 @@ return array (
     'latitude' => 55.75295,
     'longitude' => 12.10315,
   ),
-  179 => 
+  177 => 
   array (
     'id' => 30752,
     'name' => 'Jægerspris',
@@ -1621,7 +1603,7 @@ return array (
     'latitude' => 55.85248,
     'longitude' => 11.98565,
   ),
-  180 => 
+  178 => 
   array (
     'id' => 30753,
     'name' => 'Kalundborg',
@@ -1630,7 +1612,7 @@ return array (
     'latitude' => 55.67954,
     'longitude' => 11.08864,
   ),
-  181 => 
+  179 => 
   array (
     'id' => 30754,
     'name' => 'Kalundborg Kommune',
@@ -1639,7 +1621,7 @@ return array (
     'latitude' => 55.63545,
     'longitude' => 11.19993,
   ),
-  182 => 
+  180 => 
   array (
     'id' => 30755,
     'name' => 'Karup',
@@ -1648,7 +1630,7 @@ return array (
     'latitude' => 56.30673,
     'longitude' => 9.16835,
   ),
-  183 => 
+  181 => 
   array (
     'id' => 30756,
     'name' => 'Kerteminde',
@@ -1657,7 +1639,7 @@ return array (
     'latitude' => 55.44903,
     'longitude' => 10.65769,
   ),
-  184 => 
+  182 => 
   array (
     'id' => 30757,
     'name' => 'Kerteminde Kommune',
@@ -1666,7 +1648,7 @@ return array (
     'latitude' => 55.45498,
     'longitude' => 10.6222,
   ),
-  185 => 
+  183 => 
   array (
     'id' => 30758,
     'name' => 'Kibæk',
@@ -1675,7 +1657,7 @@ return array (
     'latitude' => 56.0317,
     'longitude' => 8.85697,
   ),
-  186 => 
+  184 => 
   array (
     'id' => 30759,
     'name' => 'Kirke Hvalsø',
@@ -1684,7 +1666,7 @@ return array (
     'latitude' => 55.5917,
     'longitude' => 11.86253,
   ),
-  187 => 
+  185 => 
   array (
     'id' => 30760,
     'name' => 'Kjellerup',
@@ -1693,7 +1675,7 @@ return array (
     'latitude' => 56.28581,
     'longitude' => 9.43528,
   ),
-  188 => 
+  186 => 
   array (
     'id' => 30761,
     'name' => 'Klarup',
@@ -1702,7 +1684,7 @@ return array (
     'latitude' => 57.01194,
     'longitude' => 10.05617,
   ),
-  189 => 
+  187 => 
   array (
     'id' => 30762,
     'name' => 'Kokkedal',
@@ -1711,7 +1693,7 @@ return array (
     'latitude' => 55.91179,
     'longitude' => 12.49952,
   ),
-  190 => 
+  188 => 
   array (
     'id' => 30763,
     'name' => 'Kolding',
@@ -1720,7 +1702,7 @@ return array (
     'latitude' => 55.4904,
     'longitude' => 9.47216,
   ),
-  191 => 
+  189 => 
   array (
     'id' => 30764,
     'name' => 'Kolding Kommune',
@@ -1729,7 +1711,7 @@ return array (
     'latitude' => 55.45006,
     'longitude' => 9.45807,
   ),
-  192 => 
+  190 => 
   array (
     'id' => 30765,
     'name' => 'Kolt',
@@ -1738,7 +1720,7 @@ return array (
     'latitude' => 56.10845,
     'longitude' => 10.06986,
   ),
-  193 => 
+  191 => 
   array (
     'id' => 30766,
     'name' => 'Kongens Lyngby',
@@ -1747,7 +1729,7 @@ return array (
     'latitude' => 55.77044,
     'longitude' => 12.50378,
   ),
-  194 => 
+  192 => 
   array (
     'id' => 30767,
     'name' => 'Korsør',
@@ -1756,7 +1738,7 @@ return array (
     'latitude' => 55.32993,
     'longitude' => 11.13857,
   ),
-  195 => 
+  193 => 
   array (
     'id' => 30768,
     'name' => 'Kruså',
@@ -1765,7 +1747,7 @@ return array (
     'latitude' => 54.85097,
     'longitude' => 9.40129,
   ),
-  196 => 
+  194 => 
   array (
     'id' => 30769,
     'name' => 'Kås',
@@ -1774,7 +1756,7 @@ return array (
     'latitude' => 57.19774,
     'longitude' => 9.67173,
   ),
-  197 => 
+  195 => 
   array (
     'id' => 30770,
     'name' => 'København',
@@ -1783,7 +1765,7 @@ return array (
     'latitude' => 55.6711,
     'longitude' => 12.56529,
   ),
-  198 => 
+  196 => 
   array (
     'id' => 30771,
     'name' => 'Køge',
@@ -1792,7 +1774,7 @@ return array (
     'latitude' => 55.45802,
     'longitude' => 12.18214,
   ),
-  199 => 
+  197 => 
   array (
     'id' => 30772,
     'name' => 'Køge Kommune',
@@ -1801,7 +1783,7 @@ return array (
     'latitude' => 55.45668,
     'longitude' => 12.07332,
   ),
-  200 => 
+  198 => 
   array (
     'id' => 30773,
     'name' => 'Langeland Kommune',
@@ -1810,7 +1792,7 @@ return array (
     'latitude' => 54.9,
     'longitude' => 10.77222,
   ),
-  201 => 
+  199 => 
   array (
     'id' => 30774,
     'name' => 'Langeskov',
@@ -1819,7 +1801,7 @@ return array (
     'latitude' => 55.35655,
     'longitude' => 10.58447,
   ),
-  202 => 
+  200 => 
   array (
     'id' => 30775,
     'name' => 'Langå',
@@ -1828,7 +1810,7 @@ return array (
     'latitude' => 56.39026,
     'longitude' => 9.89486,
   ),
-  203 => 
+  201 => 
   array (
     'id' => 30776,
     'name' => 'Lejre',
@@ -1837,7 +1819,7 @@ return array (
     'latitude' => 55.60461,
     'longitude' => 11.97477,
   ),
-  204 => 
+  202 => 
   array (
     'id' => 30777,
     'name' => 'Lejre Kommune',
@@ -1846,7 +1828,7 @@ return array (
     'latitude' => 55.63375,
     'longitude' => 11.92234,
   ),
-  205 => 
+  203 => 
   array (
     'id' => 30778,
     'name' => 'Lemvig',
@@ -1855,7 +1837,7 @@ return array (
     'latitude' => 56.54856,
     'longitude' => 8.31019,
   ),
-  206 => 
+  204 => 
   array (
     'id' => 30779,
     'name' => 'Lemvig Kommune',
@@ -1864,7 +1846,7 @@ return array (
     'latitude' => 56.49136,
     'longitude' => 8.29927,
   ),
-  207 => 
+  205 => 
   array (
     'id' => 30780,
     'name' => 'Lillerød',
@@ -1873,7 +1855,7 @@ return array (
     'latitude' => 55.87496,
     'longitude' => 12.34579,
   ),
-  208 => 
+  206 => 
   array (
     'id' => 30781,
     'name' => 'Lind',
@@ -1882,7 +1864,7 @@ return array (
     'latitude' => 56.106,
     'longitude' => 8.97915,
   ),
-  209 => 
+  207 => 
   array (
     'id' => 30782,
     'name' => 'Liseleje',
@@ -1891,7 +1873,7 @@ return array (
     'latitude' => 56.01295,
     'longitude' => 11.96544,
   ),
-  210 => 
+  208 => 
   array (
     'id' => 30783,
     'name' => 'Lolland Kommune',
@@ -1900,7 +1882,7 @@ return array (
     'latitude' => 54.80238,
     'longitude' => 11.29524,
   ),
-  211 => 
+  209 => 
   array (
     'id' => 30784,
     'name' => 'Lunderskov',
@@ -1909,7 +1891,7 @@ return array (
     'latitude' => 55.48375,
     'longitude' => 9.29917,
   ),
-  212 => 
+  210 => 
   array (
     'id' => 30785,
     'name' => 'Lyngby-Tårbæk Kommune',
@@ -1918,7 +1900,7 @@ return array (
     'latitude' => 55.78456,
     'longitude' => 12.50508,
   ),
-  213 => 
+  211 => 
   array (
     'id' => 30786,
     'name' => 'Lynge',
@@ -1927,7 +1909,7 @@ return array (
     'latitude' => 55.83941,
     'longitude' => 12.27725,
   ),
-  214 => 
+  212 => 
   array (
     'id' => 30787,
     'name' => 'Lystrup',
@@ -1936,7 +1918,7 @@ return array (
     'latitude' => 56.2375,
     'longitude' => 10.23778,
   ),
-  215 => 
+  213 => 
   array (
     'id' => 30788,
     'name' => 'Læso Kommune',
@@ -1945,7 +1927,7 @@ return array (
     'latitude' => 57.26774,
     'longitude' => 11.02265,
   ),
-  216 => 
+  214 => 
   array (
     'id' => 30789,
     'name' => 'Løgstør',
@@ -1954,7 +1936,7 @@ return array (
     'latitude' => 56.96245,
     'longitude' => 9.2583,
   ),
-  217 => 
+  215 => 
   array (
     'id' => 30790,
     'name' => 'Løgten',
@@ -1963,7 +1945,7 @@ return array (
     'latitude' => 56.27459,
     'longitude' => 10.31181,
   ),
-  218 => 
+  216 => 
   array (
     'id' => 30791,
     'name' => 'Løgumkloster',
@@ -1972,7 +1954,7 @@ return array (
     'latitude' => 55.05941,
     'longitude' => 8.95508,
   ),
-  219 => 
+  217 => 
   array (
     'id' => 30792,
     'name' => 'Løjt Kirkeby',
@@ -1981,7 +1963,7 @@ return array (
     'latitude' => 55.08959,
     'longitude' => 9.46084,
   ),
-  220 => 
+  218 => 
   array (
     'id' => 30793,
     'name' => 'Løkken',
@@ -1990,7 +1972,7 @@ return array (
     'latitude' => 57.37047,
     'longitude' => 9.71466,
   ),
-  221 => 
+  219 => 
   array (
     'id' => 30794,
     'name' => 'Malling',
@@ -1999,7 +1981,7 @@ return array (
     'latitude' => 56.03632,
     'longitude' => 10.19632,
   ),
-  222 => 
+  220 => 
   array (
     'id' => 30795,
     'name' => 'Mariager',
@@ -2008,7 +1990,7 @@ return array (
     'latitude' => 56.64985,
     'longitude' => 9.97515,
   ),
-  223 => 
+  221 => 
   array (
     'id' => 30796,
     'name' => 'Mariagerfjord Kommune',
@@ -2017,7 +1999,7 @@ return array (
     'latitude' => 56.69722,
     'longitude' => 9.84722,
   ),
-  224 => 
+  222 => 
   array (
     'id' => 30797,
     'name' => 'Maribo',
@@ -2026,7 +2008,7 @@ return array (
     'latitude' => 54.77662,
     'longitude' => 11.50017,
   ),
-  225 => 
+  223 => 
   array (
     'id' => 30798,
     'name' => 'Marstal',
@@ -2035,7 +2017,7 @@ return array (
     'latitude' => 54.85621,
     'longitude' => 10.51726,
   ),
-  226 => 
+  224 => 
   array (
     'id' => 30799,
     'name' => 'Middelfart',
@@ -2044,7 +2026,7 @@ return array (
     'latitude' => 55.50591,
     'longitude' => 9.73054,
   ),
-  227 => 
+  225 => 
   array (
     'id' => 30800,
     'name' => 'Middelfart Kommune',
@@ -2053,7 +2035,7 @@ return array (
     'latitude' => 55.45782,
     'longitude' => 9.881,
   ),
-  228 => 
+  226 => 
   array (
     'id' => 30801,
     'name' => 'Morsø Kommune',
@@ -2062,7 +2044,7 @@ return array (
     'latitude' => 56.79622,
     'longitude' => 8.73272,
   ),
-  229 => 
+  227 => 
   array (
     'id' => 30802,
     'name' => 'Munkebo',
@@ -2071,7 +2053,7 @@ return array (
     'latitude' => 55.45553,
     'longitude' => 10.55433,
   ),
-  230 => 
+  228 => 
   array (
     'id' => 30803,
     'name' => 'Måløv',
@@ -2080,7 +2062,7 @@ return array (
     'latitude' => 55.75528,
     'longitude' => 12.32327,
   ),
-  231 => 
+  229 => 
   array (
     'id' => 30804,
     'name' => 'Mårslet',
@@ -2089,7 +2071,7 @@ return array (
     'latitude' => 56.0669,
     'longitude' => 10.16112,
   ),
-  232 => 
+  230 => 
   array (
     'id' => 30805,
     'name' => 'Nakskov',
@@ -2098,7 +2080,7 @@ return array (
     'latitude' => 54.83038,
     'longitude' => 11.13567,
   ),
-  233 => 
+  231 => 
   array (
     'id' => 30806,
     'name' => 'Neder Holluf',
@@ -2107,7 +2089,7 @@ return array (
     'latitude' => 55.36451,
     'longitude' => 10.44824,
   ),
-  234 => 
+  232 => 
   array (
     'id' => 30807,
     'name' => 'Neder Vindinge',
@@ -2116,7 +2098,7 @@ return array (
     'latitude' => 55.03211,
     'longitude' => 11.88356,
   ),
-  235 => 
+  233 => 
   array (
     'id' => 30808,
     'name' => 'Nexø',
@@ -2125,7 +2107,7 @@ return array (
     'latitude' => 55.06067,
     'longitude' => 15.13058,
   ),
-  236 => 
+  234 => 
   array (
     'id' => 30809,
     'name' => 'Nibe',
@@ -2134,7 +2116,7 @@ return array (
     'latitude' => 56.9815,
     'longitude' => 9.63917,
   ),
-  237 => 
+  235 => 
   array (
     'id' => 30810,
     'name' => 'Nivå',
@@ -2143,7 +2125,7 @@ return array (
     'latitude' => 55.93405,
     'longitude' => 12.50485,
   ),
-  238 => 
+  236 => 
   array (
     'id' => 30811,
     'name' => 'Nordborg',
@@ -2152,7 +2134,7 @@ return array (
     'latitude' => 55.05732,
     'longitude' => 9.7408,
   ),
-  239 => 
+  237 => 
   array (
     'id' => 30812,
     'name' => 'Nordby',
@@ -2161,7 +2143,7 @@ return array (
     'latitude' => 55.44603,
     'longitude' => 8.39786,
   ),
-  240 => 
+  238 => 
   array (
     'id' => 30813,
     'name' => 'Norddjurs Kommune',
@@ -2170,7 +2152,7 @@ return array (
     'latitude' => 56.44124,
     'longitude' => 10.7666,
   ),
-  241 => 
+  239 => 
   array (
     'id' => 30814,
     'name' => 'Nordfyns Kommune',
@@ -2179,7 +2161,7 @@ return array (
     'latitude' => 55.52222,
     'longitude' => 10.22222,
   ),
-  242 => 
+  240 => 
   array (
     'id' => 30815,
     'name' => 'Nyborg',
@@ -2188,7 +2170,7 @@ return array (
     'latitude' => 55.31274,
     'longitude' => 10.78964,
   ),
-  243 => 
+  241 => 
   array (
     'id' => 30816,
     'name' => 'Nyborg Kommune',
@@ -2197,7 +2179,7 @@ return array (
     'latitude' => 55.29473,
     'longitude' => 10.7031,
   ),
-  244 => 
+  242 => 
   array (
     'id' => 30817,
     'name' => 'Nykøbing Falster',
@@ -2206,7 +2188,7 @@ return array (
     'latitude' => 54.76906,
     'longitude' => 11.87425,
   ),
-  245 => 
+  243 => 
   array (
     'id' => 30818,
     'name' => 'Nykøbing Mors',
@@ -2215,7 +2197,7 @@ return array (
     'latitude' => 56.79334,
     'longitude' => 8.85282,
   ),
-  246 => 
+  244 => 
   array (
     'id' => 30819,
     'name' => 'Nykøbing Sjælland',
@@ -2224,7 +2206,7 @@ return array (
     'latitude' => 55.92491,
     'longitude' => 11.67109,
   ),
-  247 => 
+  245 => 
   array (
     'id' => 30820,
     'name' => 'Nyråd',
@@ -2233,7 +2215,7 @@ return array (
     'latitude' => 55.00511,
     'longitude' => 11.9606,
   ),
-  248 => 
+  246 => 
   array (
     'id' => 30821,
     'name' => 'Næstved',
@@ -2242,7 +2224,7 @@ return array (
     'latitude' => 55.22992,
     'longitude' => 11.76092,
   ),
-  249 => 
+  247 => 
   array (
     'id' => 30822,
     'name' => 'Næstved Kommune',
@@ -2251,7 +2233,7 @@ return array (
     'latitude' => 55.25855,
     'longitude' => 11.74615,
   ),
-  250 => 
+  248 => 
   array (
     'id' => 30823,
     'name' => 'Nødebo',
@@ -2260,7 +2242,7 @@ return array (
     'latitude' => 55.97877,
     'longitude' => 12.34685,
   ),
-  251 => 
+  249 => 
   array (
     'id' => 30824,
     'name' => 'Nørre Alslev',
@@ -2269,7 +2251,7 @@ return array (
     'latitude' => 54.89784,
     'longitude' => 11.88414,
   ),
-  252 => 
+  250 => 
   array (
     'id' => 30825,
     'name' => 'Nørre Åby',
@@ -2278,7 +2260,7 @@ return array (
     'latitude' => 55.46107,
     'longitude' => 9.8794,
   ),
-  253 => 
+  251 => 
   array (
     'id' => 30826,
     'name' => 'Nørresundby',
@@ -2287,7 +2269,7 @@ return array (
     'latitude' => 57.05877,
     'longitude' => 9.92284,
   ),
-  254 => 
+  252 => 
   array (
     'id' => 30827,
     'name' => 'Odder',
@@ -2296,7 +2278,7 @@ return array (
     'latitude' => 55.97313,
     'longitude' => 10.153,
   ),
-  255 => 
+  253 => 
   array (
     'id' => 30828,
     'name' => 'Odder Kommune',
@@ -2305,7 +2287,7 @@ return array (
     'latitude' => 55.92967,
     'longitude' => 10.15304,
   ),
-  256 => 
+  254 => 
   array (
     'id' => 30829,
     'name' => 'Odense',
@@ -2314,7 +2296,7 @@ return array (
     'latitude' => 55.39594,
     'longitude' => 10.38831,
   ),
-  257 => 
+  255 => 
   array (
     'id' => 30830,
     'name' => 'Odense Kommune',
@@ -2323,7 +2305,7 @@ return array (
     'latitude' => 55.3957,
     'longitude' => 10.37761,
   ),
-  258 => 
+  256 => 
   array (
     'id' => 30831,
     'name' => 'Odsherred Kommune',
@@ -2332,7 +2314,7 @@ return array (
     'latitude' => 55.88333,
     'longitude' => 11.59444,
   ),
-  259 => 
+  257 => 
   array (
     'id' => 30832,
     'name' => 'Oksbøl',
@@ -2341,7 +2323,7 @@ return array (
     'latitude' => 55.6268,
     'longitude' => 8.28757,
   ),
-  260 => 
+  258 => 
   array (
     'id' => 30833,
     'name' => 'Osted',
@@ -2350,7 +2332,7 @@ return array (
     'latitude' => 55.56228,
     'longitude' => 11.95786,
   ),
-  261 => 
+  259 => 
   array (
     'id' => 30834,
     'name' => 'Otterup',
@@ -2359,7 +2341,7 @@ return array (
     'latitude' => 55.51527,
     'longitude' => 10.39756,
   ),
-  262 => 
+  260 => 
   array (
     'id' => 30835,
     'name' => 'Padborg',
@@ -2368,7 +2350,7 @@ return array (
     'latitude' => 54.82657,
     'longitude' => 9.36247,
   ),
-  263 => 
+  261 => 
   array (
     'id' => 30836,
     'name' => 'Pandrup',
@@ -2377,7 +2359,7 @@ return array (
     'latitude' => 57.22147,
     'longitude' => 9.67569,
   ),
-  264 => 
+  262 => 
   array (
     'id' => 30837,
     'name' => 'Præstø',
@@ -2386,7 +2368,7 @@ return array (
     'latitude' => 55.12374,
     'longitude' => 12.04477,
   ),
-  265 => 
+  263 => 
   array (
     'id' => 30838,
     'name' => 'Randers',
@@ -2395,7 +2377,7 @@ return array (
     'latitude' => 56.4607,
     'longitude' => 10.03639,
   ),
-  266 => 
+  264 => 
   array (
     'id' => 30839,
     'name' => 'Randers Kommune',
@@ -2404,7 +2386,7 @@ return array (
     'latitude' => 56.51561,
     'longitude' => 10.06901,
   ),
-  267 => 
+  265 => 
   array (
     'id' => 30840,
     'name' => 'Rebild Kommune',
@@ -2413,7 +2395,7 @@ return array (
     'latitude' => 56.80556,
     'longitude' => 9.77778,
   ),
-  268 => 
+  266 => 
   array (
     'id' => 30841,
     'name' => 'Ribe',
@@ -2422,7 +2404,7 @@ return array (
     'latitude' => 55.33051,
     'longitude' => 8.76966,
   ),
-  269 => 
+  267 => 
   array (
     'id' => 30842,
     'name' => 'Ringe',
@@ -2431,7 +2413,7 @@ return array (
     'latitude' => 55.23828,
     'longitude' => 10.4786,
   ),
-  270 => 
+  268 => 
   array (
     'id' => 30843,
     'name' => 'Ringkøbing',
@@ -2440,7 +2422,7 @@ return array (
     'latitude' => 56.09006,
     'longitude' => 8.24402,
   ),
-  271 => 
+  269 => 
   array (
     'id' => 30844,
     'name' => 'Ringkøbing-Skjern Kommune',
@@ -2449,7 +2431,7 @@ return array (
     'latitude' => 56.01,
     'longitude' => 8.39667,
   ),
-  272 => 
+  270 => 
   array (
     'id' => 30845,
     'name' => 'Ringsted',
@@ -2458,7 +2440,7 @@ return array (
     'latitude' => 55.4426,
     'longitude' => 11.79011,
   ),
-  273 => 
+  271 => 
   array (
     'id' => 30846,
     'name' => 'Ringsted Kommune',
@@ -2467,7 +2449,7 @@ return array (
     'latitude' => 55.44721,
     'longitude' => 11.8172,
   ),
-  274 => 
+  272 => 
   array (
     'id' => 30847,
     'name' => 'Roskilde',
@@ -2476,7 +2458,7 @@ return array (
     'latitude' => 55.64152,
     'longitude' => 12.08035,
   ),
-  275 => 
+  273 => 
   array (
     'id' => 30848,
     'name' => 'Roskilde Kommune',
@@ -2485,7 +2467,7 @@ return array (
     'latitude' => 55.65,
     'longitude' => 12.1,
   ),
-  276 => 
+  274 => 
   array (
     'id' => 30849,
     'name' => 'Rudersdal Kommune',
@@ -2494,7 +2476,7 @@ return array (
     'latitude' => 55.825,
     'longitude' => 12.49167,
   ),
-  277 => 
+  275 => 
   array (
     'id' => 30850,
     'name' => 'Rudkøbing',
@@ -2503,7 +2485,7 @@ return array (
     'latitude' => 54.93639,
     'longitude' => 10.71019,
   ),
-  278 => 
+  276 => 
   array (
     'id' => 30851,
     'name' => 'Ry',
@@ -2512,7 +2494,7 @@ return array (
     'latitude' => 56.09038,
     'longitude' => 9.76505,
   ),
-  279 => 
+  277 => 
   array (
     'id' => 30852,
     'name' => 'Ryomgård',
@@ -2521,7 +2503,7 @@ return array (
     'latitude' => 56.3843,
     'longitude' => 10.50295,
   ),
-  280 => 
+  278 => 
   array (
     'id' => 30853,
     'name' => 'Rødby',
@@ -2530,7 +2512,7 @@ return array (
     'latitude' => 54.69495,
     'longitude' => 11.38885,
   ),
-  281 => 
+  279 => 
   array (
     'id' => 30854,
     'name' => 'Rødbyhavn',
@@ -2539,7 +2521,7 @@ return array (
     'latitude' => 54.65944,
     'longitude' => 11.35504,
   ),
-  282 => 
+  280 => 
   array (
     'id' => 30855,
     'name' => 'Rødding',
@@ -2548,7 +2530,7 @@ return array (
     'latitude' => 55.36569,
     'longitude' => 9.06316,
   ),
-  283 => 
+  281 => 
   array (
     'id' => 30856,
     'name' => 'Rødekro',
@@ -2557,7 +2539,7 @@ return array (
     'latitude' => 55.07076,
     'longitude' => 9.33531,
   ),
-  284 => 
+  282 => 
   array (
     'id' => 30857,
     'name' => 'Rødovre',
@@ -2566,7 +2548,7 @@ return array (
     'latitude' => 55.68062,
     'longitude' => 12.45373,
   ),
-  285 => 
+  283 => 
   array (
     'id' => 30858,
     'name' => 'Rødovre Kommune',
@@ -2575,7 +2557,7 @@ return array (
     'latitude' => 55.68852,
     'longitude' => 12.44834,
   ),
-  286 => 
+  284 => 
   array (
     'id' => 30859,
     'name' => 'Rødvig',
@@ -2584,7 +2566,7 @@ return array (
     'latitude' => 55.2554,
     'longitude' => 12.37936,
   ),
-  287 => 
+  285 => 
   array (
     'id' => 30860,
     'name' => 'Rønde',
@@ -2593,7 +2575,7 @@ return array (
     'latitude' => 56.30145,
     'longitude' => 10.47505,
   ),
-  288 => 
+  286 => 
   array (
     'id' => 30861,
     'name' => 'Rønne',
@@ -2602,7 +2584,7 @@ return array (
     'latitude' => 55.10091,
     'longitude' => 14.70664,
   ),
-  289 => 
+  287 => 
   array (
     'id' => 30862,
     'name' => 'Rønnede',
@@ -2611,7 +2593,7 @@ return array (
     'latitude' => 55.2571,
     'longitude' => 12.02125,
   ),
-  290 => 
+  288 => 
   array (
     'id' => 30863,
     'name' => 'Sabro',
@@ -2620,7 +2602,7 @@ return array (
     'latitude' => 56.21333,
     'longitude' => 10.03441,
   ),
-  291 => 
+  289 => 
   array (
     'id' => 30864,
     'name' => 'Sakskøbing',
@@ -2629,7 +2611,7 @@ return array (
     'latitude' => 54.7997,
     'longitude' => 11.62599,
   ),
-  292 => 
+  290 => 
   array (
     'id' => 30865,
     'name' => 'Samsø Kommune',
@@ -2638,7 +2620,7 @@ return array (
     'latitude' => 55.85245,
     'longitude' => 10.60045,
   ),
-  293 => 
+  291 => 
   array (
     'id' => 30866,
     'name' => 'Seden',
@@ -2647,7 +2629,7 @@ return array (
     'latitude' => 55.42648,
     'longitude' => 10.44265,
   ),
-  294 => 
+  292 => 
   array (
     'id' => 30867,
     'name' => 'Silkeborg',
@@ -2656,7 +2638,7 @@ return array (
     'latitude' => 56.1697,
     'longitude' => 9.54508,
   ),
-  295 => 
+  293 => 
   array (
     'id' => 30868,
     'name' => 'Silkeborg Kommune',
@@ -2665,7 +2647,7 @@ return array (
     'latitude' => 56.17495,
     'longitude' => 9.54666,
   ),
-  296 => 
+  294 => 
   array (
     'id' => 30869,
     'name' => 'Sindal',
@@ -2674,7 +2656,7 @@ return array (
     'latitude' => 57.47117,
     'longitude' => 10.20312,
   ),
-  297 => 
+  295 => 
   array (
     'id' => 30870,
     'name' => 'Skaerbaek',
@@ -2683,7 +2665,7 @@ return array (
     'latitude' => 55.15735,
     'longitude' => 8.76901,
   ),
-  298 => 
+  296 => 
   array (
     'id' => 30871,
     'name' => 'Skagen',
@@ -2692,7 +2674,7 @@ return array (
     'latitude' => 57.72093,
     'longitude' => 10.58394,
   ),
-  299 => 
+  297 => 
   array (
     'id' => 30872,
     'name' => 'Skanderborg',
@@ -2701,7 +2683,7 @@ return array (
     'latitude' => 56.03434,
     'longitude' => 9.93177,
   ),
-  300 => 
+  298 => 
   array (
     'id' => 30873,
     'name' => 'Skanderborg Kommune',
@@ -2710,7 +2692,7 @@ return array (
     'latitude' => 56.07956,
     'longitude' => 9.89868,
   ),
-  301 => 
+  299 => 
   array (
     'id' => 30874,
     'name' => 'Skibby',
@@ -2719,7 +2701,7 @@ return array (
     'latitude' => 55.75122,
     'longitude' => 11.96083,
   ),
-  302 => 
+  300 => 
   array (
     'id' => 30875,
     'name' => 'Skive',
@@ -2728,7 +2710,7 @@ return array (
     'latitude' => 56.56699,
     'longitude' => 9.02707,
   ),
-  303 => 
+  301 => 
   array (
     'id' => 30876,
     'name' => 'Skive Kommune',
@@ -2737,7 +2719,7 @@ return array (
     'latitude' => 56.64478,
     'longitude' => 8.9766,
   ),
-  304 => 
+  302 => 
   array (
     'id' => 30877,
     'name' => 'Skjern',
@@ -2746,7 +2728,7 @@ return array (
     'latitude' => 55.95,
     'longitude' => 8.5,
   ),
-  305 => 
+  303 => 
   array (
     'id' => 30878,
     'name' => 'Skovby',
@@ -2755,7 +2737,7 @@ return array (
     'latitude' => 56.15672,
     'longitude' => 9.94523,
   ),
-  306 => 
+  304 => 
   array (
     'id' => 30879,
     'name' => 'Skælskør',
@@ -2764,7 +2746,7 @@ return array (
     'latitude' => 55.25058,
     'longitude' => 11.29352,
   ),
-  307 => 
+  305 => 
   array (
     'id' => 30880,
     'name' => 'Skævinge',
@@ -2773,7 +2755,7 @@ return array (
     'latitude' => 55.90785,
     'longitude' => 12.15036,
   ),
-  308 => 
+  306 => 
   array (
     'id' => 30881,
     'name' => 'Skørping',
@@ -2782,7 +2764,7 @@ return array (
     'latitude' => 56.83626,
     'longitude' => 9.89255,
   ),
-  309 => 
+  307 => 
   array (
     'id' => 30882,
     'name' => 'Slagelse',
@@ -2791,7 +2773,7 @@ return array (
     'latitude' => 55.40276,
     'longitude' => 11.35459,
   ),
-  310 => 
+  308 => 
   array (
     'id' => 30883,
     'name' => 'Slagelse Kommune',
@@ -2800,7 +2782,7 @@ return array (
     'latitude' => 55.34546,
     'longitude' => 11.3339,
   ),
-  311 => 
+  309 => 
   array (
     'id' => 30884,
     'name' => 'Slangerup',
@@ -2809,7 +2791,7 @@ return array (
     'latitude' => 55.85,
     'longitude' => 12.18333,
   ),
-  312 => 
+  310 => 
   array (
     'id' => 30885,
     'name' => 'Smørumnedre',
@@ -2818,7 +2800,7 @@ return array (
     'latitude' => 55.74232,
     'longitude' => 12.30276,
   ),
-  313 => 
+  311 => 
   array (
     'id' => 30886,
     'name' => 'Snejbjerg',
@@ -2827,7 +2809,7 @@ return array (
     'latitude' => 56.13291,
     'longitude' => 8.90353,
   ),
-  314 => 
+  312 => 
   array (
     'id' => 30887,
     'name' => 'Snoghøj',
@@ -2836,7 +2818,7 @@ return array (
     'latitude' => 55.52253,
     'longitude' => 9.72125,
   ),
-  315 => 
+  313 => 
   array (
     'id' => 30888,
     'name' => 'Solbjerg',
@@ -2845,7 +2827,7 @@ return array (
     'latitude' => 56.04271,
     'longitude' => 10.08631,
   ),
-  316 => 
+  314 => 
   array (
     'id' => 30889,
     'name' => 'Solrød',
@@ -2854,7 +2836,7 @@ return array (
     'latitude' => 55.53628,
     'longitude' => 12.1827,
   ),
-  317 => 
+  315 => 
   array (
     'id' => 30890,
     'name' => 'Solrød Kommune',
@@ -2863,7 +2845,7 @@ return array (
     'latitude' => 55.53553,
     'longitude' => 12.17337,
   ),
-  318 => 
+  316 => 
   array (
     'id' => 30891,
     'name' => 'Solrød Strand',
@@ -2872,7 +2854,7 @@ return array (
     'latitude' => 55.53285,
     'longitude' => 12.22227,
   ),
-  319 => 
+  317 => 
   array (
     'id' => 30892,
     'name' => 'Sorø',
@@ -2881,7 +2863,7 @@ return array (
     'latitude' => 55.43184,
     'longitude' => 11.55547,
   ),
-  320 => 
+  318 => 
   array (
     'id' => 30893,
     'name' => 'Sorø Kommune',
@@ -2890,7 +2872,7 @@ return array (
     'latitude' => 55.48268,
     'longitude' => 11.55693,
   ),
-  321 => 
+  319 => 
   array (
     'id' => 30894,
     'name' => 'Spentrup',
@@ -2899,7 +2881,7 @@ return array (
     'latitude' => 56.53703,
     'longitude' => 10.03792,
   ),
-  322 => 
+  320 => 
   array (
     'id' => 30895,
     'name' => 'Starup',
@@ -2908,7 +2890,7 @@ return array (
     'latitude' => 55.24097,
     'longitude' => 9.53503,
   ),
-  323 => 
+  321 => 
   array (
     'id' => 30896,
     'name' => 'Stavnsholt',
@@ -2917,7 +2899,7 @@ return array (
     'latitude' => 55.81479,
     'longitude' => 12.40545,
   ),
-  324 => 
+  322 => 
   array (
     'id' => 30897,
     'name' => 'Stavtrup',
@@ -2926,7 +2908,7 @@ return array (
     'latitude' => 56.13124,
     'longitude' => 10.11987,
   ),
-  325 => 
+  323 => 
   array (
     'id' => 30898,
     'name' => 'Stege',
@@ -2935,7 +2917,7 @@ return array (
     'latitude' => 54.98704,
     'longitude' => 12.28461,
   ),
-  326 => 
+  324 => 
   array (
     'id' => 30899,
     'name' => 'Stenlille',
@@ -2944,7 +2926,7 @@ return array (
     'latitude' => 55.53888,
     'longitude' => 11.5912,
   ),
-  327 => 
+  325 => 
   array (
     'id' => 30900,
     'name' => 'Stenløse',
@@ -2953,7 +2935,7 @@ return array (
     'latitude' => 55.76828,
     'longitude' => 12.19723,
   ),
-  328 => 
+  326 => 
   array (
     'id' => 30901,
     'name' => 'Stevns Kommune',
@@ -2962,7 +2944,7 @@ return array (
     'latitude' => 55.33373,
     'longitude' => 12.30692,
   ),
-  329 => 
+  327 => 
   array (
     'id' => 30902,
     'name' => 'Stige',
@@ -2971,7 +2953,7 @@ return array (
     'latitude' => 55.43941,
     'longitude' => 10.4094,
   ),
-  330 => 
+  328 => 
   array (
     'id' => 30903,
     'name' => 'Stilling',
@@ -2980,7 +2962,7 @@ return array (
     'latitude' => 56.06224,
     'longitude' => 9.98822,
   ),
-  331 => 
+  329 => 
   array (
     'id' => 30904,
     'name' => 'Stoholm',
@@ -2989,7 +2971,7 @@ return array (
     'latitude' => 56.48454,
     'longitude' => 9.14617,
   ),
-  332 => 
+  330 => 
   array (
     'id' => 30905,
     'name' => 'Store Heddinge',
@@ -2998,7 +2980,7 @@ return array (
     'latitude' => 55.30965,
     'longitude' => 12.38885,
   ),
-  333 => 
+  331 => 
   array (
     'id' => 30906,
     'name' => 'Storvorde',
@@ -3007,7 +2989,7 @@ return array (
     'latitude' => 57.00392,
     'longitude' => 10.10125,
   ),
-  334 => 
+  332 => 
   array (
     'id' => 30907,
     'name' => 'Strandby',
@@ -3016,7 +2998,7 @@ return array (
     'latitude' => 57.4915,
     'longitude' => 10.49609,
   ),
-  335 => 
+  333 => 
   array (
     'id' => 30908,
     'name' => 'Strib',
@@ -3025,7 +3007,7 @@ return array (
     'latitude' => 55.54021,
     'longitude' => 9.76748,
   ),
-  336 => 
+  334 => 
   array (
     'id' => 30909,
     'name' => 'Struer',
@@ -3034,7 +3016,7 @@ return array (
     'latitude' => 56.49205,
     'longitude' => 8.59397,
   ),
-  337 => 
+  335 => 
   array (
     'id' => 30910,
     'name' => 'Struer Kommune',
@@ -3043,7 +3025,7 @@ return array (
     'latitude' => 56.46667,
     'longitude' => 8.58333,
   ),
-  338 => 
+  336 => 
   array (
     'id' => 30911,
     'name' => 'Strøby Egede',
@@ -3052,7 +3034,7 @@ return array (
     'latitude' => 55.41382,
     'longitude' => 12.24502,
   ),
-  339 => 
+  337 => 
   array (
     'id' => 30912,
     'name' => 'Stubbekøbing',
@@ -3061,7 +3043,7 @@ return array (
     'latitude' => 54.88875,
     'longitude' => 12.04102,
   ),
-  340 => 
+  338 => 
   array (
     'id' => 30913,
     'name' => 'Støvring',
@@ -3070,7 +3052,7 @@ return array (
     'latitude' => 56.88536,
     'longitude' => 9.83839,
   ),
-  341 => 
+  339 => 
   array (
     'id' => 30914,
     'name' => 'Sundby',
@@ -3079,7 +3061,7 @@ return array (
     'latitude' => 54.76711,
     'longitude' => 11.84979,
   ),
-  342 => 
+  340 => 
   array (
     'id' => 30915,
     'name' => 'Sunds',
@@ -3088,7 +3070,7 @@ return array (
     'latitude' => 56.20743,
     'longitude' => 9.01386,
   ),
-  343 => 
+  341 => 
   array (
     'id' => 30916,
     'name' => 'Svebølle',
@@ -3097,7 +3079,7 @@ return array (
     'latitude' => 55.65183,
     'longitude' => 11.28658,
   ),
-  344 => 
+  342 => 
   array (
     'id' => 30917,
     'name' => 'Svejbæk',
@@ -3106,7 +3088,7 @@ return array (
     'latitude' => 56.13255,
     'longitude' => 9.63289,
   ),
-  345 => 
+  343 => 
   array (
     'id' => 30918,
     'name' => 'Svendborg',
@@ -3115,7 +3097,7 @@ return array (
     'latitude' => 55.05982,
     'longitude' => 10.60677,
   ),
-  346 => 
+  344 => 
   array (
     'id' => 30919,
     'name' => 'Svendborg Kommune',
@@ -3124,7 +3106,7 @@ return array (
     'latitude' => 55.0841,
     'longitude' => 10.61391,
   ),
-  347 => 
+  345 => 
   array (
     'id' => 30920,
     'name' => 'Svenstrup',
@@ -3133,7 +3115,7 @@ return array (
     'latitude' => 56.9723,
     'longitude' => 9.84806,
   ),
-  348 => 
+  346 => 
   array (
     'id' => 30921,
     'name' => 'Svinninge',
@@ -3142,7 +3124,7 @@ return array (
     'latitude' => 55.72111,
     'longitude' => 11.46547,
   ),
-  349 => 
+  347 => 
   array (
     'id' => 30922,
     'name' => 'Svogerslev',
@@ -3151,7 +3133,7 @@ return array (
     'latitude' => 55.63423,
     'longitude' => 12.01465,
   ),
-  350 => 
+  348 => 
   array (
     'id' => 30923,
     'name' => 'Syddjurs Kommune',
@@ -3160,7 +3142,7 @@ return array (
     'latitude' => 56.3125,
     'longitude' => 10.52083,
   ),
-  351 => 
+  349 => 
   array (
     'id' => 30924,
     'name' => 'Sæby',
@@ -3169,7 +3151,7 @@ return array (
     'latitude' => 57.33188,
     'longitude' => 10.52251,
   ),
-  352 => 
+  350 => 
   array (
     'id' => 30925,
     'name' => 'Søften',
@@ -3178,7 +3160,7 @@ return array (
     'latitude' => 56.23801,
     'longitude' => 10.0851,
   ),
-  353 => 
+  351 => 
   array (
     'id' => 30926,
     'name' => 'Sønder Bjert',
@@ -3187,7 +3169,7 @@ return array (
     'latitude' => 55.45272,
     'longitude' => 9.56741,
   ),
-  354 => 
+  352 => 
   array (
     'id' => 30927,
     'name' => 'Sønderborg',
@@ -3196,7 +3178,7 @@ return array (
     'latitude' => 54.90896,
     'longitude' => 9.78917,
   ),
-  355 => 
+  353 => 
   array (
     'id' => 30928,
     'name' => 'Sønderborg Kommune',
@@ -3205,7 +3187,7 @@ return array (
     'latitude' => 54.91667,
     'longitude' => 9.8,
   ),
-  356 => 
+  354 => 
   array (
     'id' => 30929,
     'name' => 'Søndersø',
@@ -3214,7 +3196,7 @@ return array (
     'latitude' => 55.48526,
     'longitude' => 10.2554,
   ),
-  357 => 
+  355 => 
   array (
     'id' => 30930,
     'name' => 'Taastrup',
@@ -3223,7 +3205,7 @@ return array (
     'latitude' => 55.65006,
     'longitude' => 12.3016,
   ),
-  358 => 
+  356 => 
   array (
     'id' => 30931,
     'name' => 'Tarm',
@@ -3232,7 +3214,7 @@ return array (
     'latitude' => 55.90861,
     'longitude' => 8.53041,
   ),
-  359 => 
+  357 => 
   array (
     'id' => 30932,
     'name' => 'Taulov',
@@ -3241,7 +3223,7 @@ return array (
     'latitude' => 55.54582,
     'longitude' => 9.61553,
   ),
-  360 => 
+  358 => 
   array (
     'id' => 30933,
     'name' => 'Thisted',
@@ -3250,7 +3232,7 @@ return array (
     'latitude' => 56.95523,
     'longitude' => 8.69491,
   ),
-  361 => 
+  359 => 
   array (
     'id' => 30934,
     'name' => 'Thisted Kommune',
@@ -3259,7 +3241,7 @@ return array (
     'latitude' => 57.00397,
     'longitude' => 8.61834,
   ),
-  362 => 
+  360 => 
   array (
     'id' => 30935,
     'name' => 'Thurø By',
@@ -3268,7 +3250,7 @@ return array (
     'latitude' => 55.0474,
     'longitude' => 10.66385,
   ),
-  363 => 
+  361 => 
   array (
     'id' => 30936,
     'name' => 'Thyborøn',
@@ -3277,7 +3259,7 @@ return array (
     'latitude' => 56.69846,
     'longitude' => 8.21238,
   ),
-  364 => 
+  362 => 
   array (
     'id' => 30937,
     'name' => 'Tinglev',
@@ -3286,7 +3268,7 @@ return array (
     'latitude' => 54.93788,
     'longitude' => 9.25547,
   ),
-  365 => 
+  363 => 
   array (
     'id' => 30938,
     'name' => 'Tjæreborg',
@@ -3295,7 +3277,7 @@ return array (
     'latitude' => 55.46457,
     'longitude' => 8.57968,
   ),
-  366 => 
+  364 => 
   array (
     'id' => 30939,
     'name' => 'Toftlund',
@@ -3304,7 +3286,7 @@ return array (
     'latitude' => 55.18858,
     'longitude' => 9.06925,
   ),
-  367 => 
+  365 => 
   array (
     'id' => 30940,
     'name' => 'Tommerup',
@@ -3313,7 +3295,7 @@ return array (
     'latitude' => 55.31952,
     'longitude' => 10.20659,
   ),
-  368 => 
+  366 => 
   array (
     'id' => 30941,
     'name' => 'Tommerup Stationsby',
@@ -3322,7 +3304,7 @@ return array (
     'latitude' => 55.34535,
     'longitude' => 10.17594,
   ),
-  369 => 
+  367 => 
   array (
     'id' => 30942,
     'name' => 'Tranbjerg',
@@ -3331,7 +3313,7 @@ return array (
     'latitude' => 56.09519,
     'longitude' => 10.13605,
   ),
-  370 => 
+  368 => 
   array (
     'id' => 30943,
     'name' => 'Trige',
@@ -3340,7 +3322,7 @@ return array (
     'latitude' => 56.25291,
     'longitude' => 10.1484,
   ),
-  371 => 
+  369 => 
   array (
     'id' => 30944,
     'name' => 'Trørød',
@@ -3349,7 +3331,7 @@ return array (
     'latitude' => 55.83946,
     'longitude' => 12.54432,
   ),
-  372 => 
+  370 => 
   array (
     'id' => 30945,
     'name' => 'Tune',
@@ -3358,7 +3340,7 @@ return array (
     'latitude' => 55.59287,
     'longitude' => 12.16968,
   ),
-  373 => 
+  371 => 
   array (
     'id' => 30946,
     'name' => 'Tårnby',
@@ -3367,7 +3349,7 @@ return array (
     'latitude' => 55.6303,
     'longitude' => 12.60035,
   ),
-  374 => 
+  372 => 
   array (
     'id' => 30947,
     'name' => 'Tårnby Kommune',
@@ -3376,7 +3358,7 @@ return array (
     'latitude' => 55.60391,
     'longitude' => 12.59599,
   ),
-  375 => 
+  373 => 
   array (
     'id' => 30948,
     'name' => 'Tårs',
@@ -3385,7 +3367,7 @@ return array (
     'latitude' => 57.38333,
     'longitude' => 10.11667,
   ),
-  376 => 
+  374 => 
   array (
     'id' => 30949,
     'name' => 'Tølløse',
@@ -3394,7 +3376,7 @@ return array (
     'latitude' => 55.6125,
     'longitude' => 11.77034,
   ),
-  377 => 
+  375 => 
   array (
     'id' => 30950,
     'name' => 'Tønder',
@@ -3403,7 +3385,7 @@ return array (
     'latitude' => 54.93306,
     'longitude' => 8.86674,
   ),
-  378 => 
+  376 => 
   array (
     'id' => 30951,
     'name' => 'Tønder Kommune',
@@ -3412,7 +3394,7 @@ return array (
     'latitude' => 55.07304,
     'longitude' => 8.87214,
   ),
-  379 => 
+  377 => 
   array (
     'id' => 30952,
     'name' => 'Tørring',
@@ -3421,7 +3403,7 @@ return array (
     'latitude' => 55.85,
     'longitude' => 9.48333,
   ),
-  380 => 
+  378 => 
   array (
     'id' => 30953,
     'name' => 'Ulfborg',
@@ -3430,7 +3412,7 @@ return array (
     'latitude' => 56.26725,
     'longitude' => 8.32167,
   ),
-  381 => 
+  379 => 
   array (
     'id' => 30954,
     'name' => 'Ullerslev',
@@ -3439,7 +3421,7 @@ return array (
     'latitude' => 55.36172,
     'longitude' => 10.6519,
   ),
-  382 => 
+  380 => 
   array (
     'id' => 30955,
     'name' => 'Ulstrup',
@@ -3448,7 +3430,7 @@ return array (
     'latitude' => 56.38994,
     'longitude' => 9.79354,
   ),
-  383 => 
+  381 => 
   array (
     'id' => 30956,
     'name' => 'Vadum',
@@ -3457,7 +3439,7 @@ return array (
     'latitude' => 57.1179,
     'longitude' => 9.857,
   ),
-  384 => 
+  382 => 
   array (
     'id' => 30957,
     'name' => 'Vallensbæk Strand',
@@ -3466,7 +3448,7 @@ return array (
     'latitude' => 55.62199,
     'longitude' => 12.38511,
   ),
-  385 => 
+  383 => 
   array (
     'id' => 30958,
     'name' => 'Vallensbæk Kommune',
@@ -3475,7 +3457,7 @@ return array (
     'latitude' => 55.63128,
     'longitude' => 12.37369,
   ),
-  386 => 
+  384 => 
   array (
     'id' => 30959,
     'name' => 'Vamdrup',
@@ -3484,7 +3466,7 @@ return array (
     'latitude' => 55.42764,
     'longitude' => 9.28435,
   ),
-  387 => 
+  385 => 
   array (
     'id' => 30960,
     'name' => 'Vanløse',
@@ -3493,7 +3475,7 @@ return array (
     'latitude' => 55.68361,
     'longitude' => 12.48713,
   ),
-  388 => 
+  386 => 
   array (
     'id' => 30961,
     'name' => 'Varde',
@@ -3502,7 +3484,7 @@ return array (
     'latitude' => 55.62112,
     'longitude' => 8.48069,
   ),
-  389 => 
+  387 => 
   array (
     'id' => 30962,
     'name' => 'Varde Kommune',
@@ -3511,7 +3493,7 @@ return array (
     'latitude' => 55.61667,
     'longitude' => 8.5,
   ),
-  390 => 
+  388 => 
   array (
     'id' => 30963,
     'name' => 'Vejen',
@@ -3520,7 +3502,7 @@ return array (
     'latitude' => 55.48117,
     'longitude' => 9.13795,
   ),
-  391 => 
+  389 => 
   array (
     'id' => 30964,
     'name' => 'Vejen Kommune',
@@ -3529,7 +3511,7 @@ return array (
     'latitude' => 55.46312,
     'longitude' => 9.05004,
   ),
-  392 => 
+  390 => 
   array (
     'id' => 30965,
     'name' => 'Vejle',
@@ -3538,7 +3520,7 @@ return array (
     'latitude' => 55.70927,
     'longitude' => 9.5357,
   ),
-  393 => 
+  391 => 
   array (
     'id' => 30966,
     'name' => 'Vejle Kommune',
@@ -3547,7 +3529,7 @@ return array (
     'latitude' => 55.74874,
     'longitude' => 9.40421,
   ),
-  394 => 
+  392 => 
   array (
     'id' => 30967,
     'name' => 'Veksø',
@@ -3556,7 +3538,7 @@ return array (
     'latitude' => 55.75473,
     'longitude' => 12.23837,
   ),
-  395 => 
+  393 => 
   array (
     'id' => 30968,
     'name' => 'Vestbjerg',
@@ -3565,7 +3547,7 @@ return array (
     'latitude' => 57.13166,
     'longitude' => 9.95942,
   ),
-  396 => 
+  394 => 
   array (
     'id' => 30969,
     'name' => 'Vester Hassing',
@@ -3574,7 +3556,7 @@ return array (
     'latitude' => 57.06767,
     'longitude' => 10.12558,
   ),
-  397 => 
+  395 => 
   array (
     'id' => 30970,
     'name' => 'Vester-Skerninge',
@@ -3583,7 +3565,7 @@ return array (
     'latitude' => 55.07322,
     'longitude' => 10.45536,
   ),
-  398 => 
+  396 => 
   array (
     'id' => 30971,
     'name' => 'Vesthimmerland Kommune',
@@ -3592,7 +3574,7 @@ return array (
     'latitude' => 56.8,
     'longitude' => 9.37083,
   ),
-  399 => 
+  397 => 
   array (
     'id' => 30972,
     'name' => 'Viborg',
@@ -3601,7 +3583,7 @@ return array (
     'latitude' => 56.45319,
     'longitude' => 9.40201,
   ),
-  400 => 
+  398 => 
   array (
     'id' => 30973,
     'name' => 'Viborg Kommune',
@@ -3610,7 +3592,7 @@ return array (
     'latitude' => 56.45,
     'longitude' => 9.36667,
   ),
-  401 => 
+  399 => 
   array (
     'id' => 30974,
     'name' => 'Viby',
@@ -3619,7 +3601,7 @@ return array (
     'latitude' => 55.54872,
     'longitude' => 12.02391,
   ),
-  402 => 
+  400 => 
   array (
     'id' => 30975,
     'name' => 'Videbæk',
@@ -3628,7 +3610,7 @@ return array (
     'latitude' => 56.0876,
     'longitude' => 8.62852,
   ),
-  403 => 
+  401 => 
   array (
     'id' => 30976,
     'name' => 'Vildbjerg',
@@ -3637,7 +3619,7 @@ return array (
     'latitude' => 56.2,
     'longitude' => 8.76667,
   ),
-  404 => 
+  402 => 
   array (
     'id' => 30977,
     'name' => 'Vindeby',
@@ -3646,7 +3628,7 @@ return array (
     'latitude' => 55.04489,
     'longitude' => 10.61309,
   ),
-  405 => 
+  403 => 
   array (
     'id' => 30978,
     'name' => 'Vinderup',
@@ -3655,7 +3637,7 @@ return array (
     'latitude' => 56.48176,
     'longitude' => 8.77991,
   ),
-  406 => 
+  404 => 
   array (
     'id' => 30979,
     'name' => 'Vindinge',
@@ -3664,7 +3646,7 @@ return array (
     'latitude' => 55.62298,
     'longitude' => 12.1387,
   ),
-  407 => 
+  405 => 
   array (
     'id' => 30980,
     'name' => 'Vipperød',
@@ -3673,7 +3655,7 @@ return array (
     'latitude' => 55.66768,
     'longitude' => 11.73967,
   ),
-  408 => 
+  406 => 
   array (
     'id' => 30981,
     'name' => 'Virklund',
@@ -3682,7 +3664,7 @@ return array (
     'latitude' => 56.13218,
     'longitude' => 9.55582,
   ),
-  409 => 
+  407 => 
   array (
     'id' => 30982,
     'name' => 'Vissenbjerg',
@@ -3691,7 +3673,7 @@ return array (
     'latitude' => 55.38482,
     'longitude' => 10.13784,
   ),
-  410 => 
+  408 => 
   array (
     'id' => 30983,
     'name' => 'Vodskov',
@@ -3700,7 +3682,7 @@ return array (
     'latitude' => 57.10854,
     'longitude' => 10.02215,
   ),
-  411 => 
+  409 => 
   array (
     'id' => 30984,
     'name' => 'Vojens',
@@ -3709,7 +3691,7 @@ return array (
     'latitude' => 55.24639,
     'longitude' => 9.30603,
   ),
-  412 => 
+  410 => 
   array (
     'id' => 30985,
     'name' => 'Vordingborg',
@@ -3718,7 +3700,7 @@ return array (
     'latitude' => 55.00801,
     'longitude' => 11.91057,
   ),
-  413 => 
+  411 => 
   array (
     'id' => 30986,
     'name' => 'Vordingborg Kommune',
@@ -3727,7 +3709,7 @@ return array (
     'latitude' => 55.01383,
     'longitude' => 12.10008,
   ),
-  414 => 
+  412 => 
   array (
     'id' => 30987,
     'name' => 'Vrå',
@@ -3736,7 +3718,7 @@ return array (
     'latitude' => 57.3537,
     'longitude' => 9.94176,
   ),
-  415 => 
+  413 => 
   array (
     'id' => 30988,
     'name' => 'Værløse',
@@ -3745,7 +3727,7 @@ return array (
     'latitude' => 55.78251,
     'longitude' => 12.36856,
   ),
-  416 => 
+  414 => 
   array (
     'id' => 30989,
     'name' => 'Åbybro',
@@ -3754,7 +3736,7 @@ return array (
     'latitude' => 57.16249,
     'longitude' => 9.72996,
   ),
-  417 => 
+  415 => 
   array (
     'id' => 30990,
     'name' => 'Åkirkeby',
@@ -3763,7 +3745,7 @@ return array (
     'latitude' => 55.0708,
     'longitude' => 14.91978,
   ),
-  418 => 
+  416 => 
   array (
     'id' => 30991,
     'name' => 'Ålborg Kommune',
@@ -3772,7 +3754,7 @@ return array (
     'latitude' => 57.0,
     'longitude' => 9.95,
   ),
-  419 => 
+  417 => 
   array (
     'id' => 30992,
     'name' => 'Ålestrup',
@@ -3781,7 +3763,7 @@ return array (
     'latitude' => 56.6947,
     'longitude' => 9.49336,
   ),
-  420 => 
+  418 => 
   array (
     'id' => 30993,
     'name' => 'Aarhus',
@@ -3790,7 +3772,7 @@ return array (
     'latitude' => 56.15674,
     'longitude' => 10.21076,
   ),
-  421 => 
+  419 => 
   array (
     'id' => 30994,
     'name' => 'Aarhus Kommune',
@@ -3799,7 +3781,7 @@ return array (
     'latitude' => 56.16317,
     'longitude' => 10.16897,
   ),
-  422 => 
+  420 => 
   array (
     'id' => 30995,
     'name' => 'Årslev',
@@ -3808,7 +3790,7 @@ return array (
     'latitude' => 55.30353,
     'longitude' => 10.46428,
   ),
-  423 => 
+  421 => 
   array (
     'id' => 30996,
     'name' => 'Årup',
@@ -3817,7 +3799,7 @@ return array (
     'latitude' => 55.37315,
     'longitude' => 10.04131,
   ),
-  424 => 
+  422 => 
   array (
     'id' => 30997,
     'name' => 'Ærø Kommune',
@@ -3826,7 +3808,7 @@ return array (
     'latitude' => 54.85833,
     'longitude' => 10.43333,
   ),
-  425 => 
+  423 => 
   array (
     'id' => 30998,
     'name' => 'Ærøskøbing',
@@ -3835,7 +3817,7 @@ return array (
     'latitude' => 54.88803,
     'longitude' => 10.41117,
   ),
-  426 => 
+  424 => 
   array (
     'id' => 30999,
     'name' => 'Ølgod',
@@ -3844,7 +3826,7 @@ return array (
     'latitude' => 55.80682,
     'longitude' => 8.62859,
   ),
-  427 => 
+  425 => 
   array (
     'id' => 31000,
     'name' => 'Ølstykke',
@@ -3853,7 +3835,7 @@ return array (
     'latitude' => 55.79567,
     'longitude' => 12.15509,
   ),
-  428 => 
+  426 => 
   array (
     'id' => 31001,
     'name' => 'Ørslev',
@@ -3862,7 +3844,7 @@ return array (
     'latitude' => 55.04356,
     'longitude' => 11.96792,
   ),
-  429 => 
+  427 => 
   array (
     'id' => 153629,
     'name' => 'Hedehusene',

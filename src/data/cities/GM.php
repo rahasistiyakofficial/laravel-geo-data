@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -300,15 +300,6 @@ return array (
   ),
   33 => 
   array (
-    'id' => 52250,
-    'name' => 'Gunjur',
-    'country_id' => 80,
-    'country_code' => 'GM',
-    'latitude' => 13.52278,
-    'longitude' => -16.02778,
-  ),
-  34 => 
-  array (
     'id' => 52251,
     'name' => 'Gunjur Kuta',
     'country_id' => 80,
@@ -316,7 +307,7 @@ return array (
     'latitude' => 13.53333,
     'longitude' => -14.11667,
   ),
-  35 => 
+  34 => 
   array (
     'id' => 52252,
     'name' => 'Jakhaly',
@@ -325,7 +316,7 @@ return array (
     'latitude' => 13.55,
     'longitude' => -14.96667,
   ),
-  36 => 
+  35 => 
   array (
     'id' => 52253,
     'name' => 'Jali',
@@ -334,7 +325,7 @@ return array (
     'latitude' => 13.35,
     'longitude' => -15.96667,
   ),
-  37 => 
+  36 => 
   array (
     'id' => 52254,
     'name' => 'Janjanbureh',
@@ -343,7 +334,7 @@ return array (
     'latitude' => 13.53564,
     'longitude' => -14.76515,
   ),
-  38 => 
+  37 => 
   array (
     'id' => 52255,
     'name' => 'Jarra Central',
@@ -352,7 +343,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -15.41667,
   ),
-  39 => 
+  38 => 
   array (
     'id' => 52256,
     'name' => 'Jarra East',
@@ -361,7 +352,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -15.25,
   ),
-  40 => 
+  39 => 
   array (
     'id' => 52257,
     'name' => 'Jarra West',
@@ -370,7 +361,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -15.53333,
   ),
-  41 => 
+  40 => 
   array (
     'id' => 52258,
     'name' => 'Jarreng',
@@ -379,7 +370,7 @@ return array (
     'latitude' => 13.61667,
     'longitude' => -15.18333,
   ),
-  42 => 
+  41 => 
   array (
     'id' => 52259,
     'name' => 'Jenoi',
@@ -388,7 +379,7 @@ return array (
     'latitude' => 13.48333,
     'longitude' => -15.56667,
   ),
-  43 => 
+  42 => 
   array (
     'id' => 52260,
     'name' => 'Jifarong',
@@ -397,7 +388,7 @@ return array (
     'latitude' => 13.3,
     'longitude' => -15.86667,
   ),
-  44 => 
+  43 => 
   array (
     'id' => 52261,
     'name' => 'Jokadu',
@@ -406,7 +397,7 @@ return array (
     'latitude' => 13.53333,
     'longitude' => -16.18333,
   ),
-  45 => 
+  44 => 
   array (
     'id' => 52262,
     'name' => 'Kaiaf',
@@ -415,7 +406,7 @@ return array (
     'latitude' => 13.4,
     'longitude' => -15.61667,
   ),
-  46 => 
+  45 => 
   array (
     'id' => 52263,
     'name' => 'Kantora',
@@ -424,7 +415,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -13.91667,
   ),
-  47 => 
+  46 => 
   array (
     'id' => 52264,
     'name' => 'Karantaba',
@@ -433,16 +424,7 @@ return array (
     'latitude' => 13.43333,
     'longitude' => -15.51667,
   ),
-  48 => 
-  array (
-    'id' => 52265,
-    'name' => 'Karantaba',
-    'country_id' => 80,
-    'country_code' => 'GM',
-    'latitude' => 13.66667,
-    'longitude' => -15.03333,
-  ),
-  49 => 
+  47 => 
   array (
     'id' => 52266,
     'name' => 'Kass Wollof',
@@ -451,7 +433,7 @@ return array (
     'latitude' => 13.78333,
     'longitude' => -14.93333,
   ),
-  50 => 
+  48 => 
   array (
     'id' => 52267,
     'name' => 'Katchang',
@@ -460,7 +442,7 @@ return array (
     'latitude' => 13.5,
     'longitude' => -15.75,
   ),
-  51 => 
+  49 => 
   array (
     'id' => 52268,
     'name' => 'Keneba',
@@ -469,7 +451,7 @@ return array (
     'latitude' => 13.32889,
     'longitude' => -16.015,
   ),
-  52 => 
+  50 => 
   array (
     'id' => 52269,
     'name' => 'Kerewan',
@@ -478,7 +460,7 @@ return array (
     'latitude' => 13.4898,
     'longitude' => -16.08879,
   ),
-  53 => 
+  51 => 
   array (
     'id' => 52270,
     'name' => 'Kiang Central',
@@ -487,7 +469,7 @@ return array (
     'latitude' => 13.4,
     'longitude' => -15.75,
   ),
-  54 => 
+  52 => 
   array (
     'id' => 52271,
     'name' => 'Kiang East',
@@ -496,7 +478,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -15.63333,
   ),
-  55 => 
+  53 => 
   array (
     'id' => 52272,
     'name' => 'Kiang West District',
@@ -505,7 +487,7 @@ return array (
     'latitude' => 13.33333,
     'longitude' => -16.0,
   ),
-  56 => 
+  54 => 
   array (
     'id' => 52273,
     'name' => 'Koina',
@@ -514,7 +496,7 @@ return array (
     'latitude' => 13.48333,
     'longitude' => -13.86667,
   ),
-  57 => 
+  55 => 
   array (
     'id' => 52274,
     'name' => 'Kombo Central District',
@@ -523,7 +505,7 @@ return array (
     'latitude' => 13.25,
     'longitude' => -16.66667,
   ),
-  58 => 
+  56 => 
   array (
     'id' => 52275,
     'name' => 'Kombo East District',
@@ -532,7 +514,7 @@ return array (
     'latitude' => 13.21667,
     'longitude' => -16.51667,
   ),
-  59 => 
+  57 => 
   array (
     'id' => 52276,
     'name' => 'Kombo North District',
@@ -541,7 +523,7 @@ return array (
     'latitude' => 13.36667,
     'longitude' => -16.66667,
   ),
-  60 => 
+  58 => 
   array (
     'id' => 52277,
     'name' => 'Kombo Saint Mary District',
@@ -550,7 +532,7 @@ return array (
     'latitude' => 13.44389,
     'longitude' => -16.64583,
   ),
-  61 => 
+  59 => 
   array (
     'id' => 52278,
     'name' => 'Kombo South District',
@@ -559,7 +541,7 @@ return array (
     'latitude' => 13.25,
     'longitude' => -16.75,
   ),
-  62 => 
+  60 => 
   array (
     'id' => 52279,
     'name' => 'Kumbija',
@@ -568,7 +550,7 @@ return array (
     'latitude' => 13.26667,
     'longitude' => -14.18333,
   ),
-  63 => 
+  61 => 
   array (
     'id' => 52280,
     'name' => 'Kuntaur',
@@ -577,7 +559,7 @@ return array (
     'latitude' => 13.67085,
     'longitude' => -14.88977,
   ),
-  64 => 
+  62 => 
   array (
     'id' => 52281,
     'name' => 'Kunting',
@@ -586,7 +568,7 @@ return array (
     'latitude' => 13.53333,
     'longitude' => -14.66667,
   ),
-  65 => 
+  63 => 
   array (
     'id' => 52282,
     'name' => 'Lamin',
@@ -595,7 +577,7 @@ return array (
     'latitude' => 13.35222,
     'longitude' => -16.43389,
   ),
-  66 => 
+  64 => 
   array (
     'id' => 52283,
     'name' => 'Lower Baddibu District',
@@ -604,7 +586,7 @@ return array (
     'latitude' => 13.5,
     'longitude' => -16.05,
   ),
-  67 => 
+  65 => 
   array (
     'id' => 52284,
     'name' => 'Lower Niumi District',
@@ -613,7 +595,7 @@ return array (
     'latitude' => 13.53333,
     'longitude' => -16.41667,
   ),
-  68 => 
+  66 => 
   array (
     'id' => 52285,
     'name' => 'Lower Saloum',
@@ -622,7 +604,7 @@ return array (
     'latitude' => 13.71667,
     'longitude' => -15.36667,
   ),
-  69 => 
+  67 => 
   array (
     'id' => 52286,
     'name' => 'Mansa Konko',
@@ -631,7 +613,7 @@ return array (
     'latitude' => 13.44325,
     'longitude' => -15.5357,
   ),
-  70 => 
+  68 => 
   array (
     'id' => 52287,
     'name' => 'Niamina East District',
@@ -640,7 +622,7 @@ return array (
     'latitude' => 13.63333,
     'longitude' => -15.08333,
   ),
-  71 => 
+  69 => 
   array (
     'id' => 52288,
     'name' => 'Niamina West District',
@@ -649,7 +631,7 @@ return array (
     'latitude' => 13.58333,
     'longitude' => -15.25,
   ),
-  72 => 
+  70 => 
   array (
     'id' => 52289,
     'name' => 'Niani',
@@ -658,7 +640,7 @@ return array (
     'latitude' => 13.66667,
     'longitude' => -14.91667,
   ),
-  73 => 
+  71 => 
   array (
     'id' => 52290,
     'name' => 'Nianija District',
@@ -667,7 +649,7 @@ return array (
     'latitude' => 13.729,
     'longitude' => -15.091,
   ),
-  74 => 
+  72 => 
   array (
     'id' => 52291,
     'name' => 'Nioro',
@@ -676,7 +658,7 @@ return array (
     'latitude' => 13.35,
     'longitude' => -15.75,
   ),
-  75 => 
+  73 => 
   array (
     'id' => 52292,
     'name' => 'No Kunda',
@@ -685,7 +667,7 @@ return array (
     'latitude' => 13.56667,
     'longitude' => -15.83333,
   ),
-  76 => 
+  74 => 
   array (
     'id' => 52293,
     'name' => 'Nyamanari',
@@ -694,7 +676,7 @@ return array (
     'latitude' => 13.33333,
     'longitude' => -13.86667,
   ),
-  77 => 
+  75 => 
   array (
     'id' => 52294,
     'name' => 'Pateh Sam',
@@ -703,7 +685,7 @@ return array (
     'latitude' => 13.61667,
     'longitude' => -15.06667,
   ),
-  78 => 
+  76 => 
   array (
     'id' => 52295,
     'name' => 'Perai',
@@ -712,7 +694,7 @@ return array (
     'latitude' => 13.38333,
     'longitude' => -14.03333,
   ),
-  79 => 
+  77 => 
   array (
     'id' => 52296,
     'name' => 'Saba',
@@ -721,7 +703,7 @@ return array (
     'latitude' => 13.51639,
     'longitude' => -16.04917,
   ),
-  80 => 
+  78 => 
   array (
     'id' => 52297,
     'name' => 'Sabi',
@@ -730,7 +712,7 @@ return array (
     'latitude' => 13.23333,
     'longitude' => -14.2,
   ),
-  81 => 
+  79 => 
   array (
     'id' => 52298,
     'name' => 'Sami',
@@ -739,7 +721,7 @@ return array (
     'latitude' => 13.58333,
     'longitude' => -15.2,
   ),
-  82 => 
+  80 => 
   array (
     'id' => 52299,
     'name' => 'Sami District',
@@ -748,7 +730,7 @@ return array (
     'latitude' => 13.58333,
     'longitude' => -14.58333,
   ),
-  83 => 
+  81 => 
   array (
     'id' => 52300,
     'name' => 'Sandu',
@@ -757,7 +739,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -14.36667,
   ),
-  84 => 
+  82 => 
   array (
     'id' => 52301,
     'name' => 'Sankwia',
@@ -766,7 +748,7 @@ return array (
     'latitude' => 13.46667,
     'longitude' => -15.51667,
   ),
-  85 => 
+  83 => 
   array (
     'id' => 52302,
     'name' => 'Sara Kunda',
@@ -775,7 +757,7 @@ return array (
     'latitude' => 13.53333,
     'longitude' => -15.41667,
   ),
-  86 => 
+  84 => 
   array (
     'id' => 52303,
     'name' => 'Saruja',
@@ -784,7 +766,7 @@ return array (
     'latitude' => 13.55,
     'longitude' => -14.91667,
   ),
-  87 => 
+  85 => 
   array (
     'id' => 52304,
     'name' => 'Serekunda',
@@ -793,7 +775,7 @@ return array (
     'latitude' => 13.43833,
     'longitude' => -16.67806,
   ),
-  88 => 
+  86 => 
   array (
     'id' => 52305,
     'name' => 'Si Kunda',
@@ -802,7 +784,7 @@ return array (
     'latitude' => 13.43333,
     'longitude' => -15.56667,
   ),
-  89 => 
+  87 => 
   array (
     'id' => 52306,
     'name' => 'Soma',
@@ -811,7 +793,7 @@ return array (
     'latitude' => 13.43333,
     'longitude' => -15.53333,
   ),
-  90 => 
+  88 => 
   array (
     'id' => 52307,
     'name' => 'Somita',
@@ -820,7 +802,7 @@ return array (
     'latitude' => 13.20583,
     'longitude' => -16.30556,
   ),
-  91 => 
+  89 => 
   array (
     'id' => 52308,
     'name' => 'Sudowol',
@@ -829,7 +811,7 @@ return array (
     'latitude' => 13.36667,
     'longitude' => -13.96667,
   ),
-  92 => 
+  90 => 
   array (
     'id' => 52309,
     'name' => 'Sukuta',
@@ -838,16 +820,7 @@ return array (
     'latitude' => 13.61667,
     'longitude' => -14.91667,
   ),
-  93 => 
-  array (
-    'id' => 52310,
-    'name' => 'Sukuta',
-    'country_id' => 80,
-    'country_code' => 'GM',
-    'latitude' => 13.41033,
-    'longitude' => -16.70815,
-  ),
-  94 => 
+  91 => 
   array (
     'id' => 52311,
     'name' => 'Sun Kunda',
@@ -856,7 +829,7 @@ return array (
     'latitude' => 13.38333,
     'longitude' => -13.85,
   ),
-  95 => 
+  92 => 
   array (
     'id' => 52312,
     'name' => 'Sutukoba',
@@ -865,7 +838,7 @@ return array (
     'latitude' => 13.5,
     'longitude' => -14.01667,
   ),
-  96 => 
+  93 => 
   array (
     'id' => 52313,
     'name' => 'Sutukung',
@@ -874,7 +847,7 @@ return array (
     'latitude' => 13.46667,
     'longitude' => -15.26667,
   ),
-  97 => 
+  94 => 
   array (
     'id' => 52314,
     'name' => 'Toniataba',
@@ -883,7 +856,7 @@ return array (
     'latitude' => 13.43333,
     'longitude' => -15.58333,
   ),
-  98 => 
+  95 => 
   array (
     'id' => 52315,
     'name' => 'Upper Baddibu',
@@ -892,7 +865,7 @@ return array (
     'latitude' => 13.55,
     'longitude' => -15.66667,
   ),
-  99 => 
+  96 => 
   array (
     'id' => 52316,
     'name' => 'Upper Niumi District',
@@ -901,7 +874,7 @@ return array (
     'latitude' => 13.4,
     'longitude' => -16.33333,
   ),
-  100 => 
+  97 => 
   array (
     'id' => 52317,
     'name' => 'Upper Saloum',
@@ -910,7 +883,7 @@ return array (
     'latitude' => 13.75,
     'longitude' => -15.2,
   ),
-  101 => 
+  98 => 
   array (
     'id' => 52318,
     'name' => 'Wassu',
@@ -919,7 +892,7 @@ return array (
     'latitude' => 13.69094,
     'longitude' => -14.87884,
   ),
-  102 => 
+  99 => 
   array (
     'id' => 52319,
     'name' => 'Wellingara Ba',
@@ -928,7 +901,7 @@ return array (
     'latitude' => 13.41667,
     'longitude' => -15.4,
   ),
-  103 => 
+  100 => 
   array (
     'id' => 52320,
     'name' => 'Wuli',

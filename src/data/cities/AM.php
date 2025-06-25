@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 return array (
   0 => 
@@ -12,15 +12,6 @@ return array (
   ),
   1 => 
   array (
-    'id' => 282,
-    'name' => 'Abovyan',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.04851,
-    'longitude' => 44.54742,
-  ),
-  2 => 
-  array (
     'id' => 283,
     'name' => 'Agarak',
     'country_id' => 12,
@@ -28,16 +19,7 @@ return array (
     'latitude' => 41.01072,
     'longitude' => 44.46845,
   ),
-  3 => 
-  array (
-    'id' => 284,
-    'name' => 'Agarak',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 39.20684,
-    'longitude' => 46.5446,
-  ),
-  4 => 
+  2 => 
   array (
     'id' => 285,
     'name' => 'Agarakadzor',
@@ -46,7 +28,7 @@ return array (
     'latitude' => 39.73608,
     'longitude' => 45.35553,
   ),
-  5 => 
+  3 => 
   array (
     'id' => 286,
     'name' => 'Agarakavan',
@@ -55,7 +37,7 @@ return array (
     'latitude' => 40.33069,
     'longitude' => 44.07233,
   ),
-  6 => 
+  4 => 
   array (
     'id' => 287,
     'name' => 'Aghavnadzor',
@@ -64,16 +46,7 @@ return array (
     'latitude' => 40.58195,
     'longitude' => 44.69581,
   ),
-  7 => 
-  array (
-    'id' => 288,
-    'name' => 'Aghavnadzor',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 39.78607,
-    'longitude' => 45.2279,
-  ),
-  8 => 
+  5 => 
   array (
     'id' => 289,
     'name' => 'Aghavnatun',
@@ -82,7 +55,7 @@ return array (
     'latitude' => 40.2333,
     'longitude' => 44.25295,
   ),
-  9 => 
+  6 => 
   array (
     'id' => 290,
     'name' => 'Akht’ala',
@@ -91,7 +64,7 @@ return array (
     'latitude' => 41.16838,
     'longitude' => 44.75811,
   ),
-  10 => 
+  7 => 
   array (
     'id' => 291,
     'name' => 'Akhuryan',
@@ -100,7 +73,7 @@ return array (
     'latitude' => 40.78003,
     'longitude' => 43.90027,
   ),
-  11 => 
+  8 => 
   array (
     'id' => 292,
     'name' => 'Aknalich',
@@ -109,7 +82,7 @@ return array (
     'latitude' => 40.14728,
     'longitude' => 44.16669,
   ),
-  12 => 
+  9 => 
   array (
     'id' => 293,
     'name' => 'Aknashen',
@@ -118,7 +91,7 @@ return array (
     'latitude' => 40.09551,
     'longitude' => 44.28604,
   ),
-  13 => 
+  10 => 
   array (
     'id' => 294,
     'name' => 'Akner',
@@ -127,7 +100,7 @@ return array (
     'latitude' => 39.53491,
     'longitude' => 46.30732,
   ),
-  14 => 
+  11 => 
   array (
     'id' => 295,
     'name' => 'Akunk’',
@@ -136,16 +109,7 @@ return array (
     'latitude' => 40.26672,
     'longitude' => 44.6861,
   ),
-  15 => 
-  array (
-    'id' => 296,
-    'name' => 'Akunk’',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.15886,
-    'longitude' => 45.72568,
-  ),
-  16 => 
+  12 => 
   array (
     'id' => 297,
     'name' => 'Alashkert',
@@ -154,7 +118,7 @@ return array (
     'latitude' => 40.10712,
     'longitude' => 44.05108,
   ),
-  17 => 
+  13 => 
   array (
     'id' => 298,
     'name' => 'Alaverdi',
@@ -163,7 +127,7 @@ return array (
     'latitude' => 41.09766,
     'longitude' => 44.67316,
   ),
-  18 => 
+  14 => 
   array (
     'id' => 299,
     'name' => 'Amasia',
@@ -172,7 +136,7 @@ return array (
     'latitude' => 40.95442,
     'longitude' => 43.7872,
   ),
-  19 => 
+  15 => 
   array (
     'id' => 300,
     'name' => 'Angeghakot’',
@@ -181,7 +145,7 @@ return array (
     'latitude' => 39.56952,
     'longitude' => 45.94452,
   ),
-  20 => 
+  16 => 
   array (
     'id' => 301,
     'name' => 'Anushavan',
@@ -190,7 +154,7 @@ return array (
     'latitude' => 40.65008,
     'longitude' => 43.98053,
   ),
-  21 => 
+  17 => 
   array (
     'id' => 302,
     'name' => 'Apaga',
@@ -199,7 +163,7 @@ return array (
     'latitude' => 40.09729,
     'longitude' => 44.25293,
   ),
-  22 => 
+  18 => 
   array (
     'id' => 303,
     'name' => 'Aparan',
@@ -208,7 +172,7 @@ return array (
     'latitude' => 40.59323,
     'longitude' => 44.3589,
   ),
-  23 => 
+  19 => 
   array (
     'id' => 304,
     'name' => 'Arabkir',
@@ -217,7 +181,7 @@ return array (
     'latitude' => 40.20549,
     'longitude' => 44.50699,
   ),
-  24 => 
+  20 => 
   array (
     'id' => 305,
     'name' => 'Aragats',
@@ -226,7 +190,7 @@ return array (
     'latitude' => 40.48889,
     'longitude' => 44.3529,
   ),
-  25 => 
+  21 => 
   array (
     'id' => 306,
     'name' => 'Arak’s',
@@ -235,7 +199,7 @@ return array (
     'latitude' => 40.05548,
     'longitude' => 44.30292,
   ),
-  26 => 
+  22 => 
   array (
     'id' => 307,
     'name' => 'Aralez',
@@ -244,7 +208,7 @@ return array (
     'latitude' => 39.90008,
     'longitude' => 44.6557,
   ),
-  27 => 
+  23 => 
   array (
     'id' => 308,
     'name' => 'Aramus',
@@ -253,7 +217,7 @@ return array (
     'latitude' => 40.25095,
     'longitude' => 44.66351,
   ),
-  28 => 
+  24 => 
   array (
     'id' => 309,
     'name' => 'Ararat',
@@ -262,7 +226,7 @@ return array (
     'latitude' => 39.83069,
     'longitude' => 44.70569,
   ),
-  29 => 
+  25 => 
   array (
     'id' => 310,
     'name' => 'Arazap’',
@@ -271,7 +235,7 @@ return array (
     'latitude' => 40.04169,
     'longitude' => 44.14728,
   ),
-  30 => 
+  26 => 
   array (
     'id' => 311,
     'name' => 'Arbat’',
@@ -280,7 +244,7 @@ return array (
     'latitude' => 40.13892,
     'longitude' => 44.40289,
   ),
-  31 => 
+  27 => 
   array (
     'id' => 312,
     'name' => 'Archis',
@@ -289,7 +253,7 @@ return array (
     'latitude' => 41.16351,
     'longitude' => 44.87631,
   ),
-  32 => 
+  28 => 
   array (
     'id' => 313,
     'name' => 'Areni',
@@ -298,7 +262,7 @@ return array (
     'latitude' => 39.71668,
     'longitude' => 45.18329,
   ),
-  33 => 
+  29 => 
   array (
     'id' => 314,
     'name' => 'Arevabuyr',
@@ -307,7 +271,7 @@ return array (
     'latitude' => 40.03607,
     'longitude' => 44.46948,
   ),
-  34 => 
+  30 => 
   array (
     'id' => 315,
     'name' => 'Arevashat',
@@ -316,7 +280,7 @@ return array (
     'latitude' => 40.14447,
     'longitude' => 44.37512,
   ),
-  35 => 
+  31 => 
   array (
     'id' => 316,
     'name' => 'Arevashogh',
@@ -325,7 +289,7 @@ return array (
     'latitude' => 40.86039,
     'longitude' => 44.27438,
   ),
-  36 => 
+  32 => 
   array (
     'id' => 317,
     'name' => 'Arevik',
@@ -334,16 +298,7 @@ return array (
     'latitude' => 40.1001,
     'longitude' => 44.09448,
   ),
-  37 => 
-  array (
-    'id' => 318,
-    'name' => 'Arevik',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.7417,
-    'longitude' => 43.9043,
-  ),
-  38 => 
+  33 => 
   array (
     'id' => 319,
     'name' => 'Arevshat',
@@ -352,16 +307,7 @@ return array (
     'latitude' => 40.03963,
     'longitude' => 44.54179,
   ),
-  39 => 
-  array (
-    'id' => 320,
-    'name' => 'Arevshat',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.65345,
-    'longitude' => 44.04419,
-  ),
-  40 => 
+  34 => 
   array (
     'id' => 321,
     'name' => 'Argavand',
@@ -370,16 +316,7 @@ return array (
     'latitude' => 40.15289,
     'longitude' => 44.4389,
   ),
-  41 => 
-  array (
-    'id' => 322,
-    'name' => 'Argavand',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.0611,
-    'longitude' => 44.09448,
-  ),
-  42 => 
+  35 => 
   array (
     'id' => 323,
     'name' => 'Argel',
@@ -388,7 +325,7 @@ return array (
     'latitude' => 40.37793,
     'longitude' => 44.6001,
   ),
-  43 => 
+  36 => 
   array (
     'id' => 324,
     'name' => 'Armash',
@@ -397,7 +334,7 @@ return array (
     'latitude' => 39.76672,
     'longitude' => 44.8111,
   ),
-  44 => 
+  37 => 
   array (
     'id' => 325,
     'name' => 'Armavir',
@@ -406,7 +343,7 @@ return array (
     'latitude' => 40.15446,
     'longitude' => 44.03815,
   ),
-  45 => 
+  38 => 
   array (
     'id' => 326,
     'name' => 'Arrap’i',
@@ -415,7 +352,7 @@ return array (
     'latitude' => 40.78276,
     'longitude' => 43.80583,
   ),
-  46 => 
+  39 => 
   array (
     'id' => 327,
     'name' => 'Arshaluys',
@@ -424,7 +361,7 @@ return array (
     'latitude' => 40.16949,
     'longitude' => 44.21393,
   ),
-  47 => 
+  40 => 
   array (
     'id' => 328,
     'name' => 'Artashat',
@@ -433,7 +370,7 @@ return array (
     'latitude' => 39.96144,
     'longitude' => 44.54447,
   ),
-  48 => 
+  41 => 
   array (
     'id' => 329,
     'name' => 'Arteni',
@@ -442,7 +379,7 @@ return array (
     'latitude' => 40.2973,
     'longitude' => 43.76672,
   ),
-  49 => 
+  42 => 
   array (
     'id' => 330,
     'name' => 'Artimet',
@@ -451,7 +388,7 @@ return array (
     'latitude' => 40.15008,
     'longitude' => 44.26672,
   ),
-  50 => 
+  43 => 
   array (
     'id' => 331,
     'name' => 'Artsvaberd',
@@ -460,7 +397,7 @@ return array (
     'latitude' => 40.83947,
     'longitude' => 45.47033,
   ),
-  51 => 
+  44 => 
   array (
     'id' => 332,
     'name' => 'Arzakan',
@@ -469,7 +406,7 @@ return array (
     'latitude' => 40.45007,
     'longitude' => 44.60828,
   ),
-  52 => 
+  45 => 
   array (
     'id' => 333,
     'name' => 'Arzni',
@@ -478,7 +415,7 @@ return array (
     'latitude' => 40.2973,
     'longitude' => 44.59869,
   ),
-  53 => 
+  46 => 
   array (
     'id' => 334,
     'name' => 'Ashnak',
@@ -487,7 +424,7 @@ return array (
     'latitude' => 40.33069,
     'longitude' => 43.91669,
   ),
-  54 => 
+  47 => 
   array (
     'id' => 335,
     'name' => 'Ashtarak',
@@ -496,7 +433,7 @@ return array (
     'latitude' => 40.2991,
     'longitude' => 44.36204,
   ),
-  55 => 
+  48 => 
   array (
     'id' => 336,
     'name' => 'Astghadzor',
@@ -505,7 +442,7 @@ return array (
     'latitude' => 40.12231,
     'longitude' => 45.35553,
   ),
-  56 => 
+  49 => 
   array (
     'id' => 337,
     'name' => 'Avshar',
@@ -514,7 +451,7 @@ return array (
     'latitude' => 39.85553,
     'longitude' => 44.65832,
   ),
-  57 => 
+  50 => 
   array (
     'id' => 338,
     'name' => 'Aygavan',
@@ -523,7 +460,7 @@ return array (
     'latitude' => 39.87327,
     'longitude' => 44.66984,
   ),
-  58 => 
+  51 => 
   array (
     'id' => 339,
     'name' => 'Aygehovit',
@@ -532,7 +469,7 @@ return array (
     'latitude' => 40.97951,
     'longitude' => 45.25033,
   ),
-  59 => 
+  52 => 
   array (
     'id' => 340,
     'name' => 'Aygek',
@@ -541,7 +478,7 @@ return array (
     'latitude' => 40.1889,
     'longitude' => 44.38611,
   ),
-  60 => 
+  53 => 
   array (
     'id' => 341,
     'name' => 'Aygepat',
@@ -550,7 +487,7 @@ return array (
     'latitude' => 39.95845,
     'longitude' => 44.59981,
   ),
-  61 => 
+  54 => 
   array (
     'id' => 342,
     'name' => 'Aygeshat',
@@ -559,7 +496,7 @@ return array (
     'latitude' => 40.07507,
     'longitude' => 44.0611,
   ),
-  62 => 
+  55 => 
   array (
     'id' => 343,
     'name' => 'Aygestan',
@@ -568,7 +505,7 @@ return array (
     'latitude' => 40.00293,
     'longitude' => 44.55829,
   ),
-  63 => 
+  56 => 
   array (
     'id' => 344,
     'name' => 'Aygezard',
@@ -577,7 +514,7 @@ return array (
     'latitude' => 39.95436,
     'longitude' => 44.60229,
   ),
-  64 => 
+  57 => 
   array (
     'id' => 345,
     'name' => 'Azatamut',
@@ -586,7 +523,7 @@ return array (
     'latitude' => 40.98204,
     'longitude' => 45.18551,
   ),
-  65 => 
+  58 => 
   array (
     'id' => 346,
     'name' => 'Azatan',
@@ -595,7 +532,7 @@ return array (
     'latitude' => 40.71959,
     'longitude' => 43.82727,
   ),
-  66 => 
+  59 => 
   array (
     'id' => 347,
     'name' => 'Baghramyan',
@@ -604,7 +541,7 @@ return array (
     'latitude' => 40.19452,
     'longitude' => 44.36951,
   ),
-  67 => 
+  60 => 
   array (
     'id' => 348,
     'name' => 'Bagratashen',
@@ -613,7 +550,7 @@ return array (
     'latitude' => 41.24358,
     'longitude' => 44.81737,
   ),
-  68 => 
+  61 => 
   array (
     'id' => 349,
     'name' => 'Balahovit',
@@ -622,7 +559,7 @@ return array (
     'latitude' => 40.25153,
     'longitude' => 44.60828,
   ),
-  69 => 
+  62 => 
   array (
     'id' => 350,
     'name' => 'Bambakashat',
@@ -631,7 +568,7 @@ return array (
     'latitude' => 40.10828,
     'longitude' => 44.01947,
   ),
-  70 => 
+  63 => 
   array (
     'id' => 351,
     'name' => 'Bardzrashen',
@@ -640,7 +577,7 @@ return array (
     'latitude' => 40.08533,
     'longitude' => 44.57957,
   ),
-  71 => 
+  64 => 
   array (
     'id' => 352,
     'name' => 'Basen',
@@ -649,7 +586,7 @@ return array (
     'latitude' => 40.75767,
     'longitude' => 43.99274,
   ),
-  72 => 
+  65 => 
   array (
     'id' => 353,
     'name' => 'Bazum',
@@ -658,7 +595,7 @@ return array (
     'latitude' => 40.86763,
     'longitude' => 44.43978,
   ),
-  73 => 
+  66 => 
   array (
     'id' => 354,
     'name' => 'Berd',
@@ -667,7 +604,7 @@ return array (
     'latitude' => 40.88135,
     'longitude' => 45.38901,
   ),
-  74 => 
+  67 => 
   array (
     'id' => 355,
     'name' => 'Berdavan',
@@ -676,7 +613,7 @@ return array (
     'latitude' => 41.20503,
     'longitude' => 44.99967,
   ),
-  75 => 
+  68 => 
   array (
     'id' => 356,
     'name' => 'Berk’anush',
@@ -685,7 +622,7 @@ return array (
     'latitude' => 39.9779,
     'longitude' => 44.51672,
   ),
-  76 => 
+  69 => 
   array (
     'id' => 357,
     'name' => 'Bjni',
@@ -694,7 +631,7 @@ return array (
     'latitude' => 40.45831,
     'longitude' => 44.65008,
   ),
-  77 => 
+  70 => 
   array (
     'id' => 358,
     'name' => 'Brrnakot’',
@@ -703,7 +640,7 @@ return array (
     'latitude' => 39.49742,
     'longitude' => 45.97241,
   ),
-  78 => 
+  71 => 
   array (
     'id' => 359,
     'name' => 'Burastan',
@@ -712,7 +649,7 @@ return array (
     'latitude' => 39.99157,
     'longitude' => 44.49681,
   ),
-  79 => 
+  72 => 
   array (
     'id' => 360,
     'name' => 'Buzhakan',
@@ -721,7 +658,7 @@ return array (
     'latitude' => 40.45569,
     'longitude' => 44.51947,
   ),
-  80 => 
+  73 => 
   array (
     'id' => 361,
     'name' => 'Byurakan',
@@ -730,7 +667,7 @@ return array (
     'latitude' => 40.33894,
     'longitude' => 44.27275,
   ),
-  81 => 
+  74 => 
   array (
     'id' => 362,
     'name' => 'Byuravan',
@@ -739,7 +676,7 @@ return array (
     'latitude' => 40.01604,
     'longitude' => 44.51889,
   ),
-  82 => 
+  75 => 
   array (
     'id' => 363,
     'name' => 'Byureghavan',
@@ -748,7 +685,7 @@ return array (
     'latitude' => 40.31417,
     'longitude' => 44.59333,
   ),
-  83 => 
+  76 => 
   array (
     'id' => 364,
     'name' => 'Chambarak',
@@ -757,7 +694,7 @@ return array (
     'latitude' => 40.59655,
     'longitude' => 45.35498,
   ),
-  84 => 
+  77 => 
   array (
     'id' => 365,
     'name' => 'Chochkan',
@@ -766,7 +703,7 @@ return array (
     'latitude' => 41.18118,
     'longitude' => 44.83217,
   ),
-  85 => 
+  78 => 
   array (
     'id' => 366,
     'name' => 'Dalar',
@@ -775,7 +712,7 @@ return array (
     'latitude' => 39.97653,
     'longitude' => 44.52649,
   ),
-  86 => 
+  79 => 
   array (
     'id' => 367,
     'name' => 'Dalarik',
@@ -784,7 +721,7 @@ return array (
     'latitude' => 40.2279,
     'longitude' => 43.87793,
   ),
-  87 => 
+  80 => 
   array (
     'id' => 368,
     'name' => 'Darakert',
@@ -793,7 +730,7 @@ return array (
     'latitude' => 40.10553,
     'longitude' => 44.41388,
   ),
-  88 => 
+  81 => 
   array (
     'id' => 369,
     'name' => 'Darpas',
@@ -802,7 +739,7 @@ return array (
     'latitude' => 40.83674,
     'longitude' => 44.42494,
   ),
-  89 => 
+  82 => 
   array (
     'id' => 370,
     'name' => 'Dashtavan',
@@ -811,7 +748,7 @@ return array (
     'latitude' => 40.1001,
     'longitude' => 44.39172,
   ),
-  90 => 
+  83 => 
   array (
     'id' => 371,
     'name' => 'Ddmashen',
@@ -820,7 +757,7 @@ return array (
     'latitude' => 40.57028,
     'longitude' => 44.82295,
   ),
-  91 => 
+  84 => 
   array (
     'id' => 372,
     'name' => 'Dilijan',
@@ -829,7 +766,7 @@ return array (
     'latitude' => 40.7417,
     'longitude' => 44.8501,
   ),
-  92 => 
+  85 => 
   array (
     'id' => 373,
     'name' => 'Dimitrov',
@@ -838,7 +775,7 @@ return array (
     'latitude' => 40.00848,
     'longitude' => 44.4917,
   ),
-  93 => 
+  86 => 
   array (
     'id' => 374,
     'name' => 'Doghs',
@@ -847,7 +784,7 @@ return array (
     'latitude' => 40.22229,
     'longitude' => 44.27228,
   ),
-  94 => 
+  87 => 
   array (
     'id' => 375,
     'name' => 'Drakhtik',
@@ -856,7 +793,7 @@ return array (
     'latitude' => 40.56497,
     'longitude' => 45.2367,
   ),
-  95 => 
+  88 => 
   array (
     'id' => 376,
     'name' => 'Dsegh',
@@ -865,7 +802,7 @@ return array (
     'latitude' => 40.9617,
     'longitude' => 44.65003,
   ),
-  96 => 
+  89 => 
   array (
     'id' => 377,
     'name' => 'Dvin',
@@ -874,7 +811,7 @@ return array (
     'latitude' => 40.01984,
     'longitude' => 44.58376,
   ),
-  97 => 
+  90 => 
   array (
     'id' => 378,
     'name' => 'Dzit’hank’ov',
@@ -883,7 +820,7 @@ return array (
     'latitude' => 40.50848,
     'longitude' => 43.82092,
   ),
-  98 => 
+  91 => 
   array (
     'id' => 379,
     'name' => 'Dzoraghbyur',
@@ -892,7 +829,7 @@ return array (
     'latitude' => 40.20412,
     'longitude' => 44.6415,
   ),
-  99 => 
+  92 => 
   array (
     'id' => 380,
     'name' => 'Dzoragyugh',
@@ -901,7 +838,7 @@ return array (
     'latitude' => 40.16957,
     'longitude' => 45.18337,
   ),
-  100 => 
+  93 => 
   array (
     'id' => 381,
     'name' => 'Dzorastan',
@@ -910,7 +847,7 @@ return array (
     'latitude' => 39.27059,
     'longitude' => 46.3572,
   ),
-  101 => 
+  94 => 
   array (
     'id' => 382,
     'name' => 'Fantan',
@@ -919,7 +856,7 @@ return array (
     'latitude' => 40.39447,
     'longitude' => 44.6861,
   ),
-  102 => 
+  95 => 
   array (
     'id' => 383,
     'name' => 'Fioletovo',
@@ -928,7 +865,7 @@ return array (
     'latitude' => 40.72241,
     'longitude' => 44.71769,
   ),
-  103 => 
+  96 => 
   array (
     'id' => 384,
     'name' => 'Gagarin',
@@ -937,7 +874,7 @@ return array (
     'latitude' => 40.54026,
     'longitude' => 44.86962,
   ),
-  104 => 
+  97 => 
   array (
     'id' => 385,
     'name' => 'Gandzak',
@@ -946,7 +883,7 @@ return array (
     'latitude' => 40.31472,
     'longitude' => 45.11139,
   ),
-  105 => 
+  98 => 
   array (
     'id' => 386,
     'name' => 'Garrni',
@@ -955,7 +892,7 @@ return array (
     'latitude' => 40.11931,
     'longitude' => 44.73442,
   ),
-  106 => 
+  99 => 
   array (
     'id' => 387,
     'name' => 'Gavarr',
@@ -964,7 +901,7 @@ return array (
     'latitude' => 40.35398,
     'longitude' => 45.12386,
   ),
-  107 => 
+  100 => 
   array (
     'id' => 388,
     'name' => 'Gay',
@@ -973,7 +910,7 @@ return array (
     'latitude' => 40.08444,
     'longitude' => 44.30528,
   ),
-  108 => 
+  101 => 
   array (
     'id' => 389,
     'name' => 'Geghakert',
@@ -982,7 +919,7 @@ return array (
     'latitude' => 40.18516,
     'longitude' => 44.24331,
   ),
-  109 => 
+  102 => 
   array (
     'id' => 390,
     'name' => 'Geghamasar',
@@ -991,7 +928,7 @@ return array (
     'latitude' => 40.31091,
     'longitude' => 45.67924,
   ),
-  110 => 
+  103 => 
   array (
     'id' => 391,
     'name' => 'Geghamavan',
@@ -1000,7 +937,7 @@ return array (
     'latitude' => 40.5625,
     'longitude' => 44.88892,
   ),
-  111 => 
+  104 => 
   array (
     'id' => 392,
     'name' => 'Geghanist',
@@ -1009,7 +946,7 @@ return array (
     'latitude' => 40.14587,
     'longitude' => 44.43048,
   ),
-  112 => 
+  105 => 
   array (
     'id' => 393,
     'name' => 'Getap’',
@@ -1018,7 +955,7 @@ return array (
     'latitude' => 39.76392,
     'longitude' => 45.30829,
   ),
-  113 => 
+  106 => 
   array (
     'id' => 394,
     'name' => 'Getashen',
@@ -1027,7 +964,7 @@ return array (
     'latitude' => 40.04449,
     'longitude' => 43.94171,
   ),
-  114 => 
+  107 => 
   array (
     'id' => 395,
     'name' => 'Getazat',
@@ -1036,7 +973,7 @@ return array (
     'latitude' => 40.03844,
     'longitude' => 44.56369,
   ),
-  115 => 
+  108 => 
   array (
     'id' => 396,
     'name' => 'Ghukasavan',
@@ -1045,7 +982,7 @@ return array (
     'latitude' => 40.12793,
     'longitude' => 44.41669,
   ),
-  116 => 
+  109 => 
   array (
     'id' => 397,
     'name' => 'Gladzor',
@@ -1054,7 +991,7 @@ return array (
     'latitude' => 39.7807,
     'longitude' => 45.34729,
   ),
-  117 => 
+  110 => 
   array (
     'id' => 398,
     'name' => 'Gmbet’',
@@ -1063,7 +1000,7 @@ return array (
     'latitude' => 40.22369,
     'longitude' => 44.25409,
   ),
-  118 => 
+  111 => 
   array (
     'id' => 399,
     'name' => 'Gogaran',
@@ -1072,7 +1009,7 @@ return array (
     'latitude' => 40.89255,
     'longitude' => 44.19915,
   ),
-  119 => 
+  112 => 
   array (
     'id' => 400,
     'name' => 'Goght’',
@@ -1081,7 +1018,7 @@ return array (
     'latitude' => 40.1347,
     'longitude' => 44.78332,
   ),
-  120 => 
+  113 => 
   array (
     'id' => 401,
     'name' => 'Goravan',
@@ -1090,7 +1027,7 @@ return array (
     'latitude' => 39.90832,
     'longitude' => 44.73328,
   ),
-  121 => 
+  114 => 
   array (
     'id' => 402,
     'name' => 'Goris',
@@ -1099,7 +1036,7 @@ return array (
     'latitude' => 39.51111,
     'longitude' => 46.34168,
   ),
-  122 => 
+  115 => 
   array (
     'id' => 403,
     'name' => 'Griboyedov',
@@ -1108,7 +1045,7 @@ return array (
     'latitude' => 40.11307,
     'longitude' => 44.27169,
   ),
-  123 => 
+  116 => 
   array (
     'id' => 404,
     'name' => 'Gugark’',
@@ -1117,7 +1054,7 @@ return array (
     'latitude' => 40.8046,
     'longitude' => 44.54025,
   ),
-  124 => 
+  117 => 
   array (
     'id' => 405,
     'name' => 'Gyulagarak',
@@ -1126,7 +1063,7 @@ return array (
     'latitude' => 40.96715,
     'longitude' => 44.47144,
   ),
-  125 => 
+  118 => 
   array (
     'id' => 406,
     'name' => 'Gyumri',
@@ -1135,7 +1072,7 @@ return array (
     'latitude' => 40.7942,
     'longitude' => 43.84528,
   ),
-  126 => 
+  119 => 
   array (
     'id' => 407,
     'name' => 'Haghartsin',
@@ -1144,7 +1081,7 @@ return array (
     'latitude' => 40.77614,
     'longitude' => 44.96847,
   ),
-  127 => 
+  120 => 
   array (
     'id' => 408,
     'name' => 'Hats’avan',
@@ -1153,7 +1090,7 @@ return array (
     'latitude' => 39.46405,
     'longitude' => 45.97047,
   ),
-  128 => 
+  121 => 
   array (
     'id' => 409,
     'name' => 'Hayanist',
@@ -1162,7 +1099,7 @@ return array (
     'latitude' => 40.12231,
     'longitude' => 44.37793,
   ),
-  129 => 
+  122 => 
   array (
     'id' => 410,
     'name' => 'Haykashen',
@@ -1171,7 +1108,7 @@ return array (
     'latitude' => 40.07233,
     'longitude' => 44.30829,
   ),
-  130 => 
+  123 => 
   array (
     'id' => 411,
     'name' => 'Haykavan',
@@ -1180,7 +1117,7 @@ return array (
     'latitude' => 40.80312,
     'longitude' => 43.75173,
   ),
-  131 => 
+  124 => 
   array (
     'id' => 412,
     'name' => 'Hnaberd',
@@ -1189,7 +1126,7 @@ return array (
     'latitude' => 40.63721,
     'longitude' => 44.14058,
   ),
-  132 => 
+  125 => 
   array (
     'id' => 413,
     'name' => 'Horrom',
@@ -1198,7 +1135,7 @@ return array (
     'latitude' => 40.65973,
     'longitude' => 43.89032,
   ),
-  133 => 
+  126 => 
   array (
     'id' => 414,
     'name' => 'Hovtamej',
@@ -1207,7 +1144,7 @@ return array (
     'latitude' => 40.18329,
     'longitude' => 44.25848,
   ),
-  134 => 
+  127 => 
   array (
     'id' => 415,
     'name' => 'Hovtashat',
@@ -1216,7 +1153,7 @@ return array (
     'latitude' => 40.09729,
     'longitude' => 44.34448,
   ),
-  135 => 
+  128 => 
   array (
     'id' => 416,
     'name' => 'Hovtashen',
@@ -1225,7 +1162,7 @@ return array (
     'latitude' => 40.02508,
     'longitude' => 44.45007,
   ),
-  136 => 
+  129 => 
   array (
     'id' => 417,
     'name' => 'Hrazdan',
@@ -1234,7 +1171,7 @@ return array (
     'latitude' => 40.49748,
     'longitude' => 44.7662,
   ),
-  137 => 
+  130 => 
   array (
     'id' => 418,
     'name' => 'Ijevan',
@@ -1243,7 +1180,7 @@ return array (
     'latitude' => 40.87877,
     'longitude' => 45.14851,
   ),
-  138 => 
+  131 => 
   array (
     'id' => 419,
     'name' => 'Janfida',
@@ -1252,7 +1189,7 @@ return array (
     'latitude' => 40.04449,
     'longitude' => 44.02789,
   ),
-  139 => 
+  132 => 
   array (
     'id' => 420,
     'name' => 'Jermuk',
@@ -1261,7 +1198,7 @@ return array (
     'latitude' => 39.84168,
     'longitude' => 45.66949,
   ),
-  140 => 
+  133 => 
   array (
     'id' => 421,
     'name' => 'Jrahovit',
@@ -1270,7 +1207,7 @@ return array (
     'latitude' => 40.0473,
     'longitude' => 44.4751,
   ),
-  141 => 
+  134 => 
   array (
     'id' => 422,
     'name' => 'Jrashen',
@@ -1279,16 +1216,7 @@ return array (
     'latitude' => 40.05275,
     'longitude' => 44.51259,
   ),
-  142 => 
-  array (
-    'id' => 423,
-    'name' => 'Jrashen',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.79028,
-    'longitude' => 44.18664,
-  ),
-  143 => 
+  135 => 
   array (
     'id' => 424,
     'name' => 'Kamo',
@@ -1297,7 +1225,7 @@ return array (
     'latitude' => 40.82572,
     'longitude' => 43.95071,
   ),
-  144 => 
+  136 => 
   array (
     'id' => 425,
     'name' => 'Kapan',
@@ -1306,7 +1234,7 @@ return array (
     'latitude' => 39.20755,
     'longitude' => 46.40576,
   ),
-  145 => 
+  137 => 
   array (
     'id' => 426,
     'name' => 'Kaputan',
@@ -1315,7 +1243,7 @@ return array (
     'latitude' => 40.32507,
     'longitude' => 44.70007,
   ),
-  146 => 
+  138 => 
   array (
     'id' => 427,
     'name' => 'Karanlukh',
@@ -1324,7 +1252,7 @@ return array (
     'latitude' => 40.10444,
     'longitude' => 45.28972,
   ),
-  147 => 
+  139 => 
   array (
     'id' => 428,
     'name' => 'Karbi',
@@ -1333,7 +1261,7 @@ return array (
     'latitude' => 40.33069,
     'longitude' => 44.37793,
   ),
-  148 => 
+  140 => 
   array (
     'id' => 429,
     'name' => 'Karchaghbyur',
@@ -1342,7 +1270,7 @@ return array (
     'latitude' => 40.17048,
     'longitude' => 45.57785,
   ),
-  149 => 
+  141 => 
   array (
     'id' => 430,
     'name' => 'Kasakh',
@@ -1351,7 +1279,7 @@ return array (
     'latitude' => 40.53697,
     'longitude' => 44.41046,
   ),
-  150 => 
+  142 => 
   array (
     'id' => 431,
     'name' => 'Khasht’arrak',
@@ -1360,7 +1288,7 @@ return array (
     'latitude' => 40.93668,
     'longitude' => 45.1821,
   ),
-  151 => 
+  143 => 
   array (
     'id' => 432,
     'name' => 'Khndzoresk',
@@ -1369,7 +1297,7 @@ return array (
     'latitude' => 39.50568,
     'longitude' => 46.4361,
   ),
-  152 => 
+  144 => 
   array (
     'id' => 433,
     'name' => 'Khoronk’',
@@ -1378,7 +1306,7 @@ return array (
     'latitude' => 40.13611,
     'longitude' => 44.24731,
   ),
-  153 => 
+  145 => 
   array (
     'id' => 434,
     'name' => 'Kosh',
@@ -1387,7 +1315,7 @@ return array (
     'latitude' => 40.30011,
     'longitude' => 44.16107,
   ),
-  154 => 
+  146 => 
   array (
     'id' => 435,
     'name' => 'Kotayk’',
@@ -1396,7 +1324,7 @@ return array (
     'latitude' => 40.27789,
     'longitude' => 44.66388,
   ),
-  155 => 
+  147 => 
   array (
     'id' => 436,
     'name' => 'K’anak’erravan',
@@ -1405,7 +1333,7 @@ return array (
     'latitude' => 40.24739,
     'longitude' => 44.53511,
   ),
-  156 => 
+  148 => 
   array (
     'id' => 437,
     'name' => 'Lanjaghbyur',
@@ -1414,7 +1342,7 @@ return array (
     'latitude' => 40.26947,
     'longitude' => 45.14447,
   ),
-  157 => 
+  149 => 
   array (
     'id' => 438,
     'name' => 'Lchap’',
@@ -1423,7 +1351,7 @@ return array (
     'latitude' => 40.45569,
     'longitude' => 45.07507,
   ),
-  158 => 
+  150 => 
   array (
     'id' => 439,
     'name' => 'Lchashen',
@@ -1432,7 +1360,7 @@ return array (
     'latitude' => 40.51947,
     'longitude' => 44.93048,
   ),
-  159 => 
+  151 => 
   array (
     'id' => 440,
     'name' => 'Lenughi',
@@ -1441,7 +1369,7 @@ return array (
     'latitude' => 40.12512,
     'longitude' => 43.96393,
   ),
-  160 => 
+  152 => 
   array (
     'id' => 441,
     'name' => 'Lerrnakert',
@@ -1450,7 +1378,7 @@ return array (
     'latitude' => 40.5625,
     'longitude' => 43.9389,
   ),
-  161 => 
+  153 => 
   array (
     'id' => 442,
     'name' => 'Lerrnanist',
@@ -1459,7 +1387,7 @@ return array (
     'latitude' => 40.46676,
     'longitude' => 44.79249,
   ),
-  162 => 
+  154 => 
   array (
     'id' => 443,
     'name' => 'Lerrnants’k’',
@@ -1468,7 +1396,7 @@ return array (
     'latitude' => 40.79532,
     'longitude' => 44.27435,
   ),
-  163 => 
+  155 => 
   array (
     'id' => 444,
     'name' => 'Lerrnapat',
@@ -1477,7 +1405,7 @@ return array (
     'latitude' => 40.81538,
     'longitude' => 44.39344,
   ),
-  164 => 
+  156 => 
   array (
     'id' => 445,
     'name' => 'Lerrnavan',
@@ -1486,7 +1414,7 @@ return array (
     'latitude' => 40.7882,
     'longitude' => 44.16024,
   ),
-  165 => 
+  157 => 
   array (
     'id' => 446,
     'name' => 'Lichk’',
@@ -1495,7 +1423,7 @@ return array (
     'latitude' => 40.15933,
     'longitude' => 45.23467,
   ),
-  166 => 
+  158 => 
   array (
     'id' => 447,
     'name' => 'Lorut',
@@ -1504,7 +1432,7 @@ return array (
     'latitude' => 40.93717,
     'longitude' => 44.77142,
   ),
-  167 => 
+  159 => 
   array (
     'id' => 448,
     'name' => 'Lukashin',
@@ -1513,7 +1441,7 @@ return array (
     'latitude' => 40.18726,
     'longitude' => 44.0039,
   ),
-  168 => 
+  160 => 
   array (
     'id' => 449,
     'name' => 'Lusarrat',
@@ -1522,7 +1450,7 @@ return array (
     'latitude' => 39.87403,
     'longitude' => 44.58678,
   ),
-  169 => 
+  161 => 
   array (
     'id' => 450,
     'name' => 'Madina',
@@ -1531,7 +1459,7 @@ return array (
     'latitude' => 40.07637,
     'longitude' => 45.25507,
   ),
-  170 => 
+  162 => 
   array (
     'id' => 451,
     'name' => 'Malishka',
@@ -1540,7 +1468,7 @@ return array (
     'latitude' => 39.74731,
     'longitude' => 45.4057,
   ),
-  171 => 
+  163 => 
   array (
     'id' => 452,
     'name' => 'Maralik',
@@ -1549,7 +1477,7 @@ return array (
     'latitude' => 40.57507,
     'longitude' => 43.87231,
   ),
-  172 => 
+  164 => 
   array (
     'id' => 453,
     'name' => 'Margahovit',
@@ -1558,7 +1486,7 @@ return array (
     'latitude' => 40.73381,
     'longitude' => 44.68474,
   ),
-  173 => 
+  165 => 
   array (
     'id' => 454,
     'name' => 'Margara',
@@ -1567,7 +1495,7 @@ return array (
     'latitude' => 40.03332,
     'longitude' => 44.18048,
   ),
-  174 => 
+  166 => 
   array (
     'id' => 455,
     'name' => 'Marmarashen',
@@ -1576,7 +1504,7 @@ return array (
     'latitude' => 40.05829,
     'longitude' => 44.47229,
   ),
-  175 => 
+  167 => 
   array (
     'id' => 456,
     'name' => 'Marmashen',
@@ -1585,7 +1513,7 @@ return array (
     'latitude' => 40.83486,
     'longitude' => 43.7779,
   ),
-  176 => 
+  168 => 
   array (
     'id' => 457,
     'name' => 'Martuni',
@@ -1594,7 +1522,7 @@ return array (
     'latitude' => 40.08333,
     'longitude' => 45.25,
   ),
-  177 => 
+  169 => 
   array (
     'id' => 458,
     'name' => 'Masis',
@@ -1603,7 +1531,7 @@ return array (
     'latitude' => 40.06542,
     'longitude' => 44.41618,
   ),
-  178 => 
+  170 => 
   array (
     'id' => 459,
     'name' => 'Mayakovski',
@@ -1612,7 +1540,7 @@ return array (
     'latitude' => 40.25293,
     'longitude' => 44.63892,
   ),
-  179 => 
+  171 => 
   array (
     'id' => 460,
     'name' => 'Mayisyan',
@@ -1621,16 +1549,7 @@ return array (
     'latitude' => 40.84715,
     'longitude' => 43.83938,
   ),
-  180 => 
-  array (
-    'id' => 461,
-    'name' => 'Mayisyan',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.15701,
-    'longitude' => 44.09192,
-  ),
-  181 => 
+  172 => 
   array (
     'id' => 462,
     'name' => 'Meghradzor',
@@ -1639,7 +1558,7 @@ return array (
     'latitude' => 40.60611,
     'longitude' => 44.65147,
   ),
-  182 => 
+  173 => 
   array (
     'id' => 463,
     'name' => 'Meghrashen',
@@ -1648,7 +1567,7 @@ return array (
     'latitude' => 40.6723,
     'longitude' => 43.95831,
   ),
-  183 => 
+  174 => 
   array (
     'id' => 464,
     'name' => 'Meghri',
@@ -1657,7 +1576,7 @@ return array (
     'latitude' => 38.90292,
     'longitude' => 46.24458,
   ),
-  184 => 
+  175 => 
   array (
     'id' => 465,
     'name' => 'Merdzavan',
@@ -1666,7 +1585,7 @@ return array (
     'latitude' => 40.1814,
     'longitude' => 44.40033,
   ),
-  185 => 
+  176 => 
   array (
     'id' => 466,
     'name' => 'Mets Mant’ash',
@@ -1675,7 +1594,7 @@ return array (
     'latitude' => 40.64376,
     'longitude' => 44.05653,
   ),
-  186 => 
+  177 => 
   array (
     'id' => 467,
     'name' => 'Mets Masrik',
@@ -1684,7 +1603,7 @@ return array (
     'latitude' => 40.21948,
     'longitude' => 45.76391,
   ),
-  187 => 
+  178 => 
   array (
     'id' => 468,
     'name' => 'Mets Parni',
@@ -1693,7 +1612,7 @@ return array (
     'latitude' => 40.83472,
     'longitude' => 44.11108,
   ),
-  188 => 
+  179 => 
   array (
     'id' => 469,
     'name' => 'Metsamor',
@@ -1702,7 +1621,7 @@ return array (
     'latitude' => 40.14447,
     'longitude' => 44.1167,
   ),
-  189 => 
+  180 => 
   array (
     'id' => 470,
     'name' => 'Metsavan',
@@ -1711,7 +1630,7 @@ return array (
     'latitude' => 41.20156,
     'longitude' => 44.22877,
   ),
-  190 => 
+  181 => 
   array (
     'id' => 471,
     'name' => 'Mosesgegh',
@@ -1720,7 +1639,7 @@ return array (
     'latitude' => 40.90534,
     'longitude' => 45.48838,
   ),
-  191 => 
+  182 => 
   array (
     'id' => 472,
     'name' => 'Mrganush',
@@ -1729,7 +1648,7 @@ return array (
     'latitude' => 40.02857,
     'longitude' => 44.55831,
   ),
-  192 => 
+  183 => 
   array (
     'id' => 473,
     'name' => 'Mrgashat',
@@ -1738,7 +1657,7 @@ return array (
     'latitude' => 40.13068,
     'longitude' => 44.08069,
   ),
-  193 => 
+  184 => 
   array (
     'id' => 474,
     'name' => 'Mrgashen',
@@ -1747,7 +1666,7 @@ return array (
     'latitude' => 40.28607,
     'longitude' => 44.54449,
   ),
-  194 => 
+  185 => 
   array (
     'id' => 475,
     'name' => 'Mrgavan',
@@ -1756,7 +1675,7 @@ return array (
     'latitude' => 39.97251,
     'longitude' => 44.53565,
   ),
-  195 => 
+  186 => 
   array (
     'id' => 476,
     'name' => 'Mrgavet',
@@ -1765,7 +1684,7 @@ return array (
     'latitude' => 40.02789,
     'longitude' => 44.48328,
   ),
-  196 => 
+  187 => 
   array (
     'id' => 477,
     'name' => 'Musalerr',
@@ -1774,7 +1693,7 @@ return array (
     'latitude' => 40.1557,
     'longitude' => 44.37793,
   ),
-  197 => 
+  188 => 
   array (
     'id' => 478,
     'name' => 'Myasnikyan',
@@ -1783,7 +1702,7 @@ return array (
     'latitude' => 40.18048,
     'longitude' => 43.91949,
   ),
-  198 => 
+  189 => 
   array (
     'id' => 479,
     'name' => 'Nalbandyan',
@@ -1792,7 +1711,7 @@ return array (
     'latitude' => 40.0639,
     'longitude' => 43.98889,
   ),
-  199 => 
+  190 => 
   array (
     'id' => 480,
     'name' => 'Navur',
@@ -1801,7 +1720,7 @@ return array (
     'latitude' => 40.86695,
     'longitude' => 45.34179,
   ),
-  200 => 
+  191 => 
   array (
     'id' => 481,
     'name' => 'Nerk’in Getashen',
@@ -1810,7 +1729,7 @@ return array (
     'latitude' => 40.14172,
     'longitude' => 45.27087,
   ),
-  201 => 
+  192 => 
   array (
     'id' => 482,
     'name' => 'Nizami',
@@ -1819,7 +1738,7 @@ return array (
     'latitude' => 40.09168,
     'longitude' => 44.4057,
   ),
-  202 => 
+  193 => 
   array (
     'id' => 483,
     'name' => 'Nor Armavir',
@@ -1828,7 +1747,7 @@ return array (
     'latitude' => 40.08612,
     'longitude' => 43.99451,
   ),
-  203 => 
+  194 => 
   array (
     'id' => 484,
     'name' => 'Nor Geghi',
@@ -1837,7 +1756,7 @@ return array (
     'latitude' => 40.32233,
     'longitude' => 44.58331,
   ),
-  204 => 
+  195 => 
   array (
     'id' => 485,
     'name' => 'Nor Gyugh',
@@ -1846,7 +1765,7 @@ return array (
     'latitude' => 40.26672,
     'longitude' => 44.65832,
   ),
-  205 => 
+  196 => 
   array (
     'id' => 486,
     'name' => 'Nor Yerznka',
@@ -1855,7 +1774,7 @@ return array (
     'latitude' => 40.30011,
     'longitude' => 44.38892,
   ),
-  206 => 
+  197 => 
   array (
     'id' => 487,
     'name' => 'Norabats’',
@@ -1864,7 +1783,7 @@ return array (
     'latitude' => 40.10553,
     'longitude' => 44.43329,
   ),
-  207 => 
+  198 => 
   array (
     'id' => 488,
     'name' => 'Norakert',
@@ -1873,7 +1792,7 @@ return array (
     'latitude' => 40.19733,
     'longitude' => 44.3501,
   ),
-  208 => 
+  199 => 
   array (
     'id' => 489,
     'name' => 'Noramarg',
@@ -1882,7 +1801,7 @@ return array (
     'latitude' => 40.02228,
     'longitude' => 44.42511,
   ),
-  209 => 
+  200 => 
   array (
     'id' => 490,
     'name' => 'Norashen',
@@ -1891,16 +1810,7 @@ return array (
     'latitude' => 41.18886,
     'longitude' => 44.33336,
   ),
-  210 => 
-  array (
-    'id' => 491,
-    'name' => 'Norashen',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.0013,
-    'longitude' => 44.59296,
-  ),
-  211 => 
+  201 => 
   array (
     'id' => 492,
     'name' => 'Noratus',
@@ -1909,7 +1819,7 @@ return array (
     'latitude' => 40.37793,
     'longitude' => 45.18048,
   ),
-  212 => 
+  202 => 
   array (
     'id' => 493,
     'name' => 'Noyakert',
@@ -1918,7 +1828,7 @@ return array (
     'latitude' => 39.83069,
     'longitude' => 44.66949,
   ),
-  213 => 
+  203 => 
   array (
     'id' => 494,
     'name' => 'Noyemberyan',
@@ -1927,7 +1837,7 @@ return array (
     'latitude' => 41.17244,
     'longitude' => 44.99917,
   ),
-  214 => 
+  204 => 
   array (
     'id' => 495,
     'name' => 'Nshavan',
@@ -1936,7 +1846,7 @@ return array (
     'latitude' => 40.02787,
     'longitude' => 44.52565,
   ),
-  215 => 
+  205 => 
   array (
     'id' => 496,
     'name' => 'Odzun',
@@ -1945,7 +1855,7 @@ return array (
     'latitude' => 41.05321,
     'longitude' => 44.61341,
   ),
-  216 => 
+  206 => 
   array (
     'id' => 497,
     'name' => 'Oshakan',
@@ -1954,7 +1864,7 @@ return array (
     'latitude' => 40.26392,
     'longitude' => 44.31671,
   ),
-  217 => 
+  207 => 
   array (
     'id' => 498,
     'name' => 'Parravak’ar',
@@ -1963,7 +1873,7 @@ return array (
     'latitude' => 40.98248,
     'longitude' => 45.36696,
   ),
-  218 => 
+  208 => 
   array (
     'id' => 499,
     'name' => 'Pemzashen',
@@ -1972,7 +1882,7 @@ return array (
     'latitude' => 40.58612,
     'longitude' => 43.94311,
   ),
-  219 => 
+  209 => 
   array (
     'id' => 500,
     'name' => 'Prroshyan',
@@ -1981,7 +1891,7 @@ return array (
     'latitude' => 40.24731,
     'longitude' => 44.41949,
   ),
-  220 => 
+  210 => 
   array (
     'id' => 501,
     'name' => 'Ptghni',
@@ -1990,7 +1900,7 @@ return array (
     'latitude' => 40.25568,
     'longitude' => 44.58612,
   ),
-  221 => 
+  211 => 
   array (
     'id' => 502,
     'name' => 'Ptghunk’',
@@ -1999,7 +1909,7 @@ return array (
     'latitude' => 40.16388,
     'longitude' => 44.36389,
   ),
-  222 => 
+  212 => 
   array (
     'id' => 503,
     'name' => 'P’ok’r Mant’ash',
@@ -2008,7 +1918,7 @@ return array (
     'latitude' => 40.64026,
     'longitude' => 44.04666,
   ),
-  223 => 
+  213 => 
   array (
     'id' => 504,
     'name' => 'P’shatavan',
@@ -2017,7 +1927,7 @@ return array (
     'latitude' => 40.03888,
     'longitude' => 44.06671,
   ),
-  224 => 
+  214 => 
   array (
     'id' => 505,
     'name' => 'Rrind',
@@ -2026,7 +1936,7 @@ return array (
     'latitude' => 39.76111,
     'longitude' => 45.17792,
   ),
-  225 => 
+  215 => 
   array (
     'id' => 506,
     'name' => 'Sarahart’',
@@ -2035,7 +1945,7 @@ return array (
     'latitude' => 40.87043,
     'longitude' => 44.21407,
   ),
-  226 => 
+  216 => 
   array (
     'id' => 507,
     'name' => 'Saramej',
@@ -2044,7 +1954,7 @@ return array (
     'latitude' => 40.77487,
     'longitude' => 44.2222,
   ),
-  227 => 
+  217 => 
   array (
     'id' => 508,
     'name' => 'Saratak',
@@ -2053,7 +1963,7 @@ return array (
     'latitude' => 40.6709,
     'longitude' => 43.87231,
   ),
-  228 => 
+  218 => 
   array (
     'id' => 509,
     'name' => 'Sardarapat',
@@ -2062,7 +1972,7 @@ return array (
     'latitude' => 40.13206,
     'longitude' => 44.00969,
   ),
-  229 => 
+  219 => 
   array (
     'id' => 510,
     'name' => 'Sarigyugh',
@@ -2071,7 +1981,7 @@ return array (
     'latitude' => 41.03531,
     'longitude' => 45.14486,
   ),
-  230 => 
+  220 => 
   array (
     'id' => 511,
     'name' => 'Sarukhan',
@@ -2080,7 +1990,7 @@ return array (
     'latitude' => 40.29169,
     'longitude' => 45.13068,
   ),
-  231 => 
+  221 => 
   array (
     'id' => 512,
     'name' => 'Sasunik',
@@ -2089,7 +1999,7 @@ return array (
     'latitude' => 40.25012,
     'longitude' => 44.34448,
   ),
-  232 => 
+  222 => 
   array (
     'id' => 513,
     'name' => 'Sayat’-Nova',
@@ -2098,7 +2008,7 @@ return array (
     'latitude' => 40.07507,
     'longitude' => 44.40008,
   ),
-  233 => 
+  223 => 
   array (
     'id' => 514,
     'name' => 'Sevan',
@@ -2107,7 +2017,7 @@ return array (
     'latitude' => 40.5473,
     'longitude' => 44.94171,
   ),
-  234 => 
+  224 => 
   array (
     'id' => 515,
     'name' => 'Shaghat',
@@ -2116,7 +2026,7 @@ return array (
     'latitude' => 39.55698,
     'longitude' => 45.90727,
   ),
-  235 => 
+  225 => 
   array (
     'id' => 516,
     'name' => 'Shahumyan',
@@ -2125,16 +2035,7 @@ return array (
     'latitude' => 39.94171,
     'longitude' => 44.57233,
   ),
-  236 => 
-  array (
-    'id' => 517,
-    'name' => 'Shahumyan',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.77482,
-    'longitude' => 44.54596,
-  ),
-  237 => 
+  226 => 
   array (
     'id' => 518,
     'name' => 'Shatin',
@@ -2143,7 +2044,7 @@ return array (
     'latitude' => 39.83612,
     'longitude' => 45.30292,
   ),
-  238 => 
+  227 => 
   array (
     'id' => 519,
     'name' => 'Shenavan',
@@ -2152,16 +2053,7 @@ return array (
     'latitude' => 40.05548,
     'longitude' => 43.93048,
   ),
-  239 => 
-  array (
-    'id' => 520,
-    'name' => 'Shenavan',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.48328,
-    'longitude' => 44.38348,
-  ),
-  240 => 
+  228 => 
   array (
     'id' => 521,
     'name' => 'Shinuhayr',
@@ -2170,7 +2062,7 @@ return array (
     'latitude' => 39.4367,
     'longitude' => 46.31787,
   ),
-  241 => 
+  229 => 
   array (
     'id' => 522,
     'name' => 'Shirak',
@@ -2179,7 +2071,7 @@ return array (
     'latitude' => 40.84042,
     'longitude' => 43.91582,
   ),
-  242 => 
+  230 => 
   array (
     'id' => 523,
     'name' => 'Shirakamut',
@@ -2188,7 +2080,7 @@ return array (
     'latitude' => 40.86056,
     'longitude' => 44.15278,
   ),
-  243 => 
+  231 => 
   array (
     'id' => 524,
     'name' => 'Shnogh',
@@ -2197,7 +2089,7 @@ return array (
     'latitude' => 41.14693,
     'longitude' => 44.84043,
   ),
-  244 => 
+  232 => 
   array (
     'id' => 525,
     'name' => 'Sis',
@@ -2206,7 +2098,7 @@ return array (
     'latitude' => 40.05829,
     'longitude' => 44.38892,
   ),
-  245 => 
+  233 => 
   array (
     'id' => 526,
     'name' => 'Sisavan',
@@ -2215,7 +2107,7 @@ return array (
     'latitude' => 39.90802,
     'longitude' => 44.66721,
   ),
-  246 => 
+  234 => 
   array (
     'id' => 527,
     'name' => 'Solak',
@@ -2224,7 +2116,7 @@ return array (
     'latitude' => 40.46252,
     'longitude' => 44.70709,
   ),
-  247 => 
+  235 => 
   array (
     'id' => 528,
     'name' => 'Spandaryan',
@@ -2233,7 +2125,7 @@ return array (
     'latitude' => 40.66105,
     'longitude' => 44.01551,
   ),
-  248 => 
+  236 => 
   array (
     'id' => 529,
     'name' => 'Spitak',
@@ -2242,7 +2134,7 @@ return array (
     'latitude' => 40.83221,
     'longitude' => 44.26731,
   ),
-  249 => 
+  237 => 
   array (
     'id' => 530,
     'name' => 'Step’anavan',
@@ -2251,7 +2143,7 @@ return array (
     'latitude' => 41.00995,
     'longitude' => 44.38531,
   ),
-  250 => 
+  238 => 
   array (
     'id' => 531,
     'name' => 'Surenavan',
@@ -2260,7 +2152,7 @@ return array (
     'latitude' => 39.79449,
     'longitude' => 44.77508,
   ),
-  251 => 
+  239 => 
   array (
     'id' => 532,
     'name' => 'Tandzut',
@@ -2269,7 +2161,7 @@ return array (
     'latitude' => 40.06952,
     'longitude' => 44.07788,
   ),
-  252 => 
+  240 => 
   array (
     'id' => 533,
     'name' => 'Taronik',
@@ -2278,7 +2170,7 @@ return array (
     'latitude' => 40.13367,
     'longitude' => 44.19957,
   ),
-  253 => 
+  241 => 
   array (
     'id' => 534,
     'name' => 'Tashir',
@@ -2287,7 +2179,7 @@ return array (
     'latitude' => 41.12072,
     'longitude' => 44.28462,
   ),
-  254 => 
+  242 => 
   array (
     'id' => 535,
     'name' => 'Tegh',
@@ -2296,7 +2188,7 @@ return array (
     'latitude' => 39.55826,
     'longitude' => 46.48054,
   ),
-  255 => 
+  243 => 
   array (
     'id' => 536,
     'name' => 'Tsaghkaber',
@@ -2305,7 +2197,7 @@ return array (
     'latitude' => 40.79849,
     'longitude' => 44.10144,
   ),
-  256 => 
+  244 => 
   array (
     'id' => 537,
     'name' => 'Tsaghkadzor',
@@ -2314,7 +2206,7 @@ return array (
     'latitude' => 40.53259,
     'longitude' => 44.72025,
   ),
-  257 => 
+  245 => 
   array (
     'id' => 538,
     'name' => 'Tsaghkahovit',
@@ -2323,7 +2215,7 @@ return array (
     'latitude' => 40.63428,
     'longitude' => 44.22241,
   ),
-  258 => 
+  246 => 
   array (
     'id' => 539,
     'name' => 'Tsaghkunk’',
@@ -2332,7 +2224,7 @@ return array (
     'latitude' => 40.18048,
     'longitude' => 44.27228,
   ),
-  259 => 
+  247 => 
   array (
     'id' => 540,
     'name' => 'Tsiatsan',
@@ -2341,7 +2233,7 @@ return array (
     'latitude' => 40.1861,
     'longitude' => 44.26947,
   ),
-  260 => 
+  248 => 
   array (
     'id' => 541,
     'name' => 'Tsovagyugh',
@@ -2350,7 +2242,7 @@ return array (
     'latitude' => 40.63348,
     'longitude' => 44.96112,
   ),
-  261 => 
+  249 => 
   array (
     'id' => 542,
     'name' => 'Tsovak',
@@ -2359,7 +2251,7 @@ return array (
     'latitude' => 40.18254,
     'longitude' => 45.63286,
   ),
-  262 => 
+  250 => 
   array (
     'id' => 543,
     'name' => 'Tsovasar',
@@ -2368,7 +2260,7 @@ return array (
     'latitude' => 40.1382,
     'longitude' => 45.19096,
   ),
-  263 => 
+  251 => 
   array (
     'id' => 544,
     'name' => 'Tsovazard',
@@ -2377,7 +2269,7 @@ return array (
     'latitude' => 40.4751,
     'longitude' => 45.05011,
   ),
-  264 => 
+  252 => 
   array (
     'id' => 545,
     'name' => 'Tsovinar',
@@ -2386,7 +2278,7 @@ return array (
     'latitude' => 40.15959,
     'longitude' => 45.46786,
   ),
-  265 => 
+  253 => 
   array (
     'id' => 546,
     'name' => 'T’alin',
@@ -2395,7 +2287,7 @@ return array (
     'latitude' => 40.39172,
     'longitude' => 43.87793,
   ),
-  266 => 
+  254 => 
   array (
     'id' => 547,
     'name' => 'Urrut',
@@ -2404,7 +2296,7 @@ return array (
     'latitude' => 41.06778,
     'longitude' => 44.39628,
   ),
-  267 => 
+  255 => 
   array (
     'id' => 548,
     'name' => 'Ushi',
@@ -2413,7 +2305,7 @@ return array (
     'latitude' => 40.34729,
     'longitude' => 44.37512,
   ),
-  268 => 
+  256 => 
   array (
     'id' => 549,
     'name' => 'Vagharshapat',
@@ -2422,7 +2314,7 @@ return array (
     'latitude' => 40.16557,
     'longitude' => 44.29462,
   ),
-  269 => 
+  257 => 
   array (
     'id' => 550,
     'name' => 'Vaghashen',
@@ -2431,7 +2323,7 @@ return array (
     'latitude' => 40.13611,
     'longitude' => 45.33069,
   ),
-  270 => 
+  258 => 
   array (
     'id' => 551,
     'name' => 'Vahagni',
@@ -2440,7 +2332,7 @@ return array (
     'latitude' => 40.90698,
     'longitude' => 44.60873,
   ),
-  271 => 
+  259 => 
   array (
     'id' => 552,
     'name' => 'Vahan',
@@ -2449,7 +2341,7 @@ return array (
     'latitude' => 40.57549,
     'longitude' => 45.39769,
   ),
-  272 => 
+  260 => 
   array (
     'id' => 553,
     'name' => 'Vanadzor',
@@ -2458,7 +2350,7 @@ return array (
     'latitude' => 40.80456,
     'longitude' => 44.4939,
   ),
-  273 => 
+  261 => 
   array (
     'id' => 554,
     'name' => 'Vardablur',
@@ -2467,7 +2359,7 @@ return array (
     'latitude' => 40.97083,
     'longitude' => 44.50889,
   ),
-  274 => 
+  262 => 
   array (
     'id' => 555,
     'name' => 'Vardadzor',
@@ -2476,7 +2368,7 @@ return array (
     'latitude' => 40.18701,
     'longitude' => 45.19212,
   ),
-  275 => 
+  263 => 
   array (
     'id' => 556,
     'name' => 'Vardenik',
@@ -2485,7 +2377,7 @@ return array (
     'latitude' => 40.13348,
     'longitude' => 45.44311,
   ),
-  276 => 
+  264 => 
   array (
     'id' => 557,
     'name' => 'Vardenis',
@@ -2494,7 +2386,7 @@ return array (
     'latitude' => 40.18329,
     'longitude' => 45.73053,
   ),
-  277 => 
+  265 => 
   array (
     'id' => 558,
     'name' => 'Varser',
@@ -2503,7 +2395,7 @@ return array (
     'latitude' => 40.55548,
     'longitude' => 44.90832,
   ),
-  278 => 
+  266 => 
   array (
     'id' => 559,
     'name' => 'Vayk’',
@@ -2512,7 +2404,7 @@ return array (
     'latitude' => 39.6889,
     'longitude' => 45.46668,
   ),
-  279 => 
+  267 => 
   array (
     'id' => 560,
     'name' => 'Vedi',
@@ -2521,7 +2413,7 @@ return array (
     'latitude' => 39.91388,
     'longitude' => 44.7251,
   ),
-  280 => 
+  268 => 
   array (
     'id' => 561,
     'name' => 'Verin Artashat',
@@ -2530,7 +2422,7 @@ return array (
     'latitude' => 39.99731,
     'longitude' => 44.58893,
   ),
-  281 => 
+  269 => 
   array (
     'id' => 562,
     'name' => 'Verin Dvin',
@@ -2539,7 +2431,7 @@ return array (
     'latitude' => 40.02434,
     'longitude' => 44.59038,
   ),
-  282 => 
+  270 => 
   array (
     'id' => 563,
     'name' => 'Verin Getashen',
@@ -2548,7 +2440,7 @@ return array (
     'latitude' => 40.13068,
     'longitude' => 45.25293,
   ),
-  283 => 
+  271 => 
   array (
     'id' => 564,
     'name' => 'Verishen',
@@ -2557,7 +2449,7 @@ return array (
     'latitude' => 39.53543,
     'longitude' => 46.32063,
   ),
-  284 => 
+  272 => 
   array (
     'id' => 565,
     'name' => 'Vernashen',
@@ -2566,7 +2458,7 @@ return array (
     'latitude' => 39.79236,
     'longitude' => 45.36389,
   ),
-  285 => 
+  273 => 
   array (
     'id' => 566,
     'name' => 'Voskehask',
@@ -2575,7 +2467,7 @@ return array (
     'latitude' => 40.76426,
     'longitude' => 43.77474,
   ),
-  286 => 
+  274 => 
   array (
     'id' => 567,
     'name' => 'Voskehat',
@@ -2584,7 +2476,7 @@ return array (
     'latitude' => 40.14172,
     'longitude' => 44.33069,
   ),
-  287 => 
+  275 => 
   array (
     'id' => 568,
     'name' => 'Vosketap’',
@@ -2593,7 +2485,7 @@ return array (
     'latitude' => 39.88114,
     'longitude' => 44.64917,
   ),
-  288 => 
+  276 => 
   array (
     'id' => 569,
     'name' => 'Voskevan',
@@ -2602,7 +2494,7 @@ return array (
     'latitude' => 41.12081,
     'longitude' => 45.06381,
   ),
-  289 => 
+  277 => 
   array (
     'id' => 570,
     'name' => 'Voskevaz',
@@ -2611,7 +2503,7 @@ return array (
     'latitude' => 40.27508,
     'longitude' => 44.30011,
   ),
-  290 => 
+  278 => 
   array (
     'id' => 571,
     'name' => 'Vostan',
@@ -2620,7 +2512,7 @@ return array (
     'latitude' => 39.96515,
     'longitude' => 44.55937,
   ),
-  291 => 
+  279 => 
   array (
     'id' => 572,
     'name' => 'Yeghegis',
@@ -2629,7 +2521,7 @@ return array (
     'latitude' => 39.87231,
     'longitude' => 45.3501,
   ),
-  292 => 
+  280 => 
   array (
     'id' => 573,
     'name' => 'Yeghegnadzor',
@@ -2638,7 +2530,7 @@ return array (
     'latitude' => 39.76389,
     'longitude' => 45.33239,
   ),
-  293 => 
+  281 => 
   array (
     'id' => 574,
     'name' => 'Yeghegnavan',
@@ -2647,7 +2539,7 @@ return array (
     'latitude' => 39.83893,
     'longitude' => 44.61951,
   ),
-  294 => 
+  282 => 
   array (
     'id' => 575,
     'name' => 'Yeghegnut',
@@ -2656,16 +2548,7 @@ return array (
     'latitude' => 40.08893,
     'longitude' => 44.16669,
   ),
-  295 => 
-  array (
-    'id' => 576,
-    'name' => 'Yeghegnut',
-    'country_id' => 12,
-    'country_code' => 'AM',
-    'latitude' => 40.90302,
-    'longitude' => 44.63155,
-  ),
-  296 => 
+  283 => 
   array (
     'id' => 577,
     'name' => 'Yeghvard',
@@ -2674,7 +2557,7 @@ return array (
     'latitude' => 40.32507,
     'longitude' => 44.48608,
   ),
-  297 => 
+  284 => 
   array (
     'id' => 578,
     'name' => 'Yeranos',
@@ -2683,7 +2566,7 @@ return array (
     'latitude' => 40.20428,
     'longitude' => 45.19209,
   ),
-  298 => 
+  285 => 
   array (
     'id' => 579,
     'name' => 'Yeraskhahun',
@@ -2692,7 +2575,7 @@ return array (
     'latitude' => 40.07233,
     'longitude' => 44.21948,
   ),
-  299 => 
+  286 => 
   array (
     'id' => 580,
     'name' => 'Yerazgavors',
@@ -2701,7 +2584,7 @@ return array (
     'latitude' => 40.69505,
     'longitude' => 43.74722,
   ),
-  300 => 
+  287 => 
   array (
     'id' => 581,
     'name' => 'Yerevan',
@@ -2710,7 +2593,7 @@ return array (
     'latitude' => 40.18111,
     'longitude' => 44.51361,
   ),
-  301 => 
+  288 => 
   array (
     'id' => 582,
     'name' => 'Zangakatun',
@@ -2719,7 +2602,7 @@ return array (
     'latitude' => 39.82233,
     'longitude' => 45.04169,
   ),
-  302 => 
+  289 => 
   array (
     'id' => 583,
     'name' => 'Zarr',
@@ -2728,7 +2611,7 @@ return array (
     'latitude' => 40.25848,
     'longitude' => 44.73328,
   ),
-  303 => 
+  290 => 
   array (
     'id' => 584,
     'name' => 'Zarrit’ap’',
@@ -2737,7 +2620,7 @@ return array (
     'latitude' => 39.63892,
     'longitude' => 45.51111,
   ),
-  304 => 
+  291 => 
   array (
     'id' => 585,
     'name' => 'Zorak',
@@ -2746,7 +2629,7 @@ return array (
     'latitude' => 40.09168,
     'longitude' => 44.39447,
   ),
-  305 => 
+  292 => 
   array (
     'id' => 586,
     'name' => 'Zoravan',
@@ -2755,7 +2638,7 @@ return array (
     'latitude' => 40.35553,
     'longitude' => 44.52228,
   ),
-  306 => 
+  293 => 
   array (
     'id' => 587,
     'name' => 'Zovaber',
@@ -2764,7 +2647,7 @@ return array (
     'latitude' => 40.56671,
     'longitude' => 44.79028,
   ),
-  307 => 
+  294 => 
   array (
     'id' => 588,
     'name' => 'Zovuni',
