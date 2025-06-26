@@ -57,5 +57,9 @@
   "config": {
     "optimize-autoloader": true,
     "preferred-install": "dist"
+  },
+  "support": {
+    "issues": "https://github.com/rahasistiyakofficial/laravel-geo-data/issues",
+    "source": "https://github.com/rahasistiyakofficial/laravel-geo-data"
   }
 }
