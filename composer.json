@@ -38,6 +38,21 @@
       ]
     }
   },
+  "keywords": [
+    "laravel",
+    "geo",
+    "geodata",
+    "location",
+    "country",
+    "region",
+    "city",
+    "currency",
+    "phone code",
+    "iso codes",
+    "geo database",
+    "laravel countries",
+    "laravel world data"
+  ],
   "config": {
     "optimize-autoloader": true,
     "preferred-install": "dist"
